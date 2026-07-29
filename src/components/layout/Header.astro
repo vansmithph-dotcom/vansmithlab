@@ -1,0 +1,30 @@
+---
+const navItems = [
+  { label: "Research", href: "/research" },
+  { label: "Projects", href: "/projects" },
+  { label: "Library", href: "/library" },
+  { label: "Founder", href: "/about" }
+];
+---
+
+<header class="site-header">
+  <div class="container">
+
+    <a href="/" class="logo">
+      VAN SMITH LAB
+    </a>
+
+    <nav class="nav">
+      {navItems.map((item) => (
+        <a href={item.href}>{item.label}</a>
+      ))}
+    </nav>
+
+    <div class="lang-switch">
+      <a href="#">EN</a>
+      <span>•</span>
+      <a href="#">RU</a>
+    </div>
+
+  </div>
+</header>
