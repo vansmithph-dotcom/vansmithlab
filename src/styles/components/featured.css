@@ -1,0 +1,13 @@
+.featured {
+  padding-bottom: var(--space-6);
+}
+
+.featured h2 {
+  margin-bottom: var(--space-4);
+}
+
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: var(--space-3);
+}

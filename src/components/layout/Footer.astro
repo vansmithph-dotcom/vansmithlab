@@ -1,11 +1,21 @@
+---
+const navItems = [
+  { label: "Research", href: "/research" },
+  { label: "Projects", href: "/projects" },
+  { label: "Library", href: "/library" },
+  { label: "Founder", href: "/about" },
+];
+
+const year = new Date().getFullYear();
+---
+
 <footer class="site-footer">
   <div class="container">
 
     <nav class="footer-nav">
-      <a href="/research">Research</a>
-      <a href="/projects">Projects</a>
-      <a href="/library">Library</a>
-      <a href="/about">Founder</a>
+      {navItems.map((item) => (
+        <a href={item.href}>{item.label}</a>
+      ))}
     </nav>
 
     <div class="footer-brand">
@@ -13,7 +23,7 @@
     </div>
 
     <p class="copyright">
-      © 2026 VAN SMITH LAB 2026. All rights reserved.
+      © {year} VAN SMITH LAB. All rights reserved.
     </p>
 
   </div>

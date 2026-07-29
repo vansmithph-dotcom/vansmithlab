@@ -1,23 +1,43 @@
-:root{
+:root {
+  /* Colors */
+  --bg: #111111;
+  --surface: #171717;
+  --border: #262626;
 
---bg:#111111;
---surface:#171717;
---border:#262626;
+  --text: #f5f5f5;
+  --text-secondary: #a3a3a3;
+  --accent: #d4b26a;
 
---text:#F5F5F5;
---text-secondary:#A3A3A3;
+  /* Layout */
+  --container: 1280px;
+  --content: 760px;
 
---accent:#D4B26A;
+  /* Spacing */
+  --space-1: 8px;
+  --space-2: 16px;
+  --space-3: 24px;
+  --space-4: 40px;
+  --space-5: 64px;
+  --space-6: 96px;
 
---container:1280px;
+  /* Typography */
+  --font-sans: Inter, system-ui, sans-serif;
+  --font-serif: "Cormorant Garamond", serif;
 
---space-1:8px;
---space-2:16px;
---space-3:24px;
---space-4:40px;
---space-5:64px;
---space-6:96px;
+  /* Radius */
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 20px;
 
---radius:12px;
+  /* Shadow */
+  --shadow-sm: 0 2px 8px rgb(0 0 0 / 0.2);
+  --shadow-md: 0 8px 24px rgb(0 0 0 / 0.3);
 
+  /* Animation */
+  --transition: 0.25s ease;
+
+  /* Layers */
+  --z-header: 100;
+  --z-modal: 1000;
+  --z-toast: 1100;
 }

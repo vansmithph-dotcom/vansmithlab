@@ -1,0 +1,53 @@
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: var(--z-header);
+  background: rgb(17 17 17 / 85%);
+  backdrop-filter: blur(16px);
+  border-bottom: 1px solid var(--border);
+}
+
+.site-header .container {
+  height: 74px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  font-size: 1rem;
+  font-weight: 700;
+  letter-spacing: .18em;
+  white-space: nowrap;
+}
+
+.nav {
+  display: flex;
+  align-items: center;
+  gap: 2.5rem;
+}
+
+.nav a {
+  color: var(--text-secondary);
+  transition: var(--transition);
+}
+
+.nav a:hover,
+.nav a.active {
+  color: var(--text);
+}
+
+.lang-switch {
+  display: flex;
+  align-items: center;
+  gap: .75rem;
+}
+
+.lang-switch a {
+  color: var(--text-secondary);
+}
+
+.lang-switch a:hover,
+.lang-switch a.active {
+  color: var(--accent);
+}

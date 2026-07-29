@@ -1,0 +1,19 @@
+.card {
+  padding: var(--space-3);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  background: var(--surface);
+  transition: var(--transition);
+}
+
+.card:hover {
+  border-color: var(--accent);
+}
+
+.card h3 {
+  margin-bottom: var(--space-2);
+}
+
+.card p {
+  color: var(--text-secondary);
+}

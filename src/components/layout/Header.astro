@@ -1,9 +1,11 @@
 ---
+const currentPath = Astro.url.pathname;
+
 const navItems = [
   { label: "Research", href: "/research" },
   { label: "Projects", href: "/projects" },
   { label: "Library", href: "/library" },
-  { label: "Founder", href: "/about" }
+  { label: "Founder", href: "/about" },
 ];
 ---
 
@@ -16,14 +18,19 @@ const navItems = [
 
     <nav class="nav">
       {navItems.map((item) => (
-        <a href={item.href}>{item.label}</a>
+        <a
+          href={item.href}
+          class:list={{ active: currentPath === item.href }}
+        >
+          {item.label}
+        </a>
       ))}
     </nav>
 
     <div class="lang-switch">
-      <a href="#">EN</a>
+      <a href="/en" class="active">EN</a>
       <span>•</span>
-      <a href="#">RU</a>
+      <a href="/ru">RU</a>
     </div>
 
   </div>

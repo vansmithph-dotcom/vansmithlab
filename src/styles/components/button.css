@@ -1,0 +1,16 @@
+.button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 14px 28px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  color: var(--text);
+  background: transparent;
+  transition: var(--transition);
+}
+
+.button:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}

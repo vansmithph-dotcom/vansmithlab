@@ -1,45 +1,10 @@
 ---
-import Layout from "../layouts/Layout.astro";
+import Layout from "@layouts/Layout.astro";
+import Hero from "@components/home/Hero.astro";
+import FeaturedResearch from "@components/home/FeaturedResearch.astro";
 ---
 
 <Layout title="VAN SMITH LAB">
-
-<section class="hero">
-    <p class="eyebrow">Luxury Fashion Research</p>
-
-    <h1>VAN SMITH LAB</h1>
-
-    <p class="lead">
-        Researching the visual language of luxury brands,
-        editorial photography and AI creative direction.
-    </p>
-
-    <a href="/research" class="button">
-        Explore Research →
-    </a>
-</section>
-
-<section class="featured">
-    <h2>Featured Research</h2>
-
-    <div class="cards">
-
-        <article class="card">
-            <h3>The DNA of Prada</h3>
-            <p>Luxury Brand Research</p>
-        </article>
-
-        <article class="card">
-            <h3>The DNA of Loewe</h3>
-            <p>Luxury Brand Research</p>
-        </article>
-
-        <article class="card">
-            <h3>The DNA of Cartier</h3>
-            <p>Luxury Brand Research</p>
-        </article>
-
-    </div>
-</section>
-
+  <Hero />
+  <FeaturedResearch />
 </Layout>
