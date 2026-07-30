@@ -325,3 +325,144 @@ main {
 
   background: var(--color-border);
 }
+
+/* =========================================================
+   Input
+========================================================= */
+
+.input {
+  width: 100%;
+
+  padding: .875rem 1rem;
+
+  background: var(--color-surface);
+
+  color: var(--color-text);
+
+  border: 1px solid var(--color-border);
+
+  border-radius: var(--radius-md);
+
+  font: inherit;
+
+  transition:
+    border-color .2s ease,
+    background-color .2s ease;
+}
+
+.input::placeholder {
+  color: var(--color-text-secondary);
+}
+
+.input:focus {
+  outline: none;
+  border-color: var(--color-text-secondary);
+}
+
+/* =========================================================
+   Article
+========================================================= */
+
+.article-body {
+  max-width: 72ch;
+}
+
+.article-body > *:first-child {
+  margin-top: 0;
+}
+
+.article-body h1,
+.article-body h2,
+.article-body h3,
+.article-body h4,
+.article-body h5,
+.article-body h6 {
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+
+  line-height: 1.15;
+}
+
+.article-body p {
+  margin: 1.25rem 0;
+
+  line-height: 1.8;
+
+  color: var(--color-text-secondary);
+}
+
+.article-body ul,
+.article-body ol {
+  margin: 1.5rem 0;
+  padding-left: 1.5rem;
+}
+
+.article-body li {
+  margin: .5rem 0;
+}
+
+.article-body strong {
+  color: var(--color-text);
+}
+
+.article-body a {
+  color: inherit;
+
+  text-decoration: underline;
+}
+
+.article-body img {
+  width: 100%;
+
+  border-radius: var(--radius-lg);
+
+  margin: 2rem 0;
+}
+
+.article-body blockquote {
+  margin: 2rem 0;
+
+  padding-left: 1.5rem;
+
+  border-left: 2px solid var(--color-border);
+
+  color: var(--color-text-secondary);
+
+  font-style: italic;
+}
+
+.article-body hr {
+  margin: 3rem 0;
+
+  border: none;
+
+  border-top: 1px solid var(--color-border);
+}
+
+.article-body code {
+  padding: .15rem .35rem;
+
+  border-radius: var(--radius-sm);
+
+  background: var(--color-surface);
+
+  font-size: .9em;
+}
+
+.article-body pre {
+  overflow-x: auto;
+
+  margin: 2rem 0;
+
+  padding: 1.25rem;
+
+  border-radius: var(--radius-lg);
+
+  background: var(--color-surface);
+}
+
+.article-body pre code {
+  padding: 0;
+
+  background: transparent;
+}
