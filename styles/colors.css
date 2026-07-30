@@ -1,0 +1,14 @@
+:root {
+  --background: #0a0a0a;
+  --surface: #111111;
+
+  --text-primary: #ffffff;
+  --text-secondary: #b3b3b3;
+  --text-muted: #777777;
+
+  --border: #262626;
+
+  --accent: #ffffff;
+
+  --max-width: 1440px;
+}

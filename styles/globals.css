@@ -1,0 +1,69 @@
+@import "../styles/index.css";
+
+*,
+*::before,
+*::after {
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+html {
+
+    color-scheme: dark;
+
+    scroll-behavior: smooth;
+
+}
+
+body {
+
+    background: var(--color-bg);
+
+    color: var(--color-text);
+
+    font-family: var(--font-family);
+
+    font-size: var(--text-base);
+
+    line-height: var(--line-height);
+
+    min-height: 100vh;
+
+    text-rendering: optimizeLegibility;
+
+    -webkit-font-smoothing: antialiased;
+
+}
+
+img {
+
+    display: block;
+
+    max-width: 100%;
+
+    height: auto;
+
+}
+
+a {
+
+    color: inherit;
+
+    text-decoration: none;
+
+}
+
+button {
+
+    font: inherit;
+
+    cursor: pointer;
+
+    border: none;
+
+    background: none;
+
+}

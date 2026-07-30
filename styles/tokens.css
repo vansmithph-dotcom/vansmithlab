@@ -1,0 +1,35 @@
+:root {
+
+  /* Colors */
+
+  --color-bg: #0A0A0A;
+  --color-surface: #111111;
+
+  --color-text: #FFFFFF;
+  --color-text-secondary: #C5C5C5;
+  --color-text-muted: #7D7D7D;
+
+  --color-border: #262626;
+
+  --color-accent: #FFFFFF;
+
+  /* Fluid spacing */
+
+  --space-xs: clamp(4px, 0.3vw, 6px);
+  --space-sm: clamp(8px, 0.6vw, 12px);
+  --space-md: clamp(16px, 1vw, 20px);
+  --space-lg: clamp(24px, 1.6vw, 32px);
+  --space-xl: clamp(40px, 3vw, 64px);
+  --space-2xl: clamp(64px, 5vw, 120px);
+
+  /* Radius */
+
+  --radius-sm: 8px;
+  --radius-md: 16px;
+  --radius-lg: 24px;
+
+  /* Layout */
+
+  --container-max: 1600px;
+
+}
