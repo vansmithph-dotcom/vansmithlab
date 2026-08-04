@@ -1,0 +1,63 @@
+# Knowledge Model and Taxonomy
+
+## Core model
+
+The smallest durable unit is not an article but a **knowledge object**. It has a permanent ID, a type, localized labels, verified claims, sources, relations, chronology, media and change history.
+
+An **article** is a structured interpretation or explanation built from one or more objects. A **glossary entry** is a concise object definition. A **timeline** is a view of dated claims. A **gallery** is a curated media view. An **analysis** is a signed or institutional argument that cites objects without rewriting their factual record.
+
+## Object families
+
+| Family | Examples |
+| --- | --- |
+| People and organizations | designer, architect, artist, photographer, studio, brand, house, school, publisher, museum |
+| Designed things | garment, product, collection, campaign, object, building, interior, book, film, magazine |
+| Design language | style, movement, technique, material, colour, typeface, silhouette, pattern, visual device |
+| Context | event, exhibition, place, city, country, period, technology, economic/social/religious context |
+| Digital practice | AI model, software, workflow, prompt, equipment, camera, lighting method |
+| Editorial structures | research, essay, case study, glossary term, timeline, gallery, video, collection |
+
+## Required object fields
+
+```yaml
+id: permanent_machine_id
+type: controlled_object_type
+canonical_locale: ru
+lifecycle_state: researching
+revision: 1
+title_ru: ""
+slug_ru: ""
+summary_ru: ""
+verification_state: partially_verified
+confidence_score: 0.00
+created_at: ISO-8601
+updated_at: ISO-8601
+```
+
+## Claims and citations
+
+Every material factual statement becomes a separate claim with its own:
+
+- Russian canonical wording;
+- claim type: factual, attribution, date, causal, descriptive, quantitative or disputed;
+- verification state and confidence score;
+- citations to specific source locations;
+- update/retraction history.
+
+This is what makes an encyclopedia, translation and AI automation reliable: a paragraph can change, but a claim remains addressable.
+
+## Relationship grammar
+
+Relations are directed, typed and evidenced. Core verbs include: `created_by`, `designed_by`, `photographed_by`, `made_for`, `part_of`, `uses`, `influenced_by`, `inspired_by`, `located_in`, `shown_at`, `published_in`, `predecessor_of`, `successor_of`, `collaborated_with`, `references`, `belongs_to_movement`.
+
+A relation that expresses a factual connection requires a supporting claim. “Related” may be used only as an editorial discovery label and must include a rationale.
+
+## Taxonomy rules
+
+Use three distinct systems:
+
+- **Object types:** what the entity is; controlled and stable.
+- **Categories:** hierarchical browsing paths, such as `Fashion → Dress → Silhouette`.
+- **Tags:** non-hierarchical descriptors, such as `deconstruction`, `religion`, `nylon`.
+
+Do not use tags as a substitute for type or category. New taxonomy terms require a definition, a parent if hierarchical, localized labels and a short rationale.
