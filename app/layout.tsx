@@ -5,6 +5,10 @@ export const metadata: Metadata = {
   metadataBase: new URL("https://vansmithlab.com"),
   title: { default: "VANSMITHLAB — Design Knowledge Library", template: "%s — VANSMITHLAB" },
   description: "An independent, bilingual encyclopedia of design and visual culture.",
+  icons: {
+    icon: [{ url: "/icon.svg", type: "image/svg+xml" }],
+    shortcut: "/icon.svg",
+  },
   alternates: { canonical: "/ru" },
   openGraph: {
     type: "website",
