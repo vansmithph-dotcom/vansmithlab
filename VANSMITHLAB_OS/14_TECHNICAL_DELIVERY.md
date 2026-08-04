@@ -9,7 +9,8 @@ Next.js application
   → R2: media archive and derivatives
   → Queues + KV: workflows, retries, locks, caches
   → GitHub: code, OS, approved Markdown, migrations
-  → Weavy.ai: orchestration across AI and platform jobs
+  → GitHub Actions: initial scheduled/manual orchestration and Git release handoff
+  → Figma Weave: optional visual workflow execution from approved media briefs
 ```
 
 ## Repository structure
@@ -34,7 +35,7 @@ tests/                # unit, integration, accessibility and release tests
 5. Add search, relations, citations and revision history.
 6. Add English/localization pipeline.
 7. Add media storage and derivatives.
-8. Connect Weavy workflows and AI role adapters.
+8. Connect GitHub Actions and AI role adapters; add Figma Weave only for approved media briefs.
 9. Add distribution only after release/correction loop works.
 
 ## Build gates

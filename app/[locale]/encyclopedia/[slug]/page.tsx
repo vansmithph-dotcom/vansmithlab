@@ -1,15 +1,21 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { TrustPanel } from "@/components/TrustPanel";
+import { PublishedArticle } from "@/components/PublishedArticle";
+import { getContent, listContent } from "@/lib/content";
 import { copy, isLocale, objectSamples } from "@/lib/site-data";
 
 export function generateStaticParams() {
-  return objectSamples.flatMap((object) => ["ru", "en"].map((locale) => ({ locale, slug: object.slug })));
+  const samples = objectSamples.flatMap((object) => ["ru", "en"].map((locale) => ({ locale, slug: object.slug })));
+  const releases = listContent().filter((item) => item.content_type === "encyclopedia").map((item) => ({ locale: item.locale, slug: item.slug }));
+  return [...samples, ...releases].filter((item, index, all) => all.findIndex((candidate) => candidate.locale === item.locale && candidate.slug === item.slug) === index);
 }
 
 export default async function ObjectPage({ params }: { params: Promise<{ locale: string; slug: string }> }) {
   const { locale, slug } = await params;
   if (!isLocale(locale)) notFound();
+  const published = getContent(locale, "encyclopedia", slug);
+  if (published) return <PublishedArticle locale={locale} section="encyclopedia" content={published} />;
   const object = objectSamples.find((item) => item.slug === slug);
   if (!object) notFound();
   const labels = copy[locale].labels;

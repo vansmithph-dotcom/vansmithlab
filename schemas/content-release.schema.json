@@ -1,0 +1,24 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "VANSMITHLAB content release",
+  "type": "object",
+  "required": ["content_id", "primary_object_id", "content_type", "locale", "slug", "title", "summary", "state", "source_locale", "source_revision", "verification_state", "confidence_score", "claim_ids", "source_ids", "last_reviewed", "body_hash"],
+  "properties": {
+    "content_id": { "type": "string" },
+    "primary_object_id": { "type": "string" },
+    "content_type": { "type": "string" },
+    "locale": { "enum": ["ru", "en"] },
+    "slug": { "type": "string" },
+    "title": { "type": "string" },
+    "summary": { "type": "string" },
+    "state": { "const": "published" },
+    "source_locale": { "const": "ru" },
+    "source_revision": { "type": "integer", "minimum": 1 },
+    "verification_state": { "enum": ["verified", "multi_source_verified"] },
+    "confidence_score": { "type": "number", "minimum": 0.85, "maximum": 1 },
+    "claim_ids": { "type": "array", "minItems": 1 },
+    "source_ids": { "type": "array", "minItems": 1 },
+    "last_reviewed": { "type": "string", "format": "date" },
+    "body_hash": { "type": "string" }
+  }
+}

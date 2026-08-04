@@ -7,12 +7,17 @@
 | ChatGPT | intake, project planning, briefs, schema-aware classification, metadata, relation candidates, localization routing, implementation planning | claim a fact without evidence or bypass a release gate |
 | Claude | deep research, source audit, claim/fact ledger, editorial review, semantic translation validation and contradiction detection | invent citations, hide conflict or make undocumented policy |
 | Gemini | visual/video briefs, generation and visual quality check | present generated media as documentary evidence |
-| Weavy.ai | workflow orchestration, schedules, retries, webhooks, provider handoffs | own canonical knowledge or silently alter policy |
+| GitHub Actions + Cloudflare | workflow orchestration, schedules, retries, release handoffs and deployment | make editorial decisions or store provider secrets in source files |
+| Figma Weave (formerly Weavy.ai) | node-based visual production from an approved media brief | own canonical knowledge, approve evidence, or publish an untracked asset |
 | Cloudflare services | durable data, storage, queues, site delivery and monitoring hooks | make editorial decisions |
 
 ## Context builder
 
 No AI begins from an empty prompt. The context builder supplies the OS documents selected in `00_START_HERE.md`, current object/revision, relevant claims/citations, brief, language, target channel and previous workflow result.
+
+## Provider handoff order
+
+The default text workflow is `ChatGPT intake/structure → Gemini grounded source discovery → Claude evidence/editorial audit → ChatGPT Russian draft → Claude Russian fact-ledger review → ChatGPT English adaptation → Claude semantic parity review`. A provider may be temporarily replaced, but the producing model may never approve its own factual output. Figma Weave enters only after the text release has an approved media brief.
 
 ## Reproducibility
 

@@ -1,0 +1,75 @@
+name: VANSMITHLAB Content Automation
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "automation/requests/*.json"
+  workflow_dispatch:
+    inputs:
+      request_file:
+        description: "Path to a reviewed JSON request under automation/requests"
+        required: true
+        type: string
+  # Enable only after budgets and request intake are confirmed:
+  # schedule:
+  #   - cron: "17 4 * * 2"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: vansmithlab-content-${{ inputs.request_file || github.sha }}
+  cancel-in-progress: false
+
+jobs:
+  produce:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    env:
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      OPENAI_MODEL: ${{ vars.OPENAI_MODEL || 'gpt-5-mini' }}
+      ANTHROPIC_MODEL: ${{ vars.ANTHROPIC_MODEL || 'claude-sonnet-4-6' }}
+      GEMINI_MODEL: ${{ vars.GEMINI_MODEL || 'gemini-3.1-pro-preview' }}
+      WEAVE_MEDIA_WEBHOOK_URL: ${{ secrets.WEAVE_MEDIA_WEBHOOK_URL }}
+      WEAVE_MEDIA_WEBHOOK_SECRET: ${{ secrets.WEAVE_MEDIA_WEBHOOK_SECRET }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Resolve content request
+        id: request
+        shell: bash
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            FILE="${{ inputs.request_file }}"
+          else
+            FILE="$(git diff --name-only "${{ github.event.before }}" "${{ github.sha }}" -- 'automation/requests/*.json' | tail -n 1)"
+          fi
+          test -n "$FILE" && test -f "$FILE"
+          echo "file=$FILE" >> "$GITHUB_OUTPUT"
+      - name: Validate existing releases
+        run: npm run content:validate
+      - name: Produce release
+        run: npm run content:run -- --request "${{ steps.request.outputs.file }}"
+      - name: Validate generated release
+        run: npm run content:validate
+      - name: Quality gates
+        run: |
+          npm run lint
+          npm run build
+      - name: Commit approved release
+        run: |
+          git config user.name "vansmithlab-editor"
+          git config user.email "vansmithlab-editor@users.noreply.github.com"
+          git add content knowledge automation/media-briefs
+          git diff --cached --quiet && exit 0
+          git commit -m "Publish verified VANSMITHLAB content"
+          git push origin HEAD:main

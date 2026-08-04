@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "VANSMITHLAB content request",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["request_id", "topic", "content_type", "requested_at", "target_locales", "media_requested"],
+  "properties": {
+    "request_id": { "type": "string", "pattern": "^req_[a-z0-9_-]+$" },
+    "topic": { "type": "string", "minLength": 8 },
+    "content_type": { "enum": ["encyclopedia", "glossary", "research", "case_study", "visual_analysis", "timeline", "collection", "analysis"] },
+    "requested_at": { "type": "string", "format": "date-time" },
+    "target_locales": { "type": "array", "items": { "enum": ["ru", "en"] }, "contains": { "const": "ru" } },
+    "media_requested": { "type": "boolean" },
+    "author": { "type": "string" },
+    "scope": { "type": "string" },
+    "source_leads": { "type": "array", "items": { "type": "string", "format": "uri" } }
+  }
+}

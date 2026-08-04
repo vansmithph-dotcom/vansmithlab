@@ -43,7 +43,7 @@
 
 ## Phase 5 — Autonomous operations and distribution
 
-- Implement Weavy orchestration, retries, monitoring and the six escalation paths.
+- Harden GitHub Actions/Cloudflare orchestration, retries, monitoring and the six escalation paths; connect Figma Weave for approved visual workflows.
 - Build search/graph/SEO projections and correction propagation.
 - Activate one social channel at a time after end-to-end tests.
 
