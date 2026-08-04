@@ -1,4 +1,4 @@
-# Claude instructions — VAN SMITH LAB
+# Claude instructions — VANSMITHLAB
 
 Read and follow `VANSMITHLAB_OS/00_START_HERE.md` before starting any task. The documents in `VANSMITHLAB_OS/` are the active source of truth for content, visuals, data, site behaviour and automation; `docs/` is a source archive.
 
