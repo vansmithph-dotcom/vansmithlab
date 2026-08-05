@@ -5,6 +5,8 @@ import { assert, hash, readJson, root } from "./lib.mjs";
 const allowedTypes = new Set(["encyclopedia", "glossary", "research", "case_study", "visual_analysis", "timeline", "collection", "analysis"]);
 const allowedEscalations = new Set(["EVIDENCE_CONFLICT", "MISSING_PRIMARY_EVIDENCE", "RIGHTS_OR_BRAND_RISK", "EDITORIAL_CHOICE", "HIGH_IMPACT_CORRECTION", "UNRESOLVED_TRANSLATION"]);
 
+export const canonicalBody = (body) => body.replace(/\r\n?/g, "\n").trimEnd() + "\n";
+
 export function validateKnowledge(object) {
   assert(object.id && object.canonical_locale === "ru", `${object.id || "object"}: canonical locale must be ru`);
   assert(Number.isInteger(object.revision) && object.revision > 0, `${object.id}: invalid revision`);
@@ -34,7 +36,7 @@ export async function validateRelease(metadata, body, knowledge) {
   assert(metadata.source_locale === "ru", `${metadata.content_id}: source locale must be ru`);
   assert(metadata.source_revision === knowledge.revision, `${metadata.content_id}: stale source revision`);
   assert(metadata.confidence_score >= 0.85, `${metadata.content_id}: confidence below 0.85`);
-  assert(metadata.body_hash === hash(body.trimEnd() + "\n"), `${metadata.content_id}: body hash mismatch`);
+  assert(metadata.body_hash === hash(canonicalBody(body)), `${metadata.content_id}: body hash mismatch`);
   const claims = new Set(knowledge.claims.map((claim) => claim.id));
   for (const id of metadata.claim_ids || []) assert(claims.has(id), `${metadata.content_id}: unknown claim ${id}`);
   assert(metadata.claim_ids?.length > 0, `${metadata.content_id}: no claims linked`);
