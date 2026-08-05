@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 import ReactMarkdown from "react-markdown";
 import type { PublishedContent } from "@/lib/content";
 import type { Locale } from "@/lib/site-data";
@@ -9,8 +10,15 @@ const labels = {
 } as const;
 
 export function PublishedArticle({ locale, section, content }: { locale: Locale; section: string; content: PublishedContent }) {
-  const { metadata, body, sources } = content;
+  const { metadata, body, sources, citations } = content;
   const text = labels[locale];
+  const sourceById = new Map(sources.map((source, index) => [source.id, { source, number: index + 1 }]));
+  const citationByClaim = new Map(citations.map((citation) => [citation.claim_id, citation]));
+  const renderedBody = body.replace(/\[\^([A-Za-z0-9_-]+)\]/g, (marker, claimId: string) => {
+    const citation = citationByClaim.get(claimId);
+    const target = citation ? sourceById.get(citation.source_id) : undefined;
+    return target ? `[${target.number}](${target.source.url} "${target.source.title.replaceAll('"', "'")}")` : marker;
+  });
   return (
     <article className="shell object-page published-article">
       <Link className="back-link" href={`/${locale}/${section}`}>← {text.back}</Link>
@@ -23,8 +31,12 @@ export function PublishedArticle({ locale, section, content }: { locale: Locale;
           <div><span>{text.revision}</span><strong>{metadata.source_revision}</strong></div>
         </aside>
       </header>
+      {metadata.hero_image && <figure className="article-hero">
+        <Image alt={metadata.hero_image.alt} height={941} priority sizes="(max-width: 1280px) 100vw, 1216px" src={metadata.hero_image.src} width={1672} />
+        <figcaption>{metadata.hero_image.caption} <span>{metadata.hero_image.credit}</span></figcaption>
+      </figure>}
       <div className="article-layout">
-        <div className="article-copy"><ReactMarkdown>{body}</ReactMarkdown></div>
+        <div className="article-copy"><ReactMarkdown components={{ a: ({ children, ...props }) => <a {...props} rel="noreferrer" target="_blank">{children}</a> }}>{renderedBody}</ReactMarkdown></div>
         <aside className="source-rail"><h2>{text.sources}</h2><ol>{sources.map((source) => <li key={source.id}><a href={source.url} rel="noreferrer" target="_blank">{source.title}</a><small>{source.publisher} · {source.accessed_at}</small></li>)}</ol><p className="ai-note">{text.ai}</p></aside>
       </div>
     </article>
