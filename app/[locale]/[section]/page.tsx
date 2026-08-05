@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 import { notFound } from "next/navigation";
 import { TrustPanel } from "@/components/TrustPanel";
 import { listContent } from "@/lib/content";
@@ -26,11 +27,28 @@ export default async function SectionPage({ params }: { params: Promise<{ locale
       <div className="listing-header"><p>{releases.length ? (locale === "ru" ? "Проверенные публикации" : "Verified publications") : content.labels.comingSoon}</p><span>{(releases.length || page.items.length).toString().padStart(2, "0")}</span></div>
       <div className="listing-grid">
         {releases.length ? releases.map((release, index) => (
-          <Link className="listing-card" href={`/${locale}/${section}/${release.slug}`} key={release.content_id}><span>{String(index + 1).padStart(2, "0")}</span><h2>{release.title}</h2><p>{release.summary}</p><div><small>{release.verification_state.replaceAll("_", " ")} · {Math.round(release.confidence_score * 100)}%</small><i>{content.labels.read} →</i></div></Link>
+          <Link className={`listing-card${release.hero_image ? " listing-card-with-media" : ""}`} href={`/${locale}/${section}/${release.slug}`} key={release.content_id}>
+            <span className="listing-card-copy">
+              <span className="listing-card-index">{String(index + 1).padStart(2, "0")}</span>
+              <h2>{release.title}</h2>
+              <span className="listing-card-summary">{release.summary}</span>
+              <span className="listing-card-meta"><small>{release.verification_state.replaceAll("_", " ")} · {Math.round(release.confidence_score * 100)}%</small><i>{content.labels.read} →</i></span>
+            </span>
+            {release.hero_image && <span className="listing-card-media">
+              <Image alt={release.hero_image.alt} fill sizes="(max-width: 560px) calc(100vw - 32px), (max-width: 1280px) 50vw, 608px" src={release.hero_image.src} />
+            </span>}
+          </Link>
         )) : page.items.map((item, index) => {
           const sample = objectSamples[index % objectSamples.length];
           const href = section === "encyclopedia" ? `/${locale}/encyclopedia/${sample.slug}` : `/${locale}/${section}`;
-          return <Link className="listing-card" href={href} key={`${item}-${index}`}><span>0{index + 1}</span><h2>{item}</h2><p>{section === "encyclopedia" ? sample.summary[locale] : page.text}</p><div><small>{section === "analysis" ? "ESSAY" : "KNOWLEDGE"}</small><i>{content.labels.read} ↗</i></div></Link>;
+          return <Link className="listing-card" href={href} key={`${item}-${index}`}>
+            <span className="listing-card-copy">
+              <span className="listing-card-index">0{index + 1}</span>
+              <h2>{item}</h2>
+              <span className="listing-card-summary">{section === "encyclopedia" ? sample.summary[locale] : page.text}</span>
+              <span className="listing-card-meta"><small>{section === "analysis" ? "ESSAY" : "KNOWLEDGE"}</small><i>{content.labels.read} ↗</i></span>
+            </span>
+          </Link>;
         })}
       </div>
     </section>

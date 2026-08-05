@@ -1,6 +1,6 @@
 import test from "node:test";
 import assert from "node:assert/strict";
-import { validateKnowledge } from "../scripts/automation/validate.mjs";
+import { canonicalBody, validateKnowledge } from "../scripts/automation/validate.mjs";
 
 const validObject = () => ({
   id: "obj_test", canonical_locale: "ru", revision: 1, verification_state: "verified", confidence_score: 0.9,
@@ -33,4 +33,9 @@ test("rejects an active high-grade contradiction", () => {
   const object = validObject();
   object.contradictions = [{ active: true, grade: "high" }];
   assert.throws(() => validateKnowledge(object), /contradiction/);
+});
+
+test("normalizes Windows and legacy Mac line endings before release hashing", () => {
+  assert.equal(canonicalBody("# Title\r\n\r\nBody\r\n"), "# Title\n\nBody\n");
+  assert.equal(canonicalBody("# Title\r\rBody\r"), "# Title\n\nBody\n");
 });
