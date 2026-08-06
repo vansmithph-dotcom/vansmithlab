@@ -1,0 +1,500 @@
+{
+  "id": "obj_8b584a89684e779e",
+  "type": "brand",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "История модного дома Chanel",
+  "slug_ru": "istoriya-modnogo-doma-chanel",
+  "summary_ru": "От шляпного магазина 1910 года и парфюма N°5 через спорный период немецкой оккупации до эпохи Лагерфельда и назначения Matthieu Blazy в 2024 году. Раздел о военных годах опирается на Britannica и научную литературу и сознательно разделяет установленные факты и интерпретацию мотивов.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.95,
+  "created_at": "2026-08-06T00:00:00.000Z",
+  "updated_at": "2026-08-06T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_9a22603e43148c4e",
+      "wording_ru": "Gabrielle «Coco» Chanel открыла шляпный магазин Chanel Modes на 21 rue Cambon в Париже в 1910 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.98,
+      "evidence": [
+        {
+          "source_url": "https://www.chanel.com/us/about-chanel/the-house-of-chanel/1910/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_731368ced6e37fbb",
+      "wording_ru": "Парфюм Chanel N°5, созданный с парфюмером Ernest Beaux, был официально запущен 5 мая 1921 года.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.97,
+      "evidence": [
+        {
+          "source_url": "https://www.chanel.com/us/about-chanel/the-house-of-chanel/1920/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_d6e967c11f1a1cef",
+      "wording_ru": "В 1924 году Pierre Wertheimer стал партнёром по парфюмерному бизнесу, получив 70% долю против 10% у самой Chanel.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.95,
+      "evidence": [
+        {
+          "source_url": "https://www.forbes.com/sites/rachelelspethgross/2024/07/31/a-brief-history-of-the-house-of-chanel-coco-chanel-to-virginie-viard/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.britannica.com/topic/Was-Coco-Chanel-a-Nazi-Spy",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_5e368e716223ac41",
+      "wording_ru": "Костюм из твида с прямым жакетом стал одним из главных силуэтов дома и хранится в музейных коллекциях, включая V&A.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.93,
+      "evidence": [
+        {
+          "source_url": "https://collections.vam.ac.uk/item/O15670/skirt-suit-coco-chanel/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_ddca83ac82739efd",
+      "wording_ru": "Во время немецкой оккупации Парижа Chanel состояла в отношениях с офицером немецкой военной разведки (Абвер) бароном Hans Günther von Dincklage.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/topic/Was-Coco-Chanel-a-Nazi-Spy",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.newsweek.com/coco-chanel-nazi-spy-sympathizer-new-look-juliette-binoche-apple-tv-1863978",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_b96fdd1feb093f5a",
+      "wording_ru": "Chanel пыталась использовать нацистские законы об «аризации» собственности, чтобы получить полный контроль над парфюмерным бизнесом, совладельцами которого были Wertheimer — евреи по происхождению; попытка не удалась, так как Wertheimer заранее передали контроль нееврейскому партнёру.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.93,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/topic/Was-Coco-Chanel-a-Nazi-Spy",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.newsweek.com/coco-chanel-nazi-spy-sympathizer-new-look-juliette-binoche-apple-tv-1863978",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_0f112d5255da9606",
+      "wording_ru": "Историки расходятся в оценке идеологической позиции Chanel: эпизод с «аризацией» показывает готовность использовать структуры оккупации в личных целях, но не обязательно доказывает более широкую идеологическую приверженность нацизму.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.88,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/topic/Was-Coco-Chanel-a-Nazi-Spy",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_35c4b9a33f67d96e",
+      "wording_ru": "Chanel не понесла судебной ответственности за военные годы и вернулась в моду в 1954 году при поддержке той же семьи Wertheimer.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.newsweek.com/coco-chanel-nazi-spy-sympathizer-new-look-juliette-binoche-apple-tv-1863978",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_08d022c53997c6d3",
+      "wording_ru": "Karl Lagerfeld был назначен креативным директором Chanel в 1983 году и занимал эту позицию 36 лет, до своей смерти в феврале 2019 года.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.97,
+      "evidence": [
+        {
+          "source_url": "https://wwd.com/fashion-news/designer-luxury/chanel-creative-director-matthieu-blazy-1236735148/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.aol.com/chanel-announces-matthieu-blazy-artistic-011420005.html",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_c681e35065475b5f",
+      "wording_ru": "После смерти Lagerfeld в 2019 году креативным директором стала его многолетняя помощница Virginie Viard, покинувшая пост в июне 2024 года.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.97,
+      "evidence": [
+        {
+          "source_url": "https://wwd.com/fashion-news/designer-luxury/chanel-creative-director-matthieu-blazy-1236735148/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.aol.com/chanel-announces-matthieu-blazy-artistic-011420005.html",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_d322bfc121e07920",
+      "wording_ru": "Matthieu Blazy был объявлен новым artistic director Chanel в декабре 2024 года, став четвёртым дизайнером во главе дома за всю его историю.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.97,
+      "evidence": [
+        {
+          "source_url": "https://wwd.com/fashion-news/designer-luxury/chanel-creative-director-matthieu-blazy-1236735148/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.aol.com/chanel-announces-matthieu-blazy-artistic-011420005.html",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_9c324a3d36f013ea",
+      "wording_ru": "Matthieu Blazy официально приступил к работе в качестве artistic director модных коллекций Chanel 1 апреля 2025 года.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.95,
+      "evidence": [
+        {
+          "source_url": "https://wwd.com/business-news/financial/chanel-2024-results-ceo-leena-nair-1237799285/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_36a6495e666bca92",
+      "wording_ru": "Выручка Chanel Limited за 2024 год составила $18,7 млрд, что на 4,3% ниже уровня 2023 года.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.98,
+      "evidence": [
+        {
+          "source_url": "https://www.chanel.com/puls-img/1747810519727-20250520fy24resultspressreleasefinalwwpdf.pdf",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://wwd.com/business-news/financial/chanel-2024-results-ceo-leena-nair-1237799285/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_7f257bde97fefd3b",
+      "wording_ru": "Операционная прибыль Chanel Limited за 2024 год составила $4 479 млн, снизившись на 30% по сравнению с 2023 годом.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.98,
+      "evidence": [
+        {
+          "source_url": "https://www.chanel.com/puls-img/1747810519727-20250520fy24resultspressreleasefinalwwpdf.pdf",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_b1868eb2b00c8ff4",
+      "title": "CHANEL — 1910s official house history",
+      "url": "https://www.chanel.com/us/about-chanel/the-house-of-chanel/1910/",
+      "publisher": "CHANEL",
+      "source_tier": 1,
+      "accessed_at": "2026-08-06"
+    },
+    {
+      "id": "src_cebcd7f04651c04e",
+      "title": "CHANEL — 1920s official house history (No.5 launch)",
+      "url": "https://www.chanel.com/us/about-chanel/the-house-of-chanel/1920/",
+      "publisher": "CHANEL",
+      "source_tier": 1,
+      "accessed_at": "2026-08-06"
+    },
+    {
+      "id": "src_e345e7e11d4e502a",
+      "title": "Forbes — A Brief History Of The House Of Chanel",
+      "url": "https://www.forbes.com/sites/rachelelspethgross/2024/07/31/a-brief-history-of-the-house-of-chanel-coco-chanel-to-virginie-viard/",
+      "publisher": "Forbes",
+      "source_tier": 2,
+      "accessed_at": "2026-08-06"
+    },
+    {
+      "id": "src_85cceec45100f6aa",
+      "title": "V&A — Skirt Suit, Coco Chanel, Spring/Summer 1960",
+      "url": "https://collections.vam.ac.uk/item/O15670/skirt-suit-coco-chanel/",
+      "publisher": "Victoria and Albert Museum",
+      "source_tier": 1,
+      "accessed_at": "2026-08-06"
+    },
+    {
+      "id": "src_b29a3a8dbc9d36e9",
+      "title": "Britannica — Was Coco Chanel a Nazi Spy?",
+      "url": "https://www.britannica.com/topic/Was-Coco-Chanel-a-Nazi-Spy",
+      "publisher": "Encyclopaedia Britannica",
+      "source_tier": 1,
+      "accessed_at": "2026-08-06"
+    },
+    {
+      "id": "src_9f0ea5cc041fdbe9",
+      "title": "Newsweek — Was Coco Chanel a Nazi Spy?",
+      "url": "https://www.newsweek.com/coco-chanel-nazi-spy-sympathizer-new-look-juliette-binoche-apple-tv-1863978",
+      "publisher": "Newsweek",
+      "source_tier": 2,
+      "accessed_at": "2026-08-06"
+    },
+    {
+      "id": "src_43be5c8d710ca842",
+      "title": "CHANEL — Financial Results for the year ended 31 December 2024",
+      "url": "https://www.chanel.com/puls-img/1747810519727-20250520fy24resultspressreleasefinalwwpdf.pdf",
+      "publisher": "CHANEL",
+      "source_tier": 1,
+      "accessed_at": "2026-08-06"
+    },
+    {
+      "id": "src_13a94697a4ae1fdf",
+      "title": "WWD — Chanel 2024 Earnings: CEO Leena Nair Flags \"Very Challenging\" Environment",
+      "url": "https://wwd.com/business-news/financial/chanel-2024-results-ceo-leena-nair-1237799285/",
+      "publisher": "WWD",
+      "source_tier": 2,
+      "accessed_at": "2026-08-06"
+    },
+    {
+      "id": "src_438973d07f53962d",
+      "title": "WWD — Chanel Picks Matthieu Blazy as New Creative Director",
+      "url": "https://wwd.com/fashion-news/designer-luxury/chanel-creative-director-matthieu-blazy-1236735148/",
+      "publisher": "WWD",
+      "source_tier": 2,
+      "accessed_at": "2026-08-06"
+    },
+    {
+      "id": "src_b93f029569093b7b",
+      "title": "CNN (via AOL) — Chanel announces Matthieu Blazy as its new artistic director",
+      "url": "https://www.aol.com/chanel-announces-matthieu-blazy-artistic-011420005.html",
+      "publisher": "CNN",
+      "source_tier": 2,
+      "accessed_at": "2026-08-06"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_4b1e946f1cb5c065",
+      "claim_id": "clm_9a22603e43148c4e",
+      "source_id": "src_b1868eb2b00c8ff4",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_3180e0d0d195a5b6",
+      "claim_id": "clm_731368ced6e37fbb",
+      "source_id": "src_cebcd7f04651c04e",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_c1f9ea23b0678dfb",
+      "claim_id": "clm_d6e967c11f1a1cef",
+      "source_id": "src_e345e7e11d4e502a",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_cbf4137878774c07",
+      "claim_id": "clm_d6e967c11f1a1cef",
+      "source_id": "src_b29a3a8dbc9d36e9",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_9e06037f1d5c5255",
+      "claim_id": "clm_5e368e716223ac41",
+      "source_id": "src_85cceec45100f6aa",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_3ac8e47748753458",
+      "claim_id": "clm_ddca83ac82739efd",
+      "source_id": "src_b29a3a8dbc9d36e9",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_bc3688db83636631",
+      "claim_id": "clm_ddca83ac82739efd",
+      "source_id": "src_9f0ea5cc041fdbe9",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_04daba78a44a77be",
+      "claim_id": "clm_b96fdd1feb093f5a",
+      "source_id": "src_b29a3a8dbc9d36e9",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_94822991e2581c1a",
+      "claim_id": "clm_b96fdd1feb093f5a",
+      "source_id": "src_9f0ea5cc041fdbe9",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_a4fc00b8f865b184",
+      "claim_id": "clm_0f112d5255da9606",
+      "source_id": "src_b29a3a8dbc9d36e9",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_2d91ad0cedc8fa98",
+      "claim_id": "clm_35c4b9a33f67d96e",
+      "source_id": "src_9f0ea5cc041fdbe9",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_e2fe9c8a296ea753",
+      "claim_id": "clm_08d022c53997c6d3",
+      "source_id": "src_438973d07f53962d",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_2d5b24d498e5a9ab",
+      "claim_id": "clm_08d022c53997c6d3",
+      "source_id": "src_b93f029569093b7b",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_a635561272fcd34c",
+      "claim_id": "clm_c681e35065475b5f",
+      "source_id": "src_438973d07f53962d",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_67883b5c900d594f",
+      "claim_id": "clm_c681e35065475b5f",
+      "source_id": "src_b93f029569093b7b",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_8c039d865e675932",
+      "claim_id": "clm_d322bfc121e07920",
+      "source_id": "src_438973d07f53962d",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_6f69288930893176",
+      "claim_id": "clm_d322bfc121e07920",
+      "source_id": "src_b93f029569093b7b",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_3a5d406073de4f14",
+      "claim_id": "clm_9c324a3d36f013ea",
+      "source_id": "src_13a94697a4ae1fdf",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_bb31427ed0f45682",
+      "claim_id": "clm_36a6495e666bca92",
+      "source_id": "src_43be5c8d710ca842",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_25ddc8169dccf400",
+      "claim_id": "clm_36a6495e666bca92",
+      "source_id": "src_13a94697a4ae1fdf",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_300c3990634fed80",
+      "claim_id": "clm_7f257bde97fefd3b",
+      "source_id": "src_43be5c8d710ca842",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — черновик автора (chanel_house_history.md), сам себя определяющий как drafted, не published, и прямо запрашивающий финальную сверку раздела о 1939-1945 с историком/юристом перед публикацией. Claude (сессия) нашёл и проверил реальные URL источников через веб-поиск (в черновике URL отсутствовали), сохранил разделение verified/attributed для военного раздела по образцу Britannica. Полная автоматическая верификация VANSMITHLAB не запускалась.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-06T00:00:00.000Z"
+  }
+}

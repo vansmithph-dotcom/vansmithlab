@@ -1,0 +1,410 @@
+{
+  "id": "obj_accde3ccaa7f717a",
+  "type": "brand",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "История модного дома Louis Vuitton",
+  "slug_ru": "istoriya-modnogo-doma-louis-vuitton",
+  "summary_ru": "Исследовательское досье о доме Louis Vuitton: от мастерской 1837 года и системы замков Georges Vuitton через эпоху Marc Jacobs и Nicolas Ghesquière до назначения Pharrell Williams в 2023 году и запуска La Beauté в 2025-м. Часть претензий из исходного досье не имела проверяемых ссылок и не вошла в публичный релиз.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.93,
+  "created_at": "2026-08-06T00:00:00.000Z",
+  "updated_at": "2026-08-06T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_258abe142ec7e08a",
+      "wording_ru": "Louis Vuitton начал обучение у Monsieur Maréchal в Париже в 1837 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.93,
+      "evidence": [
+        {
+          "source_url": "https://us.louisvuitton.com/eng-us/magazine/articles/a-legendary-history",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_dfeb1180d37de1c1",
+      "wording_ru": "Louis Vuitton открыл собственную мастерскую на Rue Neuve-des-Capucines рядом с Place Vendôme.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.93,
+      "evidence": [
+        {
+          "source_url": "https://us.louisvuitton.com/eng-us/magazine/articles/a-legendary-history",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_b14855f08a6c2de7",
+      "wording_ru": "Мастерская в Asnières открылась в 1859 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.93,
+      "evidence": [
+        {
+          "source_url": "https://us.louisvuitton.com/eng-us/magazine/articles/a-legendary-history",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_ac1bb0bb7c8b6d1b",
+      "wording_ru": "В 1886 году Georges Vuitton разработал систему замка с двумя пружинными защёлками для дорожных сундуков.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.93,
+      "evidence": [
+        {
+          "source_url": "https://us.louisvuitton.com/eng-us/magazine/articles/a-legendary-history",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_1dd977670fdf7530",
+      "wording_ru": "Монограмма Monogram отмечала столетний юбилей в 1996 году, что указывает на её создание около 1896 года.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.93,
+      "evidence": [
+        {
+          "source_url": "https://us.louisvuitton.com/eng-us/magazine/articles/a-legendary-history",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_254887ecfb39fca8",
+      "wording_ru": "LVMH создан в 1987 году объединением Moët Hennessy и Louis Vuitton.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.93,
+      "evidence": [
+        {
+          "source_url": "https://www.lvmh.com/en/our-group/history",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_4906aa46f0571218",
+      "wording_ru": "Marc Jacobs руководил Louis Vuitton с 1997 по 2013 год и ввёл в дом мужской и женский ready-to-wear.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.93,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Marc-Jacobs",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.entrupy.com/louis-vuitton-creative-directors-icons-that-revolutionized-fashion/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_59a4f602c30b2f1c",
+      "wording_ru": "Nicolas Ghesquière является Artistic Director женских коллекций Louis Vuitton с 2013 года.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.93,
+      "evidence": [
+        {
+          "source_url": "https://us.louisvuitton.com/eng-us/magazine/articles/nicolas-ghesquiere",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_3a9598e1962d1c73",
+      "wording_ru": "Virgil Abloh возглавлял мужское направление Louis Vuitton с 2018 года до своей смерти в ноябре 2021 года.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.93,
+      "evidence": [
+        {
+          "source_url": "https://www.cnn.com/style/article/louis-vuitton-pharrell-williams-mens-creative-director/index.html",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_ec7e9ba7f9a270fa",
+      "wording_ru": "Pharrell Williams назначен Men's Creative Director Louis Vuitton в феврале 2023 года.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.93,
+      "evidence": [
+        {
+          "source_url": "https://us.louisvuitton.com/eng-us/magazine/articles/pharrell-williams",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.cnn.com/style/article/louis-vuitton-pharrell-williams-mens-creative-director/index.html",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_7dc45e7b1a742ec1",
+      "wording_ru": "La Beauté Louis Vuitton запущена в 2025 году под руководством Dame Pat McGrath.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.93,
+      "evidence": [
+        {
+          "source_url": "https://www.lvmh.com/en/news-lvmh/louis-vuitton-unveils-la-beaute-louis-vuitton-a-new-creative-universe-led-by-dame-pat-mcgrath",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_8d41e676417a5bd9",
+      "wording_ru": "Louis Vuitton — часть сегмента Fashion & Leather Goods LVMH, крупнейшего дивизиона группы по выручке.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.93,
+      "evidence": [
+        {
+          "source_url": "https://www.lvmh.com/en/publications/solid-performance-in-a-disrupted-global-economic-and-geopolitical-environment",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_2447d50e324e9250",
+      "wording_ru": "Louis Vuitton официально позиционирует себя как Cultural Maison.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.93,
+      "evidence": [
+        {
+          "source_url": "https://us.louisvuitton.com/eng-us/magazine/articles/pharrell-williams",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_6c35e1f2ea0516c0",
+      "title": "Marc Jacobs | Britannica",
+      "url": "https://www.britannica.com/biography/Marc-Jacobs",
+      "publisher": "Encyclopaedia Britannica",
+      "source_tier": 2,
+      "accessed_at": "2026-08-06"
+    },
+    {
+      "id": "src_93bab8bfee8ab9d8",
+      "title": "Pharrell Williams will be Louis Vuitton's next men's creative director",
+      "url": "https://www.cnn.com/style/article/louis-vuitton-pharrell-williams-mens-creative-director/index.html",
+      "publisher": "CNN",
+      "source_tier": 2,
+      "accessed_at": "2026-08-06"
+    },
+    {
+      "id": "src_fad8cb89a20b3005",
+      "title": "Louis Vuitton Creative Directors: Icons That Revolutionized Fashion",
+      "url": "https://www.entrupy.com/louis-vuitton-creative-directors-icons-that-revolutionized-fashion/",
+      "publisher": "Entrupy",
+      "source_tier": 2,
+      "accessed_at": "2026-08-06"
+    },
+    {
+      "id": "src_c445c000c856b084",
+      "title": "Louis Vuitton — A Legendary History (official heritage page)",
+      "url": "https://us.louisvuitton.com/eng-us/magazine/articles/a-legendary-history",
+      "publisher": "Louis Vuitton",
+      "source_tier": 1,
+      "accessed_at": "2026-08-06"
+    },
+    {
+      "id": "src_f289a9424b172d91",
+      "title": "Nicolas Ghesquière | Louis Vuitton official profile",
+      "url": "https://us.louisvuitton.com/eng-us/magazine/articles/nicolas-ghesquiere",
+      "publisher": "Louis Vuitton",
+      "source_tier": 1,
+      "accessed_at": "2026-08-06"
+    },
+    {
+      "id": "src_dec9f50db69a09ee",
+      "title": "Pharrell Williams, new Men's Creative Director of Louis Vuitton",
+      "url": "https://us.louisvuitton.com/eng-us/magazine/articles/pharrell-williams",
+      "publisher": "Louis Vuitton",
+      "source_tier": 1,
+      "accessed_at": "2026-08-06"
+    },
+    {
+      "id": "src_d99645ab68976d60",
+      "title": "LVMH — History",
+      "url": "https://www.lvmh.com/en/our-group/history",
+      "publisher": "LVMH",
+      "source_tier": 1,
+      "accessed_at": "2026-08-06"
+    },
+    {
+      "id": "src_de32b854304c7004",
+      "title": "Louis Vuitton unveils La Beauté Louis Vuitton, led by Dame Pat McGrath",
+      "url": "https://www.lvmh.com/en/news-lvmh/louis-vuitton-unveils-la-beaute-louis-vuitton-a-new-creative-universe-led-by-dame-pat-mcgrath",
+      "publisher": "LVMH",
+      "source_tier": 1,
+      "accessed_at": "2026-08-06"
+    },
+    {
+      "id": "src_974fd39e6fa8815b",
+      "title": "LVMH — Solid performance in a disrupted global economic and geopolitical environment (2025 results)",
+      "url": "https://www.lvmh.com/en/publications/solid-performance-in-a-disrupted-global-economic-and-geopolitical-environment",
+      "publisher": "LVMH",
+      "source_tier": 1,
+      "accessed_at": "2026-08-06"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_a4b12f9bf3bb66d5",
+      "claim_id": "clm_258abe142ec7e08a",
+      "source_id": "src_c445c000c856b084",
+      "locator": "см. источник целиком",
+      "support": "Официальный или независимый источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_164674fbbacb60a5",
+      "claim_id": "clm_dfeb1180d37de1c1",
+      "source_id": "src_c445c000c856b084",
+      "locator": "см. источник целиком",
+      "support": "Официальный или независимый источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_e40d60f8ea0cd3fb",
+      "claim_id": "clm_b14855f08a6c2de7",
+      "source_id": "src_c445c000c856b084",
+      "locator": "см. источник целиком",
+      "support": "Официальный или независимый источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_faefe9b61fe837d1",
+      "claim_id": "clm_ac1bb0bb7c8b6d1b",
+      "source_id": "src_c445c000c856b084",
+      "locator": "см. источник целиком",
+      "support": "Официальный или независимый источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_2c0a5dafd9beb2fa",
+      "claim_id": "clm_1dd977670fdf7530",
+      "source_id": "src_c445c000c856b084",
+      "locator": "см. источник целиком",
+      "support": "Официальный или независимый источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_dfa60921927eba06",
+      "claim_id": "clm_254887ecfb39fca8",
+      "source_id": "src_d99645ab68976d60",
+      "locator": "см. источник целиком",
+      "support": "Официальный или независимый источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_8a16d25473b75a84",
+      "claim_id": "clm_4906aa46f0571218",
+      "source_id": "src_6c35e1f2ea0516c0",
+      "locator": "см. источник целиком",
+      "support": "Официальный или независимый источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_0619702a401b9644",
+      "claim_id": "clm_4906aa46f0571218",
+      "source_id": "src_fad8cb89a20b3005",
+      "locator": "см. источник целиком",
+      "support": "Официальный или независимый источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_9da26c816fa14ec2",
+      "claim_id": "clm_59a4f602c30b2f1c",
+      "source_id": "src_f289a9424b172d91",
+      "locator": "см. источник целиком",
+      "support": "Официальный или независимый источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_09c20556ce1aa358",
+      "claim_id": "clm_3a9598e1962d1c73",
+      "source_id": "src_93bab8bfee8ab9d8",
+      "locator": "см. источник целиком",
+      "support": "Официальный или независимый источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_e4495135dc553f35",
+      "claim_id": "clm_ec7e9ba7f9a270fa",
+      "source_id": "src_dec9f50db69a09ee",
+      "locator": "см. источник целиком",
+      "support": "Официальный или независимый источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_61a7233c2f805921",
+      "claim_id": "clm_ec7e9ba7f9a270fa",
+      "source_id": "src_93bab8bfee8ab9d8",
+      "locator": "см. источник целиком",
+      "support": "Официальный или независимый источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_9f04955a877cc347",
+      "claim_id": "clm_7dc45e7b1a742ec1",
+      "source_id": "src_de32b854304c7004",
+      "locator": "см. источник целиком",
+      "support": "Официальный или независимый источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_571be5ee886906b7",
+      "claim_id": "clm_8d41e676417a5bd9",
+      "source_id": "src_974fd39e6fa8815b",
+      "locator": "см. источник целиком",
+      "support": "Официальный или независимый источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_69f068c004c157c5",
+      "claim_id": "clm_2447d50e324e9250",
+      "source_id": "src_dec9f50db69a09ee",
+      "locator": "см. источник целиком",
+      "support": "Официальный или независимый источник подтверждает утверждение."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — research-досье автора без URL у источников. Claude (сессия) нашёл и проверил официальные/независимые ссылки веб-поиском для каждого включённого claim перед публикацией; claims без проверяемого источника исключены из релиза.",
+    "converted_by": "claude_session_manual_conversion_with_web_search",
+    "converted_at": "2026-08-06T00:00:00.000Z"
+  }
+}

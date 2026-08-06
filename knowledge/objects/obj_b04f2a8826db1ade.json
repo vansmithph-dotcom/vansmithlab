@@ -1,0 +1,424 @@
+{
+  "id": "obj_b04f2a8826db1ade",
+  "type": "theme",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Как религия повлияла на мир моды",
+  "slug_ru": "kak-religiya-povliyala-na-modu",
+  "summary_ru": "Авторский аналитический очерк Ивана Мельника о религии как визуальной системе, повлиявшей на форму одежды, материалы, символы, ремёсла и способы выражения идентичности в современной моде — от католических облачений и османского костюма до буддийской kesa и модест-фешн.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.91,
+  "created_at": "2026-08-06T00:00:00.000Z",
+  "updated_at": "2026-08-06T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_bf84052b5ec3f4ea",
+      "wording_ru": "Религия исторически регулировала видимость тела и использование одежды в самых разных традициях.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.cambridge.org/core/books/cambridge-global-history-of-fashion/fashion-and-globalization/4D08B232C55CA55C90779494A23486A2",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_3fbe1931af223c74",
+      "wording_ru": "Покрытие головы и лица существовало в разных религиозных и светских традициях, а не в какой-то одной.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.88,
+      "evidence": [
+        {
+          "source_url": "https://thejewishmuseum.org/exhibitions/veiled-meanings-fashioning-jewish-dress/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.vam.ac.uk/articles/indian-textiles",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_ef93eb185bac0b03",
+      "wording_ru": "Еврейская одежда диаспоры часто была близка к одежде соседних общин того же региона и периода.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://thejewishmuseum.org/exhibitions/veiled-meanings-fashioning-jewish-dress/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_6991acfed7730231",
+      "wording_ru": "Позднеосманская одежда показывает постепенный переход к европейским формам среди представителей разных религиозных групп империи.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.91,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/essays/ottoman-wedding-dresses",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.metmuseum.org/essays/the-later-ottomans-and-the-impact-of-europe",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_31cd52378da252ec",
+      "wording_ru": "Католическое искусство и литургические облачения документированно повлияли на ряд модельеров XX-XXI веков.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.94,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/exhibitions/listings/2018/heavenly-bodies",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.metmuseum.org/met-publications/heavenly-bodies-fashion-and-the-catholic-imagination",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_263f47674a19fbf9",
+      "wording_ru": "Мусульманская мода функционирует как трансрегиональная система производства и потребления, а не единый монолитный рынок.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.cambridge.org/core/books/cambridge-global-history-of-fashion/fashion-and-globalization/4D08B232C55CA55C90779494A23486A2",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.cambridge.org/core/journals/trans-trans-regional-and-national-studies-of-southeast-asia/article/muslim-fashion-challenging-transregional-connectivities-between-malaysia-and-the-arabian-peninsula/DEDCEB41F9C528C253EC44946F739087",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_9f99790a077991ea",
+      "wording_ru": "Буддийское облачение kesa связано с лоскутной конструкцией, традицией дара и различием между духовенством и мирянами.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.93,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/art/collection/search/65086",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.metmuseum.org/art/collection/search/69886",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_ff1da9e2c81e072c",
+      "wording_ru": "В Южной Азии текстиль используется в ритуалах, подношениях и оформлении сакрального пространства.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.vam.ac.uk/articles/indian-textiles",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_9d098396a3ae0056",
+      "wording_ru": "Талисманические ткани в ряде традиций воспринимаются их носителями как защитные предметы.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.88,
+      "evidence": [
+        {
+          "source_url": "https://smarthistory.org/warding-off-the-evil-eye-talismanic-textiles/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_3efe2c769e58cb1d",
+      "wording_ru": "Головной убор сикхских акали (dastar bunga) исторически несёт одновременно религиозное и военно-историческое значение.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.89,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/art/collection/search/30169",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.metmuseum.org/art/collection/search/454736",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_2d55fa3f38888165",
+      "title": "The Met — Heavenly Bodies: Fashion and the Catholic Imagination (exhibition)",
+      "url": "https://www.metmuseum.org/exhibitions/listings/2018/heavenly-bodies",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 1,
+      "accessed_at": "2026-08-06"
+    },
+    {
+      "id": "src_2fb096d915406634",
+      "title": "The Met Publications — Heavenly Bodies: Fashion and the Catholic Imagination (catalogue)",
+      "url": "https://www.metmuseum.org/met-publications/heavenly-bodies-fashion-and-the-catholic-imagination",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 1,
+      "accessed_at": "2026-08-06"
+    },
+    {
+      "id": "src_4cd291e854e5431b",
+      "title": "The Met — Ottoman Wedding Dresses, East to West",
+      "url": "https://www.metmuseum.org/essays/ottoman-wedding-dresses",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 1,
+      "accessed_at": "2026-08-06"
+    },
+    {
+      "id": "src_8cd1aa4bc5aa30a2",
+      "title": "The Met — The Later Ottomans and the Impact of Europe",
+      "url": "https://www.metmuseum.org/essays/the-later-ottomans-and-the-impact-of-europe",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 1,
+      "accessed_at": "2026-08-06"
+    },
+    {
+      "id": "src_ade0a658546836d7",
+      "title": "The Jewish Museum — Veiled Meanings: Fashioning Jewish Dress",
+      "url": "https://thejewishmuseum.org/exhibitions/veiled-meanings-fashioning-jewish-dress/",
+      "publisher": "The Jewish Museum",
+      "source_tier": 1,
+      "accessed_at": "2026-08-06"
+    },
+    {
+      "id": "src_8c0ec79edba987a5",
+      "title": "Cambridge University Press — Fashion and Globalization",
+      "url": "https://www.cambridge.org/core/books/cambridge-global-history-of-fashion/fashion-and-globalization/4D08B232C55CA55C90779494A23486A2",
+      "publisher": "Cambridge University Press",
+      "source_tier": 1,
+      "accessed_at": "2026-08-06"
+    },
+    {
+      "id": "src_ddf662418100b434",
+      "title": "Cambridge University Press — Muslim Fashion: Challenging Transregional Connectivities",
+      "url": "https://www.cambridge.org/core/journals/trans-trans-regional-and-national-studies-of-southeast-asia/article/muslim-fashion-challenging-transregional-connectivities-between-malaysia-and-the-arabian-peninsula/DEDCEB41F9C528C253EC44946F739087",
+      "publisher": "Cambridge University Press",
+      "source_tier": 1,
+      "accessed_at": "2026-08-06"
+    },
+    {
+      "id": "src_278fc6e9b05902aa",
+      "title": "The Met — Seven-Panel Buddhist Monk's Vestment (Shichijō kesa), object record",
+      "url": "https://www.metmuseum.org/art/collection/search/65086",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 1,
+      "accessed_at": "2026-08-06"
+    },
+    {
+      "id": "src_c6e52b0e152c4549",
+      "title": "The Met — Buddhist Vestment (Kesa), object record",
+      "url": "https://www.metmuseum.org/art/collection/search/69886",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 1,
+      "accessed_at": "2026-08-06"
+    },
+    {
+      "id": "src_8b3da2a964ce995c",
+      "title": "V&A — Indian Textiles",
+      "url": "https://www.vam.ac.uk/articles/indian-textiles",
+      "publisher": "Victoria and Albert Museum",
+      "source_tier": 1,
+      "accessed_at": "2026-08-06"
+    },
+    {
+      "id": "src_ec882922a7315135",
+      "title": "Smarthistory / MAP Academy — Warding off the Evil Eye: Talismanic Textiles",
+      "url": "https://smarthistory.org/warding-off-the-evil-eye-talismanic-textiles/",
+      "publisher": "Smarthistory / MAP Academy",
+      "source_tier": 1,
+      "accessed_at": "2026-08-06"
+    },
+    {
+      "id": "src_96c41aae6ba6c259",
+      "title": "The Met — Quoit (Chakra), Indian, Sikh, object record",
+      "url": "https://www.metmuseum.org/art/collection/search/30169",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 1,
+      "accessed_at": "2026-08-06"
+    },
+    {
+      "id": "src_b61ce48a754f735d",
+      "title": "The Met — Sikh Akalis on the March, object record",
+      "url": "https://www.metmuseum.org/art/collection/search/454736",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 1,
+      "accessed_at": "2026-08-06"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_2df2cedb9626ccd3",
+      "claim_id": "clm_bf84052b5ec3f4ea",
+      "source_id": "src_8c0ec79edba987a5",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_ee9030010475a176",
+      "claim_id": "clm_3fbe1931af223c74",
+      "source_id": "src_ade0a658546836d7",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_858581364ed1b373",
+      "claim_id": "clm_3fbe1931af223c74",
+      "source_id": "src_8b3da2a964ce995c",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_08f01efc7c2c77d8",
+      "claim_id": "clm_ef93eb185bac0b03",
+      "source_id": "src_ade0a658546836d7",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_40e4d6c94a1594d8",
+      "claim_id": "clm_6991acfed7730231",
+      "source_id": "src_4cd291e854e5431b",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_a9ca680e0b6e3223",
+      "claim_id": "clm_6991acfed7730231",
+      "source_id": "src_8cd1aa4bc5aa30a2",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_dd94ff268cf2c80e",
+      "claim_id": "clm_31cd52378da252ec",
+      "source_id": "src_2d55fa3f38888165",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_7cde9c74827e5bee",
+      "claim_id": "clm_31cd52378da252ec",
+      "source_id": "src_2fb096d915406634",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_dbfba6f7fe002342",
+      "claim_id": "clm_263f47674a19fbf9",
+      "source_id": "src_8c0ec79edba987a5",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_c116a1c7c3d81e42",
+      "claim_id": "clm_263f47674a19fbf9",
+      "source_id": "src_ddf662418100b434",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_81ebb332fe946cce",
+      "claim_id": "clm_9f99790a077991ea",
+      "source_id": "src_278fc6e9b05902aa",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_19b4880044a4d1ba",
+      "claim_id": "clm_9f99790a077991ea",
+      "source_id": "src_c6e52b0e152c4549",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_9078ac1d442a2eee",
+      "claim_id": "clm_ff1da9e2c81e072c",
+      "source_id": "src_8b3da2a964ce995c",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_75ec4c1aa8e84f65",
+      "claim_id": "clm_9d098396a3ae0056",
+      "source_id": "src_ec882922a7315135",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_53f368b49c4ea41e",
+      "claim_id": "clm_3efe2c769e58cb1d",
+      "source_id": "src_96c41aae6ba6c259",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_7c13f82368a0ab51",
+      "claim_id": "clm_3efe2c769e58cb1d",
+      "source_id": "src_b61ce48a754f735d",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — авторский аналитический черновик (Иван Мельник), content_type analysis, voice signed, publication state 'drafted -> evidence review' по собственной паспортной части документа. Документ уже содержал собственный факт-реестр (RF-001..RF-012) с чёткой границей verified/interpretation/editorial position и полную библиографию с URL. Claude (сессия) перенёс верифицируемые пункты реестра (RF-001..RF-009, RF-013) в формат сайта с реальными источниками; пункты RF-010..RF-012, помеченные в самом документе как authorial interpretation/synthesis/editorial position, оставлены как авторский голос в прозе без формальной citation, что соответствует жанру подписанного анализа. Полная автоматическая верификация VANSMITHLAB не запускалась.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-06T00:00:00.000Z"
+  }
+}

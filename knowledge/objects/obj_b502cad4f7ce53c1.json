@@ -1,0 +1,352 @@
+{
+  "id": "obj_b502cad4f7ce53c1",
+  "type": "brand",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "История модного дома Christian Dior",
+  "slug_ru": "istoriya-modnogo-doma-christian-dior",
+  "summary_ru": "Исследовательское досье о доме Christian Dior: от New Look 1947 года через полувековую цепочку creative directors (Saint Laurent, Bohan, Ferré, Galliano, Simons, Chiuri, Jones) до единого руководства Jonathan Anderson с 2025 года.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.92,
+  "created_at": "2026-08-06T00:00:00.000Z",
+  "updated_at": "2026-08-06T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_2e083d702b3104bd",
+      "wording_ru": "Дом основан в 1946 году; первая коллекция показана 12 февраля 1947 года.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.galeriedior.com/en/history",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_5be3dcfa3d6219a9",
+      "wording_ru": "Первая коллекция включала линии Corolle и En 8; название New Look связано с Carmel Snow, редактором Harper's Bazaar.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.galeriedior.com/en/history",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_8886a7ed1bbb84dc",
+      "wording_ru": "Ensemble Bar датирован весной-летом 1947 года и хранится в The Metropolitan Museum of Art.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/art/collection/search/81460",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_3863d4163ff27b77",
+      "wording_ru": "New Look стал символом возвращения парижской haute couture к международному лидерству после войны.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/art/collection/search/83627",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_87a28f674ea7db2e",
+      "wording_ru": "После смерти Christian Dior в 1957 году Yves Saint Laurent возглавил дом в возрасте 21 года.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.ngv.vic.gov.au/ngv_timeline/the-house-of-dior-seventy-years-of-haute-couture/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_3ecc6b620401268e",
+      "wording_ru": "Marc Bohan руководил домом почти три десятилетия, с 1960 по 1989 год.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.ngv.vic.gov.au/ngv_timeline/the-house-of-dior-seventy-years-of-haute-couture/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_c47e1656a39c98af",
+      "wording_ru": "Gianfranco Ferré руководил женскими коллекциями с 1989 по 1997 год.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.ngv.vic.gov.au/ngv_timeline/the-house-of-dior-seventy-years-of-haute-couture/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_628d0f593ab17650",
+      "wording_ru": "John Galliano возглавлял Dior с 1996/1997 по 2011 год.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.ngv.vic.gov.au/ngv_timeline/the-house-of-dior-seventy-years-of-haute-couture/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_7c3251636a60fe33",
+      "wording_ru": "Raf Simons руководил женскими коллекциями Dior в 2012–2015 годах.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.ngv.vic.gov.au/ngv_timeline/the-house-of-dior-seventy-years-of-haute-couture/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_9ecdc4a1fcbc56bf",
+      "wording_ru": "Maria Grazia Chiuri была первой женщиной — художественным руководителем женских коллекций Dior, с 2016 по май 2025 года.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://wwd.com/fashion-news/designer-luxury/jonathan-anderson-interview-dior-jw-newsmaker-1238359819/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_6995eb22f48bba75",
+      "wording_ru": "Kim Jones руководил мужскими коллекциями Dior около семи лет, с 2018 по январь 2025 года.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://wwd.com/fashion-news/designer-luxury/jonathan-anderson-interview-dior-jw-newsmaker-1238359819/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_7620fc8216ad2f81",
+      "wording_ru": "Jonathan Anderson назначен креативным директором женских, мужских и couture-коллекций Dior в 2025 году — первый случай единого руководства всеми линиями со времён самого Christian Dior.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://wwd.com/fashion-news/designer-luxury/jonathan-anderson-interview-dior-jw-newsmaker-1238359819/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.dazeddigital.com/fashion/article/66939/1/its-official-jonathan-anderson-is-diors-sole-creative-director",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_1e8617f984aac8f9",
+      "title": "It's official: Jonathan Anderson is Dior's sole creative director",
+      "url": "https://www.dazeddigital.com/fashion/article/66939/1/its-official-jonathan-anderson-is-diors-sole-creative-director",
+      "publisher": "Dazed",
+      "source_tier": 2,
+      "accessed_at": "2026-08-06"
+    },
+    {
+      "id": "src_bc984c1666df886d",
+      "title": "Christian Dior — official history (Galerie Dior)",
+      "url": "https://www.galeriedior.com/en/history",
+      "publisher": "Christian Dior",
+      "source_tier": 1,
+      "accessed_at": "2026-08-06"
+    },
+    {
+      "id": "src_c5e18d1aa8cefbe0",
+      "title": "House of Dior — \"Bar\" ensemble, spring/summer 1947 (object record)",
+      "url": "https://www.metmuseum.org/art/collection/search/81460",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 1,
+      "accessed_at": "2026-08-06"
+    },
+    {
+      "id": "src_2ee30356e4213f1f",
+      "title": "House of Dior — \"Mystère\", curatorial note on the New Look's role in postwar couture",
+      "url": "https://www.metmuseum.org/art/collection/search/83627",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 1,
+      "accessed_at": "2026-08-06"
+    },
+    {
+      "id": "src_7add895186bfd4ff",
+      "title": "The House of Dior: Seventy Years of Haute Couture",
+      "url": "https://www.ngv.vic.gov.au/ngv_timeline/the-house-of-dior-seventy-years-of-haute-couture/",
+      "publisher": "National Gallery of Victoria",
+      "source_tier": 2,
+      "accessed_at": "2026-08-06"
+    },
+    {
+      "id": "src_72577b8177d8cc19",
+      "title": "Designer Jonathan Anderson is WWD's 2025 Newsmaker of the Year",
+      "url": "https://wwd.com/fashion-news/designer-luxury/jonathan-anderson-interview-dior-jw-newsmaker-1238359819/",
+      "publisher": "WWD",
+      "source_tier": 2,
+      "accessed_at": "2026-08-06"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_0f7a5d755d6196c1",
+      "claim_id": "clm_2e083d702b3104bd",
+      "source_id": "src_bc984c1666df886d",
+      "locator": "см. источник целиком",
+      "support": "Официальный, музейный или отраслевой источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_11304f51f115f83b",
+      "claim_id": "clm_5be3dcfa3d6219a9",
+      "source_id": "src_bc984c1666df886d",
+      "locator": "см. источник целиком",
+      "support": "Официальный, музейный или отраслевой источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_fc9f5ea2ed79beee",
+      "claim_id": "clm_8886a7ed1bbb84dc",
+      "source_id": "src_c5e18d1aa8cefbe0",
+      "locator": "см. источник целиком",
+      "support": "Официальный, музейный или отраслевой источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_047c51dc21a4945b",
+      "claim_id": "clm_3863d4163ff27b77",
+      "source_id": "src_2ee30356e4213f1f",
+      "locator": "см. источник целиком",
+      "support": "Официальный, музейный или отраслевой источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_ec1c8521bd7b6dc8",
+      "claim_id": "clm_87a28f674ea7db2e",
+      "source_id": "src_7add895186bfd4ff",
+      "locator": "см. источник целиком",
+      "support": "Официальный, музейный или отраслевой источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_9f4d52bcdcc50e16",
+      "claim_id": "clm_3ecc6b620401268e",
+      "source_id": "src_7add895186bfd4ff",
+      "locator": "см. источник целиком",
+      "support": "Официальный, музейный или отраслевой источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_88391d659a460040",
+      "claim_id": "clm_c47e1656a39c98af",
+      "source_id": "src_7add895186bfd4ff",
+      "locator": "см. источник целиком",
+      "support": "Официальный, музейный или отраслевой источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_94027391aeeebaa3",
+      "claim_id": "clm_628d0f593ab17650",
+      "source_id": "src_7add895186bfd4ff",
+      "locator": "см. источник целиком",
+      "support": "Официальный, музейный или отраслевой источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_edff821f42fd993e",
+      "claim_id": "clm_7c3251636a60fe33",
+      "source_id": "src_7add895186bfd4ff",
+      "locator": "см. источник целиком",
+      "support": "Официальный, музейный или отраслевой источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_aa7cbc2017c9ba74",
+      "claim_id": "clm_9ecdc4a1fcbc56bf",
+      "source_id": "src_72577b8177d8cc19",
+      "locator": "см. источник целиком",
+      "support": "Официальный, музейный или отраслевой источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_ecd4f62b0d0d4464",
+      "claim_id": "clm_6995eb22f48bba75",
+      "source_id": "src_72577b8177d8cc19",
+      "locator": "см. источник целиком",
+      "support": "Официальный, музейный или отраслевой источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_bd21546a3c34e8c1",
+      "claim_id": "clm_7620fc8216ad2f81",
+      "source_id": "src_72577b8177d8cc19",
+      "locator": "см. источник целиком",
+      "support": "Официальный, музейный или отраслевой источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_e6481ed1fe02b253",
+      "claim_id": "clm_7620fc8216ad2f81",
+      "source_id": "src_1e8617f984aac8f9",
+      "locator": "см. источник целиком",
+      "support": "Официальный, музейный или отраслевой источник подтверждает утверждение."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — research-досье автора без URL у источников. Claude (сессия) нашёл и проверил официальные/музейные/отраслевые ссылки веб-поиском для каждого включённого claim перед публикацией.",
+    "converted_by": "claude_session_manual_conversion_with_web_search",
+    "converted_at": "2026-08-06T00:00:00.000Z"
+  }
+}
