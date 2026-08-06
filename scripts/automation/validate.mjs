@@ -1,25 +1,33 @@
 import { readdir, readFile } from "node:fs/promises";
 import path from "node:path";
+import { pathToFileURL } from "node:url";
 import { assert, hash, readJson, root } from "./lib.mjs";
 
 const allowedTypes = new Set(["encyclopedia", "glossary", "research", "case_study", "visual_analysis", "timeline", "collection", "analysis"]);
 const allowedEscalations = new Set(["EVIDENCE_CONFLICT", "MISSING_PRIMARY_EVIDENCE", "RIGHTS_OR_BRAND_RISK", "EDITORIAL_CHOICE", "HIGH_IMPACT_CORRECTION", "UNRESOLVED_TRANSLATION"]);
+// ADR-004: partially_verified is an honest, lower tier — author-supplied drafts that have not
+// been run through the automated research -> evidence -> russian_fact_review pipeline. It may
+// publish (with the label visibly shown to readers) at a lower confidence floor than fully
+// verified content, but every claim still needs a real citation — the floor is honesty, not proof.
+const fullyVerifiedStates = new Set(["verified", "multi_source_verified"]);
+const allVerificationStates = new Set([...fullyVerifiedStates, "partially_verified"]);
+const confidenceFloor = (state) => (fullyVerifiedStates.has(state) ? 0.85 : 0.6);
 
 export const canonicalBody = (body) => body.replace(/\r\n?/g, "\n").trimEnd() + "\n";
 
 export function validateKnowledge(object) {
   assert(object.id && object.canonical_locale === "ru", `${object.id || "object"}: canonical locale must be ru`);
   assert(Number.isInteger(object.revision) && object.revision > 0, `${object.id}: invalid revision`);
-  assert(["verified", "multi_source_verified"].includes(object.verification_state), `${object.id}: object is not verified`);
-  assert(object.confidence_score >= 0.85, `${object.id}: confidence below 0.85`);
+  assert(allVerificationStates.has(object.verification_state), `${object.id}: unknown verification_state`);
+  assert(object.confidence_score >= confidenceFloor(object.verification_state), `${object.id}: confidence below floor for its verification_state`);
   assert(Array.isArray(object.sources) && object.sources.length >= 2, `${object.id}: at least two sources required`);
   assert(new Set(object.sources.map((source) => source.id)).size === object.sources.length, `${object.id}: duplicate source ids`);
   const sourceIds = new Set(object.sources.map((source) => source.id));
   const claimIds = new Set();
   for (const claim of object.claims || []) {
     assert(claim.id && !claimIds.has(claim.id), `${object.id}: duplicate/empty claim id`); claimIds.add(claim.id);
-    assert(claim.wording_ru && claim.confidence_score >= 0.85, `${claim.id}: material claim below threshold`);
-    assert(["verified", "multi_source_verified"].includes(claim.verification_state), `${claim.id}: claim is not verified`);
+    assert(claim.wording_ru && claim.confidence_score >= confidenceFloor(object.verification_state), `${claim.id}: material claim below threshold`);
+    assert(allVerificationStates.has(claim.verification_state) || claim.verification_state === "attributed", `${claim.id}: unknown claim verification_state`);
     const citations = (object.citations || []).filter((citation) => citation.claim_id === claim.id);
     assert(citations.length > 0, `${claim.id}: missing citation`);
     for (const citation of citations) assert(sourceIds.has(citation.source_id) && citation.locator, `${claim.id}: invalid citation`);
@@ -35,7 +43,8 @@ export async function validateRelease(metadata, body, knowledge) {
   assert(["ru", "en"].includes(metadata.locale), `${metadata.content_id}: invalid locale`);
   assert(metadata.source_locale === "ru", `${metadata.content_id}: source locale must be ru`);
   assert(metadata.source_revision === knowledge.revision, `${metadata.content_id}: stale source revision`);
-  assert(metadata.confidence_score >= 0.85, `${metadata.content_id}: confidence below 0.85`);
+  assert(metadata.verification_state === knowledge.verification_state, `${metadata.content_id}: verification_state must match its knowledge object`);
+  assert(metadata.confidence_score >= confidenceFloor(metadata.verification_state), `${metadata.content_id}: confidence below floor for its verification_state`);
   assert(metadata.body_hash === hash(canonicalBody(body)), `${metadata.content_id}: body hash mismatch`);
   const claims = new Set(knowledge.claims.map((claim) => claim.id));
   for (const id of metadata.claim_ids || []) assert(claims.has(id), `${metadata.content_id}: unknown claim ${id}`);
@@ -67,7 +76,7 @@ export async function validateRepository() {
   return metadataFiles.length;
 }
 
-if (process.argv[1] && import.meta.url === new URL(`file:///${process.argv[1].replace(/\\/g, "/")}`).href) {
+if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) {
   const count = await validateRepository();
   console.log(`Validated ${count} content release(s).`);
 }

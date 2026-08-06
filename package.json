@@ -10,6 +10,10 @@
     "content:validate": "node scripts/automation/validate.mjs",
     "content:run": "node scripts/automation/run.mjs",
     "content:request": "node scripts/automation/create-request.mjs",
+    "local:doctor": "node scripts/automation/local-doctor.mjs",
+    "local:run": "node scripts/automation/local-orchestrator.mjs",
+    "local:retry": "node scripts/automation/local-orchestrator.mjs --retry",
+    "local:publish": "powershell -NoProfile -ExecutionPolicy Bypass -File scripts/automation/local-publish.ps1",
     "test": "node --test tests/*.test.mjs"
   },
   "dependencies": {

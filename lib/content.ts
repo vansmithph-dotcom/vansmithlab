@@ -4,9 +4,9 @@ import type { Locale } from "./site-data";
 
 export type ContentMetadata = {
   content_id: string; primary_object_id: string; content_type: string; locale: Locale; slug: string; title: string; summary: string;
-  state: "published"; source_locale: "ru"; source_revision: number; verification_state: "verified" | "multi_source_verified";
+  state: "published"; source_locale: "ru"; source_revision: number; verification_state: "verified" | "multi_source_verified" | "partially_verified";
   confidence_score: number; claim_ids: string[]; source_ids: string[]; last_reviewed: string; author: string; body_hash: string;
-  hero_image?: { src: string; alt: string; caption: string; credit: string; origin: "ai_illustration" | "licensed" | "public_domain" };
+  hero_image?: { src: string; alt: string; caption: string; credit: string; origin: "ai_illustration" | "licensed" | "public_domain" | "editorial_diagram" };
   translation?: { source_locale: "ru"; source_revision: number; semantic_validated: boolean; review_run_id: string };
 };
 export type KnowledgeSource = { id: string; title: string; url: string; publisher: string; source_tier: number; accessed_at: string };

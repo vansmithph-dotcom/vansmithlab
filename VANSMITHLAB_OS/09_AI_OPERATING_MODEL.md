@@ -19,6 +19,12 @@ No AI begins from an empty prompt. The context builder supplies the OS documents
 
 The default text workflow is `ChatGPT intake/structure → Gemini grounded source discovery → Claude evidence/editorial audit → ChatGPT Russian draft → Claude Russian fact-ledger review → ChatGPT English adaptation → Claude semantic parity review`. A provider may be temporarily replaced, but the producing model may never approve its own factual output. Figma Weave enters only after the text release has an approved media brief.
 
+## Local subscription mode
+
+When API credentials are intentionally unavailable, the approved local workflow is `Codex intake/structure → Claude research → Codex evidence audit → Claude Russian draft → Codex Russian fact-ledger review → Claude English adaptation → Codex semantic parity review`. Both CLIs use their own first-party interactive subscription authentication on the project owner's always-on computer. Browser cookies or OAuth credentials must never be copied between products, committed, exported to GitHub Actions, or used by an unofficial router.
+
+Gemini and Figma Weave are optional enrichments in this mode, not release authorities. Until each product exposes an officially supported unattended interface for the owner's account, their work is represented by a durable handoff packet and may require an explicit browser session. Their unavailability must not be disguised as a completed check.
+
 ## Reproducibility
 
 Each AI step records provider, model, template version, input hash, output hash, timestamp, cost/usage where available and resulting decision. Provider models may change; the role contract does not.
@@ -34,3 +40,18 @@ For material facts, the source/audit path should use at least two independent me
 - `BLOCKED`: a retry, source refresh or cross-check is required.
 - `NEEDS_USER_INPUT`: a limited escalation reason exists.
 - `DO_NOT_PUBLISH`: violates evidence, rights or editorial policy.
+
+## Mandatory AUTO_REVISE loop
+
+`AUTO_REVISE` is a durable workflow state, not a suggestion hidden inside a `BLOCKED` report. When an independent verifier identifies only safe claim-level repairs defined in `05_EVIDENCE_POLICY.md`, the orchestrator must:
+
+1. persist the original research and audit;
+2. create a revision plan with one action per affected claim;
+3. apply only `OMIT`, `NARROW`, `ATTRIBUTE`, `SPLIT`, `REPLACE_SOURCE` or `HOLD_CLAIM`;
+4. preserve unsupported and conflicting material in the private ledger rather than deleting its history;
+5. run a new independent evidence audit on the revised release claim set;
+6. continue only after `AUTO_APPROVE`, or stop after the bounded revision limit.
+
+The verifier must return `AUTO_REVISE`, not `BLOCKED`, when every release-critical defect has a deterministic safe repair and the reader promise remains intact. The producing agent may apply the revision, but it may not approve the revised result.
+
+Default bounded limit: two automatic evidence-revision rounds per workflow run. Reaching the limit produces `BLOCKED` with a diagnostic record; it does not lower the evidence threshold.

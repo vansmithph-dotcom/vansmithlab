@@ -1,3 +1,4 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { TrustPanel } from "@/components/TrustPanel";
@@ -9,6 +10,32 @@ export function generateStaticParams() {
   const samples = objectSamples.flatMap((object) => ["ru", "en"].map((locale) => ({ locale, slug: object.slug })));
   const releases = listContent().filter((item) => item.content_type === "encyclopedia").map((item) => ({ locale: item.locale, slug: item.slug }));
   return [...samples, ...releases].filter((item, index, all) => all.findIndex((candidate) => candidate.locale === item.locale && candidate.slug === item.slug) === index);
+}
+
+export async function generateMetadata({ params }: { params: Promise<{ locale: string; slug: string }> }): Promise<Metadata> {
+  const { locale, slug } = await params;
+  if (!isLocale(locale)) return {};
+  const published = getContent(locale, "encyclopedia", slug);
+  const canonical = `/${locale}/encyclopedia/${slug}`;
+  if (published) {
+    const { title, summary, hero_image: heroImage } = published.metadata;
+    const images = heroImage ? [{ url: heroImage.src, alt: heroImage.alt }] : undefined;
+    return {
+      title,
+      description: summary,
+      alternates: { canonical },
+      openGraph: { title, description: summary, type: "article", images },
+      twitter: { card: "summary_large_image", title, description: summary, images: images?.map((image) => image.url) },
+    };
+  }
+  const object = objectSamples.find((item) => item.slug === slug);
+  if (!object) return {};
+  return {
+    title: object.title[locale],
+    description: object.summary[locale],
+    alternates: { canonical },
+    robots: { index: false, follow: true },
+  };
 }
 
 export default async function ObjectPage({ params }: { params: Promise<{ locale: string; slug: string }> }) {

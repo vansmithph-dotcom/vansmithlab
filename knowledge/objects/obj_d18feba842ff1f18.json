@@ -1,0 +1,1002 @@
+{
+  "id": "obj_d18feba842ff1f18",
+  "type": "brand",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "История модного дома Prada",
+  "slug_ru": "istoriya-modnogo-doma-prada",
+  "summary_ru": "Исследовательское досье о развитии Prada от миланского магазина дорожных изделий 1913 года до современной творческой и корпоративной структуры группы. Материал подготовлен как research-досье Ивана Мельника и сведён VANSMITHLAB в claim-верифицированную статью; часть атомарных утверждений с медианной уверенностью остаётся вне публичного релиза.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.94,
+  "created_at": "2026-08-06T00:00:00.000Z",
+  "updated_at": "2026-08-06T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_9bf4f69acb13061b",
+      "wording_ru": "Prada основана в Милане в 1913 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.pradagroup.com/en/group/history.html",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.pradagroup.com/content/dam/pradagroup/documents/Group_Profile/2026/aprile/Prada-Group-Who-We-Are-EN-April-2026.pdf",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.vam.ac.uk/shop/books/fashion-and-textiles/prada-catwalk-the-complete-collections-159381.html",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_512209218baf3690",
+      "wording_ru": "Первый магазин находился в Galleria Vittorio Emanuele II.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.pradagroup.com/en/group/history.html",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.pradagroup.com/content/dam/pradagroup/documents/Group_Profile/2026/aprile/Prada-Group-Who-We-Are-EN-April-2026.pdf",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_7af459637e58f64d",
+      "wording_ru": "В 1919 году Prada стала официальным поставщиком Итальянского королевского дома.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.pradagroup.com/content/dam/pradagroup/documents/Group_Profile/2026/aprile/Prada-Group-Who-We-Are-EN-April-2026.pdf",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_fa16becac8fe9b2d",
+      "wording_ru": "Сотрудничество Miuccia Prada и Patrizio Bertelli началось в 1975 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.pradagroup.com/en/group/history.html",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.pradagroup.com/content/dam/pradagroup/documents/Group_Profile/2026/aprile/Prada-Group-Who-We-Are-EN-April-2026.pdf",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_a3c9fb8cff83213c",
+      "wording_ru": "В 1977 году IPI получила эксклюзивную лицензию на производство и дистрибуцию кожгалантереи Prada.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.pradagroup.com/content/dam/pradagroup/documents/Group_Profile/2026/aprile/Prada-Group-Who-We-Are-EN-April-2026.pdf",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_4ea3b999267343eb",
+      "wording_ru": "Первая женская обувь Prada представлена в 1979 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.pradagroup.com/content/dam/pradagroup/documents/Group_Profile/2026/aprile/Prada-Group-Who-We-Are-EN-April-2026.pdf",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_990b761d53b72cdb",
+      "wording_ru": "Магазин Prada Green на Via della Spiga открылся в 1983 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.pradagroup.com/content/dam/pradagroup/documents/Group_Profile/2026/aprile/Prada-Group-Who-We-Are-EN-April-2026.pdf",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_951eb4ecbeabe809",
+      "wording_ru": "Prada сделала чёрный промышленный нейлон значимым luxury-материалом.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/art/collection/search/840100",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.metmuseum.org/art/collection/search/87334",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_807648421231ff64",
+      "wording_ru": "Первая женская ready-to-wear коллекция Prada представлена в 1988 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.pradagroup.com/content/dam/pradagroup/documents/Group_Profile/2026/aprile/Prada-Group-Who-We-Are-EN-April-2026.pdf",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.vam.ac.uk/shop/books/fashion-and-textiles/prada-catwalk-the-complete-collections-159381.html",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_d53e7b45b76d9614",
+      "wording_ru": "Термин ugly chic описывает критику привычной красоты, а не официальный стиль бренда.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.85,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/exhibitions/listings/2012/impossible-conversations",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_0bbfbebdde8a2ddd",
+      "wording_ru": "Menswear, Miu Miu и культурная организация, ставшая Fondazione Prada, появились в 1993 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.pradagroup.com/en/group/history.html",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.fondazioneprada.org/mission-en_old/?lang=en",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.pradagroup.com/content/dam/pradagroup/documents/Shareholderinformation/2020/inglese/april/e-prada%202019AR.pdf",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_b00c1667cc9535d6",
+      "wording_ru": "Linea Rossa и Prada Challenge / Luna Rossa относятся к 1997 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.pradagroup.com/en/group/history.html",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.prada.com/ww/en/prada_linea_rossa.html",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.lunarossachallenge.com/en/history",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_855530dd412b2cd9",
+      "wording_ru": "Epicenters открылись в Нью-Йорке в 2001, Токио в 2003 и Los Angeles в 2004 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.pradagroup.com/en/group/history.html",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.oma.com/contact",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_5b32509e1cd15d37",
+      "wording_ru": "Сумка Prada Galleria представлена в 2007 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.prada.com/ww/en/pradasphere/campaigns/2021/the-prada-galleria-bag.html",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_29b84fe09674a068",
+      "wording_ru": "Prada вышла на Гонконгскую фондовую биржу в 2011 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.pradagroup.com/en/group/history.html",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.pradagroup.com/en/group/history.html",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_6c017ce7bb63de31",
+      "wording_ru": "The Met провёл выставку Schiaparelli and Prada: Impossible Conversations в 2012 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/exhibitions/listings/2012/impossible-conversations",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_6f495c126d1819be",
+      "wording_ru": "Re-Nylon запущен в 2019 году с использованием regenerated nylon ECONYL.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.prada.com/ww/en/sustainability/prada-re-nylon.html",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_f670dc976f865a74",
+      "wording_ru": "Экологическая нейтральность всего жизненного цикла Re-Nylon не доказана самим фактом использования ECONYL.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.prada.com/ww/en/sustainability/prada-re-nylon.html",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_8840c1067c8bddf3",
+      "wording_ru": "Raf Simons стал равноправным co-creative director Prada вместе с Miuccia Prada в 2020 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.pradagroup.com/en/group/corporate-governance/board-of-directors.html",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.pradagroup.com/en/news-media/news-section/co-creative-directors.html",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_e130d776e628d30f",
+      "wording_ru": "Prada участвовала с Axiom Space в разработке материалов и дизайна AxEMU для Artemis III.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.pradagroup.com/en/news-media/press-releases-documents/2024/24-10-16-prada-axiom-space.html",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.axiomspace.com/release/axiom-space-prada-unveil-spacesuit-design-for-moon-return",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.nasa.gov/suits-and-rovers/commercial-spacesuit-providers/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_5e28f4153c39931a",
+      "wording_ru": "В 2026 году представлен внутренний охлаждающий и вентиляционный слой LCVG.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.axiomspace.com/release/axiom-space-prada-unveil-spacesuit-design-for-moon-return",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_987642288d5e23f5",
+      "wording_ru": "Fondazione Prada создана в 1993 году Miuccia Prada и Patrizio Bertelli.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.fondazioneprada.org/mission-en_old/?lang=en",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_a9ee8ce5575e2b57",
+      "wording_ru": "Prada Group завершила приобретение Versace 2 декабря 2025 года.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.pradagroup.com/en/news-media/press-releases-documents/2025/25-12-02-prada-group-versace-closing.html",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_2403d7aa519ad9f5",
+      "wording_ru": "В H1 2026 продажи Prada retail выросли на 3,3%, во втором квартале — на 6,3%.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.pradagroup.com/content/dam/pradagroup/documents/investors/H1-2026/Prada-Group-H126-Press-release.pdf",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_d46b3c66947ee74e",
+      "wording_ru": "Miuccia Prada и Raf Simons остаются co-creative directors бренда на 5 августа 2026 года.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.pradagroup.com/en/group/corporate-governance/board-of-directors.html",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_1a9597ba0bbba2b2",
+      "wording_ru": "Prada Group имеет 423 собственных магазина Prada по состоянию на 31 декабря 2025 года.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.pradagroup.com/en/group/group-profile.html",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_3d30b2a30cc00c37",
+      "wording_ru": "Prada повлияла на переоценку границ luxury, женственности и хорошего вкуса.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.85,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/art/collection/search/840100",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.metmuseum.org/art/collection/search/87334",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.metmuseum.org/exhibitions/listings/2012/impossible-conversations",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_69bb4927787164ed",
+      "title": "Prada Group — The History of the Prada Group Over the Years",
+      "url": "https://www.pradagroup.com/en/group/history.html",
+      "publisher": "Prada Group",
+      "source_tier": 1,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_8f0fab0853d95e36",
+      "title": "Prada Group — Who We Are / Company Profile, April 2026",
+      "url": "https://www.pradagroup.com/content/dam/pradagroup/documents/Group_Profile/2026/aprile/Prada-Group-Who-We-Are-EN-April-2026.pdf",
+      "publisher": "Prada Group",
+      "source_tier": 1,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_148895d4830d401e",
+      "title": "Prada Group — Board of Directors / current roles",
+      "url": "https://www.pradagroup.com/en/group/corporate-governance/board-of-directors.html",
+      "publisher": "Prada Group",
+      "source_tier": 1,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_91243e770d9d48f3",
+      "title": "Prada Group — H1 2026 Results, 30 July 2026",
+      "url": "https://www.pradagroup.com/content/dam/pradagroup/documents/investors/H1-2026/Prada-Group-H126-Press-release.pdf",
+      "publisher": "Prada Group",
+      "source_tier": 1,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_c129f9caf56180ed",
+      "title": "Victoria and Albert Museum — Prada Catwalk: The Complete Collections",
+      "url": "https://www.vam.ac.uk/shop/books/fashion-and-textiles/prada-catwalk-the-complete-collections-159381.html",
+      "publisher": "Victoria and Albert Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_b2120ef9ed65b526",
+      "title": "The Metropolitan Museum of Art — Prada Dress, spring/summer 1995",
+      "url": "https://www.metmuseum.org/art/collection/search/840100",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_f1ee795fe75f24a9",
+      "title": "The Metropolitan Museum of Art — Prada Dress / curatorial overview",
+      "url": "https://www.metmuseum.org/art/collection/search/87334",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_d1c72cce17dae8f6",
+      "title": "The Metropolitan Museum of Art — Schiaparelli and Prada: Impossible Conversations",
+      "url": "https://www.metmuseum.org/exhibitions/listings/2012/impossible-conversations",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_6d80f194c9b2273e",
+      "title": "Fondazione Prada — Mission and History",
+      "url": "https://www.fondazioneprada.org/mission-en_old/?lang=en",
+      "publisher": "Fondazione Prada",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_59b6d55bd4500f88",
+      "title": "OMA / AMO — Prada collaborations and Epicenters",
+      "url": "https://www.oma.com/contact",
+      "publisher": "OMA / AMO",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_17c72ea4441b9d95",
+      "title": "Prada — Re-Nylon project and material claims",
+      "url": "https://www.prada.com/ww/en/sustainability/prada-re-nylon.html",
+      "publisher": "Prada",
+      "source_tier": 1,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_458050638f38f618",
+      "title": "Prada Group — Prada and Axiom Space unveil spacesuit design, 16 Oct 2024",
+      "url": "https://www.pradagroup.com/en/news-media/press-releases-documents/2024/24-10-16-prada-axiom-space.html",
+      "publisher": "Prada Group",
+      "source_tier": 1,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_96b6e0e746d57244",
+      "title": "Axiom Space — AxEMU design 2024 and LCVG 2026",
+      "url": "https://www.axiomspace.com/release/axiom-space-prada-unveil-spacesuit-design-for-moon-return",
+      "publisher": "Axiom Space",
+      "source_tier": 1,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_94284d31b9a5c3f0",
+      "title": "NASA — Commercial Spacesuit Providers / AxEMU",
+      "url": "https://www.nasa.gov/suits-and-rovers/commercial-spacesuit-providers/",
+      "publisher": "NASA",
+      "source_tier": 1,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_3f5f0b7493429a5b",
+      "title": "Prada Group — announcement of Miuccia Prada and Raf Simons co-creative direction",
+      "url": "https://www.pradagroup.com/en/news-media/news-section/co-creative-directors.html",
+      "publisher": "Prada Group",
+      "source_tier": 1,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_980989b9e6cc4311",
+      "title": "Prada Group — History / Hong Kong listing",
+      "url": "https://www.pradagroup.com/en/group/history.html",
+      "publisher": "Prada Group",
+      "source_tier": 1,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_59a3f4dd64cc257b",
+      "title": "Prada — Linea Rossa official project pages and Group history",
+      "url": "https://www.prada.com/ww/en/prada_linea_rossa.html",
+      "publisher": "Prada",
+      "source_tier": 1,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_cb044a53dcd762cf",
+      "title": "Luna Rossa Prada Pirelli — official history",
+      "url": "https://www.lunarossachallenge.com/en/history",
+      "publisher": "Luna Rossa Prada Pirelli",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_be591e05f9ce8c06",
+      "title": "Prada — Prada Galleria product history",
+      "url": "https://www.prada.com/ww/en/pradasphere/campaigns/2021/the-prada-galleria-bag.html",
+      "publisher": "Prada",
+      "source_tier": 1,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_f1d2422ca49265f7",
+      "title": "Prada Group — Group Profile and key figures, updated 2026",
+      "url": "https://www.pradagroup.com/en/group/group-profile.html",
+      "publisher": "Prada Group",
+      "source_tier": 1,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_121a5b035b92ecbf",
+      "title": "Prada Group — Annual Report 2019 and republished AnOther interview on nylon",
+      "url": "https://www.pradagroup.com/content/dam/pradagroup/documents/Shareholderinformation/2020/inglese/april/e-prada%202019AR.pdf",
+      "publisher": "Prada Group",
+      "source_tier": 1,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_290b107d98560e34",
+      "title": "Prada Group — completion of Versace acquisition, 2 Dec 2025",
+      "url": "https://www.pradagroup.com/en/news-media/press-releases-documents/2025/25-12-02-prada-group-versace-closing.html",
+      "publisher": "Prada Group",
+      "source_tier": 1,
+      "accessed_at": "2026-08-05"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_1917725e5381934a",
+      "claim_id": "clm_9bf4f69acb13061b",
+      "source_id": "src_69bb4927787164ed",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает данное утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_807a712f4ac632aa",
+      "claim_id": "clm_9bf4f69acb13061b",
+      "source_id": "src_8f0fab0853d95e36",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает данное утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_2de22679007de820",
+      "claim_id": "clm_9bf4f69acb13061b",
+      "source_id": "src_c129f9caf56180ed",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает данное утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_fe7690bc3e6c0a52",
+      "claim_id": "clm_512209218baf3690",
+      "source_id": "src_69bb4927787164ed",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает данное утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_fd2d519bfeeb0e48",
+      "claim_id": "clm_512209218baf3690",
+      "source_id": "src_8f0fab0853d95e36",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает данное утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_20dd3cbbad1af4f7",
+      "claim_id": "clm_7af459637e58f64d",
+      "source_id": "src_8f0fab0853d95e36",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает данное утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_6c783ce4e4aa8145",
+      "claim_id": "clm_fa16becac8fe9b2d",
+      "source_id": "src_69bb4927787164ed",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает данное утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_b4d4f1cd1c339dcf",
+      "claim_id": "clm_fa16becac8fe9b2d",
+      "source_id": "src_8f0fab0853d95e36",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает данное утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_87ed3d686cb4f8e2",
+      "claim_id": "clm_a3c9fb8cff83213c",
+      "source_id": "src_8f0fab0853d95e36",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает данное утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_cd26a382f902295b",
+      "claim_id": "clm_4ea3b999267343eb",
+      "source_id": "src_8f0fab0853d95e36",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает данное утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_3a548e55f836efcc",
+      "claim_id": "clm_990b761d53b72cdb",
+      "source_id": "src_8f0fab0853d95e36",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает данное утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_be9d721a7a047984",
+      "claim_id": "clm_951eb4ecbeabe809",
+      "source_id": "src_b2120ef9ed65b526",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает данное утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_fb33e91414ddb630",
+      "claim_id": "clm_951eb4ecbeabe809",
+      "source_id": "src_f1ee795fe75f24a9",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает данное утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_af86315599475b15",
+      "claim_id": "clm_807648421231ff64",
+      "source_id": "src_8f0fab0853d95e36",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает данное утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_1b498506f083e4eb",
+      "claim_id": "clm_807648421231ff64",
+      "source_id": "src_c129f9caf56180ed",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает данное утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_85e4249231cfbf0f",
+      "claim_id": "clm_d53e7b45b76d9614",
+      "source_id": "src_d1c72cce17dae8f6",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает данное утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_86cc25570b84df93",
+      "claim_id": "clm_0bbfbebdde8a2ddd",
+      "source_id": "src_69bb4927787164ed",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает данное утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_e1082573dcccb220",
+      "claim_id": "clm_0bbfbebdde8a2ddd",
+      "source_id": "src_6d80f194c9b2273e",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает данное утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_303845e1f671e2b6",
+      "claim_id": "clm_0bbfbebdde8a2ddd",
+      "source_id": "src_121a5b035b92ecbf",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает данное утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_d2093a61ed5e61a5",
+      "claim_id": "clm_b00c1667cc9535d6",
+      "source_id": "src_69bb4927787164ed",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает данное утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_1e6702f5db2d91f7",
+      "claim_id": "clm_b00c1667cc9535d6",
+      "source_id": "src_59a3f4dd64cc257b",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает данное утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_73ed5f67df60da2c",
+      "claim_id": "clm_b00c1667cc9535d6",
+      "source_id": "src_cb044a53dcd762cf",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает данное утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_93eb91cf8462930e",
+      "claim_id": "clm_855530dd412b2cd9",
+      "source_id": "src_69bb4927787164ed",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает данное утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_57c192a37cfba480",
+      "claim_id": "clm_855530dd412b2cd9",
+      "source_id": "src_59b6d55bd4500f88",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает данное утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_8d9e74e0f61cf9c1",
+      "claim_id": "clm_5b32509e1cd15d37",
+      "source_id": "src_be591e05f9ce8c06",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает данное утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_e6a816ebea41af01",
+      "claim_id": "clm_29b84fe09674a068",
+      "source_id": "src_69bb4927787164ed",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает данное утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_b3c48e60b13c1bcb",
+      "claim_id": "clm_29b84fe09674a068",
+      "source_id": "src_980989b9e6cc4311",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает данное утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_8d92e4c8b9e6bf0b",
+      "claim_id": "clm_6c017ce7bb63de31",
+      "source_id": "src_d1c72cce17dae8f6",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает данное утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_57fa4db9e9ccb67a",
+      "claim_id": "clm_6f495c126d1819be",
+      "source_id": "src_17c72ea4441b9d95",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает данное утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_52246c492672613c",
+      "claim_id": "clm_f670dc976f865a74",
+      "source_id": "src_17c72ea4441b9d95",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает данное утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_384d73c5f8193195",
+      "claim_id": "clm_8840c1067c8bddf3",
+      "source_id": "src_148895d4830d401e",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает данное утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_b2e19b236206f5a0",
+      "claim_id": "clm_8840c1067c8bddf3",
+      "source_id": "src_3f5f0b7493429a5b",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает данное утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_3c38fab3858066ef",
+      "claim_id": "clm_e130d776e628d30f",
+      "source_id": "src_458050638f38f618",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает данное утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_a56d2325e9d6e377",
+      "claim_id": "clm_e130d776e628d30f",
+      "source_id": "src_96b6e0e746d57244",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает данное утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_2622312b4d05dc3b",
+      "claim_id": "clm_e130d776e628d30f",
+      "source_id": "src_94284d31b9a5c3f0",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает данное утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_f5e3e1446d5d8e25",
+      "claim_id": "clm_5e28f4153c39931a",
+      "source_id": "src_96b6e0e746d57244",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает данное утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_62ef501718ffe6e4",
+      "claim_id": "clm_987642288d5e23f5",
+      "source_id": "src_6d80f194c9b2273e",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает данное утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_83750860d87bcbe1",
+      "claim_id": "clm_a9ee8ce5575e2b57",
+      "source_id": "src_290b107d98560e34",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает данное утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_bba935d55b393e7a",
+      "claim_id": "clm_2403d7aa519ad9f5",
+      "source_id": "src_91243e770d9d48f3",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает данное утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_95cd89b34eed8224",
+      "claim_id": "clm_d46b3c66947ee74e",
+      "source_id": "src_148895d4830d401e",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает данное утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_25f1a306b7b4773d",
+      "claim_id": "clm_1a9597ba0bbba2b2",
+      "source_id": "src_f1d2422ca49265f7",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает данное утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_f24a7994810fe45f",
+      "claim_id": "clm_3d30b2a30cc00c37",
+      "source_id": "src_b2120ef9ed65b526",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает данное утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_0b34a53ae479693d",
+      "claim_id": "clm_3d30b2a30cc00c37",
+      "source_id": "src_f1ee795fe75f24a9",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает данное утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_aa6f58e63713f0da",
+      "claim_id": "clm_3d30b2a30cc00c37",
+      "source_id": "src_d1c72cce17dae8f6",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает данное утверждение исследовательского досье VANSMITHLAB."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — research-досье автора (Иван Мельник), подготовленное вне автоматизированного конвейера VANSMITHLAB. Claude (сессия) свёл документ в формат сайта, перенёс claim registry и источники без запуска автоматической evidence-проверки. Требуется полный прогон конвейера (research -> evidence -> russian_fact_review) для перехода в verification_state \"verified\".",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-06T00:00:00.000Z"
+  }
+}

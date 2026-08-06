@@ -13,7 +13,28 @@ npm.cmd run content:request -- --topic "Баухаус и развитие со�
 npm.cmd run content:run -- --request automation/requests/<generated-file>.json
 ```
 
-Without provider keys, `content:run` stops before external calls and explains which secrets are missing. Use GitHub Actions for normal operation.
+## Recommended local mode (no API keys)
+
+The Windows workstation uses the official subscription-authenticated Claude Code and Codex CLIs. Gemini and Figma Weave are optional handoffs until they provide a supported unattended interface for the owner's account.
+
+```powershell
+npm.cmd run local:doctor
+npm.cmd run content:request -- --topic "Bauhaus and modern typography" --type research --media true
+npm.cmd run local:run
+npm.cmd run local:publish
+```
+
+The local role separation is `Codex intake → Claude research → Codex evidence audit → Claude Russian master → Codex fact review → Claude English adaptation → Codex parity review → deterministic validation`.
+
+Queue state is stored under `automation/state/`. Runtime locks and detailed model outputs remain local under ignored directories. A failed or uncertain run leaves the existing public site unchanged. Use `npm.cmd run local:retry` only after the recorded failure or review request has been resolved.
+
+Evidence audit is claim-level. Safe omissions, narrowing, attribution, splitting, primary-source replacement and holding a non-material claim produce `AUTO_REVISE` followed by a new independent audit. A whole article is blocked only when a material claim required by the reader promise remains unresolved after the bounded revision loop. The implemented runner must match `VANSMITHLAB_OS/decisions/ADR-003_CLAIM_LEVEL_AUTO_REVISE.md` before unattended publication is enabled.
+
+Do not export browser cookies, Claude/Codex subscription tokens or OAuth sessions to GitHub. Do not connect either subscription through an unofficial provider router.
+
+## Optional API mode
+
+The original API pipeline remains available when all provider keys are intentionally configured. Without those keys, direct `content:run` in its default `api` mode stops before external calls. GitHub Actions is manual-only in this configuration.
 
 ## GitHub setup
 
@@ -24,7 +45,7 @@ Repository → Settings → Secrets and variables → Actions → New repository
 - `GEMINI_API_KEY`
 - optionally `WEAVE_MEDIA_WEBHOOK_URL` and `WEAVE_MEDIA_WEBHOOK_SECRET`
 
-Committing a new JSON file under `automation/requests/` starts the workflow automatically. It can also be started manually from Actions → VANSMITHLAB Content Automation. A time schedule is included but disabled until provider budgets and the desired publishing cadence are confirmed.
+The API workflow can be started manually from Actions → VANSMITHLAB Content Automation. A time schedule remains disabled until provider budgets and the desired publishing cadence are confirmed.
 
 ## Outputs
 

@@ -7,4 +7,5 @@ out/
 .wrangler/
 automation/runs/
 automation/review-requests/
+automation/.runtime/
 !.gitkeep

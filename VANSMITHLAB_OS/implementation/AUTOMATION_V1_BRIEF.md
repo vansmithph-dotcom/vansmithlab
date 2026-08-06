@@ -34,5 +34,8 @@ Version 1 stores portable knowledge/release JSON and approved Markdown in Git wh
 - No model approves its own research output.
 - Russian master is generated and validated before English.
 - Only `AUTO_APPROVE` writes publishable content.
+- `AUTO_REVISE` persists a claim-level revision plan, applies only policy-approved safe repairs and re-runs independent verification up to the bounded limit.
+- Non-material conflicting or unsupported details may be held outside the release without lowering the threshold for retained claims.
+- Queue state preserves editorial outcomes separately from technical process failure.
 - Provider keys are read only from secret environment variables.
 - Lint and production build succeed with generated content.

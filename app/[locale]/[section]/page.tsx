@@ -1,3 +1,4 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 import Image from "next/image";
 import { notFound } from "next/navigation";
@@ -7,6 +8,13 @@ import { copy, isLocale, objectSamples, sectionKeys } from "@/lib/site-data";
 
 export function generateStaticParams() {
   return sectionKeys.flatMap((section) => ["ru", "en"].map((locale) => ({ locale, section })));
+}
+
+export async function generateMetadata({ params }: { params: Promise<{ locale: string; section: string }> }): Promise<Metadata> {
+  const { locale, section } = await params;
+  if (!isLocale(locale) || !(section in copy[locale].section)) return {};
+  const page = copy[locale].section[section];
+  return { title: page.title, description: page.text, alternates: { canonical: `/${locale}/${section}` } };
 }
 
 export default async function SectionPage({ params }: { params: Promise<{ locale: string; section: string }> }) {

@@ -1,0 +1,552 @@
+{
+  "sources": [
+    {
+      "title": "The Fashion Show",
+      "url": "https://www.vam.ac.uk/articles/the-fashion-show",
+      "publisher": "Victoria and Albert Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-04",
+      "source_type": "institutional_web_source"
+    },
+    {
+      "title": "Our History",
+      "url": "https://www.fhcm.paris/en/our-history",
+      "publisher": "Fédération de la Haute Couture et de la Mode",
+      "source_tier": 1,
+      "accessed_at": "2026-08-04",
+      "source_type": "institutional_web_source"
+    },
+    {
+      "title": "Summary of Commission Decision — Case AT.40642 Pierre Cardin (CELEX 52025AT40642(02))",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52025AT40642%2802%29",
+      "publisher": "European Commission / EUR-Lex",
+      "source_tier": 1,
+      "accessed_at": "2026-08-04",
+      "source_type": "institutional_web_source"
+    },
+    {
+      "title": "Official Journal notice C/2025/3014",
+      "url": "https://eur-lex.europa.eu/eli/C/2025/3014/oj/eng/pdf",
+      "publisher": "European Commission / EUR-Lex",
+      "source_tier": 1,
+      "accessed_at": "2026-08-04",
+      "source_type": "institutional_web_source"
+    },
+    {
+      "title": "Charles Frederick Worth (1825–1895) and the House of Worth",
+      "url": "https://www.metmuseum.org/essays/charles-frederick-worth-1825-1895-and-the-house-of-worth",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-04",
+      "source_type": "institutional_web_source"
+    },
+    {
+      "title": "Rei Kawakubo/Comme des Garçons: Art of the In-Between — exhibition listing",
+      "url": "https://www.metmuseum.org/exhibitions/listings/2017/rei-kawakubo",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-04",
+      "source_type": "institutional_web_source"
+    },
+    {
+      "title": "Exhibition Galleries — Rei Kawakubo/Comme des Garçons",
+      "url": "https://www.metmuseum.org/exhibitions/listings/2017/rei-kawakubo/exhibition-galleries",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-04",
+      "source_type": "institutional_web_source"
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1r_worth_firm_opened_1858",
+      "wording_ru": "The Met сообщает, что Уорт открыл собственную фирму с деловым партнёром в 1858 году.",
+      "claim_type": "factual",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.88,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/essays/charles-frederick-worth-1825-1895-and-the-house-of-worth",
+          "locator": "Early Career, line 119: Worth relocated to Paris in 1845 and opened his own firm with a business partner in 1858.",
+          "support": "The Met сообщает, что Уорт открыл собственную фирму с деловым партнёром в 1858 году."
+        }
+      ]
+    },
+    {
+      "id": "c1r_fhcm_worth_first_couture_house_attributed",
+      "wording_ru": "FHCM относит к Уорту основание первой true Couture House в 1858 году по адресу 7 rue de la Paix в Париже.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.87,
+      "evidence": [
+        {
+          "source_url": "https://www.fhcm.paris/en/our-history",
+          "locator": "Our history, line 81: FHCM attributes the first true Couture House to Worth in 1858 at 7 rue de la Paix, Paris.",
+          "support": "FHCM относит к Уорту основание первой true Couture House в 1858 году по адресу 7 rue de la Paix в Париже."
+        }
+      ]
+    },
+    {
+      "id": "c2_worth_succession",
+      "wording_ru": "После смерти Уорта в 1895 году его бизнес перешёл к сыновьям Гастону-Люсьену и Жан-Филиппу Уорт; The Met описывает продолжение деятельности дома во время их управления и в 1920-е годы.",
+      "claim_type": "factual",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.88,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/essays/charles-frederick-worth-1825-1895-and-the-house-of-worth",
+          "locator": "The House of Worth Continues, lines 129-131.",
+          "support": "После смерти Уорта в 1895 году его бизнес перешёл к сыновьям Гастону-Люсьену и Жан-Филиппу Уорт; The Met описывает продолжение деятельности дома во время их управления и в 1920-е годы."
+        }
+      ]
+    },
+    {
+      "id": "c3r_vam_worth_four_annual_presentations_attributed",
+      "wording_ru": "V&A приписывает Уорту практику представления клиентуре коллекций его дизайнов четыре раза в год.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.86,
+      "evidence": [
+        {
+          "source_url": "https://www.vam.ac.uk/articles/the-fashion-show",
+          "locator": "Opening paragraph, lines 31-34: V&A attributes four annual presentations.",
+          "support": "V&A приписывает Уорту практику представления клиентуре коллекций его дизайнов четыре раза в год."
+        }
+      ]
+    },
+    {
+      "id": "c3r_met_worth_live_models_and_bespoke_selection",
+      "wording_ru": "The Met сообщает, что в House of Worth варианты дизайнов показывали на живых моделях, клиентки выбирали вещи, которые затем изготавливались индивидуально.",
+      "claim_type": "factual",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.87,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/essays/charles-frederick-worth-1825-1895-and-the-house-of-worth",
+          "locator": "Success in Paris, line 123: designs shown on live models; clients selected and garments were tailor-made.",
+          "support": "The Met сообщает, что в House of Worth варианты дизайнов показывали на живых моделях, клиентки выбирали вещи, которые затем изготавливались индивидуально."
+        }
+      ]
+    },
+    {
+      "id": "c4r_show_historical_access",
+      "wording_ru": "V&A описывает исторически контролируемый доступ к коллекциям haute couture в домах, таких как Dior и Balenciaga: последовательные показы для модной прессы, коммерческих байеров, частных клиенток и затем заинтересованной публики.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.88,
+      "evidence": [
+        {
+          "source_url": "https://www.vam.ac.uk/articles/the-fashion-show",
+          "locator": "Lines 40-42: controlled entry and stated sequence of audiences at Dior and Balenciaga.",
+          "support": "V&A описывает исторически контролируемый доступ к коллекциям haute couture в домах, таких как Dior и Balenciaga: последовательные показы для модной прессы, коммерческих байеров, частных клиенток и затем заинтересованной публики."
+        }
+      ]
+    },
+    {
+      "id": "c6a_fhcm_1868_origin",
+      "wording_ru": "Согласно хронологии FHCM, её предшествующая организация была основана в 1868 году как Chambre Syndicale de la Couture.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.87,
+      "evidence": [
+        {
+          "source_url": "https://www.fhcm.paris/en/our-history",
+          "locator": "Our history, lines 63-68.",
+          "support": "Согласно хронологии FHCM, её предшествующая организация была основана в 1868 году как Chambre Syndicale de la Couture."
+        }
+      ]
+    },
+    {
+      "id": "c6b_fhcm_1910_renaming",
+      "wording_ru": "Согласно хронологии FHCM, в 1910 году организация стала называться Chambre Syndicale de la Couture Parisienne.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.87,
+      "evidence": [
+        {
+          "source_url": "https://www.fhcm.paris/en/our-history",
+          "locator": "Our history, lines 63-68.",
+          "support": "Согласно хронологии FHCM, в 1910 году организация стала называться Chambre Syndicale de la Couture Parisienne."
+        }
+      ]
+    },
+    {
+      "id": "c6c_fhcm_1945_renaming",
+      "wording_ru": "Согласно хронологии FHCM, в 1945 году организация стала называться Chambre Syndicale de la Haute Couture.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.87,
+      "evidence": [
+        {
+          "source_url": "https://www.fhcm.paris/en/our-history",
+          "locator": "Our history, lines 63-68.",
+          "support": "Согласно хронологии FHCM, в 1945 году организация стала называться Chambre Syndicale de la Haute Couture."
+        }
+      ]
+    },
+    {
+      "id": "c6d_fhcm_1973_federation_creation",
+      "wording_ru": "Согласно хронологии FHCM, в 1973 году была создана Fédération Française de la Couture, du Prêt-à-Porter des Couturiers et des Créateurs de Mode.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.87,
+      "evidence": [
+        {
+          "source_url": "https://www.fhcm.paris/en/our-history",
+          "locator": "Our history, lines 63-68.",
+          "support": "Согласно хронологии FHCM, в 1973 году была создана Fédération Française de la Couture, du Prêt-à-Porter des Couturiers et des Créateurs de Mode."
+        }
+      ]
+    },
+    {
+      "id": "c6e_fhcm_2017_fhcm_renaming",
+      "wording_ru": "Согласно хронологии FHCM, 29 июня 2017 года организация стала Fédération de la Haute Couture et de la Mode.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.87,
+      "evidence": [
+        {
+          "source_url": "https://www.fhcm.paris/en/our-history",
+          "locator": "Our history, lines 63-68.",
+          "support": "Согласно хронологии FHCM, 29 июня 2017 года организация стала Fédération de la Haute Couture et de la Mode."
+        }
+      ]
+    },
+    {
+      "id": "c7a_fhcm_haute_couture_two_annual_presentations",
+      "wording_ru": "FHCM указывает, что коллекции haute couture представляются дважды в год — в январе и июле.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.86,
+      "evidence": [
+        {
+          "source_url": "https://www.fhcm.paris/en/our-history",
+          "locator": "Haute Couture, a French exception, lines 77-80.",
+          "support": "FHCM указывает, что коллекции haute couture представляются дважды в год — в январе и июле."
+        }
+      ]
+    },
+    {
+      "id": "c7b_fhcm_2010_haute_joaillerie_calendar_attributed",
+      "wording_ru": "На странице истории FHCM указано, что с 2010 года официальный календарь haute couture стал принимать связанные с федерацией дома высокого ювелирного искусства.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.86,
+      "evidence": [
+        {
+          "source_url": "https://www.fhcm.paris/en/our-history",
+          "locator": "Haute Couture, a French exception, lines 77-80.",
+          "support": "На странице истории FHCM указано, что с 2010 года официальный календарь haute couture стал принимать связанные с федерацией дома высокого ювелирного искусства."
+        }
+      ]
+    },
+    {
+      "id": "c10a_cardin_decision_date_and_legal_basis",
+      "wording_ru": "28 ноября 2024 года Европейская комиссия приняла решение по производству в соответствии со статьёй 101 ДФЕС и статьёй 53 Соглашения о ЕЭП, дело AT.40642 (Pierre Cardin).",
+      "claim_type": "factual",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52025AT40642%2802%29",
+          "locator": "CELEX 52025AT40642(02), heading and paragraph 1.",
+          "support": "28 ноября 2024 года Европейская комиссия приняла решение по производству в соответствии со статьёй 101 ДФЕС и статьёй 53 Соглашения о ЕЭП, дело AT.40642 (Pierre Cardin)."
+        },
+        {
+          "source_url": "https://eur-lex.europa.eu/eli/C/2025/3014/oj/eng/pdf",
+          "locator": "Official Journal C/2025/3014, heading.",
+          "support": "28 ноября 2024 года Европейская комиссия приняла решение по производству в соответствии со статьёй 101 ДФЕС и статьёй 53 Соглашения о ЕЭП, дело AT.40642 (Pierre Cardin)."
+        }
+      ]
+    },
+    {
+      "id": "c10b_cardin_decision_addressees",
+      "wording_ru": "Решение адресовано Pierre Cardin Evolution и Société de Gestion Pierre Cardin (Cardin SAS), солидарно, а также Westfälisches Textilwerk Adolf Ahlers Stiftung & Co. KG (WTW Ahlers).",
+      "claim_type": "factual",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.91,
+      "evidence": [
+        {
+          "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52025AT40642%2802%29",
+          "locator": "CELEX 52025AT40642(02), heading and paragraph 1.",
+          "support": "Решение адресовано Pierre Cardin Evolution и Société de Gestion Pierre Cardin (Cardin SAS), солидарно, а также Westfälisches Textilwerk Adolf Ahlers Stiftung & Co. KG (WTW Ahlers)."
+        },
+        {
+          "source_url": "https://eur-lex.europa.eu/eli/C/2025/3014/oj/eng/pdf",
+          "locator": "Official Journal C/2025/3014, heading.",
+          "support": "Решение адресовано Pierre Cardin Evolution и Société de Gestion Pierre Cardin (Cardin SAS), солидарно, а также Westfälisches Textilwerk Adolf Ahlers Stiftung & Co. KG (WTW Ahlers)."
+        }
+      ]
+    },
+    {
+      "id": "c11a_cardin_infringement_period",
+      "wording_ru": "Согласно официальному резюме решения, нарушение продолжалось с 1 января 2008 года по 31 марта 2021 года.",
+      "claim_type": "factual",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52025AT40642%2802%29",
+          "locator": "Paragraphs 8-10: relevant period.",
+          "support": "Согласно официальному резюме решения, нарушение продолжалось с 1 января 2008 года по 31 марта 2021 года."
+        },
+        {
+          "source_url": "https://eur-lex.europa.eu/eli/C/2025/3014/oj/eng/pdf",
+          "locator": "Official Journal publication C/2025/3014 of the same Commission summary.",
+          "support": "Согласно официальному резюме решения, нарушение продолжалось с 1 января 2008 года по 31 марта 2021 года."
+        }
+      ]
+    },
+    {
+      "id": "c11b_cardin_restrictions_on_licensed_product_sales",
+      "wording_ru": "Официальное резюме указывает, что Cardin и Ahlers участвовали в соглашениях и согласованных практиках, ограничивавших пассивные трансграничные продажи лицензированной продукции Pierre Cardin, включая продажи вне территории, и продажи определённым клиентам в ЕЭЗ, включая дискаунтеров.",
+      "claim_type": "factual",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52025AT40642%2802%29",
+          "locator": "Paragraphs 8-10: passive sales outside territory and customer restrictions including discount retailers.",
+          "support": "Официальное резюме указывает, что Cardin и Ahlers участвовали в соглашениях и согласованных практиках, ограничивавших пассивные трансграничные продажи лицензированной продукции Pierre Cardin, включая продажи вне территории, и продажи определённым клиентам в ЕЭЗ, включая дискаунтеров."
+        },
+        {
+          "source_url": "https://eur-lex.europa.eu/eli/C/2025/3014/oj/eng/pdf",
+          "locator": "Official Journal publication C/2025/3014 of the same Commission summary.",
+          "support": "Официальное резюме указывает, что Cardin и Ahlers участвовали в соглашениях и согласованных практиках, ограничивавших пассивные трансграничные продажи лицензированной продукции Pierre Cardin, включая продажи вне территории, и продажи определённым клиентам в ЕЭЗ, включая дискаунтеров."
+        }
+      ]
+    },
+    {
+      "id": "c12a_cardin_and_cardin_sas_fine",
+      "wording_ru": "Согласно параграфу 20 резюме решения, штраф для Cardin Evolution и Cardin SAS составляет 2 237 000 евро солидарно.",
+      "claim_type": "quantitative",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52025AT40642%2802%29",
+          "locator": "Paragraph 20, Final amount.",
+          "support": "Согласно параграфу 20 резюме решения, штраф для Cardin Evolution и Cardin SAS составляет 2 237 000 евро солидарно."
+        },
+        {
+          "source_url": "https://eur-lex.europa.eu/eli/C/2025/3014/oj/eng/pdf",
+          "locator": "Official Journal C/2025/3014, paragraph 20.",
+          "support": "Согласно параграфу 20 резюме решения, штраф для Cardin Evolution и Cardin SAS составляет 2 237 000 евро солидарно."
+        }
+      ]
+    },
+    {
+      "id": "c12b_wtw_ahlers_fine",
+      "wording_ru": "Согласно параграфу 20 резюме решения, штраф для WTW Ahlers составляет 3 500 000 евро.",
+      "claim_type": "quantitative",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52025AT40642%2802%29",
+          "locator": "Paragraph 20, Final amount.",
+          "support": "Согласно параграфу 20 резюме решения, штраф для WTW Ahlers составляет 3 500 000 евро."
+        },
+        {
+          "source_url": "https://eur-lex.europa.eu/eli/C/2025/3014/oj/eng/pdf",
+          "locator": "Official Journal C/2025/3014, paragraph 20.",
+          "support": "Согласно параграфу 20 резюме решения, штраф для WTW Ahlers составляет 3 500 000 евро."
+        }
+      ]
+    },
+    {
+      "id": "c13a_met_exhibition_dates",
+      "wording_ru": "Выставка The Met «Rei Kawakubo/Comme des Garçons: Art of the In-Between» проходила в The Met Fifth Avenue с 4 мая по 4 сентября 2017 года.",
+      "claim_type": "factual",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.94,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/exhibitions/listings/2017/rei-kawakubo",
+          "locator": "Exhibition listing, lines 48-52.",
+          "support": "Выставка The Met «Rei Kawakubo/Comme des Garçons: Art of the In-Between» проходила в The Met Fifth Avenue с 4 мая по 4 сентября 2017 года."
+        },
+        {
+          "source_url": "https://www.metmuseum.org/exhibitions/listings/2017/rei-kawakubo/exhibition-galleries",
+          "locator": "Exhibition Galleries, lines 48-63.",
+          "support": "Выставка The Met «Rei Kawakubo/Comme des Garçons: Art of the In-Between» проходила в The Met Fifth Avenue с 4 мая по 4 сентября 2017 года."
+        }
+      ]
+    },
+    {
+      "id": "c13b_met_nine_expressions_interpretive_framework",
+      "wording_ru": "The Met характеризует выставку как исследование девяти выражений «in-betweenness» в коллекциях Кавакубо.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.89,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/exhibitions/listings/2017/rei-kawakubo/exhibition-galleries",
+          "locator": "Lines 63-71: nine expressions of in-betweenness.",
+          "support": "The Met характеризует выставку как исследование девяти выражений «in-betweenness» в коллекциях Кавакубо."
+        }
+      ]
+    },
+    {
+      "id": "c13c_met_exhibition_design_collaboration",
+      "wording_ru": "The Met описывает дизайн экспозиции как совместную работу Кавакубо и музея.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.88,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/exhibitions/listings/2017/rei-kawakubo/exhibition-galleries",
+          "locator": "Lines 63-71: collaboration between Kawakubo and The Met.",
+          "support": "The Met описывает дизайн экспозиции как совместную работу Кавакубо и музея."
+        }
+      ]
+    },
+    {
+      "id": "c13d_met_immersive_experience_intent",
+      "wording_ru": "The Met описывает намерение создать целостный иммерсивный опыт как часть замысла дизайна экспозиции.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.87,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/exhibitions/listings/2017/rei-kawakubo/exhibition-galleries",
+          "locator": "Lines 63-71: intended holistic, immersive experience.",
+          "support": "The Met описывает намерение создать целостный иммерсивный опыт как часть замысла дизайна экспозиции."
+        }
+      ]
+    },
+    {
+      "id": "c13c_museum_scope_limit",
+      "wording_ru": "Этот кейс документирует музейную презентацию и институциональную интерпретацию дизайнерского языка; он сам по себе не доказывает причинное воздействие Кавакубо или выставки на всю индустрию моды.",
+      "claim_type": "descriptive",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.91,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/exhibitions/listings/2017/rei-kawakubo",
+          "locator": "Lines 48-66: documented exhibition context.",
+          "support": "Этот кейс документирует музейную презентацию и институциональную интерпретацию дизайнерского языка; он сам по себе не доказывает причинное воздействие Кавакубо или выставки на всю индустрию моды."
+        },
+        {
+          "source_url": "https://www.metmuseum.org/exhibitions/listings/2017/rei-kawakubo/exhibition-galleries",
+          "locator": "Lines 63-71 and 73-171: museum interpretive framework.",
+          "support": "Этот кейс документирует музейную презентацию и институциональную интерпретацию дизайнерского языка; он сам по себе не доказывает причинное воздействие Кавакубо или выставки на всю индустрию моды."
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "relation_type": "documented_mechanism",
+      "mechanism_id": "m1_institutional_continuity",
+      "label_ru": "Институциональная преемственность дома (House of Worth)",
+      "claim_ids": [
+        "c1r_worth_firm_opened_1858",
+        "c1r_fhcm_worth_first_couture_house_attributed",
+        "c2_worth_succession"
+      ],
+      "limitations_ru": [
+        "Механизм иллюстрирует один задокументированный случай институциональной преемственности; он не устанавливает, что подобная модель типична или обязательна для модных домов в целом.",
+        "Год рождения Уорта исключён из релизных утверждений из-за несущественного расхождения источников (V&A: 1826–95; The Met: 1825); расхождение не материально для механизма преемственности."
+      ]
+    },
+    {
+      "relation_type": "documented_mechanism",
+      "mechanism_id": "m2_show_and_calendar",
+      "label_ru": "Показ и профессиональный календарь",
+      "claim_ids": [
+        "c3r_vam_worth_four_annual_presentations_attributed",
+        "c3r_met_worth_live_models_and_bespoke_selection",
+        "c4r_show_historical_access",
+        "c6a_fhcm_1868_origin",
+        "c6b_fhcm_1910_renaming",
+        "c6c_fhcm_1945_renaming",
+        "c6d_fhcm_1973_federation_creation",
+        "c6e_fhcm_2017_fhcm_renaming",
+        "c7a_fhcm_haute_couture_two_annual_presentations",
+        "c7b_fhcm_2010_haute_joaillerie_calendar_attributed"
+      ],
+      "limitations_ru": [
+        "Описание иерархии доступа к показу относится к историческому периоду и к конкретным домам (Dior, Balenciaga), упомянутым источником; текст не утверждает, что эта модель действует в неизменном виде во всей современной индустрии сегодня.",
+        "Показ Уорта представлен как атрибуция V&A, а не как самостоятельно подтверждённый общий факт о происхождении формата."
+      ]
+    },
+    {
+      "relation_type": "documented_mechanism",
+      "mechanism_id": "m3_haute_couture_legal_status",
+      "label_ru": "Правовой статус haute couture (атрибуция FHCM, без расширения без нормативного текста)",
+      "claim_ids": [],
+      "limitations_ru": [
+        "Правовой статус haute couture остаётся исключительно институциональной атрибуцией FHCM; нормативный первоисточник (решение от 23 января 1945 года, процедура комиссии) не был получен и не проверялся напрямую.",
+        "Этот раздел не входит в четыре механизма, запрошенных брифом; сохранён в частном реестре для возможного отдельного расширения после получения нормативного текста."
+      ]
+    },
+    {
+      "relation_type": "documented_mechanism",
+      "mechanism_id": "m4_licensing_agreements_and_antitrust_regulation",
+      "label_ru": "Лицензионные соглашения и антимонопольное регулирование (Pierre Cardin / EUR-Lex)",
+      "claim_ids": [
+        "c10a_cardin_decision_date_and_legal_basis",
+        "c10b_cardin_decision_addressees",
+        "c11a_cardin_infringement_period",
+        "c11b_cardin_restrictions_on_licensed_product_sales",
+        "c12a_cardin_and_cardin_sas_fine",
+        "c12b_wtw_ahlers_fine"
+      ],
+      "limitations_ru": [
+        "Решение касается конкретного лицензиата и конкретного периода (2008–2021); оно подтверждает наличие лицензионных соглашений и то, что связанные с ними ограничения продаж могут быть предметом антимонопольного регулирования, но не позволяет делать общий вывод о распространённости подобных нарушений в лицензионной практике модных домов в целом.",
+        "Тезис о лицензировании как форме масштабирования не подтверждён данным решением и удержан в частном исследовательском реестре (c11h_licensing_as_scaling_generalization) до появления отдельного источника; заголовок механизма и текст публикации не должны использовать формулировку «масштабирование».",
+        "Оценки роялти, число лицензий и рейтинги брендов не подтверждены источником и не включены в реестр."
+      ]
+    },
+    {
+      "relation_type": "documented_mechanism",
+      "mechanism_id": "m5_kawakubo_museum_case",
+      "label_ru": "Распространение дизайнерского языка через музейный кейс (Comme des Garçons / Rei Kawakubo, материалы The Met)",
+      "claim_ids": [
+        "c13a_met_exhibition_dates",
+        "c13b_met_nine_expressions_interpretive_framework",
+        "c13c_met_exhibition_design_collaboration",
+        "c13d_met_immersive_experience_intent",
+        "c13c_museum_scope_limit"
+      ],
+      "limitations_ru": [
+        "Прямой доступ к metmuseum.org восстановлен и независимо подтверждён; предыдущая блокировка (HTTP 429 по четырём адресам) снята и не является текущим ограничением.",
+        "Прежнее расхождение сторонних поисковых сниппетов по перечню тематических секций исключено из реестра; используется только напрямую прочитанная страница The Met Exhibition Galleries.",
+        "Механизм ограничен документированной музейной презентацией и кураторской интерпретацией; он не устанавливает и не подразумевает причинное влияние на индустрию моды в целом."
+      ]
+    }
+  ],
+  "contradictions": [],
+  "release_set_provenance": {
+    "source_run_id": "run_20260804202203_24559a0b",
+    "source_research": "automation/runs/run_20260804202203_24559a0b/02-research-revision-2.json",
+    "source_audit": "automation/runs/run_20260804202203_24559a0b/03-audit-round-3.json",
+    "transformation": "documented_claim_level_narrow_only",
+    "patch_count": 3
+  }
+}

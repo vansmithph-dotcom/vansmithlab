@@ -1,0 +1,21 @@
+{
+  "source_run_id": "run_20260804202203_24559a0b",
+  "source_research": "automation/runs/run_20260804202203_24559a0b/02-research-revision-2.json",
+  "source_audit": "automation/runs/run_20260804202203_24559a0b/03-audit-round-3.json",
+  "output": "automation/release-sets/req_b0711a7786398dce-narrow-1.release.json",
+  "reason": "Third audit found only three safe NARROW actions after the ADR-003 two-round limit; no user decision or new factual research is required.",
+  "narrow_patches": [
+    {
+      "claim_id": "c6e_fhcm_2017_fhcm_renaming",
+      "wording_ru": "Согласно хронологии FHCM, 29 июня 2017 года организация стала Fédération de la Haute Couture et de la Mode."
+    },
+    {
+      "claim_id": "c7b_fhcm_2010_haute_joaillerie_calendar_attributed",
+      "wording_ru": "На странице истории FHCM указано, что с 2010 года официальный календарь haute couture стал принимать связанные с федерацией дома высокого ювелирного искусства."
+    },
+    {
+      "claim_id": "c10a_cardin_decision_date_and_legal_basis",
+      "wording_ru": "28 ноября 2024 года Европейская комиссия приняла решение по производству в соответствии со статьёй 101 ДФЕС и статьёй 53 Соглашения о ЕЭП, дело AT.40642 (Pierre Cardin)."
+    }
+  ]
+}

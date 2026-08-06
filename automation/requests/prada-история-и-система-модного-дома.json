@@ -1,0 +1,25 @@
+{
+  "request_id": "req_e3e4813cf42b9c2b",
+  "topic": "Prada — история и система модного дома",
+  "content_type": "encyclopedia",
+  "requested_at": "2026-08-04T16:38:58.361Z",
+  "target_locales": [
+    "ru",
+    "en"
+  ],
+  "media_requested": true,
+  "scope": "Создать нейтральную энциклопедическую статью о Prada на русском языке с английской адаптацией. Использовать материалы C:\\Users\\VAN\\Desktop\\files.zip только как исследовательский черновик, а не как доказательство. Проверить каждый retained claim по доступным официальным документам Prada Group, Prada, Fondazione Prada, OMA, биржевым/регуляторным документам и сильным независимым источникам. Обязательные разделы: основание в Милане; переход к Миучче Прада и Патрицио Бертелли; нейлон как материальная стратегия только при сильных источниках; ready-to-wear и Miu Miu; Fondazione Prada; IPO; творческое партнёрство с Рафом Симонсом; современная структура группы и Versace только по актуальным первичным документам. Применить ADR-003: спорный год мужской линии, слабые биографические детали, неподтверждённые превосходные степени и claims ниже 0.85 должны быть OMIT/NARROW/ATTRIBUTE/HOLD_CLAIM, а не блокировать всю статью. Не использовать инвестиционные советы, рекламу или рейтинги.",
+  "source_leads": [
+    "https://www.prada.com/jp/en/pradasphere/places/galleria-1913.html",
+    "https://www.pradagroup.com/en/group/history.html",
+    "https://www.pradagroup.com/en/group/group-profile.html",
+    "https://www.pradagroup.com/en/news-media/news-section/26-03-05-prada-group-25-fy-results.html",
+    "https://www.pradagroup.com/content/dam/pradagroup/documents/Shareholderinformation/2026/inglese/e_Annual_Report_2025.pdf",
+    "https://www.pradagroup.com/en/news-media/press-releases-documents/2025/25-04-10-prada-group-versace.html",
+    "https://www.pradagroup.com/en/news-media/news-section/25-12-02-pradagroup-versace-closing.html",
+    "https://www.prada.com/us/en/pradasphere/special-projects/2020/miuccia-prada-raf-simons.html",
+    "https://www.fondazioneprada.org/mission-en/",
+    "https://www.oma.com/projects/fondazione-prada",
+    "https://www.hec.edu/en/knowledge/instants/pradas-hong-kong-ipo"
+  ]
+}

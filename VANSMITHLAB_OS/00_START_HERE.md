@@ -36,6 +36,8 @@ If the required rule does not exist, the agent must create a scoped documentatio
 | Site structure, UX or UI | `11_SITE_INFORMATION_ARCHITECTURE.md`, `12_UX_UI_SYSTEM.md` | `playbooks/06_PRODUCT_IMPLEMENTATION.md` |
 | Data, API, build, deployment | `04_DATA_ARCHITECTURE.md`, `14_TECHNICAL_DELIVERY.md`, `15_QUALITY_SECURITY_OPERATIONS.md` | `playbooks/06_PRODUCT_IMPLEMENTATION.md` |
 
+For local subscription-based automation, also read `decisions/ADR-002_LOCAL_SUBSCRIPTION_ORCHESTRATION.md`. For evidence repair, retry and blocking decisions, read `decisions/ADR-003_CLAIM_LEVEL_AUTO_REVISE.md`.
+
 ## Canonical flow
 
 ```text

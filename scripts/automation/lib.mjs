@@ -7,7 +7,7 @@ export const isoNow = () => new Date().toISOString();
 export const dateNow = () => isoNow().slice(0, 10);
 export const hash = (value) => createHash("sha256").update(typeof value === "string" ? value : JSON.stringify(value)).digest("hex");
 export const stableId = (prefix, value) => `${prefix}_${hash(value).slice(0, 16)}`;
-export const slugify = (value) => value.toLowerCase().normalize("NFKD").replace(/[^a-zа-яё0-9]+/giu, "-").replace(/^-|-$/g, "");
+export const slugify = (value) => value.toLowerCase().normalize("NFKC").replace(/[^a-zа-яё0-9]+/giu, "-").replace(/^-|-$/g, "");
 
 export async function readJson(file) {
   return JSON.parse(await readFile(file, "utf8"));
