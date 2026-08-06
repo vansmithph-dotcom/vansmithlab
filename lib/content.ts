@@ -15,20 +15,29 @@ export type PublishedContent = { metadata: ContentMetadata; body: string; source
 
 const contentRoot = path.join(process.cwd(), "content");
 const knowledgeRoot = path.join(process.cwd(), "knowledge", "objects");
-const publicSections = new Set(["encyclopedia", "glossary", "articles", "analysis", "timeline", "collection", "collections"]);
+const publicSections = new Set(["encyclopedia", "glossary", "glossary/designers", "articles", "analysis", "timeline", "collection", "collections"]);
 const normalizedSection = (section: string) => section === "collections" ? "collection" : section;
+
+// Section directories can nest one level deep (e.g. "glossary/designers"). We walk each
+// public section directory and, if it holds no content files directly, look one level
+// further down for a recognised nested section instead of silently returning nothing.
+function readJsonFiles(dir: string): string[] {
+  if (!fs.existsSync(dir)) return [];
+  return fs.readdirSync(dir).filter((name) => name.endsWith(".json"));
+}
 
 export function listContent(locale?: Locale, section?: string): ContentMetadata[] {
   const items: ContentMetadata[] = [];
   for (const currentLocale of locale ? [locale] : (["ru", "en"] as Locale[])) {
     const localeDir = path.join(contentRoot, currentLocale);
     if (!fs.existsSync(localeDir)) continue;
-    const sectionDirs = section ? [...new Set([section, normalizedSection(section)])] : fs.readdirSync(localeDir, { withFileTypes: true }).filter((entry) => entry.isDirectory()).map((entry) => entry.name);
+    const sectionDirs = section
+      ? [...new Set([section, normalizedSection(section)])]
+      : [...publicSections].filter((candidate) => fs.existsSync(path.join(localeDir, candidate)));
     for (const sectionDir of sectionDirs) {
       if (!publicSections.has(sectionDir) && section) continue;
       const dir = path.join(localeDir, sectionDir);
-      if (!fs.existsSync(dir)) continue;
-      for (const file of fs.readdirSync(dir).filter((name) => name.endsWith(".json"))) {
+      for (const file of readJsonFiles(dir)) {
         const metadata = JSON.parse(fs.readFileSync(path.join(dir, file), "utf8")) as ContentMetadata;
         if (metadata.state === "published") items.push(metadata);
       }

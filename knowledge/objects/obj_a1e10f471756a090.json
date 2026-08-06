@@ -1,0 +1,502 @@
+{
+  "id": "obj_a1e10f471756a090",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Габриэль Шанель",
+  "slug_ru": "gabrielle-chanel",
+  "summary_ru": "Биографический и визуально-аналитический профиль Gabrielle Bonheur Chanel (1883-1971): от модистки 1909 года до дизайн-метода, построенного на jersey, чёрном цвете и allure, и спорного периода немецкой оккупации. История дома Chanel после 1971 года рассмотрена в отдельной институциональной статье.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.94,
+  "created_at": "2026-08-06T00:00:00.000Z",
+  "updated_at": "2026-08-06T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_32b1af593d383e67",
+      "wording_ru": "Gabrielle Bonheur Chanel родилась 19 августа 1883 года в Сомюре.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.98,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/essays/gabrielle-coco-chanel-1883-1971-and-the-house-of-chanel",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.chanel.com/us/about-chanel/the-house-of-chanel/1910/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_caaec93e9c440dbb",
+      "wording_ru": "После смерти матери часть детства провела в религиозном учреждении в Обазине.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.95,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/essays/gabrielle-coco-chanel-1883-1971-and-the-house-of-chanel",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_d93344051b33ba4f",
+      "wording_ru": "Начала карьеру как модистка в 1909 году; открыла шляпный магазин Chanel Modes в 1910-м.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.97,
+      "evidence": [
+        {
+          "source_url": "https://www.chanel.com/us/about-chanel/the-house-of-chanel/1910/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.vam.ac.uk/articles/gabrielle-chanel-dressing-the-modern-woman",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_78a49bdc5936e74c",
+      "wording_ru": "Открыла магазины в Довиле и Биаррице; первый couture-дом относится к середине 1910-х годов.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.93,
+      "evidence": [
+        {
+          "source_url": "https://www.vam.ac.uk/articles/gabrielle-chanel-dressing-the-modern-woman",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_7ee096a5e9768eb1",
+      "wording_ru": "Системно ввела трикотажный jersey в современный luxury-гардероб, взяв утилитарный материал и изменив его статус.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.94,
+      "evidence": [
+        {
+          "source_url": "https://www.vam.ac.uk/articles/gabrielle-chanel-dressing-the-modern-woman",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.metmuseum.org/essays/gabrielle-coco-chanel-1883-1971-and-the-house-of-chanel",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_eaef8b6dbb8e01fc",
+      "wording_ru": "Парфюм Chanel N°5 был представлен в 1921 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.97,
+      "evidence": [
+        {
+          "source_url": "https://www.chanel.com/us/about-chanel/the-house-of-chanel/1920/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_3f3b4e77fe379e1e",
+      "wording_ru": "Компания Parfums Chanel была создана в 1924 году в партнёрстве с Pierre Wertheimer.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.95,
+      "evidence": [
+        {
+          "source_url": "https://www.chanel.com/us/about-chanel/the-house-of-chanel/1920/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.metmuseum.org/essays/gabrielle-coco-chanel-1883-1971-and-the-house-of-chanel",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_0b28080eed62462e",
+      "wording_ru": "Vogue опубликовал чёрное платье Chanel в 1926 году — позднее известное как «маленькое чёрное платье».",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/essays/gabrielle-coco-chanel-1883-1971-and-the-house-of-chanel",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_8359f4d9f5ff0b19",
+      "wording_ru": "Закрыла couture-ателье в 1939 году, с началом Второй мировой войны.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.96,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/essays/gabrielle-coco-chanel-1883-1971-and-the-house-of-chanel",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.britannica.com/topic/Was-Coco-Chanel-a-Nazi-Spy",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_7044a379ae70852a",
+      "wording_ru": "Во время оккупации Парижа жила в отеле Ritz и состояла в отношениях с офицером немецкой разведки бароном фон Динклаге.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.94,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/topic/Was-Coco-Chanel-a-Nazi-Spy",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.newsweek.com/coco-chanel-nazi-spy-sympathizer-new-look-juliette-binoche-apple-tv-1863978",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_75b1208f70e6af1e",
+      "wording_ru": "Пыталась использовать нацистские законы об «аризации» собственности против еврейских партнёров Wertheimer.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.93,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/topic/Was-Coco-Chanel-a-Nazi-Spy",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.newsweek.com/coco-chanel-nazi-spy-sympathizer-new-look-juliette-binoche-apple-tv-1863978",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_1da449a063a108a0",
+      "wording_ru": "По утверждению историка Hal Vaughan, в документах немецкой разведки фигурировала под кодовым именем Westminster.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.85,
+      "evidence": [
+        {
+          "source_url": "https://www.newsweek.com/coco-chanel-nazi-spy-sympathizer-new-look-juliette-binoche-apple-tv-1863978",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_0631ba5a8ec535df",
+      "wording_ru": "Вернулась к couture в 1954 году, в возрасте 70 лет.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.96,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/essays/gabrielle-coco-chanel-1883-1971-and-the-house-of-chanel",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_6b3b4eb650591693",
+      "wording_ru": "Сумка 2.55 была представлена в феврале 1955 года.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/essays/gabrielle-coco-chanel-1883-1971-and-the-house-of-chanel",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_8aa892aab0378305",
+      "wording_ru": "Умерла 10 января 1971 года в Париже.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.97,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/essays/gabrielle-coco-chanel-1883-1971-and-the-house-of-chanel",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.chanel.com/us/about-chanel/the-house-of-chanel/1910/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_5743b4d2e501cdda",
+      "title": "CHANEL — 1910s official house history",
+      "url": "https://www.chanel.com/us/about-chanel/the-house-of-chanel/1910/",
+      "publisher": "CHANEL",
+      "source_tier": 1,
+      "accessed_at": "2026-08-06"
+    },
+    {
+      "id": "src_848dc4a8c00b4ae3",
+      "title": "CHANEL — 1920s official house history (No.5 launch)",
+      "url": "https://www.chanel.com/us/about-chanel/the-house-of-chanel/1920/",
+      "publisher": "CHANEL",
+      "source_tier": 1,
+      "accessed_at": "2026-08-06"
+    },
+    {
+      "id": "src_b97ff6ec65236a06",
+      "title": "The Met Heilbrunn Timeline — Jessa Krick, \"Gabrielle 'Coco' Chanel (1883-1971) and the House of Chanel\"",
+      "url": "https://www.metmuseum.org/essays/gabrielle-coco-chanel-1883-1971-and-the-house-of-chanel",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 1,
+      "accessed_at": "2026-08-06"
+    },
+    {
+      "id": "src_21a1809615d99894",
+      "title": "V&A — Gabrielle Chanel: dressing the modern woman",
+      "url": "https://www.vam.ac.uk/articles/gabrielle-chanel-dressing-the-modern-woman",
+      "publisher": "Victoria and Albert Museum",
+      "source_tier": 1,
+      "accessed_at": "2026-08-06"
+    },
+    {
+      "id": "src_54b461e642d229bb",
+      "title": "Britannica — Was Coco Chanel a Nazi Spy?",
+      "url": "https://www.britannica.com/topic/Was-Coco-Chanel-a-Nazi-Spy",
+      "publisher": "Encyclopaedia Britannica",
+      "source_tier": 1,
+      "accessed_at": "2026-08-06"
+    },
+    {
+      "id": "src_d6c9cd94e543b5e0",
+      "title": "Newsweek — Was Coco Chanel a Nazi Spy?",
+      "url": "https://www.newsweek.com/coco-chanel-nazi-spy-sympathizer-new-look-juliette-binoche-apple-tv-1863978",
+      "publisher": "Newsweek",
+      "source_tier": 2,
+      "accessed_at": "2026-08-06"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_86c3295245c904be",
+      "claim_id": "clm_32b1af593d383e67",
+      "source_id": "src_b97ff6ec65236a06",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_1ae356cbd81f1050",
+      "claim_id": "clm_32b1af593d383e67",
+      "source_id": "src_5743b4d2e501cdda",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_8a9c2687ccf1163b",
+      "claim_id": "clm_caaec93e9c440dbb",
+      "source_id": "src_b97ff6ec65236a06",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_bdf75225a00e3a79",
+      "claim_id": "clm_d93344051b33ba4f",
+      "source_id": "src_5743b4d2e501cdda",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_2e8607d96800938f",
+      "claim_id": "clm_d93344051b33ba4f",
+      "source_id": "src_21a1809615d99894",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_299ff62423485ff0",
+      "claim_id": "clm_78a49bdc5936e74c",
+      "source_id": "src_21a1809615d99894",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_3e2e87bcf6a28ea1",
+      "claim_id": "clm_7ee096a5e9768eb1",
+      "source_id": "src_21a1809615d99894",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_86648116e1993880",
+      "claim_id": "clm_7ee096a5e9768eb1",
+      "source_id": "src_b97ff6ec65236a06",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_523b8b534c4e20af",
+      "claim_id": "clm_eaef8b6dbb8e01fc",
+      "source_id": "src_848dc4a8c00b4ae3",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_d3ee547d50a1c2dd",
+      "claim_id": "clm_3f3b4e77fe379e1e",
+      "source_id": "src_848dc4a8c00b4ae3",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_78239fbdfa9c9ca4",
+      "claim_id": "clm_3f3b4e77fe379e1e",
+      "source_id": "src_b97ff6ec65236a06",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_0080d46a179391b2",
+      "claim_id": "clm_0b28080eed62462e",
+      "source_id": "src_b97ff6ec65236a06",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_399fc6c95f77b9ec",
+      "claim_id": "clm_8359f4d9f5ff0b19",
+      "source_id": "src_b97ff6ec65236a06",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_dfce64da42ec75ec",
+      "claim_id": "clm_8359f4d9f5ff0b19",
+      "source_id": "src_54b461e642d229bb",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_5d9ac81e851d97b2",
+      "claim_id": "clm_7044a379ae70852a",
+      "source_id": "src_54b461e642d229bb",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_59a0690d73ec73b4",
+      "claim_id": "clm_7044a379ae70852a",
+      "source_id": "src_d6c9cd94e543b5e0",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_0eb919e6c7b2eb93",
+      "claim_id": "clm_75b1208f70e6af1e",
+      "source_id": "src_54b461e642d229bb",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_47b64a9fdaebeef3",
+      "claim_id": "clm_75b1208f70e6af1e",
+      "source_id": "src_d6c9cd94e543b5e0",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_429e39f400a58558",
+      "claim_id": "clm_1da449a063a108a0",
+      "source_id": "src_d6c9cd94e543b5e0",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_d6c397c237516179",
+      "claim_id": "clm_0631ba5a8ec535df",
+      "source_id": "src_b97ff6ec65236a06",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_037a4dda56d0d17e",
+      "claim_id": "clm_6b3b4eb650591693",
+      "source_id": "src_b97ff6ec65236a06",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_a258b53d3d88e1bf",
+      "claim_id": "clm_8aa892aab0378305",
+      "source_id": "src_b97ff6ec65236a06",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_68158b34fafecc3e",
+      "claim_id": "clm_8aa892aab0378305",
+      "source_id": "src_5743b4d2e501cdda",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — авторское research-досье (Иван Мельник), content_type Encyclopedia, route /ru/glossary/designers/gabrielle-chanel по паспорту документа. Библиография досье не содержала URL (книжные источники Garelick/Vaughan/Picardie + музейные страницы по названию); Claude (сессия) нашёл и проверил реальные URL через веб-поиск для музейных/официальных источников. Кодовое имя Westminster в документах разведки — не первичный архивный документ, а атрибутируемое утверждение историка Hal Vaughan; помечено verification_state=attributed, а не verified. Полная автоматическая верификация VANSMITHLAB не запускалась.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-06T00:00:00.000Z"
+  }
+}

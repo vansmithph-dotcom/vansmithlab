@@ -14,10 +14,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: "weekly" as const,
       priority: 0.6,
     })),
+    { url: `${siteUrl}/${locale}/glossary/designers/`, changeFrequency: "weekly" as const, priority: 0.6 },
   ]);
 
   const sectionForContentType = (contentType: string) => {
     if (contentType === "encyclopedia") return "encyclopedia";
+    if (contentType === "designer_profile") return "glossary/designers";
     if (contentType === "research" || contentType === "case_study" || contentType === "visual_analysis") return "articles";
     if (contentType === "collection") return "collections";
     return contentType;
