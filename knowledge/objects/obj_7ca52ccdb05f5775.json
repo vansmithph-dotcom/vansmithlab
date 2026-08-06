@@ -1,0 +1,1532 @@
+{
+  "id": "obj_7ca52ccdb05f5775",
+  "type": "brand",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "История модного дома Balenciaga",
+  "slug_ru": "istoriya-modnogo-doma-balenciaga",
+  "summary_ru": "Исследовательское досье о доме Balenciaga: от couture-мастерской Кристобаля Баленсиаги в Сан-Себастьяне и Париже 1937 года через закрытие дома в 1968-м до перезапусков под Гескьером, Ван Гуном, Demna и Пиккьоли. Часть атомарных claims остаётся вне публичного релиза.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.97,
+  "created_at": "2026-08-06T00:00:00.000Z",
+  "updated_at": "2026-08-06T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_b8e95c026b591235",
+      "wording_ru": "Cristóbal Balenciaga родился 21 января 1895 года в Getaria.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.balenciaga.com/en-us/crist%C3%B3bal-balenciaga",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.cristobalbalenciagamuseoa.com/en/discover/cristobal-balenciaga/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.cristobalbalenciagamuseoa.com/en/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_1235e0bd01dab770",
+      "wording_ru": "Его мать была швеёй и работала для семьи Casa-Torres.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.cristobalbalenciagamuseoa.com/en/discover/cristobal-balenciaga/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.cristobalbalenciagamuseoa.com/en/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_5639fd007550b195",
+      "wording_ru": "В 1917 году он зарегистрировал couture-бизнес в San Sebastián.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.balenciaga.com/en-us/crist%C3%B3bal-balenciaga",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.cristobalbalenciagamuseoa.com/en/discover/cristobal-balenciaga/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.cristobalbalenciagamuseoa.com/en/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_8897c1e64eb2367f",
+      "wording_ru": "В 1924 году предприятие Balenciaga нанимало 71 человека.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.98,
+      "evidence": [
+        {
+          "source_url": "https://www.cristobalbalenciagamuseoa.com/en/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_d00ce8d52bba507b",
+      "wording_ru": "Eisa расширилась в Madrid в 1933 и Barcelona в 1935 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.98,
+      "evidence": [
+        {
+          "source_url": "https://www.cristobalbalenciagamuseoa.com/en/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_1534528df40b0c3f",
+      "wording_ru": "Парижский дом открылся на 10 Avenue George V в 1937 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.balenciaga.com/en-us/crist%C3%B3bal-balenciaga",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.metmuseum.org/essays/cristobal-balenciaga-1895-1972",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.kering.com/en/houses/fashion-and-leather-goods/balenciaga/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_46317cc4136c87bd",
+      "wording_ru": "Первая парижская коллекция была представлена в 1937 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.balenciaga.com/en-us/crist%C3%B3bal-balenciaga",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.metmuseum.org/essays/cristobal-balenciaga-1895-1972",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.kering.com/en/houses/fashion-and-leather-goods/balenciaga/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_c75b8cfdefac0acd",
+      "wording_ru": "Infanta line датируется 1939 годом.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.balenciaga.com/en-us/crist%C3%B3bal-balenciaga",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.metmuseum.org/essays/cristobal-balenciaga-1895-1972",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_f3f661f8b6062333",
+      "wording_ru": "Tonneau line датируется 1947 годом.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.balenciaga.com/en-us/crist%C3%B3bal-balenciaga",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.cristobalbalenciagamuseoa.com/en/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_a6a6ede1dc5ce770",
+      "wording_ru": "Semi-fitted line датируется 1951 годом.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.balenciaga.com/en-us/crist%C3%B3bal-balenciaga",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.cristobalbalenciagamuseoa.com/en/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_6c421bf41aae1788",
+      "wording_ru": "Tunic dress датируется 1955 годом.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.balenciaga.com/en-us/crist%C3%B3bal-balenciaga",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.cristobalbalenciagamuseoa.com/en/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_b2416cabe9a0cc8b",
+      "wording_ru": "Sack dress был представлен в 1957 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.balenciaga.com/en-us/crist%C3%B3bal-balenciaga",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.cristobalbalenciagamuseoa.com/en/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.vam.ac.uk/articles/introducing-cristobal-balenciaga",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_ff083374b88c4953",
+      "wording_ru": "Baby-doll dress был представлен в 1958 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.balenciaga.com/en-us/crist%C3%B3bal-balenciaga",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.cristobalbalenciagamuseoa.com/en/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.vam.ac.uk/articles/introducing-cristobal-balenciaga",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_3b22aed182b725c7",
+      "wording_ru": "Gazar был разработан совместно с Gustav Zumsteg / Abraham.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.98,
+      "evidence": [
+        {
+          "source_url": "https://www.cristobalbalenciagamuseoa.com/default/documentos/359_en-download_press_dossier.pdf",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.cristobalbalenciagamuseoa.com/default/documentos/518_en-press_kit.pdf",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_02db6ee28690329f",
+      "wording_ru": "Балeнсиага мог самостоятельно строить лекала, кроить и собирать изделия.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/essays/cristobal-balenciaga-1895-1972",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.vam.ac.uk/articles/introducing-cristobal-balenciaga",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_015bc526522bdb7f",
+      "wording_ru": "Его конструкции систематически создавали пространство между телом и тканью.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.98,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/essays/cristobal-balenciaga-1895-1972",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.vam.ac.uk/articles/introducing-cristobal-balenciaga",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.vam.ac.uk/articles/secrets-of-balenciagas-construction",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_3d38d8e64791416b",
+      "wording_ru": "Envelope dress относится к 1967 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.98,
+      "evidence": [
+        {
+          "source_url": "https://www.vam.ac.uk/articles/introducing-cristobal-balenciaga",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_e23175da7ff60b8b",
+      "wording_ru": "Cristóbal Balenciaga закрыл дома в 1968 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.balenciaga.com/en-us/crist%C3%B3bal-balenciaga",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.cristobalbalenciagamuseoa.com/en/discover/cristobal-balenciaga/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.cristobalbalenciagamuseoa.com/en/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.vam.ac.uk/articles/introducing-cristobal-balenciaga",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_0ffab6267543367d",
+      "wording_ru": "Он умер 24 марта 1972 года.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.cristobalbalenciagamuseoa.com/en/discover/cristobal-balenciaga/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.metmuseum.org/essays/cristobal-balenciaga-1895-1972",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_cfc75871d5802475",
+      "wording_ru": "Марка была перезапущена в 1986 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.96,
+      "evidence": [
+        {
+          "source_url": "https://www.vam.ac.uk/articles/introducing-cristobal-balenciaga",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.vam.ac.uk/exhibitions/balenciaga-shaping-fashion.com",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_1f9c465e4e4995f4",
+      "wording_ru": "Josephus Thimister был Creative Director с 1992 по 1997 год.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.96,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/slideshow/josephus-thimister-dies-at-57",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_0f11de60eb41f5a8",
+      "wording_ru": "Nicolas Ghesquière руководил Balenciaga с 1997 по 30 ноября 2012 года.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.kering.com/en/news/balenciaga-fashion-house-nicolas-ghesquiere-announce-their-joint-decision-end-their-partnership/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_55cca1f9f0ca01a3",
+      "wording_ru": "Balenciaga вошёл в Gucci Group / Kering в 2001 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.kering.com/en/houses/fashion-and-leather-goods/balenciaga/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.kering.com/en/group/culture-and-heritage/group-history/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_c3ef47b65bc5281d",
+      "wording_ru": "Alexander Wang руководил творческим направлением в 2012–2015 годах.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.97,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/fashion-shows/designer/balenciaga",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_cf6895e0d3b1b28e",
+      "wording_ru": "Demna был Artistic Director с октября 2015 по июль 2025 года.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.kering.com/en/houses/fashion-and-leather-goods/balenciaga/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.kering.com/api/download-file/?path=Kering_2025_Results_Press_Release_bd7165a4ea.pdf",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_b2e9c3f4d5ca8ef3",
+      "wording_ru": "Balenciaga вернул Couture 7 июля 2021 года.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.balenciaga.com/en-en/50th-collection",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_df28e12e553a875e",
+      "wording_ru": "Возвращённая коллекция была официально обозначена как 50-я couture-коллекция.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.balenciaga.com/en-en/50th-collection",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_bbbdb1c3ca3b080b",
+      "wording_ru": "Рекламные кампании 2022 года вызвали международную критику и официальные извинения.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.reuters.com/business/retail-consumer/balenciaga-designer-ceo-apologize-ad-campaign-featuring-children-2022-12-02/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.reuters.com/lifestyle/balenciaga-spotlights-craft-first-runway-show-since-ad-controversy-2023-03-05/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_fabbabf6dc126f40",
+      "wording_ru": "Kering после кризиса объявил групповую функцию brand safety.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.reuters.com/business/retail-consumer/kering-name-group-level-image-executive-following-balenciaga-ad-controversy-2023-02-15/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_875c5a02ddd7780b",
+      "wording_ru": "Pierpaolo Piccioli назначен Creative Director с 10 июля 2025 года.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.kering.com/en/news/pierpaolo-piccioli-appointed-creative-director-of-balenciaga/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_b3e5703b29fee16e",
+      "wording_ru": "Gianfranco Gianangeli назначен CEO Balenciaga в 2025 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.kering.com/en/houses/fashion-and-leather-goods/balenciaga/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.kering.com/en/houses/fashion-and-leather-goods/balenciaga/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_c4bb5258daec58d7",
+      "wording_ru": "Первая коллекция Piccioli для Balenciaga — Summer 2026.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.balenciaga.com/en-us/summer-26",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_b637c072a581910a",
+      "wording_ru": "Balenciaga запустил десять ароматов 10 сентября 2025 года.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.balenciaga.com/en-us/balenciaga-fragrance-collection",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.balenciaga.com/en-us/fragrances",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_5426cb580afc43b9",
+      "wording_ru": "Первая couture-коллекция Piccioli является 55-й коллекцией дома.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.balenciaga.com/en-us/55th-collection",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_1f54d78658c57d25",
+      "wording_ru": "Cristóbal Balenciaga не следует описывать как единственного автора gazar.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.cristobalbalenciagamuseoa.com/default/documentos/359_en-download_press_dossier.pdf",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.cristobalbalenciagamuseoa.com/default/documentos/518_en-press_kit.pdf",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_f138ad269385b181",
+      "wording_ru": "Современные коды Demna исторически принадлежат дому, но не являются кодами основателя.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.98,
+      "evidence": [
+        {
+          "source_url": "https://www.kering.com/en/houses/fashion-and-leather-goods/balenciaga/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.balenciaga.com/en-en/50th-collection",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.businessoffashion.com/articles/luxury/the-business-vision-behind-balenciagas-new-era/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_1fb4767eb8a619fa",
+      "wording_ru": "Провокация не снимает институциональную ответственность за рекламный образ.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.reuters.com/business/retail-consumer/balenciaga-designer-ceo-apologize-ad-campaign-featuring-children-2022-12-02/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.reuters.com/business/retail-consumer/kering-name-group-level-image-executive-following-balenciaga-ad-controversy-2023-02-15/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_6c33d4fc19d73a2b",
+      "wording_ru": "Оценка эпохи Piccioli на 5 августа 2026 года остаётся предварительной.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.balenciaga.com/en-us/summer-26",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.balenciaga.com/en-us/55th-collection",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.kering.com/en/news/2026-first-half-results-back-to-growth-performance-improvement-and-strategy-execution-on-track/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_29c6a34c0c267c87",
+      "title": "Balenciaga — Cristóbal timeline. Официальные даты основания, Paris 1937, основные линии и последняя коллекция",
+      "url": "https://www.balenciaga.com/en-us/crist%C3%B3bal-balenciaga",
+      "publisher": "Balenciaga",
+      "source_tier": 1,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_4d834deba8ceb32f",
+      "title": "Cristóbal Balenciaga Museoa — Cristóbal Balenciaga. Биография, семья, обучение, предприятия, Eisa и творческая эволюция",
+      "url": "https://www.cristobalbalenciagamuseoa.com/en/discover/cristobal-balenciaga/",
+      "publisher": "Cristóbal Balenciaga Museoa",
+      "source_tier": 1,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_9c21b5e67aafca08",
+      "title": "Cristóbal Balenciaga Museoa — institutional and research materials. Подробная испанская хронология и музейная атрибуция",
+      "url": "https://www.cristobalbalenciagamuseoa.com/en/",
+      "publisher": "Cristóbal Balenciaga Museoa",
+      "source_tier": 1,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_e9abf0cc8ce22976",
+      "title": "The Metropolitan Museum of Art — Cristobal Balenciaga 1895–1972. Музейный обзор метода, Парижа, испанских источников и конструкции",
+      "url": "https://www.metmuseum.org/essays/cristobal-balenciaga-1895-1972",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_467acee767d9a9f2",
+      "title": "Kering — Balenciaga House page. Текущий собственник, ключевые даты, CEO, Creative Director и состояние дома",
+      "url": "https://www.kering.com/en/houses/fashion-and-leather-goods/balenciaga/",
+      "publisher": "Kering",
+      "source_tier": 1,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_917b077bfeef4274",
+      "title": "Victoria and Albert Museum — Introducing Cristóbal Balenciaga. Sack, baby-doll, envelope dress, клиентки, закрытие и наследие",
+      "url": "https://www.vam.ac.uk/articles/introducing-cristobal-balenciaga",
+      "publisher": "Victoria and Albert Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_f8067e882e3e2462",
+      "title": "Cristóbal Balenciaga, Fashion and Heritage — press dossier. Разработка gazar с Gustav Zumsteg / Abraham и биографические milestones",
+      "url": "https://www.cristobalbalenciagamuseoa.com/default/documentos/359_en-download_press_dossier.pdf",
+      "publisher": "Cristóbal Balenciaga, Fashion and Heritage",
+      "source_tier": 1,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_65d2b86af339698a",
+      "title": "Alaïa and Balenciaga. Sculptors of Shape — press kit. Gazar, baby-doll и сравнение скульптурных методов",
+      "url": "https://www.cristobalbalenciagamuseoa.com/default/documentos/518_en-press_kit.pdf",
+      "publisher": "Alaïa and Balenciaga. Sculptors of Shape",
+      "source_tier": 1,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_5532392292d2822e",
+      "title": "V&A — Secrets of Balenciaga’s construction. Технический разбор швов, панелей, gazar и построения объёма",
+      "url": "https://www.vam.ac.uk/articles/secrets-of-balenciagas-construction",
+      "publisher": "V&A",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_684db459dc36cce7",
+      "title": "V&A — Balenciaga: Shaping Fashion. Выставочная база, объекты, влияние и права на ключевые изображения",
+      "url": "https://www.vam.ac.uk/exhibitions/balenciaga-shaping-fashion.com",
+      "publisher": "V&A",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_5e0266432d0a20d9",
+      "title": "Vogue — Josephus Thimister obituary and Balenciaga period. Период 1992–1997 и профессиональный контекст перезапуска",
+      "url": "https://www.vogue.com/slideshow/josephus-thimister-dies-at-57",
+      "publisher": "Vogue",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_91c4d8034b54199d",
+      "title": "Kering — Balenciaga and Nicolas Ghesquière end partnership. Официальные даты 1997–2012 и статус Balenciaga внутри группы",
+      "url": "https://www.kering.com/en/news/balenciaga-fashion-house-nicolas-ghesquiere-announce-their-joint-decision-end-their-partnership/",
+      "publisher": "Kering",
+      "source_tier": 1,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_9c93a088e108a002",
+      "title": "Kering — Group history. Приобретение Balenciaga в 2001 году",
+      "url": "https://www.kering.com/en/group/culture-and-heritage/group-history/",
+      "publisher": "Kering",
+      "source_tier": 1,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_06737bf0200f4524",
+      "title": "Professional runway archives — Alexander Wang period. Проверка коллекций 2012–2015; конкретные страницы фиксировать при final fact review",
+      "url": "https://www.vogue.com/fashion-shows/designer/balenciaga",
+      "publisher": "Professional runway archives",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_ece3641e1e66526b",
+      "title": "Kering careers / House history. Период Demna October 2015–July 2025 и возвращение couture",
+      "url": "https://www.kering.com/en/houses/fashion-and-leather-goods/balenciaga/",
+      "publisher": "Kering careers / House history. Период Demna October 2015–July 2025 и возвращение couture",
+      "source_tier": 1,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_f36d9604ca76871f",
+      "title": "Kering 2025 Results. Переход Demna в Gucci и назначение Piccioli",
+      "url": "https://www.kering.com/api/download-file/?path=Kering_2025_Results_Press_Release_bd7165a4ea.pdf",
+      "publisher": "Kering 2025 Results. Переход Demna в Gucci и назначение Piccioli",
+      "source_tier": 1,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_dcbbb39ba1e75923",
+      "title": "Balenciaga — 50th Couture Collection. Официальная дата и статус возвращения couture в 2021 году",
+      "url": "https://www.balenciaga.com/en-en/50th-collection",
+      "publisher": "Balenciaga",
+      "source_tier": 1,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_5864d4870f64642c",
+      "title": "Reuters — Balenciaga designer and CEO apologize. Независимая проверка рекламного кризиса 2022 года",
+      "url": "https://www.reuters.com/business/retail-consumer/balenciaga-designer-ceo-apologize-ad-campaign-featuring-children-2022-12-02/",
+      "publisher": "Reuters",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_caad98245a74bef0",
+      "title": "Reuters — first runway after campaign controversy. Фокус показа 2023 года на конструкции одежды",
+      "url": "https://www.reuters.com/lifestyle/balenciaga-spotlights-craft-first-runway-show-since-ad-controversy-2023-03-05/",
+      "publisher": "Reuters",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_35aa19502b5eab36",
+      "title": "Reuters — Kering creates brand-safety role. Институциональная реакция группы после кризиса",
+      "url": "https://www.reuters.com/business/retail-consumer/kering-name-group-level-image-executive-following-balenciaga-ad-controversy-2023-02-15/",
+      "publisher": "Reuters",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_ba0fdfadf019632b",
+      "title": "Kering — Pierpaolo Piccioli appointed Creative Director. Дата назначения и вступления в должность",
+      "url": "https://www.kering.com/en/news/pierpaolo-piccioli-appointed-creative-director-of-balenciaga/",
+      "publisher": "Kering",
+      "source_tier": 1,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_135e20e9e90b0f6e",
+      "title": "Kering — Balenciaga current leadership. Gianfranco Gianangeli, Piccioli и актуальные ключевые события",
+      "url": "https://www.kering.com/en/houses/fashion-and-leather-goods/balenciaga/",
+      "publisher": "Kering",
+      "source_tier": 1,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_64d447b121cfe5f5",
+      "title": "Balenciaga — Summer 2026. Официальный текст дебютной коллекции Piccioli и понятие recalibration",
+      "url": "https://www.balenciaga.com/en-us/summer-26",
+      "publisher": "Balenciaga",
+      "source_tier": 1,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_3a4caf1fce50faae",
+      "title": "Balenciaga — Fragrance collection. Дата запуска десяти ароматов и связь с Le Dix",
+      "url": "https://www.balenciaga.com/en-us/balenciaga-fragrance-collection",
+      "publisher": "Balenciaga",
+      "source_tier": 1,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_4b7456baa16fdf39",
+      "title": "Balenciaga — Fragrance heritage. История Le Dix и возвращение fragrance store на Avenue George V",
+      "url": "https://www.balenciaga.com/en-us/fragrances",
+      "publisher": "Balenciaga",
+      "source_tier": 1,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_88d9a3729d126d7f",
+      "title": "Balenciaga — 55th Couture Collection. Первая couture-коллекция Piccioli, июль 2026",
+      "url": "https://www.balenciaga.com/en-us/55th-collection",
+      "publisher": "Balenciaga",
+      "source_tier": 1,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_ec40391f6cb706ab",
+      "title": "Kering — First-Half 2026 Results. Текущий бизнес-комментарий, сложный переход и сила leather goods",
+      "url": "https://www.kering.com/en/news/2026-first-half-results-back-to-growth-performance-improvement-and-strategy-execution-on-track/",
+      "publisher": "Kering",
+      "source_tier": 1,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_c54e74e60f56b7f9",
+      "title": "Business of Fashion — Balenciaga new era. Стратегия Demna, couture, категории и масштаб бизнеса; использовать как вторичный источник",
+      "url": "https://www.businessoffashion.com/articles/luxury/the-business-vision-behind-balenciagas-new-era/",
+      "publisher": "Business of Fashion",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_85b54a34f86d37e8",
+      "claim_id": "clm_b8e95c026b591235",
+      "source_id": "src_29c6a34c0c267c87",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_8c65e2e2ba8f4e75",
+      "claim_id": "clm_b8e95c026b591235",
+      "source_id": "src_4d834deba8ceb32f",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_bea87b82db32bef5",
+      "claim_id": "clm_b8e95c026b591235",
+      "source_id": "src_9c21b5e67aafca08",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_5d65df0f57c4b0cf",
+      "claim_id": "clm_1235e0bd01dab770",
+      "source_id": "src_4d834deba8ceb32f",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_fccf2d080451a2f1",
+      "claim_id": "clm_1235e0bd01dab770",
+      "source_id": "src_9c21b5e67aafca08",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_203a53e942c6839a",
+      "claim_id": "clm_5639fd007550b195",
+      "source_id": "src_29c6a34c0c267c87",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_585cf5fef74cebde",
+      "claim_id": "clm_5639fd007550b195",
+      "source_id": "src_4d834deba8ceb32f",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_6e953f0da81cc850",
+      "claim_id": "clm_5639fd007550b195",
+      "source_id": "src_9c21b5e67aafca08",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_4c3455aee4a637d0",
+      "claim_id": "clm_8897c1e64eb2367f",
+      "source_id": "src_9c21b5e67aafca08",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_3d7129cdcd0e382b",
+      "claim_id": "clm_d00ce8d52bba507b",
+      "source_id": "src_9c21b5e67aafca08",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_07672279a31c695f",
+      "claim_id": "clm_1534528df40b0c3f",
+      "source_id": "src_29c6a34c0c267c87",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_e31cbc96c8a013fe",
+      "claim_id": "clm_1534528df40b0c3f",
+      "source_id": "src_e9abf0cc8ce22976",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_34166c150f76b05f",
+      "claim_id": "clm_1534528df40b0c3f",
+      "source_id": "src_467acee767d9a9f2",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_3a748fc7b54bf699",
+      "claim_id": "clm_46317cc4136c87bd",
+      "source_id": "src_29c6a34c0c267c87",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_39c528c400bceb97",
+      "claim_id": "clm_46317cc4136c87bd",
+      "source_id": "src_e9abf0cc8ce22976",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_e54bbccb67d5cbfb",
+      "claim_id": "clm_46317cc4136c87bd",
+      "source_id": "src_467acee767d9a9f2",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_bd5cb0a74500e4aa",
+      "claim_id": "clm_c75b8cfdefac0acd",
+      "source_id": "src_29c6a34c0c267c87",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_20de48b280a5ff94",
+      "claim_id": "clm_c75b8cfdefac0acd",
+      "source_id": "src_e9abf0cc8ce22976",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_6cf3c4cb871dbf46",
+      "claim_id": "clm_f3f661f8b6062333",
+      "source_id": "src_29c6a34c0c267c87",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_0abab1c09996c2de",
+      "claim_id": "clm_f3f661f8b6062333",
+      "source_id": "src_9c21b5e67aafca08",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_59573c3c12cb5c21",
+      "claim_id": "clm_a6a6ede1dc5ce770",
+      "source_id": "src_29c6a34c0c267c87",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_ff2dbc81de3395b1",
+      "claim_id": "clm_a6a6ede1dc5ce770",
+      "source_id": "src_9c21b5e67aafca08",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_d51691dc93a8d2f5",
+      "claim_id": "clm_6c421bf41aae1788",
+      "source_id": "src_29c6a34c0c267c87",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_637bbb98785e6210",
+      "claim_id": "clm_6c421bf41aae1788",
+      "source_id": "src_9c21b5e67aafca08",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_90b25d833fbedc16",
+      "claim_id": "clm_b2416cabe9a0cc8b",
+      "source_id": "src_29c6a34c0c267c87",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_a214d45ad6ae9360",
+      "claim_id": "clm_b2416cabe9a0cc8b",
+      "source_id": "src_9c21b5e67aafca08",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_2614a24d44e55b74",
+      "claim_id": "clm_b2416cabe9a0cc8b",
+      "source_id": "src_917b077bfeef4274",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_728f4341caf01a66",
+      "claim_id": "clm_ff083374b88c4953",
+      "source_id": "src_29c6a34c0c267c87",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_3f514c91a0edefe7",
+      "claim_id": "clm_ff083374b88c4953",
+      "source_id": "src_9c21b5e67aafca08",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_4a92e4ca15bd993a",
+      "claim_id": "clm_ff083374b88c4953",
+      "source_id": "src_917b077bfeef4274",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_9db813ad19d7aba3",
+      "claim_id": "clm_3b22aed182b725c7",
+      "source_id": "src_f8067e882e3e2462",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_c747ccd30c0e502c",
+      "claim_id": "clm_3b22aed182b725c7",
+      "source_id": "src_65d2b86af339698a",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_c71b94f6c932c98d",
+      "claim_id": "clm_02db6ee28690329f",
+      "source_id": "src_e9abf0cc8ce22976",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_fee2b255bf913ce8",
+      "claim_id": "clm_02db6ee28690329f",
+      "source_id": "src_917b077bfeef4274",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_cd1c38059eea9038",
+      "claim_id": "clm_015bc526522bdb7f",
+      "source_id": "src_e9abf0cc8ce22976",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_ff4fe33f3c23c4a4",
+      "claim_id": "clm_015bc526522bdb7f",
+      "source_id": "src_917b077bfeef4274",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_8579015d65debea2",
+      "claim_id": "clm_015bc526522bdb7f",
+      "source_id": "src_5532392292d2822e",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_8ad6a114d790338b",
+      "claim_id": "clm_3d38d8e64791416b",
+      "source_id": "src_917b077bfeef4274",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_b90b19e2de4d0b5e",
+      "claim_id": "clm_e23175da7ff60b8b",
+      "source_id": "src_29c6a34c0c267c87",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_df60989d4fbc3bb5",
+      "claim_id": "clm_e23175da7ff60b8b",
+      "source_id": "src_4d834deba8ceb32f",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_898611986cd1a1ea",
+      "claim_id": "clm_e23175da7ff60b8b",
+      "source_id": "src_9c21b5e67aafca08",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_5f7848ca565228bc",
+      "claim_id": "clm_e23175da7ff60b8b",
+      "source_id": "src_917b077bfeef4274",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_2a60a57853cc6dad",
+      "claim_id": "clm_0ffab6267543367d",
+      "source_id": "src_4d834deba8ceb32f",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_9e680034d3d6e799",
+      "claim_id": "clm_0ffab6267543367d",
+      "source_id": "src_e9abf0cc8ce22976",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_810afc3f88895ee9",
+      "claim_id": "clm_cfc75871d5802475",
+      "source_id": "src_917b077bfeef4274",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_5cb07dc2f93e27a9",
+      "claim_id": "clm_cfc75871d5802475",
+      "source_id": "src_684db459dc36cce7",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_80d95982f99b3c8c",
+      "claim_id": "clm_1f9c465e4e4995f4",
+      "source_id": "src_5e0266432d0a20d9",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_cf92c4929566dad0",
+      "claim_id": "clm_0f11de60eb41f5a8",
+      "source_id": "src_91c4d8034b54199d",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_b86e8085afed8cc6",
+      "claim_id": "clm_55cca1f9f0ca01a3",
+      "source_id": "src_467acee767d9a9f2",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_4682ba3d1fe75c9f",
+      "claim_id": "clm_55cca1f9f0ca01a3",
+      "source_id": "src_9c93a088e108a002",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_7b86d336bc444a38",
+      "claim_id": "clm_c3ef47b65bc5281d",
+      "source_id": "src_06737bf0200f4524",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_290f542aebcdb558",
+      "claim_id": "clm_cf6895e0d3b1b28e",
+      "source_id": "src_ece3641e1e66526b",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_d856098171780102",
+      "claim_id": "clm_cf6895e0d3b1b28e",
+      "source_id": "src_f36d9604ca76871f",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_62f7d63314f54872",
+      "claim_id": "clm_b2e9c3f4d5ca8ef3",
+      "source_id": "src_dcbbb39ba1e75923",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_a3ac8542c103f14e",
+      "claim_id": "clm_df28e12e553a875e",
+      "source_id": "src_dcbbb39ba1e75923",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_c07ae8795660ecfa",
+      "claim_id": "clm_bbbdb1c3ca3b080b",
+      "source_id": "src_5864d4870f64642c",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_c7e2176ab35740d0",
+      "claim_id": "clm_bbbdb1c3ca3b080b",
+      "source_id": "src_caad98245a74bef0",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_04317327c5549e69",
+      "claim_id": "clm_fabbabf6dc126f40",
+      "source_id": "src_35aa19502b5eab36",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_90b3c1527b404d82",
+      "claim_id": "clm_875c5a02ddd7780b",
+      "source_id": "src_ba0fdfadf019632b",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_aa9f337714b20bf6",
+      "claim_id": "clm_b3e5703b29fee16e",
+      "source_id": "src_467acee767d9a9f2",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_05774afd1c3e1dac",
+      "claim_id": "clm_b3e5703b29fee16e",
+      "source_id": "src_135e20e9e90b0f6e",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_2b18efb0c06f8848",
+      "claim_id": "clm_c4bb5258daec58d7",
+      "source_id": "src_64d447b121cfe5f5",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_493e2fcf67180517",
+      "claim_id": "clm_b637c072a581910a",
+      "source_id": "src_3a4caf1fce50faae",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_cc5aba397bcab441",
+      "claim_id": "clm_b637c072a581910a",
+      "source_id": "src_4b7456baa16fdf39",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_f54231eb94b6154d",
+      "claim_id": "clm_5426cb580afc43b9",
+      "source_id": "src_88d9a3729d126d7f",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_c327954d5e3e965f",
+      "claim_id": "clm_1f54d78658c57d25",
+      "source_id": "src_f8067e882e3e2462",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_27216266f36b126c",
+      "claim_id": "clm_1f54d78658c57d25",
+      "source_id": "src_65d2b86af339698a",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_351d5a3df9d259ed",
+      "claim_id": "clm_f138ad269385b181",
+      "source_id": "src_ece3641e1e66526b",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_d621835f550f242d",
+      "claim_id": "clm_f138ad269385b181",
+      "source_id": "src_dcbbb39ba1e75923",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_abb6b3bec75a655e",
+      "claim_id": "clm_f138ad269385b181",
+      "source_id": "src_c54e74e60f56b7f9",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_3ee6c01e23e5d375",
+      "claim_id": "clm_1fb4767eb8a619fa",
+      "source_id": "src_5864d4870f64642c",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_596294d4be94e992",
+      "claim_id": "clm_1fb4767eb8a619fa",
+      "source_id": "src_35aa19502b5eab36",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_411207aaa4ab8b5d",
+      "claim_id": "clm_6c33d4fc19d73a2b",
+      "source_id": "src_64d447b121cfe5f5",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_cceddaa6de8ed68f",
+      "claim_id": "clm_6c33d4fc19d73a2b",
+      "source_id": "src_88d9a3729d126d7f",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_abc02f26d7b91f94",
+      "claim_id": "clm_6c33d4fc19d73a2b",
+      "source_id": "src_ec40391f6cb706ab",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — research-досье автора (Иван Мельник). Claude (сессия) свёл документ в формат сайта без запуска автоматической evidence-проверки.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-06T00:00:00.000Z"
+  }
+}
