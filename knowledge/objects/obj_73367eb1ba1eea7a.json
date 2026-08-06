@@ -1,0 +1,1180 @@
+{
+  "id": "obj_73367eb1ba1eea7a",
+  "type": "brand",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "История модного дома Hermès",
+  "slug_ru": "istoriya-modnogo-doma-hermes",
+  "summary_ru": "Исследовательское досье о доме Hermès: от седельной мастерской 1837 года через Kelly и Birkin, семейный конфликт с LVMH до сегодняшней структуры выручки и ремесленного производства.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.98,
+  "created_at": "2026-08-06T00:00:00.000Z",
+  "updated_at": "2026-08-06T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_3600ebfdc9aab9a8",
+      "wording_ru": "Hermès основан Thierry Hermès в Париже в 1837 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.hermes.com/us/en/content/235056-six-generations-of-artisans/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.hermes.com/fr/fr/content/235056-six-generations-d-artisan/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_81fb87b88444d25a",
+      "wording_ru": "Первая мастерская находилась на rue Basse-du-Rempart.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.98,
+      "evidence": [
+        {
+          "source_url": "https://www.hermes.com/us/en/content/235056-six-generations-of-artisans/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_f46b3a2674e9adeb",
+      "wording_ru": "В 1880 году Charles-Émile Hermès перенёс мастерские на 24 Faubourg Saint-Honoré.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.hermes.com/us/en/content/235056-six-generations-of-artisans/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.hermes.com/fr/fr/content/235056-six-generations-d-artisan/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_c20c6ae0b51fe09a",
+      "wording_ru": "Bolide датируется 1923 годом и проектировался для автомобильных путешествий.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.96,
+      "evidence": [
+        {
+          "source_url": "https://www.hermes.com/uk/en/product/bolide-1923-25-bag-H082161CK37/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_04a36145a7a2fbaa",
+      "wording_ru": "Первый мужской предмет ready-to-wear Hermès появился в 1925 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.96,
+      "evidence": [
+        {
+          "source_url": "https://www.hermes.com/us/en/content/235056-six-generations-of-artisans/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_bb242a7195435c4e",
+      "wording_ru": "Hermès ввёл ювелирные изделия в 1927 году, часы и сандалии — в 1928-м.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.95,
+      "evidence": [
+        {
+          "source_url": "https://www.hermes.com/us/en/content/235056-six-generations-of-artisans/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_18f8dae4daf0ad46",
+      "wording_ru": "Первый carré Hermès Jeu des omnibus et dames blanches вышел в 1937 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.hermes.com/us/en/content/235056-six-generations-of-artisans/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://lanterne.hermes.com/en/special/special2404/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_d685af7083f1ef6f",
+      "wording_ru": "Robert Dumas возглавил дом в 1951 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.hermes.com/us/en/content/235056-six-generations-of-artisans/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_81d22fdccf990a52",
+      "wording_ru": "Будущая Kelly была создана в 1930-е и получила имя после фотографии Grace Kelly в 1956 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.98,
+      "evidence": [
+        {
+          "source_url": "https://www.hermes.com/us/en/content/235056-six-generations-of-artisans/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.hermes.com/us/en/product/kelly-messenger-bag-H085671CK89/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_b0508bd03cc135f3",
+      "wording_ru": "Leïla Menchari самостоятельно руководила витринами Faubourg с 1978 по 2013 год.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.94,
+      "evidence": [
+        {
+          "source_url": "https://www.hermes.com/us/en/content/235056-six-generations-of-artisans/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_c988c652331cf987",
+      "wording_ru": "Первый женский ready-to-wear дома датируется 1967 годом и связан с Catherine de Karolyi.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.98,
+      "evidence": [
+        {
+          "source_url": "https://www.hermes.com/us/en/content/235056-six-generations-of-artisans/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_09ad79e3db067c1c",
+      "wording_ru": "Jean-Louis Dumas возглавил Hermès в 1978 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.hermes.com/us/en/content/235056-six-generations-of-artisans/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_523c85aa2a64f264",
+      "wording_ru": "Birkin была создана в 1984 году после встречи Jean-Louis Dumas и Jane Birkin.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.98,
+      "evidence": [
+        {
+          "source_url": "https://www.hermes.com/us/en/content/91006-birkin/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_d5735fedf4da96ee",
+      "wording_ru": "Традиция ежегодных тем началась после празднования 150-летия в 1987 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.96,
+      "evidence": [
+        {
+          "source_url": "https://www.hermes.com/us/en/content/235056-six-generations-of-artisans/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_335d03b18d3e2649",
+      "wording_ru": "Véronique Nichanian работала в Hermès с 1988 года и представила финальную коллекцию 24 января 2026 года.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://finance.hermes.com/fr/publications/veronique-nichanian-signera-sa-derniere-collection-pour-hermes-en-janvier-2026/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_33b91379bbbb746d",
+      "wording_ru": "Кожевенные мастерские переехали в Pantin в 1992 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.98,
+      "evidence": [
+        {
+          "source_url": "https://www.hermes.com/us/en/content/235056-six-generations-of-artisans/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_a25ecf38e03f40ff",
+      "wording_ru": "Martin Margiela руководил женским ready-to-wear Hermès в 1997–2003 годах.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://artipelag.se/en/whats-on/exhibition/margiela-the-hermes-years/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.parismuseescollections.paris.fr/en/node/414550",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_566a6ee2bbb5ccf1",
+      "wording_ru": "Maison Hermès в Ginza, спроектированная Renzo Piano, открылась в 2001 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.97,
+      "evidence": [
+        {
+          "source_url": "https://www.hermes.com/us/en/content/235056-six-generations-of-artisans/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_57f17070a1792060",
+      "wording_ru": "Pierre-Alexis Dumas назначен художественным директором Hermès в 2005 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.98,
+      "evidence": [
+        {
+          "source_url": "https://www.hermes.com/us/en/content/235056-six-generations-of-artisans/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_b2ee2ce716537e8c",
+      "wording_ru": "Fondation d’entreprise Hermès создана в 2008 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.hermes.com/us/en/content/235056-six-generations-of-artisans/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.fondationdentreprisehermes.org/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_b13e068350ac35a1",
+      "wording_ru": "petit h создан в 2010 году под руководством Pascale Mussard.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.98,
+      "evidence": [
+        {
+          "source_url": "https://www.hermes.com/us/en/content/235056-six-generations-of-artisans/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://finance.hermes.com/en/circular-economy/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_915b1bdb5518efae",
+      "wording_ru": "Axel Dumas стал Executive Chairman в 2013 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.hermes.com/us/en/content/235056-six-generations-of-artisans/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://finance.hermes.com/en/group-management/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_119618240736c98e",
+      "wording_ru": "Nadège Vanhée-Cybulski назначена в 2014 году и представила первую коллекцию в 2015-м.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.97,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.co.uk/article/hermes-designer-confirmed-nadege-vanhee-cybulski",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://assets-finance.hermes.com/s3fs-public/node/pdf_file/2020-06/hermes_2015_rapportannuel_en.pdf",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_203375897943ffbd",
+      "wording_ru": "Apple Watch Hermès была представлена в 2015 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.hermes.com/us/en/content/235056-six-generations-of-artisans/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.apple.com/newsroom/2015/09/09Apple-and-Herms-Unveil-Apple-Watch-Herms/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_e20f1ba1125465a0",
+      "wording_ru": "Hermès вошёл в CAC 40 в 2018 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.98,
+      "evidence": [
+        {
+          "source_url": "https://www.hermes.com/us/en/content/235056-six-generations-of-artisans/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_b5653fa9f31ce95f",
+      "wording_ru": "Beauty стала шестнадцатым métier Hermès в 2020 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.hermes.com/us/en/content/235056-six-generations-of-artisans/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_bd9226b5a7fedef9",
+      "wording_ru": "École Hermès des Savoir-Faire создана в 2021 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.hermes.com/us/en/content/235056-six-generations-of-artisans/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://finance.hermes.com/en/strategy/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_1ae39fafe66a7307",
+      "wording_ru": "Grace Wales Bonner назначена creative director мужского ready-to-wear; первая коллекция запланирована на январь 2027 года.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://finance.hermes.com/en/publications/grace-wales-bonner-joins-hermes-creative-director-mens-ready-wear/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_75784bae8b5d3002",
+      "wording_ru": "Выручка Hermès за 2025 год составила €16,002 млрд.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://finance.hermes.com/fr/chiffres-cles/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_7a20a3d3922d5006",
+      "wording_ru": "Выручка за первое полугодие 2026 года составила €8,163 млрд.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://finance.hermes.com/fr/chiffres-cles/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_bed0c4cdc36de2b6",
+      "wording_ru": "На конец первого полугодия 2026 года в группе работало 27 107 человек.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://finance.hermes.com/fr/chiffres-cles/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_1360664fceb0bffb",
+      "wording_ru": "На конец 2025 года Hermès сообщал о 294 магазинах и более 92% выручки через преимущественно собственную сеть.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.97,
+      "evidence": [
+        {
+          "source_url": "https://finance.hermes.com/en/strategy/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_a8d9293d0d1667a6",
+      "wording_ru": "Hermès сообщил о более чем 96 000 ремонтов в 2025 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.98,
+      "evidence": [
+        {
+          "source_url": "https://finance.hermes.com/en/circular-economy/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_038c4fd51f0e89ee",
+      "wording_ru": "Семейная группа сохраняет контроль через Émile Hermès SAS и семейные структуры.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.98,
+      "evidence": [
+        {
+          "source_url": "https://finance.hermes.com/en/share-and-dividend/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_3dc922dd986272bb",
+      "wording_ru": "Соглашение 2014 года завершило конфликт Hermès и LVMH и предусматривало распределение акций LVMH.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.97,
+      "evidence": [
+        {
+          "source_url": "https://www.lvmh.com/en/publications/lvmh-and-hermes-mend-relations/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_080c7f32a57d442a",
+      "wording_ru": "Иск о предполагаемой связке покупок для доступа к Birkin был повторно отклонён федеральным судьёй в сентябре 2025 года.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.96,
+      "evidence": [
+        {
+          "source_url": "https://www.investing.com/news/stock-market-news/hermes-defeats-class-action-again-over-hardtoget-birkin-bags-4243269",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_9503cfbc95296f11",
+      "wording_ru": "Корпоративная политика Hermès утверждает, что 98% шкур являются побочным продуктом пищевой индустрии.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.95,
+      "evidence": [
+        {
+          "source_url": "https://finance.hermes.com/en/animal-welfare/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_907418e964c49766",
+      "wording_ru": "Оранжевая упаковка возникла после Второй мировой войны из-за ограниченного выбора бумаги; это официальная история дома.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://lanterne.hermes.com/en/story/story2412/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_dc59f8a9fd947321",
+      "title": "Hermès — Six generations of artisans",
+      "url": "https://www.hermes.com/us/en/content/235056-six-generations-of-artisans/",
+      "publisher": "Hermès",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_0300cb55712cd674",
+      "title": "Hermès Finance — Strategy",
+      "url": "https://finance.hermes.com/en/strategy/",
+      "publisher": "Hermès Finance",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_51bbe45e34ca1d97",
+      "title": "Hermès — The Birkin",
+      "url": "https://www.hermes.com/us/en/content/91006-birkin/",
+      "publisher": "Hermès",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_b951936cf22f8730",
+      "title": "Hermès — Bolide 1923 / The story behind",
+      "url": "https://www.hermes.com/uk/en/product/bolide-1923-25-bag-H082161CK37/",
+      "publisher": "Hermès",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_228f158f48c97d72",
+      "title": "Hermès — Kelly Messenger / The story behind",
+      "url": "https://www.hermes.com/us/en/product/kelly-messenger-bag-H085671CK89/",
+      "publisher": "Hermès",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_3df3d05d69259179",
+      "title": "Hermès Finance — Key figures, 2025 and first half 2026",
+      "url": "https://finance.hermes.com/fr/chiffres-cles/",
+      "publisher": "Hermès Finance",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_05608423198b25e6",
+      "title": "Artipelag / MoMu — Margiela, The Hermès Years",
+      "url": "https://artipelag.se/en/whats-on/exhibition/margiela-the-hermes-years/",
+      "publisher": "Artipelag / MoMu",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_aef1945c6a0bee29",
+      "title": "British Vogue — Hermès welcomes Nadège Vanhee-Cybulski, 2014",
+      "url": "https://www.vogue.co.uk/article/hermes-designer-confirmed-nadege-vanhee-cybulski",
+      "publisher": "British Vogue",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_7fea034e4f1bc554",
+      "title": "Hermès Finance — Véronique Nichanian final collection press release",
+      "url": "https://finance.hermes.com/fr/publications/veronique-nichanian-signera-sa-derniere-collection-pour-hermes-en-janvier-2026/",
+      "publisher": "Hermès Finance",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_08515eea64ccf06b",
+      "title": "Hermès Finance — Grace Wales Bonner joins Hermès",
+      "url": "https://finance.hermes.com/en/publications/grace-wales-bonner-joins-hermes-creative-director-mens-ready-wear/",
+      "publisher": "Hermès Finance",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_818543f02fbb8d7e",
+      "title": "Hermès Finance — Share and dividend / family control",
+      "url": "https://finance.hermes.com/en/share-and-dividend/",
+      "publisher": "Hermès Finance",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_0dde10e8aa691a5c",
+      "title": "Hermès Finance — Group management",
+      "url": "https://finance.hermes.com/en/group-management/",
+      "publisher": "Hermès Finance",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_2a1db743da715a8c",
+      "title": "LVMH — LVMH and Hermès mend relations, 3 September 2014",
+      "url": "https://www.lvmh.com/en/publications/lvmh-and-hermes-mend-relations/",
+      "publisher": "LVMH",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_b51ecc7dbdc926a9",
+      "title": "Fondation d’entreprise Hermès — official site",
+      "url": "https://www.fondationdentreprisehermes.org/",
+      "publisher": "Fondation d’entreprise Hermès",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_3408f837214442c3",
+      "title": "Hermès Finance — Circular economy, repair and petit h",
+      "url": "https://finance.hermes.com/en/circular-economy/",
+      "publisher": "Hermès Finance",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_ebb164417e4667ac",
+      "title": "Apple Newsroom — Apple Watch Hermès, 2015",
+      "url": "https://www.apple.com/newsroom/2015/09/09Apple-and-Herms-Unveil-Apple-Watch-Herms/",
+      "publisher": "Apple Newsroom",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_b911d7220395d74c",
+      "title": "Lanterne Hermès — Hermès’s Philosopher / orange box history",
+      "url": "https://lanterne.hermes.com/en/story/story2412/",
+      "publisher": "Lanterne Hermès",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_eb070f2138badf37",
+      "title": "Hermès Finance — Animal welfare",
+      "url": "https://finance.hermes.com/en/animal-welfare/",
+      "publisher": "Hermès Finance",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_a6d2f68eae353f9d",
+      "title": "Lanterne Hermès — Traveler of History / Conservatoire des Créations Hermès",
+      "url": "https://lanterne.hermes.com/en/special/special2404/",
+      "publisher": "Lanterne Hermès",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_0a6301a59a551860",
+      "title": "Reuters — Hermès defeats class action again over hard-to-get Birkin bags, 2025",
+      "url": "https://www.investing.com/news/stock-market-news/hermes-defeats-class-action-again-over-hardtoget-birkin-bags-4243269",
+      "publisher": "Reuters",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_a2961c09468ef9f9",
+      "title": "Hermès — French official history page",
+      "url": "https://www.hermes.com/fr/fr/content/235056-six-generations-d-artisan/",
+      "publisher": "Hermès",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_5f4ab7c9db35fccf",
+      "title": "Paris Musées — Margiela: les années Hermès",
+      "url": "https://www.parismuseescollections.paris.fr/en/node/414550",
+      "publisher": "Paris Musées",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_0f5c6334d7fbbbd9",
+      "title": "Hermès 2015 Annual Report — Nadège Vanhée and Apple Watch Hermès",
+      "url": "https://assets-finance.hermes.com/s3fs-public/node/pdf_file/2020-06/hermes_2015_rapportannuel_en.pdf",
+      "publisher": "Hermès 2015 Annual Report",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_6a14566fea5ce9ed",
+      "claim_id": "clm_3600ebfdc9aab9a8",
+      "source_id": "src_dc59f8a9fd947321",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_15ff011de59a0572",
+      "claim_id": "clm_3600ebfdc9aab9a8",
+      "source_id": "src_a2961c09468ef9f9",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_ac8e24412997fd4c",
+      "claim_id": "clm_81fb87b88444d25a",
+      "source_id": "src_dc59f8a9fd947321",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_2839de1fd69395f6",
+      "claim_id": "clm_f46b3a2674e9adeb",
+      "source_id": "src_dc59f8a9fd947321",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_3489f0adb3ed664f",
+      "claim_id": "clm_f46b3a2674e9adeb",
+      "source_id": "src_a2961c09468ef9f9",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_8be52347b5fb38e3",
+      "claim_id": "clm_c20c6ae0b51fe09a",
+      "source_id": "src_b951936cf22f8730",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_a57079e583a896cb",
+      "claim_id": "clm_04a36145a7a2fbaa",
+      "source_id": "src_dc59f8a9fd947321",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_bc1373e68b765690",
+      "claim_id": "clm_bb242a7195435c4e",
+      "source_id": "src_dc59f8a9fd947321",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_f9bb141c03eed5af",
+      "claim_id": "clm_18f8dae4daf0ad46",
+      "source_id": "src_dc59f8a9fd947321",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_0190c69ab9a445df",
+      "claim_id": "clm_18f8dae4daf0ad46",
+      "source_id": "src_a6d2f68eae353f9d",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_9dc78e2ee37cb326",
+      "claim_id": "clm_d685af7083f1ef6f",
+      "source_id": "src_dc59f8a9fd947321",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_b93c45384b5f7b3b",
+      "claim_id": "clm_81d22fdccf990a52",
+      "source_id": "src_dc59f8a9fd947321",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_6998a3049f052c74",
+      "claim_id": "clm_81d22fdccf990a52",
+      "source_id": "src_228f158f48c97d72",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_056746a7aab34fc1",
+      "claim_id": "clm_b0508bd03cc135f3",
+      "source_id": "src_dc59f8a9fd947321",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_ec60d99ea5884627",
+      "claim_id": "clm_c988c652331cf987",
+      "source_id": "src_dc59f8a9fd947321",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_45235a1d024a8b87",
+      "claim_id": "clm_09ad79e3db067c1c",
+      "source_id": "src_dc59f8a9fd947321",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_74a38769ef98797c",
+      "claim_id": "clm_523c85aa2a64f264",
+      "source_id": "src_51bbe45e34ca1d97",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_16a50bf6ae02a971",
+      "claim_id": "clm_d5735fedf4da96ee",
+      "source_id": "src_dc59f8a9fd947321",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_55155bdc1714f790",
+      "claim_id": "clm_335d03b18d3e2649",
+      "source_id": "src_7fea034e4f1bc554",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_a6f4361170d0bcaf",
+      "claim_id": "clm_33b91379bbbb746d",
+      "source_id": "src_dc59f8a9fd947321",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_4c63b493a6f6181a",
+      "claim_id": "clm_a25ecf38e03f40ff",
+      "source_id": "src_05608423198b25e6",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_f27a41d2c17d37f7",
+      "claim_id": "clm_a25ecf38e03f40ff",
+      "source_id": "src_5f4ab7c9db35fccf",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_6b071ca0db3c7c7b",
+      "claim_id": "clm_566a6ee2bbb5ccf1",
+      "source_id": "src_dc59f8a9fd947321",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_5ce86fa95d32a257",
+      "claim_id": "clm_57f17070a1792060",
+      "source_id": "src_dc59f8a9fd947321",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_05b6059bfc92ebfd",
+      "claim_id": "clm_b2ee2ce716537e8c",
+      "source_id": "src_dc59f8a9fd947321",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_8d82059e16255ebd",
+      "claim_id": "clm_b2ee2ce716537e8c",
+      "source_id": "src_b51ecc7dbdc926a9",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_59a475a1de5b9267",
+      "claim_id": "clm_b13e068350ac35a1",
+      "source_id": "src_dc59f8a9fd947321",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_97d6874618a78ba9",
+      "claim_id": "clm_b13e068350ac35a1",
+      "source_id": "src_3408f837214442c3",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_942e5c97c6ef1537",
+      "claim_id": "clm_915b1bdb5518efae",
+      "source_id": "src_dc59f8a9fd947321",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_040fac45d3804faa",
+      "claim_id": "clm_915b1bdb5518efae",
+      "source_id": "src_0dde10e8aa691a5c",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_be56e1a61012826b",
+      "claim_id": "clm_119618240736c98e",
+      "source_id": "src_aef1945c6a0bee29",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_dc63dc85569b6006",
+      "claim_id": "clm_119618240736c98e",
+      "source_id": "src_0f5c6334d7fbbbd9",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_4ce743d8477dd6dd",
+      "claim_id": "clm_203375897943ffbd",
+      "source_id": "src_dc59f8a9fd947321",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_cb50244ab8e98243",
+      "claim_id": "clm_203375897943ffbd",
+      "source_id": "src_ebb164417e4667ac",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_4420066e63667175",
+      "claim_id": "clm_e20f1ba1125465a0",
+      "source_id": "src_dc59f8a9fd947321",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_674f739ea05feeb8",
+      "claim_id": "clm_b5653fa9f31ce95f",
+      "source_id": "src_dc59f8a9fd947321",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_267aeffb58102b6f",
+      "claim_id": "clm_bd9226b5a7fedef9",
+      "source_id": "src_dc59f8a9fd947321",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_e3a4b5d06d5ef704",
+      "claim_id": "clm_bd9226b5a7fedef9",
+      "source_id": "src_0300cb55712cd674",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_9dc2420949a66859",
+      "claim_id": "clm_1ae39fafe66a7307",
+      "source_id": "src_08515eea64ccf06b",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_acc4b673e56d2f5e",
+      "claim_id": "clm_75784bae8b5d3002",
+      "source_id": "src_3df3d05d69259179",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_8bbd708dce13d715",
+      "claim_id": "clm_7a20a3d3922d5006",
+      "source_id": "src_3df3d05d69259179",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_bbdcfbaf444ec5aa",
+      "claim_id": "clm_bed0c4cdc36de2b6",
+      "source_id": "src_3df3d05d69259179",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_d7aab4ae852db1a6",
+      "claim_id": "clm_1360664fceb0bffb",
+      "source_id": "src_0300cb55712cd674",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_80a1c39e7cce80b3",
+      "claim_id": "clm_a8d9293d0d1667a6",
+      "source_id": "src_3408f837214442c3",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_30099e408f529d2c",
+      "claim_id": "clm_038c4fd51f0e89ee",
+      "source_id": "src_818543f02fbb8d7e",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_5b5c54ee801be458",
+      "claim_id": "clm_3dc922dd986272bb",
+      "source_id": "src_2a1db743da715a8c",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_9fe9d5eebbee44c9",
+      "claim_id": "clm_080c7f32a57d442a",
+      "source_id": "src_0a6301a59a551860",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_73442c5d4705478e",
+      "claim_id": "clm_9503cfbc95296f11",
+      "source_id": "src_eb070f2138badf37",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_e4457ac35bc6ecee",
+      "claim_id": "clm_907418e964c49766",
+      "source_id": "src_b911d7220395d74c",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — research-досье автора (Иван Мельник). Claude (сессия) свёл документ в формат сайта без запуска автоматической evidence-проверки.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-06T00:00:00.000Z"
+  }
+}

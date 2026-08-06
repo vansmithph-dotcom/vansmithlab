@@ -1,0 +1,1536 @@
+{
+  "id": "obj_e8bd735c35b18761",
+  "type": "brand",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "История модного дома Versace",
+  "slug_ru": "istoriya-modnogo-doma-versace",
+  "summary_ru": "Исследовательское досье о доме Versace: от основания Джанни Версаче в Милане в 1978 году через его убийство в 1997-м, продажу Blackstone и Capri Holdings до приобретения Prada Group в 2025 году и назначения Pieter Mulier в 2026-м.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.98,
+  "created_at": "2026-08-06T00:00:00.000Z",
+  "updated_at": "2026-08-06T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_fa5013493da8c413",
+      "wording_ru": "Versace основан Gianni Versace в Милане в 1978 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.versace.com/row/en/about-us/company-profile.html",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.capriholdings.com/news/news-details/2018/Capri-Holdings-Limited-Completes-Acquisition-of-Versace/default.aspx",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_e29f9650ad7c51f3",
+      "wording_ru": "Gianni Versace родился 2 декабря 1946 года в Reggio Calabria.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Gianni-Versace",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.vogue.com/article/very-versace",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_a38e03fc1ef5b378",
+      "wording_ru": "Первая самостоятельная коллекция Versace представлена в 1978 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.98,
+      "evidence": [
+        {
+          "source_url": "https://www.versace.com/row/en/about-us/company-profile.html",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.capriholdings.com/news/news-details/2018/Capri-Holdings-Limited-Completes-Acquisition-of-Versace/default.aspx",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_435e0d6ca8ff6ef1",
+      "wording_ru": "Santo и Donatella сыграли ключевые роли в семейной компании.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Gianni-Versace",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.vogue.com/article/very-versace",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.capriholdings.com/news/news-details/2018/Michael-Kors-Holdings-Limited-to-Be-Renamed-Capri-Holdings-Limited/default.aspx",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_c23a13e1284e935d",
+      "wording_ru": "Medusa и Greek Key являются основными визуальными кодами дома.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.versace.com/row/en/about-us/company-profile.html",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.capriholdings.com/news/news-details/2018/Capri-Holdings-Limited-Completes-Acquisition-of-Versace/default.aspx",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_8ab1321a3fc4129d",
+      "wording_ru": "Versace системно использовал metal mesh / Oroton с начала 1980-х.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.98,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/art/collection/search/80942",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.metmuseum.org/exhibitions/listings/2018/heavenly-bodies/exhibition-galleries-met-fifth-avenue",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.groningermuseum.nl/en/art/exhibitions/gianni-versace-retrospective",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_41d76ee619dab71e",
+      "wording_ru": "Versace не изобрёл металлическую сетку как исторический материал.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.96,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/art/collection/search/80942",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.metmuseum.org/exhibitions/listings/2018/heavenly-bodies/exhibition-galleries-met-fifth-avenue",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_5f6a8ba8540c876a",
+      "wording_ru": "Дом сделал body-conscious design и сексуальность центральными кодами.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.96,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/art/collection/search/80942",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.groningermuseum.nl/en/art/exhibitions/gianni-versace-retrospective",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.vogue.com/article/very-versace",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_7303f5afeb81a1e5",
+      "wording_ru": "Gianni сотрудничал с театром, балетом, музыкой и современным искусством.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.98,
+      "evidence": [
+        {
+          "source_url": "https://www.groningermuseum.nl/en/art/exhibitions/gianni-versace-retrospective",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.vogue.com/article/very-versace",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://gianniversaceretrospective.fr/en/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_cac982225a6202c9",
+      "wording_ru": "Финал показа 1991 года стал символом культуры супермоделей.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.96,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/very-versace",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://gianniversaceretrospective.fr/en/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_40dd0048a7e1bd74",
+      "wording_ru": "Versace не единолично создал феномен супермодели.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/very-versace",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://gianniversaceretrospective.fr/en/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_427407d16dc24781",
+      "wording_ru": "Versus был запущен в 1989 году и связан с Donatella Versace.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.96,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/very-versace",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.capriholdings.com/news/news-details/2018/Capri-Holdings-Limited-Completes-Acquisition-of-Versace/default.aspx",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_8dd57bf41ee1fdec",
+      "wording_ru": "Safety-pin dress Elizabeth Hurley относится к 1994 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.vam.ac.uk/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.vogue.com/article/very-versace",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_3a0f1e0a2d3e1f67",
+      "wording_ru": "Gianni Versace был убит 15 июля 1997 года в Miami Beach.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Gianni-Versace",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://fashionhistory.fitnyc.edu/1990-1999/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_33584d79743ef0a1",
+      "wording_ru": "Donatella возглавила творческое направление после смерти Gianni.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Gianni-Versace",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://fashionhistory.fitnyc.edu/1990-1999/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_8870fc08d2f09bc0",
+      "wording_ru": "Jungle dress Jennifer Lopez относится к Grammy Awards 2000.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://blog.google/products-and-platforms/products/search/18-years-after-google-images-versace-jungle-print-dress-back/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_30b30a478c79ccca",
+      "wording_ru": "Google официально связывает спрос на изображения платья с импульсом к созданию Google Images.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://blog.google/products-and-platforms/products/search/18-years-after-google-images-versace-jungle-print-dress-back/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_8b15ea981759fd5f",
+      "wording_ru": "Корректная формулировка: платье помогло вдохновить сервис, а не единолично создало его.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://blog.google/products-and-platforms/products/search/18-years-after-google-images-versace-jungle-print-dress-back/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_0905796932a559fe",
+      "wording_ru": "Blackstone приобрела 20% Versace в 2014 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.98,
+      "evidence": [
+        {
+          "source_url": "https://www.blackstone.com/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.reuters.com/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_8b6dde48e106ce44",
+      "wording_ru": "Capri объявила покупку Versace при enterprise value €1,83 млрд / $2,12 млрд.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.capriholdings.com/news/news-details/2018/Michael-Kors-Holdings-Limited-to-Be-Renamed-Capri-Holdings-Limited/default.aspx",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_a6480611dfa2fd25",
+      "wording_ru": "Capri завершила приобретение 31 декабря 2018 года.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.capriholdings.com/news/news-details/2018/Capri-Holdings-Limited-Completes-Acquisition-of-Versace/default.aspx",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_16b9e43b641a0685",
+      "wording_ru": "Donatella стала Chief Brand Ambassador с 1 апреля 2025 года.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.capriholdings.com/news/news-details/2025/Donatella-Versace-Assumes-Role-of-Chief-Brand-Ambassador-of-Versace/default.aspx",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_5135f0a5b233c7ea",
+      "wording_ru": "Dario Vitale стал CCO 1 апреля 2025 года.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.capriholdings.com/news/news-details/2025/Donatella-Versace-Assumes-Role-of-Chief-Brand-Ambassador-of-Versace/default.aspx",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_dd6ab58869d4fd4f",
+      "wording_ru": "Prada Group объявила соглашение о покупке Versace 10 апреля 2025 года.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.pradagroup.com/en/news-media/news-section/25-04-10-pradagroup-versace.html",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_c97fe43ad2d26b71",
+      "wording_ru": "Enterprise value сделки Prada составила €1,25 млрд до корректировок.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.pradagroup.com/en/news-media/news-section/25-04-10-pradagroup-versace.html",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_8288571c8d676bf4",
+      "wording_ru": "Prada Group завершила покупку Versace 2 декабря 2025 года.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.pradagroup.com/en/news-media/news-section/25-12-02-pradagroup-versace-closing.html",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_67411b9352833f26",
+      "wording_ru": "Dario Vitale покинул Versace 12 декабря 2025 года.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.98,
+      "evidence": [
+        {
+          "source_url": "https://www.reuters.com/business/retail-consumer/pradas-versace-parts-ways-with-chief-creative-officer-dario-vitale-2025-12-04/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://apnews.com/article/31d98cd0d04b69d5100afcf92f90afde",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_827b65df5ee944e6",
+      "wording_ru": "Pieter Mulier назначен CCO с 1 июля 2026 года.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.pradagroup.com/en/news-media/press-releases-documents/2026/26-02-05-versace-pietermulier-chief-creative-officer.html",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_6cb9003d5ea4888e",
+      "wording_ru": "Pieter Mulier отчитывается Lorenzo Bertelli, Executive Chairman Versace.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.pradagroup.com/en/news-media/press-releases-documents/2026/26-02-05-versace-pietermulier-chief-creative-officer.html",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.pradagroup.com/content/dam/pradagroup/documents/investors/H1-2026/Prada-Group-H126-analyst-presentation.pdf",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_4513ac74dd05a18c",
+      "wording_ru": "Versace является брендом Prada Group на 5 августа 2026 года.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.pradagroup.com/en/brands/versace.html",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_fabca33895ee371f",
+      "wording_ru": "Versace внесла €305 млн net revenues в H1 2026 Prada Group.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.pradagroup.com/en/news-media/news-section/26-07-30-pradagroup-h1-2026.html",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_d68372961b9eb938",
+      "wording_ru": "Retail sales Versace в H1 2026 составили €219 млн.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.pradagroup.com/content/dam/pradagroup/documents/investors/H1-2026/Prada-Group-H126-analyst-presentation.pdf",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_6c51603f75c73504",
+      "wording_ru": "FY 2025 Versace net revenues составили €684 млн.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.pradagroup.com/en/news-media/press-releases-documents/2026/26-03-05-prada-group-2025-fy-results.html",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_a7f2c1b9b13f14c6",
+      "wording_ru": "Versace завершил FY 2025 с операционным убытком и ожиданием убытка в FY 2026.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.98,
+      "evidence": [
+        {
+          "source_url": "https://www.pradagroup.com/en/news-media/press-releases-documents/2026/26-03-05-prada-group-2025-fy-results.html",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_028af1a3bb9515d3",
+      "wording_ru": "Prada Group описывает 2026 год как период repositioning и создания новых основ Versace.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.pradagroup.com/en/news-media/news-section/26-07-30-pradagroup-h1-2026.html",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.pradagroup.com/content/dam/pradagroup/documents/investors/H1-2026/Prada-Group-H126-analyst-presentation.pdf",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_11c1e9bf590a4604",
+      "wording_ru": "Versace был одним из ключевых домов, превративших runway и celebrity dressing в массовую медиальную систему.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.95,
+      "evidence": [
+        {
+          "source_url": "https://www.groningermuseum.nl/en/art/exhibitions/gianni-versace-retrospective",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.vogue.com/article/very-versace",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://gianniversaceretrospective.fr/en/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_af7cde6f21cb2850",
+      "wording_ru": "Максимализм Versace является системой контрастов, а не просто количеством декора.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.96,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/art/collection/search/80942",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.groningermuseum.nl/en/art/exhibitions/gianni-versace-retrospective",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.vogue.com/article/very-versace",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_122c0d7e2f011349",
+      "wording_ru": "Связь Versace с queer-культурой реальна, но не должна выводиться только из яркости и сексуальности одежды.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.97,
+      "evidence": [
+        {
+          "source_url": "https://www.versace.com/row/en/stories/versace-x-pride-news/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.versace.com/row/en/stories/sustainability/the-albies.html",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_bdc1aecd0f22b140",
+      "wording_ru": "Эстетическая долговечность кода не доказывает экологическую устойчивость.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.versace.com/row/en/about-us/responsible-sourcing.html",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.pradagroup.com/en/sustainability.html",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_57b493910cfc0d0b",
+      "wording_ru": "Оценка периода Pieter Mulier до выхода полноценной коллекционной системы преждевременна.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.pradagroup.com/en/news-media/press-releases-documents/2026/26-02-05-versace-pietermulier-chief-creative-officer.html",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.pradagroup.com/en/news-media/news-section/26-07-30-pradagroup-h1-2026.html",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_6bd7d32e2aea306b",
+      "title": "Versace — Company Profile. Официальное позиционирование, год основания, текущий CCO и продуктовый охват",
+      "url": "https://www.versace.com/row/en/about-us/company-profile.html",
+      "publisher": "Versace",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_8c1d0a8646be4eb1",
+      "title": "The Metropolitan Museum of Art — Versace Couture evening dress. Музейный анализ metal mesh и классической драпировки",
+      "url": "https://www.metmuseum.org/art/collection/search/80942",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_98dbfdd46d80f242",
+      "title": "The Met — Heavenly Bodies galleries. Oroton, византийское влияние и коллекции Versace",
+      "url": "https://www.metmuseum.org/exhibitions/listings/2018/heavenly-bodies/exhibition-galleries-met-fifth-avenue",
+      "publisher": "The Met",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_ab4258d03fc97f68",
+      "title": "Groninger Museum — Gianni Versace Retrospective. Междисциплинарность, показы, реклама, музыка и графический дизайн",
+      "url": "https://www.groningermuseum.nl/en/art/exhibitions/gianni-versace-retrospective",
+      "publisher": "Groninger Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_79a1e1c8f9a273e5",
+      "title": "Encyclopaedia Britannica — Gianni Versace. Биографическая проверка; URL перепроверить перед релизом",
+      "url": "https://www.britannica.com/biography/Gianni-Versace",
+      "publisher": "Encyclopaedia Britannica",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_09b870278f59f70a",
+      "title": "Victoria and Albert Museum — safety-pin dress / Versace holdings. Музейная проверка объекта и прав; конкретную карточку выбрать перед релизом",
+      "url": "https://www.vam.ac.uk/",
+      "publisher": "Victoria and Albert Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_e0d85bb33c335727",
+      "title": "Google — 18 years after Google Images, the Versace jungle print dress is back. Официальная связь Jungle dress и Google Images",
+      "url": "https://blog.google/products-and-platforms/products/search/18-years-after-google-images-versace-jungle-print-dress-back/",
+      "publisher": "Google",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_f649d287d5f6983f",
+      "title": "Google — Celebrating 25 years of visual search innovation. Актуальная официальная хронология запуска Google Images",
+      "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
+      "publisher": "Google",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_d54793c1f17bb5e6",
+      "title": "Versace — Pride and equality stories. Корпоративные проекты LGBTQ+ и публичные ценности",
+      "url": "https://www.versace.com/row/en/stories/versace-x-pride-news/",
+      "publisher": "Versace",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_44a1e23ba5a6d585",
+      "title": "Versace — The Albies partnership. Партнёрство с Clooney Foundation for Justice и заявления бренда",
+      "url": "https://www.versace.com/row/en/stories/sustainability/the-albies.html",
+      "publisher": "Versace",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_407c54427519df07",
+      "title": "Vogue Archive — Very Versace. Кураторский и исторический обзор Gianni, искусства, тела и музеев",
+      "url": "https://www.vogue.com/article/very-versace",
+      "publisher": "Vogue Archive",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_278252628a3560b9",
+      "title": "Fashion History Timeline — 1990–1999. Контекст 1997 года и смены творческого руководства",
+      "url": "https://fashionhistory.fitnyc.edu/1990-1999/",
+      "publisher": "Fashion History Timeline",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_82d6627b0013e474",
+      "title": "Gianni Versace Retrospective — exhibition materials. Темы античности, модернизма, попа и ключевых объектов",
+      "url": "https://gianniversaceretrospective.fr/en/",
+      "publisher": "Gianni Versace Retrospective",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_351e40605ca1396d",
+      "title": "Blackstone — Versace investment announcement. Первичный источник сделки 2014 года; конкретный архивный URL проверить",
+      "url": "https://www.blackstone.com/",
+      "publisher": "Blackstone",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_8cd582da6a31891d",
+      "title": "Reuters / established business media — Blackstone Versace stake. Независимая проверка структуры сделки; URL подобрать при fact review",
+      "url": "https://www.reuters.com/",
+      "publisher": "Reuters / established business media",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_f007d5a86225693e",
+      "title": "Capri Holdings — Completes Acquisition of Versace. Завершение сделки 31 декабря 2018 и цели роста",
+      "url": "https://www.capriholdings.com/news/news-details/2018/Capri-Holdings-Limited-Completes-Acquisition-of-Versace/default.aspx",
+      "publisher": "Capri Holdings",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_38fa0a0d2dc670a3",
+      "title": "Capri Holdings — Michael Kors to be renamed Capri Holdings. Enterprise value €1,83 млрд / $2,12 млрд и соглашение 2018",
+      "url": "https://www.capriholdings.com/news/news-details/2018/Michael-Kors-Holdings-Limited-to-Be-Renamed-Capri-Holdings-Limited/default.aspx",
+      "publisher": "Capri Holdings",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_6444bff611d1434e",
+      "title": "Capri Holdings — Donatella Versace assumes Chief Brand Ambassador role. Официальные назначения Donatella и Dario Vitale",
+      "url": "https://www.capriholdings.com/news/news-details/2025/Donatella-Versace-Assumes-Role-of-Chief-Brand-Ambassador-of-Versace/default.aspx",
+      "publisher": "Capri Holdings",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_739b2a98861b4bda",
+      "title": "Prada Group — Agreement for the acquisition of Versace. Соглашение 10 апреля 2025, 100% и enterprise value €1,25 млрд",
+      "url": "https://www.pradagroup.com/en/news-media/news-section/25-04-10-pradagroup-versace.html",
+      "publisher": "Prada Group",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_d3c8fe9d76c61182",
+      "title": "Prada Group — Completes the acquisition of Versace. Завершение сделки 2 декабря 2025",
+      "url": "https://www.pradagroup.com/en/news-media/news-section/25-12-02-pradagroup-versace-closing.html",
+      "publisher": "Prada Group",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_5b5e6744064a70b5",
+      "title": "Reuters — Versace parts ways with Dario Vitale. Дата и условия ухода Dario Vitale",
+      "url": "https://www.reuters.com/business/retail-consumer/pradas-versace-parts-ways-with-chief-creative-officer-dario-vitale-2025-12-04/",
+      "publisher": "Reuters",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_c12a5434160601ad",
+      "title": "Associated Press — Dario Vitale exits Versace. Независимая проверка ухода и временной структуры",
+      "url": "https://apnews.com/article/31d98cd0d04b69d5100afcf92f90afde",
+      "publisher": "Associated Press",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_377c15d201e77d44",
+      "title": "Prada Group — Pieter Mulier appointed Chief Creative Officer. Назначение с 1 июля 2026 и отчётность Lorenzo Bertelli",
+      "url": "https://www.pradagroup.com/en/news-media/press-releases-documents/2026/26-02-05-versace-pietermulier-chief-creative-officer.html",
+      "publisher": "Prada Group",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_56bd55d10e2beb5f",
+      "title": "Prada Group — Versace brand page. Текущий статус Versace внутри группы",
+      "url": "https://www.pradagroup.com/en/brands/versace.html",
+      "publisher": "Prada Group",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_7728319996357847",
+      "title": "Prada Group — H1 2026 Results. €305 млн net revenues Versace и стратегический комментарий",
+      "url": "https://www.pradagroup.com/en/news-media/news-section/26-07-30-pradagroup-h1-2026.html",
+      "publisher": "Prada Group",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_01c68bbe41dadb6f",
+      "title": "Prada Group — H1 2026 analyst presentation. Retail sales Versace, Lorenzo Bertelli и repositioning priorities",
+      "url": "https://www.pradagroup.com/content/dam/pradagroup/documents/investors/H1-2026/Prada-Group-H126-analyst-presentation.pdf",
+      "publisher": "Prada Group",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_d62f5353a817128a",
+      "title": "Prada Group — FY 2025 Results. €684 млн Versace, убытки и ожидания FY 2026",
+      "url": "https://www.pradagroup.com/en/news-media/press-releases-documents/2026/26-03-05-prada-group-2025-fy-results.html",
+      "publisher": "Prada Group",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_8ad5bbdf56917d70",
+      "title": "Versace — Responsible Sourcing. Официальные policies и поставщики; заявления требуют независимой проверки",
+      "url": "https://www.versace.com/row/en/about-us/responsible-sourcing.html",
+      "publisher": "Versace",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_408b5eb37aa4a33b",
+      "title": "Prada Group — Sustainability. Групповые policies после приобретения; не переносить автоматически на прошлые периоды Versace",
+      "url": "https://www.pradagroup.com/en/sustainability.html",
+      "publisher": "Prada Group",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_64aabfeeeaaafb36",
+      "claim_id": "clm_fa5013493da8c413",
+      "source_id": "src_6bd7d32e2aea306b",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_02e457f128dd82f9",
+      "claim_id": "clm_fa5013493da8c413",
+      "source_id": "src_f007d5a86225693e",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_75e7c8fe4f307f8f",
+      "claim_id": "clm_e29f9650ad7c51f3",
+      "source_id": "src_79a1e1c8f9a273e5",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_55621f8546ae6dd8",
+      "claim_id": "clm_e29f9650ad7c51f3",
+      "source_id": "src_407c54427519df07",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_1504a7483a6b90fe",
+      "claim_id": "clm_a38e03fc1ef5b378",
+      "source_id": "src_6bd7d32e2aea306b",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_803c2b3381aad186",
+      "claim_id": "clm_a38e03fc1ef5b378",
+      "source_id": "src_f007d5a86225693e",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_4ba7df6a38e1df64",
+      "claim_id": "clm_435e0d6ca8ff6ef1",
+      "source_id": "src_79a1e1c8f9a273e5",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_f8fcbf16a21ea1d7",
+      "claim_id": "clm_435e0d6ca8ff6ef1",
+      "source_id": "src_407c54427519df07",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_1f3d0f469d95295d",
+      "claim_id": "clm_435e0d6ca8ff6ef1",
+      "source_id": "src_38fa0a0d2dc670a3",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_ab3124f60b688ef2",
+      "claim_id": "clm_c23a13e1284e935d",
+      "source_id": "src_6bd7d32e2aea306b",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_d8d8a63846502681",
+      "claim_id": "clm_c23a13e1284e935d",
+      "source_id": "src_f007d5a86225693e",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_54c3adaa3b6e3012",
+      "claim_id": "clm_8ab1321a3fc4129d",
+      "source_id": "src_8c1d0a8646be4eb1",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_43df8ea530baae12",
+      "claim_id": "clm_8ab1321a3fc4129d",
+      "source_id": "src_98dbfdd46d80f242",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_8e53c643502643eb",
+      "claim_id": "clm_8ab1321a3fc4129d",
+      "source_id": "src_ab4258d03fc97f68",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_9658db2c512453f5",
+      "claim_id": "clm_41d76ee619dab71e",
+      "source_id": "src_8c1d0a8646be4eb1",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_cde2bdbc16ca64e0",
+      "claim_id": "clm_41d76ee619dab71e",
+      "source_id": "src_98dbfdd46d80f242",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_cc8f05eb99cb1d06",
+      "claim_id": "clm_5f6a8ba8540c876a",
+      "source_id": "src_8c1d0a8646be4eb1",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_31347b898a6ccbac",
+      "claim_id": "clm_5f6a8ba8540c876a",
+      "source_id": "src_ab4258d03fc97f68",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_0cabae1dbca53a7c",
+      "claim_id": "clm_5f6a8ba8540c876a",
+      "source_id": "src_407c54427519df07",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_fe16e19762adea38",
+      "claim_id": "clm_7303f5afeb81a1e5",
+      "source_id": "src_ab4258d03fc97f68",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_24c5e78fddd47e6c",
+      "claim_id": "clm_7303f5afeb81a1e5",
+      "source_id": "src_407c54427519df07",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_50853f49ba4c4bc6",
+      "claim_id": "clm_7303f5afeb81a1e5",
+      "source_id": "src_82d6627b0013e474",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_84bb002fbc07d45e",
+      "claim_id": "clm_cac982225a6202c9",
+      "source_id": "src_407c54427519df07",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_3e13402f4cafea88",
+      "claim_id": "clm_cac982225a6202c9",
+      "source_id": "src_82d6627b0013e474",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_bd1dce34df1cbbfa",
+      "claim_id": "clm_40dd0048a7e1bd74",
+      "source_id": "src_407c54427519df07",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_9ceb1767896820f5",
+      "claim_id": "clm_40dd0048a7e1bd74",
+      "source_id": "src_82d6627b0013e474",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_ef916d6659684e02",
+      "claim_id": "clm_427407d16dc24781",
+      "source_id": "src_407c54427519df07",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_fcc79cc169232f5f",
+      "claim_id": "clm_427407d16dc24781",
+      "source_id": "src_f007d5a86225693e",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_1ffa02718d3ca7b7",
+      "claim_id": "clm_8dd57bf41ee1fdec",
+      "source_id": "src_09b870278f59f70a",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_141ae8c03f112ca4",
+      "claim_id": "clm_8dd57bf41ee1fdec",
+      "source_id": "src_407c54427519df07",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_b117c400da1f005d",
+      "claim_id": "clm_3a0f1e0a2d3e1f67",
+      "source_id": "src_79a1e1c8f9a273e5",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_05bac194f7087d69",
+      "claim_id": "clm_3a0f1e0a2d3e1f67",
+      "source_id": "src_278252628a3560b9",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_b7f9b9ee1266fe81",
+      "claim_id": "clm_33584d79743ef0a1",
+      "source_id": "src_79a1e1c8f9a273e5",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_1845acd16de46bdf",
+      "claim_id": "clm_33584d79743ef0a1",
+      "source_id": "src_278252628a3560b9",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_283c12976d6fa1b7",
+      "claim_id": "clm_8870fc08d2f09bc0",
+      "source_id": "src_e0d85bb33c335727",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_186c96dc9312b277",
+      "claim_id": "clm_8870fc08d2f09bc0",
+      "source_id": "src_f649d287d5f6983f",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_21b4923a93de50c6",
+      "claim_id": "clm_30b30a478c79ccca",
+      "source_id": "src_e0d85bb33c335727",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_1a8962014494cd06",
+      "claim_id": "clm_30b30a478c79ccca",
+      "source_id": "src_f649d287d5f6983f",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_0fe1a894bcf63ac4",
+      "claim_id": "clm_8b15ea981759fd5f",
+      "source_id": "src_e0d85bb33c335727",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_491d2b54a94d4bf8",
+      "claim_id": "clm_8b15ea981759fd5f",
+      "source_id": "src_f649d287d5f6983f",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_089b3585bf9b254d",
+      "claim_id": "clm_0905796932a559fe",
+      "source_id": "src_351e40605ca1396d",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_c59aa1d796223d11",
+      "claim_id": "clm_0905796932a559fe",
+      "source_id": "src_8cd582da6a31891d",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_6cc1855d101e5b1d",
+      "claim_id": "clm_8b6dde48e106ce44",
+      "source_id": "src_38fa0a0d2dc670a3",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_9ca8b6ec247bf7cb",
+      "claim_id": "clm_a6480611dfa2fd25",
+      "source_id": "src_f007d5a86225693e",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_05d03519a83af507",
+      "claim_id": "clm_16b9e43b641a0685",
+      "source_id": "src_6444bff611d1434e",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_2186b39f588a0f51",
+      "claim_id": "clm_5135f0a5b233c7ea",
+      "source_id": "src_6444bff611d1434e",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_866f1a7bcba364f1",
+      "claim_id": "clm_dd6ab58869d4fd4f",
+      "source_id": "src_739b2a98861b4bda",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_99d0995f61c7887c",
+      "claim_id": "clm_c97fe43ad2d26b71",
+      "source_id": "src_739b2a98861b4bda",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_c82e06d75b9726ce",
+      "claim_id": "clm_8288571c8d676bf4",
+      "source_id": "src_d3c8fe9d76c61182",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_d1ab53dfde9ddca5",
+      "claim_id": "clm_67411b9352833f26",
+      "source_id": "src_5b5e6744064a70b5",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_447e9f53b0e63e1c",
+      "claim_id": "clm_67411b9352833f26",
+      "source_id": "src_c12a5434160601ad",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_fd88f1527cfcd017",
+      "claim_id": "clm_827b65df5ee944e6",
+      "source_id": "src_377c15d201e77d44",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_2e8581e770d2f7af",
+      "claim_id": "clm_6cb9003d5ea4888e",
+      "source_id": "src_377c15d201e77d44",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_45f3504cb5c404c3",
+      "claim_id": "clm_6cb9003d5ea4888e",
+      "source_id": "src_01c68bbe41dadb6f",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_fe94d2f424961894",
+      "claim_id": "clm_4513ac74dd05a18c",
+      "source_id": "src_56bd55d10e2beb5f",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_bb19ed5553178187",
+      "claim_id": "clm_fabca33895ee371f",
+      "source_id": "src_7728319996357847",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_f39b967041495d14",
+      "claim_id": "clm_d68372961b9eb938",
+      "source_id": "src_01c68bbe41dadb6f",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_55a1692f4eec2343",
+      "claim_id": "clm_6c51603f75c73504",
+      "source_id": "src_d62f5353a817128a",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_1635b46c845e9892",
+      "claim_id": "clm_a7f2c1b9b13f14c6",
+      "source_id": "src_d62f5353a817128a",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_0634364112ab4862",
+      "claim_id": "clm_028af1a3bb9515d3",
+      "source_id": "src_7728319996357847",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_9ee275bba426b62c",
+      "claim_id": "clm_028af1a3bb9515d3",
+      "source_id": "src_01c68bbe41dadb6f",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_8afa539d3208f227",
+      "claim_id": "clm_11c1e9bf590a4604",
+      "source_id": "src_ab4258d03fc97f68",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_9bc4ec6e8b491392",
+      "claim_id": "clm_11c1e9bf590a4604",
+      "source_id": "src_407c54427519df07",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_95e11862ccb7893d",
+      "claim_id": "clm_11c1e9bf590a4604",
+      "source_id": "src_82d6627b0013e474",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_1e9541f0682eadc7",
+      "claim_id": "clm_af7cde6f21cb2850",
+      "source_id": "src_8c1d0a8646be4eb1",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_6aab2fdd7bad2a13",
+      "claim_id": "clm_af7cde6f21cb2850",
+      "source_id": "src_ab4258d03fc97f68",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_df8294e7960a0dbd",
+      "claim_id": "clm_af7cde6f21cb2850",
+      "source_id": "src_407c54427519df07",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_a4aa030b644c1e1a",
+      "claim_id": "clm_122c0d7e2f011349",
+      "source_id": "src_d54793c1f17bb5e6",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_01ca3af87d358461",
+      "claim_id": "clm_122c0d7e2f011349",
+      "source_id": "src_44a1e23ba5a6d585",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_1111286991a803ea",
+      "claim_id": "clm_bdc1aecd0f22b140",
+      "source_id": "src_8ad5bbdf56917d70",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_d5186e024055afeb",
+      "claim_id": "clm_bdc1aecd0f22b140",
+      "source_id": "src_408b5eb37aa4a33b",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_b1dfb5ad0385481f",
+      "claim_id": "clm_57b493910cfc0d0b",
+      "source_id": "src_377c15d201e77d44",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_28bb682d56885e58",
+      "claim_id": "clm_57b493910cfc0d0b",
+      "source_id": "src_7728319996357847",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — research-досье автора (Иван Мельник). Claude (сессия) свёл документ в формат сайта без запуска автоматической evidence-проверки.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-06T00:00:00.000Z"
+  }
+}

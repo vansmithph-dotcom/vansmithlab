@@ -1,0 +1,1248 @@
+{
+  "id": "obj_331927151c1ee947",
+  "type": "brand",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "История модного дома Giorgio Armani",
+  "slug_ru": "istoriya-modnogo-doma-armani",
+  "summary_ru": "Исследовательское досье о доме Giorgio Armani: от мягкого мужского пиджака 1975 года до смерти основателя в 2025-м и открытого вопроса о будущей структуре собственности компании.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.98,
+  "created_at": "2026-08-06T00:00:00.000Z",
+  "updated_at": "2026-08-06T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_e839601c37d4fd7e",
+      "wording_ru": "Giorgio Armani родился 11 июля 1934 года в Пьяченце.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://sparc.fitnyc.edu/agents/people/1242?page=2",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.reuters.com/business/media-telecom/obituary-giorgio-armani-obituary-king-italian-fashion-who-revolutionised-2025-09-04/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_842723a25e042d99",
+      "wording_ru": "В 1957 году Armani начал работать в La Rinascente.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.98,
+      "evidence": [
+        {
+          "source_url": "https://sparc.fitnyc.edu/agents/people/1242?page=2",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_e2cd62d6816aa85f",
+      "wording_ru": "Работа над Hitman у Cerruti сформировала его опыт промышленного menswear.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.97,
+      "evidence": [
+        {
+          "source_url": "https://archivio.armani.com/en",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://sparc.fitnyc.edu/agents/people/1242?page=2",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_e68ac1ab0342b417",
+      "wording_ru": "Giorgio Armani S.p.A. основана 24 июля 1975 года Armani и Sergio Galeotti.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://armanivalues.com/overview/our-history/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_edc51d689550acc8",
+      "wording_ru": "Первые мужская и женская ready-to-wear коллекции представлены в 1975 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://armanivalues.com/overview/our-history/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_b745094e758c3625",
+      "wording_ru": "Мягкий Armani-пиджак ослаблял традиционную внутреннюю конструкцию костюма.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.98,
+      "evidence": [
+        {
+          "source_url": "https://archivio.armani.com/en",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://sparc.fitnyc.edu/agents/people/1242?page=2",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://sites.fitnyc.edu/depts/museum/TailorsArt/ContemporaryTailoring.htm",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_47493fe61992ec52",
+      "wording_ru": "Armani не единолично изобрёл деконструкцию, но систематизировал мягкое tailoring в массовом luxury prêt-à-porter.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.94,
+      "evidence": [
+        {
+          "source_url": "https://archivio.armani.com/en",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://sites.fitnyc.edu/depts/museum/TailorsArt/ContemporaryTailoring.htm",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_b9c1e2f2c4c4a8cd",
+      "wording_ru": "В женской одежде дом адаптировал методы мужского мягкого tailoring.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.97,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/essays/made-in-italy-italian-fashion-from-1950-to-now",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://sites.fitnyc.edu/depts/museum/TailorsArt/ContemporaryTailoring.htm",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_682a304da214ffef",
+      "wording_ru": "Палитра бренда включает сложные нейтральные и greige-оттенки.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.97,
+      "evidence": [
+        {
+          "source_url": "https://www.armani.com/en/giorgio-armani/experience/about-giorgio-armani/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://sparc.fitnyc.edu/agents/people/1242?page=2",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_86e6e1492ec6715f",
+      "wording_ru": "Официальный архив связывает метод 1975 года с Cerruti и неаполитанской мягкостью.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://archivio.armani.com/en",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_9dda6eb28c229102",
+      "wording_ru": "В 1980 году Armani создал гардероб American Gigolo.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://armanivalues.com/overview/our-history/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_41023247ca12d5a8",
+      "wording_ru": "American Gigolo ускорил международную узнаваемость дома.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.95,
+      "evidence": [
+        {
+          "source_url": "https://armanivalues.com/overview/our-history/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://sparc.fitnyc.edu/agents/people/1242?page=2",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.reuters.com/business/media-telecom/obituary-giorgio-armani-obituary-king-italian-fashion-who-revolutionised-2025-09-04/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_66c285364f9b6e2c",
+      "wording_ru": "Emporio Armani и Armani Jeans запущены в 1981 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://armanivalues.com/overview/our-history/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_4b11d932150f7c80",
+      "wording_ru": "Первый магазин Emporio Armani открылся в Милане в 1981 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://armanivalues.com/overview/our-history/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_d314f32285c047eb",
+      "wording_ru": "Sergio Galeotti умер в 1985 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.reuters.com/business/media-telecom/obituary-giorgio-armani-obituary-king-italian-fashion-who-revolutionised-2025-09-04/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.reuters.com/business/finance/after-armani-what-becomes-fashion-empire-he-built-2025-09-05/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_316f26f75dd8ada0",
+      "wording_ru": "После 1985 года Armani усилил личный творческий и управленческий контроль.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.97,
+      "evidence": [
+        {
+          "source_url": "https://www.reuters.com/business/media-telecom/obituary-giorgio-armani-obituary-king-italian-fashion-who-revolutionised-2025-09-04/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.reuters.com/business/finance/after-armani-what-becomes-fashion-empire-he-built-2025-09-05/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_c0d828fa878f9ef0",
+      "wording_ru": "Armani/Casa запущена в 2000 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.98,
+      "evidence": [
+        {
+          "source_url": "https://armanivalues.com/overview/our-history/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_146af66e28d28df8",
+      "wording_ru": "Giorgio Armani Privé запущена в 2005 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://armanivalues.com/overview/our-history/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://exhibitions.fitnyc.edu/minimalism-maximalism/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_57c4cf8a7b3549a8",
+      "wording_ru": "Privé обладает статусом corresponding member в парижской haute couture системе.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.96,
+      "evidence": [
+        {
+          "source_url": "https://exhibitions.fitnyc.edu/minimalism-maximalism/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_1e73931814206551",
+      "wording_ru": "Armani/Silos открыт 30 апреля 2015 года.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://armanivalues.com/overview/our-history/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://armanivalues.com/download/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_075752dbe6712589",
+      "wording_ru": "Giorgio Armani Foundation создан в 2016 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://armanivalues.com/overview/our-history/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://armanivalues.com/wp-content/uploads/2023/01/Sustainability-Report-2021_Summary-EN.pdf",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_137ee60ea5ef2d76",
+      "wording_ru": "В 2016 году группа объявила отказ от натурального меха.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://armanivalues.com/overview/our-history/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://armanivalues.com/wp-content/uploads/2023/01/Sustainability-Report-2021_Summary-EN.pdf",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_f7310d3bf24f76e0",
+      "wording_ru": "Giorgio Armani сохранял контроль над компанией до смерти.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.reuters.com/business/media-telecom/obituary-giorgio-armani-obituary-king-italian-fashion-who-revolutionised-2025-09-04/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.reuters.com/business/finance/after-armani-what-becomes-fashion-empire-he-built-2025-09-05/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.reuters.com/business/armani-after-giorgio-armani-key-details-his-will-2025-09-12/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_1076a21b9f0d0133",
+      "wording_ru": "Giorgio Armani умер 4 сентября 2025 года в возрасте 91 года.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.reuters.com/business/media-telecom/obituary-giorgio-armani-obituary-king-italian-fashion-who-revolutionised-2025-09-04/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_80fca17ab68da471",
+      "wording_ru": "Завещание предусматривает первоначальную продажу 15% доли.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.reuters.com/business/armani-after-giorgio-armani-key-details-his-will-2025-09-12/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_4a39356209ae4077",
+      "wording_ru": "Приоритетными потенциальными покупателями названы LVMH, L’Oréal и EssilorLuxottica либо сопоставимый партнёр.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.reuters.com/business/armani-after-giorgio-armani-key-details-his-will-2025-09-12/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_eb6858aeb42bec83",
+      "wording_ru": "Завещание предусматривает последующую продажу дополнительной доли или листинг.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.reuters.com/business/armani-after-giorgio-armani-key-details-his-will-2025-09-12/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_697fc288e9890a5e",
+      "wording_ru": "Foundation должен сохранить значительное долгосрочное влияние и минимальную долю при будущей структуре.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.98,
+      "evidence": [
+        {
+          "source_url": "https://www.reuters.com/business/armani-after-giorgio-armani-key-details-his-will-2025-09-12/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.reuters.com/sustainability/boards-policy-regulation/armani-names-new-board-steer-company-through-succession-plan-2025-11-28/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_08f20075e4ed1f61",
+      "wording_ru": "Pantaleo Dell’Orco стал председателем компании после смерти Armani.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.reuters.com/sustainability/boards-policy-regulation/armani-exec-marsocci-set-be-named-new-ceo-source-local-media-say-2025-10-16/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.reuters.com/sustainability/boards-policy-regulation/armani-names-new-board-steer-company-through-succession-plan-2025-11-28/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_4c3900b6fa2da3f1",
+      "wording_ru": "Giuseppe Marsocci назначен CEO в октябре 2025 года.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.reuters.com/sustainability/boards-policy-regulation/armani-exec-marsocci-set-be-named-new-ceo-source-local-media-say-2025-10-16/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_02fc4dc7a4c0a0bb",
+      "wording_ru": "В ноябре 2025 года сформирован новый восьмиместный совет директоров.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.reuters.com/sustainability/boards-policy-regulation/armani-names-new-board-steer-company-through-succession-plan-2025-11-28/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_b415d99d85115055",
+      "wording_ru": "Выручка группы за 2025 год составила около €2,2 млрд.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.reuters.com/business/armani-revenue-slips-2025-after-difficult-year-ceo-says-2026-04-29/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_7ba40357e9c3ac16",
+      "wording_ru": "На 5 августа 2026 года завершённая продажа доли публично не подтверждена.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.88,
+      "evidence": [
+        {
+          "source_url": "https://www.reuters.com/business/armani-revenue-slips-2025-after-difficult-year-ceo-says-2026-04-29/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.reuters.com/business/armani-could-split-15-stake-among-loreal-lvmh-essilorluxottica-report-says-2026-05-10/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_13970d33aebe7d6f",
+      "wording_ru": "Нейтральная палитра и мягкий крой являются устойчивыми кодами дома, а не неизменной формулой каждой коллекции.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.95,
+      "evidence": [
+        {
+          "source_url": "https://www.armani.com/en/giorgio-armani/experience/about-giorgio-armani/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://archivio.armani.com/en",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://sparc.fitnyc.edu/agents/people/1242?page=2",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_10a20f55efe2bf45",
+      "wording_ru": "Armani повлиял на современную экономику celebrity dressing и red carpet, но не создал её единолично.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.94,
+      "evidence": [
+        {
+          "source_url": "https://armanivalues.com/overview/our-history/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.reuters.com/business/media-telecom/obituary-giorgio-armani-obituary-king-italian-fashion-who-revolutionised-2025-09-04/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_7402fdc59f48c3fb",
+      "wording_ru": "Главный риск после 2025 года — институционализация метода, ранее сосредоточенного у основателя.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.95,
+      "evidence": [
+        {
+          "source_url": "https://www.reuters.com/business/armani-after-giorgio-armani-key-details-his-will-2025-09-12/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.reuters.com/sustainability/boards-policy-regulation/armani-exec-marsocci-set-be-named-new-ceo-source-local-media-say-2025-10-16/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.reuters.com/sustainability/boards-policy-regulation/armani-names-new-board-steer-company-through-succession-plan-2025-11-28/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_57fb15c21b7bb8e5",
+      "title": "Armani / Values — Our History. Официальная хронология группы; первичный источник для milestone-дат",
+      "url": "https://armanivalues.com/overview/our-history/",
+      "publisher": "Armani / Values",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_ef654c8ddefd47fd",
+      "title": "Armani — The History and Identity of Giorgio Armani. Официальное описание эстетики и истории главной линии",
+      "url": "https://www.armani.com/en/giorgio-armani/experience/about-giorgio-armani/",
+      "publisher": "Armani",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_523565d5ee342ab2",
+      "title": "Archivio Armani — Giorgio Armani’s Living Legacy. Официальный архив коллекций и описание истоков soft tailoring",
+      "url": "https://archivio.armani.com/en",
+      "publisher": "Archivio Armani",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_b80457ae691f9a61",
+      "title": "Museum at FIT Archives — Armani, Giorgio. Музейная биографическая запись и описание кроя, палитры и ранней карьеры",
+      "url": "https://sparc.fitnyc.edu/agents/people/1242?page=2",
+      "publisher": "Museum at FIT Archives",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_3f4523d121f93484",
+      "title": "The Metropolitan Museum of Art — Made in Italy. Музейный контекст итальянской моды и гендерного влияния Armani",
+      "url": "https://www.metmuseum.org/essays/made-in-italy-italian-fashion-from-1950-to-now",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_a212d1166f0e7322",
+      "title": "Museum at FIT — The Tailor’s Art: Contemporary Tailoring. Описание мягко сконструированного костюма и его влияния",
+      "url": "https://sites.fitnyc.edu/depts/museum/TailorsArt/ContemporaryTailoring.htm",
+      "publisher": "Museum at FIT",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_b680acc72dfe955c",
+      "title": "Reuters — Obituary: Giorgio Armani. Дата смерти, роль основателя и независимость компании",
+      "url": "https://www.reuters.com/business/media-telecom/obituary-giorgio-armani-obituary-king-italian-fashion-who-revolutionised-2025-09-04/",
+      "publisher": "Reuters",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_80524181fd32650b",
+      "title": "Reuters — After Armani: what becomes of the fashion empire?. Контекст собственности и преемственности после смерти",
+      "url": "https://www.reuters.com/business/finance/after-armani-what-becomes-fashion-empire-he-built-2025-09-05/",
+      "publisher": "Reuters",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_3d72f50a45218a56",
+      "title": "Reuters — Armani after Giorgio Armani: key details of his will. Структура голосов, продажа доли, возможный листинг и роль Foundation",
+      "url": "https://www.reuters.com/business/armani-after-giorgio-armani-key-details-his-will-2025-09-12/",
+      "publisher": "Reuters",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_404c7dd925c582ce",
+      "title": "Reuters — Giorgio Armani group names Giuseppe Marsocci CEO. Назначения CEO, председателя и вице-председателя",
+      "url": "https://www.reuters.com/sustainability/boards-policy-regulation/armani-exec-marsocci-set-be-named-new-ceo-source-local-media-say-2025-10-16/",
+      "publisher": "Reuters",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_2b03b339daf9206a",
+      "title": "Reuters — Armani names new board. Состав и задача совета директоров в переходный период",
+      "url": "https://www.reuters.com/sustainability/boards-policy-regulation/armani-names-new-board-steer-company-through-succession-plan-2025-11-28/",
+      "publisher": "Reuters",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_9df413a5e8d9f806",
+      "title": "Reuters — Armani 2025 revenue fell 2.8%. Актуальные финансовые показатели и статус переговоров на 29 апреля 2026",
+      "url": "https://www.reuters.com/business/armani-revenue-slips-2025-after-difficult-year-ceo-says-2026-04-29/",
+      "publisher": "Reuters",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_013ee6c21fe95f66",
+      "title": "Reuters — Armani could split 15% stake. Атрибутированный сценарий сделки; компания отказалась от комментария",
+      "url": "https://www.reuters.com/business/armani-could-split-15-stake-among-loreal-lvmh-essilorluxottica-report-says-2026-05-10/",
+      "publisher": "Reuters",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_f8a48f46eab01e32",
+      "title": "Armani Group — Sustainability Report 2024. Корпоративные данные о структуре, воздействии и sustainability-политиках",
+      "url": "https://armanivalues.com/download/",
+      "publisher": "Armani Group",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_9a8ebe1d0fcb8fc8",
+      "title": "Armani Group — Sustainability Report / Summary 2021. Бренд-архитектура, лицензии, спорт, Foundation и sustainability timeline",
+      "url": "https://armanivalues.com/wp-content/uploads/2023/01/Sustainability-Report-2021_Summary-EN.pdf",
+      "publisher": "Armani Group",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_c73f11275eed466f",
+      "title": "Museum at FIT — Minimalism/Maximalism. Музейный пример Giorgio Armani Privé и соответствующего couture-статуса",
+      "url": "https://exhibitions.fitnyc.edu/minimalism-maximalism/",
+      "publisher": "Museum at FIT",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_b7b60c2339ee0abb",
+      "claim_id": "clm_e839601c37d4fd7e",
+      "source_id": "src_b80457ae691f9a61",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_acd56d1f317d8b25",
+      "claim_id": "clm_e839601c37d4fd7e",
+      "source_id": "src_b680acc72dfe955c",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_37df68a0cb13c580",
+      "claim_id": "clm_842723a25e042d99",
+      "source_id": "src_b80457ae691f9a61",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_bd0fcb09795202a5",
+      "claim_id": "clm_e2cd62d6816aa85f",
+      "source_id": "src_523565d5ee342ab2",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_2c46fd9563e0ade3",
+      "claim_id": "clm_e2cd62d6816aa85f",
+      "source_id": "src_b80457ae691f9a61",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_e722ede9ac21e465",
+      "claim_id": "clm_e68ac1ab0342b417",
+      "source_id": "src_57fb15c21b7bb8e5",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_77eb57c8b5757b8c",
+      "claim_id": "clm_edc51d689550acc8",
+      "source_id": "src_57fb15c21b7bb8e5",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_303b444637485038",
+      "claim_id": "clm_b745094e758c3625",
+      "source_id": "src_523565d5ee342ab2",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_88b88f114afa516a",
+      "claim_id": "clm_b745094e758c3625",
+      "source_id": "src_b80457ae691f9a61",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_717c74f15e9574da",
+      "claim_id": "clm_b745094e758c3625",
+      "source_id": "src_a212d1166f0e7322",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_c059c90037b6e977",
+      "claim_id": "clm_47493fe61992ec52",
+      "source_id": "src_523565d5ee342ab2",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_14402f72b3502b6d",
+      "claim_id": "clm_47493fe61992ec52",
+      "source_id": "src_a212d1166f0e7322",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_313e362112a53342",
+      "claim_id": "clm_b9c1e2f2c4c4a8cd",
+      "source_id": "src_3f4523d121f93484",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_9be622ad84d9858d",
+      "claim_id": "clm_b9c1e2f2c4c4a8cd",
+      "source_id": "src_a212d1166f0e7322",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_db540e75924dd233",
+      "claim_id": "clm_682a304da214ffef",
+      "source_id": "src_ef654c8ddefd47fd",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_607305c7031b48ef",
+      "claim_id": "clm_682a304da214ffef",
+      "source_id": "src_b80457ae691f9a61",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_c7744fd12079b7ff",
+      "claim_id": "clm_86e6e1492ec6715f",
+      "source_id": "src_523565d5ee342ab2",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_c33743ef46b7555b",
+      "claim_id": "clm_9dda6eb28c229102",
+      "source_id": "src_57fb15c21b7bb8e5",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_84a0996722669104",
+      "claim_id": "clm_41023247ca12d5a8",
+      "source_id": "src_57fb15c21b7bb8e5",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_a4df997f76546c10",
+      "claim_id": "clm_41023247ca12d5a8",
+      "source_id": "src_b80457ae691f9a61",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_9c5926fe31673d09",
+      "claim_id": "clm_41023247ca12d5a8",
+      "source_id": "src_b680acc72dfe955c",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_81ce577b6f8ea16b",
+      "claim_id": "clm_66c285364f9b6e2c",
+      "source_id": "src_57fb15c21b7bb8e5",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_a179c3cbca80a6e0",
+      "claim_id": "clm_4b11d932150f7c80",
+      "source_id": "src_57fb15c21b7bb8e5",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_2853a0e1f6d254f6",
+      "claim_id": "clm_d314f32285c047eb",
+      "source_id": "src_b680acc72dfe955c",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_ed3fd3dcb7135912",
+      "claim_id": "clm_d314f32285c047eb",
+      "source_id": "src_80524181fd32650b",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_dade942b2234b14b",
+      "claim_id": "clm_316f26f75dd8ada0",
+      "source_id": "src_b680acc72dfe955c",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_7302cf5d898641a9",
+      "claim_id": "clm_316f26f75dd8ada0",
+      "source_id": "src_80524181fd32650b",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_afab56ff40ceb778",
+      "claim_id": "clm_c0d828fa878f9ef0",
+      "source_id": "src_57fb15c21b7bb8e5",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_9e80f303cb75d599",
+      "claim_id": "clm_146af66e28d28df8",
+      "source_id": "src_57fb15c21b7bb8e5",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_b03b0d62d941d429",
+      "claim_id": "clm_146af66e28d28df8",
+      "source_id": "src_c73f11275eed466f",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_86df2e3aa438fc8d",
+      "claim_id": "clm_57c4cf8a7b3549a8",
+      "source_id": "src_c73f11275eed466f",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_0f442bc20e8fc58c",
+      "claim_id": "clm_1e73931814206551",
+      "source_id": "src_57fb15c21b7bb8e5",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_4323cbd99e339052",
+      "claim_id": "clm_1e73931814206551",
+      "source_id": "src_f8a48f46eab01e32",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_1d0d2b998ecb0d3f",
+      "claim_id": "clm_075752dbe6712589",
+      "source_id": "src_57fb15c21b7bb8e5",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_2cca731405c17362",
+      "claim_id": "clm_075752dbe6712589",
+      "source_id": "src_9a8ebe1d0fcb8fc8",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_e0050f9e954f8450",
+      "claim_id": "clm_137ee60ea5ef2d76",
+      "source_id": "src_57fb15c21b7bb8e5",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_76e35804b276960b",
+      "claim_id": "clm_137ee60ea5ef2d76",
+      "source_id": "src_9a8ebe1d0fcb8fc8",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_f61b1ab9394ddf1d",
+      "claim_id": "clm_f7310d3bf24f76e0",
+      "source_id": "src_b680acc72dfe955c",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_9ac98bd707a838fe",
+      "claim_id": "clm_f7310d3bf24f76e0",
+      "source_id": "src_80524181fd32650b",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_257522e5fe96afe0",
+      "claim_id": "clm_f7310d3bf24f76e0",
+      "source_id": "src_3d72f50a45218a56",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_4745c3fc5d5802cc",
+      "claim_id": "clm_1076a21b9f0d0133",
+      "source_id": "src_b680acc72dfe955c",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_ea0a0c56040a6fe3",
+      "claim_id": "clm_80fca17ab68da471",
+      "source_id": "src_3d72f50a45218a56",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_342ab7d370ee5637",
+      "claim_id": "clm_4a39356209ae4077",
+      "source_id": "src_3d72f50a45218a56",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_c20be18432518106",
+      "claim_id": "clm_eb6858aeb42bec83",
+      "source_id": "src_3d72f50a45218a56",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_606c77292005731e",
+      "claim_id": "clm_697fc288e9890a5e",
+      "source_id": "src_3d72f50a45218a56",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_fde48ed38b9f7d48",
+      "claim_id": "clm_697fc288e9890a5e",
+      "source_id": "src_2b03b339daf9206a",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_ddc8414de9798c51",
+      "claim_id": "clm_08f20075e4ed1f61",
+      "source_id": "src_404c7dd925c582ce",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_4e82b0f183e75601",
+      "claim_id": "clm_08f20075e4ed1f61",
+      "source_id": "src_2b03b339daf9206a",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_cb24a6b4ff87b380",
+      "claim_id": "clm_4c3900b6fa2da3f1",
+      "source_id": "src_404c7dd925c582ce",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_965a81b1928876de",
+      "claim_id": "clm_02fc4dc7a4c0a0bb",
+      "source_id": "src_2b03b339daf9206a",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_9f293453d1bf10e6",
+      "claim_id": "clm_b415d99d85115055",
+      "source_id": "src_9df413a5e8d9f806",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_6eebd44a60d3afb0",
+      "claim_id": "clm_7ba40357e9c3ac16",
+      "source_id": "src_9df413a5e8d9f806",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_9c0a1e3f780897a4",
+      "claim_id": "clm_7ba40357e9c3ac16",
+      "source_id": "src_013ee6c21fe95f66",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_2f2b7a220da0434a",
+      "claim_id": "clm_13970d33aebe7d6f",
+      "source_id": "src_ef654c8ddefd47fd",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_4177e4851ccccfc1",
+      "claim_id": "clm_13970d33aebe7d6f",
+      "source_id": "src_523565d5ee342ab2",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_4252c49c0a0a342c",
+      "claim_id": "clm_13970d33aebe7d6f",
+      "source_id": "src_b80457ae691f9a61",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_9b1794d3ffe6167f",
+      "claim_id": "clm_10a20f55efe2bf45",
+      "source_id": "src_57fb15c21b7bb8e5",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_e8a5e29971b9eaf9",
+      "claim_id": "clm_10a20f55efe2bf45",
+      "source_id": "src_b680acc72dfe955c",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_164566ffc97db1f0",
+      "claim_id": "clm_7402fdc59f48c3fb",
+      "source_id": "src_3d72f50a45218a56",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_0373229d5d5b83cf",
+      "claim_id": "clm_7402fdc59f48c3fb",
+      "source_id": "src_404c7dd925c582ce",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_97de5b4050b942e9",
+      "claim_id": "clm_7402fdc59f48c3fb",
+      "source_id": "src_2b03b339daf9206a",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — research-досье автора (Иван Мельник). Claude (сессия) свёл документ в формат сайта без запуска автоматической evidence-проверки.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-06T00:00:00.000Z"
+  }
+}

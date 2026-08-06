@@ -1,0 +1,1288 @@
+{
+  "id": "obj_2f55e57e6eb23450",
+  "type": "brand",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "История модного дома Saint Laurent",
+  "slug_ru": "istoriya-modnogo-doma-saint-laurent",
+  "summary_ru": "Исследовательское досье о доме Saint Laurent: от haute couture дебюта 1962 года и Le Smoking через продажу L'Oréal и Gucci Group до эпохи Hedi Slimane и Anthony Vaccarello.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.98,
+  "created_at": "2026-08-06T00:00:00.000Z",
+  "updated_at": "2026-08-06T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_8b3fb1cad728fd86",
+      "wording_ru": "Дом основан Ивом Сен-Лораном и Пьером Берже в 1961 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.ysl.com/en-en/collections/heritage",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://museeyslparis.com/en/biography",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.vam.ac.uk/shop/books/fashion-and-textiles/yves-saint-laurent-catwalk-the-complete-haute-couture-collections-1962-2002-163175.html",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_417a7fc3bd61635b",
+      "wording_ru": "Haute couture дом открылся 4 декабря 1961 года на 30 bis rue Spontini.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://museeyslparis.com/en/biography",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_43ffd4ba2152f0bb",
+      "wording_ru": "Cassandre создал монограмму YSL в 1961 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.98,
+      "evidence": [
+        {
+          "source_url": "https://www.ysl.com/en-en/collections/heritage",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://museeyslparis.com/en/biography",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_c263eb9a972a19d0",
+      "wording_ru": "Первая коллекция дома представлена 29 января 1962 года.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.ysl.com/en-en/collections/heritage",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://museeyslparis.com/en/biography/presentation-de-la-premiere-collection",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_006cc20a1d318fb3",
+      "wording_ru": "Коллекция Mondrian представлена в 1965 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.ysl.com/en-en/collections/heritage",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://museeyslparis.com/en/stories/la-revolution-mondrian",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.metmuseum.org/art/collection/search/83442",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_dfb321a45ea0d88f",
+      "wording_ru": "Le Smoking представлен в haute couture коллекции 1966 года.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://museeyslparis.com/en/biography/premier-smoking",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.vam.ac.uk/shop/books/fashion-and-textiles/yves-saint-laurent-catwalk-the-complete-haute-couture-collections-1962-2002-163175.html",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.metmuseum.org/art/collection/search/83937",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_94b843737c0f6197",
+      "wording_ru": "Женщины носили мужские костюмы и смокинги до Saint Laurent.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.97,
+      "evidence": [
+        {
+          "source_url": "https://exhibitions.fitnyc.edu/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.metmuseum.org/art/collection/search/83937",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_f9f0775c4a03658d",
+      "wording_ru": "Rive Gauche открылся 26 сентября 1966 года на 21 rue de Tournon.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://museeyslparis.com/en/biography/saint-laurent-rive-gauche",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_6a529bf87afac1d1",
+      "wording_ru": "Rive Gauche создавался как самостоятельная ready-to-wear коллекция, а не копия couture.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.97,
+      "evidence": [
+        {
+          "source_url": "https://museeyslparis.com/en/biography/saint-laurent-rive-gauche",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_235e23c1e9b30286",
+      "wording_ru": "Первый брючный костюм дома представлен в 1967 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.98,
+      "evidence": [
+        {
+          "source_url": "https://museeyslparis.com/en/biography/premier-tailleur-pantalon-pe",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_8d4b269bd3841ce1",
+      "wording_ru": "Сафари-образ получил широкую известность после фотоистории Vogue Paris 1968 года.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.96,
+      "evidence": [
+        {
+          "source_url": "https://museeyslparis.com/en/biography/collection-africaine-pe",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_803b625b9a935701",
+      "wording_ru": "Saint Laurent создал гардероб Catherine Deneuve для Belle de Jour.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.98,
+      "evidence": [
+        {
+          "source_url": "https://museeyslparis.com/en/biography/belle-de-jour",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_c8c2c122e90133ed",
+      "wording_ru": "Сен-Лоран и Берже впервые посетили Марокко в 1966 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.98,
+      "evidence": [
+        {
+          "source_url": "https://museeyslparis.com/en/biography/decouverte-du-maroc",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_9f4133eaca51e933",
+      "wording_ru": "Libération была представлена 29 января 1971 года и вызвала резкую реакцию.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.98,
+      "evidence": [
+        {
+          "source_url": "https://museeyslparis.com/en/biography/la-collection-du-scandale",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://fashionhistory.fitnyc.edu/1970-1979/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_23bd50785372570a",
+      "wording_ru": "Дом переехал на 5 avenue Marceau в 1974 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://museeyslparis.com/en/biography/installation-au-5-avenue-marceau",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_09dfd80ba3b8c5fe",
+      "wording_ru": "Коллекция Ballets Russes представлена в 1976 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.98,
+      "evidence": [
+        {
+          "source_url": "https://www.ysl.com/en-en/collections/heritage",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.vam.ac.uk/shop/books/fashion-and-textiles/yves-saint-laurent-catwalk-the-complete-haute-couture-collections-1962-2002-163175.html",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://fashionhistory.fitnyc.edu/1970-1979/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_c5e26bc9b2de38f1",
+      "wording_ru": "Les Chinoises совпала с запуском Opium в 1977 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.97,
+      "evidence": [
+        {
+          "source_url": "https://museeyslparis.com/en/biography/collection-les-chinoises",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_d151e393570ee958",
+      "wording_ru": "The Met открыл ретроспективу Yves Saint Laurent в декабре 1983 года.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/perspectives/yves-saint-laurent",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.metmuseum.org/press-releases/rei-kawakubo-2016-news",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_51f42a680ebc82b1",
+      "wording_ru": "В 1993 году Groupe YSL была продана Elf-Sanofi.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.96,
+      "evidence": [
+        {
+          "source_url": "https://museeyslparis.com/en/biography",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_773c8180dd6a640c",
+      "wording_ru": "В 1999 году Yves Saint Laurent был приобретён Gucci Group в структуре PPR.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.ysl.com/en-en/collections/heritage",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://museeyslparis.com/en/biography/elf-sanofi-vend-le-groupe-yves-saint-laurent-au-groupe-pinault-printemps-redoute",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_33b71879f61a9c7d",
+      "wording_ru": "Alber Elbaz и Hedi Slimane получили женскую и мужскую линии Rive Gauche в 1997 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.97,
+      "evidence": [
+        {
+          "source_url": "https://www.ysl.com/en-en/collections/heritage",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_06612646d7c42fa8",
+      "wording_ru": "Tom Ford возглавил ready-to-wear в 2000 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.98,
+      "evidence": [
+        {
+          "source_url": "https://www.ysl.com/en-en/collections/heritage",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://museeyslparis.com/en/biography/elf-sanofi-vend-le-groupe-yves-saint-laurent-au-groupe-pinault-printemps-redoute",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_c42d5bc6dd964316",
+      "wording_ru": "Ив Сен-Лоран объявил об уходе 7 января 2002 года.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://museeyslparis.com/en/biography/les-adieux",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_12ce1d66df0cbbe1",
+      "wording_ru": "Haute couture подразделение официально закрылось в октябре 2002 года.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.98,
+      "evidence": [
+        {
+          "source_url": "https://www.ysl.com/en-en/collections/heritage",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_f4fc6934d42dc6c6",
+      "wording_ru": "Stefano Pilati руководил творческим направлением с 2004 по 2012 год.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.kering.com/en/news/yves-saint-laurent-announces-departure-creative-director-stefano-pilati/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_079a501e00b3cbc6",
+      "wording_ru": "YSL Beauté была передана L’Oréal в 2008 году за €1,15 млрд.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.kering.com/en/news/effective-transfer-of-ysl-beaute-to-l-oreal/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_1a8deec029b7f71d",
+      "wording_ru": "Hedi Slimane назначен креативным директором в марте 2012 года.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.kering.com/cn/news/yves-saint-laurent-appoints-hedi-slimane-as-creative-director/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_67a24b961b547006",
+      "wording_ru": "Ready-to-wear маркировка была изменена на Saint Laurent с отсылкой к Rive Gauche.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.97,
+      "evidence": [
+        {
+          "source_url": "https://www.ysl.com/en-en/collections/heritage",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_5354df8725cef663",
+      "wording_ru": "Anthony Vaccarello назначен креативным директором в апреле 2016 года.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.kering.com/en/news/yves-saint-laurent-appoints-anthony-vaccarello-as-creative-director/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_3d2a092f8f0e7a63",
+      "wording_ru": "Два музея Yves Saint Laurent открылись в 2017 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://museeyslparis.com/en/conservation",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.museeyslmarrakech.com/en/presentation/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_b10a710c8d69be3a",
+      "wording_ru": "Rive Droite впервые открылся в 2019 году и возобновил работу после реконструкции в феврале 2025 года.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.98,
+      "evidence": [
+        {
+          "source_url": "https://www.kering.com/en/group/kering-highlights/saint-laurent-rive-droite-paris-a-creative-and-cultural-destination/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_8af826f2229ca60a",
+      "wording_ru": "Saint Laurent Productions запущен в 2023 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.ysl.com/en-en/collections/heritage",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://saintlaurentproductions.ysl.com/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_6cea96d8da811d7e",
+      "wording_ru": "Cédric Charbit стал CEO Saint Laurent 2 января 2025 года.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.kering.com/en/news/kering-appoints-new-ce-os-at-saint-laurent-and-balenciaga/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_9d061af7d960d538",
+      "wording_ru": "Anthony Vaccarello остаётся креативным директором на 5 августа 2026 года.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.kering.com/en/houses/fashion-and-leather-goods/saint-laurent/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_65ef0eb0127503ba",
+      "wording_ru": "Выручка Saint Laurent за 2025 год составила €2,6 млрд.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.kering.com/en/houses/fashion-and-leather-goods/saint-laurent/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_90e72effe871fdbe",
+      "wording_ru": "Заявления Saint Laurent об устойчивости являются корпоративными и требуют проверки методики и охвата.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.95,
+      "evidence": [
+        {
+          "source_url": "https://www.ysl.com/en-us/collections/sustainability",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_65cb4447bfe70da0",
+      "title": "Saint Laurent — Heritage timeline",
+      "url": "https://www.ysl.com/en-en/collections/heritage",
+      "publisher": "Saint Laurent",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_ec217aa7d62c3eb7",
+      "title": "Musée Yves Saint Laurent Paris — Interactive Biographies",
+      "url": "https://museeyslparis.com/en/biography",
+      "publisher": "Musée Yves Saint Laurent Paris",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_fcd9e0ef47d3ee95",
+      "title": "Musée YSL Paris — Presentation of the First Collection, 29 January 1962",
+      "url": "https://museeyslparis.com/en/biography/presentation-de-la-premiere-collection",
+      "publisher": "Musée YSL Paris",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_9181251af80fc0dc",
+      "title": "Musée YSL Paris — The Mondrian Revolution",
+      "url": "https://museeyslparis.com/en/stories/la-revolution-mondrian",
+      "publisher": "Musée YSL Paris",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_011c4409ba5a6e27",
+      "title": "Musée YSL Paris — First Tuxedo / Le Smoking",
+      "url": "https://museeyslparis.com/en/biography/premier-smoking",
+      "publisher": "Musée YSL Paris",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_52fc4fec249822a0",
+      "title": "Musée YSL Paris — SAINT LAURENT rive gauche",
+      "url": "https://museeyslparis.com/en/biography/saint-laurent-rive-gauche",
+      "publisher": "Musée YSL Paris",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_b6e4ff564ca09a50",
+      "title": "Musée YSL Paris — First Pantsuit",
+      "url": "https://museeyslparis.com/en/biography/premier-tailleur-pantalon-pe",
+      "publisher": "Musée YSL Paris",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_2a6d0510ccb2bd02",
+      "title": "Musée YSL Paris — African Collection; First Safari Jacket",
+      "url": "https://museeyslparis.com/en/biography/collection-africaine-pe",
+      "publisher": "Musée YSL Paris",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_da43d25a1e2f1afb",
+      "title": "Musée YSL Paris — Belle de Jour",
+      "url": "https://museeyslparis.com/en/biography/belle-de-jour",
+      "publisher": "Musée YSL Paris",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_ca2138d7805f602c",
+      "title": "Musée YSL Paris — Discovering Morocco",
+      "url": "https://museeyslparis.com/en/biography/decouverte-du-maroc",
+      "publisher": "Musée YSL Paris",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_ed5a44c8f1f5afe0",
+      "title": "Musée YSL Paris — The Scandal Collection",
+      "url": "https://museeyslparis.com/en/biography/la-collection-du-scandale",
+      "publisher": "Musée YSL Paris",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_9336489f9a99a811",
+      "title": "Musée YSL Paris — Move to 5 avenue Marceau",
+      "url": "https://museeyslparis.com/en/biography/installation-au-5-avenue-marceau",
+      "publisher": "Musée YSL Paris",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_7d59e75760981e1b",
+      "title": "Musée YSL Paris — Les Chinoises Collection",
+      "url": "https://museeyslparis.com/en/biography/collection-les-chinoises",
+      "publisher": "Musée YSL Paris",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_f9b665b0b0889645",
+      "title": "The Metropolitan Museum of Art — Yves Saint Laurent: When Fashion Meets Art",
+      "url": "https://www.metmuseum.org/perspectives/yves-saint-laurent",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_091d63cf6fbaaa9f",
+      "title": "Musée YSL Paris — 1999 sale to Pinault-Printemps-Redoute / Gucci Group",
+      "url": "https://museeyslparis.com/en/biography/elf-sanofi-vend-le-groupe-yves-saint-laurent-au-groupe-pinault-printemps-redoute",
+      "publisher": "Musée YSL Paris",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_85266171905d2eb6",
+      "title": "Musée YSL Paris — The Farewell, 7 January 2002",
+      "url": "https://museeyslparis.com/en/biography/les-adieux",
+      "publisher": "Musée YSL Paris",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_8968f838426e3c87",
+      "title": "Kering — Departure of Stefano Pilati; period since 2004",
+      "url": "https://www.kering.com/en/news/yves-saint-laurent-announces-departure-creative-director-stefano-pilati/",
+      "publisher": "Kering",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_5443392b03938962",
+      "title": "Kering — Effective transfer of YSL Beauté to L’Oréal",
+      "url": "https://www.kering.com/en/news/effective-transfer-of-ysl-beaute-to-l-oreal/",
+      "publisher": "Kering",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_2625d21c9e31e8a9",
+      "title": "Kering — Hedi Slimane appointed Creative Director, 2012",
+      "url": "https://www.kering.com/cn/news/yves-saint-laurent-appoints-hedi-slimane-as-creative-director/",
+      "publisher": "Kering",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_9f1a20d9a0ea1555",
+      "title": "Kering — Anthony Vaccarello appointed Creative Director, 2016",
+      "url": "https://www.kering.com/en/news/yves-saint-laurent-appoints-anthony-vaccarello-as-creative-director/",
+      "publisher": "Kering",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_4231fdb27a9e9b7e",
+      "title": "Kering — Saint Laurent Rive Droite Paris",
+      "url": "https://www.kering.com/en/group/kering-highlights/saint-laurent-rive-droite-paris-a-creative-and-cultural-destination/",
+      "publisher": "Kering",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_44361caee5a4b2e4",
+      "title": "Saint Laurent Productions — official filmography and division statement",
+      "url": "https://saintlaurentproductions.ysl.com/",
+      "publisher": "Saint Laurent Productions",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_cb10f58cea10ae75",
+      "title": "Kering — Cédric Charbit appointed CEO Saint Laurent, effective 2 January 2025",
+      "url": "https://www.kering.com/en/news/kering-appoints-new-ce-os-at-saint-laurent-and-balenciaga/",
+      "publisher": "Kering",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_f2ed8bb4a4402164",
+      "title": "Musée YSL Paris — Conservation and collection of approximately 34,000 objects",
+      "url": "https://museeyslparis.com/en/conservation",
+      "publisher": "Musée YSL Paris",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_47a82b6dd4dd3fa7",
+      "title": "Kering — Saint Laurent house page; 2025 results; current governance",
+      "url": "https://www.kering.com/en/houses/fashion-and-leather-goods/saint-laurent/",
+      "publisher": "Kering",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_e3c3c0636e1e73ae",
+      "title": "Musée Yves Saint Laurent Marrakech — Presentation",
+      "url": "https://www.museeyslmarrakech.com/en/presentation/",
+      "publisher": "Musée Yves Saint Laurent Marrakech",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_a3f9c43fae2d31f4",
+      "title": "The Met — Yves Saint Laurent Mondrian dress object record",
+      "url": "https://www.metmuseum.org/art/collection/search/83442",
+      "publisher": "The Met",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_92ecf07f0bbd87e7",
+      "title": "The Met — documentation of 1983 living-designer retrospective",
+      "url": "https://www.metmuseum.org/press-releases/rei-kawakubo-2016-news",
+      "publisher": "The Met",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_e096b2c900a7a899",
+      "title": "Victoria and Albert Museum — Yves Saint Laurent Catwalk: Complete Haute Couture Collections",
+      "url": "https://www.vam.ac.uk/shop/books/fashion-and-textiles/yves-saint-laurent-catwalk-the-complete-haute-couture-collections-1962-2002-163175.html",
+      "publisher": "Victoria and Albert Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_4ab04327bf941270",
+      "title": "Museum at FIT — A Queer History of Fashion / Marlene Dietrich and Le Smoking",
+      "url": "https://exhibitions.fitnyc.edu/",
+      "publisher": "Museum at FIT",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_9d8893748fb595b1",
+      "title": "The Met — Yves Saint Laurent pantsuit and Le Smoking object records",
+      "url": "https://www.metmuseum.org/art/collection/search/83937",
+      "publisher": "The Met",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_d177156d86ed03a2",
+      "title": "Fashion History Timeline, FIT — 1970–1979",
+      "url": "https://fashionhistory.fitnyc.edu/1970-1979/",
+      "publisher": "Fashion History Timeline, FIT",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_2a36e4faceea5f34",
+      "title": "Saint Laurent — Sustainability commitments and raw materials",
+      "url": "https://www.ysl.com/en-us/collections/sustainability",
+      "publisher": "Saint Laurent",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_b115b7073196a3d6",
+      "claim_id": "clm_8b3fb1cad728fd86",
+      "source_id": "src_65cb4447bfe70da0",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_bf44a78d39400d80",
+      "claim_id": "clm_8b3fb1cad728fd86",
+      "source_id": "src_ec217aa7d62c3eb7",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_cc6e6f99bda734c8",
+      "claim_id": "clm_8b3fb1cad728fd86",
+      "source_id": "src_e096b2c900a7a899",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_b97855b337c76c00",
+      "claim_id": "clm_417a7fc3bd61635b",
+      "source_id": "src_ec217aa7d62c3eb7",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_aafecee6b4ef4aaa",
+      "claim_id": "clm_43ffd4ba2152f0bb",
+      "source_id": "src_65cb4447bfe70da0",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_e5c0978aa3b887cd",
+      "claim_id": "clm_43ffd4ba2152f0bb",
+      "source_id": "src_ec217aa7d62c3eb7",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_8d3b3aa4aad5ad7c",
+      "claim_id": "clm_c263eb9a972a19d0",
+      "source_id": "src_65cb4447bfe70da0",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_62c91c3899906103",
+      "claim_id": "clm_c263eb9a972a19d0",
+      "source_id": "src_fcd9e0ef47d3ee95",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_fb77efb891ced6fd",
+      "claim_id": "clm_006cc20a1d318fb3",
+      "source_id": "src_65cb4447bfe70da0",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_3b96984108e341d1",
+      "claim_id": "clm_006cc20a1d318fb3",
+      "source_id": "src_9181251af80fc0dc",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_3a050996668458ba",
+      "claim_id": "clm_006cc20a1d318fb3",
+      "source_id": "src_a3f9c43fae2d31f4",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_3a99ebf18c77aed2",
+      "claim_id": "clm_dfb321a45ea0d88f",
+      "source_id": "src_011c4409ba5a6e27",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_369cdaeeed71d6e4",
+      "claim_id": "clm_dfb321a45ea0d88f",
+      "source_id": "src_e096b2c900a7a899",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_401762694924304e",
+      "claim_id": "clm_dfb321a45ea0d88f",
+      "source_id": "src_9d8893748fb595b1",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_49fbf7ed1b0cea46",
+      "claim_id": "clm_94b843737c0f6197",
+      "source_id": "src_4ab04327bf941270",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_125c889edc5e68e4",
+      "claim_id": "clm_94b843737c0f6197",
+      "source_id": "src_9d8893748fb595b1",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_770b714d3cc6fe83",
+      "claim_id": "clm_f9f0775c4a03658d",
+      "source_id": "src_52fc4fec249822a0",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_2340e09f35a038d2",
+      "claim_id": "clm_6a529bf87afac1d1",
+      "source_id": "src_52fc4fec249822a0",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_6bdf1609bf38cdc2",
+      "claim_id": "clm_235e23c1e9b30286",
+      "source_id": "src_b6e4ff564ca09a50",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_012d5d6c754339cc",
+      "claim_id": "clm_8d4b269bd3841ce1",
+      "source_id": "src_2a6d0510ccb2bd02",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_d6e5f1bd6be4cbf5",
+      "claim_id": "clm_803b625b9a935701",
+      "source_id": "src_da43d25a1e2f1afb",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_673234ee54a7ec75",
+      "claim_id": "clm_c8c2c122e90133ed",
+      "source_id": "src_ca2138d7805f602c",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_d31cfe59b5644504",
+      "claim_id": "clm_9f4133eaca51e933",
+      "source_id": "src_ed5a44c8f1f5afe0",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_ddf90e704eaff555",
+      "claim_id": "clm_9f4133eaca51e933",
+      "source_id": "src_d177156d86ed03a2",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_bd485b8398c44d07",
+      "claim_id": "clm_23bd50785372570a",
+      "source_id": "src_9336489f9a99a811",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_e143a2af977c8e9f",
+      "claim_id": "clm_09dfd80ba3b8c5fe",
+      "source_id": "src_65cb4447bfe70da0",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_315a95b11ef7e8f6",
+      "claim_id": "clm_09dfd80ba3b8c5fe",
+      "source_id": "src_e096b2c900a7a899",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_239d259596ec0339",
+      "claim_id": "clm_09dfd80ba3b8c5fe",
+      "source_id": "src_d177156d86ed03a2",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_80ef68c02e67ac6d",
+      "claim_id": "clm_c5e26bc9b2de38f1",
+      "source_id": "src_7d59e75760981e1b",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_badc8891b95f3b53",
+      "claim_id": "clm_d151e393570ee958",
+      "source_id": "src_f9b665b0b0889645",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_7c3fa4451c32c73d",
+      "claim_id": "clm_d151e393570ee958",
+      "source_id": "src_92ecf07f0bbd87e7",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_4a412abacadf9522",
+      "claim_id": "clm_51f42a680ebc82b1",
+      "source_id": "src_ec217aa7d62c3eb7",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_f15b92312aae59a7",
+      "claim_id": "clm_773c8180dd6a640c",
+      "source_id": "src_65cb4447bfe70da0",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_df5df482c17c2e5f",
+      "claim_id": "clm_773c8180dd6a640c",
+      "source_id": "src_091d63cf6fbaaa9f",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_4069a5140413b326",
+      "claim_id": "clm_33b71879f61a9c7d",
+      "source_id": "src_65cb4447bfe70da0",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_59ade8f05fc7c6bc",
+      "claim_id": "clm_06612646d7c42fa8",
+      "source_id": "src_65cb4447bfe70da0",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_3d0a7cf23bf06d02",
+      "claim_id": "clm_06612646d7c42fa8",
+      "source_id": "src_091d63cf6fbaaa9f",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_c8b52442db21cbaa",
+      "claim_id": "clm_c42d5bc6dd964316",
+      "source_id": "src_85266171905d2eb6",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_2da95dd0fa0cb914",
+      "claim_id": "clm_12ce1d66df0cbbe1",
+      "source_id": "src_65cb4447bfe70da0",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_5f04568c160717d4",
+      "claim_id": "clm_f4fc6934d42dc6c6",
+      "source_id": "src_8968f838426e3c87",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_1fc0c82d3ce4078b",
+      "claim_id": "clm_079a501e00b3cbc6",
+      "source_id": "src_5443392b03938962",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_d97de68b1fe4751e",
+      "claim_id": "clm_1a8deec029b7f71d",
+      "source_id": "src_2625d21c9e31e8a9",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_4cd52f8cd268978a",
+      "claim_id": "clm_67a24b961b547006",
+      "source_id": "src_65cb4447bfe70da0",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_0543d4431ea0167e",
+      "claim_id": "clm_5354df8725cef663",
+      "source_id": "src_9f1a20d9a0ea1555",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_5f17cb9448497afe",
+      "claim_id": "clm_3d2a092f8f0e7a63",
+      "source_id": "src_f2ed8bb4a4402164",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_d6e0118eb823d430",
+      "claim_id": "clm_3d2a092f8f0e7a63",
+      "source_id": "src_e3c3c0636e1e73ae",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_707db6d9bf12d3ac",
+      "claim_id": "clm_b10a710c8d69be3a",
+      "source_id": "src_4231fdb27a9e9b7e",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_13a57a135fd6bce9",
+      "claim_id": "clm_8af826f2229ca60a",
+      "source_id": "src_65cb4447bfe70da0",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_224071f4759d5a1d",
+      "claim_id": "clm_8af826f2229ca60a",
+      "source_id": "src_44361caee5a4b2e4",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_237b680ca326a457",
+      "claim_id": "clm_6cea96d8da811d7e",
+      "source_id": "src_cb10f58cea10ae75",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_06b752143b8398a9",
+      "claim_id": "clm_9d061af7d960d538",
+      "source_id": "src_47a82b6dd4dd3fa7",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_410d794fe4ee9174",
+      "claim_id": "clm_65ef0eb0127503ba",
+      "source_id": "src_47a82b6dd4dd3fa7",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_708a86d10ff85c1d",
+      "claim_id": "clm_90e72effe871fdbe",
+      "source_id": "src_2a36e4faceea5f34",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — research-досье автора (Иван Мельник). Claude (сессия) свёл документ в формат сайта без запуска автоматической evidence-проверки.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-06T00:00:00.000Z"
+  }
+}

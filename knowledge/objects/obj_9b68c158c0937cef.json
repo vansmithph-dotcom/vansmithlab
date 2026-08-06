@@ -1,0 +1,938 @@
+{
+  "id": "obj_9b68c158c0937cef",
+  "type": "brand",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "История модного дома Gucci",
+  "slug_ru": "istoriya-modnogo-doma-gucci",
+  "summary_ru": "Исследовательское досье о доме Gucci: от кожгалантерейной мастерской Флоренции 1921 года через семейные конфликты и продажу Investcorp, эпоху Tom Ford, вхождение в PPR/Kering и цепочку creative directors до назначения Demna в 2025 году.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.91,
+  "created_at": "2026-08-06T00:00:00.000Z",
+  "updated_at": "2026-08-06T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_9f63d418873fff11",
+      "wording_ru": "Gucci основан во Флоренции в 1921 году; первый магазин — Via della Vigna Nuova 7.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.gucci.com/int/en/nst/history-of-gucci",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.kering.com/en/houses/fashion-and-leather-goods/gucci/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.metmuseum.org/art/collection/search/81370",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_c565c43029c888e3",
+      "wording_ru": "Diamante появился в конце 1930-х как ранний графический код и предшественник GG canvas.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.gucci.com/int/en/nst/history-of-gucci",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_e2c6cfbecac16ceb",
+      "wording_ru": "Bamboo bag создана в 1947 году; ручка формируется нагреванием над пламенем.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.kering.com/en/houses/fashion-and-leather-goods/gucci/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.gucci.com/us/en/st/stories/article/crafting-an-icon-gucci-bamboo-1947",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_021026fddf36d1f3",
+      "wording_ru": "Первый магазин Gucci в Нью-Йорке и Horsebit loafer относятся к 1953 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.kering.com/en/houses/fashion-and-leather-goods/gucci/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.gucci.com/us/en/st/stories/article/70-years-of-horsebit-loafer",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_b51e4f1603faac83",
+      "wording_ru": "Palazzo Settimanni приобретён Gucci в 1953 году и позднее стал архивом.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.gucci.com/int/en/nst/history-of-gucci",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.gucci.com/us/en/st/stories/article/gucci-archive-new-home",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_314097e036eb7f70",
+      "wording_ru": "Jackie 1961 ведёт происхождение от модели начала 1960-х, связанной с Jacqueline Kennedy Onassis.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.gucci.com/int/en/nst/history-of-gucci",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.gucci.com/us/en/st/stories/article/jackie-1961-handbag-shoppable",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_a6231050956d0209",
+      "wording_ru": "GG monogram и Web широко закрепились в 1960-е.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.85,
+      "evidence": [
+        {
+          "source_url": "https://www.gucci.com/int/en/nst/history-of-gucci",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.metmuseum.org/art/collection/search/81370",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_6b7721ccb604435a",
+      "wording_ru": "Flora создана Vittorio Accornero de Testa в 1966 году для Grace Kelly.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.kering.com/en/group/kering-highlights/gucci-flora-from-a-1960s-scarf-to-a-timeless-house-code/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_38746a0ade8fa38e",
+      "wording_ru": "Gucci начал ready-to-wear в середине 1960-х и открыл clothing store на Fifth Avenue в 1972.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.gucci.com/int/en/nst/history-of-gucci",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_4a001179a454ae3d",
+      "wording_ru": "В 1981 году Gucci показал Flora collection в Sala Bianca, Palazzo Pitti.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.gucci.com/int/en/nst/history-of-gucci",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.kering.com/en/group/kering-highlights/gucci-flora-from-a-1960s-scarf-to-a-timeless-house-code/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_1012a3381da0d448",
+      "wording_ru": "Широкое лицензирование и семейные конфликты ослабили контроль бренда в 1970–1980-е.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.85,
+      "evidence": [
+        {
+          "source_url": "https://wwd.com/fashion-news/fashion-features/feature/article-1131352-1768549/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.latimes.com/archives/la-xpm-1993-09-28-fi-39952-story.html",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.vogue.com/article/everything-you-need-to-know-about-the-house-of-gucci-before-watching-house-of-gucci",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_e3b81ff9ccf6f554",
+      "wording_ru": "В 1993 году продажа доли Maurizio Gucci Investcorp завершила семейную собственность.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.latimes.com/archives/la-xpm-1993-09-28-fi-39952-story.html",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.vogue.com/article/everything-you-need-to-know-about-the-house-of-gucci-before-watching-house-of-gucci",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_bfb8ca8cff3bd106",
+      "wording_ru": "Dawn Mello была приглашена в 1989 году; Tom Ford пришёл в 1990.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://wwd.com/fashion-news/fashion-features/feature/article-1131352-1768549/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_d2ebb2b0ff000f45",
+      "wording_ru": "Tom Ford стал первым Creative Director Gucci в 1994 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.kering.com/en/houses/fashion-and-leather-goods/gucci/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.metmuseum.org/art/collection/search/81370",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_5b383cbb99717ba5",
+      "wording_ru": "Turnaround 1990-х был совместным результатом творческой системы Ford и управления De Sole.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/art/collection/search/81370",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://wwd.com/fashion-news/fashion-features/feature/article-1131352-1768549/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.vanityfair.com/news/1999/07/lvmh-gucci",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_bdf0aec9890c2589",
+      "wording_ru": "В 1999 году PPR получил значительную долю Gucci Group, позднее интегрировав её в Kering.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.vanityfair.com/news/1999/07/lvmh-gucci",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.kering.com/en/group/culture-and-heritage/group-history/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_f0d4d5d725c6e7ae",
+      "wording_ru": "Frida Giannini стала единым Creative Director в 2006 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.gucci.com/int/en/nst/history-of-gucci",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_2672d3d3548bd2b4",
+      "wording_ru": "Alessandro Michele стал Creative Director в январе 2015 года и ушёл в ноябре 2022.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.gucci.com/int/en/nst/history-of-gucci",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.newyorker.com/magazine/2016/09/19/guccis-renaissance-man",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_22d15783049c515c",
+      "wording_ru": "Sabato De Sarno был назначен в 2023 году; сотрудничество завершено в феврале 2025.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.kering.com/en/news/sabato-de-sarno-appointed-creative-director-of-gucci/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.kering.com/en/news/gucci-ends-its-collaboration-with-sabato-de-sarno/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_6dd9aacf652b60ab",
+      "wording_ru": "Demna назначен Artistic Director с июля 2025; Gucci Primavera — его первый runway show.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.kering.com/en/news/demna-appointed-artistic-director-of-gucci/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.gucci.com/int/en/nst/fashion-show/gucci-primavera",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_3ad841cae9932b87",
+      "wording_ru": "Francesca Bellettini назначена President and CEO Gucci в сентябре 2025.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.kering.com/en/news/francesca-bellettini-appointed-president-and-ceo-of-gucci/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_705ecd5caa9eef94",
+      "wording_ru": "В H1 2026 Gucci получил €2,757 млрд выручки и €468 млн recurring operating income.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.kering.com/en/news/2026-first-half-results-back-to-growth-performance-improvement-and-strategy-execution-on-track/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_0d1d566c97448ac0",
+      "wording_ru": "Dapper Dan case показывает конфликт между юридическим знаком и культурным авторством.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.85,
+      "evidence": [
+        {
+          "source_url": "https://www.theguardian.com/fashion/2017/sep/11/gucci-to-collaborate-with-bootlegger-dapper-dan",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.gq.com/story/dapper-dan-gucci-harlem-atelier-exclusive-interview",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_d0076049c7ab673b",
+      "title": "Gucci — History of Gucci",
+      "url": "https://www.gucci.com/int/en/nst/history-of-gucci",
+      "publisher": "Gucci",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_0c62b05ba177a26f",
+      "title": "Kering — Gucci House profile",
+      "url": "https://www.kering.com/en/houses/fashion-and-leather-goods/gucci/",
+      "publisher": "Kering",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_7e5e47177835e777",
+      "title": "Gucci — Crafting an Icon: Bamboo 1947",
+      "url": "https://www.gucci.com/us/en/st/stories/article/crafting-an-icon-gucci-bamboo-1947",
+      "publisher": "Gucci",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_74791a6dff0da4ff",
+      "title": "Gucci — 70 Years of Horsebit 1953 Loafer",
+      "url": "https://www.gucci.com/us/en/st/stories/article/70-years-of-horsebit-loafer",
+      "publisher": "Gucci",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_513a7566badad634",
+      "title": "Kering — Gucci Flora: From a 1960s Scarf to a Timeless House Code",
+      "url": "https://www.kering.com/en/group/kering-highlights/gucci-flora-from-a-1960s-scarf-to-a-timeless-house-code/",
+      "publisher": "Kering",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_d390660af0ea1dd4",
+      "title": "Gucci — Jackie 1961",
+      "url": "https://www.gucci.com/us/en/st/stories/article/jackie-1961-handbag-shoppable",
+      "publisher": "Gucci",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_b1f65c01ded0eb76",
+      "title": "Gucci — Into the Gucci Archive",
+      "url": "https://www.gucci.com/us/en/st/stories/article/gucci-archive-new-home",
+      "publisher": "Gucci",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_73f597bc1c63e3c7",
+      "title": "The Metropolitan Museum of Art — Gucci collection objects",
+      "url": "https://www.metmuseum.org/art/collection/search/81370",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_17d0c50d59cf4e08",
+      "title": "Women’s Wear Daily — Gucci’s Turnaround",
+      "url": "https://wwd.com/fashion-news/fashion-features/feature/article-1131352-1768549/",
+      "publisher": "Women’s Wear Daily",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_ab6590ccb123ff59",
+      "title": "Los Angeles Times — Investcorp buyout of Gucci",
+      "url": "https://www.latimes.com/archives/la-xpm-1993-09-28-fi-39952-story.html",
+      "publisher": "Los Angeles Times",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_f6e160bb5f79fcf5",
+      "title": "Vogue — House of Gucci historical chronology",
+      "url": "https://www.vogue.com/article/everything-you-need-to-know-about-the-house-of-gucci-before-watching-house-of-gucci",
+      "publisher": "Vogue",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_85b7ba452b397975",
+      "title": "Vanity Fair — Gucci and Goliath",
+      "url": "https://www.vanityfair.com/news/1999/07/lvmh-gucci",
+      "publisher": "Vanity Fair",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_9779e5e5121e21f5",
+      "title": "Kering — Group history",
+      "url": "https://www.kering.com/en/group/culture-and-heritage/group-history/",
+      "publisher": "Kering",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_f7aacffc962f762d",
+      "title": "The New Yorker — Gucci’s Renaissance Man",
+      "url": "https://www.newyorker.com/magazine/2016/09/19/guccis-renaissance-man",
+      "publisher": "The New Yorker",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_87b6819188295d59",
+      "title": "Kering — Sabato De Sarno appointed Creative Director of Gucci",
+      "url": "https://www.kering.com/en/news/sabato-de-sarno-appointed-creative-director-of-gucci/",
+      "publisher": "Kering",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_5900c71778ec7015",
+      "title": "Kering — Gucci ends collaboration with Sabato De Sarno",
+      "url": "https://www.kering.com/en/news/gucci-ends-its-collaboration-with-sabato-de-sarno/",
+      "publisher": "Kering",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_df816ac42652dd3a",
+      "title": "Kering — Demna appointed Artistic Director of Gucci",
+      "url": "https://www.kering.com/en/news/demna-appointed-artistic-director-of-gucci/",
+      "publisher": "Kering",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_cab28484d8c7253f",
+      "title": "Kering — Francesca Bellettini appointed President and CEO of Gucci",
+      "url": "https://www.kering.com/en/news/francesca-bellettini-appointed-president-and-ceo-of-gucci/",
+      "publisher": "Kering",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_88b1e6643a44ab41",
+      "title": "Gucci — Gucci Primavera",
+      "url": "https://www.gucci.com/int/en/nst/fashion-show/gucci-primavera",
+      "publisher": "Gucci",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_86406f06598fe891",
+      "title": "Kering — First-Half 2026 Results",
+      "url": "https://www.kering.com/en/news/2026-first-half-results-back-to-growth-performance-improvement-and-strategy-execution-on-track/",
+      "publisher": "Kering",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_fb4ac4d007b2a718",
+      "title": "The Guardian — Gucci to collaborate with Dapper Dan",
+      "url": "https://www.theguardian.com/fashion/2017/sep/11/gucci-to-collaborate-with-bootlegger-dapper-dan",
+      "publisher": "The Guardian",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    },
+    {
+      "id": "src_28c6abb6aea6b790",
+      "title": "GQ — Dapper Dan and Gucci partnership",
+      "url": "https://www.gq.com/story/dapper-dan-gucci-harlem-atelier-exclusive-interview",
+      "publisher": "GQ",
+      "source_tier": 2,
+      "accessed_at": "2026-08-05"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_7494bf3a075d4dcf",
+      "claim_id": "clm_9f63d418873fff11",
+      "source_id": "src_d0076049c7ab673b",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_91b6664c41313476",
+      "claim_id": "clm_9f63d418873fff11",
+      "source_id": "src_0c62b05ba177a26f",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_aa5521611c62df13",
+      "claim_id": "clm_9f63d418873fff11",
+      "source_id": "src_73f597bc1c63e3c7",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_dc1e24166d3f28ce",
+      "claim_id": "clm_c565c43029c888e3",
+      "source_id": "src_d0076049c7ab673b",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_2a982bdd214e902d",
+      "claim_id": "clm_e2c6cfbecac16ceb",
+      "source_id": "src_0c62b05ba177a26f",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_62c06a67592b1ede",
+      "claim_id": "clm_e2c6cfbecac16ceb",
+      "source_id": "src_7e5e47177835e777",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_eccebec6d5fa69b1",
+      "claim_id": "clm_021026fddf36d1f3",
+      "source_id": "src_0c62b05ba177a26f",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_7c4f6448dceb5534",
+      "claim_id": "clm_021026fddf36d1f3",
+      "source_id": "src_74791a6dff0da4ff",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_839f62f0389df556",
+      "claim_id": "clm_b51e4f1603faac83",
+      "source_id": "src_d0076049c7ab673b",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_82f358df3d3cce3d",
+      "claim_id": "clm_b51e4f1603faac83",
+      "source_id": "src_b1f65c01ded0eb76",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_16cd2c0eaf425a19",
+      "claim_id": "clm_314097e036eb7f70",
+      "source_id": "src_d0076049c7ab673b",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_d956fb2754bb07cc",
+      "claim_id": "clm_314097e036eb7f70",
+      "source_id": "src_d390660af0ea1dd4",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_060b336b55c267b0",
+      "claim_id": "clm_a6231050956d0209",
+      "source_id": "src_d0076049c7ab673b",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_bc4dd1f4613b6301",
+      "claim_id": "clm_a6231050956d0209",
+      "source_id": "src_73f597bc1c63e3c7",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_677625b641393d0a",
+      "claim_id": "clm_6b7721ccb604435a",
+      "source_id": "src_513a7566badad634",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_1a56a56ea404c836",
+      "claim_id": "clm_38746a0ade8fa38e",
+      "source_id": "src_d0076049c7ab673b",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_a1b79315e81a714e",
+      "claim_id": "clm_4a001179a454ae3d",
+      "source_id": "src_d0076049c7ab673b",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_f9681158ab7e3de6",
+      "claim_id": "clm_4a001179a454ae3d",
+      "source_id": "src_513a7566badad634",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_0df4bddc6f9e14c6",
+      "claim_id": "clm_1012a3381da0d448",
+      "source_id": "src_17d0c50d59cf4e08",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_b0921334358dd336",
+      "claim_id": "clm_1012a3381da0d448",
+      "source_id": "src_ab6590ccb123ff59",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_965645034ddff15b",
+      "claim_id": "clm_1012a3381da0d448",
+      "source_id": "src_f6e160bb5f79fcf5",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_4b4c63b75f1f84e5",
+      "claim_id": "clm_e3b81ff9ccf6f554",
+      "source_id": "src_ab6590ccb123ff59",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_c17a6ec1a63d2f24",
+      "claim_id": "clm_e3b81ff9ccf6f554",
+      "source_id": "src_f6e160bb5f79fcf5",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_52e50b4f08401d56",
+      "claim_id": "clm_bfb8ca8cff3bd106",
+      "source_id": "src_17d0c50d59cf4e08",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_fc0b24163e88d32f",
+      "claim_id": "clm_d2ebb2b0ff000f45",
+      "source_id": "src_0c62b05ba177a26f",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_37584ab314c15d05",
+      "claim_id": "clm_d2ebb2b0ff000f45",
+      "source_id": "src_73f597bc1c63e3c7",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_21f0be0d4d91c342",
+      "claim_id": "clm_5b383cbb99717ba5",
+      "source_id": "src_73f597bc1c63e3c7",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_875482fa9bcf677f",
+      "claim_id": "clm_5b383cbb99717ba5",
+      "source_id": "src_17d0c50d59cf4e08",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_1235d2a7c72ed2f4",
+      "claim_id": "clm_5b383cbb99717ba5",
+      "source_id": "src_85b7ba452b397975",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_a838ab3f2543318c",
+      "claim_id": "clm_bdf0aec9890c2589",
+      "source_id": "src_85b7ba452b397975",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_a400d96e40d4f98b",
+      "claim_id": "clm_bdf0aec9890c2589",
+      "source_id": "src_9779e5e5121e21f5",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_55182a974ae3d0d8",
+      "claim_id": "clm_f0d4d5d725c6e7ae",
+      "source_id": "src_d0076049c7ab673b",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_b1c779cb04114427",
+      "claim_id": "clm_2672d3d3548bd2b4",
+      "source_id": "src_d0076049c7ab673b",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_c04f8f2fd3f619d0",
+      "claim_id": "clm_2672d3d3548bd2b4",
+      "source_id": "src_f7aacffc962f762d",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_41bbdd5c7481adbc",
+      "claim_id": "clm_22d15783049c515c",
+      "source_id": "src_87b6819188295d59",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_b7befba8a4c3e431",
+      "claim_id": "clm_22d15783049c515c",
+      "source_id": "src_5900c71778ec7015",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_62c6d230bdd6debe",
+      "claim_id": "clm_6dd9aacf652b60ab",
+      "source_id": "src_df816ac42652dd3a",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_3c88687a7b389e79",
+      "claim_id": "clm_6dd9aacf652b60ab",
+      "source_id": "src_88b1e6643a44ab41",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_4a8298443119b956",
+      "claim_id": "clm_3ad841cae9932b87",
+      "source_id": "src_cab28484d8c7253f",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_a912bdf1a04f282a",
+      "claim_id": "clm_705ecd5caa9eef94",
+      "source_id": "src_86406f06598fe891",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_71403ff7473658f8",
+      "claim_id": "clm_0d1d566c97448ac0",
+      "source_id": "src_fb4ac4d007b2a718",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    },
+    {
+      "id": "cit_6c0985f3cf92af68",
+      "claim_id": "clm_0d1d566c97448ac0",
+      "source_id": "src_28c6abb6aea6b790",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение исследовательского досье VANSMITHLAB."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — research-досье автора (Иван Мельник). Claude (сессия) свёл документ в формат сайта без запуска автоматической evidence-проверки.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-06T00:00:00.000Z"
+  }
+}
