@@ -1,0 +1,154 @@
+{
+  "id": "obj_ec20a36a6525ba6a",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Майкл Грейвз",
+  "slug_ru": "michael-graves",
+  "summary_ru": "От Университета Цинциннати и Гарварда через Принстонскую премию Prix de Rome до Portland Building — архитектор, определивший постмодернизм 1980-х и позже спроектировавший чайник.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.9,
+  "created_at": "2026-08-08T00:00:00.000Z",
+  "updated_at": "2026-08-08T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_40cb2df424403ad4",
+      "wording_ru": "Майкл Грейвз родился 9 июля 1934 года в Индианаполисе, Индиана, и умер 12 марта 2015 года в Принстоне, Нью-Джерси.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.91,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Michael-Graves",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_c76a2b34014598cc",
+      "wording_ru": "Изучал архитектуру в Университете Цинциннати (бакалавр, 1958) и в Гарвардском университете (магистр, 1959), а затем, как лауреат Prix de Rome, учился в Американской академии в Риме (1960-1962).",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Michael-Graves",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_d853a1d013be907f",
+      "wording_ru": "С 1962 года преподавал архитектуру в Принстонском университете, одновременно ведя частную практику.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.88,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Michael-Graves",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_35074862abe19752",
+      "wording_ru": "Стал одним из ведущих американских архитекторов, определивших постмодернизм середины 1970-х; здания Portland Building в Портленде (1980) и Humana Building в Луисвилле (1982) стали знаковыми примерами его кубистской переработки классических элементов.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.89,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Michael-Graves",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_aee8ada9d249470a",
+      "wording_ru": "Спроектировал более 350 зданий по всему миру, но был также известен предметным дизайном, включая чайник и перечницу; в 1999 году получил Национальную медаль искусств США, а в 2001 году — золотую медаль AIA.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.89,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Michael-Graves",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_9273618ab213356a",
+      "title": "Britannica — Michael Graves",
+      "url": "https://www.britannica.com/biography/Michael-Graves",
+      "publisher": "Encyclopaedia Britannica",
+      "source_tier": 2,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_c591d6b7e8e32f6b",
+      "title": "Wikipedia — Michael Graves",
+      "url": "https://en.wikipedia.org/wiki/Michael_Graves",
+      "publisher": "Wikipedia",
+      "source_tier": 3,
+      "accessed_at": "2026-08-08"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_73c0101ca9266371",
+      "claim_id": "clm_40cb2df424403ad4",
+      "source_id": "src_9273618ab213356a",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_26485e689cd404fc",
+      "claim_id": "clm_c76a2b34014598cc",
+      "source_id": "src_9273618ab213356a",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_6e044921f2513423",
+      "claim_id": "clm_d853a1d013be907f",
+      "source_id": "src_9273618ab213356a",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_1b5b7a0f060547aa",
+      "claim_id": "clm_35074862abe19752",
+      "source_id": "src_9273618ab213356a",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_239357d8cc0b1818",
+      "claim_id": "clm_aee8ada9d249470a",
+      "source_id": "src_9273618ab213356a",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — авторское research-досье (Иван Мельник, VSL_Michael_Graves). Библиография не содержала URL. Проведён независимый веб-поиск (Britannica, Wikipedia). Грейвз не является лауреатом Притцкеровской премии. Подробная библиография построенных объектов не включена.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-08T00:00:00.000Z"
+  }
+}

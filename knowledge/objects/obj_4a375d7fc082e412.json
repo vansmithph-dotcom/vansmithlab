@@ -1,0 +1,188 @@
+{
+  "id": "obj_4a375d7fc082e412",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Venturi & Scott Brown",
+  "slug_ru": "venturi-scott-brown",
+  "summary_ru": "От партнёрства в бюро с 1969 года и книги «Learning from Las Vegas» до Притцкеровской премии 1991 года, доставшейся только Роберту Вентури, — история, ставшая символом проблемы признания женщин-архитекторов.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.89,
+  "created_at": "2026-08-08T00:00:00.000Z",
+  "updated_at": "2026-08-08T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_7cbd31fd176575b4",
+      "wording_ru": "Роберт Вентури (1925-2018) окончил Принстонский университет summa cum laude в 1947 году и получил там же степень магистра изящных искусств в 1950 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-robert-venturi",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_f291116a78859e3d",
+      "wording_ru": "Дениз Скотт Браун родилась как Дениз Лакофски 3 октября 1931 года в Нкана-Китве, Северная Родезия (ныне Замбия).",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.89,
+      "evidence": [
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Denise_Scott_Brown",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_fbaddb288f856b4c",
+      "wording_ru": "Вентури и Скотт Браун поженились в 1967 году; с 1969 года Скотт Браун стала полноправным партнёром в архитектурной практике.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-robert-venturi",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Denise_Scott_Brown",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_332f56d5a8431439",
+      "wording_ru": "В 1972 году вместе со Стивеном Айзенуром они опубликовали книгу «Learning from Las Vegas» — одну из самых влиятельных архитектурных книг второй половины XX века.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Denise_Scott_Brown",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_ca9a62cb13e0944a",
+      "wording_ru": "В 1991 году Притцкеровская премия была присуждена только Роберту Вентури; Дениз Скотт Браун, полноправный партнёр практики с 1969 года, в награждение включена не была, что впоследствии вызвало международную кампанию за признание её вклада.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.91,
+      "evidence": [
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Denise_Scott_Brown",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_773173dc87e4ec08",
+      "wording_ru": "В 2016 году они получили совместную золотую медаль AIA — Скотт Браун стала второй в истории женщиной, удостоенной этой награды.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.89,
+      "evidence": [
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Denise_Scott_Brown",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_b1675372a4855beb",
+      "title": "The Pritzker Architecture Prize — Biography: Robert Venturi",
+      "url": "https://www.pritzkerprize.com/biography-robert-venturi",
+      "publisher": "The Pritzker Architecture Prize",
+      "source_tier": 1,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_3d30199937aee144",
+      "title": "Wikipedia — Denise Scott Brown",
+      "url": "https://en.wikipedia.org/wiki/Denise_Scott_Brown",
+      "publisher": "Wikipedia",
+      "source_tier": 3,
+      "accessed_at": "2026-08-08"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_f9e464eb2075458e",
+      "claim_id": "clm_7cbd31fd176575b4",
+      "source_id": "src_b1675372a4855beb",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_547f5e2247e916d7",
+      "claim_id": "clm_f291116a78859e3d",
+      "source_id": "src_3d30199937aee144",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_886520441d38681f",
+      "claim_id": "clm_fbaddb288f856b4c",
+      "source_id": "src_b1675372a4855beb",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_24395ec2b7245c84",
+      "claim_id": "clm_fbaddb288f856b4c",
+      "source_id": "src_3d30199937aee144",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_1249b5e461899c8c",
+      "claim_id": "clm_332f56d5a8431439",
+      "source_id": "src_3d30199937aee144",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_4fe06f12190a7e8e",
+      "claim_id": "clm_ca9a62cb13e0944a",
+      "source_id": "src_3d30199937aee144",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_982d12a38437c329",
+      "claim_id": "clm_773173dc87e4ec08",
+      "source_id": "src_3d30199937aee144",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — авторское research-досье (Иван Мельник, VSL_Venturi_Scott_Brown). Библиография не содержала URL. Проведён независимый веб-поиск (Pritzker Architecture Prize, Wikipedia). Свободно лицензированный фотопортрет, показывающий обоих партнёров вместе, не найден в отведённое время, поэтому для героя материала использована оригинальная SVG-диаграмма вместо одностороннего фото только одного из партнёров.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-08T00:00:00.000Z"
+  }
+}
