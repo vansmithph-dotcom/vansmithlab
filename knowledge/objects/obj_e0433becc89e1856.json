@@ -1,0 +1,132 @@
+{
+  "id": "obj_e0433becc89e1856",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Марсель Дюшан",
+  "slug_ru": "marcel-duchamp",
+  "summary_ru": "От Académie Julian через переезд в Нью-Йорк в 1942 году до реди-мейдов Bicycle Wheel и Fountain — художник, стеревший границу между произведением искусства и обычным предметом.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.9,
+  "created_at": "2026-08-08T00:00:00.000Z",
+  "updated_at": "2026-08-08T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_ca559bd2522ef683",
+      "wording_ru": "Марсель Дюшан родился 28 июля 1887 года в Бленвиле, Франция, и умер 2 октября 1968 года в Нёйи, в семье, из которой вышли ещё трое художников — его дед по материнской линии и трое братьев и сестёр.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Marcel-Duchamp",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_c8bd6ffdddc17a9c",
+      "wording_ru": "Учился в Académie Julian в Париже в 1904-1905 годах, а к 1911 году вместе с братьями Раймоном Дюшан-Вийоном и Жаком Вийоном начал устраивать неформальные художественные салоны.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.88,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Marcel-Duchamp",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_b1e72a9774b847df",
+      "wording_ru": "Стал известен прежде всего реди-мейдами — обычными предметами, обозначенными им как произведения искусства; самые знаковые примеры — Bicycle Wheel (1913) и Fountain (1917), перевёрнутый промышленный писсуар, подписанный псевдонимом «R. Mutt» и выставленный в галерее.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.moma.org/collection/artists/1634",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_3ba4637578b987b9",
+      "wording_ru": "В 1942 году переехал в Нью-Йорк, а в 1955 году получил гражданство США.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.89,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Marcel-Duchamp",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_bbdc35b37c6d2455",
+      "title": "MoMA — Marcel Duchamp",
+      "url": "https://www.moma.org/collection/artists/1634",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 1,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_d60c28eff0c22ec0",
+      "title": "Britannica — Marcel Duchamp",
+      "url": "https://www.britannica.com/biography/Marcel-Duchamp",
+      "publisher": "Encyclopaedia Britannica",
+      "source_tier": 2,
+      "accessed_at": "2026-08-08"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_6e687c12d74de8b0",
+      "claim_id": "clm_ca559bd2522ef683",
+      "source_id": "src_d60c28eff0c22ec0",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_2691805d74d18a21",
+      "claim_id": "clm_c8bd6ffdddc17a9c",
+      "source_id": "src_d60c28eff0c22ec0",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_1940001a45ebae14",
+      "claim_id": "clm_b1e72a9774b847df",
+      "source_id": "src_bbdc35b37c6d2455",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_da039066e5f53cb7",
+      "claim_id": "clm_3ba4637578b987b9",
+      "source_id": "src_d60c28eff0c22ec0",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — авторское research-досье (Иван Мельник, VSL_Marcel_Duchamp), объявляющее маршрут /ru/glossary/artists/marcel-duchamp. Библиография досье содержала только названия организаций без URL. Проведён независимый веб-поиск (MoMA, Britannica). Материал намеренно ограничен образованием и реди-мейдами: движение Dada, работа «Невеста, раздетая своими холостяками, даже» и шахматная карьера не включены. Изображения произведений Дюшана защищены авторским правом и не используются в этом материале.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-08T00:00:00.000Z"
+  }
+}

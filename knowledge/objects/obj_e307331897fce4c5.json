@@ -1,0 +1,144 @@
+{
+  "id": "obj_e307331897fce4c5",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Рене Магритт",
+  "slug_ru": "rene-magritte",
+  "summary_ru": "От трагедии в семье через рекламный дизайн до первой сюрреалистической картины «Потерянный жокей» в 1926 году — художник, превративший загадку обычного предмета в философский вопрос.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.9,
+  "created_at": "2026-08-08T00:00:00.000Z",
+  "updated_at": "2026-08-08T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_43b9dbb4bd7727ee",
+      "wording_ru": "Рене Магритт родился в Лессине, провинция Эно, Бельгия, 21 ноября 1898 года — старшим сыном портного и торговца текстилем Леопольда Магритта и модистки Режины Бертиншан.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Rene-Magritte",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://musee-magritte-museum.be/en/about-the-museum/biography",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_0125f2d5b95aedb4",
+      "wording_ru": "24 февраля 1912 года его мать утонула в реке Самбр в Шательте; после этой трагедии Магритт находил утешение в кино, романах и, прежде всего, в живописи.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.87,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Rene-Magritte",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_c613a6ef9f2f9e2f",
+      "wording_ru": "В 1922-1923 годах работал чертёжником на фабрике обоев, а до 1926 года — дизайнером плакатов и рекламы, пока контракт с брюссельской Galerie la Centaure не позволил ему полностью посвятить себя живописи.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.88,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Rene-Magritte",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_e121d3af25727e6c",
+      "wording_ru": "В 1926 году написал свою первую сюрреалистическую картину маслом «Потерянный жокей» (Le jockey perdu) и в 1927 году провёл первую персональную выставку в Брюсселе.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.89,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Rene-Magritte",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_bf71855fd816b5c7",
+      "title": "Britannica — René Magritte",
+      "url": "https://www.britannica.com/biography/Rene-Magritte",
+      "publisher": "Encyclopaedia Britannica",
+      "source_tier": 2,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_3f653660e4023c68",
+      "title": "Magritte Museum — Biography",
+      "url": "https://musee-magritte-museum.be/en/about-the-museum/biography",
+      "publisher": "Musée Magritte Museum",
+      "source_tier": 1,
+      "accessed_at": "2026-08-08"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_cb509926cf83ee2b",
+      "claim_id": "clm_43b9dbb4bd7727ee",
+      "source_id": "src_bf71855fd816b5c7",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_c962fd7f9d654553",
+      "claim_id": "clm_43b9dbb4bd7727ee",
+      "source_id": "src_3f653660e4023c68",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_2e4fcd4035350b9c",
+      "claim_id": "clm_0125f2d5b95aedb4",
+      "source_id": "src_bf71855fd816b5c7",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_bc30932c62ea23d8",
+      "claim_id": "clm_c613a6ef9f2f9e2f",
+      "source_id": "src_bf71855fd816b5c7",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_0b9630f7edc4337c",
+      "claim_id": "clm_e121d3af25727e6c",
+      "source_id": "src_bf71855fd816b5c7",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — авторское research-досье (Иван Мельник, VSL_Rene_Magritte), объявляющее маршрут /ru/glossary/artists/rene-magritte. Библиография досье содержала только названия организаций без URL. Проведён независимый веб-поиск (Britannica, Magritte Museum). Материал намеренно ограничен происхождением и переходом к сюрреализму: серия работ с трубкой («Ceci n'est pas une pipe»), сотрудничество с André Breton и парижскими сюрреалистами и полная библиография произведений не включены. Изображения произведений Магритта защищены авторским правом и не используются в этом материале.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-08T00:00:00.000Z"
+  }
+}
