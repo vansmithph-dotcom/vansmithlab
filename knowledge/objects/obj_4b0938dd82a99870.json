@@ -1,0 +1,144 @@
+{
+  "id": "obj_4b0938dd82a99870",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Альдо Росси",
+  "slug_ru": "aldo-rossi",
+  "summary_ru": "От Миланского политехнического через теоретический текст «Архитектура города» до статуса первого итальянского Притцкеровского лауреата (1990) — архитектура как коллективная память города.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.88,
+  "created_at": "2026-08-08T00:00:00.000Z",
+  "updated_at": "2026-08-08T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_224471429967868b",
+      "wording_ru": "Альдо Росси родился 3 мая 1931 года в Милане, Италия, в семье, владевшей велосипедным производством, основанным его дедом; умер 4 сентября 1997 года там же, в Милане.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-aldo-rossi",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_63def6ce7b86faf0",
+      "wording_ru": "Получил диплом архитектора в Миланском политехническом университете в 1959 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.89,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-aldo-rossi",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_bda322b34c95fb65",
+      "wording_ru": "В 1966 году опубликовал теоретическую книгу «Архитектура города» (L'architettura della città), переведённую на семь языков и ставшую международным ориентиром архитектурной теории.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-aldo-rossi",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_f7ca40b11c13331c",
+      "wording_ru": "В 1990 году стал первым итальянским архитектором, получившим Притцкеровскую премию.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.93,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-aldo-rossi",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Aldo_Rossi",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_1f6ac24783b1d61a",
+      "title": "The Pritzker Architecture Prize — Biography: Aldo Rossi",
+      "url": "https://www.pritzkerprize.com/biography-aldo-rossi",
+      "publisher": "The Pritzker Architecture Prize",
+      "source_tier": 1,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_e57d0dfad1c16f4c",
+      "title": "Wikipedia — Aldo Rossi",
+      "url": "https://en.wikipedia.org/wiki/Aldo_Rossi",
+      "publisher": "Wikipedia",
+      "source_tier": 3,
+      "accessed_at": "2026-08-08"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_59d498372bf9f942",
+      "claim_id": "clm_224471429967868b",
+      "source_id": "src_1f6ac24783b1d61a",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_322e02f00c17afbb",
+      "claim_id": "clm_63def6ce7b86faf0",
+      "source_id": "src_1f6ac24783b1d61a",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_600acee304a63ef0",
+      "claim_id": "clm_bda322b34c95fb65",
+      "source_id": "src_1f6ac24783b1d61a",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_5cc0e1ec51bd91c9",
+      "claim_id": "clm_f7ca40b11c13331c",
+      "source_id": "src_1f6ac24783b1d61a",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_7970cf98f6a9c63a",
+      "claim_id": "clm_f7ca40b11c13331c",
+      "source_id": "src_e57d0dfad1c16f4c",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — авторское research-досье (Иван Мельник, VSL_Aldo_Rossi). Библиография не содержала URL. Проведён независимый веб-поиск (Pritzker Architecture Prize, Wikipedia). Подробная библиография построенных объектов (Театр del Mondo, кладбище Сан-Катальдо) не включена.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-08T00:00:00.000Z"
+  }
+}

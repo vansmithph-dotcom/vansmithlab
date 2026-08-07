@@ -1,0 +1,166 @@
+{
+  "id": "obj_da1797b3b72e00e4",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Филип Джонсон",
+  "slug_ru": "philip-johnson",
+  "summary_ru": "От директорства в отделе архитектуры MoMA через собственный дом Glass House до здания AT&T Building и первой в истории Притцкеровской премии (1979) — архитектор, ставший архитектором в 36 лет.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.87,
+  "created_at": "2026-08-08T00:00:00.000Z",
+  "updated_at": "2026-08-08T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_e3310df4ac0f28d2",
+      "wording_ru": "Филип Джонсон родился в Кливленде, Огайо, в 1906 году и окончил Гарвардский университет со степенью по философии в 1930 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.88,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/node/30",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_574f95877f0b5267",
+      "wording_ru": "В 1932 году стал директором отдела архитектуры Музея современного искусства (MoMA) в Нью-Йорке, где как куратор и критик способствовал утверждению современной архитектуры в США.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.89,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/node/30",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_6fecc8a046edddbc",
+      "wording_ru": "Спроектировал свой первый объект лишь в 36 лет; архитектурная репутация Джонсона утвердилась после постройки собственного дома Glass House в Нью-Канаане, Коннектикут (1949).",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.89,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/node/30",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_e5e95b25aeffffe6",
+      "wording_ru": "В 1979 году стал первым лауреатом Притцкеровской премии за архитектуру.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.93,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/node/30",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Philip_Johnson",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_c12c3c6c539a4cda",
+      "wording_ru": "Здание AT&T Building в Нью-Йорке (1984), с завершением в духе шкафа Чиппендейл, стало знаковым проектом постмодернистской архитектуры.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.89,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/node/30",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_9f105d55300dd8c2",
+      "title": "The Pritzker Architecture Prize — Biography: Philip Johnson",
+      "url": "https://www.pritzkerprize.com/node/30",
+      "publisher": "The Pritzker Architecture Prize",
+      "source_tier": 1,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_ae3ad88e74a81cec",
+      "title": "Wikipedia — Philip Johnson",
+      "url": "https://en.wikipedia.org/wiki/Philip_Johnson",
+      "publisher": "Wikipedia",
+      "source_tier": 3,
+      "accessed_at": "2026-08-08"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_44659ff60c2ab6fd",
+      "claim_id": "clm_e3310df4ac0f28d2",
+      "source_id": "src_9f105d55300dd8c2",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_bcd7e355fde32dd6",
+      "claim_id": "clm_574f95877f0b5267",
+      "source_id": "src_9f105d55300dd8c2",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_d7c2d0b30905deb0",
+      "claim_id": "clm_6fecc8a046edddbc",
+      "source_id": "src_9f105d55300dd8c2",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_52e770e27f492815",
+      "claim_id": "clm_e5e95b25aeffffe6",
+      "source_id": "src_9f105d55300dd8c2",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_e3dee0d196312e61",
+      "claim_id": "clm_e5e95b25aeffffe6",
+      "source_id": "src_ae3ad88e74a81cec",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_44505614eec5ccd4",
+      "claim_id": "clm_c12c3c6c539a4cda",
+      "source_id": "src_9f105d55300dd8c2",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — авторское research-досье (Иван Мельник, VSL_Philip_Johnson). Библиография не содержала URL. Проведён независимый веб-поиск (Pritzker Architecture Prize, Wikipedia). Материал намеренно ограничен архитектурной карьерой Джонсона; его политическая биография довоенного периода (включая задокументированные симпатии к нацизму в 1930-х годах) требует отдельного, тщательно источникового материала и не включена в эту редакцию — не сокрытие факта, а сознательное ограничение объёма при нехватке времени на надлежащую проверку настолько чувствительной темы.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-08T00:00:00.000Z"
+  }
+}
