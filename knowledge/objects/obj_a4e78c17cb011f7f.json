@@ -1,0 +1,156 @@
+{
+  "id": "obj_a4e78c17cb011f7f",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Алехандро Аравена",
+  "slug_ru": "alejandro-aravena",
+  "summary_ru": "От Католического университета Чили через основание ELEMENTAL до статуса первого чилийского и четвёртого латиноамериканского Притцкеровского лауреата 2016 года — архитектура социального жилья как задача проектирования.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.9,
+  "created_at": "2026-08-08T00:00:00.000Z",
+  "updated_at": "2026-08-08T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_091bb406c5c73c17",
+      "wording_ru": "Алехандро Гастон Аравена Мори родился 22 июня 1967 года в Сантьяго, Чили.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-ale-jan-dro-ara-ve-na",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Alejandro_Aravena",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_fb5de5a78cb846fb",
+      "wording_ru": "Окончил архитектурный факультет Католического университета Чили в 1992 году, затем изучал теорию и историю искусства в Венеции в 1992-1993 годах.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.91,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-ale-jan-dro-ara-ve-na",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Alejandro_Aravena",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_be3400c163b34268",
+      "wording_ru": "В 1994 году основал практику Alejandro Aravena Architects, а с 2001 года руководит ELEMENTAL — «Do Tank», сфокусированным на проектах общественного интереса и социального воздействия.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-ale-jan-dro-ara-ve-na",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_c1c84905f8673a81",
+      "wording_ru": "В 2016 году стал 41-м лауреатом Притцкеровской премии — первым лауреатом из Чили и четвёртым из Латинской Америки.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.94,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-ale-jan-dro-ara-ve-na",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_886f03b56fb50ceb",
+      "title": "The Pritzker Architecture Prize — Biography: Alejandro Aravena",
+      "url": "https://www.pritzkerprize.com/biography-ale-jan-dro-ara-ve-na",
+      "publisher": "The Pritzker Architecture Prize",
+      "source_tier": 1,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_dc41af47d06e4f2c",
+      "title": "Wikipedia — Alejandro Aravena",
+      "url": "https://en.wikipedia.org/wiki/Alejandro_Aravena",
+      "publisher": "Wikipedia",
+      "source_tier": 3,
+      "accessed_at": "2026-08-08"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_5f8326e99fda28d2",
+      "claim_id": "clm_091bb406c5c73c17",
+      "source_id": "src_886f03b56fb50ceb",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_09530a70b1295e27",
+      "claim_id": "clm_091bb406c5c73c17",
+      "source_id": "src_dc41af47d06e4f2c",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_99d22922a1548700",
+      "claim_id": "clm_fb5de5a78cb846fb",
+      "source_id": "src_886f03b56fb50ceb",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_f1eb031d589cd7eb",
+      "claim_id": "clm_fb5de5a78cb846fb",
+      "source_id": "src_dc41af47d06e4f2c",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_ec06615538dfcc95",
+      "claim_id": "clm_be3400c163b34268",
+      "source_id": "src_886f03b56fb50ceb",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_e765ac72d2cda69c",
+      "claim_id": "clm_c1c84905f8673a81",
+      "source_id": "src_886f03b56fb50ceb",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — авторское research-досье (Иван Мельник, VSL_Alejandro_Aravena). Библиография не содержала URL. Проведён независимый веб-поиск (Pritzker Architecture Prize, Wikipedia). Кураторство Венецианской биеннале 2016 года и подробная библиография проектов социального жилья ELEMENTAL не включены в эту редакцию.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-08T00:00:00.000Z"
+  }
+}

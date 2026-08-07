@@ -1,0 +1,200 @@
+{
+  "id": "obj_95e49519a0202eb2",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Herzog & de Meuron",
+  "slug_ru": "herzog-de-meuron",
+  "summary_ru": "От одноклассников в Базеле через ETH Zürich до Tate Modern и Пекинского национального стадиона — Жак Херцог и Пьер де Мёрон, совместные лауреаты Притцкеровской премии 2001 года.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.9,
+  "created_at": "2026-08-08T00:00:00.000Z",
+  "updated_at": "2026-08-08T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_fb24dcf72a1a3297",
+      "wording_ru": "Жак Херцог родился 19 апреля 1950 года, а Пьер де Мёрон — 8 мая 1950 года; оба в Базеле, Швейцария, и учились в одном школьном классе.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.91,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-jacques-herzog-and-pierre-de-meuron",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Herzog_%26_de_Meuron",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_e7a2f24c7a6f484f",
+      "wording_ru": "Оба получили архитектурное образование в Швейцарской высшей технической школе Цюриха (ETH Zürich).",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.88,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-jacques-herzog-and-pierre-de-meuron",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_939e6a2dda6784f5",
+      "wording_ru": "В 1978 году они основали совместную практику Herzog & de Meuron в Базеле.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.93,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-jacques-herzog-and-pierre-de-meuron",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Herzog_%26_de_Meuron",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_5f9886d03952848c",
+      "wording_ru": "Практика получила международную известность благодаря преобразованию электростанции Bankside в Лондоне в музей Tate Modern, открывшийся в 2000 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.91,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-jacques-herzog-and-pierre-de-meuron",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_a46713342d7dcb98",
+      "wording_ru": "Среди других знаковых проектов — Пекинский национальный стадион («Птичье гнездо»), построенный к Олимпиаде 2008 года.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.88,
+      "evidence": [
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Herzog_%26_de_Meuron",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_bdb6e9f3a0bf378b",
+      "wording_ru": "В 2001 году Херцог и де Мёрон совместно стали лауреатами Притцкеровской премии.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.94,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-jacques-herzog-and-pierre-de-meuron",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_e687fb27486bfa86",
+      "title": "The Pritzker Architecture Prize — Biography: Jacques Herzog and Pierre de Meuron",
+      "url": "https://www.pritzkerprize.com/biography-jacques-herzog-and-pierre-de-meuron",
+      "publisher": "The Pritzker Architecture Prize",
+      "source_tier": 1,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_af2fd49cb2721400",
+      "title": "Wikipedia — Herzog & de Meuron",
+      "url": "https://en.wikipedia.org/wiki/Herzog_%26_de_Meuron",
+      "publisher": "Wikipedia",
+      "source_tier": 3,
+      "accessed_at": "2026-08-08"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_fd79a8c74f260ef6",
+      "claim_id": "clm_fb24dcf72a1a3297",
+      "source_id": "src_e687fb27486bfa86",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_fda216e795349c22",
+      "claim_id": "clm_fb24dcf72a1a3297",
+      "source_id": "src_af2fd49cb2721400",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_3247af6ba566591e",
+      "claim_id": "clm_e7a2f24c7a6f484f",
+      "source_id": "src_e687fb27486bfa86",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_9cc615ffdf76f7fc",
+      "claim_id": "clm_939e6a2dda6784f5",
+      "source_id": "src_e687fb27486bfa86",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_803f9a07fe0b1462",
+      "claim_id": "clm_939e6a2dda6784f5",
+      "source_id": "src_af2fd49cb2721400",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_f02263d0d2cd68ed",
+      "claim_id": "clm_5f9886d03952848c",
+      "source_id": "src_e687fb27486bfa86",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_af926e8f54ba59a2",
+      "claim_id": "clm_a46713342d7dcb98",
+      "source_id": "src_af2fd49cb2721400",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_2e72da0c2cbc398f",
+      "claim_id": "clm_bdb6e9f3a0bf378b",
+      "source_id": "src_e687fb27486bfa86",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — авторское research-досье (Иван Мельник, VSL_Herzog_de_Meuron). Библиография не содержала URL. Проведён независимый веб-поиск (Pritzker Architecture Prize, Wikipedia). Фото-портрет обоих партнёров вместе с проверяемой свободной лицензией не найден в отведённое время, поэтому для героя материала использована оригинальная SVG-диаграмма вместо фотографии — как и для 21 ранее опубликованного профиля.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-08T00:00:00.000Z"
+  }
+}

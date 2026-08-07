@@ -1,0 +1,190 @@
+{
+  "id": "obj_86f87e59faae4c2a",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Петер Цумтор",
+  "slug_ru": "peter-zumthor",
+  "summary_ru": "От ремесла столяра через реставрационную службу кантона Граубюнден до практики в Хальденштайне — Притцкеровский лауреат 2009 года, работающий малой командой над считаными проектами.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.9,
+  "created_at": "2026-08-08T00:00:00.000Z",
+  "updated_at": "2026-08-08T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_bae8528e9186ab56",
+      "wording_ru": "Петер Цумтор родился 26 апреля 1943 года в Базеле, Швейцария, в семье столяра-краснодеревщика Оскара Цумтора.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-peter-zumthor",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Peter_Zumthor",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_4de7573510a56820",
+      "wording_ru": "С 1958 по 1962 год обучался столярному ремеслу, а с 1963 по 1967 год изучал дизайн в Kunstgewerbeschule и в Pratt Institute в Нью-Йорке.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.89,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-peter-zumthor",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_143d0a311fb010b6",
+      "wording_ru": "В 1967 году поступил на службу в Департамент охраны памятников кантона Граубюнден, работая как консультант по строительству и планированию.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.88,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-peter-zumthor",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_55e893daca927c8d",
+      "wording_ru": "В 1979 году основал собственную практику в Хальденштайне, Швейцария, где работает малой командой.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.91,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-peter-zumthor",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Peter_Zumthor",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_17d89e1010ad12e8",
+      "wording_ru": "В 2009 году стал лауреатом Притцкеровской премии, а в 2013 году получил Королевскую золотую медаль RIBA.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.93,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-peter-zumthor",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Peter_Zumthor",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_660703c4ce454bf9",
+      "title": "The Pritzker Architecture Prize — Biography: Peter Zumthor",
+      "url": "https://www.pritzkerprize.com/biography-peter-zumthor",
+      "publisher": "The Pritzker Architecture Prize",
+      "source_tier": 1,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_a7042de606b149db",
+      "title": "Wikipedia — Peter Zumthor",
+      "url": "https://en.wikipedia.org/wiki/Peter_Zumthor",
+      "publisher": "Wikipedia",
+      "source_tier": 3,
+      "accessed_at": "2026-08-08"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_2f17c438a7eaef6d",
+      "claim_id": "clm_bae8528e9186ab56",
+      "source_id": "src_660703c4ce454bf9",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_6a15d5cf622bb9af",
+      "claim_id": "clm_bae8528e9186ab56",
+      "source_id": "src_a7042de606b149db",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_07f323439ce6f30f",
+      "claim_id": "clm_4de7573510a56820",
+      "source_id": "src_660703c4ce454bf9",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_f2d1b0f5b52029ea",
+      "claim_id": "clm_143d0a311fb010b6",
+      "source_id": "src_660703c4ce454bf9",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_89cead449d7c5227",
+      "claim_id": "clm_55e893daca927c8d",
+      "source_id": "src_660703c4ce454bf9",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_000e3001541bef00",
+      "claim_id": "clm_55e893daca927c8d",
+      "source_id": "src_a7042de606b149db",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_f7612b64695ca8c6",
+      "claim_id": "clm_17d89e1010ad12e8",
+      "source_id": "src_660703c4ce454bf9",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_538454701df1311a",
+      "claim_id": "clm_17d89e1010ad12e8",
+      "source_id": "src_a7042de606b149db",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — авторское research-досье (Иван Мельник, VSL_Peter_Zumthor). Библиография не содержала URL. Проведён независимый веб-поиск (Pritzker Architecture Prize, Wikipedia). Подробная библиография построенных объектов (Therme Vals, часовня Бруде Клауса) не включена.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-08T00:00:00.000Z"
+  }
+}
