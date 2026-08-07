@@ -15,6 +15,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.6,
     })),
     { url: `${siteUrl}/${locale}/glossary/designers/`, changeFrequency: "weekly" as const, priority: 0.6 },
+    { url: `${siteUrl}/${locale}/glossary/artists/`, changeFrequency: "weekly" as const, priority: 0.6 },
   ]);
 
   const contentEntries: MetadataRoute.Sitemap = listContent().map((item) => ({
