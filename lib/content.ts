@@ -15,7 +15,7 @@ export type PublishedContent = { metadata: ContentMetadata; body: string; source
 
 const contentRoot = path.join(process.cwd(), "content");
 const knowledgeRoot = path.join(process.cwd(), "knowledge", "objects");
-const publicSections = new Set(["encyclopedia", "glossary", "glossary/designers", "articles", "analysis", "timeline", "collection", "collections"]);
+const publicSections = new Set(["encyclopedia", "glossary", "glossary/designers", "glossary/artists", "articles", "analysis", "timeline", "collection", "collections"]);
 const normalizedSection = (section: string) => section === "collections" ? "collection" : section;
 
 // Section directories can nest one level deep (e.g. "glossary/designers"). We walk each
@@ -49,6 +49,7 @@ export function listContent(locale?: Locale, section?: string): ContentMetadata[
 export function sectionForContentType(contentType: string): string {
   if (contentType === "encyclopedia") return "encyclopedia";
   if (contentType === "designer_profile") return "glossary/designers";
+  if (contentType === "artist_profile") return "glossary/artists";
   if (contentType === "research" || contentType === "case_study" || contentType === "visual_analysis") return "articles";
   if (contentType === "collection") return "collections";
   return contentType;

@@ -3,7 +3,7 @@ import path from "node:path";
 import { pathToFileURL } from "node:url";
 import { assert, hash, readJson, root } from "./lib.mjs";
 
-const allowedTypes = new Set(["encyclopedia", "glossary", "research", "case_study", "visual_analysis", "timeline", "collection", "analysis", "designer_profile"]);
+const allowedTypes = new Set(["encyclopedia", "glossary", "research", "case_study", "visual_analysis", "timeline", "collection", "analysis", "designer_profile", "artist_profile"]);
 const allowedEscalations = new Set(["EVIDENCE_CONFLICT", "MISSING_PRIMARY_EVIDENCE", "RIGHTS_OR_BRAND_RISK", "EDITORIAL_CHOICE", "HIGH_IMPACT_CORRECTION", "UNRESOLVED_TRANSLATION"]);
 // ADR-004: partially_verified is an honest, lower tier — author-supplied drafts that have not
 // been run through the automated research -> evidence -> russian_fact_review pipeline. It may
