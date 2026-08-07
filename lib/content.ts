@@ -46,6 +46,31 @@ export function listContent(locale?: Locale, section?: string): ContentMetadata[
   return items.sort((a, b) => b.last_reviewed.localeCompare(a.last_reviewed));
 }
 
+export function sectionForContentType(contentType: string): string {
+  if (contentType === "encyclopedia") return "encyclopedia";
+  if (contentType === "designer_profile") return "glossary/designers";
+  if (contentType === "research" || contentType === "case_study" || contentType === "visual_analysis") return "articles";
+  if (contentType === "collection") return "collections";
+  return contentType;
+}
+
+// Translations share a content_id across locales even though their slug and content_type-derived
+// section string are independent, so this is the only reliable way to find a page's counterpart.
+export function findTranslation(contentId: string, targetLocale: Locale): ContentMetadata | undefined {
+  return listContent(targetLocale).find((item) => item.content_id === contentId);
+}
+
+// Builds the `alternates.languages` (hreflang) map for a content page. Only includes a locale
+// once its page actually exists — a hreflang link to a non-existent translation is worse than
+// no hreflang at all. Russian is the editorial source of truth, so it is always x-default.
+export function localeAlternates(locale: Locale, canonical: string, translation?: ContentMetadata): Record<string, string> {
+  const otherLocale: Locale = locale === "ru" ? "en" : "ru";
+  const languages: Record<string, string> = { [locale]: canonical };
+  if (translation) languages[otherLocale] = `/${otherLocale}/${sectionForContentType(translation.content_type)}/${translation.slug}`;
+  languages["x-default"] = locale === "ru" ? canonical : (languages.ru ?? canonical);
+  return languages;
+}
+
 export function getContent(locale: Locale, section: string, slug: string): PublishedContent | null {
   for (const sectionDir of [...new Set([section, normalizedSection(section)])]) {
     const base = path.join(contentRoot, locale, sectionDir, slug);

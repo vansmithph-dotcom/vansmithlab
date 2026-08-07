@@ -1,7 +1,23 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { TrustPanel } from "@/components/TrustPanel";
 import { copy, fields, isLocale } from "@/lib/site-data";
+
+export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
+  const { locale } = await params;
+  if (!isLocale(locale)) return {};
+  const content = copy[locale];
+  const otherLocale = locale === "ru" ? "en" : "ru";
+  return {
+    title: content.heroEyebrow,
+    description: content.heroText,
+    alternates: {
+      canonical: `/${locale}`,
+      languages: { [locale]: `/${locale}`, [otherLocale]: `/${otherLocale}`, "x-default": "/ru" },
+    },
+  };
+}
 
 export default async function HomePage({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params;

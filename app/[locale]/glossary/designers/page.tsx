@@ -16,7 +16,15 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const { locale } = await params;
   if (!isLocale(locale)) return {};
   const page = copy[locale].section[SECTION];
-  return { title: page.title, description: page.text, alternates: { canonical: `/${locale}/${SECTION}` } };
+  const otherLocale = locale === "ru" ? "en" : "ru";
+  return {
+    title: page.title,
+    description: page.text,
+    alternates: {
+      canonical: `/${locale}/${SECTION}`,
+      languages: { [locale]: `/${locale}/${SECTION}`, [otherLocale]: `/${otherLocale}/${SECTION}`, "x-default": `/ru/${SECTION}` },
+    },
+  };
 }
 
 export default async function DesignersListingPage({ params }: { params: Promise<{ locale: string }> }) {
