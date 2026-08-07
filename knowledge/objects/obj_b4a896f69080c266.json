@@ -1,0 +1,122 @@
+{
+  "id": "obj_b4a896f69080c266",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Пабло Пикассо",
+  "slug_ru": "pablo-picasso",
+  "summary_ru": "От Малаги через кубизм к десяткам тысяч произведений в живописи, графике, скульптуре и керамике — художник, чьё влияние на язык искусства XX века остаётся беспрецедентным по масштабу.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.9,
+  "created_at": "2026-08-08T00:00:00.000Z",
+  "updated_at": "2026-08-08T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_e855dde4d3c68d11",
+      "wording_ru": "Пабло Руис Пикассо родился 25 октября 1881 года в Малаге, Испания, в семье Хосе Руиса Бласко, преподававшего рисунок в Малагской школе изящных искусств и работавшего куратором городского музея, и Марии Пикассо.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.91,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/toah/hd/pica/hd_pica.htm",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Pablo_Picasso",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_77668664e6ef5d1a",
+      "wording_ru": "За более чем 70-летнюю карьеру создал свыше 20 000 произведений — живопись, гравюры, рисунки, скульптуру, керамику, театральные декорации и костюмы.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/toah/hd/pica/hd_pica.htm",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_a7bc06640a0b5044",
+      "wording_ru": "Пабло Пикассо умер в 1973 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Pablo_Picasso",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_52c5a9cc61165918",
+      "title": "The Metropolitan Museum of Art — Pablo Picasso (1881–1973)",
+      "url": "https://www.metmuseum.org/toah/hd/pica/hd_pica.htm",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 1,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_962e697e294e7704",
+      "title": "Wikipedia — Pablo Picasso",
+      "url": "https://en.wikipedia.org/wiki/Pablo_Picasso",
+      "publisher": "Wikipedia",
+      "source_tier": 3,
+      "accessed_at": "2026-08-08"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_adab6efe4f3154bf",
+      "claim_id": "clm_e855dde4d3c68d11",
+      "source_id": "src_52c5a9cc61165918",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_461ecbaa93bee42a",
+      "claim_id": "clm_e855dde4d3c68d11",
+      "source_id": "src_962e697e294e7704",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_fb5b983f272d296b",
+      "claim_id": "clm_77668664e6ef5d1a",
+      "source_id": "src_52c5a9cc61165918",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_1066449299451c81",
+      "claim_id": "clm_a7bc06640a0b5044",
+      "source_id": "src_962e697e294e7704",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — авторское research-досье (Иван Мельник, VSL_Pablo_Picasso), объявляющее маршрут /ru/glossary/artists/pablo-picasso. Библиография досье содержала только названия организаций без URL. Проведён независимый веб-поиск (The Metropolitan Museum of Art, Wikipedia). Материал намеренно ограничен базовыми биографическими фактами: голубой и розовый периоды, кубизм, Герника, отношения с моделями и партнёрами и подробная хронология стилевых периодов не включены — каждая тема требует отдельного тщательно источникового материала. Изображения произведений Пикассо защищены авторским правом (охрана до 2044 года по французскому праву) и не используются в этом материале.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-08T00:00:00.000Z"
+  }
+}

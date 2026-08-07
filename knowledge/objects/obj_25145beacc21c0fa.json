@@ -1,0 +1,154 @@
+{
+  "id": "obj_25145beacc21c0fa",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Энди Уорхол",
+  "slug_ru": "andy-warhol",
+  "summary_ru": "От коммерческой иллюстрации и Carnegie Institute of Technology через Campbell's Soup Cans до Factory как производственной системы — художник, превративший массовое изображение в метод и самого себя в медиа.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.9,
+  "created_at": "2026-08-08T00:00:00.000Z",
+  "updated_at": "2026-08-08T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_21ca0ed31b3ebeb4",
+      "wording_ru": "Энди Уорхол родился как Эндрю Уорхола 6 августа 1928 года в Питтсбурге, младшим из трёх сыновей эмигрантов из региона, ныне относящегося к Словакии, — Андрея и Юлии Завацки Уорхола.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.warhol.org/andy-warhols-life/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_2caefb564b6ca7e7",
+      "wording_ru": "В 1949 году окончил Carnegie Institute of Technology (ныне Carnegie Mellon University) в Питтсбурге со степенью бакалавра изящных искусств по специальности pictorial design и вскоре переехал в Нью-Йорк, чтобы стать коммерческим художником.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.warhol.org/andy-warhols-life/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_cd1f8db5ebcac382",
+      "wording_ru": "В течение 1950-х годов стал одним из самых успешных коммерческих иллюстраторов своего времени, получив несколько профессиональных наград.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.88,
+      "evidence": [
+        {
+          "source_url": "https://www.warhol.org/andy-warhols-life/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_ac39a5861691f313",
+      "wording_ru": "В начале 1960-х вошёл в историю поп-арта сериями Campbell's Soup Cans, Marilyn, Elvis, Coca-Cola и Death and Disaster, а затем расширил практику на кино, музыку, издательское дело, телевидение и фотографию.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.91,
+      "evidence": [
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Andy_Warhol",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_f60ef9212bb53036",
+      "wording_ru": "Умер в Нью-Йорке 22 февраля 1987 года.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Andy_Warhol",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_7803f37665676b42",
+      "title": "The Andy Warhol Museum — Biography",
+      "url": "https://www.warhol.org/andy-warhols-life/",
+      "publisher": "The Andy Warhol Museum",
+      "source_tier": 1,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_13c3713c2bbc310a",
+      "title": "Wikipedia — Andy Warhol",
+      "url": "https://en.wikipedia.org/wiki/Andy_Warhol",
+      "publisher": "Wikipedia",
+      "source_tier": 3,
+      "accessed_at": "2026-08-08"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_ab51dfdbf93baadd",
+      "claim_id": "clm_21ca0ed31b3ebeb4",
+      "source_id": "src_7803f37665676b42",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_70a8c96359cbb920",
+      "claim_id": "clm_2caefb564b6ca7e7",
+      "source_id": "src_7803f37665676b42",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_7ab5897f2e5fc139",
+      "claim_id": "clm_cd1f8db5ebcac382",
+      "source_id": "src_7803f37665676b42",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_a4ce1ce52b43b155",
+      "claim_id": "clm_ac39a5861691f313",
+      "source_id": "src_13c3713c2bbc310a",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_0a533ac0cf9aa145",
+      "claim_id": "clm_f60ef9212bb53036",
+      "source_id": "src_13c3713c2bbc310a",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — авторское research-досье (Иван Мельник, VSL_Andy_Warhol), объявляющее маршрут /ru/glossary/artists/andy-warhol. Библиография досье содержала только названия организаций без URL. Проведён независимый веб-поиск (The Andy Warhol Museum, Wikipedia). Материал намеренно ограничен ранней биографией и переходом к поп-арту: Factory как коллективная система труда, покушение 1968 года, Interview Magazine, The Last Supper и полная библиография произведений не включены — каждая из этих тем требует отдельного тщательно источникового материала и рассмотрения вопросов авторских прав на изображения работ, отмеченных в исходном досье (RIGHTS GATE). Изображения самих произведений Уорхола не используются в этом материале по этой причине.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-08T00:00:00.000Z"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "content_id": "cnt_6fea9ec30d620382",
+  "primary_object_id": "obj_e0433becc89e1856",
+  "content_type": "artist_profile",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.9,
+  "claim_ids": [
+    "clm_ca559bd2522ef683",
+    "clm_c8bd6ffdddc17a9c",
+    "clm_b1e72a9774b847df",
+    "clm_3ba4637578b987b9"
+  ],
+  "source_ids": [
+    "src_bbdc35b37c6d2455",
+    "src_d60c28eff0c22ec0"
+  ],
+  "last_reviewed": "2026-08-08",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "marcel-duchamp",
+  "title": "Марсель Дюшан",
+  "summary": "От Académie Julian через переезд в Нью-Йорк в 1942 году до реди-мейдов Bicycle Wheel и Fountain — художник, стеревший границу между произведением искусства и обычным предметом.",
+  "body_hash": "60e4d0550fdc9c789f61278dc9dfb0a6049b6086212ed29502696dcdf2bcff17",
+  "hero_image": {
+    "src": "/images/glossary/artists/marcel-duchamp-photo-v1.jpg",
+    "alt": "Пятикратный портрет Марселя Дюшана, 21 июня 1917 года, Нью-Йорк.",
+    "caption": "Марсель Дюшан, Нью-Йорк, 1917 год.",
+    "credit": "Автор не установлен via Wikimedia Commons — общественное достояние в США (опубликовано до 1931 года)",
+    "origin": "public_domain"
+  }
+}
