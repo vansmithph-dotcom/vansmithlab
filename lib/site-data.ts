@@ -55,6 +55,7 @@ export const copy: Record<Locale, Copy> = {
     nav: [
       { href: "/encyclopedia", label: "Энциклопедия" },
       { href: "/glossary", label: "Глоссарий" },
+      { href: "/glossary/designers", label: "Дизайнеры" },
       { href: "/articles", label: "Статьи" },
       { href: "/analysis", label: "Анализ" },
       { href: "/timeline", label: "Хронология" },
@@ -103,6 +104,7 @@ export const copy: Record<Locale, Copy> = {
     nav: [
       { href: "/encyclopedia", label: "Encyclopedia" },
       { href: "/glossary", label: "Glossary" },
+      { href: "/glossary/designers", label: "Designers" },
       { href: "/articles", label: "Articles" },
       { href: "/analysis", label: "Analysis" },
       { href: "/timeline", label: "Timeline" },
