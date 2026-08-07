@@ -1,0 +1,174 @@
+{
+  "id": "obj_d862ea4ad4b5e244",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Рем Колхас",
+  "slug_ru": "rem-koolhaas",
+  "summary_ru": "От журналистики и сценарного дела через Architectural Association и книгу «Delirious New York» до Office for Metropolitan Architecture — Притцкеровский лауреат 2000 года.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.9,
+  "created_at": "2026-08-08T00:00:00.000Z",
+  "updated_at": "2026-08-08T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_5f685d875b167a88",
+      "wording_ru": "Рем Колхас родился 17 ноября 1944 года в Роттердаме, Нидерланды.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Rem-Koolhaas",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_64812b555a5a9d8f",
+      "wording_ru": "Начинал карьеру как журналист и сценарист, прежде чем окончить Architectural Association School of Architecture в Лондоне.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.88,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Rem-Koolhaas",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_c9de27a99f340bf9",
+      "wording_ru": "В 1975 году стал соучредителем Office for Metropolitan Architecture (OMA).",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Rem-Koolhaas",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Rem_Koolhaas",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_c021e5da3b63a77d",
+      "wording_ru": "В 1978 году опубликовал книгу «Delirious New York» — критическое исследование архитектуры и урбанизма Манхэттена.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Rem-Koolhaas",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_59cd7a4093198ced",
+      "wording_ru": "В 2000 году Колхас стал лауреатом Притцкеровской премии, а в 2004 году получил Royal Gold Medal.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.94,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Rem-Koolhaas",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_068cf23941ec1103",
+      "title": "The Pritzker Architecture Prize — Biography: Rem Koolhaas",
+      "url": "https://www.pritzkerprize.com/biography-rem-koolhaas",
+      "publisher": "The Pritzker Architecture Prize",
+      "source_tier": 1,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_40c2b801356ec842",
+      "title": "Wikipedia — Rem Koolhaas",
+      "url": "https://en.wikipedia.org/wiki/Rem_Koolhaas",
+      "publisher": "Wikipedia",
+      "source_tier": 3,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_4014a6f4c85f68e7",
+      "title": "Britannica — Rem Koolhaas",
+      "url": "https://www.britannica.com/biography/Rem-Koolhaas",
+      "publisher": "Encyclopaedia Britannica",
+      "source_tier": 2,
+      "accessed_at": "2026-08-08"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_9ea31cc3482662f2",
+      "claim_id": "clm_5f685d875b167a88",
+      "source_id": "src_4014a6f4c85f68e7",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_1593a388c13575eb",
+      "claim_id": "clm_64812b555a5a9d8f",
+      "source_id": "src_4014a6f4c85f68e7",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_ee29976583d4c0b5",
+      "claim_id": "clm_c9de27a99f340bf9",
+      "source_id": "src_4014a6f4c85f68e7",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_ca9038380df01d1b",
+      "claim_id": "clm_c9de27a99f340bf9",
+      "source_id": "src_40c2b801356ec842",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_a806b1b93eb83ede",
+      "claim_id": "clm_c021e5da3b63a77d",
+      "source_id": "src_4014a6f4c85f68e7",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_ccbabab65c641a98",
+      "claim_id": "clm_59cd7a4093198ced",
+      "source_id": "src_4014a6f4c85f68e7",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — авторское research-досье (Иван Мельник, VSL_Rem_Koolhaas). Библиография не содержала URL. Проведён независимый веб-поиск (Britannica, Wikipedia, Pritzker Architecture Prize). Основание AMO и подробная библиография построенных объектов OMA не вошли в эту редакцию.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-08T00:00:00.000Z"
+  }
+}

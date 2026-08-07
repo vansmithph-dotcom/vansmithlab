@@ -1,0 +1,236 @@
+{
+  "id": "obj_0683de42a1111bb1",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Ричард Роджерс",
+  "slug_ru": "richard-rogers",
+  "summary_ru": "От Architectural Association и Йеля через Centre Georges Pompidou в соавторстве с Ренцо Пиано до Lloyd's of London и Rogers Stirk Harbour + Partners — Притцкеровский лауреат 2007 года.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.9,
+  "created_at": "2026-08-08T00:00:00.000Z",
+  "updated_at": "2026-08-08T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_712619a5dfd2ff2d",
+      "wording_ru": "Ричард Роджерс родился во Флоренции, Италия, 23 июля 1933 года, и умер 18 декабря 2021 года в Лондоне.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-richard-rogers",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Richard_Rogers",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_2137db241332eb4e",
+      "wording_ru": "Учился на архитектора в Architectural Association в Лондоне (окончил в 1959 году), а затем получил степень магистра в Йельском университете в 1962 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.88,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-richard-rogers",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Richard_Rogers",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_794f3204d2326ee1",
+      "wording_ru": "Centre Georges Pompidou в Париже (1971-1977) был спроектирован в соавторстве с Ренцо Пиано и изменил представление о музее, превратив элитный монумент в популярное место социального и культурного обмена.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.93,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-richard-rogers",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Richard_Rogers",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_98915dac340d1303",
+      "wording_ru": "Его практика — сегодняшняя Rogers Stirk Harbour + Partners (RSHP) — была основана в 1977 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-richard-rogers",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_d5e001b0d5b53d25",
+      "wording_ru": "Среди других знаковых проектов — штаб-квартира Lloyd's of London (1978-1986), здание Европейского суда по правам человека в Страсбурге и Millennium Dome в Лондоне.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-richard-rogers",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Richard_Rogers",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_adb4e4c1432e3241",
+      "wording_ru": "В 2007 году Роджерс стал лауреатом Притцкеровской премии; в 1991 году он был посвящён в рыцари, а в 1996 году получил пожизненное пэрство.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.95,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-richard-rogers",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Richard_Rogers",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_549eac1dbb5dd849",
+      "title": "The Pritzker Architecture Prize — Biography: Richard Rogers",
+      "url": "https://www.pritzkerprize.com/biography-richard-rogers",
+      "publisher": "The Pritzker Architecture Prize",
+      "source_tier": 1,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_5128d09828d8eb9d",
+      "title": "Wikipedia — Richard Rogers",
+      "url": "https://en.wikipedia.org/wiki/Richard_Rogers",
+      "publisher": "Wikipedia",
+      "source_tier": 3,
+      "accessed_at": "2026-08-08"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_957f9ca56d6565ce",
+      "claim_id": "clm_712619a5dfd2ff2d",
+      "source_id": "src_549eac1dbb5dd849",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_4b9cbc638a099276",
+      "claim_id": "clm_712619a5dfd2ff2d",
+      "source_id": "src_5128d09828d8eb9d",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_ad4d37b86f003d73",
+      "claim_id": "clm_2137db241332eb4e",
+      "source_id": "src_549eac1dbb5dd849",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_8c886e20a5493c93",
+      "claim_id": "clm_2137db241332eb4e",
+      "source_id": "src_5128d09828d8eb9d",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_2449dd7d5660e949",
+      "claim_id": "clm_794f3204d2326ee1",
+      "source_id": "src_549eac1dbb5dd849",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_780245c53a1a8b90",
+      "claim_id": "clm_794f3204d2326ee1",
+      "source_id": "src_5128d09828d8eb9d",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_3d2f5ea3e812686e",
+      "claim_id": "clm_98915dac340d1303",
+      "source_id": "src_549eac1dbb5dd849",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_6aeb61a6c448bd49",
+      "claim_id": "clm_d5e001b0d5b53d25",
+      "source_id": "src_549eac1dbb5dd849",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_fef995ac9f8db09d",
+      "claim_id": "clm_d5e001b0d5b53d25",
+      "source_id": "src_5128d09828d8eb9d",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_8b2642dd1de14623",
+      "claim_id": "clm_adb4e4c1432e3241",
+      "source_id": "src_549eac1dbb5dd849",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_cc4682503d8b1aca",
+      "claim_id": "clm_adb4e4c1432e3241",
+      "source_id": "src_5128d09828d8eb9d",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — авторское research-досье (Иван Мельник, VSL_Richard_Rogers). Библиография не содержала URL. Проведён независимый веб-поиск (Pritzker Architecture Prize). Только один надёжный тайер-1 источник найден в отведённое время. Ранняя практика Team 4 с Норманом Фостером упомянута в профиле Фостера и не дублируется здесь отдельным citation.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-08T00:00:00.000Z"
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "id": "obj_4d5897e405dc1182",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Тойо Ито",
+  "slug_ru": "toyo-ito",
+  "summary_ru": "От токийского офиса Киёнори Кикутаке через студию Urban Robot до Sendai Mediatheque — Притцкеровский лауреат 2013 года, соединивший лёгкость конструкции с поэтикой пространства.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.9,
+  "created_at": "2026-08-08T00:00:00.000Z",
+  "updated_at": "2026-08-08T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_eea7489c2b756201",
+      "wording_ru": "Тойо Ито родился 1 июня 1941 года в Кёйдзё (Сеуле), в то время под японским управлением; в 1943 году семья вернулась в Японию.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-toyo-ito",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_38a36ba43ae639cb",
+      "wording_ru": "Окончил факультет архитектуры Токийского университета в 1965 году и начал работать в бюро Kiyonori Kikutake & Associates.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.91,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-toyo-ito",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_55866b8bf8237a85",
+      "wording_ru": "В 1971 году основал в Токио собственную студию под названием Urban Robot (Urbot).",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-toyo-ito",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_c7050e8daef37d61",
+      "wording_ru": "В 2013 году Ито стал лауреатом Притцкеровской премии; жюри назвало его «создателем неподвластных времени зданий».",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.95,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-toyo-ito",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_d07fc4cd0985d075",
+      "title": "The Pritzker Architecture Prize — Biography: Toyo Ito",
+      "url": "https://www.pritzkerprize.com/biography-toyo-ito",
+      "publisher": "The Pritzker Architecture Prize",
+      "source_tier": 1,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_608485c8515f0e82",
+      "title": "Wikipedia — Toyo Ito",
+      "url": "https://en.wikipedia.org/wiki/Toyo_Ito",
+      "publisher": "Wikipedia",
+      "source_tier": 3,
+      "accessed_at": "2026-08-08"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_32d0c04017455ddd",
+      "claim_id": "clm_eea7489c2b756201",
+      "source_id": "src_d07fc4cd0985d075",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_37ae0f4937a44500",
+      "claim_id": "clm_38a36ba43ae639cb",
+      "source_id": "src_d07fc4cd0985d075",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_735f94fce22eebff",
+      "claim_id": "clm_55866b8bf8237a85",
+      "source_id": "src_d07fc4cd0985d075",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_0a97e9565588354b",
+      "claim_id": "clm_c7050e8daef37d61",
+      "source_id": "src_d07fc4cd0985d075",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — авторское research-досье (Иван Мельник, VSL_Toyo_Ito). Библиография не содержала URL. Проведён независимый веб-поиск (Pritzker Architecture Prize). Sendai Mediatheque и подробная библиография построенных объектов не включены в эту редакцию как отдельные citations — не удалось найти для них надёжный источник в отведённое время.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-08T00:00:00.000Z"
+  }
+}

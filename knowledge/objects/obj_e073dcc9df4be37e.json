@@ -1,0 +1,168 @@
+{
+  "id": "obj_e073dcc9df4be37e",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Алвару Сиза",
+  "slug_ru": "alvaro-siza",
+  "summary_ru": "От Университета Порту через первые дома в Матозиньюше до практики, продолжающей модернистскую традицию с уважением к месту, — Притцкеровский лауреат 1992 года.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.9,
+  "created_at": "2026-08-08T00:00:00.000Z",
+  "updated_at": "2026-08-08T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_36cad069d2ca7981",
+      "wording_ru": "Алвару Жоаким де Мелу Сиза Вейра родился 25 июня 1933 года в прибрежном городке Матозиньюш, к северу от Порту, Португалия.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-alvaro-siza",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://en.wikipedia.org/wiki/%C3%81lvaro_Siza_Vieira",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_e1cc9a86dacf2bf1",
+      "wording_ru": "Учился в Школе архитектуры Университета Порту с 1949 по 1955 год и завершил свои первые построенные объекты — четыре дома в Матозиньюше — ещё до окончания учёбы, в 1954 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-alvaro-siza",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://en.wikipedia.org/wiki/%C3%81lvaro_Siza_Vieira",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_cce5063a7604625a",
+      "wording_ru": "В 1992 году получил Притцкеровскую премию, став первым португальским архитектором с этой наградой; жюри отметило, что архитектура Сизы «радует чувства и поднимает дух».",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.93,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-alvaro-siza",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://en.wikipedia.org/wiki/%C3%81lvaro_Siza_Vieira",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_d6e1704746c128cc",
+      "wording_ru": "Ведёт практику из собственного офиса в Порту, продолжая модернистскую традицию с уважением к контексту, месту и национальной архитектурной истории Португалии.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.87,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-alvaro-siza",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_1ac57726fbabbe8a",
+      "title": "The Pritzker Architecture Prize — Biography: Alvaro Siza",
+      "url": "https://www.pritzkerprize.com/biography-alvaro-siza",
+      "publisher": "The Pritzker Architecture Prize",
+      "source_tier": 1,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_82c23aa8b2bb1765",
+      "title": "Wikipedia — Álvaro Siza Vieira",
+      "url": "https://en.wikipedia.org/wiki/%C3%81lvaro_Siza_Vieira",
+      "publisher": "Wikipedia",
+      "source_tier": 3,
+      "accessed_at": "2026-08-08"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_81575c5ec6315741",
+      "claim_id": "clm_36cad069d2ca7981",
+      "source_id": "src_1ac57726fbabbe8a",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_c33c8a42481112ff",
+      "claim_id": "clm_36cad069d2ca7981",
+      "source_id": "src_82c23aa8b2bb1765",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_86ce54226952aef8",
+      "claim_id": "clm_e1cc9a86dacf2bf1",
+      "source_id": "src_1ac57726fbabbe8a",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_4512f8cd97a27ae2",
+      "claim_id": "clm_e1cc9a86dacf2bf1",
+      "source_id": "src_82c23aa8b2bb1765",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_3e87ad173d0dfdfb",
+      "claim_id": "clm_cce5063a7604625a",
+      "source_id": "src_1ac57726fbabbe8a",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_fe17498f84cb6baf",
+      "claim_id": "clm_cce5063a7604625a",
+      "source_id": "src_82c23aa8b2bb1765",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_8092a27a1026be1e",
+      "claim_id": "clm_d6e1704746c128cc",
+      "source_id": "src_1ac57726fbabbe8a",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — авторское research-досье (Иван Мельник, VSL_Alvaro_Aravena/Siza). Библиография не содержала URL. Проведён независимый веб-поиск (Pritzker Architecture Prize). Только один надёжный тайер-1 источник найден в отведённое время. Подробная библиография построенных объектов не включена.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-08T00:00:00.000Z"
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "id": "obj_8d4c8e3e365b4362",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Жан Нувель",
+  "slug_ru": "jean-nouvel",
+  "summary_ru": "От Фюмеля через собственную парижскую практику до Institut du Monde Arabe — Притцкеровский лауреат 2008 года, последовательно ищущий новый архитектурный ответ на каждую задачу заново.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.9,
+  "created_at": "2026-08-08T00:00:00.000Z",
+  "updated_at": "2026-08-08T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_d4809cfcf8efd17b",
+      "wording_ru": "Жан Нувель родился в 1945 году в Фюмеле, на юго-западе Франции, в семье учителей.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-jean-nouvel",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Jean_Nouvel",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_83ef01d49691b8e2",
+      "wording_ru": "В 2008 году, в возрасте 62 лет, стал лауреатом Притцкеровской премии; церемония прошла 2 июня в Библиотеке Конгресса США в Вашингтоне.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.94,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-jean-nouvel",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Jean_Nouvel",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_6132fbfbc3bfd1af",
+      "wording_ru": "С 1970-х годов ведёт собственную практику в Париже, последовательно отказываясь от единого узнаваемого стиля в пользу нового решения для каждой задачи.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.87,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-jean-nouvel",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_a5a46f615bac82f0",
+      "wording_ru": "Получил международную известность после завершения в 1987 году Institut du Monde Arabe в Париже — одного из Grands Travaux президента Франсуа Миттерана.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.91,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-jean-nouvel",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_6f326250683598a3",
+      "title": "The Pritzker Architecture Prize — Biography: Jean Nouvel",
+      "url": "https://www.pritzkerprize.com/biography-jean-nouvel",
+      "publisher": "The Pritzker Architecture Prize",
+      "source_tier": 1,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_6e39347b206881a7",
+      "title": "Wikipedia — Jean Nouvel",
+      "url": "https://en.wikipedia.org/wiki/Jean_Nouvel",
+      "publisher": "Wikipedia",
+      "source_tier": 3,
+      "accessed_at": "2026-08-08"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_e5ae602157f0d476",
+      "claim_id": "clm_d4809cfcf8efd17b",
+      "source_id": "src_6f326250683598a3",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_5de170f0cb648435",
+      "claim_id": "clm_d4809cfcf8efd17b",
+      "source_id": "src_6e39347b206881a7",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_9879814976f26f93",
+      "claim_id": "clm_83ef01d49691b8e2",
+      "source_id": "src_6f326250683598a3",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_7667535f1abe8cf1",
+      "claim_id": "clm_83ef01d49691b8e2",
+      "source_id": "src_6e39347b206881a7",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_764bea7b892792ad",
+      "claim_id": "clm_6132fbfbc3bfd1af",
+      "source_id": "src_6f326250683598a3",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_d21e227f11e35b7c",
+      "claim_id": "clm_a5a46f615bac82f0",
+      "source_id": "src_6f326250683598a3",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — авторское research-досье (Иван Мельник, VSL_Jean_Nouvel). Библиография не содержала URL. Проведён независимый веб-поиск (Pritzker Architecture Prize). Только один надёжный тайер-1 источник найден в отведённое время; независимого второго источника для части утверждений не хватает — отмечено как ограничение материала.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-08T00:00:00.000Z"
+  }
+}
