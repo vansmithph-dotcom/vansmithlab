@@ -1,0 +1,154 @@
+{
+  "id": "obj_9d954a70c58542dd",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Лина Бо Барди",
+  "slug_ru": "lina-bo-bardi",
+  "summary_ru": "От архитектурного диплома в Риме через переезд в Бразилию до здания MASP на двух красных бетонных балках — возможно, самая влиятельная женщина-архитектор XX века.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.9,
+  "created_at": "2026-08-08T00:00:00.000Z",
+  "updated_at": "2026-08-08T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_cbd8d43bfd053870",
+      "wording_ru": "Лина Бо Барди родилась как Акиллина Бо 5 декабря 1914 года в Риме, Италия, и получила диплом архитектора Римского университета в 1939 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Lina-Bo-Bardi",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_fded749f8c2f39df",
+      "wording_ru": "В 1946 году переехала вместе с мужем в Бразилию, где посвятила бо́льшую часть карьеры продвижению социального и культурного потенциала архитектуры и дизайна.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.88,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Lina-Bo-Bardi",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_513f1474ed2d35d6",
+      "wording_ru": "Спроектировала здание Художественного музея Сан-Паулу (MASP, 1958-1967) — гигантский стеклянный объём, подвешенный между двумя ярко-красными предварительно напряжёнными бетонными балками, включая оригинальную систему подвеса картин, вынесенных от стены.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Lina-Bo-Bardi",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_94dc8ac513e28dac",
+      "wording_ru": "В 1950 году вместе с мужем основала журнал Habitat и была его редактором до 1953 года.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.87,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Lina-Bo-Bardi",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_aeb3df91801df8f9",
+      "wording_ru": "Умерла 20 марта 1992 года, в возрасте 77 лет, в собственном доме Casa de Vidro в Сан-Паулу.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Lina-Bo-Bardi",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_475517f5b84e6a75",
+      "title": "Britannica — Lina Bo Bardi",
+      "url": "https://www.britannica.com/biography/Lina-Bo-Bardi",
+      "publisher": "Encyclopaedia Britannica",
+      "source_tier": 2,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_16037dce037970f1",
+      "title": "Wikipedia — Lina Bo Bardi",
+      "url": "https://en.wikipedia.org/wiki/Lina_Bo_Bardi",
+      "publisher": "Wikipedia",
+      "source_tier": 3,
+      "accessed_at": "2026-08-08"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_2a79b3810bfd9c5a",
+      "claim_id": "clm_cbd8d43bfd053870",
+      "source_id": "src_475517f5b84e6a75",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_a3fdf87909084931",
+      "claim_id": "clm_fded749f8c2f39df",
+      "source_id": "src_475517f5b84e6a75",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_640ed664be23e285",
+      "claim_id": "clm_513f1474ed2d35d6",
+      "source_id": "src_475517f5b84e6a75",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_895a4712b57a4ba8",
+      "claim_id": "clm_94dc8ac513e28dac",
+      "source_id": "src_475517f5b84e6a75",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_0241205226896492",
+      "claim_id": "clm_aeb3df91801df8f9",
+      "source_id": "src_475517f5b84e6a75",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — авторское research-досье (Иван Мельник, VSL_Lina_Bo_Bardi). Библиография не содержала URL. Проведён независимый веб-поиск (Britannica). Имя мужа (Пьетро Мария Барди, искусствовед, соучредитель MASP) не выделено в отдельный citation — источник подтверждает факт переезда и роль мужа в основании музея, но не называет его по имени напрямую.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-08T00:00:00.000Z"
+  }
+}

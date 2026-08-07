@@ -1,0 +1,154 @@
+{
+  "id": "obj_4ed8d4ae634c4528",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Кийонори Кикутаке",
+  "slug_ru": "kiyonori-kikutake",
+  "summary_ru": "От Университета Васэда через собственный дом Sky House до плавучего города Aquapolis — сооснователь Метаболизма, учитель Тойо Ито.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.88,
+  "created_at": "2026-08-08T00:00:00.000Z",
+  "updated_at": "2026-08-08T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_ce69f6d3be979fa7",
+      "wording_ru": "Кийонори Кикутаке родился 1 апреля 1928 года в городе Куруме, Япония, и умер 26 декабря 2011 года.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.89,
+      "evidence": [
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Kiyonori_Kikutake",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_3e0fb76a735dab1b",
+      "wording_ru": "Окончил Университет Васэда в 1950 году, после чего работал в бюро модерниста Того Мурано.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.87,
+      "evidence": [
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Kiyonori_Kikutake",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_1dedf8238b5835b5",
+      "wording_ru": "В 1953 году основал собственное бюро; международное признание ему принёс собственный дом Sky House (1957) в Токио — единственная комната, поднятая на четырёх опорах-пилонах.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.89,
+      "evidence": [
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Kiyonori_Kikutake",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_27defeec7ef56111",
+      "wording_ru": "Стал одним из сооснователей движения Метаболизма на Всемирной конференции по дизайну в Токио в 1960 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.89,
+      "evidence": [
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Kiyonori_Kikutake",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_8775ed8042af5fd4",
+      "wording_ru": "Его идеи плавучих городов частично реализовались в масштабном плавучем комплексе Aquapolis, построенном для Международной океанской выставки на Окинаве (1975).",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.88,
+      "evidence": [
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Kiyonori_Kikutake",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_22d5fea3541d559c",
+      "title": "Britannica — Kikutake Kiyonori",
+      "url": "https://www.britannica.com/biography/Kikutake-Kiyonori",
+      "publisher": "Encyclopaedia Britannica",
+      "source_tier": 2,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_9fc7fb1d5c4a7e80",
+      "title": "Wikipedia — Kiyonori Kikutake",
+      "url": "https://en.wikipedia.org/wiki/Kiyonori_Kikutake",
+      "publisher": "Wikipedia",
+      "source_tier": 3,
+      "accessed_at": "2026-08-08"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_e6f601ad0abb643b",
+      "claim_id": "clm_ce69f6d3be979fa7",
+      "source_id": "src_9fc7fb1d5c4a7e80",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_7f9c814382370d8f",
+      "claim_id": "clm_3e0fb76a735dab1b",
+      "source_id": "src_9fc7fb1d5c4a7e80",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_bfbcfaead7298791",
+      "claim_id": "clm_1dedf8238b5835b5",
+      "source_id": "src_9fc7fb1d5c4a7e80",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_28c78e96d24020d0",
+      "claim_id": "clm_27defeec7ef56111",
+      "source_id": "src_9fc7fb1d5c4a7e80",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_92e306e3d75ec216",
+      "claim_id": "clm_8775ed8042af5fd4",
+      "source_id": "src_9fc7fb1d5c4a7e80",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — авторское research-досье (Иван Мельник, VSL_Kiyonori_Kikutake). Библиография не содержала URL. Проведён независимый веб-поиск (Britannica, Wikipedia). Кикутаке не является лауреатом Притцкеровской премии. Свободно лицензированный фотопортрет не найден в отведённое время, поэтому для героя материала использована оригинальная SVG-диаграмма. Педагогическое влияние на Тойо Ито, Сёдзо Утии и Ицуко Хасэгаву упомянуто, но не выделено в отдельный citation.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-08T00:00:00.000Z"
+  }
+}
