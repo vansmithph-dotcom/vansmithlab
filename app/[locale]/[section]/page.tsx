@@ -14,7 +14,15 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const { locale, section } = await params;
   if (!isLocale(locale) || !(section in copy[locale].section)) return {};
   const page = copy[locale].section[section];
-  return { title: page.title, description: page.text, alternates: { canonical: `/${locale}/${section}` } };
+  const otherLocale = locale === "ru" ? "en" : "ru";
+  return {
+    title: page.title,
+    description: page.text,
+    alternates: {
+      canonical: `/${locale}/${section}`,
+      languages: { [locale]: `/${locale}/${section}`, [otherLocale]: `/${otherLocale}/${section}`, "x-default": `/ru/${section}` },
+    },
+  };
 }
 
 export default async function SectionPage({ params }: { params: Promise<{ locale: string; section: string }> }) {

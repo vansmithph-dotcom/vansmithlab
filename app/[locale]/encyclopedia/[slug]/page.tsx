@@ -3,7 +3,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { TrustPanel } from "@/components/TrustPanel";
 import { PublishedArticle } from "@/components/PublishedArticle";
-import { getContent, listContent } from "@/lib/content";
+import { findTranslation, getContent, listContent, localeAlternates } from "@/lib/content";
 import { copy, isLocale, objectSamples } from "@/lib/site-data";
 
 export function generateStaticParams() {
@@ -18,22 +18,27 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const published = getContent(locale, "encyclopedia", slug);
   const canonical = `/${locale}/encyclopedia/${slug}`;
   if (published) {
-    const { title, summary, hero_image: heroImage } = published.metadata;
+    const { title, summary, hero_image: heroImage, content_id: contentId } = published.metadata;
     const images = heroImage ? [{ url: heroImage.src, alt: heroImage.alt }] : undefined;
+    const translation = findTranslation(contentId, locale === "ru" ? "en" : "ru");
     return {
       title,
       description: summary,
-      alternates: { canonical },
+      alternates: { canonical, languages: localeAlternates(locale, canonical, translation) },
       openGraph: { title, description: summary, type: "article", images },
       twitter: { card: "summary_large_image", title, description: summary, images: images?.map((image) => image.url) },
     };
   }
   const object = objectSamples.find((item) => item.slug === slug);
   if (!object) return {};
+  const otherLocale = locale === "ru" ? "en" : "ru";
   return {
     title: object.title[locale],
     description: object.summary[locale],
-    alternates: { canonical },
+    alternates: {
+      canonical,
+      languages: { [locale]: canonical, [otherLocale]: `/${otherLocale}/encyclopedia/${slug}`, "x-default": `/ru/encyclopedia/${slug}` },
+    },
     robots: { index: false, follow: true },
   };
 }

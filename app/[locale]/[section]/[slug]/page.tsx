@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { PublishedArticle } from "@/components/PublishedArticle";
-import { getContent, listContent } from "@/lib/content";
+import { findTranslation, getContent, listContent, localeAlternates } from "@/lib/content";
 import { isLocale } from "@/lib/site-data";
 
 export function generateStaticParams() {
@@ -14,12 +14,14 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   if (!isLocale(locale)) return {};
   const content = getContent(locale, section, slug);
   if (!content) return {};
-  const { title, summary, hero_image: heroImage } = content.metadata;
+  const { title, summary, hero_image: heroImage, content_id: contentId } = content.metadata;
   const images = heroImage ? [{ url: heroImage.src, alt: heroImage.alt }] : undefined;
+  const canonical = `/${locale}/${section}/${slug}`;
+  const translation = findTranslation(contentId, locale === "ru" ? "en" : "ru");
   return {
     title,
     description: summary,
-    alternates: { canonical: `/${locale}/${section}/${slug}` },
+    alternates: { canonical, languages: localeAlternates(locale, canonical, translation) },
     openGraph: { title, description: summary, type: "article", images },
     twitter: { card: "summary_large_image", title, description: summary, images: images?.map((image) => image.url) },
   };

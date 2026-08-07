@@ -9,6 +9,30 @@ const labels = {
   en: { back: "Back", verification: "Verification", confidence: "Confidence", reviewed: "Last reviewed", sources: "Sources", revision: "Revision", ai: "This publication was prepared by an automated editorial system and passed source validation." }
 } as const;
 
+const siteUrl = "https://vansmithlab.com";
+
+function buildJsonLd(locale: Locale, section: string, content: PublishedContent) {
+  const { metadata } = content;
+  const url = `${siteUrl}/${locale}/${section}/${metadata.slug}/`;
+  const image = metadata.hero_image ? `${siteUrl}${metadata.hero_image.src}` : undefined;
+  const organization = { "@type": "Organization" as const, name: "VANSMITHLAB", url: siteUrl };
+  return {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    headline: metadata.title,
+    description: metadata.summary,
+    inLanguage: locale,
+    url,
+    mainEntityOfPage: { "@type": "WebPage", "@id": url },
+    ...(image ? { image: [image] } : {}),
+    datePublished: metadata.last_reviewed,
+    dateModified: metadata.last_reviewed,
+    author: metadata.content_type === "analysis" ? { "@type": "Person", name: metadata.author } : organization,
+    publisher: organization,
+    ...(metadata.content_type === "designer_profile" ? { about: { "@type": "Person", name: metadata.title } } : {}),
+  };
+}
+
 export function PublishedArticle({ locale, section, content }: { locale: Locale; section: string; content: PublishedContent }) {
   const { metadata, body, sources, citations } = content;
   const text = labels[locale];
@@ -19,8 +43,10 @@ export function PublishedArticle({ locale, section, content }: { locale: Locale;
     const target = citation ? sourceById.get(citation.source_id) : undefined;
     return target ? `[${target.number}](${target.source.url} "${target.source.title.replaceAll('"', "'")}")` : marker;
   });
+  const jsonLd = buildJsonLd(locale, section, content);
   return (
     <article className="shell object-page published-article">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd).replace(/</g, "\\u003c") }} />
       <Link className="back-link" href={`/${locale}/${section}`}>← {text.back}</Link>
       <header className="object-header">
         <div><p className="eyebrow">{metadata.content_type.replaceAll("_", " ")} · {metadata.content_id}</p><h1>{metadata.title}</h1><p>{metadata.summary}</p>{metadata.content_type === "analysis" && <p className="article-byline">{metadata.author}</p>}</div>

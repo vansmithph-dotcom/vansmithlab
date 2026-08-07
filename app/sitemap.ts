@@ -1,5 +1,5 @@
 import type { MetadataRoute } from "next";
-import { listContent } from "@/lib/content";
+import { listContent, sectionForContentType } from "@/lib/content";
 import { locales, sectionKeys } from "@/lib/site-data";
 
 export const dynamic = "force-static";
@@ -16,14 +16,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
     })),
     { url: `${siteUrl}/${locale}/glossary/designers/`, changeFrequency: "weekly" as const, priority: 0.6 },
   ]);
-
-  const sectionForContentType = (contentType: string) => {
-    if (contentType === "encyclopedia") return "encyclopedia";
-    if (contentType === "designer_profile") return "glossary/designers";
-    if (contentType === "research" || contentType === "case_study" || contentType === "visual_analysis") return "articles";
-    if (contentType === "collection") return "collections";
-    return contentType;
-  };
 
   const contentEntries: MetadataRoute.Sitemap = listContent().map((item) => ({
     url: `${siteUrl}/${item.locale}/${sectionForContentType(item.content_type)}/${item.slug}/`,

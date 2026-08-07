@@ -8,7 +8,7 @@ export const siteMetadata: Metadata = {
     icon: [{ url: "/icon.svg", type: "image/svg+xml" }],
     shortcut: "/icon.svg",
   },
-  alternates: { canonical: "/ru" },
+  alternates: { canonical: "/ru", languages: { ru: "/ru", en: "/en", "x-default": "/ru" } },
   openGraph: {
     type: "website",
     siteName: "VANSMITHLAB",
