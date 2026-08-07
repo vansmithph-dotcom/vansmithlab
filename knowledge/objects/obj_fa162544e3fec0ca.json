@@ -1,0 +1,132 @@
+{
+  "id": "obj_fa162544e3fec0ca",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Дэвид Хокни",
+  "slug_ru": "david-hockney",
+  "summary_ru": "От Bradford School of Art через золотую медаль Royal College of Art до статуса одного из главных художников британского поп-арта — карьера, продолжающаяся уже более шести десятилетий.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.9,
+  "created_at": "2026-08-08T00:00:00.000Z",
+  "updated_at": "2026-08-08T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_cd654029f165b6e8",
+      "wording_ru": "Дэвид Хокни родился 9 июля 1937 года в Брадфорде, графство Уэст-Райдинг-оф-Йоркшир, Англия.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.91,
+      "evidence": [
+        {
+          "source_url": "https://en.wikipedia.org/wiki/David_Hockney",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_95273d2d248f1e27",
+      "wording_ru": "Учился в Bradford School of Art (1953-1958), а затем в Royal College of Art в Лондоне (1959-1962), где получил золотую медаль в дипломном конкурсе.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://en.wikipedia.org/wiki/David_Hockney",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_4357cc5d08726301",
+      "wording_ru": "Стал важным участником британского поп-арта 1960-х годов; его работы отличают экономность техники, внимание к свету, эксперименты со средствами выражения и откровенный будничный реализм, унаследованный от поп-арта и фотографии.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.88,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/David-Hockney",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_d196cac879ef3245",
+      "wording_ru": "Среди известных работ — «A Bigger Splash», «Mr and Mrs Clark and Percy» и «Portrait of an Artist (Pool with Two Figures)».",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.88,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/David-Hockney",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_e832587f0ab8bab0",
+      "title": "Britannica — David Hockney",
+      "url": "https://www.britannica.com/biography/David-Hockney",
+      "publisher": "Encyclopaedia Britannica",
+      "source_tier": 2,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_f1179f04252cd9b1",
+      "title": "Wikipedia — David Hockney",
+      "url": "https://en.wikipedia.org/wiki/David_Hockney",
+      "publisher": "Wikipedia",
+      "source_tier": 3,
+      "accessed_at": "2026-08-08"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_aa53beee6266a779",
+      "claim_id": "clm_cd654029f165b6e8",
+      "source_id": "src_f1179f04252cd9b1",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_877d8d316e7a6d55",
+      "claim_id": "clm_95273d2d248f1e27",
+      "source_id": "src_f1179f04252cd9b1",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_ab731e43174ba567",
+      "claim_id": "clm_4357cc5d08726301",
+      "source_id": "src_e832587f0ab8bab0",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_feeac71ca7aeaa39",
+      "claim_id": "clm_d196cac879ef3245",
+      "source_id": "src_e832587f0ab8bab0",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — авторское research-досье (Иван Мельник, VSL_David_Hockney), объявляющее маршрут /ru/glossary/artists/david-hockney. Библиография досье содержала только названия организаций без URL. Проведён независимый веб-поиск (Britannica, Wikipedia). Материал намеренно ограничен образованием и ранним признанием: калифорнийские бассейны как тема, поздние эксперименты с iPad-живописью и подробная библиография произведений не включены. Изображения произведений Хокни защищены авторским правом и не используются в этом материале.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-08T00:00:00.000Z"
+  }
+}
