@@ -1,0 +1,132 @@
+{
+  "id": "obj_8289ea004fb564f8",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Фумихико Маки",
+  "slug_ru": "fumihiko-maki",
+  "summary_ru": "От Токийского университета и лаборатории Тангэ через Cranbrook и Гарвард до модернизма, соединяющего культуры Востока и Запада, — Притцкеровский лауреат 1993 года.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.9,
+  "created_at": "2026-08-08T00:00:00.000Z",
+  "updated_at": "2026-08-08T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_c479378c4b0e8fa3",
+      "wording_ru": "Фумихико Маки родился в Токио 6 сентября 1928 года.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-fumihiko-maki",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_e82c10ee72d95056",
+      "wording_ru": "Получил степень бакалавра архитектуры в Токийском университете в 1952 году, учась у Кэндзо Тангэ, а затем — степени магистра в Cranbrook Academy of Art и в Harvard Graduate School of Design.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.91,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-fumihiko-maki",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_94425f91965582e6",
+      "wording_ru": "После учёбы работал в бюро Skidmore, Owings and Merrill в Нью-Йорке и Sert, Jackson and Associates в Кембридже.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.88,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-fumihiko-maki",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_4a51c20096bc948a",
+      "wording_ru": "В 1993 году стал 16-м лауреатом Притцкеровской премии — вторым японским архитектором, получившим эту награду; жюри отметило его работы как «интеллектуальные и художественные по замыслу и выражению».",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.93,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-fumihiko-maki",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_4dd33fa9704e9a75",
+      "title": "The Pritzker Architecture Prize — Biography: Fumihiko Maki",
+      "url": "https://www.pritzkerprize.com/biography-fumihiko-maki",
+      "publisher": "The Pritzker Architecture Prize",
+      "source_tier": 1,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_211c00f19b1ffcd8",
+      "title": "Wikipedia — Fumihiko Maki",
+      "url": "https://en.wikipedia.org/wiki/Fumihiko_Maki",
+      "publisher": "Wikipedia",
+      "source_tier": 3,
+      "accessed_at": "2026-08-08"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_41810e0fcbd03449",
+      "claim_id": "clm_c479378c4b0e8fa3",
+      "source_id": "src_4dd33fa9704e9a75",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_6cd9d706be9d35d8",
+      "claim_id": "clm_e82c10ee72d95056",
+      "source_id": "src_4dd33fa9704e9a75",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_f9de3721c8c918cb",
+      "claim_id": "clm_94425f91965582e6",
+      "source_id": "src_4dd33fa9704e9a75",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_db21f87bd3f2880e",
+      "claim_id": "clm_4a51c20096bc948a",
+      "source_id": "src_4dd33fa9704e9a75",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — авторское research-досье (Иван Мельник, VSL_Fumihiko_Maki). Библиография не содержала URL. Проведён независимый веб-поиск (Pritzker Architecture Prize, Wikipedia). Маки умер в 2024 году. Подробная библиография построенных объектов не включена.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-08T00:00:00.000Z"
+  }
+}

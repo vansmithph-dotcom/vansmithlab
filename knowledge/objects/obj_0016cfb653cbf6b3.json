@@ -1,0 +1,144 @@
+{
+  "id": "obj_0016cfb653cbf6b3",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Ричард Мейер",
+  "slug_ru": "richard-meier",
+  "summary_ru": "От Корнеллского университета через Smith House до Getty Center — самый молодой лауреат Притцкеровской премии на момент награждения (1984), работающий с белым цветом как фирменным языком.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.89,
+  "created_at": "2026-08-08T00:00:00.000Z",
+  "updated_at": "2026-08-08T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_1dd8f9efcc2fc72d",
+      "wording_ru": "Ричард Мейер родился 12 октября 1934 года в Ньюарке, Нью-Джерси, и учился в Корнеллском университете.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.91,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-richard-meier",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Richard_Meier",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_7016cf77976c1138",
+      "wording_ru": "Одна из его ранних жилых построек, Smith House в Дэриене, Коннектикут (1965), принесла ему общенациональную известность.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.88,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-richard-meier",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_6c1031ebad0deb21",
+      "wording_ru": "В 1984 году в возрасте 49 лет Мейер стал самым молодым на тот момент лауреатом Притцкеровской премии — шестым архитектором в мире, удостоенным этой награды.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-richard-meier",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_56985e59ccc83925",
+      "wording_ru": "Вскоре после получения премии получил заказ на Getty Center — комплекс искусств в Лос-Анджелесе, финансируемый фондом J. Paul Getty Trust.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.89,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-richard-meier",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_b1bc318886e45eb3",
+      "title": "The Pritzker Architecture Prize — Biography: Richard Meier",
+      "url": "https://www.pritzkerprize.com/biography-richard-meier",
+      "publisher": "The Pritzker Architecture Prize",
+      "source_tier": 1,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_c729821c6a7e313e",
+      "title": "Wikipedia — Richard Meier",
+      "url": "https://en.wikipedia.org/wiki/Richard_Meier",
+      "publisher": "Wikipedia",
+      "source_tier": 3,
+      "accessed_at": "2026-08-08"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_454d3b7428639265",
+      "claim_id": "clm_1dd8f9efcc2fc72d",
+      "source_id": "src_b1bc318886e45eb3",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_2d5cb71a518f44c9",
+      "claim_id": "clm_1dd8f9efcc2fc72d",
+      "source_id": "src_c729821c6a7e313e",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_d0a5ee70fb2e3d82",
+      "claim_id": "clm_7016cf77976c1138",
+      "source_id": "src_b1bc318886e45eb3",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_1f5d48e6a170fd7d",
+      "claim_id": "clm_6c1031ebad0deb21",
+      "source_id": "src_b1bc318886e45eb3",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_32ec914419e4d81a",
+      "claim_id": "clm_56985e59ccc83925",
+      "source_id": "src_b1bc318886e45eb3",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — авторское research-досье (Иван Мельник, VSL_Richard_Meier). Библиография не содержала URL. Проведён независимый веб-поиск (Pritzker Architecture Prize, Wikipedia). Обвинения в домогательствах, из-за которых Мейер в 2018 году отошёл от повседневного руководства практикой, задокументированы в независимых источниках, но не включены в эту редакцию — требуют отдельного тщательно источникового материала.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-08T00:00:00.000Z"
+  }
+}
