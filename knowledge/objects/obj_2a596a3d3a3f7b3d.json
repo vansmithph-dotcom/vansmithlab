@@ -1,0 +1,392 @@
+{
+  "id": "obj_2a596a3d3a3f7b3d",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Chanel: институция и структура собственности",
+  "slug_ru": "chanel-institutsiya-i-struktura-sobstvennosti",
+  "summary_ru": "Основанный в 1910 году на рю Камбон, Chanel остаётся одним из немногих крупных домов от-кутюр в частной семейной собственности — от сделки с Вертеймерами 1924 года до штаб-квартиры в Лондоне и назначения Матьё Блази в 2024 году.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.9,
+  "created_at": "2026-08-08T00:00:00.000Z",
+  "updated_at": "2026-08-08T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_1b215bd4bcc7d849",
+      "wording_ru": "Габриэль Шанель открыла шляпную мастерскую в 1909 году, а в 1910 году официально зарегистрировала бизнес «Chanel Modes» и открыла бутик на рю Камбон, 21 в Париже — адрес, который Дом официально указывает как год основания и который остаётся историческим центром компании по сей день.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.91,
+      "evidence": [
+        {
+          "source_url": "https://www.chanel.com/us/about-chanel/the-house-of-chanel/1920/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Chanel",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_21423bb6faba129e",
+      "wording_ru": "5 мая 1921 года представлен парфюм Chanel № 5, созданный французско-русским парфюмером Эрнестом Бо.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.chanel.com/us/about-chanel/the-house-of-chanel/1920/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Chanel",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_4916c5540a80073f",
+      "wording_ru": "В 1924 году Пьер Вертеймер и Теофиль Бадер учредили компанию Parfums Chanel для производства и распространения аромата: Вертеймеры получили 70% долей, Бадер — 20%, сама Шанель — 10% и роялти; эта структура на десятилетия определила собственность бизнеса и стала источником длительных судебных споров.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://wwd.com/fashion-news/fashion-features/feature/who-owns-chanel-1236702127/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Chanel",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_dc48ee86b53d6385",
+      "wording_ru": "Во время немецкой оккупации Парижа Шанель жила в отеле «Ритц» и состояла в отношениях с офицером немецкой военной разведки (Абвер) Гансом Гюнтером фон Динклаге; она пыталась воспользоваться нацистскими «арийскими» законами, чтобы отстранить своих еврейских партнёров, братьев Вертеймер, от владения парфюмерным бизнесом, — попытка не удалась, поскольку контроль над компанией был заранее передан доверенному лицу неарийского происхождения.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.89,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/topic/Was-Coco-Chanel-a-Nazi-Spy",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_30741fb64a2cb9ba",
+      "wording_ru": "В 1954 году, после пятнадцатилетнего перерыва, Шанель вернулась в моду с твидовым костюмом — коллекцией, прохладно встреченной французской прессой, но с энтузиазмом принятой в США.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.89,
+      "evidence": [
+        {
+          "source_url": "https://www.chanel.com/us/about-chanel/the-house-of-chanel/1950/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://collections.vam.ac.uk/item/O143168/skirt-suit-chanel-coco/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_1bf5f972b51ae77a",
+      "wording_ru": "Коко Шанель умерла 10 января 1971 года в своих апартаментах в отеле «Ритц» в Париже.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Chanel",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_eb63c1194e6c43eb",
+      "wording_ru": "В 1983 году художественным руководителем Дома стал Карл Лагерфельд и оставался им до своей смерти в феврале 2019 года — 36 лет, за которые он сохранил ключевые коды Дома, но радикально расширил их визуальный и коммерческий язык.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Chanel",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_5dd8d1ea047b0145",
+      "wording_ru": "12 декабря 2024 года Дом объявил о назначении Матьё Блази, ранее креативного директора Bottega Veneta, новым художественным руководителем модных направлений Chanel; он приступил к работе в 2025 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.cnn.com/2024/12/12/style/chanel-matthieu-blazy-new-artistic-director/index.html",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_310363970d332f80",
+      "wording_ru": "Chanel остаётся частной компанией, не котирующейся на бирже, контролируемой семьёй Вертеймер; с 2018 года штаб-квартира группы официально расположена в Лондоне, а с января 2022 года глобальным генеральным директором является Лина Наир.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.89,
+      "evidence": [
+        {
+          "source_url": "https://wwd.com/fashion-news/fashion-features/feature/who-owns-chanel-1236702127/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://wwd.com/business-news/financial/chanel-2024-results-ceo-leena-nair-1237799285/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_2e2985a1beeca604",
+      "wording_ru": "Согласно официальным финансовым результатам, выручка Chanel за 2024 год составила 18,7 млрд долларов США (снижение на 4,3% по сопоставимым показателям) при операционной прибыли 4,48 млрд долларов; капитальные затраты выросли на 43%, до 1,76 млрд долларов.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.91,
+      "evidence": [
+        {
+          "source_url": "https://www.chanel.com/puls-img/1747810519727-20250520fy24resultspressreleasefinalwwpdf.pdf",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://wwd.com/business-news/financial/chanel-2024-results-ceo-leena-nair-1237799285/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_f5e73496622d937e",
+      "title": "CHANEL — The House of Chanel: 1920s (официальная история)",
+      "url": "https://www.chanel.com/us/about-chanel/the-house-of-chanel/1920/",
+      "publisher": "Chanel",
+      "source_tier": 1,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_1f9917a053d916cb",
+      "title": "CHANEL — The House of Chanel: 1950s (официальная история)",
+      "url": "https://www.chanel.com/us/about-chanel/the-house-of-chanel/1950/",
+      "publisher": "Chanel",
+      "source_tier": 1,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_ed3a9a383658af60",
+      "title": "Chanel Limited — Financial Results for the Year Ended 31 December 2024",
+      "url": "https://www.chanel.com/puls-img/1747810519727-20250520fy24resultspressreleasefinalwwpdf.pdf",
+      "publisher": "Chanel Limited",
+      "source_tier": 1,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_ce24f900a8ba84bf",
+      "title": "V&A — Skirt suit, Coco Chanel",
+      "url": "https://collections.vam.ac.uk/item/O143168/skirt-suit-chanel-coco/",
+      "publisher": "Victoria and Albert Museum",
+      "source_tier": 1,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_839a3b01d515ecf0",
+      "title": "WWD — Who Owns Chanel? How the Secretive Wertheimer Family Became Luxury Titans",
+      "url": "https://wwd.com/fashion-news/fashion-features/feature/who-owns-chanel-1236702127/",
+      "publisher": "WWD",
+      "source_tier": 2,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_f81bc6607dd9efdb",
+      "title": "WWD — Chanel 2024 Earnings: CEO Leena Nair Flags \"Very Challenging\" Environment",
+      "url": "https://wwd.com/business-news/financial/chanel-2024-results-ceo-leena-nair-1237799285/",
+      "publisher": "WWD",
+      "source_tier": 2,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_5e30cbfd58990689",
+      "title": "Britannica — Was Coco Chanel a Nazi Spy?",
+      "url": "https://www.britannica.com/topic/Was-Coco-Chanel-a-Nazi-Spy",
+      "publisher": "Encyclopaedia Britannica",
+      "source_tier": 2,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_3eac4afd9d9bef7a",
+      "title": "CNN — Chanel announces Matthieu Blazy as its new artistic director",
+      "url": "https://www.cnn.com/2024/12/12/style/chanel-matthieu-blazy-new-artistic-director/index.html",
+      "publisher": "CNN",
+      "source_tier": 2,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_363b5ff86b6adca3",
+      "title": "Wikipedia — Chanel",
+      "url": "https://en.wikipedia.org/wiki/Chanel",
+      "publisher": "Wikipedia",
+      "source_tier": 3,
+      "accessed_at": "2026-08-08"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_197b82a2ba5cd323",
+      "claim_id": "clm_1b215bd4bcc7d849",
+      "source_id": "src_f5e73496622d937e",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_bc3fddbc5dae832d",
+      "claim_id": "clm_1b215bd4bcc7d849",
+      "source_id": "src_363b5ff86b6adca3",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_e4ce465a5517c348",
+      "claim_id": "clm_21423bb6faba129e",
+      "source_id": "src_f5e73496622d937e",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_043e8d2e53e44268",
+      "claim_id": "clm_21423bb6faba129e",
+      "source_id": "src_363b5ff86b6adca3",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_1ccd366dc1e584c5",
+      "claim_id": "clm_4916c5540a80073f",
+      "source_id": "src_839a3b01d515ecf0",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_58dbc84e0cd5de8f",
+      "claim_id": "clm_4916c5540a80073f",
+      "source_id": "src_363b5ff86b6adca3",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_0bb06cfdf64b5dc6",
+      "claim_id": "clm_dc48ee86b53d6385",
+      "source_id": "src_5e30cbfd58990689",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_c746616bc7fe1e74",
+      "claim_id": "clm_30741fb64a2cb9ba",
+      "source_id": "src_1f9917a053d916cb",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_6938ae71f85058fd",
+      "claim_id": "clm_30741fb64a2cb9ba",
+      "source_id": "src_ce24f900a8ba84bf",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_fff6aa7c1793946c",
+      "claim_id": "clm_1bf5f972b51ae77a",
+      "source_id": "src_363b5ff86b6adca3",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_41f71c3f6e5374ce",
+      "claim_id": "clm_eb63c1194e6c43eb",
+      "source_id": "src_363b5ff86b6adca3",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_93d630b3fcc9a09f",
+      "claim_id": "clm_5dd8d1ea047b0145",
+      "source_id": "src_3eac4afd9d9bef7a",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_95f39f8f27520bc4",
+      "claim_id": "clm_310363970d332f80",
+      "source_id": "src_839a3b01d515ecf0",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_4fc7f7e159edd398",
+      "claim_id": "clm_310363970d332f80",
+      "source_id": "src_f81bc6607dd9efdb",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_4da081488c8cab82",
+      "claim_id": "clm_2e2985a1beeca604",
+      "source_id": "src_ed3a9a383658af60",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_d635e1491733e7f8",
+      "claim_id": "clm_2e2985a1beeca604",
+      "source_id": "src_f81bc6607dd9efdb",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — авторский черновик chanel_house_history.md (VANSMITHLAB OS, institutional voice), объявляющий content_type: encyclopedia и primary_object_id: org_chanel. Черновик сам содержал специфичные, но безURL-ные ссылки на источники (chanel.com, V&A, WWD, Britannica, Wikipedia) — в отличие от батчей дизайнеров/художников, здесь не потребовалось искать источники с нуля, только подтверждать и прикреплять точные URL к каждому. Раздел о военном периоде (1939-1945) сохранён в объёме, соответствующем формулировке Britannica: базовые факты (Ритц, отношения с фон Динклаге, попытка «ариизации», отсутствие обвинений) поданы как verified, оценка мотивов — как остающаяся предметом историографической дискуссии, не как единый установленный факт. Раздел о Виржини Виар (2019-2024) как переходном периоде не включён отдельным claim — только начало и конец эры Лагерфельда и последующее назначение Блази. Черновик также указывал, что материал не проходил формальный editorial review по стандартам OS и является уровня drafted, а не published; эта конверсия проводит собственную независимую проверку каждого источника перед публикацией, что и является формой такого review.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-08T00:00:00.000Z"
+  }
+}
