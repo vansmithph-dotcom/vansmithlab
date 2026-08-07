@@ -1,0 +1,35 @@
+{
+  "content_id": "cnt_48e58443b94de8e9",
+  "primary_object_id": "obj_67aacc68b8930f44",
+  "content_type": "artist_profile",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.89,
+  "claim_ids": [
+    "clm_dc995aed99c66ade",
+    "clm_706fcd16098c8294",
+    "clm_cdbe9130e0f1c38c",
+    "clm_3bbec00840024b54",
+    "clm_0c45c30372053dc3"
+  ],
+  "source_ids": [
+    "src_914de0185edf4485",
+    "src_26acac5d96b7de3b"
+  ],
+  "last_reviewed": "2026-08-08",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "francis-bacon",
+  "title": "Фрэнсис Бэкон",
+  "summary": "От прерывистого домашнего образования через переезд в Лондон в 1928 году до «Трёх этюдов фигур у подножия распятия» в 1944 году — художник, чья репутация росла три десятилетия и не остановилась после смерти.",
+  "body_hash": "6ae8db3d691d04a370a3ace02867b56bb984ada9216a25e0622f37e723591a86",
+  "hero_image": {
+    "src": "/images/glossary/artists/francis-bacon-timeline-hero-v1.svg",
+    "alt": "Хронологическая схема пути художника Francis Bacon: от рождения в Дублине в 1909 году до смерти в Мадриде в 1992 году.",
+    "caption": "Ключевые вехи пути Фрэнсиса Бэкона.",
+    "credit": "VANSMITHLAB · оригинальная редакционная диаграмма, 2026",
+    "origin": "editorial_diagram"
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "id": "obj_67aacc68b8930f44",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Фрэнсис Бэкон",
+  "slug_ru": "francis-bacon",
+  "summary_ru": "От прерывистого домашнего образования через переезд в Лондон в 1928 году до «Трёх этюдов фигур у подножия распятия» в 1944 году — художник, чья репутация росла три десятилетия и не остановилась после смерти.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.89,
+  "created_at": "2026-08-08T00:00:00.000Z",
+  "updated_at": "2026-08-08T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_dc995aed99c66ade",
+      "wording_ru": "Фрэнсис Бэкон родился 28 октября 1909 года на Лоуэр-Баггот-стрит, 63, в Дублине, вторым из пяти детей Энтони Эдварда Бэкона и Кристины Уинифред Локсли Фёрт.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Francis_Bacon_(artist)",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_706fcd16098c8294",
+      "wording_ru": "Из-за хронической астмы формальное образование было нерегулярным: домашние уроки с частным репетитором и короткое обучение в школе-интернате Dean Close (1924-1926); как художник он в основном самоучка.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.87,
+      "evidence": [
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Francis_Bacon_(artist)",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_cdbe9130e0f1c38c",
+      "wording_ru": "После скитаний по Берлину и Парижу обосновался в Лондоне в 1928 году, где сначала работал декоратором интерьеров.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.87,
+      "evidence": [
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Francis_Bacon_(artist)",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_3bbec00840024b54",
+      "wording_ru": "Получил признание в 1945 году благодаря картине «Три этюда фигур у подножия распятия» (1944), почти мгновенно принёсшей ему скандальную известность.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.89,
+      "evidence": [
+        {
+          "source_url": "https://www.tate.org.uk/art/artists/francis-bacon-682",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_0c45c30372053dc3",
+      "wording_ru": "Первая крупная ретроспектива прошла в Tate Gallery в Лондоне в 1962 году, вторая — там же в 1985-м; умер 28 апреля 1992 года в Мадриде в возрасте 82 лет.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.89,
+      "evidence": [
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Francis_Bacon_(artist)",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_914de0185edf4485",
+      "title": "Tate — Francis Bacon 1909–1992",
+      "url": "https://www.tate.org.uk/art/artists/francis-bacon-682",
+      "publisher": "Tate",
+      "source_tier": 1,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_26acac5d96b7de3b",
+      "title": "Wikipedia — Francis Bacon (artist)",
+      "url": "https://en.wikipedia.org/wiki/Francis_Bacon_(artist)",
+      "publisher": "Wikipedia",
+      "source_tier": 3,
+      "accessed_at": "2026-08-08"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_b897e9020a23b27d",
+      "claim_id": "clm_dc995aed99c66ade",
+      "source_id": "src_26acac5d96b7de3b",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_27687eec078b64ed",
+      "claim_id": "clm_706fcd16098c8294",
+      "source_id": "src_26acac5d96b7de3b",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_e3a2ed6351abfd95",
+      "claim_id": "clm_cdbe9130e0f1c38c",
+      "source_id": "src_26acac5d96b7de3b",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_e64b90153bee04e6",
+      "claim_id": "clm_3bbec00840024b54",
+      "source_id": "src_914de0185edf4485",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_82c5ce218c1bb316",
+      "claim_id": "clm_0c45c30372053dc3",
+      "source_id": "src_26acac5d96b7de3b",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — авторское research-досье (Иван Мельник, VSL_Francis_Bacon), объявляющее маршрут /ru/glossary/artists/francis-bacon. Библиография досье содержала только названия организаций без URL. Проведён независимый веб-поиск (Tate, Wikipedia). Свободно лицензированная фотография художника не найдена в отведённое время — большинство файлов на Wikimedia Commons, найденных по имени, относятся к елизаветинскому философу Фрэнсису Бэкону (1561-1626), полному тёзке; во избежание ошибочной атрибуции для героя материала использована оригинальная SVG-диаграмма вместо фотографии. Личные отношения (Питер Лейси, Джордж Дайер), техника триптиха и подробная библиография произведений не включены.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-08T00:00:00.000Z"
+  }
+}

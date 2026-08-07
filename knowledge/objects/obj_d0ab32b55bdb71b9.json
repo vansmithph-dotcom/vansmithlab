@@ -1,0 +1,132 @@
+{
+  "id": "obj_d0ab32b55bdb71b9",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Йозеф Бойс",
+  "slug_ru": "joseph-beuys",
+  "summary_ru": "От авиакатастрофы в Крыму через профессуру в Дюссельдорфской академии до формулы «каждый человек — художник» — расширение самого понятия искусства до социальной скульптуры.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.89,
+  "created_at": "2026-08-08T00:00:00.000Z",
+  "updated_at": "2026-08-08T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_87a61637b6eb3fb9",
+      "wording_ru": "Йозеф Бойс родился 12 мая 1921 года в Крефельде, Германия, и умер 23 января 1986 года в Дюссельдорфе; детство провёл в Клеве, у голландской границы.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Joseph-Beuys",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_b7da6bf9a282c4d8",
+      "wording_ru": "Служил в люфтваффе во время Второй мировой войны; в 1943 году его самолёт разбился в заснеженном Крыму, и спасшие его люди пытались согреть тело жиром и войлоком — материалами, ставшими позже повторяющимися мотивами его скульптур.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.89,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Joseph-Beuys",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_796bf08242d8ff32",
+      "wording_ru": "С 1947 по 1951 год изучал искусство в Дюссельдорфе, а в 1961 году был назначен профессором скульптуры в Staatliche Kunstakademie в Дюссельдорфе.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.89,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Joseph-Beuys",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_3fee17b4e27d001c",
+      "wording_ru": "Развил концепцию «расширенного понимания искусства» и идею социальной скульптуры как совокупного произведения (Gesamtkunstwerk), сформулированную во фразе «каждый человек — художник».",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.88,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Joseph-Beuys",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_aaca18e129567cd7",
+      "title": "Britannica — Joseph Beuys",
+      "url": "https://www.britannica.com/biography/Joseph-Beuys",
+      "publisher": "Encyclopaedia Britannica",
+      "source_tier": 2,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_1cb39177653b02b0",
+      "title": "Wikipedia — Joseph Beuys",
+      "url": "https://en.wikipedia.org/wiki/Joseph_Beuys",
+      "publisher": "Wikipedia",
+      "source_tier": 3,
+      "accessed_at": "2026-08-08"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_98c531fdb63426e4",
+      "claim_id": "clm_87a61637b6eb3fb9",
+      "source_id": "src_aaca18e129567cd7",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_05c0df427c99e1d3",
+      "claim_id": "clm_b7da6bf9a282c4d8",
+      "source_id": "src_aaca18e129567cd7",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_ce793d2f029d70dd",
+      "claim_id": "clm_796bf08242d8ff32",
+      "source_id": "src_aaca18e129567cd7",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_85e6793a13e8da2f",
+      "claim_id": "clm_3fee17b4e27d001c",
+      "source_id": "src_aaca18e129567cd7",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — авторское research-досье (Иван Мельник, VSL_Joseph_Beuys), объявляющее маршрут /ru/glossary/artists/joseph-beuys. Библиография досье содержала только названия организаций без URL. Проведён независимый веб-поиск (Britannica, Wikipedia). История о спасении в Крыму широко цитируется в источниках, но сам Бойс подавал её как личный миф, а не строго документированный факт — это уточнение сохранено в тексте намеренно. Перформансы (в том числе «Как объяснить картины мёртвому зайцу») и участие в основании партии зелёных не включены.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-08T00:00:00.000Z"
+  }
+}
