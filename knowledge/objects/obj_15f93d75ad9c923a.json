@@ -1,0 +1,166 @@
+{
+  "id": "obj_15f93d75ad9c923a",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "И. М. Пей",
+  "slug_ru": "im-pei",
+  "summary_ru": "От MIT и Гарварда через I.M. Pei & Partners до East Building Национальной галереи и стеклянной пирамиды Лувра — архитектор институционального модернизма и Притцкеровский лауреат 1983 года.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.91,
+  "created_at": "2026-08-08T00:00:00.000Z",
+  "updated_at": "2026-08-08T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_01f2d30a7f8369d3",
+      "wording_ru": "И. М. Пей родился в Кантоне (Гуанчжоу), Китай, в 1917 году и переехал в США в 1935 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.93,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-im-pei",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_5308ded7ee46a52f",
+      "wording_ru": "Получил степень бакалавра архитектуры в MIT в 1940 году и степень магистра архитектуры в Harvard Graduate School of Design в 1946 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.93,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-im-pei",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_8d6e53c427a00258",
+      "wording_ru": "В 1955 году основал практику I.M. Pei & Associates, преобразованную в 1966 году в I.M. Pei & Partners.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-im-pei",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_fa2dd4ed1f835abc",
+      "wording_ru": "Среди наиболее известных проектов — East Building Национальной галереи искусства в Вашингтоне (1978) и стеклянная пирамида — новый главный вход Лувра в Париже.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.94,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-im-pei",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://en.wikipedia.org/wiki/I._M._Pei",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_741840c1291a8643",
+      "wording_ru": "В 1983 году Пей стал лауреатом Притцкеровской премии.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.96,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-im-pei",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_a19224a71401824e",
+      "title": "The Pritzker Architecture Prize — Biography: I.M. Pei",
+      "url": "https://www.pritzkerprize.com/biography-im-pei",
+      "publisher": "The Pritzker Architecture Prize",
+      "source_tier": 1,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_b5230531b9456bd4",
+      "title": "Wikipedia — I. M. Pei",
+      "url": "https://en.wikipedia.org/wiki/I._M._Pei",
+      "publisher": "Wikipedia",
+      "source_tier": 3,
+      "accessed_at": "2026-08-08"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_4334a1bc91347a63",
+      "claim_id": "clm_01f2d30a7f8369d3",
+      "source_id": "src_a19224a71401824e",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_39fab405cfcb6417",
+      "claim_id": "clm_5308ded7ee46a52f",
+      "source_id": "src_a19224a71401824e",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_9f6e8a71cfb37186",
+      "claim_id": "clm_8d6e53c427a00258",
+      "source_id": "src_a19224a71401824e",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_568f47bc5480f658",
+      "claim_id": "clm_fa2dd4ed1f835abc",
+      "source_id": "src_a19224a71401824e",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_f13f76c9285cd703",
+      "claim_id": "clm_fa2dd4ed1f835abc",
+      "source_id": "src_b5230531b9456bd4",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_e7eda019d3e0867e",
+      "claim_id": "clm_741840c1291a8643",
+      "source_id": "src_a19224a71401824e",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — авторское research-досье (Иван Мельник, VSL_IM_Pei). Библиография не содержала URL. Проведён независимый веб-поиск (Pritzker Architecture Prize, Wikipedia). Ранняя работа в Webb & Knapp и полная библиография построенных объектов не вошли в эту редакцию.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-08T00:00:00.000Z"
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "id": "obj_fcf2f294a7ff9d57",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Ренцо Пиано",
+  "slug_ru": "renzo-piano",
+  "summary_ru": "От семьи генуэзских строителей и работы у Луиса Кана до Centre Georges Pompidou и Renzo Piano Building Workshop — Притцкеровский лауреат 1998 года, соединивший инженерию и архитектуру.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.9,
+  "created_at": "2026-08-08T00:00:00.000Z",
+  "updated_at": "2026-08-08T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_e1e6b79a7a45b3cd",
+      "wording_ru": "Ренцо Пиано родился в Генуе в 1937 году в семье строителей.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-renzo-piano",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_0a63bb0468a72f24",
+      "wording_ru": "Окончил архитектурную школу Миланского политехнического института в 1964 году, после чего работал в строительной компании отца, а также в мастерских Луиса Кана в Филадельфии и З. С. Маковски в Лондоне.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-renzo-piano",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_5c05e20e8102668d",
+      "wording_ru": "Получил известность благодаря спорному в момент постройки проекту Centre Georges Pompidou в центре Парижа, завершённому в 1978 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-renzo-piano",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_e023aad8e13baca1",
+      "wording_ru": "В 1980 году основал Renzo Piano Building Workshop — практику с офисами в Париже, Генуе и Берлине.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.91,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-renzo-piano",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_e42cde253d904f93",
+      "wording_ru": "В 1998 году Пиано стал лауреатом Притцкеровской премии.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.96,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-renzo-piano",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_831d679835c215e5",
+      "title": "The Pritzker Architecture Prize — Biography: Renzo Piano",
+      "url": "https://www.pritzkerprize.com/biography-renzo-piano",
+      "publisher": "The Pritzker Architecture Prize",
+      "source_tier": 1,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_a0bd5ea3dc8b2390",
+      "title": "Wikipedia — Renzo Piano",
+      "url": "https://en.wikipedia.org/wiki/Renzo_Piano",
+      "publisher": "Wikipedia",
+      "source_tier": 3,
+      "accessed_at": "2026-08-08"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_4f4e7f3c4b53c415",
+      "claim_id": "clm_e1e6b79a7a45b3cd",
+      "source_id": "src_831d679835c215e5",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_90c6f75d2b61ee50",
+      "claim_id": "clm_0a63bb0468a72f24",
+      "source_id": "src_831d679835c215e5",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_4eabd51b770343e6",
+      "claim_id": "clm_5c05e20e8102668d",
+      "source_id": "src_831d679835c215e5",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_2022bf55db805f6e",
+      "claim_id": "clm_e023aad8e13baca1",
+      "source_id": "src_831d679835c215e5",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_ec46fecbf217c7a6",
+      "claim_id": "clm_e42cde253d904f93",
+      "source_id": "src_831d679835c215e5",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — авторское research-досье (Иван Мельник, VSL_Renzo_Piano). Библиография не содержала URL. Проведён независимый веб-поиск (Pritzker Architecture Prize, Wikipedia). Соавторство Ричарда Роджерса в проекте Centre Pompidou не включено как отдельный citation в эту редакцию — общеизвестный факт, но не подтверждённый напрямую в проверенных в это время источниках; будет добавлено при расширении материала.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-08T00:00:00.000Z"
+  }
+}

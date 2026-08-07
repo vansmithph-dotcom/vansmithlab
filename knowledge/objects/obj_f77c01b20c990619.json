@@ -1,0 +1,254 @@
+{
+  "id": "obj_f77c01b20c990619",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Норман Фостер",
+  "slug_ru": "norman-foster",
+  "summary_ru": "От Team 4 и Foster Associates до HSBC, Рейхстага и Притцкеровской премии 1999 года — архитектор, соединивший инженерию, свет и маршрут человека в единую проектную систему.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.9,
+  "created_at": "2026-08-08T00:00:00.000Z",
+  "updated_at": "2026-08-08T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_39212e10d6223827",
+      "wording_ru": "Норман Фостер родился 1 июня 1935 года в Манчестере.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.95,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-norman-foster",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Norman_Foster",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_67f4b8db214ed87d",
+      "wording_ru": "Окончил школу архитектуры и градостроительства Манчестерского университета в 1961 году, затем получил стипендию Henry Fellowship и степень магистра архитектуры в Йельском университете.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-norman-foster",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.britannica.com/biography/Lord-Norman-Foster",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_2048ea8716cadd8c",
+      "wording_ru": "В 1963 году вместе с Ричардом Роджерсом, Уэнди Чизмен и Су Брамвелл основал архитектурную практику Team 4.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.88,
+      "evidence": [
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Norman_Foster",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_8cd6cac8be9baf50",
+      "wording_ru": "После распада Team 4 в 1967 году Фостер основал собственную практику Foster Associates в Лондоне, позднее переименованную в Foster + Partners.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.93,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-norman-foster",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Norman_Foster",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_08cbc3d9a241981f",
+      "wording_ru": "Среди ключевых проектов практики — Willis Faber and Dumas, Sainsbury Centre for Visual Arts, здание Hongkong and Shanghai Bank, реконструкция Рейхстага в Берлине, аэропорт Chek Lap Kok в Гонконге и штаб-квартира Commerzbank во Франкфурте.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-norman-foster",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_32a094cb9bafd14e",
+      "wording_ru": "В 1999 году Фостер стал 21-м лауреатом Притцкеровской премии.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.96,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-norman-foster",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_aa111beb7e4a9afc",
+      "wording_ru": "В 1990 году Фостер был посвящён в рыцари, а в 1999 году получил пожизненное пэрство, став бароном Фостером Темзенским.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-norman-foster",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Norman_Foster",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_19fd50b01f604970",
+      "title": "The Pritzker Architecture Prize — Biography: Norman Foster",
+      "url": "https://www.pritzkerprize.com/biography-norman-foster",
+      "publisher": "The Pritzker Architecture Prize",
+      "source_tier": 1,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_b6d6a7bc34468165",
+      "title": "Wikipedia — Norman Foster",
+      "url": "https://en.wikipedia.org/wiki/Norman_Foster",
+      "publisher": "Wikipedia",
+      "source_tier": 3,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_eaa56d74a0de1cb2",
+      "title": "Britannica — Norman Foster",
+      "url": "https://www.britannica.com/biography/Lord-Norman-Foster",
+      "publisher": "Encyclopaedia Britannica",
+      "source_tier": 2,
+      "accessed_at": "2026-08-08"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_988810abc9b33478",
+      "claim_id": "clm_39212e10d6223827",
+      "source_id": "src_19fd50b01f604970",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_579435a5ea8b8687",
+      "claim_id": "clm_39212e10d6223827",
+      "source_id": "src_b6d6a7bc34468165",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_60687302c2d42888",
+      "claim_id": "clm_67f4b8db214ed87d",
+      "source_id": "src_19fd50b01f604970",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_c9cc108cc80f5d70",
+      "claim_id": "clm_67f4b8db214ed87d",
+      "source_id": "src_eaa56d74a0de1cb2",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_96eb3236a3c3639b",
+      "claim_id": "clm_2048ea8716cadd8c",
+      "source_id": "src_b6d6a7bc34468165",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_1eb099988f8c78af",
+      "claim_id": "clm_8cd6cac8be9baf50",
+      "source_id": "src_19fd50b01f604970",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_b8c7c9f7c17eeced",
+      "claim_id": "clm_8cd6cac8be9baf50",
+      "source_id": "src_b6d6a7bc34468165",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_f7e7431546352461",
+      "claim_id": "clm_08cbc3d9a241981f",
+      "source_id": "src_19fd50b01f604970",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_12ce5fc68dd82591",
+      "claim_id": "clm_32a094cb9bafd14e",
+      "source_id": "src_19fd50b01f604970",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_6a903ea1fd55c758",
+      "claim_id": "clm_aa111beb7e4a9afc",
+      "source_id": "src_19fd50b01f604970",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_31073cecd3b6469f",
+      "claim_id": "clm_aa111beb7e4a9afc",
+      "source_id": "src_b6d6a7bc34468165",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — авторское research-досье (Иван Мельник, VSL_Norman_Foster). Библиография досье не содержала URL. Проведён независимый веб-поиск для подтверждения биографических вех реальными источниками (Pritzker Architecture Prize, Wikipedia, Britannica). Текущая операционная роль в Foster + Partners, экологические показатели поздних проектов и вклад инженерных партнёров не вошли в эту редакцию — не удалось найти для них отдельный надёжный источник в отведённое время.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-08T00:00:00.000Z"
+  }
+}
