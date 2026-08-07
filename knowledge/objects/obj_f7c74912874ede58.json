@@ -1,0 +1,132 @@
+{
+  "id": "obj_f7c74912874ede58",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Луиз Буржуа",
+  "slug_ru": "louise-bourgeois",
+  "summary_ru": "От мастерской по реставрации гобеленов в Париже через переезд в Нью-Йорк в 1938 году до первой персональной ретроспективы женщины в MoMA — скульптор, которой было 70 лет на момент институционального признания.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.9,
+  "created_at": "2026-08-08T00:00:00.000Z",
+  "updated_at": "2026-08-08T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_08bd03bd6b53f7ef",
+      "wording_ru": "Луиз Жозефин Буржуа родилась 25 декабря 1911 года в Париже, Франция, и умерла 31 мая 2010 года в Нью-Йорке.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Louise_Bourgeois",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_b441e6aea613a670",
+      "wording_ru": "Выросла в семье, владевшей мастерской по реставрации гобеленов, и с детства помогала в мастерской, дорисовывая недостающие фрагменты сцен на гобеленах.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.88,
+      "evidence": [
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Louise_Bourgeois",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_51dbea22d3963c2d",
+      "wording_ru": "В Париже познакомилась с американским историком искусства Робертом Голдуотером; они поженились и в 1938 году переехали в Нью-Йорк, где вырастили троих сыновей.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.89,
+      "evidence": [
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Louise_Bourgeois",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_e4c3d4f19e7e1ee7",
+      "wording_ru": "В 1982 году, в возрасте 70 лет, получила персональную ретроспективу в MoMA — первую в истории музея ретроспективу, посвящённую женщине-художнику.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.91,
+      "evidence": [
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Louise_Bourgeois",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_6c2a7503ef874920",
+      "title": "MoMA — Louise Bourgeois",
+      "url": "https://www.moma.org/artists/710-louise-bourgeois",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 1,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_01cec6a20f4a6850",
+      "title": "Wikipedia — Louise Bourgeois",
+      "url": "https://en.wikipedia.org/wiki/Louise_Bourgeois",
+      "publisher": "Wikipedia",
+      "source_tier": 3,
+      "accessed_at": "2026-08-08"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_fd75da6d54741fca",
+      "claim_id": "clm_08bd03bd6b53f7ef",
+      "source_id": "src_01cec6a20f4a6850",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_549c67029bf3863b",
+      "claim_id": "clm_b441e6aea613a670",
+      "source_id": "src_01cec6a20f4a6850",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_30c59a514f7abaa3",
+      "claim_id": "clm_51dbea22d3963c2d",
+      "source_id": "src_01cec6a20f4a6850",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_4fa107dec0c54b3b",
+      "claim_id": "clm_e4c3d4f19e7e1ee7",
+      "source_id": "src_01cec6a20f4a6850",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — авторское research-досье (Иван Мельник, VSL_Louise_Bourgeois). Библиография не содержала URL. Проведён независимый веб-поиск (MoMA, Wikipedia). Материал намеренно ограничен происхождением и институциональным признанием: скульптуры «Maman» (гигантские пауки), тема материнства и травмы в её работах и подробная библиография произведений не включены. Изображения произведений Буржуа защищены авторским правом и не используются в этом материале.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-08T00:00:00.000Z"
+  }
+}

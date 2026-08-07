@@ -1,0 +1,132 @@
+{
+  "id": "obj_122277319b93f614",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Сальвадор Дали",
+  "slug_ru": "salvador-dali",
+  "summary_ru": "От Академии Сан-Фернандо в Мадриде через дружбу с Лоркой и Бунюэлем до «Постоянства памяти» — художник, сделавший сюрреализм узнаваемым по одному образу растекающихся часов.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.9,
+  "created_at": "2026-08-08T00:00:00.000Z",
+  "updated_at": "2026-08-08T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_ed241c50904b9ae6",
+      "wording_ru": "Сальвадор Дали родился 11 мая 1904 года в Фигерасе, Испания, в семье нотариуса Сальвадора Дали Кузи и Фелипы Доменек Феррес; умер 23 января 1989 года там же, в Фигерасе.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.91,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Salvador-Dali",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_b68b3fc623c00804",
+      "wording_ru": "Учился в Академии Сан-Фернандо в Мадриде, где подружился с Федерико Гарсиа Лоркой и Луисом Бунюэлем.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.89,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Salvador-Dali",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_238939131e6e2f14",
+      "wording_ru": "Наиболее известная картина — «Постоянство памяти» (1931) с изображением растекающихся часов.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Salvador-Dali",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_18fd95426b1c46d7",
+      "wording_ru": "В 1974 году в родном Фигерасе открылся Театр-музей Дали, созданный самим художником на основе собственной коллекции; Дали был похоронен под сценой музея после смерти в 1989 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.89,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Salvador-Dali",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_a29aa902f24bf7f9",
+      "title": "Tate — Salvador Dalí 1904–1989",
+      "url": "https://www.tate.org.uk/art/artists/salvador-dali-971",
+      "publisher": "Tate",
+      "source_tier": 1,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_2d1331d4f94f77aa",
+      "title": "Britannica — Salvador Dalí",
+      "url": "https://www.britannica.com/biography/Salvador-Dali",
+      "publisher": "Encyclopaedia Britannica",
+      "source_tier": 2,
+      "accessed_at": "2026-08-08"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_427d27389d24c08c",
+      "claim_id": "clm_ed241c50904b9ae6",
+      "source_id": "src_2d1331d4f94f77aa",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_276d3a0f105c506a",
+      "claim_id": "clm_b68b3fc623c00804",
+      "source_id": "src_2d1331d4f94f77aa",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_768192d5b20a0a3e",
+      "claim_id": "clm_238939131e6e2f14",
+      "source_id": "src_2d1331d4f94f77aa",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_54fd15ba2482a4bf",
+      "claim_id": "clm_18fd95426b1c46d7",
+      "source_id": "src_2d1331d4f94f77aa",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — авторское research-досье (Иван Мельник, VSL_Salvador_Dali), объявляющее маршрут /ru/glossary/artists/salvador-dali. Библиография досье содержала только названия организаций без URL. Проведён независимый веб-поиск (Tate, Britannica). Материал намеренно ограничен происхождением, образованием и главной картиной: киноработы с Бунюэлем, коммерческая деятельность 1960-1970-х и подробная библиография произведений не включены. Изображения произведений Дали защищены авторским правом и не используются в этом материале.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-08T00:00:00.000Z"
+  }
+}
