@@ -45,8 +45,9 @@ by the product owner before any code was written, rather than picked unilaterall
 
 ## Follow-up (not blocking this batch)
 
-- Main site nav currently has no top-level link to `/glossary/designers`; it is reachable via the
-  Glossary page context, direct links, and the sitemap. Add a nav/cross-link if the collection
-  grows and warrants top-level discovery.
+- ~~Main site nav currently has no top-level link to `/glossary/designers`~~ — resolved 2026-08-07:
+  `lib/site-data.ts`'s `nav` array now includes a "Дизайнеры" / "Designers" entry
+  (`/glossary/designers`) in both locales, rendered by `SiteHeader.tsx`. The collection had grown
+  to 12 profiles with no menu path to it.
 - `lib/site-data.ts`'s pre-existing "Дизайнеры и авторы" Encyclopedia placeholder item now points
   nowhere real; consider removing or repointing it to `/glossary/designers` in a follow-up pass.
