@@ -1,0 +1,144 @@
+{
+  "id": "obj_ec1f1399d1d18495",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Фрай Отто",
+  "slug_ru": "frei-otto",
+  "summary_ru": "От увлечения планерами через каменотёсное ученичество до пионерских тканевых и мембранных конструкций — Притцкеровский лауреат 2015 года, полученный незадолго до смерти.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.9,
+  "created_at": "2026-08-08T00:00:00.000Z",
+  "updated_at": "2026-08-08T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_3694c5c71d6d8c70",
+      "wording_ru": "Фрай Отто родился в Зигмаре, Германия, 31 мая 1925 года и вырос в Берлине; его отец и дед были скульпторами.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-frei-otto",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_d714712088441426",
+      "wording_ru": "Увлечение проектированием и полётами на планерах в юности определило его интерес к тому, как тонкие мембраны, натянутые на лёгкий каркас, реагируют на аэродинамические и структурные силы.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.88,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-frei-otto",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_aeef4e86768db6a7",
+      "wording_ru": "Стал всемирно признанным новатором в области архитектуры и инженерии, впервые применившим современные тканевые кровли над тентовыми конструкциями, а также работавшим с сетчатыми оболочками, бамбуком и деревянными решётками.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.89,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-frei-otto",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_2317be6f659dbb3a",
+      "wording_ru": "В 2015 году получил Притцкеровскую премию, незадолго до смерти; в 2006 году также был удостоен Королевской золотой медали RIBA.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-frei-otto",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Frei_Otto",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_146cdf93e06fdb2e",
+      "title": "The Pritzker Architecture Prize — Biography: Frei Otto",
+      "url": "https://www.pritzkerprize.com/biography-frei-otto",
+      "publisher": "The Pritzker Architecture Prize",
+      "source_tier": 1,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_5060b19c1ffb1515",
+      "title": "Wikipedia — Frei Otto",
+      "url": "https://en.wikipedia.org/wiki/Frei_Otto",
+      "publisher": "Wikipedia",
+      "source_tier": 3,
+      "accessed_at": "2026-08-08"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_ea39e61776a39be5",
+      "claim_id": "clm_3694c5c71d6d8c70",
+      "source_id": "src_146cdf93e06fdb2e",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_ccda9ca23a55b5c9",
+      "claim_id": "clm_d714712088441426",
+      "source_id": "src_146cdf93e06fdb2e",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_5f6826996eab70f1",
+      "claim_id": "clm_aeef4e86768db6a7",
+      "source_id": "src_146cdf93e06fdb2e",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_de289e65955bdad8",
+      "claim_id": "clm_2317be6f659dbb3a",
+      "source_id": "src_146cdf93e06fdb2e",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_acfccb0c17191641",
+      "claim_id": "clm_2317be6f659dbb3a",
+      "source_id": "src_5060b19c1ffb1515",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — авторское research-досье (Иван Мельник, VSL_Frei_Otto). Библиография не содержала URL. Проведён независимый веб-поиск (Pritzker Architecture Prize, Wikipedia). Подробная библиография построенных объектов (Олимпийский стадион в Мюнхене) не включена.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-08T00:00:00.000Z"
+  }
+}

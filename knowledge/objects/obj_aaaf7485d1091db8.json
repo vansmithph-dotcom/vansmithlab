@@ -1,0 +1,144 @@
+{
+  "id": "obj_aaaf7485d1091db8",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Балкришна Доши",
+  "slug_ru": "balkrishna-doshi",
+  "summary_ru": "От семьи мебельщиков в Пуне через работу с Ле Корбюзье и Луисом Каном до статуса первого индийского Притцкеровского лауреата (2018) — архитектура как продолжение тела.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.9,
+  "created_at": "2026-08-08T00:00:00.000Z",
+  "updated_at": "2026-08-08T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_1898c837c1e1e6a7",
+      "wording_ru": "Балкришна Доши родился в 1927 году в Пуне, Индия, в расширенной индуистской семье, несколько поколений которой были связаны с мебельным производством.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/laureates/balkrishna-doshi",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://en.wikipedia.org/wiki/B._V._Doshi",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_2df6f7ad88079d21",
+      "wording_ru": "На его архитектурный метод оказали влияние Ле Корбюзье и Луис Кан, с которыми Доши работал напрямую.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/laureates/balkrishna-doshi",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_e2e20c19bfc310b5",
+      "wording_ru": "В 2018 году стал лауреатом Притцкеровской премии — первым представителем Индии, получившим эту награду; за плечами к тому моменту было 70 лет практики архитектора, градостроителя и педагога.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.93,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/laureates/balkrishna-doshi",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_4d0d53eccfe4e27c",
+      "wording_ru": "Балкришна Доши умер в 2023 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.88,
+      "evidence": [
+        {
+          "source_url": "https://en.wikipedia.org/wiki/B._V._Doshi",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_20a83e1b01d7e557",
+      "title": "The Pritzker Architecture Prize — Biography: Balkrishna Doshi",
+      "url": "https://www.pritzkerprize.com/laureates/balkrishna-doshi",
+      "publisher": "The Pritzker Architecture Prize",
+      "source_tier": 1,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_b9a07449bb370b84",
+      "title": "Wikipedia — B. V. Doshi",
+      "url": "https://en.wikipedia.org/wiki/B._V._Doshi",
+      "publisher": "Wikipedia",
+      "source_tier": 3,
+      "accessed_at": "2026-08-08"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_bbab77ea0d5e058a",
+      "claim_id": "clm_1898c837c1e1e6a7",
+      "source_id": "src_20a83e1b01d7e557",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_98a184995bf441f1",
+      "claim_id": "clm_1898c837c1e1e6a7",
+      "source_id": "src_b9a07449bb370b84",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_5a9dd98c9154870e",
+      "claim_id": "clm_2df6f7ad88079d21",
+      "source_id": "src_20a83e1b01d7e557",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_2f807ffa64c33c34",
+      "claim_id": "clm_e2e20c19bfc310b5",
+      "source_id": "src_20a83e1b01d7e557",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_48ce4eddf6e2c4ab",
+      "claim_id": "clm_4d0d53eccfe4e27c",
+      "source_id": "src_b9a07449bb370b84",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — авторское research-досье (Иван Мельник, VSL_Balkrishna_Doshi). Библиография не содержала URL. Проведён независимый веб-поиск (Pritzker Architecture Prize, Wikipedia). Подробная библиография построенных объектов (Sangath, CEPT University, Aranya Low Cost Housing) не включена.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-08T00:00:00.000Z"
+  }
+}
