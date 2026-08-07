@@ -1,0 +1,166 @@
+{
+  "id": "obj_a812b36a86f85854",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Гленн Маркатт",
+  "slug_ru": "glenn-murcutt",
+  "summary_ru": "От детства в Новой Гвинее через University of New South Wales до практики архитектора-одиночки, спроектировавшего сотни экологичных домов, — Притцкеровский лауреат 2002 года.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.9,
+  "created_at": "2026-08-08T00:00:00.000Z",
+  "updated_at": "2026-08-08T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_7861e691a3489ad3",
+      "wording_ru": "Гленн Маркатт, сын австралийских родителей, родился в Лондоне в 1936 году и вырос в округе Моробе на Новой Гвинее, где сформировался его интерес к простой, примитивной архитектуре.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-glenn-murcutt",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_d52f2297c6559af3",
+      "wording_ru": "Отец познакомил его с архитектурой Людвига Мис ван дер Роэ и философией Генри Дэвида Торо — оба этих влияния определили его дальнейший метод.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.87,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-glenn-murcutt",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_0ae479a8c5cb44cc",
+      "wording_ru": "Окончил University of New South Wales в 1961 году со степенью по архитектуре, а с 1964 года пять лет работал в бюро Ancher, Mortlock, Murray and Woolley в Сиднее.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.89,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-glenn-murcutt",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_421a2a9e101d85c3",
+      "wording_ru": "В 1970 году основал собственную практику, работая архитектором-одиночкой и специализируясь на экологически чувствительных модернистских домах с выраженным австралийским характером.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-glenn-murcutt",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_adb6d7e98a52181d",
+      "wording_ru": "В 2002 году стал лауреатом Притцкеровской премии.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.93,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-glenn-murcutt",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Glenn_Murcutt",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_034c879bd1e79572",
+      "title": "The Pritzker Architecture Prize — Biography: Glenn Murcutt",
+      "url": "https://www.pritzkerprize.com/biography-glenn-murcutt",
+      "publisher": "The Pritzker Architecture Prize",
+      "source_tier": 1,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_e2a85cf4095c7dee",
+      "title": "Wikipedia — Glenn Murcutt",
+      "url": "https://en.wikipedia.org/wiki/Glenn_Murcutt",
+      "publisher": "Wikipedia",
+      "source_tier": 3,
+      "accessed_at": "2026-08-08"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_c9626b36bef5193d",
+      "claim_id": "clm_7861e691a3489ad3",
+      "source_id": "src_034c879bd1e79572",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_9b876cf904c93cd5",
+      "claim_id": "clm_d52f2297c6559af3",
+      "source_id": "src_034c879bd1e79572",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_f5c770d0f60a2055",
+      "claim_id": "clm_0ae479a8c5cb44cc",
+      "source_id": "src_034c879bd1e79572",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_caf6febbfb58a05d",
+      "claim_id": "clm_421a2a9e101d85c3",
+      "source_id": "src_034c879bd1e79572",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_f432bde7e1b58d49",
+      "claim_id": "clm_adb6d7e98a52181d",
+      "source_id": "src_034c879bd1e79572",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_225cb28ff099c270",
+      "claim_id": "clm_adb6d7e98a52181d",
+      "source_id": "src_e2a85cf4095c7dee",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — авторское research-досье (Иван Мельник, VSL_Glenn_Murcutt). Библиография не содержала URL. Проведён независимый веб-поиск (Pritzker Architecture Prize, Wikipedia). Подробная библиография построенных домов не включена.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-08T00:00:00.000Z"
+  }
+}
