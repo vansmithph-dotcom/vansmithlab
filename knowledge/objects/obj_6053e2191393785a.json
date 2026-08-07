@@ -1,0 +1,166 @@
+{
+  "id": "obj_6053e2191393785a",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Кэндзо Тангэ",
+  "slug_ru": "kenzo-tange",
+  "summary_ru": "От вдохновения Ле Корбюзье через восстановление Хиросимы до лаборатории в Токийском университете, воспитавшей поколение японских архитекторов, — Притцкеровский лауреат 1987 года.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.9,
+  "created_at": "2026-08-08T00:00:00.000Z",
+  "updated_at": "2026-08-08T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_9979fbcf79833c4c",
+      "wording_ru": "Кэндзо Тангэ родился в Осаке, Япония, в 1913 году и вырос в городе Имабари на острове Сикоку.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-kenzo-tange",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_afbfc8b72bc2e2a1",
+      "wording_ru": "Под впечатлением от работ Ле Корбюзье в 1935 году поступил на архитектурный факультет Токийского университета.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.89,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-kenzo-tange",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_888c40b9a3e5a066",
+      "wording_ru": "В 1946 году стал доцентом Токийского университета и организовал лабораторию Тангэ, среди учеников которой были Фумихико Маки, Кодзи Камия, Арата Исодзаки, Кисё Курокава и Танэо Оки.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-kenzo-tange",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_cb7d67a6442f68f8",
+      "wording_ru": "Руководил восстановлением Хиросимы после Второй мировой войны; заложенный в 1946 году Мемориальный парк мира стал символом города.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-kenzo-tange",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_787de58f1819bd19",
+      "wording_ru": "В 1987 году стал лауреатом Притцкеровской премии; умер в 2005 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-kenzo-tange",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Kenz%C5%8D_Tange",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_9e476a891c88b39b",
+      "title": "The Pritzker Architecture Prize — Biography: Kenzo Tange",
+      "url": "https://www.pritzkerprize.com/biography-kenzo-tange",
+      "publisher": "The Pritzker Architecture Prize",
+      "source_tier": 1,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_1d3b5b3f12bec9eb",
+      "title": "Wikipedia — Kenzō Tange",
+      "url": "https://en.wikipedia.org/wiki/Kenz%C5%8D_Tange",
+      "publisher": "Wikipedia",
+      "source_tier": 3,
+      "accessed_at": "2026-08-08"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_e4753f2ddcb27757",
+      "claim_id": "clm_9979fbcf79833c4c",
+      "source_id": "src_9e476a891c88b39b",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_afac88fffe4eb486",
+      "claim_id": "clm_afbfc8b72bc2e2a1",
+      "source_id": "src_9e476a891c88b39b",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_87d37590aff2251f",
+      "claim_id": "clm_888c40b9a3e5a066",
+      "source_id": "src_9e476a891c88b39b",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_cfd4ead352483b28",
+      "claim_id": "clm_cb7d67a6442f68f8",
+      "source_id": "src_9e476a891c88b39b",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_8d552922acf9bbc8",
+      "claim_id": "clm_787de58f1819bd19",
+      "source_id": "src_9e476a891c88b39b",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_7f1b8d5241babc75",
+      "claim_id": "clm_787de58f1819bd19",
+      "source_id": "src_1d3b5b3f12bec9eb",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — авторское research-досье (Иван Мельник, VSL_Kenzo_Tange). Библиография не содержала URL. Проведён независимый веб-поиск (Pritzker Architecture Prize, Wikipedia). Подробная библиография построенных объектов не включена.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-08T00:00:00.000Z"
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "id": "obj_93f46e65394f3527",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Арата Исодзаки",
+  "slug_ru": "arata-isozaki",
+  "summary_ru": "От ученичества у Кэндзо Тангэ через собственную практику с 1963 года до статуса первого архитектора, выстроившего долгосрочный мост между Востоком и Западом, — Притцкеровский лауреат 2019 года.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.9,
+  "created_at": "2026-08-08T00:00:00.000Z",
+  "updated_at": "2026-08-08T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_ac1fd5020f82cd6f",
+      "wording_ru": "Арата Исодзаки родился в 1931 году в Оите на острове Кюсю, Япония; ему было 14 лет, когда были атомно разбомблены Хиросима и Нагасаки — событие, повлиявшее на его подход к архитектуре.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/laureates/arata-isozaki",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Arata_Isozaki",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_bad7e080b4dcbd7d",
+      "wording_ru": "Окончил архитектурный факультет инженерного отделения Токийского университета в 1954 году и начал карьеру ассистентом у Притцкеровского лауреата 1987 года Кэндзо Тангэ.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.91,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/laureates/arata-isozaki",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_a58ee3a5523cfcd5",
+      "wording_ru": "В 1963 году основал собственную практику Arata Isozaki & Associates.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/laureates/arata-isozaki",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Arata_Isozaki",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_fef46080d969d838",
+      "wording_ru": "В 2019 году стал 46-м лауреатом Притцкеровской премии — девятым лауреатом из Японии.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.93,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/laureates/arata-isozaki",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_e98fe2c3a77f6568",
+      "title": "The Pritzker Architecture Prize — Biography: Arata Isozaki",
+      "url": "https://www.pritzkerprize.com/laureates/arata-isozaki",
+      "publisher": "The Pritzker Architecture Prize",
+      "source_tier": 1,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_6d8df0b0639ed126",
+      "title": "Wikipedia — Arata Isozaki",
+      "url": "https://en.wikipedia.org/wiki/Arata_Isozaki",
+      "publisher": "Wikipedia",
+      "source_tier": 3,
+      "accessed_at": "2026-08-08"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_1ab34ae0e24b8bfb",
+      "claim_id": "clm_ac1fd5020f82cd6f",
+      "source_id": "src_e98fe2c3a77f6568",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_0d64c01b7f184626",
+      "claim_id": "clm_ac1fd5020f82cd6f",
+      "source_id": "src_6d8df0b0639ed126",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_ba9b8711df11c7a1",
+      "claim_id": "clm_bad7e080b4dcbd7d",
+      "source_id": "src_e98fe2c3a77f6568",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_6949f47cc4c90e5a",
+      "claim_id": "clm_a58ee3a5523cfcd5",
+      "source_id": "src_e98fe2c3a77f6568",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_a4dd97ef6da3a9a5",
+      "claim_id": "clm_a58ee3a5523cfcd5",
+      "source_id": "src_6d8df0b0639ed126",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_fbf5292781e52fa6",
+      "claim_id": "clm_fef46080d969d838",
+      "source_id": "src_e98fe2c3a77f6568",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — авторское research-досье (Иван Мельник, VSL_Arata_Isozaki). Библиография не содержала URL. Проведён независимый веб-поиск (Pritzker Architecture Prize, Wikipedia). Подробная библиография построенных объектов не включена.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-08T00:00:00.000Z"
+  }
+}
