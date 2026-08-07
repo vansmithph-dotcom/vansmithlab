@@ -1,0 +1,166 @@
+{
+  "id": "obj_e2fd77908d59d20a",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Джеймс Стирлинг",
+  "slug_ru": "james-stirling",
+  "summary_ru": "От Ливерпульской школы архитектуры через партнёрство с Джеймсом Гоуэном и инженерный корпус Лестерского университета до Neue Staatsgalerie в Штутгарте — Притцкеровский лауреат 1981 года.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.9,
+  "created_at": "2026-08-08T00:00:00.000Z",
+  "updated_at": "2026-08-08T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_3f8f4a9b62f28ca9",
+      "wording_ru": "Джеймс Стирлинг родился в Глазго в 1926 году и умер в 1992 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.91,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-james-stirling",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://en.wikipedia.org/wiki/James_Stirling_(architect)",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_dc34dbb652d01dcd",
+      "wording_ru": "Получил архитектурное образование в Ливерпульской школе архитектуры (1945-1950).",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.88,
+      "evidence": [
+        {
+          "source_url": "https://en.wikipedia.org/wiki/James_Stirling_(architect)",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_73127516f1d79971",
+      "wording_ru": "В 1956 году основал в Лондоне практику совместно с Джеймсом Гоуэном; за семь лет партнёрства они спроектировали, среди прочего, инженерный корпус Лестерского университета (1959-1963) и здание исторического факультета Кембриджского университета (1964-1967).",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-james-stirling",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_0a17d6478f6aa947",
+      "wording_ru": "С 1971 года работал в партнёрстве с Майклом Уилфордом; масштаб и число проектов расширились до музеев, галерей, библиотек и театров.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.89,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-james-stirling",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_f4961ef07c6f1b7f",
+      "wording_ru": "В 1981 году, в возрасте 55 лет, стал лауреатом третьей ежегодной Притцкеровской премии.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-james-stirling",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_50a50672580c12da",
+      "title": "The Pritzker Architecture Prize — Biography: James Stirling",
+      "url": "https://www.pritzkerprize.com/biography-james-stirling",
+      "publisher": "The Pritzker Architecture Prize",
+      "source_tier": 1,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_cefb3e5968b255e0",
+      "title": "Wikipedia — James Stirling (architect)",
+      "url": "https://en.wikipedia.org/wiki/James_Stirling_(architect)",
+      "publisher": "Wikipedia",
+      "source_tier": 3,
+      "accessed_at": "2026-08-08"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_6385551bbdedc015",
+      "claim_id": "clm_3f8f4a9b62f28ca9",
+      "source_id": "src_50a50672580c12da",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_6ebbe2e609b16139",
+      "claim_id": "clm_3f8f4a9b62f28ca9",
+      "source_id": "src_cefb3e5968b255e0",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_dc93a09cd8df498c",
+      "claim_id": "clm_dc34dbb652d01dcd",
+      "source_id": "src_cefb3e5968b255e0",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_358f303b9e600877",
+      "claim_id": "clm_73127516f1d79971",
+      "source_id": "src_50a50672580c12da",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_e055e136ad96fffe",
+      "claim_id": "clm_0a17d6478f6aa947",
+      "source_id": "src_50a50672580c12da",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_e9e63575093d1701",
+      "claim_id": "clm_f4961ef07c6f1b7f",
+      "source_id": "src_50a50672580c12da",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — авторское research-досье (Иван Мельник, VSL_James_Stirling). Библиография не содержала URL. Проведён независимый веб-поиск (Pritzker Architecture Prize, Wikipedia). Подробная библиография построенных объектов, включая Neue Staatsgalerie в Штутгарте и Clore Gallery в Лондоне, не включена.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-08T00:00:00.000Z"
+  }
+}

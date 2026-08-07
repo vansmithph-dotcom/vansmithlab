@@ -1,0 +1,144 @@
+{
+  "id": "obj_a1d99ff1725c83dc",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Ханс Холляйн",
+  "slug_ru": "hans-hollein",
+  "summary_ru": "От Академии изящных искусств в Вене через IIT в Чикаго и Беркли до свечной лавки Retti, принёсшей мировую известность, — Притцкеровский лауреат 1985 года, работавший на грани архитектуры и искусства.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.9,
+  "created_at": "2026-08-08T00:00:00.000Z",
+  "updated_at": "2026-08-08T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_f11d93b06019e51a",
+      "wording_ru": "Ханс Холляйн родился в Вене, Австрия, в 1934 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.91,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-hans-hollein",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Hans_Hollein",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_eb04e4a5f05fb71c",
+      "wording_ru": "Окончил Академию изящных искусств в Вене в 1956 году, затем по стипендии Harkness Fellowship учился в Illinois Institute of Technology в Чикаго и получил степень магистра архитектуры в University of California, Berkeley, в 1960 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-hans-hollein",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_5105e65e7d1b157b",
+      "wording_ru": "После работы в бюро в Швеции и США обосновался в Вене, где в 1965 году получил первый самостоятельный заказ — свечную лавку Retti Candleshop, принёсшую ему международную известность.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-hans-hollein",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_5af3b4858080ab7b",
+      "wording_ru": "В 1985 году стал седьмым лауреатом Притцкеровской премии.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-hans-hollein",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_63415a1c83db747f",
+      "title": "The Pritzker Architecture Prize — Biography: Hans Hollein",
+      "url": "https://www.pritzkerprize.com/biography-hans-hollein",
+      "publisher": "The Pritzker Architecture Prize",
+      "source_tier": 1,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_426f80214b4985cd",
+      "title": "Wikipedia — Hans Hollein",
+      "url": "https://en.wikipedia.org/wiki/Hans_Hollein",
+      "publisher": "Wikipedia",
+      "source_tier": 3,
+      "accessed_at": "2026-08-08"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_e20a266b30e18aa3",
+      "claim_id": "clm_f11d93b06019e51a",
+      "source_id": "src_63415a1c83db747f",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_4965ea22ed3444ff",
+      "claim_id": "clm_f11d93b06019e51a",
+      "source_id": "src_426f80214b4985cd",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_b196dbc74070fb5c",
+      "claim_id": "clm_eb04e4a5f05fb71c",
+      "source_id": "src_63415a1c83db747f",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_849ad7ace09542ec",
+      "claim_id": "clm_5105e65e7d1b157b",
+      "source_id": "src_63415a1c83db747f",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_ed860161fcbe1d7e",
+      "claim_id": "clm_5af3b4858080ab7b",
+      "source_id": "src_63415a1c83db747f",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — авторское research-досье (Иван Мельник, VSL_Hans_Hollein). Библиография не содержала URL. Проведён независимый веб-поиск (Pritzker Architecture Prize, Wikipedia). Подробная библиография построенных объектов и работа как дизайнера мебели и серебряных изделий не включены.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-08T00:00:00.000Z"
+  }
+}

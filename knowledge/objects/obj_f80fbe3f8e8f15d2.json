@@ -1,0 +1,144 @@
+{
+  "id": "obj_f80fbe3f8e8f15d2",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Эдуарду Соуту де Моура",
+  "slug_ru": "eduardo-souto-de-moura",
+  "summary_ru": "От скульптуры и школы изящных искусств в Порту через пять лет работы у Алвару Сизы до архитектуры «непринуждённой простоты» — Притцкеровский лауреат 2011 года.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.9,
+  "created_at": "2026-08-08T00:00:00.000Z",
+  "updated_at": "2026-08-08T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_d3cf9fc7dadc5731",
+      "wording_ru": "Эдуарду Соуту де Моура родился в Порту, Португалия, в 1952 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.91,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-eduardo-souto-de-moura",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Eduardo_Souto_de_Moura",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_95bc17150ff89507",
+      "wording_ru": "Поступил в Школу изящных искусств в Порту как студент скульптуры, но в итоге получил диплом архитектора; переход от искусства к архитектуре он связывает со знакомством с Дональдом Джаддом в Цюрихе.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.88,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-eduardo-souto-de-moura",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_2ad9c336f6dc3a4e",
+      "wording_ru": "Ещё студентом работал у архитектора Ноэ Диниша, а затем пять лет — у Алвару Сизы.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-eduardo-souto-de-moura",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_177448183c9f7698",
+      "wording_ru": "В 2011 году, в возрасте 58 лет, получил Притцкеровскую премию — жюри отметило архитектуру, которая выглядит непринуждённой, безмятежной и простой, пронизанной заботой и поэзией в каждом проекте.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.93,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-eduardo-souto-de-moura",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_2cdad85b34357956",
+      "title": "The Pritzker Architecture Prize — Biography: Eduardo Souto de Moura",
+      "url": "https://www.pritzkerprize.com/biography-eduardo-souto-de-moura",
+      "publisher": "The Pritzker Architecture Prize",
+      "source_tier": 1,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_7c259a1037cf2c17",
+      "title": "Wikipedia — Eduardo Souto de Moura",
+      "url": "https://en.wikipedia.org/wiki/Eduardo_Souto_de_Moura",
+      "publisher": "Wikipedia",
+      "source_tier": 3,
+      "accessed_at": "2026-08-08"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_b05c141b1fc9fdac",
+      "claim_id": "clm_d3cf9fc7dadc5731",
+      "source_id": "src_2cdad85b34357956",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_a4d31c5ff0523e74",
+      "claim_id": "clm_d3cf9fc7dadc5731",
+      "source_id": "src_7c259a1037cf2c17",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_fab2d96bdfc2033a",
+      "claim_id": "clm_95bc17150ff89507",
+      "source_id": "src_2cdad85b34357956",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_d7442dd8dbd8fec8",
+      "claim_id": "clm_2ad9c336f6dc3a4e",
+      "source_id": "src_2cdad85b34357956",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_d216d2b084f65858",
+      "claim_id": "clm_177448183c9f7698",
+      "source_id": "src_2cdad85b34357956",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — авторское research-досье (Иван Мельник, VSL_Eduardo_Souto_de_Moura). Библиография не содержала URL. Проведён независимый веб-поиск (Pritzker Architecture Prize, Wikipedia). Подробная библиография построенных объектов не включена.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-08T00:00:00.000Z"
+  }
+}
