@@ -1,0 +1,166 @@
+{
+  "id": "obj_e5f5c72843f4b9c7",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Бьярке Ингельс",
+  "slug_ru": "bjarke-ingels",
+  "summary_ru": "От Королевской датской академии изящных искусств через OMA и PLOT до основания BIG в 2005 году — архитектор, соединяющий утопическое мышление с прагматичным инжинирингом формы.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.89,
+  "created_at": "2026-08-08T00:00:00.000Z",
+  "updated_at": "2026-08-08T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_c4a5ccb36b4a9a75",
+      "wording_ru": "Бьярке Бундгор Ингельс родился 2 октября 1974 года в Копенгагене, Дания.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.89,
+      "evidence": [
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Bjarke_Ingels",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_6ddde4a9cbd3e3ea",
+      "wording_ru": "В 1993 году начал изучать архитектуру в Королевской датской академии изящных искусств, а в 1996 году провёл год по обмену в Escola Tècnica Superior d'Arquitectura в Барселоне.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.87,
+      "evidence": [
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Bjarke_Ingels",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_f11b4233230e06e8",
+      "wording_ru": "После учёбы, с 1998 года, работал в бюро Рема Колхаса OMA в Роттердаме.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.88,
+      "evidence": [
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Bjarke_Ingels",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_a882def8eef70995",
+      "wording_ru": "В 2001 году вернулся в Данию и вместе с бельгийским архитектором Жюльеном де Смедтом основал практику PLOT.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.87,
+      "evidence": [
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Bjarke_Ingels",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_761134f04b218ea0",
+      "wording_ru": "После распада PLOT в 2005 году основал BIG (Bjarke Ingels Group), выросшую в практику с более чем 800 сотрудниками в нескольких странах.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.91,
+      "evidence": [
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Bjarke_Ingels",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://big.dk/people",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_4d9e63710ec9acfd",
+      "title": "Wikipedia — Bjarke Ingels",
+      "url": "https://en.wikipedia.org/wiki/Bjarke_Ingels",
+      "publisher": "Wikipedia",
+      "source_tier": 3,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_05d610a3c735cdd0",
+      "title": "BIG — Bjarke Ingels (официальная страница студии)",
+      "url": "https://big.dk/people",
+      "publisher": "Bjarke Ingels Group",
+      "source_tier": 1,
+      "accessed_at": "2026-08-08"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_a3233a1406bf8f9b",
+      "claim_id": "clm_c4a5ccb36b4a9a75",
+      "source_id": "src_4d9e63710ec9acfd",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_668ff8a9fd5c08a0",
+      "claim_id": "clm_6ddde4a9cbd3e3ea",
+      "source_id": "src_4d9e63710ec9acfd",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_bace3fb94c3526dd",
+      "claim_id": "clm_f11b4233230e06e8",
+      "source_id": "src_4d9e63710ec9acfd",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_2ff6ca045c7be259",
+      "claim_id": "clm_a882def8eef70995",
+      "source_id": "src_4d9e63710ec9acfd",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_3cb3281ca8995185",
+      "claim_id": "clm_761134f04b218ea0",
+      "source_id": "src_4d9e63710ec9acfd",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_4c101e2bf26612b2",
+      "claim_id": "clm_761134f04b218ea0",
+      "source_id": "src_05d610a3c735cdd0",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — авторское research-досье (Иван Мельник, VSL_Bjarke_Ingels). Библиография не содержала URL. Проведён независимый веб-поиск (Wikipedia, официальная страница BIG). Ингельс не является лауреатом Притцкеровской премии.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-08T00:00:00.000Z"
+  }
+}

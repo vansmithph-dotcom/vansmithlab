@@ -1,0 +1,144 @@
+{
+  "id": "obj_8b81d1d30743cb02",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "SANAA",
+  "slug_ru": "sanaa",
+  "summary_ru": "От отдельных студий Кадзуё Сэдзимы и Рюэ Нисидзавы до совместной практики SANAA, основанной в 1995 году, — Притцкеровские лауреаты 2010 года, работающие на грани прозрачности и невесомости формы.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.89,
+  "created_at": "2026-08-08T00:00:00.000Z",
+  "updated_at": "2026-08-08T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_1b1848760dd3adbf",
+      "wording_ru": "Кадзуё Сэдзима родилась в 1956 году в префектуре Ибараки, Япония, окончила Японский женский университет и начала карьеру в бюро Тойо Ито, а в 1987 году открыла собственную студию в Токио.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-kazuyo-sejima-and-ryue-nishizawa",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_e8eee80553b8b57f",
+      "wording_ru": "Рюэ Нисидзава родился в 1966 году в префектуре Канагава, Япония, окончил Йокогамский национальный университет со степенью магистра архитектуры в 1990 году и в 1997 году основал собственное бюро Office of Ryue Nishizawa.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-kazuyo-sejima-and-ryue-nishizawa",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_1f02c3c23b189094",
+      "wording_ru": "В 1995 году Сэдзима и Нисидзава совместно основали токийскую студию SANAA.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-kazuyo-sejima-and-ryue-nishizawa",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://en.wikipedia.org/wiki/SANAA",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_74251c6a38a27054",
+      "wording_ru": "В 2010 году Сэдзима и Нисидзава стали лауреатами Притцкеровской премии.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.94,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-kazuyo-sejima-and-ryue-nishizawa",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_dcc52b9a5c0fb4f6",
+      "title": "The Pritzker Architecture Prize — Biography: Kazuyo Sejima and Ryue Nishizawa",
+      "url": "https://www.pritzkerprize.com/biography-kazuyo-sejima-and-ryue-nishizawa",
+      "publisher": "The Pritzker Architecture Prize",
+      "source_tier": 1,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_0a32abbdbea934fe",
+      "title": "Wikipedia — SANAA",
+      "url": "https://en.wikipedia.org/wiki/SANAA",
+      "publisher": "Wikipedia",
+      "source_tier": 3,
+      "accessed_at": "2026-08-08"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_0d5c47711e83af42",
+      "claim_id": "clm_1b1848760dd3adbf",
+      "source_id": "src_dcc52b9a5c0fb4f6",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_31c96eda19a93998",
+      "claim_id": "clm_e8eee80553b8b57f",
+      "source_id": "src_dcc52b9a5c0fb4f6",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_2f4c677dbdba0c25",
+      "claim_id": "clm_1f02c3c23b189094",
+      "source_id": "src_dcc52b9a5c0fb4f6",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_5b08af792ed9bf60",
+      "claim_id": "clm_1f02c3c23b189094",
+      "source_id": "src_0a32abbdbea934fe",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_b82c661c487717a5",
+      "claim_id": "clm_74251c6a38a27054",
+      "source_id": "src_dcc52b9a5c0fb4f6",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — авторское research-досье (Иван Мельник, VSL_SANAA / SANAA Кадзуё Сэдзима и Рюэ Нисидзава). Библиография не содержала URL. Проведён независимый веб-поиск (Pritzker Architecture Prize, Wikipedia). Фото-портрет обоих партнёров вместе с проверяемой свободной лицензией не найден в отведённое время, поэтому для героя материала использована оригинальная SVG-диаграмма вместо фотографии.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-08T00:00:00.000Z"
+  }
+}
