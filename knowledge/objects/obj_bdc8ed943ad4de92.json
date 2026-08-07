@@ -1,0 +1,166 @@
+{
+  "id": "obj_bdc8ed943ad4de92",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Жан-Мишель Баския",
+  "slug_ru": "jean-michel-basquiat",
+  "summary_ru": "От граффити-псевдонима SAMO© в Нью-Йорке через сотрудничество с Энди Уорхолом до смерти в 27 лет — художник, чья карьера уместилась в неполные восемь лет и определила язык нео-экспрессионизма.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.9,
+  "created_at": "2026-08-08T00:00:00.000Z",
+  "updated_at": "2026-08-08T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_4f2a86d5e1fadc84",
+      "wording_ru": "Жан-Мишель Баския родился 22 декабря 1960 года в районе Парк-Слоуп, Бруклин, вторым из четверых детей в семье; отец Жерар Баския родился в Порт-о-Пренсе, Гаити, мать Матильда Андрадес — в Бруклине в пуэрто-риканской семье.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Jean-Michel-Basquiat",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_f33fc67897c8baaa",
+      "wording_ru": "Рос в обычной семье среднего класса, вопреки распространённой позднейшей легенде об уличном детстве; рисовать начал рано, на листах бумаги, которые отец-бухгалтер приносил с работы.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.87,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Jean-Michel-Basquiat",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_1b269ee3d70a6e61",
+      "wording_ru": "Бросил школу, некоторое время жил без постоянного жилья и вместе с Алом Диасом вёл граффити-кампанию под псевдонимом SAMO©.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.89,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Jean-Michel-Basquiat",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_c5d169f623807852",
+      "wording_ru": "В середине 1980-х сотрудничал с Энди Уорхолом, что привело к совместной выставке их работ.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.89,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Jean-Michel-Basquiat",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_8dbbbb0391738d01",
+      "wording_ru": "Умер в 1988 году, в возрасте 27 лет, от передозировки героина.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Jean-Michel-Basquiat",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Jean-Michel_Basquiat",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_c23e748b4aa16e56",
+      "title": "Britannica — Jean-Michel Basquiat",
+      "url": "https://www.britannica.com/biography/Jean-Michel-Basquiat",
+      "publisher": "Encyclopaedia Britannica",
+      "source_tier": 2,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_39f02bbaea257088",
+      "title": "Wikipedia — Jean-Michel Basquiat",
+      "url": "https://en.wikipedia.org/wiki/Jean-Michel_Basquiat",
+      "publisher": "Wikipedia",
+      "source_tier": 3,
+      "accessed_at": "2026-08-08"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_76a0129ef73b7d05",
+      "claim_id": "clm_4f2a86d5e1fadc84",
+      "source_id": "src_c23e748b4aa16e56",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_5cacc0cbc677add0",
+      "claim_id": "clm_f33fc67897c8baaa",
+      "source_id": "src_c23e748b4aa16e56",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_9b53a3dba57b167c",
+      "claim_id": "clm_1b269ee3d70a6e61",
+      "source_id": "src_c23e748b4aa16e56",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_9218ecb0b9222aed",
+      "claim_id": "clm_c5d169f623807852",
+      "source_id": "src_c23e748b4aa16e56",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_65f4da92b67ad9ab",
+      "claim_id": "clm_8dbbbb0391738d01",
+      "source_id": "src_c23e748b4aa16e56",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_7dfe6d1cc669f991",
+      "claim_id": "clm_8dbbbb0391738d01",
+      "source_id": "src_39f02bbaea257088",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — авторское research-досье (Иван Мельник, VSL_Jean_Michel_Basquiat), объявляющее маршрут /ru/glossary/artists/jean-michel-basquiat. Библиография досье содержала только названия организаций без URL. Проведён независимый веб-поиск (Britannica, Wikipedia). Материал намеренно ограничен происхождением и сотрудничеством с Уорхолом: нео-экспрессионизм как метод, рыночная история его работ и подробная библиография произведений не включены. Изображения произведений Баскии защищены авторским правом и не используются в этом материале.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-08T00:00:00.000Z"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content_id": "cnt_c0d99c166ec66f99",
+  "primary_object_id": "obj_bdc8ed943ad4de92",
+  "content_type": "artist_profile",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.9,
+  "claim_ids": [
+    "clm_4f2a86d5e1fadc84",
+    "clm_f33fc67897c8baaa",
+    "clm_1b269ee3d70a6e61",
+    "clm_c5d169f623807852",
+    "clm_8dbbbb0391738d01"
+  ],
+  "source_ids": [
+    "src_c23e748b4aa16e56",
+    "src_39f02bbaea257088"
+  ],
+  "last_reviewed": "2026-08-08",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "jean-michel-basquiat",
+  "title": "Жан-Мишель Баския",
+  "summary": "От граффити-псевдонима SAMO© в Нью-Йорке через сотрудничество с Энди Уорхолом до смерти в 27 лет — художник, чья карьера уместилась в неполные восемь лет и определила язык нео-экспрессионизма.",
+  "body_hash": "feb5d1c6e9576d6d71d3f57b98f15f3546a0312d675cecd5daf3cfe238a78f8e",
+  "hero_image": {
+    "src": "/images/glossary/artists/jean-michel-basquiat-photo-v1.jpg",
+    "alt": "Жан-Мишель Баския, фотография из паспорта, около 1986 года.",
+    "caption": "Жан-Мишель Баския, около 1986 года.",
+    "credit": "U.S. Department of State via Wikimedia Commons — общественное достояние (служебная фотография правительства США)",
+    "origin": "public_domain"
+  }
+}

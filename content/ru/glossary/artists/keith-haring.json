@@ -1,0 +1,35 @@
+{
+  "content_id": "cnt_ca6c2e543a4e11ff",
+  "primary_object_id": "obj_9885592c42110693",
+  "content_type": "artist_profile",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.9,
+  "claim_ids": [
+    "clm_853b5de50e74ca69",
+    "clm_f7d3a205bf26b3d6",
+    "clm_876fe3ca16f63673",
+    "clm_c2f1a1ac9d0c1984",
+    "clm_734e0b7f4fabfdec"
+  ],
+  "source_ids": [
+    "src_11b51da271171e75",
+    "src_34f52ac45f5d30fc"
+  ],
+  "last_reviewed": "2026-08-08",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "keith-haring",
+  "title": "Кит Харинг",
+  "summary": "От мелового рисунка на пустых рекламных щитах в нью-йоркском метро до более 50 общественных муралей — художник, соединивший уличное искусство с поп-артом и умерший в 31 год от осложнений СПИДа.",
+  "body_hash": "57b9a6be6beefe4cc8f4d30f314ccf9a621722596f10f5a71315bda91334a176",
+  "hero_image": {
+    "src": "/images/glossary/artists/keith-haring-photo-v1.jpg",
+    "alt": "Кит Харинг в Stedelijk Museum, Амстердам, март 1986 года.",
+    "caption": "Кит Харинг в Stedelijk Museum, Амстердам, 1986 год.",
+    "credit": "Rob Bogaerts / Anefo, Nationaal Archief via Wikimedia Commons — CC0",
+    "origin": "public_domain"
+  }
+}
