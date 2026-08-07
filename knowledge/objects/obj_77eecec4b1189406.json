@@ -1,0 +1,200 @@
+{
+  "id": "obj_77eecec4b1189406",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Луис Барраган",
+  "slug_ru": "luis-barragan",
+  "summary_ru": "Биографический профиль Luis Barragán: от инженерного образования и самостоятельного изучения архитектуры через Гвадалахару и Мехико до Притцкеровской премии 1980 года — архитектура цвета, света и тишины.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.93,
+  "created_at": "2026-08-06T00:00:00.000Z",
+  "updated_at": "2026-08-06T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_1623886ddaf87ac6",
+      "wording_ru": "Luis Barragán родился 9 марта 1902 года в Гвадалахаре.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.96,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Luis-Barragan",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_e12839815893ceb6",
+      "wording_ru": "Получил инженерное образование, окончив Escuela Libre de Ingenieros в 1923 году; архитектуре обучался самостоятельно.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.94,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Luis-Barragan",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.pritzkerprize.com/laureates/1980",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_a623c52261917c0a",
+      "wording_ru": "Практиковал в Гвадалахаре с 1927 года и переехал в Мехико в 1936-м, где оставался до конца жизни.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/laureates/1980",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_fea32c27c8675ea8",
+      "wording_ru": "Получил Притцкеровскую премию в 1980 году, став вторым лауреатом в её истории.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.95,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Luis-Barragan",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.pritzkerprize.com/laureates/1980",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_5de89d1f54c2c37d",
+      "wording_ru": "Умер 22 ноября 1988 года в Мехико, после продолжительной болезни Паркинсона.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.93,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Luis-Barragan",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_ac5e8f5482d62f98",
+      "wording_ru": "Torres de Satélite — совместный проект с художником Mathias Goeritz.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/laureates/1980",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_de05962076a41129",
+      "title": "Encyclopaedia Britannica — Luis Barragán",
+      "url": "https://www.britannica.com/biography/Luis-Barragan",
+      "publisher": "Encyclopaedia Britannica",
+      "source_tier": 1,
+      "accessed_at": "2026-08-06"
+    },
+    {
+      "id": "src_c6390888f71c2a39",
+      "title": "The Pritzker Architecture Prize — Luis Barragán, 1980 Laureate",
+      "url": "https://www.pritzkerprize.com/laureates/1980",
+      "publisher": "The Pritzker Architecture Prize",
+      "source_tier": 1,
+      "accessed_at": "2026-08-06"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_2eb31f76ba4dbdcd",
+      "claim_id": "clm_1623886ddaf87ac6",
+      "source_id": "src_de05962076a41129",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_4f392bce9cb0552c",
+      "claim_id": "clm_e12839815893ceb6",
+      "source_id": "src_de05962076a41129",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_b2e2b5600aacb37e",
+      "claim_id": "clm_e12839815893ceb6",
+      "source_id": "src_c6390888f71c2a39",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_a75cafde966dc4f3",
+      "claim_id": "clm_a623c52261917c0a",
+      "source_id": "src_c6390888f71c2a39",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_c8c4a1438a72c616",
+      "claim_id": "clm_fea32c27c8675ea8",
+      "source_id": "src_de05962076a41129",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_1fa6e65365a080b9",
+      "claim_id": "clm_fea32c27c8675ea8",
+      "source_id": "src_c6390888f71c2a39",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_ad5ec14409bfc19c",
+      "claim_id": "clm_5de89d1f54c2c37d",
+      "source_id": "src_de05962076a41129",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_2fa3b39325479bbd",
+      "claim_id": "clm_ac5e8f5482d62f98",
+      "source_id": "src_c6390888f71c2a39",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — авторское research-досье (Иван Мельник). Библиография не содержала URL. Claims о Casa Estudio (1947-1948) и её включении в список ЮНЕСКО в 2004 году, а также об институциональном разделении архива и дома-музея не вошли в эту редакцию — не удалось найти для каждого отдельный надёжный источник в отведённое время.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-06T00:00:00.000Z"
+  }
+}

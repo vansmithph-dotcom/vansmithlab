@@ -1,0 +1,190 @@
+{
+  "id": "obj_602dede0c7edb2e9",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Джон Гальяно",
+  "slug_ru": "john-galliano",
+  "summary_ru": "Биографический профиль John Galliano: от Central Saint Martins через Givenchy и пятнадцать лет во главе Dior до увольнения в 2011 году за антисемитские высказывания и возвращения в индустрию креативным директором Maison Margiela в 2014-м.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.94,
+  "created_at": "2026-08-06T00:00:00.000Z",
+  "updated_at": "2026-08-06T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_efa8e9062d7a429b",
+      "wording_ru": "John Galliano родился 28 ноября 1960 года в Гибралтаре.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.95,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/John-Galliano",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://en.wikipedia.org/wiki/John_Galliano",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_de7afd6c86b1d7ab",
+      "wording_ru": "Назначен художественным руководителем Givenchy в 1995 году — первым британским дизайнером во главе французского haute couture дома.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.93,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/John-Galliano",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_67ba31e45fda72c7",
+      "wording_ru": "Возглавил Christian Dior в 1996 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.94,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/John-Galliano",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://en.wikipedia.org/wiki/John_Galliano",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_6d9f91944d615138",
+      "wording_ru": "Уволен из Dior в 2011 году после того, как был признан виновным в антисемитских высказываниях.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.95,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/John-Galliano",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_715e407c93848f10",
+      "wording_ru": "Назначен креативным директором Maison Margiela в 2014 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.94,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/John-Galliano",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://en.wikipedia.org/wiki/John_Galliano",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_b9c381db818502f0",
+      "title": "Encyclopaedia Britannica — John Galliano",
+      "url": "https://www.britannica.com/biography/John-Galliano",
+      "publisher": "Encyclopaedia Britannica",
+      "source_tier": 1,
+      "accessed_at": "2026-08-06"
+    },
+    {
+      "id": "src_80460d4095356d81",
+      "title": "Wikipedia — John Galliano",
+      "url": "https://en.wikipedia.org/wiki/John_Galliano",
+      "publisher": "Wikipedia",
+      "source_tier": 3,
+      "accessed_at": "2026-08-06"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_3ec99476d4563500",
+      "claim_id": "clm_efa8e9062d7a429b",
+      "source_id": "src_b9c381db818502f0",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_5337f0c1ecf50104",
+      "claim_id": "clm_efa8e9062d7a429b",
+      "source_id": "src_80460d4095356d81",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_38674ea56b55ade9",
+      "claim_id": "clm_de7afd6c86b1d7ab",
+      "source_id": "src_b9c381db818502f0",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_03050c767882b6ee",
+      "claim_id": "clm_67ba31e45fda72c7",
+      "source_id": "src_b9c381db818502f0",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_4d4744efc34f9dd7",
+      "claim_id": "clm_67ba31e45fda72c7",
+      "source_id": "src_80460d4095356d81",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_f496de37c3ee80e4",
+      "claim_id": "clm_6d9f91944d615138",
+      "source_id": "src_b9c381db818502f0",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_8f519034fd9afb99",
+      "claim_id": "clm_715e407c93848f10",
+      "source_id": "src_b9c381db818502f0",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_4a9e90bd790fd3ac",
+      "claim_id": "clm_715e407c93848f10",
+      "source_id": "src_80460d4095356d81",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — авторское research-досье (Иван Мельник). Библиография не содержала URL. Claims о выпускной коллекции Les Incroyables, первой Artisanal-коллекции Margiela и технике кроя по косой не вошли в эту редакцию — не удалось найти для них отдельный надёжный источник в отведённое время.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-06T00:00:00.000Z"
+  }
+}

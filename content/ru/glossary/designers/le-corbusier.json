@@ -1,0 +1,36 @@
+{
+  "content_id": "cnt_544d0fd2d4b33064",
+  "primary_object_id": "obj_97f134789d91ff49",
+  "content_type": "designer_profile",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.93,
+  "claim_ids": [
+    "clm_4610e348628534bf",
+    "clm_29ed7be2d81b72b2",
+    "clm_046d05470b711713",
+    "clm_1cde79c43355c30a",
+    "clm_486bf54290c2617f",
+    "clm_251ed69112cfa93d"
+  ],
+  "source_ids": [
+    "src_2dd68221ac7edc7d",
+    "src_992d7b02db379d4f"
+  ],
+  "last_reviewed": "2026-08-06",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "le-corbusier",
+  "title": "Ле Корбюзье",
+  "summary": "От Vers une architecture 1923 года через Villa Savoye и капеллу в Роншане до признания 17 его построек Всемирным наследием ЮНЕСКО в 2016 году.",
+  "body_hash": "40a7c85b9eb716f13656dd62a7d4c9d50f60c07b9732fb6e96de86ce05aa41a6",
+  "hero_image": {
+    "src": "/images/glossary/designers/le-corbusier-timeline-hero-v1.svg",
+    "alt": "Хронологическая схема карьеры Ле Корбюзье: от манифеста 1923 года до признания ЮНЕСКО в 2016 году.",
+    "caption": "Ключевые вехи карьеры Ле Корбюзье.",
+    "credit": "VANSMITHLAB · оригинальная редакционная диаграмма, 2026",
+    "origin": "editorial_diagram"
+  }
+}

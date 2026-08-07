@@ -1,0 +1,200 @@
+{
+  "id": "obj_eef478388bf46eaa",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Заха Хадид",
+  "slug_ru": "zaha-hadid",
+  "summary_ru": "Биографический профиль Zaha Hadid: от математики в Бейруте через Architectural Association и Vitra Fire Station до первой в истории женщины — единоличного лауреата Притцкеровской премии в 2004 году и внезапной смерти в 2016-м.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.93,
+  "created_at": "2026-08-06T00:00:00.000Z",
+  "updated_at": "2026-08-06T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_ed20e1bc1257166d",
+      "wording_ru": "Zaha Hadid родилась 31 октября 1950 года в Багдаде.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.95,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Zaha-Hadid",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_d9f7194e5ad608e5",
+      "wording_ru": "Изучала архитектуру в Architectural Association в Лондоне, окончив в 1977 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.93,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Zaha-Hadid",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-zaha-hadid",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_de583c5e9243a732",
+      "wording_ru": "Основала собственную практику Zaha Hadid Architects в 1979 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.93,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Zaha-Hadid",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_c566b45da5bf8eb7",
+      "wording_ru": "Vitra Fire Station завершена в 1993 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-zaha-hadid",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_0307c4c54f3ce8e8",
+      "wording_ru": "Стала первой женщиной — единоличным лауреатом Притцкеровской премии в 2004 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.95,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Zaha-Hadid",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-zaha-hadid",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_6e35a147102f16b1",
+      "wording_ru": "Умерла 31 марта 2016 года в Майами от сердечного приступа во время лечения бронхита.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.94,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Zaha-Hadid",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_aa7efc8d243315f5",
+      "title": "Encyclopaedia Britannica — Zaha Hadid",
+      "url": "https://www.britannica.com/biography/Zaha-Hadid",
+      "publisher": "Encyclaedia Britannica",
+      "source_tier": 1,
+      "accessed_at": "2026-08-06"
+    },
+    {
+      "id": "src_7a85a0b6f25b1066",
+      "title": "The Pritzker Architecture Prize — Zaha Hadid, biography",
+      "url": "https://www.pritzkerprize.com/biography-zaha-hadid",
+      "publisher": "The Pritzker Architecture Prize",
+      "source_tier": 1,
+      "accessed_at": "2026-08-06"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_e66c887cea884d56",
+      "claim_id": "clm_ed20e1bc1257166d",
+      "source_id": "src_aa7efc8d243315f5",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_262e413ed539dab3",
+      "claim_id": "clm_d9f7194e5ad608e5",
+      "source_id": "src_aa7efc8d243315f5",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_6b6906bba19a405c",
+      "claim_id": "clm_d9f7194e5ad608e5",
+      "source_id": "src_7a85a0b6f25b1066",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_4355a745e0dd4eb3",
+      "claim_id": "clm_de583c5e9243a732",
+      "source_id": "src_aa7efc8d243315f5",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_36db92439fe2b232",
+      "claim_id": "clm_c566b45da5bf8eb7",
+      "source_id": "src_7a85a0b6f25b1066",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_4b3129fac407d7f8",
+      "claim_id": "clm_0307c4c54f3ce8e8",
+      "source_id": "src_aa7efc8d243315f5",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_7a67e8711ca4e197",
+      "claim_id": "clm_0307c4c54f3ce8e8",
+      "source_id": "src_7a85a0b6f25b1066",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_64e261dfbf70ef34",
+      "claim_id": "clm_6e35a147102f16b1",
+      "source_id": "src_aa7efc8d243315f5",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — авторское research-досье (Иван Мельник). Библиография не содержала URL. Claims о MAXXI/Stirling Prize (2010), London Aquatics Centre (2012), роли Patrik Schumacher как ключевого партнёра и продолжении работы бюро после 2016 года не вошли в эту редакцию — не удалось найти для них отдельный надёжный источник в отведённое время.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-06T00:00:00.000Z"
+  }
+}
