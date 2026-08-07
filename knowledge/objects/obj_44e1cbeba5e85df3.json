@@ -1,0 +1,242 @@
+{
+  "id": "obj_44e1cbeba5e85df3",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Оскар Нимайер",
+  "slug_ru": "oscar-niemeyer",
+  "summary_ru": "Биографический профиль Oscar Niemeyer: от Министерства образования в Рио через ключевые здания Бразилиа и парижский период политического изгнания до Притцкеровской премии 1988 года и смерти в 104 года в 2012-м.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.93,
+  "created_at": "2026-08-06T00:00:00.000Z",
+  "updated_at": "2026-08-06T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_0eb8f992b19ab364",
+      "wording_ru": "Oscar Niemeyer родился 15 декабря 1907 года в Рио-де-Жанейро.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.95,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Oscar-Niemeyer",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Oscar_Niemeyer",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_3304f2eacc28f785",
+      "wording_ru": "Работал в команде Lúcio Costa над зданием Министерства образования и здравоохранения в Рио-де-Жанейро совместно с Le Corbusier.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.93,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Oscar-Niemeyer",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_ef6c610bcb1df6d5",
+      "wording_ru": "Комплекс Pampulha в Белу-Оризонти стал его первым самостоятельным крупным проектом.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Oscar-Niemeyer",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_5f8efc27ed102074",
+      "wording_ru": "В качестве главного архитектора NOVA-CAP с 1956 по 1961 год спроектировал ключевые здания Бразилиа, включая президентский дворец и кафедральный собор.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.93,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Oscar-Niemeyer",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_ada465c6167994af",
+      "wording_ru": "Получил Притцкеровскую премию в 1988 году, разделив её с американским архитектором Gordon Bunshaft.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.95,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/biography-oscar-niemeyer",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Oscar_Niemeyer",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_84d8a4644b0ff08d",
+      "wording_ru": "Был членом Бразильской коммунистической партии и после военного переворота 1964 года уехал из страны, открыв бюро в Париже.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.93,
+      "evidence": [
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Oscar_Niemeyer",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_9c45b48ce6585b16",
+      "wording_ru": "Умер 5 декабря 2012 года в Рио-де-Жанейро, в возрасте 104 лет.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.95,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Oscar-Niemeyer",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Oscar_Niemeyer",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_28ff7614fa15e6d5",
+      "title": "Encyclopaedia Britannica — Oscar Niemeyer",
+      "url": "https://www.britannica.com/biography/Oscar-Niemeyer",
+      "publisher": "Encyclopaedia Britannica",
+      "source_tier": 1,
+      "accessed_at": "2026-08-06"
+    },
+    {
+      "id": "src_e923f4780bf0e036",
+      "title": "The Pritzker Architecture Prize — Oscar Niemeyer, biography",
+      "url": "https://www.pritzkerprize.com/biography-oscar-niemeyer",
+      "publisher": "The Pritzker Architecture Prize",
+      "source_tier": 1,
+      "accessed_at": "2026-08-06"
+    },
+    {
+      "id": "src_0483576c73732ab9",
+      "title": "Wikipedia — Oscar Niemeyer",
+      "url": "https://en.wikipedia.org/wiki/Oscar_Niemeyer",
+      "publisher": "Wikipedia",
+      "source_tier": 3,
+      "accessed_at": "2026-08-06"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_10268bc4ab391371",
+      "claim_id": "clm_0eb8f992b19ab364",
+      "source_id": "src_28ff7614fa15e6d5",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_cc2ea40edb4025dc",
+      "claim_id": "clm_0eb8f992b19ab364",
+      "source_id": "src_0483576c73732ab9",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_90daef7432bb9d2a",
+      "claim_id": "clm_3304f2eacc28f785",
+      "source_id": "src_28ff7614fa15e6d5",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_3bef4be2c01e0e0d",
+      "claim_id": "clm_ef6c610bcb1df6d5",
+      "source_id": "src_28ff7614fa15e6d5",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_f5ff82c364b228d4",
+      "claim_id": "clm_5f8efc27ed102074",
+      "source_id": "src_28ff7614fa15e6d5",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_7fb54e59a4426b67",
+      "claim_id": "clm_ada465c6167994af",
+      "source_id": "src_e923f4780bf0e036",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_6f15f78b519cb303",
+      "claim_id": "clm_ada465c6167994af",
+      "source_id": "src_0483576c73732ab9",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_6885d0227eaa5caf",
+      "claim_id": "clm_84d8a4644b0ff08d",
+      "source_id": "src_0483576c73732ab9",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_a1d358facacde72d",
+      "claim_id": "clm_9c45b48ce6585b16",
+      "source_id": "src_28ff7614fa15e6d5",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_24e691066975fc13",
+      "claim_id": "clm_9c45b48ce6585b16",
+      "source_id": "src_0483576c73732ab9",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — авторское research-досье (Иван Мельник). Библиография не содержала URL. Точный год вступления в компартию варьируется между источниками (1945/1952) — формулировка сознательно не называет конкретный год. Claims об окончании Национальной школы изящных искусств (1934), генеральном плане Бразилиа (Lúcio Costa) и Музее в Нитерое (1996) не вошли в эту редакцию — не удалось найти для них отдельный надёжный источник в отведённое время.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-06T00:00:00.000Z"
+  }
+}

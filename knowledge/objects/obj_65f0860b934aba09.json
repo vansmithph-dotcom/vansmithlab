@@ -1,0 +1,176 @@
+{
+  "id": "obj_65f0860b934aba09",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Мис ван дер Роэ",
+  "slug_ru": "mies-van-der-rohe",
+  "summary_ru": "Биографический профиль Ludwig Mies van der Rohe: от Barcelona Pavilion 1929 года через руководство Баухаусом и переезд в Чикаго до Seagram Building 1958 года — язык, ставший визуальным кодом корпоративного модернизма.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.94,
+  "created_at": "2026-08-06T00:00:00.000Z",
+  "updated_at": "2026-08-06T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_0de840d6fc7f67a0",
+      "wording_ru": "Ludwig Mies van der Rohe родился 27 марта 1886 года в Ахене.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.95,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Ludwig-Mies-van-der-Rohe",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_6a9b75a0949c15b5",
+      "wording_ru": "Barcelona Pavilion создан для Международной выставки 1929 года; здание было снесено в 1930-м и восстановлено в 1986-м.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.94,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Ludwig-Mies-van-der-Rohe",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_3811cfc2d0563337",
+      "wording_ru": "Был директором Баухауса с 1930 года до его закрытия в 1933-м.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.93,
+      "evidence": [
+        {
+          "source_url": "https://www.knoll-int.com/discover-knoll/designers-/ludwig-mies-van-der-rohe",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_d173203016faa6d6",
+      "wording_ru": "Переехал в США в 1938 году и возглавил архитектурную школу Armour Institute (позже Illinois Institute of Technology).",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.93,
+      "evidence": [
+        {
+          "source_url": "https://www.knoll-int.com/discover-knoll/designers-/ludwig-mies-van-der-rohe",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_2091e7baebf15d57",
+      "wording_ru": "Seagram Building завершён в 1958 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.93,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Ludwig-Mies-van-der-Rohe",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_8e926fb2bf7da9e0",
+      "wording_ru": "Умер 17 августа 1969 года в Чикаго.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.95,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Ludwig-Mies-van-der-Rohe",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_93b9903555dd47f9",
+      "title": "Encyclopaedia Britannica — Ludwig Mies van der Rohe",
+      "url": "https://www.britannica.com/biography/Ludwig-Mies-van-der-Rohe",
+      "publisher": "Encyclopaedia Britannica",
+      "source_tier": 1,
+      "accessed_at": "2026-08-06"
+    },
+    {
+      "id": "src_4d78fe1681951a61",
+      "title": "Knoll — Ludwig Mies van der Rohe",
+      "url": "https://www.knoll-int.com/discover-knoll/designers-/ludwig-mies-van-der-rohe",
+      "publisher": "Knoll",
+      "source_tier": 2,
+      "accessed_at": "2026-08-06"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_6931cc88477fe9b9",
+      "claim_id": "clm_0de840d6fc7f67a0",
+      "source_id": "src_93b9903555dd47f9",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_9ac2f50c97a8ae99",
+      "claim_id": "clm_6a9b75a0949c15b5",
+      "source_id": "src_93b9903555dd47f9",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_de1c7b9e12d32e9e",
+      "claim_id": "clm_3811cfc2d0563337",
+      "source_id": "src_4d78fe1681951a61",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_bb1d9f4fdbc46203",
+      "claim_id": "clm_d173203016faa6d6",
+      "source_id": "src_4d78fe1681951a61",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_98d4ea73af81ba6c",
+      "claim_id": "clm_2091e7baebf15d57",
+      "source_id": "src_93b9903555dd47f9",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_e7dccab9ff10f2f1",
+      "claim_id": "clm_8e926fb2bf7da9e0",
+      "source_id": "src_93b9903555dd47f9",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — авторское research-досье (Иван Мельник). Библиография не содержала URL. Claims о работе у Peter Behrens, Weissenhofsiedlung (1927), Villa Tugendhat и вкладе Лилли Райх как соавтора не вошли в эту редакцию — не удалось найти для них отдельный надёжный источник в отведённое время; последнее особенно важно восполнить отдельно, поскольку соавторство Райх систематически недооценивалось в историографии.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-06T00:00:00.000Z"
+  }
+}

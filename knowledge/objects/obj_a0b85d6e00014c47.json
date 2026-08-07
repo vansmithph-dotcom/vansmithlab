@@ -1,0 +1,208 @@
+{
+  "id": "obj_a0b85d6e00014c47",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Тадао Андо",
+  "slug_ru": "tadao-ando",
+  "summary_ru": "Биографический профиль Tadao Ando: от самообразования и профессионального бокса через основание практики в 1969 году и Church of the Light до Притцкеровской премии 1995 года и Chichu Art Museum.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.93,
+  "created_at": "2026-08-06T00:00:00.000Z",
+  "updated_at": "2026-08-06T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_3a84ac7baf2fc4f9",
+      "wording_ru": "Tadao Ando родился 13 сентября 1941 года в Осаке.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.94,
+      "evidence": [
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Tadao_Ando",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_d6ae4f602f5ee4e7",
+      "wording_ru": "Архитектор-самоучка, не имеющий формального архитектурного образования; до архитектуры пробовал себя, в частности, в профессиональном боксе.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.93,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Ando-Tadao",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Tadao_Ando",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_3a3a2812b291359c",
+      "wording_ru": "Основал собственную практику Tadao Ando Architect & Associates в Осаке в 1969 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.94,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Ando-Tadao",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Tadao_Ando",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_13ead8e489bf76cc",
+      "wording_ru": "Church of the Light в Осаке завершена в 1989 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.93,
+      "evidence": [
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Tadao_Ando",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_d9b25fb2c52e7b20",
+      "wording_ru": "Получил Притцкеровскую премию в 1995 году, став первым японским архитектором-лауреатом.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.95,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/laureates/1995",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_02ce1a9a326c5904",
+      "wording_ru": "Chichu Art Museum на острове Наосима открыт в 2004 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Ando-Tadao",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_e820c8749f55df1a",
+      "title": "Encyclopaedia Britannica — Tadao Ando",
+      "url": "https://www.britannica.com/biography/Ando-Tadao",
+      "publisher": "Encyclopaedia Britannica",
+      "source_tier": 1,
+      "accessed_at": "2026-08-06"
+    },
+    {
+      "id": "src_c6673449cad78648",
+      "title": "The Pritzker Architecture Prize — Tadao Ando, 1995 Laureate",
+      "url": "https://www.pritzkerprize.com/laureates/1995",
+      "publisher": "The Pritzker Architecture Prize",
+      "source_tier": 1,
+      "accessed_at": "2026-08-06"
+    },
+    {
+      "id": "src_a387274fc002cb3a",
+      "title": "Wikipedia — Tadao Ando",
+      "url": "https://en.wikipedia.org/wiki/Tadao_Ando",
+      "publisher": "Wikipedia",
+      "source_tier": 3,
+      "accessed_at": "2026-08-06"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_e8a8317971537d95",
+      "claim_id": "clm_3a84ac7baf2fc4f9",
+      "source_id": "src_a387274fc002cb3a",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_8efa5e4252ffc083",
+      "claim_id": "clm_d6ae4f602f5ee4e7",
+      "source_id": "src_e820c8749f55df1a",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_4939fc2abd5acaf5",
+      "claim_id": "clm_d6ae4f602f5ee4e7",
+      "source_id": "src_a387274fc002cb3a",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_47f595442c2fa040",
+      "claim_id": "clm_3a3a2812b291359c",
+      "source_id": "src_e820c8749f55df1a",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_fb78db11f8dd296f",
+      "claim_id": "clm_3a3a2812b291359c",
+      "source_id": "src_a387274fc002cb3a",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_4c8b8a8120cf3ec9",
+      "claim_id": "clm_13ead8e489bf76cc",
+      "source_id": "src_a387274fc002cb3a",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_ac3671048e2e6c29",
+      "claim_id": "clm_d9b25fb2c52e7b20",
+      "source_id": "src_c6673449cad78648",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_18ff1548c794b862",
+      "claim_id": "clm_02ce1a9a326c5904",
+      "source_id": "src_e820c8749f55df1a",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — авторское research-досье (Иван Мельник). Библиография не содержала URL. Claims об Azuma House / премии AIJ (1979), Bourse de Commerce (2021) и Naoshima New Museum of Art (2025) не вошли в эту редакцию — не удалось найти для них отдельный надёжный источник в отведённое время.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-06T00:00:00.000Z"
+  }
+}

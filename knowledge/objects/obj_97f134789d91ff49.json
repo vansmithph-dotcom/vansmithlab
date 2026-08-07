@@ -1,0 +1,176 @@
+{
+  "id": "obj_97f134789d91ff49",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Ле Корбюзье",
+  "slug_ru": "le-corbusier",
+  "summary_ru": "Биографический профиль Le Corbusier: от Vers une architecture 1923 года через Villa Savoye и капеллу в Роншане до признания 17 его построек Всемирным наследием ЮНЕСКО в 2016 году.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.93,
+  "created_at": "2026-08-06T00:00:00.000Z",
+  "updated_at": "2026-08-06T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_4610e348628534bf",
+      "wording_ru": "Le Corbusier (Charles-Édouard Jeanneret) родился 6 октября 1887 года в Ла-Шо-де-Фоне, Швейцария.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.95,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Le-Corbusier",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_29ed7be2d81b72b2",
+      "wording_ru": "Программная книга Vers une architecture (Toward a New Architecture) опубликована в 1923 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Le-Corbusier",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_046d05470b711713",
+      "wording_ru": "Villa Savoye построена в 1928-1931 годах вместе с Pierre Jeanneret.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.93,
+      "evidence": [
+        {
+          "source_url": "https://www.fondationlecorbusier.fr/en/work-architecture/achievements-villa-savoye-and-gardeners-lodge-poissy-france-1928-1931/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_1cde79c43355c30a",
+      "wording_ru": "Капелла Notre-Dame du Haut в Роншане завершена в 1955 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Le-Corbusier",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_486bf54290c2617f",
+      "wording_ru": "Умер 27 августа 1965 года.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.95,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Le-Corbusier",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_251ed69112cfa93d",
+      "wording_ru": "17 архитектурных объектов Le Corbusier включены в список Всемирного наследия ЮНЕСКО в 2016 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.95,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Le-Corbusier",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_2dd68221ac7edc7d",
+      "title": "Encyclopaedia Britannica — Le Corbusier",
+      "url": "https://www.britannica.com/biography/Le-Corbusier",
+      "publisher": "Encyclopaedia Britannica",
+      "source_tier": 1,
+      "accessed_at": "2026-08-06"
+    },
+    {
+      "id": "src_992d7b02db379d4f",
+      "title": "Fondation Le Corbusier — Villa Savoye, 1928-1931",
+      "url": "https://www.fondationlecorbusier.fr/en/work-architecture/achievements-villa-savoye-and-gardeners-lodge-poissy-france-1928-1931/",
+      "publisher": "Fondation Le Corbusier",
+      "source_tier": 1,
+      "accessed_at": "2026-08-06"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_92ab63abf1d61e6a",
+      "claim_id": "clm_4610e348628534bf",
+      "source_id": "src_2dd68221ac7edc7d",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_93e2d09d9cb7ecdb",
+      "claim_id": "clm_29ed7be2d81b72b2",
+      "source_id": "src_2dd68221ac7edc7d",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_4e6043a1112901d7",
+      "claim_id": "clm_046d05470b711713",
+      "source_id": "src_992d7b02db379d4f",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_83589c934bfa7201",
+      "claim_id": "clm_1cde79c43355c30a",
+      "source_id": "src_2dd68221ac7edc7d",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_4bf849ab45a071b7",
+      "claim_id": "clm_486bf54290c2617f",
+      "source_id": "src_2dd68221ac7edc7d",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_2d3a29d8e959c815",
+      "claim_id": "clm_251ed69112cfa93d",
+      "source_id": "src_2dd68221ac7edc7d",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — авторское research-досье (Иван Мельник). Библиография не содержала URL. Claims о политических связях с авторитарными кругами и соавторстве Charlotte Perriand не вошли в эту редакцию — за отведённое время не удалось найти для них отдельный надёжный источник; это чувствительная историческая тема, требующая особо тщательной сверки, а не примерной формулировки.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-06T00:00:00.000Z"
+  }
+}

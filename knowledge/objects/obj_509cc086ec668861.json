@@ -1,0 +1,166 @@
+{
+  "id": "obj_509cc086ec668861",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Луис Кан",
+  "slug_ru": "louis-kahn",
+  "summary_ru": "Биографический профиль Louis Kahn: от Сааремаа через Salk Institute и Kimbell Art Museum до National Assembly Building в Дакке, завершённого уже после его одинокой смерти на вокзале Penn Station в 1974 году.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.93,
+  "created_at": "2026-08-06T00:00:00.000Z",
+  "updated_at": "2026-08-06T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_bceb881f6489ea76",
+      "wording_ru": "Louis Kahn родился 20 февраля 1901 года на острове Сааремаа (тогда Osel, Российская империя, ныне Эстония).",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.94,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Louis-Kahn",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_bcd1a548e49ae43f",
+      "wording_ru": "Salk Institute завершён в 1965 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.93,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Louis-Kahn",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_5a6e5414750182ce",
+      "wording_ru": "Kimbell Art Museum строился в 1966-1972 годах.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://kimbellart.org/content/louis-i-kahn-biography",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_a675ef257e7d72dc",
+      "wording_ru": "National Assembly Building в Дакке завершено в 1983 году, уже после смерти Кана.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.93,
+      "evidence": [
+        {
+          "source_url": "https://kimbellart.org/content/louis-i-kahn-biography",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_21bf4369f5f0811e",
+      "wording_ru": "Умер 17 марта 1974 года от сердечного приступа в туалете нью-йоркского вокзала Penn Station, в 73 года.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.95,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Louis-Kahn",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://kimbellart.org/content/louis-i-kahn-biography",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_7eb8a3937b6472fb",
+      "title": "Encyclopaedia Britannica — Louis Kahn",
+      "url": "https://www.britannica.com/biography/Louis-Kahn",
+      "publisher": "Encyclopaedia Britannica",
+      "source_tier": 1,
+      "accessed_at": "2026-08-06"
+    },
+    {
+      "id": "src_2a7a5c5ffdbf794e",
+      "title": "Kimbell Art Museum — Louis I. Kahn Biography",
+      "url": "https://kimbellart.org/content/louis-i-kahn-biography",
+      "publisher": "Kimbell Art Museum",
+      "source_tier": 1,
+      "accessed_at": "2026-08-06"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_3df022f94357ea33",
+      "claim_id": "clm_bceb881f6489ea76",
+      "source_id": "src_7eb8a3937b6472fb",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_958729366a1e9f24",
+      "claim_id": "clm_bcd1a548e49ae43f",
+      "source_id": "src_7eb8a3937b6472fb",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_298b7acf3679469c",
+      "claim_id": "clm_5a6e5414750182ce",
+      "source_id": "src_2a7a5c5ffdbf794e",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_88eb107e211fd2f7",
+      "claim_id": "clm_a675ef257e7d72dc",
+      "source_id": "src_2a7a5c5ffdbf794e",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_e827d37b00581799",
+      "claim_id": "clm_21bf4369f5f0811e",
+      "source_id": "src_7eb8a3937b6472fb",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_1916a1d3aaeba4eb",
+      "claim_id": "clm_21bf4369f5f0811e",
+      "source_id": "src_2a7a5c5ffdbf794e",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — авторское research-досье (Иван Мельник). Библиография не содержала URL. Дата завершения National Assembly Building скорректирована на 1983 год (не 1982, как в черновике) по нескольким независимым источникам. Claims об эмиграции в США (1906), Yale University Art Gallery (1953), Exeter Library и вкладе Anne Tyng/August Komendant/Harriet Pattison не вошли в эту редакцию — не удалось найти для них отдельный надёжный источник в отведённое время.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-06T00:00:00.000Z"
+  }
+}

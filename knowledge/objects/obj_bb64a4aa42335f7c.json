@@ -1,0 +1,264 @@
+{
+  "id": "obj_bb64a4aa42335f7c",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Мартин Марджела",
+  "slug_ru": "martin-margiela",
+  "summary_ru": "Биографический профиль Martin Margiela: от Антверпенской академии и ассистентства у Jean Paul Gaultier через основание Maison Martin Margiela в 1988 году и работу в Hermès до ухода из индустрии в 2009-м.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.91,
+  "created_at": "2026-08-06T00:00:00.000Z",
+  "updated_at": "2026-08-06T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_51063300bb1d3f37",
+      "wording_ru": "Martin Margiela родился 9 апреля 1957 года в Генке, Бельгия.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.94,
+      "evidence": [
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Martin_Margiela",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_0994ed35f7d35e71",
+      "wording_ru": "Окончил модное отделение Королевской академии изящных искусств в Антверпене в 1979 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.88,
+      "evidence": [
+        {
+          "source_url": "https://mrscouture.com/blogs/adore-mrs-couture/designer-spotlight-martin-margiela",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_b7b79352ebb225c3",
+      "wording_ru": "Работал ассистентом Jean Paul Gaultier с 1984 по 1987 год.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.93,
+      "evidence": [
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Martin_Margiela",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.showstudio.com/contributors/martin_margiela",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_df9c9919cf00c827",
+      "wording_ru": "Maison Martin Margiela основан в 1988 году вместе с деловым партнёром Jenny Meirens.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.93,
+      "evidence": [
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Martin_Margiela",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.showstudio.com/contributors/martin_margiela",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_a891aac6914f2898",
+      "wording_ru": "Был креативным директором женской линии Hermès в 1997-2003 годах.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.94,
+      "evidence": [
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Martin_Margiela",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://mrscouture.com/blogs/adore-mrs-couture/designer-spotlight-martin-margiela",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_9d05aaece49d5c34",
+      "wording_ru": "Покинул модную индустрию в 2009 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://mrscouture.com/blogs/adore-mrs-couture/designer-spotlight-martin-margiela",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_572fe96ac0be766e",
+      "wording_ru": "Margiela не был формальным участником группы Antwerp Six, хотя учился в академии в тот же период.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.88,
+      "evidence": [
+        {
+          "source_url": "https://mrscouture.com/blogs/adore-mrs-couture/designer-spotlight-martin-margiela",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_5e351fe0d92b881b",
+      "wording_ru": "Jenny Meirens была деловым партнёром и совладелицей дома с момента его основания.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.88,
+      "evidence": [
+        {
+          "source_url": "https://www.showstudio.com/contributors/martin_margiela",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_824dda84780eed70",
+      "title": "Wikipedia — Martin Margiela",
+      "url": "https://en.wikipedia.org/wiki/Martin_Margiela",
+      "publisher": "Wikipedia",
+      "source_tier": 3,
+      "accessed_at": "2026-08-06"
+    },
+    {
+      "id": "src_406ff26d8c83bf3c",
+      "title": "SHOWstudio — Martin Margiela",
+      "url": "https://www.showstudio.com/contributors/martin_margiela",
+      "publisher": "SHOWstudio",
+      "source_tier": 2,
+      "accessed_at": "2026-08-06"
+    },
+    {
+      "id": "src_c336977d8d2a7b0c",
+      "title": "MRS Couture — Designer Spotlight: Martin Margiela",
+      "url": "https://mrscouture.com/blogs/adore-mrs-couture/designer-spotlight-martin-margiela",
+      "publisher": "MRS Couture",
+      "source_tier": 2,
+      "accessed_at": "2026-08-06"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_e6f00e41daef0527",
+      "claim_id": "clm_51063300bb1d3f37",
+      "source_id": "src_824dda84780eed70",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_0ec24501d5b3d898",
+      "claim_id": "clm_0994ed35f7d35e71",
+      "source_id": "src_c336977d8d2a7b0c",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_b641c3a29e247059",
+      "claim_id": "clm_b7b79352ebb225c3",
+      "source_id": "src_824dda84780eed70",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_8b4141c8a05941da",
+      "claim_id": "clm_b7b79352ebb225c3",
+      "source_id": "src_406ff26d8c83bf3c",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_d96df4ba2456f65b",
+      "claim_id": "clm_df9c9919cf00c827",
+      "source_id": "src_824dda84780eed70",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_bcb14306b1e3f765",
+      "claim_id": "clm_df9c9919cf00c827",
+      "source_id": "src_406ff26d8c83bf3c",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_75882f68ddc5bbdf",
+      "claim_id": "clm_a891aac6914f2898",
+      "source_id": "src_824dda84780eed70",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_23915ba2912e42a0",
+      "claim_id": "clm_a891aac6914f2898",
+      "source_id": "src_c336977d8d2a7b0c",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_173d2348e684a693",
+      "claim_id": "clm_9d05aaece49d5c34",
+      "source_id": "src_c336977d8d2a7b0c",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_55196c91f30bdbb7",
+      "claim_id": "clm_572fe96ac0be766e",
+      "source_id": "src_c336977d8d2a7b0c",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_443a03d99c9b8240",
+      "claim_id": "clm_5e351fe0d92b881b",
+      "source_id": "src_406ff26d8c83bf3c",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — авторское research-досье (Иван Мельник). Библиография не содержала URL. Год окончания академии варьируется между источниками (1979-1980); указан 1979 год как более распространённый в независимых источниках. Claims о Tabi в первой коллекции, Replica (1994) и первой персональной художественной выставке (2021) не вошли в эту редакцию — не удалось найти для них отдельный надёжный источник в отведённое время.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-06T00:00:00.000Z"
+  }
+}
