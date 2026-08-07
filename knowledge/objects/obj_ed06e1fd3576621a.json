@@ -1,0 +1,168 @@
+{
+  "id": "obj_ed06e1fd3576621a",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Сантьяго Калатрава",
+  "slug_ru": "santiago-calatrava",
+  "summary_ru": "От архитектурного образования в Валенсии через докторскую степень по инженерии в ETH Zürich до собственной практики на стыке архитектуры, инженерии и скульптуры.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.89,
+  "created_at": "2026-08-08T00:00:00.000Z",
+  "updated_at": "2026-08-08T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_da5fe48057860f0f",
+      "wording_ru": "Сантьяго Калатрава Вальс родился 28 июля 1951 года в Бенимамете, ныне районе Валенсии, Испания.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Santiago-Calatrava",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Santiago_Calatrava",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_154049eb53ef3bac",
+      "wording_ru": "Окончил архитектурный факультет Политехнического университета Валенсии в 1974 году, а в 1981 году получил докторскую степень по техническим наукам в Швейцарской высшей технической школе Цюриха (ETH), защитив диссертацию о складываемости пространственных каркасов.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Santiago-Calatrava",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Santiago_Calatrava",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_19ddac8d731d2c9a",
+      "wording_ru": "В 1981 году основал собственное архитектурно-инженерное бюро в Цюрихе, позднее открыв офисы также в Париже, Валенсии и Нью-Йорке.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.89,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Santiago-Calatrava",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Santiago_Calatrava",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_77ea59dbb18a92cf",
+      "wording_ru": "Среди известных проектов — Художественный музей Милуоки, мост Аламильо в Севилье, башня Turning Torso в Мальмё и железнодорожная станция аэропорта Лиона.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.88,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Santiago-Calatrava",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_0812da8ea3b3b9dc",
+      "title": "Britannica — Santiago Calatrava",
+      "url": "https://www.britannica.com/biography/Santiago-Calatrava",
+      "publisher": "Encyclopaedia Britannica",
+      "source_tier": 2,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_d197961b9f6d3dab",
+      "title": "Wikipedia — Santiago Calatrava",
+      "url": "https://en.wikipedia.org/wiki/Santiago_Calatrava",
+      "publisher": "Wikipedia",
+      "source_tier": 3,
+      "accessed_at": "2026-08-08"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_231462a9a3b3b519",
+      "claim_id": "clm_da5fe48057860f0f",
+      "source_id": "src_0812da8ea3b3b9dc",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_fc3654abadc38372",
+      "claim_id": "clm_da5fe48057860f0f",
+      "source_id": "src_d197961b9f6d3dab",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_8d86f7a28666fa72",
+      "claim_id": "clm_154049eb53ef3bac",
+      "source_id": "src_0812da8ea3b3b9dc",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_d5282d5ae7e02a6d",
+      "claim_id": "clm_154049eb53ef3bac",
+      "source_id": "src_d197961b9f6d3dab",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_ad39da053328d290",
+      "claim_id": "clm_19ddac8d731d2c9a",
+      "source_id": "src_0812da8ea3b3b9dc",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_cb80bd15a553a667",
+      "claim_id": "clm_19ddac8d731d2c9a",
+      "source_id": "src_d197961b9f6d3dab",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_56a3ca79bd021d3a",
+      "claim_id": "clm_77ea59dbb18a92cf",
+      "source_id": "src_0812da8ea3b3b9dc",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — авторское research-досье (Иван Мельник, VSL_Santiago_Calatrava). Библиография не содержала URL. Проведён независимый веб-поиск (Britannica, Wikipedia). Калатрава не является лауреатом Притцкеровской премии. Критика по поводу перерасхода бюджета и эксплуатационных проблем ряда поздних проектов упомянута в источниках, но не выделена в отдельный citation в этой редакции.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-08T00:00:00.000Z"
+  }
+}

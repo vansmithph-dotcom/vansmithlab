@@ -1,0 +1,178 @@
+{
+  "id": "obj_0860c899a017bc0c",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Дэвид Чипперфилд",
+  "slug_ru": "david-chipperfield",
+  "summary_ru": "От Architectural Association через работу у Нормана Фостера и Ричарда Роджерса до основания David Chipperfield Architects в 1985 году — Притцкеровский лауреат 2023 года, известный дисциплиной и точностью.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.9,
+  "created_at": "2026-08-08T00:00:00.000Z",
+  "updated_at": "2026-08-08T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_a31d52abfccb8626",
+      "wording_ru": "Дэвид Алан Чипперфилд родился 18 декабря 1953 года в Лондоне и вырос в сельской местности графства Девон.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/laureates/sir-david-alan-chipperfield-ch",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://en.wikipedia.org/wiki/David_Chipperfield",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_a881fd0607ee4936",
+      "wording_ru": "Окончил Kingston School of Art в 1976 году, затем получил диплом архитектора в Architectural Association в Лондоне в 1977 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.89,
+      "evidence": [
+        {
+          "source_url": "https://en.wikipedia.org/wiki/David_Chipperfield",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_0211dd041c67cdd5",
+      "wording_ru": "Ранние годы карьеры работал в бюро Дугласа Стивена, Нормана Фостера и Ричарда Роджерса.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.87,
+      "evidence": [
+        {
+          "source_url": "https://en.wikipedia.org/wiki/David_Chipperfield",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_52ddc03207f39214",
+      "wording_ru": "В 1985 году основал David Chipperfield Architects — практику, выросшую до офисов в Лондоне, Берлине, Милане, Шанхае и Сантьяго-де-Компостела.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.91,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/laureates/sir-david-alan-chipperfield-ch",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://en.wikipedia.org/wiki/David_Chipperfield",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_b8d03888a0cc1208",
+      "wording_ru": "В 2023 году стал 52-м лауреатом Притцкеровской премии.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.94,
+      "evidence": [
+        {
+          "source_url": "https://www.pritzkerprize.com/laureates/sir-david-alan-chipperfield-ch",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_6d77a5b088acce60",
+      "title": "The Pritzker Architecture Prize — Sir David Alan Chipperfield CH",
+      "url": "https://www.pritzkerprize.com/laureates/sir-david-alan-chipperfield-ch",
+      "publisher": "The Pritzker Architecture Prize",
+      "source_tier": 1,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_4ebcd905e5457f6b",
+      "title": "Wikipedia — David Chipperfield",
+      "url": "https://en.wikipedia.org/wiki/David_Chipperfield",
+      "publisher": "Wikipedia",
+      "source_tier": 3,
+      "accessed_at": "2026-08-08"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_e2c25bebc28a1e9e",
+      "claim_id": "clm_a31d52abfccb8626",
+      "source_id": "src_6d77a5b088acce60",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_be3cbc77eeb7e067",
+      "claim_id": "clm_a31d52abfccb8626",
+      "source_id": "src_4ebcd905e5457f6b",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_c8527e9e9f2c8bee",
+      "claim_id": "clm_a881fd0607ee4936",
+      "source_id": "src_4ebcd905e5457f6b",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_a353bc8e6f85b5e8",
+      "claim_id": "clm_0211dd041c67cdd5",
+      "source_id": "src_4ebcd905e5457f6b",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_84216b960b955250",
+      "claim_id": "clm_52ddc03207f39214",
+      "source_id": "src_6d77a5b088acce60",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_b8a9ff262d537450",
+      "claim_id": "clm_52ddc03207f39214",
+      "source_id": "src_4ebcd905e5457f6b",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_626ddb2b8e831473",
+      "claim_id": "clm_b8d03888a0cc1208",
+      "source_id": "src_6d77a5b088acce60",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — авторское research-досье (Иван Мельник, VSL_David_Chipperfield). Библиография не содержала URL. Проведён независимый веб-поиск (Pritzker Architecture Prize, Wikipedia). Подробная библиография построенных объектов не включена.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-08T00:00:00.000Z"
+  }
+}
