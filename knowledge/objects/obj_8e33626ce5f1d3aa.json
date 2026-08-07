@@ -1,0 +1,154 @@
+{
+  "id": "obj_8e33626ce5f1d3aa",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Хассан Фатхи",
+  "slug_ru": "hassan-fathy",
+  "summary_ru": "От Каирского университета через возрождение сырцового кирпича до деревни Новая Гурна — «архитектор для бедных», чья книга стала основным учебным текстом для нескольких поколений архитекторов.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.89,
+  "created_at": "2026-08-08T00:00:00.000Z",
+  "updated_at": "2026-08-08T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_89d94a11575df466",
+      "wording_ru": "Хассан Фатхи родился 23 марта 1900 года в Александрии, Египет, и умер 30 ноября 1989 года в Каире.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.89,
+      "evidence": [
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Hassan_Fathy",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_a4fd52e1dbe6f7a2",
+      "wording_ru": "Получил архитектурное образование в Университете короля Фуада (ныне Каирский университет), окончив его в 1926 году с интересом к сельской архитектуре и доступному жилью.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.88,
+      "evidence": [
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Hassan_Fathy",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_9000c7a67e855c60",
+      "wording_ru": "Занимался внедрением доступных для Египта строительных технологий, добиваясь возвращения сырцового кирпича и традиционных методов строительства взамен западных образцов, за что получил прозвище «архитектор для бедных».",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.88,
+      "evidence": [
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Hassan_Fathy",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_163c2e29ab2de08a",
+      "wording_ru": "В 1945 году, работая в Департаменте древностей Египта, получил заказ на проектирование образцовой деревни Новая Гурна близ Луксора, где применил многолетние исследования сырцового кирпича, климатической адаптации и совместного строительства с жителями.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Hassan_Fathy",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_68fdefc5a0739923",
+      "wording_ru": "За карьеру спроектировал около 160 проектов, отдавая предпочтение древним техникам, материалам и участию местных жителей в строительстве; его книга «Architecture for the Poor: An Experiment in Rural Egypt» стала базовым учебным текстом для студентов-архитекторов по всему миру.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.88,
+      "evidence": [
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Hassan_Fathy",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_65e98e0ba90626df",
+      "title": "International Union of Architects — Hassan Fathy (UIA Gold Medal)",
+      "url": "https://www.uia-architectes.org/en/awards/gold-medal-triennial-prizes/gold-medal/hassan-fathy/",
+      "publisher": "International Union of Architects",
+      "source_tier": 1,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_82d84d935ff88887",
+      "title": "Wikipedia — Hassan Fathy",
+      "url": "https://en.wikipedia.org/wiki/Hassan_Fathy",
+      "publisher": "Wikipedia",
+      "source_tier": 3,
+      "accessed_at": "2026-08-08"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_af8c3f137aac451b",
+      "claim_id": "clm_89d94a11575df466",
+      "source_id": "src_82d84d935ff88887",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_fb3367a45353a972",
+      "claim_id": "clm_a4fd52e1dbe6f7a2",
+      "source_id": "src_82d84d935ff88887",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_6fd97fa17647a7f1",
+      "claim_id": "clm_9000c7a67e855c60",
+      "source_id": "src_82d84d935ff88887",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_428d31d6e1517a09",
+      "claim_id": "clm_163c2e29ab2de08a",
+      "source_id": "src_82d84d935ff88887",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_f7f02b96eb7b0035",
+      "claim_id": "clm_68fdefc5a0739923",
+      "source_id": "src_82d84d935ff88887",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — авторское research-досье (Иван Мельник, VSL_Hassan_Fathy). Библиография не содержала URL. Проведён независимый веб-поиск (International Union of Architects, Wikipedia). Фатхи посмертно удостоен золотой медали UIA. Не является лауреатом Притцкеровской премии (учреждена в 1979 году, через 10 лет после начала его позднего периода карьеры).",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-08T00:00:00.000Z"
+  }
+}

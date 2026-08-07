@@ -1,0 +1,144 @@
+{
+  "id": "obj_b6886512ad387be8",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Джеффри Бава",
+  "slug_ru": "geoffrey-bawa",
+  "summary_ru": "От изучения права в Кембридже и Лондоне через переквалификацию в архитектора в 38 лет до статуса лидера тропического модернизма — премия Ага Хана 2001 года.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.89,
+  "created_at": "2026-08-08T00:00:00.000Z",
+  "updated_at": "2026-08-08T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_73b1cc030525a84d",
+      "wording_ru": "Джеффри Мэннинг Бава родился 23 июля 1919 года в Коломбо, Британский Цейлон, и умер 27 мая 2003 года там же, в возрасте 83 лет.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Geoffrey_Bawa",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.archnet.org/authorities/56",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_3ff85de9310a2bc3",
+      "wording_ru": "В 1938 году поступил в Кембридж изучать английский язык, затем изучал право в Лондоне и в 1944 году был принят в адвокатуру.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.88,
+      "evidence": [
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Geoffrey_Bawa",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_d5bac3f83c977029",
+      "wording_ru": "Квалифицировался как архитектор только в 1957 году, в возрасте 38 лет, после чего вернулся на Цейлон, чтобы возглавить остатки практики архитектора Реджиналда Рида (Reid).",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.88,
+      "evidence": [
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Geoffrey_Bawa",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_b2149aab98d9e2c7",
+      "wording_ru": "Стал одним из самых влиятельных азиатских архитекторов своего поколения, которого часто называют лидером тропического модернизма; в 1993 году получил вторую по значимости государственную награду Шри-Ланки Deshamanya, а в 2001 году — специальную премию председателя жюри Ага Хана за архитектуру.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.89,
+      "evidence": [
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Geoffrey_Bawa",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_892f3f2f4df3a2b6",
+      "title": "Wikipedia — Geoffrey Bawa",
+      "url": "https://en.wikipedia.org/wiki/Geoffrey_Bawa",
+      "publisher": "Wikipedia",
+      "source_tier": 3,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_9f306ba7619a13af",
+      "title": "ArchNet — Geoffrey Bawa (MIT / Aga Khan Documentation Program)",
+      "url": "https://www.archnet.org/authorities/56",
+      "publisher": "ArchNet",
+      "source_tier": 2,
+      "accessed_at": "2026-08-08"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_aa152ee780fea3f5",
+      "claim_id": "clm_73b1cc030525a84d",
+      "source_id": "src_892f3f2f4df3a2b6",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_37f4e1a2bb5a6e57",
+      "claim_id": "clm_73b1cc030525a84d",
+      "source_id": "src_9f306ba7619a13af",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_a4d41ef63f17cf9d",
+      "claim_id": "clm_3ff85de9310a2bc3",
+      "source_id": "src_892f3f2f4df3a2b6",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_164413b597f5e684",
+      "claim_id": "clm_d5bac3f83c977029",
+      "source_id": "src_892f3f2f4df3a2b6",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_27deb4b994e60b34",
+      "claim_id": "clm_b2149aab98d9e2c7",
+      "source_id": "src_892f3f2f4df3a2b6",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — авторское research-досье (Иван Мельник, VSL_Geoffrey_Bawa). Библиография не содержала URL. Проведён независимый веб-поиск (Wikipedia, ArchNet). Бава не является лауреатом Притцкеровской премии. Свободно лицензированный фотопортрет не найден в отведённое время (в категории Wikimedia Commons есть только фотографии построек), поэтому для героя материала использована оригинальная SVG-диаграмма.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-08T00:00:00.000Z"
+  }
+}
