@@ -1,0 +1,132 @@
+{
+  "id": "obj_96e4c99e286844ed",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Кисё Курокава",
+  "slug_ru": "kisho-kurokawa",
+  "summary_ru": "От Университета Киото через манифест Метаболизма 1960 года до Nakagin Capsule Tower — архитектор, предложивший видеть здание как живой, обменивающийся частями организм.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.88,
+  "created_at": "2026-08-08T00:00:00.000Z",
+  "updated_at": "2026-08-08T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_e85433dbec316f9c",
+      "wording_ru": "Кисё Курокава родился 8 апреля 1934 года в городе Кание, префектура Айти, Япония, и умер 12 октября 2007 года в Токио.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.89,
+      "evidence": [
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Kisho_Kurokawa",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_d68096508522debb",
+      "wording_ru": "Изучал архитектуру в Университете Киото, а затем получил степень магистра в Токийском университете.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.87,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Kisho-Kurokawa",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_66a4e5c6345661fc",
+      "wording_ru": "В 1960 году, вместе с другими молодыми японскими архитекторами, включая Фумихико Маки и Кийонори Кикутаке, представил манифест «Метаболизм 1960: предложения нового урбанизма» на Всемирной конференции по дизайну в Токио, положив начало движению Метаболизма.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Kisho-Kurokawa",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_bf912fedb4907410",
+      "wording_ru": "Реализовал идеи Метаболизма в здании Nakagin Capsule Tower в Токио (1970-1972) — жилой башне из сменных капсульных модулей.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Kisho-Kurokawa",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_538b94ff4b106192",
+      "title": "Britannica — Kisho Kurokawa",
+      "url": "https://www.britannica.com/biography/Kisho-Kurokawa",
+      "publisher": "Encyclopaedia Britannica",
+      "source_tier": 2,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_f997af8112659f1b",
+      "title": "Wikipedia — Kisho Kurokawa",
+      "url": "https://en.wikipedia.org/wiki/Kisho_Kurokawa",
+      "publisher": "Wikipedia",
+      "source_tier": 3,
+      "accessed_at": "2026-08-08"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_a31cac285935b43a",
+      "claim_id": "clm_e85433dbec316f9c",
+      "source_id": "src_f997af8112659f1b",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_9bef407f2ec75018",
+      "claim_id": "clm_d68096508522debb",
+      "source_id": "src_538b94ff4b106192",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_3631c0aedfbd39a7",
+      "claim_id": "clm_66a4e5c6345661fc",
+      "source_id": "src_538b94ff4b106192",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_4e4786b1a8d2192f",
+      "claim_id": "clm_bf912fedb4907410",
+      "source_id": "src_538b94ff4b106192",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — авторское research-досье (Иван Мельник, VSL_Kisho_Kurokawa). Библиография не содержала URL. Проведён независимый веб-поиск (Britannica, Wikipedia). Курокава не является лауреатом Притцкеровской премии. Свободно лицензированный фотопортрет не найден в отведённое время, поэтому для героя материала использована оригинальная SVG-диаграмма.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-08T00:00:00.000Z"
+  }
+}

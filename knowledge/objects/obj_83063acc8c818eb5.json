@@ -1,0 +1,166 @@
+{
+  "id": "obj_83063acc8c818eb5",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Чарльз Корреа",
+  "slug_ru": "charles-correa",
+  "summary_ru": "От Мичиганского университета и MIT через собственную практику в Мумбаи до статуса «величайшего архитектора Индии» — градостроитель, работавший с климатом, бедностью и традицией как проектными данными.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.9,
+  "created_at": "2026-08-08T00:00:00.000Z",
+  "updated_at": "2026-08-08T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_e183d48a7d694faa",
+      "wording_ru": "Чарльз Корреа родился 1 сентября 1930 года в Секундерабаде, Британская Индия, в семье гоанских католиков.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Charles-Correa",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_22f229a38bd65874",
+      "wording_ru": "Учился в St. Xavier's College Бомбейского университета (1946-1948), затем получил степень бакалавра архитектуры в Мичиганском университете (1953) и степень магистра в MIT (1955), где среди его преподавателей был Бакминстер Фуллер.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Charles-Correa",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_324596f2e45a2427",
+      "wording_ru": "В 1958 году основал собственную практику в Мумбаи, а с 1970 по 1975 год был главным архитектором проекта Нави Мумбаи — городского центра роста на 2 миллиона человек напротив исторического города через залив.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Charles-Correa",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_f0519dc5fc584f0a",
+      "wording_ru": "Среди наград — Royal Gold Medal RIBA (1984), Praemium Imperiale (1994) и премия Ага Хана за архитектуру (1998); в 2013 году RIBA организовал его персональную выставку, назвав Корреа «величайшим архитектором Индии».",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Charles-Correa",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_df3913d38eaa36fd",
+      "wording_ru": "Чарльз Корреа умер в Мумбаи 16 июня 2015 года в возрасте 84 лет.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.91,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Charles-Correa",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Charles_Correa",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_00cc697a2b5e1c0f",
+      "title": "Britannica — Charles Correa",
+      "url": "https://www.britannica.com/biography/Charles-Correa",
+      "publisher": "Encyclopaedia Britannica",
+      "source_tier": 2,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_52950d0c8b7b716c",
+      "title": "Wikipedia — Charles Correa",
+      "url": "https://en.wikipedia.org/wiki/Charles_Correa",
+      "publisher": "Wikipedia",
+      "source_tier": 3,
+      "accessed_at": "2026-08-08"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_2713d807fef92110",
+      "claim_id": "clm_e183d48a7d694faa",
+      "source_id": "src_00cc697a2b5e1c0f",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_a91d8c4caab539c9",
+      "claim_id": "clm_22f229a38bd65874",
+      "source_id": "src_00cc697a2b5e1c0f",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_136e76e9fa286a5d",
+      "claim_id": "clm_324596f2e45a2427",
+      "source_id": "src_00cc697a2b5e1c0f",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_e252a27388279afb",
+      "claim_id": "clm_f0519dc5fc584f0a",
+      "source_id": "src_00cc697a2b5e1c0f",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_dd9a17c4279be503",
+      "claim_id": "clm_df3913d38eaa36fd",
+      "source_id": "src_00cc697a2b5e1c0f",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_9a7be07afb2c48ec",
+      "claim_id": "clm_df3913d38eaa36fd",
+      "source_id": "src_52950d0c8b7b716c",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — авторское research-досье (Иван Мельник, VSL_Charles_Correa). Библиография не содержала URL. Проведён независимый веб-поиск (Britannica, Wikipedia). Корреа не является лауреатом Притцкеровской премии. Подробная библиография построенных объектов не включена.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-08T00:00:00.000Z"
+  }
+}
