@@ -1,0 +1,244 @@
+{
+  "id": "obj_27f396f6def80fff",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Кристобаль Баленсиага",
+  "slug_ru": "cristobal-balenciaga",
+  "summary_ru": "Биографический профиль Cristóbal Balenciaga (1895-1972): от сына швеи в баскском Гетарии до couturier, лично владевшего каждым этапом создания одежды, и закрытия домов в 1968 году на пике метода.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.93,
+  "created_at": "2026-08-06T00:00:00.000Z",
+  "updated_at": "2026-08-06T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_6151e6c0a73e66ad",
+      "wording_ru": "Cristóbal Balenciaga родился 21 января 1895 года в Гетарии.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.97,
+      "evidence": [
+        {
+          "source_url": "https://www.cristobalbalenciagamuseoa.com/en/discover/cristobal-balenciaga/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_1a848a22e9e4b7f4",
+      "wording_ru": "Его мать была швеёй и работала на семью маркизов де Каса-Торрес.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.95,
+      "evidence": [
+        {
+          "source_url": "https://www.cristobalbalenciagamuseoa.com/en/discover/cristobal-balenciaga/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_bfcfa22b17e4b712",
+      "wording_ru": "Первый зарегистрированный бизнес открыл в San Sebastián в 1917 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.93,
+      "evidence": [
+        {
+          "source_url": "https://www.cristobalbalenciagamuseoa.com/en/discover/cristobal-balenciaga/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_b0c9638e162bf336",
+      "wording_ru": "Парижский дом открылся в 1937 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.95,
+      "evidence": [
+        {
+          "source_url": "https://www.cristobalbalenciagamuseoa.com/en/discover/cristobal-balenciaga/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Crist%C3%B3bal_Balenciaga",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_e80c7d83cb07a6a8",
+      "wording_ru": "Лично владел техникой драпировки, кроя и подгонки toile — редкое для couturier его масштаба умение.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.cristobalbalenciagamuseoa.com/en/discover/cristobal-balenciaga/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_76fb6f260587b0d6",
+      "wording_ru": "Закрыл свои дома в 1968 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.96,
+      "evidence": [
+        {
+          "source_url": "https://www.cristobalbalenciagamuseoa.com/en/discover/cristobal-balenciaga/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Crist%C3%B3bal_Balenciaga",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_38686ed9842acedb",
+      "wording_ru": "Умер 24 марта 1972 года после сердечного приступа.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.93,
+      "evidence": [
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Crist%C3%B3bal_Balenciaga",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_35d84b14c52ba955",
+      "wording_ru": "Фраза о нём как об «архитекторе формы» существует в разных вариантах передачи разными современниками.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.85,
+      "evidence": [
+        {
+          "source_url": "https://en.wikipedia.org/wiki/Crist%C3%B3bal_Balenciaga",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_ea907985d7aee396",
+      "title": "Cristóbal Balenciaga Museoa — official biography",
+      "url": "https://www.cristobalbalenciagamuseoa.com/en/discover/cristobal-balenciaga/",
+      "publisher": "Cristóbal Balenciaga Museoa",
+      "source_tier": 1,
+      "accessed_at": "2026-08-06"
+    },
+    {
+      "id": "src_cca535fe95af17e8",
+      "title": "Wikipedia — Cristóbal Balenciaga",
+      "url": "https://en.wikipedia.org/wiki/Crist%C3%B3bal_Balenciaga",
+      "publisher": "Wikipedia",
+      "source_tier": 3,
+      "accessed_at": "2026-08-06"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_acd4c08de1be6fef",
+      "claim_id": "clm_6151e6c0a73e66ad",
+      "source_id": "src_ea907985d7aee396",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_6233a5a5722dcf2b",
+      "claim_id": "clm_1a848a22e9e4b7f4",
+      "source_id": "src_ea907985d7aee396",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_8c4917de5ee09bcc",
+      "claim_id": "clm_bfcfa22b17e4b712",
+      "source_id": "src_ea907985d7aee396",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_ffb1fb08ea2a439a",
+      "claim_id": "clm_b0c9638e162bf336",
+      "source_id": "src_ea907985d7aee396",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_b98ce04b67711508",
+      "claim_id": "clm_b0c9638e162bf336",
+      "source_id": "src_cca535fe95af17e8",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_55adee7e6c1fd769",
+      "claim_id": "clm_e80c7d83cb07a6a8",
+      "source_id": "src_ea907985d7aee396",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_51a7ff385e4b20cc",
+      "claim_id": "clm_76fb6f260587b0d6",
+      "source_id": "src_ea907985d7aee396",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_cc23f5220265de1e",
+      "claim_id": "clm_76fb6f260587b0d6",
+      "source_id": "src_cca535fe95af17e8",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_17c2edc99698b928",
+      "claim_id": "clm_38686ed9842acedb",
+      "source_id": "src_cca535fe95af17e8",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_b63722ef943a5f43",
+      "claim_id": "clm_35d84b14c52ba955",
+      "source_id": "src_cca535fe95af17e8",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — авторское research-досье (Иван Мельник). Библиография не содержала URL. Дата смерти скорректирована на 24 марта 1972 (не 23-е, как в исходном черновике) по нескольким независимым источникам (сердечный приступ 22 марта, смерть в больнице Валенсии 24 марта). Дополняет уже опубликованную институциональную статью об истории дома Balenciaga.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-06T00:00:00.000Z"
+  }
+}

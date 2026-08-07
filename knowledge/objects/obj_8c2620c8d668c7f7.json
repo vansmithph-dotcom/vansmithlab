@@ -1,0 +1,156 @@
+{
+  "id": "obj_8c2620c8d668c7f7",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Ээро Сааринен",
+  "slug_ru": "eero-saarinen",
+  "summary_ru": "Биографический профиль Eero Saarinen: от Yale School of Architecture через внезапную смерть в 51 год во время операции в 1961-м до завершения его ключевых проектов — TWA Flight Center и Dulles — партнёрами уже посмертно.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.93,
+  "created_at": "2026-08-06T00:00:00.000Z",
+  "updated_at": "2026-08-06T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_69d506c65e28408e",
+      "wording_ru": "Окончил Yale School of Architecture в 1934 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.93,
+      "evidence": [
+        {
+          "source_url": "https://www.usmodernist.org/saarinen.htm",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_06356bb64b5a262a",
+      "wording_ru": "Умер 1 сентября 1961 года, во время операции по удалению опухоли мозга, в 51 год.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.95,
+      "evidence": [
+        {
+          "source_url": "https://www.theartstory.org/artist/saarinen-eero/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.usmodernist.org/saarinen.htm",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_aa7787b75e3b8db4",
+      "wording_ru": "TWA Flight Center и аэропорт Dulles были завершены уже после его смерти.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.theartstory.org/artist/saarinen-eero/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_1abf80be2abf2d89",
+      "wording_ru": "После его смерти партнёры Kevin Roche и John Dinkeloo завершили порядка десяти оставшихся проектов бюро.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.93,
+      "evidence": [
+        {
+          "source_url": "https://www.theartstory.org/artist/saarinen-eero/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.usmodernist.org/saarinen.htm",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_584876befffbb72e",
+      "title": "TheArtStory — Eero Saarinen Architecture, Bio, Ideas",
+      "url": "https://www.theartstory.org/artist/saarinen-eero/",
+      "publisher": "TheArtStory",
+      "source_tier": 2,
+      "accessed_at": "2026-08-06"
+    },
+    {
+      "id": "src_a68b05910594f7c3",
+      "title": "USModernist — Eero Saarinen biography",
+      "url": "https://www.usmodernist.org/saarinen.htm",
+      "publisher": "USModernist",
+      "source_tier": 2,
+      "accessed_at": "2026-08-06"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_6e391a70c62877d6",
+      "claim_id": "clm_69d506c65e28408e",
+      "source_id": "src_a68b05910594f7c3",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_77bbb326bca1e3a9",
+      "claim_id": "clm_06356bb64b5a262a",
+      "source_id": "src_584876befffbb72e",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_189cae2768bf0040",
+      "claim_id": "clm_06356bb64b5a262a",
+      "source_id": "src_a68b05910594f7c3",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_2460020771bcf87f",
+      "claim_id": "clm_aa7787b75e3b8db4",
+      "source_id": "src_584876befffbb72e",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_9bfcc96ce70c116d",
+      "claim_id": "clm_1abf80be2abf2d89",
+      "source_id": "src_584876befffbb72e",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_314984b269fe1407",
+      "claim_id": "clm_1abf80be2abf2d89",
+      "source_id": "src_a68b05910594f7c3",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — авторское research-досье (Иван Мельник). Библиография не содержала URL. Claims о дате рождения, конкурсе MoMA 1940 с Charles Eames, GM Technical Center 1956 и Gateway Arch (выбор 1948, завершение 1965) не вошли в эту редакцию — не удалось найти для каждого отдельный надёжный источник в отведённое время.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-06T00:00:00.000Z"
+  }
+}

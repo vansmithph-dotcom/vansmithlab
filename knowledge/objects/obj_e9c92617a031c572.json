@@ -1,0 +1,266 @@
+{
+  "id": "obj_e9c92617a031c572",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Карл Лагерфельд",
+  "slug_ru": "karl-lagerfeld",
+  "summary_ru": "Биографический профиль Karl Lagerfeld (1933-2019): 65-летняя карьера на нескольких домах одновременно — Balmain, Patou, Chloé, Fendi, Chanel и собственная линия — модель дизайнера-импресарио, ставшая прообразом современного мультибрендового креативного директора.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.95,
+  "created_at": "2026-08-06T00:00:00.000Z",
+  "updated_at": "2026-08-06T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_e5671f27ea32c9a0",
+      "wording_ru": "Karl Lagerfeld родился 10 сентября 1933 года в Гамбурге.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.96,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Karl-Lagerfeld",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_d967a9793528a04a",
+      "wording_ru": "Его карьера в моде продолжалась около 65 лет — с 1950-х до последней коллекции 2019 года.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.96,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/exhibitions/a-line-of-beauty",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_4c13caa5c9795016",
+      "wording_ru": "В 1954 году победил в категории пальто на конкурсе International Wool Secretariat в Париже.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.94,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/exhibitions/a-line-of-beauty",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_e6ec424f8c6feee8",
+      "wording_ru": "В начале карьеры работал в домах Balmain и Patou.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.95,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Karl-Lagerfeld",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.metmuseum.org/exhibitions/a-line-of-beauty",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_f72543e48ba0ce07",
+      "wording_ru": "Сотрудничество с Fendi началось в 1965 году и продолжалось до 2019 года.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.96,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Karl-Lagerfeld",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.metmuseum.org/exhibitions/a-line-of-beauty",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_62a682486b83d102",
+      "wording_ru": "Назначен креативным директором Chanel в 1983 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.97,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Karl-Lagerfeld",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_033eac6d8d3668c1",
+      "wording_ru": "Также руководил домом Chloé в 1964-1983 и 1992-1997 годах и с 1984 года выпускал собственную линию Karl Lagerfeld.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.95,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Karl-Lagerfeld",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_b16439073f1cda96",
+      "wording_ru": "Умер 19 февраля 2019 года в Париже.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.97,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Karl-Lagerfeld",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_7cfe2b387df593d6",
+      "wording_ru": "Одновременная работа на несколько домов (Chanel, Fendi, собственная линия) сделала Lagerfeld одним из первых образцов модели дизайнера-импресарио — прообраза современного мультибрендового креативного директора.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/exhibitions/a-line-of-beauty",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_a0ef4968a3daf217",
+      "title": "The Metropolitan Museum of Art — Karl Lagerfeld: A Line of Beauty (exhibition)",
+      "url": "https://www.metmuseum.org/exhibitions/a-line-of-beauty",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 1,
+      "accessed_at": "2026-08-06"
+    },
+    {
+      "id": "src_b212e02daecd4f1c",
+      "title": "Encyclopaedia Britannica — Karl Lagerfeld: German fashion designer and photographer",
+      "url": "https://www.britannica.com/biography/Karl-Lagerfeld",
+      "publisher": "Encyclopaedia Britannica",
+      "source_tier": 1,
+      "accessed_at": "2026-08-06"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_c959968da1149ea9",
+      "claim_id": "clm_e5671f27ea32c9a0",
+      "source_id": "src_b212e02daecd4f1c",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_ce228fe3a8ee8858",
+      "claim_id": "clm_d967a9793528a04a",
+      "source_id": "src_a0ef4968a3daf217",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_a880e0320cd7a9dc",
+      "claim_id": "clm_4c13caa5c9795016",
+      "source_id": "src_a0ef4968a3daf217",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_e53d8095f17b5175",
+      "claim_id": "clm_e6ec424f8c6feee8",
+      "source_id": "src_b212e02daecd4f1c",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_a530705ac369b61c",
+      "claim_id": "clm_e6ec424f8c6feee8",
+      "source_id": "src_a0ef4968a3daf217",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_9bb38e7119102406",
+      "claim_id": "clm_f72543e48ba0ce07",
+      "source_id": "src_b212e02daecd4f1c",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_eff90ab02c6f161a",
+      "claim_id": "clm_f72543e48ba0ce07",
+      "source_id": "src_a0ef4968a3daf217",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_c26d5e0f0db6cdb1",
+      "claim_id": "clm_62a682486b83d102",
+      "source_id": "src_b212e02daecd4f1c",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_58b9d3be90375d46",
+      "claim_id": "clm_033eac6d8d3668c1",
+      "source_id": "src_b212e02daecd4f1c",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_311dfee2f9d32ff9",
+      "claim_id": "clm_b16439073f1cda96",
+      "source_id": "src_b212e02daecd4f1c",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_55aca453fa59c07b",
+      "claim_id": "clm_7cfe2b387df593d6",
+      "source_id": "src_a0ef4968a3daf217",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — авторское research-досье (Иван Мельник). Библиография не содержала URL; Claude (сессия) нашёл реальные URL. Дата рождения указана по Britannica (1933) — сам Lagerfeld при жизни называл разные годы, это задокументированная неопределённость, не ошибка редакции.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-06T00:00:00.000Z"
+  }
+}

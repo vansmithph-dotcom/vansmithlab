@@ -1,0 +1,198 @@
+{
+  "id": "obj_8724165c0920cfc0",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Рей Кавакубо",
+  "slug_ru": "rei-kawakubo",
+  "summary_ru": "Биографический профиль Rei Kawakubo: от изучения эстетики в Университете Кэйо через основание Comme des Garçons в 1969 году и Body Meets Dress—Dress Meets Body 1997 года до второй в истории The Met монографической выставки живущего дизайнера в 2017-м.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.95,
+  "created_at": "2026-08-06T00:00:00.000Z",
+  "updated_at": "2026-08-06T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_ba2a062412a86cd2",
+      "wording_ru": "Rei Kawakubo родилась 11 октября 1942 года в Токио.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.96,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Rei-Kawakubo",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_d26b3083e84574c5",
+      "wording_ru": "Изучала изящные искусства и эстетику в Университете Кэйо в Токио, окончив в 1964 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.94,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Rei-Kawakubo",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_30a0503de8592926",
+      "wording_ru": "Начала продавать одежду под маркой Comme des Garçons в 1969 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.95,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Rei-Kawakubo",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_f0e59a7bce6df139",
+      "wording_ru": "Первый показ в Париже состоялся в 1981 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.93,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Rei-Kawakubo",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_c5aaa6f2ddff60bc",
+      "wording_ru": "Коллекция Body Meets Dress—Dress Meets Body представлена весной-летом 1997 года.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.95,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/exhibitions/listings/2017/rei-kawakubo",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_a490892a982f378c",
+      "wording_ru": "Выставка The Metropolitan Museum of Art 2017 года стала первой монографической выставкой живущего дизайнера в Costume Institute со времён ретроспективы Yves Saint Laurent 1983 года.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.96,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/exhibitions/listings/2017/rei-kawakubo",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_711261fd217b6a8d",
+      "wording_ru": "Экспозиция The Met включала около 140 ансамблей её работ для Comme des Garçons.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.95,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/exhibitions/listings/2017/rei-kawakubo",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_aab910773bcb4b70",
+      "title": "Encyclopaedia Britannica — Rei Kawakubo",
+      "url": "https://www.britannica.com/biography/Rei-Kawakubo",
+      "publisher": "Encyclopaedia Britannica",
+      "source_tier": 1,
+      "accessed_at": "2026-08-06"
+    },
+    {
+      "id": "src_53693643348641e5",
+      "title": "The Met — Rei Kawakubo/Comme des Garçons: Art of the In-Between",
+      "url": "https://www.metmuseum.org/exhibitions/listings/2017/rei-kawakubo",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 1,
+      "accessed_at": "2026-08-06"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_be7beb2136536601",
+      "claim_id": "clm_ba2a062412a86cd2",
+      "source_id": "src_aab910773bcb4b70",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_b3e5cb9dc5e84a63",
+      "claim_id": "clm_d26b3083e84574c5",
+      "source_id": "src_aab910773bcb4b70",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_e887918eed9fd5d7",
+      "claim_id": "clm_30a0503de8592926",
+      "source_id": "src_aab910773bcb4b70",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_08c7d8774f254985",
+      "claim_id": "clm_f0e59a7bce6df139",
+      "source_id": "src_aab910773bcb4b70",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_8b0f3ef99905d7c7",
+      "claim_id": "clm_c5aaa6f2ddff60bc",
+      "source_id": "src_53693643348641e5",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_5468b858cdeaaaa2",
+      "claim_id": "clm_a490892a982f378c",
+      "source_id": "src_53693643348641e5",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_659fc5f4007348f9",
+      "claim_id": "clm_711261fd217b6a8d",
+      "source_id": "src_53693643348641e5",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — авторское research-досье (Иван Мельник). Библиография не содержала URL. Claims о Dover Street Market (2004) и повороте к 'not making clothes' (с 2014 года) исключены из этой редакции — не удалось найти для них достаточно надёжный независимый источник в отведённое время; при появлении такого источника могут быть добавлены отдельным revision.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-06T00:00:00.000Z"
+  }
+}

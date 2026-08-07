@@ -1,0 +1,232 @@
+{
+  "id": "obj_94164e8d66da4a7b",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Фрэнк Ллойд Райт",
+  "slug_ru": "frank-lloyd-wright",
+  "summary_ru": "Биографический профиль Frank Lloyd Wright: от Robie House 1910 года через Fallingwater 1935-1939 годов до Guggenheim Museum, открытого через полгода после его смерти в 1959-м, и признания восьми его построек Всемирным наследием ЮНЕСКО в 2019 году.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.94,
+  "created_at": "2026-08-06T00:00:00.000Z",
+  "updated_at": "2026-08-06T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_13f308050a471d69",
+      "wording_ru": "Frank Lloyd Wright родился 8 июня 1867 года в Ричленд-Сентере, Висконсин.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.96,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Frank-Lloyd-Wright",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_6ec742851cb3d245",
+      "wording_ru": "Robie House в Чикаго завершён в 1910 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Frank-Lloyd-Wright",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_1783f80a60ee4d0b",
+      "wording_ru": "Fallingwater построен в 1935-1939 годах для семьи Kaufmann.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.95,
+      "evidence": [
+        {
+          "source_url": "https://fallingwater.org/world-heritage-site/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://interiordesign.net/designwire/8-frank-lloyd-wright-buildings-named-unesco-world-heritage-sites/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_6d2c444bdc7066cc",
+      "wording_ru": "Solomon R. Guggenheim Museum открыт в 1959 году, через шесть месяцев после смерти архитектора.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.93,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Frank-Lloyd-Wright",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://interiordesign.net/designwire/8-frank-lloyd-wright-buildings-named-unesco-world-heritage-sites/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_8fb67405324e5c7a",
+      "wording_ru": "Умер 9 апреля 1959 года.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.96,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Frank-Lloyd-Wright",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_9991da4f0d95b9b7",
+      "wording_ru": "Восемь сооружений Wright были включены в список Всемирного наследия ЮНЕСКО 7 июля 2019 года — первое такое признание для модернистской архитектуры в США.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.95,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Frank-Lloyd-Wright",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://fallingwater.org/world-heritage-site/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://interiordesign.net/designwire/8-frank-lloyd-wright-buildings-named-unesco-world-heritage-sites/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_8d3ac9e99e528256",
+      "title": "Encyclopaedia Britannica — Frank Lloyd Wright",
+      "url": "https://www.britannica.com/biography/Frank-Lloyd-Wright",
+      "publisher": "Encyclopaedia Britannica",
+      "source_tier": 1,
+      "accessed_at": "2026-08-06"
+    },
+    {
+      "id": "src_5c3bd3048fdafcfb",
+      "title": "Fallingwater — World Heritage Inscription",
+      "url": "https://fallingwater.org/world-heritage-site/",
+      "publisher": "Fallingwater / Western Pennsylvania Conservancy",
+      "source_tier": 1,
+      "accessed_at": "2026-08-06"
+    },
+    {
+      "id": "src_0f56c30542a07970",
+      "title": "Interior Design — 8 Frank Lloyd Wright Buildings Named UNESCO World Heritage Sites",
+      "url": "https://interiordesign.net/designwire/8-frank-lloyd-wright-buildings-named-unesco-world-heritage-sites/",
+      "publisher": "Interior Design",
+      "source_tier": 2,
+      "accessed_at": "2026-08-06"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_23ba27b81458cfc1",
+      "claim_id": "clm_13f308050a471d69",
+      "source_id": "src_8d3ac9e99e528256",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_32526b1b29a4f514",
+      "claim_id": "clm_6ec742851cb3d245",
+      "source_id": "src_8d3ac9e99e528256",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_b5d52b10ff255e4c",
+      "claim_id": "clm_1783f80a60ee4d0b",
+      "source_id": "src_5c3bd3048fdafcfb",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_a88f7105a77791e8",
+      "claim_id": "clm_1783f80a60ee4d0b",
+      "source_id": "src_0f56c30542a07970",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_46e37472d4645c20",
+      "claim_id": "clm_6d2c444bdc7066cc",
+      "source_id": "src_8d3ac9e99e528256",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_ca8beb368157f989",
+      "claim_id": "clm_6d2c444bdc7066cc",
+      "source_id": "src_0f56c30542a07970",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_76fce7efb33658a0",
+      "claim_id": "clm_8fb67405324e5c7a",
+      "source_id": "src_8d3ac9e99e528256",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_ba3265cdad1dd6e1",
+      "claim_id": "clm_9991da4f0d95b9b7",
+      "source_id": "src_8d3ac9e99e528256",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_2cd56d98d49f7730",
+      "claim_id": "clm_9991da4f0d95b9b7",
+      "source_id": "src_5c3bd3048fdafcfb",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_9970df82a9c0b70f",
+      "claim_id": "clm_9991da4f0d95b9b7",
+      "source_id": "src_0f56c30542a07970",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — авторское research-досье (Иван Мельник). Библиография не содержала URL. Claims о работе в Adler & Sullivan, начале Taliesin (1911), Taliesin Fellowship (1932) и вкладе Marion Mahony Griffin не вошли в эту редакцию — не удалось найти для каждого отдельный надёжный источник в отведённое время.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-06T00:00:00.000Z"
+  }
+}

@@ -1,0 +1,360 @@
+{
+  "id": "obj_d677d0674c01d98d",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Ив Сен-Лоран",
+  "slug_ru": "yves-saint-laurent",
+  "summary_ru": "Биографический профиль Yves Saint Laurent (1936-2008): от начала работы у Christian Dior в 19 лет через основание собственного дома в 1961 году, Le Smoking и Rive Gauche до первой ретроспективы живого кутюрье в The Met в 1983 году.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.96,
+  "created_at": "2026-08-06T00:00:00.000Z",
+  "updated_at": "2026-08-06T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_22e82bc4a1b60a85",
+      "wording_ru": "Yves Saint Laurent родился 1 августа 1936 года в Оране.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.98,
+      "evidence": [
+        {
+          "source_url": "https://museeyslparis.com/en/biography",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_2ef50dcb807cfc80",
+      "wording_ru": "Начал работать у Christian Dior в 1955 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.95,
+      "evidence": [
+        {
+          "source_url": "https://museeyslparis.com/en/biography",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.metmuseum.org/perspectives/yves-saint-laurent",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_1be23708eb118f73",
+      "wording_ru": "Возглавил дом Dior после смерти основателя в 1957 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.97,
+      "evidence": [
+        {
+          "source_url": "https://museeyslparis.com/en/biography",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_afe4746770faab2f",
+      "wording_ru": "Основал собственный дом в 1961 году вместе с Пьером Берже.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.97,
+      "evidence": [
+        {
+          "source_url": "https://museeyslparis.com/en/biography",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_bfa35a9856618cde",
+      "wording_ru": "Первая коллекция собственного дома представлена 29 января 1962 года.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.97,
+      "evidence": [
+        {
+          "source_url": "https://museeyslparis.com/en/biography/presentation-de-la-premiere-collection",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_22d6cc489352edc6",
+      "wording_ru": "Коллекция Mondrian датируется 1965 годом.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.96,
+      "evidence": [
+        {
+          "source_url": "https://museeyslparis.com/en/biography",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_9952e3859be0a6e0",
+      "wording_ru": "Le Smoking был представлен в 1966 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.97,
+      "evidence": [
+        {
+          "source_url": "https://museeyslparis.com/en/biography",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_c5b14321942ab94e",
+      "wording_ru": "Бутик Rive Gauche открылся в 1966 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.96,
+      "evidence": [
+        {
+          "source_url": "https://museeyslparis.com/en/biography",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_35b47159674fbf74",
+      "wording_ru": "Ретроспектива в The Metropolitan Museum of Art состоялась в 1983 году и стала первой ретроспективой живого кутюрье в истории музея.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.97,
+      "evidence": [
+        {
+          "source_url": "https://museeyslparis.com/en/biography/exposition-au-met",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.metmuseum.org/perspectives/yves-saint-laurent",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_cd0cf7def0c2775b",
+      "wording_ru": "Haute couture дом завершил деятельность в 2002 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.96,
+      "evidence": [
+        {
+          "source_url": "https://museeyslparis.com/en/biography",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_90f102ed6413758e",
+      "wording_ru": "Умер 1 июня 2008 года.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.97,
+      "evidence": [
+        {
+          "source_url": "https://museeyslparis.com/en/biography",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_f90619d8b4f99a96",
+      "wording_ru": "Le Smoking не был первым женским костюмом в истории моды; его значение связано с институционализацией смокинга как элемента haute couture и вечернего гардероба.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://museeyslparis.com/en/biography",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.metmuseum.org/perspectives/yves-saint-laurent",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_a88ce81697f06148",
+      "title": "Musée Yves Saint Laurent Paris — Interactive Biography",
+      "url": "https://museeyslparis.com/en/biography",
+      "publisher": "Musée Yves Saint Laurent Paris",
+      "source_tier": 1,
+      "accessed_at": "2026-08-06"
+    },
+    {
+      "id": "src_2fdd4851a07f82fe",
+      "title": "Musée Yves Saint Laurent Paris — Presentation of the First Collection, 29 January 1962",
+      "url": "https://museeyslparis.com/en/biography/presentation-de-la-premiere-collection",
+      "publisher": "Musée Yves Saint Laurent Paris",
+      "source_tier": 1,
+      "accessed_at": "2026-08-06"
+    },
+    {
+      "id": "src_7538d2211be0ecdb",
+      "title": "Musée Yves Saint Laurent Paris — Exhibition at the Met",
+      "url": "https://museeyslparis.com/en/biography/exposition-au-met",
+      "publisher": "Musée Yves Saint Laurent Paris",
+      "source_tier": 1,
+      "accessed_at": "2026-08-06"
+    },
+    {
+      "id": "src_84b54546c46d247e",
+      "title": "The Metropolitan Museum of Art — Yves Saint Laurent: When Fashion Meets Art",
+      "url": "https://www.metmuseum.org/perspectives/yves-saint-laurent",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 1,
+      "accessed_at": "2026-08-06"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_f54cf4cf2c2b864d",
+      "claim_id": "clm_22e82bc4a1b60a85",
+      "source_id": "src_a88ce81697f06148",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_b0e3aacc3b649eb7",
+      "claim_id": "clm_2ef50dcb807cfc80",
+      "source_id": "src_a88ce81697f06148",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_33f204f821289021",
+      "claim_id": "clm_2ef50dcb807cfc80",
+      "source_id": "src_84b54546c46d247e",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_22e8c8be9fd27ebf",
+      "claim_id": "clm_1be23708eb118f73",
+      "source_id": "src_a88ce81697f06148",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_c2e7e19ee64f6308",
+      "claim_id": "clm_afe4746770faab2f",
+      "source_id": "src_a88ce81697f06148",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_bb1ae5b75a99e0d0",
+      "claim_id": "clm_bfa35a9856618cde",
+      "source_id": "src_2fdd4851a07f82fe",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_057e3307bc01641d",
+      "claim_id": "clm_22d6cc489352edc6",
+      "source_id": "src_a88ce81697f06148",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_4ad9a7ad9427420e",
+      "claim_id": "clm_9952e3859be0a6e0",
+      "source_id": "src_a88ce81697f06148",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_6b825a05a7dc04ea",
+      "claim_id": "clm_c5b14321942ab94e",
+      "source_id": "src_a88ce81697f06148",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_afef9519127402cd",
+      "claim_id": "clm_35b47159674fbf74",
+      "source_id": "src_7538d2211be0ecdb",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_0fa3c87a57dccad1",
+      "claim_id": "clm_35b47159674fbf74",
+      "source_id": "src_84b54546c46d247e",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_270fd152e79a69cc",
+      "claim_id": "clm_cd0cf7def0c2775b",
+      "source_id": "src_a88ce81697f06148",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_4375711e22ae183d",
+      "claim_id": "clm_90f102ed6413758e",
+      "source_id": "src_a88ce81697f06148",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_d20ac1b1643796fe",
+      "claim_id": "clm_f90619d8b4f99a96",
+      "source_id": "src_a88ce81697f06148",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_aec1e39bb9162b92",
+      "claim_id": "clm_f90619d8b4f99a96",
+      "source_id": "src_84b54546c46d247e",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — авторское research-досье (Иван Мельник), content_type Encyclopedia, route /ru/glossary/designers/yves-saint-laurent. Библиография не содержала URL; Claude (сессия) нашёл и проверил реальные URL для официальных источников. Дополняет уже опубликованную институциональную статью об истории дома Saint Laurent, не дублируя её хронологию бренда.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-06T00:00:00.000Z"
+  }
+}

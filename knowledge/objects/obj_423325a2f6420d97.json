@@ -1,0 +1,366 @@
+{
+  "id": "obj_423325a2f6420d97",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Кристиан Диор",
+  "slug_ru": "christian-dior",
+  "summary_ru": "Биографический профиль Christian Dior (1905-1957): от галериста через Piguet и Lelong к основанию дома в 1946 году и New Look 1947-го — десятилетняя карьера, определившая послевоенную моду.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.94,
+  "created_at": "2026-08-06T00:00:00.000Z",
+  "updated_at": "2026-08-06T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_67b86f163bf099b8",
+      "wording_ru": "Christian Dior родился 21 января 1905 года в Гранвиле.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.97,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/art/collection/search/81460",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.galeriedior.com/en/history",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_ab56dbf825f1305a",
+      "wording_ru": "До couture работал у Robert Piguet и Lucien Lelong.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.93,
+      "evidence": [
+        {
+          "source_url": "https://www.galeriedior.com/en/history",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.ngv.vic.gov.au/ngv_timeline/the-house-of-dior-seventy-years-of-haute-couture/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_03756d65477d81bc",
+      "wording_ru": "Дом Dior основан в 1946 году при финансировании Marcel Boussac.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.96,
+      "evidence": [
+        {
+          "source_url": "https://www.galeriedior.com/en/history",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.ngv.vic.gov.au/ngv_timeline/the-house-of-dior-seventy-years-of-haute-couture/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_10c9fb6957a3d351",
+      "wording_ru": "Первая коллекция показана 12 февраля 1947 года.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.97,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/art/collection/search/81460",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.galeriedior.com/en/history",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_342d88e69b852bab",
+      "wording_ru": "Название New Look закрепилось после реакции редактора Harper's Bazaar Carmel Snow.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.93,
+      "evidence": [
+        {
+          "source_url": "https://www.galeriedior.com/en/history",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_b1c8052f2030b043",
+      "wording_ru": "Ensemble Bar относится к линии Corolle первой коллекции.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.96,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/art/collection/search/81460",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_9c5c2c7d953d7697",
+      "wording_ru": "Аромат Miss Dior был запущен в 1947 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.92,
+      "evidence": [
+        {
+          "source_url": "https://www.galeriedior.com/en/history",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_7f2905314880b5ef",
+      "wording_ru": "При жизни основателя дом развивал лицензирование и международные филиалы.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.ngv.vic.gov.au/ngv_timeline/the-house-of-dior-seventy-years-of-haute-couture/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.galeriedior.com/en/history",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_02e17d3d1cf8d10e",
+      "wording_ru": "Christian Dior умер 24 октября 1957 года в Италии.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.96,
+      "evidence": [
+        {
+          "source_url": "https://www.galeriedior.com/en/history",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.ngv.vic.gov.au/ngv_timeline/the-house-of-dior-seventy-years-of-haute-couture/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_292837675770ca10",
+      "wording_ru": "После его смерти дом возглавил 21-летний Yves Saint Laurent.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.96,
+      "evidence": [
+        {
+          "source_url": "https://www.galeriedior.com/en/history",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_2d3a2ef46e6aed34",
+      "wording_ru": "New Look вызвал общественную критику из-за расхода ткани на фоне послевоенного дефицита.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.88,
+      "evidence": [
+        {
+          "source_url": "https://www.ngv.vic.gov.au/ngv_timeline/the-house-of-dior-seventy-years-of-haute-couture/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_3d2b3e2ab63f2176",
+      "title": "Christian Dior Couture — Galerie Dior, official history",
+      "url": "https://www.galeriedior.com/en/history",
+      "publisher": "Christian Dior Couture",
+      "source_tier": 1,
+      "accessed_at": "2026-08-06"
+    },
+    {
+      "id": "src_5a4334f7d1cfa92b",
+      "title": "The Met — House of Dior, \"Bar\", spring/summer 1947, object record",
+      "url": "https://www.metmuseum.org/art/collection/search/81460",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 1,
+      "accessed_at": "2026-08-06"
+    },
+    {
+      "id": "src_1b81450b7dc8f0e9",
+      "title": "NGV — The House of Dior: Seventy Years of Haute Couture",
+      "url": "https://www.ngv.vic.gov.au/ngv_timeline/the-house-of-dior-seventy-years-of-haute-couture/",
+      "publisher": "National Gallery of Victoria",
+      "source_tier": 2,
+      "accessed_at": "2026-08-06"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_5ef7abe10724f119",
+      "claim_id": "clm_67b86f163bf099b8",
+      "source_id": "src_5a4334f7d1cfa92b",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_7cdcbb032e6530f9",
+      "claim_id": "clm_67b86f163bf099b8",
+      "source_id": "src_3d2b3e2ab63f2176",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_1dd1dece2db05ea2",
+      "claim_id": "clm_ab56dbf825f1305a",
+      "source_id": "src_3d2b3e2ab63f2176",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_792aa119e03faf4d",
+      "claim_id": "clm_ab56dbf825f1305a",
+      "source_id": "src_1b81450b7dc8f0e9",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_1de2ab5d11e738d7",
+      "claim_id": "clm_03756d65477d81bc",
+      "source_id": "src_3d2b3e2ab63f2176",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_8973b49ffeb19dec",
+      "claim_id": "clm_03756d65477d81bc",
+      "source_id": "src_1b81450b7dc8f0e9",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_41dd0dd871fcbe84",
+      "claim_id": "clm_10c9fb6957a3d351",
+      "source_id": "src_5a4334f7d1cfa92b",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_c151f1ba7278344a",
+      "claim_id": "clm_10c9fb6957a3d351",
+      "source_id": "src_3d2b3e2ab63f2176",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_fbde20c56602526b",
+      "claim_id": "clm_342d88e69b852bab",
+      "source_id": "src_3d2b3e2ab63f2176",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_beef410e0853cf0d",
+      "claim_id": "clm_b1c8052f2030b043",
+      "source_id": "src_5a4334f7d1cfa92b",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_08e2337ad09d0d07",
+      "claim_id": "clm_9c5c2c7d953d7697",
+      "source_id": "src_3d2b3e2ab63f2176",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_2d23647f10d3ec63",
+      "claim_id": "clm_7f2905314880b5ef",
+      "source_id": "src_1b81450b7dc8f0e9",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_be3054d720b0985f",
+      "claim_id": "clm_7f2905314880b5ef",
+      "source_id": "src_3d2b3e2ab63f2176",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_5f5ca157bc8cd388",
+      "claim_id": "clm_02e17d3d1cf8d10e",
+      "source_id": "src_3d2b3e2ab63f2176",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_81a7cd83e6d8cc68",
+      "claim_id": "clm_02e17d3d1cf8d10e",
+      "source_id": "src_1b81450b7dc8f0e9",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_0b95e9f4a8f3707c",
+      "claim_id": "clm_292837675770ca10",
+      "source_id": "src_3d2b3e2ab63f2176",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_03de8034ee31f556",
+      "claim_id": "clm_2d3a2ef46e6aed34",
+      "source_id": "src_1b81450b7dc8f0e9",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — авторское research-досье (Иван Мельник). Библиография не содержала URL; Claude (сессия) нашла реальные URL. Дополняет уже опубликованную институциональную статью об истории дома Christian Dior.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-06T00:00:00.000Z"
+  }
+}

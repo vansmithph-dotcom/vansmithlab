@@ -1,0 +1,200 @@
+{
+  "id": "obj_c1f63063dcf59405",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Александр Маккуин",
+  "slug_ru": "alexander-mcqueen",
+  "summary_ru": "Биографический профиль Alexander McQueen (1969-2010): от подмастерья на Savile Row через выпускную коллекцию, купленную Isabella Blow целиком, и пять лет во главе Givenchy до 19-летней карьеры под собственным именем.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.95,
+  "created_at": "2026-08-06T00:00:00.000Z",
+  "updated_at": "2026-08-06T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_26916b255efef98a",
+      "wording_ru": "Учился портновскому ремеслу подмастерьем на Savile Row.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.94,
+      "evidence": [
+        {
+          "source_url": "https://blog.metmuseum.org/alexandermcqueen/about/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_751e137381345f4b",
+      "wording_ru": "Окончил MA Fashion в Central Saint Martins в 1992 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.96,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/exhibitions/listings/2011/alexander-mcqueen",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://blog.metmuseum.org/alexandermcqueen/about/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_d63ca2d8e63c6538",
+      "wording_ru": "Его выпускную коллекцию «Jack the Ripper Stalks His Victims» целиком приобрела стилист Isabella Blow.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.93,
+      "evidence": [
+        {
+          "source_url": "https://blog.metmuseum.org/alexandermcqueen/about/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_e8fc19f2ae31c4fa",
+      "wording_ru": "Возглавлял модный дом Givenchy с 1996 по 2001 год.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.95,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/exhibitions/listings/2011/alexander-mcqueen",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_6812b8dcddb55f18",
+      "wording_ru": "Карьера дизайнера под собственным именем продолжалась 19 лет, вплоть до его смерти в 2010 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.94,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/exhibitions/listings/2011/alexander-mcqueen",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://blog.metmuseum.org/alexandermcqueen/about/",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_e246a16ffc5459a2",
+      "wording_ru": "Умер 11 февраля 2010 года.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.96,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/exhibitions/listings/2011/alexander-mcqueen",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_1e13735a5f90cb4f",
+      "title": "The Met — Alexander McQueen: Savage Beauty (exhibition)",
+      "url": "https://www.metmuseum.org/exhibitions/listings/2011/alexander-mcqueen",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 1,
+      "accessed_at": "2026-08-06"
+    },
+    {
+      "id": "src_8923b7dca93a79d0",
+      "title": "The Met — About the Exhibition, Alexander McQueen: Savage Beauty",
+      "url": "https://blog.metmuseum.org/alexandermcqueen/about/",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 1,
+      "accessed_at": "2026-08-06"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_aad153b281729832",
+      "claim_id": "clm_26916b255efef98a",
+      "source_id": "src_8923b7dca93a79d0",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_46b36192578a0ed1",
+      "claim_id": "clm_751e137381345f4b",
+      "source_id": "src_1e13735a5f90cb4f",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_dc2411e892f9453a",
+      "claim_id": "clm_751e137381345f4b",
+      "source_id": "src_8923b7dca93a79d0",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_22d961aef616e296",
+      "claim_id": "clm_d63ca2d8e63c6538",
+      "source_id": "src_8923b7dca93a79d0",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_d6e1869faf5ebaeb",
+      "claim_id": "clm_e8fc19f2ae31c4fa",
+      "source_id": "src_1e13735a5f90cb4f",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_d7b4e71ca05079e8",
+      "claim_id": "clm_6812b8dcddb55f18",
+      "source_id": "src_1e13735a5f90cb4f",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_7f555c463d9b0b5a",
+      "claim_id": "clm_6812b8dcddb55f18",
+      "source_id": "src_8923b7dca93a79d0",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_4cfd8343a006b335",
+      "claim_id": "clm_e246a16ffc5459a2",
+      "source_id": "src_1e13735a5f90cb4f",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — авторское research-досье (Иван Мельник). Библиография не содержала URL. Claims о конкретных показах (No.13, VOSS, Widows of Culloden, Plato's Atlantis) и о дате рождения 17.03.1969 не вошли в эту редакцию — не удалось найти для каждого из них отдельный надёжный источник в отведённое время; сфокусировано на биографических вехах с наиболее прочной источниковой базой.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-06T00:00:00.000Z"
+  }
+}

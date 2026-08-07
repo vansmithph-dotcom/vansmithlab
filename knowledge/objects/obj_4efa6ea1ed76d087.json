@@ -1,0 +1,254 @@
+{
+  "id": "obj_4efa6ea1ed76d087",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Миучча Прада",
+  "slug_ru": "miuccia-prada",
+  "summary_ru": "Биографический профиль Miuccia Prada: от PhD по политологии и пантомимы через возглавление семейного бизнеса в 1978 году и нейлоновые сумки до совместной творческой дирекции с Raf Simons с 2020 года.",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.94,
+  "created_at": "2026-08-06T00:00:00.000Z",
+  "updated_at": "2026-08-06T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_4c1b0d666f25428f",
+      "wording_ru": "Miuccia Prada родилась 10 мая 1949 года в Милане.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.95,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Miuccia-Prada",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_543b8c8af7b0fe43",
+      "wording_ru": "Получила PhD по политологии в Университете Милана и около пяти лет обучалась пантомиме в Piccolo Teatro.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.95,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Miuccia-Prada",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_c1bd419416e00801",
+      "wording_ru": "Вошла в семейный бизнес в 1970 году, а в 1978-м возглавила компанию после матери.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Miuccia-Prada",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_8e03bd0c08f219c7",
+      "wording_ru": "Получила раннее признание благодаря использованию чёрного нейлона Pocono как luxury-материала.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.94,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Miuccia-Prada",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        },
+        {
+          "source_url": "https://www.pradagroup.com/en/group/history.html",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_8b50c9d8ba1afb23",
+      "wording_ru": "Первая женская ready-to-wear коллекция Prada представлена в 1988 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.93,
+      "evidence": [
+        {
+          "source_url": "https://www.pradagroup.com/en/group/history.html",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_203fa0c53e78dc08",
+      "wording_ru": "Линия Miu Miu запущена в 1993 году.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.93,
+      "evidence": [
+        {
+          "source_url": "https://www.pradagroup.com/en/group/history.html",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_a57407ec5ba55b7b",
+      "wording_ru": "Raf Simons стал co-creative director Prada со 2 апреля 2020 года.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.97,
+      "evidence": [
+        {
+          "source_url": "https://www.pradagroup.com/en/group/history.html",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_8bbb1c127baa4f0e",
+      "wording_ru": "Miuccia Prada и Raf Simons несут равную творческую ответственность за коллекции дома.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.95,
+      "evidence": [
+        {
+          "source_url": "https://www.pradagroup.com/en/group/history.html",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    },
+    {
+      "id": "clm_4f02de2f3d7318d4",
+      "wording_ru": "Ugly chic — аналитический термин индустрии и критики, а не официальное название метода самой Prada.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.britannica.com/biography/Miuccia-Prada",
+          "locator": "см. источник",
+          "support": "Подтверждает утверждение"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_debd8aa91abe011d",
+      "title": "Encyclopaedia Britannica — Miuccia Prada",
+      "url": "https://www.britannica.com/biography/Miuccia-Prada",
+      "publisher": "Encyclopaedia Britannica",
+      "source_tier": 1,
+      "accessed_at": "2026-08-06"
+    },
+    {
+      "id": "src_2e62574d65f92cf5",
+      "title": "Prada Group — The History of the Prada Group Over the Years",
+      "url": "https://www.pradagroup.com/en/group/history.html",
+      "publisher": "Prada Group",
+      "source_tier": 1,
+      "accessed_at": "2026-08-06"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_8bfd6d5ae7824b15",
+      "claim_id": "clm_4c1b0d666f25428f",
+      "source_id": "src_debd8aa91abe011d",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_f4c84cadcc4acdbf",
+      "claim_id": "clm_543b8c8af7b0fe43",
+      "source_id": "src_debd8aa91abe011d",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_50f10fd9610741f6",
+      "claim_id": "clm_c1bd419416e00801",
+      "source_id": "src_debd8aa91abe011d",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_4b8854086638303e",
+      "claim_id": "clm_8e03bd0c08f219c7",
+      "source_id": "src_debd8aa91abe011d",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_2eb24bcf7ca6e30b",
+      "claim_id": "clm_8e03bd0c08f219c7",
+      "source_id": "src_2e62574d65f92cf5",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_bc28b0efb803463b",
+      "claim_id": "clm_8b50c9d8ba1afb23",
+      "source_id": "src_2e62574d65f92cf5",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_1c4d2cf382d97aa5",
+      "claim_id": "clm_203fa0c53e78dc08",
+      "source_id": "src_2e62574d65f92cf5",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_8c65add4257e0681",
+      "claim_id": "clm_a57407ec5ba55b7b",
+      "source_id": "src_2e62574d65f92cf5",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_5683d8abf2dc22f1",
+      "claim_id": "clm_8bbb1c127baa4f0e",
+      "source_id": "src_2e62574d65f92cf5",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    },
+    {
+      "id": "cit_a7be8b79edb24dae",
+      "claim_id": "clm_4f02de2f3d7318d4",
+      "source_id": "src_debd8aa91abe011d",
+      "locator": "см. источник целиком",
+      "support": "Источник подтверждает утверждение."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
+    "note": "Источник — авторское research-досье (Иван Мельник). Библиография не содержала URL. Дата вхождения в семейный бизнес варьируется между источниками (1970 vs 1977 по The Met) — отражено осторожной формулировкой, а не единственной точной датой. Дополняет уже опубликованную институциональную статью об истории дома Prada.",
+    "converted_by": "claude_session_manual_conversion",
+    "converted_at": "2026-08-06T00:00:00.000Z"
+  }
+}
