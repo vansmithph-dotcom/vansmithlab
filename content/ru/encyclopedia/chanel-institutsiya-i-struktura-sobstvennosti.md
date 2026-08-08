@@ -1,18 +1,3 @@
-# ```yaml
-
-```yaml
-content_id: "obj_chanel_house_ru_001"
-content_type: encyclopedia
-voice: institutional
-primary_object_id: "org_chanel"
-locale: ru
-source_revision: 1
-verification_state: verified   # multi_source_verified for founding/product facts; verified overall (see per-section notes)
-confidence: 0.90
-last_reviewed: 2026-08-05
-language_switcher: [ru (master), en (localization pending)]
-```
-
 # Chanel (Дом Chanel)
 
 **Chanel** — французский дом высокой моды и предметов роскоши, основанный в Париже в 1910 году Габриэль «Коко» Шанель. Сегодня это один из немногих крупных домов от-кутюр, остающийся частной компанией, полностью принадлежащей семье Вертеймер.

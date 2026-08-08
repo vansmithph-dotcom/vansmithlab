@@ -5,7 +5,7 @@ import type { PublishedContent } from "@/lib/content";
 import { copy, type Locale } from "@/lib/site-data";
 
 const labels = {
-  ru: { back: "РќР°Р·Р°Рґ", verification: "РџСЂРѕРІРµСЂРєР°", confidence: "РЈРІРµСЂРµРЅРЅРѕСЃС‚СЊ", reviewed: "РћР±РЅРѕРІР»РµРЅРѕ", sources: "РСЃС‚РѕС‡РЅРёРєРё", revision: "Р РµРІРёР·РёСЏ", ai: "РњР°С‚РµСЂРёР°Р» РїРѕРґРіРѕС‚РѕРІР»РµРЅ Р°РІС‚РѕРјР°С‚РёР·РёСЂРѕРІР°РЅРЅРѕР№ СЂРµРґР°РєС†РёРѕРЅРЅРѕР№ СЃРёСЃС‚РµРјРѕР№ Рё РїСЂРѕС€С‘Р» РїСЂРѕРІРµСЂРєСѓ РёСЃС‚РѕС‡РЅРёРєРѕРІ.", related: "РЎРІСЏР·Р°РЅРЅС‹Рµ С‚РµРјС‹", nextReading: "Р§С‚Рѕ С‡РёС‚Р°С‚СЊ РґР°Р»СЊС€Рµ", fact: "Р¤Р°РєС‚", interpretation: "РРЅС‚РµСЂРїСЂРµС‚Р°С†РёСЏ" },
+  ru: { back: "Р СњР В°Р В·Р В°Р Т‘", verification: "Р СџРЎР‚Р С•Р Р†Р ВµРЎР‚Р С”Р В°", confidence: "Р Р€Р Р†Р ВµРЎР‚Р ВµР Р…Р Р…Р С•РЎРѓРЎвЂљРЎРЉ", reviewed: "Р С›Р В±Р Р…Р С•Р Р†Р В»Р ВµР Р…Р С•", sources: "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”Р С‘", revision: "Р В Р ВµР Р†Р С‘Р В·Р С‘РЎРЏ", ai: "Р СљР В°РЎвЂљР ВµРЎР‚Р С‘Р В°Р В» Р С—Р С•Р Т‘Р С–Р С•РЎвЂљР С•Р Р†Р В»Р ВµР Р… Р В°Р Р†РЎвЂљР С•Р СР В°РЎвЂљР С‘Р В·Р С‘РЎР‚Р С•Р Р†Р В°Р Р…Р Р…Р С•Р в„– РЎР‚Р ВµР Т‘Р В°Р С”РЎвЂ Р С‘Р С•Р Р…Р Р…Р С•Р в„– РЎРѓР С‘РЎРѓРЎвЂљР ВµР СР С•Р в„– Р С‘ Р С—РЎР‚Р С•РЎв‚¬РЎвЂР В» Р С—РЎР‚Р С•Р Р†Р ВµРЎР‚Р С”РЎС“ Р С‘РЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”Р С•Р Р†.", related: "Р РЋР Р†РЎРЏР В·Р В°Р Р…Р Р…РЎвЂ№Р Вµ РЎвЂљР ВµР СРЎвЂ№", nextReading: "Р В§РЎвЂљР С• РЎвЂЎР С‘РЎвЂљР В°РЎвЂљРЎРЉ Р Т‘Р В°Р В»РЎРЉРЎв‚¬Р Вµ", fact: "Р В¤Р В°Р С”РЎвЂљ", interpretation: "Р ВР Р…РЎвЂљР ВµРЎР‚Р С—РЎР‚Р ВµРЎвЂљР В°РЎвЂ Р С‘РЎРЏ" },
   en: { back: "Back", verification: "Verification", confidence: "Confidence", reviewed: "Last reviewed", sources: "Sources", revision: "Revision", ai: "This publication was prepared by an automated editorial system and passed source validation.", related: "Related subjects", nextReading: "Further reading", fact: "Fact", interpretation: "Interpretation" }
 } as const;
 
@@ -51,15 +51,15 @@ export function PublishedArticle({ locale, section, content }: { locale: Locale;
   return (
     <article className="shell object-page published-article">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd).replace(/</g, "\\u003c") }} />
-      <Link className="back-link" href={`/${locale}/${section}`}>в†ђ {backLabel}</Link>
+      <Link className="back-link" href={`/${locale}/${section}`}>РІвЂ С’ {backLabel}</Link>
 
       <header className="object-header">
         <div>
-          <p className="eyebrow">{metadata.content_type.replaceAll("_", " ")} В· {metadata.content_id}</p>
+          <p className="eyebrow">{metadata.content_type.replaceAll("_", " ")}</p>
           <h1>{metadata.title}</h1>
           <p>{metadata.summary}</p>
-          {isAnalysis && <p className="article-byline">{metadata.author} В· {metadata.last_reviewed}</p>}
-          {isProfile && <p className="article-byline">{locale === "ru" ? "Р‘РёРѕРіСЂР°С„РёС‡РµСЃРєРёР№ РїСЂРѕС„РёР»СЊ" : "Biographical profile"} В· {metadata.last_reviewed}</p>}
+          {isAnalysis && <p className="article-byline">{metadata.author} Р’В· {metadata.last_reviewed}</p>}
+          {isProfile && <p className="article-byline">{locale === "ru" ? "Р вЂР С‘Р С•Р С–РЎР‚Р В°РЎвЂћР С‘РЎвЂЎР ВµРЎРѓР С”Р С‘Р в„– Р С—РЎР‚Р С•РЎвЂћР С‘Р В»РЎРЉ" : "Biographical profile"} Р’В· {metadata.last_reviewed}</p>}
         </div>
       </header>
 
@@ -67,12 +67,12 @@ export function PublishedArticle({ locale, section, content }: { locale: Locale;
       {metadata.translation && metadata.translation.source_locale === "ru" && (
         <div className="translation-banner">
           {locale === "ru" ? (
-            <p>Русский оригинал · ревизия {metadata.source_revision} · <Link href={`/en/${section}/${content.metadata.slug}`}>английская адаптация доступна</Link></p>
+            <p>Р СѓСЃСЃРєРёР№ РѕСЂРёРіРёРЅР°Р» В· СЂРµРІРёР·РёСЏ {metadata.source_revision} В· <Link href={`/en/${section}/${content.metadata.slug}`}>Р°РЅРіР»РёР№СЃРєР°СЏ Р°РґР°РїС‚Р°С†РёСЏ РґРѕСЃС‚СѓРїРЅР°</Link></p>
           ) : (
             <p>
-              Английская адаптация на основе русской ревизии {metadata.translation.source_revision}
+              РђРЅРіР»РёР№СЃРєР°СЏ Р°РґР°РїС‚Р°С†РёСЏ РЅР° РѕСЃРЅРѕРІРµ СЂСѓСЃСЃРєРѕР№ СЂРµРІРёР·РёРё {metadata.translation.source_revision}
               {metadata.source_revision > metadata.translation.source_revision && (
-                <> · <strong>Русский оригинал обновлён (ревизия {metadata.source_revision}). Адаптация может не отражать последние изменения.</strong></>
+                <> В· <strong>Р СѓСЃСЃРєРёР№ РѕСЂРёРіРёРЅР°Р» РѕР±РЅРѕРІР»С‘РЅ (СЂРµРІРёР·РёСЏ {metadata.source_revision}). РђРґР°РїС‚Р°С†РёСЏ РјРѕР¶РµС‚ РЅРµ РѕС‚СЂР°Р¶Р°С‚СЊ РїРѕСЃР»РµРґРЅРёРµ РёР·РјРµРЅРµРЅРёСЏ.</strong></>
               )}
             </p>
           )}
@@ -80,7 +80,7 @@ export function PublishedArticle({ locale, section, content }: { locale: Locale;
       )}
       {!metadata.translation && locale === "ru" && metadata.source_locale === "ru" && (
         <div className="translation-banner">
-          <p>Русский оригинал · английская адаптация ожидается</p>
+          <p>Р СѓСЃСЃРєРёР№ РѕСЂРёРіРёРЅР°Р» В· Р°РЅРіР»РёР№СЃРєР°СЏ Р°РґР°РїС‚Р°С†РёСЏ РѕР¶РёРґР°РµС‚СЃСЏ</p>
         </div>
       )}
 
@@ -92,7 +92,7 @@ export function PublishedArticle({ locale, section, content }: { locale: Locale;
             <span>
               {metadata.hero_image.credit}
               {metadata.hero_image.origin === "ai_illustration" && (
-                <> В· <abbr title={locale === "ru" ? "РЎРіРµРЅРµСЂРёСЂРѕРІР°РЅРѕ AI" : "AI-generated"}>{locale === "ru" ? "AI" : "AI"}</abbr></>
+                <> Р’В· <abbr title={locale === "ru" ? "Р РЋР С–Р ВµР Р…Р ВµРЎР‚Р С‘РЎР‚Р С•Р Р†Р В°Р Р…Р С• AI" : "AI-generated"}>{locale === "ru" ? "AI" : "AI"}</abbr></>
               )}
             </span>
           </figcaption>
@@ -103,8 +103,8 @@ export function PublishedArticle({ locale, section, content }: { locale: Locale;
         <div className="article-copy">
           {isAnalysis && (
             <div className="analysis-disclaimer" style={{ marginBottom: 28, padding: "14px 18px", borderLeft: "3px solid var(--accent)", background: "var(--canvas)", fontSize: 12, lineHeight: 1.6, color: "var(--muted)" }}>
-              <strong style={{ color: "var(--ink)", display: "block", marginBottom: 4 }}>{locale === "ru" ? "РђРЅР°Р»РёС‚РёС‡РµСЃРєРѕРµ СЌСЃСЃРµ" : "Analytical essay"}</strong>
-              {locale === "ru" ? "Р’ СЌС‚РѕРј С‚РµРєСЃС‚Рµ С„Р°РєС‚С‹, РёРЅС‚РµСЂРїСЂРµС‚Р°С†РёСЏ Рё РјРЅРµРЅРёРµ Р°РІС‚РѕСЂР° РѕР±РѕР·РЅР°С‡РµРЅС‹ РѕС‚РґРµР»СЊРЅРѕ. РЈС‚РІРµСЂР¶РґРµРЅРёСЏ СЃРѕ СЃСЃС‹Р»РєР°РјРё РЅР° РёСЃС‚РѕС‡РЅРёРєРё РѕС‚РјРµС‡РµРЅС‹ РјР°СЂРєРµСЂРѕРј В«С„Р°РєС‚В», Р°РІС‚РѕСЂСЃРєРёРµ СЃСѓР¶РґРµРЅРёСЏ вЂ” РјР°СЂРєРµСЂРѕРј В«РёРЅС‚РµСЂРїСЂРµС‚Р°С†РёСЏВ». Р’СЃРµ СЃСЃС‹Р»РєРё РІРµРґСѓС‚ Рє РїСЂРѕРІРµСЂСЏРµРјС‹Рј РёСЃС‚РѕС‡РЅРёРєР°Рј." : "In this text, facts, interpretation and the author's opinion are distinguished. Claims with source references are marked as fact, authorial judgments as interpretation. All references lead to verifiable sources."}
+              <strong style={{ color: "var(--ink)", display: "block", marginBottom: 4 }}>{locale === "ru" ? "Р С’Р Р…Р В°Р В»Р С‘РЎвЂљР С‘РЎвЂЎР ВµРЎРѓР С”Р С•Р Вµ РЎРЊРЎРѓРЎРѓР Вµ" : "Analytical essay"}</strong>
+              {locale === "ru" ? "Р вЂ™ РЎРЊРЎвЂљР С•Р С РЎвЂљР ВµР С”РЎРѓРЎвЂљР Вµ РЎвЂћР В°Р С”РЎвЂљРЎвЂ№, Р С‘Р Р…РЎвЂљР ВµРЎР‚Р С—РЎР‚Р ВµРЎвЂљР В°РЎвЂ Р С‘РЎРЏ Р С‘ Р СР Р…Р ВµР Р…Р С‘Р Вµ Р В°Р Р†РЎвЂљР С•РЎР‚Р В° Р С•Р В±Р С•Р В·Р Р…Р В°РЎвЂЎР ВµР Р…РЎвЂ№ Р С•РЎвЂљР Т‘Р ВµР В»РЎРЉР Р…Р С•. Р Р€РЎвЂљР Р†Р ВµРЎР‚Р В¶Р Т‘Р ВµР Р…Р С‘РЎРЏ РЎРѓР С• РЎРѓРЎРѓРЎвЂ№Р В»Р С”Р В°Р СР С‘ Р Р…Р В° Р С‘РЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”Р С‘ Р С•РЎвЂљР СР ВµРЎвЂЎР ВµР Р…РЎвЂ№ Р СР В°РЎР‚Р С”Р ВµРЎР‚Р С•Р С Р’В«РЎвЂћР В°Р С”РЎвЂљР’В», Р В°Р Р†РЎвЂљР С•РЎР‚РЎРѓР С”Р С‘Р Вµ РЎРѓРЎС“Р В¶Р Т‘Р ВµР Р…Р С‘РЎРЏ РІР‚вЂќ Р СР В°РЎР‚Р С”Р ВµРЎР‚Р С•Р С Р’В«Р С‘Р Р…РЎвЂљР ВµРЎР‚Р С—РЎР‚Р ВµРЎвЂљР В°РЎвЂ Р С‘РЎРЏР’В». Р вЂ™РЎРѓР Вµ РЎРѓРЎРѓРЎвЂ№Р В»Р С”Р С‘ Р Р†Р ВµР Т‘РЎС“РЎвЂљ Р С” Р С—РЎР‚Р С•Р Р†Р ВµРЎР‚РЎРЏР ВµР СРЎвЂ№Р С Р С‘РЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”Р В°Р С." : "In this text, facts, interpretation and the author's opinion are distinguished. Claims with source references are marked as fact, authorial judgments as interpretation. All references lead to verifiable sources."}
             </div>
           )}
           <ReactMarkdown components={{ a: ({ children, ...props }) => <a {...props} rel="noreferrer" target="_blank">{children}</a> }}>{renderedBody}</ReactMarkdown>
@@ -132,7 +132,7 @@ export function PublishedArticle({ locale, section, content }: { locale: Locale;
                 {sources.map((source) => (
                   <li key={source.id} style={{ padding: "10px 0", borderBottom: "1px solid var(--line)", fontSize: 12, lineHeight: 1.45 }}>
                     <a href={source.url} rel="noreferrer" target="_blank">{source.title}</a>
-                    <small style={{ display: "block", marginTop: 5, color: "var(--muted)" }}>{source.publisher} В· {source.accessed_at}</small>
+                    <small style={{ display: "block", marginTop: 5, color: "var(--muted)" }}>{source.publisher} Р’В· {source.accessed_at}</small>
                   </li>
                 ))}
               </ol>
@@ -149,11 +149,11 @@ export function PublishedArticle({ locale, section, content }: { locale: Locale;
         <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 48 }}>
           <div>
             <p className="eyebrow">{text.related}</p>
-            <p style={{ color: "var(--muted)", fontSize: 14 }}>{locale === "ru" ? "РЎРІСЏР·Р°РЅРЅС‹Рµ РѕР±СЉРµРєС‚С‹ Рё С‚РµРјС‹ РїРѕСЏРІСЏС‚СЃСЏ Р·РґРµСЃСЊ РїРѕСЃР»Рµ РїРѕРґРєР»СЋС‡РµРЅРёСЏ knowledge engine." : "Related objects and topics will appear here once the knowledge engine is connected."}</p>
+            <p style={{ color: "var(--muted)", fontSize: 14 }}>{locale === "ru" ? "Р РЋР Р†РЎРЏР В·Р В°Р Р…Р Р…РЎвЂ№Р Вµ Р С•Р В±РЎР‰Р ВµР С”РЎвЂљРЎвЂ№ Р С‘ РЎвЂљР ВµР СРЎвЂ№ Р С—Р С•РЎРЏР Р†РЎРЏРЎвЂљРЎРѓРЎРЏ Р В·Р Т‘Р ВµРЎРѓРЎРЉ Р С—Р С•РЎРѓР В»Р Вµ Р С—Р С•Р Т‘Р С”Р В»РЎР‹РЎвЂЎР ВµР Р…Р С‘РЎРЏ knowledge engine." : "Related objects and topics will appear here once the knowledge engine is connected."}</p>
           </div>
           <div>
             <p className="eyebrow">{text.nextReading}</p>
-            <p style={{ color: "var(--muted)", fontSize: 14 }}>{locale === "ru" ? "Р РµРєРѕРјРµРЅРґР°С†РёРё РЅР° РѕСЃРЅРѕРІРµ РіСЂР°С„Р° Р·РЅР°РЅРёР№." : "Recommendations based on the knowledge graph."}</p>
+            <p style={{ color: "var(--muted)", fontSize: 14 }}>{locale === "ru" ? "Р В Р ВµР С”Р С•Р СР ВµР Р…Р Т‘Р В°РЎвЂ Р С‘Р С‘ Р Р…Р В° Р С•РЎРѓР Р…Р С•Р Р†Р Вµ Р С–РЎР‚Р В°РЎвЂћР В° Р В·Р Р…Р В°Р Р…Р С‘Р в„–." : "Recommendations based on the knowledge graph."}</p>
           </div>
         </div>
       </footer>
