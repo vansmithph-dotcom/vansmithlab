@@ -18,6 +18,30 @@ const knowledgeRoot = path.join(process.cwd(), "knowledge", "objects");
 const publicSections = new Set(["encyclopedia", "glossary", "glossary/designers", "glossary/artists", "articles", "analysis", "timeline", "collection", "collections"]);
 const normalizedSection = (section: string) => section === "collections" ? "collection" : section;
 
+// Content JSON and knowledge objects use different id namespaces (the docx pipeline
+// minted content ids, while knowledge objects carry their own ids). The reliable
+// link is the slug: each knowledge object records slug_ru/slug_en that match the
+// content slug for its canonical locale. We index once per process to avoid
+// repeated filesystem walks during build.
+let knowledgeIndex: Record<string, string> | null = null;
+function knowledgeIdForSlug(slug: string, locale: string): string | undefined {
+  if (!knowledgeIndex) {
+    knowledgeIndex = {};
+    if (fs.existsSync(knowledgeRoot)) {
+      for (const file of fs.readdirSync(knowledgeRoot)) {
+        if (!file.endsWith(".json")) continue;
+        try {
+          const obj = JSON.parse(fs.readFileSync(path.join(knowledgeRoot, file), "utf8"));
+          for (const key of ["slug_ru", "slug_en", "slug"]) {
+            if (typeof obj[key] === "string" && obj[key]) knowledgeIndex[obj[key]] = obj.id ?? file.replace(/\.json$/, "");
+          }
+        } catch { /* skip malformed object */ }
+      }
+    }
+  }
+  return knowledgeIndex[slug];
+}
+
 // Section directories can nest one level deep (e.g. "glossary/designers"). We walk each
 // public section directory and, if it holds no content files directly, look one level
 // further down for a recognised nested section instead of silently returning nothing.
@@ -79,15 +103,36 @@ export function getContent(locale: Locale, section: string, slug: string): Publi
     const metadata = JSON.parse(fs.readFileSync(`${base}.json`, "utf8")) as ContentMetadata;
     const body = fs.readFileSync(`${base}.md`, "utf8");
     let knowledge: { sources: KnowledgeSource[]; citations: KnowledgeCitation[] } = { sources: [], citations: [] };
-    try {
-      knowledge = JSON.parse(fs.readFileSync(path.join(knowledgeRoot, `${metadata.primary_object_id}.json`), "utf8"));
-    } catch { /* knowledge object not yet created — return empty sources */ }
+    const candidateIds = new Set<string>([metadata.primary_object_id]);
+    const bySlug = knowledgeIdForSlug(slug, locale);
+    if (bySlug) candidateIds.add(bySlug);
+    for (const candidateId of candidateIds) {
+      const knowledgePath = path.join(knowledgeRoot, `${candidateId}.json`);
+      if (fs.existsSync(knowledgePath)) {
+        try {
+          knowledge = JSON.parse(fs.readFileSync(knowledgePath, "utf8"));
+          break;
+        } catch { /* malformed — try next candidate */ }
+      }
+    }
+
+    const matchedSources = knowledge.sources.filter((source) => metadata.source_ids.includes(source.id));
+    const matchedCitations = (knowledge.citations || []).filter(
+      (citation) => metadata.claim_ids.includes(citation.claim_id) && metadata.source_ids.includes(citation.source_id)
+    );
+    // The docx pipeline minted source/claim ids independently of the knowledge
+    // objects, so the content's explicit ids may not match anything in the
+    // object even though the object is the correct one for this slug. In that
+    // case fall back to the object's full source/citation set so citations and
+    // the evidence rail still render with real URLs.
+    const sources = matchedSources.length > 0 ? matchedSources : (knowledge.sources || []);
+    const citations = matchedCitations.length > 0 ? matchedCitations : (knowledge.citations || []);
 
     return {
       metadata,
       body,
-      sources: knowledge.sources.filter((source) => metadata.source_ids.includes(source.id)),
-      citations: (knowledge.citations || []).filter((citation) => metadata.claim_ids.includes(citation.claim_id) && metadata.source_ids.includes(citation.source_id))
+      sources,
+      citations,
     };
   }
   return null;
