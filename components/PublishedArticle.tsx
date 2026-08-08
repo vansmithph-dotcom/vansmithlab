@@ -1,6 +1,7 @@
 import Link from "next/link";
 import Image from "next/image";
 import ReactMarkdown from "react-markdown";
+import rehypeRaw from "rehype-raw";
 import type { PublishedContent } from "@/lib/content";
 import { copy, type Locale } from "@/lib/site-data";
 
@@ -40,7 +41,18 @@ export function PublishedArticle({ locale, section, content }: { locale: Locale;
   const isProfile = metadata.content_type === "designer_profile" || metadata.content_type === "artist_profile";
   const sourceById = new Map(sources.map((source, index) => [source.id, { source, number: index + 1 }]));
   const citationByClaim = new Map(citations.map((citation) => [citation.claim_id, citation]));
-  const renderedBody = body.replace(/\[\^([A-Za-z0-9_-]+)\]/g, (marker, claimId: string) => {
+  const renderedBody = body
+    // Convert [N] bare citation references to clickable cite elements with tooltip
+    .replace(/\[(\d+)\](?!\()/g, (match, num: string) => {
+      const sourceIndex = parseInt(num) - 1;
+      const source = sources[sourceIndex];
+      if (source) {
+        return `<a href="${source.url}" target="_blank" rel="noreferrer" class="citation-link" title="${source.title.replace(/"/g, '&quot;')} — ${source.publisher}">[${num}]</a>`;
+      }
+      return `<cite class="citation-link" title="${locale === "ru" ? "Источник" : "Source"} ${num}">[${num}]</cite>`;
+    })
+    // Convert [^claim_id] to linked citations
+    .replace(/\[\^([A-Za-z0-9_-]+)\]/g, (marker, claimId: string) => {
     const citation = citationByClaim.get(claimId);
     const target = citation ? sourceById.get(citation.source_id) : undefined;
     return target ? `[${target.number}](${target.source.url} "${target.source.title.replaceAll('"', "'")}")` : marker;
@@ -107,7 +119,7 @@ export function PublishedArticle({ locale, section, content }: { locale: Locale;
               {locale === "ru" ? "Р вЂ™ РЎРЊРЎвЂљР С•Р С РЎвЂљР ВµР С”РЎРѓРЎвЂљР Вµ РЎвЂћР В°Р С”РЎвЂљРЎвЂ№, Р С‘Р Р…РЎвЂљР ВµРЎР‚Р С—РЎР‚Р ВµРЎвЂљР В°РЎвЂ Р С‘РЎРЏ Р С‘ Р СР Р…Р ВµР Р…Р С‘Р Вµ Р В°Р Р†РЎвЂљР С•РЎР‚Р В° Р С•Р В±Р С•Р В·Р Р…Р В°РЎвЂЎР ВµР Р…РЎвЂ№ Р С•РЎвЂљР Т‘Р ВµР В»РЎРЉР Р…Р С•. Р Р€РЎвЂљР Р†Р ВµРЎР‚Р В¶Р Т‘Р ВµР Р…Р С‘РЎРЏ РЎРѓР С• РЎРѓРЎРѓРЎвЂ№Р В»Р С”Р В°Р СР С‘ Р Р…Р В° Р С‘РЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”Р С‘ Р С•РЎвЂљР СР ВµРЎвЂЎР ВµР Р…РЎвЂ№ Р СР В°РЎР‚Р С”Р ВµРЎР‚Р С•Р С Р’В«РЎвЂћР В°Р С”РЎвЂљР’В», Р В°Р Р†РЎвЂљР С•РЎР‚РЎРѓР С”Р С‘Р Вµ РЎРѓРЎС“Р В¶Р Т‘Р ВµР Р…Р С‘РЎРЏ РІР‚вЂќ Р СР В°РЎР‚Р С”Р ВµРЎР‚Р С•Р С Р’В«Р С‘Р Р…РЎвЂљР ВµРЎР‚Р С—РЎР‚Р ВµРЎвЂљР В°РЎвЂ Р С‘РЎРЏР’В». Р вЂ™РЎРѓР Вµ РЎРѓРЎРѓРЎвЂ№Р В»Р С”Р С‘ Р Р†Р ВµР Т‘РЎС“РЎвЂљ Р С” Р С—РЎР‚Р С•Р Р†Р ВµРЎР‚РЎРЏР ВµР СРЎвЂ№Р С Р С‘РЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”Р В°Р С." : "In this text, facts, interpretation and the author's opinion are distinguished. Claims with source references are marked as fact, authorial judgments as interpretation. All references lead to verifiable sources."}
             </div>
           )}
-          <ReactMarkdown components={{
+          <ReactMarkdown rehypePlugins={[rehypeRaw]} components={{
             a: ({ children, ...props }) => <a {...props} rel="noreferrer" target="_blank" title={props.title || undefined}>{children}</a>,
             cite: ({ children, title }) => <cite title={title} style={{ cursor: "help", borderBottom: "1px dotted var(--accent)", fontStyle: "normal" }}>{children}</cite>
           }}>{renderedBody}</ReactMarkdown>

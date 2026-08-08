@@ -86,3 +86,5 @@ h1,h2,h3,p { margin-top:0; } h1,h2,h3 { letter-spacing:-.045em; line-height:1; }
 .translation-banner p { margin:0; }
 .translation-banner a { text-decoration:underline; text-underline-offset:3px; }
 .translation-banner strong { color:var(--accent); }
+.citation-link { cursor:help; border-bottom:1px dotted var(--accent); font-style:normal; font-size:0.85em; color:var(--accent); }
+.citation-link:hover { color:var(--ink); border-bottom-style:solid; }
