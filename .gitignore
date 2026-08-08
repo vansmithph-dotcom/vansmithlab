@@ -9,3 +9,9 @@ automation/runs/
 automation/review-requests/
 automation/.runtime/
 !.gitkeep
+
+# Build artifacts
+tsconfig.tsbuildinfo
+
+# Claude local config
+.claude/

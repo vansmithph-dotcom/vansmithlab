@@ -1,6 +1,5 @@
-"use client";
+﻿"use client";
 
-import Link from "next/link";
 import { useEffect } from "react";
 import { useRouter } from "next/navigation";
 
@@ -14,13 +13,8 @@ export default function EntryPage() {
   }, [router]);
 
   return (
-    <main className="entry-page">
+    <main className="entry-page" aria-label="VANSMITHLAB — loading">
       <p className="entry-mark">VANSMITHLAB®</p>
-      <h1>Independent design knowledge library</h1>
-      <div className="entry-links">
-        <Link href="/ru">Русский</Link>
-        <Link href="/en">English</Link>
-      </div>
     </main>
   );
 }

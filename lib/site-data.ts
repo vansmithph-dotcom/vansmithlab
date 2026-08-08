@@ -1,4 +1,4 @@
-export const locales = ["ru", "en"] as const;
+﻿export const locales = ["ru", "en"] as const;
 
 export type Locale = (typeof locales)[number];
 
@@ -7,6 +7,7 @@ export const isLocale = (value: string): value is Locale =>
 
 type Copy = {
   nav: Array<{ href: string; label: string }>;
+  utilityNav: Array<{ href: string; label: string }>;
   search: string;
   language: string;
   heroEyebrow: string;
@@ -55,11 +56,14 @@ export const copy: Record<Locale, Copy> = {
     nav: [
       { href: "/encyclopedia", label: "Энциклопедия" },
       { href: "/glossary", label: "Глоссарий" },
-      { href: "/glossary/designers", label: "Дизайнеры" },
-      { href: "/glossary/artists", label: "Художники" },
       { href: "/articles", label: "Статьи" },
       { href: "/analysis", label: "Анализ" },
       { href: "/timeline", label: "Хронология" },
+      { href: "/collections", label: "Подборки" },
+    ],
+    utilityNav: [
+      { href: "/search", label: "Поиск" },
+      { href: "/about", label: "Метод" },
     ],
     search: "Поиск по базе знаний",
     language: "EN",
@@ -106,11 +110,14 @@ export const copy: Record<Locale, Copy> = {
     nav: [
       { href: "/encyclopedia", label: "Encyclopedia" },
       { href: "/glossary", label: "Glossary" },
-      { href: "/glossary/designers", label: "Designers" },
-      { href: "/glossary/artists", label: "Artists" },
       { href: "/articles", label: "Articles" },
       { href: "/analysis", label: "Analysis" },
       { href: "/timeline", label: "Timeline" },
+      { href: "/collections", label: "Collections" },
+    ],
+    utilityNav: [
+      { href: "/search", label: "Search" },
+      { href: "/about", label: "Method" },
     ],
     search: "Search the knowledge base",
     language: "RU",
@@ -172,7 +179,7 @@ export const fields: Record<Locale, Array<{ title: string; text: string; href: s
 
 export const objectSamples = [
   { slug: "bauhaus", type: { ru: "Движение", en: "Movement" }, title: { ru: "Баухаус", en: "Bauhaus" }, summary: { ru: "Демонстрационный объект будущей энциклопедии: источники и claims будут добавлены через knowledge engine.", en: "A demonstration object for the future encyclopedia: sources and claims will be added through the knowledge engine." } },
-  { slug: "material", type: { ru: "Глоссарий", en: "Glossary" }, title: { ru: "Материал", en: "Material" }, summary: { ru: "Термин, который связывает форму, технологию, происхождение и ощущение объекта.", en: "A term that connects an object’s form, technology, provenance and sensory quality." } },
+  { slug: "material", type: { ru: "Глоссарий", en: "Glossary" }, title: { ru: "Материал", en: "Material" }, summary: { ru: "Термин, который связывает форму, технологию, происхождение и ощущение объекта.", en: "A term that connects an object''s form, technology, provenance and sensory quality." } },
   { slug: "visual-identity", type: { ru: "Понятие", en: "Concept" }, title: { ru: "Визуальная идентичность", en: "Visual identity" }, summary: { ru: "Система признаков, через которую организация или проект становятся узнаваемыми.", en: "A system of signs through which an organization or project becomes recognizable." } },
 ] as const;
 
