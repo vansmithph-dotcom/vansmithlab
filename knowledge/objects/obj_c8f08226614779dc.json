@@ -1,0 +1,55 @@
+{
+  "id": "obj_c8f08226614779dc",
+  "type": "photographer",
+  "canonical_locale": "ru",
+  "lifecycle_state": "active",
+  "revision": 1,
+  "title_ru": "Паоло Роверси",
+  "slug_ru": "paolo-roversi",
+  "summary_ru": "Свет, длительность и хрупкость fashion-образа",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.96,
+  "created_at": "2026-08-08",
+  "updated_at": "2026-08-08",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "Palais Galliera — Paolo Roversi exhibition. Palais Galliera",
+      "url": "https://www.palaisgalliera.paris.fr/en/exhibitions/paolo-roversi",
+      "publisher": "",
+      "source_tier": 1,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "s02",
+      "title": "Paolo Roversi exhibition catalogue. Paris Musées",
+      "url": "https://www.palaisgalliera.paris.fr/expositions/publications/paolo-roversi",
+      "publisher": "",
+      "source_tier": 1,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "s03",
+      "title": "Paolo Roversi: Doubts. MOP Foundation",
+      "url": "https://themopfoundation.org/en/exhibitions/paolo-roversi",
+      "publisher": "",
+      "source_tier": 1,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "s04",
+      "title": "Interview with Paolo Roversi. Palais Galliera",
+      "url": "https://www.palaisgalliera.paris.fr/en/palais-galliera/ressources-en-ligne/interview-photographer-paolo-roversi",
+      "publisher": "",
+      "source_tier": 1,
+      "accessed_at": "2026-08-08"
+    }
+  ],
+  "citations": [],
+  "claims": [],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "status": "draft"
+  }
+}

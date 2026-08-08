@@ -15,8 +15,19 @@ export type PublishedContent = { metadata: ContentMetadata; body: string; source
 
 const contentRoot = path.join(process.cwd(), "content");
 const knowledgeRoot = path.join(process.cwd(), "knowledge", "objects");
-const publicSections = new Set(["encyclopedia", "glossary", "glossary/designers", "glossary/artists", "articles", "analysis", "timeline", "collection", "collections"]);
+const publicSections = new Set(["encyclopedia", "glossary", "glossary/designers", "glossary/artists", "glossary/photographers", "articles", "analysis", "timeline", "collection", "collections"]);
 const normalizedSection = (section: string) => section === "collections" ? "collection" : section;
+
+const contentSectionMap: Record<string, string> = {
+  encyclopedia: "encyclopedia",
+  designer_profile: "glossary/designers",
+  artist_profile: "glossary/artists",
+  photographer_profile: "glossary/photographers",
+  research: "articles",
+  case_study: "articles",
+  visual_analysis: "articles",
+  collection: "collections",
+};
 
 // Content JSON and knowledge objects use different id namespaces (the docx pipeline
 // minted content ids, while knowledge objects carry their own ids). The reliable
@@ -71,12 +82,7 @@ export function listContent(locale?: Locale, section?: string): ContentMetadata[
 }
 
 export function sectionForContentType(contentType: string): string {
-  if (contentType === "encyclopedia") return "encyclopedia";
-  if (contentType === "designer_profile") return "glossary/designers";
-  if (contentType === "artist_profile") return "glossary/artists";
-  if (contentType === "research" || contentType === "case_study" || contentType === "visual_analysis") return "articles";
-  if (contentType === "collection") return "collections";
-  return contentType;
+  return contentSectionMap[contentType] ?? contentType;
 }
 
 // Translations share a content_id across locales even though their slug and content_type-derived
