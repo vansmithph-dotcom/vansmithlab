@@ -1,5 +1,20 @@
-# Лёгкие конструкции, природные процессы и архитектура минимального материала
+# Frei Otto
 
-> *English editorial translation is in progress. This article is currently available in [Russian](/ru/glossary/designers/frei-otto/). All claims, sources and verification metadata are accessible on the Russian master page.*
+Editorial voice: VANSMITHLAB
 
-[Russian original content — English adaptation pending editorial review.]
+Research and compilation: Ivan Melnik
+
+Type: Encyclopedia / biographical and analytical profile
+
+Language: en / source_locale: ru / source_revision: 1
+
+> *This is a concise English adaptation of the Russian original. A full editorial translation is forthcoming.*
+
+
+
+
+
+[Russian original](/ru/glossary/designers/frei-otto/)
+
+---
+Version history: adapted 2026-08-08

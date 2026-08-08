@@ -1,5 +1,20 @@
-# Джеймс Стирлинг
+# James Stirling
 
-> *English editorial translation is in progress. This article is currently available in [Russian](/ru/glossary/designers/james-stirling/). All claims, sources and verification metadata are accessible on the Russian master page.*
+Editorial voice: VANSMITHLAB
 
-[Russian original content — English adaptation pending editorial review.]
+Research and compilation: Ivan Melnik
+
+Type: Encyclopedia / biographical and analytical profile
+
+Language: en / source_locale: ru / source_revision: 1
+
+> *This is a concise English adaptation of the Russian original. A full editorial translation is forthcoming.*
+
+
+
+
+
+[Russian original](/ru/glossary/designers/james-stirling/)
+
+---
+Version history: adapted 2026-08-08
