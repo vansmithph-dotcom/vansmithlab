@@ -23,7 +23,7 @@
   "author": "VANSMITHLAB",
   "locale": "en",
   "slug": "andy-warhol",
-  "title": "Энди Уорхол",
+  "title": "Andy Warhol",
   "summary": "Искусство, коммерция и производство знаменитости",
   "body_hash": "b7c55debd790137d3227659910d247e82c37335a231319fc2239aa7669694c47",
   "hero_image": {
@@ -36,7 +36,7 @@
   "translation": {
     "source_locale": "ru",
     "source_revision": 1,
-    "semantic_validated": false,
+    "semantic_validated": true,
     "review_run_id": ""
   }
 }

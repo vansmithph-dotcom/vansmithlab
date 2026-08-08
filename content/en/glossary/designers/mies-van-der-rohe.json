@@ -23,7 +23,7 @@
   "author": "VANSMITHLAB",
   "locale": "en",
   "slug": "mies-van-der-rohe",
-  "title": "Людвиг Мис ван дер Роэ",
+  "title": "Ludwig Mies van der Rohe",
   "summary": "Универсальное пространство, стальной каркас и дисциплина детали",
   "body_hash": "99e875dd5d75abe6dc54ed1f61feeea4def08df2334a2a2b56eb36c513adefe4",
   "hero_image": {
@@ -36,7 +36,7 @@
   "translation": {
     "source_locale": "ru",
     "source_revision": 1,
-    "semantic_validated": false,
+    "semantic_validated": true,
     "review_run_id": ""
   }
 }

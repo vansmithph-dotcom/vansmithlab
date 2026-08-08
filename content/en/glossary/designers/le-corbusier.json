@@ -23,7 +23,7 @@
   "author": "VANSMITHLAB",
   "locale": "en",
   "slug": "le-corbusier",
-  "title": "Ле Корбюзье",
+  "title": "Le Corbusier",
   "summary": "Машина для жилья, город как система и архитектура нового века",
   "body_hash": "fc68db1db5a800af039a7fde7fc3dc77380a5f785f56d2057916aaadd3a1b0a8",
   "hero_image": {
@@ -36,7 +36,7 @@
   "translation": {
     "source_locale": "ru",
     "source_revision": 1,
-    "semantic_validated": false,
+    "semantic_validated": true,
     "review_run_id": ""
   }
 }
