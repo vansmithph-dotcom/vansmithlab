@@ -1,0 +1,36 @@
+{
+  "content_id": "cnt_c466c61c488d4ceb",
+  "primary_object_id": "obj_4b42ccb3880040b0",
+  "content_type": "artist_profile",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.85,
+  "claim_ids": [
+    "clm_655b9740691d4568",
+    "clm_0e21358d2a2f451d",
+    "clm_afff21c17bff4162",
+    "clm_8e46a6c3431e4ac8",
+    "clm_8b763216c82c477c"
+  ],
+  "source_ids": [
+    "src_b3f048907d2b4989",
+    "src_c2a3495b8a0545a1",
+    "src_da5d5a4d622b4e96"
+  ],
+  "last_reviewed": "2026-08-08",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "barbara-kruger",
+  "title": "Барбара Крюгер",
+  "summary": "Язык, власть и архитектура убеждения",
+  "body_hash": "63de8e4255fc243cd3bb90d1e2423c6f2df6f46921eb5957c04bf3b075692a43",
+  "hero_image": {
+    "src": "/images/glossary/artists/barbara-kruger-hero-v1.webp",
+    "alt": "Иллюстрация: Барбара Крюгер",
+    "caption": "Редакционная иллюстрация к материалу «Барбара Крюгер».",
+    "credit": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "origin": "ai_illustration"
+  }
+}

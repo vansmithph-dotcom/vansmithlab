@@ -1,34 +1,36 @@
 {
-  "content_id": "cnt_6fea9ec30d620382",
-  "primary_object_id": "obj_e0433becc89e1856",
+  "content_id": "cnt_fa2e3e03dc5947f5",
+  "primary_object_id": "obj_c2da9fc0f7b74e61",
   "content_type": "artist_profile",
   "state": "published",
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "partially_verified",
-  "confidence_score": 0.9,
+  "confidence_score": 0.85,
   "claim_ids": [
-    "clm_ca559bd2522ef683",
-    "clm_c8bd6ffdddc17a9c",
-    "clm_b1e72a9774b847df",
-    "clm_3ba4637578b987b9"
+    "clm_01164a7251ed40cd",
+    "clm_a0730be0753f4034",
+    "clm_3682c92eb3d5410e",
+    "clm_fb94ec77baf04eaa",
+    "clm_1207f0684e924bc2"
   ],
   "source_ids": [
-    "src_bbdc35b37c6d2455",
-    "src_d60c28eff0c22ec0"
+    "src_a332a6ee9df44468",
+    "src_b9cd27607f0f4cf7",
+    "src_f8bf20b50f2a4b2d"
   ],
   "last_reviewed": "2026-08-08",
   "author": "VANSMITHLAB",
   "locale": "ru",
   "slug": "marcel-duchamp",
   "title": "Марсель Дюшан",
-  "summary": "От Académie Julian через переезд в Нью-Йорк в 1942 году до реди-мейдов Bicycle Wheel и Fountain — художник, стеревший границу между произведением искусства и обычным предметом.",
-  "body_hash": "60e4d0550fdc9c789f61278dc9dfb0a6049b6086212ed29502696dcdf2bcff17",
+  "summary": "Выбор, случай и переопределение произведения искусства",
+  "body_hash": "3f25b2ced555664498346892954e4924fe2573078de75be9b17b758a3e73a9cc",
   "hero_image": {
-    "src": "/images/glossary/artists/marcel-duchamp-photo-v1.jpg",
-    "alt": "Пятикратный портрет Марселя Дюшана, 21 июня 1917 года, Нью-Йорк.",
-    "caption": "Марсель Дюшан, Нью-Йорк, 1917 год.",
-    "credit": "Автор не установлен via Wikimedia Commons — общественное достояние в США (опубликовано до 1931 года)",
-    "origin": "public_domain"
+    "src": "/images\\glossary\\artists\\marcel-duchamp-photo-v1.jpg",
+    "alt": "Иллюстрация: Марсель Дюшан",
+    "caption": "Редакционная иллюстрация к материалу «Марсель Дюшан».",
+    "credit": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "origin": "ai_illustration"
   }
 }

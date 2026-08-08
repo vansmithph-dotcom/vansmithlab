@@ -1,34 +1,36 @@
 {
-  "content_id": "cnt_ab9066eef2c10b5f",
-  "primary_object_id": "obj_96e4c99e286844ed",
+  "content_id": "cnt_16c5b5e3e452469e",
+  "primary_object_id": "obj_844afbc040434a3a",
   "content_type": "designer_profile",
   "state": "published",
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "partially_verified",
-  "confidence_score": 0.88,
+  "confidence_score": 0.85,
   "claim_ids": [
-    "clm_e85433dbec316f9c",
-    "clm_d68096508522debb",
-    "clm_66a4e5c6345661fc",
-    "clm_bf912fedb4907410"
+    "clm_55142262aa08410d",
+    "clm_300e152ae8e24428",
+    "clm_44f6359f50de47b6",
+    "clm_29b09032c8fc4b54",
+    "clm_3a052a2e8ad147ca"
   ],
   "source_ids": [
-    "src_538b94ff4b106192",
-    "src_f997af8112659f1b"
+    "src_2cfdee460caa460d",
+    "src_83ea581b9ee5487b",
+    "src_dd563935e7cc4644"
   ],
   "last_reviewed": "2026-08-08",
   "author": "VANSMITHLAB",
   "locale": "ru",
   "slug": "kisho-kurokawa",
   "title": "Кисё Курокава",
-  "summary": "От Университета Киото через манифест Метаболизма 1960 года до Nakagin Capsule Tower — архитектор, предложивший видеть здание как живой, обменивающийся частями организм.",
-  "body_hash": "9cbc7e8cdda25bb70996d012ac9bae27cc1aa1ff87d46f3be0cca1804b39bd42",
+  "summary": "Метаболизм, капсула и архитектура симбиоза",
+  "body_hash": "14eb7157b2303831418810f42a6ca1096e6485748e0921f024eb18d6db839f82",
   "hero_image": {
-    "src": "/images/glossary/designers/kisho-kurokawa-timeline-hero-v1.svg",
-    "alt": "Хронологическая схема практики Kisho Kurokawa: от Университета Киото в 1957 году до завершения Nakagin Capsule Tower в 1972 году.",
-    "caption": "Ключевые вехи практики Кисё Курокавы.",
-    "credit": "VANSMITHLAB · оригинальная редакционная диаграмма, 2026",
-    "origin": "editorial_diagram"
+    "src": "/images\\glossary\\designers\\kisho-kurokawa-timeline-hero-v1.svg",
+    "alt": "Иллюстрация: Кисё Курокава",
+    "caption": "Редакционная иллюстрация к материалу «Кисё Курокава».",
+    "credit": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "origin": "ai_illustration"
   }
 }

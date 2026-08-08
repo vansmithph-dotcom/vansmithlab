@@ -1,0 +1,42 @@
+{
+  "content_id": "cnt_89c2514c14274e7a",
+  "primary_object_id": "obj_9fb24b521c95450e",
+  "content_type": "designer_profile",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.85,
+  "claim_ids": [
+    "clm_f0b5d40d1c8248e5",
+    "clm_f7c5f0135de64546",
+    "clm_65af4fe868c84ada",
+    "clm_92ef4ce6564545a5",
+    "clm_4e9db1353cb74193"
+  ],
+  "source_ids": [
+    "src_43140e6818614f93",
+    "src_0ed2fbd31f6e45e0",
+    "src_a2ab9ac802fa4f76"
+  ],
+  "last_reviewed": "2026-08-08",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "frank-lloyd-wright",
+  "title": "Фрэнк Ллойд Райт",
+  "summary": "Органическая архитектура, прерийный дом и изобретение американского пространства",
+  "body_hash": "98a895ccfabc3b406c50bfffc02f5f7df83e2f4ed6d1487d7d5c9411277718e1",
+  "hero_image": {
+    "src": "/images\\glossary\\designers\\frank-lloyd-wright-timeline-hero-v1.svg",
+    "alt": "Illustration: Фрэнк Ллойд Райт",
+    "caption": "Editorial illustration for «Фрэнк Ллойд Райт».",
+    "credit": "VANSMITHLAB · AI illustration, 2026",
+    "origin": "ai_illustration"
+  },
+  "translation": {
+    "source_locale": "ru",
+    "source_revision": 1,
+    "semantic_validated": false,
+    "review_run_id": ""
+  }
+}

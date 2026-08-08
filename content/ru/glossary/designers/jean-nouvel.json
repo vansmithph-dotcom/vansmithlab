@@ -1,34 +1,36 @@
 {
-  "content_id": "cnt_f7e2a3d0d7d69eb7",
-  "primary_object_id": "obj_8d4c8e3e365b4362",
+  "content_id": "cnt_8ee6e77a61784c02",
+  "primary_object_id": "obj_0406f83f079e42ec",
   "content_type": "designer_profile",
   "state": "published",
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "partially_verified",
-  "confidence_score": 0.9,
+  "confidence_score": 0.85,
   "claim_ids": [
-    "clm_d4809cfcf8efd17b",
-    "clm_83ef01d49691b8e2",
-    "clm_6132fbfbc3bfd1af",
-    "clm_a5a46f615bac82f0"
+    "clm_1f8540bdbcc541ee",
+    "clm_e078fbeaf92a4e2a",
+    "clm_935bdec5ea9040a2",
+    "clm_e80e1d48c44a4be0",
+    "clm_5f980b0a29384f64"
   ],
   "source_ids": [
-    "src_6f326250683598a3",
-    "src_6e39347b206881a7"
+    "src_d14e088cc7124fcf",
+    "src_5346e71924474cd5",
+    "src_5f41da88c04249bc"
   ],
   "last_reviewed": "2026-08-08",
   "author": "VANSMITHLAB",
   "locale": "ru",
   "slug": "jean-nouvel",
-  "title": "Жан Нувель",
-  "summary": "От Фюмеля через собственную парижскую практику до Institut du Monde Arabe — Притцкеровский лауреат 2008 года, последовательно ищущий новый архитектурный ответ на каждую задачу заново.",
-  "body_hash": "3bcf864f534ae5522d0903ed30aa5223570a41726430eb6221d84cdc68f2c1ca",
+  "title": "Контекст, свет и архитектура как уникальный сценарий места",
+  "summary": "Редакционный голос: VANSMITHLAB",
+  "body_hash": "fe888e283a5c0c499685a10a6bcf0a31810692d695691f19ece8efba7b0ecae8",
   "hero_image": {
-    "src": "/images/glossary/designers/jean-nouvel-photo-v1.jpg",
-    "alt": "Портрет Жана Нувеля в Вене, сентябрь 2009 года.",
-    "caption": "Жан Нувель в Вене, 2009 год.",
-    "credit": "Christopher Ohmeyer via Wikimedia Commons — CC BY-SA 2.0",
-    "origin": "licensed"
+    "src": "/images\\glossary\\designers\\jean-nouvel-photo-v1.jpg",
+    "alt": "Иллюстрация: Контекст, свет и архитектура как уникальный сценарий места",
+    "caption": "Редакционная иллюстрация к материалу «Контекст, свет и архитектура как уникальный сценарий места».",
+    "credit": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "origin": "ai_illustration"
   }
 }

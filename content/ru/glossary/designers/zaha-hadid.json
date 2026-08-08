@@ -1,36 +1,36 @@
 {
-  "content_id": "cnt_9698ed836b1e8337",
-  "primary_object_id": "obj_eef478388bf46eaa",
+  "content_id": "cnt_e2ab154f722d4db5",
+  "primary_object_id": "obj_0f9cc52a02294cc4",
   "content_type": "designer_profile",
   "state": "published",
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "partially_verified",
-  "confidence_score": 0.93,
+  "confidence_score": 0.85,
   "claim_ids": [
-    "clm_ed20e1bc1257166d",
-    "clm_d9f7194e5ad608e5",
-    "clm_de583c5e9243a732",
-    "clm_c566b45da5bf8eb7",
-    "clm_0307c4c54f3ce8e8",
-    "clm_6e35a147102f16b1"
+    "clm_e0e14281041d4e5b",
+    "clm_3a75e1abd6ca48a8",
+    "clm_e49e0a49685642db",
+    "clm_d18be59afa064388",
+    "clm_cff882da8ca74c53"
   ],
   "source_ids": [
-    "src_aa7efc8d243315f5",
-    "src_7a85a0b6f25b1066"
+    "src_1f8b1c0c4a3d449d",
+    "src_9f37e104dc2b4700",
+    "src_5803c9c26227497d"
   ],
-  "last_reviewed": "2026-08-06",
+  "last_reviewed": "2026-08-08",
   "author": "VANSMITHLAB",
   "locale": "ru",
   "slug": "zaha-hadid",
-  "title": "Заха Хадид",
-  "summary": "От математики в Бейруте через Architectural Association и Vitra Fire Station до первой в истории женщины — единоличного лауреата Притцкеровской премии в 2004 году и внезапной смерти в 2016-м.",
-  "body_hash": "358e827746632563208d3bd6e3a647dcc5a5a2ce7d7f3aa6ee96ed5604b987df",
+  "title": "Архитектура движения, напряжения и освобожденной геометрии",
+  "summary": "Редакционный голос: VANSMITHLAB",
+  "body_hash": "2e4305781da8936a4fecbfef8b9ca6184d0db0f69c3534ba9f61b612d639a29e",
   "hero_image": {
-    "src": "/images/glossary/designers/zaha-hadid-timeline-hero-v1.svg",
-    "alt": "Хронологическая схема карьеры Захи Хадид: от Architectural Association в 1977 году до смерти в 2016 году.",
-    "caption": "Ключевые вехи карьеры Захи Хадид.",
-    "credit": "VANSMITHLAB · оригинальная редакционная диаграмма, 2026",
-    "origin": "editorial_diagram"
+    "src": "/images\\glossary\\designers\\zaha-hadid-timeline-hero-v1.svg",
+    "alt": "Иллюстрация: Архитектура движения, напряжения и освобожденной геометрии",
+    "caption": "Редакционная иллюстрация к материалу «Архитектура движения, напряжения и освобожденной геометрии».",
+    "credit": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "origin": "ai_illustration"
   }
 }

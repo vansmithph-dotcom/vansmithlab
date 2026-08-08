@@ -1,0 +1,42 @@
+{
+  "content_id": "cnt_b29312485c4d4e5d",
+  "primary_object_id": "obj_639ea6a2e1ea40fe",
+  "content_type": "artist_profile",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.85,
+  "claim_ids": [
+    "clm_2cb03c146cb1434e",
+    "clm_47f75879c2fb4ec5",
+    "clm_d7cf17694c9d4f0b",
+    "clm_03729db307874ede",
+    "clm_8bb68491663f4586"
+  ],
+  "source_ids": [
+    "src_08d57e9443c64ce3",
+    "src_9e97f514b6c14f7d",
+    "src_c983401ee3c34c15"
+  ],
+  "last_reviewed": "2026-08-08",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "jean-michel-basquiat",
+  "title": "Жан-Мишель Баския",
+  "summary": "Язык, раса и производство художественной ценности",
+  "body_hash": "1a767c798e47587e25ff18bb34f68abb9e86a0a935b4a9f27c4eb667ed13569d",
+  "hero_image": {
+    "src": "/images\\glossary\\artists\\jean-michel-basquiat-photo-v1.jpg",
+    "alt": "Illustration: Жан-Мишель Баския",
+    "caption": "Editorial illustration for «Жан-Мишель Баския».",
+    "credit": "VANSMITHLAB · AI illustration, 2026",
+    "origin": "ai_illustration"
+  },
+  "translation": {
+    "source_locale": "ru",
+    "source_revision": 1,
+    "semantic_validated": false,
+    "review_run_id": ""
+  }
+}

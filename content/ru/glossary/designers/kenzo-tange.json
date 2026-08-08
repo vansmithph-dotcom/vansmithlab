@@ -1,35 +1,36 @@
 {
-  "content_id": "cnt_c00a741dea0fae90",
-  "primary_object_id": "obj_6053e2191393785a",
+  "content_id": "cnt_e15ddf396f674616",
+  "primary_object_id": "obj_115b35daac334308",
   "content_type": "designer_profile",
   "state": "published",
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "partially_verified",
-  "confidence_score": 0.9,
+  "confidence_score": 0.85,
   "claim_ids": [
-    "clm_9979fbcf79833c4c",
-    "clm_afbfc8b72bc2e2a1",
-    "clm_888c40b9a3e5a066",
-    "clm_cb7d67a6442f68f8",
-    "clm_787de58f1819bd19"
+    "clm_88469f491f044d56",
+    "clm_bb5c489786004016",
+    "clm_ee79b8a3eda24b38",
+    "clm_b15d05b003bf4ec4",
+    "clm_d477d21f7963420e"
   ],
   "source_ids": [
-    "src_9e476a891c88b39b",
-    "src_1d3b5b3f12bec9eb"
+    "src_c9f04a12de984a4e",
+    "src_ade4745a5ff745a1",
+    "src_8ba661df3138453e"
   ],
   "last_reviewed": "2026-08-08",
   "author": "VANSMITHLAB",
   "locale": "ru",
   "slug": "kenzo-tange",
   "title": "Кэндзо Тангэ",
-  "summary": "От вдохновения Ле Корбюзье через восстановление Хиросимы до лаборатории в Токийском университете, воспитавшей поколение японских архитекторов, — Притцкеровский лауреат 1987 года.",
-  "body_hash": "3fff49cd6859b43f6f1ab945e213b1d4406ae2f26fed57da9d6e5e5af02e8896",
+  "summary": "Мемориал, мегаструктура и архитектура послевоенной Японии",
+  "body_hash": "3adf37c78280f8761c8e1814169ec09229e124e6a063b553faf536efddf27d83",
   "hero_image": {
-    "src": "/images/glossary/designers/kenzo-tange-photo-v1.jpg",
-    "alt": "Кэндзо Тангэ на приёме во дворце на Дам, Амстердам, октябрь 1981 года.",
-    "caption": "Кэндзо Тангэ, октябрь 1981 года.",
-    "credit": "Hans van Dijk / Anefo via Wikimedia Commons — CC BY-SA 3.0 NL",
-    "origin": "licensed"
+    "src": "/images\\glossary\\designers\\kenzo-tange-photo-v1.jpg",
+    "alt": "Иллюстрация: Кэндзо Тангэ",
+    "caption": "Редакционная иллюстрация к материалу «Кэндзо Тангэ».",
+    "credit": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "origin": "ai_illustration"
   }
 }

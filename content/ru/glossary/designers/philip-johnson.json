@@ -1,35 +1,36 @@
 {
-  "content_id": "cnt_5696d9b6dbd8cf2c",
-  "primary_object_id": "obj_da1797b3b72e00e4",
+  "content_id": "cnt_6781371e1f4a40d7",
+  "primary_object_id": "obj_536d2590f5434a34",
   "content_type": "designer_profile",
   "state": "published",
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "partially_verified",
-  "confidence_score": 0.87,
+  "confidence_score": 0.85,
   "claim_ids": [
-    "clm_e3310df4ac0f28d2",
-    "clm_574f95877f0b5267",
-    "clm_6fecc8a046edddbc",
-    "clm_e5e95b25aeffffe6",
-    "clm_c12c3c6c539a4cda"
+    "clm_379aab0c16cf4a11",
+    "clm_8d655676b4164ac3",
+    "clm_fa51bea074534c99",
+    "clm_0568ff16885a48aa",
+    "clm_e280f94169b14b4d"
   ],
   "source_ids": [
-    "src_9f105d55300dd8c2",
-    "src_ae3ad88e74a81cec"
+    "src_4ccf4bb8d5a94ef5",
+    "src_9fd733c22c494cae",
+    "src_4d3bc8319d904add"
   ],
   "last_reviewed": "2026-08-08",
   "author": "VANSMITHLAB",
   "locale": "ru",
   "slug": "philip-johnson",
   "title": "Филип Джонсон",
-  "summary": "От директорства в отделе архитектуры MoMA через собственный дом Glass House до здания AT&T Building и первой в истории Притцкеровской премии (1979) — архитектор, ставший архитектором в 36 лет.",
-  "body_hash": "4fc8764fb7ead5c1b3bd45b3ad8c3c79b4f356d20777f15c7ceda8944e5a0fee",
+  "summary": "Стекло, влияние и архитектура культурной власти",
+  "body_hash": "f7dd015e01a82f421b97490548bb306e1b5918a0bb9cf9082d36358af5f51620",
   "hero_image": {
-    "src": "/images/glossary/designers/philip-johnson-photo-v1.jpg",
-    "alt": "Портрет Филипа Джонсона, 1933 год.",
-    "caption": "Филип Джонсон, 1933 год.",
-    "credit": "Carl Van Vechten, Library of Congress via Wikimedia Commons — общественное достояние",
-    "origin": "public_domain"
+    "src": "/images\\glossary\\designers\\philip-johnson-photo-v1.jpg",
+    "alt": "Иллюстрация: Филип Джонсон",
+    "caption": "Редакционная иллюстрация к материалу «Филип Джонсон».",
+    "credit": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "origin": "ai_illustration"
   }
 }

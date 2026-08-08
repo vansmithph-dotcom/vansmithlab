@@ -1,34 +1,36 @@
 {
-  "content_id": "cnt_5de45d4cc1e71148",
-  "primary_object_id": "obj_aaaf7485d1091db8",
+  "content_id": "cnt_8a117d3b6da84e73",
+  "primary_object_id": "obj_37c85d179f5e42cf",
   "content_type": "designer_profile",
   "state": "published",
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "partially_verified",
-  "confidence_score": 0.9,
+  "confidence_score": 0.85,
   "claim_ids": [
-    "clm_1898c837c1e1e6a7",
-    "clm_2df6f7ad88079d21",
-    "clm_e2e20c19bfc310b5",
-    "clm_4d0d53eccfe4e27c"
+    "clm_1c71c2f4a7a34e1f",
+    "clm_79530d04ac004da2",
+    "clm_0deca7edffbf4abb",
+    "clm_550a3e0cae4f4b1d",
+    "clm_df0bf27edbe84082"
   ],
   "source_ids": [
-    "src_20a83e1b01d7e557",
-    "src_b9a07449bb370b84"
+    "src_6e2d1ecf1aa94ad2",
+    "src_11338ac8d3944789",
+    "src_8be430b4ee5147b4"
   ],
   "last_reviewed": "2026-08-08",
   "author": "VANSMITHLAB",
   "locale": "ru",
   "slug": "balkrishna-doshi",
   "title": "Балкришна Доши",
-  "summary": "От семьи мебельщиков в Пуне через работу с Ле Корбюзье и Луисом Каном до статуса первого индийского Притцкеровского лауреата (2018) — архитектура как продолжение тела.",
-  "body_hash": "e7b1fd287a89119cb1e342920620c24fb174ef52ce6306514ff917a2af206c64",
+  "summary": "Климат, сообщество и архитектура открытого роста",
+  "body_hash": "d4668a9e5c2d6b20d4198dd6ae714b1f4aac359f691fb4b90203ff3af6674697",
   "hero_image": {
-    "src": "/images/glossary/designers/balkrishna-doshi-photo-v1.jpg",
-    "alt": "Балкришна Доши на Национальном конвенте IIA, Ченнаи, декабрь 2013 года.",
-    "caption": "Балкришна Доши на Национальном конвенте IIA, 2013 год.",
-    "credit": "Sanyam Bahga via Wikimedia Commons — CC BY-SA 3.0",
-    "origin": "licensed"
+    "src": "/images\\glossary\\designers\\balkrishna-doshi-photo-v1.jpg",
+    "alt": "Иллюстрация: Балкришна Доши",
+    "caption": "Редакционная иллюстрация к материалу «Балкришна Доши».",
+    "credit": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "origin": "ai_illustration"
   }
 }

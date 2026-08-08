@@ -1,34 +1,36 @@
 {
-  "content_id": "cnt_5a4f0d4d2590f061",
-  "primary_object_id": "obj_8b81d1d30743cb02",
+  "content_id": "cnt_a4170c6722cf4f0b",
+  "primary_object_id": "obj_dc2385d96e95467c",
   "content_type": "designer_profile",
   "state": "published",
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "partially_verified",
-  "confidence_score": 0.89,
+  "confidence_score": 0.85,
   "claim_ids": [
-    "clm_1b1848760dd3adbf",
-    "clm_e8eee80553b8b57f",
-    "clm_1f02c3c23b189094",
-    "clm_74251c6a38a27054"
+    "clm_ebfa54818427436e",
+    "clm_d71a226200d345b1",
+    "clm_38711484a22c45fa",
+    "clm_8a8ae8d3fe0144c3",
+    "clm_abd5b8bd0ba04dc0"
   ],
   "source_ids": [
-    "src_dcc52b9a5c0fb4f6",
-    "src_0a32abbdbea934fe"
+    "src_29ed10351f68409c",
+    "src_b87801a5aec44b3b",
+    "src_ca36b1a54501408e"
   ],
   "last_reviewed": "2026-08-08",
   "author": "VANSMITHLAB",
   "locale": "ru",
   "slug": "sanaa",
-  "title": "SANAA",
-  "summary": "От отдельных студий Кадзуё Сэдзимы и Рюэ Нисидзавы до совместной практики SANAA, основанной в 1995 году, — Притцкеровские лауреаты 2010 года, работающие на грани прозрачности и невесомости формы.",
-  "body_hash": "0cfaf69ed9186d7f0f79ae24ddb78dc3eb43032b89c7cdedda344647a57ee644",
+  "title": "SANAA: Кадзуё Сэдзима и Рюэ Нисидзава",
+  "summary": "Прозрачность, тонкость и архитектура неиерархического пространства",
+  "body_hash": "2c913aad4715e93769072a7ffa850f65dd1c6dfa157b39e392040586b35b3d83",
   "hero_image": {
-    "src": "/images/glossary/designers/sanaa-timeline-hero-v1.svg",
-    "alt": "Хронологическая схема практики SANAA: от отдельных студий Сэдзимы и Нисидзавы через основание SANAA в 1995 году до Притцкеровской премии 2010 года.",
-    "caption": "Ключевые вехи практики SANAA.",
-    "credit": "VANSMITHLAB · оригинальная редакционная диаграмма, 2026",
-    "origin": "editorial_diagram"
+    "src": "/images\\glossary\\designers\\sanaa-timeline-hero-v1.svg",
+    "alt": "Иллюстрация: SANAA: Кадзуё Сэдзима и Рюэ Нисидзава",
+    "caption": "Редакционная иллюстрация к материалу «SANAA: Кадзуё Сэдзима и Рюэ Нисидзава».",
+    "credit": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "origin": "ai_illustration"
   }
 }

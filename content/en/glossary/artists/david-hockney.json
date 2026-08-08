@@ -1,0 +1,42 @@
+{
+  "content_id": "cnt_b5ff0bb3ef074329",
+  "primary_object_id": "obj_997de06045314654",
+  "content_type": "artist_profile",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.85,
+  "claim_ids": [
+    "clm_9e792ab914ea4947",
+    "clm_ec04cff93bf84836",
+    "clm_d2f5effadee8410c",
+    "clm_38db7387f331482e",
+    "clm_d73ee5fc93204435"
+  ],
+  "source_ids": [
+    "src_5a7e143b54024e4b",
+    "src_16a0c205e93b45e6",
+    "src_2c8ec92c73494fd7"
+  ],
+  "last_reviewed": "2026-08-08",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "david-hockney",
+  "title": "Дэвид Хокни",
+  "summary": "Видение, цвет и расширение картины",
+  "body_hash": "5689a98545412748ab1c9d6653bd032c34e3184bc30c30d7b5daa1b601f997cc",
+  "hero_image": {
+    "src": "/images\\glossary\\artists\\david-hockney-photo-v1.jpg",
+    "alt": "Illustration: Дэвид Хокни",
+    "caption": "Editorial illustration for «Дэвид Хокни».",
+    "credit": "VANSMITHLAB · AI illustration, 2026",
+    "origin": "ai_illustration"
+  },
+  "translation": {
+    "source_locale": "ru",
+    "source_revision": 1,
+    "semantic_validated": false,
+    "review_run_id": ""
+  }
+}

@@ -1,34 +1,36 @@
 {
-  "content_id": "cnt_1ca2e56f43a3c642",
-  "primary_object_id": "obj_d0ab32b55bdb71b9",
+  "content_id": "cnt_6bea20fbb01041ca",
+  "primary_object_id": "obj_f9b2e583f8da4fef",
   "content_type": "artist_profile",
   "state": "published",
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "partially_verified",
-  "confidence_score": 0.89,
+  "confidence_score": 0.85,
   "claim_ids": [
-    "clm_87a61637b6eb3fb9",
-    "clm_b7da6bf9a282c4d8",
-    "clm_796bf08242d8ff32",
-    "clm_3fee17b4e27d001c"
+    "clm_768920413e374341",
+    "clm_43d0fe417c204d8c",
+    "clm_30930f38350f44d1",
+    "clm_a30fe13c3c4b43d5",
+    "clm_7a87a63b90cf45c3"
   ],
   "source_ids": [
-    "src_aaca18e129567cd7",
-    "src_1cb39177653b02b0"
+    "src_874a7c856d9b43e4",
+    "src_382c5ce7d3384832",
+    "src_e6331837e1de4648"
   ],
   "last_reviewed": "2026-08-08",
   "author": "VANSMITHLAB",
   "locale": "ru",
   "slug": "joseph-beuys",
-  "title": "Йозеф Бойс",
-  "summary": "От авиакатастрофы в Крыму через профессуру в Дюссельдорфской академии до формулы «каждый человек — художник» — расширение самого понятия искусства до социальной скульптуры.",
-  "body_hash": "90758847efe21fe34fc7c01121bcb99b79064a19d6952f34269b26d1b6267aeb",
+  "title": "Социальная скульптура, миф и политика художественного действия",
+  "summary": "Редакционный голос: VANSMITHLAB",
+  "body_hash": "14fb1add5006284ada0bd71f341e9316e7bd1d738ef257dcc1283a16f0be1c36",
   "hero_image": {
-    "src": "/images/glossary/artists/joseph-beuys-photo-v1.jpg",
-    "alt": "Портрет Йозефа Бойса, фотография до 1986 года.",
-    "caption": "Йозеф Бойс.",
-    "credit": "Jochen Mellin, Bildarchiv der Region Hannover via Wikimedia Commons — CC BY-SA 4.0",
-    "origin": "licensed"
+    "src": "/images\\glossary\\artists\\joseph-beuys-photo-v1.jpg",
+    "alt": "Иллюстрация: Социальная скульптура, миф и политика художественного действия",
+    "caption": "Редакционная иллюстрация к материалу «Социальная скульптура, миф и политика художественного действия».",
+    "credit": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "origin": "ai_illustration"
   }
 }

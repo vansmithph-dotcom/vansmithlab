@@ -1,35 +1,36 @@
 {
-  "content_id": "cnt_1d243e4be633f76b",
-  "primary_object_id": "obj_25145beacc21c0fa",
+  "content_id": "cnt_e1be15f8a91d4203",
+  "primary_object_id": "obj_099e6e7c1255428b",
   "content_type": "artist_profile",
   "state": "published",
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "partially_verified",
-  "confidence_score": 0.9,
+  "confidence_score": 0.85,
   "claim_ids": [
-    "clm_21ca0ed31b3ebeb4",
-    "clm_2caefb564b6ca7e7",
-    "clm_cd1f8db5ebcac382",
-    "clm_ac39a5861691f313",
-    "clm_f60ef9212bb53036"
+    "clm_c0415b64d4574047",
+    "clm_96d74c51dbb949fb",
+    "clm_cfdf0dbf39cb4ed2",
+    "clm_90ed18cf15394b51",
+    "clm_1e86c0b4e61c4ca3"
   ],
   "source_ids": [
-    "src_7803f37665676b42",
-    "src_13c3713c2bbc310a"
+    "src_8da652b24a5c4037",
+    "src_8300794f33f0440f",
+    "src_7da00d3bd61748e1"
   ],
   "last_reviewed": "2026-08-08",
   "author": "VANSMITHLAB",
   "locale": "ru",
   "slug": "andy-warhol",
   "title": "Энди Уорхол",
-  "summary": "От коммерческой иллюстрации и Carnegie Institute of Technology через Campbell's Soup Cans до Factory как производственной системы — художник, превративший массовое изображение в метод и самого себя в медиа.",
-  "body_hash": "61d0bd37869dd591fe29acd93390677de4dc229d4912d743bc19344733ec9efc",
+  "summary": "Искусство, коммерция и производство знаменитости",
+  "body_hash": "b7c55debd790137d3227659910d247e82c37335a231319fc2239aa7669694c47",
   "hero_image": {
-    "src": "/images/glossary/artists/andy-warhol-photo-v1.jpg",
-    "alt": "Энди Уорхол на приёме в Белом доме, июнь 1977 года.",
-    "caption": "Энди Уорхол на приёме в Белом доме, 1977 год.",
-    "credit": "Jack Kightlinger, National Archives and Records Administration via Wikimedia Commons — общественное достояние",
-    "origin": "public_domain"
+    "src": "/images\\glossary\\artists\\andy-warhol-photo-v1.jpg",
+    "alt": "Иллюстрация: Энди Уорхол",
+    "caption": "Редакционная иллюстрация к материалу «Энди Уорхол».",
+    "credit": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "origin": "ai_illustration"
   }
 }

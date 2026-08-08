@@ -1,34 +1,36 @@
 {
-  "content_id": "cnt_263e4eb7a5a9e870",
-  "primary_object_id": "obj_f7c74912874ede58",
+  "content_id": "cnt_596c8bfc468941cc",
+  "primary_object_id": "obj_9c7784b27e3d42c6",
   "content_type": "artist_profile",
   "state": "published",
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "partially_verified",
-  "confidence_score": 0.9,
+  "confidence_score": 0.85,
   "claim_ids": [
-    "clm_08bd03bd6b53f7ef",
-    "clm_b441e6aea613a670",
-    "clm_51dbea22d3963c2d",
-    "clm_e4c3d4f19e7e1ee7"
+    "clm_5b93341a2cdc47b6",
+    "clm_e26e4309694c42c8",
+    "clm_967dddd6dc764d73",
+    "clm_239acd5518734086",
+    "clm_4e2ab35a58d744bd"
   ],
   "source_ids": [
-    "src_6c2a7503ef874920",
-    "src_01cec6a20f4a6850"
+    "src_defca7deb05e4878",
+    "src_d42ed40ea9e44e6e",
+    "src_932fd8fa03b94c90"
   ],
   "last_reviewed": "2026-08-08",
   "author": "VANSMITHLAB",
   "locale": "ru",
   "slug": "louise-bourgeois",
-  "title": "Луиз Буржуа",
-  "summary": "От мастерской по реставрации гобеленов в Париже через переезд в Нью-Йорк в 1938 году до первой персональной ретроспективы женщины в MoMA — скульптор, которой было 70 лет на момент институционального признания.",
-  "body_hash": "ba9fd92c2b17c50b4ca9692d20c476c99bf4e6fc61b502ac39685d92f388b53f",
+  "title": "Луиза Буржуа",
+  "summary": "Память, тело и архитектура психологического пространства",
+  "body_hash": "9b5961bdc16e911acde448e4de323102a759c3e25633e9d6a86fe844821e8281",
   "hero_image": {
-    "src": "/images/glossary/artists/louise-bourgeois-photo-v1.jpg",
-    "alt": "Портрет Луиз Буржуа, фотография Тэцуо Харады, 1994 год.",
-    "caption": "Луиз Буржуа, 1994 год.",
-    "credit": "Tetsuo Harada via Wikimedia Commons — CC0",
-    "origin": "public_domain"
+    "src": "/images\\glossary\\artists\\louise-bourgeois-photo-v1.jpg",
+    "alt": "Иллюстрация: Луиза Буржуа",
+    "caption": "Редакционная иллюстрация к материалу «Луиза Буржуа».",
+    "credit": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "origin": "ai_illustration"
   }
 }

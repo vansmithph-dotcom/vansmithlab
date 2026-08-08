@@ -1,47 +1,36 @@
 {
-  "content_id": "cnt_bd00afe06a19a412",
-  "primary_object_id": "obj_2a596a3d3a3f7b3d",
+  "content_id": "cnt_25ed69282ad84041",
+  "primary_object_id": "obj_e9119be87d914c23",
   "content_type": "encyclopedia",
   "state": "published",
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "partially_verified",
-  "confidence_score": 0.9,
+  "confidence_score": 0.85,
   "claim_ids": [
-    "clm_1b215bd4bcc7d849",
-    "clm_21423bb6faba129e",
-    "clm_4916c5540a80073f",
-    "clm_dc48ee86b53d6385",
-    "clm_30741fb64a2cb9ba",
-    "clm_1bf5f972b51ae77a",
-    "clm_eb63c1194e6c43eb",
-    "clm_5dd8d1ea047b0145",
-    "clm_310363970d332f80",
-    "clm_2e2985a1beeca604"
+    "clm_7337c23f0f9541b5",
+    "clm_abbedabde04742f6",
+    "clm_a2710334113b4362",
+    "clm_c0c43fa790354bc5",
+    "clm_38883579274740a6"
   ],
   "source_ids": [
-    "src_f5e73496622d937e",
-    "src_1f9917a053d916cb",
-    "src_ed3a9a383658af60",
-    "src_ce24f900a8ba84bf",
-    "src_839a3b01d515ecf0",
-    "src_f81bc6607dd9efdb",
-    "src_5e30cbfd58990689",
-    "src_3eac4afd9d9bef7a",
-    "src_363b5ff86b6adca3"
+    "src_6322d0a3ed834cf3",
+    "src_e0e0880e745942e7",
+    "src_a565a1fe3e2f4a5f"
   ],
   "last_reviewed": "2026-08-08",
   "author": "VANSMITHLAB",
   "locale": "ru",
   "slug": "chanel-institutsiya-i-struktura-sobstvennosti",
-  "title": "Chanel: институция и структура собственности",
-  "summary": "Основанный в 1910 году на рю Камбон, Chanel остаётся одним из немногих крупных домов от-кутюр в частной семейной собственности — от сделки с Вертеймерами 1924 года до штаб-квартиры в Лондоне и назначения Матьё Блази в 2024 году.",
-  "body_hash": "0dea2a6c0b26d1a7f38fc6e11faaf8abc154d376ccd0ece2c59fc9bce1891385",
+  "title": "```yaml",
+  "summary": "```yaml\ncontent_id: \"obj_chanel_house_ru_001\"\ncontent_type: encyclopedia\nvoice: institutional\nprimary_object_id: \"org_chanel\"\nlocale: ru\nsource_revision: 1\nverification_state: verified   # multi_sourc",
+  "body_hash": "2cebe397149fcf4bdfebccfb9ef5ef28840c3aeb84bd8e317e7e671ea306eddd",
   "hero_image": {
     "src": "/images/encyclopedia/chanel-institution-timeline-hero-v1.svg",
-    "alt": "Хронологическая диаграмма институциональной истории Chanel: от основания на рю Камбон в 1910 году до назначения Матьё Блази в 2024 году.",
-    "caption": "Институциональные вехи Дома Chanel, 1910-2024.",
-    "credit": "VANSMITHLAB · оригинальная редакционная диаграмма, 2026",
-    "origin": "editorial_diagram"
+    "alt": "Иллюстрация: ```yaml",
+    "caption": "Редакционная иллюстрация к материалу «```yaml».",
+    "credit": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "origin": "ai_illustration"
   }
 }

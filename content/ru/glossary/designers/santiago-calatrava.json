@@ -1,34 +1,36 @@
 {
-  "content_id": "cnt_203f72b2baf7751b",
-  "primary_object_id": "obj_ed06e1fd3576621a",
+  "content_id": "cnt_d661269ec7e74ed6",
+  "primary_object_id": "obj_4641b2f3dd2748ff",
   "content_type": "designer_profile",
   "state": "published",
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "partially_verified",
-  "confidence_score": 0.89,
+  "confidence_score": 0.85,
   "claim_ids": [
-    "clm_da5fe48057860f0f",
-    "clm_154049eb53ef3bac",
-    "clm_19ddac8d731d2c9a",
-    "clm_77ea59dbb18a92cf"
+    "clm_acf95a12c6014c74",
+    "clm_4142f4c65d7d43d9",
+    "clm_0028a300a12048dc",
+    "clm_d9be96567fb2440d",
+    "clm_221b5fe22c334e12"
   ],
   "source_ids": [
-    "src_0812da8ea3b3b9dc",
-    "src_d197961b9f6d3dab"
+    "src_abfc22c8d02945c0",
+    "src_127f0fd57d4147fc",
+    "src_5dd6508880d34b56"
   ],
   "last_reviewed": "2026-08-08",
   "author": "VANSMITHLAB",
   "locale": "ru",
   "slug": "santiago-calatrava",
   "title": "Сантьяго Калатрава",
-  "summary": "От архитектурного образования в Валенсии через докторскую степень по инженерии в ETH Zürich до собственной практики на стыке архитектуры, инженерии и скульптуры.",
-  "body_hash": "da9c34e9834a9543ed47be81ec9e0211cc4db878c9fd2dbba8fde51152c54168",
+  "summary": "Движение, структура и архитектура инженерного образа",
+  "body_hash": "2dbc6e112c754aa1958e9bf3c741ac734019a871416552478d6fe96a8e3d1103",
   "hero_image": {
-    "src": "/images/glossary/designers/santiago-calatrava-photo-v1.jpg",
-    "alt": "Портрет Сантьяго Калатравы на церемонии Wilson Awards, 2010 год.",
-    "caption": "Сантьяго Калатрава на церемонии Wilson Awards, 2010 год.",
-    "credit": "Wilson Center via Wikimedia Commons — CC BY-SA 3.0",
-    "origin": "licensed"
+    "src": "/images\\glossary\\designers\\santiago-calatrava-photo-v1.jpg",
+    "alt": "Иллюстрация: Сантьяго Калатрава",
+    "caption": "Редакционная иллюстрация к материалу «Сантьяго Калатрава».",
+    "credit": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "origin": "ai_illustration"
   }
 }

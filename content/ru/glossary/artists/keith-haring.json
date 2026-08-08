@@ -1,35 +1,36 @@
 {
-  "content_id": "cnt_ca6c2e543a4e11ff",
-  "primary_object_id": "obj_9885592c42110693",
+  "content_id": "cnt_f190ae31a001457d",
+  "primary_object_id": "obj_29b350dc490042a6",
   "content_type": "artist_profile",
   "state": "published",
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "partially_verified",
-  "confidence_score": 0.9,
+  "confidence_score": 0.85,
   "claim_ids": [
-    "clm_853b5de50e74ca69",
-    "clm_f7d3a205bf26b3d6",
-    "clm_876fe3ca16f63673",
-    "clm_c2f1a1ac9d0c1984",
-    "clm_734e0b7f4fabfdec"
+    "clm_de3d60c9470c4701",
+    "clm_fbf64030773945da",
+    "clm_4406e32f66f147e8",
+    "clm_807f931232154893",
+    "clm_8f9118749a204744"
   ],
   "source_ids": [
-    "src_11b51da271171e75",
-    "src_34f52ac45f5d30fc"
+    "src_0964fb5cb8bc487a",
+    "src_0d46cd34c04144d1",
+    "src_71c60221fd7b4c45"
   ],
   "last_reviewed": "2026-08-08",
   "author": "VANSMITHLAB",
   "locale": "ru",
   "slug": "keith-haring",
-  "title": "Кит Харинг",
-  "summary": "От мелового рисунка на пустых рекламных щитах в нью-йоркском метро до более 50 общественных муралей — художник, соединивший уличное искусство с поп-артом и умерший в 31 год от осложнений СПИДа.",
-  "body_hash": "57b9a6be6beefe4cc8f4d30f314ccf9a621722596f10f5a71315bda91334a176",
+  "title": "Линия, публичное пространство и искусство социальной доступности",
+  "summary": "Редакционный голос: VANSMITHLAB",
+  "body_hash": "f88f690e77b6c93d9c0be156207a7e81a8feb9338313ddcaf576332c8069255c",
   "hero_image": {
-    "src": "/images/glossary/artists/keith-haring-photo-v1.jpg",
-    "alt": "Кит Харинг в Stedelijk Museum, Амстердам, март 1986 года.",
-    "caption": "Кит Харинг в Stedelijk Museum, Амстердам, 1986 год.",
-    "credit": "Rob Bogaerts / Anefo, Nationaal Archief via Wikimedia Commons — CC0",
-    "origin": "public_domain"
+    "src": "/images\\glossary\\artists\\keith-haring-photo-v1.jpg",
+    "alt": "Иллюстрация: Линия, публичное пространство и искусство социальной доступности",
+    "caption": "Редакционная иллюстрация к материалу «Линия, публичное пространство и искусство социальной доступности».",
+    "credit": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "origin": "ai_illustration"
   }
 }

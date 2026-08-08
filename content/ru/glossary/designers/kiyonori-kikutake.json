@@ -1,35 +1,36 @@
 {
-  "content_id": "cnt_bb258f21c9763fd2",
-  "primary_object_id": "obj_4ed8d4ae634c4528",
+  "content_id": "cnt_bf2b972d5ffc4f92",
+  "primary_object_id": "obj_9acdea4064c74ca7",
   "content_type": "designer_profile",
   "state": "published",
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "partially_verified",
-  "confidence_score": 0.88,
+  "confidence_score": 0.85,
   "claim_ids": [
-    "clm_ce69f6d3be979fa7",
-    "clm_3e0fb76a735dab1b",
-    "clm_1dedf8238b5835b5",
-    "clm_27defeec7ef56111",
-    "clm_8775ed8042af5fd4"
+    "clm_b46d4ece3b934a79",
+    "clm_e690d525b5f14ab9",
+    "clm_bfd0b3e4035d445c",
+    "clm_2651dbd6850a4bb9",
+    "clm_008f51d3a8fb442b"
   ],
   "source_ids": [
-    "src_22d5fea3541d559c",
-    "src_9fc7fb1d5c4a7e80"
+    "src_c0e5983ef7464235",
+    "src_531bfa256a7248e2",
+    "src_420ed10f38e2407a"
   ],
   "last_reviewed": "2026-08-08",
   "author": "VANSMITHLAB",
   "locale": "ru",
   "slug": "kiyonori-kikutake",
-  "title": "Кийонори Кикутаке",
-  "summary": "От Университета Васэда через собственный дом Sky House до плавучего города Aquapolis — сооснователь Метаболизма, учитель Тойо Ито.",
-  "body_hash": "fd0fb2acd942a8da6db16501c65193e9cb3221440b147856526bb7cd074b1c95",
+  "title": "Киёонори Кикутакэ",
+  "summary": "Морской город, изменяемая структура и архитектура послевоенной утопии",
+  "body_hash": "6777ff52ab7d8025395e24b5d5fca405085def700b1f4b73c0da7af523375321",
   "hero_image": {
-    "src": "/images/glossary/designers/kiyonori-kikutake-timeline-hero-v1.svg",
-    "alt": "Хронологическая схема практики Kiyonori Kikutake: от Университета Васэда в 1950 году до Aquapolis на Окинаве в 1975 году.",
-    "caption": "Ключевые вехи практики Кийонори Кикутаке.",
-    "credit": "VANSMITHLAB · оригинальная редакционная диаграмма, 2026",
-    "origin": "editorial_diagram"
+    "src": "/images\\glossary\\designers\\kiyonori-kikutake-timeline-hero-v1.svg",
+    "alt": "Иллюстрация: Киёонори Кикутакэ",
+    "caption": "Редакционная иллюстрация к материалу «Киёонори Кикутакэ».",
+    "credit": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "origin": "ai_illustration"
   }
 }

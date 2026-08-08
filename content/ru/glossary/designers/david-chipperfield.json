@@ -1,35 +1,36 @@
 {
-  "content_id": "cnt_08b143fd6341fcc4",
-  "primary_object_id": "obj_0860c899a017bc0c",
+  "content_id": "cnt_f7aa1f90fe9e44f5",
+  "primary_object_id": "obj_17bc9bcce33b4f75",
   "content_type": "designer_profile",
   "state": "published",
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "partially_verified",
-  "confidence_score": 0.9,
+  "confidence_score": 0.85,
   "claim_ids": [
-    "clm_a31d52abfccb8626",
-    "clm_a881fd0607ee4936",
-    "clm_0211dd041c67cdd5",
-    "clm_52ddc03207f39214",
-    "clm_b8d03888a0cc1208"
+    "clm_f67858fdb26c4719",
+    "clm_e0f57f5ca28a4474",
+    "clm_c0c8f7f26cdf4e3e",
+    "clm_12f9ab6993ad4ac7",
+    "clm_4f2489819f1f4d2e"
   ],
   "source_ids": [
-    "src_6d77a5b088acce60",
-    "src_4ebcd905e5457f6b"
+    "src_61b56fa899c9483c",
+    "src_95339c7b57014707",
+    "src_eb8a718f84fe4580"
   ],
   "last_reviewed": "2026-08-08",
   "author": "VANSMITHLAB",
   "locale": "ru",
   "slug": "david-chipperfield",
   "title": "Дэвид Чипперфилд",
-  "summary": "От Architectural Association через работу у Нормана Фостера и Ричарда Роджерса до основания David Chipperfield Architects в 1985 году — Притцкеровский лауреат 2023 года, известный дисциплиной и точностью.",
-  "body_hash": "8ef1d3f556c1cc29e730419fbf91d66eb778ec5e766554ef389e1325e29cdeca",
+  "summary": "Точность, реконструкция и архитектура общественной преемственности",
+  "body_hash": "9870c60dc2975af9bef7d7535be579d0f9220847a1f9e6dea3de0b17d0a7f2e2",
   "hero_image": {
-    "src": "/images/glossary/designers/david-chipperfield-photo-v1.jpg",
-    "alt": "Портрет Дэвида Чипперфилда у Neues Museum в Берлине, июнь 2007 года.",
-    "caption": "Дэвид Чипперфилд у Neues Museum в Берлине, 2007 год.",
-    "credit": "team art in berlin via Wikimedia Commons — CC BY-SA 2.0",
-    "origin": "licensed"
+    "src": "/images\\glossary\\designers\\david-chipperfield-photo-v1.jpg",
+    "alt": "Иллюстрация: Дэвид Чипперфилд",
+    "caption": "Редакционная иллюстрация к материалу «Дэвид Чипперфилд».",
+    "credit": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "origin": "ai_illustration"
   }
 }

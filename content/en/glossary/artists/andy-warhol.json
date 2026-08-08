@@ -1,0 +1,42 @@
+{
+  "content_id": "cnt_e1be15f8a91d4203",
+  "primary_object_id": "obj_099e6e7c1255428b",
+  "content_type": "artist_profile",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.85,
+  "claim_ids": [
+    "clm_c0415b64d4574047",
+    "clm_96d74c51dbb949fb",
+    "clm_cfdf0dbf39cb4ed2",
+    "clm_90ed18cf15394b51",
+    "clm_1e86c0b4e61c4ca3"
+  ],
+  "source_ids": [
+    "src_8da652b24a5c4037",
+    "src_8300794f33f0440f",
+    "src_7da00d3bd61748e1"
+  ],
+  "last_reviewed": "2026-08-08",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "andy-warhol",
+  "title": "Энди Уорхол",
+  "summary": "Искусство, коммерция и производство знаменитости",
+  "body_hash": "b7c55debd790137d3227659910d247e82c37335a231319fc2239aa7669694c47",
+  "hero_image": {
+    "src": "/images\\glossary\\artists\\andy-warhol-photo-v1.jpg",
+    "alt": "Illustration: Энди Уорхол",
+    "caption": "Editorial illustration for «Энди Уорхол».",
+    "credit": "VANSMITHLAB · AI illustration, 2026",
+    "origin": "ai_illustration"
+  },
+  "translation": {
+    "source_locale": "ru",
+    "source_revision": 1,
+    "semantic_validated": false,
+    "review_run_id": ""
+  }
+}

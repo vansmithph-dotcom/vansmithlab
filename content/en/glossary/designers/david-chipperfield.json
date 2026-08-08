@@ -1,0 +1,42 @@
+{
+  "content_id": "cnt_f7aa1f90fe9e44f5",
+  "primary_object_id": "obj_17bc9bcce33b4f75",
+  "content_type": "designer_profile",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.85,
+  "claim_ids": [
+    "clm_f67858fdb26c4719",
+    "clm_e0f57f5ca28a4474",
+    "clm_c0c8f7f26cdf4e3e",
+    "clm_12f9ab6993ad4ac7",
+    "clm_4f2489819f1f4d2e"
+  ],
+  "source_ids": [
+    "src_61b56fa899c9483c",
+    "src_95339c7b57014707",
+    "src_eb8a718f84fe4580"
+  ],
+  "last_reviewed": "2026-08-08",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "david-chipperfield",
+  "title": "Дэвид Чипперфилд",
+  "summary": "Точность, реконструкция и архитектура общественной преемственности",
+  "body_hash": "9870c60dc2975af9bef7d7535be579d0f9220847a1f9e6dea3de0b17d0a7f2e2",
+  "hero_image": {
+    "src": "/images\\glossary\\designers\\david-chipperfield-photo-v1.jpg",
+    "alt": "Illustration: Дэвид Чипперфилд",
+    "caption": "Editorial illustration for «Дэвид Чипперфилд».",
+    "credit": "VANSMITHLAB · AI illustration, 2026",
+    "origin": "ai_illustration"
+  },
+  "translation": {
+    "source_locale": "ru",
+    "source_revision": 1,
+    "semantic_validated": false,
+    "review_run_id": ""
+  }
+}

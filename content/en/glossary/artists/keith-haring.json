@@ -1,0 +1,42 @@
+{
+  "content_id": "cnt_f190ae31a001457d",
+  "primary_object_id": "obj_29b350dc490042a6",
+  "content_type": "artist_profile",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.85,
+  "claim_ids": [
+    "clm_de3d60c9470c4701",
+    "clm_fbf64030773945da",
+    "clm_4406e32f66f147e8",
+    "clm_807f931232154893",
+    "clm_8f9118749a204744"
+  ],
+  "source_ids": [
+    "src_0964fb5cb8bc487a",
+    "src_0d46cd34c04144d1",
+    "src_71c60221fd7b4c45"
+  ],
+  "last_reviewed": "2026-08-08",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "keith-haring",
+  "title": "Линия, публичное пространство и искусство социальной доступности",
+  "summary": "Редакционный голос: VANSMITHLAB",
+  "body_hash": "f88f690e77b6c93d9c0be156207a7e81a8feb9338313ddcaf576332c8069255c",
+  "hero_image": {
+    "src": "/images\\glossary\\artists\\keith-haring-photo-v1.jpg",
+    "alt": "Illustration: Линия, публичное пространство и искусство социальной доступности",
+    "caption": "Editorial illustration for «Линия, публичное пространство и искусство социальной доступности».",
+    "credit": "VANSMITHLAB · AI illustration, 2026",
+    "origin": "ai_illustration"
+  },
+  "translation": {
+    "source_locale": "ru",
+    "source_revision": 1,
+    "semantic_validated": false,
+    "review_run_id": ""
+  }
+}

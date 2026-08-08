@@ -1,34 +1,36 @@
 {
-  "content_id": "cnt_8b5e6daf7da67724",
-  "primary_object_id": "obj_e073dcc9df4be37e",
+  "content_id": "cnt_6851252df8134b68",
+  "primary_object_id": "obj_41477e60e14447fa",
   "content_type": "designer_profile",
   "state": "published",
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "partially_verified",
-  "confidence_score": 0.9,
+  "confidence_score": 0.85,
   "claim_ids": [
-    "clm_36cad069d2ca7981",
-    "clm_e1cc9a86dacf2bf1",
-    "clm_cce5063a7604625a",
-    "clm_d6e1704746c128cc"
+    "clm_5cc4da9414b045c7",
+    "clm_7c8189995905429e",
+    "clm_b9d44884242c480e",
+    "clm_807c86b6f20644d8",
+    "clm_21f1dcacd497477e"
   ],
   "source_ids": [
-    "src_1ac57726fbabbe8a",
-    "src_82c23aa8b2bb1765"
+    "src_69c15c615a71426a",
+    "src_1c5f417b82e94517",
+    "src_d26e21005a514313"
   ],
   "last_reviewed": "2026-08-08",
   "author": "VANSMITHLAB",
   "locale": "ru",
   "slug": "alvaro-siza",
   "title": "Алвару Сиза",
-  "summary": "От Университета Порту через первые дома в Матозиньюше до практики, продолжающей модернистскую традицию с уважением к месту, — Притцкеровский лауреат 1992 года.",
-  "body_hash": "9ba12b690d41ba5a595085249e0a25b7053c7753c64bc444818bb9724eb43467",
+  "summary": "Топография, свет и архитектура точного приспособления",
+  "body_hash": "93aa897e19022e63d7b63b9edc6cb2cf49ea32aea85d469df2fb290c790247fb",
   "hero_image": {
-    "src": "/images/glossary/designers/alvaro-siza-photo-v1.jpg",
-    "alt": "Портрет Алвару Сизы, ноябрь 2015 года.",
-    "caption": "Алвару Сиза, 2015 год.",
-    "credit": "Manuelvbotelho via Wikimedia Commons — CC BY-SA 4.0",
-    "origin": "licensed"
+    "src": "/images\\glossary\\designers\\alvaro-siza-photo-v1.jpg",
+    "alt": "Иллюстрация: Алвару Сиза",
+    "caption": "Редакционная иллюстрация к материалу «Алвару Сиза».",
+    "credit": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "origin": "ai_illustration"
   }
 }

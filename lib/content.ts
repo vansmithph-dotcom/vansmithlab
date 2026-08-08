@@ -62,7 +62,7 @@ export function findTranslation(contentId: string, targetLocale: Locale): Conten
 }
 
 // Builds the `alternates.languages` (hreflang) map for a content page. Only includes a locale
-// once its page actually exists — a hreflang link to a non-existent translation is worse than
+// once its page actually exists вЂ” a hreflang link to a non-existent translation is worse than
 // no hreflang at all. Russian is the editorial source of truth, so it is always x-default.
 export function localeAlternates(locale: Locale, canonical: string, translation?: ContentMetadata): Record<string, string> {
   const otherLocale: Locale = locale === "ru" ? "en" : "ru";
@@ -78,7 +78,11 @@ export function getContent(locale: Locale, section: string, slug: string): Publi
     if (!fs.existsSync(`${base}.json`) || !fs.existsSync(`${base}.md`)) continue;
     const metadata = JSON.parse(fs.readFileSync(`${base}.json`, "utf8")) as ContentMetadata;
     const body = fs.readFileSync(`${base}.md`, "utf8");
-    const knowledge = JSON.parse(fs.readFileSync(path.join(knowledgeRoot, `${metadata.primary_object_id}.json`), "utf8")) as { sources: KnowledgeSource[]; citations: KnowledgeCitation[] };
+    let knowledge: { sources: KnowledgeSource[]; citations: KnowledgeCitation[] } = { sources: [], citations: [] };
+    try {
+      knowledge = JSON.parse(fs.readFileSync(path.join(knowledgeRoot, `${metadata.primary_object_id}.json`), "utf8"));
+    } catch { /* knowledge object not yet created — return empty sources */ }
+
     return {
       metadata,
       body,

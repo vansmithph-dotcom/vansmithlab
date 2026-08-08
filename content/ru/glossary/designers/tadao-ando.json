@@ -1,37 +1,36 @@
 {
-  "content_id": "cnt_08ee779534ad34e1",
-  "primary_object_id": "obj_a0b85d6e00014c47",
+  "content_id": "cnt_6e0055422c5149a4",
+  "primary_object_id": "obj_b9c0689b578e444c",
   "content_type": "designer_profile",
   "state": "published",
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "partially_verified",
-  "confidence_score": 0.93,
+  "confidence_score": 0.85,
   "claim_ids": [
-    "clm_3a84ac7baf2fc4f9",
-    "clm_d6ae4f602f5ee4e7",
-    "clm_3a3a2812b291359c",
-    "clm_13ead8e489bf76cc",
-    "clm_d9b25fb2c52e7b20",
-    "clm_02ce1a9a326c5904"
+    "clm_b2f6df4649694acd",
+    "clm_14a2d7a112d6496d",
+    "clm_4a0eb948efc04e04",
+    "clm_6c310ae11b3a400c",
+    "clm_072c2627dd95479a"
   ],
   "source_ids": [
-    "src_e820c8749f55df1a",
-    "src_c6673449cad78648",
-    "src_a387274fc002cb3a"
+    "src_1817b08497a74a61",
+    "src_cf2686d7abae467b",
+    "src_8fc5771e3b4d4aff"
   ],
-  "last_reviewed": "2026-08-06",
+  "last_reviewed": "2026-08-08",
   "author": "VANSMITHLAB",
   "locale": "ru",
   "slug": "tadao-ando",
-  "title": "Тадао Андо",
-  "summary": "От самообразования и профессионального бокса через основание практики в 1969 году и Church of the Light до Притцкеровской премии 1995 года и Chichu Art Museum.",
-  "body_hash": "43e2133c246b4263e9551bd9dd434e7ae301a975c184db081e8db15990fcfb14",
+  "title": "Бетон, свет, пустота и архитектура внутренней концентрации",
+  "summary": "Редакционный голос: VANSMITHLAB",
+  "body_hash": "e62ee72fa5ed0f66f508e62e9f376b502ec98f29c52dbbc6241ad75fc63b9407",
   "hero_image": {
-    "src": "/images/glossary/designers/tadao-ando-timeline-hero-v1.svg",
-    "alt": "Хронологическая схема карьеры Тадао Андо: от основания практики в 1969 году до Chichu Art Museum в 2004 году.",
-    "caption": "Ключевые вехи карьеры Тадао Андо.",
-    "credit": "VANSMITHLAB · оригинальная редакционная диаграмма, 2026",
-    "origin": "editorial_diagram"
+    "src": "/images\\glossary\\designers\\tadao-ando-timeline-hero-v1.svg",
+    "alt": "Иллюстрация: Бетон, свет, пустота и архитектура внутренней концентрации",
+    "caption": "Редакционная иллюстрация к материалу «Бетон, свет, пустота и архитектура внутренней концентрации».",
+    "credit": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "origin": "ai_illustration"
   }
 }

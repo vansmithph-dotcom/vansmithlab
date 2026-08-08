@@ -1,0 +1,42 @@
+{
+  "content_id": "cnt_c4afe68b21334516",
+  "primary_object_id": "obj_5061e00e1ceb4222",
+  "content_type": "designer_profile",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.85,
+  "claim_ids": [
+    "clm_9e726fc6260b49ea",
+    "clm_f0b02819f4d04afb",
+    "clm_751f71d4d51c45de",
+    "clm_2f8027a389724d35",
+    "clm_b867ae6588d449fe"
+  ],
+  "source_ids": [
+    "src_7560de48f0c94f48",
+    "src_0a474df8f0e34904",
+    "src_0af5849eaa8444ed"
+  ],
+  "last_reviewed": "2026-08-08",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "peter-zumthor",
+  "title": "Петер Цумтор",
+  "summary": "Материал, атмосфера и архитектура медленного восприятия",
+  "body_hash": "afb12b796b06883081f48d6bc5bbf5217bee7e2f487e153233d953fc1893f42d",
+  "hero_image": {
+    "src": "/images\\glossary\\designers\\peter-zumthor-photo-v1.jpg",
+    "alt": "Illustration: Петер Цумтор",
+    "caption": "Editorial illustration for «Петер Цумтор».",
+    "credit": "VANSMITHLAB · AI illustration, 2026",
+    "origin": "ai_illustration"
+  },
+  "translation": {
+    "source_locale": "ru",
+    "source_revision": 1,
+    "semantic_validated": false,
+    "review_run_id": ""
+  }
+}

@@ -1,34 +1,36 @@
 {
-  "content_id": "cnt_3f15b3651fb606c8",
-  "primary_object_id": "obj_122277319b93f614",
+  "content_id": "cnt_65c13362d3364a4c",
+  "primary_object_id": "obj_36a53ebcdfd34e74",
   "content_type": "artist_profile",
   "state": "published",
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "partially_verified",
-  "confidence_score": 0.9,
+  "confidence_score": 0.85,
   "claim_ids": [
-    "clm_ed241c50904b9ae6",
-    "clm_b68b3fc623c00804",
-    "clm_238939131e6e2f14",
-    "clm_18fd95426b1c46d7"
+    "clm_b2d17f47424c4140",
+    "clm_c5f69835a67e47d6",
+    "clm_f581ab1d57be46c4",
+    "clm_bcdfb92ef1304852",
+    "clm_32ef107843064197"
   ],
   "source_ids": [
-    "src_a29aa902f24bf7f9",
-    "src_2d1331d4f94f77aa"
+    "src_5b49a9d6d49547c5",
+    "src_e7698102cbc94c53",
+    "src_f5d096b3b5c84313"
   ],
   "last_reviewed": "2026-08-08",
   "author": "VANSMITHLAB",
   "locale": "ru",
   "slug": "salvador-dali",
   "title": "Сальвадор Дали",
-  "summary": "От Академии Сан-Фернандо в Мадриде через дружбу с Лоркой и Бунюэлем до «Постоянства памяти» — художник, сделавший сюрреализм узнаваемым по одному образу растекающихся часов.",
-  "body_hash": "2004d1b0039d1559ed558dbbf51cae52c2dd20b8cb6d13284cf80d3bf0f4e914",
+  "summary": "Паранойя, зрелище и производство собственного мифа",
+  "body_hash": "a745f11941ab4a7690b06e1468ca8c8abd1b398e73fe28492ba0053d2366fc01",
   "hero_image": {
-    "src": "/images/glossary/artists/salvador-dali-photo-v1.jpg",
-    "alt": "Портрет Сальвадора Дали, ноябрь 1939 года.",
-    "caption": "Сальвадор Дали, 1939 год.",
-    "credit": "Carl Van Vechten, Library of Congress via Wikimedia Commons — общественное достояние",
-    "origin": "public_domain"
+    "src": "/images\\glossary\\artists\\salvador-dali-photo-v1.jpg",
+    "alt": "Иллюстрация: Сальвадор Дали",
+    "caption": "Редакционная иллюстрация к материалу «Сальвадор Дали».",
+    "credit": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "origin": "ai_illustration"
   }
 }

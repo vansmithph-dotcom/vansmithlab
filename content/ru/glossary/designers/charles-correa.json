@@ -1,35 +1,36 @@
 {
-  "content_id": "cnt_3ca04d3ff777738c",
-  "primary_object_id": "obj_83063acc8c818eb5",
+  "content_id": "cnt_b67b47480a0c4659",
+  "primary_object_id": "obj_6fe92358ff6a4d8f",
   "content_type": "designer_profile",
   "state": "published",
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "partially_verified",
-  "confidence_score": 0.9,
+  "confidence_score": 0.85,
   "claim_ids": [
-    "clm_e183d48a7d694faa",
-    "clm_22f229a38bd65874",
-    "clm_324596f2e45a2427",
-    "clm_f0519dc5fc584f0a",
-    "clm_df3913d38eaa36fd"
+    "clm_6e55fe080bd34b03",
+    "clm_d27c0c457c534bea",
+    "clm_62194166117248b5",
+    "clm_a9c9d93a11434a5e",
+    "clm_bf1841c0e5dc4853"
   ],
   "source_ids": [
-    "src_00cc697a2b5e1c0f",
-    "src_52950d0c8b7b716c"
+    "src_ac38c060f0cd4402",
+    "src_ab1647621d69488a",
+    "src_dfda71d2d5034f59"
   ],
   "last_reviewed": "2026-08-08",
   "author": "VANSMITHLAB",
   "locale": "ru",
   "slug": "charles-correa",
   "title": "Чарльз Корреа",
-  "summary": "От Мичиганского университета и MIT через собственную практику в Мумбаи до статуса «величайшего архитектора Индии» — градостроитель, работавший с климатом, бедностью и традицией как проектными данными.",
-  "body_hash": "4b799323b2674474d2ff015faf0292d03c934b38f53e357f710ceca7530e9fc9",
+  "summary": "Климат, открытое небо и архитектура индийского города",
+  "body_hash": "f8143e28cb61ada488f3a7a134b8dbda33dc160bf2ed8e95e301ba7caee9a8db",
   "hero_image": {
-    "src": "/images/glossary/designers/charles-correa-photo-v1.jpg",
-    "alt": "Портрет Чарльза Корреа, декабрь 2011 года.",
-    "caption": "Чарльз Корреа, 2011 год.",
-    "credit": "Dipz99 via Wikimedia Commons — CC BY-SA 3.0",
-    "origin": "licensed"
+    "src": "/images\\glossary\\designers\\charles-correa-photo-v1.jpg",
+    "alt": "Иллюстрация: Чарльз Корреа",
+    "caption": "Редакционная иллюстрация к материалу «Чарльз Корреа».",
+    "credit": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "origin": "ai_illustration"
   }
 }

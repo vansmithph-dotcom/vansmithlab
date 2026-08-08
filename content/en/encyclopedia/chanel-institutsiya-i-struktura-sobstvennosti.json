@@ -1,0 +1,42 @@
+{
+  "content_id": "cnt_25ed69282ad84041",
+  "primary_object_id": "obj_e9119be87d914c23",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.85,
+  "claim_ids": [
+    "clm_7337c23f0f9541b5",
+    "clm_abbedabde04742f6",
+    "clm_a2710334113b4362",
+    "clm_c0c43fa790354bc5",
+    "clm_38883579274740a6"
+  ],
+  "source_ids": [
+    "src_6322d0a3ed834cf3",
+    "src_e0e0880e745942e7",
+    "src_a565a1fe3e2f4a5f"
+  ],
+  "last_reviewed": "2026-08-08",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "chanel-institutsiya-i-struktura-sobstvennosti",
+  "title": "```yaml",
+  "summary": "```yaml\ncontent_id: \"obj_chanel_house_ru_001\"\ncontent_type: encyclopedia\nvoice: institutional\nprimary_object_id: \"org_chanel\"\nlocale: ru\nsource_revision: 1\nverification_state: verified   # multi_sourc",
+  "body_hash": "2cebe397149fcf4bdfebccfb9ef5ef28840c3aeb84bd8e317e7e671ea306eddd",
+  "hero_image": {
+    "src": "/images/encyclopedia/chanel-institution-timeline-hero-v1.svg",
+    "alt": "Illustration: ```yaml",
+    "caption": "Editorial illustration for «```yaml».",
+    "credit": "VANSMITHLAB · AI illustration, 2026",
+    "origin": "ai_illustration"
+  },
+  "translation": {
+    "source_locale": "ru",
+    "source_revision": 1,
+    "semantic_validated": false,
+    "review_run_id": ""
+  }
+}

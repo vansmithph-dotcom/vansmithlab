@@ -1,33 +1,36 @@
 {
-  "content_id": "cnt_a1d9a87ccbaf073c",
-  "primary_object_id": "obj_b4a896f69080c266",
+  "content_id": "cnt_30abd258eb564c86",
+  "primary_object_id": "obj_2b2439673163476c",
   "content_type": "artist_profile",
   "state": "published",
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "partially_verified",
-  "confidence_score": 0.9,
+  "confidence_score": 0.85,
   "claim_ids": [
-    "clm_e855dde4d3c68d11",
-    "clm_77668664e6ef5d1a",
-    "clm_a7bc06640a0b5044"
+    "clm_a6c651e03dd04402",
+    "clm_8d16417296914324",
+    "clm_e26f5e8af41e4f7a",
+    "clm_d72f3ab4182f40d7",
+    "clm_cc04e7ff06504cc9"
   ],
   "source_ids": [
-    "src_52c5a9cc61165918",
-    "src_962e697e294e7704"
+    "src_c1b9457ea88140fd",
+    "src_dd41519dd17c4db1",
+    "src_91938263ed4045d4"
   ],
   "last_reviewed": "2026-08-08",
   "author": "VANSMITHLAB",
   "locale": "ru",
   "slug": "pablo-picasso",
   "title": "Пабло Пикассо",
-  "summary": "От Малаги через кубизм к десяткам тысяч произведений в живописи, графике, скульптуре и керамике — художник, чьё влияние на язык искусства XX века остаётся беспрецедентным по масштабу.",
-  "body_hash": "2c5c07d3788b48b16513f3203cbf6d67be63eb27f070753d7fa9e36c888de63c",
+  "summary": "Разрушение формы, производство образа и власть художественного мифа",
+  "body_hash": "5e6259670cf9e7fd50ca268b571bbebf04b5f0fddaaf7d926277077b69af9b9d",
   "hero_image": {
-    "src": "/images/glossary/artists/pablo-picasso-photo-v1.jpg",
-    "alt": "Портрет Пабло Пикассо, январь 1962 года.",
-    "caption": "Пабло Пикассо, 1962 год.",
-    "credit": "Аргентинский журнал Vea y Lea via Wikimedia Commons — общественное достояние в Аргентине (истёк срок охраны фотографии по закону 11.723)",
-    "origin": "public_domain"
+    "src": "/images\\glossary\\artists\\pablo-picasso-photo-v1.jpg",
+    "alt": "Иллюстрация: Пабло Пикассо",
+    "caption": "Редакционная иллюстрация к материалу «Пабло Пикассо».",
+    "credit": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "origin": "ai_illustration"
   }
 }

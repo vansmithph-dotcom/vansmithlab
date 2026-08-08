@@ -1,0 +1,42 @@
+{
+  "content_id": "cnt_f36f6bbb3959499e",
+  "primary_object_id": "obj_f8f103013a6b4886",
+  "content_type": "designer_profile",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.85,
+  "claim_ids": [
+    "clm_d7fe2f41ef9146ae",
+    "clm_f2c17726ab3b4eeb",
+    "clm_c2c0bd6adb834a2d",
+    "clm_f6aabbe307204c33",
+    "clm_dd7632dee98d4b17"
+  ],
+  "source_ids": [
+    "src_345868469d9545b1",
+    "src_62c248abf57b4f7e",
+    "src_0f5865dea03d4740"
+  ],
+  "last_reviewed": "2026-08-08",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "john-galliano",
+  "title": "Джон Гальяно",
+  "summary": "Исторический костюм, театральный сторителлинг и мода как тотальная постановка",
+  "body_hash": "3c47b09002cb387fa3badc6fcd1df0369ab1132a03e99b453c0bb1572380c2f7",
+  "hero_image": {
+    "src": "/images\\glossary\\designers\\john-galliano-timeline-hero-v1.svg",
+    "alt": "Illustration: Джон Гальяно",
+    "caption": "Editorial illustration for «Джон Гальяно».",
+    "credit": "VANSMITHLAB · AI illustration, 2026",
+    "origin": "ai_illustration"
+  },
+  "translation": {
+    "source_locale": "ru",
+    "source_revision": 1,
+    "semantic_validated": false,
+    "review_run_id": ""
+  }
+}

@@ -1,37 +1,36 @@
 {
-  "content_id": "cnt_03b37c9cb79d9b4a",
-  "primary_object_id": "obj_94164e8d66da4a7b",
+  "content_id": "cnt_89c2514c14274e7a",
+  "primary_object_id": "obj_9fb24b521c95450e",
   "content_type": "designer_profile",
   "state": "published",
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "partially_verified",
-  "confidence_score": 0.94,
+  "confidence_score": 0.85,
   "claim_ids": [
-    "clm_13f308050a471d69",
-    "clm_6ec742851cb3d245",
-    "clm_1783f80a60ee4d0b",
-    "clm_6d2c444bdc7066cc",
-    "clm_8fb67405324e5c7a",
-    "clm_9991da4f0d95b9b7"
+    "clm_f0b5d40d1c8248e5",
+    "clm_f7c5f0135de64546",
+    "clm_65af4fe868c84ada",
+    "clm_92ef4ce6564545a5",
+    "clm_4e9db1353cb74193"
   ],
   "source_ids": [
-    "src_8d3ac9e99e528256",
-    "src_5c3bd3048fdafcfb",
-    "src_0f56c30542a07970"
+    "src_43140e6818614f93",
+    "src_0ed2fbd31f6e45e0",
+    "src_a2ab9ac802fa4f76"
   ],
-  "last_reviewed": "2026-08-06",
+  "last_reviewed": "2026-08-08",
   "author": "VANSMITHLAB",
   "locale": "ru",
   "slug": "frank-lloyd-wright",
   "title": "Фрэнк Ллойд Райт",
-  "summary": "От Robie House 1910 года через Fallingwater 1935-1939 годов до Guggenheim Museum, открытого через полгода после его смерти в 1959-м, и признания восьми его построек Всемирным наследием ЮНЕСКО в 2019 году.",
-  "body_hash": "166c8e9d35416aefdef58314e2c8a3d8698b69b20b82d93701fc1deb185ec725",
+  "summary": "Органическая архитектура, прерийный дом и изобретение американского пространства",
+  "body_hash": "98a895ccfabc3b406c50bfffc02f5f7df83e2f4ed6d1487d7d5c9411277718e1",
   "hero_image": {
-    "src": "/images/glossary/designers/frank-lloyd-wright-timeline-hero-v1.svg",
-    "alt": "Хронологическая схема карьеры Фрэнка Ллойда Райта: от Robie House в 1910 году до признания ЮНЕСКО в 2019 году.",
-    "caption": "Ключевые вехи карьеры Фрэнка Ллойда Райта.",
-    "credit": "VANSMITHLAB · оригинальная редакционная диаграмма, 2026",
-    "origin": "editorial_diagram"
+    "src": "/images\\glossary\\designers\\frank-lloyd-wright-timeline-hero-v1.svg",
+    "alt": "Иллюстрация: Фрэнк Ллойд Райт",
+    "caption": "Редакционная иллюстрация к материалу «Фрэнк Ллойд Райт».",
+    "credit": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "origin": "ai_illustration"
   }
 }

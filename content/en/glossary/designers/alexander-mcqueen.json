@@ -1,0 +1,42 @@
+{
+  "content_id": "cnt_a6eaa507afce4a5b",
+  "primary_object_id": "obj_aa5005a3fac74d38",
+  "content_type": "designer_profile",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.85,
+  "claim_ids": [
+    "clm_05c88d56a76646aa",
+    "clm_8bd0bbcbdb7e42c4",
+    "clm_a4cda64f52eb490e",
+    "clm_c1893fe23be64607",
+    "clm_9b5bef79431a4dcb"
+  ],
+  "source_ids": [
+    "src_bd0be9d06b604cd1",
+    "src_61223b6553844032",
+    "src_b3f0fe885abf48d0"
+  ],
+  "last_reviewed": "2026-08-08",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "alexander-mcqueen",
+  "title": "Александр Маккуин",
+  "summary": "Мода как театр, анатомия, травма и технологический спектакль",
+  "body_hash": "ecf94aa832fa62c656f60e91f4e918eef9f24e59ffbd24958eb81499ae89426a",
+  "hero_image": {
+    "src": "/images\\glossary\\designers\\alexander-mcqueen-timeline-hero-v1.svg",
+    "alt": "Illustration: Александр Маккуин",
+    "caption": "Editorial illustration for «Александр Маккуин».",
+    "credit": "VANSMITHLAB · AI illustration, 2026",
+    "origin": "ai_illustration"
+  },
+  "translation": {
+    "source_locale": "ru",
+    "source_revision": 1,
+    "semantic_validated": false,
+    "review_run_id": ""
+  }
+}

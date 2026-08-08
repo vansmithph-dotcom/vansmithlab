@@ -1,35 +1,36 @@
 {
-  "content_id": "cnt_7834e227b2194eb1",
-  "primary_object_id": "obj_8e33626ce5f1d3aa",
+  "content_id": "cnt_50c78a6de22b4d06",
+  "primary_object_id": "obj_ac719bd130a1473b",
   "content_type": "designer_profile",
   "state": "published",
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "partially_verified",
-  "confidence_score": 0.89,
+  "confidence_score": 0.85,
   "claim_ids": [
-    "clm_89d94a11575df466",
-    "clm_a4fd52e1dbe6f7a2",
-    "clm_9000c7a67e855c60",
-    "clm_163c2e29ab2de08a",
-    "clm_68fdefc5a0739923"
+    "clm_f450815a182f4cf7",
+    "clm_3568efa0c1cc4b10",
+    "clm_83eecba733544185",
+    "clm_be740420dc864b98",
+    "clm_4803a5a939fb4a4c"
   ],
   "source_ids": [
-    "src_65e98e0ba90626df",
-    "src_82d84d935ff88887"
+    "src_e4d05858126240a5",
+    "src_a2dce6d305614cdf",
+    "src_592351c6f3c14bb0"
   ],
   "last_reviewed": "2026-08-08",
   "author": "VANSMITHLAB",
   "locale": "ru",
   "slug": "hassan-fathy",
   "title": "Хассан Фатхи",
-  "summary": "От Каирского университета через возрождение сырцового кирпича до деревни Новая Гурна — «архитектор для бедных», чья книга стала основным учебным текстом для нескольких поколений архитекторов.",
-  "body_hash": "93d32d7507eac5993788460c117ba6cd20ef1c8df9dede9361bd779d04231484",
+  "summary": "Земля, климат и архитектура человеческого достоинства",
+  "body_hash": "5a3b14387fccbd5a2fba7dc3519bab0d44b432864e1005b270fa6d0891e29a9b",
   "hero_image": {
-    "src": "/images/glossary/designers/hassan-fathy-photo-v1.jpg",
-    "alt": "Портрет Хассана Фатхи в Каире, до 1989 года.",
-    "caption": "Хассан Фатхи в Каире.",
-    "credit": "Из личного архива Dimitri Papadimos via Wikimedia Commons — CC BY-SA 3.0",
-    "origin": "licensed"
+    "src": "/images\\glossary\\designers\\hassan-fathy-photo-v1.jpg",
+    "alt": "Иллюстрация: Хассан Фатхи",
+    "caption": "Редакционная иллюстрация к материалу «Хассан Фатхи».",
+    "credit": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "origin": "ai_illustration"
   }
 }

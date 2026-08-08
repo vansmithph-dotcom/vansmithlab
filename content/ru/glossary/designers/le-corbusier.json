@@ -1,36 +1,36 @@
 {
-  "content_id": "cnt_544d0fd2d4b33064",
-  "primary_object_id": "obj_97f134789d91ff49",
+  "content_id": "cnt_24189d5e0d14474a",
+  "primary_object_id": "obj_c907c03b673646f2",
   "content_type": "designer_profile",
   "state": "published",
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "partially_verified",
-  "confidence_score": 0.93,
+  "confidence_score": 0.85,
   "claim_ids": [
-    "clm_4610e348628534bf",
-    "clm_29ed7be2d81b72b2",
-    "clm_046d05470b711713",
-    "clm_1cde79c43355c30a",
-    "clm_486bf54290c2617f",
-    "clm_251ed69112cfa93d"
+    "clm_82ed7a3050424232",
+    "clm_465cba8a68e14535",
+    "clm_93da17c081c64f50",
+    "clm_cfc62be7a2c54be6",
+    "clm_4962bbb0c0864c8a"
   ],
   "source_ids": [
-    "src_2dd68221ac7edc7d",
-    "src_992d7b02db379d4f"
+    "src_9e50d59ad1184f98",
+    "src_71650d0feba849cb",
+    "src_dc93e4d22bb24a4d"
   ],
-  "last_reviewed": "2026-08-06",
+  "last_reviewed": "2026-08-08",
   "author": "VANSMITHLAB",
   "locale": "ru",
   "slug": "le-corbusier",
   "title": "Ле Корбюзье",
-  "summary": "От Vers une architecture 1923 года через Villa Savoye и капеллу в Роншане до признания 17 его построек Всемирным наследием ЮНЕСКО в 2016 году.",
-  "body_hash": "40a7c85b9eb716f13656dd62a7d4c9d50f60c07b9732fb6e96de86ce05aa41a6",
+  "summary": "Машина для жилья, город как система и архитектура нового века",
+  "body_hash": "fc68db1db5a800af039a7fde7fc3dc77380a5f785f56d2057916aaadd3a1b0a8",
   "hero_image": {
-    "src": "/images/glossary/designers/le-corbusier-timeline-hero-v1.svg",
-    "alt": "Хронологическая схема карьеры Ле Корбюзье: от манифеста 1923 года до признания ЮНЕСКО в 2016 году.",
-    "caption": "Ключевые вехи карьеры Ле Корбюзье.",
-    "credit": "VANSMITHLAB · оригинальная редакционная диаграмма, 2026",
-    "origin": "editorial_diagram"
+    "src": "/images\\glossary\\designers\\le-corbusier-timeline-hero-v1.svg",
+    "alt": "Иллюстрация: Ле Корбюзье",
+    "caption": "Редакционная иллюстрация к материалу «Ле Корбюзье».",
+    "credit": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "origin": "ai_illustration"
   }
 }

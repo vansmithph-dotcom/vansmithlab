@@ -1,34 +1,36 @@
 {
-  "content_id": "cnt_1042faa2407f0401",
-  "primary_object_id": "obj_fa162544e3fec0ca",
+  "content_id": "cnt_b5ff0bb3ef074329",
+  "primary_object_id": "obj_997de06045314654",
   "content_type": "artist_profile",
   "state": "published",
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "partially_verified",
-  "confidence_score": 0.9,
+  "confidence_score": 0.85,
   "claim_ids": [
-    "clm_cd654029f165b6e8",
-    "clm_95273d2d248f1e27",
-    "clm_4357cc5d08726301",
-    "clm_d196cac879ef3245"
+    "clm_9e792ab914ea4947",
+    "clm_ec04cff93bf84836",
+    "clm_d2f5effadee8410c",
+    "clm_38db7387f331482e",
+    "clm_d73ee5fc93204435"
   ],
   "source_ids": [
-    "src_e832587f0ab8bab0",
-    "src_f1179f04252cd9b1"
+    "src_5a7e143b54024e4b",
+    "src_16a0c205e93b45e6",
+    "src_2c8ec92c73494fd7"
   ],
   "last_reviewed": "2026-08-08",
   "author": "VANSMITHLAB",
   "locale": "ru",
   "slug": "david-hockney",
   "title": "Дэвид Хокни",
-  "summary": "От Bradford School of Art через золотую медаль Royal College of Art до статуса одного из главных художников британского поп-арта — карьера, продолжающаяся уже более шести десятилетий.",
-  "body_hash": "abb064f64e28c814ecd3e1791ff94d0e250c937f2b246b1977b1ab5f74d8a48c",
+  "summary": "Видение, цвет и расширение картины",
+  "body_hash": "5689a98545412748ab1c9d6653bd032c34e3184bc30c30d7b5daa1b601f997cc",
   "hero_image": {
-    "src": "/images/glossary/artists/david-hockney-photo-v1.jpg",
-    "alt": "Портрет Дэвида Хокни, Лондон, январь 2012 года.",
-    "caption": "Дэвид Хокни, Лондон, 2012 год.",
-    "credit": "Kleon3 via Wikimedia Commons — CC BY-SA 4.0",
-    "origin": "licensed"
+    "src": "/images\\glossary\\artists\\david-hockney-photo-v1.jpg",
+    "alt": "Иллюстрация: Дэвид Хокни",
+    "caption": "Редакционная иллюстрация к материалу «Дэвид Хокни».",
+    "credit": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "origin": "ai_illustration"
   }
 }

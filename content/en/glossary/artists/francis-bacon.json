@@ -1,0 +1,42 @@
+{
+  "content_id": "cnt_f2f2cfb8dadf4bd5",
+  "primary_object_id": "obj_bf23e0da0dc64b59",
+  "content_type": "artist_profile",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.85,
+  "claim_ids": [
+    "clm_5f6685d1355d466c",
+    "clm_0fee6c3ab34a45b7",
+    "clm_fb70cb2af0fa42c6",
+    "clm_c8fa1ab0d9ce4953",
+    "clm_fe726125fc804f2e"
+  ],
+  "source_ids": [
+    "src_6850bd2b928140ce",
+    "src_97d1e47e7ed54444",
+    "src_6e04e4331c3b4659"
+  ],
+  "last_reviewed": "2026-08-08",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "francis-bacon",
+  "title": "Фрэнсис Бэкон",
+  "summary": "Деформация, случай и жестокость факта",
+  "body_hash": "e46667c53610e7bb654a2931c5778277f3d86709798168dc307ba16b7ba9c8e4",
+  "hero_image": {
+    "src": "/images\\glossary\\artists\\francis-bacon-timeline-hero-v1.svg",
+    "alt": "Illustration: Фрэнсис Бэкон",
+    "caption": "Editorial illustration for «Фрэнсис Бэкон».",
+    "credit": "VANSMITHLAB · AI illustration, 2026",
+    "origin": "ai_illustration"
+  },
+  "translation": {
+    "source_locale": "ru",
+    "source_revision": 1,
+    "semantic_validated": false,
+    "review_run_id": ""
+  }
+}

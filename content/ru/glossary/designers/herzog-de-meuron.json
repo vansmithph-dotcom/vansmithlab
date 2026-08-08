@@ -1,36 +1,36 @@
 {
-  "content_id": "cnt_b7c7bec301c22e7d",
-  "primary_object_id": "obj_95e49519a0202eb2",
+  "content_id": "cnt_11c7f2129af3469c",
+  "primary_object_id": "obj_568704eb02594813",
   "content_type": "designer_profile",
   "state": "published",
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "partially_verified",
-  "confidence_score": 0.9,
+  "confidence_score": 0.85,
   "claim_ids": [
-    "clm_fb24dcf72a1a3297",
-    "clm_e7a2f24c7a6f484f",
-    "clm_939e6a2dda6784f5",
-    "clm_5f9886d03952848c",
-    "clm_a46713342d7dcb98",
-    "clm_bdb6e9f3a0bf378b"
+    "clm_33d2ff886575474a",
+    "clm_c384a011f102400b",
+    "clm_c13e8be94728487c",
+    "clm_4c2232505d134ea5",
+    "clm_582a9968db5442c6"
   ],
   "source_ids": [
-    "src_e687fb27486bfa86",
-    "src_af2fd49cb2721400"
+    "src_0f9836f4204e466f",
+    "src_6ab1dfb1eca8425c",
+    "src_b1ddfd03fdbb4532"
   ],
   "last_reviewed": "2026-08-08",
   "author": "VANSMITHLAB",
   "locale": "ru",
   "slug": "herzog-de-meuron",
-  "title": "Herzog & de Meuron",
-  "summary": "От одноклассников в Базеле через ETH Zürich до Tate Modern и Пекинского национального стадиона — Жак Херцог и Пьер де Мёрон, совместные лауреаты Притцкеровской премии 2001 года.",
-  "body_hash": "70e73cebf30dcf49f600ef6d8aefd3ec2f5684718c5af668a731d30335e2abbe",
+  "title": "Херцог и де Мёрон",
+  "summary": "Материал, оболочка, преобразование и архитектура изменяемой идентичности",
+  "body_hash": "77413b8eb100e2c8824c5b3c94db95867f1ecf6159ab67ec41fc664747c1786b",
   "hero_image": {
-    "src": "/images/glossary/designers/herzog-de-meuron-timeline-hero-v1.svg",
-    "alt": "Хронологическая схема практики Herzog & de Meuron: от основания в 1978 году до Пекинского национального стадиона в 2008 году.",
-    "caption": "Ключевые вехи практики Herzog & de Meuron.",
-    "credit": "VANSMITHLAB · оригинальная редакционная диаграмма, 2026",
-    "origin": "editorial_diagram"
+    "src": "/images\\glossary\\designers\\herzog-de-meuron-timeline-hero-v1.svg",
+    "alt": "Иллюстрация: Херцог и де Мёрон",
+    "caption": "Редакционная иллюстрация к материалу «Херцог и де Мёрон».",
+    "credit": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "origin": "ai_illustration"
   }
 }

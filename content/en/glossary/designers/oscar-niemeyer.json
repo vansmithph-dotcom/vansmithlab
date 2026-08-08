@@ -1,0 +1,42 @@
+{
+  "content_id": "cnt_1daf272936fe443d",
+  "primary_object_id": "obj_35a0548266c4432b",
+  "content_type": "designer_profile",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.85,
+  "claim_ids": [
+    "clm_fbf8f1417a6142e6",
+    "clm_646700858cc44b33",
+    "clm_a8f2fd8a7001438d",
+    "clm_cff6057c0f424f0b",
+    "clm_48d23f1d97a54a77"
+  ],
+  "source_ids": [
+    "src_01fa69be1dc74adf",
+    "src_47982f9f683c4054",
+    "src_d59845c3122e4910"
+  ],
+  "last_reviewed": "2026-08-08",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "oscar-niemeyer",
+  "title": "Оскар Нимейер",
+  "summary": "Кривая линия, монументальная пластика и архитектура модернистской Бразилии",
+  "body_hash": "327e54892124ac19ad32bb9a1e9e40fc3dba5204432601f699c4dfb0b0dd1de8",
+  "hero_image": {
+    "src": "/images\\glossary\\designers\\oscar-niemeyer-timeline-hero-v1.svg",
+    "alt": "Illustration: Оскар Нимейер",
+    "caption": "Editorial illustration for «Оскар Нимейер».",
+    "credit": "VANSMITHLAB · AI illustration, 2026",
+    "origin": "ai_illustration"
+  },
+  "translation": {
+    "source_locale": "ru",
+    "source_revision": 1,
+    "semantic_validated": false,
+    "review_run_id": ""
+  }
+}

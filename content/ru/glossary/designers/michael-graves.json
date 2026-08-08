@@ -1,35 +1,36 @@
 {
-  "content_id": "cnt_2e25d7959e023329",
-  "primary_object_id": "obj_ec20a36a6525ba6a",
+  "content_id": "cnt_b1dd95bdbcae4216",
+  "primary_object_id": "obj_1e87efeb89274475",
   "content_type": "designer_profile",
   "state": "published",
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "partially_verified",
-  "confidence_score": 0.9,
+  "confidence_score": 0.85,
   "claim_ids": [
-    "clm_40cb2df424403ad4",
-    "clm_c76a2b34014598cc",
-    "clm_d853a1d013be907f",
-    "clm_35074862abe19752",
-    "clm_aee8ada9d249470a"
+    "clm_f10562e3f57b41f7",
+    "clm_af819fdd41a34d3a",
+    "clm_982a1efd0b1c44f6",
+    "clm_faeb8c187c434744",
+    "clm_c78b49be4f9d441e"
   ],
   "source_ids": [
-    "src_9273618ab213356a",
-    "src_c591d6b7e8e32f6b"
+    "src_e24c396980ff477c",
+    "src_e4d41b5ae9734b01",
+    "src_9f3172d3366842f6"
   ],
   "last_reviewed": "2026-08-08",
   "author": "VANSMITHLAB",
   "locale": "ru",
   "slug": "michael-graves",
-  "title": "Майкл Грейвз",
-  "summary": "От Университета Цинциннати и Гарварда через Принстонскую премию Prix de Rome до Portland Building — архитектор, определивший постмодернизм 1980-х и позже спроектировавший чайник.",
-  "body_hash": "6ab5b7c4e4d1a6e0044f605428fe4cdf1f39f2c51d5601a164fe1c4684a8209e",
+  "title": "Майкл Грейвс",
+  "summary": "Орнамент, массовый дизайн и архитектура доступности",
+  "body_hash": "18965640e14e810c4133b6249004816c50b1a837cfc7f65a96f23a768be28987",
   "hero_image": {
-    "src": "/images/glossary/designers/michael-graves-photo-v1.jpg",
-    "alt": "Портрет Майкла Грейвза, Принстон, Нью-Джерси, 1987 год.",
-    "caption": "Майкл Грейвз, Принстон, 1987 год.",
-    "credit": "Bernard Gotfryd, Library of Congress via Wikimedia Commons — общественное достояние",
-    "origin": "public_domain"
+    "src": "/images\\glossary\\designers\\michael-graves-photo-v1.jpg",
+    "alt": "Иллюстрация: Майкл Грейвс",
+    "caption": "Редакционная иллюстрация к материалу «Майкл Грейвс».",
+    "credit": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "origin": "ai_illustration"
   }
 }

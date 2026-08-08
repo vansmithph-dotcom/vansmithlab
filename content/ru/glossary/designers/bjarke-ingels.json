@@ -1,35 +1,36 @@
 {
-  "content_id": "cnt_58f9a0311d6e8e6b",
-  "primary_object_id": "obj_e5f5c72843f4b9c7",
+  "content_id": "cnt_89ff00d94edd4f0c",
+  "primary_object_id": "obj_e9d30f107ba04908",
   "content_type": "designer_profile",
   "state": "published",
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "partially_verified",
-  "confidence_score": 0.89,
+  "confidence_score": 0.85,
   "claim_ids": [
-    "clm_c4a5ccb36b4a9a75",
-    "clm_6ddde4a9cbd3e3ea",
-    "clm_f11b4233230e06e8",
-    "clm_a882def8eef70995",
-    "clm_761134f04b218ea0"
+    "clm_820bc3bcef1d482d",
+    "clm_1371839cca004c9e",
+    "clm_df64cf05a2b14645",
+    "clm_15075c1d73a34d54",
+    "clm_8169f7c5081546a9"
   ],
   "source_ids": [
-    "src_4d9e63710ec9acfd",
-    "src_05d610a3c735cdd0"
+    "src_386aa7253d8541b1",
+    "src_58629ff2ebef48da",
+    "src_c6fb1228091745c6"
   ],
   "last_reviewed": "2026-08-08",
   "author": "VANSMITHLAB",
   "locale": "ru",
   "slug": "bjarke-ingels",
   "title": "Бьярке Ингельс",
-  "summary": "От Королевской датской академии изящных искусств через OMA и PLOT до основания BIG в 2005 году — архитектор, соединяющий утопическое мышление с прагматичным инжинирингом формы.",
-  "body_hash": "ef96a47a1a567e44e8b3010319e5cb5c091d19a36ba025ba84f223491c13ad09",
+  "summary": "Утопический прагматизм, гибридные типологии и архитектура полезного удовольствия",
+  "body_hash": "2d17f02731705fde4027534b1533fb21eddf621a4b9d43d3285a8a146fee0398",
   "hero_image": {
-    "src": "/images/glossary/designers/bjarke-ingels-photo-v1.jpg",
-    "alt": "Портрет Бьярке Ингельса в Датском центре архитектуры, июнь 2019 года.",
-    "caption": "Бьярке Ингельс в Датском центре архитектуры, 2019 год.",
-    "credit": "Mogens Engelund via Wikimedia Commons — CC BY-SA 3.0",
-    "origin": "licensed"
+    "src": "/images\\glossary\\designers\\bjarke-ingels-photo-v1.jpg",
+    "alt": "Иллюстрация: Бьярке Ингельс",
+    "caption": "Редакционная иллюстрация к материалу «Бьярке Ингельс».",
+    "credit": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "origin": "ai_illustration"
   }
 }

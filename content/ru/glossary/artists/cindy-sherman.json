@@ -1,0 +1,36 @@
+{
+  "content_id": "cnt_b7c80848487d4c50",
+  "primary_object_id": "obj_365e769f8fd741cb",
+  "content_type": "artist_profile",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.85,
+  "claim_ids": [
+    "clm_6fec8b4c5aa447c9",
+    "clm_aeca3bd793f14d95",
+    "clm_436990cc836846a7",
+    "clm_f38c128218b6489b",
+    "clm_a461329e870d416e"
+  ],
+  "source_ids": [
+    "src_aa816f7d8e804d64",
+    "src_f531113ec21f4875",
+    "src_b24abdccecc648a0"
+  ],
+  "last_reviewed": "2026-08-08",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "cindy-sherman",
+  "title": "Синди Шерман",
+  "summary": "Маска, изображение и производство идентичности",
+  "body_hash": "664fe91cade500d6095ca57fbed0f65093cba0173fe04d8434590d4b451f5181",
+  "hero_image": {
+    "src": "/images/glossary/artists/cindy-sherman-hero-v1.webp",
+    "alt": "Иллюстрация: Синди Шерман",
+    "caption": "Редакционная иллюстрация к материалу «Синди Шерман».",
+    "credit": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "origin": "ai_illustration"
+  }
+}

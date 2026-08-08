@@ -1,42 +1,36 @@
 {
-  "content_id": "cnt_69f1be6229a64889",
-  "primary_object_id": "obj_423325a2f6420d97",
+  "content_id": "cnt_be313f9a3ce84acf",
+  "primary_object_id": "obj_c0d01f62d6d543f1",
   "content_type": "designer_profile",
   "state": "published",
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "partially_verified",
-  "confidence_score": 0.94,
+  "confidence_score": 0.85,
   "claim_ids": [
-    "clm_67b86f163bf099b8",
-    "clm_ab56dbf825f1305a",
-    "clm_03756d65477d81bc",
-    "clm_10c9fb6957a3d351",
-    "clm_342d88e69b852bab",
-    "clm_b1c8052f2030b043",
-    "clm_9c5c2c7d953d7697",
-    "clm_7f2905314880b5ef",
-    "clm_02e17d3d1cf8d10e",
-    "clm_292837675770ca10",
-    "clm_2d3a2ef46e6aed34"
+    "clm_65b278fdb9c84a10",
+    "clm_be198ba1f1d24578",
+    "clm_6f7fee46ae8a4abe",
+    "clm_076335f071974917",
+    "clm_3b85c9ae21824404"
   ],
   "source_ids": [
-    "src_3d2b3e2ab63f2176",
-    "src_5a4334f7d1cfa92b",
-    "src_1b81450b7dc8f0e9"
+    "src_dc00ae4940144816",
+    "src_29f0c1d043b542a1",
+    "src_7bbb67ac59ba4cc6"
   ],
-  "last_reviewed": "2026-08-06",
+  "last_reviewed": "2026-08-08",
   "author": "VANSMITHLAB",
   "locale": "ru",
   "slug": "christian-dior",
-  "title": "Кристиан Диор",
-  "summary": "От галериста через Piguet и Lelong к основанию дома в 1946 году и New Look 1947-го — всего десять лет карьеры под собственным именем, определившие силуэт десятилетия.",
-  "body_hash": "7f2349acb1c838d4f9eee5181c49407f014dda8200ec36bb82adb70b48b716a2",
+  "title": "Кристиан Диор 🇫🇷",
+  "summary": "New Look и архитектура женственности: как десять лет работы одного кутюрье изменили послевоенную моду, экономику haute couture и саму модель глобального модного дома",
+  "body_hash": "b04d6151ab4d446726b45b0f772bbb6579d6319c17a67e7f0c6fd8afc04a729a",
   "hero_image": {
-    "src": "/images/glossary/designers/christian-dior-timeline-hero-v1.svg",
-    "alt": "Хронологическая схема жизни Кристиана Диора: от рождения в 1905 году до смерти в 1957 году.",
-    "caption": "Ключевые вехи жизни Кристиана Диора.",
-    "credit": "VANSMITHLAB · оригинальная редакционная диаграмма, 2026",
-    "origin": "editorial_diagram"
+    "src": "/images\\glossary\\designers\\christian-dior-timeline-hero-v1.svg",
+    "alt": "Иллюстрация: Кристиан Диор 🇫🇷",
+    "caption": "Редакционная иллюстрация к материалу «Кристиан Диор 🇫🇷».",
+    "credit": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "origin": "ai_illustration"
   }
 }

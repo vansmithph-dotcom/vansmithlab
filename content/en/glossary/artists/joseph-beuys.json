@@ -1,0 +1,42 @@
+{
+  "content_id": "cnt_6bea20fbb01041ca",
+  "primary_object_id": "obj_f9b2e583f8da4fef",
+  "content_type": "artist_profile",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.85,
+  "claim_ids": [
+    "clm_768920413e374341",
+    "clm_43d0fe417c204d8c",
+    "clm_30930f38350f44d1",
+    "clm_a30fe13c3c4b43d5",
+    "clm_7a87a63b90cf45c3"
+  ],
+  "source_ids": [
+    "src_874a7c856d9b43e4",
+    "src_382c5ce7d3384832",
+    "src_e6331837e1de4648"
+  ],
+  "last_reviewed": "2026-08-08",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "joseph-beuys",
+  "title": "Социальная скульптура, миф и политика художественного действия",
+  "summary": "Редакционный голос: VANSMITHLAB",
+  "body_hash": "14fb1add5006284ada0bd71f341e9316e7bd1d738ef257dcc1283a16f0be1c36",
+  "hero_image": {
+    "src": "/images\\glossary\\artists\\joseph-beuys-photo-v1.jpg",
+    "alt": "Illustration: Социальная скульптура, миф и политика художественного действия",
+    "caption": "Editorial illustration for «Социальная скульптура, миф и политика художественного действия».",
+    "credit": "VANSMITHLAB · AI illustration, 2026",
+    "origin": "ai_illustration"
+  },
+  "translation": {
+    "source_locale": "ru",
+    "source_revision": 1,
+    "semantic_validated": false,
+    "review_run_id": ""
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "content_id": "cnt_1416690338ce464f",
+  "primary_object_id": "obj_7193952126154439",
+  "content_type": "artist_profile",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.85,
+  "claim_ids": [
+    "clm_67ddbfceeb494825",
+    "clm_b55b267c37854852",
+    "clm_6fe7a305db4946e2",
+    "clm_7872ff3a3c4f4463",
+    "clm_1e5ac896a1264a4c"
+  ],
+  "source_ids": [
+    "src_d81b47c556224da4",
+    "src_79717ecc788a4c48",
+    "src_b4d7a547630f4e5e"
+  ],
+  "last_reviewed": "2026-08-08",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "jeff-koons",
+  "title": "Желание, производство и экономика идеальной поверхности",
+  "summary": "Редакционный голос: VANSMITHLAB",
+  "body_hash": "1a4547f956c95b57e6874882ea4d16180e0f07019a8e362d548647de97b97eaa",
+  "hero_image": {
+    "src": "/images/glossary/artists/jeff-koons-hero-v1.webp",
+    "alt": "Illustration: Желание, производство и экономика идеальной поверхности",
+    "caption": "Editorial illustration for «Желание, производство и экономика идеальной поверхности».",
+    "credit": "VANSMITHLAB · AI illustration, 2026",
+    "origin": "ai_illustration"
+  },
+  "translation": {
+    "source_locale": "ru",
+    "source_revision": 1,
+    "semantic_validated": false,
+    "review_run_id": ""
+  }
+}

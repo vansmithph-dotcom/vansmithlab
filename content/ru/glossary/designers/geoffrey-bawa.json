@@ -1,34 +1,36 @@
 {
-  "content_id": "cnt_2bd74dc77def756d",
-  "primary_object_id": "obj_b6886512ad387be8",
+  "content_id": "cnt_f76af706685d45e6",
+  "primary_object_id": "obj_aa11ee66ce034fdf",
   "content_type": "designer_profile",
   "state": "published",
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "partially_verified",
-  "confidence_score": 0.89,
+  "confidence_score": 0.85,
   "claim_ids": [
-    "clm_73b1cc030525a84d",
-    "clm_3ff85de9310a2bc3",
-    "clm_d5bac3f83c977029",
-    "clm_b2149aab98d9e2c7"
+    "clm_f851730a1b2649fb",
+    "clm_1cc542be8d6841f2",
+    "clm_24244c3adf084c30",
+    "clm_6a41c6c9fa504a94",
+    "clm_835e5d0da890440f"
   ],
   "source_ids": [
-    "src_892f3f2f4df3a2b6",
-    "src_9f306ba7619a13af"
+    "src_6ae49018067d4a59",
+    "src_5aec07723a1a4e24",
+    "src_1d06adf5389d44f8"
   ],
   "last_reviewed": "2026-08-08",
   "author": "VANSMITHLAB",
   "locale": "ru",
   "slug": "geoffrey-bawa",
   "title": "Джеффри Бава",
-  "summary": "От изучения права в Кембридже и Лондоне через переквалификацию в архитектора в 38 лет до статуса лидера тропического модернизма — премия Ага Хана 2001 года.",
-  "body_hash": "4987e56505ad09c5403cc5bbb96d3ea2e468ed9c23b3803b1321c3e37ba78054",
+  "summary": "Тропический модернизм, ландшафт и архитектура последовательного опыта",
+  "body_hash": "7190442eb52fc75d0119d09f350b6c7fd045d887523c56e964e4901f99f44d57",
   "hero_image": {
-    "src": "/images/glossary/designers/geoffrey-bawa-timeline-hero-v1.svg",
-    "alt": "Хронологическая схема пути Geoffrey Bawa: от учёбы в Кембридже в 1938 году до премии Ага Хана в 2001 году.",
-    "caption": "Ключевые вехи пути Джеффри Бавы.",
-    "credit": "VANSMITHLAB · оригинальная редакционная диаграмма, 2026",
-    "origin": "editorial_diagram"
+    "src": "/images\\glossary\\designers\\geoffrey-bawa-timeline-hero-v1.svg",
+    "alt": "Иллюстрация: Джеффри Бава",
+    "caption": "Редакционная иллюстрация к материалу «Джеффри Бава».",
+    "credit": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "origin": "ai_illustration"
   }
 }

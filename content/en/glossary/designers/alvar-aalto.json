@@ -1,0 +1,42 @@
+{
+  "content_id": "cnt_f559e939c4124a11",
+  "primary_object_id": "obj_b5f4693cc0e046eb",
+  "content_type": "designer_profile",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.85,
+  "claim_ids": [
+    "clm_cb86febaad0e4cf8",
+    "clm_156a8b29acd24c13",
+    "clm_4d7db101e4344026",
+    "clm_4eeaeddc39fe4a1b",
+    "clm_da5fe43cd19046a4"
+  ],
+  "source_ids": [
+    "src_679475028d6143d9",
+    "src_ee70a9d34e3747b6",
+    "src_81c50d2b54694ca9"
+  ],
+  "last_reviewed": "2026-08-08",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "alvar-aalto",
+  "title": "Алвар Аалто",
+  "summary": "Гуманистический модернизм, дерево, свет и архитектура повседневной жизни",
+  "body_hash": "4320d68eff252824bf9f02c342c91fea16df201ac7aa6fad41ed459415ec7bfa",
+  "hero_image": {
+    "src": "/images\\glossary\\designers\\alvar-aalto-timeline-hero-v1.svg",
+    "alt": "Illustration: Алвар Аалто",
+    "caption": "Editorial illustration for «Алвар Аалто».",
+    "credit": "VANSMITHLAB · AI illustration, 2026",
+    "origin": "ai_illustration"
+  },
+  "translation": {
+    "source_locale": "ru",
+    "source_revision": 1,
+    "semantic_validated": false,
+    "review_run_id": ""
+  }
+}

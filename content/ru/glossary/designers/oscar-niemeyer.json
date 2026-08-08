@@ -1,38 +1,36 @@
 {
-  "content_id": "cnt_031a5c62e23e9ab5",
-  "primary_object_id": "obj_44e1cbeba5e85df3",
+  "content_id": "cnt_1daf272936fe443d",
+  "primary_object_id": "obj_35a0548266c4432b",
   "content_type": "designer_profile",
   "state": "published",
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "partially_verified",
-  "confidence_score": 0.93,
+  "confidence_score": 0.85,
   "claim_ids": [
-    "clm_0eb8f992b19ab364",
-    "clm_3304f2eacc28f785",
-    "clm_ef6c610bcb1df6d5",
-    "clm_5f8efc27ed102074",
-    "clm_ada465c6167994af",
-    "clm_84d8a4644b0ff08d",
-    "clm_9c45b48ce6585b16"
+    "clm_fbf8f1417a6142e6",
+    "clm_646700858cc44b33",
+    "clm_a8f2fd8a7001438d",
+    "clm_cff6057c0f424f0b",
+    "clm_48d23f1d97a54a77"
   ],
   "source_ids": [
-    "src_28ff7614fa15e6d5",
-    "src_e923f4780bf0e036",
-    "src_0483576c73732ab9"
+    "src_01fa69be1dc74adf",
+    "src_47982f9f683c4054",
+    "src_d59845c3122e4910"
   ],
-  "last_reviewed": "2026-08-06",
+  "last_reviewed": "2026-08-08",
   "author": "VANSMITHLAB",
   "locale": "ru",
   "slug": "oscar-niemeyer",
-  "title": "Оскар Нимайер",
-  "summary": "От Министерства образования в Рио через ключевые здания Бразилиа и парижский период политического изгнания до Притцкеровской премии 1988 года и смерти в 104 года в 2012-м.",
-  "body_hash": "d968e5693712bafcec798ea77c6a444502a3211faad7ecf8c690673dda85bb2c",
+  "title": "Оскар Нимейер",
+  "summary": "Кривая линия, монументальная пластика и архитектура модернистской Бразилии",
+  "body_hash": "327e54892124ac19ad32bb9a1e9e40fc3dba5204432601f699c4dfb0b0dd1de8",
   "hero_image": {
-    "src": "/images/glossary/designers/oscar-niemeyer-timeline-hero-v1.svg",
-    "alt": "Хронологическая схема карьеры Оскара Нимайера: от Бразилиа в 1956 году до смерти в 2012 году.",
-    "caption": "Ключевые вехи карьеры Оскара Нимайера.",
-    "credit": "VANSMITHLAB · оригинальная редакционная диаграмма, 2026",
-    "origin": "editorial_diagram"
+    "src": "/images\\glossary\\designers\\oscar-niemeyer-timeline-hero-v1.svg",
+    "alt": "Иллюстрация: Оскар Нимейер",
+    "caption": "Редакционная иллюстрация к материалу «Оскар Нимейер».",
+    "credit": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "origin": "ai_illustration"
   }
 }
