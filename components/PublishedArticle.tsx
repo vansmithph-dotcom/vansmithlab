@@ -51,7 +51,7 @@ export function PublishedArticle({ locale, section, content }: { locale: Locale;
   return (
     <article className="shell object-page published-article">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd).replace(/</g, "\\u003c") }} />
-      <Link className="back-link" href={`/${locale}/${section}`}>РІвЂ С’ {backLabel}</Link>
+      <Link className="back-link" href={`/${locale}/${section}`}>{"\u2190"} {backLabel}</Link>
 
       <header className="object-header">
         <div>
