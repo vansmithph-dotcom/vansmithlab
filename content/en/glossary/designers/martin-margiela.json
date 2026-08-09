@@ -35,8 +35,8 @@
   "hero_image": {
     "src": "/images/glossary/designers/martin-margiela-hero-v2-card-v1.webp",
     "alt": "Editorial illustration: Martin Margiela",
-    "caption": "Anonymity, deconstruction, the beauty of the unseen — editorial illustration of Martin Margiela's design philosophy.",
-    "credit": "VANSMITHLAB · AI illustration, 2026",
+    "caption": "Anonymity, deconstruction, the beauty of the unseen \u2014 editorial illustration of Martin Margiela's design philosophy.",
+    "credit": "VANSMITHLAB \u00b7 AI illustration, 2026",
     "origin": "ai_illustration"
   },
   "translation": {
@@ -44,5 +44,13 @@
     "source_revision": 1,
     "semantic_validated": true,
     "review_run_id": ""
+  },
+  "portrait_image": {
+    "src": "/images/glossary/designers/martin-margiela-portrait-v1.png",
+    "alt": "AI editorial portrait of martin margiela",
+    "caption": "AI editorial portrait - not an archival photograph",
+    "credit": "VANSMITHLAB - AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "original_generation"
   }
 }
