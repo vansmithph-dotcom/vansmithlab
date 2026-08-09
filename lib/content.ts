@@ -17,6 +17,7 @@ export type PublishedContent = { metadata: ContentMetadata; body: string; source
 
 const contentRoot = path.join(process.cwd(), "content");
 const knowledgeRoot = path.join(process.cwd(), "knowledge", "objects");
+const sourceRegistryPath = path.join(process.cwd(), "knowledge", "sources.json");
 const publicSections = new Set([
   "encyclopedia", "glossary", ...GLOSSARY_SECTIONS,
   "articles", "analysis", "timeline", "collection", "collections",
@@ -133,6 +134,15 @@ export function getContent(locale: Locale, section: string, slug: string): Publi
       }
     }
 
+    // Older encyclopedia releases have source_ids but no primary knowledge object.
+    // Resolve those IDs against the canonical source registry instead of turning
+    // every citation into a same-page fallback.
+    if (knowledge.sources.length === 0 && metadata.source_ids.length > 0 && fs.existsSync(sourceRegistryPath)) {
+      try {
+        const registry = JSON.parse(fs.readFileSync(sourceRegistryPath, "utf8")) as { sources?: KnowledgeSource[] };
+        knowledge.sources = (registry.sources || []).filter((source) => metadata.source_ids.includes(source.id));
+      } catch { /* keep the empty source set and render an honest unmapped marker */ }
+    }
     const matchedSources = knowledge.sources.filter((source) => metadata.source_ids.includes(source.id));
     const matchedCitations = (knowledge.citations || []).filter(
       (citation) => metadata.claim_ids.includes(citation.claim_id) && metadata.source_ids.includes(citation.source_id)
