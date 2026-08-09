@@ -6,7 +6,7 @@
   "source_locale": "ru",
   "source_revision": 2,
   "verification_state": "unverified",
-  "confidence_score": 0.0,
+  "confidence_score": 0,
   "claim_ids": [],
   "source_ids": [
     "src_11f7eaa9056f9c5c",
@@ -35,5 +35,12 @@
   ],
   "kind": "material-technique",
   "role": [],
-  "body_hash": "f5ae556db4ea374fae10e0dd52d0b096840593dbcdf3765e15658cbee25488e8"
+  "body_hash": "f5ae556db4ea374fae10e0dd52d0b096840593dbcdf3765e15658cbee25488e8",
+  "hero_image": {
+    "src": "/images/encyclopedia/nylon-industrial-material-to-luxury.png",
+    "alt": "Редакционная визуализация нейлона: техническая сетка, полимерная нить и лёгкая ткань",
+    "caption": "Авторская редакционная иллюстрация VANSMITHLAB",
+    "credit": "VANSMITHLAB · AI illustration",
+    "origin": "ai_illustration"
+  }
 }
