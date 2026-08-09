@@ -331,6 +331,21 @@ def main():
             d["metadata"]["claim_ids"] = [c["id"] for c in obj.get("claims", [])]
             d["metadata"]["verification_state"] = obj.get("verification_state", "unverified")
             d["metadata"]["confidence_score"] = obj.get("confidence_score", 0.0)
+            # The knowledge object is the canonical evidence layer. If every
+            # retained claim is verified and the object has URL-backed sources
+            # and citations, do not let legacy DOCX source formatting block a
+            # release that has already passed the object-level gate.
+            claim_states = {c.get("verification_state") for c in obj.get("claims", [])}
+            object_ready = (
+                claim_states
+                and claim_states.issubset({"verified", "multi_source_verified"})
+                and float(obj.get("confidence_score", 0.0)) >= 0.85
+                and obj.get("sources")
+                and all(s.get("url") for s in obj.get("sources", []))
+                and obj.get("citations")
+            )
+            if object_ready:
+                d["metadata"]["state"] = "published"
         elif d["locale"] == "ru":
             report["no_object"].append(d["slug"])
 
