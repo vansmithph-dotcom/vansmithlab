@@ -6,7 +6,7 @@
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "unverified",
-  "confidence_score": 0.0,
+  "confidence_score": 0,
   "claim_ids": [],
   "source_ids": [
     "src_bee6d58c87c36ed5",
@@ -30,5 +30,12 @@
   ],
   "kind": "material-technique",
   "role": [],
-  "body_hash": "d0edc653b95d5677a8c68e5ca25d209d23417e13921cb0f573b2f8a7d618366e"
+  "body_hash": "d0edc653b95d5677a8c68e5ca25d209d23417e13921cb0f573b2f8a7d618366e",
+  "hero_image": {
+    "src": "/images/encyclopedia/bias-cut-madeleine-vionnet.png",
+    "alt": "Редакционная визуализация кроя по косой: диагональная линия и мягкая форма ткани",
+    "caption": "Авторская редакционная иллюстрация VANSMITHLAB",
+    "credit": "VANSMITHLAB · AI illustration",
+    "origin": "ai_illustration"
+  }
 }

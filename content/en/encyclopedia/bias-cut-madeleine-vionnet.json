@@ -6,7 +6,7 @@
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "unverified",
-  "confidence_score": 0.0,
+  "confidence_score": 0,
   "claim_ids": [],
   "source_ids": [
     "src_bee6d58c87c36ed5",
@@ -30,5 +30,12 @@
   ],
   "kind": "material-technique",
   "role": [],
-  "body_hash": "11ea2b170fc0f087ebb5e62e286eb759f226e23561dcc7a901b553cbdcdc61fe"
+  "body_hash": "11ea2b170fc0f087ebb5e62e286eb759f226e23561dcc7a901b553cbdcdc61fe",
+  "hero_image": {
+    "src": "/images/encyclopedia/bias-cut-madeleine-vionnet.png",
+    "alt": "Editorial visualization of the bias cut: a diagonal grain line and fluid fabric form",
+    "caption": "Original editorial illustration by VANSMITHLAB",
+    "credit": "VANSMITHLAB · AI illustration",
+    "origin": "ai_illustration"
+  }
 }
