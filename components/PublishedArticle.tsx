@@ -54,7 +54,12 @@ export function PublishedArticle({ locale, section, content }: { locale: Locale;
     // Convert [^claim_id] to linked citations
     .replace(/\[\^([A-Za-z0-9_-]+)\]/g, (marker, claimId: string) => {
     const citation = citationByClaim.get(claimId);
-    const target = citation ? sourceById.get(citation.source_id) : undefined;
+    // Legacy content sometimes has claim markers in the body but an empty
+    // metadata.claim_ids/citations array. Preserve the editorial source order
+    // as a deterministic fallback so a citation still opens the real source.
+    const legacyNumber = /^clm_(\d+)$/.exec(claimId)?.[1];
+    const legacySource = legacyNumber ? sources[Number(legacyNumber) - 1] : undefined;
+    const target = citation ? sourceById.get(citation.source_id) : (legacySource ? { source: legacySource, number: Number(legacyNumber) } : undefined);
     return target
       ? `[${target.number}](${target.source.url} "${target.source.title.replaceAll('"', "'")}")`
       : `<a href="#evidence-sources" class="citation-link citation-unmapped" title="${locale === "ru" ? "Источник не сопоставлен; открыть список источников" : "Source not mapped; open the source list"}">[${locale === "ru" ? "источник" : "source"}]</a>`;
