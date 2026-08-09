@@ -48,11 +48,11 @@
     "review_run_id": ""
   },
   "portrait_image": {
-    "src": "/images/glossary/designers/norman-foster-portrait-v1.webp",
-    "alt": "Portrait of norman foster",
-    "caption": "Portrait crop from supplied source image",
-    "credit": "VANSMITHLAB archive - source image; rights review required",
-    "origin": "source_photo_crop",
-    "rights_status": "review_required"
+    "src": "/images/glossary/designers/norman-foster-portrait-v2.png",
+    "alt": "AI editorial portrait of norman foster",
+    "caption": "AI editorial portrait - replacement for unsuitable source image",
+    "credit": "VANSMITHLAB - AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "original_generation"
   }
 }

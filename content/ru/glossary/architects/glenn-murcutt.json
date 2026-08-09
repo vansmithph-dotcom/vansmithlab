@@ -40,11 +40,11 @@
     "origin": "ai_illustration"
   },
   "portrait_image": {
-    "src": "/images/glossary/designers/glenn-murcutt-portrait-v1.webp",
-    "alt": "Portrait of glenn murcutt",
-    "caption": "Portrait crop from supplied source image",
-    "credit": "VANSMITHLAB archive - source image; rights review required",
-    "origin": "source_photo_crop",
-    "rights_status": "review_required"
+    "src": "/images/glossary/designers/glenn-murcutt-portrait-v2.png",
+    "alt": "AI editorial portrait of glenn murcutt",
+    "caption": "AI editorial portrait - replacement for unsuitable source image",
+    "credit": "VANSMITHLAB - AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "original_generation"
   }
 }
