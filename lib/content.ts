@@ -9,6 +9,7 @@ export type ContentMetadata = {
   categories?: string[];
   confidence_score: number; claim_ids: string[]; source_ids: string[]; last_reviewed: string; author: string; body_hash: string;
   hero_image?: { src: string; alt: string; caption: string; credit: string; origin: "ai_illustration" | "licensed" | "public_domain" | "editorial_diagram" };
+  portrait_image?: { src: string; alt: string; caption: string; credit: string; origin: "ai_illustration" | "licensed" | "public_domain" | "editorial_diagram" };
   translation?: { source_locale: "ru"; source_revision: number; semantic_validated: boolean; review_run_id: string };
 };
 export type KnowledgeSource = { id: string; title: string; url: string; publisher: string; source_tier: number; accessed_at: string };

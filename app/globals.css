@@ -102,3 +102,7 @@ h1,h2,h3,p { margin-top:0; } h1,h2,h3 { letter-spacing:-.045em; line-height:1; }
 .media-disclosure { color:var(--accent); font-style:normal; }
 .citation-unmapped { text-decoration-style:dashed!important; }
 @media (max-width:560px) { .article-hero-caption,.article-hero-credit { text-align:left!important; } }
+/* Inline author portrait: a secondary, clearly disclosed visual inside the article. */
+.article-inline-portrait { width: min(100%, 512px); margin: 42px 0 0; }
+.article-inline-portrait img { display: block; width: 100%; height: auto; background: #e7e2d9; }
+.article-inline-portrait figcaption { display: flex; justify-content: space-between; gap: 20px; padding: 10px 0; border-bottom: 1px solid var(--line); color: var(--muted); font: 11px/1.5 'DM Mono', monospace; }

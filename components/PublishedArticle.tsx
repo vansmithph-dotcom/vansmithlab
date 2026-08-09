@@ -117,6 +117,15 @@ export function PublishedArticle({ locale, section, content }: { locale: Locale;
           </figcaption>
         </figure>
       )}
+      {metadata.portrait_image && (
+        <figure className="article-inline-portrait">
+          <Image alt={metadata.portrait_image.alt} height={768} src={metadata.portrait_image.src} width={512} />
+          <figcaption>
+            <span>{metadata.portrait_image.caption}</span>
+            <span>{metadata.portrait_image.credit}{metadata.portrait_image.origin === "ai_illustration" ? " · AI illustration" : ""}</span>
+          </figcaption>
+        </figure>
+      )}
 
       <div className="article-layout">
         <div className="article-copy">
