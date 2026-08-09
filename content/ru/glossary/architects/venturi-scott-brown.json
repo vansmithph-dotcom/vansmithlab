@@ -20,8 +20,8 @@
   "author": "VANSMITHLAB",
   "locale": "ru",
   "slug": "venturi-scott-brown",
-  "title": "Роберт Вентури и Дениз Скотт Браун",
-  "summary": "Знак, повседневный город и архитектура сложного значения",
+  "title": "\u0420\u043e\u0431\u0435\u0440\u0442 \u0412\u0435\u043d\u0442\u0443\u0440\u0438 \u0438 \u0414\u0435\u043d\u0438\u0437 \u0421\u043a\u043e\u0442\u0442 \u0411\u0440\u0430\u0443\u043d",
+  "summary": "\u0417\u043d\u0430\u043a, \u043f\u043e\u0432\u0441\u0435\u0434\u043d\u0435\u0432\u043d\u044b\u0439 \u0433\u043e\u0440\u043e\u0434 \u0438 \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430 \u0441\u043b\u043e\u0436\u043d\u043e\u0433\u043e \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u044f",
   "discipline": [
     "architecture"
   ],
@@ -36,9 +36,17 @@
   ],
   "hero_image": {
     "src": "/images/glossary/designers/venturi-scott-brown-hero-v2-card-v1.webp",
-    "alt": "Editorial illustration: Вентури и Скотт Браун",
-    "caption": "Editorial illustration: Вентури и Скотт Браун. Learning from Las Vegas, постмодернизм.",
-    "credit": "VANSMITHLAB · AI illustration, 2026",
+    "alt": "Editorial illustration: \u0412\u0435\u043d\u0442\u0443\u0440\u0438 \u0438 \u0421\u043a\u043e\u0442\u0442 \u0411\u0440\u0430\u0443\u043d",
+    "caption": "Editorial illustration: \u0412\u0435\u043d\u0442\u0443\u0440\u0438 \u0438 \u0421\u043a\u043e\u0442\u0442 \u0411\u0440\u0430\u0443\u043d. Learning from Las Vegas, \u043f\u043e\u0441\u0442\u043c\u043e\u0434\u0435\u0440\u043d\u0438\u0437\u043c.",
+    "credit": "VANSMITHLAB \u00b7 AI illustration, 2026",
     "origin": "ai_illustration"
+  },
+  "portrait_image": {
+    "src": "/images/glossary/designers/venturi-scott-brown-portrait-v1.png",
+    "alt": "AI editorial portrait of venturi scott brown",
+    "caption": "AI editorial portrait - not an archival photograph",
+    "credit": "VANSMITHLAB - AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "original_generation"
   }
 }
