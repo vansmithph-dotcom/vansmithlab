@@ -17,11 +17,13 @@ for path in sorted((ROOT / "knowledge" / "objects").glob("*.json")):
         continue
     claims = data.get("claims") or []
     states = {claim.get("verification_state") for claim in claims}
-    if not claims or not states.issubset({"verified", "multi_source_verified"}):
+    if not claims or not states.issubset({"verified", "multi_source_verified", "attributed"}):
         continue
     if float(data.get("confidence_score", 0)) < 0.85:
         continue
     if not data.get("sources") or not data.get("citations"):
+        continue
+    if any(c.get("verification_state") == "attributed" and c.get("claim_type") != "attribution" for c in claims):
         continue
     data["verification_state"] = "multi_source_verified" if "multi_source_verified" in states else "verified"
     path.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")

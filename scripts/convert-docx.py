@@ -336,9 +336,14 @@ def main():
             # and citations, do not let legacy DOCX source formatting block a
             # release that has already passed the object-level gate.
             claim_states = {c.get("verification_state") for c in obj.get("claims", [])}
+            attributed_only = all(
+                c.get("verification_state") != "attributed" or c.get("claim_type") == "attribution"
+                for c in obj.get("claims", [])
+            )
             object_ready = (
                 claim_states
-                and claim_states.issubset({"verified", "multi_source_verified"})
+                and claim_states.issubset({"verified", "multi_source_verified", "attributed"})
+                and attributed_only
                 and float(obj.get("confidence_score", 0.0)) >= 0.85
                 and obj.get("sources")
                 and all(s.get("url") for s in obj.get("sources", []))
