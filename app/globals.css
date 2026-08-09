@@ -89,6 +89,13 @@ h1,h2,h3,p { margin-top:0; } h1,h2,h3 { letter-spacing:-.045em; line-height:1; }
 .citation-link { cursor:help; border-bottom:1px dotted var(--accent); font-style:normal; font-size:0.85em; color:var(--accent); }
 .citation-link:hover { color:var(--ink); border-bottom-style:solid; }
 
+/* Neutral visual treatment for published objects without an approved asset. */
+.listing-card-visual-placeholder { min-height:100%; display:grid; place-items:center; align-content:center; gap:18px; background:var(--canvas); color:var(--muted); padding:24px; text-align:center; font:10px 'DM Mono',monospace; text-transform:uppercase; letter-spacing:.08em; }
+.listing-card-placeholder-mark { width:92px; aspect-ratio:16/9; border:1px solid var(--muted); position:relative; opacity:.7; }
+.listing-card-placeholder-mark::before,.listing-card-placeholder-mark::after { content:""; position:absolute; background:var(--accent); }
+.listing-card-placeholder-mark::before { width:1px; height:130%; left:50%; top:-15%; transform:rotate(28deg); }
+.listing-card-placeholder-mark::after { width:130%; height:1px; left:-15%; top:50%; transform:rotate(-18deg); }
+
 /* Visual editorial system */
 .article-hero-caption { flex:1!important; text-align:left!important; }
 .article-hero-credit { flex:none; text-align:right; }

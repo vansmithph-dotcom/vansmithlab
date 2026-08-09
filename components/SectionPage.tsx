@@ -74,7 +74,7 @@ export function SectionPage({ locale, section, config }: { locale: string; secti
         {hasContent
           ? releases.map((release, index) => (
               <Link
-                className={`listing-card${release.hero_image ? " listing-card-with-media" : ""}`}
+                className="listing-card listing-card-with-media"
                 href={`/${locale}/${section}/${release.slug}`}
                 key={release.content_id}
               >
@@ -90,6 +90,12 @@ export function SectionPage({ locale, section, config }: { locale: string; secti
                 {release.hero_image && (
                   <span className="listing-card-media">
                     <Image alt={release.hero_image.alt} fill sizes="(max-width: 560px) calc(100vw - 32px), (max-width: 1280px) 50vw, 608px" src={release.hero_image.src} />
+                  </span>
+                )}
+                {!release.hero_image && (
+                  <span className="listing-card-visual-placeholder" aria-label={locale === "ru" ? "Визуальный материал готовится" : "Visual material in preparation"}>
+                    <span className="listing-card-placeholder-mark" aria-hidden="true" />
+                    <small>{locale === "ru" ? "Визуальный материал" : "Visual material"}</small>
                   </span>
                 )}
               </Link>
