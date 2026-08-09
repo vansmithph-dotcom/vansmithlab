@@ -29,11 +29,21 @@ jobs:
           node-version-file: .nvmrc
           cache: npm
 
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
       - name: Install
         run: npm ci
 
       - name: Type check
         run: npx tsc --noEmit
+
+      - name: Validate VANSMITHLAB OS
+        run: |
+          npm run os:index
+          npm run os:structure -- work/corpus
+          npm run os:sources -- work/corpus
 
       - name: Build static export
         run: npm run build
@@ -55,12 +65,12 @@ jobs:
         run: |
           set -o pipefail
           echo "::group::Existing Pages projects"
-          npx wrangler pages project list || echo "could not list projects — check the token has Cloudflare Pages: Edit"
+          ./node_modules/.bin/wrangler pages project list || echo "could not list projects — check the token has Cloudflare Pages: Edit"
           echo "::endgroup::"
 
-          if ! npx wrangler pages project list 2>/dev/null | grep -qw "$PROJECT"; then
+          if ! ./node_modules/.bin/wrangler pages project list 2>/dev/null | grep -qw "$PROJECT"; then
             echo "Project '$PROJECT' not found — creating it."
-            npx wrangler pages project create "$PROJECT" --production-branch=main
+            ./node_modules/.bin/wrangler pages project create "$PROJECT" --production-branch=main
           fi
 
-          npx wrangler pages deploy out --project-name="$PROJECT" --branch=main
+          ./node_modules/.bin/wrangler pages deploy out --project-name="$PROJECT" --branch=main

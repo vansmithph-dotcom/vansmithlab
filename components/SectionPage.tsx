@@ -4,7 +4,7 @@ import Image from "next/image";
 import { notFound } from "next/navigation";
 import { TrustPanel } from "@/components/TrustPanel";
 import { listContent } from "@/lib/content";
-import { copy, isLocale, objectSamples, type Locale } from "@/lib/site-data";
+import { copy, isLocale, objectSamples } from "@/lib/site-data";
 
 export type SectionConfig = {
   key: string;

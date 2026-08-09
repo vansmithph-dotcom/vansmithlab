@@ -42,7 +42,7 @@ const contentSectionMap: Record<string, string> = {
 // content slug for its canonical locale. We index once per process to avoid
 // repeated filesystem walks during build.
 let knowledgeIndex: Record<string, string> | null = null;
-function knowledgeIdForSlug(slug: string, locale: string): string | undefined {
+function knowledgeIdForSlug(slug: string): string | undefined {
   if (!knowledgeIndex) {
     knowledgeIndex = {};
     if (fs.existsSync(knowledgeRoot)) {
@@ -121,7 +121,7 @@ export function getContent(locale: Locale, section: string, slug: string): Publi
     const body = fs.readFileSync(`${base}.md`, "utf8");
     let knowledge: { sources: KnowledgeSource[]; citations: KnowledgeCitation[] } = { sources: [], citations: [] };
     const candidateIds = new Set<string>([metadata.primary_object_id]);
-    const bySlug = knowledgeIdForSlug(slug, locale);
+    const bySlug = knowledgeIdForSlug(slug);
     if (bySlug) candidateIds.add(bySlug);
     for (const candidateId of candidateIds) {
       const knowledgePath = path.join(knowledgeRoot, `${candidateId}.json`);
