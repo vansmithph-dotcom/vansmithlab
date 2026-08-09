@@ -238,6 +238,7 @@ def convert(path, registry, report):
                 end = next((j for j in range(k + 1, len(blk)) if blk[j] == "[/SOURCE]"), k + 2)
                 entry = blk[k + 1:end]
                 title_s, pub, url, acc = parse_source_block(entry)
+                k = end
                 if not url:
                     # A printed citation carries its imprint instead of a link and
                     # is perfectly checkable; only an unfinished entry blocks release.
@@ -251,7 +252,6 @@ def convert(path, registry, report):
                                    "accessed_at": acc or TODAY}
                 if i not in src_ids:
                     src_ids.append(i)
-                k = end
                 continue
             k += 1
     report["unlinked_sources"] += uncheckable
