@@ -43,9 +43,24 @@ jobs:
           test -f out/index.html || { echo "out/index.html missing — the export did not run"; exit 1; }
           echo "pages: $(find out -name '*.html' | wc -l)"
 
+      # wrangler-action buries the real error inside a collapsed group, so the
+      # CLI is called directly: the log then shows which projects exist and what
+      # actually failed. `pages deploy` cannot create a project non-interactively,
+      # so it is created first if missing.
       - name: Deploy
-        uses: cloudflare/wrangler-action@v3
-        with:
-          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          command: pages deploy out --project-name=vansmithlab --branch=main
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          PROJECT: vansmithlab
+        run: |
+          set -o pipefail
+          echo "::group::Existing Pages projects"
+          npx wrangler pages project list || echo "could not list projects — check the token has Cloudflare Pages: Edit"
+          echo "::endgroup::"
+
+          if ! npx wrangler pages project list 2>/dev/null | grep -qw "$PROJECT"; then
+            echo "Project '$PROJECT' not found — creating it."
+            npx wrangler pages project create "$PROJECT" --production-branch=main
+          fi
+
+          npx wrangler pages deploy out --project-name="$PROJECT" --branch=main
