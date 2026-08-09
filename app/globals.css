@@ -100,4 +100,5 @@ h1,h2,h3,p { margin-top:0; } h1,h2,h3 { letter-spacing:-.045em; line-height:1; }
 .article-hero-caption { flex:1!important; text-align:left!important; }
 .article-hero-credit { flex:none; text-align:right; }
 .media-disclosure { color:var(--accent); font-style:normal; }
+.citation-unmapped { text-decoration-style:dashed!important; }
 @media (max-width:560px) { .article-hero-caption,.article-hero-credit { text-align:left!important; } }

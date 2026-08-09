@@ -49,7 +49,7 @@ export function PublishedArticle({ locale, section, content }: { locale: Locale;
       if (source) {
         return `<a href="${source.url}" target="_blank" rel="noreferrer" class="citation-link" title="${source.title.replace(/"/g, '&quot;')} — ${source.publisher}">[${num}]</a>`;
       }
-      return `<cite class="citation-link" title="${locale === "ru" ? "Источник" : "Source"} ${num}">[${num}]</cite>`;
+      return `<a href="#evidence-sources" class="citation-link citation-unmapped" title="${locale === "ru" ? "Источник не сопоставлен; открыть список источников" : "Source not mapped; open the source list"}">[${num}]</a>`;
     })
     // Convert [^claim_id] to linked citations
     .replace(/\[\^([A-Za-z0-9_-]+)\]/g, (marker, claimId: string) => {
@@ -141,7 +141,7 @@ export function PublishedArticle({ locale, section, content }: { locale: Locale;
           </div>
 
           {sources.length > 0 && (
-            <div className="evidence-section">
+            <div className="evidence-section" id="evidence-sources">
               <h2>{text.sources}</h2>
               <ol style={{ margin: 0, padding: 0, listStyle: "none" }}>
                 {sources.map((source) => (
