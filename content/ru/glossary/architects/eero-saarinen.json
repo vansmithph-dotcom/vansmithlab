@@ -18,8 +18,8 @@
   "author": "VANSMITHLAB",
   "locale": "ru",
   "slug": "eero-saarinen",
-  "title": "Ээро Сааринен",
-  "summary": "Архитектура движения, корпоративного модернизма и выразительной конструкции",
+  "title": "\u042d\u044d\u0440\u043e \u0421\u0430\u0430\u0440\u0438\u043d\u0435\u043d",
+  "summary": "\u0410\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430 \u0434\u0432\u0438\u0436\u0435\u043d\u0438\u044f, \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u043e\u0433\u043e \u043c\u043e\u0434\u0435\u0440\u043d\u0438\u0437\u043c\u0430 \u0438 \u0432\u044b\u0440\u0430\u0437\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0439 \u043a\u043e\u043d\u0441\u0442\u0440\u0443\u043a\u0446\u0438\u0438",
   "discipline": [
     "architecture"
   ],
@@ -33,9 +33,17 @@
   ],
   "hero_image": {
     "src": "/images/glossary/designers/eero-saarinen-hero-v2-card-v1.webp",
-    "alt": "Editorial illustration: Ээро Сааринен",
-    "caption": "Editorial illustration: Ээро Сааринен. TWA, Gateway Arch, Tulip chair.",
-    "credit": "VANSMITHLAB · AI illustration, 2026",
+    "alt": "Editorial illustration: \u042d\u044d\u0440\u043e \u0421\u0430\u0430\u0440\u0438\u043d\u0435\u043d",
+    "caption": "Editorial illustration: \u042d\u044d\u0440\u043e \u0421\u0430\u0430\u0440\u0438\u043d\u0435\u043d. TWA, Gateway Arch, Tulip chair.",
+    "credit": "VANSMITHLAB \u00b7 AI illustration, 2026",
     "origin": "ai_illustration"
+  },
+  "portrait_image": {
+    "src": "/images/glossary/designers/eero-saarinen-portrait-v1.png",
+    "alt": "AI editorial portrait of eero saarinen",
+    "caption": "AI editorial portrait - not an archival photograph",
+    "credit": "VANSMITHLAB - AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "original_generation"
   }
 }

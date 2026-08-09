@@ -35,7 +35,7 @@
     "src": "/images/glossary/designers/eero-saarinen-hero-v2-card-v1.webp",
     "alt": "Editorial illustration: Eero Saarinen",
     "caption": "Editorial illustration: Eero Saarinen. TWA Flight Center, Gateway Arch, Tulip chair.",
-    "credit": "VANSMITHLAB · AI illustration, 2026",
+    "credit": "VANSMITHLAB \u00b7 AI illustration, 2026",
     "origin": "ai_illustration"
   },
   "translation": {
@@ -43,5 +43,13 @@
     "source_revision": 1,
     "semantic_validated": true,
     "review_run_id": ""
+  },
+  "portrait_image": {
+    "src": "/images/glossary/designers/eero-saarinen-portrait-v1.png",
+    "alt": "AI editorial portrait of eero saarinen",
+    "caption": "AI editorial portrait - not an archival photograph",
+    "credit": "VANSMITHLAB - AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "original_generation"
   }
 }
