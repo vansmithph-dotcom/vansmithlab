@@ -19,8 +19,8 @@
   "author": "VANSMITHLAB",
   "locale": "ru",
   "slug": "andy-warhol",
-  "title": "Энди Уорхол",
-  "summary": "Искусство, коммерция и производство знаменитости",
+  "title": "\u042d\u043d\u0434\u0438 \u0423\u043e\u0440\u0445\u043e\u043b",
+  "summary": "\u0418\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u043e, \u043a\u043e\u043c\u043c\u0435\u0440\u0446\u0438\u044f \u0438 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u043e \u0437\u043d\u0430\u043c\u0435\u043d\u0438\u0442\u043e\u0441\u0442\u0438",
   "discipline": [
     "art",
     "graphic-design"
@@ -33,9 +33,17 @@
   "body_hash": "1a3bf6f79056795f59abb7c7c9dcb66031897daf15d1bb36ac29aa2aa157db99",
   "hero_image": {
     "src": "/images/glossary/artists/andy-warhol-hero-v2-card-v1.webp",
-    "alt": "Редакционная иллюстрация: Энди Уорхол",
-    "caption": "Редакционная иллюстрация: Энди Уорхол. Массовое производство, знаменитость, повторение, Factory.",
-    "credit": "VANSMITHLAB · AI illustration, 2026",
+    "alt": "\u0420\u0435\u0434\u0430\u043a\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0438\u043b\u043b\u044e\u0441\u0442\u0440\u0430\u0446\u0438\u044f: \u042d\u043d\u0434\u0438 \u0423\u043e\u0440\u0445\u043e\u043b",
+    "caption": "\u0420\u0435\u0434\u0430\u043a\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0438\u043b\u043b\u044e\u0441\u0442\u0440\u0430\u0446\u0438\u044f: \u042d\u043d\u0434\u0438 \u0423\u043e\u0440\u0445\u043e\u043b. \u041c\u0430\u0441\u0441\u043e\u0432\u043e\u0435 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u043e, \u0437\u043d\u0430\u043c\u0435\u043d\u0438\u0442\u043e\u0441\u0442\u044c, \u043f\u043e\u0432\u0442\u043e\u0440\u0435\u043d\u0438\u0435, Factory.",
+    "credit": "VANSMITHLAB \u00b7 AI illustration, 2026",
     "origin": "ai_illustration"
+  },
+  "portrait_image": {
+    "src": "/images/glossary/artists/andy-warhol-photo-v1.jpg",
+    "alt": "Portrait of \u042d\u043d\u0434\u0438 \u0423\u043e\u0440\u0445\u043e\u043b",
+    "caption": "Portrait crop from supplied source image (\u042d\u043d\u0434\u0438 \u0423\u043e\u0440\u0445\u043e\u043b)",
+    "credit": "VANSMITHLAB archive - source image; rights review required",
+    "origin": "licensed",
+    "rights_status": "review_required"
   }
 }

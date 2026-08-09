@@ -18,7 +18,7 @@
   "author": "VANSMITHLAB",
   "locale": "en",
   "slug": "rene-magritte",
-  "title": "René Magritte",
+  "title": "Ren\u00e9 Magritte",
   "summary": "Image, language and the mystery of the everyday",
   "discipline": [
     "art"
@@ -32,7 +32,7 @@
     "src": "/images/glossary/artists/rene-magritte-hero-v2-card-v1.webp",
     "alt": "Editorial illustration: Rene Magritte",
     "caption": "Editorial illustration: Rene Magritte. The treachery of images, the green apple, the cloud, surrealist precision.",
-    "credit": "VANSMITHLAB · AI illustration, 2026",
+    "credit": "VANSMITHLAB \u00b7 AI illustration, 2026",
     "origin": "ai_illustration"
   },
   "translation": {
@@ -40,5 +40,13 @@
     "source_revision": 1,
     "semantic_validated": true,
     "review_run_id": ""
+  },
+  "portrait_image": {
+    "src": "/images/glossary/artists/rene-magritte-photo-v1.jpg",
+    "alt": "Portrait of Ren\u00e9 Magritte",
+    "caption": "Portrait crop from supplied source image (Ren\u00e9 Magritte)",
+    "credit": "VANSMITHLAB archive - source image; rights review required",
+    "origin": "licensed",
+    "rights_status": "review_required"
   }
 }

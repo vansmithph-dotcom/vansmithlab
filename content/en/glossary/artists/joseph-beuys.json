@@ -32,7 +32,7 @@
     "src": "/images/glossary/artists/joseph-beuys-hero-v2-card-v1.webp",
     "alt": "Editorial illustration: Joseph Beuys",
     "caption": "Editorial illustration: Joseph Beuys. Social sculpture, felt, the coyote.",
-    "credit": "VANSMITHLAB · AI illustration, 2026",
+    "credit": "VANSMITHLAB \u00b7 AI illustration, 2026",
     "origin": "ai_illustration"
   },
   "translation": {
@@ -40,5 +40,13 @@
     "source_revision": 1,
     "semantic_validated": true,
     "review_run_id": ""
+  },
+  "portrait_image": {
+    "src": "/images/glossary/artists/joseph-beuys-photo-v1.jpg",
+    "alt": "Portrait of Joseph Beuys",
+    "caption": "Portrait crop from supplied source image (Joseph Beuys)",
+    "credit": "VANSMITHLAB archive - source image; rights review required",
+    "origin": "licensed",
+    "rights_status": "review_required"
   }
 }

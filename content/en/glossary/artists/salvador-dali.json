@@ -18,7 +18,7 @@
   "author": "VANSMITHLAB",
   "locale": "en",
   "slug": "salvador-dali",
-  "title": "Salvador Dalí",
+  "title": "Salvador Dal\u00ed",
   "summary": "Paranoia, spectacle and the production of one's own myth",
   "discipline": [
     "art"
@@ -32,7 +32,7 @@
     "src": "/images/glossary/artists/salvador-dali-hero-v2-card-v1.webp",
     "alt": "Editorial illustration: Salvador Dali",
     "caption": "Editorial illustration: Salvador Dali. Surrealism, melting time, the persistence of memory.",
-    "credit": "VANSMITHLAB · AI illustration, 2026",
+    "credit": "VANSMITHLAB \u00b7 AI illustration, 2026",
     "origin": "ai_illustration"
   },
   "translation": {
@@ -40,5 +40,13 @@
     "source_revision": 1,
     "semantic_validated": true,
     "review_run_id": ""
+  },
+  "portrait_image": {
+    "src": "/images/glossary/artists/salvador-dali-photo-v1.jpg",
+    "alt": "Portrait of Salvador Dal\u00ed",
+    "caption": "Portrait crop from supplied source image (Salvador Dal\u00ed)",
+    "credit": "VANSMITHLAB archive - source image; rights review required",
+    "origin": "licensed",
+    "rights_status": "review_required"
   }
 }

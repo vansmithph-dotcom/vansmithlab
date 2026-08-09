@@ -35,7 +35,7 @@
     "src": "/images/glossary/artists/andy-warhol-hero-v2-card-v1.webp",
     "alt": "Editorial illustration: Andy Warhol",
     "caption": "Editorial illustration: Andy Warhol. Mass production, celebrity, repetition, the Factory.",
-    "credit": "VANSMITHLAB · AI illustration, 2026",
+    "credit": "VANSMITHLAB \u00b7 AI illustration, 2026",
     "origin": "ai_illustration"
   },
   "translation": {
@@ -43,5 +43,13 @@
     "source_revision": 1,
     "semantic_validated": true,
     "review_run_id": ""
+  },
+  "portrait_image": {
+    "src": "/images/glossary/artists/andy-warhol-photo-v1.jpg",
+    "alt": "Portrait of Andy Warhol",
+    "caption": "Portrait crop from supplied source image (Andy Warhol)",
+    "credit": "VANSMITHLAB archive - source image; rights review required",
+    "origin": "licensed",
+    "rights_status": "review_required"
   }
 }

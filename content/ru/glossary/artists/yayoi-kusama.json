@@ -13,8 +13,8 @@
   "author": "VANSMITHLAB",
   "locale": "ru",
   "slug": "yayoi-kusama",
-  "title": "Яёи Кусама",
-  "summary": "Бесконечность, повтор и исчезновение собственного «я»",
+  "title": "\u042f\u0451\u0438 \u041a\u0443\u0441\u0430\u043c\u0430",
+  "summary": "\u0411\u0435\u0441\u043a\u043e\u043d\u0435\u0447\u043d\u043e\u0441\u0442\u044c, \u043f\u043e\u0432\u0442\u043e\u0440 \u0438 \u0438\u0441\u0447\u0435\u0437\u043d\u043e\u0432\u0435\u043d\u0438\u0435 \u0441\u043e\u0431\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u00ab\u044f\u00bb",
   "discipline": [
     "art"
   ],
@@ -22,5 +22,12 @@
   "role": [
     "artist"
   ],
-  "body_hash": "761ce43159b09a02fd1b31334c0418d9e90a39fc2620866e250ad669feb45e7e"
+  "body_hash": "761ce43159b09a02fd1b31334c0418d9e90a39fc2620866e250ad669feb45e7e",
+  "hero_image": {
+    "src": "/images/glossary/artists/yayoi-kusama-hero-v2.webp",
+    "alt": "Editorial illustration: \u042f\u0451\u0438 \u041a\u0443\u0441\u0430\u043c\u0430",
+    "caption": "Editorial illustration: \u042f\u0451\u0438 \u041a\u0443\u0441\u0430\u043c\u0430. Repetition, dots and immersive space.",
+    "credit": "VANSMITHLAB - AI illustration, 2026",
+    "origin": "ai_illustration"
+  }
 }
