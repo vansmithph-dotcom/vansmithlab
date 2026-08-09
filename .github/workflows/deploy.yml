@@ -1,0 +1,51 @@
+name: Deploy to Cloudflare Pages
+
+# The site is a static export: `out/` is gitignored, so a push alone publishes
+# nothing — something has to run the build. Doing it here rather than relying on
+# the Pages dashboard means a failed deployment is visible in the Actions tab
+# with a log, instead of silently not happening.
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+concurrency:
+  group: pages-deploy
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: read
+      deployments: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+
+      - name: Install
+        run: npm ci
+
+      - name: Type check
+        run: npx tsc --noEmit
+
+      - name: Build static export
+        run: npm run build
+
+      - name: Verify the export exists
+        run: |
+          test -f out/index.html || { echo "out/index.html missing — the export did not run"; exit 1; }
+          echo "pages: $(find out -name '*.html' | wc -l)"
+
+      - name: Deploy
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy out --project-name=vansmithlab --branch=main
