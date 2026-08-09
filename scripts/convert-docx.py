@@ -241,7 +241,7 @@ def convert(path, registry, report):
                 if not url:
                     # A printed citation carries its imprint instead of a link and
                     # is perfectly checkable; only an unfinished entry blocks release.
-                    if not PRINT_OK(line):
+                    if not PRINT_OK(entry[0] if entry else ""):
                         uncheckable += 1
                     continue
                 i = sid(url)
@@ -306,6 +306,13 @@ def main():
             objects[ALIAS.get(o["slug_ru"], o["slug_ru"])] = o
 
     registry = {}
+    registry_path = os.path.join(ROOT, "knowledge", "sources.json")
+    if os.path.exists(registry_path):
+        try:
+            previous = json.load(open(registry_path, encoding="utf-8"))
+            registry.update({s["id"]: s for s in previous.get("sources", []) if s.get("id") and s.get("url")})
+        except (OSError, ValueError, KeyError):
+            pass
     report = {"skipped": [], "unlinked_sources": 0, "written": 0,
               "no_object": [], "publishable": set()}
     docs = []
