@@ -6,7 +6,7 @@
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "unverified",
-  "confidence_score": 0.0,
+  "confidence_score": 0,
   "claim_ids": [],
   "source_ids": [
     "src_5602089093547d55",
@@ -37,5 +37,12 @@
   ],
   "kind": "material-technique",
   "role": [],
-  "body_hash": "c7252864beb90cbc5eed3beb81698283f137b0f952de671540e56939788ba449"
+  "body_hash": "c7252864beb90cbc5eed3beb81698283f137b0f952de671540e56939788ba449",
+  "hero_image": {
+    "src": "/images/encyclopedia/brass-composition-patina-warm-metallic-light.png",
+    "alt": "Editorial visualization of brass with patina and warm reflected light",
+    "caption": "Original editorial illustration by VANSMITHLAB",
+    "credit": "VANSMITHLAB · AI illustration",
+    "origin": "ai_illustration"
+  }
 }
