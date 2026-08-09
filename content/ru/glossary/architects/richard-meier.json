@@ -18,8 +18,8 @@
   "author": "VANSMITHLAB",
   "locale": "ru",
   "slug": "richard-meier",
-  "title": "Ричард Мейер",
-  "summary": "Белый свет, геометрия и архитектура модернистской преемственности",
+  "title": "\u0420\u0438\u0447\u0430\u0440\u0434 \u041c\u0435\u0439\u0435\u0440",
+  "summary": "\u0411\u0435\u043b\u044b\u0439 \u0441\u0432\u0435\u0442, \u0433\u0435\u043e\u043c\u0435\u0442\u0440\u0438\u044f \u0438 \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430 \u043c\u043e\u0434\u0435\u0440\u043d\u0438\u0441\u0442\u0441\u043a\u043e\u0439 \u043f\u0440\u0435\u0435\u043c\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0441\u0442\u0438",
   "discipline": [
     "architecture"
   ],
@@ -33,9 +33,17 @@
   ],
   "hero_image": {
     "src": "/images/glossary/designers/richard-meier-hero-v2-card-v1.webp",
-    "alt": "Editorial illustration: Ричард Мейер",
-    "caption": "Editorial illustration: Ричард Мейер. Getty Center, белый модернизм.",
-    "credit": "VANSMITHLAB · AI illustration, 2026",
+    "alt": "Editorial illustration: \u0420\u0438\u0447\u0430\u0440\u0434 \u041c\u0435\u0439\u0435\u0440",
+    "caption": "Editorial illustration: \u0420\u0438\u0447\u0430\u0440\u0434 \u041c\u0435\u0439\u0435\u0440. Getty Center, \u0431\u0435\u043b\u044b\u0439 \u043c\u043e\u0434\u0435\u0440\u043d\u0438\u0437\u043c.",
+    "credit": "VANSMITHLAB \u00b7 AI illustration, 2026",
     "origin": "ai_illustration"
+  },
+  "portrait_image": {
+    "src": "/images/glossary/designers/richard-meier-portrait-v1.webp",
+    "alt": "Portrait of richard meier",
+    "caption": "Portrait crop from supplied source image",
+    "credit": "VANSMITHLAB archive - source image; rights review required",
+    "origin": "source_photo_crop",
+    "rights_status": "review_required"
   }
 }

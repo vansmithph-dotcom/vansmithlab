@@ -37,7 +37,7 @@
     "src": "/images/glossary/designers/richard-rogers-hero-v2-card-v1.webp",
     "alt": "Editorial illustration: Richard Rogers",
     "caption": "Editorial illustration: Richard Rogers. Pompidou, Lloyd's, inside-out architecture.",
-    "credit": "VANSMITHLAB · AI illustration, 2026",
+    "credit": "VANSMITHLAB \u00b7 AI illustration, 2026",
     "origin": "ai_illustration"
   },
   "translation": {
@@ -45,5 +45,13 @@
     "source_revision": 1,
     "semantic_validated": true,
     "review_run_id": ""
+  },
+  "portrait_image": {
+    "src": "/images/glossary/designers/richard-rogers-portrait-v1.webp",
+    "alt": "Portrait of richard rogers",
+    "caption": "Portrait crop from supplied source image",
+    "credit": "VANSMITHLAB archive - source image; rights review required",
+    "origin": "source_photo_crop",
+    "rights_status": "review_required"
   }
 }

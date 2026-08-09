@@ -21,8 +21,8 @@
   "author": "VANSMITHLAB",
   "locale": "ru",
   "slug": "norman-foster",
-  "title": "Норман Фостер",
-  "summary": "Технология, инфраструктура и архитектура как система эффективности",
+  "title": "\u041d\u043e\u0440\u043c\u0430\u043d \u0424\u043e\u0441\u0442\u0435\u0440",
+  "summary": "\u0422\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u044f, \u0438\u043d\u0444\u0440\u0430\u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0430 \u0438 \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430 \u043a\u0430\u043a \u0441\u0438\u0441\u0442\u0435\u043c\u0430 \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u0438",
   "discipline": [
     "architecture"
   ],
@@ -36,9 +36,17 @@
   ],
   "hero_image": {
     "src": "/images/glossary/designers/norman-foster-hero-v2-card-v1.webp",
-    "alt": "Editorial illustration: Норман Фостер",
-    "caption": "Editorial illustration: Норман Фостер. High-tech, Gherkin, Reichstag dome.",
-    "credit": "VANSMITHLAB · AI illustration, 2026",
+    "alt": "Editorial illustration: \u041d\u043e\u0440\u043c\u0430\u043d \u0424\u043e\u0441\u0442\u0435\u0440",
+    "caption": "Editorial illustration: \u041d\u043e\u0440\u043c\u0430\u043d \u0424\u043e\u0441\u0442\u0435\u0440. High-tech, Gherkin, Reichstag dome.",
+    "credit": "VANSMITHLAB \u00b7 AI illustration, 2026",
     "origin": "ai_illustration"
+  },
+  "portrait_image": {
+    "src": "/images/glossary/designers/norman-foster-portrait-v1.webp",
+    "alt": "Portrait of norman foster",
+    "caption": "Portrait crop from supplied source image",
+    "credit": "VANSMITHLAB archive - source image; rights review required",
+    "origin": "source_photo_crop",
+    "rights_status": "review_required"
   }
 }

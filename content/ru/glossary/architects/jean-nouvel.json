@@ -18,8 +18,8 @@
   "author": "VANSMITHLAB",
   "locale": "ru",
   "slug": "jean-nouvel",
-  "title": "Жан Нувель",
-  "summary": "Контекст, свет и архитектура как уникальный сценарий места",
+  "title": "\u0416\u0430\u043d \u041d\u0443\u0432\u0435\u043b\u044c",
+  "summary": "\u041a\u043e\u043d\u0442\u0435\u043a\u0441\u0442, \u0441\u0432\u0435\u0442 \u0438 \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430 \u043a\u0430\u043a \u0443\u043d\u0438\u043a\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0446\u0435\u043d\u0430\u0440\u0438\u0439 \u043c\u0435\u0441\u0442\u0430",
   "discipline": [
     "architecture"
   ],
@@ -33,9 +33,17 @@
   ],
   "hero_image": {
     "src": "/images/glossary/designers/jean-nouvel-hero-v2-card-v1.webp",
-    "alt": "Editorial illustration: Жан Нувель",
-    "caption": "Editorial illustration: Жан Нувель. Louvre Abu Dhabi, Philharmonie, световой фильтр.",
-    "credit": "VANSMITHLAB · AI illustration, 2026",
+    "alt": "Editorial illustration: \u0416\u0430\u043d \u041d\u0443\u0432\u0435\u043b\u044c",
+    "caption": "Editorial illustration: \u0416\u0430\u043d \u041d\u0443\u0432\u0435\u043b\u044c. Louvre Abu Dhabi, Philharmonie, \u0441\u0432\u0435\u0442\u043e\u0432\u043e\u0439 \u0444\u0438\u043b\u044c\u0442\u0440.",
+    "credit": "VANSMITHLAB \u00b7 AI illustration, 2026",
     "origin": "ai_illustration"
+  },
+  "portrait_image": {
+    "src": "/images/glossary/designers/jean-nouvel-portrait-v1.webp",
+    "alt": "Portrait of jean nouvel",
+    "caption": "Portrait crop from supplied source image",
+    "credit": "VANSMITHLAB archive - source image; rights review required",
+    "origin": "source_photo_crop",
+    "rights_status": "review_required"
   }
 }
