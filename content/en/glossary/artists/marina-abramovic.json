@@ -6,7 +6,7 @@
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "unverified",
-  "confidence_score": 0.0,
+  "confidence_score": 0,
   "claim_ids": [],
   "source_ids": [],
   "last_reviewed": "2026-08-09",
@@ -22,5 +22,12 @@
   "role": [
     "artist"
   ],
-  "body_hash": "da0447e8e7d6ec8557f73a0f575ad7cf87d41599d8f1db6759dfb51392f28267"
+  "body_hash": "da0447e8e7d6ec8557f73a0f575ad7cf87d41599d8f1db6759dfb51392f28267",
+  "hero_image": {
+    "src": "/images/glossary/marina-abramovic.png",
+    "alt": "Original editorial portrait of Marina Abramovic in a minimal performance space",
+    "caption": "Original editorial illustration by VANSMITHLAB",
+    "credit": "VANSMITHLAB · AI illustration",
+    "origin": "ai_illustration"
+  }
 }
