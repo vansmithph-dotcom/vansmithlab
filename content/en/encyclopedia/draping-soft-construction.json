@@ -6,7 +6,7 @@
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "unverified",
-  "confidence_score": 0.0,
+  "confidence_score": 0,
   "claim_ids": [],
   "source_ids": [
     "src_f357f03a42c10102",
@@ -29,5 +29,12 @@
   ],
   "kind": "material-technique",
   "role": [],
-  "body_hash": "2979f83694ed814104cdf345564be4c53821dc9a643ce1e3526955321310f8f4"
+  "body_hash": "2979f83694ed814104cdf345564be4c53821dc9a643ce1e3526955321310f8f4",
+  "hero_image": {
+    "src": "/images/encyclopedia/draping-soft-construction.png",
+    "alt": "Editorial visualization of draping on a dress form with tension lines and folds",
+    "caption": "Original editorial illustration by VANSMITHLAB",
+    "credit": "VANSMITHLAB · AI illustration",
+    "origin": "ai_illustration"
+  }
 }

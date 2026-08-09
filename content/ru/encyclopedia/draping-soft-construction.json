@@ -6,7 +6,7 @@
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "unverified",
-  "confidence_score": 0.0,
+  "confidence_score": 0,
   "claim_ids": [],
   "source_ids": [
     "src_f357f03a42c10102",
@@ -29,5 +29,12 @@
   ],
   "kind": "material-technique",
   "role": [],
-  "body_hash": "4e1d8ee74f25d1dd4b9133cfe993f369baee3a43463a17ad26d3d2fefe2319f7"
+  "body_hash": "4e1d8ee74f25d1dd4b9133cfe993f369baee3a43463a17ad26d3d2fefe2319f7",
+  "hero_image": {
+    "src": "/images/encyclopedia/draping-soft-construction.png",
+    "alt": "Редакционная визуализация драпировки на манекене с линиями натяжения и складками",
+    "caption": "Авторская редакционная иллюстрация VANSMITHLAB",
+    "credit": "VANSMITHLAB · AI illustration",
+    "origin": "ai_illustration"
+  }
 }
