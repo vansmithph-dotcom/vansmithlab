@@ -6,7 +6,7 @@
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "unverified",
-  "confidence_score": 0.0,
+  "confidence_score": 0,
   "claim_ids": [],
   "source_ids": [
     "src_2c61316c79f0430c",
@@ -31,5 +31,12 @@
   "body_hash": "1b724d9260dc25c0ff57f19efefbfc89f08e40ab659f75cc7c77d9f507d58b48",
   "categories": [
     "art-direction-graphic-design"
-  ]
+  ],
+  "hero_image": {
+    "src": "/images/glossary/fabien-baron.png",
+    "alt": "Авторский редакционный портрет Фабьена Барона рядом с журнальными сетками и визуальными макетами",
+    "caption": "Авторская редакционная иллюстрация VANSMITHLAB",
+    "credit": "VANSMITHLAB · AI illustration",
+    "origin": "ai_illustration"
+  }
 }

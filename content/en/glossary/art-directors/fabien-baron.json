@@ -6,7 +6,7 @@
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "unverified",
-  "confidence_score": 0.0,
+  "confidence_score": 0,
   "claim_ids": [],
   "source_ids": [
     "src_2c61316c79f0430c",
@@ -31,5 +31,12 @@
   "body_hash": "74c2bfd4e2e1d3247c8d69c63a53499955e48e06178b2d5e55cfea6cdfc93ee9",
   "categories": [
     "art-direction-graphic-design"
-  ]
+  ],
+  "hero_image": {
+    "src": "/images/glossary/fabien-baron.png",
+    "alt": "Original editorial portrait of Fabien Baron beside magazine grids and visual layouts",
+    "caption": "Original editorial illustration by VANSMITHLAB",
+    "credit": "VANSMITHLAB · AI illustration",
+    "origin": "ai_illustration"
+  }
 }
