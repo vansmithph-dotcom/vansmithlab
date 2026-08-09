@@ -42,8 +42,8 @@
   "hero_image": {
     "src": "/images/glossary/designers/gabrielle-chanel-hero-v2-card-v1.webp",
     "alt": "Editorial illustration: Gabrielle Chanel",
-    "caption": "Radical simplicity, the little black dress, pearls, tweed, camellia — editorial illustration of Chanel's codes.",
-    "credit": "VANSMITHLAB · AI illustration, 2026",
+    "caption": "Radical simplicity, the little black dress, pearls, tweed, camellia \u2014 editorial illustration of Chanel's codes.",
+    "credit": "VANSMITHLAB \u00b7 AI illustration, 2026",
     "origin": "ai_illustration"
   },
   "translation": {
@@ -51,5 +51,13 @@
     "source_revision": 1,
     "semantic_validated": true,
     "review_run_id": ""
+  },
+  "portrait_image": {
+    "src": "/images/glossary/designers/gabrielle-chanel-portrait-v1.png",
+    "alt": "AI editorial portrait of gabrielle chanel",
+    "caption": "AI editorial portrait - not an archival photograph",
+    "credit": "VANSMITHLAB - AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "original_generation"
   }
 }

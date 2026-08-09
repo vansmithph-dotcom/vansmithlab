@@ -33,8 +33,8 @@
   "hero_image": {
     "src": "/images/glossary/designers/alexander-mcqueen-hero-v2-card-v1.webp",
     "alt": "Editorial illustration: Alexander McQueen",
-    "caption": "Editorial illustration of McQueen's philosophy — sharp tailoring, sculptural fabric, tension between structure and decay.",
-    "credit": "VANSMITHLAB · AI illustration, 2026",
+    "caption": "Editorial illustration of McQueen's philosophy \u2014 sharp tailoring, sculptural fabric, tension between structure and decay.",
+    "credit": "VANSMITHLAB \u00b7 AI illustration, 2026",
     "origin": "ai_illustration"
   },
   "translation": {
@@ -42,5 +42,13 @@
     "source_revision": 1,
     "semantic_validated": true,
     "review_run_id": ""
+  },
+  "portrait_image": {
+    "src": "/images/glossary/designers/alexander-mcqueen-portrait-v1.png",
+    "alt": "AI editorial portrait of alexander mcqueen",
+    "caption": "AI editorial portrait - not an archival photograph",
+    "credit": "VANSMITHLAB - AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "original_generation"
   }
 }

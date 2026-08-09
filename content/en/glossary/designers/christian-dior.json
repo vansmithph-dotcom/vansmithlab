@@ -39,7 +39,7 @@
     "src": "/images/glossary/designers/christian-dior-hero-v2-card-v1.webp",
     "alt": "Editorial illustration: Christian Dior",
     "caption": "Editorial illustration: Christian Dior. Architect of postwar femininity, the New Look, the Bar jacket, the femme-fleur.",
-    "credit": "VANSMITHLAB · AI illustration, 2026",
+    "credit": "VANSMITHLAB \u00b7 AI illustration, 2026",
     "origin": "ai_illustration"
   },
   "translation": {
@@ -47,5 +47,13 @@
     "source_revision": 1,
     "semantic_validated": true,
     "review_run_id": ""
+  },
+  "portrait_image": {
+    "src": "/images/glossary/designers/christian-dior-portrait-v1.png",
+    "alt": "AI editorial portrait of christian dior",
+    "caption": "AI editorial portrait - not an archival photograph",
+    "credit": "VANSMITHLAB - AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "original_generation"
   }
 }
