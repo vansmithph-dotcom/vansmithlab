@@ -1,10 +1,12 @@
 import fs from "node:fs";
 import path from "node:path";
 import type { Locale } from "./site-data";
+import { GLOSSARY_SECTIONS, ROLES } from "./taxonomy";
 
 export type ContentMetadata = {
   content_id: string; primary_object_id: string; content_type: string; locale: Locale; slug: string; title: string; summary: string;
-  state: "published"; source_locale: "ru"; source_revision: number; verification_state: "verified" | "multi_source_verified" | "partially_verified";
+  state: "published" | "drafted"; source_locale: "ru"; source_revision: number; verification_state: "verified" | "multi_source_verified" | "partially_verified" | "unverified";
+  categories?: string[];
   confidence_score: number; claim_ids: string[]; source_ids: string[]; last_reviewed: string; author: string; body_hash: string;
   hero_image?: { src: string; alt: string; caption: string; credit: string; origin: "ai_illustration" | "licensed" | "public_domain" | "editorial_diagram" };
   translation?: { source_locale: "ru"; source_revision: number; semantic_validated: boolean; review_run_id: string };
@@ -15,18 +17,23 @@ export type PublishedContent = { metadata: ContentMetadata; body: string; source
 
 const contentRoot = path.join(process.cwd(), "content");
 const knowledgeRoot = path.join(process.cwd(), "knowledge", "objects");
-const publicSections = new Set(["encyclopedia", "glossary", "glossary/designers", "glossary/artists", "glossary/photographers", "articles", "analysis", "timeline", "collection", "collections"]);
+const publicSections = new Set([
+  "encyclopedia", "glossary", ...GLOSSARY_SECTIONS,
+  "articles", "analysis", "timeline", "collection", "collections",
+]);
 const normalizedSection = (section: string) => section === "collections" ? "collection" : section;
 
+// Person profiles are keyed `<role>_profile` and derived from the taxonomy, so a
+// new role needs no entry here. `designer_profile` predates the v2 split and is
+// kept as an alias for fashion designers.
 const contentSectionMap: Record<string, string> = {
   encyclopedia: "encyclopedia",
   designer_profile: "glossary/designers",
-  artist_profile: "glossary/artists",
-  photographer_profile: "glossary/photographers",
   research: "articles",
   case_study: "articles",
   visual_analysis: "articles",
   collection: "collections",
+  ...Object.fromEntries(ROLES.map((role) => [`${role.role.replaceAll("-", "_")}_profile`, `glossary/${role.route}`])),
 };
 
 // Content JSON and knowledge objects use different id namespaces (the docx pipeline
@@ -74,7 +81,11 @@ export function listContent(locale?: Locale, section?: string): ContentMetadata[
       const dir = path.join(localeDir, sectionDir);
       for (const file of readJsonFiles(dir)) {
         const metadata = JSON.parse(fs.readFileSync(path.join(dir, file), "utf8")) as ContentMetadata;
-        if (metadata.state === "published") items.push(metadata);
+        // `drafted` pages are listed as well: they carry their real
+        // verification_state, so the badge tells the reader what has and has not
+        // been through the evidence gate. Hiding them would leave the corpus
+        // invisible while every page still claimed to be verified.
+        if (metadata.state === "published" || metadata.state === "drafted") items.push(metadata);
       }
     }
   }

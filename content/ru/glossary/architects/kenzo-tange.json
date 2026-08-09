@@ -1,0 +1,42 @@
+{
+  "content_id": "cnt_1c524757ba0df9bf",
+  "primary_object_id": "obj_6053e2191393785a",
+  "content_type": "architect_profile",
+  "state": "drafted",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.9,
+  "claim_ids": [
+    "clm_9979fbcf79833c4c",
+    "clm_afbfc8b72bc2e2a1",
+    "clm_888c40b9a3e5a066",
+    "clm_cb7d67a6442f68f8",
+    "clm_787de58f1819bd19"
+  ],
+  "source_ids": [],
+  "last_reviewed": "2026-08-09",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "kenzo-tange",
+  "title": "Кэндзо Тангэ",
+  "summary": "Мемориал, мегаструктура и архитектура послевоенной Японии",
+  "discipline": [
+    "architecture"
+  ],
+  "kind": "person",
+  "role": [
+    "architect"
+  ],
+  "body_hash": "305411e010aad6b3fe331198e00bec35751f5a8806e14fc585f45b108fe69b79",
+  "categories": [
+    "architects"
+  ],
+  "hero_image": {
+    "src": "/images\\glossary\\designers\\kenzo-tange-photo-v1.jpg",
+    "alt": "Иллюстрация: Кэндзо Тангэ",
+    "caption": "Редакционная иллюстрация к материалу «Кэндзо Тангэ».",
+    "credit": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "origin": "ai_illustration"
+  }
+}

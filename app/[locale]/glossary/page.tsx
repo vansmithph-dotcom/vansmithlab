@@ -1,8 +1,10 @@
-﻿import type { Metadata } from "next";
+import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { TrustPanel } from "@/components/TrustPanel";
+import { listContent } from "@/lib/content";
 import { copy, isLocale } from "@/lib/site-data";
+import { ROLES } from "@/lib/taxonomy";
 
 export function generateStaticParams() {
   return ["ru", "en"].map((locale) => ({ locale }));
@@ -23,25 +25,24 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   };
 }
 
-const glossaryNav = {
-  ru: [
-    { title: "Дизайнеры и архитекторы", text: "Биографические и визуально-аналитические материалы об авторах, чей метод стал частью языка дизайна.", href: "/glossary/designers", count: "50+" },
-    { title: "Художники", text: "Биографические и визуально-аналитические материалы о художниках, чьи методы и образы стали частью языка визуальной культуры.", href: "/glossary/artists", count: "12" },
-    { title: "Термины", text: "Точные определения для понятий, которые связывают дисциплины дизайна — силуэт, материал, конструкция, визуальная идентичность, типографика, ремесло.", href: "", count: "—" },
-  ],
-  en: [
-    { title: "Designers and Architects", text: "Biographical and visual-analytical profiles of authors whose method became part of the language of design.", href: "/glossary/designers", count: "50+" },
-    { title: "Artists", text: "Biographical and visual-analytical profiles of artists whose methods and images became part of the language of visual culture.", href: "/glossary/artists", count: "12" },
-    { title: "Terms", text: "Precise definitions for concepts that connect design disciplines — silhouette, material, construction, visual identity, typography, craft.", href: "", count: "—" },
-  ],
-};
-
 export default async function GlossaryPage({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params;
   if (!isLocale(locale)) notFound();
   const content = copy[locale];
   const page = content.section.glossary;
-  const nav = glossaryNav[locale];
+
+  // Counts come from the corpus, never from a hand-maintained number. A role with
+  // no entries is still listed: naming the empty branch is what turns an absence
+  // into a commissionable gap rather than an invisible one.
+  const sections = ROLES.map((role) => ({
+    ...role,
+    href: `/glossary/${role.route}`,
+    count: listContent(locale, `glossary/${role.route}`).length,
+  })).sort((a, b) => b.count - a.count);
+
+  const filled = sections.filter((s) => s.count > 0);
+  const planned = sections.filter((s) => s.count === 0);
+  const entriesLabel = locale === "ru" ? "материалов" : "entries";
 
   return (
     <section className="shell page-shell">
@@ -53,38 +54,49 @@ export default async function GlossaryPage({ params }: { params: Promise<{ local
         </div>
         <TrustPanel locale={locale} />
       </div>
+
       <div className="listing-header">
         <p>{locale === "ru" ? "Разделы глоссария" : "Glossary sections"}</p>
-        <span>{String(nav.length).padStart(2, "0")}</span>
+        <span>{String(filled.length).padStart(2, "0")}</span>
       </div>
       <div className="listing-grid">
-        {nav.map((item, index) => (
-          item.href ? (
-            <Link className="listing-card" href={`/${locale}${item.href}`} key={item.title}>
-              <span className="listing-card-copy">
-                <span className="listing-card-index">{String(index + 1).padStart(2, "0")}</span>
-                <h2>{item.title}</h2>
-                <span className="listing-card-summary">{item.text}</span>
-                <span className="listing-card-meta">
-                  <small>{item.count} {locale === "ru" ? "материалов" : "entries"}</small>
-                  <i>{content.labels.read} ↗</i>
-                </span>
+        {filled.map((item, index) => (
+          <Link className="listing-card" href={`/${locale}${item.href}`} key={item.role}>
+            <span className="listing-card-copy">
+              <span className="listing-card-index">{String(index + 1).padStart(2, "0")}</span>
+              <h2>{locale === "ru" ? item.ru : item.en}</h2>
+              <span className="listing-card-summary">{locale === "ru" ? item.descRu : item.descEn}</span>
+              <span className="listing-card-meta">
+                <small>{item.count} {entriesLabel}</small>
+                <i>{content.labels.read} ↗</i>
               </span>
-            </Link>
-          ) : (
-            <div className="listing-card" key={item.title}>
-              <span className="listing-card-copy">
-                <span className="listing-card-index">{String(index + 1).padStart(2, "0")}</span>
-                <h2>{item.title}</h2>
-                <span className="listing-card-summary">{item.text}</span>
-                <span className="listing-card-meta">
-                  <small>{content.labels.comingSoon}</small>
-                </span>
-              </span>
-            </div>
-          )
+            </span>
+          </Link>
         ))}
       </div>
+
+      {planned.length > 0 && (
+        <>
+          <div className="listing-header">
+            <p>{locale === "ru" ? "Разделы без материалов" : "Sections with no entries yet"}</p>
+            <span>{String(planned.length).padStart(2, "0")}</span>
+          </div>
+          <div className="listing-grid">
+            {planned.map((item, index) => (
+              <div className="listing-card" key={item.role}>
+                <span className="listing-card-copy">
+                  <span className="listing-card-index">{String(index + 1).padStart(2, "0")}</span>
+                  <h2>{locale === "ru" ? item.ru : item.en}</h2>
+                  <span className="listing-card-summary">{locale === "ru" ? item.descRu : item.descEn}</span>
+                  <span className="listing-card-meta">
+                    <small>0 {entriesLabel}</small>
+                  </span>
+                </span>
+              </div>
+            ))}
+          </div>
+        </>
+      )}
     </section>
   );
 }

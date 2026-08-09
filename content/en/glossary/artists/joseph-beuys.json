@@ -1,31 +1,33 @@
 {
-  "content_id": "cnt_6bea20fbb01041ca",
-  "primary_object_id": "obj_f9b2e583f8da4fef",
+  "content_id": "cnt_49a45ea5c4942999",
+  "primary_object_id": "obj_d0ab32b55bdb71b9",
   "content_type": "artist_profile",
-  "state": "published",
+  "state": "drafted",
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "partially_verified",
-  "confidence_score": 0.85,
+  "confidence_score": 0.89,
   "claim_ids": [
-    "clm_768920413e374341",
-    "clm_43d0fe417c204d8c",
-    "clm_30930f38350f44d1",
-    "clm_a30fe13c3c4b43d5",
-    "clm_7a87a63b90cf45c3"
+    "clm_87a61637b6eb3fb9",
+    "clm_b7da6bf9a282c4d8",
+    "clm_796bf08242d8ff32",
+    "clm_3fee17b4e27d001c"
   ],
-  "source_ids": [
-    "src_874a7c856d9b43e4",
-    "src_382c5ce7d3384832",
-    "src_e6331837e1de4648"
-  ],
-  "last_reviewed": "2026-08-08",
+  "source_ids": [],
+  "last_reviewed": "2026-08-09",
   "author": "VANSMITHLAB",
   "locale": "en",
   "slug": "joseph-beuys",
   "title": "Joseph Beuys",
-  "summary": "Редакционный голос: VANSMITHLAB",
-  "body_hash": "14fb1add5006284ada0bd71f341e9316e7bd1d738ef257dcc1283a16f0be1c36",
+  "summary": "Social sculpture, myth and the politics of artistic action",
+  "discipline": [
+    "art"
+  ],
+  "kind": "person",
+  "role": [
+    "artist"
+  ],
+  "body_hash": "8ed011b11238891bcd4e193b495fbec23436ab61615d00376ca94f26fad738fb",
   "hero_image": {
     "src": "/images/glossary/artists/joseph-beuys-hero-v2.webp",
     "alt": "Editorial illustration: Joseph Beuys",

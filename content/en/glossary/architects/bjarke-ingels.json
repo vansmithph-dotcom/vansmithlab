@@ -1,0 +1,48 @@
+{
+  "content_id": "cnt_81e0da86be0ed209",
+  "primary_object_id": "obj_e5f5c72843f4b9c7",
+  "content_type": "architect_profile",
+  "state": "drafted",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.89,
+  "claim_ids": [
+    "clm_c4a5ccb36b4a9a75",
+    "clm_6ddde4a9cbd3e3ea",
+    "clm_f11b4233230e06e8",
+    "clm_a882def8eef70995",
+    "clm_761134f04b218ea0"
+  ],
+  "source_ids": [],
+  "last_reviewed": "2026-08-09",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "bjarke-ingels",
+  "title": "Bjarke Ingels",
+  "summary": "Utopian pragmatism, hybrid typologies and the architecture of useful pleasure",
+  "discipline": [
+    "architecture"
+  ],
+  "kind": "person",
+  "role": [
+    "architect"
+  ],
+  "body_hash": "70c919acf193c762ffe6459841c2281c679f405324887f673fa4f858677bcfa2",
+  "categories": [
+    "architects"
+  ],
+  "hero_image": {
+    "src": "/images\\glossary\\designers\\bjarke-ingels-photo-v1.jpg",
+    "alt": "Illustration: Бьярке Ингельс",
+    "caption": "Editorial illustration for «Бьярке Ингельс».",
+    "credit": "VANSMITHLAB · AI illustration, 2026",
+    "origin": "ai_illustration"
+  },
+  "translation": {
+    "source_locale": "ru",
+    "source_revision": 1,
+    "semantic_validated": true,
+    "review_run_id": ""
+  }
+}

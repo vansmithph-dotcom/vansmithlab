@@ -1,31 +1,28 @@
 {
-  "content_id": "cnt_1416690338ce464f",
-  "primary_object_id": "obj_7193952126154439",
+  "content_id": "cnt_f5d7e89518c02e68",
+  "primary_object_id": "",
   "content_type": "artist_profile",
-  "state": "published",
+  "state": "drafted",
   "source_locale": "ru",
   "source_revision": 1,
-  "verification_state": "partially_verified",
-  "confidence_score": 0.85,
-  "claim_ids": [
-    "clm_67ddbfceeb494825",
-    "clm_b55b267c37854852",
-    "clm_6fe7a305db4946e2",
-    "clm_7872ff3a3c4f4463",
-    "clm_1e5ac896a1264a4c"
-  ],
-  "source_ids": [
-    "src_d81b47c556224da4",
-    "src_79717ecc788a4c48",
-    "src_b4d7a547630f4e5e"
-  ],
-  "last_reviewed": "2026-08-08",
+  "verification_state": "unverified",
+  "confidence_score": 0.0,
+  "claim_ids": [],
+  "source_ids": [],
+  "last_reviewed": "2026-08-09",
   "author": "VANSMITHLAB",
   "locale": "en",
   "slug": "jeff-koons",
   "title": "Jeff Koons",
-  "summary": "Редакционный голос: VANSMITHLAB",
-  "body_hash": "1a4547f956c95b57e6874882ea4d16180e0f07019a8e362d548647de97b97eaa",
+  "summary": "Desire, production and the economy of the perfect surface",
+  "discipline": [
+    "art"
+  ],
+  "kind": "person",
+  "role": [
+    "artist"
+  ],
+  "body_hash": "3ba5cfa857e6f9124f96347fa4e228a732c6fdcea45f0be26f55f1e9f0e85c30",
   "hero_image": {
     "src": "/images/glossary/artists/jeff-koons-hero-v2.webp",
     "alt": "Editorial illustration: Jeff Koons",

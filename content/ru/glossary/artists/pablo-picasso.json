@@ -1,31 +1,32 @@
 {
-  "content_id": "cnt_30abd258eb564c86",
-  "primary_object_id": "obj_2b2439673163476c",
+  "content_id": "cnt_940b554c212756b2",
+  "primary_object_id": "obj_b4a896f69080c266",
   "content_type": "artist_profile",
-  "state": "published",
+  "state": "drafted",
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "partially_verified",
-  "confidence_score": 0.85,
+  "confidence_score": 0.9,
   "claim_ids": [
-    "clm_a6c651e03dd04402",
-    "clm_8d16417296914324",
-    "clm_e26f5e8af41e4f7a",
-    "clm_d72f3ab4182f40d7",
-    "clm_cc04e7ff06504cc9"
+    "clm_e855dde4d3c68d11",
+    "clm_77668664e6ef5d1a",
+    "clm_a7bc06640a0b5044"
   ],
-  "source_ids": [
-    "src_c1b9457ea88140fd",
-    "src_dd41519dd17c4db1",
-    "src_91938263ed4045d4"
-  ],
-  "last_reviewed": "2026-08-08",
+  "source_ids": [],
+  "last_reviewed": "2026-08-09",
   "author": "VANSMITHLAB",
   "locale": "ru",
   "slug": "pablo-picasso",
   "title": "Пабло Пикассо",
   "summary": "Разрушение формы, производство образа и власть художественного мифа",
-  "body_hash": "5e6259670cf9e7fd50ca268b571bbebf04b5f0fddaaf7d926277077b69af9b9d",
+  "discipline": [
+    "art"
+  ],
+  "kind": "person",
+  "role": [
+    "artist"
+  ],
+  "body_hash": "d0decc5afe800b4a5e4ba95d87238d6fee4d6589a02a90ce29d8c54439b2b347",
   "hero_image": {
     "src": "/images/glossary/artists/pablo-picasso-hero-v2.webp",
     "alt": "Editorial illustration: Пабло Пикассо",

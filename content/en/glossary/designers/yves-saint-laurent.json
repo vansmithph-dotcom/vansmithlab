@@ -1,31 +1,41 @@
 {
-  "content_id": "cnt_3da624d275524095",
-  "primary_object_id": "obj_73c133c158614d0b",
+  "content_id": "cnt_a0ea96ac1223f42b",
+  "primary_object_id": "obj_d677d0674c01d98d",
   "content_type": "designer_profile",
-  "state": "published",
+  "state": "drafted",
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "partially_verified",
-  "confidence_score": 0.85,
+  "confidence_score": 0.96,
   "claim_ids": [
-    "clm_f3d94b3851ba467d",
-    "clm_a1f8c961e2984307",
-    "clm_0a94af9597ad472b",
-    "clm_c534ad48d007467f",
-    "clm_b2ebd4b3eece47b2"
+    "clm_22e82bc4a1b60a85",
+    "clm_2ef50dcb807cfc80",
+    "clm_1be23708eb118f73",
+    "clm_afe4746770faab2f",
+    "clm_bfa35a9856618cde",
+    "clm_22d6cc489352edc6",
+    "clm_9952e3859be0a6e0",
+    "clm_c5b14321942ab94e",
+    "clm_35b47159674fbf74",
+    "clm_cd0cf7def0c2775b",
+    "clm_90f102ed6413758e",
+    "clm_f90619d8b4f99a96"
   ],
-  "source_ids": [
-    "src_390cb9f474954bfe",
-    "src_eadd207b6e7d4a34",
-    "src_56af21e758fe4ddd"
-  ],
-  "last_reviewed": "2026-08-08",
+  "source_ids": [],
+  "last_reviewed": "2026-08-09",
   "author": "VANSMITHLAB",
   "locale": "en",
   "slug": "yves-saint-laurent",
   "title": "Yves Saint Laurent",
-  "summary": "Редакционный голос: VANSMITHLAB",
-  "body_hash": "6ae757f3d6f0b93159448c94b42f7c2e1d37dc5af0f7f937825939d4f408f423",
+  "summary": "Fashion, art and the women's tuxedo: how a designer turned the menswear wardrobe, painting, the street and ready-to-wear into a new language of the modern woman",
+  "discipline": [
+    "fashion"
+  ],
+  "kind": "person",
+  "role": [
+    "fashion-designer"
+  ],
+  "body_hash": "0e54a914c88fa1e9e6e9ed41ad181bfaec4e69ba51f4d33d6d1c6dff9143bd85",
   "hero_image": {
     "src": "/images/glossary/designers/yves-saint-laurent-hero-v2.webp",
     "alt": "Editorial illustration: Yves Saint Laurent",

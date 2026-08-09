@@ -1,31 +1,36 @@
 {
-  "content_id": "cnt_e1be15f8a91d4203",
-  "primary_object_id": "obj_099e6e7c1255428b",
+  "content_id": "cnt_52b26289c4fa467e",
+  "primary_object_id": "obj_25145beacc21c0fa",
   "content_type": "artist_profile",
-  "state": "published",
+  "state": "drafted",
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "partially_verified",
-  "confidence_score": 0.85,
+  "confidence_score": 0.9,
   "claim_ids": [
-    "clm_c0415b64d4574047",
-    "clm_96d74c51dbb949fb",
-    "clm_cfdf0dbf39cb4ed2",
-    "clm_90ed18cf15394b51",
-    "clm_1e86c0b4e61c4ca3"
+    "clm_21ca0ed31b3ebeb4",
+    "clm_2caefb564b6ca7e7",
+    "clm_cd1f8db5ebcac382",
+    "clm_ac39a5861691f313",
+    "clm_f60ef9212bb53036"
   ],
-  "source_ids": [
-    "src_8da652b24a5c4037",
-    "src_8300794f33f0440f",
-    "src_7da00d3bd61748e1"
-  ],
-  "last_reviewed": "2026-08-08",
+  "source_ids": [],
+  "last_reviewed": "2026-08-09",
   "author": "VANSMITHLAB",
   "locale": "ru",
   "slug": "andy-warhol",
   "title": "Энди Уорхол",
   "summary": "Искусство, коммерция и производство знаменитости",
-  "body_hash": "b7c55debd790137d3227659910d247e82c37335a231319fc2239aa7669694c47",
+  "discipline": [
+    "art",
+    "graphic-design"
+  ],
+  "kind": "person",
+  "role": [
+    "artist",
+    "art-director"
+  ],
+  "body_hash": "1a3bf6f79056795f59abb7c7c9dcb66031897daf15d1bb36ac29aa2aa157db99",
   "hero_image": {
     "src": "/images/glossary/artists/andy-warhol-hero-v2.webp",
     "alt": "Редакционная иллюстрация: Энди Уорхол",

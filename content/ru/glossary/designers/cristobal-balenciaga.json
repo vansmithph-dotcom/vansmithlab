@@ -1,31 +1,37 @@
 {
-  "content_id": "cnt_ef0dfa0ccfc040f2",
-  "primary_object_id": "obj_5b8bd5ac562a4c4b",
+  "content_id": "cnt_33b0508c3e1fc7e7",
+  "primary_object_id": "obj_27f396f6def80fff",
   "content_type": "designer_profile",
-  "state": "published",
+  "state": "drafted",
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "partially_verified",
-  "confidence_score": 0.85,
+  "confidence_score": 0.93,
   "claim_ids": [
-    "clm_571ea112c2364b39",
-    "clm_f1a818d097b644eb",
-    "clm_2e6d764c9fbb4c16",
-    "clm_c89ace1bc1ae49ee",
-    "clm_873fb1c7a7854647"
+    "clm_6151e6c0a73e66ad",
+    "clm_1a848a22e9e4b7f4",
+    "clm_bfcfa22b17e4b712",
+    "clm_b0c9638e162bf336",
+    "clm_e80c7d83cb07a6a8",
+    "clm_76fb6f260587b0d6",
+    "clm_38686ed9842acedb",
+    "clm_35d84b14c52ba955"
   ],
-  "source_ids": [
-    "src_ad32cc8c1ada4d53",
-    "src_033d9342de3b4689",
-    "src_366bad56f37347c7"
-  ],
-  "last_reviewed": "2026-08-08",
+  "source_ids": [],
+  "last_reviewed": "2026-08-09",
   "author": "VANSMITHLAB",
   "locale": "ru",
   "slug": "cristobal-balenciaga",
-  "title": "Кристобаль Баленсиага",
-  "summary": "Редакционный голос: VANSMITHLAB",
-  "body_hash": "9cdbaacabd0df02f6fc6324556650e5b92fdab97426b9d203f000234d1afc5ac",
+  "title": "Кристобаль Баленсиага 🇪🇸 / 🇫🇷",
+  "summary": "Архитектор модного силуэта: как баскский портной превратил ткань, крой и пустоту вокруг тела в один из главных языков высокой моды XX века",
+  "discipline": [
+    "fashion"
+  ],
+  "kind": "person",
+  "role": [
+    "fashion-designer"
+  ],
+  "body_hash": "e9d40790362e5a0d320c273d01897759ae092f009eb210e7629b8e515919c0b3",
   "hero_image": {
     "src": "/images\\glossary\\designers\\cristobal-balenciaga-timeline-hero-v1.svg",
     "alt": "Иллюстрация: Архитектор модного силуэта: как баскский портной превратил ткань, крой и пустоту вокруг тела в один из главных языков высокой моды XX века",

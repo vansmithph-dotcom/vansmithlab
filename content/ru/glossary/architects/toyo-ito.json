@@ -1,0 +1,41 @@
+{
+  "content_id": "cnt_14f527897638280f",
+  "primary_object_id": "obj_4d5897e405dc1182",
+  "content_type": "architect_profile",
+  "state": "drafted",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.9,
+  "claim_ids": [
+    "clm_eea7489c2b756201",
+    "clm_38a36ba43ae639cb",
+    "clm_55866b8bf8237a85",
+    "clm_c7050e8daef37d61"
+  ],
+  "source_ids": [],
+  "last_reviewed": "2026-08-09",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "toyo-ito",
+  "title": "Тойо Ито",
+  "summary": "Лёгкость, медиальная среда и архитектура изменяющегося тела",
+  "discipline": [
+    "architecture"
+  ],
+  "kind": "person",
+  "role": [
+    "architect"
+  ],
+  "body_hash": "b2be5908463a2cdddf6bc35c0088824b47345da2a157dcaabb27ffabc57346d0",
+  "categories": [
+    "architects"
+  ],
+  "hero_image": {
+    "src": "/images/glossary/designers/toyo-ito-hero-v2.webp",
+    "alt": "Editorial illustration: Тойо Ито",
+    "caption": "Editorial illustration: Тойо Ито. Sendai Mediatheque, текучее пространство.",
+    "credit": "VANSMITHLAB · AI illustration, 2026",
+    "origin": "ai_illustration"
+  }
+}

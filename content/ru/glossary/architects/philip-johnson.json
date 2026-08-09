@@ -1,0 +1,42 @@
+{
+  "content_id": "cnt_54a0613122d183a3",
+  "primary_object_id": "obj_da1797b3b72e00e4",
+  "content_type": "architect_profile",
+  "state": "drafted",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.87,
+  "claim_ids": [
+    "clm_e3310df4ac0f28d2",
+    "clm_574f95877f0b5267",
+    "clm_6fecc8a046edddbc",
+    "clm_e5e95b25aeffffe6",
+    "clm_c12c3c6c539a4cda"
+  ],
+  "source_ids": [],
+  "last_reviewed": "2026-08-09",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "philip-johnson",
+  "title": "Филип Джонсон",
+  "summary": "Стекло, влияние и архитектура культурной власти",
+  "discipline": [
+    "architecture"
+  ],
+  "kind": "person",
+  "role": [
+    "architect"
+  ],
+  "body_hash": "eb9c88f015d465233e08cfd2b11c9941e87b67dc94ee25015b5f5ff5469d0a9c",
+  "categories": [
+    "architects"
+  ],
+  "hero_image": {
+    "src": "/images\\glossary\\designers\\philip-johnson-photo-v1.jpg",
+    "alt": "Иллюстрация: Филип Джонсон",
+    "caption": "Редакционная иллюстрация к материалу «Филип Джонсон».",
+    "credit": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "origin": "ai_illustration"
+  }
+}

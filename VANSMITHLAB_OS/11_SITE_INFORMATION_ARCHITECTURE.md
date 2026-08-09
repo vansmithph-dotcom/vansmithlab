@@ -47,8 +47,10 @@ Do not force users to understand database types before discovery. Filters may ex
 ## URL model
 
 ```text
-/ru/encyclopedia/{type}/{slug}
-/ru/glossary/{slug}
+/ru/encyclopedia/{slug}
+/ru/glossary
+/ru/glossary/{role}
+/ru/glossary/{role}/{slug}
 /ru/articles/{slug}
 /ru/analysis/{slug}
 /ru/timeline/{slug}
@@ -57,6 +59,8 @@ Do not force users to understand database types before discovery. Filters may ex
 ```
 
 Localized routes repeat under `/en/` and future locale prefixes. Object ID is independent of route and slug.
+
+`{role}` is a term from the `role` axis in `TAXONOMY.md` — `architects`, `designers`, `artists`, `photographers`, `art-directors` and so on. The glossary is the index of people, split by what they did; everything that is not a person lives under `/encyclopedia`. A role with no entries still has a route and appears in the glossary index with a count of zero, so the encyclopedia states its own gaps rather than hiding them.
 
 ## What comes later
 

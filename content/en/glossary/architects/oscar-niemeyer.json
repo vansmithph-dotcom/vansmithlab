@@ -1,0 +1,50 @@
+{
+  "content_id": "cnt_77e2adaf34eab53e",
+  "primary_object_id": "obj_44e1cbeba5e85df3",
+  "content_type": "architect_profile",
+  "state": "drafted",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.93,
+  "claim_ids": [
+    "clm_0eb8f992b19ab364",
+    "clm_3304f2eacc28f785",
+    "clm_ef6c610bcb1df6d5",
+    "clm_5f8efc27ed102074",
+    "clm_ada465c6167994af",
+    "clm_84d8a4644b0ff08d",
+    "clm_9c45b48ce6585b16"
+  ],
+  "source_ids": [],
+  "last_reviewed": "2026-08-09",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "oscar-niemeyer",
+  "title": "Oscar Niemeyer",
+  "summary": "The curved line, monumental plasticity and the architecture of modernist Brazil",
+  "discipline": [
+    "architecture"
+  ],
+  "kind": "person",
+  "role": [
+    "architect"
+  ],
+  "body_hash": "e78b8360e035ee1bdff46d440c9316958cc3b3deb297b51f46913671390d71d0",
+  "categories": [
+    "architects"
+  ],
+  "hero_image": {
+    "src": "/images/glossary/designers/oscar-niemeyer-hero-v2.webp",
+    "alt": "Editorial illustration: Oscar Niemeyer",
+    "caption": "Editorial illustration: Oscar Niemeyer. Sensual concrete, Brasilia, the Niteroi Museum.",
+    "credit": "VANSMITHLAB · AI illustration, 2026",
+    "origin": "ai_illustration"
+  },
+  "translation": {
+    "source_locale": "ru",
+    "source_revision": 1,
+    "semantic_validated": true,
+    "review_run_id": ""
+  }
+}

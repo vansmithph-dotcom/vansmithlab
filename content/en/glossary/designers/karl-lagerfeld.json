@@ -1,31 +1,40 @@
 {
-  "content_id": "cnt_c62ea87b8dd241f6",
-  "primary_object_id": "obj_e320eb97f8104a07",
+  "content_id": "cnt_57c9cfdb3b2565a9",
+  "primary_object_id": "obj_e9c92617a031c572",
   "content_type": "designer_profile",
-  "state": "published",
+  "state": "drafted",
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "partially_verified",
-  "confidence_score": 0.85,
+  "confidence_score": 0.95,
   "claim_ids": [
-    "clm_eb7f27b257e842d8",
-    "clm_39c1dec3a0e14e7d",
-    "clm_a576ba08fcae4374",
-    "clm_2261c8c37b3c4e04",
-    "clm_e2e69a4b198d4677"
+    "clm_e5671f27ea32c9a0",
+    "clm_d967a9793528a04a",
+    "clm_4c13caa5c9795016",
+    "clm_e6ec424f8c6feee8",
+    "clm_f72543e48ba0ce07",
+    "clm_62a682486b83d102",
+    "clm_033eac6d8d3668c1",
+    "clm_b16439073f1cda96",
+    "clm_7cfe2b387df593d6"
   ],
-  "source_ids": [
-    "src_43f58118453344c3",
-    "src_989a0084e9e34fc0",
-    "src_c3d23725964d4ce9"
-  ],
-  "last_reviewed": "2026-08-08",
+  "source_ids": [],
+  "last_reviewed": "2026-08-09",
   "author": "VANSMITHLAB",
   "locale": "en",
   "slug": "karl-lagerfeld",
   "title": "Karl Lagerfeld",
-  "summary": "Редакционный голос: VANSMITHLAB",
-  "body_hash": "dc2a09216a4a5c779f4f7e482905d995885c88e8af02882fba26428c0cf8bd38",
+  "summary": "The author of a visual empire: how drawing, the archive, photography and parallel work for several houses formed the model of the contemporary creative director",
+  "discipline": [
+    "fashion",
+    "photography"
+  ],
+  "kind": "person",
+  "role": [
+    "fashion-designer",
+    "photographer"
+  ],
+  "body_hash": "da0846976cd530fd482bc63afa09c58e2c16446a8241a7d73dce32b8491dbe51",
   "hero_image": {
     "src": "/images/glossary/designers/karl-lagerfeld-hero-v2.webp",
     "alt": "Editorial illustration: Karl Lagerfeld",

@@ -1,31 +1,33 @@
 {
-  "content_id": "cnt_65c13362d3364a4c",
-  "primary_object_id": "obj_36a53ebcdfd34e74",
+  "content_id": "cnt_909d374717f8a9c7",
+  "primary_object_id": "obj_122277319b93f614",
   "content_type": "artist_profile",
-  "state": "published",
+  "state": "drafted",
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "partially_verified",
-  "confidence_score": 0.85,
+  "confidence_score": 0.9,
   "claim_ids": [
-    "clm_b2d17f47424c4140",
-    "clm_c5f69835a67e47d6",
-    "clm_f581ab1d57be46c4",
-    "clm_bcdfb92ef1304852",
-    "clm_32ef107843064197"
+    "clm_ed241c50904b9ae6",
+    "clm_b68b3fc623c00804",
+    "clm_238939131e6e2f14",
+    "clm_18fd95426b1c46d7"
   ],
-  "source_ids": [
-    "src_5b49a9d6d49547c5",
-    "src_e7698102cbc94c53",
-    "src_f5d096b3b5c84313"
-  ],
-  "last_reviewed": "2026-08-08",
+  "source_ids": [],
+  "last_reviewed": "2026-08-09",
   "author": "VANSMITHLAB",
   "locale": "en",
   "slug": "salvador-dali",
   "title": "Salvador Dalí",
-  "summary": "Паранойя, зрелище и производство собственного мифа",
-  "body_hash": "a745f11941ab4a7690b06e1468ca8c8abd1b398e73fe28492ba0053d2366fc01",
+  "summary": "Paranoia, spectacle and the production of one's own myth",
+  "discipline": [
+    "art"
+  ],
+  "kind": "person",
+  "role": [
+    "artist"
+  ],
+  "body_hash": "cfd7e1f52317e2acb0f00694b7567cf66e15525790be6f84ce89c9d1362c6661",
   "hero_image": {
     "src": "/images/glossary/artists/salvador-dali-hero-v2.webp",
     "alt": "Editorial illustration: Salvador Dali",

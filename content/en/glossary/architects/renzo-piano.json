@@ -1,0 +1,48 @@
+{
+  "content_id": "cnt_e18fa3c737b9a2d4",
+  "primary_object_id": "obj_fcf2f294a7ff9d57",
+  "content_type": "architect_profile",
+  "state": "drafted",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.9,
+  "claim_ids": [
+    "clm_e1e6b79a7a45b3cd",
+    "clm_0a63bb0468a72f24",
+    "clm_5c05e20e8102668d",
+    "clm_e023aad8e13baca1",
+    "clm_e42cde253d904f93"
+  ],
+  "source_ids": [],
+  "last_reviewed": "2026-08-09",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "renzo-piano",
+  "title": "Renzo Piano",
+  "summary": "The lightness of construction, the craft of technology and the architecture of natural light",
+  "discipline": [
+    "architecture"
+  ],
+  "kind": "person",
+  "role": [
+    "architect"
+  ],
+  "body_hash": "cee2cbc11edd767caf4f369c1b2f082343fd6fbea7db783611706ba44140edbb",
+  "categories": [
+    "architects"
+  ],
+  "hero_image": {
+    "src": "/images/glossary/designers/renzo-piano-hero-v2.webp",
+    "alt": "Editorial illustration: Renzo Piano",
+    "caption": "Editorial illustration: Renzo Piano. The Pompidou, the Shard, light as material.",
+    "credit": "VANSMITHLAB · AI illustration, 2026",
+    "origin": "ai_illustration"
+  },
+  "translation": {
+    "source_locale": "ru",
+    "source_revision": 1,
+    "semantic_validated": true,
+    "review_run_id": ""
+  }
+}

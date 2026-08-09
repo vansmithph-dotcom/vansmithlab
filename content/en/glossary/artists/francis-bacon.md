@@ -1,153 +1,263 @@
 # Francis Bacon
 
-Editorial voice: VANSMITHLAB
+*Deformation, chance and the brutality of fact*
 
-Research and compilation: Ivan Melnik
+> Bacon preserved the recognisability of the human figure but made it endure the pressure of paint, photography, memory and the chance gesture. His painting does not illustrate violence literally: it makes looking itself physically unstable.
 
-Type: Encyclopedia / art-historical and visual-cultural material
+## Editorial thesis
 
-Language: en / source_revision: 1
+Francis Bacon's significance rests on turning figurative painting into a field of collision between the body, photography, the historical image, chance and the material gesture. His canon must be examined together with queer history, personal relationships, the market system, self-censorship and the collective labour around the studio.
 
-"Bacon preserved the recognisability of the human figure but forced it to undergo the pressure of paint, photography, memory and the accidental gesture. His painting does not illustrate violence literally: it makes the very act of looking physically unstable."
+## Reader question
 
-Editorial thesis
+How did an artist with almost no formal artistic education create one of the most recognisable languages of figurative painting in the twentieth century, and why do his images still feel physically unsettling?
 
-Francis Bacon's significance rests on turning figurative painting into a field of collision of the body, photography, the historical image, chance and the material gesture. His canon should be examined together with queer history, personal relationships, the market system, self-censorship and the collective labour around the studio.
+The core subject is Francis Bacon, his painting, image sources, studio, interviews and public mythology.
 
-Short answer
+Biographical violence and the artist's relationships are not used as the sole explanation for the deformed figures.
 
-Francis Bacon was born in Dublin on 28 October 1909 to English parents. Because of asthma, conflicts with his father and an unstable family life, he left home early, lived in London, Berlin and Paris, worked as a designer of interiors and furniture, and then concentrated on painting.
+George Dyer, Peter Lacy, John Edwards, Isabel Rawsthorne, Lucian Freud and other models are treated as real people, not merely motifs.
 
-Three Studies for Figures at the Base of a Crucifixion, Painting 1946, the series after Velázquez, the portraits of friends, the self-portraits and the large triptychs made Bacon a central figure of postwar painting. His studio at 7 Reece Mews was transferred to the Hugh Lane Gallery in Dublin and became a key archive of his method.
+The queer context takes into account the criminal prosecution of male homosexuality in Britain before partial decriminalisation in 1967.
 
-1. Dublin, Kildare and an unstable childhood
+The term 'School of London' is used as a late critical and exhibition frame, not a formal group.
 
-Bacon was born on 28 October 1909 in Dublin to English parents recently settled in Ireland. The family moved between country houses in Kildare and Laois and periodically lived in England. The only prolonged period of formal schooling was at Dean Close School in Cheltenham, where he was from 1924 to spring 1926.
+Reproductions of works and archival photographs require a separate rights review.
 
-2. Asthma, the father and the early departure from home
+## Short answer
 
-Bacon suffered from a chronic asthma and could not tolerate horses, hunting and the physical activities his father valued. The family relations were conflictual. Around sixteen he left home and began an independent life with no stable education or profession.
+Francis Bacon was born in Dublin on 28 October 1909 to English parents. Owing to asthma, conflict with his father and an unstable family life he left home early, lived in London, Berlin and Paris, worked as an interior and furniture designer and then concentrated on painting.
 
-3. Berlin, Paris and visual modernity
+Three Studies for Figures at the Base of a Crucifixion, Painting 1946, the series after Velázquez, portraits of friends, self-portraits and large triptychs made Bacon a central figure in postwar painting. His studio at 7 Reece Mews was transferred to the Hugh Lane Gallery in Dublin and became a key archive of his method.
 
-In the late 1920s Bacon visited Berlin and Paris, where he met the new architecture, cinema, night life, design and avant-garde art. In Paris an important impression was an exhibition of Picasso. He did not pass through an academic school of painting and formed his method through observation, copying, design and experiment.
+## 1. Dublin, Kildare and an unstable childhood
 
-4. Furniture, the interior and early design
+Francis Bacon was born on 28 October 1909 in Dublin to English parents recently settled in Ireland. The family moved between country houses in Kildare and Laois and periodically lived in England.
 
-In London Bacon worked as a designer of furniture, rugs and interiors. The experience of design is visible in his later painting: the daises, the curved walls, the geometric frames, the carpet-like planes and the artificial lighting all organise the space around the figure.
+His childhood coincided with the First World War, the Irish War of Independence and the Civil War. Political violence should not be turned into a direct formula for his painting, but the experience of an unstable space was part of his early environment.
 
-5. The first Crucifixions and the destruction of works
+The only extended period of formal schooling was Dean Close School in Cheltenham, which he attended from 1924 until the spring of 1926.
 
-The Crucifixion became for him a structure allowing the body, sacrifice, flesh and a historical tradition to be joined, although the artist was a convinced atheist. Bacon regularly destroyed works he judged unsuccessful; the surviving body of work therefore reflects not only a production but a harsh authorial selection.
+## 2. Asthma, his father and an early departure from home
 
-6. Three Studies for Figures at the Base of a Crucifixion
+From childhood Bacon suffered from chronic asthma, which made him ill-suited to horses, hunting and the physical pursuits valued by his father.
 
-The 1944 triptych became the first work from which Bacon later preferred to begin his own mature history. Three creatures on an orange ground recall the Furies, animals and deformed human bodies. The public showing in 1945, just after the war in Europe, linked the picture to the trauma of the era.
+Family relations were conflictual. Later biographies describe paternal rejection of his son's femininity and sexuality, though isolated dramatic episodes require careful verification of sources.
 
-7. Painting 1946
+Around the age of sixteen Bacon left home and began an independent life with no settled education or profession.
 
-Painting 1946 joins a figure in a dark suit, an open umbrella, suspended carcasses and a space at once reminiscent of a political tribune and a butcher's shop. The work was acquired by the Museum of Modern Art and played an important role in Bacon's international recognition.
+## 3. Berlin, Paris and visual modernity
 
-8. Velázquez and the papal portraits
+In the late 1920s Bacon visited Berlin and Paris, where he encountered new architecture, cinema, nightlife, design and avant-garde art.
 
-In the 1950s Bacon repeatedly returned to Velázquez's Portrait of Pope Innocent X, working mainly from reproductions. He turned the motionless ceremonial portrait into a figure enclosed in a transparent cage, a darkened space or a stream of vertical brushstrokes.
+In Paris an important impression was an exhibition of Picasso, as well as the visual culture of newspapers, medical photography and cinematography.
 
-9. The scream, Battleship Potemkin and the cinematic frame
+He did not undergo an academic training in painting and shaped his method through observation, copying, design and experiment.
 
-The open mouth became one of Bacon's best-known motifs. Among his visual sources was the scene of the wounded nurse from Sergei Eisenstein's Battleship Potemkin. The cinematic freeze-frame allowed an expression to be detached from the full narrative and turned into an autonomous visual impulse.
+## 4. Furniture, interiors and early design
 
-10. Photography as working material
+In London Bacon worked as a designer of furniture, carpets and interiors. His studio interiors of the late 1920s and early 1930s were linked to the modernist aesthetic.
 
-Bacon rarely painted the models directly from life and preferred to work from photographs, reproductions and damaged printed images. The photographs in the studio were folded, torn, covered in paint and used repeatedly. Their physical state became part of the process of transformation.
+The design experience is visible in his later painting: podiums, curved walls, geometric frames, carpet-like planes and artificial light organise space around the figure.
 
-11. Muybridge, movement and the body
+The transition to painting was not an instantaneous break with design; the spatial discipline of the interior remained part of his visual language.
 
-The sequences of the photographs of movement by Eadweard Muybridge were an important source for Bacon's figures. The sequences of wrestlers, running people and animals allowed the body to be seen as a set of phases rather than a stable anatomical form.
+## 5. The first crucifixions and the destruction of works
 
-12. Chance, the stain and the unprimed canvas
+In the 1930s Bacon exhibited painting but endured long periods of uncertainty and limited recognition.
 
-Bacon valued the accidental brushstroke, the thrown paint and the unexpected transformation of the image, but worked within a strict compositional frame. He often painted on the unprimed reverse of the canvas, where the paint was quickly absorbed and hard to correct. Chance did not mean an absence of control: the artist accepted, amplified or destroyed the result through a process of harsh selection.
+The Crucifixion became a structure for him that allowed the joining of the body, sacrifice, meat and the historical tradition, though the artist was a committed atheist.
 
-13. The cage, the glass and the space of confinement
+Bacon regularly destroyed works he considered unsuccessful. The surviving corpus therefore reflects not only production but also a severe authorial selection.
 
-Many of the figures are placed in thin geometric frames, circular platforms, rooms or transparent boxes. These lines at once recall a museum vitrine, a sports ring, a photographic studio and a cage. The glass of the frame, which Bacon preferred to keep in front of the pictures, adds the viewer's reflection and physically separates the depicted body.
+## 6. Three Studies for Figures at the Base of a Crucifixion
 
-14. The triptych as montage
+The 1944 triptych Three Studies for Figures at the Base of a Crucifixion became the first work from which Bacon later preferred to begin his own mature history.
 
-The triptych allowed Bacon to join three autonomous images without an obligatory sequential story. The gaps between the panels act like montage cuts: the forms repeat, change and conflict. The religious history of the format survives as a cultural memory, but the centre no longer guarantees a single object of veneration.
+Three creatures on an orange ground recall Furies, animals and deformed human bodies. They do not add up to a traditional religious narrative.
 
-15. The portraits of friends and the deformation of likeness
+The public showing in 1945, just after the war in Europe, linked the painting to the trauma of the era, though its sources and meanings are wider than a direct war allegory.
 
-Bacon painted mainly the people of his close circle: friends, lovers, artists, critics and bar owners. The likeness is preserved not through a careful description of the face but through a recognisable pose, the structure of the head, movement and repeated photographs.
+## 7. Painting 1946
 
-16. Isabel Rawsthorne, Lucian Freud and Michel Leiris
+Painting 1946 unites a figure in a dark suit, an open umbrella, suspended carcasses and a space resembling simultaneously a political tribune and a butcher's shop.
 
-Isabel Rawsthorne was a painter and a constant participant in the London artistic milieu, not only Bacon's model. The relations with Lucian Freud included friendship, a mutual posing, a professional rivalry and a later estrangement. The portraits of the writer Michel Leiris arose from an intellectual friendship.
+The work came about through the transformation of an initial idea and demonstrates the role of a chance turn in the process.
 
-17. George Dyer
+The painting was acquired by the Museum of Modern Art and played an important part in Bacon's international recognition.
 
-George Dyer entered Bacon's life in the 1960s and became one of the most frequently depicted people in his painting. The popular stories romanticise and simplify their bond; a correct account must describe the relations, the vulnerability and the asymmetry of power without a sensational narrative.
+## 8. Velázquez and the papal portraits
 
-18. Triptych, May–June 1973
+In the 1950s Bacon repeatedly returned to Diego Velázquez's Portrait of Pope Innocent X, working mainly from reproductions.
 
-This triptych is linked to Dyer's death and turns the loss into images that do not explain but place the viewer before a broken narrative. The work is one of the most powerful examples of how biography can become a structure of images without turning into illustration.
+He turned the motionless ceremonial portrait into a figure trapped in a transparent cage, a darkened space or a stream of vertical brushstrokes.
 
-19. The self-portrait and the ageing body
+The series shows how the historical image of power can be dismantled by photography, memory and the painterly gesture.
 
-In the later decades Bacon increasingly turned to the self-portrait. The face became a field of decomposition, paint and memory. The body ages, yet the visual energy does not weaken: the triptych, the mirror and the studio preserve the drama of looking at oneself.
+## 9. The scream, Battleship Potemkin and the cinematic frame
 
-20. Queer London and the criminal law
+The open mouth became one of Bacon's best-known motifs. Among its visual sources was the scene of the wounded nurse from Sergei Eisenstein's film Battleship Potemkin.
 
-Male homosexuality was illegal in England and Wales until the partial decriminalisation of 1967. Bacon's sex life existed within the threat of prosecution, secrecy and social exclusion. This context is not an optional addition but part of the conditions in which his painting of the body, desire and risk was produced.
+The cinematic freeze-frame made it possible to detach an expression from a complete narrative and turn it into an autonomous visual impulse.
 
-21. The violence of biography and the limits of explanation
+The scream in Bacon does not necessarily denote a specific character's emotion: it can act as an opening, an animal gesture and a rupture of the face's surface.
 
-The father's cruelty, the sadomasochistic relations and the personal losses are often cited as keys to the deformed figures. A correct analysis uses these facts carefully: they belong to the biography, but the painting does not illustrate the life story directly or exhaustively.
+## 10. Photography as working material
 
-22. 7 Reece Mews
+Bacon rarely painted models directly from life and preferred to work from photographs, reproductions and damaged printed images.
 
-Bacon's studio at 7 Reece Mews in South Kensington was a small chaotic space of working materials, photographs, reproductions, books and paint. After his death it was transferred in its entirety to the Hugh Lane Gallery in Dublin and became a unique archaeological archive of his method.
+Photographs in the studio were folded, torn, covered with paint and used repeatedly. Their physical condition became part of the process of transformation.
 
-23. The destruction of the works and the authorial editing
+He joined images of friends with sports shots, medical illustrations, animals and works by old masters.
 
-Bacon destroyed a large number of the works, making the catalogue of the surviving pictures the result of a deliberate selection. The lost works are not recoverable and exist in the history only through the photographs and the written mentions.
+## 11. Muybridge, movement and the body
 
-24. The interviews with David Sylvester
+Eadweard Muybridge's sequences of movement photographs were an important source for Bacon's figures.
 
-The published conversations with the critic David Sylvester formed Bacon's most important public self-description. They should be read as a deliberate authorial text, not as a spontaneous confession or a neutral documentary transcript.
+Sequences of wrestlers, running people and animals offered a way of seeing the body as a set of phases rather than a stable anatomical form.
 
-25. The School of London
+The painterly deformation often unites several moments of movement in a single body.
 
-The term "School of London" was coined later as a critical and curatorial frame for Bacon, Lucian Freud, Frank Auerbach, Leon Kossoff and others. The artists did not form a formal group, but their common commitment to a figurative painting in a period dominated by abstraction created a distinct institutional position.
+## 12. Chance, the smudge and raw canvas
 
-26. The galleries, the market and the museum canon
+Bacon valued the chance brushstroke, the thrown paint and the unexpected transformation of the image, but worked within a strict compositional frame.
 
-Bacon worked with the Marlborough Gallery and later with other international dealers. His auction prices formed a market of the highest segment, which at once guaranteed the institutional visibility and created the risks of a simplified branding.
+He often painted on the unprimed reverse of the canvas, where the paint was rapidly absorbed and difficult to correct.
 
-27. An ethical reading of the body and suffering
+Chance therefore did not mean the absence of control: the artist accepted, amplified or destroyed the result in a process of rigorous selection.
 
-Bacon's images of suffering raise the question of the viewer's position: a painting of a screaming figure can be an empathetic witness, but it can also turn the pain into an aesthetic spectacle. A contemporary reading must keep both possibilities open.
+## 13. The cage, glass and the space of confinement
 
-28. The Estate, the catalogue raisonné and the Hugh Lane
+Many figures are placed in thin geometric frames, circular platforms, rooms or transparent boxes.
 
-The Estate of Francis Bacon manages the rights and the legacy. The Hugh Lane Gallery holds the studio archive and a permanent display. The catalogue raisonné is an essential tool for the verification of the works.
+These lines simultaneously recall a museum vitrine, a sports ring, a photographic studio and a cage.
 
-29. Conclusion
+The glass of the frame, which Bacon preferred to keep in front of his paintings, adds the viewer's reflection and physically separates the depicted body.
 
-Francis Bacon kept the human figure recognisable while subjecting it to the most extreme pressure of the material, the accident and the memory. His painting shows that the body can be a site of desire, loss, power and vulnerability at the same time — and that the image need not choose one over the others.
+## 14. The triptych as montage
 
-A. Chronology
-B. Glossary
-C. Fact ledger
-D. Related objects
+The triptych allowed Bacon to join three autonomous images without a compulsory sequential story.
 
-Three Studies for Figures at the Base of a Crucifixion — the triptych, the creature and the postwar trauma.
-Painting 1946 — the meat, the umbrella and the MoMA.
-Pope after Velázquez — the reproduction, the cage and the scream.
-George Dyer portraits — closeness, loss and the impossibility of a narrative.
-7 Reece Mews — the studio as an archaeological archive.
+The gaps between panels act like montage cuts: forms repeat, change and conflict.
 
-E. Media plan and rights
-F. Sources and checklist
+The religious history of the format persists as cultural memory, but the centre no longer guarantees a single object of worship.
 
-Version history
+## 15. Portraits of friends and the deformation of likeness
+
+Bacon painted mainly people from his close circle: friends, lovers, artists, critics and bar owners.
+
+Likeness is preserved not through an accurate description of the face but through a recognisable pose, the structure of the head, movement and repeated photographs.
+
+Deformation does not destroy identity; on the contrary, it strives to convey the intensity of presence that the artist considered inaccessible to the neutral portrait.
+
+## 16. Isabel Rawsthorne, Lucian Freud and Michel Leiris
+
+Isabel Rawsthorne was an artist and a constant participant in the London art scene, not only Bacon's model.
+
+Relations with Lucian Freud included friendship, mutual sitting, professional rivalry and a late estrangement.
+
+The portraits of the writer Michel Leiris arose from an intellectual friendship and an exchange of thoughts on realism, the body and autobiography.
+
+## 17. George Dyer
+
+George Dyer entered Bacon's life in the 1960s and became one of the most frequently depicted people in his painting.
+
+Popular accounts romanticise their meeting as a burglary of the studio, but versions of the event diverge and should not be presented as established fact.
+
+The relationship combined closeness, dependence, social inequality and destructive conflicts.
+
+## 18. Triptych, May-June 1973
+
+Dyer died in Paris in October 1971, shortly before the opening of Bacon's retrospective at the Grand Palais.
+
+Triptych, May-June 1973 is linked to his death and shows the figure in a hotel space, at a door and a lavatory.
+
+The work turns personal loss into a sequence of bodily states without offering the viewer a consoling resolution.
+
+## 19. Self-portrait and the ageing body
+
+After the death of those close to him Bacon increasingly turned to the self-portrait.
+
+Small heads and large triptychs show the face as an unstable mass, changing under the action of time, illness and observation.
+
+The self-portraits are not confessions in a straightforward sense: they continue his general experiment with likeness and deformation.
+
+## 20. Queer London and the criminal law
+
+Much of Bacon's early and middle life was spent during a period when sexual relations between men were prosecuted under British law.
+
+Bars, private flats, clubs and circles of friends formed an alternative social infrastructure of queer life.
+
+A reading of his bodies, wrestling figures and male closeness must take this historical risk into account without reducing every image to a hidden biographical code.
+
+## 21. The violence of biography and the limits of explanation
+
+Biographies of Bacon are filled with stories of conflict with his father, sadomasochistic relationships, gambling, alcohol and nightlife.
+
+These facts matter, but a mechanical explanation of the painting through personal trauma turns the work into a symptom and weakens analysis of form, sources and technique.
+
+The editorial task is to distinguish document, testimony, legend and the subsequent commercialisation of the image of the 'accursed artist'.
+
+## 22. 7 Reece Mews
+
+In 1961 Bacon settled and began working at 7 Reece Mews in South Kensington.
+
+The small studio was filled with paint, books, photographs, cuttings, fabrics and damaged canvases. The outward chaos coexisted with a steady working order.
+
+After the artist's death the studio was documented, dismantled and transported to Dublin City Gallery The Hugh Lane.
+
+## 23. The destruction of works and authorial editing
+
+Bacon cut up, threw away and asked for the destruction of paintings that did not meet his standard of completion.
+
+Surviving unfinished and damaged canvases reveal stages of work that the artist usually concealed.
+
+The posthumous display of such materials generates productive knowledge but simultaneously raises the question of the boundaries of authorial will.
+
+## 24. Interviews with David Sylvester
+
+The series of conversations with the critic David Sylvester became one of the most influential sources on Bacon's method.
+
+The artist discussed chance, photography, Velázquez, triptychs, likeness and the aspiration to convey the intensity of fact.
+
+The interviews should be read as a carefully shaped public position, not as neutral access to the author's intention.
+
+## 25. The School of London
+
+The term School of London links Bacon with Lucian Freud, Frank Auerbach, Leon Kossoff and other figurative painters.
+
+This was not a school with a single manifesto or a shared programme. The label crystallised through criticism, exhibitions and museum narratives.
+
+The frame helps to speak about the continuation of figurative painting but can obscure differences of biography, method and cultural stance.
+
+## 26. Galleries, the market and the museum canon
+
+Collaboration with the Hanover Gallery and later with Marlborough Fine Art ensured exhibitions, sales and the international circulation of works.
+
+High market value later reinforced the myth of the exceptional genius and made questions of provenance and authentication especially sensitive.
+
+The museum canon was shaped through retrospectives, publications, collections and control of access to images.
+
+## 27. An ethical reading of the body and suffering
+
+Bacon's painting often shows a vulnerable, open or deformed body but offers no straightforward account of who suffers and why.
+
+Such refusal of explanation can resist illustrativeness, yet the viewer and the museum bear responsibility for the context of display.
+
+It is especially important not to turn queer life, addiction, the death of models and real traumas into decorative 'shock' marketing.
+
+## 28. The Estate, catalogue raisonné and the Hugh Lane
+
+After Bacon's death his sole heir was John Edwards. Edwards donated the Reece Mews studio to the Hugh Lane Gallery in 1998.
+
+The five-volume catalogue raisonné of the paintings was published by the Estate of Francis Bacon in 2016; the official digital resource includes information on 584 numbered works.
+
+The Hugh Lane Gallery closed for a major refurbishment in September 2025 for at least three years; Bacon's studio remains on site and is protected during the works.
+
+## 29. Conclusion
+
+Francis Bacon created a language in which the human figure is simultaneously recognisable and perpetually under threat of disintegration.
+
+His painting joins old masters, cinema, medical photography, the chance gesture, personal presence and rigorous composition.
+
+Bacon's critical legacy demands that we see not only the effect of deformation but also the system of images, relationships, law, the market and archival labour that made that effect possible.

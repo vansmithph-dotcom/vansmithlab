@@ -1,0 +1,41 @@
+{
+  "content_id": "cnt_6f3e4e5cf9b8f1a6",
+  "primary_object_id": "obj_8d4c8e3e365b4362",
+  "content_type": "architect_profile",
+  "state": "drafted",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.9,
+  "claim_ids": [
+    "clm_d4809cfcf8efd17b",
+    "clm_83ef01d49691b8e2",
+    "clm_6132fbfbc3bfd1af",
+    "clm_a5a46f615bac82f0"
+  ],
+  "source_ids": [],
+  "last_reviewed": "2026-08-09",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "jean-nouvel",
+  "title": "Жан Нувель",
+  "summary": "Контекст, свет и архитектура как уникальный сценарий места",
+  "discipline": [
+    "architecture"
+  ],
+  "kind": "person",
+  "role": [
+    "architect"
+  ],
+  "body_hash": "accca5a34787c641703e0ffc81aa7c9372a8e68e07768747783e7f73aa5cecbe",
+  "categories": [
+    "architects"
+  ],
+  "hero_image": {
+    "src": "/images/glossary/designers/jean-nouvel-hero-v2.webp",
+    "alt": "Editorial illustration: Жан Нувель",
+    "caption": "Editorial illustration: Жан Нувель. Louvre Abu Dhabi, Philharmonie, световой фильтр.",
+    "credit": "VANSMITHLAB · AI illustration, 2026",
+    "origin": "ai_illustration"
+  }
+}

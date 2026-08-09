@@ -1,0 +1,42 @@
+{
+  "content_id": "cnt_81e0da86be0ed209",
+  "primary_object_id": "obj_e5f5c72843f4b9c7",
+  "content_type": "architect_profile",
+  "state": "drafted",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.89,
+  "claim_ids": [
+    "clm_c4a5ccb36b4a9a75",
+    "clm_6ddde4a9cbd3e3ea",
+    "clm_f11b4233230e06e8",
+    "clm_a882def8eef70995",
+    "clm_761134f04b218ea0"
+  ],
+  "source_ids": [],
+  "last_reviewed": "2026-08-09",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "bjarke-ingels",
+  "title": "Бьярке Ингельс",
+  "summary": "Утопический прагматизм, гибридные типологии и архитектура полезного удовольствия",
+  "discipline": [
+    "architecture"
+  ],
+  "kind": "person",
+  "role": [
+    "architect"
+  ],
+  "body_hash": "22f67dc5f21803062fadb82781daad182b06d5ebbbb8aa0d6c0378c37be4ce9c",
+  "categories": [
+    "architects"
+  ],
+  "hero_image": {
+    "src": "/images\\glossary\\designers\\bjarke-ingels-photo-v1.jpg",
+    "alt": "Иллюстрация: Бьярке Ингельс",
+    "caption": "Редакционная иллюстрация к материалу «Бьярке Ингельс».",
+    "credit": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "origin": "ai_illustration"
+  }
+}

@@ -1,31 +1,36 @@
 {
-  "content_id": "cnt_d15062e3c1a74237",
-  "primary_object_id": "obj_cc5f024d770648f6",
+  "content_id": "cnt_1931a8f27937ec5c",
+  "primary_object_id": "obj_8724165c0920cfc0",
   "content_type": "designer_profile",
-  "state": "published",
+  "state": "drafted",
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "partially_verified",
-  "confidence_score": 0.85,
+  "confidence_score": 0.95,
   "claim_ids": [
-    "clm_93a5142b72fc4ef7",
-    "clm_d0dbe0702ce14028",
-    "clm_5d2917254d0b401d",
-    "clm_04df59079e8343c9",
-    "clm_f0d32499b1114e38"
+    "clm_ba2a062412a86cd2",
+    "clm_d26b3083e84574c5",
+    "clm_30a0503de8592926",
+    "clm_f0e59a7bce6df139",
+    "clm_c5aaa6f2ddff60bc",
+    "clm_a490892a982f378c",
+    "clm_711261fd217b6a8d"
   ],
-  "source_ids": [
-    "src_5229dbf720ed4eda",
-    "src_ab08e15d648e45f5",
-    "src_6fff90751f1c4175"
-  ],
-  "last_reviewed": "2026-08-08",
+  "source_ids": [],
+  "last_reviewed": "2026-08-09",
   "author": "VANSMITHLAB",
   "locale": "ru",
   "slug": "rei-kawakubo",
-  "title": "Рей Кавакубо",
-  "summary": "Редакционный голос: VANSMITHLAB",
-  "body_hash": "56cc780d4c0091d542459d18ce632f972df3c61ced22a86b4d54bb2d42228715",
+  "title": "Рей Кавакубо 🇯🇵",
+  "summary": "Одежда как концептуальный объект: как Comme des Garçons разрушил привычные представления о красоте, теле, авторстве и самой границе между модой и искусством",
+  "discipline": [
+    "fashion"
+  ],
+  "kind": "person",
+  "role": [
+    "fashion-designer"
+  ],
+  "body_hash": "7ad3525ed51b3e512060b737beb2874d1723894fbd27fa7a0e3928ccdb0a6bf7",
   "hero_image": {
     "src": "/images/glossary/designers/rei-kawakubo-hero-v2.webp",
     "alt": "Редакционная иллюстрация: Рей Кавакубо",

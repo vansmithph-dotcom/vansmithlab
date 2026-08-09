@@ -1,31 +1,28 @@
 {
-  "content_id": "cnt_05d070e18e1640d4",
-  "primary_object_id": "obj_50a37ec7176b454f",
+  "content_id": "cnt_a796f989e9f643ba",
+  "primary_object_id": "",
   "content_type": "artist_profile",
-  "state": "published",
+  "state": "drafted",
   "source_locale": "ru",
   "source_revision": 1,
-  "verification_state": "partially_verified",
-  "confidence_score": 0.85,
-  "claim_ids": [
-    "clm_3ec3251d97954868",
-    "clm_5b96374e67dd4f5b",
-    "clm_f48c3660c8f64d32",
-    "clm_fb8335d43cfc46bc",
-    "clm_2e39f36be7de4e9b"
-  ],
-  "source_ids": [
-    "src_5fb69e0256c04503",
-    "src_d020227b84a84353",
-    "src_f774e370895a4778"
-  ],
-  "last_reviewed": "2026-08-08",
+  "verification_state": "unverified",
+  "confidence_score": 0.0,
+  "claim_ids": [],
+  "source_ids": [],
+  "last_reviewed": "2026-08-09",
   "author": "VANSMITHLAB",
   "locale": "ru",
   "slug": "damien-hirst",
   "title": "Дэмиен Херст",
   "summary": "Смерть, система и экономика художественного зрелища",
-  "body_hash": "6d1a6d017b665d4b0061432acdb442dba99faabf26db978ece4ef28f3abd0f73",
+  "discipline": [
+    "art"
+  ],
+  "kind": "person",
+  "role": [
+    "artist"
+  ],
+  "body_hash": "d7f84d653a167eb97b1c8378a102f12fecb0d63b15b230c2a7ef59fc44746535",
   "hero_image": {
     "src": "/images/glossary/artists/damien-hirst-hero-v2.webp",
     "alt": "Editorial illustration: Дэмиен Херст",

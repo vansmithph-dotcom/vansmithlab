@@ -1,0 +1,43 @@
+{
+  "content_id": "cnt_df936fe49accafbd",
+  "primary_object_id": "obj_94164e8d66da4a7b",
+  "content_type": "architect_profile",
+  "state": "drafted",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.94,
+  "claim_ids": [
+    "clm_13f308050a471d69",
+    "clm_6ec742851cb3d245",
+    "clm_1783f80a60ee4d0b",
+    "clm_6d2c444bdc7066cc",
+    "clm_8fb67405324e5c7a",
+    "clm_9991da4f0d95b9b7"
+  ],
+  "source_ids": [],
+  "last_reviewed": "2026-08-09",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "frank-lloyd-wright",
+  "title": "Фрэнк Ллойд Райт",
+  "summary": "Органическая архитектура, прерийный дом и изобретение американского пространства",
+  "discipline": [
+    "architecture"
+  ],
+  "kind": "person",
+  "role": [
+    "architect"
+  ],
+  "body_hash": "423a0ab73b09af891d3bb0ecb773867e2a1cafb13d786ade793d363f1af892cc",
+  "categories": [
+    "architects"
+  ],
+  "hero_image": {
+    "src": "/images/glossary/designers/frank-lloyd-wright-hero-v2.webp",
+    "alt": "Editorial illustration: Фрэнк Ллойд Райт",
+    "caption": "Editorial illustration: Фрэнк Ллойд Райт. Fallingwater, Guggenheim, органика.",
+    "credit": "VANSMITHLAB · AI illustration, 2026",
+    "origin": "ai_illustration"
+  }
+}

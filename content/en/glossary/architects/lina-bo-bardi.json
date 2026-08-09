@@ -1,0 +1,48 @@
+{
+  "content_id": "cnt_95efe9c86810f3eb",
+  "primary_object_id": "obj_9d954a70c58542dd",
+  "content_type": "architect_profile",
+  "state": "drafted",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.9,
+  "claim_ids": [
+    "clm_cbd8d43bfd053870",
+    "clm_fded749f8c2f39df",
+    "clm_513f1474ed2d35d6",
+    "clm_94dc8ac513e28dac",
+    "clm_aeb3df91801df8f9"
+  ],
+  "source_ids": [],
+  "last_reviewed": "2026-08-09",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "lina-bo-bardi",
+  "title": "Lina Bo Bardi",
+  "summary": "Everyday life, collectivity and the architecture of open use",
+  "discipline": [
+    "architecture"
+  ],
+  "kind": "person",
+  "role": [
+    "architect"
+  ],
+  "body_hash": "36c30d890d5fece57c0311b8647aa179461b71b9775e5fd75350fcd5a0d9117a",
+  "categories": [
+    "architects"
+  ],
+  "hero_image": {
+    "src": "/images/glossary/designers/lina-bo-bardi-hero-v2.webp",
+    "alt": "Editorial illustration: Lina Bo Bardi",
+    "caption": "Editorial illustration: Lina Bo Bardi. MASP, SESC Pompeia, concrete and tropics.",
+    "credit": "VANSMITHLAB · AI illustration, 2026",
+    "origin": "ai_illustration"
+  },
+  "translation": {
+    "source_locale": "ru",
+    "source_revision": 1,
+    "semantic_validated": true,
+    "review_run_id": ""
+  }
+}

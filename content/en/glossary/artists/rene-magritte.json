@@ -1,31 +1,33 @@
 {
-  "content_id": "cnt_d2e19fef3f584dff",
-  "primary_object_id": "obj_ed1696ba53cb4c98",
+  "content_id": "cnt_4461c1b01214c34e",
+  "primary_object_id": "obj_e307331897fce4c5",
   "content_type": "artist_profile",
-  "state": "published",
+  "state": "drafted",
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "partially_verified",
-  "confidence_score": 0.85,
+  "confidence_score": 0.9,
   "claim_ids": [
-    "clm_0d28fd652fc64373",
-    "clm_f113df1ba0734e9d",
-    "clm_0b754158cfa44731",
-    "clm_4001a6c29ccc44d1",
-    "clm_ba8c189ca00f4169"
+    "clm_43b9dbb4bd7727ee",
+    "clm_0125f2d5b95aedb4",
+    "clm_c613a6ef9f2f9e2f",
+    "clm_e121d3af25727e6c"
   ],
-  "source_ids": [
-    "src_92a7e261e4304069",
-    "src_01630c9a26b540dd",
-    "src_ec0062ded74e4b18"
-  ],
-  "last_reviewed": "2026-08-08",
+  "source_ids": [],
+  "last_reviewed": "2026-08-09",
   "author": "VANSMITHLAB",
   "locale": "en",
   "slug": "rene-magritte",
   "title": "René Magritte",
-  "summary": "Образ, язык и тайна повседневного",
-  "body_hash": "43212eb253ef37f39e256e7367d91247b64f7678d533c70b5fa200ae74678978",
+  "summary": "Image, language and the mystery of the everyday",
+  "discipline": [
+    "art"
+  ],
+  "kind": "person",
+  "role": [
+    "artist"
+  ],
+  "body_hash": "be3eb9355fab0669f2652bf74cd8cb06868d7cba1f2547f16e4769e43eefb89b",
   "hero_image": {
     "src": "/images/glossary/artists/rene-magritte-hero-v2.webp",
     "alt": "Editorial illustration: Rene Magritte",

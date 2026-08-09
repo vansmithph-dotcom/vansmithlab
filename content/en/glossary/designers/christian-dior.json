@@ -1,31 +1,40 @@
 {
-  "content_id": "cnt_be313f9a3ce84acf",
-  "primary_object_id": "obj_c0d01f62d6d543f1",
+  "content_id": "cnt_4d6b3c1c8de9b781",
+  "primary_object_id": "obj_423325a2f6420d97",
   "content_type": "designer_profile",
-  "state": "published",
+  "state": "drafted",
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "partially_verified",
-  "confidence_score": 0.85,
+  "confidence_score": 0.94,
   "claim_ids": [
-    "clm_65b278fdb9c84a10",
-    "clm_be198ba1f1d24578",
-    "clm_6f7fee46ae8a4abe",
-    "clm_076335f071974917",
-    "clm_3b85c9ae21824404"
+    "clm_67b86f163bf099b8",
+    "clm_ab56dbf825f1305a",
+    "clm_03756d65477d81bc",
+    "clm_10c9fb6957a3d351",
+    "clm_342d88e69b852bab",
+    "clm_b1c8052f2030b043",
+    "clm_9c5c2c7d953d7697",
+    "clm_7f2905314880b5ef",
+    "clm_02e17d3d1cf8d10e",
+    "clm_292837675770ca10",
+    "clm_2d3a2ef46e6aed34"
   ],
-  "source_ids": [
-    "src_dc00ae4940144816",
-    "src_29f0c1d043b542a1",
-    "src_7bbb67ac59ba4cc6"
-  ],
-  "last_reviewed": "2026-08-08",
+  "source_ids": [],
+  "last_reviewed": "2026-08-09",
   "author": "VANSMITHLAB",
   "locale": "en",
   "slug": "christian-dior",
   "title": "Christian Dior",
-  "summary": "New Look и архитектура женственности: как десять лет работы одного кутюрье изменили послевоенную моду, экономику haute couture и саму модель глобального модного дома",
-  "body_hash": "b04d6151ab4d446726b45b0f772bbb6579d6319c17a67e7f0c6fd8afc04a729a",
+  "summary": "The New Look and the architecture of femininity: how ten years of one couturier's work changed postwar fashion, the economy of haute couture and the very model of the global fashion house",
+  "discipline": [
+    "fashion"
+  ],
+  "kind": "person",
+  "role": [
+    "fashion-designer"
+  ],
+  "body_hash": "3315671ef4257f03d101d5b1e371e013037132bccaac5d3799e185405afeb80a",
   "hero_image": {
     "src": "/images/glossary/designers/christian-dior-hero-v2.webp",
     "alt": "Editorial illustration: Christian Dior",

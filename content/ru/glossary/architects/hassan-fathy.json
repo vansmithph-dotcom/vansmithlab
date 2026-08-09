@@ -1,0 +1,43 @@
+{
+  "content_id": "cnt_7f3f0ada7cf0af0d",
+  "primary_object_id": "obj_8e33626ce5f1d3aa",
+  "content_type": "architect_profile",
+  "state": "drafted",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.89,
+  "claim_ids": [
+    "clm_89d94a11575df466",
+    "clm_a4fd52e1dbe6f7a2",
+    "clm_9000c7a67e855c60",
+    "clm_163c2e29ab2de08a",
+    "clm_68fdefc5a0739923"
+  ],
+  "source_ids": [],
+  "last_reviewed": "2026-08-09",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "hassan-fathy",
+  "title": "Хассан Фатхи",
+  "summary": "Земля, климат и архитектура человеческого достоинства",
+  "discipline": [
+    "architecture"
+  ],
+  "kind": "person",
+  "role": [
+    "architect"
+  ],
+  "body_hash": "49305f162070a8bf949b42d2740022940bceed1974a5388aa8bdc05189b126fc",
+  "categories": [
+    "architects",
+    "materials-techniques"
+  ],
+  "hero_image": {
+    "src": "/images\\glossary\\designers\\hassan-fathy-photo-v1.jpg",
+    "alt": "Иллюстрация: Хассан Фатхи",
+    "caption": "Редакционная иллюстрация к материалу «Хассан Фатхи».",
+    "credit": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "origin": "ai_illustration"
+  }
+}

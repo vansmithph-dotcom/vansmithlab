@@ -1,0 +1,41 @@
+{
+  "content_id": "cnt_c153d9369611eaf7",
+  "primary_object_id": "obj_0016cfb653cbf6b3",
+  "content_type": "architect_profile",
+  "state": "drafted",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.89,
+  "claim_ids": [
+    "clm_1dd8f9efcc2fc72d",
+    "clm_7016cf77976c1138",
+    "clm_6c1031ebad0deb21",
+    "clm_56985e59ccc83925"
+  ],
+  "source_ids": [],
+  "last_reviewed": "2026-08-09",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "richard-meier",
+  "title": "Ричард Мейер",
+  "summary": "Белый свет, геометрия и архитектура модернистской преемственности",
+  "discipline": [
+    "architecture"
+  ],
+  "kind": "person",
+  "role": [
+    "architect"
+  ],
+  "body_hash": "cf78756386e5aa3a89f5c4ca8767af2f11954fcd7cbef1044c25dfff9f29c4b1",
+  "categories": [
+    "architects"
+  ],
+  "hero_image": {
+    "src": "/images/glossary/designers/richard-meier-hero-v2.webp",
+    "alt": "Editorial illustration: Ричард Мейер",
+    "caption": "Editorial illustration: Ричард Мейер. Getty Center, белый модернизм.",
+    "credit": "VANSMITHLAB · AI illustration, 2026",
+    "origin": "ai_illustration"
+  }
+}

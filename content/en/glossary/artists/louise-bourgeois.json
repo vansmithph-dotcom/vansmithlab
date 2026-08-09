@@ -1,31 +1,33 @@
 {
-  "content_id": "cnt_596c8bfc468941cc",
-  "primary_object_id": "obj_9c7784b27e3d42c6",
+  "content_id": "cnt_67b7410b65a0004e",
+  "primary_object_id": "obj_f7c74912874ede58",
   "content_type": "artist_profile",
-  "state": "published",
+  "state": "drafted",
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "partially_verified",
-  "confidence_score": 0.85,
+  "confidence_score": 0.9,
   "claim_ids": [
-    "clm_5b93341a2cdc47b6",
-    "clm_e26e4309694c42c8",
-    "clm_967dddd6dc764d73",
-    "clm_239acd5518734086",
-    "clm_4e2ab35a58d744bd"
+    "clm_08bd03bd6b53f7ef",
+    "clm_b441e6aea613a670",
+    "clm_51dbea22d3963c2d",
+    "clm_e4c3d4f19e7e1ee7"
   ],
-  "source_ids": [
-    "src_defca7deb05e4878",
-    "src_d42ed40ea9e44e6e",
-    "src_932fd8fa03b94c90"
-  ],
-  "last_reviewed": "2026-08-08",
+  "source_ids": [],
+  "last_reviewed": "2026-08-09",
   "author": "VANSMITHLAB",
   "locale": "en",
   "slug": "louise-bourgeois",
   "title": "Louise Bourgeois",
-  "summary": "Память, тело и архитектура психологического пространства",
-  "body_hash": "9b5961bdc16e911acde448e4de323102a759c3e25633e9d6a86fe844821e8281",
+  "summary": "Memory, the body and the architecture of psychological space",
+  "discipline": [
+    "art"
+  ],
+  "kind": "person",
+  "role": [
+    "artist"
+  ],
+  "body_hash": "d5e92f318a0037a559361c15a6a8902416ee43c6dba840eb8fb374b168989595",
   "hero_image": {
     "src": "/images/glossary/artists/louise-bourgeois-hero-v2.webp",
     "alt": "Editorial illustration: Louise Bourgeois",

@@ -1,0 +1,47 @@
+{
+  "content_id": "cnt_b880f4ebb1a18d22",
+  "primary_object_id": "obj_a1d99ff1725c83dc",
+  "content_type": "architect_profile",
+  "state": "drafted",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.9,
+  "claim_ids": [
+    "clm_f11d93b06019e51a",
+    "clm_eb04e4a5f05fb71c",
+    "clm_5105e65e7d1b157b",
+    "clm_5af3b4858080ab7b"
+  ],
+  "source_ids": [],
+  "last_reviewed": "2026-08-09",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "hans-hollein",
+  "title": "Hans Hollein",
+  "summary": "Media, the museum and the architecture of total design",
+  "discipline": [
+    "architecture"
+  ],
+  "kind": "person",
+  "role": [
+    "architect"
+  ],
+  "body_hash": "55051af4b690220b77689932fcf1b25da9d50fd2a4cb848074cc7821616ad1b8",
+  "categories": [
+    "architects"
+  ],
+  "hero_image": {
+    "src": "/images\\glossary\\designers\\hans-hollein-photo-v1.jpg",
+    "alt": "Illustration: Ханс Холляйн",
+    "caption": "Editorial illustration for «Ханс Холляйн».",
+    "credit": "VANSMITHLAB · AI illustration, 2026",
+    "origin": "ai_illustration"
+  },
+  "translation": {
+    "source_locale": "ru",
+    "source_revision": 1,
+    "semantic_validated": true,
+    "review_run_id": ""
+  }
+}

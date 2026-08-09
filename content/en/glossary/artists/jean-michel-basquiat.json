@@ -1,31 +1,34 @@
 {
-  "content_id": "cnt_b29312485c4d4e5d",
-  "primary_object_id": "obj_639ea6a2e1ea40fe",
+  "content_id": "cnt_5eeff71bfc17a49f",
+  "primary_object_id": "obj_bdc8ed943ad4de92",
   "content_type": "artist_profile",
-  "state": "published",
+  "state": "drafted",
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "partially_verified",
-  "confidence_score": 0.85,
+  "confidence_score": 0.9,
   "claim_ids": [
-    "clm_2cb03c146cb1434e",
-    "clm_47f75879c2fb4ec5",
-    "clm_d7cf17694c9d4f0b",
-    "clm_03729db307874ede",
-    "clm_8bb68491663f4586"
+    "clm_4f2a86d5e1fadc84",
+    "clm_f33fc67897c8baaa",
+    "clm_1b269ee3d70a6e61",
+    "clm_c5d169f623807852",
+    "clm_8dbbbb0391738d01"
   ],
-  "source_ids": [
-    "src_08d57e9443c64ce3",
-    "src_9e97f514b6c14f7d",
-    "src_c983401ee3c34c15"
-  ],
-  "last_reviewed": "2026-08-08",
+  "source_ids": [],
+  "last_reviewed": "2026-08-09",
   "author": "VANSMITHLAB",
   "locale": "en",
   "slug": "jean-michel-basquiat",
   "title": "Jean-Michel Basquiat",
-  "summary": "Язык, раса и производство художественной ценности",
-  "body_hash": "1a767c798e47587e25ff18bb34f68abb9e86a0a935b4a9f27c4eb667ed13569d",
+  "summary": "Language, race and the production of artistic value",
+  "discipline": [
+    "art"
+  ],
+  "kind": "person",
+  "role": [
+    "artist"
+  ],
+  "body_hash": "87f74c8f8e21baa2ea3b146a0e5edf0a72b9a7ddfe75a914c8521256436f4888",
   "hero_image": {
     "src": "/images/glossary/artists/jean-michel-basquiat-hero-v2.webp",
     "alt": "Editorial illustration: Jean-Michel Basquiat",

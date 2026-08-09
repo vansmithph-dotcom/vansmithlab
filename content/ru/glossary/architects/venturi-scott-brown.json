@@ -1,0 +1,44 @@
+{
+  "content_id": "cnt_6078b8da57127791",
+  "primary_object_id": "obj_4a375d7fc082e412",
+  "content_type": "architect_profile",
+  "state": "drafted",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.89,
+  "claim_ids": [
+    "clm_7cbd31fd176575b4",
+    "clm_f291116a78859e3d",
+    "clm_fbaddb288f856b4c",
+    "clm_332f56d5a8431439",
+    "clm_ca9a62cb13e0944a",
+    "clm_773173dc87e4ec08"
+  ],
+  "source_ids": [],
+  "last_reviewed": "2026-08-09",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "venturi-scott-brown",
+  "title": "Роберт Вентури и Дениз Скотт Браун",
+  "summary": "Знак, повседневный город и архитектура сложного значения",
+  "discipline": [
+    "architecture"
+  ],
+  "kind": "person",
+  "role": [
+    "architect"
+  ],
+  "body_hash": "b5e05119aa9321b718f17fc98690918e479d4475ec506ef0338ec772699ce7f0",
+  "categories": [
+    "architects",
+    "thematic-research"
+  ],
+  "hero_image": {
+    "src": "/images/glossary/designers/venturi-scott-brown-hero-v2.webp",
+    "alt": "Editorial illustration: Вентури и Скотт Браун",
+    "caption": "Editorial illustration: Вентури и Скотт Браун. Learning from Las Vegas, постмодернизм.",
+    "credit": "VANSMITHLAB · AI illustration, 2026",
+    "origin": "ai_illustration"
+  }
+}

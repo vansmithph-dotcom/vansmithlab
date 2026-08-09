@@ -1,31 +1,35 @@
 {
-  "content_id": "cnt_a6eaa507afce4a5b",
-  "primary_object_id": "obj_aa5005a3fac74d38",
+  "content_id": "cnt_1ef057282e6d2420",
+  "primary_object_id": "obj_c1f63063dcf59405",
   "content_type": "designer_profile",
-  "state": "published",
+  "state": "drafted",
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "partially_verified",
-  "confidence_score": 0.85,
+  "confidence_score": 0.95,
   "claim_ids": [
-    "clm_05c88d56a76646aa",
-    "clm_8bd0bbcbdb7e42c4",
-    "clm_a4cda64f52eb490e",
-    "clm_c1893fe23be64607",
-    "clm_9b5bef79431a4dcb"
+    "clm_26916b255efef98a",
+    "clm_751e137381345f4b",
+    "clm_d63ca2d8e63c6538",
+    "clm_e8fc19f2ae31c4fa",
+    "clm_6812b8dcddb55f18",
+    "clm_e246a16ffc5459a2"
   ],
-  "source_ids": [
-    "src_bd0be9d06b604cd1",
-    "src_61223b6553844032",
-    "src_b3f0fe885abf48d0"
-  ],
-  "last_reviewed": "2026-08-08",
+  "source_ids": [],
+  "last_reviewed": "2026-08-09",
   "author": "VANSMITHLAB",
   "locale": "en",
   "slug": "alexander-mcqueen",
   "title": "Alexander McQueen",
-  "summary": "Мода как театр, анатомия, травма и технологический спектакль",
-  "body_hash": "ecf94aa832fa62c656f60e91f4e918eef9f24e59ffbd24958eb81499ae89426a",
+  "summary": "Fashion as theatre, anatomy, trauma and technological spectacle",
+  "discipline": [
+    "fashion"
+  ],
+  "kind": "person",
+  "role": [
+    "fashion-designer"
+  ],
+  "body_hash": "40d935c9e6fb968060530f342d69c2606708c75c1f8c2e06194d6664f84c3f5b",
   "hero_image": {
     "src": "/images/glossary/designers/alexander-mcqueen-hero-v2.webp",
     "alt": "Editorial illustration: Alexander McQueen",

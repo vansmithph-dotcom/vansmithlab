@@ -1,275 +1,195 @@
 # The History of the Versace Fashion House 🇮🇹
 
-Editorial voice: VANSMITHLAB
+*How ancient symbolism, metallic fabric, the cult of the body, supermodels and pop culture transformed a Milanese family house into a global language of maximalism*
 
-Research and compilation: Ivan Melnik
+> “Versace made luxury not a quiet sign of belonging but a public act. In the house’s hands, antiquity became a pop image, metal became fluid fabric, the show became a media event, and the body became the primary arena for conversations about power, sexuality and freedom.”
 
-Type: Research / institutional historical-analytical material
+## Editorial thesis
 
-Date of preparation and last review: 5 August 2026
+Versace’s historical significance rests not only on maximalism or recognisable prints. Gianni Versace built a system in which the classical culture of Southern Italy converged with rock music, theatre, contemporary photography and unabashed sexuality. The house turned the runway into mass media, made celebrity part of design and showed that industrial luxury could operate simultaneously as craft, spectacle and pop culture. After 1997, Donatella Versace did not merely preserve her brother’s archive: she rebuilt it for the digital era, the red carpet and global business. The transition into the Prada Group and the appointment of Pieter Mulier in 2026 pose a new question: how can one of fashion’s loudest languages be renewed without reducing it to a set of logos and quotations?
 
-Status: detailed editorial document / draft for evidence review
+## Reader question
 
-Verification state: partially_verified  •  Confidence: 0.95
+How did Gianni and Donatella Versace create the house’s visual system, why did it change fashion’s relationship with the body, music, celebrities and the internet, and what does Versace’s move into the Prada Group mean?
 
-Language: en  •  source_revision: 1  •  route: /en/articles/istoriya-modnogo-doma-versace
+To present Versace as a design system, a family enterprise, a media machine and an object of corporate transformation. The material separates documented facts from brand mythology, distinguishes the periods of Gianni, Donatella, Dario Vitale and Pieter Mulier, and records the house’s current structure as of 5 August 2026.
 
-"Versace made luxury not a quiet sign of belonging but a public act. Antiquity became a pop image, metal a fluid fabric, the show a media event, and the body the main field of a conversation about power, sexuality and freedom."
+The primary subject is the house of Versace, from its founding in Milan in 1978 to its position within the Prada Group as of 5 August 2026.
 
-Publication passport
+Gianni Versace’s biography before 1978 is included only insofar as it explains the origins of his method, his work with his dressmaker mother and his first commissions in Milan.
 
-Working title
+The history of the house is not reduced to the story of its founder’s murder; the events of 1997 are treated as an institutional rupture and a question of succession.
 
-The history of the Versace fashion house: from Oroton, the Medusa and the supermodels to Donatella Versace, the Prada Group and the new era of Pieter Mulier
+Donatella Versace is considered an author in her own right and the leader of the 1997–2025 period, not merely the guardian of her brother’s legacy.
 
-Editorial thesis
+Claims that “Versace invented the supermodel,” “created sexuality in fashion” or “Jennifer Lopez’s dress created Google Images” are replaced with precise formulations about influence, popularisation and an officially acknowledged technological impetus.
 
-Versace's historical significance rests not only on maximalism or recognisable prints. Gianni Versace built a system in which the classical culture of southern Italy met rock music, theatre, modern photography and a demonstrative sexuality. The house turned the runway into mass media, made the celebrity part of the design, and showed that an industrial luxury could work at once as craft, spectacle and pop culture. After 1997 Donatella Versace did more than preserve her brother's archive: she rebuilt it for the digital era, the red carpet and global business. The move into the Prada Group and the appointment of Pieter Mulier in 2026 open a new question — how to renew one of the loudest languages of fashion without reducing it to a set of logos and quotations.
+Versus Versace, Atelier Versace, Versace Home, fragrance, eyewear and hospitality are distinguished by function, ownership and licensing arrangements.
 
-Reader question
+The transition from family control to Blackstone, Capri Holdings and the Prada Group is described through transaction documents, not value-laden narratives of “rescue” or “decline.”
 
-How did Gianni and Donatella Versace create the house's visual system, why did it change fashion's relation to the body, music, celebrity and the internet, and what does Versace's move into the Prada Group mean?
-
-Editorial promise
-
-To show Versace as a design system, a family enterprise, a media machine and an object of corporate transformation. The material separates documented facts from brand mythology, distinguishes the periods of Gianni, Donatella, Dario Vitale and Pieter Mulier, and fixes the house's current structure as of 5 August 2026.
-
-Material boundaries
-
-The primary object is the house of Versace from its founding in Milan in 1978 to its state within the Prada Group as of 5 August 2026.
-
-Gianni Versace's biography before 1978 is included only insofar as it explains the origin of his method, the work with his seamstress mother and the first Milan commissions.
-
-The house's history is not reduced to the biography of the founder's murder; the event of 1997 is treated as an institutional rupture and a question of succession.
-
-Donatella Versace is considered an autonomous author and leader of the 1997–2025 period, not only a keeper of her brother's legacy.
-
-Phrases such as "Versace invented the supermodel", "created sexuality in fashion" or "Jennifer Lopez's dress created Google Images" are replaced with precise formulations about influence, popularisation and the officially acknowledged technological impulse.
-
-Versus Versace, Atelier Versace, Versace Home, fragrance, eyewear and hospitality are separated by function, ownership and licence.
-
-The move from family control to Blackstone, Capri Holdings and the Prada Group is described through deal documents, not through evaluative formulas of "rescue" or "decline".
-
-Current financial data and the roles of executives have a cut-off date; they require re-verification before publication.
+Current financial data and executive roles are tied to a cut-off date and must be verified again before publication.
 
 Every image passes through a rights gate: author, date, rights holder, licence or permission, credit, caption and alt text.
 
-Short answer
+## Short answer
 
-Versace was founded by Gianni Versace in Milan in 1978 with the key participation of his brother Santo and sister Donatella. The house joined antique motifs, saturated colour, baroque prints, metal, leather and an emphatic corporeality; in the 1980s–1990s it turned shows, advertising and relations with musicians and models into an autonomous cultural spectacle. After Gianni's murder in 1997 Donatella took creative direction and created her own iconic moments, including the 2000 Jungle dress. In 2018 Capri Holdings acquired Versace, and on 2 December 2025 the Prada Group completed the purchase of the house. Since 1 July 2026 the Chief Creative Officer has been Pieter Mulier; he reports to the executive chairman of Versace, Lorenzo Bertelli. For the first half of 2026 Versace contributed €305 million to the Prada Group's revenue, with the house at a stage of creative and commercial repositioning.
+Versace was founded by Gianni Versace in Milan in 1978, with the key participation of his brother Santo and sister Donatella. The house combined ancient motifs, saturated colour, Baroque prints, metal, leather and emphatic physicality; in the 1980s and 1990s it turned shows, advertising and relationships with musicians and models into a cultural spectacle in their own right. After Gianni’s murder in 1997, Donatella assumed creative direction and created iconic moments of her own, including the Jungle dress of 2000. Capri Holdings acquired Versace in 2018, and the Prada Group completed its purchase of the house on 2 December 2025. Since 1 July 2026, Pieter Mulier has been Chief Creative Officer, reporting to Versace Executive Chairman Lorenzo Bertelli. Versace contributed €305 million to Prada Group revenue in the first half of 2026, while the house remains in a phase of creative and commercial repositioning.
 
-Contents
+## 1. Reggio Calabria: the mother’s workshop and the origins of the method
 
-1. Reggio Calabria: the mother's workshop and the origin of the method
+Gianni Versace was born on 2 December 1946 in Reggio Calabria, a city in southern Italy facing the Strait of Messina and the cultural memory of Magna Graecia. His mother, Francesca, ran a dressmaking workshop. This matters not as a romantic legend of a child among fabrics, but as an early acquaintance with garment construction, client commissions and the discipline of fitting. Versace’s later flamboyance grew not in spite of craft, but from a confident command of it.
 
-2. Milan before 1978: industry, knitwear and the first labels
+Southern Italy gave the designer an enduring visual vocabulary: archaeological fragments, the Greek key, gold, mosaic, Catholic theatricality, sunlit colour and an attitude towards the body as an open presence. The house later turned this archive into an international luxury code. Editorially, however, not every ornament should be explained through “Calabrian origins”: some images arose from contemporary art, club culture, cinema and commercial graphics.
 
-3. 1978: the founding of the house and the first autonomous collection
+## 2. Milan before 1978: industry, knitwear and the first labels
 
-4. The family system: Gianni, Santo and Donatella
+In the early 1970s, Gianni Versace moved to Milan and worked for several manufacturers, commonly identified as Florentine Flowers, Callaghan, Genny and Complice. Biographical sources differ on the precise sequence of these early contracts, so the period is best understood as his formation within Italian industrial prêt-à-porter, not as a perfectly linear career ladder.
 
-5. The Medusa, the meander and southern Italy as a visual archive
+Experience with knitwear and serial production taught Versace to unite a striking image with the technology of a repeatable product. His future house was not an atelier that gradually became a factory: it emerged from the outset within a mature Italian production system in which designer, textile industry, communications and wholesale network operated simultaneously.
 
-6. Oroton: when metal began to move like fabric
+## 3. 1978: the founding of the house and the first independent collection
 
-7. The body, sexuality and power without guilt
+The independent house of Gianni Versace was established in Milan in 1978. Its first women’s collection was presented that spring, and a boutique opened on Via della Spiga the same year. The precise date and format of the debut require archival verification, but the founding year is confirmed by the house and by corporate documents.
 
-8. Art, theatre, ballet and the culture of quotation
+The logic that would later become a signature was already visible in the early collections: clean construction joined saturated colour, leather met silk, and classical form met unabashed physicality. Versace did not build luxury on distance. His clothes were designed for movement, the stage, nightlife and the camera.
 
-9. The show as mass media and the birth of the supermodel spectacle
+## 4. The family system: Gianni, Santo and Donatella
 
-10. Versus and the house's youth laboratory
+Versace developed as a family structure. Gianni was responsible for creative direction; Santo Versace for financial and corporate organisation; and Donatella became an adviser, designer and the principal intermediary between the house, music and the new celebrity culture. This triangle enabled an aesthetic decision to become both a product and a public event with unusual speed.
 
-11. Miss S&M, the safety-pin dress and the aesthetics of risk
+The family character was both strength and risk. It created speed, trust and coherence of image, but concentrated too many functions among too few people. After 1997 it became clear how much the company’s identity depended on personal relationships within the family and on Donatella’s ability to transform them into a new system of management.
 
-12. Men's Versace: object of desire and a new masculinity
+## 5. Medusa, the Greek key and Southern Italy as a visual archive
 
-13. 1997: the death of Gianni and the institutional rupture
+The principal symbol of the house is the head of Medusa. In corporate mythology it is linked to classical culture and the magnetic power of the image. The Greek key became an architectural frame for prints, hardware, packaging and interiors. These signs function not as neutral archaeology but as a theatricalised version of the classical: antiquity turned into an emblem of desire and power.
 
-14. Donatella Versace: not a keeper but an author of a new era
+The precise date on which the Medusa logo was standardised is often oversimplified in popular accounts. Without access to the primary graphic archive, it is safer to say that by the early 1990s Medusa and the Greek key had formed an established house identity. The article should distinguish the Medusa motif, the circular emblem, the proprietary wordmark and the specific logos of different periods.
 
-15. The Jungle dress and fashion's move into the visual internet
+## 6. Oroton: when metal began to move like fabric
 
-16. Atelier, the red carpet and celebrity infrastructure
+In the early 1980s Versace made metal mesh one of his most important materials. Oroton looked like liquid metal: it reflected light, traced the body and simultaneously evoked ancient chain mail, Byzantine mosaic and disco culture. The Metropolitan Museum of Art notes the material’s distinctive capacity to gather into fluid folds and create classical effects.
 
-17. Blackstone: external capital and the professionalisation of management
+Oroton should not be described as the sole-handed “invention of metallic fabric.” Metal mesh existed earlier; Versace’s contribution was its technical and aesthetic transformation into a systematic couture and ready-to-wear code. The material demonstrates the house’s essential logic: rigidity becomes movement, armour becomes sensual, and craft becomes spectacle.
 
-18. Capri Holdings: global scale and the limits of expansion
+## 7. The body, sexuality and power without guilt
 
-19. 2025: Donatella becomes Chief Brand Ambassador
+Versace designed clothes around the visible body. Slits, corsetry, transparency, metal mesh, leather and vivid prints did not conceal a person’s presence but amplified it. Curator Richard Martin called Gianni Versace one of the first great “post-Freudian” designers: sexuality in his work did not require justification through morality or propriety.
 
-20. The short era of Dario Vitale
+Yet bodily freedom at Versace was always both liberating and prescriptive. The house celebrated strength, muscularity and controlled sensuality, but often worked within narrow ideals of beauty. A contemporary analysis must hold both aspects in view: the historical expansion of the language of desire and the industrial discipline that determines which bodies are allowed to occupy the centre.
 
-21. The Prada Group and the return to an Italian group
+## 8. Art, theatre, ballet and the culture of quotation
 
-22. Pieter Mulier and the new creative architecture
+Gianni Versace worked extensively with theatre, ballet and stage costume, created looks for performers and quoted Warhol, Lichtenstein, Kandinsky, Klimt, the Baroque and Byzantium. For him art was not a cultural alibi for the brand; it became material for surfaces, scenography and advertising photography.
 
-23. The codes of Versace: what truly makes the house's identity
+This practice requires precise attribution. A print “in the manner of Warhol” and the licensed use of an artwork are not the same thing. When publishing a specific look, the source of the motif, the rights holder and the permission status must be established. What matters analytically is Versace’s method: high and mass visual languages were joined without hierarchy.
 
-24. Products, licences, Home and hospitality
+## 9. The show as mass media and the birth of the supermodel spectacle
 
-25. Critical questions: the body, appropriation, labour and sustainability
+Versace was one of the designers who turned the fashion show into an event that existed beyond buyers and the press. Music, staging, photographers and recognisable models produced an image capable of living on television, in magazines and in the viewer’s memory. The finale of the Autumn/Winter 1991 show, in which models performed Freedom! ’90 in unison, became a symbol of the supermodel era.
 
-26. Conclusion: maximalism as discipline, not the quantity of décor
+It would be inaccurate to say that Versace “invented the supermodel.” He systematically used an emerging culture of celebrity models and gave it a vivid stage. His contribution lay in joining model status, the music video, advertising photography and the runway into a single infrastructure of recognition.
 
-Main article
+## 10. Versus and the house’s youth laboratory
 
-1. Reggio Calabria: the mother's workshop and the origin of the method
+Launched in 1989, Versus became a space for a younger, more experimental and accessible language. It was closely associated with Donatella Versace, whom Gianni entrusted with the project’s creative development. Versus offered a place to test the energy of club culture, graphics, denim and more direct forms of communication.
 
-Gianni Versace was born on 2 December 1946 in Reggio Calabria, a town in southern Italy facing the strait and the cultural memory of Magna Graecia. His mother Francesca ran a tailoring workshop. This fact matters not as a romantic legend of a child among fabrics but as an early acquaintance with the construction of clothing, client order and the discipline of the fitting. The later demonstrativeness of Versace grew not against craft but out of a confident possession of it.
+The history of Versus shows that the architecture of the Versace brand was never a simple pyramid of “expensive” and “less expensive.” The line functioned as a laboratory and as a means of dialogue with a generation that might not buy Atelier but shaped music, nightlife and the visual codes of the street.
 
-Southern Italy gave the designer a stable visual vocabulary: archaeological fragments, the Greek meander, gold, mosaic, Catholic theatricality, sunlit colour and an attitude to the body as an open presence. The house later turned this archive into an international luxury code. Editorially, however, it is important not to explain every ornament through a "Calabrian origin": part of the imagery arose from contemporary art, club culture, cinema and commercial graphics.
+## 11. Miss S&M, the safety-pin dress and the aesthetics of risk
 
-2. Milan before 1978: industry, knitwear and the first labels
+The Autumn/Winter 1992–93 collection, often called Miss S&M, combined leather, straps, metal hardware and elements of bondage. In 1994 Elizabeth Hurley attended the premiere of Four Weddings and a Funeral in a black Versace dress fastened with oversized gold safety pins. The look became one of the most recognisable red-carpet moments of the twentieth century.
 
-In the early 1970s Gianni Versace moved to Milan and worked for several manufacturers, among whom Florentine Flowers, Callaghan, Genny and Complice are usually named. The exact sequence of the early contracts differs across biographical sources, so it should be described as a period of formation within Italian industrial prêt-à-porter rather than an ideally linear career ladder.
+The pin functioned at once as fastener, ornament and metaphor for possible disintegration. The dress turned structural risk into public confidence. Its significance cannot be reduced to “shocking exposure”: it demonstrated how a single object could transform the status of a person, a film and a brand through photography and mass circulation.
 
-The work with knitwear and serial production taught Versace to join a striking image with the technology of a repeatable product. His future house was not an atelier that gradually became a factory: from the start it arose within the mature system of Italian production, where designer, textile industry, communication and the wholesale network acted simultaneously.
+## 12. Versace menswear: the object of desire and a new masculinity
 
-3. 1978: the founding of the house and the first autonomous collection
+Versace menswear emphasised the body differently from the traditional business suit. Close cuts, silk shirts, leather, colour, gold and an exposed chest made the man not only the subject of the gaze but also its object. This resonated with club, music and queer cultures, in which clothing could serve as a declaration of presence.
 
-In 1978 the autonomous house of Gianni Versace appeared in Milan. The first women's collection was presented in spring, and that same year a boutique opened on Via della Spiga. Sources on the exact day and format of the debut require verification against the archive, but the year of foundation is confirmed by the house itself and by corporate documents.
+Yet not all Versace menswear should automatically be labelled “queer fashion.” The house’s connection with LGBTQ+ culture is real and important, but specific interpretations must be grounded in a collection, campaign, interview or context of use, not in stereotypes about flamboyance and sexuality.
 
-Already in the early collections the logic that would become signature was visible: a clean construction joined saturated colour, leather with silk, the classical form with an overt corporeality. Versace did not build luxury on distance. His clothing was designed for movement, the stage, night life and the camera.
+## 13. 1997: Gianni’s death and an institutional rupture
 
-4. The family system: Gianni, Santo and Donatella
+On 15 July 1997, Gianni Versace was murdered outside his home, Casa Casuarina, in Miami Beach. In fashion history, the event often overshadows everything else and turns the brand into a drama. For institutional analysis, the consequences matter more: the house lost its founder, chief designer and central public voice at the same time.
 
-Versace developed as a family structure. Gianni was responsible for creative direction; Santo Versace for the financial and corporate organisation; Donatella became an adviser, designer and chief mediator between the house, music and the new celebrity culture. Such a triangle allowed an aesthetic decision to be quickly turned into a product and a public event.
+Ownership remained with the family; Donatella assumed creative leadership, Santo continued his corporate role, and Allegra Versace later received the share assigned to her in Gianni’s will. Precise legal percentages changed in subsequent transactions and should therefore be tied to a specific date rather than described as a permanent structure.
 
-The family character was at once a strength and a risk. It created speed, trust and coherence of the image, but concentrated too many functions around a limited number of people. After 1997 it became clear how much the company's identity depended on the personal relationships within the family and on Donatella's ability to transform them into a new management system.
+## 14. Donatella Versace: not a guardian, but the author of a new era
 
-5. The Medusa, the meander and southern Italy as a visual archive
+Donatella Versace assumed creative leadership in circumstances that demanded both a repetition of Gianni and proof of her independence. Her early years were a period of stabilisation, but she gradually established her own version of the house: a more direct relationship with pop music, the red carpet, female celebrities and digital culture.
 
-The chief symbol of the house is the head of the Medusa. In the corporate mythology it is linked to antique culture and the attractive power of the image. The Greek meander became an architectural frame for the prints, the hardware, the packaging and the interiors. These signs act not as neutral archaeology but as a theatricalised version of the classical: antiquity is turned into an emblem of desire and power.
+Her contribution is often underestimated when it is described merely as a continuation of the archive. It was Donatella who sustained the visibility of the Medusa and Baroque codes in a changing market, created viral moments and made her own public persona part of the institutional image. She also turned Gianni’s memory into an open resource rather than a sealed memorial.
 
-The exact date of the standardisation of the Medusa logo is often simplified in popular texts. Without a primary graphic archive it is safer to say that by the early 1990s the Medusa and the meander had already formed the house's stable identity. In the article one should distinguish the Medusa motif, the round emblem, the signature wordmark and the specific logos of different periods.
+## 15. The Jungle dress and fashion’s passage into the visual internet
 
-6. Oroton: when metal began to move like fabric
+In February 2000, Jennifer Lopez appeared at the Grammy Awards in the green Versace Jungle dress with its plunging neckline. According to Google’s official account, the volume of image searches for the dress exposed the limitations of text-only results and helped inspire the launch of Google Images in July 2001.
 
-In the early 1980s Versace made metal mesh one of its most important materials. Oroton looked like liquid metal: it reflected light, emphasised the body and at once referred to antique chainmail, Byzantine mosaic and disco culture. The Metropolitan Museum of Art notes the material's special ability to gather into fluid folds and create classical effects.
+The accurate formulation is that the dress helped inspire the service, not that it single-handedly “created internet images.” The more important point is the cultural transition: a fashion object became not merely a magazine image but a user query. Versace stood at the centre of a new visual-search economy in which viewers demanded access to an image for themselves.
 
-Oroton should not be described as a single-handed "invention of the metal fabric". Historically metal mesh existed earlier; Versace's contribution lay in its technical and aesthetic transformation into a systematic couture and ready-to-wear code. The material shows the house's main logic: the rigid becomes mobile, the armour sensual, the craft a spectacle.
+## 16. Atelier, the red carpet and celebrity infrastructure
 
-7. The body, sexuality and power without guilt
+Atelier Versace developed bespoke evening and couture-like pieces designed for the stage, the ceremony and the close-up. The house built long-term relationships with musicians, actors and performers, from Elton John and Madonna to contemporary artists. Clothes were created not simply for a celebrity, but for a specific media situation.
 
-Versace designed clothing around the visible body. The slit, the corset, transparency, metal mesh, leather and a bright print did not mask the presence of the person but amplified it. The curator Richard Martin called Gianni Versace one of the first great "post-Freudian" designers: in his work sexuality did not require vindication by morality or decorum.
+Celebrity dressing became an infrastructure: design, fitting, stylist, photographer, event and digital distribution operated as a single channel. Versace was one of the key houses to demonstrate that the red carpet could carry cultural significance comparable to that of the runway.
 
-Yet the freedom of the body at Versace was always at once liberating and normative. The house celebrated strength, musculature and controlled sensuality, but often worked with narrow ideals of beauty. A contemporary analysis must take into account both aspects: the historical widening of the language of desire and the industrial discipline that determines which body gains the right to be central.
+## 17. Blackstone: external capital and the professionalisation of management
 
-8. Art, theatre, ballet and the culture of quotation
+In 2014 Blackstone acquired a minority stake in Versace. The transaction was intended to support international expansion and retail development. External capital marked a shift from a predominantly family structure to a model in which growth strategy, stores and operational efficiency became subjects of institutional control.
 
-Gianni Versace actively worked with theatre, ballet and stage costume, created images for artists and quoted Warhol, Lichtenstein, Kandinsky, Klimt, the baroque and Byzantium. For him art was not a cultural alibi of a brand; it became a material of surface, scenography and advertising photography.
+This period should not be described solely as a “loss of independence.” The family retained a significant interest and creative influence, but the house entered a system shaped by a financial investor’s expectations. The gap between cultural visibility and sustainable profitability became one of the defining questions of its later history.
 
-This practice requires precise attribution. A print "in the spirit of Warhol" and a licensed use of a work are not the same thing. In publishing specific images the source of the motif, the rights holder and the status of permission must be established. What is analytically important is Versace's method itself: the high and the mass visual languages were joined without a hierarchy.
+## 18. Capri Holdings: global scale and the limits of expansion
 
-9. The show as mass media and the birth of the supermodel spectacle
+Capri Holdings completed its acquisition of Versace on 31 December 2018. The stated enterprise value was €1.83 billion, or approximately $2.12 billion. The group planned to expand retail, footwear, accessories and menswear, with the goal of taking Versace revenue to $2 billion.
 
-Versace was one of the designers who turned the show into an event that exists not only for buyers and the press. Music, staging, photographers and recognisable models created an image able to live in television, magazines and the viewer's memory. The finale of the autumn-winter 1991 show, with the models synchronously performing "Freedom! '90", became a symbol of the supermodel era.
+The results proved more complex than the original model. The pandemic, shifts in luxury demand and the need to refine positioning limited growth. The Capri period should not be judged only through the later sale at a lower price: the company invested in the network and management, but could not realise the announced scale within the intended timeframe.
 
-One cannot claim that Versace "invented the supermodel". He systematically used an already forming celebrity-model culture and gave it a bright stage. His contribution lay in joining model status, the music video, advertising photography and the runway into one infrastructure of recognisability.
+## 19. 2025: Donatella becomes Chief Brand Ambassador
 
-10. Versus and the house's youth laboratory
+On 13 March 2025, it was announced that Donatella Versace would move from Chief Creative Officer to Chief Brand Ambassador on 1 April. She focused on representing the brand globally, philanthropy and supporting the house’s values. The move concluded almost thirty years of her formal creative leadership.
 
-The Versus line, launched in 1989, became a space of a younger, more experimental and more accessible language. It is closely linked to Donatella Versace, to whom Gianni entrusted the creative development of the project. Versus allowed the energy of club culture, graphics, denim and more direct forms of communication to be tested.
+The transition should not be called a departure from Versace. Donatella retained a public connection to the house, but operational and design responsibility passed to the next leader. For the brand’s history, this was the first formal separation between the Versace name and day-to-day creative management.
 
-The history of Versus shows that Versace's brand architecture was never a simple pyramid of "expensive — cheaper". The line worked as a laboratory and a means of dialogue with a generation that might not buy Atelier but defined music, night life and the visual codes of the street.
+## 20. The brief Dario Vitale era
 
-11. Miss S&M, the safety-pin dress and the aesthetics of risk
+Dario Vitale, formerly of Miu Miu, became Chief Creative Officer on 1 April 2025. His debut Spring/Summer 2026 collection offered a less polished, more personal view of early Versace, approaching clothing, the body and the archive without the usual monumental staging.
 
-The autumn-winter 1992–93 collection, often called Miss S&M, combined leather, straps, metal hardware and elements of bondage. In 1994 Elizabeth Hurley appeared at the premiere of Four Weddings and a Funeral in a black Versace dress held together by large gold safety pins. This image became one of the most recognisable red-carpet moments of the twentieth century.
+After the Prada Group acquisition was completed, it was announced that Vitale would leave the house on 12 December 2025. An eight-month tenure and a single principal collection do not support the idea of a fully formed “era,” but they matter as a transitional experiment between family leadership and a new corporate structure.
 
-The pin worked at once as a fastening, an ornament and a metaphor for a possible coming apart. The dress turned constructive risk into public confidence. Its significance cannot be reduced to "shocking openness": it showed how a single object can change the status of a person, a film and a brand through photography and mass distribution.
+## 21. Prada Group and the return to an Italian group
 
-12. Men's Versace: object of desire and a new masculinity
+On 10 April 2025, the Prada Group announced an agreement to acquire 100 per cent of Versace from Capri Holdings at an enterprise value of €1.25 billion. Following regulatory approvals, the transaction was completed on 2 December 2025. Versace joined a group that also includes Prada, Miu Miu, Church’s and other brands.
 
-Versace's men's clothing emphasised the body differently from the traditional business suit. A narrow cut, silk shirts, leather, colour, gold and an open chest made the man not only the subject of the gaze but also an object of desire. This matched the club, musical and queer culture in which clothing could be a declaration of presence.
+The phrase “return to Italy” is emotionally intelligible but requires precision: before the transaction, Versace remained Italian in origin, design and a significant share of its operations. What changed was corporate ownership, from an American public company to Italy’s Prada S.p.A. The central question is not national symbolism but the Prada Group’s ability to give the house time, a production base and a distinctive strategy.
 
-At the same time all men's Versace cannot be automatically called "queer fashion". The house's link to LGBTQ+ culture is real and important, but specific interpretations should rest on a collection, a campaign, an interview or a context of use rather than on a stereotype about brightness and sexuality.
+## 22. Pieter Mulier and a new creative architecture
 
-13. 1997: the death of Gianni and the institutional rupture
+On 5 February 2026, the Prada Group announced Pieter Mulier’s appointment as Chief Creative Officer of Versace from 1 July 2026. He reports to Lorenzo Bertelli, Versace’s Executive Chairman. Mulier previously worked with Raf Simons at Jil Sander, Dior and Calvin Klein before leading Alaïa.
 
-On 15 July 1997 Gianni Versace was killed outside his home, Casa Casuarina, in Miami Beach. For fashion history this event often eclipses everything else, turning the brand into a drama. For an institutional analysis the consequences matter more: the house lost its founder, chief designer and central public voice at once.
+As of 5 August 2026, it is too early to speak of his “Versace style”: a complete new system has yet to be presented. The appointment matters more as a managerial signal. The Prada Group selected a designer known for architectural precision and sensuality without excessive reliance on logos, potentially creating a productive tension with Versace’s historical maximalism.
 
-Ownership passed to the family; Donatella took over creative direction, Santo continued the corporate work, and Allegra Versace later received the share prescribed by the inheritance. The exact legal percentages changed after subsequent deals, so they should be tied to a specific date rather than described as an eternal structure.
+## 23. Versace codes: what truly constitutes the house’s identity
 
-14. Donatella Versace: not a keeper but an author of a new era
+Versace’s identity does not consist of a single print. Its enduring elements include the Medusa, the Greek key, gold, Baroque imagery, saturated colour, black, metal, leather, drapery, the slit, body-conscious construction, classical quotation, pop music and demonstrative photography. Each period selects different combinations from this vocabulary.
 
-Donatella Versace took creative direction in a situation where she was expected at once to repeat Gianni and to prove her independence. Her first years were a period of stabilisation, but gradually she formed her own version of the house: a more direct link to pop music, the red carpet, female celebrities and digital culture.
+A code becomes heritage only when it can generate a new solution. Simply applying the Medusa to a product reproduces recognition, but not necessarily the Versace method. That method appears in collisions of opposites: antiquity and the club, armour and fluidity, luxury and the mass image, structural control and visible risk.
 
-Her contribution is often underestimated, called merely a continuation of the archive. It was Donatella who sustained the recognisability of the Medusa and the baroque codes in a changing market, created viral moments and turned personal publicity into part of the institutional image. She also made the memory of Gianni an open resource rather than a closed memorial.
+## 24. Products, licences, Home and hospitality
 
-15. The Jungle dress and fashion's move into the visual internet
+Versace operates as a complete luxury universe: ready-to-wear, leather goods, shoes, accessories, eyewear, fragrance, watches, Home, Atelier and hospitality. Some categories are developed through licences and partnerships. The brand, legal owner of a design, manufacturer and operator of a particular product may therefore be different organisations.
 
-In February 2000 Jennifer Lopez appeared at the Grammy Awards in Versace's green Jungle dress with a deep neckline. According to Google's official history, the mass query for images of this dress showed the inadequacy of text results and helped inspire the launch of Google Images in July 2001.
+Palazzo Versace and interior projects extended the house’s language from clothing into space. Here maximalism becomes architecture: marble, gold, print and Medusa organise the environment. A hospitality project must nevertheless be analysed separately from the fashion house, with attention to the operator, licence, date and current status of each property.
 
-The correct formulation is that the dress helped inspire the service, not that it single-handedly "created Google Images". What matters more is the cultural transition: an object of fashion became not only a magazine image but a user request. Versace found itself at the centre of a new visual-search economy, where the viewer himself demands access to the image.
+## 25. Critical questions: the body, appropriation, labour and sustainability
 
-16. Atelier, the red carpet and celebrity infrastructure
+Versace has historically associated freedom with visibility, but contemporary publishing must ask who gains access to that freedom. Size range and representation across ages, races, genders and bodies matter as much as an arresting campaign. An aesthetic free of prejudice is demonstrated by practice, not corporate language alone.
 
-Atelier Versace developed individual evening and couture-like pieces designed for the stage, ceremonies and the close-up. The house built long-term relationships with musicians, actors and performers — from Elton John and Madonna to contemporary artists. The clothing was created not simply for a celebrity but for a specific media situation.
+Ancient, Byzantine, Baroque and non-European motifs require precise attribution and context. Not every quotation should automatically be labelled appropriation, but the commercial use of a sacred or culturally specific image must be traceable. Supply chain, materials, chemicals, leather, metals, licences and sustainability claims require a dedicated verification block.
 
-Celebrity dressing became an infrastructure: design, fitting, stylist, photographer, event and digital distribution worked as a single channel. Versace was one of the key houses that proved the cultural significance of the red carpet could be comparable to the influence of the runway.
+The longevity of an aesthetic code does not equal the environmental sustainability of a product. Claims about reduced impact require measurable data, defined boundaries and independent verification. Within the new Prada Group structure, Versace must be considered in relation to group-wide policies, but Prada’s performance should not automatically be attributed to the house without separate disclosure.
 
-17. Blackstone: external capital and the professionalisation of management
+## 26. Conclusion: maximalism as discipline, not an accumulation of decoration
 
-In 2014 Blackstone acquired a minority stake in Versace. The deal was to support international expansion and retail development. External capital marked a transition from a mostly family structure to a model in which growth strategy, stores and operational efficiency became a subject of institutional oversight.
+The history of Versace shows that maximalism can be a rigorous system. Its power lies not in the quantity of gold but in the clarity of the scene: body, material, sign, music and camera are directed towards a single effect, presence. Gianni Versace created this language, Donatella taught it to survive personal tragedy and inhabit digital culture, and successive owners sought to turn its cultural power into a sustainable international business.
 
-This period cannot be described only as a "loss of independence". The family retained significant participation and creative influence, but the house entered a system of a financial investor's expectations. The gap between cultural recognisability and stable profitability became one of the main themes of the subsequent history.
-
-18. Capri Holdings: global scale and the limits of expansion
-
-On 31 December 2018 Capri Holdings completed the acquisition of Versace. The announced enterprise value was €1.83 billion, or roughly $2.12 billion. The group planned to expand the retail network, footwear, accessories and the men's direction, aiming to bring Versace's revenue to $2 billion.
-
-The results proved harder than the original model. The pandemic, changes in luxury demand and the need to refine the positioning limited the growth. In the article it is important not to assess the Capri period only through the later sale for less: the company invested in the network and management but could not realise the announced scale within the set time.
-
-19. 2025: Donatella becomes Chief Brand Ambassador
-
-On 13 March 2025 it was announced that from 1 April Donatella Versace would move from the role of Chief Creative Officer to the position of Chief Brand Ambassador. She focused on the global representation of the brand, philanthropy and the support of the house's values. This ended nearly thirty years of her formal creative leadership.
-
-The transition cannot be called a departure from Versace. Donatella kept a public link to the house, but the operational and design responsibility passed to the next leader. For the brand's history this is the first formal break between the Versace surname and daily creative management.
-
-20. The short era of Dario Vitale
-
-Dario Vitale, previously at Miu Miu, took up the position of Chief Creative Officer on 1 April 2025. His debut spring–summer 2026 collection offered a less polished, more personal take on early Versace, turning to clothing, the body and the archive without the usual monumental staging.
-
-After the completion of the Prada Group purchase it was announced that Vitale would leave the house on 12 December 2025. His eight-month period and a single main collection do not allow a stable "era" to be formulated, but they matter as a transitional experiment between family leadership and the new corporate structure.
-
-21. The Prada Group and the return to an Italian group
-
-On 10 April 2025 the Prada Group announced an agreement to acquire 100% of Versace from Capri Holdings at an enterprise value of €1.25 billion. After receiving approvals the deal was completed on 2 December 2025. Versace joined the group alongside Prada, Miu Miu, Church's and other labels.
-
-The formula "a return to Italy" is emotionally understandable but requires precision: before the deal Versace was already an Italian house by origin, design and a large share of operations. What changed was the corporate ownership — from an American public group to the Italian Prada S.p.A. The main question of the deal is not national symbolism but the ability of the Prada Group to give the house time, a production base and a distinguishable strategy.
-
-22. Pieter Mulier and the new creative architecture
-
-On 5 February 2026 the Prada Group announced the appointment of Pieter Mulier as Chief Creative Officer of Versace from 1 July 2026. He reports to Lorenzo Bertelli, the executive chairman of Versace. Previously Mulier worked with Raf Simons at Jil Sander, Dior and Calvin Klein, and then led Alaïa.
-
-As of 5 August 2026 it is premature to speak of his "Versace style": a full new system has not yet been presented. The appointment matters more as a managerial signal. The Prada Group chose an author known for architectural precision and a sensuality without an excess of logo, which may create a productive tension with Versace's historical maximalism.
-
-23. The codes of Versace: what truly makes the house's identity
-
-Versace's identity does not consist of a single print. Its enduring elements are the Medusa, the meander, gold, the baroque, saturated colour, black, metal, leather, drapery, the slit, body-conscious construction, the classical quotation, pop music and demonstrative photography. Each period chooses different combinations from this vocabulary.
-
-A code becomes a legacy only when it can generate a new solution. A simple application of the Medusa to a product reproduces recognisability but not necessarily Versace's method. The method shows itself in the collision of opposites: antiquity and the club, armour and fluidity, luxury and the mass image, the control of construction and the appearance of risk.
-
-24. Products, licences, Home and hospitality
-
-Versace operates as a full luxury universe: ready-to-wear, leather goods, shoes, accessories, eyewear, fragrance, watches, Home, Atelier and hospitality. Some categories develop through licences and partnerships. The brand, the legal owner of the design, the manufacturer and the operator of a specific product can therefore be different organisations.
-
-Palazzo Versace and interior projects extended the house's language from clothing to space. Here maximalism becomes architecture: marble, gold, print and the Medusa organise the environment. But a hospitality project should be analysed separately from the fashion house — by operator, licence, date and the current status of each object.
-
-25. Critical questions: the body, appropriation, labour and sustainability
-
-Versace historically links freedom with demonstrativeness, but a contemporary publication must ask who gets access to this freedom. The size range, the representation of age, race, gender and different bodies matters no less than a striking campaign. An aesthetic without prejudice is confirmed by practice, not only by a corporate text.
-
-Antique, Byzantine, baroque and non-European motifs require precise attribution and context. Any quotation cannot be automatically called appropriation, but the commercial use of a sacred or culturally specific image must be traceable. A separate block of verification is needed for the supply chain, materials, chemistry, leather, metals, licences and sustainability claims.
-
-The durability of an aesthetic code does not equal the ecological sustainability of a product. Statements about the reduction of impact need measurable data, calculation boundaries and independent verification. In the new Prada Group structure Versace should be considered through the group-wide policies, but the Prada figures must not be automatically carried over to the house without separate disclosure.
-
-26. Conclusion: maximalism as discipline, not the quantity of décor
-
-Versace's history shows that maximalism can be a strict system. Its strength lies not in the quantity of gold but in the clarity of the scene: body, material, sign, music and camera are directed to a single effect — presence. Gianni Versace created this language; Donatella taught it to live after a personal tragedy and in digital culture; and the subsequent owners tried to turn the cultural power into a stable international business.
-
-In 2026 the house stands at a rare point: the surname retains a symbolic presence, but the creative and corporate management is finally separated from the family. The success of the new period will depend neither on a literal return to the archive nor on a rejection of loudness, but on the ability to understand the internal discipline of Versace — to turn contradiction into an image that cannot help but be seen.
-
-The state of the house as of 5 August 2026
+In 2026 the house stands at a rare juncture: the family name retains its symbolic presence, but creative and corporate management have been decisively separated from the family. The success of the new period will depend neither on a literal return to the archive nor on abandoning flamboyance, but on understanding Versace’s internal discipline: turning contradiction into an image that cannot be ignored.

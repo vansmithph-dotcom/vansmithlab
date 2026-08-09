@@ -1,31 +1,37 @@
 {
-  "content_id": "cnt_a2a6baf31b774abf",
-  "primary_object_id": "obj_7c315ea822474971",
+  "content_id": "cnt_21840efc4a9c33b3",
+  "primary_object_id": "obj_bb64a4aa42335f7c",
   "content_type": "designer_profile",
-  "state": "published",
+  "state": "drafted",
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "partially_verified",
-  "confidence_score": 0.85,
+  "confidence_score": 0.91,
   "claim_ids": [
-    "clm_56006b4bf6e24ea5",
-    "clm_dce50ccc87ac4775",
-    "clm_ff61c180f18d4e48",
-    "clm_26570c10b5d9469c",
-    "clm_45e52f4c91954738"
+    "clm_51063300bb1d3f37",
+    "clm_0994ed35f7d35e71",
+    "clm_b7b79352ebb225c3",
+    "clm_df9c9919cf00c827",
+    "clm_a891aac6914f2898",
+    "clm_9d05aaece49d5c34",
+    "clm_572fe96ac0be766e",
+    "clm_5e351fe0d92b881b"
   ],
-  "source_ids": [
-    "src_e3c6b9e75cf64362",
-    "src_dc6ebc95c39045e4",
-    "src_992eb53b892545d2"
-  ],
-  "last_reviewed": "2026-08-08",
+  "source_ids": [],
+  "last_reviewed": "2026-08-09",
   "author": "VANSMITHLAB",
   "locale": "en",
   "slug": "martin-margiela",
   "title": "Martin Margiela",
-  "summary": "Деконструкция, анонимность и одежда как система времени",
-  "body_hash": "afaaac1e0a607ffc4e818b4095226d25f650a5a18ec55e693bc82a770b379caf",
+  "summary": "Deconstruction, anonymity and clothing as a system of time",
+  "discipline": [
+    "fashion"
+  ],
+  "kind": "person",
+  "role": [
+    "fashion-designer"
+  ],
+  "body_hash": "9b6b6891ce4222a1753ca64dc3bf33b5e51ce581b75ef5b2b93917fe546ae1bc",
   "hero_image": {
     "src": "/images/glossary/designers/martin-margiela-hero-v2.webp",
     "alt": "Editorial illustration: Martin Margiela",

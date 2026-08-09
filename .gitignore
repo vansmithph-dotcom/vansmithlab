@@ -16,3 +16,7 @@ tsconfig.tsbuildinfo
 # Claude local config
 .claude/
 work/
+
+# Python bytecode
+__pycache__/
+*.pyc

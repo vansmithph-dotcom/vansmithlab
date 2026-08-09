@@ -1,182 +1,313 @@
 # Jean-Michel Basquiat
 
-Editorial voice: VANSMITHLAB
+*Language, race and the production of artistic value*
 
-Research and compilation: Ivan Melnik
+> Basquiat turned the canvas into a field of conflicting voices: anatomy, jazz, boxing, colonial history, racist caricature, the trademark and the personal signature existed at once. His work was not spontaneous chaos but a fast and disciplined montage of cultural memory.
 
-Type: Encyclopedia / art-historical and visual-cultural material
+## Editorial thesis
 
-Language: en / source_revision: 1
+Basquiat's significance rests on joining text, drawing, Afro-Atlantic history, mass culture and personal mythology. His works expose the ways in which power distributes visibility, knowledge and price, but the artist's own career was also shaped by racism, the speculative market and the production of the image of the young genius.
 
-"Basquiat turned the street, the museum, the book and the body into a single field of names. His painting does not separate high culture from the pavement, the textbook from the tag, the crown from the price."
+## Reader question
 
-Editorial thesis
+How did a young artist from Brooklyn create in a few years one of the most recognisable languages of the late twentieth century — and why did the label 'graffiti artist' at once make him famous and limit the understanding of his intellectual practice?
 
-Jean-Michel Basquiat's significance rests on creating a visual system in which the graffiti tag, the encyclopaedic knowledge, the Afro-Atlantic history, the commodity sign and the sacred image work simultaneously. His canon should be examined together with the institutional racism of the art market, the SAMO collaboration with Al Díaz, the music community and the unequal partnership with Andy Warhol.
+The core subject is Jean-Michel Basquiat: his painting, drawing, text, music, print graphics and public image.
 
-Short answer
+SAMO is treated as a joint textual project of Basquiat and Al Diaz, not as an individual signature of a single author.
 
-Jean-Michel Basquiat was born in Brooklyn on 22 December 1960 to a Haitian father and a Puerto-Rican mother. He left home at seventeen, lived through a period of homelessness and entered the downtown New York scene through the SAMO graffiti collaboration with Al Díaz, the noise band Gray and the club culture of the late 1970s.
+The term 'graffiti artist' is used critically and does not replace the analysis of studio painting.
 
-His paintings join anatomy, language, the black hero, the commodity, the crown, erasure and the sacred. He died on 12 August 1988 in New York from an acute mixed-drug intoxication. He was twenty-seven.
+The Haitian and Puerto Rican background is examined without turning the biography into a fixed ethnic formula.
 
-1. Brooklyn, Puerto Rico and Haiti
+The relationship with Andy Warhol is analysed as a friendship, collaboration, exchange of resources and an unequal institutional position.
 
-Basquiat grew up in a multilingual household. His mother took him to the Brooklyn Museum, the Met and MoMA, and gave him a copy of Gray's Anatomy during a hospital stay. This early exposure to the museum, the textbook and the injury formed the core of his later visual grammar.
+Drug dependence and death are not used as a romantic explanation of the creativity.
 
-2. SAMO and Al Díaz
+Market records are separated from artistic assessment, provenance and questions of authentication.
 
-SAMO (Same Old Shit) was a collaborative graffiti project of Basquiat and Al Díaz. The texts appeared on the walls of downtown Manhattan and SoHo between 1977 and 1979 with aphorisms, copyright symbols and the SAMO tag. The collaboration should be described as a joint authorship, not as the solo beginning of Basquiat's career.
+## Short answer
 
-3. Gray, noise and the club
+Jean-Michel Basquiat was born on 22 December 1960 in Brooklyn. His father Gérard Basquiat was of Haitian origin, and his mother Matilda Andrades was born in Brooklyn to a Puerto Rican family. From an early age he visited museums, drew and spoke English, Spanish and French.
 
-Basquiat was a member of the experimental band Gray, named after the anatomy book. The band used a noise, a repetitive rhythm and a film projection. The music scene of the Mudd Club, CBGB and Club 57 was not a backdrop but an active participant in the formation of his visual language.
+In the late 1970s Basquiat, together with Al Diaz, created the SAMO texts in Lower Manhattan, played in the band Gray and took part in the downtown scene. After the Times Square Show and New York/New Wave he quickly entered the gallery system. The key works of 1981-1988 join anatomy, jazz, the history of slavery, colonialism, police violence, sport, celebrity and the economy of the art market.
 
-4. The Times Square Show and New York/New Wave
+## 1. Brooklyn, family and the linguistic environment
 
-In 1980 Basquiat took part in The Times Square Show, a large collective exhibition. In 1981 the curator Diego Cortez included him in New York/New Wave at MoMA PS1. Institutional recognition arrived extremely quickly.
+Jean-Michel Basquiat was born on 22 December 1960 in Brooklyn and grew up in a family of Haitian and Puerto Rican roots.
 
-5. The anatomy book and the opened body
+His mother Matilda Andrades took her son to New York museums and supported his interest in drawing. His father Gérard worked as an accountant.
 
-Gray's Anatomy is a constant source: the ribcage, the skull, the intestine and the dissected figure become a vocabulary for representing a person as a transparent, vulnerable and knowable structure. The textbook is used not as an illustration but as a way of claiming the right to see and to name.
+The multilingual environment — English, Spanish and French — later appeared in the paintings as a free mixing of words, historical names and phonetic fragments.
 
-6. Untitled (Skull) and the visible head
+## 2. The accident, Gray's Anatomy and the map of the body
 
-The 1981–1982 skull paintings join the anatomical drawing, the graffiti tag and the mask. The head is at once a self-portrait, a mortal remnant, an African sculpture and a sign of racialised vision. The viewer cannot decide whether he is looking at a living face or at a forensic fragment.
+As a child Basquiat was hit by a car and underwent surgery. During his recovery his mother gave him the medical atlas Gray's Anatomy.
 
-7. The Greco-Roman bust, the African mask and the classical canon
+Bones, teeth, organs, incisions and captions of the body became enduring elements of his artistic language.
 
-Basquiat repeatedly drew the busts, the columns, the Greek and the Roman profiles alongside the African masks and the Egyptian forms. He did not oppose "Western" and "African" art simply but showed that the museum canon had historically excluded one of these traditions from the status of classical.
+For Basquiat anatomy works not as a scientific illustration but as a way of showing the body as at once living, vulnerable, historically classified and economically valued.
 
-8. The encyclopaedia, the museum and the self-education
+## 3. City-As-School and alternative education
 
-Basquiat used the encyclopaedias, the history books, the medical texts and the museum catalogues as source material. The lists, the maps, the diagrams and the arrows recreate the act of study within the painting and refute the racist myth of the untaught instinctive artist.
+As a teenager Basquiat studied at City-As-School, an alternative Manhattan school that joined learning with urban practice.
 
-9. Sugar, cotton, tobacco and the transatlantic trade
+There he met Al Diaz, the future co-author of SAMO.
 
-The names of commodities, ships and companies appear in the paintings as evidence of a global economic history in which the black body was a traded good. The list is a record, an indictment and a persistent memory at once.
+The absence of an academic art diploma did not mean an absence of education: Basquiat read intensively, listened to music, visited museums and gathered visual information.
 
-10. Black sportsmen, musicians and saints
+## 4. SAMO with Al Diaz
 
-Hank Aaron, Joe Louis, Jack Johnson, Sugar Ray Robinson, Charlie Parker, Dizzy Gillespie, Muhammad Ali and other black figures appear with the crowns, the halos and the copyright signs. Basquiat turns a celebrity into an icon, while reminding the viewer that the same industry that creates the fame has historically exploited the black body.
+SAMO arose as a joint project of Jean-Michel Basquiat and Al Diaz in the late 1970s.
 
-11. The policeman, the uniform and the state violence
+Short texts were applied to the walls of Lower Manhattan and mocked commerce, religion, artistic clichés and the language of urban advertising.
 
-The policeman appears as a faceless figure of authority. The uniform erases individuality and turns the wearer into a function of the state. This motif connects to a centuries-long history of policing, the slave patrol and the control of the black body.
+The reading of the name as 'same old shit' stressed the ironic character of the project, but its force lay in an aphoristic ambiguity.
 
-12. The crown
+## 5. Text on the street as critical aphorism
 
-The crown is one of Basquiat's most recognisable signs. It can signify power, holiness, victory, a self-declaration, a brand or the restoration of dignity to a historically excluded figure. Later the crown was commercialised so widely that it is often detached from the specific heroes and the political function within the picture.
+SAMO differed from the territorial tag: at its centre was a phrase, not only the author's name.
 
-13. The word, the erasure and the repetition
+White chalk or spray turned the urban facade into a rapidly circulating page.
 
-Basquiat wrote the names, the prices, the scientific terms, the lists, the phrases and the single letters. The crossed-out word does not disappear: it becomes more visible, since the viewer tries to reconstruct the forbidden or the hidden reading. The repetition turns the text at once into a sound, a visual rhythm and an obsessive thought.
+The art market later often used SAMO as a romantic story of a 'street discovery', diminishing the role of Al Diaz and the intellectual complexity of the texts.
 
-14. The Xerox, the collage and the reproducible memory
+## 6. Gray and downtown music
 
-The artist repeatedly made a Xerox of his own drawings and included them in the paintings. A single image could be repeated, enlarged, cropped and transferred between the works. The Xerox allowed a personal archive of the symbols to be built and at the same time mimicked the mass distribution of a document, an advertisement or a police wanted poster.
+Basquiat played clarinet and synthesiser in the experimental band Gray.
 
-15. Irony of Negro Policeman
+The band performed at the Mudd Club, CBGB and other spaces of the New York downtown scene.
 
-Irony of Negro Policeman of 1981 shows a black figure turned by the uniform and the inscriptions into a rigid mechanism of power. The title points to the contradiction between the racial identity of the person and the institution that has historically policed the black population.
+Noise, improvisation, fragmentation and the layering of sounds have direct parallels with the rhythm of his painting.
 
-16. Charles the First and the black hero
+## 7. Canal Zone, Fashion Moda and the Times Square Show
 
-Charles the First of 1982 is linked to the jazz saxophonist Charlie Parker, nicknamed Bird. The picture joins the crown, the musical and the historical fragments, turning a jazz musician into an intellectual monarch. The warning "MOST YOUNG KINGS GET THEIR HEADS CUT OFF" links fame to violence, an early death and the exploitation of talent.
+Before stable gallery recognition Basquiat sold postcards and painted objects, and took part in group exhibitions and self-organised projects.
 
-17. Jazz, bebop and Horn Players
+Fashion Moda in the South Bronx and the Times Square Show of 1980 joined artists from different districts, music, graffiti, punk and an experimental exhibition culture.
 
-Basquiat constantly listened to jazz and dedicated works to Charlie Parker, Dizzy Gillespie, Max Roach and other musicians. Horn Players of 1983 is built as a visual improvisation of names, sound repetitions, faces and anatomical signs. The composition does not illustrate the music but acts like bebop: it accelerates, breaks and reassembles the theme.
+These spaces were not a preparatory step towards the 'real' gallery but independent infrastructures of art.
 
-18. Boxing, Joe Louis and the sporting iconography
+## 8. New York/New Wave
 
-Joe Louis, Jack Johnson, Sugar Ray Robinson and other black athletes appear in the paintings. Boxing supplies an image of a physical victory, while at the same time recalling an industry that profits from the damage done to the black body. The crown and the list of victories return the hero a status that the mass culture has often limited to a spectacle.
+The exhibition New York/New Wave, organised by Diego Cortez at P.S.1 in 1981, became an important moment of public recognition for Basquiat.
 
-19. Slavery, colonialism and the commodity language
+His works were shown alongside photography, music, graffiti and the art of the downtown scene.
 
-Basquiat included the names of raw materials, ships, trade routes, currencies, brands and historical figures. Sugar, cotton, tobacco and the human body turn out to be parts of a single economic history. The trademark in his painting can be at once the proof of a global circulation and a mark of a violent appropriation.
+The exhibition helped move his practice from urban subculture into international artistic circulation.
 
-20. Hollywood Africans
+## 9. Modena and Annina Nosei
 
-Hollywood Africans was painted in 1983 during Basquiat's stay in Los Angeles. At the centre Basquiat, Toxic and Rammellzee are shown, surrounded by words about Hollywood, the caricature and the limited roles for black people. The picture analyses an industry that produces visibility but contracts a complex person into a racial cliché.
+Basquiat's first solo gallery exhibition took place in 1981 in Modena at Emilio Mazzoli's.
 
-21. Defacement and the death of Michael Stewart
+In 1982 his first solo exhibition in New York took place at Annina Nosei's gallery.
 
-In September 1983 the young black artist Michael Stewart died after being detained by the New York transit police. Basquiat created Defacement (The Death of Michael Stewart) on the wall of Keith Haring's studio. The work became an immediate response to the police violence and a testimony of the artist's personal fear of a racial profiling.
+Nosei provided a basement studio space, yet the later history often described this period through the contested image of a dealer producing an artist for the market.
 
-22. Beat Bop, Rammellzee and K-Rob
+## 10. Studio, speed and discipline
 
-In 1983 Basquiat financed and produced the recording Beat Bop with Rammellzee and K-Rob and created the design of the record. The track joins an early hip-hop, an experimental sound and the downtown culture.
+Basquiat worked fast, but speed did not mean chance. He kept books, television, music, reproductions and materials in view at the same time.
 
-23. Documenta and the Whitney Biennial
+The paintings were built in layers: drawing, word, overpainting, repetition, quotation and erasure.
 
-In 1982 Basquiat took part in documenta 7 in Kassel. In 1983 his works were included in the Whitney Biennial. The institutional recognition arrived extremely quickly and fixed a contradictory position: the artist became a symbol of the new American painting while remaining the object of a racist exoticisation.
+The unfinished surface and visible corrections are not an absence of technique but a way of showing the process of thought.
 
-24. Los Angeles and Larry Gagosian
+## 11. Untitled (Skull) and the anatomical portrait
 
-Basquiat worked in Los Angeles and showed with Larry Gagosian in the early 1980s. The California period gave him large working spaces, new collectors and links to the music milieu. At the same time the growing international network of the galleries intensified a pressure of productivity and turned the young artist into a scarce market resource.
+Untitled of 1981, often informally called Skull, joins a head, skull, mask and X-ray image.
 
-25. Andy Warhol: the meeting and the mutual exchange
+The face is at once open and closed: the viewer sees teeth, seams, layers of colour and an intense gaze.
 
-Basquiat had long been interested in Warhol and sold him a postcard in 1979. A closer acquaintance occurred in 1982 through Bruno Bischofberger. Warhol provided an access to the institutions, the collectors and the model of an artistic celebrity; Basquiat returned him the energy of a manual painting and a contact with a new generation.
+The work resists the racist tradition of turning the black face into a type or caricature, offering an image of a complex inner structure.
 
-26. The joint paintings of Basquiat and Warhol
+## 12. The crown, halo and the sign of power
 
-In 1983–1985 the artists created joint works, sometimes together with Francesco Clemente. Warhol laid down the logos, the newspaper fragments and the large signs, over which Basquiat drew, wrote and partly destroyed the image. The works should be seen not as the addition of a young artist to a ready backdrop but as a visual collision of equal authorial systems.
+The three-pointed crown became one of Basquiat's most recognisable signs.
 
-27. The critical reaction and the institutional asymmetry
+It can denote power, sanctity, victory, self-proclamation, a brand or the return of dignity to a historically excluded figure.
 
-The 1985 joint exhibition of Basquiat and Warhol received harsh reviews that often presented Basquiat as dependent on the older artist. Such a critique reinforced the already existing racist story of the young "wild talent" who needed a white mediator. A contemporary analysis must assess the paintings themselves and at the same time study the language through which the criticism distributed the authority.
+The crown was later commercialised so widely that it often separates from the specific heroes and the political function within the painting.
 
-28. The friends, the partners and the autonomy of their practices
+## 13. Word, crossing-out and repetition
 
-Linked to Basquiat were Suzanne Mallouk, Madonna, Paige Powell, Jennifer Goode, Keith Haring, Fab 5 Freddy, Toxic, Rammellzee and many participants of the downtown milieu. The popular biography often turns the women into romantic appendages and the friends into the background of a story of a genius. A correct edition must preserve their autonomous biographies, professions and authorship.
+Basquiat wrote names, prices, scientific terms, lists, phrases and single letters.
 
-29. The market, the tokenisation of the person and the racist gaze
+A crossed-out word does not disappear: it becomes more visible, since the viewer tries to recover the forbidden or hidden reading.
 
-Basquiat's career developed during the rapid growth of the contemporary painting market in the early 1980s. The critics and the collectors often described him through primitivising words: instinctive, wild, untutored. These formulas at once raised the exotic market appeal and denied the reading, the knowledge of the history and the complexity of the compositional method.
+Repetition turns the text at once into sound, visual rhythm, evidence and an obsessive thought.
 
-30. The late works and Riding with Death
+## 14. Photocopy, collage and reproducible memory
 
-In the late paintings the space often becomes sparser and the figures more isolated. Riding with Death of 1988 shows a schematic rider on a skeletal creature and is often seen as a sombre final image. Yet a reading of a late work exclusively as a prediction of death simplifies its formal links to Leonardo, the anatomical drawing and the theme of the control of the body.
+The artist often made photocopies of his own drawings and included them in the paintings.
 
-31. The death without a romanticisation
+A single image could be repeated, enlarged, cropped and move between works.
 
-Jean-Michel Basquiat died on 12 August 1988 in New York of an acute mixed-drug intoxication. He was twenty-seven. The drug dependence, the isolation and the market pressure are an important context, but they do not explain the artistic force and are not a ground for turning the death into a romantic brand.
+The photocopy allowed the building of a personal archive of symbols and at the same time imitated the mass circulation of a document, advertisement or police bulletin.
 
-32. The archive, the Estate and the rights
+## 15. Irony of Negro Policeman
 
-The Estate of Jean-Michel Basquiat manages the legacy and maintains an official resource with the chronology, the collections and the materials about the artist. The images of the works are licensed through the authorised structure Artestar. A publication requires a check of the rights on the work, the museum photograph, the portrait of the artist and the archival document as separate objects.
+Irony of Negro Policeman of 1981 shows a black figure turned by form and inscriptions into a rigid mechanism of power.
 
-33. The authentication, the forgeries and the end of the authentication committee
+The title points to the contradiction between a person's racial identity and an institution that historically controlled the black population.
 
-The high value of Basquiat's works has made the provenance and the technical expertise especially important. The authentication committee of the Estate stopped its work in 2012 and no longer issues opinions. Recent cases of forgeries have shown that an exhibition in a museum or a convincing story of the owner do not replace the documented provenance and an independent expertise.
+The painting does not accuse an individual person by a simple scheme but explores the internal operation of a power structure.
 
-34. The museum canon and the new interpretations
+## 16. Charles the First and the black hero
 
-Basquiat's works are in the Whitney Museum, the Brooklyn Museum, MoMA, The Broad, the Menil Collection and other international holdings. The contemporary exhibitions are increasingly examining his notebooks, his music, the political themes, the collaborations and the role of the family. This widens the canon beyond the image of the young graffiti genius and returns the artist the status of a reader, a historian and an editor of the cultural signs.
+Charles the First of 1982 is connected with the jazz saxophonist Charlie Parker, nicknamed Bird.
 
-35. Conclusion
+The painting joins the crown, musical and historical fragments, turning the jazz musician into an intellectual monarch.
 
-Jean-Michel Basquiat created a visual language in which the personal signature, the encyclopaedic knowledge and the history of racial violence act simultaneously. His paintings show how a name becomes a brand, the body a field of power, and the hero an object of celebration and exploitation. Basquiat's chief legacy is not the crown as a logo but the ability to turn the conflicting languages of the culture into a critical structure of the image.
+The warning MOST YOUNG KINGS GET THEIR HEADS CUT OFF connects fame with violence, early death and the exploitation of talent.
 
-A. Chronology
-B. Glossary
-C. Fact ledger
-D. Related objects
+## 17. Jazz, bebop and Horn Players
 
-SAMO — the text, the street and the joint authorship with Al Díaz.
-Gray — the music, the noise and the downtown milieu.
-Untitled (Skull) — the anatomy, the portrait and the racial visibility.
-Irony of Negro Policeman — the institution, the identity and the power.
-Charles the First — Charlie Parker, the crown and the young king.
-Horn Players — the jazz, the repetition and the visual improvisation.
-Hollywood Africans — Hollywood and the production of the racial stereotype.
-Defacement — Michael Stewart and the police violence.
-Beat Bop — the music, the independent release and the visual design.
-Basquiat/Warhol — the collaboration, the critique and the unequal institutional position.
+Basquiat constantly listened to jazz and dedicated works to Charlie Parker, Dizzy Gillespie, Max Roach and other musicians.
 
-E. Media plan and rights
-F. Sources and checklist
+Horn Players of 1983 is built as a visual improvisation of names, sound repetitions, faces and anatomical signs.
 
-Version history
+The composition does not illustrate the music but acts like bebop: it speeds up, breaks apart and reassembles the theme.
+
+## 18. Boxing, Joe Louis and sporting iconography
+
+In the paintings appear Joe Louis, Jack Johnson, Sugar Ray Robinson and other black athletes.
+
+Boxing offers the image of physical victory, but at the same time recalls an industry that earns from the damage done to the black body.
+
+The crown and the list of victories return to the hero a status that mass culture often limited to spectacle.
+
+## 19. Slavery, colonialism and the commodity language
+
+Basquiat included the names of raw materials, ships, trade routes, currencies, brands and historical figures.
+
+Sugar, cotton, tobacco and the human body turn out to be parts of a single economic history.
+
+In his painting the trademark can be at once evidence of global circulation and a mark of violent appropriation.
+
+## 20. Hollywood Africans
+
+Hollywood Africans was painted in 1983 during Basquiat's stay in Los Angeles.
+
+At the centre are depicted Basquiat, Toxic and Rammellzee, surrounded by words about Hollywood, caricature and the limited roles for black people.
+
+The painting analyses an industry that produces visibility but reduces a complex personality to a racial cliché.
+
+## 21. Defacement and the death of Michael Stewart
+
+In September 1983 the young black artist Michael Stewart died after being detained by the New York Transit Police.
+
+Basquiat created Defacement (The Death of Michael Stewart) on the wall of Keith Haring's studio.
+
+The work became an immediate response to police violence and testimony of the artist's own fear of racial profiling.
+
+## 22. Beat Bop, Rammellzee and K-Rob
+
+In 1983 Basquiat financed and produced the recording Beat Bop with Rammellzee and K-Rob and created the record's artwork.
+
+The track joins early hip-hop, experimental sound and downtown culture.
+
+The authorship of the project must account for the performers, production, recording, independent distribution and visual design.
+
+## 23. Documenta and the Whitney Biennial
+
+In 1982 Basquiat took part in documenta 7 in Kassel.
+
+In 1983 his works were included in the Whitney Biennial.
+
+Institutional recognition came extremely quickly and fixed a contradictory position: the artist became a symbol of new American painting while remaining an object of racist exoticisation.
+
+## 24. Los Angeles and Larry Gagosian
+
+Basquiat worked in Los Angeles and exhibited with Larry Gagosian in the early 1980s.
+
+The Californian period gave him large working spaces, new collectors and connections with the music scene.
+
+At the same time the growing international gallery network intensified the pressure of productivity and turned the young artist into a scarce market resource.
+
+## 25. Andy Warhol: acquaintance and mutual exchange
+
+Basquiat had long been interested in Warhol and in 1979 sold him a postcard. A closer acquaintance came in 1982 through Bruno Bischofberger.
+
+Warhol provided access to institutions, collectors and the model of artistic celebrity; Basquiat returned to him the energy of hand painting and contact with a new generation.
+
+The relationship was friendly and productive, but existed within an unequal distribution of age, capital and cultural power.
+
+## 26. The joint paintings of Basquiat and Warhol
+
+Between 1983 and 1985 the artists created joint works, sometimes together with Francesco Clemente.
+
+Warhol applied logos, newspaper fragments and large signs, over which Basquiat drew, wrote and partly destroyed the image.
+
+The works should be perceived not as a young artist added to a ready background but as a visual collision of equal authorial systems.
+
+## 27. Critical reaction and institutional asymmetry
+
+The 1985 joint exhibition of Basquiat and Warhol received harsh reviews, often presenting Basquiat as dependent on the older artist.
+
+Such criticism reinforced the already existing racist narrative of the young 'wild talent' needing a white intermediary.
+
+Contemporary analysis must assess the paintings themselves and at the same time study the language through which criticism distributed authority.
+
+## 28. Friends, partners and the autonomy of their practices
+
+Connected with Basquiat were Suzanne Mallouk, Madonna, Paige Powell, Jennifer Goode, Keith Haring, Fab 5 Freddy, Toxic, Rammellzee and many members of the downtown scene.
+
+The popular biography often turns the women into romantic appendages and the friends into the background of the story of the genius.
+
+An accurate editorial treatment must preserve their independent biographies, professions and authorship.
+
+## 29. Market, the tokenisation of the person and the racist gaze
+
+Basquiat's career developed during the rapid growth of the market for contemporary painting in the early 1980s.
+
+Critics and collectors often described him through primitivising words: instinctive, wild, untrained.
+
+These formulas at once raised the exotic market appeal and denied the reading, the historical knowledge and the complexity of the compositional method.
+
+## 30. The late works and Riding with Death
+
+In the late paintings the space often becomes more sparse and the figures more isolated.
+
+Riding with Death of 1988 shows a schematic rider on a skeletal creature and is often perceived as a dark final image.
+
+Yet reading the late work exclusively as a prediction of death simplifies its formal connections with Leonardo, anatomical drawing and the theme of control of the body.
+
+## 31. Death without romanticisation
+
+Jean-Michel Basquiat died on 12 August 1988 in New York of acute mixed drug intoxication.
+
+He was twenty-seven years old.
+
+Drug dependence, isolation and the pressure of the market are an important context, but not an explanation of the artistic force and not a basis for turning the death into a romantic brand.
+
+## 32. Archive, Estate and rights
+
+The Estate of Jean-Michel Basquiat manages the legacy and maintains an official resource with a chronology, collections and materials about the artist.
+
+Images of the works are licensed through the authorised structure Artestar, as reflected in the museum credits.
+
+Publication requires verifying the rights to the work, the museum photograph, the portrait of the artist and the archival document as separate objects.
+
+## 33. Authentication, fakes and the end of the authentication committee
+
+The high value of Basquiat's works made provenance and technical examination especially important.
+
+The Estate's authentication committee ceased work in 2012 and no longer issues opinions.
+
+Recent cases of fakes showed that a museum exhibition or a convincing owner's story does not replace documented provenance and independent examination.
+
+## 34. The museum canon and new interpretations
+
+Basquiat's works are held at the Whitney Museum, the Brooklyn Museum, MoMA, The Broad, the Menil Collection and other international collections.
+
+Contemporary exhibitions increasingly examine his notebooks, music, political themes, collaborations and the role of the family.
+
+This extends the canon beyond the image of the young graffiti genius and returns to the artist the status of reader, historian and editor of cultural signs.
+
+## 35. Conclusion
+
+Jean-Michel Basquiat created a visual language in which the personal signature, encyclopaedic knowledge and the history of racial violence act at once.
+
+His paintings show how a name becomes a brand, the body a field of power, and the hero an object of glorification and exploitation.
+
+Basquiat's chief legacy is not the crown as a logo but the ability to turn the conflicting languages of culture into a critical structure of the image.

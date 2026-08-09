@@ -1,0 +1,47 @@
+{
+  "content_id": "cnt_6f3e4e5cf9b8f1a6",
+  "primary_object_id": "obj_8d4c8e3e365b4362",
+  "content_type": "architect_profile",
+  "state": "drafted",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.9,
+  "claim_ids": [
+    "clm_d4809cfcf8efd17b",
+    "clm_83ef01d49691b8e2",
+    "clm_6132fbfbc3bfd1af",
+    "clm_a5a46f615bac82f0"
+  ],
+  "source_ids": [],
+  "last_reviewed": "2026-08-09",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "jean-nouvel",
+  "title": "Jean Nouvel",
+  "summary": "Context, light and architecture as a unique scenario of place",
+  "discipline": [
+    "architecture"
+  ],
+  "kind": "person",
+  "role": [
+    "architect"
+  ],
+  "body_hash": "ea83615adbe06776f58e594f0f48cc5ade356d55bd60417898ec47d1a934e90c",
+  "categories": [
+    "architects"
+  ],
+  "hero_image": {
+    "src": "/images/glossary/designers/jean-nouvel-hero-v2.webp",
+    "alt": "Editorial illustration: Jean Nouvel",
+    "caption": "Editorial illustration: Jean Nouvel. Louvre Abu Dhabi, Philharmonie, light as filter.",
+    "credit": "VANSMITHLAB · AI illustration, 2026",
+    "origin": "ai_illustration"
+  },
+  "translation": {
+    "source_locale": "ru",
+    "source_revision": 1,
+    "semantic_validated": true,
+    "review_run_id": ""
+  }
+}

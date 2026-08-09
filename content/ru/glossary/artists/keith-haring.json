@@ -1,31 +1,36 @@
 {
-  "content_id": "cnt_f190ae31a001457d",
-  "primary_object_id": "obj_29b350dc490042a6",
+  "content_id": "cnt_4fb4f0e18736fadf",
+  "primary_object_id": "obj_9885592c42110693",
   "content_type": "artist_profile",
-  "state": "published",
+  "state": "drafted",
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "partially_verified",
-  "confidence_score": 0.85,
+  "confidence_score": 0.9,
   "claim_ids": [
-    "clm_de3d60c9470c4701",
-    "clm_fbf64030773945da",
-    "clm_4406e32f66f147e8",
-    "clm_807f931232154893",
-    "clm_8f9118749a204744"
+    "clm_853b5de50e74ca69",
+    "clm_f7d3a205bf26b3d6",
+    "clm_876fe3ca16f63673",
+    "clm_c2f1a1ac9d0c1984",
+    "clm_734e0b7f4fabfdec"
   ],
-  "source_ids": [
-    "src_0964fb5cb8bc487a",
-    "src_0d46cd34c04144d1",
-    "src_71c60221fd7b4c45"
-  ],
-  "last_reviewed": "2026-08-08",
+  "source_ids": [],
+  "last_reviewed": "2026-08-09",
   "author": "VANSMITHLAB",
   "locale": "ru",
   "slug": "keith-haring",
   "title": "Кит Харинг",
-  "summary": "Редакционный голос: VANSMITHLAB",
-  "body_hash": "f88f690e77b6c93d9c0be156207a7e81a8feb9338313ddcaf576332c8069255c",
+  "summary": "Линия, публичное пространство и искусство социальной доступности",
+  "discipline": [
+    "art",
+    "graphic-design"
+  ],
+  "kind": "person",
+  "role": [
+    "artist",
+    "art-director"
+  ],
+  "body_hash": "033231815d9b4436a9dda84098770e6d7ddae7cb269eb284fcf289b4e9714e29",
   "hero_image": {
     "src": "/images/glossary/artists/keith-haring-hero-v2.webp",
     "alt": "Editorial illustration: Кит Харинг",

@@ -1,0 +1,49 @@
+{
+  "content_id": "cnt_a761d6bfc85ca96b",
+  "primary_object_id": "obj_4cf1525b34834ecd",
+  "content_type": "architect_profile",
+  "state": "drafted",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.93,
+  "claim_ids": [
+    "clm_5e753558be7081ef",
+    "clm_9bc87d97e6ca3753",
+    "clm_b0e7290bb163bef1",
+    "clm_761911cba36af7ff",
+    "clm_6c1d1164a9fce625",
+    "clm_579ebbb55f48c1c6"
+  ],
+  "source_ids": [],
+  "last_reviewed": "2026-08-09",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "alvar-aalto",
+  "title": "Alvar Aalto",
+  "summary": "Humanist modernism, wood, light and the architecture of everyday life",
+  "discipline": [
+    "architecture"
+  ],
+  "kind": "person",
+  "role": [
+    "architect"
+  ],
+  "body_hash": "d7508458c70305162cd029846a8cbbaa357809bcedcc73721db8d50e838f6885",
+  "categories": [
+    "architects"
+  ],
+  "hero_image": {
+    "src": "/images/glossary/designers/alvar-aalto-hero-v2.webp",
+    "alt": "Editorial illustration: Alvar Aalto",
+    "caption": "Editorial illustration: Alvar Aalto. Finnish modernism, the Savoy vase, Paimio.",
+    "credit": "VANSMITHLAB · AI illustration, 2026",
+    "origin": "ai_illustration"
+  },
+  "translation": {
+    "source_locale": "ru",
+    "source_revision": 1,
+    "semantic_validated": true,
+    "review_run_id": ""
+  }
+}

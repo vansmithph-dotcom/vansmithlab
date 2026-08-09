@@ -1,0 +1,2338 @@
+{
+  "generated_by": "scripts/build-relations.mjs",
+  "generated_at": "2026-08-09",
+  "min_weight": 1,
+  "note": "Edges of type `mentions` are editorial discovery labels, not factual claims. A relation that asserts a fact must live in the object record with a supporting claim.",
+  "stats": {
+    "nodes": 113,
+    "nodes_with_object": 80,
+    "edges": 98,
+    "reciprocal_pairs": 15
+  },
+  "nodes": [
+    {
+      "slug": "alexey-brodovitch",
+      "title_ru": "Алексей Бродович",
+      "discipline": [
+        "graphic-design",
+        "photography"
+      ],
+      "kind": "person",
+      "role": [
+        "art-director",
+        "photographer"
+      ],
+      "object_id": null,
+      "object_type": null
+    },
+    {
+      "slug": "anish-kapoor",
+      "title_ru": "Аниш Капур",
+      "discipline": [
+        "art",
+        "architecture"
+      ],
+      "kind": "person",
+      "role": [
+        "artist",
+        "architect"
+      ],
+      "object_id": null,
+      "object_type": null
+    },
+    {
+      "slug": "istoriya-modnogo-doma-balenciaga",
+      "title_ru": "История модного дома Balenciaga 🇪🇸 / 🇫🇷",
+      "discipline": [
+        "fashion"
+      ],
+      "kind": "organization",
+      "role": [],
+      "object_id": "obj_7ca52ccdb05f5775",
+      "object_type": "brand"
+    },
+    {
+      "slug": "bias-cut-madeleine-vionnet",
+      "title_ru": "Крой по косой",
+      "discipline": [
+        "fashion"
+      ],
+      "kind": "material-technique",
+      "role": [],
+      "object_id": null,
+      "object_type": null
+    },
+    {
+      "slug": "brass-composition-patina-warm-metallic-light",
+      "title_ru": "Латунь",
+      "discipline": [
+        "architecture"
+      ],
+      "kind": "material-technique",
+      "role": [],
+      "object_id": null,
+      "object_type": null
+    },
+    {
+      "slug": "christian-dior-istoriya-modnogo-doma",
+      "title_ru": "История модного домаChristian Dior 🇫🇷",
+      "discipline": [
+        "fashion"
+      ],
+      "kind": "organization",
+      "role": [],
+      "object_id": "obj_b502cad4f7ce53c1",
+      "object_type": "brand"
+    },
+    {
+      "slug": "concrete-architectural-visual-material",
+      "title_ru": "Бетон",
+      "discipline": [
+        "architecture"
+      ],
+      "kind": "material-technique",
+      "role": [],
+      "object_id": null,
+      "object_type": null
+    },
+    {
+      "slug": "couture-embroidery-luneville",
+      "title_ru": "Кутюрная вышивка",
+      "discipline": [
+        "fashion"
+      ],
+      "kind": "material-technique",
+      "role": [],
+      "object_id": null,
+      "object_type": null
+    },
+    {
+      "slug": "deborah-turbeville",
+      "title_ru": "Дебора Турбевилль",
+      "discipline": [
+        "photography"
+      ],
+      "kind": "person",
+      "role": [
+        "photographer"
+      ],
+      "object_id": null,
+      "object_type": null
+    },
+    {
+      "slug": "draping-soft-construction",
+      "title_ru": "Драпировка",
+      "discipline": [
+        "fashion"
+      ],
+      "kind": "material-technique",
+      "role": [],
+      "object_id": null,
+      "object_type": null
+    },
+    {
+      "slug": "fabien-baron",
+      "title_ru": "Фабьен Барон",
+      "discipline": [
+        "graphic-design"
+      ],
+      "kind": "person",
+      "role": [
+        "art-director"
+      ],
+      "object_id": null,
+      "object_type": null
+    },
+    {
+      "slug": "istoriya-modnogo-doma-giorgio-armani",
+      "title_ru": "История модного дома Giorgio Armani 🇮🇹",
+      "discipline": [
+        "fashion"
+      ],
+      "kind": "organization",
+      "role": [],
+      "object_id": "obj_331927151c1ee947",
+      "object_type": "brand"
+    },
+    {
+      "slug": "glass-transparency-reflection-architecture-of-light",
+      "title_ru": "Стекло",
+      "discipline": [
+        "architecture"
+      ],
+      "kind": "material-technique",
+      "role": [],
+      "object_id": null,
+      "object_type": null
+    },
+    {
+      "slug": "istoriya-modnogo-doma-gucci",
+      "title_ru": "История модного домаGucci 🇮🇹",
+      "discipline": [
+        "fashion"
+      ],
+      "kind": "organization",
+      "role": [],
+      "object_id": "obj_9b68c158c0937cef",
+      "object_type": "brand"
+    },
+    {
+      "slug": "guy-bourdin",
+      "title_ru": "Ги Бурден",
+      "discipline": [
+        "photography"
+      ],
+      "kind": "person",
+      "role": [
+        "photographer"
+      ],
+      "object_id": null,
+      "object_type": null
+    },
+    {
+      "slug": "helmut-newton",
+      "title_ru": "Хельмут Ньютон",
+      "discipline": [
+        "photography"
+      ],
+      "kind": "person",
+      "role": [
+        "photographer"
+      ],
+      "object_id": null,
+      "object_type": null
+    },
+    {
+      "slug": "istoriya-modnogo-doma-hermes",
+      "title_ru": "История модного дома Hermès 🇫🇷",
+      "discipline": [
+        "fashion"
+      ],
+      "kind": "organization",
+      "role": [],
+      "object_id": "obj_73367eb1ba1eea7a",
+      "object_type": "brand"
+    },
+    {
+      "slug": "irving-penn",
+      "title_ru": "Ирвинг Пенн",
+      "discipline": [
+        "photography"
+      ],
+      "kind": "person",
+      "role": [
+        "photographer"
+      ],
+      "object_id": null,
+      "object_type": null
+    },
+    {
+      "slug": "jacquard",
+      "title_ru": "Жаккард",
+      "discipline": [
+        "fashion"
+      ],
+      "kind": "material-technique",
+      "role": [],
+      "object_id": null,
+      "object_type": null
+    },
+    {
+      "slug": "leather-tanning-luxury-production",
+      "title_ru": "Кожа",
+      "discipline": [
+        "fashion"
+      ],
+      "kind": "material-technique",
+      "role": [],
+      "object_id": null,
+      "object_type": null
+    },
+    {
+      "slug": "louis-vuitton-istoriya-modnogo-doma",
+      "title_ru": "История модного домаLouis Vuitton 🇫🇷",
+      "discipline": [
+        "fashion"
+      ],
+      "kind": "organization",
+      "role": [],
+      "object_id": "obj_accde3ccaa7f717a",
+      "object_type": "brand"
+    },
+    {
+      "slug": "marble-origin-types-finishes-visual-language",
+      "title_ru": "Мрамор",
+      "discipline": [
+        "architecture"
+      ],
+      "kind": "material-technique",
+      "role": [],
+      "object_id": null,
+      "object_type": null
+    },
+    {
+      "slug": "marina-abramovic",
+      "title_ru": "Марина Абрамович",
+      "discipline": [
+        "art"
+      ],
+      "kind": "person",
+      "role": [
+        "artist"
+      ],
+      "object_id": null,
+      "object_type": null
+    },
+    {
+      "slug": "modern-corsetry",
+      "title_ru": "Корсетная конструкция",
+      "discipline": [
+        "fashion"
+      ],
+      "kind": "material-technique",
+      "role": [],
+      "object_id": null,
+      "object_type": null
+    },
+    {
+      "slug": "nylon-industrial-material-to-luxury",
+      "title_ru": "Нейлон",
+      "discipline": [
+        "fashion"
+      ],
+      "kind": "material-technique",
+      "role": [],
+      "object_id": null,
+      "object_type": null
+    },
+    {
+      "slug": "olafur-eliasson",
+      "title_ru": "Олафур Элиассон",
+      "discipline": [
+        "art",
+        "architecture"
+      ],
+      "kind": "person",
+      "role": [
+        "artist",
+        "architect"
+      ],
+      "object_id": null,
+      "object_type": null
+    },
+    {
+      "slug": "paolo-roversi",
+      "title_ru": "Паоло Роверси",
+      "discipline": [
+        "photography"
+      ],
+      "kind": "person",
+      "role": [
+        "photographer"
+      ],
+      "object_id": "obj_c8f08226614779dc",
+      "object_type": "photographer"
+    },
+    {
+      "slug": "peter-lindbergh",
+      "title_ru": "Питер Линдберг",
+      "discipline": [
+        "photography"
+      ],
+      "kind": "person",
+      "role": [
+        "photographer"
+      ],
+      "object_id": null,
+      "object_type": null
+    },
+    {
+      "slug": "peter-savill",
+      "title_ru": "Питер Сэвилл",
+      "discipline": [
+        "graphic-design"
+      ],
+      "kind": "person",
+      "role": [
+        "graphic-designer",
+        "art-director"
+      ],
+      "object_id": null,
+      "object_type": null
+    },
+    {
+      "slug": "pleating-issey-miyake",
+      "title_ru": "Плиссировка",
+      "discipline": [
+        "fashion"
+      ],
+      "kind": "material-technique",
+      "role": [],
+      "object_id": null,
+      "object_type": null
+    },
+    {
+      "slug": "istoriya-modnogo-doma-prada",
+      "title_ru": "История модного домаPrada 🇮🇹",
+      "discipline": [
+        "fashion"
+      ],
+      "kind": "organization",
+      "role": [],
+      "object_id": "obj_d18feba842ff1f18",
+      "object_type": "brand"
+    },
+    {
+      "slug": "richard-avedon",
+      "title_ru": "Ричард Аведон",
+      "discipline": [
+        "photography"
+      ],
+      "kind": "person",
+      "role": [
+        "photographer"
+      ],
+      "object_id": null,
+      "object_type": null
+    },
+    {
+      "slug": "sanaa",
+      "title_ru": "SANAA: Кадзуё Сэдзима и Рюэ Нисидзава",
+      "discipline": [
+        "architecture"
+      ],
+      "kind": "person",
+      "role": [
+        "architect"
+      ],
+      "object_id": "obj_8b81d1d30743cb02",
+      "object_type": "person"
+    },
+    {
+      "slug": "istoriya-modnogo-doma-saint-laurent",
+      "title_ru": "История модного дома Saint Laurent 🇫🇷",
+      "discipline": [
+        "fashion"
+      ],
+      "kind": "organization",
+      "role": [],
+      "object_id": "obj_2f55e57e6eb23450",
+      "object_type": "brand"
+    },
+    {
+      "slug": "silk-properties-types-applications",
+      "title_ru": "Шёлк",
+      "discipline": [
+        "fashion"
+      ],
+      "kind": "material-technique",
+      "role": [],
+      "object_id": null,
+      "object_type": null
+    },
+    {
+      "slug": "stainless-steel-architecture-object-design",
+      "title_ru": "Нержавеющая сталь",
+      "discipline": [
+        "architecture"
+      ],
+      "kind": "material-technique",
+      "role": [],
+      "object_id": null,
+      "object_type": null
+    },
+    {
+      "slug": "travertine-origin-properties-applications",
+      "title_ru": "Травертин",
+      "discipline": [
+        "architecture"
+      ],
+      "kind": "material-technique",
+      "role": [],
+      "object_id": null,
+      "object_type": null
+    },
+    {
+      "slug": "tweed-chanel",
+      "title_ru": "Твид",
+      "discipline": [
+        "fashion"
+      ],
+      "kind": "material-technique",
+      "role": [],
+      "object_id": null,
+      "object_type": null
+    },
+    {
+      "slug": "istoriya-modnogo-doma-versace",
+      "title_ru": "История модного дома Versace 🇮🇹",
+      "discipline": [
+        "fashion"
+      ],
+      "kind": "organization",
+      "role": [],
+      "object_id": "obj_e8bd735c35b18761",
+      "object_type": "brand"
+    },
+    {
+      "slug": "yayoi-kusama",
+      "title_ru": "Яёи Кусама",
+      "discipline": [
+        "art"
+      ],
+      "kind": "person",
+      "role": [
+        "artist"
+      ],
+      "object_id": null,
+      "object_type": null
+    },
+    {
+      "slug": "alvar-aalto",
+      "title_ru": "Алвар Аалто",
+      "discipline": [
+        "architecture"
+      ],
+      "kind": "person",
+      "role": [
+        "architect"
+      ],
+      "object_id": "obj_4cf1525b34834ecd",
+      "object_type": "person"
+    },
+    {
+      "slug": "alvaro-siza",
+      "title_ru": "Алвару Сиза",
+      "discipline": [
+        "architecture"
+      ],
+      "kind": "person",
+      "role": [
+        "architect"
+      ],
+      "object_id": "obj_e073dcc9df4be37e",
+      "object_type": "person"
+    },
+    {
+      "slug": "alexander-mcqueen",
+      "title_ru": "Александр Маккуин",
+      "discipline": [
+        "fashion"
+      ],
+      "kind": "person",
+      "role": [
+        "fashion-designer"
+      ],
+      "object_id": "obj_c1f63063dcf59405",
+      "object_type": "person"
+    },
+    {
+      "slug": "alejandro-aravena",
+      "title_ru": "Алехандро Аравена",
+      "discipline": [
+        "architecture"
+      ],
+      "kind": "person",
+      "role": [
+        "architect"
+      ],
+      "object_id": "obj_a4e78c17cb011f7f",
+      "object_type": "person"
+    },
+    {
+      "slug": "aldo-rossi",
+      "title_ru": "Альдо Росси",
+      "discipline": [
+        "architecture"
+      ],
+      "kind": "person",
+      "role": [
+        "architect"
+      ],
+      "object_id": "obj_4b0938dd82a99870",
+      "object_type": "person"
+    },
+    {
+      "slug": "arata-isozaki",
+      "title_ru": "Арата Исодзаки",
+      "discipline": [
+        "architecture"
+      ],
+      "kind": "person",
+      "role": [
+        "architect"
+      ],
+      "object_id": "obj_93f46e65394f3527",
+      "object_type": "person"
+    },
+    {
+      "slug": "balkrishna-doshi",
+      "title_ru": "Балкришна Доши",
+      "discipline": [
+        "architecture"
+      ],
+      "kind": "person",
+      "role": [
+        "architect"
+      ],
+      "object_id": "obj_aaaf7485d1091db8",
+      "object_type": "person"
+    },
+    {
+      "slug": "barbara-kruger",
+      "title_ru": "Барбара Крюгер",
+      "discipline": [
+        "art",
+        "graphic-design"
+      ],
+      "kind": "person",
+      "role": [
+        "artist",
+        "art-director"
+      ],
+      "object_id": null,
+      "object_type": null
+    },
+    {
+      "slug": "bjarke-ingels",
+      "title_ru": "Бьярке Ингельс",
+      "discipline": [
+        "architecture"
+      ],
+      "kind": "person",
+      "role": [
+        "architect"
+      ],
+      "object_id": "obj_e5f5c72843f4b9c7",
+      "object_type": "person"
+    },
+    {
+      "slug": "gabrielle-chanel",
+      "title_ru": "Габриэль Шанель 🇫🇷",
+      "discipline": [
+        "fashion"
+      ],
+      "kind": "person",
+      "role": [
+        "fashion-designer"
+      ],
+      "object_id": "obj_a1e10f471756a090",
+      "object_type": "person"
+    },
+    {
+      "slug": "glenn-murcutt",
+      "title_ru": "Гленн Мёркатт",
+      "discipline": [
+        "architecture"
+      ],
+      "kind": "person",
+      "role": [
+        "architect"
+      ],
+      "object_id": "obj_a812b36a86f85854",
+      "object_type": "person"
+    },
+    {
+      "slug": "james-stirling",
+      "title_ru": "Джеймс Стирлинг",
+      "discipline": [
+        "architecture"
+      ],
+      "kind": "person",
+      "role": [
+        "architect"
+      ],
+      "object_id": "obj_e2fd77908d59d20a",
+      "object_type": "person"
+    },
+    {
+      "slug": "jeff-koons",
+      "title_ru": "Джефф Кунс",
+      "discipline": [
+        "art"
+      ],
+      "kind": "person",
+      "role": [
+        "artist"
+      ],
+      "object_id": null,
+      "object_type": null
+    },
+    {
+      "slug": "geoffrey-bawa",
+      "title_ru": "Джеффри Бава",
+      "discipline": [
+        "architecture"
+      ],
+      "kind": "person",
+      "role": [
+        "architect"
+      ],
+      "object_id": "obj_b6886512ad387be8",
+      "object_type": "person"
+    },
+    {
+      "slug": "john-galliano",
+      "title_ru": "Джон Гальяно",
+      "discipline": [
+        "fashion"
+      ],
+      "kind": "person",
+      "role": [
+        "fashion-designer"
+      ],
+      "object_id": "obj_602dede0c7edb2e9",
+      "object_type": "person"
+    },
+    {
+      "slug": "david-hockney",
+      "title_ru": "Дэвид Хокни",
+      "discipline": [
+        "art",
+        "photography"
+      ],
+      "kind": "person",
+      "role": [
+        "artist",
+        "photographer"
+      ],
+      "object_id": "obj_fa162544e3fec0ca",
+      "object_type": "person"
+    },
+    {
+      "slug": "david-chipperfield",
+      "title_ru": "Дэвид Чипперфилд",
+      "discipline": [
+        "architecture"
+      ],
+      "kind": "person",
+      "role": [
+        "architect"
+      ],
+      "object_id": "obj_0860c899a017bc0c",
+      "object_type": "person"
+    },
+    {
+      "slug": "damien-hirst",
+      "title_ru": "Дэмиен Херст",
+      "discipline": [
+        "art"
+      ],
+      "kind": "person",
+      "role": [
+        "artist"
+      ],
+      "object_id": null,
+      "object_type": null
+    },
+    {
+      "slug": "jean-michel-basquiat",
+      "title_ru": "Жан-Мишель Баския",
+      "discipline": [
+        "art"
+      ],
+      "kind": "person",
+      "role": [
+        "artist"
+      ],
+      "object_id": "obj_bdc8ed943ad4de92",
+      "object_type": "person"
+    },
+    {
+      "slug": "jean-nouvel",
+      "title_ru": "Жан Нувель",
+      "discipline": [
+        "architecture"
+      ],
+      "kind": "person",
+      "role": [
+        "architect"
+      ],
+      "object_id": "obj_8d4c8e3e365b4362",
+      "object_type": "person"
+    },
+    {
+      "slug": "zaha-hadid",
+      "title_ru": "Заха Хадид",
+      "discipline": [
+        "architecture"
+      ],
+      "kind": "person",
+      "role": [
+        "architect"
+      ],
+      "object_id": "obj_eef478388bf46eaa",
+      "object_type": "person"
+    },
+    {
+      "slug": "im-pei",
+      "title_ru": "И. М. Пей",
+      "discipline": [
+        "architecture"
+      ],
+      "kind": "person",
+      "role": [
+        "architect"
+      ],
+      "object_id": "obj_15f93d75ad9c923a",
+      "object_type": "person"
+    },
+    {
+      "slug": "yves-saint-laurent",
+      "title_ru": "Ив Сен-Лоран 🇩🇿 / 🇫🇷",
+      "discipline": [
+        "fashion"
+      ],
+      "kind": "person",
+      "role": [
+        "fashion-designer"
+      ],
+      "object_id": "obj_d677d0674c01d98d",
+      "object_type": "person"
+    },
+    {
+      "slug": "joseph-beuys",
+      "title_ru": "Йозеф Бойс",
+      "discipline": [
+        "art"
+      ],
+      "kind": "person",
+      "role": [
+        "artist"
+      ],
+      "object_id": "obj_d0ab32b55bdb71b9",
+      "object_type": "person"
+    },
+    {
+      "slug": "kak-religiya-povliyala-na-mir-mody",
+      "title_ru": "Как религия повлияла на мир моды",
+      "discipline": [
+        "fashion"
+      ],
+      "kind": "theme",
+      "role": [],
+      "object_id": "obj_b04f2a8826db1ade",
+      "object_type": "theme"
+    },
+    {
+      "slug": "karl-lagerfeld",
+      "title_ru": "Карл Лагерфельд 🇩🇪 / 🇫🇷",
+      "discipline": [
+        "fashion",
+        "photography"
+      ],
+      "kind": "person",
+      "role": [
+        "fashion-designer",
+        "photographer"
+      ],
+      "object_id": "obj_e9c92617a031c572",
+      "object_type": "person"
+    },
+    {
+      "slug": "kisho-kurokawa",
+      "title_ru": "Кисё Курокава",
+      "discipline": [
+        "architecture"
+      ],
+      "kind": "person",
+      "role": [
+        "architect"
+      ],
+      "object_id": "obj_96e4c99e286844ed",
+      "object_type": "person"
+    },
+    {
+      "slug": "keith-haring",
+      "title_ru": "Кит Харинг",
+      "discipline": [
+        "art",
+        "graphic-design"
+      ],
+      "kind": "person",
+      "role": [
+        "artist",
+        "art-director"
+      ],
+      "object_id": "obj_9885592c42110693",
+      "object_type": "person"
+    },
+    {
+      "slug": "kiyonori-kikutake",
+      "title_ru": "Киёонори Кикутакэ",
+      "discipline": [
+        "architecture"
+      ],
+      "kind": "person",
+      "role": [
+        "architect"
+      ],
+      "object_id": "obj_4ed8d4ae634c4528",
+      "object_type": "person"
+    },
+    {
+      "slug": "christian-dior",
+      "title_ru": "Кристиан Диор 🇫🇷",
+      "discipline": [
+        "fashion"
+      ],
+      "kind": "person",
+      "role": [
+        "fashion-designer"
+      ],
+      "object_id": "obj_423325a2f6420d97",
+      "object_type": "person"
+    },
+    {
+      "slug": "cristobal-balenciaga",
+      "title_ru": "Кристобаль Баленсиага 🇪🇸 / 🇫🇷",
+      "discipline": [
+        "fashion"
+      ],
+      "kind": "person",
+      "role": [
+        "fashion-designer"
+      ],
+      "object_id": "obj_27f396f6def80fff",
+      "object_type": "person"
+    },
+    {
+      "slug": "kengo-kuma",
+      "title_ru": "Кэнго Кума",
+      "discipline": [
+        "architecture"
+      ],
+      "kind": "person",
+      "role": [
+        "architect"
+      ],
+      "object_id": "obj_d007aa8e764dca43",
+      "object_type": "person"
+    },
+    {
+      "slug": "kenzo-tange",
+      "title_ru": "Кэндзо Тангэ",
+      "discipline": [
+        "architecture"
+      ],
+      "kind": "person",
+      "role": [
+        "architect"
+      ],
+      "object_id": "obj_6053e2191393785a",
+      "object_type": "person"
+    },
+    {
+      "slug": "le-corbusier",
+      "title_ru": "Ле Корбюзье",
+      "discipline": [
+        "architecture",
+        "art"
+      ],
+      "kind": "person",
+      "role": [
+        "architect",
+        "artist"
+      ],
+      "object_id": "obj_97f134789d91ff49",
+      "object_type": "person"
+    },
+    {
+      "slug": "lina-bo-bardi",
+      "title_ru": "Лина Бо Барди",
+      "discipline": [
+        "architecture"
+      ],
+      "kind": "person",
+      "role": [
+        "architect"
+      ],
+      "object_id": "obj_9d954a70c58542dd",
+      "object_type": "person"
+    },
+    {
+      "slug": "louise-bourgeois",
+      "title_ru": "Луиза Буржуа",
+      "discipline": [
+        "art"
+      ],
+      "kind": "person",
+      "role": [
+        "artist"
+      ],
+      "object_id": "obj_f7c74912874ede58",
+      "object_type": "person"
+    },
+    {
+      "slug": "luis-barragan",
+      "title_ru": "Луис Барраган",
+      "discipline": [
+        "architecture"
+      ],
+      "kind": "person",
+      "role": [
+        "architect"
+      ],
+      "object_id": "obj_77eecec4b1189406",
+      "object_type": "person"
+    },
+    {
+      "slug": "louis-kahn",
+      "title_ru": "Луис Кан",
+      "discipline": [
+        "architecture"
+      ],
+      "kind": "person",
+      "role": [
+        "architect"
+      ],
+      "object_id": "obj_509cc086ec668861",
+      "object_type": "person"
+    },
+    {
+      "slug": "mies-van-der-rohe",
+      "title_ru": "Людвиг Мис ван дер Роэ",
+      "discipline": [
+        "architecture"
+      ],
+      "kind": "person",
+      "role": [
+        "architect"
+      ],
+      "object_id": "obj_65f0860b934aba09",
+      "object_type": "person"
+    },
+    {
+      "slug": "michael-graves",
+      "title_ru": "Майкл Грейвс",
+      "discipline": [
+        "architecture"
+      ],
+      "kind": "person",
+      "role": [
+        "architect"
+      ],
+      "object_id": "obj_ec20a36a6525ba6a",
+      "object_type": "person"
+    },
+    {
+      "slug": "marcel-duchamp",
+      "title_ru": "Марсель Дюшан",
+      "discipline": [
+        "art"
+      ],
+      "kind": "person",
+      "role": [
+        "artist"
+      ],
+      "object_id": "obj_e0433becc89e1856",
+      "object_type": "person"
+    },
+    {
+      "slug": "martin-margiela",
+      "title_ru": "Мартин Маржела",
+      "discipline": [
+        "fashion"
+      ],
+      "kind": "person",
+      "role": [
+        "fashion-designer"
+      ],
+      "object_id": "obj_bb64a4aa42335f7c",
+      "object_type": "person"
+    },
+    {
+      "slug": "miuccia-prada",
+      "title_ru": "Миучча Прада 🇮🇹",
+      "discipline": [
+        "fashion"
+      ],
+      "kind": "person",
+      "role": [
+        "fashion-designer"
+      ],
+      "object_id": "obj_4efa6ea1ed76d087",
+      "object_type": "person"
+    },
+    {
+      "slug": "norman-foster",
+      "title_ru": "Норман Фостер",
+      "discipline": [
+        "architecture"
+      ],
+      "kind": "person",
+      "role": [
+        "architect"
+      ],
+      "object_id": "obj_f77c01b20c990619",
+      "object_type": "person"
+    },
+    {
+      "slug": "oscar-niemeyer",
+      "title_ru": "Оскар Нимейер",
+      "discipline": [
+        "architecture"
+      ],
+      "kind": "person",
+      "role": [
+        "architect"
+      ],
+      "object_id": "obj_44e1cbeba5e85df3",
+      "object_type": "person"
+    },
+    {
+      "slug": "pablo-picasso",
+      "title_ru": "Пабло Пикассо",
+      "discipline": [
+        "art"
+      ],
+      "kind": "person",
+      "role": [
+        "artist"
+      ],
+      "object_id": "obj_b4a896f69080c266",
+      "object_type": "person"
+    },
+    {
+      "slug": "peter-zumthor",
+      "title_ru": "Петер Цумтор",
+      "discipline": [
+        "architecture"
+      ],
+      "kind": "person",
+      "role": [
+        "architect"
+      ],
+      "object_id": "obj_86f87e59faae4c2a",
+      "object_type": "person"
+    },
+    {
+      "slug": "rei-kawakubo",
+      "title_ru": "Рей Кавакубо 🇯🇵",
+      "discipline": [
+        "fashion"
+      ],
+      "kind": "person",
+      "role": [
+        "fashion-designer"
+      ],
+      "object_id": "obj_8724165c0920cfc0",
+      "object_type": "person"
+    },
+    {
+      "slug": "rem-koolhaas",
+      "title_ru": "Рем Колхас",
+      "discipline": [
+        "architecture"
+      ],
+      "kind": "person",
+      "role": [
+        "architect"
+      ],
+      "object_id": "obj_d862ea4ad4b5e244",
+      "object_type": "person"
+    },
+    {
+      "slug": "rene-magritte",
+      "title_ru": "Рене Магритт",
+      "discipline": [
+        "art"
+      ],
+      "kind": "person",
+      "role": [
+        "artist"
+      ],
+      "object_id": "obj_e307331897fce4c5",
+      "object_type": "person"
+    },
+    {
+      "slug": "renzo-piano",
+      "title_ru": "Ренцо Пиано",
+      "discipline": [
+        "architecture"
+      ],
+      "kind": "person",
+      "role": [
+        "architect"
+      ],
+      "object_id": "obj_fcf2f294a7ff9d57",
+      "object_type": "person"
+    },
+    {
+      "slug": "richard-meier",
+      "title_ru": "Ричард Мейер",
+      "discipline": [
+        "architecture"
+      ],
+      "kind": "person",
+      "role": [
+        "architect"
+      ],
+      "object_id": "obj_0016cfb653cbf6b3",
+      "object_type": "person"
+    },
+    {
+      "slug": "richard-rogers",
+      "title_ru": "Ричард Роджерс",
+      "discipline": [
+        "architecture"
+      ],
+      "kind": "person",
+      "role": [
+        "architect"
+      ],
+      "object_id": "obj_0683de42a1111bb1",
+      "object_type": "person"
+    },
+    {
+      "slug": "venturi-scott-brown",
+      "title_ru": "Роберт Вентури и Дениз Скотт Браун",
+      "discipline": [
+        "architecture"
+      ],
+      "kind": "person",
+      "role": [
+        "architect"
+      ],
+      "object_id": "obj_4a375d7fc082e412",
+      "object_type": "person"
+    },
+    {
+      "slug": "salvador-dali",
+      "title_ru": "Сальвадор Дали",
+      "discipline": [
+        "art"
+      ],
+      "kind": "person",
+      "role": [
+        "artist"
+      ],
+      "object_id": "obj_122277319b93f614",
+      "object_type": "person"
+    },
+    {
+      "slug": "santiago-calatrava",
+      "title_ru": "Сантьяго Калатрава",
+      "discipline": [
+        "architecture",
+        "art"
+      ],
+      "kind": "person",
+      "role": [
+        "architect",
+        "artist"
+      ],
+      "object_id": "obj_ed06e1fd3576621a",
+      "object_type": "person"
+    },
+    {
+      "slug": "shigeru-ban",
+      "title_ru": "Сигэру Бан",
+      "discipline": [
+        "architecture"
+      ],
+      "kind": "person",
+      "role": [
+        "architect"
+      ],
+      "object_id": "obj_7ecfc8b90ab52a4b",
+      "object_type": "person"
+    },
+    {
+      "slug": "cindy-sherman",
+      "title_ru": "Синди Шерман",
+      "discipline": [
+        "art",
+        "photography"
+      ],
+      "kind": "person",
+      "role": [
+        "artist",
+        "photographer"
+      ],
+      "object_id": null,
+      "object_type": null
+    },
+    {
+      "slug": "tadao-ando",
+      "title_ru": "Тадао Андо",
+      "discipline": [
+        "architecture"
+      ],
+      "kind": "person",
+      "role": [
+        "architect"
+      ],
+      "object_id": "obj_a0b85d6e00014c47",
+      "object_type": "person"
+    },
+    {
+      "slug": "toyo-ito",
+      "title_ru": "Тойо Ито",
+      "discipline": [
+        "architecture"
+      ],
+      "kind": "person",
+      "role": [
+        "architect"
+      ],
+      "object_id": "obj_4d5897e405dc1182",
+      "object_type": "person"
+    },
+    {
+      "slug": "philip-johnson",
+      "title_ru": "Филип Джонсон",
+      "discipline": [
+        "architecture"
+      ],
+      "kind": "person",
+      "role": [
+        "architect"
+      ],
+      "object_id": "obj_da1797b3b72e00e4",
+      "object_type": "person"
+    },
+    {
+      "slug": "frei-otto",
+      "title_ru": "Фрай Отто",
+      "discipline": [
+        "architecture"
+      ],
+      "kind": "person",
+      "role": [
+        "architect"
+      ],
+      "object_id": "obj_ec1f1399d1d18495",
+      "object_type": "person"
+    },
+    {
+      "slug": "frank-gehry",
+      "title_ru": "Фрэнк Гери",
+      "discipline": [
+        "architecture"
+      ],
+      "kind": "person",
+      "role": [
+        "architect"
+      ],
+      "object_id": "obj_76e4916a844d3f94",
+      "object_type": "person"
+    },
+    {
+      "slug": "frank-lloyd-wright",
+      "title_ru": "Фрэнк Ллойд Райт",
+      "discipline": [
+        "architecture"
+      ],
+      "kind": "person",
+      "role": [
+        "architect"
+      ],
+      "object_id": "obj_94164e8d66da4a7b",
+      "object_type": "person"
+    },
+    {
+      "slug": "francis-bacon",
+      "title_ru": "Фрэнсис Бэкон",
+      "discipline": [
+        "art"
+      ],
+      "kind": "person",
+      "role": [
+        "artist"
+      ],
+      "object_id": "obj_67aacc68b8930f44",
+      "object_type": "person"
+    },
+    {
+      "slug": "fumihiko-maki",
+      "title_ru": "Фумихико Маки",
+      "discipline": [
+        "architecture"
+      ],
+      "kind": "person",
+      "role": [
+        "architect"
+      ],
+      "object_id": "obj_8289ea004fb564f8",
+      "object_type": "person"
+    },
+    {
+      "slug": "hans-hollein",
+      "title_ru": "Ханс Холляйн",
+      "discipline": [
+        "architecture"
+      ],
+      "kind": "person",
+      "role": [
+        "architect"
+      ],
+      "object_id": "obj_a1d99ff1725c83dc",
+      "object_type": "person"
+    },
+    {
+      "slug": "hassan-fathy",
+      "title_ru": "Хассан Фатхи",
+      "discipline": [
+        "architecture"
+      ],
+      "kind": "person",
+      "role": [
+        "architect"
+      ],
+      "object_id": "obj_8e33626ce5f1d3aa",
+      "object_type": "person"
+    },
+    {
+      "slug": "herzog-de-meuron",
+      "title_ru": "Херцог и де Мёрон",
+      "discipline": [
+        "architecture"
+      ],
+      "kind": "person",
+      "role": [
+        "architect"
+      ],
+      "object_id": "obj_95e49519a0202eb2",
+      "object_type": "person"
+    },
+    {
+      "slug": "charles-correa",
+      "title_ru": "Чарльз Корреа",
+      "discipline": [
+        "architecture"
+      ],
+      "kind": "person",
+      "role": [
+        "architect"
+      ],
+      "object_id": "obj_83063acc8c818eb5",
+      "object_type": "person"
+    },
+    {
+      "slug": "eduardo-souto-de-moura",
+      "title_ru": "Эдуарду Соуто де Моура",
+      "discipline": [
+        "architecture"
+      ],
+      "kind": "person",
+      "role": [
+        "architect"
+      ],
+      "object_id": "obj_f80fbe3f8e8f15d2",
+      "object_type": "person"
+    },
+    {
+      "slug": "andy-warhol",
+      "title_ru": "Энди Уорхол",
+      "discipline": [
+        "art",
+        "graphic-design"
+      ],
+      "kind": "person",
+      "role": [
+        "artist",
+        "art-director"
+      ],
+      "object_id": "obj_25145beacc21c0fa",
+      "object_type": "person"
+    },
+    {
+      "slug": "eero-saarinen",
+      "title_ru": "Ээро Сааринен",
+      "discipline": [
+        "architecture"
+      ],
+      "kind": "person",
+      "role": [
+        "architect"
+      ],
+      "object_id": "obj_8c2620c8d668c7f7",
+      "object_type": "person"
+    }
+  ],
+  "edges": [
+    {
+      "from": "miuccia-prada",
+      "to": "istoriya-modnogo-doma-prada",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 50,
+      "rationale_ru": "Материал «Миучча Прада 🇮🇹» называет предмет связанного материала 50 раз.",
+      "reciprocal": false
+    },
+    {
+      "from": "istoriya-modnogo-doma-saint-laurent",
+      "to": "yves-saint-laurent",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 39,
+      "rationale_ru": "Материал «История модного дома Saint Laurent 🇫🇷» называет предмет связанного материала 39 раз.",
+      "reciprocal": true
+    },
+    {
+      "from": "istoriya-modnogo-doma-prada",
+      "to": "nylon-industrial-material-to-luxury",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 19,
+      "rationale_ru": "Материал «История модного домаPrada 🇮🇹» называет предмет связанного материала 19 раз.",
+      "reciprocal": true
+    },
+    {
+      "from": "istoriya-modnogo-doma-versace",
+      "to": "istoriya-modnogo-doma-prada",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 17,
+      "rationale_ru": "Материал «История модного дома Versace 🇮🇹» называет предмет связанного материала 17 раз.",
+      "reciprocal": true
+    },
+    {
+      "from": "cristobal-balenciaga",
+      "to": "istoriya-modnogo-doma-balenciaga",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 16,
+      "rationale_ru": "Материал «Кристобаль Баленсиага 🇪🇸 / 🇫🇷» называет предмет связанного материала 16 раз.",
+      "reciprocal": true
+    },
+    {
+      "from": "istoriya-modnogo-doma-balenciaga",
+      "to": "cristobal-balenciaga",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 15,
+      "rationale_ru": "Материал «История модного дома Balenciaga 🇪🇸 / 🇫🇷» называет предмет связанного материала 15 раз.",
+      "reciprocal": true
+    },
+    {
+      "from": "nylon-industrial-material-to-luxury",
+      "to": "istoriya-modnogo-doma-prada",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 15,
+      "rationale_ru": "Материал «Нейлон» называет предмет связанного материала 15 раз.",
+      "reciprocal": true
+    },
+    {
+      "from": "miuccia-prada",
+      "to": "nylon-industrial-material-to-luxury",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 13,
+      "rationale_ru": "Материал «Миучча Прада 🇮🇹» называет предмет связанного материала 13 раз.",
+      "reciprocal": false
+    },
+    {
+      "from": "tadao-ando",
+      "to": "concrete-architectural-visual-material",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 12,
+      "rationale_ru": "Материал «Тадао Андо» называет предмет связанного материала 12 раз.",
+      "reciprocal": false
+    },
+    {
+      "from": "christian-dior-istoriya-modnogo-doma",
+      "to": "istoriya-modnogo-doma-saint-laurent",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 10,
+      "rationale_ru": "Материал «История модного домаChristian Dior 🇫🇷» называет предмет связанного материала 10 раз.",
+      "reciprocal": false
+    },
+    {
+      "from": "irving-penn",
+      "to": "alexey-brodovitch",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 9,
+      "rationale_ru": "Материал «Ирвинг Пенн» называет предмет связанного материала 9 раз.",
+      "reciprocal": true
+    },
+    {
+      "from": "jean-michel-basquiat",
+      "to": "andy-warhol",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 9,
+      "rationale_ru": "Материал «Жан-Мишель Баския» называет предмет связанного материала 9 раз.",
+      "reciprocal": true
+    },
+    {
+      "from": "martin-margiela",
+      "to": "istoriya-modnogo-doma-hermes",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 9,
+      "rationale_ru": "Материал «Мартин Маржела» называет предмет связанного материала 9 раз.",
+      "reciprocal": false
+    },
+    {
+      "from": "rem-koolhaas",
+      "to": "istoriya-modnogo-doma-prada",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 9,
+      "rationale_ru": "Материал «Рем Колхас» называет предмет связанного материала 9 раз.",
+      "reciprocal": false
+    },
+    {
+      "from": "istoriya-modnogo-doma-hermes",
+      "to": "leather-tanning-luxury-production",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 8,
+      "rationale_ru": "Материал «История модного дома Hermès 🇫🇷» называет предмет связанного материала 8 раз.",
+      "reciprocal": false
+    },
+    {
+      "from": "istoriya-modnogo-doma-hermes",
+      "to": "silk-properties-types-applications",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 8,
+      "rationale_ru": "Материал «История модного дома Hermès 🇫🇷» называет предмет связанного материала 8 раз.",
+      "reciprocal": false
+    },
+    {
+      "from": "istoriya-modnogo-doma-prada",
+      "to": "istoriya-modnogo-doma-versace",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 8,
+      "rationale_ru": "Материал «История модного домаPrada 🇮🇹» называет предмет связанного материала 8 раз.",
+      "reciprocal": true
+    },
+    {
+      "from": "istoriya-modnogo-doma-saint-laurent",
+      "to": "istoriya-modnogo-doma-gucci",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 7,
+      "rationale_ru": "Материал «История модного дома Saint Laurent 🇫🇷» называет предмет связанного материала 7 раз.",
+      "reciprocal": false
+    },
+    {
+      "from": "balkrishna-doshi",
+      "to": "le-corbusier",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 7,
+      "rationale_ru": "Материал «Балкришна Доши» называет предмет связанного материала 7 раз.",
+      "reciprocal": false
+    },
+    {
+      "from": "yves-saint-laurent",
+      "to": "christian-dior-istoriya-modnogo-doma",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 7,
+      "rationale_ru": "Материал «Ив Сен-Лоран 🇩🇿 / 🇫🇷» называет предмет связанного материала 7 раз.",
+      "reciprocal": false
+    },
+    {
+      "from": "yves-saint-laurent",
+      "to": "istoriya-modnogo-doma-saint-laurent",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 7,
+      "rationale_ru": "Материал «Ив Сен-Лоран 🇩🇿 / 🇫🇷» называет предмет связанного материала 7 раз.",
+      "reciprocal": true
+    },
+    {
+      "from": "marcel-duchamp",
+      "to": "glass-transparency-reflection-architecture-of-light",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 7,
+      "rationale_ru": "Материал «Марсель Дюшан» называет предмет связанного материала 7 раз.",
+      "reciprocal": false
+    },
+    {
+      "from": "deborah-turbeville",
+      "to": "richard-avedon",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 6,
+      "rationale_ru": "Материал «Дебора Турбевилль» называет предмет связанного материала 6 раз.",
+      "reciprocal": false
+    },
+    {
+      "from": "richard-avedon",
+      "to": "alexey-brodovitch",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 6,
+      "rationale_ru": "Материал «Ричард Аведон» называет предмет связанного материала 6 раз.",
+      "reciprocal": true
+    },
+    {
+      "from": "john-galliano",
+      "to": "bias-cut-madeleine-vionnet",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 6,
+      "rationale_ru": "Материал «Джон Гальяно» называет предмет связанного материала 6 раз.",
+      "reciprocal": false
+    },
+    {
+      "from": "frank-gehry",
+      "to": "louis-vuitton-istoriya-modnogo-doma",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 6,
+      "rationale_ru": "Материал «Фрэнк Гери» называет предмет связанного материала 6 раз.",
+      "reciprocal": false
+    },
+    {
+      "from": "herzog-de-meuron",
+      "to": "istoriya-modnogo-doma-prada",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 6,
+      "rationale_ru": "Материал «Херцог и де Мёрон» называет предмет связанного материала 6 раз.",
+      "reciprocal": false
+    },
+    {
+      "from": "nylon-industrial-material-to-luxury",
+      "to": "leather-tanning-luxury-production",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 5,
+      "rationale_ru": "Материал «Нейлон» называет предмет связанного материала 5 раз.",
+      "reciprocal": false
+    },
+    {
+      "from": "travertine-origin-properties-applications",
+      "to": "marble-origin-types-finishes-visual-language",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 5,
+      "rationale_ru": "Материал «Травертин» называет предмет связанного материала 5 раз.",
+      "reciprocal": false
+    },
+    {
+      "from": "yayoi-kusama",
+      "to": "louis-vuitton-istoriya-modnogo-doma",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 5,
+      "rationale_ru": "Материал «Яёи Кусама» называет предмет связанного материала 5 раз.",
+      "reciprocal": false
+    },
+    {
+      "from": "gabrielle-chanel",
+      "to": "tweed-chanel",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 5,
+      "rationale_ru": "Материал «Габриэль Шанель 🇫🇷» называет предмет связанного материала 5 раз.",
+      "reciprocal": true
+    },
+    {
+      "from": "karl-lagerfeld",
+      "to": "tweed-chanel",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 5,
+      "rationale_ru": "Материал «Карл Лагерфельд 🇩🇪 / 🇫🇷» называет предмет связанного материала 5 раз.",
+      "reciprocal": false
+    },
+    {
+      "from": "modern-corsetry",
+      "to": "leather-tanning-luxury-production",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 4,
+      "rationale_ru": "Материал «Корсетная конструкция» называет предмет связанного материала 4 раз.",
+      "reciprocal": false
+    },
+    {
+      "from": "peter-lindbergh",
+      "to": "istoriya-modnogo-doma-prada",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 4,
+      "rationale_ru": "Материал «Питер Линдберг» называет предмет связанного материала 4 раз.",
+      "reciprocal": false
+    },
+    {
+      "from": "richard-avedon",
+      "to": "istoriya-modnogo-doma-versace",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 4,
+      "rationale_ru": "Материал «Ричард Аведон» называет предмет связанного материала 4 раз.",
+      "reciprocal": false
+    },
+    {
+      "from": "sanaa",
+      "to": "toyo-ito",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 4,
+      "rationale_ru": "Материал «SANAA: Кадзуё Сэдзима и Рюэ Нисидзава» называет предмет связанного материала 4 раз.",
+      "reciprocal": false
+    },
+    {
+      "from": "tweed-chanel",
+      "to": "gabrielle-chanel",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 4,
+      "rationale_ru": "Материал «Твид» называет предмет связанного материала 4 раз.",
+      "reciprocal": true
+    },
+    {
+      "from": "istoriya-modnogo-doma-versace",
+      "to": "leather-tanning-luxury-production",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 4,
+      "rationale_ru": "Материал «История модного дома Versace 🇮🇹» называет предмет связанного материала 4 раз.",
+      "reciprocal": false
+    },
+    {
+      "from": "alexander-mcqueen",
+      "to": "istoriya-modnogo-doma-gucci",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 4,
+      "rationale_ru": "Материал «Александр Маккуин» называет предмет связанного материала 4 раз.",
+      "reciprocal": false
+    },
+    {
+      "from": "arata-isozaki",
+      "to": "kenzo-tange",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 4,
+      "rationale_ru": "Материал «Арата Исодзаки» называет предмет связанного материала 4 раз.",
+      "reciprocal": false
+    },
+    {
+      "from": "john-galliano",
+      "to": "christian-dior-istoriya-modnogo-doma",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 4,
+      "rationale_ru": "Материал «Джон Гальяно» называет предмет связанного материала 4 раз.",
+      "reciprocal": false
+    },
+    {
+      "from": "kisho-kurokawa",
+      "to": "kenzo-tange",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 4,
+      "rationale_ru": "Материал «Кисё Курокава» называет предмет связанного материала 4 раз.",
+      "reciprocal": true
+    },
+    {
+      "from": "christian-dior",
+      "to": "christian-dior-istoriya-modnogo-doma",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 4,
+      "rationale_ru": "Материал «Кристиан Диор 🇫🇷» называет предмет связанного материала 4 раз.",
+      "reciprocal": false
+    },
+    {
+      "from": "toyo-ito",
+      "to": "kiyonori-kikutake",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 4,
+      "rationale_ru": "Материал «Тойо Ито» называет предмет связанного материала 4 раз.",
+      "reciprocal": false
+    },
+    {
+      "from": "eduardo-souto-de-moura",
+      "to": "concrete-architectural-visual-material",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 4,
+      "rationale_ru": "Материал «Эдуарду Соуто де Моура» называет предмет связанного материала 4 раз.",
+      "reciprocal": false
+    },
+    {
+      "from": "alexey-brodovitch",
+      "to": "richard-avedon",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 3,
+      "rationale_ru": "Материал «Алексей Бродович» называет предмет связанного материала 3 раз.",
+      "reciprocal": true
+    },
+    {
+      "from": "concrete-architectural-visual-material",
+      "to": "glass-transparency-reflection-architecture-of-light",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 3,
+      "rationale_ru": "Материал «Бетон» называет предмет связанного материала 3 раз.",
+      "reciprocal": false
+    },
+    {
+      "from": "guy-bourdin",
+      "to": "helmut-newton",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 3,
+      "rationale_ru": "Материал «Ги Бурден» называет предмет связанного материала 3 раз.",
+      "reciprocal": true
+    },
+    {
+      "from": "marble-origin-types-finishes-visual-language",
+      "to": "glass-transparency-reflection-architecture-of-light",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 3,
+      "rationale_ru": "Материал «Мрамор» называет предмет связанного материала 3 раз.",
+      "reciprocal": false
+    },
+    {
+      "from": "nylon-industrial-material-to-luxury",
+      "to": "silk-properties-types-applications",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 3,
+      "rationale_ru": "Материал «Нейлон» называет предмет связанного материала 3 раз.",
+      "reciprocal": false
+    },
+    {
+      "from": "paolo-roversi",
+      "to": "christian-dior-istoriya-modnogo-doma",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 3,
+      "rationale_ru": "Материал «Паоло Роверси» называет предмет связанного материала 3 раз.",
+      "reciprocal": false
+    },
+    {
+      "from": "aldo-rossi",
+      "to": "richard-rogers",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 3,
+      "rationale_ru": "Материал «Альдо Росси» называет предмет связанного материала 3 раз.",
+      "reciprocal": false
+    },
+    {
+      "from": "zaha-hadid",
+      "to": "rem-koolhaas",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 3,
+      "rationale_ru": "Материал «Заха Хадид» называет предмет связанного материала 3 раз.",
+      "reciprocal": false
+    },
+    {
+      "from": "kak-religiya-povliyala-na-mir-mody",
+      "to": "silk-properties-types-applications",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 3,
+      "rationale_ru": "Материал «Как религия повлияла на мир моды» называет предмет связанного материала 3 раз.",
+      "reciprocal": false
+    },
+    {
+      "from": "kiyonori-kikutake",
+      "to": "kenzo-tange",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 3,
+      "rationale_ru": "Материал «Киёонори Кикутакэ» называет предмет связанного материала 3 раз.",
+      "reciprocal": true
+    },
+    {
+      "from": "christian-dior",
+      "to": "istoriya-modnogo-doma-saint-laurent",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 3,
+      "rationale_ru": "Материал «Кристиан Диор 🇫🇷» называет предмет связанного материала 3 раз.",
+      "reciprocal": false
+    },
+    {
+      "from": "mies-van-der-rohe",
+      "to": "glass-transparency-reflection-architecture-of-light",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 3,
+      "rationale_ru": "Материал «Людвиг Мис ван дер Роэ» называет предмет связанного материала 3 раз.",
+      "reciprocal": false
+    },
+    {
+      "from": "richard-rogers",
+      "to": "norman-foster",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 3,
+      "rationale_ru": "Материал «Ричард Роджерс» называет предмет связанного материала 3 раз.",
+      "reciprocal": true
+    },
+    {
+      "from": "richard-rogers",
+      "to": "renzo-piano",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 3,
+      "rationale_ru": "Материал «Ричард Роджерс» называет предмет связанного материала 3 раз.",
+      "reciprocal": false
+    },
+    {
+      "from": "francis-bacon",
+      "to": "glass-transparency-reflection-architecture-of-light",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 3,
+      "rationale_ru": "Материал «Фрэнсис Бэкон» называет предмет связанного материала 3 раз.",
+      "reciprocal": false
+    },
+    {
+      "from": "alexey-brodovitch",
+      "to": "irving-penn",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 2,
+      "rationale_ru": "Материал «Алексей Бродович» называет предмет связанного материала 2 раз.",
+      "reciprocal": true
+    },
+    {
+      "from": "deborah-turbeville",
+      "to": "helmut-newton",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 2,
+      "rationale_ru": "Материал «Дебора Турбевилль» называет предмет связанного материала 2 раз.",
+      "reciprocal": false
+    },
+    {
+      "from": "jean-michel-basquiat",
+      "to": "keith-haring",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 2,
+      "rationale_ru": "Материал «Жан-Мишель Баския» называет предмет связанного материала 2 раз.",
+      "reciprocal": true
+    },
+    {
+      "from": "yves-saint-laurent",
+      "to": "helmut-newton",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 2,
+      "rationale_ru": "Материал «Ив Сен-Лоран 🇩🇿 / 🇫🇷» называет предмет связанного материала 2 раз.",
+      "reciprocal": false
+    },
+    {
+      "from": "karl-lagerfeld",
+      "to": "gabrielle-chanel",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 2,
+      "rationale_ru": "Материал «Карл Лагерфельд 🇩🇪 / 🇫🇷» называет предмет связанного материала 2 раз.",
+      "reciprocal": false
+    },
+    {
+      "from": "oscar-niemeyer",
+      "to": "le-corbusier",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 2,
+      "rationale_ru": "Материал «Оскар Нимейер» называет предмет связанного материала 2 раз.",
+      "reciprocal": false
+    },
+    {
+      "from": "richard-meier",
+      "to": "le-corbusier",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 2,
+      "rationale_ru": "Материал «Ричард Мейер» называет предмет связанного материала 2 раз.",
+      "reciprocal": false
+    },
+    {
+      "from": "andy-warhol",
+      "to": "jean-michel-basquiat",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 2,
+      "rationale_ru": "Материал «Энди Уорхол» называет предмет связанного материала 2 раз.",
+      "reciprocal": true
+    },
+    {
+      "from": "deborah-turbeville",
+      "to": "guy-bourdin",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 1,
+      "rationale_ru": "Материал «Дебора Турбевилль» называет предмет связанного материала 1 раз.",
+      "reciprocal": false
+    },
+    {
+      "from": "fabien-baron",
+      "to": "andy-warhol",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 1,
+      "rationale_ru": "Материал «Фабьен Барон» называет предмет связанного материала 1 раз.",
+      "reciprocal": false
+    },
+    {
+      "from": "glass-transparency-reflection-architecture-of-light",
+      "to": "philip-johnson",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 1,
+      "rationale_ru": "Материал «Стекло» называет предмет связанного материала 1 раз.",
+      "reciprocal": false
+    },
+    {
+      "from": "helmut-newton",
+      "to": "guy-bourdin",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 1,
+      "rationale_ru": "Материал «Хельмут Ньютон» называет предмет связанного материала 1 раз.",
+      "reciprocal": true
+    },
+    {
+      "from": "irving-penn",
+      "to": "marcel-duchamp",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 1,
+      "rationale_ru": "Материал «Ирвинг Пенн» называет предмет связанного материала 1 раз.",
+      "reciprocal": false
+    },
+    {
+      "from": "irving-penn",
+      "to": "pablo-picasso",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 1,
+      "rationale_ru": "Материал «Ирвинг Пенн» называет предмет связанного материала 1 раз.",
+      "reciprocal": false
+    },
+    {
+      "from": "richard-avedon",
+      "to": "yves-saint-laurent",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 1,
+      "rationale_ru": "Материал «Ричард Аведон» называет предмет связанного материала 1 раз.",
+      "reciprocal": true
+    },
+    {
+      "from": "stainless-steel-architecture-object-design",
+      "to": "eero-saarinen",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 1,
+      "rationale_ru": "Материал «Нержавеющая сталь» называет предмет связанного материала 1 раз.",
+      "reciprocal": false
+    },
+    {
+      "from": "alexander-mcqueen",
+      "to": "john-galliano",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 1,
+      "rationale_ru": "Материал «Александр Маккуин» называет предмет связанного материала 1 раз.",
+      "reciprocal": false
+    },
+    {
+      "from": "bjarke-ingels",
+      "to": "rem-koolhaas",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 1,
+      "rationale_ru": "Материал «Бьярке Ингельс» называет предмет связанного материала 1 раз.",
+      "reciprocal": false
+    },
+    {
+      "from": "gabrielle-chanel",
+      "to": "pablo-picasso",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 1,
+      "rationale_ru": "Материал «Габриэль Шанель 🇫🇷» называет предмет связанного материала 1 раз.",
+      "reciprocal": false
+    },
+    {
+      "from": "jean-michel-basquiat",
+      "to": "philip-johnson",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 1,
+      "rationale_ru": "Материал «Жан-Мишель Баския» называет предмет связанного материала 1 раз.",
+      "reciprocal": false
+    },
+    {
+      "from": "yves-saint-laurent",
+      "to": "richard-avedon",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 1,
+      "rationale_ru": "Материал «Ив Сен-Лоран 🇩🇿 / 🇫🇷» называет предмет связанного материала 1 раз.",
+      "reciprocal": true
+    },
+    {
+      "from": "kak-religiya-povliyala-na-mir-mody",
+      "to": "alexander-mcqueen",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 1,
+      "rationale_ru": "Материал «Как религия повлияла на мир моды» называет предмет связанного материала 1 раз.",
+      "reciprocal": false
+    },
+    {
+      "from": "kisho-kurokawa",
+      "to": "kiyonori-kikutake",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 1,
+      "rationale_ru": "Материал «Кисё Курокава» называет предмет связанного материала 1 раз.",
+      "reciprocal": false
+    },
+    {
+      "from": "kisho-kurokawa",
+      "to": "fumihiko-maki",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 1,
+      "rationale_ru": "Материал «Кисё Курокава» называет предмет связанного материала 1 раз.",
+      "reciprocal": false
+    },
+    {
+      "from": "keith-haring",
+      "to": "jean-michel-basquiat",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 1,
+      "rationale_ru": "Материал «Кит Харинг» называет предмет связанного материала 1 раз.",
+      "reciprocal": true
+    },
+    {
+      "from": "keith-haring",
+      "to": "andy-warhol",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 1,
+      "rationale_ru": "Материал «Кит Харинг» называет предмет связанного материала 1 раз.",
+      "reciprocal": true
+    },
+    {
+      "from": "christian-dior",
+      "to": "pablo-picasso",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 1,
+      "rationale_ru": "Материал «Кристиан Диор 🇫🇷» называет предмет связанного материала 1 раз.",
+      "reciprocal": false
+    },
+    {
+      "from": "kengo-kuma",
+      "to": "kenzo-tange",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 1,
+      "rationale_ru": "Материал «Кэнго Кума» называет предмет связанного материала 1 раз.",
+      "reciprocal": false
+    },
+    {
+      "from": "kenzo-tange",
+      "to": "kisho-kurokawa",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 1,
+      "rationale_ru": "Материал «Кэндзо Тангэ» называет предмет связанного материала 1 раз.",
+      "reciprocal": true
+    },
+    {
+      "from": "kenzo-tange",
+      "to": "kiyonori-kikutake",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 1,
+      "rationale_ru": "Материал «Кэндзо Тангэ» называет предмет связанного материала 1 раз.",
+      "reciprocal": true
+    },
+    {
+      "from": "kenzo-tange",
+      "to": "le-corbusier",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 1,
+      "rationale_ru": "Материал «Кэндзо Тангэ» называет предмет связанного материала 1 раз.",
+      "reciprocal": false
+    },
+    {
+      "from": "kenzo-tange",
+      "to": "fumihiko-maki",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 1,
+      "rationale_ru": "Материал «Кэндзо Тангэ» называет предмет связанного материала 1 раз.",
+      "reciprocal": false
+    },
+    {
+      "from": "le-corbusier",
+      "to": "mies-van-der-rohe",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 1,
+      "rationale_ru": "Материал «Ле Корбюзье» называет предмет связанного материала 1 раз.",
+      "reciprocal": false
+    },
+    {
+      "from": "lina-bo-bardi",
+      "to": "charles-correa",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 1,
+      "rationale_ru": "Материал «Лина Бо Барди» называет предмет связанного материала 1 раз.",
+      "reciprocal": false
+    },
+    {
+      "from": "luis-barragan",
+      "to": "le-corbusier",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 1,
+      "rationale_ru": "Материал «Луис Барраган» называет предмет связанного материала 1 раз.",
+      "reciprocal": false
+    },
+    {
+      "from": "norman-foster",
+      "to": "richard-rogers",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 1,
+      "rationale_ru": "Материал «Норман Фостер» называет предмет связанного материала 1 раз.",
+      "reciprocal": true
+    },
+    {
+      "from": "francis-bacon",
+      "to": "pablo-picasso",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 1,
+      "rationale_ru": "Материал «Фрэнсис Бэкон» называет предмет связанного материала 1 раз.",
+      "reciprocal": false
+    },
+    {
+      "from": "andy-warhol",
+      "to": "keith-haring",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 1,
+      "rationale_ru": "Материал «Энди Уорхол» называет предмет связанного материала 1 раз.",
+      "reciprocal": true
+    }
+  ]
+}

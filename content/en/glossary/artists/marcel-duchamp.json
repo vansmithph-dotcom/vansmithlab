@@ -1,31 +1,33 @@
 {
-  "content_id": "cnt_fa2e3e03dc5947f5",
-  "primary_object_id": "obj_c2da9fc0f7b74e61",
+  "content_id": "cnt_a4df76c31fe539c3",
+  "primary_object_id": "obj_e0433becc89e1856",
   "content_type": "artist_profile",
-  "state": "published",
+  "state": "drafted",
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "partially_verified",
-  "confidence_score": 0.85,
+  "confidence_score": 0.9,
   "claim_ids": [
-    "clm_01164a7251ed40cd",
-    "clm_a0730be0753f4034",
-    "clm_3682c92eb3d5410e",
-    "clm_fb94ec77baf04eaa",
-    "clm_1207f0684e924bc2"
+    "clm_ca559bd2522ef683",
+    "clm_c8bd6ffdddc17a9c",
+    "clm_b1e72a9774b847df",
+    "clm_3ba4637578b987b9"
   ],
-  "source_ids": [
-    "src_a332a6ee9df44468",
-    "src_b9cd27607f0f4cf7",
-    "src_f8bf20b50f2a4b2d"
-  ],
-  "last_reviewed": "2026-08-08",
+  "source_ids": [],
+  "last_reviewed": "2026-08-09",
   "author": "VANSMITHLAB",
   "locale": "en",
   "slug": "marcel-duchamp",
   "title": "Marcel Duchamp",
-  "summary": "Выбор, случай и переопределение произведения искусства",
-  "body_hash": "3f25b2ced555664498346892954e4924fe2573078de75be9b17b758a3e73a9cc",
+  "summary": "Choice, chance and the redefinition of the work of art",
+  "discipline": [
+    "art"
+  ],
+  "kind": "person",
+  "role": [
+    "artist"
+  ],
+  "body_hash": "f640e7c51472656e2fd171b360253440a7d5f5950f6edcc76e95fc9faf362d76",
   "hero_image": {
     "src": "/images/glossary/artists/marcel-duchamp-hero-v2.webp",
     "alt": "Editorial illustration: Marcel Duchamp",

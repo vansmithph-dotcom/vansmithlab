@@ -2,21 +2,88 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "title": "VANSMITHLAB portable knowledge object",
   "type": "object",
-  "required": ["id", "type", "canonical_locale", "lifecycle_state", "revision", "title_ru", "slug_ru", "summary_ru", "verification_state", "confidence_score", "claims", "sources", "citations", "workflow"],
+  "required": [
+    "id",
+    "type",
+    "canonical_locale",
+    "lifecycle_state",
+    "revision",
+    "title_ru",
+    "slug_ru",
+    "summary_ru",
+    "verification_state",
+    "confidence_score",
+    "claims",
+    "sources",
+    "citations",
+    "workflow"
+  ],
   "properties": {
-    "id": { "type": "string" },
-    "type": { "type": "string" },
-    "canonical_locale": { "const": "ru" },
-    "lifecycle_state": { "enum": ["evidence_ready", "published", "monitoring", "blocked", "needs_user_input"] },
-    "revision": { "type": "integer", "minimum": 1 },
-    "title_ru": { "type": "string" },
-    "slug_ru": { "type": "string" },
-    "summary_ru": { "type": "string" },
-    "verification_state": { "enum": ["multi_source_verified", "verified", "partially_verified", "unverified", "retracted"] },
-    "confidence_score": { "type": "number", "minimum": 0, "maximum": 1 },
-    "claims": { "type": "array" },
-    "sources": { "type": "array" },
-    "citations": { "type": "array" },
-    "workflow": { "type": "object" }
+    "id": {
+      "type": "string"
+    },
+    "type": {
+      "type": "string"
+    },
+    "canonical_locale": {
+      "const": "ru"
+    },
+    "lifecycle_state": {
+      "enum": [
+        "idea",
+        "briefed",
+        "researching",
+        "evidence_ready",
+        "drafted",
+        "edited",
+        "validated",
+        "published",
+        "monitoring",
+        "auto_revise",
+        "blocked",
+        "needs_user_input",
+        "retracted",
+        "archived"
+      ]
+    },
+    "revision": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "title_ru": {
+      "type": "string"
+    },
+    "slug_ru": {
+      "type": "string"
+    },
+    "summary_ru": {
+      "type": "string"
+    },
+    "verification_state": {
+      "enum": [
+        "multi_source_verified",
+        "verified",
+        "partially_verified",
+        "unverified",
+        "retracted"
+      ]
+    },
+    "confidence_score": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "claims": {
+      "type": "array"
+    },
+    "sources": {
+      "type": "array"
+    },
+    "citations": {
+      "type": "array"
+    },
+    "workflow": {
+      "type": "object"
+    }
   }
 }

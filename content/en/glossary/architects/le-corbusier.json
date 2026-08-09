@@ -1,0 +1,52 @@
+{
+  "content_id": "cnt_7ce7ec7b5fb3bc8b",
+  "primary_object_id": "obj_97f134789d91ff49",
+  "content_type": "architect_profile",
+  "state": "drafted",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.93,
+  "claim_ids": [
+    "clm_4610e348628534bf",
+    "clm_29ed7be2d81b72b2",
+    "clm_046d05470b711713",
+    "clm_1cde79c43355c30a",
+    "clm_486bf54290c2617f",
+    "clm_251ed69112cfa93d"
+  ],
+  "source_ids": [],
+  "last_reviewed": "2026-08-09",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "le-corbusier",
+  "title": "Le Corbusier",
+  "summary": "A machine for living, the city as a system and the architecture of a new age",
+  "discipline": [
+    "architecture",
+    "art"
+  ],
+  "kind": "person",
+  "role": [
+    "architect",
+    "artist"
+  ],
+  "body_hash": "5cc7d96d51f4ce1e17b62b16b0df823fce39b090738d5d5bee7bcac80c41f816",
+  "categories": [
+    "architects",
+    "artists"
+  ],
+  "hero_image": {
+    "src": "/images/glossary/designers/le-corbusier-hero-v2.webp",
+    "alt": "Editorial illustration: Le Corbusier",
+    "caption": "Editorial illustration: Le Corbusier. Modernism, the Modulor, Villa Savoye.",
+    "credit": "VANSMITHLAB · AI illustration, 2026",
+    "origin": "ai_illustration"
+  },
+  "translation": {
+    "source_locale": "ru",
+    "source_revision": 1,
+    "semantic_validated": true,
+    "review_run_id": ""
+  }
+}

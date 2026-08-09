@@ -1,31 +1,38 @@
 {
-  "content_id": "cnt_f3684208b1724521",
-  "primary_object_id": "obj_127880c8bde2426c",
+  "content_id": "cnt_9c620fe8c8f16b5c",
+  "primary_object_id": "obj_4efa6ea1ed76d087",
   "content_type": "designer_profile",
-  "state": "published",
+  "state": "drafted",
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "partially_verified",
-  "confidence_score": 0.85,
+  "confidence_score": 0.94,
   "claim_ids": [
-    "clm_3840afa4760e4ef0",
-    "clm_ec60e5c800f44db5",
-    "clm_7be6b547754d45e7",
-    "clm_62a09f77446f4886",
-    "clm_f94ac771c4274d37"
+    "clm_4c1b0d666f25428f",
+    "clm_543b8c8af7b0fe43",
+    "clm_c1bd419416e00801",
+    "clm_8e03bd0c08f219c7",
+    "clm_8b50c9d8ba1afb23",
+    "clm_203fa0c53e78dc08",
+    "clm_a57407ec5ba55b7b",
+    "clm_8bbb1c127baa4f0e",
+    "clm_4f02de2f3d7318d4"
   ],
-  "source_ids": [
-    "src_fb85dbe674f14bc4",
-    "src_b980d75b789a49a8",
-    "src_248f8c06fee64581"
-  ],
-  "last_reviewed": "2026-08-08",
+  "source_ids": [],
+  "last_reviewed": "2026-08-09",
   "author": "VANSMITHLAB",
   "locale": "en",
   "slug": "miuccia-prada",
   "title": "Miuccia Prada",
-  "summary": "Редакционный голос: VANSMITHLAB",
-  "body_hash": "46edb0d016ba39a7a175e2cb88af9587562d7e338436635d7cae25974b5c1f3e",
+  "summary": "Intellectual fashion and the aesthetic of contradiction: how nylon, the uniform, 'wrong' beauty, architecture and contemporary art changed the language of luxury",
+  "discipline": [
+    "fashion"
+  ],
+  "kind": "person",
+  "role": [
+    "fashion-designer"
+  ],
+  "body_hash": "0c66cf6b5534c53dd542a79ef1602f6fcbc48a9b9414f3a8e5978352d48ba0d6",
   "hero_image": {
     "src": "/images\\glossary\\designers\\miuccia-prada-timeline-hero-v1.svg",
     "alt": "Illustration: Интеллектуальная мода и эстетика противоречия: как нейлон, униформа, «неправильная» красота, архитектура и современное искусство изменили язык роскоши",

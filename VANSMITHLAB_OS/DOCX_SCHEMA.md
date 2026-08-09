@@ -1,4 +1,4 @@
-# VANSMITHLAB — Docx Authoring Schema v1.0
+# VANSMITHLAB — Docx Authoring Schema v1.2
 
 Use this schema to write articles as `.docx` files that the converter reads directly.
 Write one paragraph per line in Word. Tags go on their own line, in square brackets.
@@ -12,16 +12,19 @@ RU and EN are two separate `.docx` files with synchronised `[SECTION]` IDs.
 
 ```
 [ARTICLE_META]
-slug: your-sluglanguage: rucategory: your-categoryauthor: Ivan Melnikstatus: mastersource_revision: 1layout_schema: v1paired_document_id: VSL-XX-001
+slug: your-slug|language: ru|discipline: architecture|kind: person|role: architect|category: architects|author: VANSMITHLAB|status: master|source_revision: 1|layout_schema: v1|paired_document_id: VSL-XX-001
 [/ARTICLE_META]
 ```
 
 **META line rules:**
-- All fields on ONE line, no spaces after colons in keys, no line breaks.
+- All fields on ONE line, no line breaks. Pairs are separated by `|`, key and value by `: `.
 - `slug:` — URL-safe, lowercase, hyphens only. Example: `paolo-roversi`. Same slug for RU and EN.
-- `language:` — `ru` or `en`. No space before value.
-- `category:` — one of: `fashion-houses`, `designers`, `artists`, `photographers-art-directors`, `analysis`, `encyclopedia`.
-- `author:` — full name. After the colon, space then name.
+- `language:` — `ru` or `en`.
+- `discipline:` — one or more terms, comma-separated, from `TAXONOMY.md`: `architecture`, `fashion`, `art`, `photography`, `graphic-design`, `product-design`, `interior-design`, `media-publishing`.
+- `kind:` — exactly one: `person`, `organization`, `material-technique`, `work`, `movement-style`, `place`, `event-exhibition`, `term`, `theme`.
+- `role:` — one or more, comma-separated, **only when `kind: person`**: `architect`, `artist`, `fashion-designer`, `photographer`, `art-director`, `graphic-designer`, `fashion-editor`, `stylist`, `curator`, `industrial-designer`, `interior-designer`, `illustrator`, `critic-theorist`. The first role determines the route.
+- `category:` — derived by the converter from `kind` and the first `role`. Do not author it by hand.
+- `author:` — `VANSMITHLAB`.
 - `status:` — `master` (original) or `translation` (adapted from master).
 - `source_revision:` — integer, starts at `1`. Increment when the master changes.
 - `layout_schema:` — always `v1`.
@@ -45,6 +48,23 @@ Editorial quote — 1 to 3 sentences capturing the subject's significance. No qu
 
 ---
 
+## 2a. TOC (required)
+
+```
+[TOC]
+1. Getaria: the port, the mother's craft and an early vision of fabric
+2. San Sebastián: training in the city of European fashion
+[/TOC]
+```
+
+- Placed immediately after `[/HERO]`.
+- One line per numbered section, in order, with the same wording as the section heading.
+- Each entry is an internal Word hyperlink to the matching `sec-N` bookmark.
+- Appendix headings (`A. Хронология`, `B. Глоссарий`…) do **not** appear in the TOC.
+- The number of entries must equal the number of `sec-N` sections.
+
+---
+
 ## 3. SECTION (repeatable, 30+ sections per article)
 
 ```
@@ -61,13 +81,14 @@ Third paragraph with [^claim_id] references to sources.
 **ID rules:**
 - Lowercase, hyphens, no spaces. Must be unique within the file.
 - RU and EN share identical IDs for the same content.
-- Standard IDs:
+- Standard IDs, in this order:
   - `editorial-thesis` — always first
   - `reader-question` — always second
   - `short-answer` — always third
-  - `1`, `2`, `3`... — numbered content sections
-  - `1-topic-name` — numbered with descriptive suffix (optional)
-  - `sources` — reserved for source appendix
+  - `sec-1`, `sec-2`, `sec-3`… — numbered content sections, sequential with no gaps
+  - `sources` — reserved for the source appendix
+- Bare numeric IDs (`1`, `2`) and descriptive suffixes (`1-topic-name`) were used by earlier generations and are no longer valid. `scripts/validate-structure.py` rejects them.
+- Each `sec-N` heading paragraph carries a Word bookmark of the same name, and each `[TOC]` entry links to it. The converter and the audit both rely on this.
 
 **Body rules:**
 - Plain text paragraphs. No Word formatting tricks.
@@ -115,6 +136,7 @@ Paolo Roversi exhibition catalogue. Paris Musées. https://www.palaisgalliera.pa
 ```
 
 **Rules:**
+- **Every `[SOURCE]` MUST contain a full `https://` URL and an `Accessed YYYY-MM-DD` date.** A publisher name without a link is not a source: it cannot be checked, cannot be cited and cannot enter the source registry. `scripts/validate-sources.py` blocks any article written after 2026-08-09 that breaks this rule.
 - ID format: `S01`, `S02`, `S03`... (capital S, two-digit number).
 - Source line format: `Title. Publisher. URL Accessed YYYY-MM-DD.`
 - Title and publisher are separated by a period and space.
@@ -136,7 +158,41 @@ D. Media Plan
 
 ---
 
-## 7. SEO (optional)
+## 6a. CALLOUT (optional, inside or between sections)
+
+```
+[CALLOUT type="critical-context"]
+Критический контекст
+Кроп создаёт новый смысл, но также демонстрирует редакционную власть над авторским изображением.
+[/CALLOUT]
+```
+
+- `type:` — `critical-context`, `interpretation` or `dispute`.
+- A `analysis` document must carry at least one `interpretation` callout: this is what separates an attributed argument from a neutral article, per `06_CONTENT_MODEL.md`.
+
+---
+
+## 6b. TIMELINE, GLOSSARY, FACT_LEDGER (optional appendices)
+
+```
+[TIMELINE id="timeline"]
+A. Хронология
+[/TIMELINE]
+
+[GLOSSARY id="glossary"]
+B. Глоссарий
+[/GLOSSARY]
+
+[FACT_LEDGER id="claim-ledger"]
+C. Факт-реестр
+[/FACT_LEDGER]
+```
+
+These three blocks exist in the corpus but are empty everywhere they appear. They are the intended feed for the site's Timeline and Glossary sections; their contents are specified in `proposals/P-001_KNOWLEDGE_GRAPH_CONNECTIONS.md` and not yet ratified. Do not invent an internal format for them — leave them out until P-001 is approved.
+
+---
+
+## 7. SEO (required)
 
 ```
 [SEO id="seo"]
@@ -148,7 +204,7 @@ keywords: Paolo Roversi, fashion photography, Polaroid, large format, Comme des 
 
 ---
 
-## 8. RELEASE_CHECKLIST (optional)
+## 8. RELEASE_CHECKLIST (required)
 
 ```
 [RELEASE_CHECKLIST id="release-checklist"]
@@ -166,7 +222,7 @@ keywords: Paolo Roversi, fashion photography, Polaroid, large format, Comme des 
 
 ```
 [ARTICLE_META]
-slug: elsa-schiaparellilanguage: rucategory: designersauthor: Ivan Melnikstatus: mastersource_revision: 1layout_schema: v1paired_document_id: VSL-DS-001
+slug: elsa-schiaparelli|language: ru|discipline: fashion, art|kind: person|role: fashion-designer|category: designers|author: VANSMITHLAB|status: master|source_revision: 1|layout_schema: v1|paired_document_id: VSL-DS-001
 [/ARTICLE_META]
 [HERO]
 Elsa Schiaparelli
@@ -240,4 +296,8 @@ keywords: Elsa Schiaparelli, Surrealism, fashion, Dali, lobster dress
 
 ---
 
-Version: 1.0 / 2026-08-08
+Version: 1.2 / 2026-08-09
+
+Changes in 1.2: `category`/`categories` replaced by the three-axis model in `TAXONOMY.md` v2 — `discipline`, `kind`, `role`; `category` is now derived, not authored. Every `[SOURCE]` must carry a URL and an access date.
+
+Changes in 1.1: `category:` now draws on the controlled vocabulary in `TAXONOMY.md` (eight terms; `designers`, `encyclopedia`, `photographers-art-directors` and `analysis` retired). New multi-value field `categories:`. META line delimiter documented as `|`. `author:` fixed to `VANSMITHLAB`.

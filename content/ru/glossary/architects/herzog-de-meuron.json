@@ -1,0 +1,44 @@
+{
+  "content_id": "cnt_453329afb9c84e8e",
+  "primary_object_id": "obj_95e49519a0202eb2",
+  "content_type": "architect_profile",
+  "state": "drafted",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.9,
+  "claim_ids": [
+    "clm_fb24dcf72a1a3297",
+    "clm_e7a2f24c7a6f484f",
+    "clm_939e6a2dda6784f5",
+    "clm_5f9886d03952848c",
+    "clm_a46713342d7dcb98",
+    "clm_bdb6e9f3a0bf378b"
+  ],
+  "source_ids": [],
+  "last_reviewed": "2026-08-09",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "herzog-de-meuron",
+  "title": "Херцог и де Мёрон",
+  "summary": "Материал, оболочка, преобразование и архитектура изменяемой идентичности",
+  "discipline": [
+    "architecture"
+  ],
+  "kind": "person",
+  "role": [
+    "architect"
+  ],
+  "body_hash": "6d49d86d885daa290082adafd031b75d728f62b3bce65acb353c4c71f1941c49",
+  "categories": [
+    "architects",
+    "materials-techniques"
+  ],
+  "hero_image": {
+    "src": "/images/glossary/designers/herzog-de-meuron-hero-v2.webp",
+    "alt": "Editorial illustration: Херцог и де Мёрон",
+    "caption": "Editorial illustration: Херцог и де Мёрон. Tate Modern, Bird's Nest, материя как субъект.",
+    "credit": "VANSMITHLAB · AI illustration, 2026",
+    "origin": "ai_illustration"
+  }
+}

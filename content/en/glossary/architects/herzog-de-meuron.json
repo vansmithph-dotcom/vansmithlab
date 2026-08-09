@@ -1,0 +1,50 @@
+{
+  "content_id": "cnt_453329afb9c84e8e",
+  "primary_object_id": "obj_95e49519a0202eb2",
+  "content_type": "architect_profile",
+  "state": "drafted",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.9,
+  "claim_ids": [
+    "clm_fb24dcf72a1a3297",
+    "clm_e7a2f24c7a6f484f",
+    "clm_939e6a2dda6784f5",
+    "clm_5f9886d03952848c",
+    "clm_a46713342d7dcb98",
+    "clm_bdb6e9f3a0bf378b"
+  ],
+  "source_ids": [],
+  "last_reviewed": "2026-08-09",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "herzog-de-meuron",
+  "title": "Herzog & de Meuron",
+  "summary": "Material, envelope, transformation, and the architecture of mutable identity",
+  "discipline": [
+    "architecture"
+  ],
+  "kind": "person",
+  "role": [
+    "architect"
+  ],
+  "body_hash": "dd8342a1815958c77d84edbbab9f94821894cacffdf5f6351c9e790be449e8c6",
+  "categories": [
+    "architects",
+    "materials-techniques"
+  ],
+  "hero_image": {
+    "src": "/images/glossary/designers/herzog-de-meuron-hero-v2.webp",
+    "alt": "Editorial illustration: Herzog & de Meuron",
+    "caption": "Editorial illustration: Herzog & de Meuron. Tate Modern, the Bird's Nest, material as subject.",
+    "credit": "VANSMITHLAB · AI illustration, 2026",
+    "origin": "ai_illustration"
+  },
+  "translation": {
+    "source_locale": "ru",
+    "source_revision": 1,
+    "semantic_validated": true,
+    "review_run_id": ""
+  }
+}
