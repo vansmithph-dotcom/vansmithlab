@@ -6,7 +6,7 @@
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "unverified",
-  "confidence_score": 0.0,
+  "confidence_score": 0,
   "claim_ids": [],
   "source_ids": [
     "src_2437826afb8af9cc",
@@ -35,5 +35,12 @@
   "categories": [
     "art-direction-graphic-design",
     "photographers"
-  ]
+  ],
+  "hero_image": {
+    "src": "/images/glossary/alexey-brodovitch.png",
+    "alt": "Original editorial portrait of Alexey Brodovitch beside experimental magazine typography",
+    "caption": "Original editorial illustration by VANSMITHLAB",
+    "credit": "VANSMITHLAB · AI illustration",
+    "origin": "ai_illustration"
+  }
 }
