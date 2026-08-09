@@ -6,7 +6,7 @@
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "unverified",
-  "confidence_score": 0.0,
+  "confidence_score": 0,
   "claim_ids": [],
   "source_ids": [
     "src_e33a8c56e04a9167",
@@ -33,5 +33,12 @@
   ],
   "kind": "material-technique",
   "role": [],
-  "body_hash": "d051597273b7cc1131474bfb3eeaecf5d324296ff8e1e17d7d75bd5086981839"
+  "body_hash": "d051597273b7cc1131474bfb3eeaecf5d324296ff8e1e17d7d75bd5086981839",
+  "hero_image": {
+    "src": "/images/encyclopedia/couture-embroidery-luneville.png",
+    "alt": "Редакционная визуализация кутюрной вышивки люневильским крючком",
+    "caption": "Авторская редакционная иллюстрация VANSMITHLAB",
+    "credit": "VANSMITHLAB · AI illustration",
+    "origin": "ai_illustration"
+  }
 }

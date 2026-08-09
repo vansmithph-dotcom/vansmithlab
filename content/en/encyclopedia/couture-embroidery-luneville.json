@@ -6,7 +6,7 @@
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "unverified",
-  "confidence_score": 0.0,
+  "confidence_score": 0,
   "claim_ids": [],
   "source_ids": [
     "src_e33a8c56e04a9167",
@@ -33,5 +33,12 @@
   ],
   "kind": "material-technique",
   "role": [],
-  "body_hash": "cb4dd98bbfcddf07acf9c7a79fe9411d22f49a633779ef0e92dee3d032c7451e"
+  "body_hash": "cb4dd98bbfcddf07acf9c7a79fe9411d22f49a633779ef0e92dee3d032c7451e",
+  "hero_image": {
+    "src": "/images/encyclopedia/couture-embroidery-luneville.png",
+    "alt": "Editorial visualization of couture embroidery with a Luneville hook",
+    "caption": "Original editorial illustration by VANSMITHLAB",
+    "credit": "VANSMITHLAB · AI illustration",
+    "origin": "ai_illustration"
+  }
 }
