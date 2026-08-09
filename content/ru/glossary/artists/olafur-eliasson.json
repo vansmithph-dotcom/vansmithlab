@@ -6,7 +6,7 @@
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "unverified",
-  "confidence_score": 0.0,
+  "confidence_score": 0,
   "claim_ids": [],
   "source_ids": [],
   "last_reviewed": "2026-08-09",
@@ -24,5 +24,12 @@
     "artist",
     "architect"
   ],
-  "body_hash": "ed5bd8455a6b992b02d3fd5d60845402cd0b9781e0ab43ceddf951b46f98dfeb"
+  "body_hash": "ed5bd8455a6b992b02d3fd5d60845402cd0b9781e0ab43ceddf951b46f98dfeb",
+  "hero_image": {
+    "src": "/images/glossary/olafur-eliasson.png",
+    "alt": "Авторский редакционный портрет Олафура Элиассона среди света, тумана и отражающих геометрических форм",
+    "caption": "Авторская редакционная иллюстрация VANSMITHLAB",
+    "credit": "VANSMITHLAB · AI illustration",
+    "origin": "ai_illustration"
+  }
 }
