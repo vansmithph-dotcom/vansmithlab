@@ -6,7 +6,7 @@
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "unverified",
-  "confidence_score": 0.0,
+  "confidence_score": 0,
   "claim_ids": [],
   "source_ids": [
     "src_6a885084298a9782",
@@ -38,5 +38,12 @@
   ],
   "kind": "material-technique",
   "role": [],
-  "body_hash": "e27151c508cdf041f23949d9f822cc650da26c8e691553921dfaf65ab7286585"
+  "body_hash": "e27151c508cdf041f23949d9f822cc650da26c8e691553921dfaf65ab7286585",
+  "hero_image": {
+    "src": "/images/encyclopedia/travertine-origin-properties-applications.png",
+    "alt": "Редакционная визуализация травертина с пористой поверхностью, слоями осадка и архитектурным фрагментом",
+    "caption": "Авторская редакционная иллюстрация VANSMITHLAB",
+    "credit": "VANSMITHLAB · AI illustration",
+    "origin": "ai_illustration"
+  }
 }

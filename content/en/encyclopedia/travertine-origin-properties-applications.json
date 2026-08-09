@@ -6,7 +6,7 @@
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "unverified",
-  "confidence_score": 0.0,
+  "confidence_score": 0,
   "claim_ids": [],
   "source_ids": [
     "src_6a885084298a9782",
@@ -38,5 +38,12 @@
   ],
   "kind": "material-technique",
   "role": [],
-  "body_hash": "bd5aead259c3c46953545d76680204645e7417f0d68dba55901dd258aab9bab1"
+  "body_hash": "bd5aead259c3c46953545d76680204645e7417f0d68dba55901dd258aab9bab1",
+  "hero_image": {
+    "src": "/images/encyclopedia/travertine-origin-properties-applications.png",
+    "alt": "Editorial visualization of travertine with porous surface, sediment layers and an architectural fragment",
+    "caption": "Original editorial illustration by VANSMITHLAB",
+    "credit": "VANSMITHLAB · AI illustration",
+    "origin": "ai_illustration"
+  }
 }
