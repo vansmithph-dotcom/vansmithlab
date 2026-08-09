@@ -158,6 +158,24 @@ def parse_source(line):
     return head, "", url, acc
 
 
+def parse_source_block(lines):
+    """Parse a source entry written as key/value paragraphs.
+
+    Newer DOCX files store Title, URL, Publisher and Accessed on separate
+    paragraphs, while older files keep the whole citation on one line. Keep
+    both formats accepted by the converter.
+    """
+    fields = {}
+    for raw in lines:
+        if ":" not in raw:
+            continue
+        key, value = raw.split(":", 1)
+        fields[key.strip().lower()] = value.strip()
+    if fields.get("url"):
+        return fields.get("title", ""), fields.get("publisher", ""), fields["url"].rstrip(".,"), fields.get("accessed", "")
+    return parse_source(lines[0] if lines else "")
+
+
 def sid(url):
     return "src_" + hashlib.sha1(url.encode("utf-8")).hexdigest()[:16]
 
@@ -212,11 +230,14 @@ def convert(path, registry, report):
     src_ids, uncheckable, total_sources = [], 0, 0
     if so is not None:
         blk = t[so:sc]
-        for k, s in enumerate(blk):
+        k = 0
+        while k < len(blk):
+            s = blk[k]
             if s.startswith("[SOURCE id=") and k + 1 < len(blk):
                 total_sources += 1
-                line = blk[k + 1]
-                title_s, pub, url, acc = parse_source(line)
+                end = next((j for j in range(k + 1, len(blk)) if blk[j] == "[/SOURCE]"), k + 2)
+                entry = blk[k + 1:end]
+                title_s, pub, url, acc = parse_source_block(entry)
                 if not url:
                     # A printed citation carries its imprint instead of a link and
                     # is perfectly checkable; only an unfinished entry blocks release.
@@ -230,6 +251,9 @@ def convert(path, registry, report):
                                    "accessed_at": acc or TODAY}
                 if i not in src_ids:
                     src_ids.append(i)
+                k = end
+                continue
+            k += 1
     report["unlinked_sources"] += uncheckable
 
     # The release gate is evidence, per 06_CONTENT_MODEL.md: a page becomes

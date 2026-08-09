@@ -2,9 +2,9 @@
   "content_id": "cnt_d85e53af4909c95d",
   "primary_object_id": "obj_7ca52ccdb05f5775",
   "content_type": "research",
-  "state": "drafted",
+  "state": "published",
   "source_locale": "ru",
-  "source_revision": 1,
+  "source_revision": 2,
   "verification_state": "partially_verified",
   "confidence_score": 0.97,
   "claim_ids": [
@@ -47,7 +47,15 @@
     "clm_1fb4767eb8a619fa",
     "clm_6c33d4fc19d73a2b"
   ],
-  "source_ids": [],
+  "source_ids": [
+    "src_cb144021b25248bb",
+    "src_39f3b3ce879fc0ae",
+    "src_b4b8fb87c4da1476",
+    "src_1ec92e5a4c892aea",
+    "src_44732ae66c092d17",
+    "src_b7d13b63cecfd5ac",
+    "src_8774d8aa06e1591f"
+  ],
   "last_reviewed": "2026-08-09",
   "author": "VANSMITHLAB",
   "locale": "en",
@@ -59,7 +67,7 @@
   ],
   "kind": "organization",
   "role": [],
-  "body_hash": "a79161a42a2bfb8a62a71a1fa64ad2052f38251b8831bcf1ee6a77932fa789c5",
+  "body_hash": "0debdfdfac9f7393df41c85c6145e2fbbe50b7be4df62a5320c2f96f4cbb8c6b",
   "hero_image": {
     "src": "/images/articles/istoriya-modnogo-doma-balenciaga-hero-v1.webp",
     "alt": "Illustration: The History of the Balenciaga Fashion House",

@@ -34,7 +34,7 @@ Every image passes the rights gate: author, date, rights holder, licence or perm
 
 ## Short answer
 
-Cristóbal Balenciaga opened his own couture business in San Sebastián in 1917 and the Parisian house at Avenue George V in 1937. He reshaped the female silhouette through volume, shifted waistlines, a liberated back, the sack dress, the baby-doll and sculptural constructions in gazar. In 1968 the master closed the houses and left fashion. The label was relaunched in 1986, regained influence under Nicolas Ghesquière, joined Kering in 2001 and became a global phenomenon under Demna, who brought couture back in 2021. Since July 2025 the creative direction has been led by Pierpaolo Piccioli, with Gianfranco Gianangeli as CEO. In the first half of 2026 Kering reported that Balenciaga was going through a difficult creative transition, while leather goods remained a strong category.
+Cristóbal Balenciaga opened his own couture business in San Sebastián in 1917 and the Parisian house at Avenue George V in 1937. He reshaped the female silhouette through volume, shifted waistlines, a liberated back, the sack dress, the baby-doll and sculptural constructions in gazar. In 1968 the master closed the houses and left fashion. The label was relaunched in 1986, regained influence under Nicolas Ghesquière, joined Kering in 2001 and became a global phenomenon under Demna, who brought couture back in 2021. Since July 2025 the creative direction has been led by Pierpaolo Piccioli; the House's CEO since January 2025 is Gianfranco Gianangeli. In the first half of 2026 Kering reported that Balenciaga was going through a difficult creative transition, while leather goods remained a strong category.
 
 ## 1. Getaria: the port, the mother's craft and an early vision of fabric
 
@@ -106,7 +106,7 @@ The history of gazar shows that innovation in fashion rarely belongs to a single
 
 Balenciaga dressed Mona von Bismarck, Gloria Guinness, Ava Gardner, Pauline de Rothschild and other influential clients. His couture rested on individual fittings and the ability to adapt an experimental form to a particular body. Even radical volumes had to allow the wearer to sit, move and enter a room.
 
-In photographs the late dresses look almost seamless, yet the V&A reveals the complexity of their construction: whole panels, the absence of side seams, hidden fastenings and the precise joining of parts. The minimalism of the surface was the result of a great deal of handwork, not of its absence.
+In photographs the late dresses look almost seamless, yet museum analysis of the construction reveals its complexity: whole panels, the absence of side seams, hidden fastenings and the precise joining of parts. The minimalism of the surface was the result of a great deal of handwork, not of its absence.
 
 ## 13. The 1960s: minimalism, abstraction and the envelope dress
 
@@ -176,7 +176,7 @@ Collaborations with popular culture and gaming platforms expanded the audience b
 
 ## 24. 2021: the return of haute couture
 
-On 7 July 2021 Balenciaga presented its 50th couture collection — the first since 1967. The return took place in the historical space of Avenue George V and became a way of connecting the modern label with the founder's atelier. In the collection couture techniques were applied not only to evening dresses but also to T-shirts, jeans, coats and everyday typologies.
+On 7 July 2021 Balenciaga presented its 50th couture collection — its first since the house closed in 1968, 53 years earlier. The return took place in the historical space of Avenue George V and became a way of connecting the modern label with the founder's atelier. In the collection couture techniques were applied not only to evening dresses but also to T-shirts, jeans, coats and everyday typologies.
 
 The gesture did not literally restore the institution of 1937. The modern couture existed inside a global Kering brand and performed several functions at once: it preserved the craft, created unique client pieces, strengthened the prestige of mass categories and allowed Demna to prove that his streetwear language could sustain the highest level of execution.
 
@@ -190,7 +190,7 @@ In March 2023 the first show after the crisis was deliberately focused on the co
 
 ## 26. 2025–2026: Pierpaolo Piccioli and the return to method
 
-In 2025 Demna moved to Gucci. On 19 May Kering announced Pierpaolo Piccioli as the new creative director of Balenciaga from 10 July. That same year Gianfranco Gianangeli became CEO. Piccioli's first collection, Summer 2026, was presented in October 2025 and framed as a recalibration rather than archival homage.
+In 2025 Demna moved to Gucci. On 19 May Kering announced Pierpaolo Piccioli as the new creative director of Balenciaga from 10 July. The House's CEO since 2 January 2025 (an appointment announced back in November 2024) is Gianfranco Gianangeli. Piccioli's first collection, Summer 2026, was presented in October 2025 and framed as a recalibration rather than archival homage.
 
 Piccioli focused on humanity, colour, lightness and couture volume. He drew on the sack, the cocoon and the work with distance from the body, but created his own materials and a contemporary softness. In July 2026 his first couture collection became the house's 55th. As of the cut-off date it is too early to assess the era as a completed system.
 
