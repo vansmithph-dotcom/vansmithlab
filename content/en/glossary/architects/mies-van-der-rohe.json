@@ -37,7 +37,7 @@
     "src": "/images/glossary/designers/mies-van-der-rohe-hero-v2-card-v1.webp",
     "alt": "Editorial illustration: Ludwig Mies van der Rohe",
     "caption": "Editorial illustration: Ludwig Mies van der Rohe. Less is more, the Barcelona Pavilion.",
-    "credit": "VANSMITHLAB · AI illustration, 2026",
+    "credit": "VANSMITHLAB \u00b7 AI illustration, 2026",
     "origin": "ai_illustration"
   },
   "translation": {
@@ -45,5 +45,13 @@
     "source_revision": 1,
     "semantic_validated": true,
     "review_run_id": ""
+  },
+  "portrait_image": {
+    "src": "/images/glossary/designers/mies-van-der-rohe-portrait-v1.png",
+    "alt": "AI editorial portrait of mies van der rohe",
+    "caption": "AI editorial portrait - not an archival photograph",
+    "credit": "VANSMITHLAB - AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "original_generation"
   }
 }

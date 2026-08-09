@@ -19,8 +19,8 @@
   "author": "VANSMITHLAB",
   "locale": "ru",
   "slug": "louis-kahn",
-  "title": "Луис Кан",
-  "summary": "Монументальность, свет и архитектура институтов",
+  "title": "\u041b\u0443\u0438\u0441 \u041a\u0430\u043d",
+  "summary": "\u041c\u043e\u043d\u0443\u043c\u0435\u043d\u0442\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u044c, \u0441\u0432\u0435\u0442 \u0438 \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430 \u0438\u043d\u0441\u0442\u0438\u0442\u0443\u0442\u043e\u0432",
   "discipline": [
     "architecture"
   ],
@@ -35,9 +35,17 @@
   ],
   "hero_image": {
     "src": "/images/glossary/designers/louis-kahn-hero-v2-card-v1.webp",
-    "alt": "Editorial illustration: Луис Кан",
-    "caption": "Editorial illustration: Луис Кан. Salk Institute, Kimbell, монументальная тишина.",
-    "credit": "VANSMITHLAB · AI illustration, 2026",
+    "alt": "Editorial illustration: \u041b\u0443\u0438\u0441 \u041a\u0430\u043d",
+    "caption": "Editorial illustration: \u041b\u0443\u0438\u0441 \u041a\u0430\u043d. Salk Institute, Kimbell, \u043c\u043e\u043d\u0443\u043c\u0435\u043d\u0442\u0430\u043b\u044c\u043d\u0430\u044f \u0442\u0438\u0448\u0438\u043d\u0430.",
+    "credit": "VANSMITHLAB \u00b7 AI illustration, 2026",
     "origin": "ai_illustration"
+  },
+  "portrait_image": {
+    "src": "/images/glossary/designers/louis-kahn-portrait-v1.png",
+    "alt": "AI editorial portrait of louis kahn",
+    "caption": "AI editorial portrait - not an archival photograph",
+    "credit": "VANSMITHLAB - AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "original_generation"
   }
 }

@@ -37,7 +37,7 @@
     "src": "/images/glossary/designers/louis-kahn-hero-v2-card-v1.webp",
     "alt": "Editorial illustration: Louis Kahn",
     "caption": "Editorial illustration: Louis Kahn. Salk Institute, Kimbell, monumental silence.",
-    "credit": "VANSMITHLAB · AI illustration, 2026",
+    "credit": "VANSMITHLAB \u00b7 AI illustration, 2026",
     "origin": "ai_illustration"
   },
   "translation": {
@@ -45,5 +45,13 @@
     "source_revision": 1,
     "semantic_validated": true,
     "review_run_id": ""
+  },
+  "portrait_image": {
+    "src": "/images/glossary/designers/louis-kahn-portrait-v1.png",
+    "alt": "AI editorial portrait of louis kahn",
+    "caption": "AI editorial portrait - not an archival photograph",
+    "credit": "VANSMITHLAB - AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "original_generation"
   }
 }
