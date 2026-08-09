@@ -72,7 +72,7 @@ Use the following order of preference:
 5. editorial use only where the legal/editorial basis is documented;
 6. original AI illustration or AI reconstruction, clearly labelled.
 
-Copyright attribution is mandatory when required by the licence, rights holder or editorial basis. Attribution alone does not make an unlicensed image safe to publish. A work must be held when rights, provenance or the identity of a depicted object are unclear.
+Copyright attribution is mandatory when required by the licence, rights holder or editorial basis. When the source is identifiable but a separate licence record is unavailable, publish with explicit creator/rights-holder credit, direct source URL and a visible editorial-use notice; record `rights_state: attribution_required` or `rights_state: editorial_basis_recorded`. Attribution is not ownership and must not be described as a licence. If the source, creator or provenance cannot be identified at all, do not fabricate a credit: replace it with an original, public-domain, licensed or clearly disclosed AI visual.
 
 AI images must not imitate a living artist or fabricate documentary evidence. They may visualise a verified mechanism, material or design principle, but must state that they are editorial/AI-generated illustrations. AI reconstruction must be labelled as hypothetical and cannot prove a historical fact.
 
@@ -114,7 +114,7 @@ Before release, the editor confirms:
 - the visual explains the article's subject or argument;
 - the list image works as a horizontal card at desktop, tablet and mobile widths;
 - the hero and inline figures have complete media records;
-- rights/provenance are resolved or the asset is held;
+- rights/provenance are recorded, or the page carries the required attribution and editorial-use notice;
 - alt text, caption, credit and AI disclosure are present;
 - the visual does not introduce an unsupported factual claim;
 - the article remains understandable if an image fails to load;

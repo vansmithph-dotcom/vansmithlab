@@ -30,4 +30,10 @@ Gemini may generate or adapt media only from approved briefs; it may not treat a
 - Caption documentary material with creator, date/context and rights attribution.
 - Avoid text baked into images when HTML can carry it.
 - Provide transcript and captions for video.
-- Do not automatically use a visual merely because it is visually attractive; relevance and rights gate release.
+- Do not automatically use a visual merely because it is visually attractive; relevance, attribution and a recorded use basis gate release.
+
+## Attribution-first publication rule
+
+When the source is identifiable but a separate licence record is not available, the asset may be published with transparent attribution instead of being silently omitted. The page must show the creator/rights holder when known, the source URL, the publication/archive context and a concise notice that the image is used for editorial reference and that rights remain with the rights holder. Record `rights_state: attribution_required` or `rights_state: editorial_basis_recorded` in the media record.
+
+Attribution is not a licence and must never be presented as ownership. If the source, creator or provenance cannot be identified at all, do not invent a credit; use an original, public-domain, licensed or clearly disclosed AI visual instead.
