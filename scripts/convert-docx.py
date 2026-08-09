@@ -71,6 +71,20 @@ ALIAS = {
 
 MARKER = re.compile(r"^\[[^\]]*\]$")
 
+# Mirrors scripts/validate-sources.py: a source is checkable if it links out or,
+# for print, states author, title, publisher and year.
+_PLACEHOLDER = re.compile(r"to-be-added|tbd|TODO", re.I)
+_YEAR = re.compile(r"\b(1[5-9]\d{2}|20[0-4]\d)\b")
+
+
+def PRINT_OK(line):
+    if _PLACEHOLDER.search(line):
+        return False
+    if re.search(r"\bISBN\b", line, re.I):
+        return True
+    parts = [p for p in re.split(r"\.\s+", line.strip(" .")) if p]
+    return len(parts) >= 3 and bool(_YEAR.search(parts[-1]))
+
 # Fields the converter derives from the .docx and may therefore overwrite.
 # Anything else already present in a content record — hero_image above all — was
 # produced elsewhere and is carried over untouched. Rewriting a record wholesale
@@ -195,15 +209,19 @@ def convert(path, registry, report):
 
     # sources
     so, sc = block(t, "SOURCES")
-    src_ids, unlinked, total_sources = [], 0, 0
+    src_ids, uncheckable, total_sources = [], 0, 0
     if so is not None:
         blk = t[so:sc]
         for k, s in enumerate(blk):
             if s.startswith("[SOURCE id=") and k + 1 < len(blk):
                 total_sources += 1
-                title_s, pub, url, acc = parse_source(blk[k + 1])
+                line = blk[k + 1]
+                title_s, pub, url, acc = parse_source(line)
                 if not url:
-                    unlinked += 1
+                    # A printed citation carries its imprint instead of a link and
+                    # is perfectly checkable; only an unfinished entry blocks release.
+                    if not PRINT_OK(line):
+                        uncheckable += 1
                     continue
                 i = sid(url)
                 if i not in registry:
@@ -212,12 +230,12 @@ def convert(path, registry, report):
                                    "accessed_at": acc or TODAY}
                 if i not in src_ids:
                     src_ids.append(i)
-    report["unlinked_sources"] += unlinked
+    report["unlinked_sources"] += uncheckable
 
     # The release gate is evidence, per 06_CONTENT_MODEL.md: a page becomes
     # `published` when every source it cites can actually be checked. Prose that
     # merely looks finished does not qualify.
-    citable = total_sources > 0 and unlinked == 0
+    citable = total_sources > 0 and uncheckable == 0
     if citable:
         report["publishable"].add(slug)
 
@@ -364,7 +382,7 @@ def main():
     print(f"documents: {len(docs)} | files written: {report['written'] * 2}")
     print(f"published (all sources citable): {len(report['publishable'])} articles")
     print(f"distinct sources with a URL: {len(registry)}")
-    print(f"[SOURCE] entries with no URL (not citable): {report['unlinked_sources']}")
+    print(f"[SOURCE] entries that are not checkable: {report['unlinked_sources']}")
     print(f"RU articles with no knowledge object: {len(report['no_object'])}")
     if report["skipped"]:
         print("skipped:", report["skipped"])

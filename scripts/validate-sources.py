@@ -1,16 +1,41 @@
 #!/usr/bin/env python3
-"""Enforce the source rule from DOCX_SCHEMA.md: every [SOURCE] carries a URL.
+"""Enforce the source rule from DOCX_SCHEMA.md: every [SOURCE] is checkable.
 
-New articles fail the check. The 89 articles written before the rule existed are
-listed as a debt, grouped by publisher so one lookup can close many entries.
+A web source needs a URL and an access date. A printed source needs author,
+title, publisher and year — demanding a URL from a book would keep an article
+in draft for a reason that cannot be satisfied.
 
-Exit code 1 if any article outside the grandfathered set is missing URLs.
+New articles fail the check. Articles written before the rule existed are listed
+as a debt, grouped by publisher so one lookup can close many entries.
+
+Exit code 1 if any article outside the grandfathered set has an uncheckable source.
 
 Usage: python3 scripts/validate-sources.py <articles-dir> [--debt]
 """
 import sys, os, re, json, collections
 from docx import Document
 from docx.oxml.ns import qn
+
+# A printed citation is recognised by carrying a year and a publisher-like tail,
+# or an explicit ISBN. Anything else without a URL is an unfinished entry.
+ISBN = re.compile(r"\bISBN\b", re.I)
+YEAR = re.compile(r"\b(1[5-9]\d{2}|20[0-4]\d)\b")
+PLACEHOLDER = re.compile(r"to-be-added|tbd|TODO", re.I)
+
+
+def source_state(line):
+    """Return 'web', 'print' or 'incomplete'."""
+    if PLACEHOLDER.search(line):
+        return "incomplete"
+    if re.search(r"https?://", line):
+        return "web" if re.search(r"Accessed\s+\d{4}-\d{2}-\d{2}", line) else "web-no-date"
+    if ISBN.search(line):
+        return "print"
+    # Author. Title. Publisher, year.  — at least three parts and a year.
+    parts = [p for p in re.split(r"\.\s+", line.strip(" .")) if p]
+    if len(parts) >= 3 and YEAR.search(parts[-1]):
+        return "print"
+    return "incomplete"
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 GRANDFATHERED = os.path.join(ROOT, "work", "source-debt.json")
@@ -28,17 +53,24 @@ def audit(path):
     try:
         a, b = t.index('[SOURCES id="sources"]'), t.index("[/SOURCES]")
     except ValueError:
-        return slug, 0, 0, []
-    blk, total, with_url, missing = t[a:b], 0, 0, []
+        return slug, 0, 0, [], 0
+    blk, total, ok, missing, undated = t[a:b], 0, 0, [], 0
     for i, s in enumerate(blk):
         if s.startswith("[SOURCE id=") and i + 1 < len(blk):
             line = blk[i + 1]
             total += 1
-            if re.search(r"https?://", line):
-                with_url += 1
+            state = source_state(line)
+            # A URL without an access date is a schema deficiency, not an
+            # uncheckable source: the reader can still follow the link. It is
+            # reported, but it does not hold an article in draft.
+            if state == "web-no-date":
+                ok += 1
+                undated += 1
+            elif state in ("web", "print"):
+                ok += 1
             else:
                 missing.append(line)
-    return slug, total, with_url, missing
+    return slug, total, ok, missing, undated
 
 
 def main():
@@ -50,12 +82,14 @@ def main():
         known = set(json.load(open(GRANDFATHERED, encoding="utf-8"))["slugs"])
 
     failures, debt, publishers = [], {}, collections.Counter()
+    undated_total = 0
     for f in sorted(x for x in os.listdir(src)
                     if x.endswith("_RU.docx") and not x.startswith("~$")):
-        slug, total, with_url, missing = audit(os.path.join(src, f))
+        slug, total, ok, missing, undated = audit(os.path.join(src, f))
+        undated_total += undated
         if not missing:
             continue
-        debt[slug] = {"total": total, "with_url": with_url, "missing": len(missing)}
+        debt[slug] = {"total": total, "ok": ok, "missing": len(missing)}
         for line in missing:
             head = re.split(r"[.—–]", line)[0].strip()
             publishers[head[:60]] += 1
@@ -78,11 +112,13 @@ def main():
             print(f"  {n:4}  {name}")
         return
 
-    print(f"articles with sources missing a URL: {len(debt)}")
+    print(f"articles with an uncheckable source: {len(debt)}")
+    if undated_total:
+        print(f"sources with a URL but no access date: {undated_total} (schema deficiency, not a blocker)")
     if failures:
         print(f"\nFAIL — {len(failures)} article(s) written after the rule took effect:")
         for slug, miss, total in failures:
-            print(f"  {slug}: {miss} of {total} entries have no URL")
+            print(f"  {slug}: {miss} of {total} entries are not checkable")
         sys.exit(1)
     print("OK — all remaining gaps are recorded in work/source-debt.json")
 

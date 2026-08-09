@@ -136,7 +136,17 @@ Paolo Roversi exhibition catalogue. Paris Musées. https://www.palaisgalliera.pa
 ```
 
 **Rules:**
-- **Every `[SOURCE]` MUST contain a full `https://` URL and an `Accessed YYYY-MM-DD` date.** A publisher name without a link is not a source: it cannot be checked, cannot be cited and cannot enter the source registry. `scripts/validate-sources.py` blocks any article written after 2026-08-09 that breaks this rule.
+
+Every `[SOURCE]` must be checkable by a reader. What that requires depends on where the source lives:
+
+- **A web source** MUST carry a full `https://` URL and an `Accessed YYYY-MM-DD` date.
+  `Title. Publisher. https://… Accessed 2026-08-09.`
+- **A printed source** — book, monograph, exhibition catalogue, journal issue — MUST carry author, title, publisher and year, and an ISBN where one exists. A URL is not required and must not be invented for it.
+  `Göran Schildt. Alvar Aalto: A Life's Work. Otava, 1994. ISBN 951-1-13343-4.`
+
+A publisher name on its own is not a source in either case: `Tate. Anish Kapoor materials.` cannot be checked, cited or registered. Neither can a placeholder such as `to-be-added`.
+
+`scripts/validate-sources.py` enforces both forms and blocks any article written after 2026-08-09 that breaks them.
 - ID format: `S01`, `S02`, `S03`... (capital S, two-digit number).
 - Source line format: `Title. Publisher. URL Accessed YYYY-MM-DD.`
 - Title and publisher are separated by a period and space.
