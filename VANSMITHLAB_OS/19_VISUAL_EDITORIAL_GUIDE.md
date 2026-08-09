@@ -39,6 +39,8 @@ The minimum people-page visual sequence is therefore:
 
 The list image follows the Prada pattern: a wide horizontal composition paired with the title and summary. It must be readable at a glance, preserve a calm editorial tone and communicate the article's thesis without text baked into the image.
 
+All active list-card hero images must be horizontal production assets. The canonical card ratio is `3:2` (minimum recommended size `1536 × 1024`). A vertical source photo or illustration may be retained as a protected source/master, but it must never be used directly in the card. Create a non-destructive horizontal derivative with a documented crop/focal point, and keep the original source path out of the active card metadata. The derivative must preserve the subject's identity and central visual idea; if a crop cannot do that, create an original horizontal editorial visual instead.
+
 Required characteristics:
 
 - wide landscape composition, designed for the card crop;
