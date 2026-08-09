@@ -45,8 +45,12 @@ jobs:
       - name: Validate VANSMITHLAB OS
         run: |
           npm run os:index
-          npm run os:structure -- work/corpus
-          npm run os:sources -- work/corpus
+          if [ -d work/corpus ]; then
+            npm run os:structure -- work/corpus
+            npm run os:sources -- work/corpus
+          else
+            echo "work/corpus is not tracked in this checkout; DOCX gates are deferred to the content workspace"
+          fi
 
       - name: Build static export
         run: npm run build
