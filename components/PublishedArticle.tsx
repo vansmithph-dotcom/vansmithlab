@@ -55,7 +55,9 @@ export function PublishedArticle({ locale, section, content }: { locale: Locale;
     .replace(/\[\^([A-Za-z0-9_-]+)\]/g, (marker, claimId: string) => {
     const citation = citationByClaim.get(claimId);
     const target = citation ? sourceById.get(citation.source_id) : undefined;
-    return target ? `[${target.number}](${target.source.url} "${target.source.title.replaceAll('"', "'")}")` : marker;
+    return target
+      ? `[${target.number}](${target.source.url} "${target.source.title.replaceAll('"', "'")}")`
+      : `<a href="#evidence-sources" class="citation-link citation-unmapped" title="${locale === "ru" ? "Источник не сопоставлен; открыть список источников" : "Source not mapped; open the source list"}">[${locale === "ru" ? "источник" : "source"}]</a>`;
   });
   const jsonLd = buildJsonLd(locale, section, content);
   const backLabel = copy[locale].section[section]?.title ?? text.back;
