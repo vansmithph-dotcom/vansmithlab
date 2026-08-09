@@ -72,10 +72,11 @@ jobs:
         run: |
           set -o pipefail
           echo "::group::Existing Pages projects"
-          ./node_modules/.bin/wrangler pages project list || echo "could not list projects — check the token has Cloudflare Pages: Edit"
+          PROJECTS="$(./node_modules/.bin/wrangler pages project list)"
+          echo "$PROJECTS"
           echo "::endgroup::"
 
-          if ! ./node_modules/.bin/wrangler pages project list 2>/dev/null | grep -qw "$PROJECT"; then
+          if ! grep -qw "$PROJECT" <<< "$PROJECTS"; then
             echo "Project '$PROJECT' not found — creating it."
             ./node_modules/.bin/wrangler pages project create "$PROJECT" --production-branch=main
           fi
