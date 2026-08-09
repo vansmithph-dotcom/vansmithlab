@@ -20,6 +20,21 @@ Every public material must have a visual that helps the reader understand the su
 
 If a documentary image is unavailable or rights are unclear, use an original editorial diagram or a clearly disclosed AI illustration. Do not use a generic portrait or attractive stock image that does not explain the article.
 
+### People: card image, portrait and canon of work
+
+For every person profile (designer, architect, artist, photographer, art director or other author), the list-card visual is an editorial interpretation of what the person is known for: their method, visual language, working environment, material logic or social role. The card does not have to be a portrait and should remain a wide `3:2` composition.
+
+Inside the article, a separate identifiable portrait is mandatory. It appears as an inline figure after the opening answer or first contextual section and must carry its own alt text, caption, credit, origin and rights/disclosure record. If no reliable documentary portrait is available, use a clearly labelled original AI editorial portrait; it must not be presented as an archival photograph.
+
+Every person profile must also include a curated list of **10 known works, projects, series, publications, campaigns or comparable contributions**. The exact label follows the person type (`10 key buildings`, `10 key works`, `10 key series`, `10 key projects`, `10 key contributions`). Each item requires a title, date or period when verified, a one-sentence significance note and a source/claim link. If fewer than 10 items can be verified, the page must say so explicitly and publish the verified subset rather than inventing entries.
+
+The minimum people-page visual sequence is therefore:
+
+1. list card: method/role visualization;
+2. article hero: central thesis or working language;
+3. inline portrait: the person, clearly disclosed;
+4. works/projects block: ten sourced items, with optional detail images or diagrams.
+
 ## 2. Article-list visual
 
 The list image follows the Prada pattern: a wide horizontal composition paired with the title and summary. It must be readable at a glance, preserve a calm editorial tone and communicate the article's thesis without text baked into the image.
