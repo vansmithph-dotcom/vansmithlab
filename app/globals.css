@@ -88,3 +88,9 @@ h1,h2,h3,p { margin-top:0; } h1,h2,h3 { letter-spacing:-.045em; line-height:1; }
 .translation-banner strong { color:var(--accent); }
 .citation-link { cursor:help; border-bottom:1px dotted var(--accent); font-style:normal; font-size:0.85em; color:var(--accent); }
 .citation-link:hover { color:var(--ink); border-bottom-style:solid; }
+
+/* Visual editorial system */
+.article-hero-caption { flex:1!important; text-align:left!important; }
+.article-hero-credit { flex:none; text-align:right; }
+.media-disclosure { color:var(--accent); font-style:normal; }
+@media (max-width:560px) { .article-hero-caption,.article-hero-credit { text-align:left!important; } }

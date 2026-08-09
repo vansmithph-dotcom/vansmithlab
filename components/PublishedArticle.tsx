@@ -97,11 +97,11 @@ export function PublishedArticle({ locale, section, content }: { locale: Locale;
       )}
 
       {metadata.hero_image && (
-        <figure className="article-hero">
+        <figure className="article-hero" aria-label={locale === "ru" ? "Главный визуальный материал" : "Primary visual material"}>
           <Image alt={metadata.hero_image.alt} height={941} priority sizes="(max-width: 1280px) 100vw, 1216px" src={metadata.hero_image.src} width={1672} />
           <figcaption>
-            {metadata.hero_image.caption}
-            <span>
+            <span className="article-hero-caption">{metadata.hero_image.caption}</span>
+            <span className="article-hero-credit">
               {metadata.hero_image.credit}
               {metadata.hero_image.origin === "ai_illustration" && (
                 <> · <abbr title={locale === "ru" ? "Изображение сгенерировано AI" : "AI-generated"}>{locale === "ru" ? "AI" : "AI"}</abbr></>
