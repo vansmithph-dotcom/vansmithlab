@@ -6,10 +6,14 @@ import { PublishedArticle } from "@/components/PublishedArticle";
 import { findTranslation, getContent, listContent, localeAlternates } from "@/lib/content";
 import { copy, isLocale, objectSamples } from "@/lib/site-data";
 
+// `objectSamples` are demonstration stubs from before the encyclopedia had any
+// content. They are no longer built: a live page reading "a demonstration object
+// for the future encyclopedia" is worse than no page. The sample rendering below
+// stays as the fallback for the listing's empty state only.
 export function generateStaticParams() {
-  const samples = objectSamples.flatMap((object) => ["ru", "en"].map((locale) => ({ locale, slug: object.slug })));
-  const releases = listContent().filter((item) => item.content_type === "encyclopedia").map((item) => ({ locale: item.locale, slug: item.slug }));
-  return [...samples, ...releases].filter((item, index, all) => all.findIndex((candidate) => candidate.locale === item.locale && candidate.slug === item.slug) === index);
+  return listContent()
+    .filter((item) => item.content_type === "encyclopedia")
+    .map((item) => ({ locale: item.locale, slug: item.slug }));
 }
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string; slug: string }> }): Promise<Metadata> {

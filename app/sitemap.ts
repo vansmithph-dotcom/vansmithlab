@@ -1,6 +1,7 @@
 import type { MetadataRoute } from "next";
 import { listContent, sectionForContentType } from "@/lib/content";
 import { locales, sectionKeys } from "@/lib/site-data";
+import { ROLES } from "@/lib/taxonomy";
 
 export const dynamic = "force-static";
 
@@ -14,8 +15,14 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: "weekly" as const,
       priority: 0.6,
     })),
-    { url: `${siteUrl}/${locale}/glossary/designers/`, changeFrequency: "weekly" as const, priority: 0.6 },
-    { url: `${siteUrl}/${locale}/glossary/artists/`, changeFrequency: "weekly" as const, priority: 0.6 },
+    // Enumerated from the taxonomy, not hardcoded: a new role must not be able
+    // to exist on the site and be missing from the sitemap. Roles with no
+    // entries are left out — there is nothing there to index yet.
+    ...ROLES.filter((role) => listContent(locale, `glossary/${role.route}`).length > 0).map((role) => ({
+      url: `${siteUrl}/${locale}/glossary/${role.route}/`,
+      changeFrequency: "weekly" as const,
+      priority: 0.6,
+    })),
   ]);
 
   const contentEntries: MetadataRoute.Sitemap = listContent().map((item) => ({
