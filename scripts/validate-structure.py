@@ -16,7 +16,7 @@ from docx.oxml.ns import qn
 
 REQUIRED_BLOCKS = ["ARTICLE_META", "HERO", "TOC", "SOURCES", "SEO", "RELEASE_CHECKLIST"]
 REQUIRED_SECTIONS = ["editorial-thesis", "reader-question", "short-answer"]
-META_KEYS = ["slug", "language", "discipline", "kind", "category",
+META_KEYS = ["slug", "language", "discipline", "kind",
              "author", "status", "source_revision", "layout_schema", "paired_document_id"]
 
 DISCIPLINES = {"architecture", "fashion", "art", "photography",
