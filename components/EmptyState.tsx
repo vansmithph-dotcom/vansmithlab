@@ -13,7 +13,7 @@ export function EmptyState({ locale, section }: { locale: Locale; section?: stri
       <p className="eyebrow" style={{ marginBottom: 24, textAlign: "center" }}>
         VSL / {section?.toUpperCase() ?? "SECTION"}
       </p>
-      <h2 style={{ marginBottom: 18, font: "500 clamp(28px,4vw,48px)/1.08 'Playfair Display',Georgia,serif", letterSpacing: "-.03em" }}>
+      <h2 style={{ marginBottom: 18, font: "500 clamp(28px,4vw,48px)/1.08 var(--font-playfair),Georgia,serif", letterSpacing: "-.03em" }}>
         {m.title}
       </h2>
       <p style={{ color: "var(--muted)", fontSize: 15, lineHeight: 1.7 }}>

@@ -6,11 +6,33 @@ import type { PublishedContent } from "@/lib/content";
 import { copy, type Locale } from "@/lib/site-data";
 
 const labels = {
-  ru: { back: "Назад", verification: "Проверка", confidence: "Уверенность", reviewed: "Обновлено", sources: "Источники", revision: "Версия", ai: "Материал подготовлен автоматической редакционной системой и прошёл проверку источников.", related: "Связанные темы", nextReading: "Дальнейшее чтение", fact: "Факт", interpretation: "Интерпретация" },
-  en: { back: "Back", verification: "Verification", confidence: "Confidence", reviewed: "Last reviewed", sources: "Sources", revision: "Revision", ai: "This publication was prepared by an automated editorial system and passed source validation.", related: "Related subjects", nextReading: "Further reading", fact: "Fact", interpretation: "Interpretation" }
+  ru: { back: "Назад", verification: "Проверка", confidence: "Уверенность", reviewed: "Обновлено", sources: "Источники", revision: "Версия", ai: "Материал подготовлен автоматической редакционной системой и прошёл проверку источников." },
+  en: { back: "Back", verification: "Verification", confidence: "Confidence", reviewed: "Last reviewed", sources: "Sources", revision: "Revision", ai: "This publication was prepared by an automated editorial system and passed source validation." }
 } as const;
 
 const siteUrl = "https://vansmithlab.com";
+
+function removeDuplicatedArticleIntro(body: string, title: string, summary: string) {
+  const lines = body.replace(/\r\n?/g, "\n").split("\n");
+  const firstContentIndex = lines.findIndex((line) => line.trim().length > 0);
+
+  if (firstContentIndex >= 0) {
+    const firstLine = lines[firstContentIndex].trim();
+    const markdownTitle = firstLine.startsWith("# ") ? firstLine.slice(2).trim() : "";
+    if (markdownTitle === title.trim()) lines.splice(firstContentIndex, 1);
+  }
+
+  while (lines[0]?.trim() === "") lines.shift();
+
+  const possibleSummary = lines[0]?.trim() ?? "";
+  if (possibleSummary.startsWith("*") && possibleSummary.endsWith("*")) {
+    const plainSummary = possibleSummary.slice(1, -1).trim();
+    if (plainSummary === summary.trim()) lines.shift();
+  }
+
+  while (lines[0]?.trim() === "") lines.shift();
+  return lines.join("\n");
+}
 
 function buildJsonLd(locale: Locale, section: string, content: PublishedContent) {
   const { metadata } = content;
@@ -41,7 +63,7 @@ export function PublishedArticle({ locale, section, content }: { locale: Locale;
   const isProfile = metadata.content_type.endsWith("_profile");
   const sourceById = new Map(sources.map((source, index) => [source.id, { source, number: index + 1 }]));
   const citationByClaim = new Map(citations.map((citation) => [citation.claim_id, citation]));
-  const renderedBody = body
+  const renderedBody = removeDuplicatedArticleIntro(body, metadata.title, metadata.summary)
     // Legacy media-brief fields were concatenated into article Markdown by an
     // early importer. They are production metadata, not reader-facing prose.
     .replace(/^placement:\s*after-sectionformat:\s*inline\s*4:5caption_required:\s*yesalt_required:\s*yesrights:\s*permission-required\s*$/gm, "")
@@ -108,7 +130,9 @@ export function PublishedArticle({ locale, section, content }: { locale: Locale;
 
       {metadata.hero_image && (
         <figure className="article-hero" aria-label={locale === "ru" ? "Главный визуальный материал" : "Primary visual material"}>
-          <Image alt={metadata.hero_image.alt} height={941} priority sizes="(max-width: 1280px) 100vw, 1216px" src={metadata.hero_image.src} width={1672} />
+          <span className="article-hero-media">
+            <Image alt={metadata.hero_image.alt} fill priority sizes="(max-width: 1280px) 100vw, 1216px" src={metadata.hero_image.src} />
+          </span>
           <figcaption>
             <span className="article-hero-caption">{metadata.hero_image.caption}</span>
             <span className="article-hero-credit">
@@ -179,18 +203,6 @@ export function PublishedArticle({ locale, section, content }: { locale: Locale;
         </aside>
       </div>
 
-      <footer className="discovery-footer" style={{ marginTop: 80, paddingTop: 48, borderTop: "1px solid var(--line)" }}>
-        <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 48 }}>
-          <div>
-            <p className="eyebrow">{text.related}</p>
-            <p style={{ color: "var(--muted)", fontSize: 14 }}>{locale === "ru" ? "Связанные темы и объекты появятся здесь после подключения knowledge engine." : "Related objects and topics will appear here once the knowledge engine is connected."}</p>
-          </div>
-          <div>
-            <p className="eyebrow">{text.nextReading}</p>
-            <p style={{ color: "var(--muted)", fontSize: 14 }}>{locale === "ru" ? "Рекомендации на основе knowledge graph." : "Recommendations based on the knowledge graph."}</p>
-          </div>
-        </div>
-      </footer>
     </article>
   );
 }

@@ -4,7 +4,7 @@ import Image from "next/image";
 import { notFound } from "next/navigation";
 import { TrustPanel } from "@/components/TrustPanel";
 import { listContent } from "@/lib/content";
-import { copy, isLocale, objectSamples } from "@/lib/site-data";
+import { copy, isLocale } from "@/lib/site-data";
 
 export type SectionConfig = {
   key: string;
@@ -100,11 +100,8 @@ export function SectionPage({ locale, section, config }: { locale: string; secti
                 )}
               </Link>
             ))
-          : page.items.map((item, index) => {
-              const sample = objectSamples[index % objectSamples.length];
-              const href = config.noDetailRoutes ? `/${locale}/${section}` : `/${locale}/${section}/${sample.slug}`;
-              return (
-                <Link className="listing-card" href={href} key={`${item}-${index}`}>
+          : page.items.map((item, index) => (
+                <article className="listing-card" key={`${item}-${index}`}>
                   <span className="listing-card-copy">
                     <span className="listing-card-index">0{index + 1}</span>
                     <h2>{item}</h2>
@@ -114,9 +111,8 @@ export function SectionPage({ locale, section, config }: { locale: string; secti
                       <i>{content.labels.comingSoon}</i>
                     </span>
                   </span>
-                </Link>
-              );
-            })}
+                </article>
+            ))}
       </div>
     </section>
   );

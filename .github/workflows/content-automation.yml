@@ -61,6 +61,7 @@ jobs:
         run: |
           npm run lint
           npm run build
+          npm run audit:site
       - name: Commit approved release
         run: |
           git config user.name "vansmithlab-editor"

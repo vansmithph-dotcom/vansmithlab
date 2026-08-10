@@ -65,18 +65,34 @@ async function walk(dir) {
 
 export async function validateRepository() {
   const metadataFiles = (await walk(path.join(root, "content"))).filter((file) => file.endsWith(".json"));
+  const issues = [];
+  let validated = 0;
+  let drafts = 0;
   for (const metadataFile of metadataFiles) {
-    const metadata = await readJson(metadataFile);
-    const bodyFile = metadataFile.replace(/\.json$/, ".md");
-    const body = await readFile(bodyFile, "utf8");
-    const knowledge = await readJson(path.join(root, "knowledge", "objects", `${metadata.primary_object_id}.json`));
-    validateKnowledge(knowledge);
-    await validateRelease(metadata, body, knowledge);
+    try {
+      const metadata = await readJson(metadataFile);
+      if (metadata.state !== "published") {
+        drafts += 1;
+        continue;
+      }
+      assert(metadata.primary_object_id, `${metadata.content_id}: primary knowledge object missing`);
+      const bodyFile = metadataFile.replace(/\.json$/, ".md");
+      const body = await readFile(bodyFile, "utf8");
+      const knowledge = await readJson(path.join(root, "knowledge", "objects", `${metadata.primary_object_id}.json`));
+      validateKnowledge(knowledge);
+      await validateRelease(metadata, body, knowledge);
+      validated += 1;
+    } catch (error) {
+      issues.push(`${path.relative(root, metadataFile)}: ${error.message}`);
+    }
   }
-  return metadataFiles.length;
+  if (issues.length > 0) {
+    throw new Error(`Published content validation failed with ${issues.length} issue(s):\n${issues.map((issue) => `- ${issue}`).join("\n")}`);
+  }
+  return { validated, drafts };
 }
 
 if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) {
-  const count = await validateRepository();
-  console.log(`Validated ${count} content release(s).`);
+  const { validated, drafts } = await validateRepository();
+  console.log(`Validated ${validated} published release(s); skipped ${drafts} draft(s).`);
 }

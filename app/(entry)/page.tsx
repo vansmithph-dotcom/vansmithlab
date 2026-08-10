@@ -14,6 +14,7 @@ export default function EntryPage() {
 
   return (
     <main className="entry-page" aria-label="VANSMITHLAB — loading">
+      <h1 className="sr-only">VANSMITHLAB — Design knowledge library</h1>
       <p className="entry-mark">VANSMITHLAB®</p>
     </main>
   );

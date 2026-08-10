@@ -1,4 +1,5 @@
 import { notFound } from "next/navigation";
+import { fontVariables } from "@/app/fonts";
 import { SiteFooter } from "@/components/SiteFooter";
 import { SiteHeader } from "@/components/SiteHeader";
 import { isLocale, locales } from "@/lib/site-data";
@@ -15,7 +16,7 @@ export default async function LocaleLayout({ children, params }: Readonly<{ chil
   const { locale } = await params;
   if (!isLocale(locale)) notFound();
   return (
-    <html lang={locale}>
+    <html className={fontVariables} lang={locale}>
       <body>
         <SiteHeader locale={locale} />
         <main>{children}</main>
