@@ -14,9 +14,9 @@
 
 ## Краткий ответ
 
-Фабьен Барон родился в 1959 году в Антони, Франция, учился в École des Arts Appliqués и в 1982 году переехал в Нью-Йорк. После работы в Self, GQ, Barneys и New York Woman он стал creative director Vogue Italia.
+Фабьен Барон родился в 1959 году в Антони, Франция, учился в École des Arts Appliqués и в 1982 году переехал в Нью-Йорк. После работы в Self, GQ, Barneys и New York Woman он стал creative director Vogue Italia.[^clm_fb_bio]
 
-В 1990 году Барон основал Baron & Baron и обновил Interview. В 1992 году он вместе с Liz Tilberis перезапустил Harper’s Bazaar, начал ключевое сотрудничество с Calvin Klein и арт-директировал книгу Madonna: Sex.
+В 1990 году Барон основал Baron & Baron и обновил Interview. В 1992 году он вместе с Liz Tilberis перезапустил Harper’s Bazaar, начал ключевое сотрудничество с Calvin Klein и арт-директировал книгу Madonna: Sex.[^clm_fb_editorial][^clm_fb_brand]
 
 ## 1. Антони, Париж и семейная среда
 
@@ -38,7 +38,6 @@
 
 В середине 1980-х Барон сформировал визуальный язык Barneys: сдержанный, типографичный, городской и интеллектуальный. Универмаг начал восприниматься не просто как торговая точка, а как культурный бренд.
 
-placement: after-sectionformat: inline 4:5caption_required: yesalt_required: yesrights: permission-required
 
 ## 6. New York Woman
 
@@ -52,7 +51,6 @@ placement: after-sectionformat: inline 4:5caption_required: yesalt_required: yes
 
 Возвращение к Interview сопровождалось редизайном, который соединял наследие Уорхола с более холодной и современной системой. Огромные лица, плотные портреты и ясная типографика превратили знаменитость в архитектуру страницы.
 
-placement: after-sectionformat: inline 4:5caption_required: yesalt_required: yesrights: permission-required
 
 ## 9. Основание Baron & Baron
 
@@ -62,7 +60,6 @@ placement: after-sectionformat: inline 4:5caption_required: yesalt_required: yes
 
 Совместно с Liz Tilberis Барон перезапустил Harper’s Bazaar. Новый журнал строился на огромных изображениях, Didot, белом пространстве и жёстком ритме разворотов.
 
-placement: after-sectionformat: inline 4:5caption_required: yesalt_required: yesrights: permission-required
 
 ## 11. Didot и типографическая власть
 
@@ -88,7 +85,6 @@ Didot стал не просто шрифтом, а знаком новой ро
 
 С 1992 года Барон стал ключевым творческим партнёром Calvin Klein. Кампании, упаковка и визуальная идентичность соединяли минимализм, сексуальность и культурную провокацию.
 
-placement: after-sectionformat: inline 4:5caption_required: yesalt_required: yesrights: permission-required
 
 ## 16. cK one
 
@@ -102,7 +98,6 @@ placement: after-sectionformat: inline 4:5caption_required: yesalt_required: yes
 
 В 1992 году Барон арт-директировал книгу Madonna: Sex и связанные материалы эпохи Erotica. Проект превратил книгу в металлический, тиражный и скандальный объект.
 
-placement: after-sectionformat: inline 4:5caption_required: yesalt_required: yesrights: permission-required
 
 ## 19. Steven Meisel
 
@@ -116,7 +111,6 @@ Kate Moss стала повторяющейся фигурой в его виз�
 
 Для Issey Miyake агентство работало над рекламой и визуальным языком ароматов, включая L’Eau d’Issey. Вода, стекло, чистота и минимализм формировали узнаваемый глобальный код.
 
-placement: after-sectionformat: inline 4:5caption_required: yesalt_required: yesrights: permission-required
 
 ## 22. Fragrance design
 
@@ -142,13 +136,11 @@ placement: after-sectionformat: inline 4:5caption_required: yesalt_required: yes
 
 Книга Liquid Light 1983–2003 объединяет морские пейзажи и исследование света на поверхности воды. Она показывает, что минимализм Барона связан не только с коммерческой графикой.
 
-placement: after-sectionformat: inline 4:5caption_required: yesalt_required: yesrights: permission-required
 
 ## 28. Monuments
 
 Проект Monuments 2014 года посвящён замёрзшему побережью Гренландии. Лёд представлен как монументальная форма, но работа также неизбежно включается в современный климатический контекст.
 
-placement: after-sectionformat: inline 4:5caption_required: yesalt_required: yesrights: permission-required
 
 ## 29. Кино и движение
 
@@ -164,19 +156,17 @@ placement: after-sectionformat: inline 4:5caption_required: yesalt_required: yes
 
 ## 32. Works 1983–2019
 
-Книга Phaidon организует карьеру Барона не хронологически, а через повторяющиеся темы и визуальные столкновения. Сам дизайн издания становится продолжением авторской практики.
+Книга Phaidon организует карьеру Барона не хронологически, а через повторяющиеся темы и визуальные столкновения. Сам дизайн издания становится продолжением авторской практики.[^clm_fb_multidisciplinary]
 
-placement: after-sectionformat: inline 4:5caption_required: yesalt_required: yesrights: permission-required
 
 ## 33. Baron & Baron в 2026 году
 
 Официальный сайт агентства показывает действующие проекты для Alaïa, Armani, Dior, Ferragamo, Gucci, Louis Vuitton, NARS, Pandora и Zara. Практика остаётся активной и междисциплинарной.
 
-placement: after-sectionformat: inline 4:5caption_required: yesalt_required: yesrights: permission-required
 
 ## 34. Творческий директор как система
 
-Барон помог сформировать современную роль creative director: человек управляет не одним макетом, а отношениями между брендом, фотографией, фильмом, упаковкой, пространством и культурным контекстом.
+Барон помог сформировать современную роль creative director: человек управляет не одним макетом, а отношениями между брендом, фотографией, фильмом, упаковкой, пространством и культурным контекстом.[^clm_fb_legacy]
 
 ## 35. Коммерция и авторство
 

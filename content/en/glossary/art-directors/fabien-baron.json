@@ -1,13 +1,19 @@
 {
   "content_id": "cnt_b7a096a1b2623b41",
-  "primary_object_id": "",
+  "primary_object_id": "obj_artdir_fabien_baron",
   "content_type": "art_director_profile",
   "state": "published",
   "source_locale": "ru",
-  "source_revision": 1,
-  "verification_state": "unverified",
-  "confidence_score": 0,
-  "claim_ids": [],
+  "source_revision": 2,
+  "verification_state": "multi_source_verified",
+  "confidence_score": 0.9,
+  "claim_ids": [
+    "clm_fb_bio",
+    "clm_fb_editorial",
+    "clm_fb_brand",
+    "clm_fb_multidisciplinary",
+    "clm_fb_legacy"
+  ],
   "source_ids": [
     "src_2c61316c79f0430c",
     "src_8db9c27e1ac48e45",
@@ -15,7 +21,7 @@
     "src_581c77d7324a3402",
     "src_2c020129273c5fe7"
   ],
-  "last_reviewed": "2026-08-09",
+  "last_reviewed": "2026-08-10",
   "author": "VANSMITHLAB",
   "locale": "en",
   "slug": "fabien-baron",
@@ -28,7 +34,7 @@
   "role": [
     "art-director"
   ],
-  "body_hash": "74c2bfd4e2e1d3247c8d69c63a53499955e48e06178b2d5e55cfea6cdfc93ee9",
+  "body_hash": "85700c26ae56651e34e5b4c494051adbc027c1f852574021eb732252a7c46293",
   "categories": [
     "art-direction-graphic-design"
   ],
@@ -38,5 +44,20 @@
     "caption": "Original editorial illustration by VANSMITHLAB",
     "credit": "VANSMITHLAB · AI illustration",
     "origin": "ai_illustration"
+  },
+  "portrait_image": {
+    "src": "/images/glossary/art-directors/fabien-baron-portrait-source.jpg",
+    "alt": "Portrait of Fabien Baron at the Monuments presentation in London",
+    "caption": "Fabien Baron at the Monuments presentation, London, 2014.",
+    "credit": "See Li · CC BY 2.0 · Wikimedia Commons",
+    "origin": "wikimedia_commons",
+    "rights_status": "attribution_required",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Fabien_Baron_2014.jpg"
+  },
+  "translation": {
+    "source_locale": "ru",
+    "source_revision": 2,
+    "semantic_validated": true,
+    "review_run_id": "manual-editorial-audit-2026-08-10"
   }
 }

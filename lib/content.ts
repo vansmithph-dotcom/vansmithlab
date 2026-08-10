@@ -19,6 +19,8 @@ type MediaReference = {
   credit: string;
   origin: "original" | "official" | "licensed" | "public_domain" | "editorial" | "editorial_diagram" | "wikipedia" | "wikimedia_commons" | "ai_illustration" | "ai_reconstruction";
   rights_status?: "public_domain" | "licensed" | "attribution_required" | "editorial_basis_recorded" | "review_required" | "ai_generated" | "permission_confirmed" | "cc_by_sa";
+  source_url?: string;
+  licence_or_permission?: string;
 };
 export type KnowledgeSource = { id: string; title: string; url: string; publisher: string; source_tier: number; accessed_at: string };
 export type KnowledgeCitation = { id: string; claim_id: string; source_id: string; locator: string; support: string };

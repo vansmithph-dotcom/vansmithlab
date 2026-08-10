@@ -30,7 +30,7 @@ function buildJsonLd(locale: Locale, section: string, content: PublishedContent)
     dateModified: metadata.last_reviewed,
     author: metadata.content_type === "analysis" ? { "@type": "Person", name: metadata.author } : organization,
     publisher: organization,
-    ...(metadata.content_type === "designer_profile" ? { about: { "@type": "Person", name: metadata.title } } : {}),
+    ...(metadata.content_type.endsWith("_profile") ? { about: { "@type": "Person", name: metadata.title } } : {}),
   };
 }
 
@@ -38,10 +38,13 @@ export function PublishedArticle({ locale, section, content }: { locale: Locale;
   const { metadata, body, sources, citations } = content;
   const text = labels[locale];
   const isAnalysis = metadata.content_type === "analysis";
-  const isProfile = metadata.content_type === "designer_profile" || metadata.content_type === "artist_profile";
+  const isProfile = metadata.content_type.endsWith("_profile");
   const sourceById = new Map(sources.map((source, index) => [source.id, { source, number: index + 1 }]));
   const citationByClaim = new Map(citations.map((citation) => [citation.claim_id, citation]));
   const renderedBody = body
+    // Legacy media-brief fields were concatenated into article Markdown by an
+    // early importer. They are production metadata, not reader-facing prose.
+    .replace(/^placement:\s*after-sectionformat:\s*inline\s*4:5caption_required:\s*yesalt_required:\s*yesrights:\s*permission-required\s*$/gm, "")
     // Convert [N] bare citation references to clickable cite elements with tooltip
     .replace(/\[(\d+)\](?!\()/g, (match, num: string) => {
       const sourceIndex = parseInt(num) - 1;

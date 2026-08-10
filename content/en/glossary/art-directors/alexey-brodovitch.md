@@ -14,9 +14,9 @@ Why did an art director who rarely pressed the camera shutter become one of the 
 
 ## Short answer
 
-Alexey Brodovitch was born in 1898 in the Russian Empire, emigrated to Paris, and moved to the United States in 1930. In Paris he worked across theatre, advertising, posters, textiles, and editorial design; in Philadelphia he developed an educational model later known as the Design Laboratory.
+Alexey Brodovitch was born in 1898 in the Russian Empire, emigrated to Paris, and moved to the United States in 1930. In Paris he worked across theatre, advertising, posters, textiles, and editorial design; in Philadelphia he developed an educational model later known as the Design Laboratory.[^clm_ab_bio]
 
-From 1934 to 1958 he served as art director of Harper’s Bazaar. He turned the magazine into a laboratory for typography, photography, and montage, supported Richard Avedon, Lillian Bassman, Robert Frank, Lisette Model, and others, and produced Ballet in 1945, his defining photographic book.
+From 1934 to 1958 he served as art director of Harper’s Bazaar. He turned the magazine into a laboratory for typography, photography, and montage, supported Richard Avedon, Lillian Bassman, Robert Frank, Lisette Model, and others, and produced Ballet in 1945, his defining photographic book.[^clm_ab_harpers]
 
 ## 1. Ogolichi, empire, and military education
 
@@ -34,7 +34,6 @@ He undertook theatrical and decorative work within the orbit of the Ballets Russ
 
 Winning the Bal Banal poster competition brought his first major recognition. Its diagonal energy and economy of form demonstrated his ability to combine avant-garde language with advertising clarity.
 
-placement: after-sectionformat: inline 4:5caption_required: yesalt_required: yesrights: permission-required
 
 ## 5. Commercial work in Paris
 
@@ -60,7 +59,6 @@ In 1934 editor Carmel Snow hired Brodovitch at Harper’s Bazaar. His alliance w
 
 Brodovitch thought through the tempo of an entire issue rather than isolated pages. A dense spread could be followed by an open one; a full-bleed image by a small detail; text became part of movement.
 
-placement: after-sectionformat: inline 4:5caption_required: yesalt_required: yesrights: permission-required
 
 ## 11. White space
 
@@ -100,9 +98,8 @@ Penn studied with Brodovitch in Philadelphia. His later discipline of compositio
 
 ## 19. Ballet: photographing movement
 
-Between 1935 and 1937 Brodovitch photographed the Ballets Russes de Monte Carlo with a 35mm camera in low light and at slow shutter speeds. Blur, grain, and underexposure became ways of conveying the experience of movement.
+Between 1935 and 1937 Brodovitch photographed the Ballets Russes de Monte Carlo with a 35mm camera in low light and at slow shutter speeds. Blur, grain, and underexposure became ways of conveying the experience of movement.[^clm_ab_ballet]
 
-placement: after-sectionformat: inline 4:5caption_required: yesalt_required: yesrights: permission-required
 
 ## 20. Ballet, 1945
 
@@ -116,7 +113,6 @@ Blur and damaged negatives do not read as technical failure. They preserve the e
 
 Portfolio carried no advertising and gave Brodovitch room to experiment with graphic art, photography, printing, and materials. Financially unstable, it nevertheless became a professional legend.
 
-placement: after-sectionformat: inline 4:5caption_required: yesalt_required: yesrights: permission-required
 
 ## 23. The book as montage
 
@@ -160,9 +156,8 @@ In 1966 Brodovitch returned to France and settled in Le Thor. He died in 1971, b
 
 ## 31. The RIT archive
 
-The Cary Graphic Arts Collection at Rochester Institute of Technology holds an important archive including portraits, documents, and audio recordings of Design Laboratory classes. In 2026 it remains a central research resource.
+The Cary Graphic Arts Collection at Rochester Institute of Technology holds an important archive including portraits, documents, and audio recordings of Design Laboratory classes. In 2026 it remains a central research resource.[^clm_ab_archive]
 
-placement: after-sectionformat: inline 4:5caption_required: yesalt_required: yesrights: permission-required
 
 ## 32. MoMA, NGA, and the museum canon
 
@@ -172,7 +167,6 @@ Brodovitch’s work is represented at MoMA, the National Gallery of Art, The Met
 
 The 2024 exhibition brought together more than one hundred objects and reconsidered Brodovitch through design, photography, magazines, and pedagogy. It was one of the most substantial recent reassessments of his legacy.
 
-placement: after-sectionformat: inline 4:5caption_required: yesalt_required: yesrights: permission-required
 
 ## 34. Critiquing modernist universality
 
@@ -188,4 +182,4 @@ The enduring lesson is not to imitate diagonals or Didot. It is to control rhyth
 
 ## 36. Conclusion
 
-Alexey Brodovitch transformed art direction from the decoration of completed material into a form of authorship. His legacy is the magazine as montage machine, the classroom as a space of risk, and photography as material whose meaning changes on the page.
+Alexey Brodovitch transformed art direction from the decoration of completed material into a form of authorship. His legacy is the magazine as montage machine, the classroom as a space of risk, and photography as material whose meaning changes on the page.[^clm_ab_legacy]

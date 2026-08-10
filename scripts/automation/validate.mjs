@@ -38,7 +38,7 @@ export function validateKnowledge(object) {
 }
 
 export async function validateRelease(metadata, body, knowledge) {
-  assert(allowedTypes.has(metadata.content_type), `${metadata.content_id}: unsupported content type`);
+  assert(allowedTypes.has(metadata.content_type) || metadata.content_type.endsWith("_profile"), `${metadata.content_id}: unsupported content type`);
   assert(metadata.state === "published", `${metadata.content_id}: not published`);
   assert(["ru", "en"].includes(metadata.locale), `${metadata.content_id}: invalid locale`);
   assert(metadata.source_locale === "ru", `${metadata.content_id}: source locale must be ru`);

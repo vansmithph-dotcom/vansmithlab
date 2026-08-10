@@ -1,13 +1,19 @@
 {
   "content_id": "cnt_ed337286fef2871c",
-  "primary_object_id": "",
+  "primary_object_id": "obj_artdir_alexey_brodovitch",
   "content_type": "art_director_profile",
   "state": "published",
   "source_locale": "ru",
-  "source_revision": 1,
-  "verification_state": "unverified",
-  "confidence_score": 0,
-  "claim_ids": [],
+  "source_revision": 2,
+  "verification_state": "multi_source_verified",
+  "confidence_score": 0.9,
+  "claim_ids": [
+    "clm_ab_bio",
+    "clm_ab_harpers",
+    "clm_ab_ballet",
+    "clm_ab_archive",
+    "clm_ab_legacy"
+  ],
   "source_ids": [
     "src_2437826afb8af9cc",
     "src_c1601066384c4867",
@@ -16,7 +22,7 @@
     "src_9d0b13dadf63dc62",
     "src_8395af7a7a0b8ccb"
   ],
-  "last_reviewed": "2026-08-09",
+  "last_reviewed": "2026-08-10",
   "author": "VANSMITHLAB",
   "locale": "en",
   "slug": "alexey-brodovitch",
@@ -31,7 +37,7 @@
     "art-director",
     "photographer"
   ],
-  "body_hash": "07c3a58e7eb876a26fc56d636d7de140bfea6aad17d5205104a27000f12300c0",
+  "body_hash": "eab6f0e3419e35ee6fc455e959b570c839d834996dcee7cf58f4586890cbf51f",
   "categories": [
     "art-direction-graphic-design",
     "photographers"
@@ -42,5 +48,20 @@
     "caption": "Original editorial illustration by VANSMITHLAB",
     "credit": "VANSMITHLAB · AI illustration",
     "origin": "ai_illustration"
+  },
+  "portrait_image": {
+    "src": "/images/glossary/art-directors/alexey-brodovitch-portrait-source.jpg",
+    "alt": "Alexey Brodovitch examines prints and editorial material at his worktable",
+    "caption": "Alexey Brodovitch at work, 1950.",
+    "credit": "Wikimedia Commons · archival photograph",
+    "origin": "wikimedia_commons",
+    "rights_status": "public_domain",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Alexey_Brodovitch_1950cr.jpg"
+  },
+  "translation": {
+    "source_locale": "ru",
+    "source_revision": 2,
+    "semantic_validated": true,
+    "review_run_id": "manual-editorial-audit-2026-08-10"
   }
 }

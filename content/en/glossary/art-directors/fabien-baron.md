@@ -14,9 +14,9 @@ How can one visual language remain coherent across a magazine, advertising campa
 
 ## Short answer
 
-Fabien Baron was born in Antony, France, in 1959, studied at the École des Arts Appliqués, and moved to New York in 1982. After work at Self, GQ, Barneys, and New York Woman, he became creative director of Vogue Italia.
+Fabien Baron was born in Antony, France, in 1959, studied at the École des Arts Appliqués, and moved to New York in 1982. After work at Self, GQ, Barneys, and New York Woman, he became creative director of Vogue Italia.[^clm_fb_bio]
 
-In 1990 Baron founded Baron & Baron and redesigned Interview. In 1992 he relaunched Harper’s Bazaar with Liz Tilberis, began a defining collaboration with Calvin Klein, and art-directed Madonna’s Sex book.
+In 1990 Baron founded Baron & Baron and redesigned Interview. In 1992 he relaunched Harper’s Bazaar with Liz Tilberis, began a defining collaboration with Calvin Klein, and art-directed Madonna’s Sex book.[^clm_fb_editorial][^clm_fb_brand]
 
 ## 1. Antony, Paris, and a family language of design
 
@@ -38,7 +38,6 @@ The move allowed Baron to leave the French professional system and establish an 
 
 During the 1980s he helped shape Barneys as a restrained, typographic, urban, and intellectually fashionable brand rather than simply a department store.
 
-placement: after-sectionformat: inline 4:5caption_required: yesalt_required: yesrights: permission-required
 
 ## 6. New York Woman
 
@@ -52,7 +51,6 @@ From 1988 Baron worked with Vogue Italia. With Franca Sozzani he strengthened th
 
 His redesign of Interview joined Warhol’s legacy to a colder and more contemporary system. Monumental faces and direct typography turned celebrity into page architecture.
 
-placement: after-sectionformat: inline 4:5caption_required: yesalt_required: yesrights: permission-required
 
 ## 9. Founding Baron & Baron
 
@@ -62,7 +60,6 @@ Founded in 1990, the agency brought together art direction, advertising, brand i
 
 With Liz Tilberis, Baron relaunched Harper’s Bazaar around monumental imagery, Didot, white space, and a tightly controlled sequence of spreads.
 
-placement: after-sectionformat: inline 4:5caption_required: yesalt_required: yesrights: permission-required
 
 ## 11. Didot and typographic authority
 
@@ -88,7 +85,6 @@ Harper’s Bazaar emerged not from Baron alone but from Tilberis’s editorial s
 
 From 1992 Baron became a central creative partner to Calvin Klein. Campaigns, packaging, and identity fused minimalism, sexuality, and cultural provocation.
 
-placement: after-sectionformat: inline 4:5caption_required: yesalt_required: yesrights: permission-required
 
 ## 16. cK one
 
@@ -102,7 +98,6 @@ His fragrance work shows how desire can be built as a long-term system: name, bo
 
 Baron art-directed Madonna’s Sex book and associated Erotica-era materials in 1992. The publication became a metallic, mass-produced, and deliberately scandalous object.
 
-placement: after-sectionformat: inline 4:5caption_required: yesalt_required: yesrights: permission-required
 
 ## 19. Steven Meisel
 
@@ -116,7 +111,6 @@ Kate Moss became a recurring presence in Baron’s visual world, combining fragi
 
 For Issey Miyake, the agency worked across advertising and fragrance identity. Water, glass, purity, and restraint formed a globally recognisable code.
 
-placement: after-sectionformat: inline 4:5caption_required: yesalt_required: yesrights: permission-required
 
 ## 22. Fragrance design
 
@@ -142,13 +136,11 @@ Baron maintains an independent photographic practice. His images of water, bodie
 
 Liquid Light 1983–2003 gathers seascapes and studies of light across water, revealing that Baron’s minimalism is not confined to commercial graphics.
 
-placement: after-sectionformat: inline 4:5caption_required: yesalt_required: yesrights: permission-required
 
 ## 28. Monuments
 
 The 2014 Monuments project focuses on Greenland’s frozen coastline. Ice appears as sculptural form while inevitably carrying a contemporary climate context.
 
-placement: after-sectionformat: inline 4:5caption_required: yesalt_required: yesrights: permission-required
 
 ## 29. Film and movement
 
@@ -164,19 +156,17 @@ Work for Ian Schrager Hotels and luxury environments demonstrates how visual ide
 
 ## 32. Works 1983–2019
 
-The Phaidon monograph organises Baron’s career thematically rather than chronologically. The book’s own materials and sequence become an extension of his practice.
+The Phaidon monograph organises Baron’s career thematically rather than chronologically. The book’s own materials and sequence become an extension of his practice.[^clm_fb_multidisciplinary]
 
-placement: after-sectionformat: inline 4:5caption_required: yesalt_required: yesrights: permission-required
 
 ## 33. Baron & Baron in 2026
 
 The agency’s official site lists active work for Alaïa, Armani, Dior, Ferragamo, Gucci, Louis Vuitton, NARS, Pandora, and Zara, confirming an ongoing multidisciplinary practice.
 
-placement: after-sectionformat: inline 4:5caption_required: yesalt_required: yesrights: permission-required
 
 ## 34. The creative director as a system
 
-Baron helped define the modern creative director as someone who manages relationships among brand, photography, film, packaging, space, and cultural context.
+Baron helped define the modern creative director as someone who manages relationships among brand, photography, film, packaging, space, and cultural context.[^clm_fb_legacy]
 
 ## 35. Commerce and authorship
 
