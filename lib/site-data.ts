@@ -55,7 +55,7 @@ export const copy: Record<Locale, Copy> = {
   ru: {
     nav: [
       { href: "/encyclopedia", label: "Энциклопедия" },
-      { href: "/glossary", label: "Глоссарий" },
+      { href: "/glossary", label: "Авторы" },
       { href: "/articles", label: "Статьи" },
       { href: "/analysis", label: "Анализ" },
       { href: "/timeline", label: "Хронология" },
@@ -94,7 +94,7 @@ export const copy: Record<Locale, Copy> = {
     footerText: "Независимая энциклопедия дизайна и визуальной культуры.",
     section: {
       encyclopedia: { eyebrow: "База знаний", title: "Энциклопедия", text: "Люди, объекты, бренды, материалы, техники и движения — с источниками, хронологией и связями.", items: ["Бренды и студии", "Дизайнеры и авторы", "Материалы и техники", "Объекты и коллекции", "Движения и стили", "Технологии и AI"] },
-      glossary: { eyebrow: "Язык дизайна", title: "Глоссарий", text: "Точные определения для понятий, которые связывают дисциплины дизайна.", items: ["Силуэт", "Материал", "Конструкция", "Визуальная идентичность", "Типографика", "Ремесло"] },
+      glossary: { eyebrow: "Люди и визуальные авторы", title: "Авторы", text: "Профили людей, чьи методы сформировали язык архитектуры, моды, искусства и визуальной культуры.", items: ["Архитекторы", "Дизайнеры", "Художники", "Фотографы", "Арт-директора", "Графические дизайнеры"] },
       "glossary/designers": { eyebrow: "Дизайнеры", title: "Дизайнеры", text: "Биографические и визуально-аналитические материалы о модельерах, чьи методы сформировали язык современной моды.", items: ["Мода"] },
       "glossary/artists": { eyebrow: "Художники и визуальные авторы", title: "Художники", text: "Биографические и визуально-аналитические материалы о художниках, чьи методы и образы стали частью языка визуальной культуры.", items: ["Живопись", "Концептуальное искусство", "Поп-арт"] },
 "glossary/photographers": { eyebrow: "Фотографы и арт-директора", title: "Фотографы", text: "Биографические профили фотографов и арт-директоров, формировавших визуальный язык моды.", items: [] },
@@ -110,7 +110,7 @@ export const copy: Record<Locale, Copy> = {
   en: {
     nav: [
       { href: "/encyclopedia", label: "Encyclopedia" },
-      { href: "/glossary", label: "Glossary" },
+      { href: "/glossary", label: "Authors" },
       { href: "/articles", label: "Articles" },
       { href: "/analysis", label: "Analysis" },
       { href: "/timeline", label: "Timeline" },
@@ -149,7 +149,7 @@ export const copy: Record<Locale, Copy> = {
     footerText: "An independent encyclopedia of design and visual culture.",
     section: {
       encyclopedia: { eyebrow: "Knowledge base", title: "Encyclopedia", text: "People, objects, brands, materials, techniques and movements — with sources, chronology and relations.", items: ["Brands and studios", "Designers and authors", "Materials and techniques", "Objects and collections", "Movements and styles", "Technology and AI"] },
-      glossary: { eyebrow: "The language of design", title: "Glossary", text: "Precise definitions for concepts that connect design disciplines.", items: ["Silhouette", "Material", "Construction", "Visual identity", "Typography", "Craft"] },
+      glossary: { eyebrow: "People and visual authors", title: "Authors", text: "Profiles of people whose methods shaped architecture, fashion, art and visual culture.", items: ["Architects", "Designers", "Artists", "Photographers", "Art directors", "Graphic designers"] },
       "glossary/designers": { eyebrow: "Designers", title: "Fashion designers", text: "Biographical and visual-analytical profiles of fashion designers whose methods shaped the language of modern dress.", items: ["Fashion"] },
       "glossary/artists": { eyebrow: "Artists and visual authors", title: "Artists", text: "Biographical and visual-analytical profiles of artists whose methods and images became part of the language of visual culture.", items: ["Painting", "Conceptual art", "Pop art"] },
 "glossary/photographers": { eyebrow: "Photographers and art directors", title: "Photographers", text: "Biographical profiles of photographers and art directors who shaped the visual language of fashion.", items: [] },

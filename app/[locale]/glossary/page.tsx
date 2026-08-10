@@ -56,7 +56,7 @@ export default async function GlossaryPage({ params }: { params: Promise<{ local
       </div>
 
       <div className="listing-header">
-        <p>{locale === "ru" ? "Разделы глоссария" : "Glossary sections"}</p>
+        <p>{locale === "ru" ? "Разделы глоссария" : "Author categories"}</p>
         <span>{String(filled.length).padStart(2, "0")}</span>
       </div>
       <div className="listing-grid">
@@ -78,7 +78,7 @@ export default async function GlossaryPage({ params }: { params: Promise<{ local
       {planned.length > 0 && (
         <>
           <div className="listing-header">
-            <p>{locale === "ru" ? "Разделы без материалов" : "Sections with no entries yet"}</p>
+            <p>{locale === "ru" ? "Разделы без материалов" : "Author categories with no entries yet"}</p>
             <span>{String(planned.length).padStart(2, "0")}</span>
           </div>
           <div className="listing-grid">
