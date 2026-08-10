@@ -8,9 +8,17 @@ export type ContentMetadata = {
   state: "published" | "drafted"; source_locale: "ru"; source_revision: number; verification_state: "verified" | "multi_source_verified" | "partially_verified" | "unverified";
   categories?: string[];
   confidence_score: number; claim_ids: string[]; source_ids: string[]; last_reviewed: string; author: string; body_hash: string;
-  hero_image?: { src: string; alt: string; caption: string; credit: string; origin: "ai_illustration" | "licensed" | "public_domain" | "editorial_diagram" };
-  portrait_image?: { src: string; alt: string; caption: string; credit: string; origin: "ai_illustration" | "licensed" | "public_domain" | "editorial_diagram" };
+  hero_image?: MediaReference;
+  portrait_image?: MediaReference;
   translation?: { source_locale: "ru"; source_revision: number; semantic_validated: boolean; review_run_id: string };
+};
+type MediaReference = {
+  src: string;
+  alt: string;
+  caption: string;
+  credit: string;
+  origin: "original" | "official" | "licensed" | "public_domain" | "editorial" | "editorial_diagram" | "wikipedia" | "wikimedia_commons" | "ai_illustration" | "ai_reconstruction";
+  rights_status?: "public_domain" | "licensed" | "attribution_required" | "editorial_basis_recorded" | "review_required" | "ai_generated" | "permission_confirmed" | "cc_by_sa";
 };
 export type KnowledgeSource = { id: string; title: string; url: string; publisher: string; source_tier: number; accessed_at: string };
 export type KnowledgeCitation = { id: string; claim_id: string; source_id: string; locator: string; support: string };

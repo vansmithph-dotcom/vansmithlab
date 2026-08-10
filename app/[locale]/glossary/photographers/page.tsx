@@ -49,7 +49,7 @@ export default async function PhotographersListingPage({ params }: { params: Pro
               <span className="listing-card-index">{String(index + 1).padStart(2, "0")}</span>
               <h2>{release.title}</h2>
               <span className="listing-card-summary">{release.summary}</span>
-              <span className="listing-card-meta"><small>{release.verification_state.replaceAll("_", " ")} \u00b7 {Math.round(release.confidence_score * 100)}%</small><i>{content.labels.read} \u2192</i></span>
+              <span className="listing-card-meta"><small>{release.verification_state.replaceAll("_", " ")} · {Math.round(release.confidence_score * 100)}%</small><i>{content.labels.read} →</i></span>
             </span>
             {release.hero_image && <span className="listing-card-media">
               <Image alt={release.hero_image.alt} fill sizes="(max-width: 560px) calc(100vw - 32px), (max-width: 1280px) 50vw, 608px" src={release.hero_image.src} />
