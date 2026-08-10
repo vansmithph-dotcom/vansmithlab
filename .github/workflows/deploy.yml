@@ -85,3 +85,6 @@ jobs:
           fi
 
           ./node_modules/.bin/wrangler pages deploy out --project-name="$PROJECT" --branch=main
+
+      - name: Notify participating search engines
+        run: npm run indexnow:submit

@@ -51,6 +51,7 @@ Production build fails when a release has invalid schema, missing required claim
 - Russian and English equivalents use self-canonical URLs and reciprocal, fully qualified `hreflang` relationships when both releases exist. The Russian editorial source is `x-default` for paired publications.
 - Public titles are concise editorial names, not production metadata. Do not append flag emoji, country codes, workflow states, file suffixes or other technical labels to an H1 or document title. Mixed-script names must have explicit punctuation or whitespace at the script boundary.
 - Static release auditing must parse every JSON-LD block, reject broken canonical/internal/media targets, and reject glued mixed-script titles before deployment.
+- Every production release keeps the canonical sitemap and `robots.txt` public. After a successful deployment, IndexNow may notify participating search engines only about URLs changed by that release; a site-wide notification is allowed when shared rendering, metadata or structured-data code changed. The public verification key belongs at the domain root. IndexNow is a discovery notification, not a ranking or indexing guarantee, and it must never be presented as a Google indexing API.
 
 ## Configuration and secrets
 
