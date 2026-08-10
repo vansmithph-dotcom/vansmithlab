@@ -92,7 +92,7 @@ if (dryRun) {
   process.exit(0);
 }
 
-const response = await fetch("https://api.indexnow.org/indexnow", {
+const response = await fetch("https://www.bing.com/indexnow", {
   method: "POST",
   headers: { "content-type": "application/json; charset=utf-8" },
   body: JSON.stringify({ host, key, keyLocation, urlList }),
@@ -100,7 +100,26 @@ const response = await fetch("https://api.indexnow.org/indexnow", {
 
 if (response.status !== 200 && response.status !== 202) {
   const detail = (await response.text()).trim();
-  throw new Error(`IndexNow rejected the release (${response.status})${detail ? `: ${detail}` : ""}`);
-}
+  let verificationQueued = false;
 
-console.log(`IndexNow: accepted with HTTP ${response.status}.`);
+  if (response.status === 403 && detail.includes("SiteVerificationNotCompleted")) {
+    const verificationUrl = new URL("https://www.bing.com/indexnow");
+    verificationUrl.searchParams.set("url", `${siteOrigin}/`);
+    verificationUrl.searchParams.set("key", key);
+    verificationUrl.searchParams.set("keyLocation", keyLocation);
+    const verification = await fetch(verificationUrl);
+
+    if (verification.status === 200 || verification.status === 202) {
+      console.log(
+        `IndexNow: key verification queued with HTTP ${verification.status}; the next release will retry the URL batch.`
+      );
+      verificationQueued = true;
+    }
+  }
+
+  if (!verificationQueued) {
+    throw new Error(`IndexNow rejected the release (${response.status})${detail ? `: ${detail}` : ""}`);
+  }
+} else {
+  console.log(`IndexNow: accepted with HTTP ${response.status}.`);
+}
