@@ -4,13 +4,13 @@ import ReactMarkdown from "react-markdown";
 import rehypeRaw from "rehype-raw";
 import type { PublishedContent } from "@/lib/content";
 import { copy, type Locale } from "@/lib/site-data";
+import { organizationId, organizationStructuredData, siteUrl, websiteId } from "@/lib/structured-data";
+import { roleByRoute } from "@/lib/taxonomy";
 
 const labels = {
   ru: { back: "Назад", verification: "Проверка", confidence: "Уверенность", reviewed: "Обновлено", sources: "Источники", revision: "Версия", ai: "Материал подготовлен автоматической редакционной системой и прошёл проверку источников." },
   en: { back: "Back", verification: "Verification", confidence: "Confidence", reviewed: "Last reviewed", sources: "Sources", revision: "Revision", ai: "This publication was prepared by an automated editorial system and passed source validation." }
 } as const;
-
-const siteUrl = "https://vansmithlab.com";
 
 function removeDuplicatedArticleIntro(body: string, title: string, summary: string) {
   const lines = body.replace(/\r\n?/g, "\n").split("\n");
@@ -38,21 +38,62 @@ function buildJsonLd(locale: Locale, section: string, content: PublishedContent)
   const { metadata } = content;
   const url = `${siteUrl}/${locale}/${section}/${metadata.slug}/`;
   const image = metadata.hero_image ? `${siteUrl}${metadata.hero_image.src}` : undefined;
-  const organization = { "@type": "Organization" as const, name: "VANSMITHLAB", url: siteUrl };
+  const sectionKey = section === "collection" ? "collections" : section;
+  const sectionCopy = copy[locale].section[sectionKey];
+  const role = section.startsWith("glossary/") ? roleByRoute(section.split("/").at(-1) ?? "") : undefined;
+  const sectionName = sectionCopy?.title ?? (role ? role[locale] : (locale === "ru" ? "Публикации" : "Publications"));
+  const trail = [
+    { name: locale === "ru" ? "Главная" : "Home", url: `${siteUrl}/${locale}/` },
+    ...(section.startsWith("glossary/")
+      ? [
+          { name: copy[locale].section.glossary.title, url: `${siteUrl}/${locale}/glossary/` },
+          { name: sectionName, url: `${siteUrl}/${locale}/${section}/` },
+        ]
+      : [{ name: sectionName, url: `${siteUrl}/${locale}/${section}/` }]),
+    { name: metadata.title, url },
+  ];
+  const aboutType = metadata.content_type.endsWith("_profile")
+    ? "Person"
+    : metadata.kind === "organization"
+      ? "Organization"
+      : "Thing";
+  const keywords = [...(metadata.discipline ?? []), ...(metadata.categories ?? [])];
+
   return {
     "@context": "https://schema.org",
-    "@type": "Article",
-    headline: metadata.title,
-    description: metadata.summary,
-    inLanguage: locale,
-    url,
-    mainEntityOfPage: { "@type": "WebPage", "@id": url },
-    ...(image ? { image: [image] } : {}),
-    datePublished: metadata.last_reviewed,
-    dateModified: metadata.last_reviewed,
-    author: metadata.content_type === "analysis" ? { "@type": "Person", name: metadata.author } : organization,
-    publisher: organization,
-    ...(metadata.content_type.endsWith("_profile") ? { about: { "@type": "Person", name: metadata.title } } : {}),
+    "@graph": [
+      {
+        "@type": "Article",
+        "@id": `${url}#article`,
+        headline: metadata.title,
+        description: metadata.summary,
+        inLanguage: locale,
+        url,
+        mainEntityOfPage: { "@type": "WebPage", "@id": url },
+        isPartOf: { "@id": websiteId },
+        articleSection: sectionName,
+        ...(keywords.length ? { keywords } : {}),
+        ...(image ? { image: [image] } : {}),
+        datePublished: metadata.last_reviewed,
+        dateModified: metadata.last_reviewed,
+        author: metadata.content_type === "analysis"
+          ? { "@type": "Person", name: metadata.author }
+          : { "@id": organizationId },
+        publisher: { "@id": organizationId },
+        about: { "@type": aboutType, name: metadata.title },
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": `${url}#breadcrumb`,
+        itemListElement: trail.map((item, index) => ({
+          "@type": "ListItem",
+          position: index + 1,
+          name: item.name,
+          item: item.url,
+        })),
+      },
+      organizationStructuredData,
+    ],
   };
 }
 

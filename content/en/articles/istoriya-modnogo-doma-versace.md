@@ -1,4 +1,4 @@
-# The History of the Versace Fashion House 🇮🇹
+# Versace: History of the Fashion House
 
 *How ancient symbolism, metallic fabric, the cult of the body, supermodels and pop culture transformed a Milanese family house into a global language of maximalism*
 

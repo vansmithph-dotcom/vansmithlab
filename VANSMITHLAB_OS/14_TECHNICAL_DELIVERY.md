@@ -42,6 +42,16 @@ tests/                # unit, integration, accessibility and release tests
 
 Production build fails when a release has invalid schema, missing required claim/source, stale required localization, unresolved rights, broken critical link, invalid locale route, missing alt text/transcript, or failed structured-data validation.
 
+## Search identity and structured data
+
+- The canonical public entity name is `VANSMITHLAB`; `VAN SMITH LAB` and `vansmithlab.com` are allowed alternate names only.
+- The root page must identify VANSMITHLAB as an independent bilingual encyclopedia of design and visual culture. Its visible copy and machine-readable description must agree.
+- The domain root carries one `WebSite` entity and one `Organization` entity. Publication pages carry an accurate `Article` entity and a `BreadcrumbList` that reflects the visible information architecture.
+- `Organization`, `Article` and breadcrumb properties may contain only facts already visible on the site or present in approved metadata. Do not invent addresses, contacts, social profiles, founding dates, awards, ratings or `sameAs` links.
+- Russian and English equivalents use self-canonical URLs and reciprocal, fully qualified `hreflang` relationships when both releases exist. The Russian editorial source is `x-default` for paired publications.
+- Public titles are concise editorial names, not production metadata. Do not append flag emoji, country codes, workflow states, file suffixes or other technical labels to an H1 or document title. Mixed-script names must have explicit punctuation or whitespace at the script boundary.
+- Static release auditing must parse every JSON-LD block, reject broken canonical/internal/media targets, and reject glued mixed-script titles before deployment.
+
 ## Configuration and secrets
 
 No provider key, webhook secret, source credentials or private prompt data belongs in Git, Markdown, browser code or AI logs. Use Cloudflare/GitHub secret stores; provide least privilege, rotation, audit and separate development/staging/production environments.

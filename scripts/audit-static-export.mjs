@@ -36,6 +36,18 @@ function localAssetTarget(pathname) {
   return join(outDir, decodeURIComponent(pathname).replace(/^\/+/, ""));
 }
 
+function jsonLdNodes(value) {
+  if (Array.isArray(value)) return value.flatMap(jsonLdNodes);
+  if (!value || typeof value !== "object") return [];
+  const graph = Array.isArray(value["@graph"]) ? value["@graph"].flatMap(jsonLdNodes) : [];
+  return [value, ...graph];
+}
+
+function isPublicationRoute(route) {
+  return /^\/(?:ru|en)\/(?:articles|analysis|timeline|collections|encyclopedia)\/[^/]+\/$/.test(route)
+    || /^\/(?:ru|en)\/glossary\/[^/]+\/[^/]+\/$/.test(route);
+}
+
 const htmlFiles = walk(outDir).filter((file) => extname(file) === ".html");
 const pageFiles = htmlFiles.filter((file) => {
   const rel = relative(outDir, file).split(sep).join("/");
@@ -56,9 +68,41 @@ for (const file of pageFiles) {
   const title = html.match(/<title>([\s\S]*?)<\/title>/i)?.[1]?.trim();
   if (!title) failures.push(`${route}: missing document title`);
   else {
+    if (/[А-Яа-яЁё][A-Za-z]|[A-Za-z][А-Яа-яЁё]/u.test(title)) failures.push(`${route}: glued mixed-script title "${title}"`);
+    if (/[\u{1F1E6}-\u{1F1FF}]{2}/u.test(title)) failures.push(`${route}: flag emoji is not allowed in a document title`);
     const routes = titles.get(title) ?? [];
     routes.push(route);
     titles.set(title, routes);
+  }
+
+  const canonical = html.match(/<link\b[^>]*\brel=["']canonical["'][^>]*\bhref=["']([^"']+)["'][^>]*>/i)?.[1]
+    ?? html.match(/<link\b[^>]*\bhref=["']([^"']+)["'][^>]*\brel=["']canonical["'][^>]*>/i)?.[1];
+  if (!canonical) failures.push(`${route}: missing canonical URL`);
+  else {
+    const canonicalUrl = new URL(canonical, siteOrigin);
+    if (canonicalUrl.origin !== siteOrigin) failures.push(`${route}: canonical points outside the canonical domain`);
+    if (!localHtmlTarget(canonicalUrl.pathname)) failures.push(`${route}: canonical target does not exist (${canonicalUrl.pathname})`);
+  }
+
+  const jsonLd = [];
+  for (const match of html.matchAll(/<script\b[^>]*\btype=["']application\/ld\+json["'][^>]*>([\s\S]*?)<\/script>/gi)) {
+    try {
+      jsonLd.push(...jsonLdNodes(JSON.parse(match[1])));
+    } catch (error) {
+      failures.push(`${route}: invalid JSON-LD (${error.message})`);
+    }
+  }
+  if (route === "/") {
+    const website = jsonLd.find((node) => node["@type"] === "WebSite");
+    const organization = jsonLd.find((node) => node["@type"] === "Organization");
+    if (!website || website.name !== "VANSMITHLAB" || website.url !== `${siteOrigin}/`) failures.push("/: missing canonical VANSMITHLAB WebSite entity");
+    if (!organization || organization.name !== "VANSMITHLAB") failures.push("/: missing VANSMITHLAB Organization entity");
+  }
+  if (isPublicationRoute(route)) {
+    const article = jsonLd.find((node) => node["@type"] === "Article");
+    const breadcrumb = jsonLd.find((node) => node["@type"] === "BreadcrumbList");
+    if (!article?.headline || !article?.description || !article?.mainEntityOfPage) failures.push(`${route}: incomplete Article structured data`);
+    if (!Array.isArray(breadcrumb?.itemListElement) || breadcrumb.itemListElement.length < 2) failures.push(`${route}: incomplete BreadcrumbList structured data`);
   }
 
   for (const match of html.matchAll(/<a\b[^>]*\bhref=["']([^"']+)["'][^>]*>/gi)) {

@@ -7,6 +7,8 @@ export type ContentMetadata = {
   content_id: string; primary_object_id: string; content_type: string; locale: Locale; slug: string; title: string; summary: string;
   state: "published" | "drafted"; source_locale: "ru"; source_revision: number; verification_state: "verified" | "multi_source_verified" | "partially_verified" | "unverified";
   categories?: string[];
+  discipline?: string[];
+  kind?: string | string[];
   confidence_score: number; claim_ids: string[]; source_ids: string[]; last_reviewed: string; author: string; body_hash: string;
   hero_image?: MediaReference;
   portrait_image?: MediaReference;
@@ -115,7 +117,7 @@ export function findTranslation(contentId: string, targetLocale: Locale): Conten
 }
 
 // Builds the `alternates.languages` (hreflang) map for a content page. Only includes a locale
-// once its page actually exists вЂ” a hreflang link to a non-existent translation is worse than
+// once its page actually exists — a hreflang link to a non-existent translation is worse than
 // no hreflang at all. Russian is the editorial source of truth, so it is always x-default.
 export function localeAlternates(locale: Locale, canonical: string, translation?: ContentMetadata): Record<string, string> {
   const otherLocale: Locale = locale === "ru" ? "en" : "ru";

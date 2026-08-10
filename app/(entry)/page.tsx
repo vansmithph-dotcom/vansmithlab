@@ -2,6 +2,7 @@
 
 import { useEffect } from "react";
 import { useRouter } from "next/navigation";
+import { entityDescriptions, rootStructuredData } from "@/lib/structured-data";
 
 export default function EntryPage() {
   const router = useRouter();
@@ -14,8 +15,10 @@ export default function EntryPage() {
 
   return (
     <main className="entry-page" aria-label="VANSMITHLAB — loading">
-      <h1 className="sr-only">VANSMITHLAB — Design knowledge library</h1>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(rootStructuredData()).replace(/</g, "\\u003c") }} />
       <p className="entry-mark">VANSMITHLAB®</p>
+      <h1>Independent encyclopedia of design and visual culture.</h1>
+      <p className="entry-description">{entityDescriptions.en}</p>
     </main>
   );
 }

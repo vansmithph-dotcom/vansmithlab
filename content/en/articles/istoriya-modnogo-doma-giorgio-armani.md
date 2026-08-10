@@ -1,4 +1,4 @@
-# The History of the Giorgio Armani Fashion House 🇮🇹
+# Giorgio Armani: History of the Fashion House
 
 *How a soft jacket, a neutral palette, cinema and an independent model of governance created one of the most consistent languages in modern Italian fashion*
 

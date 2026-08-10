@@ -1,4 +1,4 @@
-# The History of the House of Chanel
+# Chanel: History of the Fashion House
 
 *Freedom of movement, repeatable codes and craft infrastructure as the basis of a fashion house's longevity*
 

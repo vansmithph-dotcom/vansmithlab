@@ -1,4 +1,4 @@
-# History of the Gucci fashion house 🇮🇹
+# Gucci: History of the Fashion House
 
 *How a Florentine workshop transformed travel goods, equestrian hardware and a family name into a global language of luxury—and why the house continually reinvents itself while preserving recognisable codes*
 
