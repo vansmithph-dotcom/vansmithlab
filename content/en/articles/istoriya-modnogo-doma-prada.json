@@ -4,7 +4,7 @@
   "content_type": "research",
   "state": "published",
   "source_locale": "ru",
-  "source_revision": 1,
+  "source_revision": 2,
   "verification_state": "verified",
   "confidence_score": 0.94,
   "claim_ids": [
@@ -63,28 +63,31 @@
     "src_7e403c26844475b1",
     "src_34a936ede2aedbef"
   ],
-  "last_reviewed": "2026-08-09",
+  "last_reviewed": "2026-08-10",
   "author": "VANSMITHLAB",
   "locale": "en",
   "slug": "istoriya-modnogo-doma-prada",
-  "title": "The History of the Prada Fashion House",
-  "summary": "How a Milanese maker of travel goods turned industrial nylon, the uniform, architecture and intellectual contradiction into one of the most influential languages of contemporary fashion",
+  "title": "Prada: The History of a Fashion House and Its System",
+  "summary": "How a Milanese house turned travel goods, industrial nylon, architecture, culture and corporate infrastructure into one system of contemporary fashion.",
   "discipline": [
     "fashion"
   ],
   "kind": "organization",
   "role": [],
-  "body_hash": "3b403dec36a5e1d385c43f0026e4af7a902a1fbd8c4ec44217b99e068a743e06",
+  "body_hash": "b62ad6ae96d51822fd628d519d0c83db5e9162416eda93494fa8f0b74f4b7f72",
   "hero_image": {
-    "src": "/images/articles/istoriya-modnogo-doma-prada-hero-v1.webp",
-    "alt": "Illustration: The History of the Prada Fashion House",
-    "caption": "Editorial illustration for “The History of the Prada Fashion House”.",
+    "src": "/images/articles/prada-fashion-house-system-hero-v2.webp",
+    "alt": "Editorial composition about the Prada system: Milan store, travel case, nylon, clothing, architecture and cultural institution.",
+    "caption": "Prada as a system: from store and material to clothing, architecture, cultural institution and contemporary group.",
     "credit": "VANSMITHLAB · AI illustration, 2026",
-    "origin": "ai_illustration"
+    "origin": "ai_illustration",
+    "rights_status": "cleared",
+    "source_url": "",
+    "licence_or_permission": "Original VANSMITHLAB editorial AI illustration without logos or copied brand imagery."
   },
   "translation": {
     "source_locale": "ru",
-    "source_revision": 1,
+    "source_revision": 2,
     "semantic_validated": true,
     "review_run_id": ""
   }

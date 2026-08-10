@@ -4,7 +4,7 @@
   "content_type": "research",
   "state": "published",
   "source_locale": "ru",
-  "source_revision": 1,
+  "source_revision": 2,
   "verification_state": "verified",
   "confidence_score": 0.94,
   "claim_ids": [
@@ -68,23 +68,26 @@
     "src_38c9bbd34a09da38",
     "src_34a936ede2aedbef"
   ],
-  "last_reviewed": "2026-08-09",
+  "last_reviewed": "2026-08-10",
   "author": "VANSMITHLAB",
   "locale": "ru",
   "slug": "istoriya-modnogo-doma-prada",
-  "title": "История модного домаPrada 🇮🇹",
-  "summary": "Как миланский производитель дорожных изделий превратил промышленный нейлон, униформу, архитектуру и интеллектуальное противоречие в один из самых влиятельных языков современной моды",
+  "title": "Prada: история модного дома и системы",
+  "summary": "Как миланский дом превратил дорожные изделия, промышленный нейлон, архитектуру, культуру и корпоративную инфраструктуру в единую систему современной моды.",
   "discipline": [
     "fashion"
   ],
   "kind": "organization",
   "role": [],
-  "body_hash": "7ac02e20cf75aa3ad1429043182071c148c4bf1cda3899b9e91b40ceb1de4225",
+  "body_hash": "2af9ece04622801af9ccda74d12756670448754b885059c4bc0810a77e21906d",
   "hero_image": {
-    "src": "/images/articles/istoriya-modnogo-doma-prada-hero-v1.webp",
-    "alt": "Иллюстрация: История модного дома\nPrada 🇮🇹",
-    "caption": "Редакционная иллюстрация к материалу «История модного дома\nPrada 🇮🇹».",
+    "src": "/images/articles/prada-fashion-house-system-hero-v2.webp",
+    "alt": "Редакционная композиция о системе Prada: миланский магазин, дорожный кейс, нейлон, одежда, архитектура и культурная институция.",
+    "caption": "Prada как система: от магазина и материала к одежде, архитектуре, культурной институции и современной группе.",
     "credit": "VANSMITHLAB · AI-иллюстрация, 2026",
-    "origin": "ai_illustration"
+    "origin": "ai_illustration",
+    "rights_status": "cleared",
+    "source_url": "",
+    "licence_or_permission": "Оригинальная редакционная AI-иллюстрация VANSMITHLAB без логотипов и копирования фирменных изображений."
   }
 }

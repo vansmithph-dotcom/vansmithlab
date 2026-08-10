@@ -1,0 +1,319 @@
+{
+  "id": "obj_e9119be87d914c23",
+  "type": "brand",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 2,
+  "title_ru": "История модного дома Chanel",
+  "slug_ru": "istoriya-modnogo-doma-chanel",
+  "summary_ru": "Исследовательская статья о Chanel как системе одежды, материалов, парфюмерии, ремесла и управления наследием.",
+  "verification_state": "multi_source_verified",
+  "confidence_score": 0.91,
+  "created_at": "2026-08-08T00:00:00.000Z",
+  "updated_at": "2026-08-10T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_90163d74748ab3e7",
+      "wording_ru": "Chanel Modes открылся на 21 rue Cambon в 1910 году; последующее расширение включало Довиль, couture-дом в Биаррице и 31 rue Cambon.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.98,
+      "evidence": [
+        {
+          "source_url": "https://www.chanel.com/al/about-chanel/the-house-of-chanel/1910/",
+          "locator": "1910s chronology: 1910, 1912, 1915 and 1918 entries",
+          "support": "Официальная хронология дома подтверждает адреса, даты и последовательность расширения."
+        }
+      ]
+    },
+    {
+      "id": "clm_fda8df0423df30c4",
+      "wording_ru": "V&A связывает метод Габриэль Шанель с комфортом, простотой и носибельностью, а джерси и твид — со свободой движения и формированием языка дома.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.96,
+      "evidence": [
+        {
+          "source_url": "https://www.vam.ac.uk/articles/what-makes-chanel-so-iconic",
+          "locator": "Sections Jersey and The tweed suit",
+          "support": "Музейный обзор описывает материалы, конструкцию и принципы носибельности."
+        }
+      ]
+    },
+    {
+      "id": "clm_225dfe72b4567ad7",
+      "wording_ru": "N°5 был выпущен в 1921 году в сотрудничестве с Эрнестом Бо; Société des Parfums CHANEL была создана в 1924 году.",
+      "claim_type": "event",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.98,
+      "evidence": [
+        {
+          "source_url": "https://www.chanel.com/gb/about-chanel/the-house-of-chanel/1920/",
+          "locator": "1921 and 1924 entries",
+          "support": "Официальная хронология подтверждает запуск аромата и создание парфюмерной компании."
+        }
+      ]
+    },
+    {
+      "id": "clm_2a5b292a700a1f95",
+      "wording_ru": "Габриэль Шанель вернулась в couture в 1954 году; сумка 2.55 датирована 1955 годом, отделанный тесьмой твидовый костюм — 1956 годом.",
+      "claim_type": "event",
+      "material": true,
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.97,
+      "evidence": [
+        {
+          "source_url": "https://www.chanel.com/gb/about-chanel/the-house-of-chanel/1950/",
+          "locator": "1954, 1955 and 1956 entries",
+          "support": "Официальная хронология подтверждает даты возвращения и объектов."
+        },
+        {
+          "source_url": "https://www.vam.ac.uk/articles/gabrielle-chanel-dressing-the-modern-woman",
+          "locator": "Post-war return and CHANEL suit sections",
+          "support": "V&A независимо описывает возвращение и конструктивные принципы послевоенного костюма."
+        }
+      ]
+    },
+    {
+      "id": "clm_3b27db20f8b1b428",
+      "wording_ru": "Карл Лагерфельд был назначен художественным директором Chanel в 1983 году.",
+      "claim_type": "event",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.98,
+      "evidence": [
+        {
+          "source_url": "https://www.chanel.com/gb/about-chanel/the-house-of-chanel/1980/",
+          "locator": "1983 Arrival of Karl Lagerfeld",
+          "support": "Официальная хронология подтверждает назначение и перечисляет направления его работы."
+        }
+      ]
+    },
+    {
+      "id": "clm_8571a175d9f7c942",
+      "wording_ru": "Матьё Блази назначен художественным директором модных направлений Chanel с ответственностью за haute couture, ready-to-wear и аксессуары и присоединился к дому в 2025 году.",
+      "claim_type": "event",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.98,
+      "evidence": [
+        {
+          "source_url": "https://www.chanel.com/au/fashion/event/chanel-fashion-new-artistic-director/",
+          "locator": "Appointment announcement",
+          "support": "Официальное сообщение Chanel определяет должность, круг ответственности и год начала работы."
+        }
+      ]
+    },
+    {
+      "id": "clm_80d5fc170ed51b31",
+      "wording_ru": "Выставка V&A Gabrielle Chanel. Fashion Manifesto объединила более 200 образов и охватила путь от первой мастерской до последней коллекции 1971 года.",
+      "claim_type": "event",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.96,
+      "evidence": [
+        {
+          "source_url": "https://www.vam.ac.uk/articles/inside-the-gabrielle-chanel-fashion-manifesto-exhibition",
+          "locator": "Exhibition overview",
+          "support": "V&A указывает объём выставки и хронологические границы материала."
+        }
+      ]
+    },
+    {
+      "id": "clm_36a12e2e88dd932a",
+      "wording_ru": "За 2025 финансовый год Chanel сообщил о выручке 19,3 млрд долларов, операционной прибыли 4,712 млрд долларов, капитальных затратах 1,449 млрд долларов и более чем 40 открытых бутиках.",
+      "claim_type": "metric",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.99,
+      "evidence": [
+        {
+          "source_url": "https://www.chanel.com/puls-img/1779117970551-fy25-results-press-release-fr-final.pdf",
+          "locator": "2025 financial highlights and CFO statement",
+          "support": "Официальный финансовый пресс-релиз подтверждает показатели и число открытий."
+        }
+      ]
+    },
+    {
+      "id": "clm_d0c22fe794f54bc0",
+      "wording_ru": "Редакционная интерпретация: долговечность Chanel основана на связи свободы силуэта, материальных кодов, расширения категорий, ателье и управления архивом.",
+      "claim_type": "interpretation",
+      "material": false,
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86,
+      "evidence": [
+        {
+          "source_url": "https://www.vam.ac.uk/articles/what-makes-chanel-so-iconic",
+          "locator": "Full article",
+          "support": "V&A описывает повторяемые материальные и конструктивные принципы языка Chanel."
+        },
+        {
+          "source_url": "https://www.chanel.com/sg/about-chanel/the-house-of-chanel/",
+          "locator": "House chronology",
+          "support": "Хронология показывает расширение дома между категориями и творческими периодами."
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_55eeb7e25079bf4d",
+      "title": "1910s — The House of Chanel",
+      "url": "https://www.chanel.com/al/about-chanel/the-house-of-chanel/1910/",
+      "publisher": "Chanel",
+      "source_tier": 1,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_aff463aa59657f13",
+      "title": "1920s — The House of Chanel",
+      "url": "https://www.chanel.com/gb/about-chanel/the-house-of-chanel/1920/",
+      "publisher": "Chanel",
+      "source_tier": 1,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_8cb9087d612a4e68",
+      "title": "1950s — The House of Chanel",
+      "url": "https://www.chanel.com/gb/about-chanel/the-house-of-chanel/1950/",
+      "publisher": "Chanel",
+      "source_tier": 1,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_6fece76465bb16e6",
+      "title": "1980s — The House of Chanel",
+      "url": "https://www.chanel.com/gb/about-chanel/the-house-of-chanel/1980/",
+      "publisher": "Chanel",
+      "source_tier": 1,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_15cf10ee01d5aea8",
+      "title": "What makes Chanel so iconic?",
+      "url": "https://www.vam.ac.uk/articles/what-makes-chanel-so-iconic",
+      "publisher": "Victoria and Albert Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_c1b5f899e9158f0b",
+      "title": "Matthieu Blazy — Fashion Artistic Director",
+      "url": "https://www.chanel.com/au/fashion/event/chanel-fashion-new-artistic-director/",
+      "publisher": "Chanel",
+      "source_tier": 1,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_b0a340eaddc84bf2",
+      "title": "Chanel Limited Financial Results for the Year Ended 31 December 2025",
+      "url": "https://www.chanel.com/puls-img/1779117970551-fy25-results-press-release-fr-final.pdf",
+      "publisher": "Chanel Limited",
+      "source_tier": 1,
+      "accessed_at": "2026-08-10"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_chanel_01",
+      "claim_id": "clm_90163d74748ab3e7",
+      "source_id": "src_55eeb7e25079bf4d",
+      "locator": "1910s chronology",
+      "support": "Dates and locations of early expansion."
+    },
+    {
+      "id": "cit_chanel_02",
+      "claim_id": "clm_fda8df0423df30c4",
+      "source_id": "src_15cf10ee01d5aea8",
+      "locator": "Jersey and tweed suit sections",
+      "support": "Material and wearability analysis."
+    },
+    {
+      "id": "cit_chanel_03",
+      "claim_id": "clm_225dfe72b4567ad7",
+      "source_id": "src_aff463aa59657f13",
+      "locator": "1921 and 1924 entries",
+      "support": "Fragrance launch and company formation."
+    },
+    {
+      "id": "cit_chanel_04",
+      "claim_id": "clm_2a5b292a700a1f95",
+      "source_id": "src_8cb9087d612a4e68",
+      "locator": "1954–1956 entries",
+      "support": "Return, bag and suit dates."
+    },
+    {
+      "id": "cit_chanel_05",
+      "claim_id": "clm_2a5b292a700a1f95",
+      "source_id": "src_15cf10ee01d5aea8",
+      "locator": "The tweed suit",
+      "support": "Independent museum analysis of construction and movement."
+    },
+    {
+      "id": "cit_chanel_06",
+      "claim_id": "clm_3b27db20f8b1b428",
+      "source_id": "src_6fece76465bb16e6",
+      "locator": "1983 entry",
+      "support": "Appointment and creative programme."
+    },
+    {
+      "id": "cit_chanel_07",
+      "claim_id": "clm_8571a175d9f7c942",
+      "source_id": "src_c1b5f899e9158f0b",
+      "locator": "Appointment announcement",
+      "support": "Role, responsibilities and start year."
+    },
+    {
+      "id": "cit_chanel_08",
+      "claim_id": "clm_80d5fc170ed51b31",
+      "source_id": "src_15cf10ee01d5aea8",
+      "locator": "V&A exhibition context",
+      "support": "Museum framing of Chanel's design method and corpus."
+    },
+    {
+      "id": "cit_chanel_09",
+      "claim_id": "clm_36a12e2e88dd932a",
+      "source_id": "src_b0a340eaddc84bf2",
+      "locator": "2025 financial highlights",
+      "support": "Revenue, operating profit, capex and boutique openings."
+    },
+    {
+      "id": "cit_chanel_10",
+      "claim_id": "clm_d0c22fe794f54bc0",
+      "source_id": "src_15cf10ee01d5aea8",
+      "locator": "Full article",
+      "support": "Museum analysis supports the interpretation of repeatable design principles."
+    },
+    {
+      "id": "cit_chanel_11",
+      "claim_id": "clm_d0c22fe794f54bc0",
+      "source_id": "src_55eeb7e25079bf4d",
+      "locator": "Early house chronology",
+      "support": "The institutional sequence supports the interpretation of a connected system."
+    }
+  ],
+  "relations": [
+    {
+      "subject": "Chanel",
+      "predicate": "founded_by",
+      "object": "Gabrielle Chanel",
+      "evidence_ref": "clm_90163d74748ab3e7"
+    },
+    {
+      "subject": "Chanel",
+      "predicate": "artistic_director",
+      "object": "Matthieu Blazy",
+      "evidence_ref": "clm_8571a175d9f7c942"
+    }
+  ],
+  "contradictions": [],
+  "workflow": {
+    "decision": "EDITORIAL_RECLASSIFICATION_AND_REWRITE",
+    "note": "Материал перенесён из энциклопедии в статьи, служебный черновой текст удалён, изменяемые факты перепроверены по официальным и музейным источникам.",
+    "converted_by": "codex_editorial_audit",
+    "converted_at": "2026-08-10T00:00:00.000Z"
+  }
+}

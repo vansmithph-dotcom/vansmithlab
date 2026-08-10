@@ -1,11 +1,11 @@
 {
   "asset_id": "asset_f57d920b4123a49d",
-  "primary_object_id": "obj_3e00ae10655de7b5",
-  "content_release_id": "cnt_ef00cd439868050b",
+  "primary_object_id": "obj_d18feba842ff1f18",
+  "content_release_id": "cnt_a22d2ea5f09ba29f",
   "kind": "image",
   "origin": "ai_illustration",
   "locale": "ru",
-  "educational_purpose": "Support Prada: как модный дом стал системой without acting as documentary evidence",
+  "educational_purpose": "Support Prada: история модного дома и системы without acting as documentary evidence",
   "may_depict": [
     "Музей FIT фиксирует в своей выставочной записи нейлоновый рюкзак Prada начала 1990-х годов, Италия, инвентарный номер 2017.1.1.",
     "The Metropolitan Museum of Art фиксирует платье Prada, разработанное Миуччей Прада, сезона осень-зима 1995–1996; указанный материал включает нейлон, металл и Velcro.",
@@ -27,8 +27,8 @@
   },
   "creator": "OpenAI image generation · directed and reviewed by VANSMITHLAB",
   "created_at": "2026-08-05",
-  "asset_path": "public/images/encyclopedia/prada-system-hero-v1.webp",
+  "asset_path": "public/images/articles/prada-fashion-house-system-hero-v2.webp",
   "content_sha256": "45e830746352df57a0e788219f81450f50d67e2c407c9cb30bab48adaf04fbcb",
   "generation_prompt_class": "stylized-concept editorial system diagram",
-  "workflow_run_id": "run_20260805070010_97005c36"
+  "workflow_run_id": "run_20260810000000_prada_reclassification"
 }
