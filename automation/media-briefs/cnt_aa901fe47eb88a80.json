@@ -1,0 +1,37 @@
+{
+  "asset_id": "asset_patina-controlled-ageing-material_hero_v1",
+  "primary_object_id": "obj_dde10c77ef004812",
+  "content_release_id": "cnt_aa901fe47eb88a80",
+  "kind": "image",
+  "origin": "ai_illustration",
+  "locale": "multilingual",
+  "educational_purpose": "Visualize patina as controlled ageing of material without documenting specific protected objects.",
+  "may_depict": [
+    "A fictional weathered metal surface study",
+    "Green-blue copper and bronze layers",
+    "Raking light"
+  ],
+  "must_not_imply": [
+    "The image documents a real building or artwork",
+    "The image is attributable to a named designer or artist",
+    "The image reproduces a protected architectural photograph, drawing, furniture design or artwork"
+  ],
+  "rights": {
+    "state": "generated_reviewed",
+    "disclosure": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "rights_basis": "Original AI illustration generated for VANSMITHLAB without reference images or copied identifiable architecture, artworks or brand assets.",
+    "third_party_marks": "No logo, wordmark or recognisable branded asset."
+  },
+  "accessibility": {
+    "alt_text_ru": "Редакционная AI-иллюстрация: Управляемое старение материала: редакционная визуализация патины.",
+    "alt_text_en": "Editorial AI illustration: Controlled ageing of material: an editorial visualization of patina.",
+    "caption_ru": "Управляемое старение материала: редакционная визуализация патины.",
+    "caption_en": "Controlled ageing of material: an editorial visualization of patina."
+  },
+  "creator": "OpenAI image generation · directed and reviewed by VANSMITHLAB",
+  "created_at": "2026-08-11",
+  "asset_path": "public/images/encyclopedia/patina-controlled-ageing-material-hero-v1.webp",
+  "generation_prompt_class": "original fictional editorial visualization of patina",
+  "workflow_run_id": "run_20260811_release_9",
+  "content_sha256": "2a311db55ef9a8e607ec4257f81e5498b5f4be12b761949c465e72e868b929da"
+}

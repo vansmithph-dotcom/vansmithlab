@@ -1,0 +1,37 @@
+{
+  "asset_id": "asset_cyanotype-technique-colour-contemporary-use_hero_v1",
+  "primary_object_id": "obj_094e3faa13cc4fa0",
+  "content_release_id": "cnt_b08305f35d63c405",
+  "kind": "image",
+  "origin": "ai_illustration",
+  "locale": "multilingual",
+  "educational_purpose": "Visualize cyanotype as technique, color and contemporary use without reproducing protected artworks.",
+  "may_depict": [
+    "A fictional cyanotype print flat lay",
+    "Botanical silhouettes in prussian blue",
+    "Sunlight and shadow"
+  ],
+  "must_not_imply": [
+    "The image documents a real building or artwork",
+    "The image is attributable to a named designer or artist",
+    "The image reproduces a protected architectural photograph, drawing, furniture design or artwork"
+  ],
+  "rights": {
+    "state": "generated_reviewed",
+    "disclosure": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "rights_basis": "Original AI illustration generated for VANSMITHLAB without reference images or copied identifiable architecture, artworks or brand assets.",
+    "third_party_marks": "No logo, wordmark or recognisable branded asset."
+  },
+  "accessibility": {
+    "alt_text_ru": "Редакционная AI-иллюстрация: Техника, цвет и современное применение: редакционная визуализация цианотипии.",
+    "alt_text_en": "Editorial AI illustration: Technique, color and contemporary use: an editorial visualization of cyanotype.",
+    "caption_ru": "Техника, цвет и современное применение: редакционная визуализация цианотипии.",
+    "caption_en": "Technique, color and contemporary use: an editorial visualization of cyanotype."
+  },
+  "creator": "OpenAI image generation · directed and reviewed by VANSMITHLAB",
+  "created_at": "2026-08-11",
+  "asset_path": "public/images/encyclopedia/cyanotype-technique-colour-contemporary-use-hero-v1.webp",
+  "generation_prompt_class": "original fictional editorial visualization of cyanotype",
+  "workflow_run_id": "run_20260811_release_9",
+  "content_sha256": "c8f332692d646e7d2cb3b7fc1f6d867679e0948666a1e804db8c3241811c8b0f"
+}

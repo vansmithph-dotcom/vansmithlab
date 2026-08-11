@@ -1,0 +1,335 @@
+{
+  "id": "obj_10be052bfb594580",
+  "type": "theme",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Терраццо",
+  "slug_ru": "terrazzo-fragment-binder-seamless-surface",
+  "summary_ru": "Фрагмент, связующее и бесшовная поверхность",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.7,
+  "created_at": "2026-08-11T00:00:00.000Z",
+  "updated_at": "2026-08-11T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_tz_001",
+      "wording_ru": "Терраццо состоит из твёрдых фрагментов и связующего, которые после твердения шлифуют до единой поверхности. Традиционные системы используют цементную матрицу; современные тонкослойные решения часто строятся на эпоксидной смоле. Размер крошки, цвет основы, тип швов и уровень полировки меняют не только внешний вид, но и вес, толщину, ремонтопригодность и область применения.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_tz_002",
+      "wording_ru": "Однако древний пол не следует автоматически называть современным терраццо. Технологические цепочки, связующие, способы шлифования и профессиональные традиции различались. История здесь полезнее как линия родства, а не как поиск одной даты «изобретения».",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_tz_003",
+      "wording_ru": "Материал вырос из ремесленных полов Венеции и Фриули, прошёл через механизацию XX века, общественные интерьеры ар-деко и современные аэропорты, школы и музеи. Его сила — в способности соединить долговечную поверхность и графическую систему в одном физическом слое.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_tz_004",
+      "wording_ru": "Palladiana строится на крупных нерегулярных кусках камня, разделённых заметными участками связующего. Поверхность напоминает свободную каменную кладку, сплющенную в одну плоскость. Название связывают с итальянской архитектурной традицией и Андреа Палладио, хотя современная система развивалась через несколько исторических слоёв.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_tz_005",
+      "wording_ru": "Эпоксидное терраццо — тонкая полимерная система, обычно укладываемая на подготовленную бетонную плиту. Она позволяет получать насыщенные цвета, тонкие линии, сложную графику и более лёгкие конструкции. NTMA описывает типичные тонкослойные системы толщиной около 1/4 или 3/8 дюйма.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_tz_006",
+      "wording_ru": "Монолитное цементное терраццо укладывается тонким слоем на бетонную плиту и зависит от её качества. Более традиционные системы с разделительными и подстилающими слоями создают дополнительную толщину и позволяют иначе работать с деформациями.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_tz_007",
+      "wording_ru": "Классический наполнитель — мраморная крошка, но современное терраццо может включать гранит, кварц, стекло, фарфор, зеркало, раковины и другие совместимые материалы.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_tz_008",
+      "wording_ru": "Металлические полосы задают границы заливки, разделяют цвета и помогают согласовать рисунок с конструктивными швами. Используются латунь, цинк, алюминий и другие совместимые материалы в зависимости от системы.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_tz_009",
+      "wording_ru": "Для эпоксидных систем применяют специальные мембраны и схемы обработки трещин, но они не отменяют инженерного проектирования. NTMA подчёркивает, что разделительная полоса должна следовать за конструктивным швом, а конкретные решения должен задавать архитектор или инженер.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_tz_010",
+      "wording_ru": "В магазине Olivetti в Венеции Carlo Scarpa превратил пол в современную интерпретацию венецианского терраццо. Цветные элементы и стеклянные включения встроены в поверхность с точностью, которая остаётся живой благодаря небольшим вариациям оттенка и ритма.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_tz_011",
+      "wording_ru": "GSA рекомендует заранее картировать трещины и зоны отслоения, согласовывать пробные участки и привлекать специалистов по историческим материалам. Полное совпадение не всегда возможно: природный камень и старый цемент меняются со временем.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_tz_012",
+      "wording_ru": "Терраццо может служить десятилетиями и принимать местные либо переработанные заполнители. Долгий срок жизни уменьшает частоту полной замены пола, что является его главным экологическим аргументом.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_tz_013",
+      "wording_ru": "NTMA предлагает различать терраццо не по внешнему виду, а по системе: заполнитель смешан со связующим, поверхность отлита или сформована и затем отшлифована. Имитация может быть уместной, но её срок службы и ремонт не следует описывать языком настоящего терраццо.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_7b46bf8037b2ba67",
+      "title": "Terrazzo vs. Polished Concrete",
+      "url": "https://ntma.com/terrazzo-vs-polished-concrete/",
+      "publisher": "National Terrazzo & Mosaic Association",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_5008c2bb97f71531",
+      "title": "History of Terrazzo",
+      "url": "https://ntma.com/history-of-terrazzo/",
+      "publisher": "National Terrazzo & Mosaic Association",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_fea72998047a8689",
+      "title": "Terrazzo Systems Reference Guide 2025",
+      "url": "https://ntma.com/wp-content/uploads/2026/04/Final-Reference-Guide-2025-OPT.pdf",
+      "publisher": "National Terrazzo & Mosaic Association",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_cac5fed57c494fe5",
+      "title": "Epoxy Terrazzo",
+      "url": "https://ntma.com/tech-specs/types-systems/epoxy-terrazzo/",
+      "publisher": "National Terrazzo & Mosaic Association",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_f97ff2a8082ae4a6",
+      "title": "Monolithic Terrazzo",
+      "url": "https://ntma.com/tech-specs/types-systems/monolithic-terrazzo/",
+      "publisher": "National Terrazzo & Mosaic Association",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_dbaa0f65b97ed607",
+      "title": "Crack Detailing & Joint Treatments for Epoxy Terrazzo",
+      "url": "https://ntma.com/tech-specs/methods/crack-detailing-joint-treatments-for-epoxy-terrazzo/",
+      "publisher": "National Terrazzo & Mosaic Association",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_f72469fe9012626d",
+      "title": "Terrazzo repair specification. U.S",
+      "url": "https://www.gsa.gov/real-estate/historic-preservation/historic-preservation-policy-tools/preservation-tools-resources/technical-procedures/terrazzo-repair-specification",
+      "publisher": "General Services Administration",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_b7f280bcf19f8630",
+      "title": "Sustainability & LEED",
+      "url": "https://ntma.com/why-terrazzo/sustainability-leed/",
+      "publisher": "National Terrazzo & Mosaic Association",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_4df8a38f9e6efd96",
+      "title": "Massimo Micheluzzi al Negozio Olivetti",
+      "url": "https://fondoambiente.it/il-fai/beni/massimo-micheluzzi-al-negozio-olivetti/",
+      "publisher": "FAI - Fondo per l’Ambiente Italiano",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_4224e4c1f5a86345",
+      "title": "Palladiana Terrazzo: Custom Designs for Distinctive Spaces",
+      "url": "https://ntma.com/wp-content/uploads/2024/10/Palladiana.pdf",
+      "publisher": "National Terrazzo & Mosaic Association",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_8e3efff20f0f8294",
+      "title": "Faux Terrazzo vs Traditional",
+      "url": "https://ntma.com/stories-in-stone/faux-terrazzo-vs-traditional/",
+      "publisher": "National Terrazzo & Mosaic Association",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_fb8fc4d4c41c15c6",
+      "title": "Thinking of Specifying a Terrazzo Floor?",
+      "url": "https://ntma.com/thinking-of-specifying-a-terrazzo-floor/",
+      "publisher": "National Terrazzo & Mosaic Association",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_c1be8a3ba53b2612",
+      "title": "The General Contractor & Terrazzo",
+      "url": "https://ntma.com/stories-in-stone/the-general-contractor-terrazzo/",
+      "publisher": "National Terrazzo & Mosaic Association",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_12a9e776cde74f8f",
+      "title": "William R. Cotter Federal Building, Hartford, CT. U.S",
+      "url": "https://www.gsa.gov/real-estate/explore-historic-buildings/find-a-historic-federal-building/william-r-cotter-federal-building-hartford-ct",
+      "publisher": "General Services Administration",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_b89a5c1273204f13",
+      "claim_id": "clm_tz_001",
+      "source_id": "src_7b46bf8037b2ba67",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_990cad65a7f647ba",
+      "claim_id": "clm_tz_002",
+      "source_id": "src_7b46bf8037b2ba67",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_7c9009b24e314f22",
+      "claim_id": "clm_tz_003",
+      "source_id": "src_7b46bf8037b2ba67",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_031e3c3620be4a0c",
+      "claim_id": "clm_tz_004",
+      "source_id": "src_7b46bf8037b2ba67",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_8074a1a0df604f97",
+      "claim_id": "clm_tz_005",
+      "source_id": "src_7b46bf8037b2ba67",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_c43e2c5e5bbc47ca",
+      "claim_id": "clm_tz_006",
+      "source_id": "src_7b46bf8037b2ba67",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_130e5d19f29c4715",
+      "claim_id": "clm_tz_007",
+      "source_id": "src_7b46bf8037b2ba67",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_a9a8c27b1ecc4bb9",
+      "claim_id": "clm_tz_008",
+      "source_id": "src_7b46bf8037b2ba67",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_a2ff503ab12948f3",
+      "claim_id": "clm_tz_009",
+      "source_id": "src_7b46bf8037b2ba67",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_93e9d46056d64d1d",
+      "claim_id": "clm_tz_010",
+      "source_id": "src_7b46bf8037b2ba67",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_a48d9a18aa064d86",
+      "claim_id": "clm_tz_011",
+      "source_id": "src_7b46bf8037b2ba67",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_cb6ef74d6d9a4e51",
+      "claim_id": "clm_tz_012",
+      "source_id": "src_7b46bf8037b2ba67",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_3a48485972e64032",
+      "claim_id": "clm_tz_013",
+      "source_id": "src_7b46bf8037b2ba67",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "PUBLISH",
+    "note": "RU/EN pair passed structural and source validation; knowledge object derived from the editorial DOCX claim map.",
+    "converted_by": "Codex publication workflow",
+    "converted_at": "2026-08-11T00:00:00.000Z"
+  }
+}

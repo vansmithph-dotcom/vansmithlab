@@ -1,0 +1,37 @@
+{
+  "asset_id": "asset_bauhaus-art-production-system_hero_v1",
+  "primary_object_id": "obj_1fbf646e8935409f",
+  "content_release_id": "cnt_f3b50a01633475b8",
+  "kind": "image",
+  "origin": "ai_illustration",
+  "locale": "multilingual",
+  "educational_purpose": "Visualize the Bauhaus as a unified system of art and production without reproducing protected furniture or buildings.",
+  "may_depict": [
+    "A fictional Bauhaus workshop scene",
+    "Geometric furniture prototypes",
+    "Primary color accents"
+  ],
+  "must_not_imply": [
+    "The image documents a real building or artwork",
+    "The image is attributable to a named designer or artist",
+    "The image reproduces a protected architectural photograph, drawing, furniture design or artwork"
+  ],
+  "rights": {
+    "state": "generated_reviewed",
+    "disclosure": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "rights_basis": "Original AI illustration generated for VANSMITHLAB without reference images or copied identifiable architecture, artworks or brand assets.",
+    "third_party_marks": "No logo, wordmark or recognisable branded asset."
+  },
+  "accessibility": {
+    "alt_text_ru": "Редакционная AI-иллюстрация: Единая система искусства и производства: редакционная визуализация Баухауса.",
+    "alt_text_en": "Editorial AI illustration: A unified system of art and production: an editorial visualization of the Bauhaus.",
+    "caption_ru": "Единая система искусства и производства: редакционная визуализация Баухауса.",
+    "caption_en": "A unified system of art and production: an editorial visualization of the Bauhaus."
+  },
+  "creator": "OpenAI image generation · directed and reviewed by VANSMITHLAB",
+  "created_at": "2026-08-11",
+  "asset_path": "public/images/encyclopedia/bauhaus-art-production-system-hero-v1.webp",
+  "generation_prompt_class": "original fictional editorial visualization of bauhaus",
+  "workflow_run_id": "run_20260811_release_9",
+  "content_sha256": "3b6c0b3aff054968c7faf0d23647227e0572fa050c1a1df973bf27a0e280230f"
+}

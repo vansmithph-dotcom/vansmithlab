@@ -1,0 +1,373 @@
+{
+  "id": "obj_c93fba5784d54533",
+  "type": "theme",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Контактная печать",
+  "slug_ru": "contact-printing-image-at-negative-scale",
+  "summary_ru": "Изображение в масштабе негатива",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.7,
+  "created_at": "2026-08-11T00:00:00.000Z",
+  "updated_at": "2026-08-11T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_001",
+      "wording_ru": "Контактный отпечаток получают, размещая негатив эмульсией к светочувствительной стороне бумаги и экспонируя их в непосредственном контакте. Изображение имеет тот же размер, что и негатив; резкость зависит от качества негатива, плотности прижима, чистоты поверхностей, света и обработки.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_002",
+      "wording_ru": "Контактный отпечаток получают, размещая негатив эмульсией к светочувствительной стороне бумаги и экспонируя их в непосредственном контакте. Изображение имеет тот же размер, что и негатив; резкость зависит от качества негатива, плотности прижима, чистоты поверхностей, света и обработки.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_003",
+      "wording_ru": "Система Уильяма Генри Фокса Талбота была принципиально важна тем, что бумажный негатив позволял получать несколько позитивных отпечатков. The Met называет эту негативно-позитивную логику основой почти всей фотографии до цифровой эпохи.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_004",
+      "wording_ru": "Система Уильяма Генри Фокса Талбота была принципиально важна тем, что бумажный негатив позволял получать несколько позитивных отпечатков. The Met называет эту негативно-позитивную логику основой почти всей фотографии до цифровой эпохи.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_005",
+      "wording_ru": "Ранние printing-out бумаги экспонировали солнцем. Позднее появились gaslight papers, рассчитанные на сравнительно слабое искусственное освещение; Kodak AZO стал известной контактной бумагой для домашних и профессиональных печатников.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_006",
+      "wording_ru": "Экспозицию определяют пробной полоской или ступенчатым тестом. Важно получить на незасвеченной кромке плёнки глубокий чёрный, сохранив различия в плотностях кадров. ILFORD описывает контакт-лист как основу последующего анализа негатива.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_007",
+      "wording_ru": "Экспозицию определяют пробной полоской или ступенчатым тестом. Важно получить на незасвеченной кромке плёнки глубокий чёрный, сохранив различия в плотностях кадров. ILFORD описывает контакт-лист как основу последующего анализа негатива.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_008",
+      "wording_ru": "Center for Creative Photography отмечает, что наибольшее разрешение негатива проявляется именно в контактном отпечатке, когда негатив непосредственно соприкасается с бумагой.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_009",
+      "wording_ru": "Magnum описывает контактные листы как прямые отпечатки последовательностей негативов, которые до цифровой эпохи были ключевыми для просмотра, редактирования и индексирования. Они показывают движение фотографа к выбранной композиции.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_010",
+      "wording_ru": "Magnum описывает контактные листы как прямые отпечатки последовательностей негативов, которые до цифровой эпохи были ключевыми для просмотра, редактирования и индексирования. Они показывают движение фотографа к выбранной композиции.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_011",
+      "wording_ru": "Отпечатки Edward Weston часто близки к размеру его 8×10-дюймовых негативов. Объекты в коллекции NGA имеют изображение примерно 19×24 см — масштаб, соответствующий контактной логике крупноформатной камеры.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_012",
+      "wording_ru": "Отпечатки Edward Weston часто близки к размеру его 8×10-дюймовых негативов. Объекты в коллекции NGA имеют изображение примерно 19×24 см — масштаб, соответствующий контактной логике крупноформатной камеры.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_013",
+      "wording_ru": "Платиновая и палладиевая печать традиционно выполняется контактом: размер позитивного изображения совпадает с размером негатива. Getty фиксирует широкое распространение platinotype с конца XIX века, а учебные материалы описывают негатив, бумагу и печатную раму как единую систему.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_014",
+      "wording_ru": "Платиновая и палладиевая печать традиционно выполняется контактом: размер позитивного изображения совпадает с размером негатива. Getty фиксирует широкое распространение platinotype с конца XIX века, а учебные материалы описывают негатив, бумагу и печатную раму как единую систему.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_015",
+      "wording_ru": "Негативы и контакт-листы хранят раздельно в архивных конвертах, подписывают стабильными материалами и защищают от пыли, влаги, тепла и интенсивного света. Library of Congress рекомендует стабильную относительную влажность и минимальные суточные колебания.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_894ee2ba953750cc",
+      "title": "Intimate Nature: Ansel Adams and the Close View",
+      "url": "https://ccp.arizona.edu/learn/educators-guides-archive/intimate-nature-ansel-adams-and-close-view/",
+      "publisher": "Center for Creative Photography",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_10504fcad8bd70db",
+      "title": "A Brief History of Panoramic Photography",
+      "url": "https://www.loc.gov/static/collections/panoramic-photographs/articles-and-essays/a-brief-history-of-panoramic-photography/",
+      "publisher": "Library of Congress",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_8799bf0a9b248b8c",
+      "title": "William Henry Fox Talbot and the Invention of Photography",
+      "url": "https://www.metmuseum.org/essays/william-henry-fox-talbot-1800-1877-and-the-invention-of-photography",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_e226c3b7737c3943",
+      "title": "The Pencil of Nature",
+      "url": "https://www.metmuseum.org/art/collection/search/267022",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_807e2147a073d9dd",
+      "title": "George Eastman Museum Bulletin March April 2021",
+      "url": "https://www.eastman.org/sites/default/files/GEM-2020_3.4_bulletin_FORWEB.pdf",
+      "publisher": "George Eastman Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_2fa9b2885a2572b1",
+      "title": "Making a Black and White Print: Contact Sheets",
+      "url": "https://www.ilfordphoto.com/making-a-contact-sheet/",
+      "publisher": "ILFORD Photo",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_8c6127b9a1046de9",
+      "title": "Making a Black and White Print: Exposure Testing",
+      "url": "https://www.ilfordphoto.com/exposure-testing/",
+      "publisher": "ILFORD Photo",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_be594a5d0fc0b165",
+      "title": "About the Center for Creative Photography",
+      "url": "https://ccp.arizona.edu/about/about-ccp/",
+      "publisher": "Center for Creative Photography",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_09cea48d651aa6ad",
+      "title": "Contact Sheets: The Images Behind the Image",
+      "url": "https://www.magnumphotos.com/theory-and-practice/magnum-photographers-contact-sheets-the-images-behind-the-image/",
+      "publisher": "Magnum Photos",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_e788a84df1af8a54",
+      "title": "Making the Image: Miles Davis",
+      "url": "https://www.magnumphotos.com/theory-and-practice/making-the-image-miles-davis/",
+      "publisher": "Magnum Photos",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_482c18191222ee95",
+      "title": "Dunes at Oceano",
+      "url": "https://www.nga.gov/artworks/223162-dunes-oceano",
+      "publisher": "National Gallery of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_407ca109d875b6be",
+      "title": "Cypress Grove, Point Lobos",
+      "url": "https://www.nga.gov/artworks/222101-cypress-grove-point-lobos",
+      "publisher": "National Gallery of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_a96659ca4b0f99fa",
+      "title": "Platinotype",
+      "url": "https://www.getty.edu/conservation/publications_resources/pdf_publications/pdf/atlas_platinotype_corrected.pdf",
+      "publisher": "Getty Conservation Institute",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_381526bbf16374c9",
+      "title": "Platinum Palladium Process Recreation",
+      "url": "https://www.getty.edu/conservation/publications_resources/teaching/m2_platinum.pdf",
+      "publisher": "Getty Conservation Institute",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_5a6195ebd4981198",
+      "title": "Care Handling and Storage of Photographs",
+      "url": "https://www.loc.gov/preservation/care/photolea.html",
+      "publisher": "Library of Congress",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_4d8d24fb7f0b4e15",
+      "claim_id": "clm_001",
+      "source_id": "src_894ee2ba953750cc",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_44b7a3a69765418b",
+      "claim_id": "clm_002",
+      "source_id": "src_894ee2ba953750cc",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_ba13953afea84435",
+      "claim_id": "clm_003",
+      "source_id": "src_894ee2ba953750cc",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_7f7909b1fae34563",
+      "claim_id": "clm_004",
+      "source_id": "src_894ee2ba953750cc",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_63ae2ce8ebae4ae1",
+      "claim_id": "clm_005",
+      "source_id": "src_894ee2ba953750cc",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_24004a05ea7f4a40",
+      "claim_id": "clm_006",
+      "source_id": "src_894ee2ba953750cc",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_ca5b774736ff4810",
+      "claim_id": "clm_007",
+      "source_id": "src_894ee2ba953750cc",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_dff765aaa7e044ca",
+      "claim_id": "clm_008",
+      "source_id": "src_be594a5d0fc0b165",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_6fb10264258244c0",
+      "claim_id": "clm_009",
+      "source_id": "src_894ee2ba953750cc",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_ed3db7fb936e4c35",
+      "claim_id": "clm_010",
+      "source_id": "src_894ee2ba953750cc",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_97917c5b1b4346d6",
+      "claim_id": "clm_011",
+      "source_id": "src_894ee2ba953750cc",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_fc6fad4543da40e4",
+      "claim_id": "clm_012",
+      "source_id": "src_894ee2ba953750cc",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_478214df78664bcb",
+      "claim_id": "clm_013",
+      "source_id": "src_894ee2ba953750cc",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_38a2fed3285d4078",
+      "claim_id": "clm_014",
+      "source_id": "src_894ee2ba953750cc",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_b6822603db304e08",
+      "claim_id": "clm_015",
+      "source_id": "src_5a6195ebd4981198",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "PUBLISH",
+    "note": "RU/EN pair passed structural and source validation; knowledge object derived from the editorial DOCX claim map.",
+    "converted_by": "Codex publication workflow",
+    "converted_at": "2026-08-11T00:00:00.000Z"
+  }
+}

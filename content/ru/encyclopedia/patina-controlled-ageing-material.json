@@ -1,0 +1,63 @@
+{
+  "content_id": "cnt_aa901fe47eb88a80",
+  "primary_object_id": "obj_dde10c77ef004812",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.7,
+  "claim_ids": [
+    "clm_001",
+    "clm_002",
+    "clm_003",
+    "clm_004",
+    "clm_005",
+    "clm_006",
+    "clm_007",
+    "clm_008",
+    "clm_010",
+    "clm_011",
+    "clm_012",
+    "clm_013",
+    "clm_015"
+  ],
+  "source_ids": [
+    "src_4ba2ea9e51dde87c",
+    "src_32e6c1e8437469f8",
+    "src_6070466138411125",
+    "src_bf338c19e318decd",
+    "src_7dc9f3a6369320cc",
+    "src_df84dcc3ea1bc18f",
+    "src_bf283b3f931d642b",
+    "src_55726279c86ea0fa",
+    "src_9acca7e9dac472af",
+    "src_5a3cb2afca55e923",
+    "src_207d6d8818717be8",
+    "src_acfd1a62d5c3c55d",
+    "src_7b6918cb49b242a6",
+    "src_800f72cb5252ff2c"
+  ],
+  "last_reviewed": "2026-08-11",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "patina-controlled-ageing-material",
+  "title": "Патина",
+  "summary": "Управляемое старение материала",
+  "discipline": [
+    "architecture",
+    "interior-design",
+    "product-design",
+    "art"
+  ],
+  "kind": "material-technique",
+  "role": [],
+  "body_hash": "c0bc182d6ab9d3f992797050b45c7d804e04f7bc4f7d2684042367eab90b6623",
+  "hero_image": {
+    "src": "/images/encyclopedia/patina-controlled-ageing-material-hero-v1.webp",
+    "alt": "Редакционная AI-иллюстрация: Управляемое старение материала: редакционная визуализация патины.",
+    "caption": "Управляемое старение материала: редакционная визуализация патины.",
+    "credit": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "origin": "ai_illustration"
+  }
+}

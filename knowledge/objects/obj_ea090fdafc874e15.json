@@ -1,0 +1,373 @@
+{
+  "id": "obj_ea090fdafc874e15",
+  "type": "theme",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Фотограмма",
+  "slug_ru": "photogram-camera-less-image",
+  "summary_ru": "Изображение без камеры, построенное светом, контактом и временем",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.7,
+  "created_at": "2026-08-11T00:00:00.000Z",
+  "updated_at": "2026-08-11T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_001",
+      "wording_ru": "Фотограмма — это фотографическое изображение, созданное без камеры, обычно путём размещения предметов на светочувствительной поверхности и последующего воздействия света. Участки, закрытые непрозрачным объектом, получают меньше экспозиции и остаются светлее; прозрачные и полупрозрачные материалы создают промежуточные тона.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_002",
+      "wording_ru": "Фотограмма — это фотографическое изображение, созданное без камеры, обычно путём размещения предметов на светочувствительной поверхности и последующего воздействия света. Участки, закрытые непрозрачным объектом, получают меньше экспозиции и остаются светлее; прозрачные и полупрозрачные материалы создают промежуточные тона.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_003",
+      "wording_ru": "В 1830–1840-е годы Уильям Генри Фокс Талбот называл подобные изображения «фотогенными рисунками». Его ранние работы с кружевом, листьями и водорослями показывали, что фотография может возникать из прямого контакта предмета с подготовленной бумагой.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_004",
+      "wording_ru": "В 1830–1840-е годы Уильям Генри Фокс Талбот называл подобные изображения «фотогенными рисунками». Его ранние работы с кружевом, листьями и водорослями показывали, что фотография может возникать из прямого контакта предмета с подготовленной бумагой.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_005",
+      "wording_ru": "Анна Аткинс использовала цианотипию для серии Photographs of British Algae: Cyanotype Impressions, начатой в 1843 году. V&A характеризует её как первую книгу, иллюстрированную фотографическими изображениями.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_006",
+      "wording_ru": "Так Ман Рэй строил сложные rayographs, где руки, лица и лабораторные предметы существуют не в одном моменте, а как монтаж нескольких световых событий.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_007",
+      "wording_ru": "Альбом Champs Délicieux, опубликованный в 1922 году, превратил отдельные rayographs в последовательность. MoMA отмечает, что книга сопровождалась предисловием Тристана Тцара и связала процесс с Dada.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_008",
+      "wording_ru": "Ласло Мохой-Надь воспринимал photogram как способ работать непосредственно со светом. В его композициях предмет может почти исчезнуть, оставляя градиенты, прозрачные круги и пространственные пересечения. The Met связывает эти работы с экспериментальной культурой Баухауса.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_009",
+      "wording_ru": "Японский художник Ei-Q в серии Reason of Sleep 1936 года использовал фотограмму как синтез фотографических возможностей. MoMA хранит работы серии и приводит его формулировку о чувствительной бумаге как активном генераторе изображения.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_010",
+      "wording_ru": "Адам Фусс расширил фотограмму до масштаба тела и события. В Now! 1988 года всплеск воды над большим листом бумаги записал волны и капли как мгновенную космологию; The Met описывает работу как фиксацию времени и энергии, а не формы предмета.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_011",
+      "wording_ru": "Марко Бройер работает с фотобумагой после экспонирования и проявления: режет, царапает, обжигает и прокалывает её. MoMA описывает Pan (C-279) как работу, раскрывающую физические слои цветной эмульсии.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_012",
+      "wording_ru": "Лиз Дешен создаёт работы, где объект может исчезнуть полностью. Для Tilt/Swing она экспонировала фотобумагу лунным светом и затем тонировала её серебром, превращая изображение в изменчивую отражающую поверхность.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_013",
+      "wording_ru": "Самый доступный материал — обычная чёрно-белая фотобумага. ILFORD отмечает, что для фотограмм подходят как бумага на полиэтиленовой основе, так и fibre-based paper; выбор влияет на поверхность, тональный диапазон, обработку и сушку.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_014",
+      "wording_ru": "Пробная полоска делит бумагу на участки с разной экспозицией. Такой тест позволяет увидеть, где появляется глубокий чёрный, сохраняется полутон и исчезают прозрачные детали. ILFORD рекомендует ступенчатые выдержки как основу контроля печати.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_015",
+      "wording_ru": "Для сохранения результата важны корректная фиксация, промывка, нейтральные материалы хранения и ограничение интенсивного света. Getty рассматривает фотографические процессы и условия хранения как единую задачу сохранности.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_6f4677cc90496fea",
+      "title": "Photogram",
+      "url": "https://www.moma.org/collection/terms/photogram",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_d70d9af36809bbc8",
+      "title": "Cameraless photography",
+      "url": "https://www.moma.org/collection/terms/cameraless-photography",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_8799bf0a9b248b8c",
+      "title": "William Henry Fox Talbot and the Invention of Photography",
+      "url": "https://www.metmuseum.org/essays/william-henry-fox-talbot-1800-1877-and-the-invention-of-photography",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_8b95f332a7590e11",
+      "title": "Wrack",
+      "url": "https://www.metmuseum.org/art/collection/search/282756",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_350c41cb3182a081",
+      "title": "A blueprint for the future: Cyanotypes by Anna Atkins",
+      "url": "https://www.vam.ac.uk/blog/caring-for-our-collections/a-blueprint-for-the-future-cyanotypes-by-anna-atkins",
+      "publisher": "Victoria and Albert Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_31de70422f5b2396",
+      "title": "Rayograph, 1922",
+      "url": "https://www.moma.org/collection/works/46405",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_651a588359ac8e3f",
+      "title": "Man Ray’s Champs Délicieux Turns 100",
+      "url": "https://www.moma.org/magazine/articles/688",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_834bc6589981bf3d",
+      "title": "Fotogramm, 1922",
+      "url": "https://www.metmuseum.org/art/collection/search/265275",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_24a16ad9b4b01b6a",
+      "title": "Ei-Q (Hideo Sugita)",
+      "url": "https://www.moma.org/collection/artists/74353",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_7c12ecbdf6bb7e6e",
+      "title": "Now!, 1988",
+      "url": "https://www.metmuseum.org/art/collection/search/266427",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_38f5fbed1c37f8af",
+      "title": "Pan (C-279), 2003",
+      "url": "https://www.moma.org/collection/works/90746",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_5a1efcf40e96a8d5",
+      "title": "Surface and Light: Liz Deschenes",
+      "url": "https://www.moma.org/explore/inside_out/2012/07/12/surface-and-light-liz-deschenes/",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_10d5732b4a121db9",
+      "title": "Pictures Without a Camera: Sun Pictures and Photograms",
+      "url": "https://www.ilfordphoto.com/pictures-without-camera/",
+      "publisher": "ILFORD Photo",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_8c6127b9a1046de9",
+      "title": "Making a Black and White Print: Exposure Testing",
+      "url": "https://www.ilfordphoto.com/exposure-testing/",
+      "publisher": "ILFORD Photo",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_ffd16f0c20be511c",
+      "title": "Photographs of the Past: Process and Preservation",
+      "url": "https://www.getty.edu/conservation/publications_resources/books/photos_of_the_past.html",
+      "publisher": "Getty Conservation Institute",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_807467646d8140d7",
+      "claim_id": "clm_001",
+      "source_id": "src_6f4677cc90496fea",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_a3f4a09a9bfd4803",
+      "claim_id": "clm_002",
+      "source_id": "src_6f4677cc90496fea",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_54f3a68850524ec1",
+      "claim_id": "clm_003",
+      "source_id": "src_6f4677cc90496fea",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_d79df4767b5e406e",
+      "claim_id": "clm_004",
+      "source_id": "src_6f4677cc90496fea",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_63bf62926c794cbe",
+      "claim_id": "clm_005",
+      "source_id": "src_6f4677cc90496fea",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_371d408a7a974188",
+      "claim_id": "clm_006",
+      "source_id": "src_6f4677cc90496fea",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_4e99fb9baf214355",
+      "claim_id": "clm_007",
+      "source_id": "src_6f4677cc90496fea",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_28be56ab06004360",
+      "claim_id": "clm_008",
+      "source_id": "src_6f4677cc90496fea",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_f8279b7a21764cd4",
+      "claim_id": "clm_009",
+      "source_id": "src_6f4677cc90496fea",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_3718962eaab1443b",
+      "claim_id": "clm_010",
+      "source_id": "src_6f4677cc90496fea",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_fa60bc01c67b4cac",
+      "claim_id": "clm_011",
+      "source_id": "src_6f4677cc90496fea",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_ead0fe19d7ea46a2",
+      "claim_id": "clm_012",
+      "source_id": "src_6f4677cc90496fea",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_f83d3f188e134aa9",
+      "claim_id": "clm_013",
+      "source_id": "src_6f4677cc90496fea",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_e0ca32bc3e6b4ef7",
+      "claim_id": "clm_014",
+      "source_id": "src_6f4677cc90496fea",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_7935e0302c5943ff",
+      "claim_id": "clm_015",
+      "source_id": "src_6f4677cc90496fea",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "PUBLISH",
+    "note": "RU/EN pair passed structural and source validation; knowledge object derived from the editorial DOCX claim map.",
+    "converted_by": "Codex publication workflow",
+    "converted_at": "2026-08-11T00:00:00.000Z"
+  }
+}

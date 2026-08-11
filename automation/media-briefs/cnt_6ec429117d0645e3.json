@@ -1,0 +1,37 @@
+{
+  "asset_id": "asset_charred-wood-yakisugi-protection-black-texture_hero_v1",
+  "primary_object_id": "obj_bdf68ea944f94d11",
+  "content_release_id": "cnt_6ec429117d0645e3",
+  "kind": "image",
+  "origin": "ai_illustration",
+  "locale": "multilingual",
+  "educational_purpose": "Visualize charred wood / yakisugi as protection and black texture without documenting a real building.",
+  "may_depict": [
+    "A fictional charred wood facade detail",
+    "Black planks with visible grain",
+    "Warm raking light"
+  ],
+  "must_not_imply": [
+    "The image documents a real building or artwork",
+    "The image is attributable to a named designer or artist",
+    "The image reproduces a protected architectural photograph, drawing, furniture design or artwork"
+  ],
+  "rights": {
+    "state": "generated_reviewed",
+    "disclosure": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "rights_basis": "Original AI illustration generated for VANSMITHLAB without reference images or copied identifiable architecture, artworks or brand assets.",
+    "third_party_marks": "No logo, wordmark or recognisable branded asset."
+  },
+  "accessibility": {
+    "alt_text_ru": "Редакционная AI-иллюстрация: Yakisugi, защита и чёрная фактура: редакционная визуализация обожжённого дерева.",
+    "alt_text_en": "Editorial AI illustration: Yakisugi, protection and black texture: an editorial visualization of charred wood.",
+    "caption_ru": "Yakisugi, защита и чёрная фактура: редакционная визуализация обожжённого дерева.",
+    "caption_en": "Yakisugi, protection and black texture: an editorial visualization of charred wood."
+  },
+  "creator": "OpenAI image generation · directed and reviewed by VANSMITHLAB",
+  "created_at": "2026-08-11",
+  "asset_path": "public/images/encyclopedia/charred-wood-yakisugi-protection-black-texture-hero-v1.webp",
+  "generation_prompt_class": "original fictional editorial visualization of charred-wood",
+  "workflow_run_id": "run_20260811_release_9",
+  "content_sha256": "fbb699dad3ad67868da4c2099ddd5a35b4a7287c7f8cb78a1e2c8e0956971ddd"
+}

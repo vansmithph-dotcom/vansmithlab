@@ -1,0 +1,335 @@
+{
+  "id": "obj_bdf68ea944f94d11",
+  "type": "theme",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Обожжённое дерево",
+  "slug_ru": "charred-wood-yakisugi-protection-black-texture",
+  "summary_ru": "Yakisugi (Shou Sugi Ban), защита и чёрная фактура",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.7,
+  "created_at": "2026-08-11T00:00:00.000Z",
+  "updated_at": "2026-08-11T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_001",
+      "wording_ru": "Yakisugi - традиционная японская техника обжига фасадных досок sugi. В классическом способе три доски связывают в треугольную трубу, поджигают изнутри, затем разъединяют и гасят; поверхность оставляют глубоко обугленной либо очищают и брашируют.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_002",
+      "wording_ru": "Yakisugi - традиционная японская техника обжига фасадных досок sugi. В классическом способе три доски связывают в треугольную трубу, поджигают изнутри, затем разъединяют и гасят; поверхность оставляют глубоко обугленной либо очищают и брашируют.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_003",
+      "wording_ru": "Техника может изменить смачивание, влагоперенос, фактуру и скорость нагрева поверхности, но не делает любую древесину автоматически огнестойкой, защищённой от гниения или насекомых. Реальный результат зависит от породы, толщины обжига, покрытия и конструктивного узла.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_004",
+      "wording_ru": "Обугливание способно увеличить контактный угол воды и сделать поверхность менее смачиваемой. Исследования фиксируют уменьшение сорбции и изменение движения влаги, но результат зависит от метода, породы, трещин и наличия покрытия.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_005",
+      "wording_ru": "Под солнцем, дождём и морозом угольная поверхность постепенно меняется. Искусственное выветривание показывает потерю массы, изменение цвета и ослабление внешнего слоя; покрытия могут замедлять процесс, но не останавливают его навсегда.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_006",
+      "wording_ru": "Обугливание способно увеличить контактный угол воды и сделать поверхность менее смачиваемой. Исследования фиксируют уменьшение сорбции и изменение движения влаги, но результат зависит от метода, породы, трещин и наличия покрытия.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_007",
+      "wording_ru": "Техника может изменить смачивание, влагоперенос, фактуру и скорость нагрева поверхности, но не делает любую древесину автоматически огнестойкой, защищённой от гниения или насекомых. Реальный результат зависит от породы, толщины обжига, покрытия и конструктивного узла.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_008",
+      "wording_ru": "Более поздние исследования толстого одностороннего слоя на пихте фиксировали улучшение отдельных показателей малопламенного теста, что ещё раз подчёркивает зависимость от толщины и технологии.  Проект всё равно должен соответствовать нормам пожарной безопасности, а не легенде о «дереве, уже пережившем огонь».",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_009",
+      "wording_ru": "До появления современных пропиток yakisugi был утилитарной фасадной отделкой западной Японии. На прибрежных улицах обугленные доски работали рядом с солью, дождём, ветром и плотной деревянной застройкой. Национальные парки Японии до сих пор описывают такие фасады в Такэно как характерную часть местного городского ландшафта.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_010",
+      "wording_ru": "В Coal House Терунобу Фудзимори наружные стены облицованы yaki-sugi, а небольшая чайная комната выступает из второго этажа и достигается по кипарисовой лестнице. Проект соединяет почти пещерный интерьер с ремесленной, намеренно несовершенной оболочкой.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_011",
+      "wording_ru": "Denpaku The Beachfront MIJORA на острове Амами использует yakisugi в современной гостиничной архитектуре, связывая минимальные объёмы с местными строительными образами. JNTO отмечает обугленную древесину как элемент, который соединяет современную простоту с традицией острова.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_012",
+      "wording_ru": "В серии Smoke Маартена Бааса мебель буквально обжигают, а затем сохраняют прозрачной эпоксидной смолой. Художник описывает процесс как превращение обугленных дизайн-икон обратно в функциональные объекты; Moooi выпускает предметы из burnt wood, покрытого epoxy resin.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_014",
+      "wording_ru": "Древесина остаётся гигроскопичной: она обменивается влагой с воздухом и меняет размеры поперёк волокон. USDA Wood Handbook подчёркивает, что большинство эксплуатационных проблем древесины связано именно с влагой и её изменениями.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_1b8bfc4e5a55150e",
+      "title": "Yakisugi (Shou Sugi Ban)",
+      "url": "https://japanwoodcraftassociation.com/traditions/techniques/yakisugi-shou-sugi-ban/",
+      "publisher": "Japan Woodcraft Association",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_41d155e6557bacdc",
+      "title": "Surface Modification of Spruce and Fir Sawn-Timber by Charring in the Traditional Japanese Method - Yakisugi",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8160771/",
+      "publisher": "Materials",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_a85fc77066abf02c",
+      "title": "Durability and Fire Performance of Charred Wood Siding (Shou Sugi Ban)",
+      "url": "https://research.fs.usda.gov/treesearch/64332",
+      "publisher": "USDA Forest Service",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_0e81e37c71b60e89",
+      "title": "Decay Resistance of Surface Carbonized Wood",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9737049/",
+      "publisher": "Materials",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_b2b4eccbca35a4f1",
+      "title": "Artificial Weathering of Contact-Charred Wood - The Effect of Modification Parameters and Coating",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9182028/",
+      "publisher": "Materials",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_9c1df70ccb58bb81",
+      "title": "Moisture Sorption of Wood Surfaces Modified by One-Sided Carbonization",
+      "url": "https://www.mdpi.com/2079-6412/12/9/1273",
+      "publisher": "Coatings",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_41fc8973799a8c23",
+      "title": "Charring Does Not Affect Wood Infestation by Subterranean Termites",
+      "url": "https://research.fs.usda.gov/treesearch/34039",
+      "publisher": "USDA Forest Service",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_abfc8e6f1f95b1c4",
+      "title": "Fire Resistance of One-Sided, Surface-Charred Silver Fir Wood",
+      "url": "https://www.mdpi.com/1999-4907/15/7/1109",
+      "publisher": "Forests",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_2afe615be1309272",
+      "title": "Geo Canoe Tour - Takeno and Yakisugi Townscape",
+      "url": "https://www.japan.travel/national-parks/parks/saninkaigan/see-and-do/trekking-and-walking-tours-around-nekozaki-peninsula/",
+      "publisher": "National Parks of Japan",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_87e325cc097c0a43",
+      "title": "Coal House",
+      "url": "https://data.shinkenchiku.online/en/projects/articles/SK_2009_01_126-0",
+      "publisher": "Shinkenchiku.DATA",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_ba34e25041b8d30f",
+      "title": "Denpaku The Beachfront MIJORA",
+      "url": "https://www.japan.travel/en/luxury/detail/denpaku-the-beachfront-mijora/",
+      "publisher": "Japan National Tourism Organization",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_7d840e028b2881d2",
+      "title": "Where There’s Smoke",
+      "url": "https://maartenbaas.com/products/where-there-s-smoke-1",
+      "publisher": "Maarten Baas",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_8d4705d7115c6613",
+      "title": "The Symbolism of Yakisugi in Contemporary Architecture",
+      "url": "https://www.archdaily.com/1007275/the-symbolism-of-yakisugi-explore-the-beauty-and-durability-of-this-wood-in-contemporary-architecture",
+      "publisher": "ArchDaily",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_b3cd66ae184393fa",
+      "title": "Wood Handbook: Wood as an Engineering Material",
+      "url": "https://research.fs.usda.gov/treesearch/62200",
+      "publisher": "USDA Forest Service",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_7a27a78f7d574373",
+      "claim_id": "clm_001",
+      "source_id": "src_1b8bfc4e5a55150e",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_28c8340e91284bc9",
+      "claim_id": "clm_002",
+      "source_id": "src_1b8bfc4e5a55150e",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_88f29a5f1c0f4d5a",
+      "claim_id": "clm_003",
+      "source_id": "src_1b8bfc4e5a55150e",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_2a2186271d25412c",
+      "claim_id": "clm_004",
+      "source_id": "src_1b8bfc4e5a55150e",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_1a7a8c7b59124ad4",
+      "claim_id": "clm_005",
+      "source_id": "src_1b8bfc4e5a55150e",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_7bd7b9669f4b4aa2",
+      "claim_id": "clm_006",
+      "source_id": "src_1b8bfc4e5a55150e",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_4af11be0edfc436d",
+      "claim_id": "clm_007",
+      "source_id": "src_1b8bfc4e5a55150e",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_aa049be5c9cc4630",
+      "claim_id": "clm_008",
+      "source_id": "src_1b8bfc4e5a55150e",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_ad3809bd50794116",
+      "claim_id": "clm_009",
+      "source_id": "src_1b8bfc4e5a55150e",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_be729e4ecbe44fb7",
+      "claim_id": "clm_010",
+      "source_id": "src_1b8bfc4e5a55150e",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_df5953358def422d",
+      "claim_id": "clm_011",
+      "source_id": "src_1b8bfc4e5a55150e",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_506437c4ec0846e2",
+      "claim_id": "clm_012",
+      "source_id": "src_1b8bfc4e5a55150e",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_d734ed348b8a46db",
+      "claim_id": "clm_014",
+      "source_id": "src_1b8bfc4e5a55150e",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "PUBLISH",
+    "note": "RU/EN pair passed structural and source validation; knowledge object derived from the editorial DOCX claim map.",
+    "converted_by": "Codex publication workflow",
+    "converted_at": "2026-08-11T00:00:00.000Z"
+  }
+}

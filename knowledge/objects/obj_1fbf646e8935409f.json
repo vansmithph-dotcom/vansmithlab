@@ -1,0 +1,200 @@
+{
+  "id": "obj_1fbf646e8935409f",
+  "type": "theme",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Баухаус",
+  "slug_ru": "bauhaus-art-production-system",
+  "summary_ru": "Единая система искусства и производства",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.7,
+  "created_at": "2026-08-11T00:00:00.000Z",
+  "updated_at": "2026-08-11T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_001",
+      "wording_ru": "Баухаус был основан Вальтером Гропиусом в Веймаре в 1919 году, переехал в Дессау в 1925 году, затем в Берлин в 1932 году и был закрыт в 1933 году под давлением нацистского режима. За это короткое время школа изменила представления о том, как учить художников, архитекторов и дизайнеров.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_002",
+      "wording_ru": "Баухаус был основан Вальтером Гропиусом в Веймаре в 1919 году, переехал в Дессау в 1925 году, затем в Берлин в 1932 году и был закрыт в 1933 году под давлением нацистского режима. За это короткое время школа изменила представления о том, как учить художников, архитекторов и дизайнеров.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_003",
+      "wording_ru": "Ключ Баухауса — не единый внешний стиль, а система: подготовительный курс, мастерские, соединение искусства и ремесла, промышленное мышление, архитектура как итог синтеза и международное распространение идей через эмиграцию преподавателей и студентов.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_004",
+      "wording_ru": "Ключ Баухауса — не единый внешний стиль, а система: подготовительный курс, мастерские, соединение искусства и ремесла, промышленное мышление, архитектура как итог синтеза и международное распространение идей через эмиграцию преподавателей и студентов.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_be05f4a538fc8409",
+      "title": "Chronology - Institution",
+      "url": "https://bauhaus-dessau.de/en/institution/chronology/",
+      "publisher": "Stiftung Bauhaus Dessau",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_9c3c193ed8e6449d",
+      "title": "14 Years of Bauhaus: A Chronology From Its Founding in 1919 to Its Closure in 1933",
+      "url": "https://www.bauhaus.de/en/discover/article/14-years-of-bauhaus/",
+      "publisher": "Bauhaus-Archiv / Museum für Gestaltung",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_90d399bb4addfca7",
+      "title": "Bauhaus and its Sites in Weimar, Dessau and Bernau",
+      "url": "https://whc.unesco.org/en/list/729",
+      "publisher": "UNESCO World Heritage Centre",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_69a84a31527e014e",
+      "title": "Bauhaus and Beyond",
+      "url": "https://www.moma.org/calendar/galleries/5388",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_ec4a569eeb7e7365",
+      "title": "Portrait - Institution",
+      "url": "https://bauhaus-dessau.de/en/institution/portrait/",
+      "publisher": "Stiftung Bauhaus Dessau",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_8f1b8c3d1d6de45d",
+      "title": "The School that Inspired MoMA",
+      "url": "https://www.moma.org/interactives/moma_through_time/1930/the-school-that-inspired-moma/",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_db8488a5251b16e8",
+      "title": "Bauhaus Building Dessau",
+      "url": "https://www.bauhaus-dessau.de/en/architecture/bauhaus-building/",
+      "publisher": "Bauhaus Dessau Foundation",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_924cbcfbf4417b85",
+      "title": "What was Modernism?",
+      "url": "https://www.vam.ac.uk/articles/what-was-modernism",
+      "publisher": "Victoria and Albert Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_be7fbbd547b8274f",
+      "title": "Marcel Breuer. Club chair (B3), 1925",
+      "url": "https://www.moma.org/collection/works/2851",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_3b9ea8cdb2d8ff9d",
+      "title": "Marianne Brandt. Tea infuser and strainer, 1924",
+      "url": "https://www.metmuseum.org/art/collection/search/482081",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_96bbce1055761ba5",
+      "title": "Anni Albers",
+      "url": "https://www.tate.org.uk/art/artists/anni-albers-2382",
+      "publisher": "Tate",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_ad47e96f6ff5e302",
+      "title": "The Triadic Ballet",
+      "url": "https://www.bauhauskooperation.com/knowledge/the-bauhaus/works/stage/the-triadic-ballet/",
+      "publisher": "Bauhaus Kooperation",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_f87ee59c66d95506",
+      "title": "László Moholy-Nagy",
+      "url": "https://www.artic.edu/artists/35515/laszlo-moholy-nagy",
+      "publisher": "The Art Institute of Chicago",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_b7bdd20693531b0f",
+      "title": "Bauhaus Typography",
+      "url": "https://letterformarchive.org/news/bauhaus-typography-at-100/",
+      "publisher": "Letterform Archive",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_0b354332b2d34c37",
+      "claim_id": "clm_001",
+      "source_id": "src_be05f4a538fc8409",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_a783423d3d0a481b",
+      "claim_id": "clm_002",
+      "source_id": "src_be05f4a538fc8409",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_c811f0737d454645",
+      "claim_id": "clm_003",
+      "source_id": "src_be05f4a538fc8409",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_252dc64e7c5d4783",
+      "claim_id": "clm_004",
+      "source_id": "src_be05f4a538fc8409",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "PUBLISH",
+    "note": "RU/EN pair passed structural and source validation; knowledge object derived from the editorial DOCX claim map.",
+    "converted_by": "Codex publication workflow",
+    "converted_at": "2026-08-11T00:00:00.000Z"
+  }
+}

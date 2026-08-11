@@ -1,0 +1,305 @@
+{
+  "id": "obj_1bee20e2bef6423c",
+  "type": "theme",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Архитектурный текстиль",
+  "slug_ru": "architectural-textiles-membranes-light-space",
+  "summary_ru": "Мембраны, свет и мягкая форма пространства",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.7,
+  "created_at": "2026-08-11T00:00:00.000Z",
+  "updated_at": "2026-08-11T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_001",
+      "wording_ru": "До стены была оболочка. Переносные жилища из шкур, войлока и тканых полотен позволяли создавать защищённый объём без массивного фундамента. TextielMuseum относит шатры к самым ранним типам жилища и подчёркивает их связь с мобильностью и экономией материала.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_002",
+      "wording_ru": "Архитектурный текстиль - это группа тканых, сетчатых, ламинированных и покрытых материалов, применяемых как конструктивные мембраны, фасадные экраны, акустические поверхности, шторы и пространственные разделители. В натяжных системах форма стабилизируется предварительным напряжением, двойной кривизной и работой с тросами, мачтами или жёсткой рамой.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_003",
+      "wording_ru": "Архитектурный текстиль - это группа тканых, сетчатых, ламинированных и покрытых материалов, применяемых как конструктивные мембраны, фасадные экраны, акустические поверхности, шторы и пространственные разделители. В натяжных системах форма стабилизируется предварительным напряжением, двойной кривизной и работой с тросами, мачтами или жёсткой рамой.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_004",
+      "wording_ru": "Ключевое различие проходит не между «тканью» и «архитектурой», а между системами. PVC-coated polyester, PTFE-coated fibreglass, сетки и ETFE имеют разную механику, светопропускание, пожарное поведение, срок службы и сценарии ремонта. ETFE при этом является полимерной плёнкой, а не текстилем, хотя его часто включают в один профессиональный разговор о лёгких оболочках.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_005",
+      "wording_ru": "Ткань сама по себе не гарантирует акустического поглощения. Работают пористость, складка, воздушный зазор и скрытый поглощающий слой. ASTM C423 измеряет поглощение в реверберационной камере и предупреждает, что реальная комната отличается от лаборатории.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_006",
+      "wording_ru": "Пожарное поведение зависит от волокна, покрытия, массы, геометрии и способа монтажа. NFPA 701 оценивает распространение пламени для текстилей и плёнок в заданных условиях испытания.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_007",
+      "wording_ru": "Кровля Олимпийского парка Мюнхена объединила стадион, зал и бассейн непрерывным кабельным ландшафтом. Официальный сайт города указывает площадь около 78 000 квадратных метров и акриловые панели на стальной вантовой сети.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_008",
+      "wording_ru": "Немецкий павильон на Expo 67 в Монреале стал международным прорывом Frei Otto, Rolf Gutbrod и Fritz Leonhardt. Проект развил сетчатую несущую систему и лёгкую оболочку на масштабе городского квартала.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_009",
+      "wording_ru": "Jeppesen Terminal в Денвере использует образ белых пиков: официальный сайт аэропорта описывает узнаваемую шатровую кровлю площадью около 240 000 квадратных футов, связанную с силуэтом Скалистых гор.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_010",
+      "wording_ru": "Khan Shatyr в Астане решает противоположную задачу: не лёгкий навес в умеренном климате, а огромный защищённый городской интерьер. Buro Happold описывает 150-метровую натяжную конструкцию; ETFE-оболочка и кабельная сеть превращают архетип шатра в климатический механизм для резких температур Казахстана.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_014",
+      "wording_ru": "Frei Otto работал с цепями, сетями, тканью и мыльными плёнками, потому что физическая модель быстро показывала форму минимального или уравновешенного усилия. Позднее расчётные модели позволили точнее анализировать ветер, снег и нелинейное поведение.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_e9a93aeb8eb62688",
+      "title": "Tents",
+      "url": "https://textielmuseum.nl/en/news/tents",
+      "publisher": "TextielMuseum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_b2854965d4e5f69c",
+      "title": "Working Group Publications and Proceedings",
+      "url": "https://www.tensinet.com/index.php/tensinet-publications/working-group-publications-proceedings",
+      "publisher": "TensiNet",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_cec387b88d9bf0f9",
+      "title": "Tensile Membrane Structures, ASCE/SEI 55-16",
+      "url": "https://pubs.asce.org/Product?isbn=9780784414378",
+      "publisher": "American Society of Civil Engineers",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_88cf3d766a982dc3",
+      "title": "Biography: Frei Otto",
+      "url": "https://www.pritzkerprize.com/biography-frei-otto",
+      "publisher": "The Pritzker Architecture Prize",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_69fd6cf18b91fb14",
+      "title": "Specifications: PTFE, ETFE and PVC Tensile Membrane Structures",
+      "url": "https://www.birdair.com/resources/specifications/",
+      "publisher": "Birdair",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_ed9a666d226e51dd",
+      "title": "ASTM C423-23e1: Sound Absorption and Sound Absorption Coefficients by the Reverberation Room Method",
+      "url": "https://store.astm.org/c0423-23e01.html",
+      "publisher": "ASTM International",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_18a0a3f469bf7ab2",
+      "title": "NFPA 701: Standard Methods of Fire Tests for Flame Propagation of Textiles and Films",
+      "url": "https://www.nfpa.org/codes-and-standards/nfpa-701-standard-development/701",
+      "publisher": "National Fire Protection Association",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_35e48ff6c3b34999",
+      "title": "Tent Roof",
+      "url": "https://olympiapark.muenchen.de/en/olympiapark/zeltdach.html",
+      "publisher": "Olympiapark München",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_1bd08d67e6c63248",
+      "title": "German Pavilion Designed by Frei Otto under Construction at Expo 67, Montreal",
+      "url": "https://www.aaa.si.edu/collections/items/detail/german-pavilion-designed-frei-otto-under-construction-expo-67-montreal-12816",
+      "publisher": "Smithsonian Archives of American Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_2bd43fc25bb69e37",
+      "title": "Airport Facilities and Grounds: Jeppesen Terminal",
+      "url": "https://www.flydenver.com/about-den/facilities/",
+      "publisher": "Denver International Airport",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_db4daecb42b4bcbd",
+      "title": "Denver International Airport, Passenger Terminal Complex",
+      "url": "https://populous.com/showcases/den-passenger-terminal-complex",
+      "publisher": "Populous",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_9ec897beffd00e4d",
+      "title": "Khan Shatyr Entertainment Centre",
+      "url": "https://www.burohappold.com/projects/khan-shatyr-entertainment-centre/",
+      "publisher": "Buro Happold",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_278df38052acba28",
+      "title": "Tensile Structures",
+      "url": "https://www.burohappold.com/specialisms/tensile-structures/",
+      "publisher": "Buro Happold",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_a45cf64fd97dc865",
+      "title": "Architecture: Eden Project Biomes and ETFE Cushions",
+      "url": "https://www.edenproject.com/mission/architecture",
+      "publisher": "Eden Project",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_acd7ce0f28ed44de",
+      "claim_id": "clm_001",
+      "source_id": "src_e9a93aeb8eb62688",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_dae8d7be61c849c8",
+      "claim_id": "clm_002",
+      "source_id": "src_e9a93aeb8eb62688",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_ae5e4dbcd7a946a8",
+      "claim_id": "clm_003",
+      "source_id": "src_e9a93aeb8eb62688",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_e6a420c2c1254539",
+      "claim_id": "clm_004",
+      "source_id": "src_e9a93aeb8eb62688",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_09295f1ddb8d4621",
+      "claim_id": "clm_005",
+      "source_id": "src_e9a93aeb8eb62688",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_e853fd2b4fb54cec",
+      "claim_id": "clm_006",
+      "source_id": "src_e9a93aeb8eb62688",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_712a3275d7bf4ea5",
+      "claim_id": "clm_007",
+      "source_id": "src_e9a93aeb8eb62688",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_74c2b2f7cdd146b4",
+      "claim_id": "clm_008",
+      "source_id": "src_e9a93aeb8eb62688",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_744985bcf72e4082",
+      "claim_id": "clm_009",
+      "source_id": "src_e9a93aeb8eb62688",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_65f1677e674f4428",
+      "claim_id": "clm_010",
+      "source_id": "src_278df38052acba28",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_8d19116bf4624669",
+      "claim_id": "clm_014",
+      "source_id": "src_e9a93aeb8eb62688",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "PUBLISH",
+    "note": "RU/EN pair passed structural and source validation; knowledge object derived from the editorial DOCX claim map.",
+    "converted_by": "Codex publication workflow",
+    "converted_at": "2026-08-11T00:00:00.000Z"
+  }
+}

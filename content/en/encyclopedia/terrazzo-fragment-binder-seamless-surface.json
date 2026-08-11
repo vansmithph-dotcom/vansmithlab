@@ -1,0 +1,68 @@
+{
+  "content_id": "cnt_1028d1dd38ea5a0c",
+  "primary_object_id": "obj_10be052bfb594580",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.7,
+  "claim_ids": [
+    "clm_tz_001",
+    "clm_tz_002",
+    "clm_tz_003",
+    "clm_tz_004",
+    "clm_tz_005",
+    "clm_tz_006",
+    "clm_tz_007",
+    "clm_tz_008",
+    "clm_tz_009",
+    "clm_tz_010",
+    "clm_tz_011",
+    "clm_tz_012",
+    "clm_tz_013"
+  ],
+  "source_ids": [
+    "src_7b46bf8037b2ba67",
+    "src_5008c2bb97f71531",
+    "src_fea72998047a8689",
+    "src_cac5fed57c494fe5",
+    "src_f97ff2a8082ae4a6",
+    "src_dbaa0f65b97ed607",
+    "src_f72469fe9012626d",
+    "src_b7f280bcf19f8630",
+    "src_4df8a38f9e6efd96",
+    "src_4224e4c1f5a86345",
+    "src_8e3efff20f0f8294",
+    "src_fb8fc4d4c41c15c6",
+    "src_c1be8a3ba53b2612",
+    "src_12a9e776cde74f8f"
+  ],
+  "last_reviewed": "2026-08-11",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "terrazzo-fragment-binder-seamless-surface",
+  "title": "Terrazzo",
+  "summary": "Fragment, binder, and the seamless surface",
+  "discipline": [
+    "architecture",
+    "interior-design",
+    "product-design"
+  ],
+  "kind": "material-technique",
+  "role": [],
+  "body_hash": "4a279c6bbaa1de22846f51e6999ff4de1a31f3c2fef5be94e17cceb39fd86b5c",
+  "translation": {
+    "source_locale": "ru",
+    "source_revision": 1,
+    "semantic_validated": true,
+    "review_run_id": "release-9-2026-08-11"
+  },
+  "hero_image": {
+    "src": "/images/encyclopedia/terrazzo-fragment-binder-seamless-surface-hero-v1.webp",
+    "alt": "Editorial AI illustration: Fragment, binder and seamless surface: an editorial visualization of terrazzo.",
+    "caption": "Fragment, binder and seamless surface: an editorial visualization of terrazzo.",
+    "credit": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "origin": "ai_illustration"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "content_id": "cnt_f3b50a01633475b8",
+  "primary_object_id": "obj_1fbf646e8935409f",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.7,
+  "claim_ids": [
+    "clm_001",
+    "clm_002",
+    "clm_003",
+    "clm_004"
+  ],
+  "source_ids": [
+    "src_be05f4a538fc8409",
+    "src_9c3c193ed8e6449d",
+    "src_90d399bb4addfca7",
+    "src_69a84a31527e014e",
+    "src_ec4a569eeb7e7365",
+    "src_8f1b8c3d1d6de45d",
+    "src_db8488a5251b16e8",
+    "src_924cbcfbf4417b85",
+    "src_be7fbbd547b8274f",
+    "src_3b9ea8cdb2d8ff9d",
+    "src_96bbce1055761ba5",
+    "src_ad47e96f6ff5e302",
+    "src_f87ee59c66d95506",
+    "src_b7bdd20693531b0f"
+  ],
+  "last_reviewed": "2026-08-11",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "bauhaus-art-production-system",
+  "title": "Баухаус",
+  "summary": "Единая система искусства и производства",
+  "discipline": [
+    "architecture",
+    "interior-design",
+    "product-design",
+    "graphic-design",
+    "photography",
+    "fashion"
+  ],
+  "kind": "movement-style",
+  "role": [],
+  "body_hash": "b1e61aaf9862af2dfcbfd0a1f4e04b2d7afe4cef182ad8e5a9bd5a419e4fa5e6",
+  "hero_image": {
+    "src": "/images/encyclopedia/bauhaus-art-production-system-hero-v1.webp",
+    "alt": "Редакционная AI-иллюстрация: Единая система искусства и производства: редакционная визуализация Баухауса.",
+    "caption": "Единая система искусства и производства: редакционная визуализация Баухауса.",
+    "credit": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "origin": "ai_illustration"
+  }
+}

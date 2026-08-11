@@ -1,0 +1,37 @@
+{
+  "asset_id": "asset_photogram-camera-less-image_hero_v1",
+  "primary_object_id": "obj_ea090fdafc874e15",
+  "content_release_id": "cnt_ebfb4eea8770398f",
+  "kind": "image",
+  "origin": "ai_illustration",
+  "locale": "multilingual",
+  "educational_purpose": "Visualize the photogram as a camera-less image without reproducing protected artworks.",
+  "may_depict": [
+    "A fictional photogram composition",
+    "Glass objects and leaves on paper",
+    "Black and silver-white"
+  ],
+  "must_not_imply": [
+    "The image documents a real building or artwork",
+    "The image is attributable to a named designer or artist",
+    "The image reproduces a protected architectural photograph, drawing, furniture design or artwork"
+  ],
+  "rights": {
+    "state": "generated_reviewed",
+    "disclosure": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "rights_basis": "Original AI illustration generated for VANSMITHLAB without reference images or copied identifiable architecture, artworks or brand assets.",
+    "third_party_marks": "No logo, wordmark or recognisable branded asset."
+  },
+  "accessibility": {
+    "alt_text_ru": "Редакционная AI-иллюстрация: Изображение без камеры: редакционная визуализация фотограммы.",
+    "alt_text_en": "Editorial AI illustration: An image without a camera: an editorial visualization of the photogram.",
+    "caption_ru": "Изображение без камеры: редакционная визуализация фотограммы.",
+    "caption_en": "An image without a camera: an editorial visualization of the photogram."
+  },
+  "creator": "OpenAI image generation · directed and reviewed by VANSMITHLAB",
+  "created_at": "2026-08-11",
+  "asset_path": "public/images/encyclopedia/photogram-camera-less-image-hero-v1.webp",
+  "generation_prompt_class": "original fictional editorial visualization of photogram",
+  "workflow_run_id": "run_20260811_release_9",
+  "content_sha256": "e65d8151f84cf8ae825a2ccada2fa1b275d93dcff5d341d5f70899dfa6670908"
+}
