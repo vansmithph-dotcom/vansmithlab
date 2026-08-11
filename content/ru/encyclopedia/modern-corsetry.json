@@ -1,13 +1,21 @@
 {
   "content_id": "cnt_c8659e533a5de894",
-  "primary_object_id": "",
+  "primary_object_id": "obj_17831bfb826f4a4a",
   "content_type": "encyclopedia",
   "state": "published",
   "source_locale": "ru",
   "source_revision": 1,
-  "verification_state": "unverified",
-  "confidence_score": 0.0,
-  "claim_ids": [],
+  "verification_state": "partially_verified",
+  "confidence_score": 0.7,
+  "claim_ids": [
+    "clm_001",
+    "clm_002",
+    "clm_003",
+    "clm_004",
+    "clm_005",
+    "clm_006",
+    "clm_007"
+  ],
   "source_ids": [
     "src_ecafc4421204acb7",
     "src_6135af49de2f1d7e",
@@ -17,7 +25,7 @@
     "src_c2a045c4f15d8a0d",
     "src_66626e42311abdd8"
   ],
-  "last_reviewed": "2026-08-09",
+  "last_reviewed": "2026-08-12",
   "author": "VANSMITHLAB",
   "locale": "ru",
   "slug": "modern-corsetry",
@@ -29,5 +37,11 @@
   "kind": "material-technique",
   "role": [],
   "body_hash": "a4f23c9cde7a86ab6c699e66d80db65b1a50f9ba3634156d6cbd9b5d34adc3c2",
-  "hero_image": {"src":"/images/encyclopedia/modern-corsetry-hero-v1.webp","alt":"Редакционная AI-иллюстрация: современный корсет, панели, косточки, швы и лекало","caption":"Редакционная визуализация современного корсета: конструкция, поддержка и архитектура формы.","credit":"VANSMITHLAB · AI-иллюстрация, 2026","origin":"ai_illustration"}
+  "hero_image": {
+    "src": "/images/encyclopedia/modern-corsetry-hero-v1.webp",
+    "alt": "Редакционная AI-иллюстрация: современный корсет, панели, косточки, швы и лекало",
+    "caption": "Редакционная визуализация современного корсета: конструкция, поддержка и архитектура формы.",
+    "credit": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "origin": "ai_illustration"
+  }
 }

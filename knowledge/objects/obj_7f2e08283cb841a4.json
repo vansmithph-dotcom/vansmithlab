@@ -1,0 +1,363 @@
+{
+  "id": "obj_7f2e08283cb841a4",
+  "type": "theme",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Твид",
+  "slug_ru": "tweed-chanel",
+  "summary_ru": "Устройство, история и код Chanel",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.7,
+  "created_at": "2026-08-11T00:00:00.000Z",
+  "updated_at": "2026-08-11T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_001",
+      "wording_ru": "Твид — не один материал и не один рисунок, а семейство шерстяных и смешанных тканей, чьё поведение определяется волокном, пряжей, переплетением, плотностью, отделкой и масштабом цветового смешения. В моде Chanel твид стал не просто тканью костюма, а системой формы: мягкая конструкция, движение тела, визуальная глубина, бахрома, тесьма и контраст подкладки работают как единый код.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_002",
+      "wording_ru": "Твид обычно строится на шерстяной или смешанной пряже и часто использует саржевые, полотняные, ёлочные или сложные комбинированные переплетения. Его характер создают не только схема переплетения, но и толщина нитей, крутка, ворс, отделка, цветовые смеси и неравномерность поверхности.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_003",
+      "wording_ru": "Harris Tweed является юридически защищённым обозначением: ткань должна быть соткана вручную островитянами в их домах на Внешних Гебридах, отделана там же и изготовлена из чистой новой шерсти, окрашенной и прядённой на островах.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_004",
+      "wording_ru": "В Chanel твид стал основой мягкого костюма после возвращения Габриэль Шанель в 1954 году. Дом официально датирует появление отделанного тесьмой твидового костюма 1956 годом; музейные объекты показывают, как лёгкая рыхлая ткань, высокая пройма, функциональная подкладка и цепочка по низу создавали свободу движения и точное падение.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_005",
+      "wording_ru": "Одна из распространённых версий связывает слово tweed с шотландским tweel — вариантом слова twill. Harris Tweed Authority отмечает, что позднее его могли ошибочно связать с рекой Tweed, и это совпадение закрепилось в языке.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_006",
+      "wording_ru": "Для Harris Tweed закон требует pure virgin wool, то есть чистую новую шерсть, а также островное окрашивание и прядение. Это юридическая спецификация конкретного происхождения, а не универсальный стандарт для любого твида.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_007",
+      "wording_ru": "Меланж возникает, когда волокна разных цветов смешиваются до прядения. Harris Tweed Authority описывает рецептуры, в которых несколько оттенков соединяются внутри одной нити, создавая сложный цвет, связанный с ландшафтом островов.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_008",
+      "wording_ru": "Валка, промывка, стрижка, прессование и ворсование меняют плотность, мягкость и отражение света. Harris Tweed должен быть отделан на Внешних Гебридах в соответствии с юридическим определением.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_009",
+      "wording_ru": "После возвращения дома к couture в 1954 году костюм стал центральным элементом новой системы Chanel. Официальная история дома датирует появление отделанного тесьмой твидового костюма 1956 годом.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_010",
+      "wording_ru": "Классический жакет Chanel менее жёсткий, чем традиционный tailored jacket. The Met описывает его как soft and untailored и подчёркивает использование лёгкого, рыхло сотканного твида.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_011",
+      "wording_ru": "Высокая пройма позволяет руке двигаться, не поднимая весь жакет. В сочетании с мягкой тканью это создаёт более естественное движение тела.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_012",
+      "wording_ru": "Подкладка стабилизирует рыхлый твид, снижает трение и помогает жакету скользить по блузе. В Chanel блуза нередко совпадала с подкладкой, превращая внутреннюю конструкцию в часть визуальной системы.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_013",
+      "wording_ru": "В поздней версии жакета стандартные утяжелители были заменены золотистой цепочкой по низу. Она помогает мягкой ткани висеть ровно и возвращаться в правильное положение после движения.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_014",
+      "wording_ru": "Жакет, юбка, блуза, цепочка, обувь и сумка создают модульную униформу. The Met связывает этот принцип с идеей простых вещей, которые меняются аксессуарами и сохраняют уместность.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_015",
+      "wording_ru": "После 1983 года Karl Lagerfeld постоянно перерабатывал твидовый костюм, соединяя традиционную конструкцию с новыми технологиями, материалами, масштабами и субкультурными ссылками.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_016",
+      "wording_ru": "Современный Chanel использует cotton tweed и другие смешанные варианты. Официальная коллекция 2026 года показывает твид и cotton tweed как продолжающийся код гардероба в движении.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_017",
+      "wording_ru": "Не вся ткань с грубой поверхностью является Harris Tweed, и не любой твид связан с Chanel. Orb является сертификационным знаком Harris Tweed Authority, а Chanel — отдельным историческим кодом конструкции и бренда.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_6bab423e56f51896",
+      "title": "Suit, House of Chanel, spring/summer 1963",
+      "url": "https://www.metmuseum.org/art/collection/search/83591",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_2bce03ad9e461f8a",
+      "title": "Tweed or Twill?",
+      "url": "https://www.harristweed.org/journal/tweed-or-twill/",
+      "publisher": "Harris Tweed Authority",
+      "source_tier": 2,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_80208f0fa25fedc9",
+      "title": "Frequently Asked Questions",
+      "url": "https://www.harristweed.org/faq/",
+      "publisher": "Harris Tweed Authority",
+      "source_tier": 2,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_2f4b3f6e8f290e3f",
+      "title": "1950s — Creation of the trimmed tweed suit",
+      "url": "https://www.chanel.com/au/about-chanel/the-house-of-chanel/1950/",
+      "publisher": "CHANEL",
+      "source_tier": 2,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_b3794a36c8085405",
+      "title": "Suit, House of Chanel, ca. 1957",
+      "url": "https://www.metmuseum.org/art/collection/search/83575",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_1f2b3defa2d9c363",
+      "title": "The Home of Harris Tweed",
+      "url": "https://www.harristweed.org/",
+      "publisher": "Harris Tweed Authority",
+      "source_tier": 2,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_bba1726b29d79762",
+      "title": "Our Role",
+      "url": "https://www.harristweed.org/our-role/",
+      "publisher": "Harris Tweed Authority",
+      "source_tier": 2,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_8c426271e52b0800",
+      "title": "Cocktail ensemble, House of Chanel, ca. 1964",
+      "url": "https://www.metmuseum.org/art/collection/search/83584",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_d0e3de5fa01db0e2",
+      "title": "Suit, House of Chanel, 1991–92",
+      "url": "https://www.metmuseum.org/art/collection/search/80800",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_1b73df214d55ba7a",
+      "title": "Spring Summer 2026 Jacket — Tweed",
+      "url": "https://www.chanel.com/us/fashion/p/P81639V74113U8244/jacket-tweed/",
+      "publisher": "CHANEL",
+      "source_tier": 2,
+      "accessed_at": "2026-08-08"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_90a897a903fb4e73",
+      "claim_id": "clm_001",
+      "source_id": "src_1b73df214d55ba7a",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_4f6d2caa3ccb4fe0",
+      "claim_id": "clm_002",
+      "source_id": "src_6bab423e56f51896",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_76dc0db0108843d2",
+      "claim_id": "clm_003",
+      "source_id": "src_6bab423e56f51896",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_0b847929bd04433d",
+      "claim_id": "clm_004",
+      "source_id": "src_1b73df214d55ba7a",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_c2946c99bf0647b1",
+      "claim_id": "clm_005",
+      "source_id": "src_bba1726b29d79762",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_52a31f0183c94806",
+      "claim_id": "clm_006",
+      "source_id": "src_6bab423e56f51896",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_e2f3d8aacfc64a42",
+      "claim_id": "clm_007",
+      "source_id": "src_bba1726b29d79762",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_4660f645c7be449d",
+      "claim_id": "clm_008",
+      "source_id": "src_6bab423e56f51896",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_83f15cddbb0c461d",
+      "claim_id": "clm_009",
+      "source_id": "src_1b73df214d55ba7a",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_568c59e852b94c19",
+      "claim_id": "clm_010",
+      "source_id": "src_1b73df214d55ba7a",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_fcb1ccfeb3b04b07",
+      "claim_id": "clm_011",
+      "source_id": "src_6bab423e56f51896",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_c495002a2b174011",
+      "claim_id": "clm_012",
+      "source_id": "src_1b73df214d55ba7a",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_ac498194fd9f45ab",
+      "claim_id": "clm_013",
+      "source_id": "src_6bab423e56f51896",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_dadcee1755894fe4",
+      "claim_id": "clm_014",
+      "source_id": "src_6bab423e56f51896",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_95710902f88042dd",
+      "claim_id": "clm_015",
+      "source_id": "src_6bab423e56f51896",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_c56f56822e51436a",
+      "claim_id": "clm_016",
+      "source_id": "src_1b73df214d55ba7a",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_ee16967555d049cb",
+      "claim_id": "clm_017",
+      "source_id": "src_bba1726b29d79762",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "PUBLISH",
+    "note": "RU/EN pair passed structural and source validation; knowledge object derived from the editorial DOCX claim map.",
+    "converted_by": "Codex publication workflow",
+    "converted_at": "2026-08-11T00:00:00.000Z"
+  }
+}

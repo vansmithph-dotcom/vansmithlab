@@ -10,7 +10,7 @@
   "verification_state": "partially_verified",
   "confidence_score": 0.96,
   "created_at": "2026-08-08",
-  "updated_at": "2026-08-08",
+  "updated_at": "2026-08-12T00:00:00.000Z",
   "sources": [
     {
       "id": "s01",
@@ -45,11 +45,122 @@
       "accessed_at": "2026-08-08"
     }
   ],
-  "citations": [],
-  "claims": [],
+  "citations": [
+    {
+      "id": "cit_e4b13f37447a4dc9",
+      "claim_id": "clm_001",
+      "source_id": "s01",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_ee4cc0cb09834c5e",
+      "claim_id": "clm_002",
+      "source_id": "s04",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_8872939509b34e7e",
+      "claim_id": "clm_003",
+      "source_id": "s01",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_15bb39b0f73f484b",
+      "claim_id": "clm_004",
+      "source_id": "s03",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_360b672d9a58409f",
+      "claim_id": "clm_005",
+      "source_id": "s01",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_65fb8bdc179947ed",
+      "claim_id": "clm_006",
+      "source_id": "s02",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_429a535d46ee44c1",
+      "claim_id": "clm_007",
+      "source_id": "s03",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_001",
+      "wording_ru": "Паоло Роверси родился 25 сентября 1947 года в Равенне, Италия.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_002",
+      "wording_ru": "Роверси переехал в Париж в 1973 году и стал ассистентом британского фотографа Лоренса Сэкмана.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_003",
+      "wording_ru": "С конца 1970-х Роверси работает с крупноформатной камерой и Polaroid, что стало основой его узнаваемого метода.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_004",
+      "wording_ru": "Долгие сотрудничества Роверси с Rei Kawakubo, Yohji Yamamoto, Romeo Gigli, Christian Dior и Vogue Italia сформировали язык мягкого света и насыщенного цвета.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_005",
+      "wording_ru": "Выставка Паоло Роверси прошла в Palais Galliera, одном из главных музеев моды Парижа.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_006",
+      "wording_ru": "Выставочный каталог Роверси опубликован издательством Paris Musées.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_007",
+      "wording_ru": "Проект «Doubts» был представлен фондом MOP Foundation как исследование сомнения и длительности в фотографии.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    }
+  ],
   "relations": [],
   "contradictions": [],
   "workflow": {
-    "status": "draft"
+    "status": "published",
+    "decision": "PUBLISH",
+    "note": "Claims derived from the editorial profile and its sources.",
+    "converted_by": "Codex publication workflow",
+    "converted_at": "2026-08-12T00:00:00.000Z"
   }
 }

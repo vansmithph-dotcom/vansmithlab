@@ -1,13 +1,20 @@
 {
   "content_id": "cnt_5f7ef63e48783bfc",
-  "primary_object_id": "",
+  "primary_object_id": "obj_8edaac2724ed42a1",
   "content_type": "encyclopedia",
   "state": "published",
   "source_locale": "ru",
   "source_revision": 1,
-  "verification_state": "unverified",
-  "confidence_score": 0.0,
-  "claim_ids": [],
+  "verification_state": "partially_verified",
+  "confidence_score": 0.7,
+  "claim_ids": [
+    "clm_001",
+    "clm_002",
+    "clm_003",
+    "clm_004",
+    "clm_005",
+    "clm_006"
+  ],
   "source_ids": [
     "src_8dfafdaa25b4d137",
     "src_bf10c3281f3a11c3",
@@ -16,7 +23,7 @@
     "src_819a7d4316cbc4d6",
     "src_ccaf7bc6f1edc6c4"
   ],
-  "last_reviewed": "2026-08-09",
+  "last_reviewed": "2026-08-12",
   "author": "VANSMITHLAB",
   "locale": "en",
   "slug": "jacquard",
@@ -28,5 +35,17 @@
   "kind": "material-technique",
   "role": [],
   "body_hash": "fdba04967a5cb8e0e0d9806e091335c0649cacc267e1b9e1a925fbcf495e82fc",
-  "hero_image": {"src":"/images/encyclopedia/jacquard-hero-v1.webp","alt":"Editorial AI illustration: jacquard weave, raised pattern, threads and loom mechanism","caption":"Editorial visualization of jacquard: interlacing, relief and the mechanics of pattern.","credit":"VANSMITHLAB · AI illustration, 2026","origin":"ai_illustration"}
+  "hero_image": {
+    "src": "/images/encyclopedia/jacquard-hero-v1.webp",
+    "alt": "Editorial AI illustration: jacquard weave, raised pattern, threads and loom mechanism",
+    "caption": "Editorial visualization of jacquard: interlacing, relief and the mechanics of pattern.",
+    "credit": "VANSMITHLAB · AI illustration, 2026",
+    "origin": "ai_illustration"
+  },
+  "translation": {
+    "source_locale": "ru",
+    "source_revision": 1,
+    "semantic_validated": true,
+    "review_run_id": "fix-2026-08-12"
+  }
 }

@@ -1,0 +1,396 @@
+{
+  "id": "obj_0311929ba5dd4edc",
+  "type": "theme",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Латунь",
+  "slug_ru": "brass-composition-patina-warm-metallic-light",
+  "summary_ru": "Состав, патина и тёплый металлический свет",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.7,
+  "created_at": "2026-08-11T00:00:00.000Z",
+  "updated_at": "2026-08-11T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_001",
+      "wording_ru": "Латунь — это семейство медно-цинковых сплавов. Изменяя долю цинка и добавляя олово, свинец, алюминий, никель или мышьяк, производитель получает материалы с разным цветом, пластичностью, обрабатываемостью и сопротивлением конкретной среде. Распространённые составы содержат примерно от 5 до 45 процентов цинка.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_002",
+      "wording_ru": "Латунь — это семейство медно-цинковых сплавов. Изменяя долю цинка и добавляя олово, свинец, алюминий, никель или мышьяк, производитель получает материалы с разным цветом, пластичностью, обрабатываемостью и сопротивлением конкретной среде. Распространённые составы содержат примерно от 5 до 45 процентов цинка.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_003",
+      "wording_ru": "Высокомедные сплавы вроде gilding metal дают красноватый «старое золото» и хорошо формуются. C26000, известная как cartridge brass, содержит около 70 процентов меди и ценится за холодную обработку. Морская латунь C46400 включает олово и рассчитана на более сложные коррозионные условия.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_004",
+      "wording_ru": "Высокомедные сплавы вроде gilding metal дают красноватый «старое золото» и хорошо формуются. C26000, известная как cartridge brass, содержит около 70 процентов меди и ценится за холодную обработку. Морская латунь C46400 включает олово и рассчитана на более сложные коррозионные условия.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_005",
+      "wording_ru": "Для влажных зон и инженерных деталей используют устойчивые к обесцинкованию DZR-сплавы, например C35330. Декоративная патина и опасная коррозия визуально могут начинаться похоже, поэтому условия эксплуатации нужно понимать заранее.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_006",
+      "wording_ru": "Без защитного покрытия латунь постепенно темнеет. Влага, кислород, соли, загрязнение воздуха и прикосновения создают неравномерную карту: края, ручки и зоны частого контакта стареют иначе, чем спокойные плоскости.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_007",
+      "wording_ru": "Химические составы, температура, предварительная очистка и последовательность нанесения позволяют получать коричневые, серые, чёрные и зеленоватые оттенки. Copper Development Association подчёркивает необходимость пробников и контроля подготовки поверхности.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_008",
+      "wording_ru": "Потемнение поверхности не обязательно означает разрушение. Тонкие продукты окисления могут менять цвет, сохраняя геометрию. Но в определённых водных и химических средах возможно обесцинкование — избирательное удаление цинка, оставляющее пористую медистую структуру.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_009",
+      "wording_ru": "Без защитного покрытия латунь постепенно темнеет. Влага, кислород, соли, загрязнение воздуха и прикосновения создают неравномерную карту: края, ручки и зоны частого контакта стареют иначе, чем спокойные плоскости.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_010",
+      "wording_ru": "Christopher Dresser использовал промышленное производство как самостоятельный язык предмета, а не как дешёвую копию ремесла. В начале XX века Wiener Werkstätte соединяла геометрию, листовой металл и высокое качество исполнения; Cooper Hewitt хранит коробку Коломана Мозера из посеребрённой латуни.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_011",
+      "wording_ru": "В американском Art Deco компания Chase Brass and Copper привлекала дизайнеров к созданию доступных современных предметов. Латунь оказалась идеальным посредником между машинным блеском, домашним масштабом и образом роскоши.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_012",
+      "wording_ru": "Christopher Dresser использовал промышленное производство как самостоятельный язык предмета, а не как дешёвую копию ремесла. В начале XX века Wiener Werkstätte соединяла геометрию, листовой металл и высокое качество исполнения; Cooper Hewitt хранит коробку Коломана Мозера из посеребрённой латуни.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_013",
+      "wording_ru": "Коллекция Beat переводит традиционные техники ручной обработки металла в современную систему светильников. Том Диксон описывает изделия как вручную формованные и чеканные, с тёплой золотой внутренней поверхностью.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_014",
+      "wording_ru": "Коллекция Beat переводит традиционные техники ручной обработки металла в современную систему светильников. Том Диксон описывает изделия как вручную формованные и чеканные, с тёплой золотой внутренней поверхностью.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_015",
+      "wording_ru": "Латунь хорошо перерабатывается, а лом сохраняет экономическую ценность. Copper Development Association подчёркивает замкнутый цикл материала; для части американской отрасли латунного прутка подтверждён высокий уровень переработанного содержания.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_016",
+      "wording_ru": "Латунь хорошо перерабатывается, а лом сохраняет экономическую ценность. Copper Development Association подчёркивает замкнутый цикл материала; для части американской отрасли латунного прутка подтверждён высокий уровень переработанного содержания.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_5602089093547d55",
+      "title": "Copper-zinc alloys (brass)",
+      "url": "https://kupfer.de/kupferwerkstoffe/kupfer-legierungen/kupfer-zink-legierungen-messing/?lang=en",
+      "publisher": "German Copper Alliance / Kupferverband",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_f92c7b1935c8e289",
+      "title": "Publication 117: The Brasses",
+      "url": "https://www.nationalbronze.com/pub-117---the-brasses_whole_web-pdf.pdf",
+      "publisher": "Copper Development Association",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_53be0d9c17700237",
+      "title": "C26000 Cartridge Brass, 70%",
+      "url": "https://alloys.copper.org/alloy/C26000",
+      "publisher": "Copper Development Association",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_dd20396ae1630c79",
+      "title": "C46400 Naval Brass",
+      "url": "https://alloys.copper.org/alloy/C46400",
+      "publisher": "Copper Development Association",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_06dc344c3b3a9993",
+      "title": "C35330 DZR Brass",
+      "url": "https://alloys.copper.org/alloy/C35330",
+      "publisher": "Copper Development Association",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_eb5716c3df46ca78",
+      "title": "Architectural Applications: Copper, Brass and Bronze Design Handbook",
+      "url": "https://cdn.ymaws.com/www.nomma.org/resource/resmgr/nef/NEF_ed/A4039-ArchitecturalApplicati.pdf",
+      "publisher": "Copper Development Association",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_8298638f7c8fda44",
+      "title": "How to Apply Statuary and Patina Finishes",
+      "url": "https://copper.org/wp-content/uploads/2026/04/a1081.pdf",
+      "publisher": "Copper Development Association",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_a91b6566c5707f32",
+      "title": "A Note on the Dezincification of Brass",
+      "url": "https://copper.org/wp-content/uploads/2026/05/7013.pdf",
+      "publisher": "Copper Development Association",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_1fd2b4c845e1dca8",
+      "title": "Copper in Architecture Design Handbook",
+      "url": "https://copper.org/markets-and-applications/building-construction/elevating-architecture/copper-in-architecture-design-handbook/",
+      "publisher": "Copper Development Association",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_5ce300fe8c0e7428",
+      "title": "Christopher Dresser (1834–1904)",
+      "url": "https://www.metmuseum.org/essays/christopher-dresser-1834-1904",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_570772f9441296ad",
+      "title": "American Art Deco Goes Down the Tubes",
+      "url": "https://www.cooperhewitt.org/2015/12/04/american-art-deco-goes-down-the-tubes/",
+      "publisher": "Cooper Hewitt, Smithsonian Design Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_373961a243516603",
+      "title": "Branded in Early Twentieth-Century Vienna",
+      "url": "https://www.cooperhewitt.org/2013/03/21/branded-in-early-twentieth-century-vienna/",
+      "publisher": "Cooper Hewitt, Smithsonian Design Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_a7f63a51256dfbc4",
+      "title": "The Beat Collection",
+      "url": "https://www.tomdixon.net/us/beat",
+      "publisher": "Tom Dixon",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_903aea3f56d4d8f8",
+      "title": "Beat Table Light — Polished Brass",
+      "url": "https://www.tomdixon.net/us/lighting/table/bell-table-light-blt11br-tun01m1-us",
+      "publisher": "Tom Dixon",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_b19ac43c8a33ca45",
+      "title": "Brass Recyclability: Environmental and Economic Advantages",
+      "url": "https://copper.org/wp-content/uploads/2026/05/a7034-Brass-Recyclability.pdf",
+      "publisher": "Copper Development Association",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_13e8949ebfddf7b7",
+      "title": "U.S. Brass Rod Industry Recycled Content Certification",
+      "url": "https://copper.org/u-s-brass-rod-industry-secures-greencircle-certification-for-recycled-content-2/",
+      "publisher": "Copper Development Association",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_f5f6fb4d1a014d8a",
+      "claim_id": "clm_001",
+      "source_id": "src_5602089093547d55",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_e256f37a39684d3a",
+      "claim_id": "clm_002",
+      "source_id": "src_5602089093547d55",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_2c26bfaf7a5e4634",
+      "claim_id": "clm_003",
+      "source_id": "src_5602089093547d55",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_2b766735cbe94122",
+      "claim_id": "clm_004",
+      "source_id": "src_5602089093547d55",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_ca2f263de5104c87",
+      "claim_id": "clm_005",
+      "source_id": "src_5602089093547d55",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_254f5596409e44b9",
+      "claim_id": "clm_006",
+      "source_id": "src_5602089093547d55",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_d5ac79bbe5084940",
+      "claim_id": "clm_007",
+      "source_id": "src_13e8949ebfddf7b7",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_8e769172d74d4eb7",
+      "claim_id": "clm_008",
+      "source_id": "src_5602089093547d55",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_e1fabb08707e428a",
+      "claim_id": "clm_009",
+      "source_id": "src_5602089093547d55",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_986180b9ebeb46ad",
+      "claim_id": "clm_010",
+      "source_id": "src_5602089093547d55",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_5bd2796457904130",
+      "claim_id": "clm_011",
+      "source_id": "src_5602089093547d55",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_36537b1be35b43a6",
+      "claim_id": "clm_012",
+      "source_id": "src_5602089093547d55",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_dd20b9bf45bb4a0f",
+      "claim_id": "clm_013",
+      "source_id": "src_5602089093547d55",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_558058e573ad4ca2",
+      "claim_id": "clm_014",
+      "source_id": "src_5602089093547d55",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_077c96b9a84d470e",
+      "claim_id": "clm_015",
+      "source_id": "src_13e8949ebfddf7b7",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_c69388b0137e4452",
+      "claim_id": "clm_016",
+      "source_id": "src_13e8949ebfddf7b7",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "PUBLISH",
+    "note": "RU/EN pair passed structural and source validation; knowledge object derived from the editorial DOCX claim map.",
+    "converted_by": "Codex publication workflow",
+    "converted_at": "2026-08-11T00:00:00.000Z"
+  }
+}

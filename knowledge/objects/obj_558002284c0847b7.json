@@ -1,0 +1,488 @@
+{
+  "id": "obj_558002284c0847b7",
+  "type": "theme",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 2,
+  "title_ru": "Бетон",
+  "slug_ru": "concrete-architectural-visual-material",
+  "summary_ru": "Архитектурный и визуальный материал",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.7,
+  "created_at": "2026-08-11T00:00:00.000Z",
+  "updated_at": "2026-08-12T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_001",
+      "wording_ru": "Бетон — композит из цементного вяжущего, воды и заполнителей. Его прочность и поверхность формируются одновременно: водоцементное отношение влияет на пористость, опалубка передаёт рисунок, вибрация удаляет воздух, curing удерживает влагу для гидратации, а шлифовка или обнажение заполнителя открывают внутреннюю структуру.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_002",
+      "wording_ru": "Цемент — не бетон, а вяжущее. При соединении с водой он образует пасту, которая обволакивает песок и камень, а затем связывает их в твёрдую систему. Избыток воды облегчает укладку, но после испарения оставляет поры и ослабляет поверхность.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_003",
+      "wording_ru": "Бетон запоминает всё. Доска оставляет древесный рисунок, плохо выпущенный воздух — раковину, избыток воды — слабую меловую кожу, ранняя распалубка — повреждённую кромку. Поэтому архитектурный бетон следует проектировать как единое целое: конструкцию, поверхность, свет и будущее старение.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_004",
+      "wording_ru": "Бетон запоминает всё. Доска оставляет древесный рисунок, плохо выпущенный воздух — раковину, избыток воды — слабую меловую кожу, ранняя распалубка — повреждённую кромку. Поэтому архитектурный бетон следует проектировать как единое целое: конструкцию, поверхность, свет и будущее старение.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_005",
+      "wording_ru": "Швы листов, рабочие захватки и разделительный состав также остаются в кадре поверхности. Неравномерное нанесение release agent может дать пятна и поры; попытка скрыть процесс обычно делает его заметнее.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_006",
+      "wording_ru": "Сборный элемент производится в контролируемых условиях и повторяется точнее. Однако заводская гладкость не отменяет стыков: именно соединения, допуски и транспортные ограничения формируют его архитектурный язык.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_007",
+      "wording_ru": "Цвет зависит от цемента, песка, камня, воды, добавок, влажности и света. Даже одна смесь на разных участках может выглядеть теплее, холоднее или темнее. Белый цемент расширяет палитру, а интегральные пигменты окрашивают всю массу.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_008",
+      "wording_ru": "Бетон — композит из цементного вяжущего, воды и заполнителей. Его прочность и поверхность формируются одновременно: водоцементное отношение влияет на пористость, опалубка передаёт рисунок, вибрация удаляет воздух, curing удерживает влагу для гидратации, а шлифовка или обнажение заполнителя открывают внутреннюю структуру.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_009",
+      "wording_ru": "Углекислый газ постепенно снижает щёлочность бетона. Когда фронт карбонизации достигает арматуры, сталь теряет защиту и при наличии влаги начинает корродировать. Расширяющаяся ржавчина отслаивает защитный слой.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_010",
+      "wording_ru": "Бетон запоминает всё. Доска оставляет древесный рисунок, плохо выпущенный воздух — раковину, избыток воды — слабую меловую кожу, ранняя распалубка — повреждённую кромку. Поэтому архитектурный бетон следует проектировать как единое целое: конструкцию, поверхность, свет и будущее старение.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_011",
+      "wording_ru": "В поздних работах Le Corbusier следы опалубки и необработанная поверхность перестали быть недостатком. Béton brut сохранял процесс производства и делал его частью архитектурного языка.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_012",
+      "wording_ru": "Из этой логики вырос брутализм — не единый стиль и не любовь к грубости, а широкий интерес к массе, структуре и социальной выразительности материала.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_013",
+      "wording_ru": "В Kimbell Art Museum бетон не давит массой, а работает как спокойный световой инструмент. Музей описывает многочисленные пробные заливки и мягкий серый оттенок с лавандовым подтоном, согласованный с травертином.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_014",
+      "wording_ru": "У Tadao Ando бетон кажется почти нематериальным: ровные поля, строгая сетка стяжек и мягкий свет создают тишину. Pritzker Prize подчёркивает роль качественной деревянной опалубки и контроля поверхности.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_015",
+      "wording_ru": "Pier Luigi Nervi исследовал железобетон через ребристые оболочки и конструкции, где рисунок поверхности следует потоку усилий. Его формы выглядят скульптурно, но рождаются из инженерной логики.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_016",
+      "wording_ru": "Paulo Mendes da Rocha использовал бетон и сталь для больших общественных жестов. Монументальность у него создаётся пролётом, опорой и свободным пространством, а не нанесённым декором.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_017",
+      "wording_ru": "Снижение embodied carbon связано с количеством клинкера, смешанными цементами, эффективностью конструкции, местным заполнителем и сроком службы. GCCA и American Cement Association рассматривают декарбонизацию как систему решений, а не один «зелёный» продукт.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_018",
+      "wording_ru": "Шлак, пуццоланы, известняк и другие компоненты могут уменьшать долю клинкера и менять тепловыделение, оттенок и темп набора прочности. Низкоуглеродный бетон — это не цвет и не один продукт, а точно настроенная рецептура.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_019",
+      "wording_ru": "Joseph Monier развивал железоцементные резервуары и конструкции, показывая, как металл может компенсировать слабость бетона на растяжение. Композит превратился из массы в пространственную систему.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_020",
+      "wording_ru": "Шлифовка выравнивает плоскость, а полировка постепенно усиливает отражение. Полированный бетон кажется роскошнее не потому, что становится похожим на мрамор, а потому, что внутреннее строение материала начинает работать со светом.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_a63b7ab2795b87a2",
+      "title": "Applications of Cement",
+      "url": "https://www.cement.org/cement-concrete/applications-of-cement/",
+      "publisher": "American Cement Association",
+      "source_tier": 2,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_15b3869f48130649",
+      "title": "How Cement Is Made",
+      "url": "https://www.cement.org/cement-concrete/how-cement-is-made/",
+      "publisher": "American Cement Association",
+      "source_tier": 2,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_275c3c5c2a2a94be",
+      "title": "Introduction to Concrete",
+      "url": "https://members.cement.org/ebiz55/bookstore/EB001.16-Ch.1-Intro-to-Concrete-LR.pdf",
+      "publisher": "Portland Cement Association / American Cement Association",
+      "source_tier": 2,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_321b50ee743102e7",
+      "title": "Architectural Concrete Topic",
+      "url": "https://www.concrete.org/topicsinconcrete/topicdetail.aspx?search=architectural+concrete",
+      "publisher": "American Concrete Institute",
+      "source_tier": 2,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_34083d28f6605d9a",
+      "title": "Form Release Agents",
+      "url": "https://www.concrete.org/frequentlyaskedquestions.aspx?faqid=851",
+      "publisher": "American Concrete Institute",
+      "source_tier": 2,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_b5322278265d293f",
+      "title": "Guide for Precast Concrete Wall Panels",
+      "url": "https://www.concrete.org/publications/internationalconcreteabstractsportal/m/details/id/4242",
+      "publisher": "American Concrete Institute",
+      "source_tier": 2,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_86d1453479ed47a8",
+      "title": "Finishing Concrete with Color and Texture",
+      "url": "https://www.cement.org/wp-content/uploads/2024/08/PA124.02.pdf",
+      "publisher": "Portland Cement Association / American Cement Association",
+      "source_tier": 2,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_123662fabd2634c3",
+      "title": "Curing of High-Performance Concrete",
+      "url": "https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6295.pdf",
+      "publisher": "National Institute of Standards and Technology",
+      "source_tier": 2,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_07f6308f665b2335",
+      "title": "Methods for Predicting Remaining Life of Concrete in Structures",
+      "url": "https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4954.pdf",
+      "publisher": "National Institute of Standards and Technology",
+      "source_tier": 2,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_2aca1e737d1e5203",
+      "title": "The Contractor’s Guide to Quality Concrete Construction — Formwork",
+      "url": "https://www.concrete.org/Portals/0/Files/PDF/ASCC105Chap5.pdf",
+      "publisher": "American Concrete Institute / ASCC",
+      "source_tier": 2,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_097e84a9e089c8b4",
+      "title": "Vocabulaire corbuséen — béton brut and Brutalism",
+      "url": "https://www.fondationlecorbusier.fr/dossier-thematique/vocabulaire-corbuseen/",
+      "publisher": "Fondation Le Corbusier",
+      "source_tier": 2,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_f9245ccdd0526150",
+      "title": "Brutalist Architecture",
+      "url": "https://www.moma.org/collection/terms/brutalist-architecture",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_5185bfb9a29b16f3",
+      "title": "The Louis I. Kahn Building",
+      "url": "https://50.kimbellart.org/architecture/the-louis-i-kahn-building/",
+      "publisher": "Kimbell Art Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_988eac65dd189f16",
+      "title": "Tadao Ando — 1995 Laureate Biography",
+      "url": "https://www.pritzkerprize.com/sites/default/files/file_fields/field_files_inline/1995_bio.pdf",
+      "publisher": "The Pritzker Architecture Prize",
+      "source_tier": 2,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_aab893839b1b3405",
+      "title": "Pier Luigi Nervi — Architecture for Sport",
+      "url": "https://www.maxxi.art/en/events/pier-luigi-nervi-e-lo-sport/",
+      "publisher": "MAXXI",
+      "source_tier": 2,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_bf9a65d080ed8a44",
+      "title": "Paulo Mendes da Rocha — Jury Citation",
+      "url": "https://www.pritzkerprize.com/jury-citation-paulo-mendes-da-rocha",
+      "publisher": "The Pritzker Architecture Prize",
+      "source_tier": 2,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_1f885d85325fd85f",
+      "title": "Concrete Future — 2050 Net Zero Roadmap",
+      "url": "https://gccassociation.org/concretefuture/",
+      "publisher": "Global Cement and Concrete Association",
+      "source_tier": 2,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_76995cda521dd390",
+      "title": "Blended Cements and Sustainability of Concrete Construction",
+      "url": "https://www.cement.org/a-sustainable-future/reaching-our-goal/blended-cements/",
+      "publisher": "American Cement Association",
+      "source_tier": 2,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_be1816ea28daf7eb",
+      "title": "Joseph Monier — Construction of Tanks, Reservoirs, Silos and Conduits, US Patent 486535",
+      "url": "https://patents.google.com/patent/US486535A/en",
+      "publisher": "United States Patent Office / Google Patents",
+      "source_tier": 2,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_f5449df69635b3b9",
+      "title": "Creating New Floors with Polished Concrete",
+      "url": "https://www.cement.org/docs/default-source/sustainabilty2/high-gloss-finishes-creating-new-floors-with-polished-concrete.pdf",
+      "publisher": "Portland Cement Association / American Cement Association",
+      "source_tier": 2,
+      "accessed_at": "2026-08-08"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_b83ceb7ff39840f4",
+      "claim_id": "clm_001",
+      "source_id": "src_a63b7ab2795b87a2",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_ff630960e6dc41aa",
+      "claim_id": "clm_002",
+      "source_id": "src_a63b7ab2795b87a2",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_6271ee838ffc42d4",
+      "claim_id": "clm_003",
+      "source_id": "src_a63b7ab2795b87a2",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_e7711226ee8a4cb6",
+      "claim_id": "clm_004",
+      "source_id": "src_a63b7ab2795b87a2",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_4616664ce396448e",
+      "claim_id": "clm_005",
+      "source_id": "src_a63b7ab2795b87a2",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_c77afb84c0d94e45",
+      "claim_id": "clm_006",
+      "source_id": "src_a63b7ab2795b87a2",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_c0d6c602f7074105",
+      "claim_id": "clm_007",
+      "source_id": "src_a63b7ab2795b87a2",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_3713b2151f9745ba",
+      "claim_id": "clm_008",
+      "source_id": "src_a63b7ab2795b87a2",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_756faea1b26f48ca",
+      "claim_id": "clm_009",
+      "source_id": "src_a63b7ab2795b87a2",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_28b5084e089d4adb",
+      "claim_id": "clm_010",
+      "source_id": "src_a63b7ab2795b87a2",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_b3b0062e41bb4e35",
+      "claim_id": "clm_011",
+      "source_id": "src_a63b7ab2795b87a2",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_a1e177894cd94bb4",
+      "claim_id": "clm_012",
+      "source_id": "src_a63b7ab2795b87a2",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_4b8406c023124aec",
+      "claim_id": "clm_013",
+      "source_id": "src_5185bfb9a29b16f3",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_9fc9dda38d124652",
+      "claim_id": "clm_014",
+      "source_id": "src_a63b7ab2795b87a2",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_540c6bac1a0f45f2",
+      "claim_id": "clm_015",
+      "source_id": "src_a63b7ab2795b87a2",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_b6a05853573e44f4",
+      "claim_id": "clm_016",
+      "source_id": "src_a63b7ab2795b87a2",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_ee9150c1c181491f",
+      "claim_id": "clm_017",
+      "source_id": "src_76995cda521dd390",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_908b4aabebdf4f7d",
+      "claim_id": "clm_018",
+      "source_id": "src_a63b7ab2795b87a2",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_d21a663c8f9446f3",
+      "claim_id": "clm_019",
+      "source_id": "src_a63b7ab2795b87a2",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_e48f06bf629e4336",
+      "claim_id": "clm_020",
+      "source_id": "src_a63b7ab2795b87a2",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "PUBLISH",
+    "note": "RU/EN pair passed structural and source validation; knowledge object derived from the editorial DOCX claim map.",
+    "converted_by": "Codex publication workflow",
+    "converted_at": "2026-08-11T00:00:00.000Z"
+  }
+}

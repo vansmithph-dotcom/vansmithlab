@@ -7,12 +7,20 @@
   "source_revision": 1,
   "verification_state": "partially_verified",
   "confidence_score": 0.96,
-  "claim_ids": [],
+  "claim_ids": [
+    "clm_001",
+    "clm_002",
+    "clm_003",
+    "clm_004",
+    "clm_005",
+    "clm_006",
+    "clm_007"
+  ],
   "source_ids": [
-    "src_92e81e370331c84c",
-    "src_263bb8f9b867e977",
-    "src_d993634cfac94381",
-    "src_20f7a3fff29d01e5"
+    "s01",
+    "s02",
+    "s03",
+    "s04"
   ],
   "last_reviewed": "2026-08-09",
   "author": "VANSMITHLAB",
@@ -35,5 +43,12 @@
     "credit": "VANSMITHLAB · AI-иллюстрация, 2026",
     "origin": "ai_illustration"
   },
-  "portrait_image": {"src":"/images/glossary/photographers/paolo-roversi-portrait-source.jpg","alt":"Портрет Паоло Роверси","caption":"Паоло Роверси","credit":"Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Paolo_Roversi_Paris_Fashion_Week_Spring_Summer_2019.jpg","origin":"wikimedia_commons","rights_status":"editorial_basis_recorded"}
+  "portrait_image": {
+    "src": "/images/glossary/photographers/paolo-roversi-portrait-source.jpg",
+    "alt": "Портрет Паоло Роверси",
+    "caption": "Паоло Роверси",
+    "credit": "Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Paolo_Roversi_Paris_Fashion_Week_Spring_Summer_2019.jpg",
+    "origin": "wikimedia_commons",
+    "rights_status": "editorial_basis_recorded"
+  }
 }

@@ -1,13 +1,30 @@
 {
   "content_id": "cnt_cbe2e4c316f31636",
-  "primary_object_id": "",
+  "primary_object_id": "obj_5760fac5763742dd",
   "content_type": "encyclopedia",
   "state": "published",
   "source_locale": "ru",
   "source_revision": 1,
-  "verification_state": "unverified",
-  "confidence_score": 0.0,
-  "claim_ids": [],
+  "verification_state": "partially_verified",
+  "confidence_score": 0.7,
+  "claim_ids": [
+    "clm_001",
+    "clm_002",
+    "clm_003",
+    "clm_004",
+    "clm_005",
+    "clm_006",
+    "clm_007",
+    "clm_008",
+    "clm_009",
+    "clm_010",
+    "clm_011",
+    "clm_012",
+    "clm_013",
+    "clm_014",
+    "clm_015",
+    "clm_016"
+  ],
   "source_ids": [
     "src_d53445daf0ea6bb1",
     "src_2ffe4852c0257dac",
@@ -26,7 +43,7 @@
     "src_9278213ceda6b7b2",
     "src_5ae969c185e5f71e"
   ],
-  "last_reviewed": "2026-08-09",
+  "last_reviewed": "2026-08-12",
   "author": "VANSMITHLAB",
   "locale": "en",
   "slug": "glass-transparency-reflection-architecture-of-light",
@@ -38,5 +55,17 @@
   "kind": "material-technique",
   "role": [],
   "body_hash": "c978b68a68e2765a15b762f6a7f6b2690ce42d2c4b237aea5dd5d350d3291280",
-  "hero_image": {"src":"/images/encyclopedia/glass-transparency-reflection-architecture-of-light-hero-v1.webp","alt":"Editorial AI illustration: clear and frosted glass panels, reflections and a beam of light","caption":"Editorial visualization of glass as transparency, reflection and the architecture of light.","credit":"VANSMITHLAB · AI illustration, 2026","origin":"ai_illustration"}
+  "hero_image": {
+    "src": "/images/encyclopedia/glass-transparency-reflection-architecture-of-light-hero-v1.webp",
+    "alt": "Editorial AI illustration: clear and frosted glass panels, reflections and a beam of light",
+    "caption": "Editorial visualization of glass as transparency, reflection and the architecture of light.",
+    "credit": "VANSMITHLAB · AI illustration, 2026",
+    "origin": "ai_illustration"
+  },
+  "translation": {
+    "source_locale": "ru",
+    "source_revision": 1,
+    "semantic_validated": true,
+    "review_run_id": "fix-2026-08-12"
+  }
 }

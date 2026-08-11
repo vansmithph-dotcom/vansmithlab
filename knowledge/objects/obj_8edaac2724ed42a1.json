@@ -1,0 +1,166 @@
+{
+  "id": "obj_8edaac2724ed42a1",
+  "type": "theme",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Жаккард",
+  "slug_ru": "jacquard",
+  "summary_ru": "Ткань как сложная система изображения",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.7,
+  "created_at": "2026-08-11T00:00:00.000Z",
+  "updated_at": "2026-08-11T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_001",
+      "wording_ru": "Жаккард показывает, как технология становится визуальным языком. Индивидуальный выбор нитей основы сделал сложный тканый рисунок воспроизводимым и ускорил его производство.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_002",
+      "wording_ru": "История не начинается с одного изобретателя. Basile Bouchon использовал перфорированную бумагу в 1725 году, а Falcon в 1728 году применил соединённые перфокарты.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_003",
+      "wording_ru": "Потому что рисунок формируется самим переплетением. Исторический механизм Жаккара управлял нитями основы через последовательность перфокарт.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_004",
+      "wording_ru": "Отверстие или его отсутствие задаёт действие механизма. Последовательность карт хранит рисунок как повторяемый набор инструкций.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_005",
+      "wording_ru": "Жаккардовый станок не был компьютером, но принцип дискретных инструкций на перфокартах позднее действительно использовался в вычислительной технике.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_006",
+      "wording_ru": "Механизм сделал практически осуществимыми очень сложные тканые изображения, включая портреты, напоминающие графические отпечатки.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_8dfafdaa25b4d137",
+      "title": "title:Nineteenth-Century European Textile Production | publisher:The Metropolitan Museum of Art | url:",
+      "url": "https://www.metmuseum.org/es/essays/nineteenth-century-european-textile-production",
+      "publisher": "",
+      "source_tier": 2,
+      "accessed_at": ""
+    },
+    {
+      "id": "src_bf10c3281f3a11c3",
+      "title": "title:Jacquard Hand Loom | publisher:Science Museum Group | url:",
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co8405056/jacquard-hand-loom",
+      "publisher": "",
+      "source_tier": 2,
+      "accessed_at": ""
+    },
+    {
+      "id": "src_0b47e91cad7508e1",
+      "title": "title:Model of Falcon's loom | publisher:Science Museum Group | url:",
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co44927/model-of-falcons-loom",
+      "publisher": "",
+      "source_tier": 2,
+      "accessed_at": ""
+    },
+    {
+      "id": "src_09033e729286c5ce",
+      "title": "title:Model of a Jacquard loom, with shuttle and components | publisher:Science Museum Group | url:",
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co44888/model-of-a-jacquard-loom-with-shuttle-and-components",
+      "publisher": "",
+      "source_tier": 2,
+      "accessed_at": ""
+    },
+    {
+      "id": "src_819a7d4316cbc4d6",
+      "title": "title:Ribbon loom with jacquard head | publisher:Science Museum Group | url:",
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co8404795/ribbon-loom-with-jacquard-head",
+      "publisher": "",
+      "source_tier": 2,
+      "accessed_at": ""
+    },
+    {
+      "id": "src_ccaf7bc6f1edc6c4",
+      "title": "title:Hand loom for silk weaving with Jacquard machine | publisher:Science Museum Group | url:",
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co44530/hand-loom-for-silk-weaving-with-jacquard-machine",
+      "publisher": "",
+      "source_tier": 2,
+      "accessed_at": ""
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_1ade258f0bcd4fe0",
+      "claim_id": "clm_001",
+      "source_id": "src_8dfafdaa25b4d137",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_2f5c0a41b5d84454",
+      "claim_id": "clm_002",
+      "source_id": "src_8dfafdaa25b4d137",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_be6f7463e2644fdd",
+      "claim_id": "clm_003",
+      "source_id": "src_8dfafdaa25b4d137",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_df65a0d3e4314cec",
+      "claim_id": "clm_004",
+      "source_id": "src_8dfafdaa25b4d137",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_fa20b549ab244184",
+      "claim_id": "clm_005",
+      "source_id": "src_8dfafdaa25b4d137",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_31d430c1f1094bfd",
+      "claim_id": "clm_006",
+      "source_id": "src_8dfafdaa25b4d137",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "PUBLISH",
+    "note": "RU/EN pair passed structural and source validation; knowledge object derived from the editorial DOCX claim map.",
+    "converted_by": "Codex publication workflow",
+    "converted_at": "2026-08-11T00:00:00.000Z"
+  }
+}

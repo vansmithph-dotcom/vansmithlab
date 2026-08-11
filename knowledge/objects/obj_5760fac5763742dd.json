@@ -1,0 +1,396 @@
+{
+  "id": "obj_5760fac5763742dd",
+  "type": "theme",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Стекло",
+  "slug_ru": "glass-transparency-reflection-architecture-of-light",
+  "summary_ru": "Прозрачность, отражение и архитектура света",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.7,
+  "created_at": "2026-08-11T00:00:00.000Z",
+  "updated_at": "2026-08-11T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_001",
+      "wording_ru": "Архитектурное стекло обычно начинается с soda-lime состава и float-процесса, но его окончательное поведение создают последующие операции: отжиг, закалка, ламинация, нанесение low-e или солнцезащитных покрытий, матирование, печать, сборка в стеклопакет и обработка кромки.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_002",
+      "wording_ru": "Осветлённое low-iron glass уменьшает этот зелёный сдвиг и делает белые, телесные и ювелирные оттенки точнее. Saint-Gobain описывает DIAMANT как стекло с очень низким содержанием железа и повышенной оптической нейтральностью.  Абсолютной невидимости всё равно нет: остаются отражение, толщина и граница материала.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_003",
+      "wording_ru": "Архитектурное стекло обычно начинается с soda-lime состава и float-процесса, но его окончательное поведение создают последующие операции: отжиг, закалка, ламинация, нанесение low-e или солнцезащитных покрытий, матирование, печать, сборка в стеклопакет и обработка кромки.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_004",
+      "wording_ru": "При термоупрочнении и закалке стекло нагревают близко к температуре размягчения, а затем охлаждают. Поверхность получает сжимающие напряжения, повышающие сопротивление механическим и термическим нагрузкам. Полностью закалённое стекло при разрушении распадается на сравнительно мелкие частицы и применяется как безопасное остекление.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_005",
+      "wording_ru": "Усиление имеет оптическую цену. Волнистость от роликов, локальные искажения и анизотропия могут становиться заметными в отражении или поляризованном свете. NGA подчёркивает, что strain pattern является характеристикой термообработанного стекла, а не изменением цвета.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_006",
+      "wording_ru": "Ламинированное стекло соединяет два или больше листа промежуточным слоем, часто PVB. При разрушении осколки склонны удерживаться на interlayer, поэтому проём не исчезает мгновенно и риск выпадения уменьшается.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_007",
+      "wording_ru": "Ламинация также меняет звук, ультрафиолет, цвет и визуальную глубину кромки. Прозрачный interlayer может быть почти незаметным, молочный создаёт мягкую приватность, цветной превращает свет в материал. Но открытые края требуют внимания: влага и несовместимые герметики способны вызвать помутнение или расслоение.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_008",
+      "wording_ru": "Министерство энергетики США отмечает, что low-e windows способны заметно снижать потери энергии по сравнению с обычным остеклением.  Но покрытие влияет и на цвет: нейтральное при одном небе может стать голубым, серым или бронзовым при другом. Энергетический расчёт и визуальный мокап должны идти вместе.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_009",
+      "wording_ru": "Pilkington описывает texture glass как rolled patterned glass, а Profilit — как полупрозрачный U-образный литой профиль.  Эти материалы полезны там, где прозрачность слишком буквальна: они сохраняют присутствие света, но возвращают стене плотность.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_010",
+      "wording_ru": "Pilkington описывает texture glass как rolled patterned glass, а Profilit — как полупрозрачный U-образный литой профиль.  Эти материалы полезны там, где прозрачность слишком буквальна: они сохраняют присутствие света, но возвращают стене плотность.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_011",
+      "wording_ru": "Керамическая фритта наносится как рисунок или сплошной слой и вплавляется в поверхность при термообработке. Она может уменьшать блики и солнечные поступления, закрывать непрозрачные зоны фасада, создавать градиент или графический ритм.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_012",
+      "wording_ru": "В retail стекло должно исчезать перед продуктом, но одновременно выдерживать прикосновения, нагрузку и ежедневную очистку. Low-iron glass сохраняет цвет белого текстиля и металла, а anti-reflective coatings уменьшают паразитные отражения в музейных и ювелирных витринах.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_013",
+      "wording_ru": "Glass House Филипа Джонсона, завершённый в 1949 году, делает прозрачную стену главным условием быта. Официальный сайт описывает дом как ключевой пример International Style и подчёркивает его связь с ландшафтом.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_014",
+      "wording_ru": "Пирамида Лувра использует стекло не для лёгкого дополнения, а для нового центра исторического двора. I. M. Pei добивался высокой прозрачности, чтобы фасады дворца оставались видимыми; Louvre указывает, что разработка extra-clear glazing заняла два года.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_015",
+      "wording_ru": "Здание Fondation Cartier Жана Нувеля на Boulevard Raspail работает не одной стеклянной плоскостью, а последовательностью экранов, фасадов и отражений сада. Fondation Cartier описывает его как стеклянно-стальную архитектуру, размывающую границу между интерьером и внешней средой.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_016",
+      "wording_ru": "Glass for Europe подчёркивает значение cullet: его использование снижает потребность в первичном сырье и энергии плавления.  Однако для high-quality flat glass необходимы демонтаж, сортировка и очистка. Экологичность начинается не с заявления «стекло перерабатывается», а с проектирования разборки и реального маршрута материала.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_d53445daf0ea6bb1",
+      "title": "Soda-lime glass",
+      "url": "https://allaboutglass.cmog.org/definition/soda-lime-glass",
+      "publisher": "Corning Museum of Glass",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_2ffe4852c0257dac",
+      "title": "DIAMANT extra-clear low-iron glass",
+      "url": "https://www.saint-gobain-glass.com/DIAMANT",
+      "publisher": "Saint-Gobain Glass",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_3602e43ddb7d01e1",
+      "title": "The Float Process Step by Step",
+      "url": "https://www.pilkington.com/en/gbl/knowledge-hub-selection/architectural-and-technical-glass-knowledge-hub/learn-about-glass-technology/the-float-process/the-float-process-step-by-step",
+      "publisher": "Pilkington",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_c3aa457efe4f42ca",
+      "title": "Recommended Applications for Heat-Treated Glass",
+      "url": "https://www.glass.org/sites/default/files/2021-08/FB45-14_2019_Recommended_Applications_for_Heat-Treated_Glass_0521_0.pdf",
+      "publisher": "National Glass Association",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_e0931f69156d7ae1",
+      "title": "Iridescence in Heat-Treated Architectural Glass",
+      "url": "https://www.glass.org/sites/default/files/2022-04/FB20-08_2022_Iridescence_in_Heat-Treated_Architectural_Glass.pdf",
+      "publisher": "National Glass Association",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_3b9bc0c717cae536",
+      "title": "International Year of Glass — Architectural Glass Resources",
+      "url": "https://www.glass.org/IYOG",
+      "publisher": "National Glass Association",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_dd6513d42b50c693",
+      "title": "Effects of Moisture, Solvents and Other Substances on Laminated Glazing Edges",
+      "url": "https://www.glass.org/sites/default/files/2021-07/FB48-15_2020_Effects_of_Moisture_Solvents_Other_Substances_on_Laminated_Glazing_Edges_0521.pdf",
+      "publisher": "National Glass Association",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_e7d1b80c95d60fca",
+      "title": "Window Types and Technologies. U.S",
+      "url": "https://www.energy.gov/energysaver/window-types-and-technologies",
+      "publisher": "Department of Energy",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_ed328bbf093816b3",
+      "title": "Pilkington Texture Glass",
+      "url": "https://www.pilkington.com/en/gbl/architectural-and-technical-glass/product-categories/decoration/pilkington-texture-glass",
+      "publisher": "Pilkington",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_aa94540a19c1326b",
+      "title": "Pilkington Profilit",
+      "url": "https://www.pilkington.com/en/gbl/architectural-and-technical-glass/product-categories/glass-systems/pilkington-profilit",
+      "publisher": "Pilkington",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_5c7515c5126266a9",
+      "title": "Decorative Glass — Ceramic Frit",
+      "url": "https://www.vitroglazings.com/products/other-glass-applications/decorative-glass/",
+      "publisher": "Vitro Architectural Glass",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_3e316ceb0248df14",
+      "title": "VISION-LITE anti-reflective glass",
+      "url": "https://www.saint-gobain-glass.com/VISION-LITE%C2%AE",
+      "publisher": "Saint-Gobain Glass",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_89e79253d61b47a3",
+      "title": "The Glass House",
+      "url": "https://theglasshouse.org/explore/the-glass-house/",
+      "publisher": "National Trust for Historic Preservation",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_558bbe19a038b14c",
+      "title": "A Pyramid for a Symbol",
+      "url": "https://www.louvre.fr/en/explore/the-palace/a-pyramid-for-a-symbol",
+      "publisher": "Musée du Louvre",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_9278213ceda6b7b2",
+      "title": "Fondation Cartier and Architecture",
+      "url": "https://www.fondationcartier.com/en/the-fondation/fondation-cartier-and-architecture",
+      "publisher": "Fondation Cartier pour l’art contemporain",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_5ae969c185e5f71e",
+      "title": "Recycling and Circular Economy",
+      "url": "https://glassforeurope.com/circular-economy/",
+      "publisher": "Glass for Europe",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_d8204a41c2ad47e3",
+      "claim_id": "clm_001",
+      "source_id": "src_d53445daf0ea6bb1",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_3549987e024c4338",
+      "claim_id": "clm_002",
+      "source_id": "src_d53445daf0ea6bb1",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_520dcbed482e4b77",
+      "claim_id": "clm_003",
+      "source_id": "src_d53445daf0ea6bb1",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_11baf15b485f4d7e",
+      "claim_id": "clm_004",
+      "source_id": "src_d53445daf0ea6bb1",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_5c01d48a131f4687",
+      "claim_id": "clm_005",
+      "source_id": "src_d53445daf0ea6bb1",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_ac35a453e31241b7",
+      "claim_id": "clm_006",
+      "source_id": "src_d53445daf0ea6bb1",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_1b788df0bb9b4ae1",
+      "claim_id": "clm_007",
+      "source_id": "src_d53445daf0ea6bb1",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_19241fb558244b6c",
+      "claim_id": "clm_008",
+      "source_id": "src_d53445daf0ea6bb1",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_61fbf6033bdf4d3b",
+      "claim_id": "clm_009",
+      "source_id": "src_aa94540a19c1326b",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_22577eb3c28a4673",
+      "claim_id": "clm_010",
+      "source_id": "src_aa94540a19c1326b",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_04c9a7d026ce418e",
+      "claim_id": "clm_011",
+      "source_id": "src_d53445daf0ea6bb1",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_934d4f79b087497d",
+      "claim_id": "clm_012",
+      "source_id": "src_d53445daf0ea6bb1",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_32581478b70e4856",
+      "claim_id": "clm_013",
+      "source_id": "src_d53445daf0ea6bb1",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_4e3eaf9f5f18428a",
+      "claim_id": "clm_014",
+      "source_id": "src_d53445daf0ea6bb1",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_c2ccb407ff024d4d",
+      "claim_id": "clm_015",
+      "source_id": "src_d53445daf0ea6bb1",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_09f7e398b16b48c1",
+      "claim_id": "clm_016",
+      "source_id": "src_5ae969c185e5f71e",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "PUBLISH",
+    "note": "RU/EN pair passed structural and source validation; knowledge object derived from the editorial DOCX claim map.",
+    "converted_by": "Codex publication workflow",
+    "converted_at": "2026-08-11T00:00:00.000Z"
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "id": "obj_8ce6c87c68b94304",
+  "type": "theme",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Крой по косой",
+  "slug_ru": "bias-cut-madeleine-vionnet",
+  "summary_ru": "Техника Мадлен Вионне",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.7,
+  "created_at": "2026-08-11T00:00:00.000Z",
+  "updated_at": "2026-08-11T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_001",
+      "wording_ru": "V&A называет Madeleine Vionnet одним из величайших европейских кутюрье и подчёркивает её роль в развитии революционного bias-cut dress, изменившего силуэт женской моды.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_002",
+      "wording_ru": "Крой по косой — один из редких случаев, когда изменение направления выкройки радикально меняет поведение материала. Madeleine Vionnet не изобрела bias cut, но превратила его в полноценную систему современного конструирования, основанную на геометрии, движении и реакции ткани на тело.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_003",
+      "wording_ru": "Vionnet не начинала с обычного плоского эскиза. The Met описывает её работу непосредственно на уменьшенном манекене, который можно было вращать и изучать со всех сторон.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_004",
+      "wording_ru": "V&A отмечает, что Vionnet интенсивно экспериментировала с материалами и часто позволяла ткани определять форму или эффект изделия.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_005",
+      "wording_ru": "Vionnet использовала это свойство не как отдельный эффект, а как основу конструкции. The Met подчёркивает её инновационное использование bias cut и математически точное построение одежды.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_006",
+      "wording_ru": "Косая позволяет ткани поддерживать силуэт через собственную структуру и вес. The Met описывал bias-cut dress как форму, где внутренняя структура текстиля сама участвует в создании одежды.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_007",
+      "wording_ru": "Текучая конструкция Vionnet работала в прямом контрасте с жёстко корсетированным силуэтом начала XX века и позволяла одежде следовать телу.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_008",
+      "wording_ru": "Шёлковый креп сочетает вес, матовую или умеренно блестящую поверхность и пластичность. The Met приводит его как характерный материал для сложных bias-конструкций Vionnet.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_009",
+      "wording_ru": "Шифон на косой получает особенно живое движение, но требует точного контроля растяжения. В платье 1929–30 The Met отмечает bias-cut chiffon и косые оборки, сохраняющие упругость движения.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_010",
+      "wording_ru": "Vionnet часто позволяла конструкции выполнять декоративную функцию. The Met отмечает, что её технические решения нередко создавали визуальный эффект без дополнительной отделки.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_011",
+      "wording_ru": "FIT связывает Vionnet и мягкие крепы, задрапированные по косой, с целым поколением дизайнеров, сформировавших характерный текучий силуэт 1930-х.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_012",
+      "wording_ru": "Среди дизайнеров, работавших в поле её влияния, FIT называет Alix Grès, Augustabernard, Louiseboulanger, Elizabeth Hawes, Valentina, Claire McCardell, Jo Copeland и Adrian.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_bee6d58c87c36ed5",
+      "title": "title:Madeleine Vionnet – an introduction | publisher:Victoria and Albert Museum | url:",
+      "url": "https://www.vam.ac.uk/articles/madeleine-vionnet-an-introduction",
+      "publisher": "",
+      "source_tier": 2,
+      "accessed_at": ""
+    },
+    {
+      "id": "src_5ca3836f5ea69681",
+      "title": "title:Evening dress, ca",
+      "url": "https://www.metmuseum.org/art/collection/search/158999",
+      "publisher": "1936 | publisher:The Metropolitan Museum of Art | url:",
+      "source_tier": 2,
+      "accessed_at": ""
+    },
+    {
+      "id": "src_027c4ebf94d67dba",
+      "title": "title:Evening dress, spring 1931 | publisher:The Metropolitan Museum of Art | url:",
+      "url": "https://www.metmuseum.org/art/collection/search/765647",
+      "publisher": "",
+      "source_tier": 2,
+      "accessed_at": ""
+    },
+    {
+      "id": "src_f9f4dfd9d524d0f4",
+      "title": "title:Dress, ca",
+      "url": "https://www.metmuseum.org/art/collection/search/158827",
+      "publisher": "1926 | publisher:The Metropolitan Museum of Art | url:",
+      "source_tier": 2,
+      "accessed_at": ""
+    },
+    {
+      "id": "src_1ebbe05ce6d5f4b9",
+      "title": "title:Evening ensemble, ca",
+      "url": "https://www.metmuseum.org/art/collection/search/157426",
+      "publisher": "1936 | publisher:The Metropolitan Museum of Art | url:",
+      "source_tier": 2,
+      "accessed_at": ""
+    },
+    {
+      "id": "src_258f0c9d426d5d81",
+      "title": "title:Evening dress, 1936–37 | publisher:The Metropolitan Museum of Art | url:",
+      "url": "https://www.metmuseum.org/art/collection/search/83258",
+      "publisher": "",
+      "source_tier": 2,
+      "accessed_at": ""
+    },
+    {
+      "id": "src_42d3f2837d87b801",
+      "title": "title:Afternoon dress, 1931–32 | publisher:The Metropolitan Museum of Art | url:",
+      "url": "https://www.metmuseum.org/art/collection/search/82553",
+      "publisher": "",
+      "source_tier": 2,
+      "accessed_at": ""
+    },
+    {
+      "id": "src_d8541dea86fb98b5",
+      "title": "title:The Bias Cut — Elegance in an Age of Crisis | publisher:Museum at FIT | url:",
+      "url": "https://exhibitions.fitnyc.edu/fashions-of-the-1930s/bias-cut/",
+      "publisher": "",
+      "source_tier": 2,
+      "accessed_at": ""
+    },
+    {
+      "id": "src_f6efdeb82813b61b",
+      "title": "title:Evening dress, fall/winter 1929–30 | publisher:The Metropolitan Museum of Art | url:",
+      "url": "https://www.metmuseum.org/art/collection/search/95207",
+      "publisher": "",
+      "source_tier": 2,
+      "accessed_at": ""
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_a41db9bf2b3c428e",
+      "claim_id": "clm_001",
+      "source_id": "src_bee6d58c87c36ed5",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_34a9bab15ad24a60",
+      "claim_id": "clm_002",
+      "source_id": "src_bee6d58c87c36ed5",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_544c85bccb1a4955",
+      "claim_id": "clm_003",
+      "source_id": "src_bee6d58c87c36ed5",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_21dbce6e945b4b71",
+      "claim_id": "clm_004",
+      "source_id": "src_bee6d58c87c36ed5",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_09c6295547034782",
+      "claim_id": "clm_005",
+      "source_id": "src_bee6d58c87c36ed5",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_3cfc1d35a1b74d89",
+      "claim_id": "clm_006",
+      "source_id": "src_bee6d58c87c36ed5",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_33bff8ce92e5445a",
+      "claim_id": "clm_007",
+      "source_id": "src_bee6d58c87c36ed5",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_1656cdbfad7b4b63",
+      "claim_id": "clm_008",
+      "source_id": "src_bee6d58c87c36ed5",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_3fb4e40ca9934b60",
+      "claim_id": "clm_009",
+      "source_id": "src_bee6d58c87c36ed5",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_9e1b465744a146c3",
+      "claim_id": "clm_010",
+      "source_id": "src_bee6d58c87c36ed5",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_a2b0f5dae90c4be2",
+      "claim_id": "clm_011",
+      "source_id": "src_bee6d58c87c36ed5",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_6ee582de9fb949c2",
+      "claim_id": "clm_012",
+      "source_id": "src_bee6d58c87c36ed5",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "PUBLISH",
+    "note": "RU/EN pair passed structural and source validation; knowledge object derived from the editorial DOCX claim map.",
+    "converted_by": "Codex publication workflow",
+    "converted_at": "2026-08-11T00:00:00.000Z"
+  }
+}

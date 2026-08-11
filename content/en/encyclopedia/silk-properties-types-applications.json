@@ -1,13 +1,21 @@
 {
   "content_id": "cnt_fa0167160a5ba6eb",
-  "primary_object_id": "",
+  "primary_object_id": "obj_cf9a7f14a5d4454c",
   "content_type": "encyclopedia",
   "state": "published",
   "source_locale": "ru",
   "source_revision": 1,
-  "verification_state": "unverified",
-  "confidence_score": 0.0,
-  "claim_ids": [],
+  "verification_state": "partially_verified",
+  "confidence_score": 0.7,
+  "claim_ids": [
+    "clm_001",
+    "clm_003",
+    "clm_004",
+    "clm_005",
+    "clm_006",
+    "clm_007",
+    "clm_008"
+  ],
   "source_ids": [
     "src_f57756a5c4614d0f",
     "src_86029cbf252c02a9",
@@ -18,7 +26,7 @@
     "src_7b1954e352b23978",
     "src_b40f93cfd1fa5168"
   ],
-  "last_reviewed": "2026-08-09",
+  "last_reviewed": "2026-08-12",
   "author": "VANSMITHLAB",
   "locale": "en",
   "slug": "silk-properties-types-applications",
@@ -30,5 +38,17 @@
   "kind": "material-technique",
   "role": [],
   "body_hash": "ed92bfefc6054e28496d9dc8c31e9a42fc23f874e62e662cc63d206830c75c7e",
-  "hero_image": {"src":"/images/encyclopedia/silk-properties-types-applications-hero-v1.webp","alt":"Editorial AI illustration: silk fabric, filament, cocoons, loom and color samples","caption":"Editorial visualization of silk: filament, weaving, texture and applications.","credit":"VANSMITHLAB · AI illustration, 2026","origin":"ai_illustration"}
+  "hero_image": {
+    "src": "/images/encyclopedia/silk-properties-types-applications-hero-v1.webp",
+    "alt": "Editorial AI illustration: silk fabric, filament, cocoons, loom and color samples",
+    "caption": "Editorial visualization of silk: filament, weaving, texture and applications.",
+    "credit": "VANSMITHLAB · AI illustration, 2026",
+    "origin": "ai_illustration"
+  },
+  "translation": {
+    "source_locale": "ru",
+    "source_revision": 1,
+    "semantic_validated": true,
+    "review_run_id": "fix-2026-08-12"
+  }
 }

@@ -1,0 +1,182 @@
+{
+  "id": "obj_246c1de025354301",
+  "type": "theme",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Драпировка",
+  "slug_ru": "draping-soft-construction",
+  "summary_ru": "Создание формы без жёсткой конструкции",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.7,
+  "created_at": "2026-08-11T00:00:00.000Z",
+  "updated_at": "2026-08-11T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_001",
+      "wording_ru": "Драпировка — это способ создавать форму непосредственно на манекене или теле, позволяя ткани самой показывать направление, вес и потенциал движения. В отличие от жёсткой конструкции, драпировка строит объём через складки, натяжение, провисание и распределение излишка материала.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_002",
+      "wording_ru": "Метод особенно чувствителен к весу, пластичности, направлению нити и поверхности ткани. Madeleine Vionnet работала трёхмерно на уменьшенном манекене и использовала драпировку вместе с кроем по косой, чтобы одежда двигалась вместе с телом.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_003",
+      "wording_ru": "Метод особенно чувствителен к весу, пластичности, направлению нити и поверхности ткани. Madeleine Vionnet работала трёхмерно на уменьшенном манекене и использовала драпировку вместе с кроем по косой, чтобы одежда двигалась вместе с телом.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_004",
+      "wording_ru": "Косое направление даёт ткани диагональную подвижность и позволяет ей мягче огибать тело. Vionnet сделала эту возможность центральной для современной драпированной одежды.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_005",
+      "wording_ru": "Vionnet работала на уменьшенном манекене, вращая форму и наблюдая ткань в круге. Музейные описания подчёркивают математическую точность и чувствительность её драпировок.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_008",
+      "wording_ru": "FIT отмечает, что Adrian использовал драпировку в кино и ready-to-wear, особенно выразительно работая с шёлковым джерси.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_f357f03a42c10102",
+      "title": "Draping",
+      "url": "https://exhibitions.fitnyc.edu/adrian-hollywood-and-beyond/2017/02/15/draping/",
+      "publisher": "Museum at the Fashion Institute of Technology",
+      "source_tier": 2,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_bee6d58c87c36ed5",
+      "title": "Madeleine Vionnet – an introduction",
+      "url": "https://www.vam.ac.uk/articles/madeleine-vionnet-an-introduction",
+      "publisher": "Victoria and Albert Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_5ca3836f5ea69681",
+      "title": "Evening dress, ca. 1936",
+      "url": "https://www.metmuseum.org/art/collection/search/158999",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_027c4ebf94d67dba",
+      "title": "Evening dress, spring 1931",
+      "url": "https://www.metmuseum.org/art/collection/search/765647",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_7cb8b1b635a0e358",
+      "title": "Evening dress, 1929",
+      "url": "https://www.metmuseum.org/art/collection/search/153115",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_dd3daa117b97b406",
+      "title": "Dress, 1920",
+      "url": "https://www.metmuseum.org/art/collection/search/82602",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_42d3f2837d87b801",
+      "title": "Afternoon dress, 1931–32",
+      "url": "https://www.metmuseum.org/art/collection/search/82553",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_998be603a0d507c6",
+      "title": "Adrian: Hollywood and Beyond",
+      "url": "https://www.fitnyc.edu/museum/exhibitions/adrian.php",
+      "publisher": "Fashion Institute of Technology",
+      "source_tier": 2,
+      "accessed_at": "2026-08-08"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_187cd6a665fc447d",
+      "claim_id": "clm_001",
+      "source_id": "src_f357f03a42c10102",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_b7c66c492011469b",
+      "claim_id": "clm_002",
+      "source_id": "src_f357f03a42c10102",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_74c2b5242b084bdb",
+      "claim_id": "clm_003",
+      "source_id": "src_f357f03a42c10102",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_5d4a0d40a91a4f89",
+      "claim_id": "clm_004",
+      "source_id": "src_f357f03a42c10102",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_53d590c6eee74a47",
+      "claim_id": "clm_005",
+      "source_id": "src_f357f03a42c10102",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_44db53c328f849fc",
+      "claim_id": "clm_008",
+      "source_id": "src_f357f03a42c10102",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "PUBLISH",
+    "note": "RU/EN pair passed structural and source validation; knowledge object derived from the editorial DOCX claim map.",
+    "converted_by": "Codex publication workflow",
+    "converted_at": "2026-08-11T00:00:00.000Z"
+  }
+}

@@ -1,0 +1,350 @@
+{
+  "id": "obj_6c7baf5c749d428d",
+  "type": "theme",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Кожа",
+  "slug_ru": "leather-tanning-luxury-production",
+  "summary_ru": "Дубление, обработка и luxury-производство",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.7,
+  "created_at": "2026-08-11T00:00:00.000Z",
+  "updated_at": "2026-08-11T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_001",
+      "wording_ru": "Кожа — не однородный luxury-материал, а биологическая структура, преобразованная множеством производственных операций. Вид животного, участок шкуры, способ консервации, дубление, жирование, окрашивание, сушка, механическая обработка и финиш определяют толщину, мягкость, блеск, запах, патину и способность материала принимать форму. В luxury-производстве ценность создаётся не одним происхождением, а контролем всей цепочки — от прослеживаемости и химии до раскроя, шва, обработки края и ремонта.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_002",
+      "wording_ru": "Стандарт оценивает воду и энергию, отходы и стоки, выбросы, химическое управление, restricted substances, безопасность, социальный аудит и прослеживаемость.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_003",
+      "wording_ru": "Стандарт оценивает воду и энергию, отходы и стоки, выбросы, химическое управление, restricted substances, безопасность, социальный аудит и прослеживаемость.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_004",
+      "wording_ru": "Leather Working Group оценивает предприятия, перерабатывающие сырьё, дублёную или crust-кожу в pre-tanned, tanned, crust и finished leather. Современный аудит охватывает экологическое управление, прослеживаемость, химикаты, социальную ответственность и управление предприятием.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_005",
+      "wording_ru": "Международная торговля кожами и изделиями из видов, включённых в CITES, требует соответствующей документации. База CITES хранит официальные данные о торговле, включая skins и leather products.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_006",
+      "wording_ru": "Международная торговля кожами и изделиями из видов, включённых в CITES, требует соответствующей документации. База CITES хранит официальные данные о торговле, включая skins и leather products.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_007",
+      "wording_ru": "Кожаное платье Alaïa около 1986 года демонстрирует материал как инструмент точного скульптурного кроя: широкое плечо, узкая талия и моделирование тела создаются конструкцией.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_008",
+      "wording_ru": "The Met отмечает использование Cavalli тонкой calfskin, лазерной резки и вышивки, позволявших манипулировать кожей почти как шёлком.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_009",
+      "wording_ru": "The Met показывает, как Bonnie Cashin в 1950-е и 1960-е использовала большие площади кожи, яркий цвет и металлическую фурнитуру, превращая материал в современную повседневную одежду.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_010",
+      "wording_ru": "The Met показывает, как Bonnie Cashin в 1950-е и 1960-е использовала большие площади кожи, яркий цвет и металлическую фурнитуру, превращая материал в современную повседневную одежду.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_011",
+      "wording_ru": "The Met показывает, как Bonnie Cashin в 1950-е и 1960-е использовала большие площади кожи, яркий цвет и металлическую фурнитуру, превращая материал в современную повседневную одежду.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_012",
+      "wording_ru": "В платье Geoffrey Beene кожа работает как анатомический поддерживающий yoke, одновременно функциональный и визуально связанный с harness и архитектурой.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_013",
+      "wording_ru": "Объект YSL 1968 года сочетает кожу с шёлком, пластиком, шерстью и металлом, показывая, что luxury leather часто работает внутри гибридной материальной системы.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_023",
+      "wording_ru": "Регуляторный контекст может меняться. В мае 2026 года LWG сообщила о предложении Европейской комиссии исключить leather из EUDR, которое на тот момент было предметом публичной консультации.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_9ed2d5cf9429f055",
+      "title": "title:Leather Manufacturer Standard | publisher:Leather Working Group | url:",
+      "url": "https://www.leatherworkinggroup.com/certification/leather-manufacturer-standard/",
+      "publisher": "",
+      "source_tier": 2,
+      "accessed_at": ""
+    },
+    {
+      "id": "src_9543faba3bbf38b8",
+      "title": "title:Standards & Certification | publisher:Leather Working Group | url:",
+      "url": "https://www.leatherworkinggroup.com/our-impact/standards-certification/",
+      "publisher": "",
+      "source_tier": 2,
+      "accessed_at": ""
+    },
+    {
+      "id": "src_9c56957748716af3",
+      "title": "title:Certification FAQ | publisher:Leather Working Group | url:",
+      "url": "https://www.leatherworkinggroup.com/certification/",
+      "publisher": "",
+      "source_tier": 2,
+      "accessed_at": ""
+    },
+    {
+      "id": "src_fec478aca42ee7dc",
+      "title": "title:Audit Scope | publisher:Leather Working Group | url:",
+      "url": "https://www.leatherworkinggroup.com/br/certification/leather-manufacturer-standard/audit-scope/",
+      "publisher": "",
+      "source_tier": 2,
+      "accessed_at": ""
+    },
+    {
+      "id": "src_d429d039a92aa32c",
+      "title": "title:CITES Trade Database | publisher:CITES / UNEP-WCMC | url:",
+      "url": "https://trade.cites.org/en/cites_trade/",
+      "publisher": "",
+      "source_tier": 2,
+      "accessed_at": ""
+    },
+    {
+      "id": "src_57b55bf468c5432a",
+      "title": "title:CITES Wildlife TradeView — Methods | publisher:CITES | url:",
+      "url": "https://tradeview.cites.org/en/methods",
+      "publisher": "",
+      "source_tier": 2,
+      "accessed_at": ""
+    },
+    {
+      "id": "src_f48a1a3987ffd236",
+      "title": "title:Dress, Azzedine Alaïa, ca",
+      "url": "https://www.metmuseum.org/art/collection/search/185302",
+      "publisher": "1986 | publisher:The Metropolitan Museum of Art | url:",
+      "source_tier": 2,
+      "accessed_at": ""
+    },
+    {
+      "id": "src_98b4678d17b3e1db",
+      "title": "title:Dress, Roberto Cavalli, spring/summer 2003 | publisher:The Metropolitan Museum of Art | url:",
+      "url": "https://www.metmuseum.org/art/collection/search/96524",
+      "publisher": "",
+      "source_tier": 2,
+      "accessed_at": ""
+    },
+    {
+      "id": "src_a155b63594faeb64",
+      "title": "title:Cocktail dress, Bonnie Cashin, 1953 | publisher:The Metropolitan Museum of Art | url:",
+      "url": "https://www.metmuseum.org/art/collection/search/155950",
+      "publisher": "",
+      "source_tier": 2,
+      "accessed_at": ""
+    },
+    {
+      "id": "src_007d3c0778c1cbca",
+      "title": "title:Wedding dress, Bonnie Cashin, 1953 | publisher:The Metropolitan Museum of Art | url:",
+      "url": "https://www.metmuseum.org/art/collection/search/155314",
+      "publisher": "",
+      "source_tier": 2,
+      "accessed_at": ""
+    },
+    {
+      "id": "src_5d12a7c06ef9ae85",
+      "title": "title:Dress, Bonnie Cashin, fall/winter 1967–68 | publisher:The Metropolitan Museum of Art | url:",
+      "url": "https://www.metmuseum.org/art/collection/search/83950",
+      "publisher": "",
+      "source_tier": 2,
+      "accessed_at": ""
+    },
+    {
+      "id": "src_e016deb17226fb81",
+      "title": "title:Dress, Geoffrey Beene, fall/winter 1993–94 | publisher:The Metropolitan Museum of Art | url:",
+      "url": "https://www.metmuseum.org/art/collection/search/82819",
+      "publisher": "",
+      "source_tier": 2,
+      "accessed_at": ""
+    },
+    {
+      "id": "src_5bc30c80cd8bad9d",
+      "title": "title:Dress, Yves Saint Laurent, 1968 | publisher:The Metropolitan Museum of Art | url:",
+      "url": "https://www.metmuseum.org/en/art/collection/search/98772",
+      "publisher": "",
+      "source_tier": 2,
+      "accessed_at": ""
+    },
+    {
+      "id": "src_efc111ee1e12d9ad",
+      "title": "title:News: proposals concerning leather and the EUDR, 7 May 2026 | publisher:Leather Working Group | url:",
+      "url": "https://www.leatherworkinggroup.com/br/news-events/news/",
+      "publisher": "",
+      "source_tier": 2,
+      "accessed_at": ""
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_c3499a01f18249c5",
+      "claim_id": "clm_001",
+      "source_id": "src_9ed2d5cf9429f055",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_ee3a05340c304dc8",
+      "claim_id": "clm_002",
+      "source_id": "src_9ed2d5cf9429f055",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_8dfc19fb4fa54816",
+      "claim_id": "clm_003",
+      "source_id": "src_9ed2d5cf9429f055",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_76e7bb3b46f2465a",
+      "claim_id": "clm_004",
+      "source_id": "src_9ed2d5cf9429f055",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_22dcd23227454d17",
+      "claim_id": "clm_005",
+      "source_id": "src_9ed2d5cf9429f055",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_395a102cc5634d36",
+      "claim_id": "clm_006",
+      "source_id": "src_9ed2d5cf9429f055",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_566237e3672249b2",
+      "claim_id": "clm_007",
+      "source_id": "src_9ed2d5cf9429f055",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_1ccf4f81578f43f3",
+      "claim_id": "clm_008",
+      "source_id": "src_9ed2d5cf9429f055",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_02484e3478854875",
+      "claim_id": "clm_009",
+      "source_id": "src_9ed2d5cf9429f055",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_abbf51044c29405d",
+      "claim_id": "clm_010",
+      "source_id": "src_9ed2d5cf9429f055",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_b65591d1578a4f8e",
+      "claim_id": "clm_011",
+      "source_id": "src_9ed2d5cf9429f055",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_067d8e77cf284363",
+      "claim_id": "clm_012",
+      "source_id": "src_9ed2d5cf9429f055",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_ffca86eccef14fd7",
+      "claim_id": "clm_013",
+      "source_id": "src_9ed2d5cf9429f055",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_0631e6e4948947b4",
+      "claim_id": "clm_023",
+      "source_id": "src_9ed2d5cf9429f055",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "PUBLISH",
+    "note": "RU/EN pair passed structural and source validation; knowledge object derived from the editorial DOCX claim map.",
+    "converted_by": "Codex publication workflow",
+    "converted_at": "2026-08-11T00:00:00.000Z"
+  }
+}

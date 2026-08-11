@@ -1,13 +1,34 @@
 {
   "content_id": "cnt_db1b3cb921565797",
-  "primary_object_id": "",
+  "primary_object_id": "obj_4a7f71d9ac17482f",
   "content_type": "encyclopedia",
   "state": "published",
   "source_locale": "ru",
   "source_revision": 1,
-  "verification_state": "unverified",
-  "confidence_score": 0.0,
-  "claim_ids": [],
+  "verification_state": "partially_verified",
+  "confidence_score": 0.7,
+  "claim_ids": [
+    "clm_001",
+    "clm_002",
+    "clm_003",
+    "clm_004",
+    "clm_005",
+    "clm_006",
+    "clm_007",
+    "clm_008",
+    "clm_009",
+    "clm_010",
+    "clm_011",
+    "clm_012",
+    "clm_013",
+    "clm_014",
+    "clm_015",
+    "clm_016",
+    "clm_017",
+    "clm_018",
+    "clm_019",
+    "clm_020"
+  ],
   "source_ids": [
     "src_bdf95e8d4ee8c4f2",
     "src_39f0c4fb8b27c793",
@@ -17,7 +38,7 @@
     "src_91df247c3110cd25",
     "src_50b435fccb88e228"
   ],
-  "last_reviewed": "2026-08-09",
+  "last_reviewed": "2026-08-12",
   "author": "VANSMITHLAB",
   "locale": "ru",
   "slug": "pleating-issey-miyake",
@@ -29,5 +50,11 @@
   "kind": "material-technique",
   "role": [],
   "body_hash": "03507009242372b88da8b7cdba59ffc85d0e39db40f400ec5a6fd054c1ef46e5",
-  "hero_image": {"src":"/images/encyclopedia/pleating-issey-miyake-hero-v1.webp","alt":"Редакционная AI-иллюстрация: повторяющиеся складки, геометрия ткани и скульптурный объём","caption":"Редакционная визуализация плиссировки: повторяемость складки, движение и объём ткани.","credit":"VANSMITHLAB · AI-иллюстрация, 2026","origin":"ai_illustration"}
+  "hero_image": {
+    "src": "/images/encyclopedia/pleating-issey-miyake-hero-v1.webp",
+    "alt": "Редакционная AI-иллюстрация: повторяющиеся складки, геометрия ткани и скульптурный объём",
+    "caption": "Редакционная визуализация плиссировки: повторяемость складки, движение и объём ткани.",
+    "credit": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "origin": "ai_illustration"
+  }
 }

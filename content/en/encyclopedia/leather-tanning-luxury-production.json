@@ -1,13 +1,28 @@
 {
   "content_id": "cnt_58d86151e52bf6cd",
-  "primary_object_id": "",
+  "primary_object_id": "obj_6c7baf5c749d428d",
   "content_type": "encyclopedia",
   "state": "published",
   "source_locale": "ru",
   "source_revision": 1,
-  "verification_state": "unverified",
-  "confidence_score": 0.0,
-  "claim_ids": [],
+  "verification_state": "partially_verified",
+  "confidence_score": 0.7,
+  "claim_ids": [
+    "clm_001",
+    "clm_002",
+    "clm_003",
+    "clm_004",
+    "clm_005",
+    "clm_006",
+    "clm_007",
+    "clm_008",
+    "clm_009",
+    "clm_010",
+    "clm_011",
+    "clm_012",
+    "clm_013",
+    "clm_023"
+  ],
   "source_ids": [
     "src_9ed2d5cf9429f055",
     "src_9543faba3bbf38b8",
@@ -24,7 +39,7 @@
     "src_5bc30c80cd8bad9d",
     "src_efc111ee1e12d9ad"
   ],
-  "last_reviewed": "2026-08-09",
+  "last_reviewed": "2026-08-12",
   "author": "VANSMITHLAB",
   "locale": "en",
   "slug": "leather-tanning-luxury-production",
@@ -36,5 +51,17 @@
   "kind": "material-technique",
   "role": [],
   "body_hash": "f759c3ba4b9fb8cccf79a3e67416e6ccaf946a0e64fccaa5d7d30ed4b4d4d844",
-  "hero_image": {"src":"/images/encyclopedia/leather-tanning-luxury-production-hero-v1.webp","alt":"Editorial AI illustration: full-grain leather, cross-section, pattern piece, tools and finished object","caption":"Editorial visualization of leather: grain, cross-section, handwork and production.","credit":"VANSMITHLAB · AI illustration, 2026","origin":"ai_illustration"}
+  "hero_image": {
+    "src": "/images/encyclopedia/leather-tanning-luxury-production-hero-v1.webp",
+    "alt": "Editorial AI illustration: full-grain leather, cross-section, pattern piece, tools and finished object",
+    "caption": "Editorial visualization of leather: grain, cross-section, handwork and production.",
+    "credit": "VANSMITHLAB · AI illustration, 2026",
+    "origin": "ai_illustration"
+  },
+  "translation": {
+    "source_locale": "ru",
+    "source_revision": 1,
+    "semantic_validated": true,
+    "review_run_id": "fix-2026-08-12"
+  }
 }

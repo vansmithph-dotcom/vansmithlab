@@ -1,0 +1,189 @@
+{
+  "id": "obj_17831bfb826f4a4a",
+  "type": "theme",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Корсетная конструкция",
+  "slug_ru": "modern-corsetry",
+  "summary_ru": "Инженерия тела в современной моде",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.7,
+  "created_at": "2026-08-11T00:00:00.000Z",
+  "updated_at": "2026-08-11T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_001",
+      "wording_ru": "Современная корсетная конструкция — это не простое возвращение исторического белья. Она стала системой управления силуэтом, внутренним напряжением, осанкой и визуальным кодом тела. В современной моде корсет может быть скрытой инженерией, открытым верхом, деконструированным каркасом, гендерным жестом или скульптурной оболочкой.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_002",
+      "wording_ru": "V&A показывает, что корсеты формировали талию, тогда как кринолины и турнюры создавали объём юбки; силуэт исторического платья был результатом нескольких совместных структур.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_003",
+      "wording_ru": "Museum at FIT называет возрождение корсета одним из важнейших нововведений Westwood. В Time Machine она соединяла корсет и pannier с обновлённой исторической формой.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_004",
+      "wording_ru": "Gaultier сделал корсет одним из главных мотивов своей практики. The Met связывает его cone bra и corset с возвращением foundation garment в массовую культуру нового поколения.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_005",
+      "wording_ru": "Кожа создаёт жёсткую, фетишистскую и защитную поверхность. Корсет Gaultier около 1995 года сочетает кожу, хлопок и металл, подчёркивая гибрид белья и armour.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_006",
+      "wording_ru": "Gaultier соединял корсетную шнуровку с утилитарным денимом, размывая границы между lingerie, рабочей одеждой и nightlife.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_007",
+      "wording_ru": "Museum at FIT показывает, как Gaultier и другие дизайнеры использовали корсет, underwear-as-outerwear и смешение гендерных кодов внутри queer fashion.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_ecafc4421204acb7",
+      "title": "title:The Corset: Fashioning the Body | publisher:The Museum at FIT | url:",
+      "url": "https://exhibitions.fitnyc.edu/exhibitions-timeline/the-corset-fashioning-the-body/",
+      "publisher": "",
+      "source_tier": 2,
+      "accessed_at": ""
+    },
+    {
+      "id": "src_6135af49de2f1d7e",
+      "title": "title:Corsets, crinolines and bustles: fashionable Victorian underwear | publisher:Victoria and Albert Museum | url:",
+      "url": "https://www.vam.ac.uk/articles/corsets-crinolines-and-bustles-fashionable-victorian-underwear",
+      "publisher": "",
+      "source_tier": 2,
+      "accessed_at": ""
+    },
+    {
+      "id": "src_ff1426fff04d7903",
+      "title": "title:Vivienne Westwood, 1980–89 | publisher:The Museum at FIT | url:",
+      "url": "https://www.fitnyc.edu/museum/exhibitions/vivienne-westwood.php",
+      "publisher": "",
+      "source_tier": 2,
+      "accessed_at": ""
+    },
+    {
+      "id": "src_76fdb14df782ebe8",
+      "title": "title:Evening ensemble, spring/summer 2001 | publisher:The Metropolitan Museum of Art | url:",
+      "url": "https://www.metmuseum.org/art/collection/search/82659",
+      "publisher": "",
+      "source_tier": 2,
+      "accessed_at": ""
+    },
+    {
+      "id": "src_efb600957f54af10",
+      "title": "title:Corset, ca",
+      "url": "https://www.metmuseum.org/art/collection/search/747801",
+      "publisher": "1995 | publisher:The Metropolitan Museum of Art | url:",
+      "source_tier": 2,
+      "accessed_at": ""
+    },
+    {
+      "id": "src_c2a045c4f15d8a0d",
+      "title": "title:Vest, ca",
+      "url": "https://www.metmuseum.org/art/collection/search/837745",
+      "publisher": "1990 | publisher:The Metropolitan Museum of Art | url:",
+      "source_tier": 2,
+      "accessed_at": ""
+    },
+    {
+      "id": "src_66626e42311abdd8",
+      "title": "title:A Queer History of Fashion | publisher:The Museum at FIT | url:",
+      "url": "https://exhibitions.fitnyc.edu/",
+      "publisher": "",
+      "source_tier": 2,
+      "accessed_at": ""
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_4b75d454cd244f5c",
+      "claim_id": "clm_001",
+      "source_id": "src_ecafc4421204acb7",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_139592d6c7904903",
+      "claim_id": "clm_002",
+      "source_id": "src_ecafc4421204acb7",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_907e55d1c93b4a07",
+      "claim_id": "clm_003",
+      "source_id": "src_ecafc4421204acb7",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_76c1bcdfed8d4496",
+      "claim_id": "clm_004",
+      "source_id": "src_ecafc4421204acb7",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_f0ff5acdff094f1c",
+      "claim_id": "clm_005",
+      "source_id": "src_ecafc4421204acb7",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_8888ee1bfbd94108",
+      "claim_id": "clm_006",
+      "source_id": "src_ecafc4421204acb7",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_a02a5e8a1fd14838",
+      "claim_id": "clm_007",
+      "source_id": "src_ecafc4421204acb7",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "PUBLISH",
+    "note": "RU/EN pair passed structural and source validation; knowledge object derived from the editorial DOCX claim map.",
+    "converted_by": "Codex publication workflow",
+    "converted_at": "2026-08-11T00:00:00.000Z"
+  }
+}
