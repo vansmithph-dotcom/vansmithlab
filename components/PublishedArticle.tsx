@@ -129,7 +129,22 @@ export function PublishedArticle({ locale, section, content }: { locale: Locale;
     return target
       ? `[${target.number}](${target.source.url} "${target.source.title.replaceAll('"', "'")}")`
       : `<a href="#evidence-sources" class="citation-link citation-unmapped" title="${locale === "ru" ? "Источник не сопоставлен; открыть список источников" : "Source not mapped; open the source list"}">[${locale === "ru" ? "источник" : "source"}]</a>`;
-  });
+    })
+    // Render [CALLOUT type="..."] blocks as labelled editorial callouts.
+    // DOCX_SCHEMA 6a: an analysis document must carry at least one
+    // interpretation callout.
+    .replace(
+      /\[CALLOUT\s+type="([a-z-]+)"\]\n([\s\S]*?)\n\[\/CALLOUT\]/g,
+      (_match, type: string, content: string) => {
+        const calloutLabels: Record<string, { ru: string; en: string }> = {
+          interpretation: { ru: "Интерпретация", en: "Interpretation" },
+          "critical-context": { ru: "Критический контекст", en: "Critical context" },
+          dispute: { ru: "Спорное утверждение", en: "Disputed claim" },
+        };
+        const label = calloutLabels[type]?.[locale] ?? type;
+        return `<aside class="callout callout-${type}" aria-label="${label}"><strong>${label}</strong>${content.trim()}</aside>`;
+      }
+    );
   const jsonLd = buildJsonLd(locale, section, content);
   const backLabel = copy[locale].section[section]?.title ?? text.back;
 
