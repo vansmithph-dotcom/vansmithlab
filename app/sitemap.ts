@@ -10,6 +10,7 @@ const siteUrl = "https://vansmithlab.com";
 export default function sitemap(): MetadataRoute.Sitemap {
   const staticEntries: MetadataRoute.Sitemap = locales.flatMap((locale) => [
     { url: `${siteUrl}/${locale}/`, changeFrequency: "weekly" as const, priority: 1 },
+    { url: `${siteUrl}/${locale}/privacy`, changeFrequency: "yearly" as const, priority: 0.2 },
     ...sectionKeys.map((section) => ({
       url: `${siteUrl}/${locale}/${section}/`,
       changeFrequency: "weekly" as const,

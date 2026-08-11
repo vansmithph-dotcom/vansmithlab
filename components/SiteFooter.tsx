@@ -16,6 +16,7 @@ export function SiteFooter({ locale }: { locale: Locale }) {
           <Link href={`/${locale}/about`}>{locale === "ru" ? "Метод" : "Method"}</Link>
           <Link href={`/${locale}/glossary`}>{locale === "ru" ? "Глоссарий" : "Glossary"}</Link>
           <Link href={`/${locale}/search`}>{content.search}</Link>
+          <Link href={`/${locale}/privacy`}>{locale === "ru" ? "Конфиденциальность" : "Privacy"}</Link>
         </div>
         <p className="footer-note">© {new Date().getFullYear()} VANSMITHLAB</p>
       </div>
