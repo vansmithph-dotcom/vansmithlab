@@ -1,15 +1,15 @@
 {
-  "asset_id": "asset_religion_fashion_mechanism_hero_v1",
+  "asset_id": "asset_religion_fashion_hero_v1",
   "primary_object_id": "obj_b04f2a8826db1ade",
   "content_release_id": "cnt_2573407fa436b97e",
   "kind": "image",
   "origin": "ai_illustration",
   "locale": "multilingual",
-  "educational_purpose": "Visualize the mechanism by which religious systems shaped fashion: from form to function to fashion adaptation, without presenting the diagram as documentary evidence.",
+  "educational_purpose": "Visualize the transition of religious garment forms into modern fashion as a horizontal editorial image, without religious symbols, text or recognizable iconography.",
   "may_depict": [
-    "Three columns: Form, Function, Fashion adaptation",
-    "Silhouettes, ritual, status, identity, ethics",
-    "Cultural memory, citation, construction, materials, tailoring, commercialisation"
+    "Draped ceremonial fabric with gold thread",
+    "A monastic silhouette in shadow",
+    "A modern tailored garment on a mannequin"
   ],
   "must_not_imply": [
     "The diagram documents a specific religious practice",
@@ -22,15 +22,15 @@
     "third_party_marks": "No logo, wordmark or recognisable branded asset."
   },
   "accessibility": {
-    "alt_text_ru": "Иллюстрация: Как религия\nповлияла на мир моды",
-    "alt_text_en": "Illustration: How Religion Influenced the World of Fashion",
-    "caption_ru": "Редакционная иллюстрация к материалу «Как религия\nповлияла на мир моды».",
-    "caption_en": "Editorial illustration for “How Religion Influenced the World of Fashion”."
+    "alt_text_ru": "Редакционная AI-иллюстрация: сакральная ткань, монашеский силуэт и современный крой в свете ателье.",
+    "alt_text_en": "Editorial AI illustration: sacred fabric, a monastic silhouette and modern tailoring in atelier light.",
+    "caption_ru": "Сакральный текстиль и современный крой: редакционная визуализация перехода религиозных форм в моду.",
+    "caption_en": "Sacred textiles and modern tailoring: an editorial visualization of religious forms entering fashion."
   },
   "creator": "VANSMITHLAB editorial design",
   "created_at": "2026-08-12",
-  "asset_path": "public/images/analysis/religion-and-fashion-mechanism-hero-v1.svg",
+  "asset_path": "public/images/analysis/religion-and-fashion-hero-v1.webp",
   "generation_prompt_class": "editorial mechanism diagram: religion and fashion transition",
   "workflow_run_id": "run_20260812_analysis_os_compliance",
-  "content_sha256": "8d8068c97913caa3eafd43d3275a3a27b89adb834edf940011da164cf85a357f"
+  "content_sha256": "1516cdfbda334fa477a2630b5adc2bbb77d73e2e79f5438d0301e25ab04a5951"
 }
