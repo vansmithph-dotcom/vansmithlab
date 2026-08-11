@@ -1,6 +1,6 @@
 {
   "generated_at": "2026-08-12",
-  "count": 754,
+  "count": 774,
   "sources": [
     {
       "id": "src_5185bfb9a29b16f3",
@@ -145,6 +145,14 @@
       "publisher": "Museum of Modern Art",
       "source_tier": 2,
       "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_a7b5868335d6779d",
+      "title": "The Modern Poster",
+      "url": "https://assets.moma.org/documents/moma_catalogue_1804_300074240.pdf",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
     },
     {
       "id": "src_be05f4a538fc8409",
@@ -459,12 +467,68 @@
       "accessed_at": "2026-08-10"
     },
     {
+      "id": "src_ba619cc86c3e7727",
+      "title": "100 Jahre Schweizer Grafik",
+      "url": "https://eshop.museum-gestaltung.ch/?id=7324&op=product",
+      "publisher": "Museum für Gestaltung Zürich",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_441fce9805ba4583",
+      "title": "100 Years of Swiss Graphic Design",
+      "url": "https://eshop.museum-gestaltung.ch/?id=7325&op=product",
+      "publisher": "Museum für Gestaltung Zürich",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_41c2602789e97a4c",
+      "title": "Wolfgang Weingart. Typography",
+      "url": "https://eshop.museum-gestaltung.ch/?id=7638&op=product",
+      "publisher": "Museum für Gestaltung Zürich",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_6be98312998f3ddd",
+      "title": "Armin Hofmann",
+      "url": "https://eshop.museum-gestaltung.ch/?id=7706&lang=en&op=product",
+      "publisher": "Museum für Gestaltung Zürich",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_e9bd5cbdb8514b6a",
+      "title": "Zürich-Milano",
+      "url": "https://eshop.museum-gestaltung.ch/?id=7713&op=product",
+      "publisher": "Museum für Gestaltung Zürich",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_d54437ad32ccee04",
+      "title": "Josef Müller-Brockmann",
+      "url": "https://eshop.museum-gestaltung.ch/?lang=en&nr=780025&op=productnr",
+      "publisher": "Museum für Gestaltung Zürich",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
       "id": "src_91df247c3110cd25",
       "title": "Product Care — Pleated Garment Care",
       "url": "https://eu.isseymiyake.com/pages/product-care",
       "publisher": "ISSEY MIYAKE INC.",
       "source_tier": 2,
       "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_b9ff4f9c91954b28",
+      "title": "WilliWear New Wave Graphics",
+      "url": "https://exhibitions.cooperhewitt.org/willismith/williwear-new-wave-graphics/",
+      "publisher": "Cooper Hewitt, Smithsonian Design Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
     },
     {
       "id": "src_66626e42311abdd8",
@@ -937,6 +1001,14 @@
       "publisher": "",
       "source_tier": 2,
       "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_4a9bf7aaf7217ed5",
+      "title": "Helmut Schmid Typography",
+      "url": "https://museum-gestaltung.ch/en/exhibition/helmut-schmid-typography",
+      "publisher": "Museum für Gestaltung Zürich",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
     },
     {
       "id": "src_082e07a5e495d178",
@@ -1955,12 +2027,36 @@
       "accessed_at": "2026-08-09"
     },
     {
+      "id": "src_b52b6d66edb845f1",
+      "title": "Gridnik",
+      "url": "https://www.cooperhewitt.org/2013/11/26/gridnik/",
+      "publisher": "Cooper Hewitt, Smithsonian Design Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
       "id": "src_570772f9441296ad",
       "title": "American Art Deco Goes Down the Tubes",
       "url": "https://www.cooperhewitt.org/2015/12/04/american-art-deco-goes-down-the-tubes/",
       "publisher": "Cooper Hewitt, Smithsonian Design Museum",
       "source_tier": 2,
       "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_9646399d5957654f",
+      "title": "A Harmony of Contrasts",
+      "url": "https://www.cooperhewitt.org/2018/08/05/aharmonyofcontrasts/",
+      "publisher": "Cooper Hewitt, Smithsonian Design Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_df24f7d95ed34d40",
+      "title": "Remembering Wim Crouwel (1928-2019)",
+      "url": "https://www.cooperhewitt.org/2019/09/20/remembering-wim-crouwel-1928-2019/",
+      "publisher": "Cooper Hewitt, Smithsonian Design Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
     },
     {
       "id": "src_1b00a82e5fa0e8a6",
@@ -4139,6 +4235,14 @@
       "accessed_at": "2026-08-10"
     },
     {
+      "id": "src_9a97219482fa1bbf",
+      "title": "Word and Image: Posters and Typography from the Graphic Design Collection of the Museum of Modern Art, 1879-1967",
+      "url": "https://www.moma.org/calendar/exhibitions/2753",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
       "id": "src_f81c29a3bc8246bf",
       "title": "Fantastic Art, Dada, Surrealism",
       "url": "https://www.moma.org/calendar/exhibitions/2827",
@@ -4185,6 +4289,14 @@
       "publisher": "The Museum of Modern Art",
       "source_tier": 2,
       "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_c4210f5ee8309a40",
+      "title": "Typography and the Poster",
+      "url": "https://www.moma.org/calendar/exhibitions/443",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
     },
     {
       "id": "src_cff0139f694119ad",
@@ -4243,12 +4355,36 @@
       "accessed_at": "2026-08-09"
     },
     {
+      "id": "src_2193221cddb3e0ba",
+      "title": "Richard Paul Lohse",
+      "url": "https://www.moma.org/collection/artists/3587",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_6e66a47259334658",
+      "title": "Josef Müller-Brockmann",
+      "url": "https://www.moma.org/collection/artists/4154",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
       "id": "src_d27596fd6a903574",
       "title": "Cindy Sherman",
       "url": "https://www.moma.org/collection/artists/5392",
       "publisher": "The Museum of Modern Art",
       "source_tier": 2,
       "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_9f176c23040eb3de",
+      "title": "Max Bill",
+      "url": "https://www.moma.org/collection/artists/559",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
     },
     {
       "id": "src_efe5be2ae8d7244a",
@@ -4499,6 +4635,14 @@
       "accessed_at": "2026-08-10"
     },
     {
+      "id": "src_a93f541bd2170664",
+      "title": "Max Bill, Futurismo Pittura Metafisica, 1950",
+      "url": "https://www.moma.org/collection/works/6196",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
       "id": "src_f832b67191837474",
       "title": "A. M. Cassandre. Watch the Fords Go By",
       "url": "https://www.moma.org/collection/works/7296",
@@ -4689,6 +4833,22 @@
       "publisher": "The Museum of Modern Art",
       "source_tier": 2,
       "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_af4787a427d85855",
+      "title": "Helvetica Now",
+      "url": "https://www.monotype.com/fonts/helvetica-now",
+      "publisher": "Monotype",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_cdc224f3041f60cd",
+      "title": "Good type is family",
+      "url": "https://www.monotype.com/resources/videos/good-type-family",
+      "publisher": "Monotype",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
     },
     {
       "id": "src_052476d304bc0060",

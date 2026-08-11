@@ -1,0 +1,668 @@
+{
+  "id": "obj_7194a7d8d6b949bf",
+  "type": "theme",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Швейцарский стиль / Swiss Style",
+  "slug_ru": "swiss-style-grid-typography-objective-information",
+  "summary_ru": "Сетка, типографика и объективная информация",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.7,
+  "created_at": "2026-08-11T00:00:00.000Z",
+  "updated_at": "2026-08-11T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_ss_thesis",
+      "wording_ru": "Swiss Style важен не потому, что научил мир ставить Helvetica по сетке. Он сделал графический дизайн системной дисциплиной: показал, как объективная иерархия, модульная структура и повторяемые правила могут работать в плакате, книге, навигации, корпоративной идентичности и сегодня - в интерфейсе.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ss_short",
+      "wording_ru": "Потому что Swiss Style работает не с модой на декоративный приём, а с фундаментальными отношениями: масштабом, расстоянием, последовательностью чтения, контрастом и структурой информации. Эти отношения остаются актуальными независимо от носителя.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ss_001",
+      "wording_ru": "Swiss Style, или International Typographic Style, - это не набор из Helvetica, красного квадрата и идеально выровненного текста. Это системный подход к визуальной коммуникации, сформировавшийся в Швейцарии в 1940-1950-х и ставший международным языком графического дизайна в последующие десятилетия. Cooper Hewitt выделяет его ключевые признаки: сетку, асимметричную композицию, sans-serif типографику и фотографию вместо иллюстративной декоративности.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ss_002",
+      "wording_ru": "Швейцария оказалась подходящей средой для языка, который ценил ясность, стандартизацию и функциональность. Но сводить стиль к национальному характеру было бы слишком просто. Его развитие связано с художественными школами, типографскими мастерскими, музеями, издательствами и преподаванием, где графический дизайн становился отдельной дисциплиной с собственным методом.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ss_003",
+      "wording_ru": "Swiss Style не возник из пустоты. Конструктивизм научил работать с диагональю, фотомонтажом и активной типографикой; Bauhaus связал искусство с производством; Новая типографика Яна Чихольда легитимировала асимметрию, функциональный набор и отказ от исторической декоративности. MoMA показывает эти линии рядом в истории модернистского плаката.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ss_004",
+      "wording_ru": "Ernst Keller преподавал в Kunstgewerbeschule Zürich задолго до того, как термин Swiss Style стал международным ярлыком. Его влияние связано не с одной формулой композиции, а с педагогическим принципом: визуальное решение должно рождаться из конкретной задачи, а не из заранее выбранного эффекта.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ss_005",
+      "wording_ru": "Цюрих и Базель дали стилю разные темпераменты. Цюрихская линия чаще ассоциируется с рациональной системой, конструктивной геометрией и работой Josef Müller-Brockmann. Базельская школа, связанная с Armin Hofmann и Emil Ruder, уделяла особое внимание контрасту, ритму, знаку, типографической чувствительности и эксперименту внутри строгой структуры.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ss_006",
+      "wording_ru": "Max Bill учился в Bauhaus и работал одновременно как художник, архитектор, дизайнер, типограф и теоретик. В его плакатах и печатных работах рациональная организация цвета и типографики становится самостоятельным визуальным событием. MoMA отмечает, что его плакаты часто строились прежде всего на типографике и цвете, без необходимости в иллюстративном сюжете.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ss_007",
+      "wording_ru": "Слово «объективность» в швейцарской графике не означает отсутствие автора. Дизайнер всё равно выбирает масштаб, кадрирование, порядок, контраст и ритм. Но он старается не превращать сообщение в демонстрацию собственного жеста. Museum für Gestaltung описывает Josef Müller-Brockmann через стремление к универсальному, формально редуцированному языку.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ss_008",
+      "wording_ru": "Асимметрия позволила отказаться от привычной центральной композиции, не отказавшись от порядка. Заголовок может стоять слева, фотография - внизу, свободное поле - занимать половину страницы, а композиция при этом ощущается устойчивой.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ss_009",
+      "wording_ru": "Сетка - главный невидимый инструмент Swiss Style. Она делит поверхность на колонки, модули и интервалы, позволяя связать заголовки, текст, подписи, изображения и номера страниц в одну систему. У Müller-Brockmann сетка стала не оформительским приёмом, а методом проектирования.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ss_010",
+      "wording_ru": "Белое пространство в швейцарской типографике работает активно. Оно разделяет уровни информации, создаёт темп чтения и позволяет элементу быть замеченным без рамки, тени или декоративного усиления.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ss_011",
+      "wording_ru": "Sans-serif шрифт оказался удобным голосом для системы, которая стремилась к ясности и современности. Но Swiss Style не изобрёл гротеск и не сводится к одному шрифту. Он использовал уже существующую традицию grotesk typefaces и сделал её центральной частью визуальной иерархии.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ss_012",
+      "wording_ru": "До Helvetica одним из ключевых рабочих шрифтов модернистской типографики был Akzidenz-Grotesk. Его прямой, неброский рисунок хорошо подходил для плакатов, навигации и информационной типографики. Armin Hofmann также использовал эту традицию в своих работах.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ss_013",
+      "wording_ru": "Adrian Frutiger разработал Univers как согласованное семейство, где ширины и насыщенности можно было мыслить как координаты одной системы. Monotype отмечает, что идея «super family» тесно связана именно с Univers как универсальным инструментом для коммерческих дизайнеров.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ss_014",
+      "wording_ru": "Helvetica появилась в 1957 году как Neue Haas Grotesk и позднее получила имя, под которым стала одним из самых узнаваемых шрифтов XX века. Её популярность совпала с международным распространением Swiss Style, и два явления быстро стали почти неразделимы в массовом представлении.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ss_015",
+      "wording_ru": "Josef Müller-Brockmann превратил идею сетки в профессиональную дисциплину, которая могла работать от концертного плаката до корпоративной системы. Museum für Gestaltung подчёркивает функциональные критерии его работ и способность строгого формального языка давать множество композиционных решений.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ss_016",
+      "wording_ru": "Серия плакатов Musica viva для Tonhalle Zürich стала одним из самых узнаваемых примеров Swiss Style. Геометрические формы, сетка и масштабные отношения переводят музыкальный ритм в визуальный, не пытаясь буквально изображать инструменты или исполнителей.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ss_017",
+      "wording_ru": "Armin Hofmann сделал контраст центральным инструментом: большое и маленькое, чёрное и белое, статичное и динамичное, плоскость и знак. Cooper Hewitt связывает его с Swiss Style и отмечает сетку, асимметрию, sans-serif типографику и фотографию как признаки движения.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ss_018",
+      "wording_ru": "Emil Ruder формировал базельскую типографическую культуру как искусство организации чтения. Его подход ценил расстояния, контраст, ритм строки, пропорции и работу пустоты не меньше, чем выбор гарнитуры. Поздние ученики, включая Helmut Schmid, продолжили и развили эту линию за пределами Швейцарии.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ss_019",
+      "wording_ru": "Swiss Style часто предпочитал фотографию рисованной иллюстрации, потому что фотографическое изображение воспринималось как более прямое и современное свидетельство. Cooper Hewitt включает использование фотографии вместо иллюстрации в характерные признаки International Typographic Style.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ss_020",
+      "wording_ru": "Журнал Neue Grafik / New Graphic Design, запущенный в 1958 году Josef Müller-Brockmann, Richard Paul Lohse, Hans Neuburg и Carlo Vivarelli, стал важной платформой для формулировки и международного распространения нового швейцарского подхода.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ss_021",
+      "wording_ru": "Когда принципы Swiss Style переходят в пиктограмму, карту, расписание или транспортную навигацию, их общественная ценность становится особенно заметна. Иерархия должна работать быстро, независимо от вкуса пользователя.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ss_022",
+      "wording_ru": "Корпоративная идентичность стала естественным полем для швейцарского метода. Сетка, типографическая иерархия, ограниченная палитра и ясные правила позволяют организации говорить одинаково на плакате, бланке, упаковке, вывеске и каталоге.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ss_023",
+      "wording_ru": "В книге и журнале сетка проявляет свою силу лучше всего, потому что должна выдерживать десятки или сотни страниц. Заголовок, основной текст, подпись, фотография и номер страницы меняются, но ощущение системы сохраняется.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ss_024",
+      "wording_ru": "К 1950-1960-м швейцарская графика стала международным ориентиром, поэтому закрепилось название International Typographic Style. Museum für Gestaltung прямо описывает Hofmann и его коллег как участников развития Swiss International Style, а международные музейные коллекции фиксируют работы Müller-Brockmann и Max Bill как часть глобальной истории типографики и плаката.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ss_025",
+      "wording_ru": "Нидерландский дизайнер Wim Crouwel перенял из швейцарской модели сетку как инструмент визуального порядка. Cooper Hewitt отмечает, что именно за эту приверженность структуре коллеги называли его Gridnik.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ss_026",
+      "wording_ru": "В fashion и editorial Swiss Style особенно интересен в контрасте с эмоциональной фотографией. Строгая сетка может удерживать драматичный портрет, движение ткани или сложный editorial, не конкурируя с изображением.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ss_027",
+      "wording_ru": "Экран оказался естественной средой для принципов Swiss Style. Responsive grid, компоненты, spacing scale, типографическая иерархия и повторяемые шаблоны - это цифровые родственники модульной сетки печатной страницы.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ss_028",
+      "wording_ru": "К концу 1960-х Wolfgang Weingart начал сознательно нарушать застывшие правила швейцарской типографики изнутри самой базельской школы. Museum für Gestaltung описывает его как фигуру, которая придала «оцепеневшей» Swiss typography новые импульсы; Cooper Hewitt связывает его эксперименты с ранним New Wave.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ss_029",
+      "wording_ru": "Чтобы визуализировать Swiss Style убедительно, начните не с Helvetica, а с информации. Определите один главный уровень, один вторичный, колонную логику, базовые интервалы и только затем выбирайте шрифт и изображение.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ss_030",
+      "wording_ru": "Главное наследие Swiss Style - идея, что дизайн можно проектировать как отношения между элементами. Сетка связывает размеры, типографика строит иерархию, пустота создаёт темп, фотография несёт факт, а повторяемое правило делает систему устойчивой.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_9646399d5957654f",
+      "title": "A Harmony of Contrasts",
+      "url": "https://www.cooperhewitt.org/2018/08/05/aharmonyofcontrasts/",
+      "publisher": "Cooper Hewitt, Smithsonian Design Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_6be98312998f3ddd",
+      "title": "Armin Hofmann",
+      "url": "https://eshop.museum-gestaltung.ch/?id=7706&lang=en&op=product",
+      "publisher": "Museum für Gestaltung Zürich",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_d54437ad32ccee04",
+      "title": "Josef Müller-Brockmann",
+      "url": "https://eshop.museum-gestaltung.ch/?lang=en&nr=780025&op=productnr",
+      "publisher": "Museum für Gestaltung Zürich",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_6e66a47259334658",
+      "title": "Josef Müller-Brockmann",
+      "url": "https://www.moma.org/collection/artists/4154",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_9f176c23040eb3de",
+      "title": "Max Bill",
+      "url": "https://www.moma.org/collection/artists/559",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_a7b5868335d6779d",
+      "title": "The Modern Poster",
+      "url": "https://assets.moma.org/documents/moma_catalogue_1804_300074240.pdf",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_9a97219482fa1bbf",
+      "title": "Word and Image: Posters and Typography from the Graphic Design Collection of the Museum of Modern Art, 1879-1967",
+      "url": "https://www.moma.org/calendar/exhibitions/2753",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_a93f541bd2170664",
+      "title": "Max Bill, Futurismo Pittura Metafisica, 1950",
+      "url": "https://www.moma.org/collection/works/6196",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_b52b6d66edb845f1",
+      "title": "Gridnik",
+      "url": "https://www.cooperhewitt.org/2013/11/26/gridnik/",
+      "publisher": "Cooper Hewitt, Smithsonian Design Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_df24f7d95ed34d40",
+      "title": "Remembering Wim Crouwel (1928-2019)",
+      "url": "https://www.cooperhewitt.org/2019/09/20/remembering-wim-crouwel-1928-2019/",
+      "publisher": "Cooper Hewitt, Smithsonian Design Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_b9ff4f9c91954b28",
+      "title": "WilliWear New Wave Graphics",
+      "url": "https://exhibitions.cooperhewitt.org/willismith/williwear-new-wave-graphics/",
+      "publisher": "Cooper Hewitt, Smithsonian Design Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_41c2602789e97a4c",
+      "title": "Wolfgang Weingart. Typography",
+      "url": "https://eshop.museum-gestaltung.ch/?id=7638&op=product",
+      "publisher": "Museum für Gestaltung Zürich",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_4a9bf7aaf7217ed5",
+      "title": "Helmut Schmid Typography",
+      "url": "https://museum-gestaltung.ch/en/exhibition/helmut-schmid-typography",
+      "publisher": "Museum für Gestaltung Zürich",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_441fce9805ba4583",
+      "title": "100 Years of Swiss Graphic Design",
+      "url": "https://eshop.museum-gestaltung.ch/?id=7325&op=product",
+      "publisher": "Museum für Gestaltung Zürich",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_ba619cc86c3e7727",
+      "title": "100 Jahre Schweizer Grafik",
+      "url": "https://eshop.museum-gestaltung.ch/?id=7324&op=product",
+      "publisher": "Museum für Gestaltung Zürich",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_cdc224f3041f60cd",
+      "title": "Good type is family",
+      "url": "https://www.monotype.com/resources/videos/good-type-family",
+      "publisher": "Monotype",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_af4787a427d85855",
+      "title": "Helvetica Now",
+      "url": "https://www.monotype.com/fonts/helvetica-now",
+      "publisher": "Monotype",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_c4210f5ee8309a40",
+      "title": "Typography and the Poster",
+      "url": "https://www.moma.org/calendar/exhibitions/443",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_2193221cddb3e0ba",
+      "title": "Richard Paul Lohse",
+      "url": "https://www.moma.org/collection/artists/3587",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_e9bd5cbdb8514b6a",
+      "title": "Zürich-Milano",
+      "url": "https://eshop.museum-gestaltung.ch/?id=7713&op=product",
+      "publisher": "Museum für Gestaltung Zürich",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_11ae17f830304975",
+      "claim_id": "clm_ss_thesis",
+      "source_id": "src_9646399d5957654f",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_c4101b9907054ddd",
+      "claim_id": "clm_ss_short",
+      "source_id": "src_9646399d5957654f",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_f11f2676216e4ae0",
+      "claim_id": "clm_ss_001",
+      "source_id": "src_9646399d5957654f",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_5d862cabe5bb45b3",
+      "claim_id": "clm_ss_002",
+      "source_id": "src_9646399d5957654f",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_e9f48cd308b248af",
+      "claim_id": "clm_ss_003",
+      "source_id": "src_9646399d5957654f",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_7714e6a17dc2452b",
+      "claim_id": "clm_ss_004",
+      "source_id": "src_9646399d5957654f",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_fdedbdb49cd04f4d",
+      "claim_id": "clm_ss_005",
+      "source_id": "src_9646399d5957654f",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_645c2d60d48e4bd7",
+      "claim_id": "clm_ss_006",
+      "source_id": "src_9646399d5957654f",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_19d6e8a165444135",
+      "claim_id": "clm_ss_007",
+      "source_id": "src_9646399d5957654f",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_5c7183d8ddb34068",
+      "claim_id": "clm_ss_008",
+      "source_id": "src_9646399d5957654f",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_a1c4b35c052649a9",
+      "claim_id": "clm_ss_009",
+      "source_id": "src_9646399d5957654f",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_77ec89a1cc214e82",
+      "claim_id": "clm_ss_010",
+      "source_id": "src_9646399d5957654f",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_005634eb09094168",
+      "claim_id": "clm_ss_011",
+      "source_id": "src_9646399d5957654f",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_a2ad17da35524c80",
+      "claim_id": "clm_ss_012",
+      "source_id": "src_9646399d5957654f",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_7b3293f8792844af",
+      "claim_id": "clm_ss_013",
+      "source_id": "src_af4787a427d85855",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_9d7f2ebdc85d434c",
+      "claim_id": "clm_ss_014",
+      "source_id": "src_9646399d5957654f",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_1c53a3efd9284d70",
+      "claim_id": "clm_ss_015",
+      "source_id": "src_9646399d5957654f",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_59990f10d9c24c99",
+      "claim_id": "clm_ss_016",
+      "source_id": "src_9646399d5957654f",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_7037628336a5434b",
+      "claim_id": "clm_ss_017",
+      "source_id": "src_9646399d5957654f",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_28d0eed130874821",
+      "claim_id": "clm_ss_018",
+      "source_id": "src_9646399d5957654f",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_12b8e5fc84434d68",
+      "claim_id": "clm_ss_019",
+      "source_id": "src_9646399d5957654f",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_16c4b391aefb4cb0",
+      "claim_id": "clm_ss_020",
+      "source_id": "src_9646399d5957654f",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_dd6783063eb64257",
+      "claim_id": "clm_ss_021",
+      "source_id": "src_9646399d5957654f",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_fee0b74643504d4c",
+      "claim_id": "clm_ss_022",
+      "source_id": "src_9646399d5957654f",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_eb2dde2397664793",
+      "claim_id": "clm_ss_023",
+      "source_id": "src_9646399d5957654f",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_87923032081141db",
+      "claim_id": "clm_ss_024",
+      "source_id": "src_9646399d5957654f",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_2e3107b618ba4c6f",
+      "claim_id": "clm_ss_025",
+      "source_id": "src_9646399d5957654f",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_b8875b46627a4a9b",
+      "claim_id": "clm_ss_026",
+      "source_id": "src_9646399d5957654f",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_4bf9b08181a14a64",
+      "claim_id": "clm_ss_027",
+      "source_id": "src_9646399d5957654f",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_124a3c7120ed4d58",
+      "claim_id": "clm_ss_028",
+      "source_id": "src_9646399d5957654f",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_6a1292d57ca1414a",
+      "claim_id": "clm_ss_029",
+      "source_id": "src_9646399d5957654f",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_92ef533354f44fe6",
+      "claim_id": "clm_ss_030",
+      "source_id": "src_9646399d5957654f",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "PUBLISH",
+    "note": "RU/EN pair passed structural and source validation; knowledge object derived from the editorial DOCX claim map.",
+    "converted_by": "Codex publication workflow",
+    "converted_at": "2026-08-11T00:00:00.000Z"
+  }
+}
