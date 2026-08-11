@@ -103,7 +103,9 @@ export function listContent(locale?: Locale, section?: string): ContentMetadata[
       }
     }
   }
-  return items.sort((a, b) => b.last_reviewed.localeCompare(a.last_reviewed));
+  // Editorial lists are alphabetical within each locale; the locale-aware
+  // comparator keeps Cyrillic and Latin titles in their own alphabets.
+  return items.sort((a, b) => a.title.localeCompare(b.title, a.locale));
 }
 
 export function sectionForContentType(contentType: string): string {
