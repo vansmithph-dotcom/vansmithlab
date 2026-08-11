@@ -1,0 +1,558 @@
+{
+  "id": "obj_5eb5f6a458dd4a03",
+  "type": "theme",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Брутализм",
+  "slug_ru": "brutalism-mass-concrete-structural-honesty",
+  "summary_ru": "Масса, бетон и честность конструкции",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.7,
+  "created_at": "2026-08-11T00:00:00.000Z",
+  "updated_at": "2026-08-11T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_001",
+      "wording_ru": "Брутализм — это движение в архитектуре и визуальной культуре середины XX века, связанное с открытой конструкцией, необработанными материалами, крупной массой и прямым выражением функции. Его часто связывают с бетоном, но бетон здесь не единственный герой. Важнее принцип: материал должен говорить своим голосом, а здание — не маскировать устройство под декоративную оболочку.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_002",
+      "wording_ru": "Название часто связывают с французским выражением béton brut — «сырой бетон». RIBA подчёркивает, что в Британии термин «new brutalism» был использован Alison Smithson в 1953 году для проекта с эстетикой открытого бетона, кирпича и дерева. Позже Reyner Banham помог закрепить брутализм как этическую и эстетическую проблему, а не просто как новый внешний вид.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_003",
+      "wording_ru": "Бруталистский бетон важен не только цветом. Он хранит след досок, стыков, швов, пустот, ремонта и времени. Опалубка становится невидимым инструментом рисунка: то, что обычно считают техническим этапом, превращается в поверхность фасада. Поэтому хороший брутализм читается почти тактильно — глазами ощущаешь вес и шероховатость.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_004",
+      "wording_ru": "Брутализм не пытается казаться легче, чем он есть. Он работает массой: нависающими объёмами, глубокими нишами, мощными лестницами, грубыми парапетами, тяжёлыми плитами. Эта тяжесть может подавлять, но может и давать редкое чувство защиты — как у крепости, скалы или инфраструктурного сооружения.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_005",
+      "wording_ru": "В брутализме конструкция не прячется за фасадом. Балки, стены, ядра, переходы, лестницы и коммуникационные зоны часто становятся частью композиции. Здание объясняет себя не через орнамент, а через то, как оно держится, как люди по нему движутся и где расположена его нагрузка.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_006",
+      "wording_ru": "Работы Le Corbusier 1950-х годов, включая Unité d’Habitation, стали ключевой точкой для языка необработанного бетона. Fondation Le Corbusier отмечает желание оставлять материалы незавершёнными и сохранять следы снятой опалубки. Здесь бетон перестаёт быть черновым материалом: он становится финальной архитектурной кожей.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_007",
+      "wording_ru": "Для Alison и Peter Smithson брутализм был не просто стилем, а моральной позицией. Их интересовали прямота, реальная жизнь, городская структура, обычные материалы и отказ от буржуазного украшательства. В этой линии брутализм выглядит не мрачным, а честным: он хочет говорить о повседневности без декоративного фильтра.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_008",
+      "wording_ru": "Reyner Banham увидел в брутализме конфликт между этикой и эстетикой. С одной стороны, это идея правды к материалу, структуре и социальной функции. С другой — язык быстро превратился в узнаваемую визуальную манеру: грубый бетон, крупный объём, драматичная тень. Именно это напряжение делает движение живым.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_009",
+      "wording_ru": "Брутализм вырос в послевоенном контексте: разрушенные города, дефицит, государственное строительство, университеты, библиотеки, театры, жильё, инфраструктура. Он связан с верой, что архитектура может быстро и честно создавать общественные пространства. Поэтому его нельзя читать только как стиль фасада — это ещё и социальный проект.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_010",
+      "wording_ru": "Лучшие бруталистские здания часто работают как городские машины: театр, библиотека, университет, центр искусств, администрация. Они не стремятся быть милыми. Они создают маршруты, террасы, площади, переходы, уровни, места встречи. В них здание становится ландшафтом, а не просто коробкой вокруг функции.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_011",
+      "wording_ru": "National Theatre в Лондоне показывает брутализм как систему террас, платформ и тяжёлых бетонных горизонтов. Его сила не только в материале, а в том, как здание продолжает городскую набережную. Здесь бетон работает как сцена до входа в театр: человек уже участвует в пространстве.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_012",
+      "wording_ru": "Barbican важен тем, что брутализм здесь становится целым районом. Жильё, центр искусств, сады, вода, переходы, башни и внутренние маршруты складываются в город внутри города. Barbican сам называет здание и комплекс иконой Brutalist architecture; его масштаб показывает, что брутализм может быть не объектом, а городской средой.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_013",
+      "wording_ru": "Кампусы и образовательные здания дали брутализму особую энергию. Грубые лестницы, студийные пространства, открытые ядра и тяжёлые объёмы обещали не роскошь, а интенсивную работу. В таких зданиях знание выглядит не как архив, а как лаборатория, где мысль имеет вес и материал.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_014",
+      "wording_ru": "Брутализм невозможно отделить от идеи массового жилья. Иногда эти проекты давали сильную общественную инфраструктуру; иногда становились символами ошибок планирования, плохого обслуживания и социальной изоляции. Важно различать архитектурную идею и реальную эксплуатацию: бетон может быть честным, но городская политика — нет.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_015",
+      "wording_ru": "Habitat 67 часто читают рядом с брутализмом из-за бетонных модулей и крупной пластики, хотя сам Moshe Safdie видел проект как реакцию на стандартное массовое жильё. Его значение в другом: он показывает, как бетонный модуль может пытаться совместить плотность, террасу, приватность и ощущение индивидуального дома.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_016",
+      "wording_ru": "Тяжёлый бетон особенно силён при боковом свете. Утро и вечер превращают фасад в рельеф: выступы дают тени, швы становятся линиями, шероховатость ловит пыльный свет. Поэтому бруталистская фотография часто строится не на цвете, а на контрасте массы и тени.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_017",
+      "wording_ru": "Брутализм любит низкие точки съёмки, диагонали лестниц, пустые площади, ритм окон, крупный фрагмент поверхности. Но самый сильный кадр появляется, когда бетон не просто «страшный», а живой: человек, след дождя, граффити, мох, ремонтный шов или солнце возвращают масштабу человеческую температуру.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_018",
+      "wording_ru": "В графическом дизайне брутализм проявляется через грубую сетку, крупный шрифт, видимую структуру, резкие блоки и отказ от сглаженной декоративности. Современный digital-brutalism часто имитирует недоделанность: системные шрифты, жёсткие рамки, чёрно-белые контрасты, прямые ссылки, техническая логика интерфейса.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_019",
+      "wording_ru": "В интерьере брутализм работает, когда масса уравновешена светом и тактильностью. Бетонная стена, грубый камень, тёмный металл, массивная мебель и низкий свет могут создать глубину. Но без тепла дерева, текстиля или человеческого масштаба интерьер легко превращается в холодный бункер.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_020",
+      "wording_ru": "Бруталистский предмет не обязан быть бетонным. Он может быть металлическим, деревянным, керамическим, кожаным — важна прямота формы, видимая масса, честная сборка и отсутствие лишней полировки. Хороший объект выглядит так, будто его нельзя случайно сдвинуть: он имеет собственную гравитацию.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_021",
+      "wording_ru": "В моде брутализм проявляется не буквально бетоном, а силуэтом: жёсткое плечо, крупный объём, монохром, тяжёлые ткани, архитектурный крой, грубая фактура, ощущение защиты. Это одежда не про украшение тела, а про создание оболочки, которая меняет осанку и присутствие.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_022",
+      "wording_ru": "Современный luxury часто использует бруталистский язык как контраст к гладкой дороговизне. Бетонная стена делает золото ярче, шероховатый фон усиливает кожу, грубый объём подчёркивает тонкую ювелирную деталь. Роскошь на таком фоне выглядит не сладкой, а собранной и уверенной.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_023",
+      "wording_ru": "Брутализм обычно ассоциируют с серым, но его палитра богаче: мокрый бетон, тёплый цемент, пыльный бежевый, тёмная сталь, окисленная бронза, холодное стекло, грязно-белые швы, зелень мха. Цвет здесь не декоративный, а погодный и материальный.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_024",
+      "wording_ru": "Брутализм честен к времени, но не всегда устойчив к плохому уходу. Потёки, карбонизация, трещины, загрязнение, ремонтные пятна и коррозия арматуры могут либо добавить характер, либо разрушить достоинство здания. Поэтому брутализм требует не только смелого проекта, но и зрелой культуры обслуживания.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_025",
+      "wording_ru": "Его критикуют за тяжесть, холод, ассоциации с бюрократией, социальными неудачами и неухоженными городскими пространствами. Часто люди реагируют не только на архитектуру, а на опыт: плохое освещение, ветреные площади, грязные переходы, запущенные поверхности. Брутализм болезненно показывает, когда город не заботится о своих зданиях.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_026",
+      "wording_ru": "Его любят за силу, честность, кинематографичность, отсутствие притворства и сопротивление гладкой коммерческой среде. В мире, где многие поверхности выглядят одинаково чистыми, брутализм возвращает вес: он напоминает, что форма может быть трудной, плотной, спорной и при этом красивой.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_027",
+      "wording_ru": "Не всякий бетон — брутализм. Важно наличие ясной конструктивной логики, выразительной массы, осмысленного маршрута, честного материала и социальной или пространственной идеи. Просто тяжёлый фасад без внутренней дисциплины остаётся грубостью. Брутализм начинается там, где грубость становится архитектурным мышлением.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_028",
+      "wording_ru": "Возвращение брутализма связано с усталостью от гладких визуальных систем. В архитектурной фотографии, модных съёмках, айдентике и интерфейсах снова востребованы жёсткая сетка, необработанная поверхность, крупный масштаб и ощущение реальности. Это не ностальгия по бетону, а желание увидеть структуру.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_029",
+      "wording_ru": "Главная ошибка — свести брутализм к серому фону, тяжёлому шрифту и слову raw. Без масштаба, функции, света и материальной логики стиль становится декорацией. Бруталистский язык требует дисциплины: где масса, где пауза, где человек, где маршрут, где причина быть именно таким.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_030",
+      "wording_ru": "Брутализм остаётся важным потому, что он не просит любить себя сразу. Он требует времени, расстояния, движения вокруг здания, прикосновения взглядом к поверхности. Его главный урок для дизайнера: форма может быть честной, тяжёлой и сложной — и именно поэтому обладать достоинством.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_fd23ce3409b2dc80",
+      "title": "RIBA",
+      "url": "https://www.riba.org/explore/riba-collections/architectural-styles/brutalism-movement/",
+      "publisher": "Brutalism in Architecture: origins, features and legacy",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_dae193c09f03684c",
+      "title": "Fondation Le Corbusier",
+      "url": "https://www.fondationlecorbusier.fr/en/thematic-folder/corbusean-vocabulary/",
+      "publisher": "Corbusean vocabulary: raw concrete and unfinished materials",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_c3e2ecb9162e73d3",
+      "title": "Barbican Centre",
+      "url": "https://www.barbican.org.uk/our-story/architecture/our-building",
+      "publisher": "Our building: an icon of Brutalist architecture",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_e592919abe4bf9af",
+      "title": "National Theatre",
+      "url": "https://www.nationaltheatre.org.uk/",
+      "publisher": "Architecture and Denys Lasdun",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_7f08961b77b83054",
+      "title": "The Metropolitan Museum of Art",
+      "url": "https://www.metmuseum.org/",
+      "publisher": "Marcel Breuer and modern architectural culture",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_f1d147b6a939495a",
+      "title": "Yale School of Architecture",
+      "url": "https://www.architecture.yale.edu/",
+      "publisher": "Paul Rudolph Hall / Art and Architecture Building",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_bdba27ecee52db03",
+      "title": "Canadian Centre for Architecture",
+      "url": "https://www.cca.qc.ca/",
+      "publisher": "Habitat 67 and experimental housing",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_73a01a1b3af5a97c",
+      "title": "SOS Brutalism",
+      "url": "https://www.sosbrutalism.org/",
+      "publisher": "Global archive of Brutalist buildings",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_90b4b37167fbab4f",
+      "title": "Tate",
+      "url": "https://www.tate.org.uk/",
+      "publisher": "Brutalism and modernism contextual terminology",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_cce098abf4d280ac",
+      "title": "MoMA",
+      "url": "https://www.moma.org/",
+      "publisher": "Architecture and design collection",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_4e09cfcc02bb4d92",
+      "claim_id": "clm_001",
+      "source_id": "src_fd23ce3409b2dc80",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_4bd93555cbdf4d86",
+      "claim_id": "clm_002",
+      "source_id": "src_fd23ce3409b2dc80",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_ea6c606fe6314d0b",
+      "claim_id": "clm_003",
+      "source_id": "src_fd23ce3409b2dc80",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_67e2205500c94a50",
+      "claim_id": "clm_004",
+      "source_id": "src_fd23ce3409b2dc80",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_e4005eff9011449b",
+      "claim_id": "clm_005",
+      "source_id": "src_fd23ce3409b2dc80",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_9fef5763c1b74cf7",
+      "claim_id": "clm_006",
+      "source_id": "src_fd23ce3409b2dc80",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_8130a5baad3d4370",
+      "claim_id": "clm_007",
+      "source_id": "src_fd23ce3409b2dc80",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_56829baee8a441fd",
+      "claim_id": "clm_008",
+      "source_id": "src_fd23ce3409b2dc80",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_24f2a91c35c34a8a",
+      "claim_id": "clm_009",
+      "source_id": "src_fd23ce3409b2dc80",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_1d5c9811ba114c66",
+      "claim_id": "clm_010",
+      "source_id": "src_fd23ce3409b2dc80",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_b3e40d477dbd40d5",
+      "claim_id": "clm_011",
+      "source_id": "src_fd23ce3409b2dc80",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_1765c94d343b4ea6",
+      "claim_id": "clm_012",
+      "source_id": "src_fd23ce3409b2dc80",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_72fc07fab03e48ee",
+      "claim_id": "clm_013",
+      "source_id": "src_fd23ce3409b2dc80",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_a2ae2af06997486e",
+      "claim_id": "clm_014",
+      "source_id": "src_fd23ce3409b2dc80",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_adf15b04469e4ad1",
+      "claim_id": "clm_015",
+      "source_id": "src_fd23ce3409b2dc80",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_3bdab0e512274aba",
+      "claim_id": "clm_016",
+      "source_id": "src_fd23ce3409b2dc80",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_bed0d047430441a7",
+      "claim_id": "clm_017",
+      "source_id": "src_fd23ce3409b2dc80",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_e7da5537b1404b14",
+      "claim_id": "clm_018",
+      "source_id": "src_fd23ce3409b2dc80",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_df6ab43567db4d97",
+      "claim_id": "clm_019",
+      "source_id": "src_fd23ce3409b2dc80",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_cb7af85103344fe3",
+      "claim_id": "clm_020",
+      "source_id": "src_fd23ce3409b2dc80",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_5a2a59505de743fa",
+      "claim_id": "clm_021",
+      "source_id": "src_fd23ce3409b2dc80",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_9c3c63fe35994436",
+      "claim_id": "clm_022",
+      "source_id": "src_fd23ce3409b2dc80",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_aabc1e7fe64245dd",
+      "claim_id": "clm_023",
+      "source_id": "src_fd23ce3409b2dc80",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_be66986ba4b14656",
+      "claim_id": "clm_024",
+      "source_id": "src_fd23ce3409b2dc80",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_356be19168794519",
+      "claim_id": "clm_025",
+      "source_id": "src_fd23ce3409b2dc80",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_50f557f7710a4a60",
+      "claim_id": "clm_026",
+      "source_id": "src_fd23ce3409b2dc80",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_ae02241cad454190",
+      "claim_id": "clm_027",
+      "source_id": "src_fd23ce3409b2dc80",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_7e2f8a1b84694568",
+      "claim_id": "clm_028",
+      "source_id": "src_fd23ce3409b2dc80",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_504174a1a8474204",
+      "claim_id": "clm_029",
+      "source_id": "src_fd23ce3409b2dc80",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_034f6f80f9464757",
+      "claim_id": "clm_030",
+      "source_id": "src_fd23ce3409b2dc80",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "PUBLISH",
+    "note": "RU/EN pair passed structural and source validation; knowledge object derived from the editorial DOCX claim map.",
+    "converted_by": "Codex publication workflow",
+    "converted_at": "2026-08-11T00:00:00.000Z"
+  }
+}

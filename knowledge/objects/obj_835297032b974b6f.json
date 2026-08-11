@@ -1,0 +1,574 @@
+{
+  "id": "obj_835297032b974b6f",
+  "type": "theme",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Параметризм",
+  "slug_ru": "parametricism-algorithm-surface-continuous-form-system",
+  "summary_ru": "алгоритм, поверхность и непрерывная система формы",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.7,
+  "created_at": "2026-08-11T00:00:00.000Z",
+  "updated_at": "2026-08-11T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_001",
+      "wording_ru": "Параметризм важен не потому, что он научил здания изгибаться. Он изменил саму привычку проектировать: форма стала не нарисованным контуром, а системой правил, где одна кривая может потянуть за собой фасад, маршрут, свет, мебель, навигацию и даже образ бренда. Это стиль эпохи, где дизайнер всё чаще работает не как скульптор с камнем, а как дирижёр параметров.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_002",
+      "wording_ru": "Параметризм — это движение и метод, в котором форма строится через параметры: кривизну, плотность сетки, шаг модулей, потоки движения, освещение, конструктивные ограничения и данные. Компьютер не «придумывает красоту» сам по себе; он быстро проверяет варианты, а архитектор решает, какие правила превращаются в пространство.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_003",
+      "wording_ru": "Параметризм стал заметным, когда компьютеры перестали быть просто электронными кульманами. Они начали считать кривые, сетки, нагрузки, панели и тысячи вариантов быстрее, чем человек успевает сказать «ещё одну версию». Поэтому стиль выглядит цифровым не из-за блеска, а из-за способа рождения формы.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_004",
+      "wording_ru": "Алгоритм не делает проект умным автоматически. Умной становится только та система, где понятны правила, ограничения и человеческая цель.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_005",
+      "wording_ru": "В параметризме поверхность редко ведёт себя как обычная стена. Она может подняться из пола, стать крышей, обернуться вокруг атриума и снова уйти в ландшафт. Поэтому такие здания часто кажутся не построенными из этажей, а вылепленными из единого потока.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_006",
+      "wording_ru": "Сложная оболочка не строится как цельный кусок фантазии. Она делится на панели, рёбра, узлы, швы и монтажные элементы. Хороший параметризм красив не только на рендере: он умеет объяснить, как именно эту красоту порезать, изготовить, привезти и собрать.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_007",
+      "wording_ru": "Один из самых живых параметров — движение людей. Пешеходные потоки, входы, очереди, видовые точки и маршруты могут буквально изгибать план. В таком проекте здание напоминает не коробку, а карту поведения: люди ещё не пришли, а их траектории уже записаны в форме.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_008",
+      "wording_ru": "8. Zaha Hadid Architects: плавность как архитектурный почерк.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_009",
+      "wording_ru": "Patrik Schumacher предложил говорить о параметризме как о большом стиле после модернизма. С этим спорят, но сама попытка важна: она показывает, что цифровая архитектура перестала быть набором спецэффектов и начала претендовать на собственную грамматику.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_010",
+      "wording_ru": "10. Heydar Aliyev Centre: здание, которое ведёт себя как ландшафт.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_011",
+      "wording_ru": "11. Galaxy SOHO: город как система внутренних орбит.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_012",
+      "wording_ru": "MAXXI в Риме важен тем, что музей здесь читается как маршрутная машина. Посетитель движется по линиям, пересечениям, лестницам и потокам, а не просто переходит из «белого зала номер один» в «белый зал номер два». Пространство становится монтажом движения.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_013",
+      "wording_ru": "13. Grasshopper и Rhino: визуальное программирование для дизайнеров.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_014",
+      "wording_ru": "Алгоритм не делает проект умным автоматически. Умной становится только та система, где понятны правила, ограничения и человеческая цель.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_015",
+      "wording_ru": "Фасад в параметризме часто работает как кожа: он реагирует на солнце, вид, конструкцию и масштаб. Но кожа не означает хаос. Чем сложнее поверхность, тем важнее дисциплина панелей, потому что именно швы выдают, проект был продуман или просто красиво размазан.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_016",
+      "wording_ru": "Параметрический интерьер любит атриумы, лестницы-ленты, потолки-волны, плавные стойки ресепшена и световые щели. В хорошей версии это помогает человеку ориентироваться. В плохой — человек чувствует себя внутри дорогой заставки, где всё эффектно, но неясно, куда идти.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_017",
+      "wording_ru": "Параметрический предмет похож на маленькую архитектуру: стул может быть сеткой нагрузок, светильник — облаком ячеек, витрина — волной модулей. Такой объект интересно рассматривать близко, потому что его форма часто раскрывает собственный способ сборки.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_018",
+      "wording_ru": "В моде параметрическое мышление проявляется через 3D-печать, лазерную резку, модульные структуры, цифровой крой и одежду, которая реагирует на тело как на рельеф. Это уже не просто футуристический костюм, а одежда как маленькая инженерная оболочка.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_019",
+      "wording_ru": "В графике параметризм даёт живые айдентики: логотип, паттерн или сетка могут менять плотность, ритм и форму в зависимости от носителя. Айдентика перестаёт быть одним знаком и становится системой поведения — почти как бренд с собственным дыханием.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_020",
+      "wording_ru": "Снимать параметризм сложно: камера легко превращает сложную поверхность в красивую, но непонятную волну. Лучше искать места, где видны масштаб, человек, шов, отражение и маршрут. Тогда зритель понимает не только «вау, кривая», но и как эта кривая живёт.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_021",
+      "wording_ru": "Свет — честный экзаменатор параметрической формы. Он показывает, где поверхность действительно тонко рассчитана, а где просто выгнута ради эффекта. Утром такая архитектура может быть мягкой, днём — почти графической, вечером — превращаться в световой интерфейс.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_022",
+      "wording_ru": "Параметризм любит материалы, которые можно точно резать, формовать, панелировать и стыковать: алюминий, сталь, стекло, композиты, GRC, фибробетон, фанеру, цифровую фрезеровку. Материал здесь не маскируется под природу, а показывает технологическую логику.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_023",
+      "wording_ru": "Алгоритм не делает проект умным автоматически. Умной становится только та система, где понятны правила, ограничения и человеческая цель.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_024",
+      "wording_ru": "Критика параметризма звучит справедливо, когда стиль превращается в дорогой аттракцион: слишком много бюджета, слишком мало человеческого масштаба, слишком много глянца и слишком мало жизни. В этот момент алгоритм начинает выглядеть не умным, а холодным.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_025",
+      "wording_ru": "Для города параметризм интересен не как одиночная икона, а как способ работать с инфраструктурой: потоками транспорта, навигацией, климатом, фасадной защитой, public space и адаптивными системами. Тогда он перестаёт быть «зданием для фото» и становится полезной городской машиной.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_026",
+      "wording_ru": "В AI-визуалах параметризм легко скатывается в пластиковое «будущее без людей». Чтобы избежать этого, нужно добавлять масштаб, фактуру, швы, пыль, эксплуатацию, навигацию, мебель, следы жизни и реальные материалы. Футуризм становится убедительным, когда у него есть обслуживание.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_027",
+      "wording_ru": "Узнать параметризм можно по нескольким признакам: непрерывные поверхности, повторяющиеся модули, плавные переходы, сетки с переменной плотностью, фасады-оболочки, маршруты без жёстких углов и ощущение, что форма не нарисована, а выращена по правилам.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_028",
+      "wording_ru": "Для бренда параметризм даёт язык premium-tech: волновая графика, адаптивная сетка, интерфейсные поверхности, световые линии, модульные павильоны, футуристические съёмки. Главное — не переборщить: один сильный параметрический принцип лучше, чем десять «кибер-волн» одновременно.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_029",
+      "wording_ru": "Алгоритм не делает проект умным автоматически. Умной становится только та система, где понятны правила, ограничения и человеческая цель.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_030",
+      "wording_ru": "В сильной версии параметризм не заменяет автора — он расширяет его руку. Дизайнер получает возможность работать не с одной формой, а с целым семейством форм. И в этом его главный урок: будущее выглядит убедительно не тогда, когда оно гладкое, а когда в нём чувствуется система.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_ae4e6733b7eeb047",
+      "title": "Patrik Schumacher — official writings list",
+      "url": "https://patrikschumacher.com/",
+      "publisher": "Patrik Schumacher",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_efdb763171cfd824",
+      "title": "Parametricism as Style — Parametricist Manifesto",
+      "url": "https://designmanifestos.org/patrik-schumacher-parametricism-as-style-parametricist-manifesto/",
+      "publisher": "Design Manifestos",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_5b3ced153aecd872",
+      "title": "Zaha Hadid — 2004 Laureate",
+      "url": "https://www.pritzkerprize.com/laureates/2004",
+      "publisher": "The Pritzker Architecture Prize",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_699b298288d0c962",
+      "title": "Biography: Zaha Hadid",
+      "url": "https://www.pritzkerprize.com/biography-zaha-hadid",
+      "publisher": "The Pritzker Architecture Prize",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_262c8c35cfd4b572",
+      "title": "Heydar Aliyev Centre Project",
+      "url": "https://www.zha.com/projects/architecture/heydar-aliyev-centre",
+      "publisher": "Zaha Hadid Architects",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_d4d63a0bc8f6a10d",
+      "title": "Galaxy SOHO Project",
+      "url": "https://www.zha.com/projects/architecture/galaxy-soho",
+      "publisher": "Zaha Hadid Architects",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_237b5ff1c02f3644",
+      "title": "Grasshopper — algorithmic modeling for Rhino",
+      "url": "https://www.grasshopper3d.com/",
+      "publisher": "Grasshopper / McNeel",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_2880b6053f17c0cf",
+      "title": "Grasshopper command help",
+      "url": "https://docs.mcneel.com/rhino/8/help/en-us/commands/grasshopper.htm",
+      "publisher": "Robert McNeel & Associates",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_680f0781ae4432f2",
+      "title": "Essential Algorithms and Data Structures for Grasshopper",
+      "url": "https://developer.rhino3d.com/guides/grasshopper/gh-algorithms-and-data-structures/",
+      "publisher": "Robert McNeel & Associates",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_45bc23406bc9d6e7",
+      "title": "MAXXI project sheet",
+      "url": "https://www.zaha-hadid.com/wp-content/uploads/2019/12/maxxi.pdf",
+      "publisher": "Zaha Hadid Architects",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_08457f4d0df95ba1",
+      "title": "A framework for integrated design of algorithmic architectural forms",
+      "url": "https://arxiv.org/abs/1203.2499",
+      "publisher": "arXiv",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_46e34ebd485ce019",
+      "title": "Experiments on Generative AI-Powered Parametric Modeling and BIM for Architectural Design",
+      "url": "https://arxiv.org/abs/2308.00227",
+      "publisher": "arXiv",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_00321aca6acd4078",
+      "claim_id": "clm_001",
+      "source_id": "src_ae4e6733b7eeb047",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_752c646437194318",
+      "claim_id": "clm_002",
+      "source_id": "src_237b5ff1c02f3644",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_cde0eac42db843bf",
+      "claim_id": "clm_003",
+      "source_id": "src_237b5ff1c02f3644",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_56920002e808488a",
+      "claim_id": "clm_004",
+      "source_id": "src_5b3ced153aecd872",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_18a0beb002df4991",
+      "claim_id": "clm_005",
+      "source_id": "src_ae4e6733b7eeb047",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_ed926eac535a4521",
+      "claim_id": "clm_006",
+      "source_id": "src_262c8c35cfd4b572",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_ddc2f1500add42bf",
+      "claim_id": "clm_007",
+      "source_id": "src_d4d63a0bc8f6a10d",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_cacb505995d94ef3",
+      "claim_id": "clm_008",
+      "source_id": "src_45bc23406bc9d6e7",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_e89f68fac22e4e6e",
+      "claim_id": "clm_009",
+      "source_id": "src_237b5ff1c02f3644",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_bc50fbb8fafe4874",
+      "claim_id": "clm_010",
+      "source_id": "src_08457f4d0df95ba1",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_94efa32a95f043e8",
+      "claim_id": "clm_011",
+      "source_id": "src_ae4e6733b7eeb047",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_8d321b6612054a73",
+      "claim_id": "clm_012",
+      "source_id": "src_ae4e6733b7eeb047",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_7e78fce2a5944f22",
+      "claim_id": "clm_013",
+      "source_id": "src_ae4e6733b7eeb047",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_04fe424e1fdf4bf3",
+      "claim_id": "clm_014",
+      "source_id": "src_ae4e6733b7eeb047",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_3154f4cc91114fa2",
+      "claim_id": "clm_015",
+      "source_id": "src_ae4e6733b7eeb047",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_2586e3b341e7410c",
+      "claim_id": "clm_016",
+      "source_id": "src_ae4e6733b7eeb047",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_28e006740cc24ea0",
+      "claim_id": "clm_017",
+      "source_id": "src_ae4e6733b7eeb047",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_edee10f8bec84186",
+      "claim_id": "clm_018",
+      "source_id": "src_ae4e6733b7eeb047",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_96d8053178824d62",
+      "claim_id": "clm_019",
+      "source_id": "src_ae4e6733b7eeb047",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_609b9a13577341d2",
+      "claim_id": "clm_020",
+      "source_id": "src_ae4e6733b7eeb047",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_c2ff0a7de3a348b7",
+      "claim_id": "clm_021",
+      "source_id": "src_ae4e6733b7eeb047",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_93d87b0c20084d95",
+      "claim_id": "clm_022",
+      "source_id": "src_ae4e6733b7eeb047",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_122bbbf4863e421e",
+      "claim_id": "clm_023",
+      "source_id": "src_ae4e6733b7eeb047",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_9bf0524e623b4ed9",
+      "claim_id": "clm_024",
+      "source_id": "src_ae4e6733b7eeb047",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_0707063dd46b46b1",
+      "claim_id": "clm_025",
+      "source_id": "src_ae4e6733b7eeb047",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_6a1a298d85154683",
+      "claim_id": "clm_026",
+      "source_id": "src_ae4e6733b7eeb047",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_adb13e7e8cc64853",
+      "claim_id": "clm_027",
+      "source_id": "src_ae4e6733b7eeb047",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_3076963d6dee4906",
+      "claim_id": "clm_028",
+      "source_id": "src_ae4e6733b7eeb047",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_0164b346ec254348",
+      "claim_id": "clm_029",
+      "source_id": "src_ae4e6733b7eeb047",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_dc738e9921ac4e25",
+      "claim_id": "clm_030",
+      "source_id": "src_ae4e6733b7eeb047",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "PUBLISH",
+    "note": "RU/EN pair passed structural and source validation; knowledge object derived from the editorial DOCX claim map.",
+    "converted_by": "Codex publication workflow",
+    "converted_at": "2026-08-11T00:00:00.000Z"
+  }
+}

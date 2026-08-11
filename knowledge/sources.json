@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10",
-  "count": 366,
+  "generated_at": "2026-08-11",
+  "count": 530,
   "sources": [
     {
       "id": "src_5185bfb9a29b16f3",
@@ -91,6 +91,22 @@
       "accessed_at": "2026-08-09"
     },
     {
+      "id": "src_08457f4d0df95ba1",
+      "title": "A framework for integrated design of algorithmic architectural forms",
+      "url": "https://arxiv.org/abs/1203.2499",
+      "publisher": "arXiv",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_46e34ebd485ce019",
+      "title": "Experiments on Generative AI-Powered Parametric Modeling and BIM for Architectural Design",
+      "url": "https://arxiv.org/abs/2308.00227",
+      "publisher": "arXiv",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
       "id": "src_5a25845ceb594eff",
       "title": "Hermès 2015 Annual Report — Nadège Vanhée and Apple Watch Hermès",
       "url": "https://assets-finance.hermes.com/s3fs-public/node/pdf_file/2020-06/hermes_2015_rapportannuel_en.pdf",
@@ -103,6 +119,14 @@
       "title": "Hermès Finance — 2025 Universal Registration Document",
       "url": "https://assets-finance.hermes.com/s3fs-public/node/pdf_file/2026-03/1774022520/260320_hermes_urd2025_en.pdf",
       "publisher": "",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_18e3c46ab0b420bf",
+      "title": "The Russian Avant-Garde Book 1910-1934",
+      "url": "https://assets.moma.org/documents/moma_catalogue_155_300153266.pdf",
+      "publisher": "The Museum of Modern Art",
       "source_tier": 2,
       "accessed_at": "2026-08-09"
     },
@@ -129,6 +153,14 @@
       "publisher": "The One Club for Creativity",
       "source_tier": 2,
       "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_18b1f2f7ac67dbd3",
+      "title": "History",
+      "url": "https://chryslerbuilding.com/history/",
+      "publisher": "Chrysler Building",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
     },
     {
       "id": "src_ccaf7bc6f1edc6c4",
@@ -227,12 +259,76 @@
       "accessed_at": "2026-08-08"
     },
     {
+      "id": "src_efdb763171cfd824",
+      "title": "Parametricism as Style — Parametricist Manifesto",
+      "url": "https://designmanifestos.org/patrik-schumacher-parametricism-as-style-parametricist-manifesto/",
+      "publisher": "Design Manifestos",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_43fcd7d35fe23e39",
+      "title": "Design Museum",
+      "url": "https://designmuseum.org/designers/ettore-sottsass",
+      "publisher": "Ettore Sottsass",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_a79e9c906f82b6e8",
+      "title": "The Future Systems Story",
+      "url": "https://designmuseum.org/designers/future-systems",
+      "publisher": "Design Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_c9b22c299ab2d771",
+      "title": "John Pawson",
+      "url": "https://designmuseum.org/designers/john-pawson",
+      "publisher": "Design Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
       "id": "src_e4bfc6bb98e70a95",
       "title": "Peter Saville",
       "url": "https://designmuseum.org/designers/peter-saville",
       "publisher": "Design Museum",
       "source_tier": 2,
       "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_9c405e253303e7cc",
+      "title": "Alessi 9093 Teakettle",
+      "url": "https://designmuseum.org/discover-design/all-design-objects/alessi-9093-teakettle",
+      "publisher": "Design Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_4427b4ba908e6145",
+      "title": "Design Museum",
+      "url": "https://designmuseum.org/discover-design/all-stories/memphis-group-awful-or-awesome",
+      "publisher": "Memphis Group: awful or awesome?",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_680f0781ae4432f2",
+      "title": "Essential Algorithms and Data Structures for Grasshopper",
+      "url": "https://developer.rhino3d.com/guides/grasshopper/gh-algorithms-and-data-structures/",
+      "publisher": "Robert McNeel & Associates",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_2880b6053f17c0cf",
+      "title": "Grasshopper command help",
+      "url": "https://docs.mcneel.com/rhino/8/help/en-us/commands/grasshopper.htm",
+      "publisher": "Robert McNeel & Associates",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
     },
     {
       "id": "src_ad3dc4942819adf6",
@@ -395,6 +491,14 @@
       "accessed_at": "2026-08-09"
     },
     {
+      "id": "src_1017a7438abbb3e7",
+      "title": "Frank Lloyd Wright Foundation",
+      "url": "https://franklloydwright.org/",
+      "publisher": "About Frank Lloyd Wright",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
       "id": "src_1f885d85325fd85f",
       "title": "Concrete Future — 2050 Net Zero Roadmap",
       "url": "https://gccassociation.org/concretefuture/",
@@ -409,6 +513,14 @@
       "publisher": "Glass for Europe",
       "source_tier": 2,
       "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_510d75de1ef4d978",
+      "title": "Bocca",
+      "url": "https://gufram.it/en/products/bocca/",
+      "publisher": "Gufram",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
     },
     {
       "id": "src_5602089093547d55",
@@ -475,10 +587,50 @@
       "accessed_at": "2026-08-08"
     },
     {
+      "id": "src_18f0ef3de19ae469",
+      "title": "Memphis Milano",
+      "url": "https://memphis.it/en/history/",
+      "publisher": "History",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_b5cea1c8f7167a32",
+      "title": "Memphis Milano",
+      "url": "https://memphis.it/en/products/carlton/",
+      "publisher": "Carlton",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_f832a72152a8d9bd",
+      "title": "The Portland Building",
+      "url": "https://michaelgraves.com/legacy-project/the-portland-building/",
+      "publisher": "Michael Graves Architecture & Design",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
       "id": "src_94061249602ecf79",
       "title": "The Pavilion — materials",
       "url": "https://miesbcn.com/the-pavilion/",
       "publisher": "Fundació Mies van der Rohe",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_7ba9d9c562058eb5",
+      "title": "Learning from Las Vegas",
+      "url": "https://mitpress.mit.edu/9780262720069/learning-from-las-vegas/",
+      "publisher": "The MIT Press",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_66429eeecbd3ddbb",
+      "title": "Konstantin Melnikov House",
+      "url": "https://muar.ru/en/konstantin-melnikov-house/",
+      "publisher": "Konstantin and Viktor Melnikov Museum",
       "source_tier": 2,
       "accessed_at": "2026-08-09"
     },
@@ -675,6 +827,30 @@
       "accessed_at": "2026-08-08"
     },
     {
+      "id": "src_ae4e6733b7eeb047",
+      "title": "Patrik Schumacher — official writings list",
+      "url": "https://patrikschumacher.com/",
+      "publisher": "Patrik Schumacher",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_ecc11c39d360fa32",
+      "title": "Expo 1970 Osaka",
+      "url": "https://pp.bie-paris.org/site/en/1970-osaka",
+      "publisher": "Bureau International des Expositions",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_3fa81186897ab224",
+      "title": "The Many Lives of the Nakagin Capsule Tower",
+      "url": "https://press.moma.org/exhibition/nakagin-capsule-tower/",
+      "publisher": "MoMA",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
       "id": "src_2b36d7f9e7bca17a",
       "title": "Sealing Natural Stone",
       "url": "https://pubs.naturalstoneinstitute.org/resources/library/?cat1=16&event=getAdvancedSearch&gosearch=1&mode=advancedSearch",
@@ -699,6 +875,14 @@
       "accessed_at": "2026-08-09"
     },
     {
+      "id": "src_2e2b48e600654802",
+      "title": "Manifesto of Surrealism",
+      "url": "https://quod.lib.umich.edu/cgi/t/text/text-idx?c=umhistmath;idno=ACN3396.0001.001",
+      "publisher": "University of Michigan Digital Collections",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
       "id": "src_eedee9d89397b417",
       "title": "A New Analysis of Major Greek Sculptures in the Metropolitan Museum",
       "url": "https://resources.metmuseum.org/resources/metpublications/pdf/A_New_Analysis_of_Major_Greek_Sculptures_in_the_MMA_Metropolitan_Museum_Journal_v_49_2014.pdf",
@@ -711,6 +895,46 @@
       "title": "Saint Laurent Productions — official filmography and division statement",
       "url": "https://saintlaurentproductions.ysl.com/",
       "publisher": "",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_2e34675c9197e2d3",
+      "title": "William Van Alen, The Chrysler Building",
+      "url": "https://smarthistory.org/van-alen-the-chrysler-building/",
+      "publisher": "Smarthistory",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_d30a001cf614b8d4",
+      "title": "Muji",
+      "url": "https://store.moma.org/collections/muji",
+      "publisher": "MoMA Design Store",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_2c0cfc1787550968",
+      "title": "About the Tower of the Sun Museum",
+      "url": "https://taiyounotou-expo70.jp/en/about/",
+      "publisher": "The Official Site of the Tower of the Sun Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_d1194316edf972c1",
+      "title": "About Expo 70 in Osaka",
+      "url": "https://taiyounotou-expo70.jp/en/about/expo70/",
+      "publisher": "The Official Site of the Tower of the Sun Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_582b555adde7fc20",
+      "title": "Tamara de Lempicka",
+      "url": "https://tamaradelempicka.org/",
+      "publisher": "Tamara de Lempicka Estate",
       "source_tier": 2,
       "accessed_at": "2026-08-09"
     },
@@ -755,12 +979,28 @@
       "accessed_at": "2026-08-08"
     },
     {
+      "id": "src_5e30909bf7b7db00",
+      "title": "Tea Rex Kettle Designed By Michael Graves",
+      "url": "https://us.alessi.com/products/tea-rex-kettle",
+      "publisher": "Alessi",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
       "id": "src_0ac938846a357176",
       "title": "Prada sees first-half revenue reach €3.05 billion, up 16% at constant exchange rates",
       "url": "https://us.fashionnetwork.com/news/Prada-sees-first-half-revenue-reach-3-05-billion-up-16-at-constant-exchange-rates,1857117.html",
       "publisher": "FashionNetwork USA",
       "source_tier": 2,
       "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_6f77dbb0141187a9",
+      "title": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/1496/",
+      "publisher": "The 20th-Century Architecture of Frank Lloyd Wright",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
     },
     {
       "id": "src_7c662de89920f531",
@@ -783,6 +1023,22 @@
       "title": "The Marble Basin of Carrara",
       "url": "https://whc.unesco.org/en/tentativelists/5004/",
       "publisher": "UNESCO World Heritage Centre",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_8b650e29121e77ef",
+      "title": "Narkomfin Building",
+      "url": "https://whc.unesco.org/en/tentativelists/6285/",
+      "publisher": "UNESCO World Heritage Centre",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_a00735fd2e532855",
+      "title": "Pop Art",
+      "url": "https://whitney.org/collection/works?search=pop%20art",
+      "publisher": "Whitney Museum of American Art",
       "source_tier": 2,
       "accessed_at": "2026-08-09"
     },
@@ -851,6 +1107,14 @@
       "accessed_at": "2026-08-09"
     },
     {
+      "id": "src_d3efd69e0e47736c",
+      "title": "Oculus Transportation Hub",
+      "url": "https://wtcprod.panynj.gov/en/local/learn-about-wtc/oculus-transportation-hub.html",
+      "publisher": "World Trade Center",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
       "id": "src_7bc102ce264c3eb2",
       "title": "Versace Creative Director Dario Vitale Is Exiting Brand",
       "url": "https://wwd.com/fashion-news/designer-luxury/dario-vitale-exiting-versace-1238372081/",
@@ -867,12 +1131,28 @@
       "accessed_at": "2026-08-09"
     },
     {
+      "id": "src_ae30f61bd57a4456",
+      "title": "Aalto University",
+      "url": "https://www.aalto.fi/en/alvar-aalto",
+      "publisher": "Alvar Aalto: organic relationship to natural elements",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
       "id": "src_11f7eaa9056f9c5c",
       "title": "Wallace Carothers and the Development of Nylon",
       "url": "https://www.acs.org/education/whatischemistry/landmarks/carotherspolymers.html",
       "publisher": "American Chemical Society",
       "source_tier": 2,
       "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_c45f38f2f0bbac30",
+      "title": "Alvar Aalto Foundation",
+      "url": "https://www.alvaraalto.fi/en/information/biography/",
+      "publisher": "Alvar Aalto biography",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
     },
     {
       "id": "src_8774d8aa06e1591f",
@@ -891,6 +1171,14 @@
       "accessed_at": "2026-08-09"
     },
     {
+      "id": "src_f1d147b6a939495a",
+      "title": "Yale School of Architecture",
+      "url": "https://www.architecture.yale.edu/",
+      "publisher": "Paul Rudolph Hall / Art and Architecture Building",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
       "id": "src_b7fc53ad5cad81bc",
       "title": "Axiom Space — AxEMU design 2024 and LCVG 2026",
       "url": "https://www.axiomspace.com/release/axiom-space-prada-unveil-spacesuit-design-for-moon-return",
@@ -905,6 +1193,14 @@
       "publisher": "",
       "source_tier": 2,
       "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_c3e2ecb9162e73d3",
+      "title": "Barbican Centre",
+      "url": "https://www.barbican.org.uk/our-story/architecture/our-building",
+      "publisher": "Our building: an icon of Brutalist architecture",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
     },
     {
       "id": "src_a6bd80c2302b3451",
@@ -931,10 +1227,42 @@
       "accessed_at": "2026-08-08"
     },
     {
+      "id": "src_f5f8ec0380c26150",
+      "title": "Constructivism",
+      "url": "https://www.britannica.com/art/Constructivism-art",
+      "publisher": "Encyclopaedia Britannica",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_5d2dd809a075115a",
+      "title": "World Fair in Japan 1970-2005",
+      "url": "https://www.bunka.go.jp/nama/global/eng/exhibitions/2503.html?menu=3-0",
+      "publisher": "National Archives of Modern Architecture, Agency for Cultural Affairs",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
       "id": "src_350849c587b150e5",
       "title": "Donatella Versace Assumes Role of Chief Brand Ambassador of Versace",
       "url": "https://www.capriholdings.com/news/news-details/2025/Donatella-Versace-Assumes-Role-of-Chief-Brand-Ambassador-of-Versace/default.aspx",
       "publisher": "Capri Holdings Limited",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_bdba27ecee52db03",
+      "title": "Canadian Centre for Architecture",
+      "url": "https://www.cca.qc.ca/",
+      "publisher": "Habitat 67 and experimental housing",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_90e9eeec0f954c89",
+      "title": "VKhUTEMAS: A Russian Laboratory of Modernity",
+      "url": "https://www.cca.qc.ca/en/events/69557/vkhutemas-a-russian-laboratory-of-modernity",
+      "publisher": "Canadian Centre for Architecture",
       "source_tier": 2,
       "accessed_at": "2026-08-09"
     },
@@ -977,6 +1305,30 @@
       "publisher": "Portland Cement Association / American Cement Association",
       "source_tier": 2,
       "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_47fb89e151d428f2",
+      "title": "Centre Pompidou",
+      "url": "https://www.centrepompidou.fr/en/centre-pompidou-is-transforming-itself/an-iconic-architecture",
+      "publisher": "Official architecture page",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_a47da24661cf0801",
+      "title": "Global Tools, les libres penseurs du design italien",
+      "url": "https://www.centrepompidou.fr/en/pompidou-plus/magazine/article/global-tools-les-libres-penseurs-du-design-italien",
+      "publisher": "Centre Pompidou",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_275f952a0bc8fb3c",
+      "title": "Neofuturism",
+      "url": "https://www.centrepompidou.fr/en/resources/movement/cBo9p6",
+      "publisher": "Centre Pompidou",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
     },
     {
       "id": "src_2f4b3f6e8f290e3f",
@@ -1075,6 +1427,38 @@
       "accessed_at": "2026-08-09"
     },
     {
+      "id": "src_8d295fdb09a36710",
+      "title": "Vitra Design Museum",
+      "url": "https://www.design-museum.de/en/exhibitions/detailpages/memphis-40-years-of-kitsch-and-elegance.html",
+      "publisher": "Memphis: 40 Years of Kitsch and Elegance",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_3e47976bf12bc355",
+      "title": "Pop Art Design",
+      "url": "https://www.design-museum.de/en/exhibitions/detailpages/pop-art-design.html",
+      "publisher": "Vitra Design Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_19faaba8fc82b1d1",
+      "title": "The Hot House: Italian New Wave Design",
+      "url": "https://www.design-museum.de/en/exhibitions/detailpages/the-hot-house-italian-new-wave-design.html",
+      "publisher": "Vitra Design Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_5b64a8ca8541b5d8",
+      "title": "Vitra Design Museum",
+      "url": "https://www.design-museum.de/en/information/the-vitra-design-museum.html",
+      "publisher": "Vitra Design Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
       "id": "src_55312f18eff25e3a",
       "title": "Fire Station / Zaha Hadid, 1993",
       "url": "https://www.design-museum.de/en/information/vitra-campus.html",
@@ -1091,6 +1475,14 @@
       "accessed_at": "2026-08-10"
     },
     {
+      "id": "src_9fc448661a06e68c",
+      "title": "Dan Flavin",
+      "url": "https://www.diaart.org/collection/collection/flavin-dan",
+      "publisher": "Dia Art Foundation",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
       "id": "src_a921bcea93f7cb1d",
       "title": "Murder of Gianni Versace (quoting Richard Martin, Costume Institute, in Andrea Lee, \"The Emperor of Dreams,\" The New Yorker, 28 July 1997)",
       "url": "https://www.ebsco.com/research-starters/history/murder-gianni-versace",
@@ -1105,6 +1497,22 @@
       "publisher": "Department of Energy",
       "source_tier": 2,
       "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_551c23619de6affd",
+      "title": "History of the New York City Landmark",
+      "url": "https://www.esbnyc.com/about/history",
+      "publisher": "Empire State Building",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_ddcdd991c4318cf2",
+      "title": "Yokohama International Passenger Terminal",
+      "url": "https://www.f-o-a.net/projects/yokohama-international-passenger-terminal",
+      "publisher": "Foreign Office Architects",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
     },
     {
       "id": "src_998be603a0d507c6",
@@ -1155,6 +1563,14 @@
       "accessed_at": "2026-08-08"
     },
     {
+      "id": "src_4f747106892ef366",
+      "title": "Guggenheim Museum Bilbao",
+      "url": "https://www.foga.com/portfolio/guggenheim-museum-bilbao",
+      "publisher": "Gehry Partners",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
       "id": "src_9278213ceda6b7b2",
       "title": "Fondation Cartier and Architecture",
       "url": "https://www.fondationcartier.com/en/the-fondation/fondation-cartier-and-architecture",
@@ -1179,12 +1595,28 @@
       "accessed_at": "2026-08-08"
     },
     {
+      "id": "src_dae193c09f03684c",
+      "title": "Fondation Le Corbusier",
+      "url": "https://www.fondationlecorbusier.fr/en/thematic-folder/corbusean-vocabulary/",
+      "publisher": "Corbusean vocabulary: raw concrete and unfinished materials",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
       "id": "src_bc19e6ffa0d529a9",
       "title": "Fondazione Prada — Mission and History",
       "url": "https://www.fondazioneprada.org/mission-en_old/?lang=en",
       "publisher": "",
       "source_tier": 2,
       "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_ac22c70e7dffef20",
+      "title": "Foster + Partners",
+      "url": "https://www.fosterandpartners.com/projects/hongkong-and-shanghai-bank-headquarters/",
+      "publisher": "Hongkong and Shanghai Bank Headquarters",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
     },
     {
       "id": "src_3f4afd838dab4099",
@@ -1267,12 +1699,28 @@
       "accessed_at": "2026-08-09"
     },
     {
+      "id": "src_482e49329e2129ab",
+      "title": "UK Government",
+      "url": "https://www.gov.uk/government/news/modern-classic-sainsbury-centre-grade-ii-listed",
+      "publisher": "Modern classic: Sainsbury Centre Grade II listed",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
       "id": "src_9c06bbb6d24a24d3",
       "title": "GQ - Dapper Dan and Gucci partnership",
       "url": "https://www.gq.com/story/dapper-dan-gucci-harlem-atelier-exclusive-interview",
       "publisher": "The context of the Harlem atelier, logos and cultural authorship",
       "source_tier": 2,
       "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_237b5ff1c02f3644",
+      "title": "Grasshopper — algorithmic modeling for Rhino",
+      "url": "https://www.grasshopper3d.com/",
+      "publisher": "Grasshopper / McNeel",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
     },
     {
       "id": "src_ba17ecb6b35b38eb",
@@ -1345,6 +1793,30 @@
       "publisher": "A contemporary exhibition classification of Bamboo 1947, Horsebit 1955, Jackie 1961 and Flora",
       "source_tier": 2,
       "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_8d95d975fd2f8fc8",
+      "title": "Agnes Martin",
+      "url": "https://www.guggenheim.org/artwork/artist/agnes-martin",
+      "publisher": "Guggenheim",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_1c4071b239d3389c",
+      "title": "Robert Morris",
+      "url": "https://www.guggenheim.org/artwork/artist/robert-morris",
+      "publisher": "Guggenheim",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_d515ae976897bbf4",
+      "title": "Victor Vasarely",
+      "url": "https://www.guggenheim.org/artwork/artist/victor-vasarely",
+      "publisher": "Guggenheim",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
     },
     {
       "id": "src_144ac5abeee030b1",
@@ -1473,6 +1945,14 @@
       "publisher": "",
       "source_tier": 2,
       "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_b21d90662f48d49f",
+      "title": "HSBC",
+      "url": "https://www.hsbc.com/news-and-views/news/hsbc-news-archive/back-to-the-future",
+      "publisher": "Norman Foster revisits Hong Kong HQ",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
     },
     {
       "id": "src_8697da662cb6e563",
@@ -1747,6 +2227,22 @@
       "accessed_at": "2026-08-08"
     },
     {
+      "id": "src_7c69065e700d26b0",
+      "title": "Lloyd's of London",
+      "url": "https://www.lloyds.com/about-lloyds/the-lloyds-building",
+      "publisher": "The Lloyd's Building",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_f8acb8e39b16ca7b",
+      "title": "Today in History - May 1",
+      "url": "https://www.loc.gov/item/today-in-history/may-01/",
+      "publisher": "Library of Congress",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
       "id": "src_558bbe19a038b14c",
       "title": "A Pyramid for a Symbol",
       "url": "https://www.louvre.fr/en/explore/the-palace/a-pyramid-for-a-symbol",
@@ -1779,12 +2275,28 @@
       "accessed_at": "2026-08-08"
     },
     {
+      "id": "src_cfc7a53b3cb6d64c",
+      "title": "Archizoom, Gianni Pettena, UFO",
+      "url": "https://www.maxxi.art/en/events/archizoom-gianni-pettena-ufo/",
+      "publisher": "MAXXI",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
       "id": "src_aab893839b1b3405",
       "title": "Pier Luigi Nervi — Architecture for Sport",
       "url": "https://www.maxxi.art/en/events/pier-luigi-nervi-e-lo-sport/",
       "publisher": "MAXXI",
       "source_tier": 2,
       "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_eb19a277bf20154f",
+      "title": "SUPERSTUDIO 50",
+      "url": "https://www.maxxi.art/en/events/superstudio-50/",
+      "publisher": "MAXXI",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
     },
     {
       "id": "src_1083ea9ae669b76e",
@@ -1803,12 +2315,28 @@
       "accessed_at": "2026-08-08"
     },
     {
+      "id": "src_7f08961b77b83054",
+      "title": "The Metropolitan Museum of Art",
+      "url": "https://www.metmuseum.org/",
+      "publisher": "Marcel Breuer and modern architectural culture",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
       "id": "src_5d3aa8dda5d5adaf",
       "title": "The Sacred and the Modern: The History, Conservation, and Science of the Madina Sitara",
       "url": "https://www.metmuseum.org/-/media/files/about-the-met/conservation-and-scientific-research/textile-conservation/highlights/the-sacred-and-the-modern_madina-sitara_metropolitan_museum_journal_v_52_2017.pdf?sc_lang=en",
       "publisher": "The Metropolitan Museum of Art",
       "source_tier": 2,
       "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_ed0f250a8a6190b9",
+      "title": "The Metropolitan Museum of Art",
+      "url": "https://www.metmuseum.org/art/collection",
+      "publisher": "Design collection",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
     },
     {
       "id": "src_8c60a42866273685",
@@ -1907,6 +2435,14 @@
       "accessed_at": "2026-08-08"
     },
     {
+      "id": "src_56bc8703c5a9f8b2",
+      "title": "Ettore Sottsass — Carlton Room Divider",
+      "url": "https://www.metmuseum.org/art/collection/search/486989",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
       "id": "src_39f0c4fb8b27c793",
       "title": "Dress, ca. 1993",
       "url": "https://www.metmuseum.org/art/collection/search/678868",
@@ -1969,6 +2505,14 @@
       "publisher": "The Metropolitan Museum of Art",
       "source_tier": 2,
       "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_c7a4599eeeda0a4d",
+      "title": "Comme des Garçons — Dress",
+      "url": "https://www.metmuseum.org/art/collection/search/80949",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
     },
     {
       "id": "src_fa476bff50028126",
@@ -2147,6 +2691,22 @@
       "accessed_at": "2026-08-08"
     },
     {
+      "id": "src_b5a1bae8be397601",
+      "title": "Calvin Klein",
+      "url": "https://www.metmuseum.org/art/collection/search?q=Calvin%20Klein",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_2ea7b892701104a4",
+      "title": "Maison Margiela: Designer",
+      "url": "https://www.metmuseum.org/art/collection/search?q=Maison+Martin+Margiela",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
       "id": "src_5bc30c80cd8bad9d",
       "title": "Dress, Yves Saint Laurent, 1968",
       "url": "https://www.metmuseum.org/en/art/collection/search/98772",
@@ -2179,6 +2739,14 @@
       "accessed_at": "2026-08-09"
     },
     {
+      "id": "src_3145edacce322455",
+      "title": "Pop Art: Works on Paper",
+      "url": "https://www.metmuseum.org/exhibitions/listings/2008/pop-art",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
       "id": "src_3f8ead8b4ec144cc",
       "title": "The Metropolitan Museum of Art — Schiaparelli and Prada: Impossible Conversations",
       "url": "https://www.metmuseum.org/exhibitions/listings/2012/impossible-conversations",
@@ -2193,6 +2761,30 @@
       "publisher": "The Metropolitan Museum of Art",
       "source_tier": 2,
       "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_4de332b50e487f24",
+      "title": "Surrealism Beyond Borders",
+      "url": "https://www.metmuseum.org/exhibitions/listings/2021/surrealism-beyond-borders",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_e32eb77597a8dd9d",
+      "title": "Design, 1900-1925",
+      "url": "https://www.metmuseum.org/fr/essays/design-1900-25",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_5d69d99b6f4c6a7a",
+      "title": "Design, 1925-50",
+      "url": "https://www.metmuseum.org/ja/essays/design-1925-50",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
     },
     {
       "id": "src_c82bdd8dbc24e612",
@@ -2219,12 +2811,28 @@
       "accessed_at": "2026-08-09"
     },
     {
+      "id": "src_c06e3a4d8eec9aed",
+      "title": "French Art Deco",
+      "url": "https://www.metmuseum.org/pt/essays/french-art-deco",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
       "id": "src_b40f93cfd1fa5168",
       "title": "Rescuing the Goddess: Conservation of an Appliquéd Silk Tibetan Thangka",
       "url": "https://www.metmuseum.org/pt/perspectives/tibetan-thangka-textile-conservation",
       "publisher": "The Metropolitan Museum of Art",
       "source_tier": 2,
       "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_1843d57c132c72b1",
+      "title": "Surrealism",
+      "url": "https://www.metmuseum.org/toah/hd/surr/hd_surr.htm",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
     },
     {
       "id": "src_4e5bf76aa0c70a46",
@@ -2235,10 +2843,146 @@
       "accessed_at": "2026-08-08"
     },
     {
+      "id": "src_103ea2c818aa788f",
+      "title": "Carlos Cruz-Diez",
+      "url": "https://www.mfah.org/art/artists/carlos-cruz-diez",
+      "publisher": "Museum of Fine Arts Houston",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_cce098abf4d280ac",
+      "title": "MoMA",
+      "url": "https://www.moma.org/",
+      "publisher": "Architecture and design collection",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_2e773855a2491a58",
+      "title": "A. M. Cassandre",
+      "url": "https://www.moma.org/artists/1015-a-m-cassandre",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_8fc914d8c2b2d047",
+      "title": "Donald Judd",
+      "url": "https://www.moma.org/artists/2948-donald-judd",
+      "publisher": "MoMA",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_04939b8bba9c9cbb",
+      "title": "Sol LeWitt",
+      "url": "https://www.moma.org/artists/3528-sol-lewitt",
+      "publisher": "MoMA",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_9921c20d5359ad37",
+      "title": "Roy Lichtenstein",
+      "url": "https://www.moma.org/artists/3542-roy-lichtenstein",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_b0b4b19af4241f76",
+      "title": "El Lissitzky",
+      "url": "https://www.moma.org/artists/3562",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_f33c62583ab5fcd8",
+      "title": "Rene Magritte",
+      "url": "https://www.moma.org/artists/3692",
+      "publisher": "MoMA",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_7947470644e6733b",
+      "title": "Man Ray (Emmanuel Radnitzky)",
+      "url": "https://www.moma.org/artists/3716-man-ray-emmanuel-radnitzky",
+      "publisher": "MoMA",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_94107e7f0e8693e6",
+      "title": "Marisol",
+      "url": "https://www.moma.org/artists/3742-marisol-marisol-escobar",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_36024cbe4991c8e2",
+      "title": "Claes Oldenburg",
+      "url": "https://www.moma.org/artists/4397-claes-oldenburg",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_7d76ff645b64fed1",
+      "title": "Alexander Rodchenko",
+      "url": "https://www.moma.org/artists/4991",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_43271ad2ede6975f",
+      "title": "Tom Wesselmann",
+      "url": "https://www.moma.org/artists/6330-tom-wesselmann",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
       "id": "src_0aca30dc532192b8",
       "title": "Coop Himmelb(l)au",
       "url": "https://www.moma.org/artists/667",
       "publisher": "MoMA Collection",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_1d1d51ea98431dc1",
+      "title": "Kisho Kurokawa",
+      "url": "https://www.moma.org/artists/6967-kisho-kurokawa",
+      "publisher": "MoMA",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_ef0a1bb1813af773",
+      "title": "Leonora Carrington",
+      "url": "https://www.moma.org/artists/984",
+      "publisher": "MoMA",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_d7f81b8dfadda7d9",
+      "title": "A Revolutionary Impulse: The Rise of the Russian Avant-Garde",
+      "url": "https://www.moma.org/calendar/exhibitions/1668",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_83294cfe1b9f78e6",
+      "title": "Italy: The New Domestic Landscape",
+      "url": "https://www.moma.org/calendar/exhibitions/1783",
+      "publisher": "MoMA",
       "source_tier": 2,
       "accessed_at": "2026-08-10"
     },
@@ -2259,6 +3003,54 @@
       "accessed_at": "2026-08-10"
     },
     {
+      "id": "src_f81c29a3bc8246bf",
+      "title": "Fantastic Art, Dada, Surrealism",
+      "url": "https://www.moma.org/calendar/exhibitions/2827",
+      "publisher": "MoMA",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_47f728612de04583",
+      "title": "MoMA",
+      "url": "https://www.moma.org/calendar/exhibitions/2929",
+      "publisher": "Organic Design in Home Furnishings, 1941",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_dea57f407b8230b8",
+      "title": "Liubov Popova",
+      "url": "https://www.moma.org/calendar/exhibitions/328",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_745cceb58ecb8c48",
+      "title": "Things: A Story of the Sixties",
+      "url": "https://www.moma.org/calendar/galleries/5086",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_c07504b53e6739a1",
+      "title": "MoMA",
+      "url": "https://www.moma.org/collection/",
+      "publisher": "Architecture and design: late modernism",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_d27596fd6a903574",
+      "title": "Cindy Sherman",
+      "url": "https://www.moma.org/collection/artists/5392",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
       "id": "src_29427629c15cda6b",
       "title": "Alexey Brodovitch artist collection",
       "url": "https://www.moma.org/collection/artists/788",
@@ -2275,12 +3067,220 @@
       "accessed_at": "2026-08-08"
     },
     {
+      "id": "src_a88b598a36010fde",
+      "title": "Metabolist architecture",
+      "url": "https://www.moma.org/collection/terms/metabolist-architecture",
+      "publisher": "MoMA",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_43c5c6039bf2cd64",
+      "title": "Minimalism",
+      "url": "https://www.moma.org/collection/terms/minimalism",
+      "publisher": "MoMA",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_4309e073473eef4b",
+      "title": "Serial Forms and Repetition",
+      "url": "https://www.moma.org/collection/terms/minimalism/serial-forms-and-repetition",
+      "publisher": "MoMA",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_ffafce73c570d82e",
+      "title": "Op art",
+      "url": "https://www.moma.org/collection/terms/op-art",
+      "publisher": "MoMA",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_99a5d84e73531205",
+      "title": "Pop art",
+      "url": "https://www.moma.org/collection/terms/pop-art",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_d1bfd0e82f96cd12",
+      "title": "Appropriation",
+      "url": "https://www.moma.org/collection/terms/pop-art/appropriation",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_bf695c5340d3dae7",
+      "title": "Radical Architecture",
+      "url": "https://www.moma.org/collection/terms/radical-architecture",
+      "publisher": "MoMA",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_d0ab593bfee09c0b",
+      "title": "Surrealism",
+      "url": "https://www.moma.org/collection/terms/surrealism",
+      "publisher": "MoMA",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_f9147c40002d8909",
+      "title": "Venturi and Rauch, Robert Venturi, John Rauch, Denise Scott Brown. House, Northern Delaware, Preliminary study of west elevation. 1978",
+      "url": "https://www.moma.org/collection/works/211",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_7739fc98708376fe",
+      "title": "MoMA",
+      "url": "https://www.moma.org/collection/works/3903",
+      "publisher": "Isamu Noguchi: coffee table and sculptural objects",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_97c7c1554df22630",
+      "title": "MoMA",
+      "url": "https://www.moma.org/collection/works/4174",
+      "publisher": "Charles and Ray Eames: molded plywood works",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_79e2cafe2039ef8e",
+      "title": "Cindy Sherman. Untitled Film Still #1. 1977",
+      "url": "https://www.moma.org/collection/works/56510",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_f832b67191837474",
+      "title": "A. M. Cassandre. Watch the Fords Go By",
+      "url": "https://www.moma.org/collection/works/7296",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_b2f662ae8fb3071b",
+      "title": "Salvador Dali. The Persistence of Memory. 1931",
+      "url": "https://www.moma.org/collection/works/79018",
+      "publisher": "MoMA",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_6e7a25580c12ff62",
+      "title": "James Rosenquist, F-111",
+      "url": "https://www.moma.org/collection/works/79805",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_bb87071770580410",
+      "title": "Andy Warhol, Campbell’s Soup Cans, 1962",
+      "url": "https://www.moma.org/collection/works/79809",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_2d1fedd0ea0bba6a",
+      "title": "Bridget Riley. Current. 1964",
+      "url": "https://www.moma.org/collection/works/79998",
+      "publisher": "MoMA",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_e3b50b65174378a5",
+      "title": "Meret Oppenheim. Object. Paris, 1936",
+      "url": "https://www.moma.org/collection/works/80997",
+      "publisher": "MoMA",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_4ab92213673f4b98",
+      "title": "Aleksandr Rodchenko. Spatial Construction no. 12. c. 1920",
+      "url": "https://www.moma.org/collection/works/81043",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_b6f51ca279897e68",
+      "title": "Man Ray (Emmanuel Radnitzky). Indestructible Object (or Object to Be Destroyed)",
+      "url": "https://www.moma.org/collection/works/81209",
+      "publisher": "MoMA",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_6938f1db12e43c92",
+      "title": "New in the Galleries: The Russian Avant-Garde",
+      "url": "https://www.moma.org/explore/inside_out/2014/01/30/new-in-the-galleries-the-russian-avant-garde/",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_4ab44953af40219d",
+      "title": "The Responsive Eye",
+      "url": "https://www.moma.org/interactives/moma_through_time/1960/the-responsive-eye/",
+      "publisher": "MoMA",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_8cc1010197d54028",
+      "title": "The Surrealist Women",
+      "url": "https://www.moma.org/magazine/articles/330",
+      "publisher": "MoMA Magazine",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_370777bcf37af70c",
+      "title": "The Assembly-Line Effect: Andy Warhol’s Campbell’s Soup Cans",
+      "url": "https://www.moma.org/magazine/articles/933",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_052476d304bc0060",
+      "title": "General Information | METABOLISM: THE CITY OF THE FUTURE",
+      "url": "https://www.mori.art.museum/english/contents/metabolism/info/index.html",
+      "publisher": "Mori Art Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
       "id": "src_18390fd85247bb4f",
       "title": "Musée Yves Saint Laurent Marrakech — Presentation",
       "url": "https://www.museeyslmarrakech.com/en/presentation/",
       "publisher": "",
       "source_tier": 2,
       "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_9fe8e7b49e5e6c2a",
+      "title": "Kunsthaus Graz",
+      "url": "https://www.museum-joanneum.at/en/kunsthaus-graz",
+      "publisher": "Universalmuseum Joanneum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
     },
     {
       "id": "src_556e1405ac000b26",
@@ -2313,6 +3313,30 @@
       "publisher": "Copper Development Association",
       "source_tier": 2,
       "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_d6e6179babb184fd",
+      "title": "Bridget Riley",
+      "url": "https://www.nationalgalleries.org/art-and-artists/artists/bridget-riley",
+      "publisher": "National Galleries of Scotland",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_29738ebca968f4a3",
+      "title": "Op art",
+      "url": "https://www.nationalgalleries.org/art-and-artists/glossary-terms/op-art",
+      "publisher": "National Galleries of Scotland",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_e592919abe4bf9af",
+      "title": "National Theatre",
+      "url": "https://www.nationaltheatre.org.uk/",
+      "publisher": "Architecture and Denys Lasdun",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
     },
     {
       "id": "src_334a69c0675de13d",
@@ -2419,6 +3443,14 @@
       "accessed_at": "2026-08-09"
     },
     {
+      "id": "src_16687607cd044dd9",
+      "title": "Parametricism: A New Global Style for Architecture and Urban Design",
+      "url": "https://www.patrikschumacher.com/Texts/Parametricism.html",
+      "publisher": "Patrik Schumacher",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
       "id": "src_ed328bbf093816b3",
       "title": "Pilkington Texture Glass",
       "url": "https://www.pilkington.com/en/gbl/architectural-and-technical-glass/product-categories/decoration/pilkington-texture-glass",
@@ -2441,6 +3473,14 @@
       "publisher": "Pilkington",
       "source_tier": 2,
       "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_11b1bc660d9fd871",
+      "title": "Superonda",
+      "url": "https://www.poltronova.it/superonda/",
+      "publisher": "Poltronova",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
     },
     {
       "id": "src_34a936ede2aedbef",
@@ -2611,6 +3651,22 @@
       "accessed_at": "2026-08-09"
     },
     {
+      "id": "src_30b24b11bdddbf75",
+      "title": "Kenzo Tange",
+      "url": "https://www.praemiumimperiale.org/en/laureate/tange/",
+      "publisher": "The official website of the Praemium Imperiale",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_b4d24fd2d2c5be77",
+      "title": "Biography: Kenzo Tange",
+      "url": "https://www.pritzkerprize.com/biography-kenzo-tange",
+      "publisher": "The Pritzker Architecture Prize",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
       "id": "src_699b298288d0c962",
       "title": "Zaha Hadid Biography",
       "url": "https://www.pritzkerprize.com/biography-zaha-hadid",
@@ -2627,6 +3683,14 @@
       "accessed_at": "2026-08-08"
     },
     {
+      "id": "src_ddfb799eb34184d2",
+      "title": "Zaha Hadid Jury Citation",
+      "url": "https://www.pritzkerprize.com/jury-citation-zaha-hadid",
+      "publisher": "The Pritzker Architecture Prize",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
       "id": "src_ec52b9416a17c9a7",
       "title": "Frank Gehry, 1989 Laureate",
       "url": "https://www.pritzkerprize.com/laureates/1989",
@@ -2635,9 +3699,25 @@
       "accessed_at": "2026-08-10"
     },
     {
+      "id": "src_402520690f010d15",
+      "title": "Tadao Ando",
+      "url": "https://www.pritzkerprize.com/laureates/1995",
+      "publisher": "The Pritzker Architecture Prize",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
       "id": "src_5b3ced153aecd872",
       "title": "Zaha Hadid, 2004 Laureate",
       "url": "https://www.pritzkerprize.com/laureates/2004",
+      "publisher": "The Pritzker Architecture Prize",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_977d2f87e410a43d",
+      "title": "Santiago Calatrava",
+      "url": "https://www.pritzkerprize.com/laureates/2005",
       "publisher": "The Pritzker Architecture Prize",
       "source_tier": 2,
       "accessed_at": "2026-08-10"
@@ -2659,12 +3739,36 @@
       "accessed_at": "2026-08-09"
     },
     {
+      "id": "src_fd23ce3409b2dc80",
+      "title": "RIBA",
+      "url": "https://www.riba.org/explore/riba-collections/architectural-styles/brutalism-movement/",
+      "publisher": "Brutalism in Architecture: origins, features and legacy",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
       "id": "src_c1601066384c4867",
       "title": "Alexey Brodovitch collection",
       "url": "https://www.rit.edu/carycollection/alexey-brodovitch",
       "publisher": "Cary Graphic Arts Collection, RIT",
       "source_tier": 2,
       "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_060b4d31fb868187",
+      "title": "The Shard",
+      "url": "https://www.rpbw.com/project/the-shard",
+      "publisher": "Renzo Piano Building Workshop",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_cb8623c27debb596",
+      "title": "Rogers Stirk Harbour + Partners",
+      "url": "https://www.rsh-p.com/",
+      "publisher": "Practice archive",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
     },
     {
       "id": "src_2ffe4852c0257dac",
@@ -2723,12 +3827,100 @@
       "accessed_at": "2026-08-09"
     },
     {
+      "id": "src_73a01a1b3af5a97c",
+      "title": "SOS Brutalism",
+      "url": "https://www.sosbrutalism.org/",
+      "publisher": "Global archive of Brutalist buildings",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_90b4b37167fbab4f",
+      "title": "Tate",
+      "url": "https://www.tate.org.uk/",
+      "publisher": "Richard Rogers — architect biography",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_f777191dad9268a4",
+      "title": "Russian Constructivism",
+      "url": "https://www.tate.org.uk/art/art-terms/c/constructivism",
+      "publisher": "Tate",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
       "id": "src_06f201a75c53e94b",
       "title": "Deconstructivism",
       "url": "https://www.tate.org.uk/art/art-terms/d/deconstructivism",
       "publisher": "Tate",
       "source_tier": 2,
       "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_51b9b3f5c5bdc44d",
+      "title": "Futurism",
+      "url": "https://www.tate.org.uk/art/art-terms/f/futurism",
+      "publisher": "Tate",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_2ef43d6c2a229e3c",
+      "title": "Minimalism",
+      "url": "https://www.tate.org.uk/art/art-terms/m/minimalism",
+      "publisher": "Tate",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_900c08cc982dab58",
+      "title": "Op Art",
+      "url": "https://www.tate.org.uk/art/art-terms/o/op-art",
+      "publisher": "Tate",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_f9ede04c0cca1aac",
+      "title": "Pop art",
+      "url": "https://www.tate.org.uk/art/art-terms/p/pop-art",
+      "publisher": "Tate",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_92fbb5901279595b",
+      "title": "Postmodernism",
+      "url": "https://www.tate.org.uk/art/art-terms/p/postmodernism",
+      "publisher": "Tate",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_2b440538f5e74d77",
+      "title": "Surrealism",
+      "url": "https://www.tate.org.uk/art/art-terms/s/surrealism",
+      "publisher": "Tate",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_4b2acca89eda31ea",
+      "title": "Carl Andre",
+      "url": "https://www.tate.org.uk/art/artists/carl-andre-648",
+      "publisher": "Tate",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_94e1f565d3459b37",
+      "title": "Richard Hamilton",
+      "url": "https://www.tate.org.uk/art/artists/richard-hamilton-1244",
+      "publisher": "Tate",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
     },
     {
       "id": "src_8c959e10ed972269",
@@ -2787,6 +3979,14 @@
       "accessed_at": "2026-08-08"
     },
     {
+      "id": "src_d67252846b227ea6",
+      "title": "1960s accessories",
+      "url": "https://www.vam.ac.uk/articles/1960s-accessories",
+      "publisher": "Victoria and Albert Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
       "id": "src_77cbb1c4def08ae5",
       "title": "Victoria and Albert Museum — Bags: Inside Out",
       "url": "https://www.vam.ac.uk/articles/about-the-bags-inside-out-exhibition",
@@ -2803,12 +4003,28 @@
       "accessed_at": "2026-08-08"
     },
     {
+      "id": "src_a6976106a3c42320",
+      "title": "An introduction to Art Deco",
+      "url": "https://www.vam.ac.uk/articles/an-introduction-to-art-deco",
+      "publisher": "Victoria and Albert Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
       "id": "src_6135af49de2f1d7e",
       "title": "Corsets, crinolines and bustles: fashionable Victorian underwear",
       "url": "https://www.vam.ac.uk/articles/corsets-crinolines-and-bustles-fashionable-victorian-underwear",
       "publisher": "Victoria and Albert Museum",
       "source_tier": 2,
       "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_cb9feef7c33e49f1",
+      "title": "Fashion unpicked: the Skeleton dress by Elsa Schiaparelli",
+      "url": "https://www.vam.ac.uk/articles/fashion-unpicked-the-skeleton-dress-by-elsa-schiaparelli",
+      "publisher": "Victoria and Albert Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
     },
     {
       "id": "src_90c77ea04d8f4a19",
@@ -2825,6 +4041,46 @@
       "publisher": "Victoria and Albert Museum",
       "source_tier": 2,
       "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_12b764a9a343cb3a",
+      "title": "Paper dresses",
+      "url": "https://www.vam.ac.uk/articles/paper-dresses",
+      "publisher": "Victoria and Albert Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_d09ebd71f6db1bf5",
+      "title": "Victoria and Albert Museum",
+      "url": "https://www.vam.ac.uk/articles/what-is-postmodernism",
+      "publisher": "What is postmodernism?",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_9dbdef2a48b3fb5d",
+      "title": "Art Deco",
+      "url": "https://www.vam.ac.uk/collections/art-deco",
+      "publisher": "Victoria and Albert Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_3775dc5a0e372fea",
+      "title": "Postmodernism — Explore the Collections",
+      "url": "https://www.vam.ac.uk/collections/postmodernism/",
+      "publisher": "Victoria and Albert Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_ec593606e5a19800",
+      "title": "Schiaparelli: Fashion Becomes Art",
+      "url": "https://www.vam.ac.uk/exhibitions/schiaparelli-fashion-becomes-art",
+      "publisher": "Victoria and Albert Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
     },
     {
       "id": "src_86029cbf252c02a9",
@@ -2899,6 +4155,14 @@
       "accessed_at": "2026-08-09"
     },
     {
+      "id": "src_4a7a57fe3ed95633",
+      "title": "Jil Sander",
+      "url": "https://www.vogue.com/fashion-shows/designer/jil-sander",
+      "publisher": "Vogue Runway",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
       "id": "src_b7d13b63cecfd5ac",
       "title": "Balenciaga releases ten new perfumes, and looks back to a forgotten 1947 bottle",
       "url": "https://www.wallpaper.com/fashion-beauty/balenciaga-fragrance-collection-2025",
@@ -2923,10 +4187,58 @@
       "accessed_at": "2026-08-09"
     },
     {
+      "id": "src_3fd933c8a08e3adb",
+      "title": "Heydar Aliyev Centre",
+      "url": "https://www.zaha-hadid.com/architecture/heydar-aliyev-centre/",
+      "publisher": "Zaha Hadid Architects",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
       "id": "src_5d20ae4351c9bdc8",
       "title": "Cincinnati Contemporary Arts Center",
       "url": "https://www.zaha-hadid.com/architecture/lois-richard-rosenthal-center-for-contemporary-art/",
       "publisher": "Zaha Hadid Architects",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_72d59f500ca2ff27",
+      "title": "MAXXI: Museum of XXI Century Arts",
+      "url": "https://www.zaha-hadid.com/architecture/maxxi/",
+      "publisher": "Zaha Hadid Architects",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_45bc23406bc9d6e7",
+      "title": "MAXXI project sheet",
+      "url": "https://www.zaha-hadid.com/wp-content/uploads/2019/12/maxxi.pdf",
+      "publisher": "Zaha Hadid Architects",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_d4d63a0bc8f6a10d",
+      "title": "Galaxy SOHO Project",
+      "url": "https://www.zha.com/projects/architecture/galaxy-soho",
+      "publisher": "Zaha Hadid Architects",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_262c8c35cfd4b572",
+      "title": "Heydar Aliyev Centre Project",
+      "url": "https://www.zha.com/projects/architecture/heydar-aliyev-centre",
+      "publisher": "Zaha Hadid Architects",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_20c329fefa2101e3",
+      "title": "Josef Albers. The Interaction of Color",
+      "url": "https://yalebooks.yale.edu/book/9780300179354/interaction-of-color/",
+      "publisher": "Yale University Press",
       "source_tier": 2,
       "accessed_at": "2026-08-10"
     }

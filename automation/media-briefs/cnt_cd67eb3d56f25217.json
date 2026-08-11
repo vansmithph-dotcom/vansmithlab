@@ -1,0 +1,37 @@
+{
+  "asset_id": "asset_surrealism-dream-object-logic-of-impossible_hero_v1",
+  "primary_object_id": "obj_45965fcb88234d40",
+  "content_release_id": "cnt_cd67eb3d56f25217",
+  "kind": "image",
+  "origin": "ai_illustration",
+  "locale": "multilingual",
+  "educational_purpose": "Visualize Surrealism as dream and the logic of the impossible without reproducing protected artworks.",
+  "may_depict": [
+    "A fictional surreal desert landscape",
+    "Floating hat and melting watch",
+    "Deep twilight sky"
+  ],
+  "must_not_imply": [
+    "The image documents a real building or artwork",
+    "The image is attributable to a named designer or artist",
+    "The image reproduces a protected architectural photograph, drawing, furniture design or artwork"
+  ],
+  "rights": {
+    "state": "generated_reviewed",
+    "disclosure": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "rights_basis": "Original AI illustration generated for VANSMITHLAB without reference images or copied identifiable architecture, artworks or brand assets.",
+    "third_party_marks": "No logo, wordmark or recognisable branded asset."
+  },
+  "accessibility": {
+    "alt_text_ru": "Редакционная AI-иллюстрация движения «Сюрреализм»: Сон, объект и логика невозможного: редакционная визуализация сюрреализма.",
+    "alt_text_en": "Editorial AI illustration of the Surrealism movement: Dream, object and the logic of the impossible: an editorial visualization of Surrealism.",
+    "caption_ru": "Сон, объект и логика невозможного: редакционная визуализация сюрреализма.",
+    "caption_en": "Dream, object and the logic of the impossible: an editorial visualization of Surrealism."
+  },
+  "creator": "OpenAI image generation · directed and reviewed by VANSMITHLAB",
+  "created_at": "2026-08-11",
+  "asset_path": "public/images/encyclopedia/surrealism-dream-object-logic-of-impossible-hero-v1.webp",
+  "generation_prompt_class": "original fictional editorial visualization of surrealism-dream-object-logic-of-impossible",
+  "workflow_run_id": "run_20260811_movements_release",
+  "content_sha256": "a9f76d08c9ce39b642e5cc649987cbd1d1a24ff10e294174f2ee50b68b9044d4"
+}

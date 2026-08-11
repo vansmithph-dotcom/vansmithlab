@@ -1,0 +1,515 @@
+{
+  "id": "obj_d4c05f69a4284c63",
+  "type": "theme",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Постмодернизм",
+  "slug_ru": "postmodernism-quotation-irony-return-of-sign",
+  "summary_ru": "Цитата, ирония и возвращение знака",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.7,
+  "created_at": "2026-08-11T00:00:00.000Z",
+  "updated_at": "2026-08-11T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_001",
+      "wording_ru": "В хорошем постмодернизме цитата не заменяет мысль, а делает её видимой. Колонна может быть структурой, шуткой, воспоминанием и логотипом одновременно. Яркий ламинат может быть не дешёвой имитацией, а честной поверхностью эпохи, которая привыкла жить среди экранов, упаковок и знаков.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_002",
+      "wording_ru": "Потому что он понял город как среду знаков. Постмодернизм увидел, что человек живёт не только среди стен, стульев и платьев, но среди вывесок, цитат, исторических образов, рекламы, телевидения, клубной культуры и чужих архивов.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_003",
+      "wording_ru": "Постмодернизм — движение и культурная позиция, особенно заметная с 1970-х до 1990-х годов в архитектуре, дизайне, искусстве, моде, фотографии и графике. Он спорил с модернистской идеей чистой формы, универсального языка и функциональной серьёзности. Вместо этого он использовал цитату, иронию, историзм, массовую культуру, яркий цвет, искусственные материалы, фасад-знак, staged photography и игру с авторством.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_004",
+      "wording_ru": "Robert Venturi стал одной из ключевых фигур поворота против модернистской чистоты. MoMA связывает его тексты Complexity and Contradiction in Architecture и Learning from Las Vegas с подрывом доминирования International Style в архитектурном дизайне.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_005",
+      "wording_ru": "Цитата может быть точной, искажённой, увеличенной до абсурда или почти спрятанной. В одном случае она работает как уважение к истории, в другом — как пародия, в третьем — как способ показать, что современность построена из чужих фрагментов.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_006",
+      "wording_ru": "Ирония делает объект двуслойным. Он продолжает выполнять функцию, но одновременно комментирует саму идею функции, хорошего вкуса, классики, статуса или дизайна. Именно поэтому постмодернизм часто раздражает: он не даёт смотреть на вещь невинно.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_007",
+      "wording_ru": "Фасад больше не обязан быть честной диаграммой конструкции. Он может быть экраном, обложкой, афишей или городским сообщением. Это не всегда делает здание лучше, но меняет вопрос: архитектура снова становится читаемой культурной поверхностью.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_008",
+      "wording_ru": "Carlton Ettore Sottsass 1981 года стал иконой Memphis. Memphis Milano описывает его как объект, который выражает желание группы нарушать правила хорошего дизайна; The Met подчёркивает, что он совмещает перегородку, книжный шкаф и комод, ставя под вопрос привычные формы мебели.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_009",
+      "wording_ru": "Carlton Ettore Sottsass 1981 года стал иконой Memphis. Memphis Milano описывает его как объект, который выражает желание группы нарушать правила хорошего дизайна; The Met подчёркивает, что он совмещает перегородку, книжный шкаф и комод, ставя под вопрос привычные формы мебели.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_010",
+      "wording_ru": "Эта пара помогает читать не только архитектуру, но и retail, выставки, упаковку и digital-интерфейсы. Одни объекты кричат формой, другие работают как нейтральный носитель, на который нанесён смысл. Постмодернизм умеет использовать оба режима.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_011",
+      "wording_ru": "Постмодернизм появляется не в пустоте, а на руинах большой уверенности. Он не всегда предлагает устойчивую замену, зато резко показывает, что стиль, история и массовая культура уже невозможно разделить чистыми перегородками.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_012",
+      "wording_ru": "Постмодернизм умеет превращать бытовой предмет в персонажа. Чайник Michael Graves 9093 для Alessi показывает, как кухня может стать сценой для цвета, юмора, зооморфной детали и архитектурного силуэта. Design Museum отмечает его массовый успех, а Alessi описывает изделие как икону современного дизайна с pop и postmodern языком.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_013",
+      "wording_ru": "Поэтому постмодернистский историзм часто выглядит искусственно. Именно в этом его смысл: он показывает не «подлинную» традицию, а современную работу с образом традиции. История становится библиотекой форм, из которой берут не только правила, но и интонации.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_014",
+      "wording_ru": "Работы Comme des Garçons и Rei Kawakubo важны именно этим сдвигом. The Met пишет, что некоторые её коллекции вызывали споры и вдохновляли коллег, буквально бросая вызов форме моды.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_015",
+      "wording_ru": "Постмодернистский высотный фасад говорит не только о капитале и технологии, но и о маске. Он признаёт, что город читает здания издалека: как логотипы, профили, силуэты и культурные намёки.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_018",
+      "wording_ru": "Это не означает отказ от качества. Скорее меняется критерий: ценность может быть не в редком материале, а в культурной точности поверхности. Дешёвый на вид материал может работать как сложный знак, если он поставлен в правильный контекст.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_019",
+      "wording_ru": "Здесь важны не только декоративность и хаос. Постмодернистская графика показывает, что сообщение никогда не приходит чистым: его формируют медиа, типография, контекст, субкультура, архив и способ печати.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_020",
+      "wording_ru": "В такой графике ошибка, низкое разрешение или технологический след могут стать стилем. Это важный урок для современного AI- и digital-визуала: след инструмента не всегда нужно удалять, иногда именно он показывает эпоху.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_022",
+      "wording_ru": "Для дизайнера это опасная, но важная зона. Цитата требует понимания источника, права, культурной чувствительности и новой позиции. Без этого постмодернистский метод превращается в поверхностный мудборд.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_025",
+      "wording_ru": "Но здесь же появляется главный риск: постмодернистская насыщенность быстро превращается в декорацию без мысли. Сильный интерьер не просто добавляет арки и яркие цвета, а точно решает, какой культурный сценарий получает покупатель.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_026",
+      "wording_ru": "Для VANSMITHLAB это важная линия: движение становится не только художественным направлением, а атмосферой медиа. Постмодернистский образ умеет быть одновременно умным, коммерческим, ироничным и очень зрелищным.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_027",
+      "wording_ru": "Это особенно заметно в моде и предметном дизайне. Роскошь перестаёт быть только тихой, ремесленной и наследной. Она может быть яркой, умной, дерзкой, почти плохого вкуса — если этот «плохой вкус» поставлен с достаточной точностью.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_028",
+      "wording_ru": "Другие признаки: ирония, симметрия как цитата, нарочитый декор, необычная типографика, использование ready-made образов, коллажность, театральность, искусственная поверхность и удовольствие от того, что объект слишком явно «говорит».",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_029",
+      "wording_ru": "Оба направления спорят с модернистской ясностью, но их интонации различны. Постмодернизм может смеяться, цитировать и украшать; деконструктивизм чаще тревожит, разрезает и смещает.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_030",
+      "wording_ru": "Но сильный постмодернизм не пуст. Он показывает, что любой стиль уже связан с властью, памятью, рынком и медиа. Его слабость начинается не с игры, а с плохой игры: когда объект притворяется умным, но ничего не раскрывает.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_d09ebd71f6db1bf5",
+      "title": "What is Postmodernism?",
+      "url": "https://www.vam.ac.uk/articles/what-is-postmodernism",
+      "publisher": "Victoria and Albert Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_3775dc5a0e372fea",
+      "title": "Postmodernism — Explore the Collections",
+      "url": "https://www.vam.ac.uk/collections/postmodernism/",
+      "publisher": "Victoria and Albert Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_92fbb5901279595b",
+      "title": "Postmodernism",
+      "url": "https://www.tate.org.uk/art/art-terms/p/postmodernism",
+      "publisher": "Tate",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_f9147c40002d8909",
+      "title": "Venturi and Rauch, Robert Venturi, John Rauch, Denise Scott Brown. House, Northern Delaware, Preliminary study of west elevation. 1978",
+      "url": "https://www.moma.org/collection/works/211",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_7ba9d9c562058eb5",
+      "title": "Learning from Las Vegas",
+      "url": "https://mitpress.mit.edu/9780262720069/learning-from-las-vegas/",
+      "publisher": "The MIT Press",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_f832a72152a8d9bd",
+      "title": "The Portland Building",
+      "url": "https://michaelgraves.com/legacy-project/the-portland-building/",
+      "publisher": "Michael Graves Architecture & Design",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_4427b4ba908e6145",
+      "title": "Memphis Group: awful or awesome?",
+      "url": "https://designmuseum.org/discover-design/all-stories/memphis-group-awful-or-awesome",
+      "publisher": "Design Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_b5cea1c8f7167a32",
+      "title": "Carlton",
+      "url": "https://memphis.it/en/products/carlton/",
+      "publisher": "Memphis Milano",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_56bc8703c5a9f8b2",
+      "title": "Ettore Sottsass — Carlton Room Divider",
+      "url": "https://www.metmuseum.org/art/collection/search/486989",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_79e2cafe2039ef8e",
+      "title": "Cindy Sherman. Untitled Film Still #1. 1977",
+      "url": "https://www.moma.org/collection/works/56510",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_d27596fd6a903574",
+      "title": "Cindy Sherman",
+      "url": "https://www.moma.org/collection/artists/5392",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_9c405e253303e7cc",
+      "title": "Alessi 9093 Teakettle",
+      "url": "https://designmuseum.org/discover-design/all-design-objects/alessi-9093-teakettle",
+      "publisher": "Design Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_5e30909bf7b7db00",
+      "title": "Tea Rex Kettle Designed By Michael Graves",
+      "url": "https://us.alessi.com/products/tea-rex-kettle",
+      "publisher": "Alessi",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_c7a4599eeeda0a4d",
+      "title": "Comme des Garçons — Dress",
+      "url": "https://www.metmuseum.org/art/collection/search/80949",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_f1350fd4eec24e7c",
+      "claim_id": "clm_001",
+      "source_id": "src_d09ebd71f6db1bf5",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_187c1266592a4af6",
+      "claim_id": "clm_002",
+      "source_id": "src_3775dc5a0e372fea",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_ed3fa00aae844ab4",
+      "claim_id": "clm_003",
+      "source_id": "src_92fbb5901279595b",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_0ddae577575a478e",
+      "claim_id": "clm_004",
+      "source_id": "src_f9147c40002d8909",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_0cb2f8eddb33417d",
+      "claim_id": "clm_005",
+      "source_id": "src_7ba9d9c562058eb5",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_b6209a23cb134e8e",
+      "claim_id": "clm_006",
+      "source_id": "src_f832a72152a8d9bd",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_18d2e52748ae4758",
+      "claim_id": "clm_007",
+      "source_id": "src_4427b4ba908e6145",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_e4c30e0c59884f6b",
+      "claim_id": "clm_008",
+      "source_id": "src_b5cea1c8f7167a32",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_1682e4f8f6204e81",
+      "claim_id": "clm_009",
+      "source_id": "src_56bc8703c5a9f8b2",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_82c1c058dcf04ffd",
+      "claim_id": "clm_010",
+      "source_id": "src_79e2cafe2039ef8e",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_7106d4edf209419d",
+      "claim_id": "clm_011",
+      "source_id": "src_d27596fd6a903574",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_948ae36f434743f1",
+      "claim_id": "clm_012",
+      "source_id": "src_9c405e253303e7cc",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_a3d6ca3d9bc44ee7",
+      "claim_id": "clm_013",
+      "source_id": "src_5e30909bf7b7db00",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_ad3b8c968afa42a7",
+      "claim_id": "clm_014",
+      "source_id": "src_c7a4599eeeda0a4d",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_4a9e7906f1b646d9",
+      "claim_id": "clm_015",
+      "source_id": "src_d09ebd71f6db1bf5",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_8111274771f047a9",
+      "claim_id": "clm_018",
+      "source_id": "src_f9147c40002d8909",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_f4346b4be49b4e87",
+      "claim_id": "clm_019",
+      "source_id": "src_7ba9d9c562058eb5",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_a555c3c171d047ed",
+      "claim_id": "clm_020",
+      "source_id": "src_f832a72152a8d9bd",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_14ff4fb61abe4f0c",
+      "claim_id": "clm_022",
+      "source_id": "src_b5cea1c8f7167a32",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_14086a34ba3e42a4",
+      "claim_id": "clm_025",
+      "source_id": "src_d27596fd6a903574",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_b21b5facf59e401a",
+      "claim_id": "clm_026",
+      "source_id": "src_9c405e253303e7cc",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_825c5e6738eb4938",
+      "claim_id": "clm_027",
+      "source_id": "src_5e30909bf7b7db00",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_4336baea433342f5",
+      "claim_id": "clm_028",
+      "source_id": "src_c7a4599eeeda0a4d",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_fc44951f4c194eb4",
+      "claim_id": "clm_029",
+      "source_id": "src_d09ebd71f6db1bf5",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_864a577931a54969",
+      "claim_id": "clm_030",
+      "source_id": "src_3775dc5a0e372fea",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "PUBLISH",
+    "note": "RU/EN pair passed structural and source validation; knowledge object derived from the editorial DOCX claim map.",
+    "converted_by": "Codex publication workflow",
+    "converted_at": "2026-08-11T00:00:00.000Z"
+  }
+}

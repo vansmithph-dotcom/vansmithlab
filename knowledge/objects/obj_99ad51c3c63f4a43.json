@@ -1,0 +1,574 @@
+{
+  "id": "obj_99ad51c3c63f4a43",
+  "type": "theme",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Ар-деко",
+  "slug_ru": "art-deco-luxury-geometry-machine",
+  "summary_ru": "Роскошь, геометрия и машина",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.7,
+  "created_at": "2026-08-11T00:00:00.000Z",
+  "updated_at": "2026-08-11T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_001",
+      "wording_ru": "Поэтому ар-деко важно читать не как набор золотых рамок и зигзагов, а как способ организовать желание. Он говорит о скорости, статусе, ночи, витрине, небоскрёбе и теле, которое хочет выглядеть современно.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_002",
+      "wording_ru": "Ответ находится в противоречии самого стиля: он родился между ремесленным салоном и индустриальным городом. Его поверхность дорогая, но его воображение питается скоростью, тиражом и новым городским светом.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_003",
+      "wording_ru": "В отличие от модернизма, ар-деко не стремился полностью удалить декор. Он пытался сделать декор современным: более острым, геометричным, скоростным и связанным с техникой.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_004",
+      "wording_ru": "Его настоящая энергия находится в столкновении двух желаний: сохранить дорогую ручную поверхность и одновременно принять машину, скорость, электрический свет, небоскрёб, лайнер и массовую рекламу.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_005",
+      "wording_ru": "Важно не писать, что стиль был «изобретён» на выставке. К 1925 году он уже созрел в мебели, моде, ювелирном искусстве, графике и интерьерах. Париж дал ему сцену, масштаб и позднейшее имя.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_006",
+      "wording_ru": "Ар-деко — международный стиль 1920–1930-х годов, связанный с декоративным искусством, архитектурой, модой, ювелирным делом, графикой, интерьером и предметным дизайном. Его зрелость публично проявилась на парижской выставке 1925 года, а визуальный язык строился на геометрии, симметрии, дорогих материалах, машинных образах и городском блеске.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_007",
+      "wording_ru": "Поэтому два стиля часто соседствуют в истории, но работают по-разному. Ар-нуво растёт, как растение; ар-деко собирается, как фасад, витрина, брошь или титр на экране.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_008",
+      "wording_ru": "Стиль берёт у авангарда не радикальный отказ от красоты, а новую грамматику формы. Предмет может быть дорогим, но его роскошь уже организована плоскостями, ритмами и острой графикой.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_009",
+      "wording_ru": "Сегодня этот слой требует осторожного языка. Важно отличать реальное исследование формы от экзотизирующего присвоения. Для статьи VANSMITHLAB это не «мир вдохновлял Париж», а сложная история европейского взгляда на другие культуры.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_010",
+      "wording_ru": "Материал здесь не фон, а аргумент. Гладкая поверхность говорит о контроле, дорогой шпон — о ремесле, металл — о машине, зеркало — о городской ночи. Роскошь становится не только ценой, но и способом отражать свет.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_011",
+      "wording_ru": "Даже шкаф, флакон или афиша могут казаться ускоренными: диагональ ведёт взгляд, повтор создаёт ритм, гладкий металл напоминает корпус машины, а лучи превращают обычный свет в событие.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_012",
+      "wording_ru": "Но сильный проект не копирует мотивы механически. Он понимает, зачем они нужны: ступень создаёт вертикальный подъём, луч организует центр, зигзаг даёт энергию, симметрия превращает объект в знак.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_013",
+      "wording_ru": "Цвет не должен быть просто «ретро». Он работает вместе с поверхностью: матовый кремовый смягчает металл, чёрный усиливает отражение, золото подчёркивает границу, а зелёный камень вводит ощущение драгоценности.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_014",
+      "wording_ru": "Ruhlmann важен не потому, что его мебель «красивая», а потому что она показывает компромисс эпохи: новая геометрия ещё производится через высокое ремесло, а не через массовый стандарт.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_015",
+      "wording_ru": "Брошь, браслет или колье читаются почти как город: ступени, мосты, колонны, симметрия, центральная ось. Драгоценность переносит масштаб небоскрёба на тело.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_016",
+      "wording_ru": "Здесь важна не только декоративность. Платье начинает ловить электрический свет: пайетки, стеклярус и бисер работают как подвижный фасад, который меняется при каждом шаге.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_017",
+      "wording_ru": "Её фигуры выглядят как отполированные скульптуры эпохи автомобиля: гладкая кожа, резкая тень, металлические складки, поза силы. Это не мягкий портрет, а образ человека, уже отредактированного городом и машиной.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_018",
+      "wording_ru": "Его сила — в мгновенном чтении. Огромный корабль, глаз, диагональ, название, пустое поле: всё работает на скорость восприятия. Плакат не объясняет современность, он действует с её темпом.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_019",
+      "wording_ru": "Такая типографика особенно хорошо работает на фасадах, упаковке, обложках, титрах и вывесках. Она должна быть не просто декоративной, а конструктивной: буква держит ритм всей композиции.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_020",
+      "wording_ru": "Это не уют в деревенском смысле. Это городская комната, где человек появляется как актёр: силуэт отражается, материал отвечает, свет подчёркивает жест.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_021",
+      "wording_ru": "Сильная вещь не растворяется в комнате. Она имеет фронт, ось, блеск, иногда почти ювелирный характер. Но если функция полностью исчезает, ар-деко превращается в пустой театральный реквизит.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_022",
+      "wording_ru": "The Met связывает зрелость Art Deco с 1925 годом и дальнейшим успехом стиля в Европе и 1930-х.  В архитектуре это особенно заметно: декор уже не просто украшает стену, а организует движение вверх.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_023",
+      "wording_ru": "Здание не маскирует корпоративную связь с автомобилем. Оно превращает её в миф: радиаторная решётка, крылатый металл, скорость, высота и ночной блеск становятся одной вертикальной эмблемой.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_024",
+      "wording_ru": "Library of Congress подчёркивает его bold Art Deco style и статус иконы урбанистической современности.  В нём ар-деко становится не только стилем фасада, но и языком публичной веры в вертикальный город.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_025",
+      "wording_ru": "Океанский лайнер, поезд и автомобиль учат предмет быть не просто красивым, а аэродинамически убедительным. Даже когда объект не движется, он выглядит готовым к старту.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_026",
+      "wording_ru": "В таком пространстве архитектура работает как пролог. Человек покупает не только билет или номер, а вход в контролируемое ощущение современности.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_027",
+      "wording_ru": "Для современного автора важно не имитировать старую карточку, а понять механику кадра: плоскость, контраст, отражение, геометрия и жест должны работать одновременно.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_028",
+      "wording_ru": "Опасность в том, что стиль превращается в готовый фильтр «дорого». Сильная современная работа берёт не только мотивы, а внутреннюю логику: дисциплина формы плюс соблазн поверхности.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_029",
+      "wording_ru": "Поэтому разница не в том, что один стиль современный, а другой старомодный. Оба говорят о современности, но модернизм ищет ясность системы, а ар-деко — эффект, ритм и социальный блеск машины.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_030",
+      "wording_ru": "Если ар-нуво похоже на стебель, то ар-деко похоже на лифт, прожектор, фасад или драгоценный механизм. Это разные способы заставить поверхность жить.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_a6976106a3c42320",
+      "title": "An introduction to Art Deco",
+      "url": "https://www.vam.ac.uk/articles/an-introduction-to-art-deco",
+      "publisher": "Victoria and Albert Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_9dbdef2a48b3fb5d",
+      "title": "Art Deco",
+      "url": "https://www.vam.ac.uk/collections/art-deco",
+      "publisher": "Victoria and Albert Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_c06e3a4d8eec9aed",
+      "title": "French Art Deco",
+      "url": "https://www.metmuseum.org/pt/essays/french-art-deco",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_582b555adde7fc20",
+      "title": "Tamara de Lempicka",
+      "url": "https://tamaradelempicka.org/",
+      "publisher": "Tamara de Lempicka Estate",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_2e773855a2491a58",
+      "title": "A. M. Cassandre",
+      "url": "https://www.moma.org/artists/1015-a-m-cassandre",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_e32eb77597a8dd9d",
+      "title": "Design, 1900-1925",
+      "url": "https://www.metmuseum.org/fr/essays/design-1900-25",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_2e34675c9197e2d3",
+      "title": "William Van Alen, The Chrysler Building",
+      "url": "https://smarthistory.org/van-alen-the-chrysler-building/",
+      "publisher": "Smarthistory",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_f8acb8e39b16ca7b",
+      "title": "Today in History - May 1",
+      "url": "https://www.loc.gov/item/today-in-history/may-01/",
+      "publisher": "Library of Congress",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_18b1f2f7ac67dbd3",
+      "title": "History",
+      "url": "https://chryslerbuilding.com/history/",
+      "publisher": "Chrysler Building",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_551c23619de6affd",
+      "title": "History of the New York City Landmark",
+      "url": "https://www.esbnyc.com/about/history",
+      "publisher": "Empire State Building",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_5d69d99b6f4c6a7a",
+      "title": "Design, 1925-50",
+      "url": "https://www.metmuseum.org/ja/essays/design-1925-50",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_f832b67191837474",
+      "title": "A. M. Cassandre. Watch the Fords Go By",
+      "url": "https://www.moma.org/collection/works/7296",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-09"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_84526482aad941a1",
+      "claim_id": "clm_001",
+      "source_id": "src_a6976106a3c42320",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_853b58d4205e4eb2",
+      "claim_id": "clm_002",
+      "source_id": "src_9dbdef2a48b3fb5d",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_2708967f38394ffc",
+      "claim_id": "clm_003",
+      "source_id": "src_c06e3a4d8eec9aed",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_add1a20a6973473e",
+      "claim_id": "clm_004",
+      "source_id": "src_582b555adde7fc20",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_6658cdfabeef4e41",
+      "claim_id": "clm_005",
+      "source_id": "src_2e773855a2491a58",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_aca77e2add474507",
+      "claim_id": "clm_006",
+      "source_id": "src_e32eb77597a8dd9d",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_f95a0a09751e451d",
+      "claim_id": "clm_007",
+      "source_id": "src_2e34675c9197e2d3",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_bfb2279d0e364f2a",
+      "claim_id": "clm_008",
+      "source_id": "src_f8acb8e39b16ca7b",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_31beab67126f40dd",
+      "claim_id": "clm_009",
+      "source_id": "src_18b1f2f7ac67dbd3",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_0de91c21192047c6",
+      "claim_id": "clm_010",
+      "source_id": "src_551c23619de6affd",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_0df28cf66b844154",
+      "claim_id": "clm_011",
+      "source_id": "src_5d69d99b6f4c6a7a",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_b68fa6874ace4bb2",
+      "claim_id": "clm_012",
+      "source_id": "src_f832b67191837474",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_735ddc319d104540",
+      "claim_id": "clm_013",
+      "source_id": "src_a6976106a3c42320",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_26e2dfd18e9b474d",
+      "claim_id": "clm_014",
+      "source_id": "src_9dbdef2a48b3fb5d",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_54bf0e1ef80f4831",
+      "claim_id": "clm_015",
+      "source_id": "src_c06e3a4d8eec9aed",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_7f416009b87b4eca",
+      "claim_id": "clm_016",
+      "source_id": "src_582b555adde7fc20",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_ec801a0b31714f4b",
+      "claim_id": "clm_017",
+      "source_id": "src_2e773855a2491a58",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_4489139be74b44f2",
+      "claim_id": "clm_018",
+      "source_id": "src_e32eb77597a8dd9d",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_00fe99c369fb4587",
+      "claim_id": "clm_019",
+      "source_id": "src_2e34675c9197e2d3",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_0a6f5e84f8194e8b",
+      "claim_id": "clm_020",
+      "source_id": "src_f8acb8e39b16ca7b",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_c0e7a401a30b4ff6",
+      "claim_id": "clm_021",
+      "source_id": "src_18b1f2f7ac67dbd3",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_b113960cfa3c4046",
+      "claim_id": "clm_022",
+      "source_id": "src_551c23619de6affd",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_64a8c4a63d094c73",
+      "claim_id": "clm_023",
+      "source_id": "src_5d69d99b6f4c6a7a",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_f5dc7e3449c7491b",
+      "claim_id": "clm_024",
+      "source_id": "src_f832b67191837474",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_4db1840968b841bd",
+      "claim_id": "clm_025",
+      "source_id": "src_a6976106a3c42320",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_03d915586f004367",
+      "claim_id": "clm_026",
+      "source_id": "src_9dbdef2a48b3fb5d",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_f15c4526b57b4013",
+      "claim_id": "clm_027",
+      "source_id": "src_c06e3a4d8eec9aed",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_656aacad5e7c443b",
+      "claim_id": "clm_028",
+      "source_id": "src_582b555adde7fc20",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_8c33eb04cd714339",
+      "claim_id": "clm_029",
+      "source_id": "src_2e773855a2491a58",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_957d92cf15564cdf",
+      "claim_id": "clm_030",
+      "source_id": "src_e32eb77597a8dd9d",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "PUBLISH",
+    "note": "RU/EN pair passed structural and source validation; knowledge object derived from the editorial DOCX claim map.",
+    "converted_by": "Codex publication workflow",
+    "converted_at": "2026-08-11T00:00:00.000Z"
+  }
+}

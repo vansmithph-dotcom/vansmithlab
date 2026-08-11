@@ -1,0 +1,589 @@
+{
+  "id": "obj_d2b5c31268384031",
+  "type": "theme",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Оп-арт",
+  "slug_ru": "op-art-optical-illusion-rhythm-movement-of-gaze",
+  "summary_ru": "Оптическая иллюзия, ритм и движение взгляда",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.7,
+  "created_at": "2026-08-11T00:00:00.000Z",
+  "updated_at": "2026-08-11T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_op_001",
+      "wording_ru": "Оп-арт делает с изображением то, что хороший фокусник делает с монетой: показывает плоскую поверхность, а глаз вдруг видит движение, глубину и дрожание. Это не украшение из полосок, а точная игра восприятия, где контраст, повтор и ритм заставляют зрителя стать частью работы.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_001",
+      "wording_ru": "Оп-арт делает с изображением то, что хороший фокусник делает с монетой: показывает плоскую поверхность, а глаз вдруг видит движение, глубину и дрожание. Это не украшение из полосок, а точная игра восприятия, где контраст, повтор и ритм заставляют зрителя стать частью работы.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_002",
+      "wording_ru": "Почему неподвижная картина может казаться движущейся, а простая сетка — почти физически вибрировать перед глазами?.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_op_002",
+      "wording_ru": "Оп-арт, или optical art, использует геометрию, контраст, повтор, цветовые взаимодействия и ошибки человеческого зрения. В 1960-е он стал особенно заметен благодаря художникам вроде Bridget Riley и Victor Vasarely, выставке The Responsive Eye в MoMA и быстрому переходу оптических мотивов в моду, графику, витрины и массовую культуру.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_op_003",
+      "wording_ru": "В 1960-е оп-арт совпал с культурой телевизора, рекламы, космической гонки, новой моды и ярких городских витрин. Картина уже не хотела быть тихим окном в стене. Она стала вести себя как сигнал: резкий, быстрый, тиражируемый и очень фотогеничный.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_004",
+      "wording_ru": "Глаз кажется нам надёжной камерой, но на самом деле он постоянно договаривается с мозгом: где край, где глубина, что движется, а что просто повторяется. Оп-арт пользуется этой договорённостью. Он кладёт перед нами полосы, клетки, волны и контрастные пятна, а мозг сам включает «анимацию». Это почти интерактивное искусство до эпохи интерактивных экранов.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_op_004",
+      "wording_ru": "Выставка The Responsive Eye в MoMA в 1965 году стала одной из ключевых точек публичного успеха оп-арта. Само название звучит почти как инструкция: реагирует не только картина, реагирует глаз. Зритель обнаруживал, что музейная работа может вызывать не созерцание, а настоящий сенсорный эффект.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_005",
+      "wording_ru": "Оп-арт не обязан изображать предмет. Его настоящий сюжет — не яблоко, не дом и не портрет, а сам процесс зрения. Картина говорит: посмотри, как ты смотришь. Именно поэтому движение кажется современным даже спустя десятилетия: оно работает не с модой на форму, а с устройством восприятия.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_op_005",
+      "wording_ru": "Bridget Riley показала, что линия может быть спокойной только на бумаге. В её работах изгиб, повтор и контраст превращают плоскость в волну. Важный момент: это не иллюстрация движения, а производство движения внутри зрительского восприятия. Поэтому её картины лучше не «читать», а испытывать глазами.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_006",
+      "wording_ru": "Чёрно-белая палитра в оп-арте — это не бедность цвета, а максимальная громкость. Когда рядом стоят чёрная и белая линии, глаз получает сильный сигнал и начинает искать границу. Если таких границ сотни, изображение начинает пульсировать. Самый простой набор средств превращается в почти физическое ощущение.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_op_006",
+      "wording_ru": "Работа Current 1964 года хорошо объясняет силу Riley: перед нами статичная поверхность, но она ведёт себя как течение. MoMA связывает эту работу с выставкой The Responsive Eye и становлением Op art как стиля, использующего оптические эффекты паттерна и контраста.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_007",
+      "wording_ru": "Повтор в оп-арте работает как ритм в музыке. Одна линия — это нота. Десять линий — мотив. Сотня линий с лёгким изгибом — уже визуальный барабан, который заставляет взгляд двигаться по поверхности. Поэтому хороший оп-арт не просто «состоит из паттерна»; он ведёт глаз как партитура.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_op_007",
+      "wording_ru": "Victor Vasarely часто воспринимается как архитектор оптической вселенной. Его модульные сетки, псевдообъёмы и цветовые переходы выглядят так, будто изображение можно собрать по системе, как фасад или интерфейс. Он важен для понимания оп-арта как языка, близкого дизайну, программированию и серийному производству.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_op_008",
+      "wording_ru": "Josef Albers не делал оп-арт в узком смысле, но его исследования взаимодействия цвета помогают понять, почему соседство оттенков меняет восприятие. Один и тот же цвет может казаться теплее, холоднее, ближе или дальше в зависимости от окружения. Для оп-арта это почти инструкция по управлению зрительским зрением.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_op_009",
+      "wording_ru": "Мода 1960-х быстро поняла, что оп-арт идеально работает на теле. Платье стало не просто одеждой, а движущимся плакатом: человек идёт, ткань меняет угол, паттерн начинает жить. В этом смысле оп-арт в моде не висит на стене — он выходит на улицу и сам становится событием.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_op_010",
+      "wording_ru": "V&A фиксирует, что аксессуары 1960-х участвовали в создании ультрасовременного образа, а Mary Quant популяризировала patterned tights с Op Art designs. Бумажные платья и графичные украшения тоже превращали тело в поверхность быстрой визуальной коммуникации.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_014",
+      "wording_ru": "Когда оп-арт выходит из чёрно-белого режима, иллюзия становится сложнее. Цвет уже не просто украшает форму, а спорит с ней: красный выталкивает, синий отступает, жёлтый начинает светиться, зелёный может стабилизировать или, наоборот, раскачать композицию. Цвет делает оптический эффект эмоциональным.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_017",
+      "wording_ru": "В графическом дизайне оп-арт работает как магнит. Он может остановить взгляд раньше, чем человек прочитает слово. Но здесь есть ловушка: если вся страница кричит, текст исчезает. Хороший оп-арт-постер умеет дозировать вибрацию: один сильный визуальный удар и достаточно воздуха, чтобы сообщение не утонуло.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_018",
+      "wording_ru": "Предметный дизайн использует оп-арт, когда объекту нужна не скульптурная сложность, а активная кожа. Простая коробка, флакон, упаковка или подиум могут стать динамичными только за счёт поверхности. Но это честная магия: форма остаётся простой, а всё движение происходит в рисунке.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_019",
+      "wording_ru": "В интерьере оп-арт особенно силён на плоскостях: ковёр, пол, ширма, стена, занавес, панель за объектом. Он может расширить комнату, сломать перспективу или сделать небольшую зону запоминающейся. Главное — не превращать весь интерьер в глазной тест. Оп-арту нужна сцена, а не хаос.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_020",
+      "wording_ru": "Архитектура использует оптическую логику осторожнее. Фасад с повторяющимися ламелями, сеткой или контрастными панелями может менять вид при движении прохожего. Здание как будто оживает без экрана: просто потому, что человек идёт, а ритм фасада меняется относительно его взгляда.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_021",
+      "wording_ru": "Витрина любит оп-арт за мгновенный эффект. Человек идёт мимо, и вдруг пол «плывёт», задник вибрирует, товар кажется в центре маленького визуального торнадо. Это работает особенно хорошо для очков, украшений, обуви, парфюма и всего, где нужен быстрый stop effect.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_022",
+      "wording_ru": "Фотография может перевести оп-арт из плоскости на тело. Полосатый свет, проекция, сетка, тень от жалюзи, ткань с высокой контрастностью — всё это создаёт напряжение между кожей, одеждой и фоном. В fashion-съёмке оп-арт может дать кадру энергию без сложной декорации.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_023",
+      "wording_ru": "Кино и видео только усиливают то, что оп-арт уже умел делать на бумаге. Камера двигается, паттерн меняет масштаб, линии дают муар, а статичная графика превращается в тревожный пульс. Иногда это красиво, иногда опасно для восприятия, поэтому движение и частота должны быть контролируемыми.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_024",
+      "wording_ru": "Оп-арт опасен, когда автор путает эффект с смыслом. Слишком плотный паттерн утомляет, плохой контраст превращает работу в визуальный шум, а случайная спираль быстро скатывается в дешёвую «гипнотизацию». Хороший оп-арт точен: он знает, где остановиться.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_025",
+      "wording_ru": "Просто геометрический паттерн повторяет форму. Оп-арт заставляет форму вести себя странно. Если изображение создаёт ощущение движения, глубины, мерцания, нестабильной границы или пространственного сдвига — перед нами уже оптическая стратегия, а не просто орнамент.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_026",
+      "wording_ru": "Три главных инструмента оп-арта — контраст, повтор и микросдвиг. Контраст включает зрение. Повтор создаёт ритм. Микросдвиг ломает спокойствие и заставляет мозг искать новую стабильность. Вместе они производят эффект: плоскость остаётся плоскостью, но глаз перестаёт ей верить.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_027",
+      "wording_ru": "Плотность — главный регулятор оп-арта. Слишком редко — и эффект исчезает. Слишком часто — и зритель устаёт. Самые сильные работы держатся на границе: ещё читаемо, но уже нестабильно; ещё красиво, но уже немного опасно. Именно эта граница делает стиль живым.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_028",
+      "wording_ru": "В luxury-визуальности оп-арт даёт редкую возможность совместить строгость и шоу. Чёрно-белый ритм может сделать ювелирный объект холоднее и дороже, цветная иллюзия — энергичнее, а оптический фон — почти музейной сценой. Но товар должен оставаться главным, иначе паттерн украдёт весь кадр.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_029",
+      "wording_ru": "На экране оп-арт чувствует себя дома. Пиксели, сетки, частота обновления, скролл, интерактивные курсоры — всё это естественная среда для оптических эффектов. В digital-дизайне он может оживить заставку, айдентику или промо-страницу, но требует теста на читаемость и комфорт.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_030",
+      "wording_ru": "Для AI-визуалов оп-арт нужно промптить не словом psychedelic, а конструктивно: контрастные волны, controlled optical vibration, precise black-and-white stripe field, modular geometric depth, clean gallery lighting. Тогда получится визуальная система, а не случайный шум из спиралей.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_ffafce73c570d82e",
+      "title": "Op art",
+      "url": "https://www.moma.org/collection/terms/op-art",
+      "publisher": "MoMA",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_4ab44953af40219d",
+      "title": "The Responsive Eye",
+      "url": "https://www.moma.org/interactives/moma_through_time/1960/the-responsive-eye/",
+      "publisher": "MoMA",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_2d1fedd0ea0bba6a",
+      "title": "Bridget Riley. Current. 1964",
+      "url": "https://www.moma.org/collection/works/79998",
+      "publisher": "MoMA",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_900c08cc982dab58",
+      "title": "Op Art",
+      "url": "https://www.tate.org.uk/art/art-terms/o/op-art",
+      "publisher": "Tate",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_29738ebca968f4a3",
+      "title": "Op art",
+      "url": "https://www.nationalgalleries.org/art-and-artists/glossary-terms/op-art",
+      "publisher": "National Galleries of Scotland",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_8314b80923dd6d15",
+      "title": "An introduction to 1960s fashion",
+      "url": "https://www.vam.ac.uk/articles/an-introduction-to-1960s-fashion",
+      "publisher": "Victoria and Albert Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_d67252846b227ea6",
+      "title": "1960s accessories",
+      "url": "https://www.vam.ac.uk/articles/1960s-accessories",
+      "publisher": "Victoria and Albert Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_12b764a9a343cb3a",
+      "title": "Paper dresses",
+      "url": "https://www.vam.ac.uk/articles/paper-dresses",
+      "publisher": "Victoria and Albert Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_d515ae976897bbf4",
+      "title": "Victor Vasarely",
+      "url": "https://www.guggenheim.org/artwork/artist/victor-vasarely",
+      "publisher": "Guggenheim",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_20c329fefa2101e3",
+      "title": "Josef Albers. The Interaction of Color",
+      "url": "https://yalebooks.yale.edu/book/9780300179354/interaction-of-color/",
+      "publisher": "Yale University Press",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_d6e6179babb184fd",
+      "title": "Bridget Riley",
+      "url": "https://www.nationalgalleries.org/art-and-artists/artists/bridget-riley",
+      "publisher": "National Galleries of Scotland",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_103ea2c818aa788f",
+      "title": "Carlos Cruz-Diez",
+      "url": "https://www.mfah.org/art/artists/carlos-cruz-diez",
+      "publisher": "Museum of Fine Arts Houston",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_3b42f1a0dc774c61",
+      "claim_id": "clm_op_001",
+      "source_id": "src_ffafce73c570d82e",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_50a3c2d50ed94d6d",
+      "claim_id": "clm_001",
+      "source_id": "src_ffafce73c570d82e",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_b10d8b3739a6441a",
+      "claim_id": "clm_002",
+      "source_id": "src_4ab44953af40219d",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_1ef27a064f034feb",
+      "claim_id": "clm_op_002",
+      "source_id": "src_2d1fedd0ea0bba6a",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_50c18fdad4c0490f",
+      "claim_id": "clm_op_003",
+      "source_id": "src_ffafce73c570d82e",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_07010288d8464822",
+      "claim_id": "clm_004",
+      "source_id": "src_900c08cc982dab58",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_a0390d5c84434f41",
+      "claim_id": "clm_op_004",
+      "source_id": "src_2d1fedd0ea0bba6a",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_a31b97dc7b694532",
+      "claim_id": "clm_005",
+      "source_id": "src_29738ebca968f4a3",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_235e6d481b98422a",
+      "claim_id": "clm_op_005",
+      "source_id": "src_ffafce73c570d82e",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_458f6fde41294a60",
+      "claim_id": "clm_006",
+      "source_id": "src_8314b80923dd6d15",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_083d47a15d774dd9",
+      "claim_id": "clm_op_006",
+      "source_id": "src_2d1fedd0ea0bba6a",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_4a2acca506e44430",
+      "claim_id": "clm_007",
+      "source_id": "src_d67252846b227ea6",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_e222d3357e8b4495",
+      "claim_id": "clm_op_007",
+      "source_id": "src_ffafce73c570d82e",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_4934e7260add4458",
+      "claim_id": "clm_op_008",
+      "source_id": "src_ffafce73c570d82e",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_a338fa191a8d4389",
+      "claim_id": "clm_op_009",
+      "source_id": "src_ffafce73c570d82e",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_f97e2a9530a247f8",
+      "claim_id": "clm_op_010",
+      "source_id": "src_ffafce73c570d82e",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_1997faf849a4409e",
+      "claim_id": "clm_014",
+      "source_id": "src_4ab44953af40219d",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_bde61cd73f5c4981",
+      "claim_id": "clm_017",
+      "source_id": "src_29738ebca968f4a3",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_71b6db2ca94241a6",
+      "claim_id": "clm_018",
+      "source_id": "src_8314b80923dd6d15",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_bf9569c56594438b",
+      "claim_id": "clm_019",
+      "source_id": "src_d67252846b227ea6",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_c1adf7bd890c4845",
+      "claim_id": "clm_020",
+      "source_id": "src_12b764a9a343cb3a",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_1777f237980440de",
+      "claim_id": "clm_021",
+      "source_id": "src_d515ae976897bbf4",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_4be910579c1b407f",
+      "claim_id": "clm_022",
+      "source_id": "src_20c329fefa2101e3",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_33ef3a2c1c4e4d42",
+      "claim_id": "clm_023",
+      "source_id": "src_d6e6179babb184fd",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_52b0b7ce3d95403d",
+      "claim_id": "clm_024",
+      "source_id": "src_103ea2c818aa788f",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_912a5053068a4e61",
+      "claim_id": "clm_025",
+      "source_id": "src_ffafce73c570d82e",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_46ceac5d545f4265",
+      "claim_id": "clm_026",
+      "source_id": "src_4ab44953af40219d",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_b9c6fb8e375547fb",
+      "claim_id": "clm_027",
+      "source_id": "src_2d1fedd0ea0bba6a",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_faf893c6d4974fd6",
+      "claim_id": "clm_028",
+      "source_id": "src_900c08cc982dab58",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_384a2b7c8b2b4313",
+      "claim_id": "clm_029",
+      "source_id": "src_29738ebca968f4a3",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_786f03a2a4d54cee",
+      "claim_id": "clm_030",
+      "source_id": "src_8314b80923dd6d15",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "PUBLISH",
+    "note": "RU/EN pair passed structural and source validation; knowledge object derived from the editorial DOCX claim map.",
+    "converted_by": "Codex publication workflow",
+    "converted_at": "2026-08-11T00:00:00.000Z"
+  }
+}

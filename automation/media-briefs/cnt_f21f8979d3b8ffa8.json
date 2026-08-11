@@ -1,0 +1,37 @@
+{
+  "asset_id": "asset_pop-art-mass-culture-commodity-image_hero_v1",
+  "primary_object_id": "obj_6f3c44ebd099477e",
+  "content_release_id": "cnt_f21f8979d3b8ffa8",
+  "kind": "image",
+  "origin": "ai_illustration",
+  "locale": "multilingual",
+  "educational_purpose": "Visualize Pop Art as mass culture and commodity without reproducing protected artworks or brand packaging.",
+  "may_depict": [
+    "A fictional pop-art still life",
+    "Glossy cylinder and halftone dots",
+    "Red, yellow and blue color fields"
+  ],
+  "must_not_imply": [
+    "The image documents a real building or artwork",
+    "The image is attributable to a named designer or artist",
+    "The image reproduces a protected architectural photograph, drawing, furniture design or artwork"
+  ],
+  "rights": {
+    "state": "generated_reviewed",
+    "disclosure": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "rights_basis": "Original AI illustration generated for VANSMITHLAB without reference images or copied identifiable architecture, artworks or brand assets.",
+    "third_party_marks": "No logo, wordmark or recognisable branded asset."
+  },
+  "accessibility": {
+    "alt_text_ru": "Редакционная AI-иллюстрация движения «Поп-арт»: Товар, цвет и тираж: редакционная визуализация поп-арта.",
+    "alt_text_en": "Editorial AI illustration of the Pop Art movement: Commodity, color and mass reproduction: an editorial visualization of Pop Art.",
+    "caption_ru": "Товар, цвет и тираж: редакционная визуализация поп-арта.",
+    "caption_en": "Commodity, color and mass reproduction: an editorial visualization of Pop Art."
+  },
+  "creator": "OpenAI image generation · directed and reviewed by VANSMITHLAB",
+  "created_at": "2026-08-11",
+  "asset_path": "public/images/encyclopedia/pop-art-mass-culture-commodity-image-hero-v1.webp",
+  "generation_prompt_class": "original fictional editorial visualization of pop-art-mass-culture-commodity-image",
+  "workflow_run_id": "run_20260811_movements_release",
+  "content_sha256": "1ea08b4c10590c7560044858d0658df4507ec56de2c1d0f7bef1bb849c690c68"
+}

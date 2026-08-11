@@ -1,0 +1,37 @@
+{
+  "asset_id": "asset_op-art-optical-illusion-rhythm-movement-of-gaze_hero_v1",
+  "primary_object_id": "obj_d2b5c31268384031",
+  "content_release_id": "cnt_04f67b6aafa27850",
+  "kind": "image",
+  "origin": "ai_illustration",
+  "locale": "multilingual",
+  "educational_purpose": "Visualize Op Art as rhythm and the movement of the gaze without reproducing protected artworks.",
+  "may_depict": [
+    "A fictional optical pattern",
+    "Concentric ripples and kinetic waves",
+    "Black, white and gray vibration"
+  ],
+  "must_not_imply": [
+    "The image documents a real building or artwork",
+    "The image is attributable to a named designer or artist",
+    "The image reproduces a protected architectural photograph, drawing, furniture design or artwork"
+  ],
+  "rights": {
+    "state": "generated_reviewed",
+    "disclosure": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "rights_basis": "Original AI illustration generated for VANSMITHLAB without reference images or copied identifiable architecture, artworks or brand assets.",
+    "third_party_marks": "No logo, wordmark or recognisable branded asset."
+  },
+  "accessibility": {
+    "alt_text_ru": "Редакционная AI-иллюстрация движения «Оп-арт»: Ритм, волна и движение взгляда: редакционная визуализация оп-арта.",
+    "alt_text_en": "Editorial AI illustration of the Op Art movement: Rhythm, wave and the movement of the gaze: an editorial visualization of Op Art.",
+    "caption_ru": "Ритм, волна и движение взгляда: редакционная визуализация оп-арта.",
+    "caption_en": "Rhythm, wave and the movement of the gaze: an editorial visualization of Op Art."
+  },
+  "creator": "OpenAI image generation · directed and reviewed by VANSMITHLAB",
+  "created_at": "2026-08-11",
+  "asset_path": "public/images/encyclopedia/op-art-optical-illusion-rhythm-movement-of-gaze-hero-v1.webp",
+  "generation_prompt_class": "original fictional editorial visualization of op-art-optical-illusion-rhythm-movement-of-gaze",
+  "workflow_run_id": "run_20260811_movements_release",
+  "content_sha256": "6869aebbb5c541dda7220ecedb03ae1d8b362d7b2b9b192f26ea8b63c11348ad"
+}

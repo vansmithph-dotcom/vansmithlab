@@ -1,0 +1,545 @@
+{
+  "id": "obj_5afcead435504bdf",
+  "type": "theme",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Неофутуризм",
+  "slug_ru": "neofuturism-flow-parametrics-image-of-future",
+  "summary_ru": "поток, параметрика и образ будущего",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.7,
+  "created_at": "2026-08-11T00:00:00.000Z",
+  "updated_at": "2026-08-11T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_001",
+      "wording_ru": "Неофутуризм важен не потому, что он выглядит «космически». Его сила в другом: он превращает движение, поток данных, инженерную оболочку, инфраструктуру и цифровое моделирование в язык формы. Там, где модернизм искал ясную функцию, неофутуризм часто ищет сценарий будущего — город как организм, здание как поток, фасад как кожа, объект как ускорение.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_002",
+      "wording_ru": "Почему одни здания, предметы и визуальные кампании выглядят как будущее, даже если они уже построены, опубликованы или устарели технологически?.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_003",
+      "wording_ru": "Исторический футуризм начала XX века воспевал скорость, машину и разрыв с прошлым. Неофутуризм наследует это возбуждение перед новым, но работает уже в другой реальности: компьютерное моделирование, глобальные города, аэропорты, музеи-иконы, брендированные пространства и цифровые изображения стали его естественной средой.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_004",
+      "wording_ru": "Параметрическое проектирование важно не как модное слово, а как способ связать множество условий: геометрию, конструкцию, свет, климат, поток людей, производство деталей. Визуально это даёт сложные повторяющиеся системы, где каждая линия кажется частью алгоритма, а не отдельного жеста.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_005",
+      "wording_ru": "Будущее в неофутуризме не обязательно связано с реальной технологией. Часто это тщательно сконструированный визуальный эффект: линия ускоряется, поверхность течёт, конструкция кажется слишком сложной для ручного чертежа. Форма говорит зрителю: перед нами не прошлое, а проектируемое завтра.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_006",
+      "wording_ru": "Классическая модернистская коробка стоит. Неофутуристическая форма движется даже в неподвижности. Она изгибается, раскрывается, закручивается, ведёт человека по маршруту и создаёт ощущение, что здание продолжает строиться в глазах зрителя.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_007",
+      "wording_ru": "Музей будущего в неофутуристической логике часто становится не нейтральной коробкой для искусства, а самостоятельным медиа-образом. MAXXI Zaha Hadid Architects в Риме описывается как кампус для искусства, где линии стен создают сложный маршрут и пересекающиеся потоки.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_009",
+      "wording_ru": "У Frank Gehry будущее часто появляется не как гладкая скорость, а как фрагментированная оболочка. Цифровые инструменты позволили точно рассчитывать сложные криволинейные поверхности, поэтому здание стало похоже на собранную волну металла, света и отражений.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_011",
+      "wording_ru": "Future Systems работали с капсулой, оболочкой, аэрокосмическим воображением и компактной утопией. Их язык полезен для понимания неофутуризма: будущее может быть не только высоким небоскрёбом, но и маленьким объектом, похожим на устройство для другой жизни.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_012",
+      "wording_ru": "Blob-форма стала одним из узнаваемых признаков позднего цифрового проектирования. Она убирает резкий угол, растворяет классический фасад и превращает здание в объём, который выглядит выращенным, надутым или вытекшим из цифровой среды.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_013",
+      "wording_ru": "Неофутуризм часто заимствует язык транспорта: самолёт, поезд, космический аппарат, гоночный кузов, тоннель. Даже если объект не движется, его поверхность может выглядеть так, будто она рассчитана ветром.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_014",
+      "wording_ru": "Аэропорты, вокзалы, транспортные хабы и культурные центры стали естественными площадками для неофутуризма. Здесь большой поток людей требует ясного маршрута, а город хочет получить новый символ скорости, открытости и глобальности.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_016",
+      "wording_ru": "Материалы неофутуризма работают как оболочка: стекло растворяет границы, металл ловит свет, композиты дают кривизну, бетон становится пластичным. Важен не отдельный материал, а ощущение непрерывной поверхности.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_017",
+      "wording_ru": "Белый цвет часто используется как знак будущего: чистота, медицинская точность, свет, стерильность, космическая нейтральность. Но в сильных проектах белый не плоский: он собирает тени, ребра, изгибы и делает форму читаемой.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_018",
+      "wording_ru": "Неофутуризм не всегда белый и оптимистичный. В тёмной версии он становится языком технологической тревоги: чёрный металл, глянцевая поверхность, глубокие тени, холодный свет и ощущение контролируемой силы.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_019",
+      "wording_ru": "Город в неофутуризме похож на интерфейс. Навигация, фасад, медиаэкран, мост, станция и торговое пространство связываются в единую систему сигналов. Здание не просто стоит в городе, оно ведёт пользователя.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_020",
+      "wording_ru": "Интерьер часто строится как непрерывный маршрут: потолок перетекает в стену, лестница становится скульптурой, стойка регистрации похожа на корпус устройства. Человек внутри неофутуристического пространства не просто находится, а движется по сценарию.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_021",
+      "wording_ru": "В предметном дизайне неофутуризм проявляется через гладкие оболочки, скрытые соединения, аэродинамические силуэты и ощущение технической точности. Объект выглядит так, будто он мог бы поехать, полететь или включиться.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_022",
+      "wording_ru": "В моде неофутуризм превращает тело в архитектурный носитель. Плечи могут стать конструкцией, ткань — оболочкой, обувь — инженерным модулем, а силуэт — линией скорости. Здесь важны не только материалы, но и ощущение надетого будущего.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_023",
+      "wording_ru": "Снимать неофутуризм лучше не фронтально и спокойно, а через маршрут, диагональ, отражение, широкий угол, низкую точку, холодный свет и контроль масштаба. Кадр должен показывать не только объект, но и напряжение движения вокруг него.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_024",
+      "wording_ru": "В графике неофутуризм использует сетку, градиент, цифровую типографику, тонкие линии, технические подписи и динамические композиции. Главная ошибка — заменить систему случайными «кибер» элементами. Сильный неофутуризм всегда структурирован.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_025",
+      "wording_ru": "Motion design усиливает стиль через ускорение, плавные трансформации, раскрытие интерфейса, световые следы и смену масштаба. Движение должно быть не декоративным, а логичным: как будто форма сама объясняет, как она работает.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_026",
+      "wording_ru": "Luxury-сегмент использует неофутуризм для образа превосходства: технологичность, редкость, точность, чистый свет, материал без лишнего шума. Такой визуальный язык хорошо подходит автомобилям, часам, beauty-tech, high jewelry и premium real estate.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_027",
+      "wording_ru": "В retail и experience spaces неофутуризм создаёт не магазин, а маршрут впечатления. Витрина становится порталом, примерочная — капсулой, свет — навигацией, а товар — частью технологической сцены.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_028",
+      "wording_ru": "Азия и Ближний Восток стали важными территориями неофутуристических образов: быстрый рост городов, культурные институции, аэропорты, музеи, башни и новые районы требуют знаков будущего, которые можно читать с воздуха, с экрана и на уровне улицы.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_029",
+      "wording_ru": "Экологический вопрос остаётся сложным. Неофутуризм часто обещает лёгкость, энергоэффективность и умные оболочки, но сложные формы могут требовать дорогого производства, сложного обслуживания и больших ресурсов. Поэтому устойчивость нужно проверять фактами, а не впечатлением.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_030",
+      "wording_ru": "Критика неофутуризма справедлива там, где образ будущего становится дороже смысла. Слишком эффектная форма может плохо стареть, плохо работать, быть сложной в эксплуатации или превращать город в набор отдельных икон без социальной связи.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_275f952a0bc8fb3c",
+      "title": "Neofuturism",
+      "url": "https://www.centrepompidou.fr/en/resources/movement/cBo9p6",
+      "publisher": "Centre Pompidou",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_16687607cd044dd9",
+      "title": "Parametricism: A New Global Style for Architecture and Urban Design",
+      "url": "https://www.patrikschumacher.com/Texts/Parametricism.html",
+      "publisher": "Patrik Schumacher",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_51b9b3f5c5bdc44d",
+      "title": "Futurism",
+      "url": "https://www.tate.org.uk/art/art-terms/f/futurism",
+      "publisher": "Tate",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_699b298288d0c962",
+      "title": "Biography: Zaha Hadid",
+      "url": "https://www.pritzkerprize.com/biography-zaha-hadid",
+      "publisher": "The Pritzker Architecture Prize",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_ddfb799eb34184d2",
+      "title": "Zaha Hadid Jury Citation",
+      "url": "https://www.pritzkerprize.com/jury-citation-zaha-hadid",
+      "publisher": "The Pritzker Architecture Prize",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_d3efd69e0e47736c",
+      "title": "Oculus Transportation Hub",
+      "url": "https://wtcprod.panynj.gov/en/local/learn-about-wtc/oculus-transportation-hub.html",
+      "publisher": "World Trade Center",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_72d59f500ca2ff27",
+      "title": "MAXXI: Museum of XXI Century Arts",
+      "url": "https://www.zaha-hadid.com/architecture/maxxi/",
+      "publisher": "Zaha Hadid Architects",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_4f747106892ef366",
+      "title": "Guggenheim Museum Bilbao",
+      "url": "https://www.foga.com/portfolio/guggenheim-museum-bilbao",
+      "publisher": "Gehry Partners",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_9fe8e7b49e5e6c2a",
+      "title": "Kunsthaus Graz",
+      "url": "https://www.museum-joanneum.at/en/kunsthaus-graz",
+      "publisher": "Universalmuseum Joanneum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_ddcdd991c4318cf2",
+      "title": "Yokohama International Passenger Terminal",
+      "url": "https://www.f-o-a.net/projects/yokohama-international-passenger-terminal",
+      "publisher": "Foreign Office Architects",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_3fd933c8a08e3adb",
+      "title": "Heydar Aliyev Centre",
+      "url": "https://www.zaha-hadid.com/architecture/heydar-aliyev-centre/",
+      "publisher": "Zaha Hadid Architects",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_a79e9c906f82b6e8",
+      "title": "The Future Systems Story",
+      "url": "https://designmuseum.org/designers/future-systems",
+      "publisher": "Design Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_060b4d31fb868187",
+      "title": "The Shard",
+      "url": "https://www.rpbw.com/project/the-shard",
+      "publisher": "Renzo Piano Building Workshop",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_977d2f87e410a43d",
+      "title": "Santiago Calatrava",
+      "url": "https://www.pritzkerprize.com/laureates/2005",
+      "publisher": "The Pritzker Architecture Prize",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_30e410755ae44765",
+      "claim_id": "clm_001",
+      "source_id": "src_275f952a0bc8fb3c",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_9e51fabfcb2b43e6",
+      "claim_id": "clm_002",
+      "source_id": "src_16687607cd044dd9",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_0777b7e5eb744a6e",
+      "claim_id": "clm_003",
+      "source_id": "src_51b9b3f5c5bdc44d",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_fbf525cfd6b04030",
+      "claim_id": "clm_004",
+      "source_id": "src_699b298288d0c962",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_12e9322da9a54092",
+      "claim_id": "clm_005",
+      "source_id": "src_ddfb799eb34184d2",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_77f61bba099b44a9",
+      "claim_id": "clm_006",
+      "source_id": "src_d3efd69e0e47736c",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_3739db7f9e2749b6",
+      "claim_id": "clm_007",
+      "source_id": "src_72d59f500ca2ff27",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_6358682f8098461f",
+      "claim_id": "clm_009",
+      "source_id": "src_9fe8e7b49e5e6c2a",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_9c01f74d741a49bd",
+      "claim_id": "clm_011",
+      "source_id": "src_3fd933c8a08e3adb",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_317b93536e4e4ea2",
+      "claim_id": "clm_012",
+      "source_id": "src_a79e9c906f82b6e8",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_b9cf02a08bd34a7e",
+      "claim_id": "clm_013",
+      "source_id": "src_060b4d31fb868187",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_c6a9381837a04160",
+      "claim_id": "clm_014",
+      "source_id": "src_977d2f87e410a43d",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_769043b242dd4f94",
+      "claim_id": "clm_016",
+      "source_id": "src_16687607cd044dd9",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_7f9b5558c6c34ba4",
+      "claim_id": "clm_017",
+      "source_id": "src_51b9b3f5c5bdc44d",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_d956fb0d60fe4e8b",
+      "claim_id": "clm_018",
+      "source_id": "src_699b298288d0c962",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_864591f88e1b428d",
+      "claim_id": "clm_019",
+      "source_id": "src_ddfb799eb34184d2",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_d62cf8324ec64a2a",
+      "claim_id": "clm_020",
+      "source_id": "src_d3efd69e0e47736c",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_62c0dde1716b48d3",
+      "claim_id": "clm_021",
+      "source_id": "src_72d59f500ca2ff27",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_b4bb37c2e1364b5a",
+      "claim_id": "clm_022",
+      "source_id": "src_4f747106892ef366",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_ab1d7ee8b7a44fb1",
+      "claim_id": "clm_023",
+      "source_id": "src_9fe8e7b49e5e6c2a",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_aa9db253729145f4",
+      "claim_id": "clm_024",
+      "source_id": "src_ddcdd991c4318cf2",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_f45c6a9bd5c44b8d",
+      "claim_id": "clm_025",
+      "source_id": "src_3fd933c8a08e3adb",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_a4341d8c60b34817",
+      "claim_id": "clm_026",
+      "source_id": "src_a79e9c906f82b6e8",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_4cad15e86724475f",
+      "claim_id": "clm_027",
+      "source_id": "src_060b4d31fb868187",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_c592723f7a4f4127",
+      "claim_id": "clm_028",
+      "source_id": "src_977d2f87e410a43d",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_82d6fa0e2f9a4849",
+      "claim_id": "clm_029",
+      "source_id": "src_275f952a0bc8fb3c",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_5afb0a5d6adf41f7",
+      "claim_id": "clm_030",
+      "source_id": "src_16687607cd044dd9",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "PUBLISH",
+    "note": "RU/EN pair passed structural and source validation; knowledge object derived from the editorial DOCX claim map.",
+    "converted_by": "Codex publication workflow",
+    "converted_at": "2026-08-11T00:00:00.000Z"
+  }
+}
