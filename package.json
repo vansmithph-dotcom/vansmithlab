@@ -7,6 +7,7 @@
     "build": "next build",
     "audit:site": "node scripts/audit-static-export.mjs",
     "indexnow:submit": "node scripts/submit-indexnow.mjs",
+    "pinterest:pack": "node scripts/build-pinterest-pack.mjs",
     "start": "next start",
     "lint": "eslint",
     "content:validate": "node scripts/automation/validate.mjs",
