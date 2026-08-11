@@ -34,4 +34,9 @@ export const siteMetadata: Metadata = {
       "max-snippet": -1,
     },
   },
+  verification: {
+    other: {
+      "p:domain_verify": "56e70c875a4d49ccb4d7a3e71ab48ab9",
+    },
+  },
 };
