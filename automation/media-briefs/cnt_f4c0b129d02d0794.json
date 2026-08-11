@@ -1,0 +1,37 @@
+{
+  "asset_id": "asset_art-nouveau-jugendstil-line-nature-total-interior_hero_v1",
+  "primary_object_id": "obj_70d6a88c216243a0",
+  "content_release_id": "cnt_f4c0b129d02d0794",
+  "kind": "image",
+  "origin": "ai_illustration",
+  "locale": "multilingual",
+  "educational_purpose": "Visualize Art Nouveau as line, nature and the total interior without reproducing protected artworks or interiors.",
+  "may_depict": [
+    "A fictional Art Nouveau interior",
+    "Whiplash woodwork and floral stained glass",
+    "Warm amber and green palette"
+  ],
+  "must_not_imply": [
+    "The image documents a real building or artwork",
+    "The image is attributable to a named designer or artist",
+    "The image reproduces a protected architectural photograph, drawing, furniture design or artwork"
+  ],
+  "rights": {
+    "state": "generated_reviewed",
+    "disclosure": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "rights_basis": "Original AI illustration generated for VANSMITHLAB without reference images or copied identifiable architecture, artworks or brand assets.",
+    "third_party_marks": "No logo, wordmark or recognisable branded asset."
+  },
+  "accessibility": {
+    "alt_text_ru": "Редакционная AI-иллюстрация: Линия, природа и тотальный интерьер: редакционная визуализация ар-нуво / Jugendstil.",
+    "alt_text_en": "Editorial AI illustration: Line, nature and the total interior: an editorial visualization of Art Nouveau / Jugendstil.",
+    "caption_ru": "Линия, природа и тотальный интерьер: редакционная визуализация ар-нуво / Jugendstil.",
+    "caption_en": "Line, nature and the total interior: an editorial visualization of Art Nouveau / Jugendstil."
+  },
+  "creator": "OpenAI image generation · directed and reviewed by VANSMITHLAB",
+  "created_at": "2026-08-11",
+  "asset_path": "public/images/encyclopedia/art-nouveau-jugendstil-line-nature-total-interior-hero-v1.webp",
+  "generation_prompt_class": "original fictional editorial visualization of art-nouveau-jugendstil",
+  "workflow_run_id": "run_20260811_release_new",
+  "content_sha256": "9044fc12b0a3259e4f261d814d728fd656d130a5d3c9908bd42b85c68a5994be"
+}

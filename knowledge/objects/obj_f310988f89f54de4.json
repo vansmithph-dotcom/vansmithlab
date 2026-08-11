@@ -1,0 +1,501 @@
+{
+  "id": "obj_f310988f89f54de4",
+  "type": "theme",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Кинетическое искусство",
+  "slug_ru": "kinetic-art-movement-mechanism-space",
+  "summary_ru": "Движение, механизм и пространство",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.7,
+  "created_at": "2026-08-11T00:00:00.000Z",
+  "updated_at": "2026-08-11T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_kin_000",
+      "wording_ru": "Кинетическое искусство превращает движение из сюжета в материал. Оно проектирует не один окончательный образ, а систему состояний: форму двигает мотор, ветер, гравитация, свет, магнитное поле или сам зритель. Поэтому его главное наследие находится не в «движущихся скульптурах», а в идее поведения формы во времени.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_kin_001",
+      "wording_ru": "В XX веке художники начали вводить в произведение реальное время: вибрацию, вращение, баланс, свет, воздух и участие зрителя. От опытов Наума Габо и Мохой-Надя до mobiles Александра Колдера и послевоенного кинетизма форма стала событием — она больше не обязана выглядеть одинаково каждую секунду.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_kin_002",
+      "wording_ru": "Термин kinetic происходит от греческого kinesis — движение. В истории искусства им обычно описывают работы, где движение является принципиальной частью произведения: оно может быть физическим, механическим, воздушным, световым или возникающим благодаря перемещению зрителя. Tate отдельно отмечает и реальное, и воспринимаемое движение, поэтому граница между кинетическим искусством и оп-артом исторически остаётся проницаемой.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_kin_003",
+      "wording_ru": "Кинетическое искусство не возникло внезапно в 1950-е. Ещё футуристы пытались передать скорость современной улицы, машины и тела, а конструктивисты начали буквально разбирать традиционную массу скульптуры на плоскости, линии, подвесы и пространственные каркасы. У Александра Родченко подвешенные пространственные конструкции начала 1920-х могли медленно реагировать на воздух, заменяя тяжёлый постамент почти невесомой системой.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_kin_004",
+      "wording_ru": "Один из ключевых ранних эпизодов — Kinetic Construction (Standing Wave) Наума Габо, созданная в 1919–1920 годах. Тонкий металлический стержень приводился в быструю вибрацию и визуально превращался в объёмную волну. Tate называет работу одной из первых моторизованных скульптур и важнейшим ранним примером кинетического искусства.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_kin_005",
+      "wording_ru": "В 1920 году Наум Габо и Антуан Певзнер опубликовали Realistic Manifesto. Документ фиксировал разрыв с традиционной логикой объёма и обращался к пространству и времени как к полноценным художественным элементам. Сам факт, что манифест и Kinetic Construction появляются почти одновременно, показывает: движение для Габо было не технической игрушкой, а частью нового понимания скульптуры.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_kin_006",
+      "wording_ru": "Марсель Дюшан подошёл к движению с другой стороны — через оптическую провокацию. Его Rotoreliefs, опубликованные в 1935 году, представляли собой диски с печатной графикой, предназначенные для вращения на проигрывателе. При движении плоские рисунки начинали казаться вогнутыми, выпуклыми или уходящими в глубину.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_kin_007",
+      "wording_ru": "Ласло Мохой-Надь превратил кинетическую конструкцию в лабораторию света. Его Light Prop for an Electric Stage, позже известный как Light-Space Modulator, создавался в 1920-е и был завершён около 1930 года. Металл, прозрачные элементы и мотор организовывали движущиеся отражения и тени; Мохой-Надь затем исследовал тот же аппарат в фильме A Lightplay: Black White Gray.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_kin_008",
+      "wording_ru": "Александр Колдер получил инженерное образование, и это чувствуется в том, как он думает о равновесии, весе и движении. В начале 1930-х он начал создавать абстрактные конструкции с подвижными частями, сначала с ручным или моторным приводом. Марсель Дюшан предложил для них слово mobiles — по-французски оно одновременно связано и с движением, и с мотивом.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_kin_009",
+      "wording_ru": "Хороший mobile Колдера похож на уравнение, которое решается заново каждую секунду. Каждая пластина имеет вес, каждый рычаг — длину, каждая точка подвеса — собственную роль. Но итог не механически одинаков: малейший поток воздуха меняет взаимное положение частей. Guggenheim подчёркивает, что в этих работах Колдера важны гравитация, циркуляция воздуха и случай.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_kin_010",
+      "wording_ru": "Парадоксально, но рядом с mobile у Колдера появляется stabile — термин, предложенный Жаном Арпом для неподвижных конструкций. Они не двигаются физически, однако требуют движения зрителя. Плоскости пересекаются под разными углами, проёмы вырезают фрагменты пространства, силуэт радикально меняется при обходе.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_kin_011",
+      "wording_ru": "В 1955 году парижская Galerie Denise René провела выставку Le Mouvement, ставшую одной из ключевых точек послевоенного кинетизма. В ней встретились разные поколения и разные способы понимать движение: от Дюшана и Колдера до Яакова Агама, Хесуса Рафаэля Сото и Жана Тингели. Centre Pompidou описывает эту выставку как важную отправную точку нового подъёма кинетического искусства.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_kin_012",
+      "wording_ru": "Если Колдер заставляет механизм исчезнуть в поэзии баланса, Жан Тингели делает наоборот: выводит машину на сцену. Его конструкции демонстративно механичны — колёса, тяги, моторы, проволока, дрожание, шум. Guggenheim связывает Тингели с кинетическим искусством и подчёркивает его интерес к движению как ключевому элементу и метафоре изменения.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_kin_013",
+      "wording_ru": "Яаков Агам делает движение зрителя частью композиции. Его рельефные поверхности меняют изображение в зависимости от угла: один набор цветов и форм виден слева, другой — справа, а между ними возникает последовательность переходов. Guggenheim описывает просмотр его работ как приключение, в котором зритель должен обнаружить разные изображения, заключённые в одном объекте.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_kin_014",
+      "wording_ru": "У Хесуса Рафаэля Сото механический мотор часто вообще не нужен. В Spirale 1955 года две спиральные структуры, разделённые расстоянием и прозрачной плоскостью, начинают оптически смещаться при движении человека. Centre Pompidou приводит принципиальную мысль Сото: в качестве двигателя он использовал глаз, а не электрический или механический мотор.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_kin_015",
+      "wording_ru": "Хулио Ле Парк в конце 1950-х и начале 1960-х соединяет оптические и кинетические методы со светом. MoMA описывает его Double Concurrence—Continuous Light, 2 как систему подвешенных пластиковых элементов, зеркала, фильтров и освещения, где малейшее движение меняет отражения и световой рисунок.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_kin_016",
+      "wording_ru": "Греческий художник Такис сделал художественным материалом то, чего мы не видим напрямую: магнитное поле. Tate описывает его как скульптора магнетизма, света и звука; в «телемагнитных» работах металлические элементы могли удерживаться или двигаться под воздействием магнитной силы.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_kin_017",
+      "wording_ru": "Джордж Рики с 1950-х развивал кинетическую скульптуру, особенно внимательно исследуя свет, движение и действие природных сил. Архив MoMA характеризует его как одного из заметных мастеров кинетической скульптуры, работавшего с эффектами света и движения.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_kin_018",
+      "wording_ru": "Движение редко бывает совершенно тихим. Металл звенит, мотор гудит, проволока вибрирует, пластина ударяется о пластину. Колдер экспериментировал с гонгами и звуковыми элементами, Тингели превращал механический шум почти в персонажа, а Такис соединял электромагнитные процессы со звуком.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_kin_019",
+      "wording_ru": "Кинетизм и оп-арт постоянно пересекаются, но их полезно различать. Оп-арт может создать ощущение движения на абсолютно неподвижной плоскости. Кинетическое искусство чаще вводит физическое изменение, временную последовательность или зависимость от положения зрителя. Tate и музейные коллекции часто показывают эти направления рядом именно потому, что оба исследуют нестабильность восприятия.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_kin_020",
+      "wording_ru": "Когда кинетическая логика входит в архитектуру, движущейся становится уже не небольшая скульптура, а элемент здания. MoMA, рассказывая о Сантьяго Калатраве, отмечало механизированные решения, где дверь и стена образуют единый трансформируемый элемент, а подвижные части крыши становятся частью архитектурного образа.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_kin_021",
+      "wording_ru": "Мода редко относится к кинетическому искусству напрямую, потому что одежда и так движется вместе с телом. Но Хусейн Чалаян сделал движение технологическим сюжетом. The Met хранит его Remote Control и описывает дизайнерскую практику Чалаяна как соединение концептуальных идей, материалов, техники и форм, которые нередко приближаются к скульптуре; в его технологических работах одежда могла включать механические элементы и актуаторы.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_kin_022",
+      "wording_ru": "Цифровая среда доводит кинетическую идею до состояния, где физический мотор вообще не нужен. Алгоритм может генерировать непрерывно меняющуюся форму, датчики — подмешивать движение людей, звук или погоду, а экран — становиться поверхностью, которая никогда не повторяет один и тот же кадр. В MoMA работа Refik Anadol Unsupervised менялась в реальном времени и использовала данные среды — свет, движение, акустику и погоду — как часть постоянно меняющегося изображения.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_c94747281626a958",
+      "title": "Kinetic art",
+      "url": "https://www.tate.org.uk/art/art-terms/kinetic-art",
+      "publisher": "Tate",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_5be4d763a04e3676",
+      "title": "Kinetic Construction (Standing Wave), Naum Gabo, 1919–20",
+      "url": "https://www.tate.org.uk/art/artworks/gabo-kinetic-construction-standing-wave-t00827",
+      "publisher": "Tate",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_2045b8590205a651",
+      "title": "Naum Gabo, Antoine Pevsner. Realistic Manifesto. 1920",
+      "url": "https://www.moma.org/collection/works/173291",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_47523ddce659e20c",
+      "title": "Rotoreliefs (Optical Disks), Marcel Duchamp",
+      "url": "https://www.philamuseum.org/objects/326191",
+      "publisher": "Philadelphia Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_c6c59e766ddf0f2e",
+      "title": "László Moholy-Nagy. A Lightplay: Black White Gray",
+      "url": "https://www.moma.org/collection/works/300671",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_ea5eabadc43c7e0b",
+      "title": "Calder: Gravity and Grace. Solomon R",
+      "url": "https://www.guggenheim.org/exhibition/calder-gravity-and-grace",
+      "publisher": "Guggenheim Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_b963e3f54bfdb54b",
+      "title": "Alexander Calder",
+      "url": "https://www.moma.org/collection/artists/922",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_6d09a522300b1ad5",
+      "title": "Spirale, Jesús Rafael Soto, 1955",
+      "url": "https://www.centrepompidou.fr/fr/ressources/oeuvre/I2zQosW",
+      "publisher": "Centre Pompidou",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_d5641424bb5eb6ec",
+      "title": "Jean Tinguely. Solomon R",
+      "url": "https://www.guggenheim.org/artwork/artist/jean-tinguely",
+      "publisher": "Guggenheim Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_127855bd27f24cc1",
+      "title": "Yaacov Agam. Solomon R",
+      "url": "https://www.guggenheim.org/artwork/artist/yaacov-agam",
+      "publisher": "Guggenheim Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_2710df8f82f81b2c",
+      "title": "Julio Le Parc. Double Concurrence—Continuous Light, 2",
+      "url": "https://www.moma.org/collection/works/81125",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_c20cdac1bba55e3b",
+      "title": "Introducing Takis",
+      "url": "https://www.tate.org.uk/art/artists/takis-2019/introducing-takis",
+      "publisher": "Tate",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_a728278ad9c2a855",
+      "title": "George Rickey Archive",
+      "url": "https://www.moma.org/research/archives/finding-aids/GeorgeRickeyb.html",
+      "publisher": "The Museum of Modern Art Archives",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_80d909a96bc4eab5",
+      "title": "Thresholds/Santiago Calatrava: Structure and Expression",
+      "url": "https://www.moma.org/calendar/exhibitions/391",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_d541b44bf012a08e",
+      "title": "Hussein Chalayan. Remote Control",
+      "url": "https://www.metmuseum.org/art/collection/search/124594",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_cff0139f694119ad",
+      "title": "Refik Anadol: Unsupervised",
+      "url": "https://www.moma.org/calendar/exhibitions/5535",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_3a273565b47c43fa",
+      "claim_id": "clm_kin_000",
+      "source_id": "src_c94747281626a958",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_e2e7e9afda0f4eae",
+      "claim_id": "clm_kin_001",
+      "source_id": "src_c94747281626a958",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_673a7f78b10e4243",
+      "claim_id": "clm_kin_002",
+      "source_id": "src_c20cdac1bba55e3b",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_565df4af848e4538",
+      "claim_id": "clm_kin_003",
+      "source_id": "src_c94747281626a958",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_6b84bff1a2a948cc",
+      "claim_id": "clm_kin_004",
+      "source_id": "src_c20cdac1bba55e3b",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_f33980226d394a4c",
+      "claim_id": "clm_kin_005",
+      "source_id": "src_c94747281626a958",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_889f0a98e0b04a7f",
+      "claim_id": "clm_kin_006",
+      "source_id": "src_c94747281626a958",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_455703072f774bb6",
+      "claim_id": "clm_kin_007",
+      "source_id": "src_c94747281626a958",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_d21b4de63afa4ed5",
+      "claim_id": "clm_kin_008",
+      "source_id": "src_c94747281626a958",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_fdaabb47af914d63",
+      "claim_id": "clm_kin_009",
+      "source_id": "src_c94747281626a958",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_6c4581bf706d4c5e",
+      "claim_id": "clm_kin_010",
+      "source_id": "src_c94747281626a958",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_fbde98b81b984070",
+      "claim_id": "clm_kin_011",
+      "source_id": "src_6d09a522300b1ad5",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_616cf67ce9124bb8",
+      "claim_id": "clm_kin_012",
+      "source_id": "src_c94747281626a958",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_d251f4fc80fa4a5f",
+      "claim_id": "clm_kin_013",
+      "source_id": "src_c94747281626a958",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_fd2e79f208364358",
+      "claim_id": "clm_kin_014",
+      "source_id": "src_6d09a522300b1ad5",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_cdf8c48d46c84f85",
+      "claim_id": "clm_kin_015",
+      "source_id": "src_c94747281626a958",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_34ceec7576b145a4",
+      "claim_id": "clm_kin_016",
+      "source_id": "src_c20cdac1bba55e3b",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_efaf46296cfc4f17",
+      "claim_id": "clm_kin_017",
+      "source_id": "src_c94747281626a958",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_9f7524f8d5124602",
+      "claim_id": "clm_kin_018",
+      "source_id": "src_c94747281626a958",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_9650a591fd6c4f30",
+      "claim_id": "clm_kin_019",
+      "source_id": "src_c20cdac1bba55e3b",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_b827b01f05b348ed",
+      "claim_id": "clm_kin_020",
+      "source_id": "src_c94747281626a958",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_b39c6b460f69443a",
+      "claim_id": "clm_kin_021",
+      "source_id": "src_c94747281626a958",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_46c92a2b9cf9495a",
+      "claim_id": "clm_kin_022",
+      "source_id": "src_c94747281626a958",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "PUBLISH",
+    "note": "RU/EN pair passed structural and source validation; knowledge object derived from the editorial DOCX claim map.",
+    "converted_by": "Codex publication workflow",
+    "converted_at": "2026-08-11T00:00:00.000Z"
+  }
+}

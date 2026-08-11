@@ -1,6 +1,6 @@
 {
   "generated_at": "2026-08-11",
-  "count": 530,
+  "count": 632,
   "sources": [
     {
       "id": "src_5185bfb9a29b16f3",
@@ -129,6 +129,14 @@
       "publisher": "The Museum of Modern Art",
       "source_tier": 2,
       "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_2698b73831847a3c",
+      "title": "Good Design, 5th Anniversary: 100 Museum Selections from Good Design 1950-1954",
+      "url": "https://assets.moma.org/documents/moma_catalogue_1718_300062144.pdf",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
     },
     {
       "id": "src_eb5716c3df46ca78",
@@ -267,6 +275,30 @@
       "accessed_at": "2026-08-10"
     },
     {
+      "id": "src_3951267e1e693e27",
+      "title": "Danish Modern",
+      "url": "https://designmuseum.dk/en/exhibition/danish-modern/",
+      "publisher": "Designmuseum Danmark",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_e59f448630e98cd2",
+      "title": "The Danish Chair",
+      "url": "https://designmuseum.dk/en/the-danish-chair/",
+      "publisher": "Designmuseum Danmark",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_2870e1adee3d39df",
+      "title": "The Story of the Design Museum",
+      "url": "https://designmuseum.org/about-the-museum/the-story-of-the-design-museum",
+      "publisher": "Design Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
       "id": "src_43fcd7d35fe23e39",
       "title": "Design Museum",
       "url": "https://designmuseum.org/designers/ettore-sottsass",
@@ -329,6 +361,22 @@
       "publisher": "Robert McNeel & Associates",
       "source_tier": 2,
       "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_d9eb3fedd824f7e4",
+      "title": "History & Legacy: The Case Study House Program",
+      "url": "https://eamesfoundation.org/eames-house/history/",
+      "publisher": "Eames Foundation",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_410fd5efc6d5a330",
+      "title": "Case Study House #8",
+      "url": "https://eamesfoundation.org/work/case-study-house-8/",
+      "publisher": "Eames Foundation",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
     },
     {
       "id": "src_ad3dc4942819adf6",
@@ -523,6 +571,22 @@
       "accessed_at": "2026-08-10"
     },
     {
+      "id": "src_bc570b463ac4364e",
+      "title": "History",
+      "url": "https://hfg-archiv.museumulm.de/en/the-hfg-archive/history/",
+      "publisher": "HfG Archiv Ulm",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_a8620af657e8ecf6",
+      "title": "Horta Museum",
+      "url": "https://hortamuseum.be/",
+      "publisher": "Horta Museum Brussels",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
       "id": "src_5602089093547d55",
       "title": "Copper-zinc alloys (brass)",
       "url": "https://kupfer.de/kupferwerkstoffe/kupfer-legierungen/kupfer-zink-legierungen-messing/?lang=en",
@@ -633,6 +697,14 @@
       "publisher": "Konstantin and Viktor Melnikov Museum",
       "source_tier": 2,
       "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_9ea72e5dd6310896",
+      "title": "L’Art nouveau — L’École de Nancy",
+      "url": "https://musee-ecole-de-nancy.nancy.fr/lart-nouveau/lecole-de-nancy",
+      "publisher": "Musée de l’École de Nancy",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
     },
     {
       "id": "src_8c165e8d14b42915",
@@ -899,6 +971,22 @@
       "accessed_at": "2026-08-09"
     },
     {
+      "id": "src_a0a70325d4e190f1",
+      "title": "Association of Visual Artists Vienna Secession",
+      "url": "https://secession.at/association_of_visual_artists_vienna_secession",
+      "publisher": "Secession",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_f1cbeae86201e811",
+      "title": "Beethoven Frieze",
+      "url": "https://secession.at/beethovenfrieze",
+      "publisher": "Secession",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
       "id": "src_2e34675c9197e2d3",
       "title": "William Van Alen, The Chrysler Building",
       "url": "https://smarthistory.org/van-alen-the-chrysler-building/",
@@ -995,6 +1083,14 @@
       "accessed_at": "2026-08-09"
     },
     {
+      "id": "src_78a297e5d28f7887",
+      "title": "Major Town Houses of the Architect Victor Horta (Brussels)",
+      "url": "https://whc.unesco.org/en/list/1005/",
+      "publisher": "UNESCO World Heritage Centre",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
       "id": "src_6f77dbb0141187a9",
       "title": "UNESCO World Heritage Centre",
       "url": "https://whc.unesco.org/en/list/1496/",
@@ -1011,12 +1107,28 @@
       "accessed_at": "2026-08-09"
     },
     {
+      "id": "src_6624ce140c03ed66",
+      "title": "Works of Antoni Gaudí",
+      "url": "https://whc.unesco.org/en/list/320/",
+      "publisher": "UNESCO World Heritage Centre",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
       "id": "src_d00a0752e7d5290b",
       "title": "Hierapolis-Pamukkale",
       "url": "https://whc.unesco.org/en/list/485/",
       "publisher": "UNESCO World Heritage Centre",
       "source_tier": 2,
       "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_26925b6650f742f7",
+      "title": "Rietveld Schröderhuis (Rietveld Schröder House)",
+      "url": "https://whc.unesco.org/en/list/965/",
+      "publisher": "UNESCO World Heritage Centre",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
     },
     {
       "id": "src_cca8d94f91a67ee4",
@@ -1041,6 +1153,14 @@
       "publisher": "Whitney Museum of American Art",
       "source_tier": 2,
       "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_a7b165d7d69a3aba",
+      "title": "The Ideal Book: William Morris and the Kelmscott Press",
+      "url": "https://williammorrissociety.org/the-ideal-book-william-morris-and-the-kelmscott-press/",
+      "publisher": "The William Morris Society",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
     },
     {
       "id": "src_acd09b899d2e6659",
@@ -1227,6 +1347,14 @@
       "accessed_at": "2026-08-08"
     },
     {
+      "id": "src_9c3c193ed8e6449d",
+      "title": "14 Years of Bauhaus: A Chronology From Its Founding in 1919 to Its Closure in 1933",
+      "url": "https://www.bauhaus.de/en/discover/article/14-years-of-bauhaus/",
+      "publisher": "Bauhaus-Archiv / Museum für Gestaltung",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
       "id": "src_f5f8ec0380c26150",
       "title": "Constructivism",
       "url": "https://www.britannica.com/art/Constructivism-art",
@@ -1307,6 +1435,22 @@
       "accessed_at": "2026-08-08"
     },
     {
+      "id": "src_b8004d58520bdec7",
+      "title": "De rood-blauwe lattenstoel van Gerrit Rietveld",
+      "url": "https://www.centraalmuseum.nl/nl/ontdek/podcast-kunst-centraal-5",
+      "publisher": "Centraal Museum Utrecht",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_af30c0a5b3d16c08",
+      "title": "Het Rietveld Schröderhuis",
+      "url": "https://www.centraalmuseum.nl/nl/ontdek/podcast-kunst-centraal-aflevering-9",
+      "publisher": "Centraal Museum Utrecht",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
       "id": "src_47fb89e151d428f2",
       "title": "Centre Pompidou",
       "url": "https://www.centrepompidou.fr/en/centre-pompidou-is-transforming-itself/an-iconic-architecture",
@@ -1329,6 +1473,14 @@
       "publisher": "Centre Pompidou",
       "source_tier": 2,
       "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_6d09a522300b1ad5",
+      "title": "Spirale, Jesús Rafael Soto, 1955",
+      "url": "https://www.centrepompidou.fr/fr/ressources/oeuvre/I2zQosW",
+      "publisher": "Centre Pompidou",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
     },
     {
       "id": "src_2f4b3f6e8f290e3f",
@@ -1419,6 +1571,22 @@
       "accessed_at": "2026-08-09"
     },
     {
+      "id": "src_1b00a82e5fa0e8a6",
+      "title": "Hector Guimard: Art Nouveau to Modernism",
+      "url": "https://www.cooperhewitt.org/2023/02/09/hector-guimard-art-nouveau-to-modernism/",
+      "publisher": "Cooper Hewitt, Smithsonian Design Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_3719c3de550b3bbf",
+      "title": "Cooper Hewitt, Smithsonian Design Museum History",
+      "url": "https://www.cooperhewitt.org/design-topics/museum-history/",
+      "publisher": "Cooper Hewitt, Smithsonian Design Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
       "id": "src_cb144021b25248bb",
       "title": "Cristóbal Balenciaga",
       "url": "https://www.cristobalbalenciagamuseoa.com/en/discover/cristobal-balenciaga/",
@@ -1467,6 +1635,14 @@
       "accessed_at": "2026-08-10"
     },
     {
+      "id": "src_abed2f402b90823d",
+      "title": "Timeline",
+      "url": "https://www.designcouncil.org.uk/who-we-are/about-us/timeline/",
+      "publisher": "Design Council",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
       "id": "src_60289761a04cfa14",
       "title": "Deconstructivism: The movement that changed architecture",
       "url": "https://www.dezeen.com/2022/03/28/deconstructivism-architecture-movement-guide/",
@@ -1481,6 +1657,22 @@
       "publisher": "Dia Art Foundation",
       "source_tier": 2,
       "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_01070875555af22c",
+      "title": "LCW",
+      "url": "https://www.eamesoffice.com/the-work/lcw/",
+      "publisher": "Eames Office",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_08a423a5d59fadbd",
+      "title": "Molded Plywood Group",
+      "url": "https://www.eamesoffice.com/the-work/molded-plywood-group/",
+      "publisher": "Eames Office",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
     },
     {
       "id": "src_a921bcea93f7cb1d",
@@ -1625,6 +1817,14 @@
       "publisher": "Galleria dell’Accademia di Firenze",
       "source_tier": 2,
       "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_2acc6d5adb6911d3",
+      "title": "Julius Shulman, Modernity and Metropolis. J",
+      "url": "https://www.getty.edu/art/exhibitions/shulman/index.html",
+      "publisher": "Paul Getty Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
     },
     {
       "id": "src_4d638ea1ad0c5b65",
@@ -1803,6 +2003,14 @@
       "accessed_at": "2026-08-09"
     },
     {
+      "id": "src_d5641424bb5eb6ec",
+      "title": "Jean Tinguely. Solomon R",
+      "url": "https://www.guggenheim.org/artwork/artist/jean-tinguely",
+      "publisher": "Guggenheim Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
       "id": "src_1c4071b239d3389c",
       "title": "Robert Morris",
       "url": "https://www.guggenheim.org/artwork/artist/robert-morris",
@@ -1817,6 +2025,22 @@
       "publisher": "Guggenheim",
       "source_tier": 2,
       "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_127855bd27f24cc1",
+      "title": "Yaacov Agam. Solomon R",
+      "url": "https://www.guggenheim.org/artwork/artist/yaacov-agam",
+      "publisher": "Guggenheim Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_ea5eabadc43c7e0b",
+      "title": "Calder: Gravity and Grace. Solomon R",
+      "url": "https://www.guggenheim.org/exhibition/calder-gravity-and-grace",
+      "publisher": "Guggenheim Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
     },
     {
       "id": "src_144ac5abeee030b1",
@@ -1865,6 +2089,30 @@
       "publisher": "Harris Tweed Authority",
       "source_tier": 2,
       "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_26dcb32a913f8fd9",
+      "title": "An Uncommon Vision: Alexander Girard",
+      "url": "https://www.hermanmiller.com/en_eur/stories/why-magazine/an-uncommon-vision/",
+      "publisher": "Herman Miller",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_27228e8912a52b25",
+      "title": "The Other Herman Miller",
+      "url": "https://www.hermanmiller.com/en_eur/stories/why-magazine/the-other-herman-miller/",
+      "publisher": "Herman Miller",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_5e57578e7f7244a6",
+      "title": "George Nelson",
+      "url": "https://www.hermanmiller.com/en_lac/designers/nelson/",
+      "publisher": "Herman Miller",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
     },
     {
       "id": "src_762e526e76e3c53b",
@@ -2123,6 +2371,54 @@
       "accessed_at": "2026-08-09"
     },
     {
+      "id": "src_9becd650dc89b35c",
+      "title": "Tulip Chair Armless, Eero Saarinen, 1957",
+      "url": "https://www.knoll.com/design-plan/product/tulip-armless-chair",
+      "publisher": "Knoll",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_1b22e85fba7598d7",
+      "title": "Florence Knoll",
+      "url": "https://www.knoll.com/designer/Florence-Knoll",
+      "publisher": "Knoll",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_2e65a0d2d4d0bb6a",
+      "title": "The Planning Unit",
+      "url": "https://www.knoll.com/story/shop/the-planning-unit",
+      "publisher": "Knoll",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_0ed81a771450e248",
+      "title": "De Stijl",
+      "url": "https://www.kunstmuseum.nl/en/collections/de-stijl",
+      "publisher": "Kunstmuseum Den Haag",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_8cc0cb5248cb0536",
+      "title": "California Design, 1930-1965: Living in a Modern Way",
+      "url": "https://www.lacma.org/art/exhibition/california-design-1930-1965-living-modern-way",
+      "publisher": "Los Angeles County Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_f2dc7a6d4a274b46",
+      "title": "Architecture of Gaudí’s La Pedrera — Casa Milà",
+      "url": "https://www.lapedrera.com/en/casa-mila/architecture/",
+      "publisher": "Fundació Catalunya La Pedrera",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
       "id": "src_2dbce75b41a4acf1",
       "title": "About Walt Disney Concert Hall",
       "url": "https://www.laphil.com/about-us/our-venues/about-walt-disney-concert-hall",
@@ -2267,6 +2563,22 @@
       "accessed_at": "2026-08-09"
     },
     {
+      "id": "src_3485976a6baf0dfd",
+      "title": "The Glasgow School of Art",
+      "url": "https://www.mackintosh-architecture.gla.ac.uk/catalogue/browse/display/?rs=133&xml=des",
+      "publisher": "Mackintosh Architecture, University of Glasgow",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_e79dc21f0878d87d",
+      "title": "The Mackintosh Tearooms",
+      "url": "https://www.mackintoshatthewillow.com/",
+      "publisher": "National Trust for Scotland",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
       "id": "src_0719808f7f3d4b18",
       "title": "A real pop-portunity",
       "url": "https://www.manchester.ac.uk/about/magazine/features/british-pop-archive/",
@@ -2363,6 +2675,14 @@
       "accessed_at": "2026-08-08"
     },
     {
+      "id": "src_d541b44bf012a08e",
+      "title": "Hussein Chalayan. Remote Control",
+      "url": "https://www.metmuseum.org/art/collection/search/124594",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
       "id": "src_7cb8b1b635a0e358",
       "title": "Evening dress, 1929",
       "url": "https://www.metmuseum.org/art/collection/search/153115",
@@ -2435,6 +2755,22 @@
       "accessed_at": "2026-08-08"
     },
     {
+      "id": "src_b59a29b0ef39a955",
+      "title": "Gustav Stickley — Library Table",
+      "url": "https://www.metmuseum.org/art/collection/search/4786",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_bf8b84b976f92a13",
+      "title": "Charles Robert Ashbee — Porringer",
+      "url": "https://www.metmuseum.org/art/collection/search/481997",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
       "id": "src_56bc8703c5a9f8b2",
       "title": "Ettore Sottsass — Carlton Room Divider",
       "url": "https://www.metmuseum.org/art/collection/search/486989",
@@ -2465,6 +2801,14 @@
       "publisher": "The Metropolitan Museum of Art",
       "source_tier": 2,
       "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_2b096798ca1278d0",
+      "title": "Greene and Greene — Tabouret",
+      "url": "https://www.metmuseum.org/art/collection/search/754086",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
     },
     {
       "id": "src_709c37a4651080ee",
@@ -2651,6 +2995,14 @@
       "accessed_at": "2026-08-08"
     },
     {
+      "id": "src_0f9f9a06d3f1ef27",
+      "title": "Evening dress, House of Worth",
+      "url": "https://www.metmuseum.org/art/collection/search/84652",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
       "id": "src_ad98b0c3a740b6e6",
       "title": "The Metropolitan Museum of Art — Prada Dress / curatorial overview",
       "url": "https://www.metmuseum.org/art/collection/search/87334",
@@ -2731,12 +3083,76 @@
       "accessed_at": "2026-08-08"
     },
     {
+      "id": "src_715870d9dab26408",
+      "title": "Art Nouveau",
+      "url": "https://www.metmuseum.org/essays/art-nouveau",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
       "id": "src_5ce300fe8c0e7428",
       "title": "Christopher Dresser (1834–1904)",
       "url": "https://www.metmuseum.org/essays/christopher-dresser-1834-1904",
       "publisher": "The Metropolitan Museum of Art",
       "source_tier": 2,
       "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_5f1a375444979ac2",
+      "title": "Design, 1900–1925",
+      "url": "https://www.metmuseum.org/essays/design-1900-25",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_0f2a685d954746de",
+      "title": "Design Reform",
+      "url": "https://www.metmuseum.org/essays/design-reform",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_f8e9fe2e60ddfc61",
+      "title": "Louis Comfort Tiffany (1848–1933)",
+      "url": "https://www.metmuseum.org/essays/louis-comfort-tiffany-1848-1933",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_a8fd9b45d54d284c",
+      "title": "Roman Luxury Glass",
+      "url": "https://www.metmuseum.org/essays/roman-luxury-glass",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_6cec224f9bd5dd13",
+      "title": "The Arts and Crafts Movement in America",
+      "url": "https://www.metmuseum.org/essays/the-arts-and-crafts-movement-in-america",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_7bfccae8edaaabac",
+      "title": "The Bauhaus, 1919–1933",
+      "url": "https://www.metmuseum.org/essays/the-bauhaus-1919-1933",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_cc0f96ada38eeb55",
+      "title": "Wisteria Dining Room, Paris",
+      "url": "https://www.metmuseum.org/essays/wisteria-dining-room-paris",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
     },
     {
       "id": "src_3145edacce322455",
@@ -2801,6 +3217,14 @@
       "publisher": "",
       "source_tier": 2,
       "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_512d69fbaaa893e0",
+      "title": "A Century of Design, Part III: 1950-1975",
+      "url": "https://www.metmuseum.org/press-releases/a-century-of-design-part-iii-19501975-2000-exhibitions",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
     },
     {
       "id": "src_3a7afc2edbd35a4c",
@@ -3019,12 +3443,36 @@
       "accessed_at": "2026-08-11"
     },
     {
+      "id": "src_b4f9a64435904e0d",
+      "title": "Bauhaus 1919–1933: Workshops for Modernity",
+      "url": "https://www.moma.org/calendar/exhibitions/303",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
       "id": "src_dea57f407b8230b8",
       "title": "Liubov Popova",
       "url": "https://www.moma.org/calendar/exhibitions/328",
       "publisher": "The Museum of Modern Art",
       "source_tier": 2,
       "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_80d909a96bc4eab5",
+      "title": "Thresholds/Santiago Calatrava: Structure and Expression",
+      "url": "https://www.moma.org/calendar/exhibitions/391",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_cff0139f694119ad",
+      "title": "Refik Anadol: Unsupervised",
+      "url": "https://www.moma.org/calendar/exhibitions/5535",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
     },
     {
       "id": "src_745cceb58ecb8c48",
@@ -3043,6 +3491,14 @@
       "accessed_at": "2026-08-11"
     },
     {
+      "id": "src_ec39f484f51a8774",
+      "title": "About the Collection",
+      "url": "https://www.moma.org/collection/about/",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
       "id": "src_d27596fd6a903574",
       "title": "Cindy Sherman",
       "url": "https://www.moma.org/collection/artists/5392",
@@ -3059,12 +3515,36 @@
       "accessed_at": "2026-08-08"
     },
     {
+      "id": "src_b963e3f54bfdb54b",
+      "title": "Alexander Calder",
+      "url": "https://www.moma.org/collection/artists/922",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_d69b82b1bb1d988d",
+      "title": "Bauhaus",
+      "url": "https://www.moma.org/collection/terms/bauhaus",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
       "id": "src_f9245ccdd0526150",
       "title": "Brutalist Architecture",
       "url": "https://www.moma.org/collection/terms/brutalist-architecture",
       "publisher": "The Museum of Modern Art",
       "source_tier": 2,
       "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_21a7f1a6014edbb0",
+      "title": "de Stijl",
+      "url": "https://www.moma.org/collection/terms/de-stijl",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
     },
     {
       "id": "src_a88b598a36010fde",
@@ -3089,6 +3569,14 @@
       "publisher": "MoMA",
       "source_tier": 2,
       "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_afcfc7e19b69a3f7",
+      "title": "Neo-Plasticism",
+      "url": "https://www.moma.org/collection/terms/neo-plasticism",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
     },
     {
       "id": "src_ffafce73c570d82e",
@@ -3131,6 +3619,14 @@
       "accessed_at": "2026-08-09"
     },
     {
+      "id": "src_2045b8590205a651",
+      "title": "Naum Gabo, Antoine Pevsner. Realistic Manifesto. 1920",
+      "url": "https://www.moma.org/collection/works/173291",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
       "id": "src_f9147c40002d8909",
       "title": "Venturi and Rauch, Robert Venturi, John Rauch, Denise Scott Brown. House, Northern Delaware, Preliminary study of west elevation. 1978",
       "url": "https://www.moma.org/collection/works/211",
@@ -3139,10 +3635,42 @@
       "accessed_at": "2026-08-10"
     },
     {
+      "id": "src_04a8c369d4e6e24e",
+      "title": "Theo van Doesburg, Cornelis van Eesteren. Contra-Construction Project (Axonometric), 1923",
+      "url": "https://www.moma.org/collection/works/232",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_c6c59e766ddf0f2e",
+      "title": "László Moholy-Nagy. A Lightplay: Black White Gray",
+      "url": "https://www.moma.org/collection/works/300671",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_e9cfdc7e536bcd6a",
+      "title": "Hanging Lamp — Gerrit Rietveld",
+      "url": "https://www.moma.org/collection/works/3703",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
       "id": "src_7739fc98708376fe",
       "title": "MoMA",
       "url": "https://www.moma.org/collection/works/3903",
       "publisher": "Isamu Noguchi: coffee table and sculptural objects",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_36a900a8546f6ecc",
+      "title": "Gerrit Rietveld. Red Blue Chair. 1918–1923",
+      "url": "https://www.moma.org/collection/works/4044",
+      "publisher": "The Museum of Modern Art",
       "source_tier": 2,
       "accessed_at": "2026-08-11"
     },
@@ -3219,6 +3747,14 @@
       "accessed_at": "2026-08-09"
     },
     {
+      "id": "src_2710df8f82f81b2c",
+      "title": "Julio Le Parc. Double Concurrence—Continuous Light, 2",
+      "url": "https://www.moma.org/collection/works/81125",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
       "id": "src_b6f51ca279897e68",
       "title": "Man Ray (Emmanuel Radnitzky). Indestructible Object (or Object to Be Destroyed)",
       "url": "https://www.moma.org/collection/works/81209",
@@ -3227,12 +3763,36 @@
       "accessed_at": "2026-08-09"
     },
     {
+      "id": "src_552563501da9bcac",
+      "title": "Theo van Doesburg. Café Aubette, Strasbourg, France. 1927",
+      "url": "https://www.moma.org/collection/works/976",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_2341b8a045a08f20",
+      "title": "De Stijl, 1917–1928",
+      "url": "https://www.moma.org/documents/moma_catalogue_1798_300159061.pdf",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
       "id": "src_6938f1db12e43c92",
       "title": "New in the Galleries: The Russian Avant-Garde",
       "url": "https://www.moma.org/explore/inside_out/2014/01/30/new-in-the-galleries-the-russian-avant-garde/",
       "publisher": "The Museum of Modern Art",
       "source_tier": 2,
       "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_72da0f4d8cde1b80",
+      "title": "Inventing Abstraction — Theo van Doesburg",
+      "url": "https://www.moma.org/interactives/exhibitions/2012/inventingabstraction/?work=208",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
     },
     {
       "id": "src_4ab44953af40219d",
@@ -3251,6 +3811,14 @@
       "accessed_at": "2026-08-09"
     },
     {
+      "id": "src_01f9c4fc8e455c24",
+      "title": "What Do We Mean By Good Design? Museum of Modern Art",
+      "url": "https://www.moma.org/magazine/articles/38",
+      "publisher": "",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
       "id": "src_370777bcf37af70c",
       "title": "The Assembly-Line Effect: Andy Warhol’s Campbell’s Soup Cans",
       "url": "https://www.moma.org/magazine/articles/933",
@@ -3259,12 +3827,36 @@
       "accessed_at": "2026-08-09"
     },
     {
+      "id": "src_a728278ad9c2a855",
+      "title": "George Rickey Archive",
+      "url": "https://www.moma.org/research/archives/finding-aids/GeorgeRickeyb.html",
+      "publisher": "The Museum of Modern Art Archives",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
       "id": "src_052476d304bc0060",
       "title": "General Information | METABOLISM: THE CITY OF THE FUTURE",
       "url": "https://www.mori.art.museum/english/contents/metabolism/info/index.html",
       "publisher": "Mori Art Museum",
       "source_tier": 2,
       "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_2a7f9d3117862e8c",
+      "title": "Mucha at a glance",
+      "url": "https://www.muchafoundation.org/gallery/mucha-at-a-glance-46",
+      "publisher": "Mucha Foundation",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_a6cf246106440741",
+      "title": "Art Posters",
+      "url": "https://www.muchafoundation.org/gallery/themes/theme/art-posters",
+      "publisher": "Mucha Foundation",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
     },
     {
       "id": "src_18390fd85247bb4f",
@@ -3339,6 +3931,22 @@
       "accessed_at": "2026-08-11"
     },
     {
+      "id": "src_b545215345faa932",
+      "title": "Red House history",
+      "url": "https://www.nationaltrust.org.uk/visit/london/red-house/the-history-of-red-house",
+      "publisher": "National Trust",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_4a4844d320bba091",
+      "title": "The house at Standen",
+      "url": "https://www.nationaltrust.org.uk/visit/sussex/standen-house-and-garden/the-house-at-standen",
+      "publisher": "National Trust",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
       "id": "src_334a69c0675de13d",
       "title": "Learn About Cleaning Products for Natural Stone",
       "url": "https://www.naturalstoneinstitute.org/consumers/care/",
@@ -3369,6 +3977,14 @@
       "publisher": "National Gallery of Art",
       "source_tier": 2,
       "accessed_at": "2026-08-08"
+    },
+    {
+      "id": "src_80db5ff2483867a5",
+      "title": "Coffee Table (IN-50)",
+      "url": "https://www.noguchi.org/artworks/collection/view/coffee-table-in-50/",
+      "publisher": "The Noguchi Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
     },
     {
       "id": "src_02087a37093bfc1b",
@@ -3449,6 +4065,14 @@
       "publisher": "Patrik Schumacher",
       "source_tier": 2,
       "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_47523ddce659e20c",
+      "title": "Rotoreliefs (Optical Disks), Marcel Duchamp",
+      "url": "https://www.philamuseum.org/objects/326191",
+      "publisher": "Philadelphia Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
     },
     {
       "id": "src_ed328bbf093816b3",
@@ -3731,6 +4355,14 @@
       "accessed_at": "2026-08-08"
     },
     {
+      "id": "src_5dd316e15a8a8652",
+      "title": "History",
+      "url": "https://www.rca.ac.uk/more/history/",
+      "publisher": "Royal College of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
       "id": "src_173e70fd652a96b2",
       "title": "Reuters — Hermès sued in antitrust class action over Birkin sales, 2024",
       "url": "https://www.reuters.com/business/retail-consumer/hermes-sued-antitrust-class-action-over-birkin-bag-sales-2024-03-20/",
@@ -3835,6 +4467,14 @@
       "accessed_at": "2026-08-11"
     },
     {
+      "id": "src_8175c9502e4d08e3",
+      "title": "100 years de stijl",
+      "url": "https://www.stedelijk.nl/en/theme/100-years-de-stijl",
+      "publisher": "Stedelijk Museum Amsterdam",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
       "id": "src_90b4b37167fbab4f",
       "title": "Tate",
       "url": "https://www.tate.org.uk/",
@@ -3849,6 +4489,14 @@
       "publisher": "Tate",
       "source_tier": 2,
       "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_6c6da642ae1878ba",
+      "title": "De Stijl",
+      "url": "https://www.tate.org.uk/art/art-terms/d/de-stijl",
+      "publisher": "Tate",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
     },
     {
       "id": "src_06f201a75c53e94b",
@@ -3867,12 +4515,28 @@
       "accessed_at": "2026-08-10"
     },
     {
+      "id": "src_c94747281626a958",
+      "title": "Kinetic art",
+      "url": "https://www.tate.org.uk/art/art-terms/kinetic-art",
+      "publisher": "Tate",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
       "id": "src_2ef43d6c2a229e3c",
       "title": "Minimalism",
       "url": "https://www.tate.org.uk/art/art-terms/m/minimalism",
       "publisher": "Tate",
       "source_tier": 2,
       "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_bf654d4ee88bfc6c",
+      "title": "Neo-plasticism",
+      "url": "https://www.tate.org.uk/art/art-terms/n/neo-plasticism",
+      "publisher": "Tate",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
     },
     {
       "id": "src_900c08cc982dab58",
@@ -3915,6 +4579,14 @@
       "accessed_at": "2026-08-09"
     },
     {
+      "id": "src_1d2d621bb04adccf",
+      "title": "Piet Mondrian 1872–1944",
+      "url": "https://www.tate.org.uk/art/artists/piet-mondrian-1651",
+      "publisher": "Tate",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
       "id": "src_94e1f565d3459b37",
       "title": "Richard Hamilton",
       "url": "https://www.tate.org.uk/art/artists/richard-hamilton-1244",
@@ -3923,12 +4595,44 @@
       "accessed_at": "2026-08-09"
     },
     {
+      "id": "src_c20cdac1bba55e3b",
+      "title": "Introducing Takis",
+      "url": "https://www.tate.org.uk/art/artists/takis-2019/introducing-takis",
+      "publisher": "Tate",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_5be4d763a04e3676",
+      "title": "Kinetic Construction (Standing Wave), Naum Gabo, 1919–20",
+      "url": "https://www.tate.org.uk/art/artworks/gabo-kinetic-construction-standing-wave-t00827",
+      "publisher": "Tate",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_d18f525f00fd4a87",
+      "title": "Van Doesburg and the International Avant-Garde",
+      "url": "https://www.tate.org.uk/whats-on/tate-modern/van-doesburg-and-international-avant-garde",
+      "publisher": "Tate Modern",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
       "id": "src_8c959e10ed972269",
       "title": "The Guardian - Gucci to collaborate with Dapper Dan",
       "url": "https://www.theguardian.com/fashion/2017/sep/11/gucci-to-collaborate-with-bootlegger-dapper-dan",
       "publisher": "The 2017 shift from a dispute over quotation to an official collaboration",
       "source_tier": 2,
       "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_8be3cce625d2379e",
+      "title": "History of the International Council of Design",
+      "url": "https://www.theicod.org/en/council/history",
+      "publisher": "International Council of Design",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
     },
     {
       "id": "src_a7f63a51256dfbc4",
@@ -4011,6 +4715,38 @@
       "accessed_at": "2026-08-09"
     },
     {
+      "id": "src_37f05f0b3995a85d",
+      "title": "Art Nouveau – an international style",
+      "url": "https://www.vam.ac.uk/articles/art-nouveau-an-international-style",
+      "publisher": "Victoria and Albert Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_efec34f4338810d3",
+      "title": "Arts and Crafts: an introduction",
+      "url": "https://www.vam.ac.uk/articles/arts-and-crafts-an-introduction",
+      "publisher": "Victoria and Albert Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_7e853198f3dbb412",
+      "title": "Arts and Crafts: beyond the UK",
+      "url": "https://www.vam.ac.uk/articles/arts-and-crafts-beyond-the-uk",
+      "publisher": "Victoria and Albert Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_2af9dab22474a3af",
+      "title": "Building the V&A",
+      "url": "https://www.vam.ac.uk/articles/building-the-museum",
+      "publisher": "Victoria and Albert Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
       "id": "src_6135af49de2f1d7e",
       "title": "Corsets, crinolines and bustles: fashionable Victorian underwear",
       "url": "https://www.vam.ac.uk/articles/corsets-crinolines-and-bustles-fashionable-victorian-underwear",
@@ -4025,6 +4761,22 @@
       "publisher": "Victoria and Albert Museum",
       "source_tier": 2,
       "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_d593355d7117ed94",
+      "title": "How Arts and Crafts influenced fashion",
+      "url": "https://www.vam.ac.uk/articles/how-arts-and-crafts-influenced-fashion",
+      "publisher": "Victoria and Albert Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_03e170b967a8d62c",
+      "title": "Introducing William Morris",
+      "url": "https://www.vam.ac.uk/articles/introducing-william-morris",
+      "publisher": "Victoria and Albert Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
     },
     {
       "id": "src_90c77ea04d8f4a19",
@@ -4059,6 +4811,30 @@
       "accessed_at": "2026-08-11"
     },
     {
+      "id": "src_b00d02b5c78ad879",
+      "title": "William Morris textiles",
+      "url": "https://www.vam.ac.uk/articles/willam-morris-textiles",
+      "publisher": "Victoria and Albert Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_b2501d3d15b292aa",
+      "title": "William Morris and historical design",
+      "url": "https://www.vam.ac.uk/articles/william-morris-and-historical-design",
+      "publisher": "Victoria and Albert Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_b9f6e7d2cb380e9a",
+      "title": "Unsung Artists: May Morris (1862–1938)",
+      "url": "https://www.vam.ac.uk/blog/caring-for-our-collections/unsung-artists-may-morris-1862-1938",
+      "publisher": "Victoria and Albert Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
       "id": "src_9dbdef2a48b3fb5d",
       "title": "Art Deco",
       "url": "https://www.vam.ac.uk/collections/art-deco",
@@ -4067,12 +4843,36 @@
       "accessed_at": "2026-08-09"
     },
     {
+      "id": "src_2d55f967bd1c4f0e",
+      "title": "Art Nouveau — Explore the Collections",
+      "url": "https://www.vam.ac.uk/collections/art-nouveau",
+      "publisher": "Victoria and Albert Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
       "id": "src_3775dc5a0e372fea",
       "title": "Postmodernism — Explore the Collections",
       "url": "https://www.vam.ac.uk/collections/postmodernism/",
       "publisher": "Victoria and Albert Museum",
       "source_tier": 2,
       "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_54fdb3b78d05ff33",
+      "title": "William Morris — Explore the Collections",
+      "url": "https://www.vam.ac.uk/collections/william-morris",
+      "publisher": "Victoria and Albert Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_0c178c13e1c08fee",
+      "title": "Mid-Century Modern Taster Lecture",
+      "url": "https://www.vam.ac.uk/event/26EYrqdLPd/o25105-mid-century-modern-taster-lecture",
+      "publisher": "Victoria and Albert Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
     },
     {
       "id": "src_ec593606e5a19800",
@@ -4123,12 +4923,28 @@
       "accessed_at": "2026-08-09"
     },
     {
+      "id": "src_3a5108cd7004e944",
+      "title": "Charles & Ray Eames",
+      "url": "https://www.vitra.com/en-us/product/designer/charles-and-ray-eames",
+      "publisher": "Vitra",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
       "id": "src_5c7515c5126266a9",
       "title": "Decorative Glass — Ceramic Frit",
       "url": "https://www.vitroglazings.com/products/other-glass-applications/decorative-glass/",
       "publisher": "Vitro Architectural Glass",
       "source_tier": 2,
       "accessed_at": "2026-08-09"
+    },
+    {
+      "id": "src_e1f8f81b9694e1f0",
+      "title": "The History",
+      "url": "https://www.vkhutemas.ru/en/the-history/",
+      "publisher": "VKHUTEMAS",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
     },
     {
       "id": "src_98ae12926b9e55d9",

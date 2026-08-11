@@ -1,0 +1,645 @@
+{
+  "id": "obj_70d6a88c216243a0",
+  "type": "theme",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Ар-нуво / Jugendstil",
+  "slug_ru": "art-nouveau-jugendstil-line-nature-total-interior",
+  "summary_ru": "Линия, природа и тотальный интерьер",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.7,
+  "created_at": "2026-08-11T00:00:00.000Z",
+  "updated_at": "2026-08-11T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_an_thesis",
+      "wording_ru": "Ар-нуво важен не как коллекция красивых завитков, а как первая действительно международная попытка сделать современную среду цельной. Архитектура, стекло, мебель, плакат, шрифт, украшение и интерьер начинают подчиняться общей логике линии, материала и движения. Поэтому стиль полезно читать как раннюю дизайн-систему, а не как декоративный фильтр.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_an_short",
+      "wording_ru": "Потому что Art Nouveau был международным полем локальных вариантов. Их объединяли отказ от буквального историзма, интерес к природе, новому ремеслу, современным материалам и идее цельной среды; различались же региональные традиции, технологии и степень декоративности.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_an_001",
+      "wording_ru": "У ар-нуво есть редкое качество: предмет кажется не собранным, а выращенным. Линия может начаться в ножке стола, перейти в узор ковра, подняться по перилам и раствориться в витраже. Поэтому интерьер воспринимается не как набор покупок, а как единый организм.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_an_002",
+      "wording_ru": "К концу XIX века европейские города были полны неоготики, неоренессанса, необарокко и других исторических масок. Новая буржуазия жила среди электрического света, железных конструкций, массовой печати и быстро растущих городов, но архитектура часто продолжала говорить языком прошлых веков. Art Nouveau возник как попытка найти визуальную форму для современной жизни.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_an_003",
+      "wording_ru": "Французское выражение art nouveau означает «новое искусство», но название стало особенно заметным благодаря парижской галерее-магазину Maison de l'Art Nouveau, открытому Siegfried Bing в 1895 году. Там новое декоративное искусство показывалось как среда: мебель, стекло, графика и объект работали вместе.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_an_004",
+      "wording_ru": "Самая частая ошибка при чтении ар-нуво - видеть только цветы. Природа здесь важна не как иллюстрация, а как система построения формы. Стебель объясняет линию, бутон - объём, крыло насекомого - прозрачность, лист - асимметрию, морская волна - непрерывность поверхности.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_an_005",
+      "wording_ru": "Термин whiplash line - «удар хлыста» - хорошо описывает любимый жест ар-нуво: длинная линия ускоряется, резко меняет направление и снова раскрывается дугой. Она создаёт ощущение движения даже на неподвижной поверхности.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_an_006",
+      "wording_ru": "Европейский Art Nouveau развивался на фоне мощного интереса к японскому искусству. Гравюры ukiyo-e показывали, что композиция может быть плоской, асимметричной, обрезанной краем листа и при этом очень динамичной. Художники и дизайнеры увидели альтернативу академической перспективе.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_an_007",
+      "wording_ru": "В брюссельском Hôtel Tassel, спроектированном Victor Horta в 1892-1893 годах, Art Nouveau перестал быть поверхностной декорацией и стал архитектурной системой. UNESCO называет дома Horta одними из пионерских произведений архитектуры конца XIX века и подчёркивает их радикально новый подход.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_an_008",
+      "wording_ru": "Парадокс Horta в том, что его текучая эстетика опиралась на современную инженерную логику. Железо позволяло делать тонкие опоры, увеличивать проёмы и освобождать план. Стекло пропускало свет глубже в дом. Декоративная линия не скрывала конструкцию полностью, а часто подчёркивала её.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_an_009",
+      "wording_ru": "Входы Hector Guimard в парижское метро сделали Art Nouveau частью повседневной инфраструктуры. Человек не обязан был идти в музей: он встречал новый стиль по дороге на работу. Металл изгибался в растительные формы, вывеска становилась частью конструкции, а транспортная система получала узнаваемый визуальный голос.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_an_010",
+      "wording_ru": "В Нанси Art Nouveau получил локальную форму - École de Nancy. Музей школы прямо описывает её как движение обновления декоративных искусств, в котором стекло, мебель, витраж, керамика, кожа, металл и архитектура работали вместе; ключевой фигурой был Émile Gallé.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_an_011",
+      "wording_ru": "Gallé показывает, что материал может вести сюжет сильнее формы. Многослойное стекло, травление, цветовые переходы и растительные мотивы создают ощущение, будто объект вырос из тумана, воды или сада. Поверхность кажется глубокой, потому что изображение живёт внутри материала, а не только сверху.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_an_012",
+      "wording_ru": "В 1897 году группа венских художников вокруг Gustav Klimt отделилась от консервативного Künstlerhaus и создала Vienna Secession. Среди основателей были Kolo Moser, Carl Moll, Josef Hoffmann и Joseph Maria Olbrich. Уже в 1898 году Olbrich построил выставочный дом Secession как архитектурный манифест новой программы.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_an_013",
+      "wording_ru": "Венская Secession усилила идею Gesamtkunstwerk - «тотального произведения искусства», где архитектура, живопись, мебель, графика и оформление выставки подчинены единой концепции. Beethoven Exhibition 1902 года и созданный для неё фриз Gustav Klimt особенно ясно показывают эту амбицию.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_an_014",
+      "wording_ru": "Charles Rennie Mackintosh и Margaret Macdonald показали, что Art Nouveau может быть почти строгим. Их Glasgow Style соединяет вытянутые вертикали, сетку, светлые поверхности, стилизованную розу и тонкую символику. Glasgow School of Art строилась в два этапа, 1897-1898 и 1907-1909, и стала главным архитектурным произведением Mackintosh.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_an_015",
+      "wording_ru": "Если искать Art Nouveau только по растительным завиткам, легко пропустить половину движения. В Вене, Глазго и некоторых североевропейских версиях линия становится прямее, орнамент - площе, а композиция - более модульной. Цветок может превратиться почти в знак, а мебель - в геометрический каркас.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_an_016",
+      "wording_ru": "В Каталонии родственная Art Nouveau культура получила имя Modernisme. Antoni Gaudí сделал её самой узнаваемой архитектурной версией, но UNESCO подчёркивает, что его работа была одновременно личной, технологически новаторской и укоренённой в каталонской культурной среде.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_an_017",
+      "wording_ru": "Casa Milà, построенная в 1906-1912 годах, показывает, как органическая поверхность может быть связана с реальной конструктивной свободой. Официальное описание La Pedrera подчёркивает новаторство здания в структуре, пространственной геометрии, материалах и организации жилья.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_an_018",
+      "wording_ru": "Ар-нуво любит контролировать среду целиком. Архитектор или дизайнер проектирует не только стены, но и мебель, двери, витраж, светильник, ковёр, посуду и графику. Так появляется ощущение, что человек входит не в комнату, а внутрь одного большого объекта.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_an_019",
+      "wording_ru": "В мебели Art Nouveau хорошая форма редко выглядит независимой от комнаты. Спинка стула продолжает вертикаль панели, ножка стола повторяет металлический ритм, инкрустация связывает предмет с ботанической темой интерьера.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_an_020",
+      "wording_ru": "В США Art Nouveau получил особую форму в работах Louis Comfort Tiffany. The Metropolitan Museum of Art подчёркивает его технические эксперименты со стеклом, мозаикой, цветом и светом. Электрическая лампа стала идеальным современным устройством для декоративного искусства: технология буквально зажгла цветное стекло изнутри.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_an_021",
+      "wording_ru": "В 1890-е Alphonse Mucha превратил афишу в одну из самых эффективных машин Art Nouveau. После успеха Gismonda для Sarah Bernhardt его вытянутый формат, декоративный ореол, растительный ритм, орнаментальные волосы и мягкая типографика стали настолько узнаваемыми, что выражение «le style Mucha» почти слилось с популярным образом стиля.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_an_022",
+      "wording_ru": "Art Nouveau разрушает границу между изображением и текстом. Буква может изгибаться, вытягиваться, становиться рамкой или частью орнамента. В хорошем плакате шрифт не «ставят сверху» после иллюстрации - он участвует в общей композиции.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_an_023",
+      "wording_ru": "В ювелирном Art Nouveau тело становится маленькой архитектурной площадкой. Насекомые, орхидеи, павлины, змеи, женские профили и полупрозрачные материалы позволяют соединить природу, эротизм и техническую виртуозность. Мастера вроде René Lalique расширили понятие драгоценности: ценность могла заключаться не только в камне, но и в идее, эмали, роге, стекле и необычной композиции.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_an_024",
+      "wording_ru": "Art Nouveau не создал единой «униформы» моды, но его язык совпал с эпохой, когда одежда, графика и интерьер всё активнее рассматривались как части одного образа жизни. S-образный силуэт начала XX века, текучие ткани, вышивка, растительные мотивы и декоративные аксессуары легко вступали в диалог с плакатом и интерьером.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_an_025",
+      "wording_ru": "Art Nouveau расцветает не только в частном доме, но и в пространствах публичного потребления: кафе, ресторане, магазине, театре, метро. Здесь стиль должен быстро создавать атмосферу и запоминаться. Витрина, вывеска, мебель, упаковка и интерьер начинают работать как единый опыт.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_an_026",
+      "wording_ru": "Art Nouveau многим обязан Arts & Crafts: уважением к ремеслу, идеей целостного интерьера, вниманием к материалу и критикой бездумного историзма. Но движения не совпадают. Arts & Crafts чаще подчёркивает мораль труда, местную традицию и честность изготовления, тогда как Art Nouveau сильнее стремится к новому формальному языку и городской эффектности.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_an_027",
+      "wording_ru": "Art Deco приходит позже и наследует Art Nouveau любовь к тотальному интерьеру, дорогим материалам, графике и эффекту современности. Но линия меняется: органический стебель уступает место симметрии, ступени, зигзагу, лучу и полированной геометрии.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_an_028",
+      "wording_ru": "Расцвет Art Nouveau оказался коротким - примерно от 1890-х до Первой мировой войны. Причин несколько: дороговизна индивидуального ремесла, сложность тотальных интерьеров, быстрая смена вкуса и рост более рациональных модернистских подходов. The Met прямо описывает Art Nouveau как кратковременное, но влиятельное движение и предшественника модернизма.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_an_030",
+      "wording_ru": "Главное наследие Art Nouveau - не цветок и не изгиб. Это убеждение, что пространство, предмет, изображение и материал могут быть спроектированы как один язык. Именно поэтому движение так полезно для VANSMITHLAB: оно связывает архитектуру Horta, графику Mucha, стекло Gallé и Tiffany, интерьеры Mackintosh, венскую Secession и каталонский Modernisme.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_37f05f0b3995a85d",
+      "title": "Art Nouveau – an international style",
+      "url": "https://www.vam.ac.uk/articles/art-nouveau-an-international-style",
+      "publisher": "Victoria and Albert Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_715870d9dab26408",
+      "title": "Art Nouveau",
+      "url": "https://www.metmuseum.org/essays/art-nouveau",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_cc0f96ada38eeb55",
+      "title": "Wisteria Dining Room, Paris",
+      "url": "https://www.metmuseum.org/essays/wisteria-dining-room-paris",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_78a297e5d28f7887",
+      "title": "Major Town Houses of the Architect Victor Horta (Brussels)",
+      "url": "https://whc.unesco.org/en/list/1005/",
+      "publisher": "UNESCO World Heritage Centre",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_a8620af657e8ecf6",
+      "title": "Horta Museum",
+      "url": "https://hortamuseum.be/",
+      "publisher": "Horta Museum Brussels",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_1b00a82e5fa0e8a6",
+      "title": "Hector Guimard: Art Nouveau to Modernism",
+      "url": "https://www.cooperhewitt.org/2023/02/09/hector-guimard-art-nouveau-to-modernism/",
+      "publisher": "Cooper Hewitt, Smithsonian Design Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_9ea72e5dd6310896",
+      "title": "L’Art nouveau — L’École de Nancy",
+      "url": "https://musee-ecole-de-nancy.nancy.fr/lart-nouveau/lecole-de-nancy",
+      "publisher": "Musée de l’École de Nancy",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_a0a70325d4e190f1",
+      "title": "Association of Visual Artists Vienna Secession",
+      "url": "https://secession.at/association_of_visual_artists_vienna_secession",
+      "publisher": "Secession",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_f1cbeae86201e811",
+      "title": "Beethoven Frieze",
+      "url": "https://secession.at/beethovenfrieze",
+      "publisher": "Secession",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_3485976a6baf0dfd",
+      "title": "The Glasgow School of Art",
+      "url": "https://www.mackintosh-architecture.gla.ac.uk/catalogue/browse/display/?rs=133&xml=des",
+      "publisher": "Mackintosh Architecture, University of Glasgow",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_e79dc21f0878d87d",
+      "title": "The Mackintosh Tearooms",
+      "url": "https://www.mackintoshatthewillow.com/",
+      "publisher": "National Trust for Scotland",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_6624ce140c03ed66",
+      "title": "Works of Antoni Gaudí",
+      "url": "https://whc.unesco.org/en/list/320/",
+      "publisher": "UNESCO World Heritage Centre",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_f2dc7a6d4a274b46",
+      "title": "Architecture of Gaudí’s La Pedrera — Casa Milà",
+      "url": "https://www.lapedrera.com/en/casa-mila/architecture/",
+      "publisher": "Fundació Catalunya La Pedrera",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_f8e9fe2e60ddfc61",
+      "title": "Louis Comfort Tiffany (1848–1933)",
+      "url": "https://www.metmuseum.org/essays/louis-comfort-tiffany-1848-1933",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_2a7f9d3117862e8c",
+      "title": "Mucha at a glance",
+      "url": "https://www.muchafoundation.org/gallery/mucha-at-a-glance-46",
+      "publisher": "Mucha Foundation",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_a6cf246106440741",
+      "title": "Art Posters",
+      "url": "https://www.muchafoundation.org/gallery/themes/theme/art-posters",
+      "publisher": "Mucha Foundation",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_0f9f9a06d3f1ef27",
+      "title": "Evening dress, House of Worth",
+      "url": "https://www.metmuseum.org/art/collection/search/84652",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_2d55f967bd1c4f0e",
+      "title": "Art Nouveau — Explore the Collections",
+      "url": "https://www.vam.ac.uk/collections/art-nouveau",
+      "publisher": "Victoria and Albert Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_5f1a375444979ac2",
+      "title": "Design, 1900–1925",
+      "url": "https://www.metmuseum.org/essays/design-1900-25",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_c19726ae6ba642fa",
+      "claim_id": "clm_an_thesis",
+      "source_id": "src_37f05f0b3995a85d",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_1509d5ef885543e0",
+      "claim_id": "clm_an_short",
+      "source_id": "src_37f05f0b3995a85d",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_37d61fc6eaaf42f8",
+      "claim_id": "clm_an_001",
+      "source_id": "src_37f05f0b3995a85d",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_d5dc4628d440465e",
+      "claim_id": "clm_an_002",
+      "source_id": "src_37f05f0b3995a85d",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_64236ffa1fe9410f",
+      "claim_id": "clm_an_003",
+      "source_id": "src_37f05f0b3995a85d",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_9febef3ee26c4115",
+      "claim_id": "clm_an_004",
+      "source_id": "src_37f05f0b3995a85d",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_f73054a7ac2b4a3b",
+      "claim_id": "clm_an_005",
+      "source_id": "src_37f05f0b3995a85d",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_8ac66b980a044831",
+      "claim_id": "clm_an_006",
+      "source_id": "src_37f05f0b3995a85d",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_7480b6d48a344fd2",
+      "claim_id": "clm_an_007",
+      "source_id": "src_37f05f0b3995a85d",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_cb3d0cdd011d4b65",
+      "claim_id": "clm_an_008",
+      "source_id": "src_37f05f0b3995a85d",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_42e7f927045c4888",
+      "claim_id": "clm_an_009",
+      "source_id": "src_37f05f0b3995a85d",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_4349d94f501648ac",
+      "claim_id": "clm_an_010",
+      "source_id": "src_37f05f0b3995a85d",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_2b969dc6e6854d1e",
+      "claim_id": "clm_an_011",
+      "source_id": "src_37f05f0b3995a85d",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_344240323a314d6b",
+      "claim_id": "clm_an_012",
+      "source_id": "src_f1cbeae86201e811",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_b2ff29a1ed90476b",
+      "claim_id": "clm_an_013",
+      "source_id": "src_f1cbeae86201e811",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_b01b927c28814ced",
+      "claim_id": "clm_an_014",
+      "source_id": "src_37f05f0b3995a85d",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_5ab77df782ee4f67",
+      "claim_id": "clm_an_015",
+      "source_id": "src_37f05f0b3995a85d",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_180bdfe83e094820",
+      "claim_id": "clm_an_016",
+      "source_id": "src_37f05f0b3995a85d",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_cfdd96b8295c4f14",
+      "claim_id": "clm_an_017",
+      "source_id": "src_37f05f0b3995a85d",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_2d14182192044f32",
+      "claim_id": "clm_an_018",
+      "source_id": "src_37f05f0b3995a85d",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_46d533f054504b0b",
+      "claim_id": "clm_an_019",
+      "source_id": "src_37f05f0b3995a85d",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_775f4da2dbf244fe",
+      "claim_id": "clm_an_020",
+      "source_id": "src_5f1a375444979ac2",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_ca90838fe0474114",
+      "claim_id": "clm_an_021",
+      "source_id": "src_37f05f0b3995a85d",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_87ea621cab264b8e",
+      "claim_id": "clm_an_022",
+      "source_id": "src_37f05f0b3995a85d",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_64f9c586be3a4d13",
+      "claim_id": "clm_an_023",
+      "source_id": "src_37f05f0b3995a85d",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_76197ed5e3a54426",
+      "claim_id": "clm_an_024",
+      "source_id": "src_37f05f0b3995a85d",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_02d9a6f39df04b56",
+      "claim_id": "clm_an_025",
+      "source_id": "src_37f05f0b3995a85d",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_03c6ed6d406d49a6",
+      "claim_id": "clm_an_026",
+      "source_id": "src_37f05f0b3995a85d",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_038d3e1f43654523",
+      "claim_id": "clm_an_027",
+      "source_id": "src_37f05f0b3995a85d",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_54ea7b9161f7409a",
+      "claim_id": "clm_an_028",
+      "source_id": "src_37f05f0b3995a85d",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_8c9079c94e064a20",
+      "claim_id": "clm_an_030",
+      "source_id": "src_f1cbeae86201e811",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "PUBLISH",
+    "note": "RU/EN pair passed structural and source validation; knowledge object derived from the editorial DOCX claim map.",
+    "converted_by": "Codex publication workflow",
+    "converted_at": "2026-08-11T00:00:00.000Z"
+  }
+}

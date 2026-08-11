@@ -1,0 +1,37 @@
+{
+  "asset_id": "asset_arts-and-crafts-craft-labour-everyday-beauty_hero_v1",
+  "primary_object_id": "obj_ebedf93429f44906",
+  "content_release_id": "cnt_9bb41ea27404af77",
+  "kind": "image",
+  "origin": "ai_illustration",
+  "locale": "multilingual",
+  "educational_purpose": "Visualize the Arts & Crafts movement as craft, labour and everyday beauty without reproducing protected furniture or textiles.",
+  "may_depict": [
+    "A fictional craftsman workshop still life",
+    "Hand-turned chair and botanical textile",
+    "Oak, moss green and cream palette"
+  ],
+  "must_not_imply": [
+    "The image documents a real building or artwork",
+    "The image is attributable to a named designer or artist",
+    "The image reproduces a protected architectural photograph, drawing, furniture design or artwork"
+  ],
+  "rights": {
+    "state": "generated_reviewed",
+    "disclosure": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "rights_basis": "Original AI illustration generated for VANSMITHLAB without reference images or copied identifiable architecture, artworks or brand assets.",
+    "third_party_marks": "No logo, wordmark or recognisable branded asset."
+  },
+  "accessibility": {
+    "alt_text_ru": "Редакционная AI-иллюстрация: Ремесло, труд и красота повседневной вещи: редакционная визуализация движения Arts & Crafts.",
+    "alt_text_en": "Editorial AI illustration: Craft, labour and the beauty of the everyday object: an editorial visualization of the Arts & Crafts movement.",
+    "caption_ru": "Ремесло, труд и красота повседневной вещи: редакционная визуализация движения Arts & Crafts.",
+    "caption_en": "Craft, labour and the beauty of the everyday object: an editorial visualization of the Arts & Crafts movement."
+  },
+  "creator": "OpenAI image generation · directed and reviewed by VANSMITHLAB",
+  "created_at": "2026-08-11",
+  "asset_path": "public/images/encyclopedia/arts-and-crafts-craft-labour-everyday-beauty-hero-v1.webp",
+  "generation_prompt_class": "original fictional editorial visualization of arts-and-crafts",
+  "workflow_run_id": "run_20260811_release_new",
+  "content_sha256": "a9da1ae09cee904b24fe3eb0a81e31626de5eb18fea9df131bb230cf8ff5e010"
+}

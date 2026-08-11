@@ -1,0 +1,37 @@
+{
+  "asset_id": "asset_mid-century-modern-postwar-home-furniture-mass-production_hero_v1",
+  "primary_object_id": "obj_e9e7d00f96e24edc",
+  "content_release_id": "cnt_1dc0ffb50ee5447d",
+  "kind": "image",
+  "origin": "ai_illustration",
+  "locale": "multilingual",
+  "educational_purpose": "Visualize Mid-Century Modern as the postwar home, furniture and mass production without reproducing protected furniture designs.",
+  "may_depict": [
+    "A fictional postwar living room",
+    "Sculptural teak chair and woven rug",
+    "Warm wood and olive palette"
+  ],
+  "must_not_imply": [
+    "The image documents a real building or artwork",
+    "The image is attributable to a named designer or artist",
+    "The image reproduces a protected architectural photograph, drawing, furniture design or artwork"
+  ],
+  "rights": {
+    "state": "generated_reviewed",
+    "disclosure": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "rights_basis": "Original AI illustration generated for VANSMITHLAB without reference images or copied identifiable architecture, artworks or brand assets.",
+    "third_party_marks": "No logo, wordmark or recognisable branded asset."
+  },
+  "accessibility": {
+    "alt_text_ru": "Редакционная AI-иллюстрация: Послевоенный дом, мебель и массовое производство: редакционная визуализация mid-century modern.",
+    "alt_text_en": "Editorial AI illustration: The postwar home, furniture and mass production: an editorial visualization of Mid-Century Modern.",
+    "caption_ru": "Послевоенный дом, мебель и массовое производство: редакционная визуализация mid-century modern.",
+    "caption_en": "The postwar home, furniture and mass production: an editorial visualization of Mid-Century Modern."
+  },
+  "creator": "OpenAI image generation · directed and reviewed by VANSMITHLAB",
+  "created_at": "2026-08-11",
+  "asset_path": "public/images/encyclopedia/mid-century-modern-postwar-home-furniture-mass-production-hero-v1.webp",
+  "generation_prompt_class": "original fictional editorial visualization of mid-century",
+  "workflow_run_id": "run_20260811_release_new",
+  "content_sha256": "e56883fee0f2defabd2094a6c2b475b44593a78fd9d0c5c65db65bf95dccf6e8"
+}

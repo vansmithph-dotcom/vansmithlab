@@ -1,0 +1,629 @@
+{
+  "id": "obj_ebedf93429f44906",
+  "type": "theme",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Arts & Crafts",
+  "slug_ru": "arts-and-crafts-craft-labour-everyday-beauty",
+  "summary_ru": "Ремесло, труд и красота повседневной вещи",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.7,
+  "created_at": "2026-08-11T00:00:00.000Z",
+  "updated_at": "2026-08-11T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_ac_000",
+      "wording_ru": "Arts & Crafts следует читать не как декоративный стиль XIX века, а как первую большую современную попытку связать форму с условиями производства. Его главная тема — не орнамент, а достоинство труда, честность материала и идея, что качество повседневной вещи может менять качество повседневной жизни.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ac_001",
+      "wording_ru": "Потому что Arts & Crafts первым сделал способ производства частью эстетики. Он поставил рядом дизайнера и мастера, дом и предмет, материал и труд, а затем заставил весь XX век спорить о том, можно ли сохранить качество ремесла в массовой индустрии.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ac_002",
+      "wording_ru": "Great Exhibition 1851 в Хрустальном дворце стала триумфом промышленной Британии и одновременно удобной мишенью для критиков дизайна. Огромное количество серийных вещей демонстрировало техническую мощь, но реформаторы видели в части продукции чрезмерный орнамент, имитацию дорогих материалов и слабую связь между формой, функцией и способом изготовления. V&A прямо связывает эту критику с будущей программой Arts & Crafts.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ac_003",
+      "wording_ru": "До William Morris интеллектуальный фундамент уже строили Augustus Welby Northmore Pugin и John Ruskin. Pugin связывал качество архитектуры с честностью конструкции и критиковал бессмысленное декоративное прикрытие. Ruskin пошёл дальше: он увидел в разделении проектирования и ручного труда не только эстетический, но и нравственный ущерб. V&A называет обоих важнейшими предшественниками движения.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ac_004",
+      "wording_ru": "Для Ruskin хороший предмет был свидетельством живого труда. Его интересовала не стерильная безошибочность, а возможность мастера думать внутри процесса, принимать решения и оставлять след собственного участия. V&A формулирует эту позицию как критику разделения акта проектирования и акта изготовления.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ac_005",
+      "wording_ru": "William Morris стал лицом движения, хотя сам термин закрепился позже. Он проектировал ткани, обои, мебель, ковры, витражи и книги, писал художественные тексты, занимался политикой и строил бизнес. V&A подчёркивает его неприятие викторианской веры в промышленный «прогресс» как самоцель и его стремление вернуть удовольствие и осмысленность в производство вещей.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ac_006",
+      "wording_ru": "В 1859 году Morris заказал своему другу Philip Webb дом в Bexleyheath; в 1860 семья поселилась в Red House. National Trust описывает его как ключевое место ранней истории Arts & Crafts. Дом отказался от показной симметрии и декоративного фасадного костюма в пользу кирпича, полезности, средневековых ассоциаций и плотной связи интерьера с садом.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ac_007",
+      "wording_ru": "Недовольство готовыми товарами подтолкнуло Morris и его круг к созданию в 1861 году Morris, Marshall, Faulkner & Co. — фирмы декоративных искусств, позже ставшей Morris & Co. Она работала с мебелью, витражом, вышивкой, обоями, тканями, коврами и другими элементами интерьера. Компания превратила идею художественной мастерской в реальный коммерческий механизм.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ac_008",
+      "wording_ru": "Узоры Morris кажутся прямой копией сада, но работают гораздо сложнее. Он хорошо знал растения и исторический орнамент, однако не стремился к ботанической иллюстрации. Природная форма переводилась в ритм: стебель становился маршрутом, лист — паузой, цветок — акцентом, а повтор собирал всю поверхность в систему. V&A отмечает его принцип не буквального подражания, а упорядоченной стилизации природы.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ac_009",
+      "wording_ru": "Обои стали одним из самых узнаваемых полей Morris & Co. Дизайнер использовал повторный модуль, но старался растворить его границы, чтобы стена читалась как непрерывная растущая поверхность. Известные рисунки вроде Trellis, Acanthus или Fruit показывают, как геометрия раппорта может быть замаскирована органическим движением.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ac_010",
+      "wording_ru": "Morris интересовался не только рисунком ткани, но и процессами окрашивания, ткачества, вышивки, ковроткачества и гобелена. V&A подчёркивает его практический интерес к историческим техникам и пониманию того, как способ изготовления меняет визуальный результат.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ac_011",
+      "wording_ru": "В мебели Arts & Crafts ценил читаемую конструкцию: дерево должно оставаться деревом, соединение — выглядеть как соединение, а форма — не притворяться дворцовым предметом при помощи накладного декора. Простота здесь не означает минимализм в современном смысле; предмет мог быть тяжёлым, резным или украшенным, но его структура должна была сохранять правдоподобие.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ac_012",
+      "wording_ru": "Движение охватывало не только дерево и текстиль. Керамика, эмаль, серебро, медь, стекло, ювелирное искусство и витраж позволяли проверить один и тот же принцип на разных материалах: форма должна учитывать сопротивление, пластичность, температуру, блеск и след инструмента. Arts and Crafts Exhibition Society специально поднимало статус этих «малых» искусств рядом с живописью и скульптурой.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ac_013",
+      "wording_ru": "Для Arts & Crafts интерьер не собирается из случайно купленных красивых вещей. Архитектура, мебель, свет, текстиль, настенная поверхность и сад должны образовывать единый ритм. V&A отмечает, что многие лидеры движения были архитекторами и потому естественно мыслили «total interior» — пространством, где предметы существуют как части общей системы.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ac_014",
+      "wording_ru": "В 1891 году Morris основал Kelmscott Press и перенёс свою критику массового производства в книгу. Он проектировал шрифты, инициалы, рамки, титульные страницы и общий «цвет» набора. V&A пишет, что Press выпустил десятки тщательно оформленных изданий, а William Morris Society рассматривает Kelmscott Chaucer 1896 года как кульминацию его идеи «идеальной книги».",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ac_015",
+      "wording_ru": "Само название движения закрепилось благодаря Arts and Crafts Exhibition Society, основанному в Лондоне в 1887 году. Первая выставка прошла в 1888-м. V&A подчёркивает, что общество стремилось повысить общественный и интеллектуальный статус керамики, текстиля, металла, мебели и других декоративных искусств, которые традиционно получали меньше внимания, чем живопись и скульптура.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ac_016",
+      "wording_ru": "C. R. Ashbee основал Guild of Handicraft в 1888 году как кооперативную мастерскую. The Met описывает гильдию как объединение мастеров, работавших с мебелью, металлом, кожей и ювелирными изделиями. Для Ashbee важен был не только внешний вид объекта, но и сама организация труда — коллектив, обучение и более тесная связь между дизайнером и изготовителем.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ac_017",
+      "wording_ru": "История Arts & Crafts долго рассказывалась через мужчин, хотя женщины были критически важны как дизайнеры, вышивальщицы, производители и организаторы. May Morris, дочь William Morris, руководила отделом вышивки Morris & Co., проектировала текстиль и украшения, преподавала и защищала профессиональный статус женщин в декоративном искусстве. V&A называет её значительной фигурой британского движения и пионером art embroidery.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ac_018",
+      "wording_ru": "Arts & Crafts повлиял и на одежду. V&A связывает движение с более свободными историзирующими силуэтами, вышивкой, природными мотивами и dress reform — попытками уйти от чрезмерно жёсткой, перегруженной конструкции викторианского костюма. Вышивка стала особенно важным полем, где женщины одновременно работали как исполнители и всё чаще как самостоятельные дизайнеры.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ac_019",
+      "wording_ru": "Архитектура Arts & Crafts отвергала универсальную маску. Дом должен отвечать участку, климату, местному кирпичу, камню, дереву и строительной традиции. Philip Webb, C. F. A. Voysey, William Lethaby и другие проектировали здания, где асимметрия могла возникать из плана, а детали — из реальной технологии, а не из стилистической необходимости.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ac_020",
+      "wording_ru": "Standen в West Sussex, спроектированный Philip Webb для семьи Beale в 1890-е, — хороший пример зрелого Arts & Crafts дома. National Trust подчёркивает его связь с местным ландшафтом и интерьерами, наполненными тканями, обоями и мебелью Morris & Co. Здесь движение проявляется не одним эффектным объектом, а последовательностью решений от кладки до текстиля.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ac_021",
+      "wording_ru": "Arts & Crafts часто описывают как анти-машинное движение, но V&A формулирует позицию Morris точнее: он не отвергал машины автоматически; его беспокоило разделение труда и потеря связи человека с результатом работы. Машина могла быть приемлемой, если служила качеству и освобождала от бессмысленной рутины, а не превращала работника в придаток процесса.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ac_022",
+      "wording_ru": "Самый болезненный внутренний конфликт движения — цена. Morris мечтал о красивых, полезных вещах и более достойном труде, но высокое качество ручного производства делало многие товары доступными прежде всего состоятельным покупателям. The Met отмечает этот парадокс напрямую: социально утопический проект сталкивался с дорогой себестоимостью.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ac_023",
+      "wording_ru": "Идеи Arts & Crafts быстро вышли за пределы Британии. V&A прослеживает их влияние на Vienna Secession и Wiener Werkstätte, а в Германии — на организации, которые искали более прагматичный союз дизайна и промышленности. Особенно важен Deutscher Werkbund 1907 года: он наследует требование качества, но уже не считает крупное производство врагом по определению.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ac_024",
+      "wording_ru": "В США идеи движения получили более коммерческую и массовую форму. Gustav Stickley продвигал простую, конструктивно читаемую мебель и издавал журнал The Craftsman с 1901 по 1916 год. The Met отмечает, что его мастерские стремились делать мебель сравнительно доступной и пригодной для производства, сохраняя при этом идею честного материала и конструкции.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ac_025",
+      "wording_ru": "Братья Charles и Henry Greene в Калифорнии довели американский Arts & Crafts до уровня почти ювелирной архитектуры. The Met описывает их интерьеры как целостные проекты с мебелью, столярными деталями и сильным влиянием японской архитектуры. Bungalow у Greene & Greene становится не дешёвой типологией, а точной системой дерева, света, соединений и маршрутов.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ac_026",
+      "wording_ru": "V&A показывает дальнейшее распространение Arts & Crafts в Центральной Европе, Америке и в Японии, где в 1920-е его идеи помогли формированию Mingei — движения народного ремесла. В разных странах акцент смещался: где-то на национальную традицию, где-то на социальную реформу, где-то на сопротивление стандартизированной фабричной культуре.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ac_027",
+      "wording_ru": "Arts & Crafts напрямую повлиял на Art Nouveau и косвенно подготовил Bauhaus. The Met связывает Art Nouveau с идеей объединения fine и applied arts, а история Bauhaus показывает, как craft-based curriculum позже был перенаправлен к проектированию для массового производства. Но это не простая линия «Morris придумал modernism».",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ac_028",
+      "wording_ru": "Kelmscott Press показал, что графический дизайн начинается не с украшения страницы, а с отношений между типографикой, полем, иллюстрацией, бумагой и способом печати. Morris проектировал шрифты, рамки и инициалы как единую систему и проверял композицию непосредственно на печатных пробах. William Morris Society подробно описывает этот процесс.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ac_029",
+      "wording_ru": "Фотография появилась раньше Arts & Crafts, но движение предлагает фотографу особый способ смотреть на предмет. Не нужно превращать ремесло в театральную реконструкцию с пылью, свечами и «старинной» сепией. Гораздо точнее показать материал, след инструмента, соединение, масштаб руки и то, как объект стареет.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ac_030",
+      "wording_ru": "Главное наследие Arts & Crafts — не конкретный орнамент и не культ ручной вещи. Движение закрепило мысль, что дизайн невозможно полностью отделить от условий производства. Предмет несёт в себе организацию труда, знания о материале, экономическую модель, отношение к пользователю и представление о хорошем обществе.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_efec34f4338810d3",
+      "title": "Arts and Crafts: an introduction",
+      "url": "https://www.vam.ac.uk/articles/arts-and-crafts-an-introduction",
+      "publisher": "Victoria and Albert Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_0f2a685d954746de",
+      "title": "Design Reform",
+      "url": "https://www.metmuseum.org/essays/design-reform",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_03e170b967a8d62c",
+      "title": "Introducing William Morris",
+      "url": "https://www.vam.ac.uk/articles/introducing-william-morris",
+      "publisher": "Victoria and Albert Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_b545215345faa932",
+      "title": "Red House history",
+      "url": "https://www.nationaltrust.org.uk/visit/london/red-house/the-history-of-red-house",
+      "publisher": "National Trust",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_b00d02b5c78ad879",
+      "title": "William Morris textiles",
+      "url": "https://www.vam.ac.uk/articles/willam-morris-textiles",
+      "publisher": "Victoria and Albert Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_54fdb3b78d05ff33",
+      "title": "William Morris — Explore the Collections",
+      "url": "https://www.vam.ac.uk/collections/william-morris",
+      "publisher": "Victoria and Albert Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_a7b165d7d69a3aba",
+      "title": "The Ideal Book: William Morris and the Kelmscott Press",
+      "url": "https://williammorrissociety.org/the-ideal-book-william-morris-and-the-kelmscott-press/",
+      "publisher": "The William Morris Society",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_bf8b84b976f92a13",
+      "title": "Charles Robert Ashbee — Porringer",
+      "url": "https://www.metmuseum.org/art/collection/search/481997",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_b9f6e7d2cb380e9a",
+      "title": "Unsung Artists: May Morris (1862–1938)",
+      "url": "https://www.vam.ac.uk/blog/caring-for-our-collections/unsung-artists-may-morris-1862-1938",
+      "publisher": "Victoria and Albert Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_d593355d7117ed94",
+      "title": "How Arts and Crafts influenced fashion",
+      "url": "https://www.vam.ac.uk/articles/how-arts-and-crafts-influenced-fashion",
+      "publisher": "Victoria and Albert Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_4a4844d320bba091",
+      "title": "The house at Standen",
+      "url": "https://www.nationaltrust.org.uk/visit/sussex/standen-house-and-garden/the-house-at-standen",
+      "publisher": "National Trust",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_7e853198f3dbb412",
+      "title": "Arts and Crafts: beyond the UK",
+      "url": "https://www.vam.ac.uk/articles/arts-and-crafts-beyond-the-uk",
+      "publisher": "Victoria and Albert Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_6cec224f9bd5dd13",
+      "title": "The Arts and Crafts Movement in America",
+      "url": "https://www.metmuseum.org/essays/the-arts-and-crafts-movement-in-america",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_b59a29b0ef39a955",
+      "title": "Gustav Stickley — Library Table",
+      "url": "https://www.metmuseum.org/art/collection/search/4786",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_2b096798ca1278d0",
+      "title": "Greene and Greene — Tabouret",
+      "url": "https://www.metmuseum.org/art/collection/search/754086",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_715870d9dab26408",
+      "title": "Art Nouveau",
+      "url": "https://www.metmuseum.org/essays/art-nouveau",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_7bfccae8edaaabac",
+      "title": "The Bauhaus, 1919–1933",
+      "url": "https://www.metmuseum.org/essays/the-bauhaus-1919-1933",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_e5b9e5e3343f47bb",
+      "claim_id": "clm_ac_000",
+      "source_id": "src_efec34f4338810d3",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_435b6b3d13b744a6",
+      "claim_id": "clm_ac_001",
+      "source_id": "src_efec34f4338810d3",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_03547bdf0ee84415",
+      "claim_id": "clm_ac_002",
+      "source_id": "src_efec34f4338810d3",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_49a5e6229a2848af",
+      "claim_id": "clm_ac_003",
+      "source_id": "src_efec34f4338810d3",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_7b92cab54e624ad7",
+      "claim_id": "clm_ac_004",
+      "source_id": "src_efec34f4338810d3",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_28cc38c5fdd04861",
+      "claim_id": "clm_ac_005",
+      "source_id": "src_efec34f4338810d3",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_d867e297d8854142",
+      "claim_id": "clm_ac_006",
+      "source_id": "src_4a4844d320bba091",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_91a8f179e00d4469",
+      "claim_id": "clm_ac_007",
+      "source_id": "src_efec34f4338810d3",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_53cde105dd4b4b9a",
+      "claim_id": "clm_ac_008",
+      "source_id": "src_efec34f4338810d3",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_1f9a3f3bde3c461c",
+      "claim_id": "clm_ac_009",
+      "source_id": "src_efec34f4338810d3",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_cdd0305af9a44848",
+      "claim_id": "clm_ac_010",
+      "source_id": "src_efec34f4338810d3",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_d0838248991a4813",
+      "claim_id": "clm_ac_011",
+      "source_id": "src_efec34f4338810d3",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_b80a7699783645b1",
+      "claim_id": "clm_ac_012",
+      "source_id": "src_efec34f4338810d3",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_34a7688471f74494",
+      "claim_id": "clm_ac_013",
+      "source_id": "src_efec34f4338810d3",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_c333926cc7114260",
+      "claim_id": "clm_ac_014",
+      "source_id": "src_efec34f4338810d3",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_2e5e933ef91649f7",
+      "claim_id": "clm_ac_015",
+      "source_id": "src_efec34f4338810d3",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_35fa699571af45bd",
+      "claim_id": "clm_ac_016",
+      "source_id": "src_efec34f4338810d3",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_26ec3c0c1eb44c5d",
+      "claim_id": "clm_ac_017",
+      "source_id": "src_efec34f4338810d3",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_2814f6aeda9843cd",
+      "claim_id": "clm_ac_018",
+      "source_id": "src_efec34f4338810d3",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_7ac30099e23b48da",
+      "claim_id": "clm_ac_019",
+      "source_id": "src_efec34f4338810d3",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_aab0102729dd48f8",
+      "claim_id": "clm_ac_020",
+      "source_id": "src_4a4844d320bba091",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_b46ff345b8b44605",
+      "claim_id": "clm_ac_021",
+      "source_id": "src_efec34f4338810d3",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_b97cad411a454044",
+      "claim_id": "clm_ac_022",
+      "source_id": "src_efec34f4338810d3",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_081c288d611d4d51",
+      "claim_id": "clm_ac_023",
+      "source_id": "src_efec34f4338810d3",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_a5dc9ffdfb6445e1",
+      "claim_id": "clm_ac_024",
+      "source_id": "src_efec34f4338810d3",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_cebc8b0c19984ac1",
+      "claim_id": "clm_ac_025",
+      "source_id": "src_efec34f4338810d3",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_2c3fcabf4a9c4be8",
+      "claim_id": "clm_ac_026",
+      "source_id": "src_efec34f4338810d3",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_a496abd7ab8642d6",
+      "claim_id": "clm_ac_027",
+      "source_id": "src_efec34f4338810d3",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_9cbf2bddd65c4890",
+      "claim_id": "clm_ac_028",
+      "source_id": "src_efec34f4338810d3",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_8db1bde8ea724514",
+      "claim_id": "clm_ac_029",
+      "source_id": "src_efec34f4338810d3",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_45b4125464274e58",
+      "claim_id": "clm_ac_030",
+      "source_id": "src_efec34f4338810d3",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "PUBLISH",
+    "note": "RU/EN pair passed structural and source validation; knowledge object derived from the editorial DOCX claim map.",
+    "converted_by": "Codex publication workflow",
+    "converted_at": "2026-08-11T00:00:00.000Z"
+  }
+}

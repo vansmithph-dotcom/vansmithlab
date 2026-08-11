@@ -1,0 +1,71 @@
+{
+  "content_id": "cnt_853875701cad1107",
+  "primary_object_id": "obj_f79d83207b9b45d8",
+  "content_type": "analysis",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.7,
+  "claim_ids": [
+    "clm_001",
+    "clm_002",
+    "clm_003",
+    "clm_004",
+    "clm_005",
+    "clm_006",
+    "clm_007",
+    "clm_008",
+    "clm_009",
+    "clm_010"
+  ],
+  "source_ids": [
+    "src_a8fd9b45d54d284c",
+    "src_2af9dab22474a3af",
+    "src_5dd316e15a8a8652",
+    "src_efec34f4338810d3",
+    "src_b2501d3d15b292aa",
+    "src_9c3c193ed8e6449d",
+    "src_d69b82b1bb1d988d",
+    "src_b4f9a64435904e0d",
+    "src_e1f8f81b9694e1f0",
+    "src_bc570b463ac4364e",
+    "src_abed2f402b90823d",
+    "src_3719c3de550b3bbf",
+    "src_8be3cce625d2379e",
+    "src_2870e1adee3d39df",
+    "src_ec39f484f51a8774"
+  ],
+  "last_reviewed": "2026-08-11",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "history-of-design-from-ancient-craft-to-digital-systems",
+  "title": "History of Design",
+  "summary": "From ancient craft and the Roman Empire to design schools, the Industrial Revolution and digital systems",
+  "discipline": [
+    "architecture",
+    "fashion",
+    "art",
+    "photography",
+    "graphic-design",
+    "product-design",
+    "interior-design",
+    "media-publishing"
+  ],
+  "kind": "theme",
+  "role": [],
+  "body_hash": "9d38519a04a470114ed3e82837ce93c09e7a1ed6b85514c9525d7082160afee8",
+  "translation": {
+    "source_locale": "ru",
+    "source_revision": 1,
+    "semantic_validated": true,
+    "review_run_id": "release-new-2026-08-11"
+  },
+  "hero_image": {
+    "src": "/images/analysis/history-of-design-from-ancient-craft-to-digital-systems-hero-v1.webp",
+    "alt": "Editorial AI illustration: From craft to digital systems: an editorial visualization of the history of design.",
+    "caption": "From craft to digital systems: an editorial visualization of the history of design.",
+    "credit": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "origin": "ai_illustration"
+  }
+}

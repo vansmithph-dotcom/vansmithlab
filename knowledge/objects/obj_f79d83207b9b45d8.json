@@ -1,0 +1,298 @@
+{
+  "id": "obj_f79d83207b9b45d8",
+  "type": "theme",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "История дизайна",
+  "slug_ru": "history-of-design-from-ancient-craft-to-digital-systems",
+  "summary_ru": "От античного ремесла и Римской империи до школ дизайна, промышленной революции и цифровых систем",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.7,
+  "created_at": "2026-08-11T00:00:00.000Z",
+  "updated_at": "2026-08-11T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_001",
+      "wording_ru": "До появления профессии «дизайнер» люди уже проектировали жизнь вокруг себя. Глиняный сосуд должен был не проливаться, нож — резать, сандалия — держаться на ноге, знак на монете — внушать доверие. Это ещё не дизайн как профессия, но уже дизайн как мышление: вещь должна работать, убеждать и жить вместе с человеком.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_002",
+      "wording_ru": "Рим важен для истории дизайна не только колоннами и арками. Империя дала одну из первых больших систем стандартизации: дороги, акведуки, керамика, стекло, мебель, военное снаряжение, монеты, надписи, общественные здания. Римская вещь часто была частью инфраструктуры: она не просто украшала дом, а обслуживала город, торговлю и власть.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_003",
+      "wording_ru": "Британская система дизайн-образования возникла не из романтической любви к красоте, а из экономической тревоги: промышленности нужны были люди, которые умеют улучшать форму изделий. Government School of Design была основана в 1837 году; позже рядом с Южным Кенсингтоном формировалась музейно-учебная машина, связанная с будущим V&A.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_004",
+      "wording_ru": "Arts and Crafts можно представить как момент, когда дизайнеры посмотрели на фабричную мебель и сказали: «так жить нельзя». Движение реагировало на индустриализацию и низкий статус декоративных искусств, возвращая уважение к ремеслу, материалу и честной работе руки.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_005",
+      "wording_ru": "Bauhaus был не просто школой с красивыми стульями. Это была лаборатория, где ремесло, искусство, архитектура, типографика, текстиль, фотография и промышленность пытались собрать новую модель жизни после Первой мировой войны. Школа существовала с 1919 по 1933 год, но её влияние оказалось непропорционально огромным.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_006",
+      "wording_ru": "MoMA описывает Bauhaus как место влиятельных разговоров о роли современного искусства и дизайна в обществе; выставки о школе показывают широту её практик — от мебели и архитектуры до графики, фотографии, текстиля, керамики и театра.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_007",
+      "wording_ru": "ВХУТЕМАС часто называют советской параллелью Bauhaus, но это не копия. Здесь спорили живопись, архитектура, производственное искусство, конструктивизм и новая педагогика. История ВХУТЕМАС показывает, что дизайн-образование в XX веке рождалось не из спокойного согласия, а из конфликта между академией, производством и революционной идеей.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_008",
+      "wording_ru": "HfG Ulm открылась в 1955 году и стала одной из ключевых школ послевоенного дизайна. Если Bauhaus ещё держал связь с искусством и ремеслом, Ulm сильнее повернул дизайн к науке, методологии, промышленному продукту, визуальной коммуникации и системам.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_009",
+      "wording_ru": "Во второй половине XX века дизайн окончательно выходит за пределы мастерской. Появляются советы по дизайну, профессиональные ассоциации, музеи дизайна, конкурсы, стандарты и образовательные программы. Британский Design Council, например, связывал улучшение промышленной продукции с образовательной и экономической повесткой.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_010",
+      "wording_ru": "Когда дизайн попадает в музей, обычная вещь получает вторую жизнь. Стул, чайник, плакат, интерфейс или кроссовок становятся не только товаром, но и документом эпохи. Cooper Hewitt, Design Museum, MoMA и другие институции показывают: дизайн — это история решений, а не только витрина красивых объектов.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_a8fd9b45d54d284c",
+      "title": "Roman Luxury Glass",
+      "url": "https://www.metmuseum.org/essays/roman-luxury-glass",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_2af9dab22474a3af",
+      "title": "Building the V&A",
+      "url": "https://www.vam.ac.uk/articles/building-the-museum",
+      "publisher": "Victoria and Albert Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_5dd316e15a8a8652",
+      "title": "History",
+      "url": "https://www.rca.ac.uk/more/history/",
+      "publisher": "Royal College of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_efec34f4338810d3",
+      "title": "Arts and Crafts: an introduction",
+      "url": "https://www.vam.ac.uk/articles/arts-and-crafts-an-introduction",
+      "publisher": "Victoria and Albert Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_b2501d3d15b292aa",
+      "title": "William Morris and historical design",
+      "url": "https://www.vam.ac.uk/articles/william-morris-and-historical-design",
+      "publisher": "Victoria and Albert Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_9c3c193ed8e6449d",
+      "title": "14 Years of Bauhaus: A Chronology From Its Founding in 1919 to Its Closure in 1933",
+      "url": "https://www.bauhaus.de/en/discover/article/14-years-of-bauhaus/",
+      "publisher": "Bauhaus-Archiv / Museum für Gestaltung",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_d69b82b1bb1d988d",
+      "title": "Bauhaus",
+      "url": "https://www.moma.org/collection/terms/bauhaus",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_b4f9a64435904e0d",
+      "title": "Bauhaus 1919–1933: Workshops for Modernity",
+      "url": "https://www.moma.org/calendar/exhibitions/303",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_e1f8f81b9694e1f0",
+      "title": "The History",
+      "url": "https://www.vkhutemas.ru/en/the-history/",
+      "publisher": "VKHUTEMAS",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_bc570b463ac4364e",
+      "title": "History",
+      "url": "https://hfg-archiv.museumulm.de/en/the-hfg-archive/history/",
+      "publisher": "HfG Archiv Ulm",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_abed2f402b90823d",
+      "title": "Timeline",
+      "url": "https://www.designcouncil.org.uk/who-we-are/about-us/timeline/",
+      "publisher": "Design Council",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_3719c3de550b3bbf",
+      "title": "Cooper Hewitt, Smithsonian Design Museum History",
+      "url": "https://www.cooperhewitt.org/design-topics/museum-history/",
+      "publisher": "Cooper Hewitt, Smithsonian Design Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_8be3cce625d2379e",
+      "title": "History of the International Council of Design",
+      "url": "https://www.theicod.org/en/council/history",
+      "publisher": "International Council of Design",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_2870e1adee3d39df",
+      "title": "The Story of the Design Museum",
+      "url": "https://designmuseum.org/about-the-museum/the-story-of-the-design-museum",
+      "publisher": "Design Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    },
+    {
+      "id": "src_ec39f484f51a8774",
+      "title": "About the Collection",
+      "url": "https://www.moma.org/collection/about/",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-10"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_1c83ddebade34243",
+      "claim_id": "clm_001",
+      "source_id": "src_a8fd9b45d54d284c",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_ca33553817fa4584",
+      "claim_id": "clm_002",
+      "source_id": "src_a8fd9b45d54d284c",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_f50b229e2b514504",
+      "claim_id": "clm_003",
+      "source_id": "src_2af9dab22474a3af",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_34c0db45d6554fe7",
+      "claim_id": "clm_004",
+      "source_id": "src_efec34f4338810d3",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_331318a5d2a24fdd",
+      "claim_id": "clm_005",
+      "source_id": "src_9c3c193ed8e6449d",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_c3b2c97a7749457d",
+      "claim_id": "clm_006",
+      "source_id": "src_d69b82b1bb1d988d",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_fe6d8ed1723547a4",
+      "claim_id": "clm_007",
+      "source_id": "src_e1f8f81b9694e1f0",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_cfe4d26fe6e94fef",
+      "claim_id": "clm_008",
+      "source_id": "src_bc570b463ac4364e",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_3be12c07c22744a1",
+      "claim_id": "clm_009",
+      "source_id": "src_abed2f402b90823d",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_f99d8cc023e04255",
+      "claim_id": "clm_010",
+      "source_id": "src_3719c3de550b3bbf",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "PUBLISH",
+    "note": "RU/EN pair passed structural and source validation; knowledge object derived from the editorial DOCX claim map.",
+    "converted_by": "Codex publication workflow",
+    "converted_at": "2026-08-11T00:00:00.000Z"
+  }
+}

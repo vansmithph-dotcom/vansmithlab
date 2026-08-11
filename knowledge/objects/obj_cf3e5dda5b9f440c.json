@@ -1,0 +1,945 @@
+{
+  "id": "obj_cf3e5dda5b9f440c",
+  "type": "theme",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "De Stijl",
+  "slug_ru": "de-stijl-grid-primary-colors-universal-order",
+  "summary_ru": "Сетка, первичные цвета и универсальный порядок",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.7,
+  "created_at": "2026-08-11T00:00:00.000Z",
+  "updated_at": "2026-08-11T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_ds_000",
+      "wording_ru": "De Stijl важен не потому, что подарил дизайну удобный набор чёрных линий и первичных цветов. Его радикальность в другом: движение попыталось превратить живопись, мебель, архитектуру, типографику и интерьер в части одной системы отношений. Именно поэтому оно стало одним из самых влиятельных прототипов современного системного дизайна.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ds_001",
+      "wording_ru": "Если смотреть на De Stijl через сувенирный магазин, движение легко свести к белому фону, чёрной сетке и трём ярким прямоугольникам. Исторически всё началось сложнее: в 1917 году Theo van Doesburg запустил журнал De Stijl как площадку для искусства, архитектуры и дизайна, которые искали общий язык нового порядка.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ds_002",
+      "wording_ru": "Поэтому De Stijl лучше понимать не как декоративный стиль, а как редакционную и проектную программу. Журнал собирал авторов, публиковал теорию, показывал мебель и архитектуру и превращал разрозненные эксперименты в узнаваемую систему.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ds_003",
+      "wording_ru": "Нидерланды во время Первой мировой войны сохраняли нейтралитет, но страна не была изолирована от ощущения европейского кризиса. Для части художников разрушение старого мира усилило вопрос: можно ли построить визуальный порядок, который не зависит от исторических стилей, национального вкуса и индивидуального жеста?.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ds_004",
+      "wording_ru": "Ответ De Stijl был почти утопическим. Гармония мыслилась не как уют, а как точное равновесие противоположностей: вертикального и горизонтального, цвета и пустоты, части и целого. Такая эстетика претендовала на универсальность и поэтому легко переходила из живописи в мебель и архитектуру.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ds_005",
+      "wording_ru": "Theo van Doesburg был не только художником. Он писал, редактировал, выступал, переписывался, строил международные связи и постоянно расширял поле De Stijl. MoMA и Tate называют его основателем и главным организующим двигателем движения.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ds_006",
+      "wording_ru": "Для VANSMITHLAB здесь важен редакционный урок: движение существует не только благодаря сильным изображениям, но и благодаря инфраструктуре распространения. Без журнала, манифестов, лекций и сетей контактов De Stijl мог остаться несколькими параллельными экспериментами.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ds_007",
+      "wording_ru": "Mondrian назвал свою систему неопластицизмом. Он постепенно убирал из картины предмет, диагональ, моделировку и локальный пейзаж, оставляя отношения прямых линий, прямоугольных полей и ограниченной палитры.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ds_008",
+      "wording_ru": "Важно, что редукция для Mondrian не была любовью к простоте ради простоты. Он искал равновесие без центра и без сюжетного героя. Картина должна была работать как поле сил, где ни один элемент не превращается в украшение другого.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ds_009",
+      "wording_ru": "Ранний язык неопластицизма строился на горизонталях и вертикалях. Для Mondrian это были не просто удобные направления сетки, а максимально ясные противоположности: вертикаль и горизонталь могут быть разными, но вместе создавать динамическое равновесие.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ds_010",
+      "wording_ru": "Именно поэтому появление диагонали у van Doesburg стало не формальной мелочью, а философским спором. Если система заявляет универсальные правила, любое новое направление ставит вопрос: правило развивается или перестаёт быть самим собой?.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ds_011",
+      "wording_ru": "Первичные красный, жёлтый и синий в сочетании с чёрным, белым и серым стали самым узнаваемым кодом De Stijl. Но этот набор работает только тогда, когда цвет распределяет вес композиции, а не просто делает поверхность «в стиле Mondrian».",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ds_012",
+      "wording_ru": "Белое поле столь же активно, как красный прямоугольник. Чёрная линия не окантовывает картинку, а организует отношения. Цвет здесь можно сравнить с конструктивным элементом: он держит напряжение, задаёт масштаб и определяет маршрут глаза.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ds_013",
+      "wording_ru": "Bart van der Leck пришёл к большим плоским зонам чистого цвета ещё до того, как язык De Stijl превратился в строгую сетку. Его работа помогла показать, что цвет может отделиться от описания объёма и действовать как самостоятельная плоскость.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ds_014",
+      "wording_ru": "Это полезно помнить, чтобы не превращать историю движения в дуэт Mondrian и van Doesburg. De Stijl складывался из пересечений художников, архитекторов и дизайнеров; общий язык рождался через различия, а не через мгновенно принятую инструкцию.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ds_015",
+      "wording_ru": "Vilmos Huszár разработал обложку первого номера журнала De Stijl. Уже на уровне печатной страницы движение предъявляло себя не как нейтральное издание об искусстве, а как визуальный объект со своей системой пропорций, букв и ритма.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ds_016",
+      "wording_ru": "Журнал важен ещё и потому, что позволил абстрактной эстетике жить в тиражируемой форме. Картина существует в одном месте, а страница путешествует. Это превращает De Stijl в ранний пример того, как editorial design помогает художественной идее стать международным языком.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ds_017",
+      "wording_ru": "Первый манифест De Stijl, опубликованный в 1918 году, противопоставлял старое и новое сознание, индивидуальное и универсальное. Формулировки были идеалистическими и жёсткими: искусство должно было участвовать в построении нового равновесия.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ds_018",
+      "wording_ru": "Сегодня этот универсализм стоит читать критически. Любая «универсальная» система создаётся конкретными людьми, в конкретной Европе и в конкретной исторической ситуации. Но амбиция движения важна: дизайн впервые столь настойчиво заявляет себя как инструмент организации не только вещи, но и мира.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ds_019",
+      "wording_ru": "De Stijl не имел одной школы, мастерской или города-центра. Это была сеть вокруг журнала и van Doesburg, в которой участники входили, спорили, уходили и работали в разных дисциплинах.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ds_020",
+      "wording_ru": "Такой формат объясняет одновременно силу и нестабильность движения. Он позволял идеям быстро мигрировать между живописью, архитектурой и мебелью, но не гарантировал общего согласия. De Stijl был скорее протоколом обсуждения, чем дисциплиной с единым учебным планом.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ds_021",
+      "wording_ru": "Gerrit Rietveld показал, что принципы De Stijl можно не только видеть, но и трогать. Его мебель раскладывает объект на рейки, плоскости, соединения и цветовые акценты так, будто стул перестал быть массивным телом и стал чертежом в пространстве.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ds_022",
+      "wording_ru": "Это не означает отказ от функции. Скорее функция перестаёт скрывать конструкцию. Пользователь видит, как вещь собрана, где проходит горизонталь, где вертикаль, где плоскость сиденья отделяется от каркаса. Объект становится уроком пространственного мышления.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ds_023",
+      "wording_ru": "Red Blue Chair создавался Rietveld с 1918 года и позже получил характерную цветовую схему De Stijl. MoMA подчёркивает, что его коллеги связывали такие формы с идеей нового гармоничного искусственного порядка после разрушений войны.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ds_024",
+      "wording_ru": "Стул необычен тем, что визуально сохраняет воздух вокруг тела. Плоскости сиденья и спинки не замыкаются в тяжёлый объём, а каркас продолжает пространство. Это мебель, которую можно читать одновременно как предмет и как трёхмерную композицию.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ds_025",
+      "wording_ru": "В Hanging Lamp Rietveld делает ещё один радикальный жест: светильник почти исчезает как привычный предмет. Световые трубки и линии подвеса формируют свободную пространственную графику.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ds_026",
+      "wording_ru": "Для современного дизайнера это важный принцип. Объект не обязан быть компактной «вещью». Он может быть системой элементов, распределённых в пространстве, а пустота между ними может работать так же активно, как материальная часть.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ds_027",
+      "wording_ru": "Архитектура De Stijl стремилась демонтировать идею здания как цельной тяжёлой коробки. Вместо этого фасад и интерьер читаются как набор независимых плоскостей, линий, выступов и цветовых полей, которые продолжаются за пределы одного фронтального вида.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ds_028",
+      "wording_ru": "Такое пространство требует движения зрителя. С одного угла композиция выглядит собранной, с другого — распадается и собирается заново. Архитектура становится временной последовательностью восприятия, а не единственной красивой картинкой фасада.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ds_029",
+      "wording_ru": "Rietveld Schröder House в Утрехте, построенный в 1924 году, UNESCO называет манифестом идеалов De Stijl и одной из икон модернистской архитектуры. Дом радикально соединяет плоскость, цвет, мебель и гибкое внутреннее пространство.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ds_030",
+      "wording_ru": "Внешне он похож на композицию из белых и серых плоскостей, пересечённых чёрными линиями и небольшими красно-жёлто-синими акцентами. Но важнее то, что эта логика продолжается внутри: архитектура и интерьер не разделяются на оболочку и декор.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ds_031",
+      "wording_ru": "Дом был заказан Truus Schröder-Schräder, и Centraal Museum подчёркивает, что она работала с Rietveld как активный партнёр, а не как пассивный заказчик. Её представления о жизни, свободе и изменяемом пространстве влияли на проект.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ds_032",
+      "wording_ru": "Эта история важна для дизайна шире архитектуры. Хороший заказчик может быть не препятствием автору, а источником новой типологии. Rietveld Schröder House возник из диалога между формальной системой и очень конкретным сценарием повседневной жизни.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ds_033",
+      "wording_ru": "Главный этаж дома можно изменять раздвижными и складными перегородками. Пространство способно быть открытым общим объёмом или разделяться на отдельные зоны. UNESCO отмечает гибкость как одно из ключевых качеств здания.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ds_034",
+      "wording_ru": "Это разрушает стереотип о De Stijl как о жёсткой сетке. На самом деле строгая визуальная грамматика может обслуживать изменяемую жизнь. Система правил не обязательно фиксирует пространство; она может сделать трансформацию понятной и управляемой.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ds_035",
+      "wording_ru": "В 1923 году Theo van Doesburg и архитектор Cornelis van Eesteren создали серию Contra-Construction. MoMA описывает эти аксонометрические проекты как попытку сформировать гармоничный новый порядок через разомкнутые пространственные элементы.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ds_036",
+      "wording_ru": "Здесь цветные плоскости уже не выглядят как фасад дома. Они парят, пересекаются и уходят в глубину, как если бы живопись Mondrian получила оси X, Y и Z. Рисунок становится лабораторией архитектуры, а не просто её иллюстрацией.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ds_037",
+      "wording_ru": "Аксонометрия особенно подходила De Stijl, потому что не привязывает проект к одной перспективной точке зрения. Она позволяет видеть несколько плоскостей одновременно и читать пространство как систему отношений.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ds_038",
+      "wording_ru": "Современный 3D-дизайнер узнает в этом знакомую логику exploded view: объект можно мысленно разложить на слои и узлы, не теряя целого. De Stijl рано понял, что способ изображения проекта влияет на способ проектирования.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ds_039",
+      "wording_ru": "В середине 1920-х van Doesburg вводит Elementarism и разрешает диагональ. Для него это добавляло динамику; для Mondrian нарушало фундаментальное равновесие вертикали и горизонтали. Их пути разошлись.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ds_040",
+      "wording_ru": "Спор полезен тем, что показывает предел любой дизайн-системы. Слишком мягкая система растворяется в произвольности, слишком жёсткая перестаёт развиваться. История De Stijl — это не только создание правил, но и проверка того, сколько напряжения правила способны выдержать.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ds_041",
+      "wording_ru": "В интерьерах Aubette в Страсбурге, созданных van Doesburg вместе с Jean Arp и Sophie Taeuber-Arp, абстрактная система вошла в ресторан, танцевальные залы и кино. MoMA связывает проект с развитием Elementarism.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ds_042",
+      "wording_ru": "Это почти противоположность музейной тишине. Геометрия встречается с движущимися телами, музыкой, вечерним светом и социальной жизнью. De Stijl становится environment — средой, которая меняется вместе со зрителем.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ds_043",
+      "wording_ru": "Страница De Stijl организована как архитектура малого масштаба: поля, полосы, буквы, интервалы и пустота должны держать композицию. Van Doesburg экспериментировал с типографикой и печатными материалами так же настойчиво, как с живописью.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ds_044",
+      "wording_ru": "Отсюда идёт важная линия к современному editorial и interface design. Сетка не обязана быть невидимым техническим инструментом; она может стать выраженным ритмом бренда. Но её задача — организовать информацию, а не просто напомнить о Mondrian.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ds_045",
+      "wording_ru": "Van Doesburg активно контактировал с Bauhaus и читал там лекции, хотя формально De Stijl и Bauhaus не были одной школой. Оба проекта искали новый язык для искусства, архитектуры и дизайна, но Bauhaus сильнее связывал эксперимент с обучением, мастерскими и производством.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ds_046",
+      "wording_ru": "De Stijl был более теоретически концентрирован на универсальном визуальном порядке. Их пересечение важно именно как обмен, а не как история «кто кого придумал». Европейский модернизм формировался через сеть путешествий, журналов и споров.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ds_047",
+      "wording_ru": "Конструктивизм и De Stijl часто выглядят родственниками из-за геометрии, типографики и отказа от академической иллюзии. Но историческая температура разная. Русский конструктивизм был теснее связан с революционной политикой, производством и агитацией.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ds_048",
+      "wording_ru": "De Stijl говорил о новом обществе более универсалистским и абстрактным языком. Если конструктивистская диагональ часто толкает взгляд как команда, De Stijl стремится удержать равновесие. Сходные формы могут обслуживать разные идеи.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ds_049",
+      "wording_ru": "Самая знаменитая модная цитата из наследия De Stijl — коллекция Yves Saint Laurent осень-зима 1965-66 с платьями, посвящёнными Mondrian. The Met подчёркивает, что цветовые блоки были не просто напечатаны: конструкция из джерси и швов поддерживала геометрию на движущемся теле.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_ds_050",
+      "wording_ru": "Именно здесь проходит граница между цитатой и костюмом «под Mondrian». Сильная адаптация переводит принцип в новую материальную задачу. Слабая — просто наносит чёрные линии и три цвета на поверхность, не меняя крой, пропорцию или поведение вещи.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_6c6da642ae1878ba",
+      "title": "De Stijl",
+      "url": "https://www.tate.org.uk/art/art-terms/d/de-stijl",
+      "publisher": "Tate",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_21a7f1a6014edbb0",
+      "title": "de Stijl",
+      "url": "https://www.moma.org/collection/terms/de-stijl",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_2341b8a045a08f20",
+      "title": "De Stijl, 1917–1928",
+      "url": "https://www.moma.org/documents/moma_catalogue_1798_300159061.pdf",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_0ed81a771450e248",
+      "title": "De Stijl",
+      "url": "https://www.kunstmuseum.nl/en/collections/de-stijl",
+      "publisher": "Kunstmuseum Den Haag",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_afcfc7e19b69a3f7",
+      "title": "Neo-Plasticism",
+      "url": "https://www.moma.org/collection/terms/neo-plasticism",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_bf654d4ee88bfc6c",
+      "title": "Neo-plasticism",
+      "url": "https://www.tate.org.uk/art/art-terms/n/neo-plasticism",
+      "publisher": "Tate",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_1d2d621bb04adccf",
+      "title": "Piet Mondrian 1872–1944",
+      "url": "https://www.tate.org.uk/art/artists/piet-mondrian-1651",
+      "publisher": "Tate",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_36a900a8546f6ecc",
+      "title": "Gerrit Rietveld. Red Blue Chair. 1918–1923",
+      "url": "https://www.moma.org/collection/works/4044",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_b8004d58520bdec7",
+      "title": "De rood-blauwe lattenstoel van Gerrit Rietveld",
+      "url": "https://www.centraalmuseum.nl/nl/ontdek/podcast-kunst-centraal-5",
+      "publisher": "Centraal Museum Utrecht",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_e9cfdc7e536bcd6a",
+      "title": "Hanging Lamp — Gerrit Rietveld",
+      "url": "https://www.moma.org/collection/works/3703",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_26925b6650f742f7",
+      "title": "Rietveld Schröderhuis (Rietveld Schröder House)",
+      "url": "https://whc.unesco.org/en/list/965/",
+      "publisher": "UNESCO World Heritage Centre",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_af30c0a5b3d16c08",
+      "title": "Het Rietveld Schröderhuis",
+      "url": "https://www.centraalmuseum.nl/nl/ontdek/podcast-kunst-centraal-aflevering-9",
+      "publisher": "Centraal Museum Utrecht",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_04a8c369d4e6e24e",
+      "title": "Theo van Doesburg, Cornelis van Eesteren. Contra-Construction Project (Axonometric), 1923",
+      "url": "https://www.moma.org/collection/works/232",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_d18f525f00fd4a87",
+      "title": "Van Doesburg and the International Avant-Garde",
+      "url": "https://www.tate.org.uk/whats-on/tate-modern/van-doesburg-and-international-avant-garde",
+      "publisher": "Tate Modern",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_552563501da9bcac",
+      "title": "Theo van Doesburg. Café Aubette, Strasbourg, France. 1927",
+      "url": "https://www.moma.org/collection/works/976",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_8175c9502e4d08e3",
+      "title": "100 years de stijl",
+      "url": "https://www.stedelijk.nl/en/theme/100-years-de-stijl",
+      "publisher": "Stedelijk Museum Amsterdam",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_0d41911e526db625",
+      "title": "Yves Saint Laurent — Dress, fall/winter 1965–66",
+      "url": "https://www.metmuseum.org/art/collection/search/83442",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_7d4594f98ac2fb65",
+      "title": "Yves Saint Laurent: When Fashion Meets Art",
+      "url": "https://www.metmuseum.org/perspectives/yves-saint-laurent",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    },
+    {
+      "id": "src_72da0f4d8cde1b80",
+      "title": "Inventing Abstraction — Theo van Doesburg",
+      "url": "https://www.moma.org/interactives/exhibitions/2012/inventingabstraction/?work=208",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-11"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_4cd27dda4ef74bcd",
+      "claim_id": "clm_ds_000",
+      "source_id": "src_6c6da642ae1878ba",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_187d95a8a91e4301",
+      "claim_id": "clm_ds_001",
+      "source_id": "src_6c6da642ae1878ba",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_a5a7c5329eab4111",
+      "claim_id": "clm_ds_002",
+      "source_id": "src_6c6da642ae1878ba",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_462647cf15994a52",
+      "claim_id": "clm_ds_003",
+      "source_id": "src_6c6da642ae1878ba",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_7e23564d46d945fe",
+      "claim_id": "clm_ds_004",
+      "source_id": "src_6c6da642ae1878ba",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_84b05046c1a84e75",
+      "claim_id": "clm_ds_005",
+      "source_id": "src_1d2d621bb04adccf",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_d7b44719e8024053",
+      "claim_id": "clm_ds_006",
+      "source_id": "src_6c6da642ae1878ba",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_ba1e71157a994292",
+      "claim_id": "clm_ds_007",
+      "source_id": "src_6c6da642ae1878ba",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_c50c48a395714bf9",
+      "claim_id": "clm_ds_008",
+      "source_id": "src_6c6da642ae1878ba",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_fba387a8af1d402c",
+      "claim_id": "clm_ds_009",
+      "source_id": "src_6c6da642ae1878ba",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_2eb24d7e6bcd4d5a",
+      "claim_id": "clm_ds_010",
+      "source_id": "src_6c6da642ae1878ba",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_ab0d4b5d288341ff",
+      "claim_id": "clm_ds_011",
+      "source_id": "src_6c6da642ae1878ba",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_bd606f75da214d89",
+      "claim_id": "clm_ds_012",
+      "source_id": "src_6c6da642ae1878ba",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_273276bccf834301",
+      "claim_id": "clm_ds_013",
+      "source_id": "src_6c6da642ae1878ba",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_ae1783d7bc034fc1",
+      "claim_id": "clm_ds_014",
+      "source_id": "src_6c6da642ae1878ba",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_d2e8193b4d6a40b5",
+      "claim_id": "clm_ds_015",
+      "source_id": "src_6c6da642ae1878ba",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_5444428bb3e84a65",
+      "claim_id": "clm_ds_016",
+      "source_id": "src_6c6da642ae1878ba",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_cb00a1dd25cd4033",
+      "claim_id": "clm_ds_017",
+      "source_id": "src_6c6da642ae1878ba",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_76aa3e5521be4b33",
+      "claim_id": "clm_ds_018",
+      "source_id": "src_6c6da642ae1878ba",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_61d0432db1c34206",
+      "claim_id": "clm_ds_019",
+      "source_id": "src_6c6da642ae1878ba",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_6470c9f33a8e46dd",
+      "claim_id": "clm_ds_020",
+      "source_id": "src_6c6da642ae1878ba",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_c13e461329724496",
+      "claim_id": "clm_ds_021",
+      "source_id": "src_6c6da642ae1878ba",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_ff327cf7a94d400f",
+      "claim_id": "clm_ds_022",
+      "source_id": "src_6c6da642ae1878ba",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_4228d3d37d2747fc",
+      "claim_id": "clm_ds_023",
+      "source_id": "src_6c6da642ae1878ba",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_a980726ff2b54227",
+      "claim_id": "clm_ds_024",
+      "source_id": "src_6c6da642ae1878ba",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_b33f7c2a96264612",
+      "claim_id": "clm_ds_025",
+      "source_id": "src_6c6da642ae1878ba",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_a3e299f024fa4ea7",
+      "claim_id": "clm_ds_026",
+      "source_id": "src_6c6da642ae1878ba",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_990fd032a2ca41ae",
+      "claim_id": "clm_ds_027",
+      "source_id": "src_6c6da642ae1878ba",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_22479b2e868e408b",
+      "claim_id": "clm_ds_028",
+      "source_id": "src_6c6da642ae1878ba",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_8dd57d06ed854d39",
+      "claim_id": "clm_ds_029",
+      "source_id": "src_6c6da642ae1878ba",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_ff5b0db7e23e419c",
+      "claim_id": "clm_ds_030",
+      "source_id": "src_6c6da642ae1878ba",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_210e154368444201",
+      "claim_id": "clm_ds_031",
+      "source_id": "src_6c6da642ae1878ba",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_acb2a660dba34b63",
+      "claim_id": "clm_ds_032",
+      "source_id": "src_6c6da642ae1878ba",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_64dc35d97e264722",
+      "claim_id": "clm_ds_033",
+      "source_id": "src_6c6da642ae1878ba",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_51938bb71d6e4d2f",
+      "claim_id": "clm_ds_034",
+      "source_id": "src_6c6da642ae1878ba",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_ce13de0682f14347",
+      "claim_id": "clm_ds_035",
+      "source_id": "src_6c6da642ae1878ba",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_5fe72ed666b845a8",
+      "claim_id": "clm_ds_036",
+      "source_id": "src_6c6da642ae1878ba",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_89551994ecbe42ab",
+      "claim_id": "clm_ds_037",
+      "source_id": "src_6c6da642ae1878ba",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_bd905d7c99bc4371",
+      "claim_id": "clm_ds_038",
+      "source_id": "src_6c6da642ae1878ba",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_c1f8f452d8054467",
+      "claim_id": "clm_ds_039",
+      "source_id": "src_6c6da642ae1878ba",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_44577e70ee2b4d10",
+      "claim_id": "clm_ds_040",
+      "source_id": "src_6c6da642ae1878ba",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_3931e462558544c3",
+      "claim_id": "clm_ds_041",
+      "source_id": "src_6c6da642ae1878ba",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_8b848c6d7a144c02",
+      "claim_id": "clm_ds_042",
+      "source_id": "src_6c6da642ae1878ba",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_919360f17adf4c86",
+      "claim_id": "clm_ds_043",
+      "source_id": "src_6c6da642ae1878ba",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_a0ae28fcb6b64a85",
+      "claim_id": "clm_ds_044",
+      "source_id": "src_6c6da642ae1878ba",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_910c0043e1534cc1",
+      "claim_id": "clm_ds_045",
+      "source_id": "src_6c6da642ae1878ba",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_b72e5cd82b654352",
+      "claim_id": "clm_ds_046",
+      "source_id": "src_6c6da642ae1878ba",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_5630ef38197244c6",
+      "claim_id": "clm_ds_047",
+      "source_id": "src_6c6da642ae1878ba",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_618638b2b47c41ce",
+      "claim_id": "clm_ds_048",
+      "source_id": "src_6c6da642ae1878ba",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_333328e251d844fc",
+      "claim_id": "clm_ds_049",
+      "source_id": "src_6c6da642ae1878ba",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_364a8731b06b4b76",
+      "claim_id": "clm_ds_050",
+      "source_id": "src_6c6da642ae1878ba",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "PUBLISH",
+    "note": "RU/EN pair passed structural and source validation; knowledge object derived from the editorial DOCX claim map.",
+    "converted_by": "Codex publication workflow",
+    "converted_at": "2026-08-11T00:00:00.000Z"
+  }
+}
