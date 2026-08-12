@@ -1,0 +1,36 @@
+{
+  "asset_id": "asset_william-klein-city-grain-fashion-cinema_card_v1",
+  "primary_object_id": "",
+  "content_release_id": "cnt_efd762e1e89d8e2b",
+  "kind": "image",
+  "origin": "ai_illustration",
+  "locale": "multilingual",
+  "educational_purpose": "Visualize Klein's method as the street brought into fashion — coarse grain, wide-angle proximity and a cinematic sense of the city — without reproducing protected photographs.",
+  "may_depict": [
+    "A crowded street seen from very close with a wide lens",
+    "Heavy black-and-white grain and blur",
+    "Painted contact-sheet marks over a city frame"
+  ],
+  "must_not_imply": [
+    "The image documents a real photograph or person",
+    "The image is attributable to a named photographer"
+  ],
+  "rights": {
+    "state": "generated_reviewed",
+    "disclosure": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "rights_basis": "Original AI visual generated for VANSMITHLAB without reference images or copied identifiable work.",
+    "third_party_marks": "No logo, wordmark or recognisable branded asset."
+  },
+  "accessibility": {
+    "alt_text_ru": "Редакционная AI-иллюстрация: плотная улица через широкоугольный объектив, грубое зерно и следы разметки контрольного листа.",
+    "alt_text_en": "Editorial AI illustration: a crowded street through a wide lens, coarse grain and contact-sheet marks.",
+    "caption_ru": "Город, зерно, мода и кино: визуализация метода Уильяма Кляйна.",
+    "caption_en": "City, grain, fashion and cinema: a visualization of William Klein's method."
+  },
+  "creator": "OpenAI image generation · directed and reviewed by VANSMITHLAB",
+  "created_at": "2026-08-12",
+  "asset_path": "public/images/glossary/photographers/william-klein-city-grain-fashion-cinema-hero-v1-card.webp",
+  "generation_prompt_class": "original fictional editorial visual for william-klein-city-grain-fashion-cinema",
+  "workflow_run_id": "run_20260812_art_directors_photographers",
+  "content_sha256": ""
+}

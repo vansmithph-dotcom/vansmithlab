@@ -1,0 +1,36 @@
+{
+  "asset_id": "asset_bea-feitler-rhythm-color-editorial-freedom_portrait_v1",
+  "primary_object_id": "",
+  "content_release_id": "cnt_6870f721b2b0b584",
+  "kind": "image",
+  "origin": "ai_reconstruction",
+  "locale": "multilingual",
+  "educational_purpose": "Provide an honest editorial portrait reconstruction of Bea Feitler without copying a specific protected photograph.",
+  "may_depict": [
+    "A young woman leaning over spreads laid out on the floor",
+    "Colour proofs and a grease pencil in hand",
+    "Warm daylight in a 1970s editorial office"
+  ],
+  "must_not_imply": [
+    "The image documents a real photograph or person",
+    "The image is attributable to a named photographer"
+  ],
+  "rights": {
+    "state": "generated_reviewed",
+    "disclosure": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "rights_basis": "Original AI visual generated for VANSMITHLAB without reference images or copied identifiable work.",
+    "third_party_marks": "No logo, wordmark or recognisable branded asset."
+  },
+  "accessibility": {
+    "alt_text_ru": "AI-реконструкция портрета: Беа Фейтлер, арт-директор.",
+    "alt_text_en": "AI reconstruction of a portrait of Bea Feitler, art director.",
+    "caption_ru": "Беа Фейтлер, арт-директор. AI-реконструкция портрета по публичным референсам.",
+    "caption_en": "Bea Feitler, art director. AI portrait reconstruction from public references."
+  },
+  "creator": "OpenAI image generation · directed and reviewed by VANSMITHLAB",
+  "created_at": "2026-08-12",
+  "asset_path": "public/images/glossary/art-directors/bea-feitler-rhythm-color-editorial-freedom-portrait-ai-v1.webp",
+  "generation_prompt_class": "original fictional editorial visual for bea-feitler-rhythm-color-editorial-freedom",
+  "workflow_run_id": "run_20260812_art_directors_photographers",
+  "content_sha256": ""
+}

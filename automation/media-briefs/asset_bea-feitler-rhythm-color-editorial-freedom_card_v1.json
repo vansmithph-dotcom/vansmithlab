@@ -1,0 +1,36 @@
+{
+  "asset_id": "asset_bea-feitler-rhythm-color-editorial-freedom_card_v1",
+  "primary_object_id": "",
+  "content_release_id": "cnt_6870f721b2b0b584",
+  "kind": "image",
+  "origin": "ai_illustration",
+  "locale": "multilingual",
+  "educational_purpose": "Visualize Feitler's method as rhythm across a sequence of pages and saturated colour used as structure, without reproducing protected magazine spreads.",
+  "may_depict": [
+    "A run of open spreads read as one rhythmic sequence",
+    "Saturated blocks of colour dividing a page",
+    "Bold display type meeting a full-bleed image"
+  ],
+  "must_not_imply": [
+    "The image documents a real photograph or person",
+    "The image is attributable to a named photographer"
+  ],
+  "rights": {
+    "state": "generated_reviewed",
+    "disclosure": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "rights_basis": "Original AI visual generated for VANSMITHLAB without reference images or copied identifiable work.",
+    "third_party_marks": "No logo, wordmark or recognisable branded asset."
+  },
+  "accessibility": {
+    "alt_text_ru": "Редакционная AI-иллюстрация: последовательность разворотов, насыщенные цветовые блоки и крупная акцидентная типографика.",
+    "alt_text_en": "Editorial AI illustration: a sequence of spreads, saturated colour blocks and bold display type.",
+    "caption_ru": "Ритм, цвет и редакционная свобода: визуализация метода Беа Фейтлер.",
+    "caption_en": "Rhythm, colour and editorial freedom: a visualization of Bea Feitler's method."
+  },
+  "creator": "OpenAI image generation · directed and reviewed by VANSMITHLAB",
+  "created_at": "2026-08-12",
+  "asset_path": "public/images/glossary/art-directors/bea-feitler-rhythm-color-editorial-freedom-hero-v1-card.webp",
+  "generation_prompt_class": "original fictional editorial visual for bea-feitler-rhythm-color-editorial-freedom",
+  "workflow_run_id": "run_20260812_art_directors_photographers",
+  "content_sha256": ""
+}

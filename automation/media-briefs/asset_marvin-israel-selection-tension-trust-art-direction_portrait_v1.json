@@ -1,0 +1,36 @@
+{
+  "asset_id": "asset_marvin-israel-selection-tension-trust-art-direction_portrait_v1",
+  "primary_object_id": "",
+  "content_release_id": "cnt_985bf3313c7f2334",
+  "kind": "image",
+  "origin": "ai_reconstruction",
+  "locale": "multilingual",
+  "educational_purpose": "Provide an honest editorial portrait reconstruction of Marvin Israel without copying a specific protected photograph.",
+  "may_depict": [
+    "A man in shirtsleeves at a table covered with prints",
+    "A grease pencil held over a contact sheet",
+    "Low directional light in a dim workroom"
+  ],
+  "must_not_imply": [
+    "The image documents a real photograph or person",
+    "The image is attributable to a named photographer"
+  ],
+  "rights": {
+    "state": "generated_reviewed",
+    "disclosure": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "rights_basis": "Original AI visual generated for VANSMITHLAB without reference images or copied identifiable work.",
+    "third_party_marks": "No logo, wordmark or recognisable branded asset."
+  },
+  "accessibility": {
+    "alt_text_ru": "AI-реконструкция портрета: Марвин Изрейел, арт-директор и художник.",
+    "alt_text_en": "AI reconstruction of a portrait of Marvin Israel, art director and artist.",
+    "caption_ru": "Марвин Изрейел, арт-директор и художник. AI-реконструкция портрета по публичным референсам.",
+    "caption_en": "Marvin Israel, art director and artist. AI portrait reconstruction from public references."
+  },
+  "creator": "OpenAI image generation · directed and reviewed by VANSMITHLAB",
+  "created_at": "2026-08-12",
+  "asset_path": "public/images/glossary/art-directors/marvin-israel-selection-tension-trust-art-direction-portrait-ai-v1.webp",
+  "generation_prompt_class": "original fictional editorial visual for marvin-israel-selection-tension-trust-art-direction",
+  "workflow_run_id": "run_20260812_art_directors_photographers",
+  "content_sha256": ""
+}

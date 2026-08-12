@@ -1,0 +1,36 @@
+{
+  "asset_id": "asset_juergen-teller-flash-intimacy-anti-glamour_portrait_v1",
+  "primary_object_id": "",
+  "content_release_id": "cnt_d33114914102a130",
+  "kind": "image",
+  "origin": "ai_reconstruction",
+  "locale": "multilingual",
+  "educational_purpose": "Provide an honest editorial portrait reconstruction of Juergen Teller without copying a specific protected photograph.",
+  "may_depict": [
+    "A man holding a compact camera with a flash unit",
+    "An unremarkable domestic corner behind him",
+    "Flat frontal flash light"
+  ],
+  "must_not_imply": [
+    "The image documents a real photograph or person",
+    "The image is attributable to a named photographer"
+  ],
+  "rights": {
+    "state": "generated_reviewed",
+    "disclosure": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "rights_basis": "Original AI visual generated for VANSMITHLAB without reference images or copied identifiable work.",
+    "third_party_marks": "No logo, wordmark or recognisable branded asset."
+  },
+  "accessibility": {
+    "alt_text_ru": "AI-реконструкция портрета: Юрген Теллер, фотограф.",
+    "alt_text_en": "AI reconstruction of a portrait of Juergen Teller, photographer.",
+    "caption_ru": "Юрген Теллер, фотограф. AI-реконструкция портрета по публичным референсам.",
+    "caption_en": "Juergen Teller, photographer. AI portrait reconstruction from public references."
+  },
+  "creator": "OpenAI image generation · directed and reviewed by VANSMITHLAB",
+  "created_at": "2026-08-12",
+  "asset_path": "public/images/glossary/photographers/juergen-teller-flash-intimacy-anti-glamour-portrait-ai-v1.webp",
+  "generation_prompt_class": "original fictional editorial visual for juergen-teller-flash-intimacy-anti-glamour",
+  "workflow_run_id": "run_20260812_art_directors_photographers",
+  "content_sha256": ""
+}

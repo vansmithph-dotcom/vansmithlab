@@ -1,0 +1,36 @@
+{
+  "asset_id": "asset_alexander-liberman-eye-magazine-editorial-power_card_v1",
+  "primary_object_id": "",
+  "content_release_id": "cnt_ae18fb3982489bab",
+  "kind": "image",
+  "origin": "ai_illustration",
+  "locale": "multilingual",
+  "educational_purpose": "Visualize Liberman's method as editorial control over the magazine page and the sculptural work that ran beside it, without reproducing protected Vogue spreads.",
+  "may_depict": [
+    "A wall of magazine spreads arranged as a single editorial grid",
+    "A cropped photographic portrait enlarged to fill a page",
+    "Painted steel forms in an open landscape"
+  ],
+  "must_not_imply": [
+    "The image documents a real photograph or person",
+    "The image is attributable to a named photographer"
+  ],
+  "rights": {
+    "state": "generated_reviewed",
+    "disclosure": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "rights_basis": "Original AI visual generated for VANSMITHLAB without reference images or copied identifiable work.",
+    "third_party_marks": "No logo, wordmark or recognisable branded asset."
+  },
+  "accessibility": {
+    "alt_text_ru": "Редакционная AI-иллюстрация: стена журнальных разворотов, укрупнённый кадр и стальные формы в ландшафте.",
+    "alt_text_en": "Editorial AI illustration: a wall of magazine spreads, an enlarged frame and steel forms in a landscape.",
+    "caption_ru": "Глаз, журнал и редакционная власть: визуализация метода Александра Либермана.",
+    "caption_en": "The eye, the magazine and editorial power: a visualization of Alexander Liberman's method."
+  },
+  "creator": "OpenAI image generation · directed and reviewed by VANSMITHLAB",
+  "created_at": "2026-08-12",
+  "asset_path": "public/images/glossary/art-directors/alexander-liberman-eye-magazine-editorial-power-hero-v1-card.webp",
+  "generation_prompt_class": "original fictional editorial visual for alexander-liberman-eye-magazine-editorial-power",
+  "workflow_run_id": "run_20260812_art_directors_photographers",
+  "content_sha256": ""
+}

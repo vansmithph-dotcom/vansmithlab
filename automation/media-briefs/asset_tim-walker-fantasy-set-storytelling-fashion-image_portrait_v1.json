@@ -1,0 +1,36 @@
+{
+  "asset_id": "asset_tim-walker-fantasy-set-storytelling-fashion-image_portrait_v1",
+  "primary_object_id": "",
+  "content_release_id": "cnt_57a2ce8293233775",
+  "kind": "image",
+  "origin": "ai_reconstruction",
+  "locale": "multilingual",
+  "educational_purpose": "Provide an honest editorial portrait reconstruction of Tim Walker without copying a specific protected photograph.",
+  "may_depict": [
+    "A man directing on a large constructed set",
+    "Painted scenery and rigging visible behind him",
+    "Warm soft light"
+  ],
+  "must_not_imply": [
+    "The image documents a real photograph or person",
+    "The image is attributable to a named photographer"
+  ],
+  "rights": {
+    "state": "generated_reviewed",
+    "disclosure": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "rights_basis": "Original AI visual generated for VANSMITHLAB without reference images or copied identifiable work.",
+    "third_party_marks": "No logo, wordmark or recognisable branded asset."
+  },
+  "accessibility": {
+    "alt_text_ru": "AI-реконструкция портрета: Тим Уокер, фотограф.",
+    "alt_text_en": "AI reconstruction of a portrait of Tim Walker, photographer.",
+    "caption_ru": "Тим Уокер, фотограф. AI-реконструкция портрета по публичным референсам.",
+    "caption_en": "Tim Walker, photographer. AI portrait reconstruction from public references."
+  },
+  "creator": "OpenAI image generation · directed and reviewed by VANSMITHLAB",
+  "created_at": "2026-08-12",
+  "asset_path": "public/images/glossary/photographers/tim-walker-fantasy-set-storytelling-fashion-image-portrait-ai-v1.webp",
+  "generation_prompt_class": "original fictional editorial visual for tim-walker-fantasy-set-storytelling-fashion-image",
+  "workflow_run_id": "run_20260812_art_directors_photographers",
+  "content_sha256": ""
+}
