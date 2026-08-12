@@ -1,0 +1,668 @@
+{
+  "id": "obj_c701fc4c18144b17",
+  "type": "theme",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Hiro",
+  "slug_ru": "hiro-light-color-surreal-precision",
+  "summary_ru": "Свет, цвет и сюрреалистическая точность",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.7,
+  "created_at": "2026-08-11T00:00:00.000Z",
+  "updated_at": "2026-08-11T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_hiro_thesis",
+      "wording_ru": "Значение Hiro — в соединении двух качеств, которые часто считают противоположными: абсолютного контроля и настоящего удивления. Его фотографии доказывают, что сильная коммерческая картинка не обязана выбирать между ясностью продукта и авторским воображением.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_hiro_short",
+      "wording_ru": "Через строгую систему света, цвета, масштаба, ракурса и сопоставления. Hiro не маскирует объект эффектами: он настолько точно перестраивает контекст вокруг него, что привычная вещь начинает выглядеть неизвестной.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_hiro_001",
+      "wording_ru": "Yasuhiro Wakabayashi, известный профессионально как Hiro, родился в Шанхае в 1930 году в японской семье. Museum of Fine Arts Boston и Getty фиксируют эту сложную биографическую географию: Китай как место рождения, Япония как послевоенный этап и США как пространство профессионального становления.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_hiro_002",
+      "wording_ru": "После Второй мировой войны семья Hiro вернулась в Японию. Его юность прошла в период, когда страна перестраивала собственную материальную и визуальную культуру после катастрофы войны.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_hiro_003",
+      "wording_ru": "В 1954 году Hiro приехал в США. Официальный архив и MFA указывают этот год как начало американского этапа, где он стремился профессионально изучать фотографию и вскоре оказался внутри нью-йоркской fashion-среды.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_hiro_004",
+      "wording_ru": "В 1956 году Hiro работал в студии Richard Avedon. По версии официального архива, Avedon быстро понял, что помощник способен на самостоятельную работу, и познакомил его с Alexey Brodovitch.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_hiro_005",
+      "wording_ru": "Alexey Brodovitch был арт-директором Harper’s Bazaar с 1934 по 1958 год и сделал фотографию центральной частью визуальной идентичности журнала. Barnes Foundation подчёркивает его влияние на целое поколение фотографов и дизайнеров.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_hiro_006",
+      "wording_ru": "Официальный архив Hiro датирует его приглашение в Harper’s Bazaar 1958 годом. К этому моменту журнал уже был лабораторией взаимодействия фотографии и графического дизайна, а 1960-е открывали следующую фазу — концептуальные fashion images, смелый цвет и нестандартные композиции.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_hiro_007",
+      "wording_ru": "В 1963 году Hiro стал единственным фотографом Harper’s Bazaar, работавшим по эксклюзивному контракту; International Photography Hall of Fame и официальный архив указывают, что этот статус сохранялся более десяти лет.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_hiro_008",
+      "wording_ru": "Richard Avedon позднее описывал Hiro как человека, который всю жизнь остаётся в некотором смысле посетителем — не полностью принадлежащим ни одной культурной системе. International Photography Hall of Fame пересказывает эту характеристику как ключ к его способности смотреть на Восток и Запад с дистанцией.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_hiro_009",
+      "wording_ru": "Фотографии Hiro часто производят впечатление мгновенного визуального фокуса, но за ними стоит сложная постановочная работа. Официальный архив подчёркивает его техническое мастерство, внимание к деталям и чрезвычайную точность реализации.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_hiro_010",
+      "wording_ru": "Цвет у Hiro редко служит просто украшением. MFA и Hamiltons выделяют смелую работу с цветом как один из его ключевых признаков.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_hiro_011",
+      "wording_ru": "Свет в студии Hiro ощущается почти материальным. Он не только делает объект видимым, но и меняет его статус: металл становится жидким, ткань — графической плоскостью, кожа — рельефом, прозрачный материал — источником внутреннего свечения.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_hiro_012",
+      "wording_ru": "Одно из главных оружий Hiro — ракурс. Hamiltons отмечает неожиданные перспективы и углы как постоянную характеристику его работ.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_hiro_013",
+      "wording_ru": "Surrealism в работах Hiro строится не на тумане, сне или театральной мистике, а на очень ясной несовместимости элементов. Официальный архив и MFA прямо называют элегантный сюрреализм важной частью его языка.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_hiro_014",
+      "wording_ru": "Black Evening Dress in Flight, New York, 1963 — один из образов, через которые MFA представляет Hiro. Чёрное вечернее платье не просто надето на модель: оно становится движущейся формой, почти отдельным объектом в воздухе.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_hiro_015",
+      "wording_ru": "В июне 1967 года Harper’s Bazaar опубликовал фотографию Alberta Tiburzi в знаменитом envelope dress Cristóbal Balenciaga. V&A использует именно снимок Hiro, когда объясняет радикальную геометрию позднего Balenciaga.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_hiro_016",
+      "wording_ru": "MFA отдельно подчёркивает работу Hiro с украшениями Harry Winston и Elsa Peretti. Для jewellery photography это особенно сложная территория: объект мал, дорог, отражает всё вокруг и легко превращается либо в технический каталог, либо в безвкусный символ роскоши.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_hiro_017",
+      "wording_ru": "Still life у Hiro нельзя считать паузой между fashion-съёмками. Его музейные и галерейные ретроспективы сознательно ставят fashion, portraiture и still life рядом.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_hiro_018",
+      "wording_ru": "Hiro постоянно играет с масштабом. Маленький объект может заполнять кадр так, что перестаёт быть «маленьким» и начинает восприниматься как территория.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_hiro_019",
+      "wording_ru": "Birds Silhouetted Against the Sun, около 1960 года, находится в коллекции The Metropolitan Museum of Art. Это сравнительно простой образ: птицы становятся тёмными знаками на фоне яркого солнца.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_hiro_020",
+      "wording_ru": "Hiro снимал не только вещи, но и людей. Его portrait work сохраняет ту же точность, что и still life: персонаж помещается в ясную визуальную систему, где жест, фон и свет работают как единое целое.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_hiro_021",
+      "wording_ru": "В 1976 году Hiro фотографировал The Rolling Stones на Sanibel Island, Florida; работа входит в фотографическую программу Pace.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_hiro_022",
+      "wording_ru": "Официальный архив Hiro выделяет Apollo Spaceflight Training Suits, Houston, Texas, 1978 среди избранных фотографий.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_hiro_023",
+      "wording_ru": "Hamiltons описывает мир Hiro как пространство, где мужчины и машины рассматриваются с одинаковой концентрацией.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_hiro_024",
+      "wording_ru": "Hiro сформировался внутри эпохи, когда финальным объектом fashion photography была не отдельная фотография, а журнальная страница. Brodovitch и последующие арт-директора Bazaar строили смысл через crop, масштаб, последовательность и белое пространство.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_hiro_025",
+      "wording_ru": "Harper’s Bazaar вспоминает Popping Pills, 1972 как один из характерных снимков Hiro эпохи 1970-х. Журнал отмечает, что его цвет и неожиданные сопоставления могли быть одновременно изобретательными и откровенно двусмысленными.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_hiro_026",
+      "wording_ru": "Getty ULAN фиксирует, что в 1969 году Hiro получил профессиональное признание как Photographer of the Year от American Society of Magazine Photographers.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_hiro_027",
+      "wording_ru": "International Photography Hall of Fame вспоминает, что январский номер American Photographer 1982 года был целиком посвящён Hiro и вынес на обложку вопрос о том, является ли он величайшим фотографом Америки.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_hiro_028",
+      "wording_ru": "В 1980-е Hiro начал личные серии с Betta splendens и game fowl. Hamiltons показывала их в проекте Fish & Fowl, подчёркивая цвет, движение и эмоциональное напряжение этих изображений.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_hiro_029",
+      "wording_ru": "Студийная фотография Hiro чрезвычайно контролируема, однако редко ощущается мёртвой. Секрет в том, что контроль используется для создания события: ткань летит, рыба разворачивается, металл ловит свет, объект сталкивается с неожиданным соседом.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    },
+    {
+      "id": "clm_hiro_030",
+      "wording_ru": "В 2015–2016 годах Museum of Fine Arts Boston провёл первую крупную музейную персональную выставку Hiro в США, собрав fashion, portrait и still-life работы нескольких десятилетий.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.7
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_1075efa1cc299dfc",
+      "title": "Hiro — Official Archive",
+      "url": "https://hirostudioinc.com/",
+      "publisher": "Hiro Studio Inc",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_24f6b1c0957ccada",
+      "title": "Hiro",
+      "url": "https://www.mfa.org/exhibitions/hiro",
+      "publisher": "Museum of Fine Arts Boston",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_406626a6c365d707",
+      "title": "Exhibition Highlight: Hiro: Photographs",
+      "url": "https://www.mfa.org/membership/museum-council/news/2016/winter/hiro",
+      "publisher": "Museum of Fine Arts Boston",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_458d6bc4c59249db",
+      "title": "HOF Inductee Hiro",
+      "url": "https://www.iphf.org/hof-hiro",
+      "publisher": "International Photography Hall of Fame and Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_d05cdcc7e3dba28d",
+      "title": "Hiro — Biography",
+      "url": "https://www.hamiltonsgallery.com/artists/hiro/biography/",
+      "publisher": "Hamiltons Gallery",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_4464b09c335cae9a",
+      "title": "Hiro, 22 January–11 March 2016",
+      "url": "https://www.hamiltonsgallery.com/exhibitions/107_hiro/installation_shots/",
+      "publisher": "Hamiltons Gallery",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_3b56bcdb206cd169",
+      "title": "Hiro: Fish & Fowl",
+      "url": "https://www.hamiltonsgallery.com/exhibitions/hiro-fighting-fish/installation_shots/",
+      "publisher": "Hamiltons Gallery",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_bd80d22e0c18df8e",
+      "title": "Hiro — Exhibitions",
+      "url": "https://www.hamiltonsgallery.com/artists/hiro/exhibitions/",
+      "publisher": "Hamiltons Gallery",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_a52764982cdead19",
+      "title": "Hiro — ULAN Full Record",
+      "url": "https://www.getty.edu/vow/ULANFullDisplay?subjectid=500071558",
+      "publisher": "Getty Research Institute",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_0a4a66d202467fe2",
+      "title": "Hiro",
+      "url": "https://whitney.org/artists/5207",
+      "publisher": "Whitney Museum of American Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_00d85c76526c1c96",
+      "title": "Birds Silhouetted Against the Sun, Hiro, ca. 1960",
+      "url": "https://www.metmuseum.org/art/collection/search/270357",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_3dab4263fa32339f",
+      "title": "Introducing Cristóbal Balenciaga",
+      "url": "https://www.vam.ac.uk/articles/introducing-cristobal-balenciaga",
+      "publisher": "Victoria and Albert Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_dd73a2d477b20981",
+      "title": "About Balenciaga: Shaping Fashion",
+      "url": "https://www.vam.ac.uk/articles/about-balenciaga-shaping-fashion",
+      "publisher": "Victoria and Albert Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_195350aa1e880621",
+      "title": "Alexey Brodovitch: Astonish Me",
+      "url": "https://www.barnesfoundation.org/brodovitch-astonish-me",
+      "publisher": "Barnes Foundation",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_ddfb81388bf04070",
+      "title": "Harper's BAZAAR in the 1960s",
+      "url": "https://www.harpersbazaar.com/culture/features/a9956837/harpers-bazaar-in-1960s/",
+      "publisher": "Harper's Bazaar",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_0a381bcd935c6a20",
+      "title": "Harper's Bazaar in the 1970s",
+      "url": "https://www.harpersbazaar.com/fashion/photography/a12030980/harpers-bazaar-1970s/",
+      "publisher": "Harper's Bazaar",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_67bba2e30a7b65dd",
+      "title": "Astonish Me: The Making of Harper's BAZAAR",
+      "url": "https://www.harpersbazaar.com/culture/features/a20537/making-of-harpers-bazaar/",
+      "publisher": "Harper's Bazaar",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_0f82f570a4c46688",
+      "title": "Editor's Letter — Harper's Bazaar photography legacy",
+      "url": "https://www.harpersbazaar.com/culture/features/a117/editors-letter-0107/",
+      "publisher": "Harper's Bazaar",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_ebd5a0fbb2f80a50",
+      "title": "Studio to Stage: Music Photography from the Fifties to the Present",
+      "url": "https://www.pacegallery.com/online-exhibitions/studio-stage-music-photography/",
+      "publisher": "Pace Gallery",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_74185d2d1a60f59d",
+      "title": "Ring, attributed to Hiro, early 1970s",
+      "url": "https://www.metmuseum.org/art/collection/search/124516",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_b0515c082e534b4d",
+      "claim_id": "clm_hiro_thesis",
+      "source_id": "src_1075efa1cc299dfc",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_f629348aff55489c",
+      "claim_id": "clm_hiro_short",
+      "source_id": "src_1075efa1cc299dfc",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_139c23cc2a404f6e",
+      "claim_id": "clm_hiro_001",
+      "source_id": "src_406626a6c365d707",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_2173d58f2fb1456c",
+      "claim_id": "clm_hiro_002",
+      "source_id": "src_1075efa1cc299dfc",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_df518b45724c41de",
+      "claim_id": "clm_hiro_003",
+      "source_id": "src_1075efa1cc299dfc",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_f00d37e50d5b46e0",
+      "claim_id": "clm_hiro_004",
+      "source_id": "src_1075efa1cc299dfc",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_8ae00514a38d4f90",
+      "claim_id": "clm_hiro_005",
+      "source_id": "src_195350aa1e880621",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_4185bdf0a3014b4d",
+      "claim_id": "clm_hiro_006",
+      "source_id": "src_1075efa1cc299dfc",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_afced99c4506419d",
+      "claim_id": "clm_hiro_007",
+      "source_id": "src_1075efa1cc299dfc",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_31ce4eb214544428",
+      "claim_id": "clm_hiro_008",
+      "source_id": "src_1075efa1cc299dfc",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_afb932aa68aa4ebe",
+      "claim_id": "clm_hiro_009",
+      "source_id": "src_1075efa1cc299dfc",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_99f82915034c4ed7",
+      "claim_id": "clm_hiro_010",
+      "source_id": "src_1075efa1cc299dfc",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_7c8400c511404e37",
+      "claim_id": "clm_hiro_011",
+      "source_id": "src_1075efa1cc299dfc",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_20355fce306448d0",
+      "claim_id": "clm_hiro_012",
+      "source_id": "src_1075efa1cc299dfc",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_2ce1c9b14fc743da",
+      "claim_id": "clm_hiro_013",
+      "source_id": "src_1075efa1cc299dfc",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_1359e113cd234ca8",
+      "claim_id": "clm_hiro_014",
+      "source_id": "src_1075efa1cc299dfc",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_27b26130b8954af4",
+      "claim_id": "clm_hiro_015",
+      "source_id": "src_1075efa1cc299dfc",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_01e5e2e9899747eb",
+      "claim_id": "clm_hiro_016",
+      "source_id": "src_1075efa1cc299dfc",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_e4ea97554ff94089",
+      "claim_id": "clm_hiro_017",
+      "source_id": "src_1075efa1cc299dfc",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_075c612169a040f8",
+      "claim_id": "clm_hiro_018",
+      "source_id": "src_1075efa1cc299dfc",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_b6171d66f6934d6a",
+      "claim_id": "clm_hiro_019",
+      "source_id": "src_74185d2d1a60f59d",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_8cff2b866ad94e9f",
+      "claim_id": "clm_hiro_020",
+      "source_id": "src_1075efa1cc299dfc",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_44374ac595094618",
+      "claim_id": "clm_hiro_021",
+      "source_id": "src_1075efa1cc299dfc",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_e416711a78364e1b",
+      "claim_id": "clm_hiro_022",
+      "source_id": "src_1075efa1cc299dfc",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_e1b79058401c47e6",
+      "claim_id": "clm_hiro_023",
+      "source_id": "src_1075efa1cc299dfc",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_3c1d32a1b57f4352",
+      "claim_id": "clm_hiro_024",
+      "source_id": "src_1075efa1cc299dfc",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_20eb07b92571474b",
+      "claim_id": "clm_hiro_025",
+      "source_id": "src_1075efa1cc299dfc",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_7778be037e844fc6",
+      "claim_id": "clm_hiro_026",
+      "source_id": "src_1075efa1cc299dfc",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_25147e3c539340e7",
+      "claim_id": "clm_hiro_027",
+      "source_id": "src_1075efa1cc299dfc",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_af3fb4f73c8a4d69",
+      "claim_id": "clm_hiro_028",
+      "source_id": "src_1075efa1cc299dfc",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_99e78b7ddf274a8c",
+      "claim_id": "clm_hiro_029",
+      "source_id": "src_1075efa1cc299dfc",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_e5b4047069294b50",
+      "claim_id": "clm_hiro_030",
+      "source_id": "src_406626a6c365d707",
+      "locator": "section",
+      "support": "attribution recorded in the editorial DOCX"
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "PUBLISH",
+    "note": "RU/EN pair passed structural and source validation; knowledge object derived from the editorial DOCX claim map.",
+    "converted_by": "Codex publication workflow",
+    "converted_at": "2026-08-11T00:00:00.000Z"
+  }
+}

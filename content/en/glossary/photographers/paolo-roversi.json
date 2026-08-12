@@ -4,9 +4,9 @@
   "content_type": "photographer_profile",
   "state": "published",
   "source_locale": "ru",
-  "source_revision": 1,
-  "verification_state": "partially_verified",
-  "confidence_score": 0.96,
+  "source_revision": 2,
+  "verification_state": "unverified",
+  "confidence_score": 0.0,
   "claim_ids": [
     "clm_001",
     "clm_002",
@@ -17,25 +17,42 @@
     "clm_007"
   ],
   "source_ids": [
-    "s01",
-    "s02",
-    "s03",
-    "s04"
+    "src_92e81e370331c84c",
+    "src_2735ee4dc5012b7e",
+    "src_20f7a3fff29d01e5",
+    "src_263bb8f9b867e977",
+    "src_a389f8c883002536",
+    "src_6dd6cce844c35f76",
+    "src_08c4ca7bfb0a6d7f",
+    "src_dd8db42f1a2afa18",
+    "src_6d880469b81fc889",
+    "src_67ab670e82c0c4f9",
+    "src_0dc1b85fe0dfaceb",
+    "src_f6446357b07ada55",
+    "src_477be3088048c271",
+    "src_4969d14ee7e46aab",
+    "src_6034ed82f1db16d9",
+    "src_d993634cfac94381",
+    "src_64b7f011608817db",
+    "src_9d6f8351d923e2ff"
   ],
-  "last_reviewed": "2026-08-09",
+  "last_reviewed": "2026-08-12",
   "author": "VANSMITHLAB",
   "locale": "en",
   "slug": "paolo-roversi",
   "title": "Paolo Roversi",
-  "summary": "Light, duration, and the fragile fashion image",
+  "summary": "Light, duration and the fragile fashion image",
   "discipline": [
-    "photography"
+    "photography",
+    "fashion",
+    "media-publishing",
+    "art"
   ],
   "kind": "person",
   "role": [
     "photographer"
   ],
-  "body_hash": "5d0415874fa46337ab70b972054e446c858a2b445fc5015c980e969b2187260b",
+  "body_hash": "6565527080945053070f59a4af32bdeb42a0ebfa03be761f501050b1d68fff2d",
   "hero_image": {
     "src": "/images/glossary/photographers/paolo-roversi-hero-v1-card-v1.webp",
     "alt": "Illustration: Paolo Roversi",
