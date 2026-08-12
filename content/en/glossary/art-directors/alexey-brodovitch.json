@@ -4,7 +4,7 @@
   "content_type": "art_director_profile",
   "state": "published",
   "source_locale": "ru",
-  "source_revision": 2,
+  "source_revision": 3,
   "verification_state": "multi_source_verified",
   "confidence_score": 0.9,
   "claim_ids": [
@@ -15,29 +15,44 @@
     "clm_ab_legacy"
   ],
   "source_ids": [
-    "src_2437826afb8af9cc",
-    "src_c1601066384c4867",
-    "src_29427629c15cda6b",
+    "src_195350aa1e880621",
     "src_a6bd80c2302b3451",
+    "src_c1601066384c4867",
+    "src_7a0439799a914f8a",
+    "src_2437826afb8af9cc",
+    "src_29427629c15cda6b",
+    "src_96d44f5466ed4c91",
+    "src_09a95e89c9945de2",
+    "src_5ecc5fd1ea7e75c1",
+    "src_8395af7a7a0b8ccb",
+    "src_72a0fdc47c633366",
     "src_9d0b13dadf63dc62",
-    "src_8395af7a7a0b8ccb"
+    "src_67bba2e30a7b65dd",
+    "src_21d41ef42401a57e",
+    "src_da17e268da32eb43",
+    "src_6eb2dbf2cbbbeede",
+    "src_3dd4578443967ed7",
+    "src_9985e75aa6732304"
   ],
-  "last_reviewed": "2026-08-10",
+  "last_reviewed": "2026-08-12",
   "author": "VANSMITHLAB",
   "locale": "en",
   "slug": "alexey-brodovitch",
   "title": "Alexey Brodovitch",
-  "summary": "Montage, white space, and the invention of modern art direction",
+  "summary": "Montage, white space and modern art direction",
   "discipline": [
     "graphic-design",
-    "photography"
+    "photography",
+    "media-publishing",
+    "art"
   ],
   "kind": "person",
   "role": [
     "art-director",
+    "graphic-designer",
     "photographer"
   ],
-  "body_hash": "eab6f0e3419e35ee6fc455e959b570c839d834996dcee7cf58f4586890cbf51f",
+  "body_hash": "e4cd88fbc0465822784bcf6bf8a851436a96a56326043a0086419e5c4fbfad0b",
   "categories": [
     "art-direction-graphic-design",
     "photographers"

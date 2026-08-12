@@ -4,7 +4,7 @@
   "content_type": "art_director_profile",
   "state": "published",
   "source_locale": "ru",
-  "source_revision": 2,
+  "source_revision": 3,
   "verification_state": "multi_source_verified",
   "confidence_score": 0.9,
   "claim_ids": [
@@ -16,25 +16,47 @@
   ],
   "source_ids": [
     "src_2c61316c79f0430c",
+    "src_b5bf4b8255bc6e32",
     "src_8db9c27e1ac48e45",
     "src_6fce8edc119e331d",
-    "src_581c77d7324a3402",
-    "src_2c020129273c5fe7"
+    "src_5259f0aeab5630d1",
+    "src_2c020129273c5fe7",
+    "src_54c89711f4f59dca",
+    "src_637f334514d1cf57",
+    "src_5e796e3e8795468e",
+    "src_cc931682661facb7",
+    "src_3a575209c8532b59",
+    "src_d0d8aa664c28f58f",
+    "src_e245bbf46bc874c0",
+    "src_caf74c84316a4bd9",
+    "src_1799bbe71e5f1004",
+    "src_c90cec3125d1dbf2",
+    "src_0ed0c24e6aed81d1",
+    "src_2052190fb171b017",
+    "src_6f55b6b256033928",
+    "src_9df836fc50b595bc"
   ],
-  "last_reviewed": "2026-08-10",
+  "last_reviewed": "2026-08-12",
   "author": "VANSMITHLAB",
   "locale": "ru",
   "slug": "fabien-baron",
   "title": "Фабьен Барон",
-  "summary": "Минимализм, провокация и построение глобального fashion-бренда",
+  "summary": "Минимализм, провокация и система luxury image",
   "discipline": [
-    "graphic-design"
+    "graphic-design",
+    "media-publishing",
+    "photography",
+    "product-design",
+    "interior-design",
+    "fashion"
   ],
   "kind": "person",
   "role": [
-    "art-director"
+    "art-director",
+    "graphic-designer",
+    "photographer"
   ],
-  "body_hash": "0c94f0707dc3164e14af30b38a5210e11ef14d39142a840df06a933557a1c0b7",
+  "body_hash": "adcb3f54d814c5a5004818d61c8fc1a56b766214a98b2699f2524be295491f98",
   "categories": [
     "art-direction-graphic-design"
   ],
