@@ -24,6 +24,8 @@ FILES = [
     "VSL_Magazine_Is_No_Longer_Paper_EN.docx",
     "VSL_Why_Fashion_House_Now_Resembles_TV_Network_RU.docx",
     "VSL_Why_Fashion_House_Now_Resembles_TV_Network_EN.docx",
+    "VSL_Grace_Coddington_Fashion_Editor_Narrative_Image_Making_RU.docx",
+    "VSL_Grace_Coddington_Fashion_Editor_Narrative_Image_Making_EN.docx",
 ]
 
 def ptext(p):
@@ -106,5 +108,9 @@ def fix(path):
 if __name__ == "__main__":
     d = sys.argv[1] if len(sys.argv) > 1 else r"C:\Users\VAN\Downloads"
     for fn in FILES:
-        fix(os.path.join(d, fn))
+        p = os.path.join(d, fn)
+        if not os.path.exists(p):
+            print("skip (not present)", fn)
+            continue
+        fix(p)
     print("done")

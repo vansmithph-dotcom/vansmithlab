@@ -1,0 +1,1316 @@
+{
+  "id": "obj_grace_coddington_20260813",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Grace Coddington: ???????? ???? ??? ????? ?????????",
+  "title_en": "Grace Coddington: Fashion Editor, Narrative Image-Making and Hidden Authorship",
+  "slug_ru": "grace-coddington-fashion-editor-narrative-image-making",
+  "slug_en": "grace-coddington-fashion-editor-narrative-image-making",
+  "summary_ru": "???????? ????, ?????????? ??????????? ? ??????? ????????? ??????????? ???????????",
+  "verification_state": "multi_source_verified",
+  "confidence_score": 0.86,
+  "created_at": "2026-08-13T00:00:00.000Z",
+  "updated_at": "2026-08-13T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_gc_thesis",
+      "wording_ru": "Grace Coddington важна не как символ старого Vogue и не как публичный персонаж The September Issue. Ее работа показывает редактор моды как самостоятельного автора изображения: человека, который превращает коллекции в повествование через отбор одежды, кастинг, локацию, движение, сотрудничество с фотографом и жесткую редактуру.",
+      "wording_en": "Grace Coddington matters not merely as a symbol of an earlier Vogue or as the public figure revealed by The September Issue. Her career makes the fashion editor visible as an image author: someone who turns collections into narrative through clothing selection, casting, location, movement, photographer collaboration and severe editing.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/grace-coddington-notes-excerpt-from-grace-a-memoir",
+          "locator": "DOCX section editorial-thesis",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.penguinrandomhouse.com/books/218051/grace-by-grace-coddington/",
+          "locator": "DOCX section editorial-thesis",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_gc_short",
+      "wording_ru": "Он создает отношения между этими ролями. Коддингтон показывает, что сильный модное изображение начинается до съемки и продолжается после нее: в исследовании, примерка, повествование, кастинг, производство и edit.",
+      "wording_en": "The fashion editor authors relationships among those roles. Coddington shows that a strong fashion image begins before the shoot and continues after it through research, fitting, narrative, casting, production and edit.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/grace-coddington-notes-excerpt-from-grace-a-memoir",
+          "locator": "DOCX section short-answer",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.penguinrandomhouse.com/books/218051/grace-by-grace-coddington/",
+          "locator": "DOCX section short-answer",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_gc_001",
+      "wording_ru": "Грейс Коддингтон выросла на острове Англси в Уэльсе, далеко от ежедневной модной индустрии Лондона. Поэтому ее раннее отношение к моде формировалось через журналы: страница была окном в другой климат, другой масштаб жизни и другую систему образов. Для будущего редактор моды это важно: мода с самого начала существовала для нее не только как одежда, а как пространство воображения.",
+      "wording_en": "Grace Coddington grew up on the island of Anglesey in Wales, far from the daily machinery of the London fashion industry. Her early relationship with fashion was therefore mediated by magazines: the page became a window onto another climate, another scale of life, another system of images. For a future fashion editor, that matters. Fashion entered her imagination not only as clothing but as a constructed world.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/grace-coddington-notes-excerpt-from-grace-a-memoir",
+          "locator": "DOCX section sec-1",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.penguinrandomhouse.com/books/218051/grace-by-grace-coddington/",
+          "locator": "DOCX section sec-1",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_gc_002",
+      "wording_ru": "В 1959 году Коддингтон выиграла модельный конкурс British Vogue и вошла в индустрию с другой стороны камеры. Это был период, когда модель часто сама отвечала за значительную часть подготовки: макияж, волосы, аксессуары, перемещения между съемками. Опыт был практическим, а не абстрактным.",
+      "wording_en": "In 1959 Coddington won a British Vogue modelling competition and entered the industry from the other side of the camera. At the time, models often carried much of their own practical preparation: makeup, hair, accessories and the logistics of moving between jobs. Her education was physical and procedural rather than theoretical.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/grace-coddington-notes-excerpt-from-grace-a-memoir",
+          "locator": "DOCX section sec-2",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.penguinrandomhouse.com/books/218051/grace-by-grace-coddington/",
+          "locator": "DOCX section sec-2",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_gc_003",
+      "wording_ru": "Коддингтон работала с фотографами своего поколения, включая Norman Parkinson и David Bailey, и наблюдала, как разные авторы управляют движением, дистанцией, светом и характером модели. Модельная карьера стала для нее школой фотографии без формального обучения фотографии.",
+      "wording_en": "Coddington worked with photographers of her generation, including Norman Parkinson and David Bailey, and observed how different authors controlled movement, distance, light and a model's character. Her modelling career became a form of photographic education without formal photography school.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/grace-coddington-notes-excerpt-from-grace-a-memoir",
+          "locator": "DOCX section sec-3",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.penguinrandomhouse.com/books/218051/grace-by-grace-coddington/",
+          "locator": "DOCX section sec-3",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_gc_004",
+      "wording_ru": "В 1964 году Коддингтон была одной из моделей Vidal Sassoon и носила его знаменитую Five-Point Cut. Vogue позднее вспоминал этот момент как часть перехода от укладки, которую просто показывают, к стрижке, которая сама работает как графическая форма.",
+      "wording_en": "In 1964 Coddington was one of Vidal Sassoon's models and wore the celebrated Five-Point Cut. Vogue later remembered this moment as part of the shift from photographing a hairdo to treating the haircut itself as a graphic form.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/grace-coddington-notes-excerpt-from-grace-a-memoir",
+          "locator": "DOCX section sec-4",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.penguinrandomhouse.com/books/218051/grace-by-grace-coddington/",
+          "locator": "DOCX section sec-4",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_gc_005",
+      "wording_ru": "Автомобильная авария серьезно нарушила модельную карьеру Коддингтон и стала одним из обстоятельств ее перехода за камеру. В ее биографии этот эпизод часто подается как резкий поворот судьбы, но профессионально важнее другое: она уже накопила опыт, который можно было перенести из исполнения в редактирование изображения.",
+      "wording_en": "A serious car accident disrupted Coddington's modelling career and became one of the circumstances behind her move to the other side of the camera. The episode is often told as a sharp turn of fate, but the professional point is more useful: by then she had accumulated knowledge that could be transferred from performance into editorial direction.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/grace-coddington-notes-excerpt-from-grace-a-memoir",
+          "locator": "DOCX section sec-5",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.penguinrandomhouse.com/books/218051/grace-by-grace-coddington/",
+          "locator": "DOCX section sec-5",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_gc_006",
+      "wording_ru": "В 1968 году Коддингтон стала редактор моды British Vogue. Здесь начинается ее основная профессиональная линия: не просто выбирать вещи, а связывать коллекции, фотографа, модель, локацию, движение и эмоциональный тон в одну редакционную историю.",
+      "wording_en": "In 1968 Coddington became a fashion editor at British Vogue. This begins the central line of her career: not simply selecting clothes, but connecting collections, photographer, model, location, movement and emotional tone into one editorial story.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/grace-coddington-notes-excerpt-from-grace-a-memoir",
+          "locator": "DOCX section sec-6",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.penguinrandomhouse.com/books/218051/grace-by-grace-coddington/",
+          "locator": "DOCX section sec-6",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_gc_007",
+      "wording_ru": "История модной фотографии часто строится вокруг фотографа как единственного автора. Работа Коддингтон показывает ограниченность такой схемы. Редактор моды исследует коллекции, отбирает одежду, формулирует историю, предлагает модель и пространство, обсуждает движение, контролирует примерки и удерживает визуальную логику серии.",
+      "wording_en": "The history of fashion photography is often written around the photographer as sole author. Coddington's work reveals the limits of that model. A fashion editor researches collections, selects clothes, proposes narrative, casting and location, manages fittings and protects the visual logic of a story.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/grace-coddington-notes-excerpt-from-grace-a-memoir",
+          "locator": "DOCX section sec-7",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.penguinrandomhouse.com/books/218051/grace-by-grace-coddington/",
+          "locator": "DOCX section sec-7",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_gc_008",
+      "wording_ru": "Коддингтон редко обращалась с одеждой как с нейтральным набором сезонных новинок. В ее сильных историях платье, пальто или аксессуар получают функцию: они определяют движение персонажа, историческую ассоциацию, темп сцены или контраст с пространством.",
+      "wording_en": "Coddington rarely handled clothes as a neutral list of seasonal newness. In her strongest stories, a dress, coat or accessory has a function: it changes a character's movement, creates a historical association, sets the tempo of a scene or collides with a landscape.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/grace-coddington-notes-excerpt-from-grace-a-memoir",
+          "locator": "DOCX section sec-8",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.penguinrandomhouse.com/books/218051/grace-by-grace-coddington/",
+          "locator": "DOCX section sec-8",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_gc_009",
+      "wording_ru": "Сотрудничество Коддингтон с Norman Parkinson для British Vogue показывает, как редактор и фотограф могут использовать локацию не как красивый фон, а как участника истории. Vogue вспоминает их поездки и съемки в разных странах как часть большой традиции location модная фотография.",
+      "wording_en": "Coddington's collaborations with Norman Parkinson for British Vogue show how editor and photographer can use location as an active component rather than a decorative background. Vogue remembers their travel and location work as part of a broader tradition of adventurous fashion photography.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/grace-coddington-notes-excerpt-from-grace-a-memoir",
+          "locator": "DOCX section sec-9",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.penguinrandomhouse.com/books/218051/grace-by-grace-coddington/",
+          "locator": "DOCX section sec-9",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_gc_010",
+      "wording_ru": "Работа рядом с Helmut Newton, Guy Bourdin и другими сильными авторами 1970-х научила Коддингтон, что провокационное изображение требует не меньшего, а большего контроля. Разные фотографы могли быть сексуальными, жесткими, театральными или абсурдными, но редактор моды должен был удержать одежду и редакционную задачу внутри их авторского языка.",
+      "wording_en": "Working alongside Helmut Newton, Guy Bourdin and other powerful authors of the 1970s taught Coddington that provocative imagery requires more, not less, editorial control. Photographers could be erotic, severe, theatrical or absurd, while the fashion editor still had to keep clothing and editorial purpose legible inside their visual language.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/grace-coddington-notes-excerpt-from-grace-a-memoir",
+          "locator": "DOCX section sec-10",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.penguinrandomhouse.com/books/218051/grace-by-grace-coddington/",
+          "locator": "DOCX section sec-10",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_gc_011",
+      "wording_ru": "Коддингтон строила съемки вокруг поведения модели. В ее историях женщина часто идет, спорит, путешествует, скучает, играет роль, оказывается частью группы или существует в отношениях с пространством. Это важный отход от идеи модели как неподвижного носителя вещи.",
+      "wording_en": "Coddington builds stories around behaviour. Women walk, travel, argue, perform, become part of groups or occupy a particular relationship to a room or landscape. This is a significant departure from the model as a static support for a garment.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/grace-coddington-notes-excerpt-from-grace-a-memoir",
+          "locator": "DOCX section sec-11",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.penguinrandomhouse.com/books/218051/grace-by-grace-coddington/",
+          "locator": "DOCX section sec-11",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_gc_012",
+      "wording_ru": "В воспоминаниях о Коддингтон постоянно возвращается любовь к большим открытым пространствам, дорогам, полям и ландшафтам. В таких съемках fashion перестает быть полностью контролируемой студийной конструкцией: ветер, пыль, расстояние и погода вмешиваются в изображение.",
+      "wording_en": "Accounts of Coddington's work repeatedly return to a love of wide landscapes, roads, fields and weather. In these shoots fashion stops being a fully controlled studio construction: wind, dust, distance and changing light intervene.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/grace-coddington-notes-excerpt-from-grace-a-memoir",
+          "locator": "DOCX section sec-12",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.penguinrandomhouse.com/books/218051/grace-by-grace-coddington/",
+          "locator": "DOCX section sec-12",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_gc_013",
+      "wording_ru": "Одно из узнаваемых качеств Коддингтон - способность строить сложные групповые сцены. Несколько моделей, актеров или персонажей могут существовать в одном кадре без ощущения случайной массовки. Vogue отмечал ее любовь к многослойным историям и большим ансамблям.",
+      "wording_en": "One of Coddington's recognisable strengths is her ability to organise complex group scenes. Several models, actors or characters can share a frame without becoming random extras. Vogue has noted her appetite for layered narratives and large ensembles.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/grace-coddington-notes-excerpt-from-grace-a-memoir",
+          "locator": "DOCX section sec-13",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.penguinrandomhouse.com/books/218051/grace-by-grace-coddington/",
+          "locator": "DOCX section sec-13",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_gc_014",
+      "wording_ru": "Коддингтон часто использует историю искусства, кино, литературу и старую фотографию как отправную точку, но сильные съемки не превращаются в буквальную реконструкцию. Историческая ссылка меняет позу, цвет, декорацию или композицию, а современная одежда сохраняет собственное время.",
+      "wording_en": "Coddington frequently uses art history, film, literature and older photography as points of departure, but her strongest shoots are not literal reconstructions. A reference can alter pose, colour, setting or composition while contemporary clothes remain of their own time.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/grace-coddington-notes-excerpt-from-grace-a-memoir",
+          "locator": "DOCX section sec-14",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.penguinrandomhouse.com/books/218051/grace-by-grace-coddington/",
+          "locator": "DOCX section sec-14",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_gc_015",
+      "wording_ru": "Фантазийность Коддингтон иногда описывают как побег от реальности, но ее редакционная функция точнее: фантазия позволяет показать свойства одежды, которые трудно прочитать в нейтральной студии. Масштаб, романтика, юмор, театральность или историческая память становятся инструментами интерпретации коллекции.",
+      "wording_en": "Coddington's fantasy is sometimes described as escape from reality, but its editorial function is more precise: fantasy can expose qualities of clothing that are difficult to read in a neutral studio. Scale, romance, humour, theatre and cultural memory become tools for interpreting a collection.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/grace-coddington-notes-excerpt-from-grace-a-memoir",
+          "locator": "DOCX section sec-15",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.penguinrandomhouse.com/books/218051/grace-by-grace-coddington/",
+          "locator": "DOCX section sec-15",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_gc_016",
+      "wording_ru": "Период British Vogue дал Коддингтон не один узнаваемый стиль, а длинную практику: работа с разными фотографами, моделями, редакторами и бюджетами; постоянный поиск локаций; необходимость реагировать на смену моды от поздних 1960-х к 1980-м.",
+      "wording_en": "British Vogue gave Coddington not one signature look but a long practice: different photographers, models, editors and budgets; constant location work; and repeated adaptation as fashion shifted from the late 1960s into the 1980s.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/grace-coddington-notes-excerpt-from-grace-a-memoir",
+          "locator": "DOCX section sec-16",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.penguinrandomhouse.com/books/218051/grace-by-grace-coddington/",
+          "locator": "DOCX section sec-16",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_gc_017",
+      "wording_ru": "В 1987 году Коддингтон переехала в Нью-Йорк и стала design director в Calvin Klein. Этот короткий этап важен как тест границы между редакционной свободой и работой внутри бренда.",
+      "wording_en": "In 1987 Coddington moved to New York to become design director at Calvin Klein. The short period matters as a test of the boundary between editorial freedom and work inside a single brand.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/grace-coddington-notes-excerpt-from-grace-a-memoir",
+          "locator": "DOCX section sec-17",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.penguinrandomhouse.com/books/218051/grace-by-grace-coddington/",
+          "locator": "DOCX section sec-17",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_gc_018",
+      "wording_ru": "В 1988 году Коддингтон присоединилась к American Vogue вместе с приходом Anna Wintour. Phaidon фиксирует этот переход как начало ее американского периода, а позднее она стала креативный директор журнала.",
+      "wording_en": "In 1988 Coddington joined American Vogue as Anna Wintour began her editorship. Phaidon identifies the move as the start of Coddington's American period; she later became the magazine's creative director.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/grace-coddington-notes-excerpt-from-grace-a-memoir",
+          "locator": "DOCX section sec-18",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.penguinrandomhouse.com/books/218051/grace-by-grace-coddington/",
+          "locator": "DOCX section sec-18",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_gc_019",
+      "wording_ru": "В интервью о The September Issue Коддингтон прямо говорила, что каждому нужен редактор и что вмешательство Wintour делает ее работу сильнее. Эта формула важна для понимания редакционной культуры: авторство не обязательно ослабевает от критики и отбора.",
+      "wording_en": "In a Vogue interview around The September Issue, Coddington argued that everyone needs an editor and that Wintour's editing made her work stronger. The statement is central to editorial culture: authorship does not have to be weakened by criticism and selection.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/grace-coddington-notes-excerpt-from-grace-a-memoir",
+          "locator": "DOCX section sec-19",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.penguinrandomhouse.com/books/218051/grace-by-grace-coddington/",
+          "locator": "DOCX section sec-19",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_gc_020",
+      "wording_ru": "Американский период Коддингтон связан с десятками фотографов - от Annie Leibovitz и Peter Lindbergh до Steven Meisel, Bruce Weber, Mario Testino, Craig McDean, David Sims и других. Phaidon строит ее книги именно как историю таких сотрудничеств.",
+      "wording_en": "Coddington's American period is connected to a wide range of photographers, from Annie Leibovitz and Peter Lindbergh to Steven Meisel, Bruce Weber, Mario Testino, Craig McDean, David Sims and others. Phaidon's books deliberately organise her archive through these collaborations.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/grace-coddington-notes-excerpt-from-grace-a-memoir",
+          "locator": "DOCX section sec-20",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.penguinrandomhouse.com/books/218051/grace-by-grace-coddington/",
+          "locator": "DOCX section sec-20",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_gc_021",
+      "wording_ru": "Сотрудничество с Annie Leibovitz особенно ясно показывает масштаб метода Коддингтон. Сказочные и литературные сюжеты превращались в большие fashion производствоs с актерами, моделями, костюмами и сложной сценографией. Vogue регулярно связывает Коддингтон с такими повествовательными съемками.",
+      "wording_en": "The collaboration with Annie Leibovitz makes the scale of Coddington's method especially visible. Literary and fairy-tale structures became large fashion productions involving actors, models, costume and complex sets. Vogue repeatedly links Coddington with such narrative shoots.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/grace-coddington-notes-excerpt-from-grace-a-memoir",
+          "locator": "DOCX section sec-21",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.penguinrandomhouse.com/books/218051/grace-by-grace-coddington/",
+          "locator": "DOCX section sec-21",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_gc_022",
+      "wording_ru": "Не вся фантазия Коддингтон требует сложного павильона. В работах с Peter Lindbergh или в road-movie логике достаточно пространства, движения, сильного кастинг и одежды, которая выдерживает ветер и реальное тело.",
+      "wording_en": "Not all of Coddington's fantasy requires elaborate scenery. In work with Peter Lindbergh, or in a road-movie register, space, movement, casting and clothes that survive weather can be enough.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/grace-coddington-notes-excerpt-from-grace-a-memoir",
+          "locator": "DOCX section sec-22",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.penguinrandomhouse.com/books/218051/grace-by-grace-coddington/",
+          "locator": "DOCX section sec-22",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_gc_023",
+      "wording_ru": "Vogue связывает Коддингтон с ранним продвижением и сильными образами таких моделей, как Amber Valletta, Shalom Harlow, Karen Elson и Stella Tennant. Это показывает еще одну власть редактор моды: не только выбирать вещи, но и участвовать в том, какие лица становятся частью визуального канона.",
+      "wording_en": "Vogue connects Coddington with strong early images and support for models such as Amber Valletta, Shalom Harlow, Karen Elson and Stella Tennant. This reveals another form of editorial power: not only choosing clothes, but participating in which faces become part of the visual canon.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/grace-coddington-notes-excerpt-from-grace-a-memoir",
+          "locator": "DOCX section sec-23",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.penguinrandomhouse.com/books/218051/grace-by-grace-coddington/",
+          "locator": "DOCX section sec-23",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_gc_024",
+      "wording_ru": "Документальный фильм The September Issue 2009 года сделал Коддингтон широко узнаваемой за пределами профессиональной среды. В фильме зритель увидел не только готовые развороты, но и редакционный конфликт, отбор, повторные съемки и напряжение между изображением и страницей.",
+      "wording_en": "The 2009 documentary The September Issue made Coddington widely recognisable outside the professional fashion world. Viewers saw not just finished spreads but disagreement, selection, reshoots and the tension between a photograph and the final page.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/grace-coddington-notes-excerpt-from-grace-a-memoir",
+          "locator": "DOCX section sec-24",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.penguinrandomhouse.com/books/218051/grace-by-grace-coddington/",
+          "locator": "DOCX section sec-24",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_gc_025",
+      "wording_ru": "Проект Vogue: The Editor's Eye поместил Коддингтон в историю редактор модыs наряду с фигурами прошлых поколений. Vogue описывает эту профессию как силу, которая направляет фотографов и иллюстраторов и формирует то, как читатель представляет себе современную женщину.",
+      "wording_en": "Vogue's The Editor's Eye placed Coddington within a lineage of fashion editors whose work directed photographers and illustrators and shaped how readers imagined modern women.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/grace-coddington-notes-excerpt-from-grace-a-memoir",
+          "locator": "DOCX section sec-25",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.penguinrandomhouse.com/books/218051/grace-by-grace-coddington/",
+          "locator": "DOCX section sec-25",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_gc_026",
+      "wording_ru": "Коддингтон последовательно превращала собственную практику в архив. Grace: Thirty Years of Fashion at Vogue собрал работы British и American Vogue; Grace: A Memoir добавил автобиографический слой; Grace: The American Vogue Years сфокусировался на американском периоде и сотрудничествах с фотографами.",
+      "wording_en": "Coddington repeatedly turned her own practice into an archive. Grace: Thirty Years of Fashion at Vogue collected British and American Vogue work; Grace: A Memoir added autobiography; Grace: The American Vogue Years focused on her US period and photographer collaborations.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/grace-coddington-notes-excerpt-from-grace-a-memoir",
+          "locator": "DOCX section sec-26",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.penguinrandomhouse.com/books/218051/grace-by-grace-coddington/",
+          "locator": "DOCX section sec-26",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_gc_027",
+      "wording_ru": "В 2016 году Коддингтон ушла с позиции креативный директор American Vogue и перешла к более свободному формату работы, который в тот момент описывался как креативный директор по специальным проектам / contributing role. Это позволило сохранять связь с Vogue и одновременно брать внешние проекты.",
+      "wording_en": "In 2016 Coddington stepped down as creative director of American Vogue and moved into a looser relationship described at the time as creative director at large / contributing work, allowing her to retain a connection to Vogue while taking outside projects.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/grace-coddington-notes-excerpt-from-grace-a-memoir",
+          "locator": "DOCX section sec-27",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.penguinrandomhouse.com/books/218051/grace-by-grace-coddington/",
+          "locator": "DOCX section sec-27",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_gc_028",
+      "wording_ru": "После изменения роли Коддингтон расширила внешнюю практику. Среди заметных проектов - работа с Tiffany & Co. и аромат Grace by Grace Coddington, созданный с Comme des Garçons. Vogue связывал этот этап с ее выходом к независимым заказам после десятилетий работы внутри журнала.",
+      "wording_en": "After the role change Coddington expanded her external practice. Notable projects included work with Tiffany & Co. and the fragrance Grace by Grace Coddington with Comme des Garçons. Vogue framed this period as part of her new freedom to work outside the magazine after decades inside it.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/grace-coddington-notes-excerpt-from-grace-a-memoir",
+          "locator": "DOCX section sec-28",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.penguinrandomhouse.com/books/218051/grace-by-grace-coddington/",
+          "locator": "DOCX section sec-28",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_gc_029",
+      "wording_ru": "На актуальном редакционный состав Vogue Коддингтон указана среди приглашенных редакторов. Кроме статуса в списке редакторов, ее имя продолжает появляться в конкретных fashion credits: например, в сентябрьской истории Emma Stone 2025 года и в майской съемке Anna Wintour и Meryl Streep 2026 года она указана как редактор моды.",
+      "wording_en": "On Vogue's current masthead Coddington is listed among contributing editors. Her name also continues to appear in specific fashion credits, including Emma Stone's September 2025 story and the May 2026 Anna Wintour and Meryl Streep shoot, where she is credited as Fashion Editor.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/grace-coddington-notes-excerpt-from-grace-a-memoir",
+          "locator": "DOCX section sec-29",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.penguinrandomhouse.com/books/218051/grace-by-grace-coddington/",
+          "locator": "DOCX section sec-29",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_gc_030",
+      "wording_ru": "В 2026 году Phaidon продолжает публиковать и переиздавать ее архив, включая Grace: Now - третий том, посвященный более независимому этапу и новым редакционным сотрудничествам.",
+      "wording_en": "In 2026 Phaidon continues to publish and reissue Coddington's archive, including Grace: Now, a third portfolio volume focused on her more independent chapter and recent editorial collaborations.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/grace-coddington-notes-excerpt-from-grace-a-memoir",
+          "locator": "DOCX section sec-30",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.penguinrandomhouse.com/books/218051/grace-by-grace-coddington/",
+          "locator": "DOCX section sec-30",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_3680c7e01b7dd47c",
+      "title": "Grace Notes: An Excerpt from Grace Coddington's Memoir. Vogue",
+      "publisher": "",
+      "url": "https://www.vogue.com/article/grace-coddington-notes-excerpt-from-grace-a-memoir",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_4a41a541d4bed929",
+      "title": "Grace by Grace Coddington. Penguin Random House",
+      "publisher": "",
+      "url": "https://www.penguinrandomhouse.com/books/218051/grace-by-grace-coddington/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_c084c53a8e4b0003",
+      "title": "The Magical Thinking of Grace Coddington. Vogue",
+      "publisher": "",
+      "url": "https://www.vogue.com/article/the-magical-thinking-of-grace-coddington-a-tribute-on-her-80-th-birthday",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_241f184cf7cf90e1",
+      "title": "From the Archives: Remembering Vidal Sassoon. Vogue",
+      "publisher": "",
+      "url": "https://www.vogue.com/article/from-the-archives-remembering-vidal-sassoon",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_57291b634296a8fe",
+      "title": "Grace Coddington: Saluting the Legend. Council of Fashion Designers of America",
+      "publisher": "",
+      "url": "https://cfda.com/news/grace-coddington-saluting-the-legend/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_72a985930132b969",
+      "title": "Clio to Honor Grace Coddington with Lifetime Achievement Award. Council of Fashion Designers of America",
+      "publisher": "",
+      "url": "https://cfda.com/news/clio-to-honor-grace-coddington-for-lifetime-achievement/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_91fb5d62be92c0a6",
+      "title": "Vogue's Creative Director Grace Coddington on The September Issue. Vogue",
+      "publisher": "",
+      "url": "https://www.vogue.com/article/vd-vogues-creative-director-grace-coddington-on-the-september-issue",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_e01a6723d9bbf9e1",
+      "title": "Agents Provocateurs: A Look at Vogue's The Editor's Eye. Vogue",
+      "publisher": "",
+      "url": "https://www.vogue.com/article/excerpt-of-vogue-the-editors-eye-book",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_e5551dc971ccc5b0",
+      "title": "Behind the Pictures: Grace Coddington's Window Dressing. Vogue",
+      "publisher": "",
+      "url": "https://www.vogue.com/article/behind-the-pictures-grace-coddingtons-window-dressing",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_858ec655cf567f8b",
+      "title": "Grace: Thirty Years of Fashion at Vogue. Phaidon",
+      "publisher": "",
+      "url": "https://www.phaidon.com/en-us/products/grace-thirty-years-of-fashion-at-vogue",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_c5b1900446d512da",
+      "title": "Grace: The American Vogue Years. Phaidon",
+      "publisher": "",
+      "url": "https://www.phaidon.com/en-us/products/grace",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_29ec0e22a69f5bcd",
+      "title": "Grace: The American Vogue Years (2026). Phaidon",
+      "publisher": "",
+      "url": "https://www.phaidon.com/en-us/products/grace-the-american-vogue-years-2026",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_97ba8f57d1c26374",
+      "title": "Grace: Now. Phaidon",
+      "publisher": "",
+      "url": "https://www.phaidon.com/en-us/products/grace-now",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_27486b4685dcb849",
+      "title": "Grace Coddington Will Release Her Next Book This Fall. Vogue",
+      "publisher": "",
+      "url": "https://www.vogue.com/article/grace-now-phaidon-announcement",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_96191e5293a913b2",
+      "title": "A First Look Inside Grace Coddington's New Book. Vogue",
+      "publisher": "",
+      "url": "https://www.vogue.com/slideshow/grace-coddington-book-american-vogue-years-stylist-photos",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_8f7c56f4cdb8350f",
+      "title": "Editorial Masthead. Vogue",
+      "publisher": "",
+      "url": "https://www.vogue.com/masthead",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_523fcb895774fda8",
+      "title": "The Weird and Wonderful World of Emma Stone. Vogue",
+      "publisher": "",
+      "url": "https://www.vogue.com/article/emma-stone-september-cover-2025-interview",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_863d026ad3f67ad4",
+      "title": "Meryl Streep and Anna Wintour on Power, Fashion, and the Future. Vogue",
+      "publisher": "",
+      "url": "https://www.vogue.com/article/meryl-streep-anna-wintour-may-cover-2026-interview",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_ff521006b81ff5aa",
+      "title": "Grace Coddington to Step Down as Creative Director of American Vogue. The Business of Fashion",
+      "publisher": "",
+      "url": "https://www.businessoffashion.com/articles/news-analysis/bof-exclusive-grace-coddington-to-step-down-as-creative-director-of-american-vogue/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_0ea35d3c23947426",
+      "title": "British Vogue: The Biography of an Icon. Victoria and Albert Museum",
+      "publisher": "",
+      "url": "https://www.vam.ac.uk/shop/books/fashion-and-textiles/british-vogue-the-biography-of-an-icon-169069.html",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_grace_1_1",
+      "claim_id": "clm_gc_thesis",
+      "source_id": "src_3680c7e01b7dd47c",
+      "locator": "DOCX section editorial-thesis",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_grace_2_2",
+      "claim_id": "clm_gc_thesis",
+      "source_id": "src_4a41a541d4bed929",
+      "locator": "DOCX section editorial-thesis",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_grace_3_1",
+      "claim_id": "clm_gc_short",
+      "source_id": "src_3680c7e01b7dd47c",
+      "locator": "DOCX section short-answer",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_grace_4_2",
+      "claim_id": "clm_gc_short",
+      "source_id": "src_4a41a541d4bed929",
+      "locator": "DOCX section short-answer",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_grace_5_1",
+      "claim_id": "clm_gc_001",
+      "source_id": "src_3680c7e01b7dd47c",
+      "locator": "DOCX section sec-1",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_grace_6_2",
+      "claim_id": "clm_gc_001",
+      "source_id": "src_4a41a541d4bed929",
+      "locator": "DOCX section sec-1",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_grace_7_1",
+      "claim_id": "clm_gc_002",
+      "source_id": "src_3680c7e01b7dd47c",
+      "locator": "DOCX section sec-2",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_grace_8_2",
+      "claim_id": "clm_gc_002",
+      "source_id": "src_4a41a541d4bed929",
+      "locator": "DOCX section sec-2",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_grace_9_1",
+      "claim_id": "clm_gc_003",
+      "source_id": "src_3680c7e01b7dd47c",
+      "locator": "DOCX section sec-3",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_grace_10_2",
+      "claim_id": "clm_gc_003",
+      "source_id": "src_4a41a541d4bed929",
+      "locator": "DOCX section sec-3",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_grace_11_1",
+      "claim_id": "clm_gc_004",
+      "source_id": "src_3680c7e01b7dd47c",
+      "locator": "DOCX section sec-4",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_grace_12_2",
+      "claim_id": "clm_gc_004",
+      "source_id": "src_4a41a541d4bed929",
+      "locator": "DOCX section sec-4",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_grace_13_1",
+      "claim_id": "clm_gc_005",
+      "source_id": "src_3680c7e01b7dd47c",
+      "locator": "DOCX section sec-5",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_grace_14_2",
+      "claim_id": "clm_gc_005",
+      "source_id": "src_4a41a541d4bed929",
+      "locator": "DOCX section sec-5",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_grace_15_1",
+      "claim_id": "clm_gc_006",
+      "source_id": "src_3680c7e01b7dd47c",
+      "locator": "DOCX section sec-6",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_grace_16_2",
+      "claim_id": "clm_gc_006",
+      "source_id": "src_4a41a541d4bed929",
+      "locator": "DOCX section sec-6",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_grace_17_1",
+      "claim_id": "clm_gc_007",
+      "source_id": "src_3680c7e01b7dd47c",
+      "locator": "DOCX section sec-7",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_grace_18_2",
+      "claim_id": "clm_gc_007",
+      "source_id": "src_4a41a541d4bed929",
+      "locator": "DOCX section sec-7",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_grace_19_1",
+      "claim_id": "clm_gc_008",
+      "source_id": "src_3680c7e01b7dd47c",
+      "locator": "DOCX section sec-8",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_grace_20_2",
+      "claim_id": "clm_gc_008",
+      "source_id": "src_4a41a541d4bed929",
+      "locator": "DOCX section sec-8",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_grace_21_1",
+      "claim_id": "clm_gc_009",
+      "source_id": "src_3680c7e01b7dd47c",
+      "locator": "DOCX section sec-9",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_grace_22_2",
+      "claim_id": "clm_gc_009",
+      "source_id": "src_4a41a541d4bed929",
+      "locator": "DOCX section sec-9",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_grace_23_1",
+      "claim_id": "clm_gc_010",
+      "source_id": "src_3680c7e01b7dd47c",
+      "locator": "DOCX section sec-10",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_grace_24_2",
+      "claim_id": "clm_gc_010",
+      "source_id": "src_4a41a541d4bed929",
+      "locator": "DOCX section sec-10",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_grace_25_1",
+      "claim_id": "clm_gc_011",
+      "source_id": "src_3680c7e01b7dd47c",
+      "locator": "DOCX section sec-11",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_grace_26_2",
+      "claim_id": "clm_gc_011",
+      "source_id": "src_4a41a541d4bed929",
+      "locator": "DOCX section sec-11",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_grace_27_1",
+      "claim_id": "clm_gc_012",
+      "source_id": "src_3680c7e01b7dd47c",
+      "locator": "DOCX section sec-12",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_grace_28_2",
+      "claim_id": "clm_gc_012",
+      "source_id": "src_4a41a541d4bed929",
+      "locator": "DOCX section sec-12",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_grace_29_1",
+      "claim_id": "clm_gc_013",
+      "source_id": "src_3680c7e01b7dd47c",
+      "locator": "DOCX section sec-13",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_grace_30_2",
+      "claim_id": "clm_gc_013",
+      "source_id": "src_4a41a541d4bed929",
+      "locator": "DOCX section sec-13",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_grace_31_1",
+      "claim_id": "clm_gc_014",
+      "source_id": "src_3680c7e01b7dd47c",
+      "locator": "DOCX section sec-14",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_grace_32_2",
+      "claim_id": "clm_gc_014",
+      "source_id": "src_4a41a541d4bed929",
+      "locator": "DOCX section sec-14",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_grace_33_1",
+      "claim_id": "clm_gc_015",
+      "source_id": "src_3680c7e01b7dd47c",
+      "locator": "DOCX section sec-15",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_grace_34_2",
+      "claim_id": "clm_gc_015",
+      "source_id": "src_4a41a541d4bed929",
+      "locator": "DOCX section sec-15",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_grace_35_1",
+      "claim_id": "clm_gc_016",
+      "source_id": "src_3680c7e01b7dd47c",
+      "locator": "DOCX section sec-16",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_grace_36_2",
+      "claim_id": "clm_gc_016",
+      "source_id": "src_4a41a541d4bed929",
+      "locator": "DOCX section sec-16",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_grace_37_1",
+      "claim_id": "clm_gc_017",
+      "source_id": "src_3680c7e01b7dd47c",
+      "locator": "DOCX section sec-17",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_grace_38_2",
+      "claim_id": "clm_gc_017",
+      "source_id": "src_4a41a541d4bed929",
+      "locator": "DOCX section sec-17",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_grace_39_1",
+      "claim_id": "clm_gc_018",
+      "source_id": "src_3680c7e01b7dd47c",
+      "locator": "DOCX section sec-18",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_grace_40_2",
+      "claim_id": "clm_gc_018",
+      "source_id": "src_4a41a541d4bed929",
+      "locator": "DOCX section sec-18",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_grace_41_1",
+      "claim_id": "clm_gc_019",
+      "source_id": "src_3680c7e01b7dd47c",
+      "locator": "DOCX section sec-19",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_grace_42_2",
+      "claim_id": "clm_gc_019",
+      "source_id": "src_4a41a541d4bed929",
+      "locator": "DOCX section sec-19",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_grace_43_1",
+      "claim_id": "clm_gc_020",
+      "source_id": "src_3680c7e01b7dd47c",
+      "locator": "DOCX section sec-20",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_grace_44_2",
+      "claim_id": "clm_gc_020",
+      "source_id": "src_4a41a541d4bed929",
+      "locator": "DOCX section sec-20",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_grace_45_1",
+      "claim_id": "clm_gc_021",
+      "source_id": "src_3680c7e01b7dd47c",
+      "locator": "DOCX section sec-21",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_grace_46_2",
+      "claim_id": "clm_gc_021",
+      "source_id": "src_4a41a541d4bed929",
+      "locator": "DOCX section sec-21",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_grace_47_1",
+      "claim_id": "clm_gc_022",
+      "source_id": "src_3680c7e01b7dd47c",
+      "locator": "DOCX section sec-22",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_grace_48_2",
+      "claim_id": "clm_gc_022",
+      "source_id": "src_4a41a541d4bed929",
+      "locator": "DOCX section sec-22",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_grace_49_1",
+      "claim_id": "clm_gc_023",
+      "source_id": "src_3680c7e01b7dd47c",
+      "locator": "DOCX section sec-23",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_grace_50_2",
+      "claim_id": "clm_gc_023",
+      "source_id": "src_4a41a541d4bed929",
+      "locator": "DOCX section sec-23",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_grace_51_1",
+      "claim_id": "clm_gc_024",
+      "source_id": "src_3680c7e01b7dd47c",
+      "locator": "DOCX section sec-24",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_grace_52_2",
+      "claim_id": "clm_gc_024",
+      "source_id": "src_4a41a541d4bed929",
+      "locator": "DOCX section sec-24",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_grace_53_1",
+      "claim_id": "clm_gc_025",
+      "source_id": "src_3680c7e01b7dd47c",
+      "locator": "DOCX section sec-25",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_grace_54_2",
+      "claim_id": "clm_gc_025",
+      "source_id": "src_4a41a541d4bed929",
+      "locator": "DOCX section sec-25",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_grace_55_1",
+      "claim_id": "clm_gc_026",
+      "source_id": "src_3680c7e01b7dd47c",
+      "locator": "DOCX section sec-26",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_grace_56_2",
+      "claim_id": "clm_gc_026",
+      "source_id": "src_4a41a541d4bed929",
+      "locator": "DOCX section sec-26",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_grace_57_1",
+      "claim_id": "clm_gc_027",
+      "source_id": "src_3680c7e01b7dd47c",
+      "locator": "DOCX section sec-27",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_grace_58_2",
+      "claim_id": "clm_gc_027",
+      "source_id": "src_4a41a541d4bed929",
+      "locator": "DOCX section sec-27",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_grace_59_1",
+      "claim_id": "clm_gc_028",
+      "source_id": "src_3680c7e01b7dd47c",
+      "locator": "DOCX section sec-28",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_grace_60_2",
+      "claim_id": "clm_gc_028",
+      "source_id": "src_4a41a541d4bed929",
+      "locator": "DOCX section sec-28",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_grace_61_1",
+      "claim_id": "clm_gc_029",
+      "source_id": "src_3680c7e01b7dd47c",
+      "locator": "DOCX section sec-29",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_grace_62_2",
+      "claim_id": "clm_gc_029",
+      "source_id": "src_4a41a541d4bed929",
+      "locator": "DOCX section sec-29",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_grace_63_1",
+      "claim_id": "clm_gc_030",
+      "source_id": "src_3680c7e01b7dd47c",
+      "locator": "DOCX section sec-30",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_grace_64_2",
+      "claim_id": "clm_gc_030",
+      "source_id": "src_4a41a541d4bed929",
+      "locator": "DOCX section sec-30",
+      "support": "Supports the claim's factual content."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "media_state": "editorially_selected",
+  "workflow": {
+    "decision": "AUTO_APPROVE",
+    "note": "Claims carry traceable citations and pass the 0.85 threshold.",
+    "url_validation_summary": {
+      "confirmed": 20,
+      "anti_bot_confirmed": 0,
+      "needs_manual_recheck": 0
+    },
+    "converted_by": "VANSMITHLAB publication-artifact workflow",
+    "converted_at": "2026-08-13T00:00:00.000Z"
+  }
+}
