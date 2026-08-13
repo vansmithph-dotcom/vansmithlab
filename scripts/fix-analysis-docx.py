@@ -32,6 +32,10 @@ FILES = [
     "VSL_Dieter_Rams_Less_But_Better_Industrial_Design_EN.docx",
     "VSL_Ray_Petri_Buffalo_Styling_New_Masculinity_RU.docx",
     "VSL_Ray_Petri_Buffalo_Styling_New_Masculinity_EN.docx",
+    "VSL_John_Berger_Ways_of_Seeing_Art_Politics_RU.docx",
+    "VSL_John_Berger_Ways_of_Seeing_Art_Politics_EN.docx",
+    "VSL_Rene_Gruau_Line_Glamour_Fashion_Illustration_RU.docx",
+    "VSL_Rene_Gruau_Line_Glamour_Fashion_Illustration_EN.docx",
 ]
 
 def ptext(p):

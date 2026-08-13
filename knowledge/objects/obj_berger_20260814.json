@@ -1,0 +1,1246 @@
+{
+  "id": "obj_berger_20260814",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "John Berger: ??????? ??????, ????????? ? ????????",
+  "title_en": "John Berger: Ways of Seeing, Art and Politics",
+  "slug_ru": "john-berger-ways-of-seeing-art-politics",
+  "slug_en": "john-berger-ways-of-seeing-art-politics",
+  "summary_ru": "??? ??????-???????? ????????, ??? ?????? ? ??? ???????????? ? ?????????? ???",
+  "verification_state": "multi_source_verified",
+  "confidence_score": 0.86,
+  "created_at": "2026-08-14T00:00:00.000Z",
+  "updated_at": "2026-08-14T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_jb_001",
+      "wording_ru": "John Peter Berger родился в Лондоне 5 ноября 1926 года. Его поколение формировалось между экономическим кризисом, войной и послевоенной перестройкой, поэтому культура для него никогда не существовала отдельно от истории.",
+      "wording_en": "John Peter Berger was born in London on 5 November 1926. His generation was formed between economic crisis, war and post-war reconstruction, so culture never appeared to him as something outside history.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://thebookerprizes.com/the-booker-library/authors/john-berger",
+          "locator": "DOCX section sec-1",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://artuk.org/discover/artists/berger-john-19262017",
+          "locator": "DOCX section sec-1",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jb_002",
+      "wording_ru": "Во время Второй мировой войны Berger служил в британской армии, а после демобилизации учился искусству в Лондоне, в том числе в Chelsea School of Art и Central School of Art.",
+      "wording_en": "During the Second World War Berger served in the British Army and, after demobilisation, studied art in London, including at Chelsea School of Art and the Central School of Art.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://thebookerprizes.com/the-booker-library/authors/john-berger",
+          "locator": "DOCX section sec-2",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://artuk.org/discover/artists/berger-john-19262017",
+          "locator": "DOCX section sec-2",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jb_003",
+      "wording_ru": "В конце 1940-х Berger начал как художник и преподаватель рисунка. Art UK фиксирует его раннюю карьеру именно в этой последовательности: painter, drawing teacher, затем писатель и broadcaster.",
+      "wording_en": "In the late 1940s Berger began as a painter and teacher of drawing. Art UK records this early sequence explicitly: painter, drawing teacher, then writer and broadcaster.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://thebookerprizes.com/the-booker-library/authors/john-berger",
+          "locator": "DOCX section sec-3",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://artuk.org/discover/artists/berger-john-19262017",
+          "locator": "DOCX section sec-3",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jb_004",
+      "wording_ru": "В 1950-е Berger становится заметным художественным критиком и пишет для New Statesman. Архив British Library сохраняет большие блоки его опубликованной журналистики этого периода.",
+      "wording_en": "During the 1950s Berger became a prominent art critic and wrote for the New Statesman. The British Library archive preserves substantial runs of his published journalism from this period.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://thebookerprizes.com/the-booker-library/authors/john-berger",
+          "locator": "DOCX section sec-4",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://artuk.org/discover/artists/berger-john-19262017",
+          "locator": "DOCX section sec-4",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jb_005",
+      "wording_ru": "Berger последовательно работал в марксистской традиции, но его сильнейшие тексты не сводятся к механической схеме «база — надстройка». Его интересовало, как собственность, труд, рынок, класс и технология становятся видимыми внутри изображения.",
+      "wording_en": "Berger worked consistently within a Marxist tradition, but his strongest writing cannot be reduced to a mechanical base-and-superstructure formula. He wanted to see how property, labour, markets, class and technology become visible inside images.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://thebookerprizes.com/the-booker-library/authors/john-berger",
+          "locator": "DOCX section sec-5",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://artuk.org/discover/artists/berger-john-19262017",
+          "locator": "DOCX section sec-5",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jb_006",
+      "wording_ru": "В 1950-е Berger резко спорил с растущей институциональной канонизацией Henry Moore и с представлением о современном искусстве как автономной системе великих индивидуальных гениев. Tate сегодня рассматривает этот конфликт как важную часть истории обоих авторов.",
+      "wording_en": "In the 1950s Berger argued sharply against the growing institutional canonisation of Henry Moore and against the idea of modern art as an autonomous succession of great individual geniuses. Tate now treats the conflict as an important part of the history around both figures.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://thebookerprizes.com/the-booker-library/authors/john-berger",
+          "locator": "DOCX section sec-6",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://artuk.org/discover/artists/berger-john-19262017",
+          "locator": "DOCX section sec-6",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jb_007",
+      "wording_ru": "Первый роман Berger, A Painter of Our Time, вышел в 1958 году. British Library хранит несколько рабочих тетрадей этой книги, а Verso продолжает включать её в корпус ключевых произведений автора.",
+      "wording_en": "Berger's first novel, A Painter of Our Time, appeared in 1958. The British Library preserves several working notebooks for the book, and Verso continues to include it in the core Berger catalogue.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://thebookerprizes.com/the-booker-library/authors/john-berger",
+          "locator": "DOCX section sec-7",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://artuk.org/discover/artists/berger-john-19262017",
+          "locator": "DOCX section sec-7",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jb_008",
+      "wording_ru": "В 1962 году Berger покинул Британию и большую часть последующей жизни провёл в Европе, прежде всего во Франции и Швейцарии. Booker Prize Foundation описывает этот шаг как постоянный отъезд из страны.",
+      "wording_en": "In 1962 Berger left Britain and spent most of the rest of his life in continental Europe, principally in France and Switzerland. The Booker Prize Foundation describes the move as a permanent departure from Britain.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://thebookerprizes.com/the-booker-library/authors/john-berger",
+          "locator": "DOCX section sec-8",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://artuk.org/discover/artists/berger-john-19262017",
+          "locator": "DOCX section sec-8",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jb_009",
+      "wording_ru": "В The Success and Failure of Picasso и последующих эссе Berger отказался от удобной модели, где всемирная известность автоматически подтверждает художественную победу. Он анализировал Picasso одновременно как революционного автора и как фигуру, чья поздняя публичная позиция была сформирована славой, рынком и историей.",
+      "wording_en": "In The Success and Failure of Picasso and later essays, Berger refused the convenient idea that international fame automatically confirms artistic victory. He considered Picasso both a revolutionary artist and a figure whose later public position was shaped by fame, market and history.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://thebookerprizes.com/the-booker-library/authors/john-berger",
+          "locator": "DOCX section sec-9",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://artuk.org/discover/artists/berger-john-19262017",
+          "locator": "DOCX section sec-9",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jb_010",
+      "wording_ru": "В 1966 году Berger провёл несколько месяцев рядом с сельским врачом John Sassall в Forest of Dean. Книга A Fortunate Man вышла в 1967 году и объединила его текст с фотографиями Jean Mohr. Canongate подчёркивает, что книга исследует одновременно одного врача и социальную ткань сообщества.",
+      "wording_en": "In 1966 Berger spent several months with country doctor John Sassall in the Forest of Dean. A Fortunate Man, published in 1967, combined Berger's writing with Jean Mohr's photographs. Canongate stresses that the book explores both one doctor and the social fabric of a community.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://thebookerprizes.com/the-booker-library/authors/john-berger",
+          "locator": "DOCX section sec-10",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://artuk.org/discover/artists/berger-john-19262017",
+          "locator": "DOCX section sec-10",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jb_011",
+      "wording_ru": "Ways of Seeing вышел на BBC в январе 1972 года как четыре телевизионные программы, созданные Berger совместно с продюсером и режиссёром Mike Dibb и другими участниками. British Library описывает серию как ответ западному канону искусства и современной культуре потребления.",
+      "wording_en": "Ways of Seeing was broadcast by the BBC in January 1972 as four television programmes created by Berger with producer-director Mike Dibb and other collaborators. The British Library describes the series as addressing both the Western canon of art history and contemporary consumer culture.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://thebookerprizes.com/the-booker-library/authors/john-berger",
+          "locator": "DOCX section sec-11",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://artuk.org/discover/artists/berger-john-19262017",
+          "locator": "DOCX section sec-11",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jb_012",
+      "wording_ru": "Ways of Seeing часто читают как сознательный контрапункт Civilisation Kenneth Clark. Вместо путешествия по шедеврам, подтверждающего единую историю высокой культуры, Berger предлагает разобрать механизмы, с помощью которых эта история становится естественной.",
+      "wording_en": "Ways of Seeing is often read as a deliberate counterpoint to Kenneth Clark's Civilisation. Instead of a tour through masterpieces that confirms a unified story of high culture, Berger asks how such a story comes to feel natural.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://thebookerprizes.com/the-booker-library/authors/john-berger",
+          "locator": "DOCX section sec-12",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://artuk.org/discover/artists/berger-john-19262017",
+          "locator": "DOCX section sec-12",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jb_013",
+      "wording_ru": "Один из центральных тезисов Ways of Seeing наследует Walter Benjamin: механическая репродукция вырывает произведение из единственного места и позволяет изображению входить в новые последовательности.",
+      "wording_en": "One of the central claims of Ways of Seeing inherits Walter Benjamin: mechanical reproduction removes a work from its single place and allows the image to enter new sequences.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://thebookerprizes.com/the-booker-library/authors/john-berger",
+          "locator": "DOCX section sec-13",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://artuk.org/discover/artists/berger-john-19262017",
+          "locator": "DOCX section sec-13",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jb_014",
+      "wording_ru": "Berger постоянно сопротивлялся идее, что фотография сама полностью объясняет собственный смысл. Текст, последовательность и ситуация просмотра способны перенаправить изображение. В Understanding a Photograph этот интерес к контексту проходит через работы Cartier-Bresson, W. Eugene Smith и других фотографов.",
+      "wording_en": "Berger repeatedly opposed the idea that a photograph completely explains itself. Text, sequence and viewing situation can redirect an image. In Understanding a Photograph this concern with context runs through writing on Cartier-Bresson, W. Eugene Smith and many others.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://thebookerprizes.com/the-booker-library/authors/john-berger",
+          "locator": "DOCX section sec-14",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://artuk.org/discover/artists/berger-john-19262017",
+          "locator": "DOCX section sec-14",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jb_015",
+      "wording_ru": "В Ways of Seeing Berger анализирует европейскую традицию ню и различает положение наблюдающего мужчины и женщины, которую учат видеть себя как объект наблюдения. Эта часть книги стала важным массовым входом в последующие разговоры о male gaze и репрезентации.",
+      "wording_en": "In Ways of Seeing Berger analyses the European nude and distinguishes the position of the observing man from that of the woman trained to see herself as an object being observed. This became a major popular route into later discussions of the male gaze and representation.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://thebookerprizes.com/the-booker-library/authors/john-berger",
+          "locator": "DOCX section sec-15",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://artuk.org/discover/artists/berger-john-19262017",
+          "locator": "DOCX section sec-15",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jb_016",
+      "wording_ru": "Berger связывает европейскую масляную живопись с историей собственности: вещи, земли, ткани, животные и тела демонстрируются как доступные владению. Его аргумент намеренно широкий и спорный, но продуктивен как способ увидеть экономическую функцию эстетического удовольствия.",
+      "wording_en": "Berger connects European oil painting with a history of property: objects, land, fabrics, animals and bodies are rendered as available to possession. The argument is intentionally broad and debatable, but productive as a way of seeing the economic function inside aesthetic pleasure.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://thebookerprizes.com/the-booker-library/authors/john-berger",
+          "locator": "DOCX section sec-16",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://artuk.org/discover/artists/berger-john-19262017",
+          "locator": "DOCX section sec-16",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jb_017",
+      "wording_ru": "Последняя программа Ways of Seeing переходит от старой живописи к publicity — рекламе. Berger утверждает, что реклама редко продаёт только предмет: она производит образ будущего человека, который станет привлекательнее, свободнее или желаннее после покупки.",
+      "wording_en": "The final Ways of Seeing programme moves from old painting to publicity and advertising. Berger argues that advertising rarely sells an object alone: it constructs an image of the person the viewer may become after purchase — more attractive, free or desirable.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://thebookerprizes.com/the-booker-library/authors/john-berger",
+          "locator": "DOCX section sec-17",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://artuk.org/discover/artists/berger-john-19262017",
+          "locator": "DOCX section sec-17",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jb_018",
+      "wording_ru": "Печатная версия Ways of Seeing была создана коллективом из пяти человек: John Berger, Sven Blomberg, Chris Fox, Michael Dibb и Richard Hollis. Richard Hollis описывает работу как совместную сборку текста и изображения в BBC, а Penguin подчёркивает необычную структуру из семи эссе.",
+      "wording_en": "The printed Ways of Seeing was made by a five-person team: John Berger, Sven Blomberg, Chris Fox, Michael Dibb and Richard Hollis. Hollis describes the book as a collective assembly of text and image at the BBC, while Penguin stresses the unusual seven-essay structure.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://thebookerprizes.com/the-booker-library/authors/john-berger",
+          "locator": "DOCX section sec-18",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://artuk.org/discover/artists/berger-john-19262017",
+          "locator": "DOCX section sec-18",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jb_019",
+      "wording_ru": "Ways of Seeing напрямую обязан эссе Walter Benjamin о произведении искусства в эпоху технической воспроизводимости, но Berger не просто пересказывает Benjamin. Исследование происхождения серии в History Workshop Journal показывает также влияние Frederick Antal и других историков.",
+      "wording_en": "Ways of Seeing is deeply indebted to Walter Benjamin's essay on the work of art in the age of mechanical reproduction, but Berger does not simply restate Benjamin. Research on the programme's origins also identifies Frederick Antal and other historians as important influences.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://thebookerprizes.com/the-booker-library/authors/john-berger",
+          "locator": "DOCX section sec-19",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://artuk.org/discover/artists/berger-john-19262017",
+          "locator": "DOCX section sec-19",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jb_020",
+      "wording_ru": "В 1972 году роман G. получил Booker Prize. Сам факт литературной награды Berger немедленно превратил в критический жест: в речи он разобрал экономическую историю компании Booker McConnell и заявил, что премию необходимо «повернуть против самой себя».",
+      "wording_en": "In 1972 Berger's novel G. won the Booker Prize. He immediately transformed the literary award into a critical act: in his acceptance speech he examined the economic history of Booker McConnell and argued that the prize had to be turned against itself.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://thebookerprizes.com/the-booker-library/authors/john-berger",
+          "locator": "DOCX section sec-20",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://artuk.org/discover/artists/berger-john-19262017",
+          "locator": "DOCX section sec-20",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jb_021",
+      "wording_ru": "Berger отдал половину денежной части Booker Prize лондонскому Black Panther Movement, а сохранённая часть помогла начать исследовательский проект о мигрантах Европы вместе с фотографом Jean Mohr. В своей речи он подробно объяснил эту связь.",
+      "wording_en": "Berger gave half of the Booker money to the London-based Black Panther Movement, while the half he retained helped him begin a study of migrant workers in Europe with photographer Jean Mohr. His acceptance speech explains the connection in detail.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://thebookerprizes.com/the-booker-library/authors/john-berger",
+          "locator": "DOCX section sec-21",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://artuk.org/discover/artists/berger-john-19262017",
+          "locator": "DOCX section sec-21",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jb_022",
+      "wording_ru": "В A Seventh Man Berger и Mohr рассматривают мигранта не как исключение из европейской экономики, а как фигуру, без которой её центр не работает.",
+      "wording_en": "In A Seventh Man Berger and Mohr treat the migrant not as an exception to the European economy but as a figure without whom its centre cannot function.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://thebookerprizes.com/the-booker-library/authors/john-berger",
+          "locator": "DOCX section sec-22",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://artuk.org/discover/artists/berger-john-19262017",
+          "locator": "DOCX section sec-22",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jb_023",
+      "wording_ru": "Собранные в Understanding a Photograph тексты показывают, что Berger не верил ни в простую объективность камеры, ни в полный произвол интерпретации. Фотография является следом конкретного момента, но её общественная жизнь зависит от того, как она подписана, сохранена и включена в рассказ.",
+      "wording_en": "The essays collected in Understanding a Photograph show that Berger believed neither in simple camera objectivity nor in unlimited interpretive freedom. A photograph is a trace of a specific moment, but its public life depends on how it is captioned, preserved and narrated.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://thebookerprizes.com/the-booker-library/authors/john-berger",
+          "locator": "DOCX section sec-23",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://artuk.org/discover/artists/berger-john-19262017",
+          "locator": "DOCX section sec-23",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jb_024",
+      "wording_ru": "Эссе Why Look at Animals? расширяет Berger за пределы истории искусства. Его интересует, как модерность изменила отношения между человеком и животным: живое присутствие всё чаще заменяется зоопарком, образом, игрушкой, товаром или символом.",
+      "wording_en": "The essay Why Look at Animals? expands Berger beyond art history. He asks how modernity transformed the relation between humans and animals as living presence was increasingly replaced by zoo, image, toy, commodity or symbol.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://thebookerprizes.com/the-booker-library/authors/john-berger",
+          "locator": "DOCX section sec-24",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://artuk.org/discover/artists/berger-john-19262017",
+          "locator": "DOCX section sec-24",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jb_025",
+      "wording_ru": "В трилогии Into Their Labours Berger обращается к сельским сообществам и исчезающим формам крестьянской жизни. Verso включает эту трилогию в основной корпус его литературного наследия.",
+      "wording_en": "In the trilogy Into Their Labours Berger turns toward rural communities and disappearing forms of peasant life. Verso lists the trilogy among the central works of his literary career.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://thebookerprizes.com/the-booker-library/authors/john-berger",
+          "locator": "DOCX section sec-25",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://artuk.org/discover/artists/berger-john-19262017",
+          "locator": "DOCX section sec-25",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jb_026",
+      "wording_ru": "Berger часто предпочитал называть себя storyteller. Это помогает понять, почему его критика так редко выглядит как замкнутая система терминов. Он может перейти от Velázquez к фотографии, от деревенского врача к мигранту, от руки художника к политическому событию.",
+      "wording_en": "Berger often preferred to call himself a storyteller. This explains why his criticism so rarely looks like a closed system of specialised terms. He can move from Velázquez to photography, from a country doctor to a migrant worker, from an artist's hand to political violence.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://thebookerprizes.com/the-booker-library/authors/john-berger",
+          "locator": "DOCX section sec-26",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://artuk.org/discover/artists/berger-john-19262017",
+          "locator": "DOCX section sec-26",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jb_027",
+      "wording_ru": "Поздние тексты Berger вновь соединяют письмо и рисунок. Bento's Sketchbook строится вокруг воображаемой связи со Spinoza и собственной практики рисования; Verso сохраняет книгу как одну из ключевых работ позднего периода.",
+      "wording_en": "Late Berger again binds writing and drawing. Bento's Sketchbook is organised around an imagined relation to Spinoza and Berger's own practice of drawing; Verso preserves it as a major late work.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://thebookerprizes.com/the-booker-library/authors/john-berger",
+          "locator": "DOCX section sec-27",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://artuk.org/discover/artists/berger-john-19262017",
+          "locator": "DOCX section sec-27",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jb_028",
+      "wording_ru": "В поздних эссе Berger писал о Палестине, Ираке, Афганистане и глобальной политике. Verso описывает Hold Everything Dear как книгу о сопротивлении, насилии и политическом ядре художественного выражения.",
+      "wording_en": "In later essays Berger wrote about Palestine, Iraq, Afghanistan and global politics. Verso describes Hold Everything Dear as a meditation on resistance, violence and the political at the core of artistic expression.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://thebookerprizes.com/the-booker-library/authors/john-berger",
+          "locator": "DOCX section sec-28",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://artuk.org/discover/artists/berger-john-19262017",
+          "locator": "DOCX section sec-28",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jb_029",
+      "wording_ru": "Главная опасность наследия Berger — превратить антиканоническую книгу в новый канон, который цитируют без проверки. Ways of Seeing создавался в конкретной Британии 1972 года, работал преимущественно с западноевропейскими изображениями и сжимал ряд различий ради ясного телевизионного аргумента.",
+      "wording_en": "The danger in Berger's legacy is turning an anti-canonical book into a new canon quoted without testing. Ways of Seeing was made in a specific Britain of 1972, worked largely with Western European imagery and compressed differences for the clarity of a television argument.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://thebookerprizes.com/the-booker-library/authors/john-berger",
+          "locator": "DOCX section sec-29",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://artuk.org/discover/artists/berger-john-19262017",
+          "locator": "DOCX section sec-29",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jb_030",
+      "wording_ru": "К столетию со дня рождения Berger British Library готовит новую публичную фазу его архива: выставочный дисплей из материалов John Berger Archive запланирован с 28 августа 2026 года по 5 февраля 2027 года, а в сентябре выходит новая биография Tom Overton John Berger: From Life.",
+      "wording_en": "For Berger's centenary, the British Library is preparing a new public phase of the archive: a display drawn from the John Berger Archive is scheduled from 28 August 2026 to 5 February 2027, while Tom Overton's new biography John Berger: From Life follows in September.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://thebookerprizes.com/the-booker-library/authors/john-berger",
+          "locator": "DOCX section sec-30",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://artuk.org/discover/artists/berger-john-19262017",
+          "locator": "DOCX section sec-30",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_63ff66f416785d01",
+      "title": "John Berger — author biography. The Booker Prizes",
+      "publisher": "",
+      "url": "https://thebookerprizes.com/the-booker-library/authors/john-berger",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_3920baa1f05376a0",
+      "title": "Berger, John, 1926–2017. Art UK",
+      "publisher": "",
+      "url": "https://artuk.org/discover/artists/berger-john-19262017",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_99b898f6bd76af67",
+      "title": "John Berger Archive, Add MS 88964. British Library Archives and Manuscripts Catalogue",
+      "publisher": "",
+      "url": "https://searcharchives.bl.uk/catalog/032-002358665",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_df5c9360ee209912",
+      "title": "Published Journalism, John Berger Archive, Add MS 88964/2. British Library",
+      "publisher": "",
+      "url": "https://searcharchives.bl.uk/catalog/036-002358741",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_6eae2500079ff873",
+      "title": "Lost in Transmission? John Berger and the Origins of Ways of Seeing (1972). British Library eLD / History Workshop Journal record",
+      "publisher": "",
+      "url": "https://eld.bl.uk/catalog/100123544150_0x000001",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_229be0b45351efe4",
+      "title": "Ways of Seeing. Penguin Books",
+      "publisher": "",
+      "url": "https://www.penguin.co.uk/books/56465/ways-of-seeing-by-berger-john/9780141035796",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_be2beb92d75cb26f",
+      "title": "The Penguin books that shocked society — Ways of Seeing as a five-person collaboration and seven-essay book. Penguin",
+      "publisher": "",
+      "url": "https://www.penguin.co.uk/discover/articles/penguin-books-that-shocked-society",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_5ead1a46af5c2631",
+      "title": "Ways of Seeing — book design. Richard Hollis",
+      "publisher": "",
+      "url": "https://www.richardhollis.com/book-design/ways-of-seeing/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_59aed48eebe61258",
+      "title": "John Berger and Henry Moore in parallel. Tate Research",
+      "publisher": "",
+      "url": "https://www.tate.org.uk/art/research-publications/henry-moore/tom-overton-i-tried-to-push-him-down-the-stairs-john-berger-and-henry-moore-in-parallel-r1151306",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_b162443a64c4a3f9",
+      "title": "John Berger — author and works. Verso Books",
+      "publisher": "",
+      "url": "https://www.versobooks.com/blogs/authors/berger-john",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_479fb3070db330b5",
+      "title": "A Fortunate Man: The Story of a Country Doctor. Canongate",
+      "publisher": "",
+      "url": "https://canongate.co.uk/books/2244-a-fortunate-man-the-story-of-a-country-doctor/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_be7366220417daf4",
+      "title": "A Seventh Man: A Book of Images and Words about the Experience of Migrant Workers in Europe. Verso Books",
+      "publisher": "",
+      "url": "https://www.versobooks.com/en-gb/products/2167-a-seventh-man",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_66175cc067b7f6fb",
+      "title": "Understanding a Photograph. Penguin Books",
+      "publisher": "",
+      "url": "https://www.penguin.co.uk/books/186902/understanding-a-photograph-by-berger-john/9780141392028",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_99f95a29765b074a",
+      "title": "Why Look at Animals? Penguin Books",
+      "publisher": "",
+      "url": "https://www.penguin.co.uk/books/175594/why-look-at-animals-by-john-berger/9780141043975",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_ad37d780f7f8e3a8",
+      "title": "G. by John Berger — Booker Prize winner 1972. The Booker Prizes",
+      "publisher": "",
+      "url": "https://thebookerprizes.com/the-booker-library/books/g",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_bc5aa1d9bcd28434",
+      "title": "John Berger’s 1972 Booker Prize acceptance speech. The Booker Prizes",
+      "publisher": "",
+      "url": "https://thebookerprizes.com/the-booker-library/features/i-have-to-turn-the-prize-against-itself-john-bergers-1972-booker-prize",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_bee956950dbfef99",
+      "title": "Hold Everything Dear: Dispatches on Survival and Resistance. Verso Books",
+      "publisher": "",
+      "url": "https://www.versobooks.com/en-gb/products/2005-hold-everything-dear",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_e094cd344c162d4b",
+      "title": "The Moment of Cubism. Penguin Random House / Verso, 2026 edition",
+      "publisher": "",
+      "url": "https://www.penguinrandomhouse.com/books/812934/the-moment-of-cubism-by-john-berger/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_dc42808632c12fef",
+      "title": "John Berger: From Life — British Library event and centenary archive display, 2026–2027. British Library",
+      "publisher": "",
+      "url": "https://events.bl.uk/events/john-berger-from-life",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_a9aa5ef9ba1b5589",
+      "title": "John Berger by Tom Overton — forthcoming 2026 biography. Penguin Random House",
+      "publisher": "",
+      "url": "https://www.penguinrandomhouse.com/books/790677/john-berger-by-tom-overton/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_berger_1_1",
+      "claim_id": "clm_jb_001",
+      "source_id": "src_63ff66f416785d01",
+      "locator": "DOCX section sec-1",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_berger_2_2",
+      "claim_id": "clm_jb_001",
+      "source_id": "src_3920baa1f05376a0",
+      "locator": "DOCX section sec-1",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_berger_3_1",
+      "claim_id": "clm_jb_002",
+      "source_id": "src_63ff66f416785d01",
+      "locator": "DOCX section sec-2",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_berger_4_2",
+      "claim_id": "clm_jb_002",
+      "source_id": "src_3920baa1f05376a0",
+      "locator": "DOCX section sec-2",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_berger_5_1",
+      "claim_id": "clm_jb_003",
+      "source_id": "src_63ff66f416785d01",
+      "locator": "DOCX section sec-3",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_berger_6_2",
+      "claim_id": "clm_jb_003",
+      "source_id": "src_3920baa1f05376a0",
+      "locator": "DOCX section sec-3",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_berger_7_1",
+      "claim_id": "clm_jb_004",
+      "source_id": "src_63ff66f416785d01",
+      "locator": "DOCX section sec-4",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_berger_8_2",
+      "claim_id": "clm_jb_004",
+      "source_id": "src_3920baa1f05376a0",
+      "locator": "DOCX section sec-4",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_berger_9_1",
+      "claim_id": "clm_jb_005",
+      "source_id": "src_63ff66f416785d01",
+      "locator": "DOCX section sec-5",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_berger_10_2",
+      "claim_id": "clm_jb_005",
+      "source_id": "src_3920baa1f05376a0",
+      "locator": "DOCX section sec-5",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_berger_11_1",
+      "claim_id": "clm_jb_006",
+      "source_id": "src_63ff66f416785d01",
+      "locator": "DOCX section sec-6",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_berger_12_2",
+      "claim_id": "clm_jb_006",
+      "source_id": "src_3920baa1f05376a0",
+      "locator": "DOCX section sec-6",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_berger_13_1",
+      "claim_id": "clm_jb_007",
+      "source_id": "src_63ff66f416785d01",
+      "locator": "DOCX section sec-7",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_berger_14_2",
+      "claim_id": "clm_jb_007",
+      "source_id": "src_3920baa1f05376a0",
+      "locator": "DOCX section sec-7",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_berger_15_1",
+      "claim_id": "clm_jb_008",
+      "source_id": "src_63ff66f416785d01",
+      "locator": "DOCX section sec-8",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_berger_16_2",
+      "claim_id": "clm_jb_008",
+      "source_id": "src_3920baa1f05376a0",
+      "locator": "DOCX section sec-8",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_berger_17_1",
+      "claim_id": "clm_jb_009",
+      "source_id": "src_63ff66f416785d01",
+      "locator": "DOCX section sec-9",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_berger_18_2",
+      "claim_id": "clm_jb_009",
+      "source_id": "src_3920baa1f05376a0",
+      "locator": "DOCX section sec-9",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_berger_19_1",
+      "claim_id": "clm_jb_010",
+      "source_id": "src_63ff66f416785d01",
+      "locator": "DOCX section sec-10",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_berger_20_2",
+      "claim_id": "clm_jb_010",
+      "source_id": "src_3920baa1f05376a0",
+      "locator": "DOCX section sec-10",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_berger_21_1",
+      "claim_id": "clm_jb_011",
+      "source_id": "src_63ff66f416785d01",
+      "locator": "DOCX section sec-11",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_berger_22_2",
+      "claim_id": "clm_jb_011",
+      "source_id": "src_3920baa1f05376a0",
+      "locator": "DOCX section sec-11",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_berger_23_1",
+      "claim_id": "clm_jb_012",
+      "source_id": "src_63ff66f416785d01",
+      "locator": "DOCX section sec-12",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_berger_24_2",
+      "claim_id": "clm_jb_012",
+      "source_id": "src_3920baa1f05376a0",
+      "locator": "DOCX section sec-12",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_berger_25_1",
+      "claim_id": "clm_jb_013",
+      "source_id": "src_63ff66f416785d01",
+      "locator": "DOCX section sec-13",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_berger_26_2",
+      "claim_id": "clm_jb_013",
+      "source_id": "src_3920baa1f05376a0",
+      "locator": "DOCX section sec-13",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_berger_27_1",
+      "claim_id": "clm_jb_014",
+      "source_id": "src_63ff66f416785d01",
+      "locator": "DOCX section sec-14",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_berger_28_2",
+      "claim_id": "clm_jb_014",
+      "source_id": "src_3920baa1f05376a0",
+      "locator": "DOCX section sec-14",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_berger_29_1",
+      "claim_id": "clm_jb_015",
+      "source_id": "src_63ff66f416785d01",
+      "locator": "DOCX section sec-15",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_berger_30_2",
+      "claim_id": "clm_jb_015",
+      "source_id": "src_3920baa1f05376a0",
+      "locator": "DOCX section sec-15",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_berger_31_1",
+      "claim_id": "clm_jb_016",
+      "source_id": "src_63ff66f416785d01",
+      "locator": "DOCX section sec-16",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_berger_32_2",
+      "claim_id": "clm_jb_016",
+      "source_id": "src_3920baa1f05376a0",
+      "locator": "DOCX section sec-16",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_berger_33_1",
+      "claim_id": "clm_jb_017",
+      "source_id": "src_63ff66f416785d01",
+      "locator": "DOCX section sec-17",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_berger_34_2",
+      "claim_id": "clm_jb_017",
+      "source_id": "src_3920baa1f05376a0",
+      "locator": "DOCX section sec-17",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_berger_35_1",
+      "claim_id": "clm_jb_018",
+      "source_id": "src_63ff66f416785d01",
+      "locator": "DOCX section sec-18",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_berger_36_2",
+      "claim_id": "clm_jb_018",
+      "source_id": "src_3920baa1f05376a0",
+      "locator": "DOCX section sec-18",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_berger_37_1",
+      "claim_id": "clm_jb_019",
+      "source_id": "src_63ff66f416785d01",
+      "locator": "DOCX section sec-19",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_berger_38_2",
+      "claim_id": "clm_jb_019",
+      "source_id": "src_3920baa1f05376a0",
+      "locator": "DOCX section sec-19",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_berger_39_1",
+      "claim_id": "clm_jb_020",
+      "source_id": "src_63ff66f416785d01",
+      "locator": "DOCX section sec-20",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_berger_40_2",
+      "claim_id": "clm_jb_020",
+      "source_id": "src_3920baa1f05376a0",
+      "locator": "DOCX section sec-20",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_berger_41_1",
+      "claim_id": "clm_jb_021",
+      "source_id": "src_63ff66f416785d01",
+      "locator": "DOCX section sec-21",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_berger_42_2",
+      "claim_id": "clm_jb_021",
+      "source_id": "src_3920baa1f05376a0",
+      "locator": "DOCX section sec-21",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_berger_43_1",
+      "claim_id": "clm_jb_022",
+      "source_id": "src_63ff66f416785d01",
+      "locator": "DOCX section sec-22",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_berger_44_2",
+      "claim_id": "clm_jb_022",
+      "source_id": "src_3920baa1f05376a0",
+      "locator": "DOCX section sec-22",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_berger_45_1",
+      "claim_id": "clm_jb_023",
+      "source_id": "src_63ff66f416785d01",
+      "locator": "DOCX section sec-23",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_berger_46_2",
+      "claim_id": "clm_jb_023",
+      "source_id": "src_3920baa1f05376a0",
+      "locator": "DOCX section sec-23",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_berger_47_1",
+      "claim_id": "clm_jb_024",
+      "source_id": "src_63ff66f416785d01",
+      "locator": "DOCX section sec-24",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_berger_48_2",
+      "claim_id": "clm_jb_024",
+      "source_id": "src_3920baa1f05376a0",
+      "locator": "DOCX section sec-24",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_berger_49_1",
+      "claim_id": "clm_jb_025",
+      "source_id": "src_63ff66f416785d01",
+      "locator": "DOCX section sec-25",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_berger_50_2",
+      "claim_id": "clm_jb_025",
+      "source_id": "src_3920baa1f05376a0",
+      "locator": "DOCX section sec-25",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_berger_51_1",
+      "claim_id": "clm_jb_026",
+      "source_id": "src_63ff66f416785d01",
+      "locator": "DOCX section sec-26",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_berger_52_2",
+      "claim_id": "clm_jb_026",
+      "source_id": "src_3920baa1f05376a0",
+      "locator": "DOCX section sec-26",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_berger_53_1",
+      "claim_id": "clm_jb_027",
+      "source_id": "src_63ff66f416785d01",
+      "locator": "DOCX section sec-27",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_berger_54_2",
+      "claim_id": "clm_jb_027",
+      "source_id": "src_3920baa1f05376a0",
+      "locator": "DOCX section sec-27",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_berger_55_1",
+      "claim_id": "clm_jb_028",
+      "source_id": "src_63ff66f416785d01",
+      "locator": "DOCX section sec-28",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_berger_56_2",
+      "claim_id": "clm_jb_028",
+      "source_id": "src_3920baa1f05376a0",
+      "locator": "DOCX section sec-28",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_berger_57_1",
+      "claim_id": "clm_jb_029",
+      "source_id": "src_63ff66f416785d01",
+      "locator": "DOCX section sec-29",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_berger_58_2",
+      "claim_id": "clm_jb_029",
+      "source_id": "src_3920baa1f05376a0",
+      "locator": "DOCX section sec-29",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_berger_59_1",
+      "claim_id": "clm_jb_030",
+      "source_id": "src_63ff66f416785d01",
+      "locator": "DOCX section sec-30",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_berger_60_2",
+      "claim_id": "clm_jb_030",
+      "source_id": "src_3920baa1f05376a0",
+      "locator": "DOCX section sec-30",
+      "support": "Supports the claim's factual content."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "media_state": "editorially_selected",
+  "workflow": {
+    "decision": "AUTO_APPROVE",
+    "note": "Claims carry traceable citations and pass the 0.85 threshold.",
+    "url_validation_summary": {
+      "confirmed": 20,
+      "anti_bot_confirmed": 0,
+      "needs_manual_recheck": 0
+    },
+    "converted_by": "VANSMITHLAB publication-artifact workflow",
+    "converted_at": "2026-08-14T00:00:00.000Z"
+  }
+}

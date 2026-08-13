@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13",
-  "count": 319,
+  "generated_at": "2026-08-14",
+  "count": 359,
   "sources": [
     {
       "id": "src_5db9a6bbf487b7e5",
@@ -47,6 +47,14 @@
       "title": "The 1890s: 1892 / Complete Vogue Archive",
       "url": "https://archive.vogue.com/issues/1892",
       "publisher": "Vogue",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_3920baa1f05376a0",
+      "title": "Berger, John, 1926–2017",
+      "url": "https://artuk.org/discover/artists/berger-john-19262017",
+      "publisher": "Art UK",
       "source_tier": 2,
       "accessed_at": "2026-08-13"
     },
@@ -191,6 +199,14 @@
       "title": "Ray Petri — Google Books bibliographic record for Georgina Ripley, Anthem Press, 2026",
       "url": "https://books.google.com/books/about/Ray_Petri.html?id=qvz2EQAAQBAJ",
       "publisher": "",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_479fb3070db330b5",
+      "title": "A Fortunate Man: The Story of a Country Doctor",
+      "url": "https://canongate.co.uk/books/2244-a-fortunate-man-the-story-of-a-country-doctor/",
+      "publisher": "Canongate",
       "source_tier": 2,
       "accessed_at": "2026-08-13"
     },
@@ -435,6 +451,14 @@
       "accessed_at": "2026-08-13"
     },
     {
+      "id": "src_6eae2500079ff873",
+      "title": "Lost in Transmission? John Berger and the Origins of Ways of Seeing (1972)",
+      "url": "https://eld.bl.uk/catalog/100123544150_0x000001",
+      "publisher": "British Library eLD / History Workshop Journal record",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
       "id": "src_525c460ec4a8620e",
       "title": "Visionaire, from fashion magazine to presenting an opera in Madrid",
       "url": "https://elpais.com/smoda/placeres/2026-04-27/visionaire-de-revista-de-moda-a-presentar-una-opera-en-madrid-confiamos-en-los-artistas-la-ia-solo-puede-generar-contenido-sobre-lo-que-ya-existe-no-algo-nuevo.html",
@@ -463,6 +487,22 @@
       "title": "Fashion Shows News — Louis Vuitton Magazine",
       "url": "https://eu.louisvuitton.com/eng-e1/magazine/fashion-shows",
       "publisher": "Louis Vuitton",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_dc42808632c12fef",
+      "title": "John Berger: From Life — British Library event and centenary archive display, 2026–2027",
+      "url": "https://events.bl.uk/events/john-berger-from-life",
+      "publisher": "British Library",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_4e0832749a33e7f2",
+      "title": "Fleur Cowles and the Making of Flair",
+      "url": "https://eyeondesign.aiga.org/fleur-cowles-and-the-making-of-flair-historys-most-beautiful-magazine/",
+      "publisher": "AIGA Eye on Design",
       "source_tier": 2,
       "accessed_at": "2026-08-13"
     },
@@ -635,6 +675,14 @@
       "accessed_at": "2026-08-13"
     },
     {
+      "id": "src_ac0807b1a0a72eb4",
+      "title": "Gruau (1910–2004) — museum chronology and advertising history",
+      "url": "https://madparis.fr/gruau",
+      "publisher": "Musée des Arts Décoratifs",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
       "id": "src_3a73d376ec338f5a",
       "title": "032c Gallery opens in Seoul",
       "url": "https://magazine.032c.com/magazine/032c-gallery-opening-seoul",
@@ -763,6 +811,14 @@
       "accessed_at": "2026-08-13"
     },
     {
+      "id": "src_4c923e240772ba14",
+      "title": "René Gruau: Master of Fashion Illustration — 2013 sale archive",
+      "url": "https://onlineonly.christies.com/s/rene-gruau-master-fashion-illustration/24",
+      "publisher": "Christie’s",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
       "id": "src_eb8021565d2808dd",
       "title": "USD Home",
       "url": "https://openusd.org/",
@@ -819,6 +875,14 @@
       "accessed_at": "2026-08-13"
     },
     {
+      "id": "src_0f95dbae275c0ad7",
+      "title": "René Gruau: Master of Fashion Illustration",
+      "url": "https://prestelpublishing.penguinrandomhouse.de/book/Rene-Gruau/Holly-Brubach/Prestel-com/e589751.rhd",
+      "publisher": "Prestel Publishing",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
       "id": "src_e537a264b929981f",
       "title": "Pixar RenderMan",
       "url": "https://renderman.pixar.com/about",
@@ -833,6 +897,14 @@
       "publisher": "The Evolution of RenderMan",
       "source_tier": 2,
       "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_da7062994b51135a",
+      "title": "René Gruau — birthplace and civic biography",
+      "url": "https://riminiturismo.it/en/what-see/people-history-traditions/famous-people/rene-gruau",
+      "publisher": "Rimini Turismo",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
     },
     {
       "id": "src_3e4991ee075eb97d",
@@ -859,10 +931,34 @@
       "accessed_at": "2026-08-13"
     },
     {
+      "id": "src_99b898f6bd76af67",
+      "title": "John Berger Archive, Add MS 88964",
+      "url": "https://searcharchives.bl.uk/catalog/032-002358665",
+      "publisher": "British Library Archives and Manuscripts Catalogue",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_df5c9360ee209912",
+      "title": "Published Journalism, John Berger Archive, Add MS 88964/2",
+      "url": "https://searcharchives.bl.uk/catalog/036-002358741",
+      "publisher": "British Library",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
       "id": "src_57fb316cc3b70cb8",
       "title": "i-D 376 The Lore Issue - Martin Parr Cover",
       "url": "https://shop.i-d.co/products/i-d-376-the-lore-issue-martin-parr-cover-limited-edition",
       "publisher": "i-D Shop",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_6bc9cc266daebb7f",
+      "title": "René Gruau — Society of Illustrators Hall of Fame profile",
+      "url": "https://societyillustrators.org/award-winners/rene-gruau/",
+      "publisher": "",
       "source_tier": 2,
       "accessed_at": "2026-08-13"
     },
@@ -879,6 +975,30 @@
       "title": "About - i-D on Substack",
       "url": "https://substack.i-d.co/about",
       "publisher": "i-D",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_63ff66f416785d01",
+      "title": "John Berger — author biography",
+      "url": "https://thebookerprizes.com/the-booker-library/authors/john-berger",
+      "publisher": "The Booker Prizes",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_ad37d780f7f8e3a8",
+      "title": "G. by John Berger — Booker Prize winner 1972",
+      "url": "https://thebookerprizes.com/the-booker-library/books/g",
+      "publisher": "The Booker Prizes",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_bc5aa1d9bcd28434",
+      "title": "John Berger’s 1972 Booker Prize acceptance speech",
+      "url": "https://thebookerprizes.com/the-booker-library/features/i-have-to-turn-the-prize-against-itself-john-bergers-1972-booker-prize",
+      "publisher": "The Booker Prizes",
       "source_tier": 2,
       "accessed_at": "2026-08-13"
     },
@@ -1235,6 +1355,14 @@
       "accessed_at": "2026-08-13"
     },
     {
+      "id": "src_c0c9ef3c870256b1",
+      "title": "René Gruau — artist and auction archive",
+      "url": "https://www.christies.com/en/artists/rene-gruau",
+      "publisher": "Christie’s",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
       "id": "src_1c5dbb7b4542cdcc",
       "title": "Discover the Maison du Brésil — interior design",
       "url": "https://www.ciup.fr/en/discover-the-maison-du-bresil/",
@@ -1379,6 +1507,14 @@
       "accessed_at": "2026-08-13"
     },
     {
+      "id": "src_59017e3505e564b8",
+      "title": "Christian Dior: Jardins Rêvés — exhibition including René Gruau illustrations",
+      "url": "https://www.dior.com/en_int/fashion/news-savoir-faire/folder-news-and-events/scad-christian-dior-jardins-reves",
+      "publisher": "Dior",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
       "id": "src_e406195c5912bbce",
       "title": "Epic Games",
       "url": "https://www.epicgames.com/site/news/announcing-metahuman-creator-fast-high-fidelity-digital-humans-in-unreal-engine?lang=en",
@@ -1455,6 +1591,22 @@
       "title": "National Portrait Gallery’s The Face — a reminder of what fashion magazines once were",
       "url": "https://www.ft.com/content/93ac57e0-8096-4e41-b88b-b0bc093b9d91",
       "publisher": "Financial Times",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_7100240cd9ead872",
+      "title": "René Gruau Collection — Rouge Baiser, Lido and stage chronology",
+      "url": "https://www.galeriearyjan.com/en/rene-gruau-collection.htm",
+      "publisher": "Galerie Ary Jan",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_eba3c7355ef0959f",
+      "title": "René Gruau — current collection/exhibition context and works",
+      "url": "https://www.galeriepentcheff.co.uk/en/peintre-rene-gruau",
+      "publisher": "Galerie Pentcheff",
       "source_tier": 2,
       "accessed_at": "2026-08-13"
     },
@@ -1667,6 +1819,14 @@
       "accessed_at": "2026-08-13"
     },
     {
+      "id": "src_342c4e9dab866b70",
+      "title": "The Illustrious Legacy of Fashion Illustrator René Gruau",
+      "url": "https://www.lofficielcoffee.com/the-history-of-l-officiel/fashion-illustration-rene-gruau",
+      "publisher": "L’Officiel",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
       "id": "src_45309f646546f52f",
       "title": "MetaHuman",
       "url": "https://www.metahuman.com/",
@@ -1679,6 +1839,22 @@
       "title": "MetaHuman Leaves Early Access with a Feature-Packed New Release",
       "url": "https://www.metahuman.com/news/metahuman-leaves-early-access-with-a-feature-packed-new-release",
       "publisher": "Epic Games",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_9996989792c57892",
+      "title": "House of Dior, “Gruau,” fall/winter 1949–50",
+      "url": "https://www.metmuseum.org/art/collection/search/156825",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_caeb12f7c0fcd041",
+      "title": "A New French Style: Eight Models from Pierre Balmain, illustrated by René Gruau, 1946",
+      "url": "https://www.metmuseum.org/art/collection/search/345352",
+      "publisher": "The Metropolitan Museum of Art",
       "source_tier": 2,
       "accessed_at": "2026-08-13"
     },
@@ -1979,10 +2155,74 @@
       "accessed_at": "2026-08-12"
     },
     {
+      "id": "src_de877aeb1950efcc",
+      "title": "René Gruau — Arts graphiques",
+      "url": "https://www.palaisgalliera.paris.fr/collections/les-collections-du-musee/arts-graphiques/rene-gruau",
+      "publisher": "Palais Galliera",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_2f41fabd0aa016de",
+      "title": "Silhouettes — digital magazine history and archive",
+      "url": "https://www.palaisgalliera.paris.fr/en/collections/bibliotheque-numerique/silhouettes",
+      "publisher": "Palais Galliera",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_99f95a29765b074a",
+      "title": "Why Look at Animals? Penguin Books",
+      "url": "https://www.penguin.co.uk/books/175594/why-look-at-animals-by-john-berger/9780141043975",
+      "publisher": "",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_66175cc067b7f6fb",
+      "title": "Understanding a Photograph",
+      "url": "https://www.penguin.co.uk/books/186902/understanding-a-photograph-by-berger-john/9780141392028",
+      "publisher": "Penguin Books",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_229be0b45351efe4",
+      "title": "Ways of Seeing",
+      "url": "https://www.penguin.co.uk/books/56465/ways-of-seeing-by-berger-john/9780141035796",
+      "publisher": "Penguin Books",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_be2beb92d75cb26f",
+      "title": "The Penguin books that shocked society — Ways of Seeing as a five-person collaboration and seven-essay book",
+      "url": "https://www.penguin.co.uk/discover/articles/penguin-books-that-shocked-society",
+      "publisher": "Penguin",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
       "id": "src_4a41a541d4bed929",
       "title": "Grace by Grace Coddington",
       "url": "https://www.penguinrandomhouse.com/books/218051/grace-by-grace-coddington/",
       "publisher": "Penguin Random House",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_a9aa5ef9ba1b5589",
+      "title": "John Berger by Tom Overton — forthcoming 2026 biography",
+      "url": "https://www.penguinrandomhouse.com/books/790677/john-berger-by-tom-overton/",
+      "publisher": "Penguin Random House",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_e094cd344c162d4b",
+      "title": "The Moment of Cubism",
+      "url": "https://www.penguinrandomhouse.com/books/812934/the-moment-of-cubism-by-john-berger/",
+      "publisher": "Penguin Random House / Verso, 2026 edition",
       "source_tier": 2,
       "accessed_at": "2026-08-13"
     },
@@ -2075,6 +2315,14 @@
       "accessed_at": "2026-08-13"
     },
     {
+      "id": "src_5ead1a46af5c2631",
+      "title": "Ways of Seeing — book design",
+      "url": "https://www.richardhollis.com/book-design/ways-of-seeing/",
+      "publisher": "Richard Hollis",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
       "id": "src_826d69ce965002be",
       "title": "Visionaire: Experiences in Art and Fashion",
       "url": "https://www.rizzoliusa.com/book/9780847848591/",
@@ -2129,6 +2377,22 @@
       "publisher": "Smashing Magazine",
       "source_tier": 2,
       "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_a053136cbddc2f14",
+      "title": "Dior Illustrated: René Gruau and the Line of Beauty",
+      "url": "https://www.somersethouse.org.uk/whats-on/dior-illustrated",
+      "publisher": "Somerset House",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_59aed48eebe61258",
+      "title": "John Berger and Henry Moore in parallel",
+      "url": "https://www.tate.org.uk/art/research-publications/henry-moore/tom-overton-i-tried-to-push-him-down-the-stairs-john-berger-and-henry-moore-in-parallel-r1151306",
+      "publisher": "Tate Research",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
     },
     {
       "id": "src_d7a303953ae442b6",
@@ -2211,6 +2475,22 @@
       "accessed_at": "2026-08-13"
     },
     {
+      "id": "src_89ee168b86edd970",
+      "title": "Fleur Cowles’s Flair, the Most Lavish Magazine of the 1950s",
+      "url": "https://www.theparisreview.org/blog/2015/01/20/fleurs-flair/",
+      "publisher": "The Paris Review",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_aa557bc7aa98e2ca",
+      "title": "Dior Illustrated: René Gruau and the Line of Beauty — exhibition listing, including Eau Sauvage",
+      "url": "https://www.timeout.com/london/art/dior-illustrated-rene-gruau-and-the-line-of-beauty",
+      "publisher": "Time Out London",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
       "id": "src_845b924e40d49116",
       "title": "Forging New Paths for Filmmakers on The Mandalorian",
       "url": "https://www.unrealengine.com/blog/forging-new-paths-for-filmmakers-on-the-mandalorian",
@@ -2255,6 +2535,38 @@
       "title": "Why Visionaire Is One of the Most Expensive Magazines in the World",
       "url": "https://www.vanityfair.com/culture/2014/11/visionaire-magazine-cecilia-dean-interview",
       "publisher": "Vanity Fair",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_725670c07796df10",
+      "title": "A Flair for Living — Fleur Cowles and Flair magazine, including Gruau",
+      "url": "https://www.vanityfair.com/magazine/1996/10/fleur-cowles199610",
+      "publisher": "Vanity Fair",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_b162443a64c4a3f9",
+      "title": "John Berger — author and works",
+      "url": "https://www.versobooks.com/blogs/authors/berger-john",
+      "publisher": "Verso Books",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_bee956950dbfef99",
+      "title": "Hold Everything Dear: Dispatches on Survival and Resistance",
+      "url": "https://www.versobooks.com/en-gb/products/2005-hold-everything-dear",
+      "publisher": "Verso Books",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_be7366220417daf4",
+      "title": "A Seventh Man: A Book of Images and Words about the Experience of Migrant Workers in Europe",
+      "url": "https://www.versobooks.com/en-gb/products/2167-a-seventh-man",
+      "publisher": "Verso Books",
       "source_tier": 2,
       "accessed_at": "2026-08-13"
     },
@@ -2329,6 +2641,14 @@
       "publisher": "Vogue",
       "source_tier": 2,
       "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_0d42ead4a1feaaa3",
+      "title": "A New Book Collects the Work of René Gruau, an Illustrator Who Inspired Christian Dior",
+      "url": "https://www.vogue.com/article/aa-new-book-collects-the-work-of-rene-gruau-an-illustrator-who-inspired-christian-dior",
+      "publisher": "Vogue",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
     },
     {
       "id": "src_e5551dc971ccc5b0",

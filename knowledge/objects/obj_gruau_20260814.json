@@ -1,0 +1,1246 @@
+{
+  "id": "obj_gruau_20260814",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Ren? Gruau: ?????, ?????? ? ?????? ???????????",
+  "title_en": "Ren? Gruau: Line, Glamour and Fashion Illustration",
+  "slug_ru": "rene-gruau-line-glamour-fashion-illustration",
+  "slug_en": "rene-gruau-line-glamour-fashion-illustration",
+  "summary_ru": "??? ??????????? ???? ?????? ????? ? ?????, ????? ? ???????",
+  "verification_state": "multi_source_verified",
+  "confidence_score": 0.86,
+  "created_at": "2026-08-14T00:00:00.000Z",
+  "updated_at": "2026-08-14T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_rg_001",
+      "wording_ru": "René Gruau родился 4 февраля 1909 года в Римини как Renato Zavagli Ricciardelli. Итальянские и музейные источники связывают его с аристократической семьёй по отцу и французской линией по матери. Профессиональное имя Gruau он взял по материнской фамилии.",
+      "wording_en": "René Gruau was born in Rimini on 4 February 1909 as Renato Zavagli Ricciardelli. Italian and museum sources connect him to an aristocratic Italian family through his father and a French line through his mother; professionally he adopted his mother’s surname, Gruau.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.palaisgalliera.paris.fr/collections/les-collections-du-musee/arts-graphiques/rene-gruau",
+          "locator": "DOCX section sec-1",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.palaisgalliera.paris.fr/en/collections/bibliotheque-numerique/silhouettes",
+          "locator": "DOCX section sec-1",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rg_002",
+      "wording_ru": "Palais Galliera датирует начало его карьеры fashion illustrator 1924 годом. Gruau был подростком и не прошёл длинный академический путь, который обычно связывают с профессией художника.",
+      "wording_en": "Palais Galliera dates the beginning of Gruau’s career as a fashion illustrator to 1924. He was still a teenager and did not follow the long academic route commonly associated with the fine artist.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.palaisgalliera.paris.fr/collections/les-collections-du-musee/arts-graphiques/rene-gruau",
+          "locator": "DOCX section sec-2",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.palaisgalliera.paris.fr/en/collections/bibliotheque-numerique/silhouettes",
+          "locator": "DOCX section sec-2",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rg_003",
+      "wording_ru": "С 1926 года Gruau сотрудничал с итальянским журналом Lidel. В эпоху, когда fashion illustration ещё была основным способом визуального сообщения о новой одежде, журнал требовал от художника одновременно точности и характера.",
+      "wording_en": "From 1926 Gruau collaborated with the Italian magazine Lidel. At a time when fashion illustration remained a principal way to communicate new clothes, the magazine demanded both accuracy and character.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.palaisgalliera.paris.fr/collections/les-collections-du-musee/arts-graphiques/rene-gruau",
+          "locator": "DOCX section sec-3",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.palaisgalliera.paris.fr/en/collections/bibliotheque-numerique/silhouettes",
+          "locator": "DOCX section sec-3",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rg_004",
+      "wording_ru": "Palais Galliera указывает 1931 год как момент закрепления Gruau в Париже. Он начинает работать внутри среды, где couture, журналы, реклама, театр и светская культура находились буквально в нескольких кварталах друг от друга.",
+      "wording_en": "Palais Galliera identifies 1931 as the moment Gruau established himself in Paris. He entered an environment where couture, magazines, advertising, theatre and social culture operated within the same city network.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.palaisgalliera.paris.fr/collections/les-collections-du-musee/arts-graphiques/rene-gruau",
+          "locator": "DOCX section sec-4",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.palaisgalliera.paris.fr/en/collections/bibliotheque-numerique/silhouettes",
+          "locator": "DOCX section sec-4",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rg_005",
+      "wording_ru": "В 1930-х и 1940-х Gruau работал для Fémina, Marie Claire, L’Officiel de la Mode et de La Couture, Silhouettes и других изданий. Palais Galliera отдельно фиксирует его значительную роль в Silhouettes.",
+      "wording_en": "During the 1930s and 1940s Gruau worked for Fémina, Marie Claire, L’Officiel de la Mode et de La Couture, Silhouettes and other titles. Palais Galliera specifically records his important role at Silhouettes.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.palaisgalliera.paris.fr/collections/les-collections-du-musee/arts-graphiques/rene-gruau",
+          "locator": "DOCX section sec-5",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.palaisgalliera.paris.fr/en/collections/bibliotheque-numerique/silhouettes",
+          "locator": "DOCX section sec-5",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rg_006",
+      "wording_ru": "Главный технический миф о Gruau — будто его рисунки «просты». На самом деле простота возникает после чрезвычайно жёсткого отбора. Контур может опустить глаза, кисть руки или половину ткани, но сохранить именно тот поворот плеча, который объясняет весь образ.",
+      "wording_en": "The main technical myth about Gruau is that his drawings are “simple.” Their simplicity arrives only after severe selection. A contour may omit eyes, a hand or half a garment and still retain the exact shoulder movement that explains the whole figure.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.palaisgalliera.paris.fr/collections/les-collections-du-musee/arts-graphiques/rene-gruau",
+          "locator": "DOCX section sec-6",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.palaisgalliera.paris.fr/en/collections/bibliotheque-numerique/silhouettes",
+          "locator": "DOCX section sec-6",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rg_007",
+      "wording_ru": "Palais Galliera описывает характерную для Gruau систему: белая бумага, чёрная тушь и яркий цветовой акцент. Красный особенно часто становится не фоном, а смысловым ударением — губы, перчатка, ткань, знак.",
+      "wording_en": "Palais Galliera describes a characteristic Gruau system: white paper, black ink and a vivid colour accent. Red repeatedly operates not as background but as semantic impact — lips, glove, fabric or sign.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.palaisgalliera.paris.fr/collections/les-collections-du-musee/arts-graphiques/rene-gruau",
+          "locator": "DOCX section sec-7",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.palaisgalliera.paris.fr/en/collections/bibliotheque-numerique/silhouettes",
+          "locator": "DOCX section sec-7",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rg_008",
+      "wording_ru": "Многие изображения Gruau выглядят дорогими не из-за количества деталей, а из-за их отсутствия. Фигура может занимать лишь часть листа; фон исчезает; предмет существует в воздухе.",
+      "wording_en": "Many Gruau images feel luxurious because of the absence of detail rather than its accumulation. A figure may occupy only part of the sheet; the setting disappears; an object seems to exist in air.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.palaisgalliera.paris.fr/collections/les-collections-du-musee/arts-graphiques/rene-gruau",
+          "locator": "DOCX section sec-8",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.palaisgalliera.paris.fr/en/collections/bibliotheque-numerique/silhouettes",
+          "locator": "DOCX section sec-8",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rg_009",
+      "wording_ru": "Исследования и современные обзоры Gruau регулярно отмечают влияние японской печатной графики и Toulouse-Lautrec: плоские цветовые пятна, резкий контур, асимметричное кадрирование, ощущение мгновенного жеста.",
+      "wording_en": "Studies and contemporary surveys of Gruau regularly note affinities with Japanese prints and Toulouse-Lautrec: flat colour, emphatic contour, asymmetric cropping and instantaneous gesture.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.palaisgalliera.paris.fr/collections/les-collections-du-musee/arts-graphiques/rene-gruau",
+          "locator": "DOCX section sec-9",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.palaisgalliera.paris.fr/en/collections/bibliotheque-numerique/silhouettes",
+          "locator": "DOCX section sec-9",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rg_010",
+      "wording_ru": "Fashion illustration легко превратить в красивую фантазию, где одежда перестаёт быть читаемой. Gruau избегает этого благодаря глубокому знанию couture: линия талии, распределение объёма, работа драпировки и положение ткани на теле сохраняются даже при сильной стилизации.",
+      "wording_en": "Fashion illustration can easily become fantasy in which clothes stop being legible. Gruau avoids this through deep knowledge of couture: waistline, distribution of volume, drape and the behaviour of fabric on the body remain readable even under strong stylisation.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.palaisgalliera.paris.fr/collections/les-collections-du-musee/arts-graphiques/rene-gruau",
+          "locator": "DOCX section sec-10",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.palaisgalliera.paris.fr/en/collections/bibliotheque-numerique/silhouettes",
+          "locator": "DOCX section sec-10",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rg_011",
+      "wording_ru": "The Metropolitan Museum of Art хранит A New French Style: Eight Models from Pierre Balmain — издание 1946 года с литографиями Gruau. Этот объект важен, потому что показывает его статус до взлёта Dior.",
+      "wording_en": "The Metropolitan Museum of Art holds A New French Style: Eight Models from Pierre Balmain, a 1946 publication illustrated with Gruau lithographs. It establishes his stature before the rise of the House of Dior.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.palaisgalliera.paris.fr/collections/les-collections-du-musee/arts-graphiques/rene-gruau",
+          "locator": "DOCX section sec-11",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.palaisgalliera.paris.fr/en/collections/bibliotheque-numerique/silhouettes",
+          "locator": "DOCX section sec-11",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rg_012",
+      "wording_ru": "Met и Somerset House подчёркивают дружбу Christian Dior и René Gruau. Их связь важна именно потому, что Gruau не был случайным подрядчиком, приглашённым после успеха дома. Он понимал вкусы Dior и среду, из которой тот вышел.",
+      "wording_en": "The Met and Somerset House emphasise the friendship between Christian Dior and René Gruau. This matters because Gruau was not an anonymous contractor hired after the house became successful. He understood Dior’s taste and the cultural environment from which it emerged.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.palaisgalliera.paris.fr/collections/les-collections-du-musee/arts-graphiques/rene-gruau",
+          "locator": "DOCX section sec-12",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.palaisgalliera.paris.fr/en/collections/bibliotheque-numerique/silhouettes",
+          "locator": "DOCX section sec-12",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rg_013",
+      "wording_ru": "В 1947 году Dior представил первую коллекцию, а Gruau начал долгую работу с домом. Society of Illustrators и Somerset House связывают его графику с тем, как новая Dior femininity стала считываться широкой аудиторией.",
+      "wording_en": "In 1947 Dior presented his first collection and Gruau began a long collaboration with the house. Society of Illustrators and Somerset House connect his graphic work to the wider perception of Dior’s new femininity.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.palaisgalliera.paris.fr/collections/les-collections-du-musee/arts-graphiques/rene-gruau",
+          "locator": "DOCX section sec-13",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.palaisgalliera.paris.fr/en/collections/bibliotheque-numerique/silhouettes",
+          "locator": "DOCX section sec-13",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rg_014",
+      "wording_ru": "Palais Galliera датирует одним из ранних рекламных рисунков Gruau для Dior работу 1947 года для Miss Dior. Парфюм ставит перед иллюстратором задачу сложнее, чем платье: изображать нужно то, что физически невидимо.",
+      "wording_en": "Palais Galliera dates one of Gruau’s early Dior advertising drawings to 1947 for Miss Dior. Perfume gives the illustrator a problem more difficult than a dress: the subject itself is invisible.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.palaisgalliera.paris.fr/collections/les-collections-du-musee/arts-graphiques/rene-gruau",
+          "locator": "DOCX section sec-14",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.palaisgalliera.paris.fr/en/collections/bibliotheque-numerique/silhouettes",
+          "locator": "DOCX section sec-14",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rg_015",
+      "wording_ru": "The Met хранит Dior dress “Gruau” сезона fall/winter 1949–50 и прямо указывает, что Dior назвал модель в честь своего друга René Gruau, автора ранней рекламы дома.",
+      "wording_en": "The Met holds the House of Dior dress “Gruau” from fall/winter 1949–50 and explicitly states that Dior named it after his friend René Gruau, who provided early advertising illustrations for the house.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.palaisgalliera.paris.fr/collections/les-collections-du-musee/arts-graphiques/rene-gruau",
+          "locator": "DOCX section sec-15",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.palaisgalliera.paris.fr/en/collections/bibliotheque-numerique/silhouettes",
+          "locator": "DOCX section sec-15",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rg_016",
+      "wording_ru": "Одна из самых узнаваемых работ Gruau — реклама губной помады Rouge Baiser: лицо с повязкой, чёрная графика и резкий красный акцент. Palais Galliera датирует первую афишу 1949 годом.",
+      "wording_en": "One of Gruau’s best-known works is the Rouge Baiser lipstick advertisement: a face with a blindfold, black graphic shapes and a sharp red accent. Palais Galliera dates the first poster to 1949.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.palaisgalliera.paris.fr/collections/les-collections-du-musee/arts-graphiques/rene-gruau",
+          "locator": "DOCX section sec-16",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.palaisgalliera.paris.fr/en/collections/bibliotheque-numerique/silhouettes",
+          "locator": "DOCX section sec-16",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rg_017",
+      "wording_ru": "С 1947 года Gruau всё активнее работает в рекламе — couture, аксессуары, бельё, парфюмерия, косметика. Для него реклама не была падением статуса после журнальной иллюстрации.",
+      "wording_en": "From 1947 Gruau increasingly worked in advertising across couture, accessories, lingerie, perfume and cosmetics. Advertising was not a fall in status after editorial illustration.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.palaisgalliera.paris.fr/collections/les-collections-du-musee/arts-graphiques/rene-gruau",
+          "locator": "DOCX section sec-17",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.palaisgalliera.paris.fr/en/collections/bibliotheque-numerique/silhouettes",
+          "locator": "DOCX section sec-17",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rg_018",
+      "wording_ru": "С Dior Gruau создавал образы для целого мира парфюмерии. Somerset House строил выставку Dior Illustrated вокруг того, как его рисунки переводили ароматы в визуальные персонажи и ситуации.",
+      "wording_en": "With Dior, Gruau produced imagery for a broad fragrance world. Somerset House built Dior Illustrated around the way his drawings translated perfume into visual characters and situations.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.palaisgalliera.paris.fr/collections/les-collections-du-musee/arts-graphiques/rene-gruau",
+          "locator": "DOCX section sec-18",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.palaisgalliera.paris.fr/en/collections/bibliotheque-numerique/silhouettes",
+          "locator": "DOCX section sec-18",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rg_019",
+      "wording_ru": "В рекламе Eau Sauvage Gruau переключает привычную оптику с женского couture-тела на мужской образ. Экспозиционные материалы Dior Illustrated включали его Eau Sauvage как один из важных примеров.",
+      "wording_en": "In Eau Sauvage advertising Gruau shifted attention from the conventional female couture body toward a male image. Dior Illustrated included Eau Sauvage as a major example of his work for the house.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.palaisgalliera.paris.fr/collections/les-collections-du-musee/arts-graphiques/rene-gruau",
+          "locator": "DOCX section sec-19",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.palaisgalliera.paris.fr/en/collections/bibliotheque-numerique/silhouettes",
+          "locator": "DOCX section sec-19",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rg_020",
+      "wording_ru": "В конце 1940-х Gruau работал в США для Harper’s Bazaar и Vogue, а Fleur Cowles привлекла его к Flair. Society of Illustrators и Vanity Fair отмечают его особое положение внутри этого короткоживущего, но визуально амбициозного журнала.",
+      "wording_en": "In the late 1940s Gruau worked in the United States for Harper’s Bazaar and Vogue, while Fleur Cowles brought him into Flair. Society of Illustrators and Vanity Fair note his special position within that short-lived but visually ambitious magazine.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.palaisgalliera.paris.fr/collections/les-collections-du-musee/arts-graphiques/rene-gruau",
+          "locator": "DOCX section sec-20",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.palaisgalliera.paris.fr/en/collections/bibliotheque-numerique/silhouettes",
+          "locator": "DOCX section sec-20",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rg_021",
+      "wording_ru": "Vogue сохраняет пример 1954 года, где рисунок Gruau с платьем Givenchy накладывается на фотографический портрет Veronica von Hagen, снятый Erwin Blumenfeld.",
+      "wording_en": "Vogue preserves a 1954 example in which Gruau’s drawing of a Givenchy dress is superimposed on a photographic portrait of Veronica von Hagen by Erwin Blumenfeld.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.palaisgalliera.paris.fr/collections/les-collections-du-musee/arts-graphiques/rene-gruau",
+          "locator": "DOCX section sec-21",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.palaisgalliera.paris.fr/en/collections/bibliotheque-numerique/silhouettes",
+          "locator": "DOCX section sec-21",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rg_022",
+      "wording_ru": "Цифровой архив Silhouettes показывает постепенное увеличение роли фотографии в модном журнале 1940-х: сначала небольшие снимки рядом с рисунками, затем полноформатные и разворотные фото.",
+      "wording_en": "The digital Silhouettes archive shows photography gradually expanding within the fashion magazine of the 1940s: first small images beside drawings, then full-page and double-page photographs.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.palaisgalliera.paris.fr/collections/les-collections-du-musee/arts-graphiques/rene-gruau",
+          "locator": "DOCX section sec-22",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.palaisgalliera.paris.fr/en/collections/bibliotheque-numerique/silhouettes",
+          "locator": "DOCX section sec-22",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rg_023",
+      "wording_ru": "С середины 1950-х Gruau создавал многочисленные афиши для Lido. Musée des Arts Décoratifs и Christie's фиксируют длительную линию его кабаретных работ.",
+      "wording_en": "From the mid-1950s Gruau produced numerous posters for the Lido. Musée des Arts Décoratifs and Christie’s document a long line of cabaret work.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.palaisgalliera.paris.fr/collections/les-collections-du-musee/arts-graphiques/rene-gruau",
+          "locator": "DOCX section sec-23",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.palaisgalliera.paris.fr/en/collections/bibliotheque-numerique/silhouettes",
+          "locator": "DOCX section sec-23",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rg_024",
+      "wording_ru": "Gruau работал не только для моды и рекламы, но и для сцены: афиши, театральные проекты, костюмы и визуальные материалы для спектаклей. Musée des Arts Décoratifs упоминает, в частности, La Belle de Paris 1961 года и работы для сценической среды.",
+      "wording_en": "Gruau also worked for stage culture through posters, costume and theatrical projects. Musée des Arts Décoratifs records, among other projects, La Belle de Paris in 1961 and his wider involvement with performance imagery.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.palaisgalliera.paris.fr/collections/les-collections-du-musee/arts-graphiques/rene-gruau",
+          "locator": "DOCX section sec-24",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.palaisgalliera.paris.fr/en/collections/bibliotheque-numerique/silhouettes",
+          "locator": "DOCX section sec-24",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rg_025",
+      "wording_ru": "В лучших работах Gruau можно убрать название клиента — и всё равно почувствовать дисциплину бренда. Это особенно заметно в Dior: чёрный, белый, красный, линия, перчатка, профиль, звериная метафора, пустое поле.",
+      "wording_en": "In Gruau’s strongest work, the client name can almost be removed and the discipline of the brand remains legible. This is especially true of Dior: black, white, red, line, glove, profile, animal metaphor, empty field.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.palaisgalliera.paris.fr/collections/les-collections-du-musee/arts-graphiques/rene-gruau",
+          "locator": "DOCX section sec-25",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.palaisgalliera.paris.fr/en/collections/bibliotheque-numerique/silhouettes",
+          "locator": "DOCX section sec-25",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rg_026",
+      "wording_ru": "Gruau часто подписывал работы узнаваемой подписью со звездой. На рекламной странице это создаёт редкую ситуацию: коммерческое изображение одновременно несёт бренд клиента и заметное авторское имя.",
+      "wording_en": "Gruau frequently signed works with his recognisable name and star. In advertising this creates a rare double identity: the client brand and the illustrator’s authorial mark coexist.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.palaisgalliera.paris.fr/collections/les-collections-du-musee/arts-graphiques/rene-gruau",
+          "locator": "DOCX section sec-26",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.palaisgalliera.paris.fr/en/collections/bibliotheque-numerique/silhouettes",
+          "locator": "DOCX section sec-26",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rg_027",
+      "wording_ru": "Поздние оценки Gruau часто восхищаются «effortless» качеством его рисунка. Но лёгкость является результатом огромного запаса наблюдений: тело, анатомия, материал, свет, fashion history, графика, театр.",
+      "wording_en": "Later accounts often praise the “effortless” quality of Gruau’s drawing. But the ease rests on a large reserve of observation: body, anatomy, material, light, fashion history, graphic design and theatre.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.palaisgalliera.paris.fr/collections/les-collections-du-musee/arts-graphiques/rene-gruau",
+          "locator": "DOCX section sec-27",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.palaisgalliera.paris.fr/en/collections/bibliotheque-numerique/silhouettes",
+          "locator": "DOCX section sec-27",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rg_028",
+      "wording_ru": "К концу XX века институции начали последовательно канонизировать Gruau: выставка в Musée du Costume / Palais Galliera, затем экспозиция в Musée de la Publicité. Musée des Arts Décoratifs связывает его с открытием нового музейного пространства рекламы в 1999 году.",
+      "wording_en": "By the end of the twentieth century institutions increasingly canonised Gruau, including exhibitions at the Musée du Costume / Palais Galliera and the Musée de la Publicité. Musée des Arts Décoratifs links him to the opening of the new advertising museum space in 1999.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.palaisgalliera.paris.fr/collections/les-collections-du-musee/arts-graphiques/rene-gruau",
+          "locator": "DOCX section sec-28",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.palaisgalliera.paris.fr/en/collections/bibliotheque-numerique/silhouettes",
+          "locator": "DOCX section sec-28",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rg_029",
+      "wording_ru": "Наследие Gruau продолжило влиять на Dior после его смерти. Vogue отмечал, что John Galliano обращался к его графике и назвал в его честь couture look; выставка 2010–2011 Dior Illustrated вернула связь Gruau–Dior в публичный музейный контекст. В 2025 году официальный Dior снова включил его иллюстрации в выставку Christian Dior: Jardins Rêvés.",
+      "wording_en": "Gruau continued to influence Dior after his death. Vogue has noted John Galliano’s direct engagement with his graphic language; the 2010–2011 Dior Illustrated exhibition returned the Gruau–Dior relationship to public view. In 2025 official Dior again included Gruau illustrations in Christian Dior: Jardins Rêvés.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.palaisgalliera.paris.fr/collections/les-collections-du-musee/arts-graphiques/rene-gruau",
+          "locator": "DOCX section sec-29",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.palaisgalliera.paris.fr/en/collections/bibliotheque-numerique/silhouettes",
+          "locator": "DOCX section sec-29",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rg_030",
+      "wording_ru": "René Gruau важен не как последний великий мастер эпохи «до фотографии». Такое описание превращает его медиум в исторический тупик. Его рисунок делает то, что фотография по определению делать не обязана: сокращает реальность до графического аргумента, превращает запах в метафору, одежду — в жест, а бренд — в несколько мгновенно узнаваемых отношений.",
+      "wording_en": "René Gruau matters not as the last great master of an era “before photography.” That description turns his medium into a historical dead end. His drawing does things photography is not obliged to do: compress reality into a graphic argument, turn scent into metaphor, clothing into gesture and a brand into a handful of instantly recognisable relationships.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.palaisgalliera.paris.fr/collections/les-collections-du-musee/arts-graphiques/rene-gruau",
+          "locator": "DOCX section sec-30",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.palaisgalliera.paris.fr/en/collections/bibliotheque-numerique/silhouettes",
+          "locator": "DOCX section sec-30",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_de877aeb1950efcc",
+      "title": "René Gruau — Arts graphiques. Palais Galliera",
+      "publisher": "",
+      "url": "https://www.palaisgalliera.paris.fr/collections/les-collections-du-musee/arts-graphiques/rene-gruau",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_2f41fabd0aa016de",
+      "title": "Silhouettes — digital magazine history and archive. Palais Galliera",
+      "publisher": "",
+      "url": "https://www.palaisgalliera.paris.fr/en/collections/bibliotheque-numerique/silhouettes",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_ac0807b1a0a72eb4",
+      "title": "Gruau (1910–2004) — museum chronology and advertising history. Musée des Arts Décoratifs",
+      "publisher": "",
+      "url": "https://madparis.fr/gruau",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_da7062994b51135a",
+      "title": "René Gruau — birthplace and civic biography. Rimini Turismo",
+      "publisher": "",
+      "url": "https://riminiturismo.it/en/what-see/people-history-traditions/famous-people/rene-gruau",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_caeb12f7c0fcd041",
+      "title": "A New French Style: Eight Models from Pierre Balmain, illustrated by René Gruau, 1946. The Metropolitan Museum of Art",
+      "publisher": "",
+      "url": "https://www.metmuseum.org/art/collection/search/345352",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_9996989792c57892",
+      "title": "House of Dior, “Gruau,” fall/winter 1949–50. The Metropolitan Museum of Art",
+      "publisher": "",
+      "url": "https://www.metmuseum.org/art/collection/search/156825",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_a053136cbddc2f14",
+      "title": "Dior Illustrated: René Gruau and the Line of Beauty. Somerset House",
+      "publisher": "",
+      "url": "https://www.somersethouse.org.uk/whats-on/dior-illustrated",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_59017e3505e564b8",
+      "title": "Christian Dior: Jardins Rêvés — exhibition including René Gruau illustrations. Dior",
+      "publisher": "",
+      "url": "https://www.dior.com/en_int/fashion/news-savoir-faire/folder-news-and-events/scad-christian-dior-jardins-reves",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_6bc9cc266daebb7f",
+      "title": "René Gruau — Society of Illustrators Hall of Fame profile",
+      "publisher": "",
+      "url": "https://societyillustrators.org/award-winners/rene-gruau/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_0d42ead4a1feaaa3",
+      "title": "A New Book Collects the Work of René Gruau, an Illustrator Who Inspired Christian Dior. Vogue",
+      "publisher": "",
+      "url": "https://www.vogue.com/article/aa-new-book-collects-the-work-of-rene-gruau-an-illustrator-who-inspired-christian-dior",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_0f95dbae275c0ad7",
+      "title": "René Gruau: Master of Fashion Illustration. Prestel Publishing",
+      "publisher": "",
+      "url": "https://prestelpublishing.penguinrandomhouse.de/book/Rene-Gruau/Holly-Brubach/Prestel-com/e589751.rhd",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_c0c9ef3c870256b1",
+      "title": "René Gruau — artist and auction archive. Christie’s",
+      "publisher": "",
+      "url": "https://www.christies.com/en/artists/rene-gruau",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_7100240cd9ead872",
+      "title": "René Gruau Collection — Rouge Baiser, Lido and stage chronology. Galerie Ary Jan",
+      "publisher": "",
+      "url": "https://www.galeriearyjan.com/en/rene-gruau-collection.htm",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_342c4e9dab866b70",
+      "title": "The Illustrious Legacy of Fashion Illustrator René Gruau. L’Officiel",
+      "publisher": "",
+      "url": "https://www.lofficielcoffee.com/the-history-of-l-officiel/fashion-illustration-rene-gruau",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_725670c07796df10",
+      "title": "A Flair for Living — Fleur Cowles and Flair magazine, including Gruau. Vanity Fair",
+      "publisher": "",
+      "url": "https://www.vanityfair.com/magazine/1996/10/fleur-cowles199610",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_89ee168b86edd970",
+      "title": "Fleur Cowles’s Flair, the Most Lavish Magazine of the 1950s. The Paris Review",
+      "publisher": "",
+      "url": "https://www.theparisreview.org/blog/2015/01/20/fleurs-flair/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_4e0832749a33e7f2",
+      "title": "Fleur Cowles and the Making of Flair. AIGA Eye on Design",
+      "publisher": "",
+      "url": "https://eyeondesign.aiga.org/fleur-cowles-and-the-making-of-flair-historys-most-beautiful-magazine/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_aa557bc7aa98e2ca",
+      "title": "Dior Illustrated: René Gruau and the Line of Beauty — exhibition listing, including Eau Sauvage. Time Out London",
+      "publisher": "",
+      "url": "https://www.timeout.com/london/art/dior-illustrated-rene-gruau-and-the-line-of-beauty",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_eba3c7355ef0959f",
+      "title": "René Gruau — current collection/exhibition context and works. Galerie Pentcheff",
+      "publisher": "",
+      "url": "https://www.galeriepentcheff.co.uk/en/peintre-rene-gruau",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_4c923e240772ba14",
+      "title": "René Gruau: Master of Fashion Illustration — 2013 sale archive. Christie’s",
+      "publisher": "",
+      "url": "https://onlineonly.christies.com/s/rene-gruau-master-fashion-illustration/24",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_gruau_1_1",
+      "claim_id": "clm_rg_001",
+      "source_id": "src_de877aeb1950efcc",
+      "locator": "DOCX section sec-1",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_gruau_2_2",
+      "claim_id": "clm_rg_001",
+      "source_id": "src_2f41fabd0aa016de",
+      "locator": "DOCX section sec-1",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_gruau_3_1",
+      "claim_id": "clm_rg_002",
+      "source_id": "src_de877aeb1950efcc",
+      "locator": "DOCX section sec-2",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_gruau_4_2",
+      "claim_id": "clm_rg_002",
+      "source_id": "src_2f41fabd0aa016de",
+      "locator": "DOCX section sec-2",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_gruau_5_1",
+      "claim_id": "clm_rg_003",
+      "source_id": "src_de877aeb1950efcc",
+      "locator": "DOCX section sec-3",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_gruau_6_2",
+      "claim_id": "clm_rg_003",
+      "source_id": "src_2f41fabd0aa016de",
+      "locator": "DOCX section sec-3",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_gruau_7_1",
+      "claim_id": "clm_rg_004",
+      "source_id": "src_de877aeb1950efcc",
+      "locator": "DOCX section sec-4",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_gruau_8_2",
+      "claim_id": "clm_rg_004",
+      "source_id": "src_2f41fabd0aa016de",
+      "locator": "DOCX section sec-4",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_gruau_9_1",
+      "claim_id": "clm_rg_005",
+      "source_id": "src_de877aeb1950efcc",
+      "locator": "DOCX section sec-5",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_gruau_10_2",
+      "claim_id": "clm_rg_005",
+      "source_id": "src_2f41fabd0aa016de",
+      "locator": "DOCX section sec-5",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_gruau_11_1",
+      "claim_id": "clm_rg_006",
+      "source_id": "src_de877aeb1950efcc",
+      "locator": "DOCX section sec-6",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_gruau_12_2",
+      "claim_id": "clm_rg_006",
+      "source_id": "src_2f41fabd0aa016de",
+      "locator": "DOCX section sec-6",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_gruau_13_1",
+      "claim_id": "clm_rg_007",
+      "source_id": "src_de877aeb1950efcc",
+      "locator": "DOCX section sec-7",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_gruau_14_2",
+      "claim_id": "clm_rg_007",
+      "source_id": "src_2f41fabd0aa016de",
+      "locator": "DOCX section sec-7",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_gruau_15_1",
+      "claim_id": "clm_rg_008",
+      "source_id": "src_de877aeb1950efcc",
+      "locator": "DOCX section sec-8",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_gruau_16_2",
+      "claim_id": "clm_rg_008",
+      "source_id": "src_2f41fabd0aa016de",
+      "locator": "DOCX section sec-8",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_gruau_17_1",
+      "claim_id": "clm_rg_009",
+      "source_id": "src_de877aeb1950efcc",
+      "locator": "DOCX section sec-9",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_gruau_18_2",
+      "claim_id": "clm_rg_009",
+      "source_id": "src_2f41fabd0aa016de",
+      "locator": "DOCX section sec-9",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_gruau_19_1",
+      "claim_id": "clm_rg_010",
+      "source_id": "src_de877aeb1950efcc",
+      "locator": "DOCX section sec-10",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_gruau_20_2",
+      "claim_id": "clm_rg_010",
+      "source_id": "src_2f41fabd0aa016de",
+      "locator": "DOCX section sec-10",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_gruau_21_1",
+      "claim_id": "clm_rg_011",
+      "source_id": "src_de877aeb1950efcc",
+      "locator": "DOCX section sec-11",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_gruau_22_2",
+      "claim_id": "clm_rg_011",
+      "source_id": "src_2f41fabd0aa016de",
+      "locator": "DOCX section sec-11",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_gruau_23_1",
+      "claim_id": "clm_rg_012",
+      "source_id": "src_de877aeb1950efcc",
+      "locator": "DOCX section sec-12",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_gruau_24_2",
+      "claim_id": "clm_rg_012",
+      "source_id": "src_2f41fabd0aa016de",
+      "locator": "DOCX section sec-12",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_gruau_25_1",
+      "claim_id": "clm_rg_013",
+      "source_id": "src_de877aeb1950efcc",
+      "locator": "DOCX section sec-13",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_gruau_26_2",
+      "claim_id": "clm_rg_013",
+      "source_id": "src_2f41fabd0aa016de",
+      "locator": "DOCX section sec-13",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_gruau_27_1",
+      "claim_id": "clm_rg_014",
+      "source_id": "src_de877aeb1950efcc",
+      "locator": "DOCX section sec-14",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_gruau_28_2",
+      "claim_id": "clm_rg_014",
+      "source_id": "src_2f41fabd0aa016de",
+      "locator": "DOCX section sec-14",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_gruau_29_1",
+      "claim_id": "clm_rg_015",
+      "source_id": "src_de877aeb1950efcc",
+      "locator": "DOCX section sec-15",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_gruau_30_2",
+      "claim_id": "clm_rg_015",
+      "source_id": "src_2f41fabd0aa016de",
+      "locator": "DOCX section sec-15",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_gruau_31_1",
+      "claim_id": "clm_rg_016",
+      "source_id": "src_de877aeb1950efcc",
+      "locator": "DOCX section sec-16",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_gruau_32_2",
+      "claim_id": "clm_rg_016",
+      "source_id": "src_2f41fabd0aa016de",
+      "locator": "DOCX section sec-16",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_gruau_33_1",
+      "claim_id": "clm_rg_017",
+      "source_id": "src_de877aeb1950efcc",
+      "locator": "DOCX section sec-17",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_gruau_34_2",
+      "claim_id": "clm_rg_017",
+      "source_id": "src_2f41fabd0aa016de",
+      "locator": "DOCX section sec-17",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_gruau_35_1",
+      "claim_id": "clm_rg_018",
+      "source_id": "src_de877aeb1950efcc",
+      "locator": "DOCX section sec-18",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_gruau_36_2",
+      "claim_id": "clm_rg_018",
+      "source_id": "src_2f41fabd0aa016de",
+      "locator": "DOCX section sec-18",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_gruau_37_1",
+      "claim_id": "clm_rg_019",
+      "source_id": "src_de877aeb1950efcc",
+      "locator": "DOCX section sec-19",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_gruau_38_2",
+      "claim_id": "clm_rg_019",
+      "source_id": "src_2f41fabd0aa016de",
+      "locator": "DOCX section sec-19",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_gruau_39_1",
+      "claim_id": "clm_rg_020",
+      "source_id": "src_de877aeb1950efcc",
+      "locator": "DOCX section sec-20",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_gruau_40_2",
+      "claim_id": "clm_rg_020",
+      "source_id": "src_2f41fabd0aa016de",
+      "locator": "DOCX section sec-20",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_gruau_41_1",
+      "claim_id": "clm_rg_021",
+      "source_id": "src_de877aeb1950efcc",
+      "locator": "DOCX section sec-21",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_gruau_42_2",
+      "claim_id": "clm_rg_021",
+      "source_id": "src_2f41fabd0aa016de",
+      "locator": "DOCX section sec-21",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_gruau_43_1",
+      "claim_id": "clm_rg_022",
+      "source_id": "src_de877aeb1950efcc",
+      "locator": "DOCX section sec-22",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_gruau_44_2",
+      "claim_id": "clm_rg_022",
+      "source_id": "src_2f41fabd0aa016de",
+      "locator": "DOCX section sec-22",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_gruau_45_1",
+      "claim_id": "clm_rg_023",
+      "source_id": "src_de877aeb1950efcc",
+      "locator": "DOCX section sec-23",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_gruau_46_2",
+      "claim_id": "clm_rg_023",
+      "source_id": "src_2f41fabd0aa016de",
+      "locator": "DOCX section sec-23",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_gruau_47_1",
+      "claim_id": "clm_rg_024",
+      "source_id": "src_de877aeb1950efcc",
+      "locator": "DOCX section sec-24",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_gruau_48_2",
+      "claim_id": "clm_rg_024",
+      "source_id": "src_2f41fabd0aa016de",
+      "locator": "DOCX section sec-24",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_gruau_49_1",
+      "claim_id": "clm_rg_025",
+      "source_id": "src_de877aeb1950efcc",
+      "locator": "DOCX section sec-25",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_gruau_50_2",
+      "claim_id": "clm_rg_025",
+      "source_id": "src_2f41fabd0aa016de",
+      "locator": "DOCX section sec-25",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_gruau_51_1",
+      "claim_id": "clm_rg_026",
+      "source_id": "src_de877aeb1950efcc",
+      "locator": "DOCX section sec-26",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_gruau_52_2",
+      "claim_id": "clm_rg_026",
+      "source_id": "src_2f41fabd0aa016de",
+      "locator": "DOCX section sec-26",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_gruau_53_1",
+      "claim_id": "clm_rg_027",
+      "source_id": "src_de877aeb1950efcc",
+      "locator": "DOCX section sec-27",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_gruau_54_2",
+      "claim_id": "clm_rg_027",
+      "source_id": "src_2f41fabd0aa016de",
+      "locator": "DOCX section sec-27",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_gruau_55_1",
+      "claim_id": "clm_rg_028",
+      "source_id": "src_de877aeb1950efcc",
+      "locator": "DOCX section sec-28",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_gruau_56_2",
+      "claim_id": "clm_rg_028",
+      "source_id": "src_2f41fabd0aa016de",
+      "locator": "DOCX section sec-28",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_gruau_57_1",
+      "claim_id": "clm_rg_029",
+      "source_id": "src_de877aeb1950efcc",
+      "locator": "DOCX section sec-29",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_gruau_58_2",
+      "claim_id": "clm_rg_029",
+      "source_id": "src_2f41fabd0aa016de",
+      "locator": "DOCX section sec-29",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_gruau_59_1",
+      "claim_id": "clm_rg_030",
+      "source_id": "src_de877aeb1950efcc",
+      "locator": "DOCX section sec-30",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_gruau_60_2",
+      "claim_id": "clm_rg_030",
+      "source_id": "src_2f41fabd0aa016de",
+      "locator": "DOCX section sec-30",
+      "support": "Supports the claim's factual content."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "media_state": "editorially_selected",
+  "workflow": {
+    "decision": "AUTO_APPROVE",
+    "note": "Claims carry traceable citations and pass the 0.85 threshold.",
+    "url_validation_summary": {
+      "confirmed": 20,
+      "anti_bot_confirmed": 0,
+      "needs_manual_recheck": 0
+    },
+    "converted_by": "VANSMITHLAB publication-artifact workflow",
+    "converted_at": "2026-08-14T00:00:00.000Z"
+  }
+}
