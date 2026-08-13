@@ -1,15 +1,15 @@
 {
   "asset_id": "asset_marvin-israel-selection-tension-trust-art-direction_card_v1",
+  "record_type": "derivative_asset_record",
+  "record_basis": "Landscape 3:2 card derived by cropping the approved portrait marvin-israel-selection-tension-trust-art-direction-portrait-ai-v1.webp. The crop window keeps the face in the upper third; no new image was generated and nothing was added to the frame. It replaces a placeholder wireframe that showed only grey boxes.",
   "primary_object_id": "",
   "content_release_id": "cnt_985bf3313c7f2334",
   "kind": "image",
-  "origin": "editorial",
+  "origin": "ai_reconstruction",
   "locale": "multilingual",
-  "educational_purpose": "Visualize Israel's method as selection and editorial tension — the contact sheet, the chosen frame and the trust between art director and photographer — without reproducing protected photographs.",
+  "educational_purpose": "Marvin Israel, art director. AI reconstruction from public references.",
   "may_depict": [
-    "A contact sheet with one frame ringed in grease pencil",
-    "Two hands sorting prints across a dark table",
-    "A stark black-and-white page with generous margin"
+    "Editorial AI reconstruction: Marvin Israel at a drafting table with a pencil"
   ],
   "must_not_imply": [
     "The image documents a real photograph or person",
@@ -17,30 +17,21 @@
   ],
   "rights": {
     "state": "generated_reviewed",
-    "disclosure": "VANSMITHLAB · AI-иллюстрация, 2026",
-    "rights_basis": "Original AI visual generated for VANSMITHLAB without reference images or copied identifiable work.",
+    "disclosure": "VANSMITHLAB · AI-реконструкция, 2026",
+    "rights_basis": "Crop of an original AI visual generated for VANSMITHLAB. No third-party work is reproduced.",
     "third_party_marks": "No logo, wordmark or recognisable branded asset."
   },
   "accessibility": {
-    "alt_text_ru": "Редакционная схема метода Marvin Israel: выбор, напряжение и доверие между изображением и полосой.",
-    "alt_text_en": "Editorial diagram of Marvin Israel's method: selection, tension and trust between image and page.",
-    "caption_ru": "Арт-дирекция как точный отбор и управление напряжением между элементами.",
-    "caption_en": "Art direction as precise selection and management of tension between elements."
+    "alt_text_ru": "Редакционная AI-реконструкция: Marvin Israel за чертёжным столом с карандашом",
+    "alt_text_en": "Editorial AI reconstruction: Marvin Israel at a drafting table with a pencil",
+    "caption_ru": "Marvin Israel, арт-директор. AI-реконструкция по публичным референсам.",
+    "caption_en": "Marvin Israel, art director. AI reconstruction from public references."
   },
-  "creator": "OpenAI image generation · directed and reviewed by VANSMITHLAB",
-  "created_at": "2026-08-12",
-  "asset_path": "public/images/glossary/art-directors/marvin-israel-selection-tension-trust-art-direction-hero-v1-card.svg",
-  "generation_prompt_class": "original fictional editorial visual for marvin-israel-selection-tension-trust-art-direction",
-  "workflow_run_id": "run_20260812_media_rights_repair",
-  "content_sha256": "",
-  "content_release_ids": [
-    "cnt_985bf3313c7f2334"
-  ],
-  "rights_state": "original",
-  "licence_or_permission": "Original VANSMITHLAB SVG editorial visual; no third-party images, logos or trademarks.",
-  "source_url": "",
-  "creator_or_credit": "VANSMITHLAB editorial visual system",
-  "file_storage_key": "public/images/glossary/art-directors/marvin-israel-selection-tension-trust-art-direction-hero-v1-card.svg",
-  "content_hash": "21127eaa319ee84bfd37ed699cea76ff7af326ff6cbfbfbc8af2e9020d9747f6",
-  "disclosure": "VANSMITHLAB · original editorial visual, 2026"
+  "creator": "VANSMITHLAB · derived from an AI reconstruction",
+  "created_at": "2026-08-13",
+  "derived_from": "public/images/glossary/art-directors/marvin-israel-selection-tension-trust-art-direction-portrait-ai-v1.webp",
+  "asset_path": "public/images/glossary/art-directors/marvin-israel-selection-tension-trust-art-direction-hero-v1-card.webp",
+  "generation_prompt_class": "crop of an existing asset, not generated",
+  "workflow_run_id": "run_20260813_card_derivatives",
+  "content_sha256": "90b5cb88c2f430bc17810d506de5046bda2df5c6845dd8f684f8b8d805592084"
 }
