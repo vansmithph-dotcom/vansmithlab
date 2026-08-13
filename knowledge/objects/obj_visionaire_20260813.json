@@ -1,0 +1,410 @@
+{
+  "id": "obj_visionaire_20260813",
+  "type": "theme",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Visionaire: ??????, ??????? ????????? ???? ????????",
+  "title_en": "Visionaire: The Magazine That Refused to Be a Magazine",
+  "slug_ru": "visionaire-the-magazine-that-refused-to-be-a-magazine",
+  "slug_en": "visionaire-the-magazine-that-refused-to-be-a-magazine",
+  "summary_ru": "??? ????????, ???????, ???????? ? ????????? ???? ?????????? ???????????? ????? ? ????????? ????????",
+  "verification_state": "multi_source_verified",
+  "confidence_score": 0.86,
+  "created_at": "2026-08-13T00:00:00.000Z",
+  "updated_at": "2026-08-13T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_visionaire_61",
+      "wording_ru": "В 2011 году Visionaire выпустил номер 61 Larger Than Life. Его делюкс-версия достигала примерно 57,5 × 79 дюймов — почти полтора на два метра. Это уже не журнал, который можно положить на колени в метро. Чтобы его увидеть, человеку нужен пол, стена, помощник, расстояние и время. Сам масштаб заставляет тело читателя вести себя иначе.",
+      "wording_en": "In 2011 Visionaire released issue 61, Larger Than Life. Its deluxe edition measured roughly 57.5 by 79 inches - almost one and a half by two metres. This is no longer a magazine that can sit on your lap on a train. To see it, the reader needs floor or wall space, distance, time and often another pair of hands. Scale itself forces the body to behave differently.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://digitalcommons.risd.edu/specialcollections_periodicals_visionaire/9/",
+          "locator": "DOCX section sec-1",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_visionaire_01",
+      "wording_ru": "Visionaire 01: Innocent: Spring вышел в 1991 году ограниченным тиражом в тысячу экземпляров. RISD описывает смешение отдельных листов и небольших тетрадей, велени и разных бумаг; сами издатели позднее вспоминали, что использовали остатки типографских материалов, поэтому страницы сознательно не выглядели одинаково. Среди материалов был и модный отчёт Bill Cunningham.",
+      "wording_en": "Visionaire 01: Innocent: Spring appeared in 1991 in a numbered edition of one thousand. RISD describes a mixture of loose sheets and small volumes, vellum and multiple papers; the publishers later recalled using printer remnants so that pages deliberately did not share the same stock. Bill Cunningham contributed an early fashion report.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://digitalcommons.risd.edu/specialcollections_periodicals_visionaire/4/",
+          "locator": "DOCX section sec-3",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_visionaire_18",
+      "wording_ru": "Visionaire 18: Fashion Special Louis Vuitton в 1996 году был первым полноценным Fashion Special проекта. RISD фиксирует свободные листы, специальный кожаный портфель Louis Vuitton, созданный к столетию монограммы, и огромный список дизайнеров, фотографов и художников.",
+      "wording_en": "Visionaire 18: Fashion Special Louis Vuitton, published in 1996, was the project's first full Fashion Special. RISD records loose sheets, a specially designed Louis Vuitton leather portfolio made for the monogram centenary, and an enormous contributor list spanning designers, photographers and artists.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://digitalcommons.risd.edu/specialcollections_periodicals_visionaire/31/",
+          "locator": "DOCX section sec-4",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_visionaire_38",
+      "wording_ru": "В Visionaire 38: Love Tiffany & Co стандартный выпуск был заменён старым романом, в страницы которого вручную вклеивали и вставляли новые объекты — открытки, фотографии, стихи, перо, засушенные цветы и другие материальные жесты. Экземпляр существовал не только как печатный тираж, но и как ручная сборка.",
+      "wording_en": "In Visionaire 38: Love Tiffany & Co, the standard issue was replaced by an old romance novel into which new objects were glued or inserted by hand - postcards, photographs, poems, a feather, pressed flowers and other material gestures. The copy existed not only as print run but as manual assembly.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://digitalcommons.risd.edu/specialcollections_periodicals_visionaire/46/",
+          "locator": "DOCX section sec-5",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_visionaire_55",
+      "wording_ru": "Visionaire 55: Surprise превратил работы Yayoi Kusama, Andreas Gursky, Cai Guo-Qiang, Sophie Calle, Steven Klein, Steven Meisel и других авторов в сложные поп-ап конструкции. RISD отмечает участие бумажного инженера Bruce Foster и то, что отдельные технические решения приходилось изобретать специально для выпуска.",
+      "wording_en": "Visionaire 55: Surprise transformed work by Yayoi Kusama, Andreas Gursky, Cai Guo-Qiang, Sophie Calle, Steven Klein, Steven Meisel and others into complex pop-up constructions. RISD notes the involvement of paper engineer Bruce Foster and the need to develop technical solutions specifically for the issue.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://digitalcommons.risd.edu/specialcollections_periodicals_visionaire/",
+          "locator": "DOCX section sec-6",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_visionaire_61b",
+      "wording_ru": "Через несколько выпусков Visionaire 61 делает темой масштаб и доводит её до буквальности. Изображение становится почти архитектурным: вместо того чтобы смотреть на картинку сверху вниз, читатель оказывается рядом с ней.",
+      "wording_en": "A few issues later, Visionaire 61 takes scale as its theme and makes the idea literal. The image becomes almost architectural: instead of looking down at a picture, the viewer stands next to it.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://digitalcommons.risd.edu/specialcollections_periodicals_visionaire/",
+          "locator": "DOCX section sec-6",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_visionaire_67",
+      "wording_ru": "Ограниченные тиражи, сложное производство и необычные материалы сделали Visionaire объектом коллекционирования. Некоторые выпуски существуют сотнями или тысячами экземпляров, отдельные серии — ещё меньшими тиражами. В 2017 году Visionaire 67 Fetish со Steven Klein был выпущен как серия из десяти оригинальных цветных C-print фотографий в количестве 200 пронумерованных комплектов.",
+      "wording_en": "Limited editions, complex production and unusual materials turned Visionaire into a collectible object. Some issues exist in hundreds or thousands of copies; particular series were produced in even smaller numbers. In 2017 Visionaire 67 Fetish with Steven Klein appeared as a set of ten original colour C-prints in an edition of 200 numbered copies.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://visionaireworld.com/pages/about",
+          "locator": "DOCX section sec-7",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_visionaire_65",
+      "wording_ru": "Visionaire 65 FREE был устроен как публичное распространение крупноформатных художественных плакатов. В Нью-Йорке двенадцать новых принтов раздавались бесплатно в Times Square и через FREE ART Trucks; вся серия охватывала Майами, Лос-Анджелес и Нью-Йорк. Сам Visionaire сообщал о почти 200 тысячах розданных постеров в рамках трёх городских акций.",
+      "wording_en": "Visionaire 65 FREE operated through the public distribution of large-format art posters. In New York twelve new prints were given away in Times Square and from FREE ART Trucks; the larger series extended across Miami, Los Angeles and New York. Visionaire itself reported close to 200,000 posters distributed through the three-city project.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://visionaireworld.com/blogs/experience/visionaire-65-free-los-angeles",
+          "locator": "DOCX section sec-8",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_visionaire_about_2026",
+      "wording_ru": "По состоянию на 2026 год Visionaire официально описывает себя как агентство впечатлений, выросшее из лимитированного издательства и работающее с публичным искусством, фильмом, иммерсивными и интерактивными проектами, брендированным контентом и арт-мультиплями. При этом на сайте сохраняются архив выпусков, магазин и маркировка Visionaire Publishing 2026.",
+      "wording_en": "As of 2026 Visionaire officially describes itself as an experiential agency rooted in limited-edition publishing and now working across public art, film, immersive and interactive experiences, branded content and art multiples. At the same time its site retains the edition archive, shop and the label Visionaire Publishing 2026.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://visionaireworld.com/pages/about",
+          "locator": "DOCX section sec-9",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_visionaire_glasshandel",
+      "wording_ru": "Эта эволюция особенно ясно видна в Glass Handel. Весной 2026 года проект был представлен в Мадриде в Teatro Real в рамках Bloomberg CityLab; Cecilia Dean и James Kaliardos объясняли его как развитие той же логики, по которой когда-то строился номер Visionaire: приглашённые художники, режиссёры, хореографы и дизайнеры получают пространство для самостоятельной интерпретации, а публика становится частью движущейся композиции.",
+      "wording_en": "This evolution is especially clear in Glass Handel. In spring 2026 the project was presented in Madrid at Teatro Real as part of Bloomberg CityLab; Cecilia Dean and James Kaliardos described it through the same logic that once structured an issue of Visionaire: invited artists, filmmakers, choreographers and designers receive room for independent interpretation while the audience becomes part of a moving composition.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://visionaireworld.com/pages/about",
+          "locator": "DOCX section sec-9",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_a1445c96d595794d",
+      "title": "About. Visionaire",
+      "publisher": "",
+      "url": "https://visionaireworld.com/pages/about",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_dffbccb4eb7369a8",
+      "title": "Visionaire World. Visionaire",
+      "publisher": "",
+      "url": "https://visionaireworld.com/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_e30d72bc2ff64024",
+      "title": "Visionaire periodicals overview. Rhode Island School of Design Special Collections",
+      "publisher": "",
+      "url": "https://digitalcommons.risd.edu/specialcollections_periodicals_visionaire/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_dcafb44df0053263",
+      "title": "Visionaire 01: Innocent: Spring. Rhode Island School of Design Special Collections",
+      "publisher": "",
+      "url": "https://digitalcommons.risd.edu/specialcollections_periodicals_visionaire/4/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_8d9bb509d757d094",
+      "title": "Visionaire 18: Fashion Special Louis Vuitton. Rhode Island School of Design Special Collections",
+      "publisher": "",
+      "url": "https://digitalcommons.risd.edu/specialcollections_periodicals_visionaire/31/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_07a7b519f2e6c286",
+      "title": "Visionaire 38: Love Tiffany & Co. Rhode Island School of Design Special Collections",
+      "publisher": "",
+      "url": "https://digitalcommons.risd.edu/specialcollections_periodicals_visionaire/46/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_ac451a0d816b9229",
+      "title": "Visionaire 55: Surprise. Rhode Island School of Design Special Collections",
+      "publisher": "",
+      "url": "https://digitalcommons.risd.edu/specialcollections_periodicals_visionaire/3/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_97d36926442759be",
+      "title": "Visionaire 61: Larger Than Life Deluxe Edition. Rhode Island School of Design Special Collections",
+      "publisher": "",
+      "url": "https://digitalcommons.risd.edu/specialcollections_periodicals_visionaire/9/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_8027727561b47b4c",
+      "title": "Visionaire 64: Art John Baldessari Blue Edition Samsung Galaxy. Rhode Island School of Design Special Collections",
+      "publisher": "",
+      "url": "https://digitalcommons.risd.edu/specialcollections_periodicals_visionaire/11/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_5a100daa4edbfe00",
+      "title": "Samsung x Visionaire collaboration with the Galaxy Note 4. Samsung Newsroom",
+      "publisher": "",
+      "url": "https://news.samsung.com/global/samsung-x-visionaire-collaboration-with-the-galaxy-note-4",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_f4dc01ac40481543",
+      "title": "Visionaire 65 FREE: New York Edition. Visionaire",
+      "publisher": "",
+      "url": "https://visionaireworld.com/products/visionaire-65-free-new-york-edition",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_b77351b2e5c2b72f",
+      "title": "Visionaire 65 FREE Los Angeles. Visionaire",
+      "publisher": "",
+      "url": "https://visionaireworld.com/blogs/experience/visionaire-65-free-los-angeles",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_2ddba19111a1fd4e",
+      "title": "Visionaire 67 Fetish Steven Klein at Sotheby's New York. Visionaire",
+      "publisher": "",
+      "url": "https://visionaireworld.com/blogs/experience/visionaire-67-fetish-sothebys-new-york",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_f2e38a479a2c0f4b",
+      "title": "Visionaire's 25th Anniversary Book. Visionaire",
+      "publisher": "",
+      "url": "https://visionaireworld.com/blogs/imported/visionaire-s-25th-anniversary-book",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_826d69ce965002be",
+      "title": "Visionaire: Experiences in Art and Fashion. Rizzoli New York",
+      "publisher": "",
+      "url": "https://www.rizzoliusa.com/book/9780847848591/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_c343ac5e97efabf1",
+      "title": "Celebrating a Magazine That's Not a Magazine. The New Yorker",
+      "publisher": "",
+      "url": "https://www.newyorker.com/magazine/2000/07/10/rag-trade-celebrating-a-magazine-thats-not-a-magazine",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_af99905c6b8aded5",
+      "title": "Why Visionaire Is One of the Most Expensive Magazines in the World. Vanity Fair",
+      "publisher": "",
+      "url": "https://www.vanityfair.com/culture/2014/11/visionaire-magazine-cecilia-dean-interview",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_525c460ec4a8620e",
+      "title": "Visionaire, from fashion magazine to presenting an opera in Madrid. El País / S Moda",
+      "publisher": "",
+      "url": "https://elpais.com/smoda/placeres/2026-04-27/visionaire-de-revista-de-moda-a-presentar-una-opera-en-madrid-confiamos-en-los-artistas-la-ia-solo-puede-generar-contenido-sobre-lo-que-ya-existe-no-algo-nuevo.html",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_visionaire_1_1",
+      "claim_id": "clm_visionaire_61",
+      "source_id": "src_97d36926442759be",
+      "locator": "DOCX section sec-1",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_visionaire_2_1",
+      "claim_id": "clm_visionaire_01",
+      "source_id": "src_dcafb44df0053263",
+      "locator": "DOCX section sec-3",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_visionaire_3_1",
+      "claim_id": "clm_visionaire_18",
+      "source_id": "src_8d9bb509d757d094",
+      "locator": "DOCX section sec-4",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_visionaire_4_1",
+      "claim_id": "clm_visionaire_38",
+      "source_id": "src_07a7b519f2e6c286",
+      "locator": "DOCX section sec-5",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_visionaire_5_1",
+      "claim_id": "clm_visionaire_55",
+      "source_id": "src_e30d72bc2ff64024",
+      "locator": "DOCX section sec-6",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_visionaire_6_1",
+      "claim_id": "clm_visionaire_61b",
+      "source_id": "src_e30d72bc2ff64024",
+      "locator": "DOCX section sec-6",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_visionaire_7_1",
+      "claim_id": "clm_visionaire_67",
+      "source_id": "src_a1445c96d595794d",
+      "locator": "DOCX section sec-7",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_visionaire_8_1",
+      "claim_id": "clm_visionaire_65",
+      "source_id": "src_b77351b2e5c2b72f",
+      "locator": "DOCX section sec-8",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_visionaire_9_1",
+      "claim_id": "clm_visionaire_about_2026",
+      "source_id": "src_a1445c96d595794d",
+      "locator": "DOCX section sec-9",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_visionaire_10_1",
+      "claim_id": "clm_visionaire_glasshandel",
+      "source_id": "src_a1445c96d595794d",
+      "locator": "DOCX section sec-9",
+      "support": "Supports the claim's factual content."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "media_state": "editorially_selected",
+  "workflow": {
+    "decision": "AUTO_APPROVE",
+    "note": "Claims carry 1-3 traceable citations and pass the 0.85 threshold.",
+    "url_validation_summary": {
+      "confirmed": 18,
+      "anti_bot_confirmed": 0,
+      "needs_manual_recheck": 0
+    },
+    "converted_by": "VANSMITHLAB publication-artifact workflow",
+    "converted_at": "2026-08-13T00:00:00.000Z"
+  }
+}

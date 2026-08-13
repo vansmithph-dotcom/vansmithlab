@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img">
+<rect width="1600" height="900" fill="#f2eee6"/>
+<defs><pattern id="grid" width="80" height="80" patternUnits="userSpaceOnUse"><path d="M80 0H0V80" fill="none" stroke="#ded7ca" stroke-width="1"/></pattern></defs>
+<rect x="40" y="40" width="1520" height="820" fill="url(#grid)" opacity=".46"/>
+<rect x="40" y="40" width="1520" height="820" rx="0" fill="none" stroke="#171716" stroke-width="2"/>
+<text x="78" y="96" fill="#c84a31" text-anchor="start" font-family="monospace" font-size="15" font-weight="500" letter-spacing="2">VANSMITHLAB / ANALYSIS / AN-VISIONAIRE-010-01</text>
+<text x="78" y="170" fill="#171716" text-anchor="start" font-family="Georgia" font-size="50" font-weight="500" letter-spacing="0">VISIONAIRE 61: READING AT FULL HEIGHT</text>
+<line x1="78" y1="202" x2="1522" y2="202" stroke="#171716" stroke-width="2"/>
+<text x="78" y="834" fill="#777167" text-anchor="start" font-family="Arial" font-size="19" font-weight="400" letter-spacing="0">The reader stands beside the issue rather than holding it</text><circle cx="420" cy="430" r="60" fill="#171716"/><rect x="390" y="490" width="60" height="160" fill="#171716"/><rect x="330" y="620" width="180" height="46" fill="#171716"/><rect x="700" y="300" width="600" height="420" rx="0" fill="#ead3ca" stroke="#171716" stroke-width="3"/><text x="1000.0" y="517.0" fill="#171716" text-anchor="middle" font-family="Arial" font-size="30" font-weight="500">ISSUE 61</text><line x1="420" y1="430" x2="700" y2="300" stroke="#c84a31" stroke-width="3" stroke-dasharray="8 6"/></svg>

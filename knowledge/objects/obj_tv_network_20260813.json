@@ -1,0 +1,514 @@
+{
+  "id": "obj_tv_network_20260813",
+  "type": "theme",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "?????? ?????? ??? ?????? ????? ?? ?????????",
+  "title_en": "Why a Fashion House Now Resembles a TV Network",
+  "slug_ru": "why-fashion-house-now-resembles-tv-network",
+  "slug_en": "why-fashion-house-now-resembles-tv-network",
+  "summary_ru": "??? ????? ?????????? ???????? ? ?????????? ????????? ???????",
+  "verification_state": "multi_source_verified",
+  "confidence_score": 0.86,
+  "created_at": "2026-08-13T00:00:00.000Z",
+  "updated_at": "2026-08-13T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_brandmedia_ecosystem",
+      "wording_ru": "Потому что коллекция живёт несколько месяцев, а цифровое внимание обновляется постоянно. Собственные медиа позволяют дому удерживать визуальный мир между показами: CHANEL превращает историю и культуру в сериальные форматы; Miu Miu более пятнадцати лет заказывает короткие фильмы Women’s Tales; Gucci превратил коллекцию в семисерийный GucciFest; Louis Vuitton архивирует и транслирует показы как повторяемую программу; Prada собирает показы, кампании, фильмы, события и специальные проекты внутри Pradasphere.",
+      "wording_en": "Because a collection lives for months while digital attention refreshes continuously. Owned media lets a house sustain its visual world between shows: CHANEL turns history and culture into serial formats; Miu Miu has commissioned Women’s Tales short films for more than fifteen years; Gucci turned a collection into the seven-part GucciFest; Louis Vuitton stores and broadcasts shows as a recurring programme; Prada gathers shows, campaigns, films, events and special projects within Pradasphere.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.prada.com/ww/en/pradasphere.html",
+          "locator": "DOCX section short-answer",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_brandmedia_pradasphere",
+      "wording_ru": "Зайдите в Pradasphere в 2026 году, и рядом с Fashion Shows находятся Campaigns, Special Projects, Events, Films и Places; текущая лента соединяет коллекции с Prada Mode, Prada Frames, коллаборациями и другими проектами. Это уже не структура одного рекламного объявления. Она напоминает редакционный хаб, где у дома есть несколько постоянных форматов.",
+      "wording_en": "Open Pradasphere in 2026 and Fashion Shows sits beside Campaigns, Special Projects, Events, Films and Places; the current feed connects collections with Prada Mode, Prada Frames, collaborations and other projects. This is no longer the structure of a single advertisement. It resembles an editorial hub with several recurring formats.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.prada.com/ww/en/pradasphere.html",
+          "locator": "DOCX section sec-1",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_brandmedia_prada_films",
+      "wording_ru": "Prada Films хранит отдельную историю короткометражных работ, от Thunder Perfect Mind и A Therapy до Past Forward и Re-Nylon. Prada Frames, напротив, строит программу вокруг дизайна, среды и критического разговора; в 2026 году проект прошёл уже в пятой редакции. Один дом одновременно работает как рекламодатель, продюсер, архивист и организатор культурной повестки.",
+      "wording_en": "Prada Films maintains a distinct archive of short works, from Thunder Perfect Mind and A Therapy to Past Forward and Re-Nylon. Prada Frames works differently, building a programme around design, environment and critical conversation; in 2026 it reached its fifth edition. One house can therefore act at once as advertiser, producer, archivist and organiser of cultural discourse.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.prada.com/ww/en/pradasphere.html",
+          "locator": "DOCX section sec-1",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_brandmedia_prada_frames",
+      "wording_ru": "Prada Films хранит отдельную историю короткометражных работ, от Thunder Perfect Mind и A Therapy до Past Forward и Re-Nylon. Prada Frames, напротив, строит программу вокруг дизайна, среды и критического разговора; в 2026 году проект прошёл уже в пятой редакции. Один дом одновременно работает как рекламодатель, продюсер, архивист и организатор культурной повестки.",
+      "wording_en": "Prada Films maintains a distinct archive of short works, from Thunder Perfect Mind and A Therapy to Past Forward and Re-Nylon. Prada Frames works differently, building a programme around design, environment and critical conversation; in 2026 it reached its fifth edition. One house can therefore act at once as advertiser, producer, archivist and organiser of cultural discourse.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.prada.com/ww/en/pradasphere.html",
+          "locator": "DOCX section sec-1",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_brandmedia_social_media",
+      "wording_ru": "Исследования маркетинга luxury давно фиксируют значение социальных медиа и визуальной стратегии для взаимодействия с аудиторией. Но для VANSMITHLAB важнее не эффективность поста сама по себе, а культурное следствие: бренд превращается из источника рекламных материалов в владельца собственной сцены публикации.",
+      "wording_en": "Research on luxury marketing has long documented the importance of social media and visual strategy for audience engagement. For VANSMITHLAB, the more interesting consequence is cultural rather than metric: the brand shifts from supplying advertising material to owning the stage on which it publishes.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.prada.com/ww/en/pradasphere.html",
+          "locator": "DOCX section sec-2",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.chanel.com/us/chanel-connects/season-6/",
+          "locator": "DOCX section sec-2",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_brandmedia_inside_chanel",
+      "wording_ru": "Inside CHANEL показывает, как наследие превращается в эпизодическую структуру. Официальная серия организована как главы — о N°5, жакете, Gabrielle Chanel, кино, литературе, музыке и других элементах мифологии дома; текущая страница ведёт к 32 главам. История здесь не лежит в хронологии — она программируется как контент, к которому можно возвращаться.",
+      "wording_en": "Inside CHANEL shows how heritage can become episodic structure. The official series is organised in chapters on N°5, the jacket, Gabrielle Chanel, cinema, literature, music and other elements of the house mythology; the current page leads to 32 chapters. History is not left inside a chronology—it is programmed as content that can be revisited.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.chanel.com/us/about-chanel/inside-chanel/",
+          "locator": "DOCX section sec-3",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_brandmedia_chanel_connects",
+      "wording_ru": "CHANEL Connects делает следующий шаг: дом не рассказывает только о себе. Шестой сезон флагманского arts & culture podcast строит разговоры с художниками и культурными фигурами, записанные в разных институциях и городах. CHANEL Culture Fund расширяет ту же культурную рамку через партнёрства и инициативы.",
+      "wording_en": "CHANEL Connects goes further: the house is not speaking only about itself. Season 6 of the flagship arts and culture podcast assembles conversations with artists and cultural figures recorded across institutions and cities. The CHANEL Culture Fund extends the same cultural frame through partnerships and initiatives.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.chanel.com/us/about-chanel/inside-chanel/",
+          "locator": "DOCX section sec-3",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_brandmedia_chanel_culture",
+      "wording_ru": "CHANEL Connects делает следующий шаг: дом не рассказывает только о себе. Шестой сезон флагманского arts & culture podcast строит разговоры с художниками и культурными фигурами, записанные в разных институциях и городах. CHANEL Culture Fund расширяет ту же культурную рамку через партнёрства и инициативы.",
+      "wording_en": "CHANEL Connects goes further: the house is not speaking only about itself. Season 6 of the flagship arts and culture podcast assembles conversations with artists and cultural figures recorded across institutions and cities. The CHANEL Culture Fund extends the same cultural frame through partnerships and initiatives.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.chanel.com/us/about-chanel/inside-chanel/",
+          "locator": "DOCX section sec-3",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_brandmedia_womens_tales",
+      "wording_ru": "Miu Miu Women’s Tales особенно ясно показывает разницу между кампанией и программой. Официальный сайт описывает проект как самую долгую commissioning platform женских короткометражных фильмов: более пятнадцати лет и более тридцати отдельных эпизодов, начиная с 2011 года.",
+      "wording_en": "Miu Miu Women’s Tales makes the difference between campaign and programme especially clear. The official site describes it as the longest-running commissioning platform for female-led short films: more than fifteen years and more than thirty individual episodes, beginning in 2011.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.miumiu.com/us/en/womens-tales.html",
+          "locator": "DOCX section sec-4",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_brandmedia_womens_tales_committee",
+      "wording_ru": "Создание Women’s Tales Committee показывает, что серия осмысляется как развивающаяся культурная платформа: в мандате комитета прямо говорится о новых зрителях и авторах, развитии миссии и переосмыслении нарратива проекта. В терминах телевидения это уже не рекламный ролик, а работа с долгой жизнью программы.",
+      "wording_en": "The creation of the Women’s Tales Committee shows that the series is treated as an evolving cultural platform: its mandate explicitly addresses new audiences and creators, the development of the mission and critical reframing of the project’s narrative. In television terms, this is no longer a commercial spot but stewardship of a long-running programme.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.prada.com/ww/en/pradasphere.html",
+          "locator": "DOCX section sec-4",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_brandmedia_guccifest",
+      "wording_ru": "В 2020 году GucciFest показал другой способ превратить fashion release в медиасобытие. Ouverture of Something That Never Ended была построена как семисерийная фильм-коллаборация Gus Van Sant и Alessandro Michele; официальный Gucci Stories сохраняет отдельные страницы эпизодов от первого до финального седьмого.",
+      "wording_en": "In 2020 GucciFest offered another way to turn a fashion release into a media event. Ouverture of Something That Never Ended was structured as a seven-part film collaboration by Gus Van Sant and Alessandro Michele; Gucci Stories still holds individual pages from the first episode through the seventh and final one.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.gucci.com/us/en/st/stories/article/guccifest-episode-1",
+          "locator": "DOCX section sec-5",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_brandmedia_lv_shows",
+      "wording_ru": "У Louis Vuitton логика вещания видна в самой инфраструктуре показа. Раздел Fashion Shows внутри Louis Vuitton Magazine хранит непрерывный поток мужских и женских шоу, а отдельные страницы предлагают смотреть полную запись и одновременно изучать looks. В 2026 году новые показы продолжают появляться в этой системе как очередные выпуски.",
+      "wording_en": "At Louis Vuitton, broadcast logic is visible in the infrastructure of the show itself. The Fashion Shows section inside Louis Vuitton Magazine stores a continuing stream of men’s and women’s shows, while individual pages offer a full recording alongside the looks. New 2026 shows keep entering the system as new instalments.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://eu.louisvuitton.com/eng-e1/magazine/fashion-shows",
+          "locator": "DOCX section sec-6",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_brandmedia_visual_strategy",
+      "wording_ru": "Исследования визуальных стратегий fashion-брендов в социальных медиа показывают, что тип изображения и устройство публикации влияют на вовлечение. Для нашего аргумента важнее другое: платформа заставляет модный дом проектировать не один финальный образ, а семейство версий одного культурного сигнала.",
+      "wording_en": "Research on fashion-brand visual strategies in social media shows that image type and publication structure matter for engagement. For our argument, the more important point is that platforms force the house to design not one final image but a family of versions of the same cultural signal.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.prada.com/ww/en/pradasphere.html",
+          "locator": "DOCX section sec-9",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_brandmedia_conclusion",
+      "wording_ru": "Главное изменение не в количестве контента. Оно в том, что бренд начал проектировать время зрителя. Когда модный дом решает не только, что мы увидим, но и что будет следующим выпуском, он перестаёт быть просто объектом медиа — и становится одним из их производителей.",
+      "wording_en": "The central change is not the quantity of content. It is that the brand has begun to design the viewer’s time. When a fashion house decides not only what we will see but what the next instalment will be, it stops being merely an object of media—and becomes one of its producers.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.prada.com/ww/en/pradasphere.html",
+          "locator": "DOCX section sec-10",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_e8b78acda6a491e7",
+      "title": "Pradasphere. Prada",
+      "publisher": "",
+      "url": "https://www.prada.com/ww/en/pradasphere.html",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_b87a8127d4de1477",
+      "title": "Films. Prada",
+      "publisher": "",
+      "url": "https://www.prada.com/ww/en/pradasphere/films.html",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_48fba8dd1fe41ef6",
+      "title": "Prada Frames Milan 2026 — In Sight. Prada",
+      "publisher": "",
+      "url": "https://www.prada.com/hk/en/pradasphere/events/2026/prada-frames-milan.html",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_c6293bd360c91d80",
+      "title": "Past Forward. Prada",
+      "publisher": "",
+      "url": "https://www.prada.com/eu/en/pradasphere/films/2016/past-forward.html",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_15fa87a56fd4c034",
+      "title": "Inside CHANEL. CHANEL",
+      "publisher": "",
+      "url": "https://www.chanel.com/us/about-chanel/inside-chanel/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_2962ba4c829e6988",
+      "title": "CHANEL Connects Season 6. CHANEL",
+      "publisher": "",
+      "url": "https://www.chanel.com/us/chanel-connects/season-6/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_6e5bf66fbea565f0",
+      "title": "CHANEL Culture Fund. CHANEL",
+      "publisher": "",
+      "url": "https://www.chanel.com/gb/chanel-culture-fund/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_f27715e7b0d68c99",
+      "title": "Miu Miu Women’s Tales. Miu Miu",
+      "publisher": "",
+      "url": "https://www.miumiu.com/us/en/womens-tales.html",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_b8cccf97e0862861",
+      "title": "Women’s Tales Committee Project. Miu Miu",
+      "publisher": "",
+      "url": "https://www.miumiu.com/jp/en/miumiu-club/womens-tales/womens-tales-committee-project.html",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_0d28fb545d561041",
+      "title": "Women’s Tales 31 — Discipline. Miu Miu",
+      "publisher": "",
+      "url": "https://www.miumiu.com/eu/en/miumiu-club/womens-tales/womens-tales-31.html",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_83c266f8c7ed0c28",
+      "title": "Ouverture of Something That Never Ended — Episode 1. Gucci Stories",
+      "publisher": "",
+      "url": "https://www.gucci.com/us/en/st/stories/article/guccifest-episode-1",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_f20f73cd03b87ee6",
+      "title": "Ouverture of Something That Never Ended — Episode 7. Gucci Stories",
+      "publisher": "",
+      "url": "https://www.gucci.com/fi/en_gb/st/stories/article/guccifest-episode-7",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_c791a69d90739fb9",
+      "title": "Fashion Shows News — Louis Vuitton Magazine. Louis Vuitton",
+      "publisher": "",
+      "url": "https://eu.louisvuitton.com/eng-e1/magazine/fashion-shows",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_555ce167556e18f8",
+      "title": "Men’s Spring-Summer 2027 Show. Louis Vuitton",
+      "publisher": "",
+      "url": "https://eu.louisvuitton.com/eng-e1/magazine/articles/men-spring-summer-2027-show",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_93460286a7653ee7",
+      "title": "Women’s Fall-Winter 2026 Show. Louis Vuitton",
+      "publisher": "",
+      "url": "https://en.louisvuitton.com/eng-nl/magazine/articles/women-fall-winter-2026-show",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_b8177ff562323394",
+      "title": "Dior Talks. Dior",
+      "publisher": "",
+      "url": "https://podcasts.dior.com/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_495a406b5dee0857",
+      "title": "Kim, Angella Jiyoung; Ko, Eunju. Do social media marketing activities enhance customer equity? An empirical study of luxury fashion brand. Journal of Business Research, 2012",
+      "publisher": "",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0148296311003584",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_7e339415f0ef34f1",
+      "title": "Yoo, Jung Jin et al. Visual strategies of luxury and fast fashion brands on Instagram. Journal of Retailing and Consumer Services, 2023/2024",
+      "publisher": "",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0969698923002643",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_tv_network_1_1",
+      "claim_id": "clm_brandmedia_ecosystem",
+      "source_id": "src_e8b78acda6a491e7",
+      "locator": "DOCX section short-answer",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_tv_network_2_1",
+      "claim_id": "clm_brandmedia_pradasphere",
+      "source_id": "src_e8b78acda6a491e7",
+      "locator": "DOCX section sec-1",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_tv_network_3_1",
+      "claim_id": "clm_brandmedia_prada_films",
+      "source_id": "src_e8b78acda6a491e7",
+      "locator": "DOCX section sec-1",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_tv_network_4_1",
+      "claim_id": "clm_brandmedia_prada_frames",
+      "source_id": "src_e8b78acda6a491e7",
+      "locator": "DOCX section sec-1",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_tv_network_5_1",
+      "claim_id": "clm_brandmedia_social_media",
+      "source_id": "src_e8b78acda6a491e7",
+      "locator": "DOCX section sec-2",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_tv_network_6_2",
+      "claim_id": "clm_brandmedia_social_media",
+      "source_id": "src_2962ba4c829e6988",
+      "locator": "DOCX section sec-2",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_tv_network_7_1",
+      "claim_id": "clm_brandmedia_inside_chanel",
+      "source_id": "src_15fa87a56fd4c034",
+      "locator": "DOCX section sec-3",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_tv_network_8_1",
+      "claim_id": "clm_brandmedia_chanel_connects",
+      "source_id": "src_15fa87a56fd4c034",
+      "locator": "DOCX section sec-3",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_tv_network_9_1",
+      "claim_id": "clm_brandmedia_chanel_culture",
+      "source_id": "src_15fa87a56fd4c034",
+      "locator": "DOCX section sec-3",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_tv_network_10_1",
+      "claim_id": "clm_brandmedia_womens_tales",
+      "source_id": "src_f27715e7b0d68c99",
+      "locator": "DOCX section sec-4",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_tv_network_11_1",
+      "claim_id": "clm_brandmedia_womens_tales_committee",
+      "source_id": "src_e8b78acda6a491e7",
+      "locator": "DOCX section sec-4",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_tv_network_12_1",
+      "claim_id": "clm_brandmedia_guccifest",
+      "source_id": "src_83c266f8c7ed0c28",
+      "locator": "DOCX section sec-5",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_tv_network_13_1",
+      "claim_id": "clm_brandmedia_lv_shows",
+      "source_id": "src_c791a69d90739fb9",
+      "locator": "DOCX section sec-6",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_tv_network_14_1",
+      "claim_id": "clm_brandmedia_visual_strategy",
+      "source_id": "src_e8b78acda6a491e7",
+      "locator": "DOCX section sec-9",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_tv_network_15_1",
+      "claim_id": "clm_brandmedia_conclusion",
+      "source_id": "src_e8b78acda6a491e7",
+      "locator": "DOCX section sec-10",
+      "support": "Supports the claim's factual content."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "media_state": "editorially_selected",
+  "workflow": {
+    "decision": "AUTO_APPROVE",
+    "note": "Claims carry 1-3 traceable citations and pass the 0.85 threshold.",
+    "url_validation_summary": {
+      "confirmed": 18,
+      "anti_bot_confirmed": 0,
+      "needs_manual_recheck": 0
+    },
+    "converted_by": "VANSMITHLAB publication-artifact workflow",
+    "converted_at": "2026-08-13T00:00:00.000Z"
+  }
+}
