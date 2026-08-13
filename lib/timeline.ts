@@ -10,6 +10,7 @@ export type TimelineEvent = {
   object_id: string;
   slug_ru?: string;
   object_title: string;
+  object_title_en?: string;
   object_type: string;
   wording_ru: string;
   wording_en: string;
@@ -51,6 +52,7 @@ function loadEvents(): TimelineEvent[] {
     const objectId = obj.id ?? file.replace(/\.json$/, "");
     const slugRu = obj.slug_ru;
     const titleRu = obj.title_ru ?? obj.slug_ru ?? objectId;
+    const titleEn = obj.title_en;
     for (const claim of obj.claims ?? []) {
       if (!claim.date_start) continue;
       events.push({
@@ -58,6 +60,7 @@ function loadEvents(): TimelineEvent[] {
         object_id: objectId,
         slug_ru: slugRu,
         object_title: titleRu,
+        object_title_en: titleEn,
         object_type: obj.type ?? "",
         wording_ru: claim.wording_ru ?? "",
         wording_en: claim.wording_en ?? "",
@@ -77,6 +80,10 @@ export function listTimelineYears(locale: Locale): TimelineYear[] {
   for (const ev of events) {
     const y = yearOf(ev.date_start);
     if (y == null) continue;
+    // The English timeline only shows events that have an English wording; the
+    // legacy corpus has none, so it would otherwise render Russian text on an
+    // English page. The Russian timeline shows everything.
+    if (locale === "en" && !ev.wording_en) continue;
     if (!byYear.has(y)) byYear.set(y, []);
     byYear.get(y)!.push(ev);
   }

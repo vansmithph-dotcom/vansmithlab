@@ -67,10 +67,11 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
                 {yearGroup.events.map((ev) => {
                   const href = contentHrefForObject(locale, ev);
                   const wording = locale === "ru" ? ev.wording_ru : (ev.wording_en || ev.wording_ru);
+                  const title = locale === "en" && ev.object_title_en ? ev.object_title_en : ev.object_title;
                   const label = href ? (
-                    <Link href={href}>{ev.object_title}</Link>
+                    <Link href={href}>{title}</Link>
                   ) : (
-                    <span className="timeline-object-title">{ev.object_title}</span>
+                    <span className="timeline-object-title">{title}</span>
                   );
                   return (
                     <article className="timeline-event" key={ev.claim_id}>
