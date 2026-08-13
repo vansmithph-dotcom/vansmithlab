@@ -1,0 +1,37 @@
+{
+  "asset_id": "asset_brass-composition-patina-warm-metallic-light_record_v1",
+  "record_type": "retrospective_asset_record",
+  "record_basis": "Retrospective asset record. The image was generated before any media record existed for it; this file documents the stored asset from its own published metadata and file hash. It is not a pre-generation brief and did not authorise the image.",
+  "primary_object_id": "obj_0311929ba5dd4edc",
+  "content_release_id": "cnt_d876ea7d18d69240",
+  "kind": "image",
+  "origin": "ai_illustration",
+  "locale": "multilingual",
+  "educational_purpose": "Original editorial illustration by VANSMITHLAB",
+  "may_depict": [
+    "Editorial visualization of brass with patina and warm reflected light"
+  ],
+  "must_not_imply": [
+    "The image documents a real photograph or person",
+    "The image is attributable to a named photographer"
+  ],
+  "rights": {
+    "state": "generated_reviewed",
+    "disclosure": "VANSMITHLAB · AI-иллюстрация",
+    "rights_basis": "Original AI visual generated for VANSMITHLAB. No licence record was filed at generation time; no third-party work is reproduced.",
+    "third_party_marks": "No logo, wordmark or recognisable branded asset."
+  },
+  "accessibility": {
+    "alt_text_ru": "Редакционная визуализация латуни с патиной и тёплым отражённым светом",
+    "alt_text_en": "Editorial visualization of brass with patina and warm reflected light",
+    "caption_ru": "Авторская редакционная иллюстрация VANSMITHLAB",
+    "caption_en": "Original editorial illustration by VANSMITHLAB"
+  },
+  "creator": "VANSMITHLAB · AI illustration",
+  "created_at": "2026-08-13",
+  "asset_created_at": "not recorded at generation time",
+  "asset_path": "public/images/encyclopedia/brass-composition-patina-warm-metallic-light.webp",
+  "generation_prompt_class": "not recorded at generation time",
+  "workflow_run_id": "run_20260813_retrospective_asset_records",
+  "content_sha256": "b123e71c4d804c3fda805ff238eb3822f6e284d0a410494a80f73265b5163281"
+}

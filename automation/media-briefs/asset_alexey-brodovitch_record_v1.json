@@ -1,0 +1,37 @@
+{
+  "asset_id": "asset_alexey-brodovitch_record_v1",
+  "record_type": "retrospective_asset_record",
+  "record_basis": "Retrospective asset record. The image was generated before any media record existed for it; this file documents the stored asset from its own published metadata and file hash. It is not a pre-generation brief and did not authorise the image.",
+  "primary_object_id": "obj_artdir_alexey_brodovitch",
+  "content_release_id": "cnt_ed337286fef2871c",
+  "kind": "image",
+  "origin": "ai_illustration",
+  "locale": "multilingual",
+  "educational_purpose": "Original editorial illustration by VANSMITHLAB",
+  "may_depict": [
+    "Original editorial portrait of Alexey Brodovitch beside experimental magazine typography"
+  ],
+  "must_not_imply": [
+    "The image documents a real photograph or person",
+    "The image is attributable to a named photographer"
+  ],
+  "rights": {
+    "state": "generated_reviewed",
+    "disclosure": "VANSMITHLAB · AI-иллюстрация",
+    "rights_basis": "Original AI visual generated for VANSMITHLAB. No licence record was filed at generation time; no third-party work is reproduced.",
+    "third_party_marks": "No logo, wordmark or recognisable branded asset."
+  },
+  "accessibility": {
+    "alt_text_ru": "Авторский редакционный портрет Алексея Бродовича рядом с экспериментальной журнальной типографикой",
+    "alt_text_en": "Original editorial portrait of Alexey Brodovitch beside experimental magazine typography",
+    "caption_ru": "Авторская редакционная иллюстрация VANSMITHLAB",
+    "caption_en": "Original editorial illustration by VANSMITHLAB"
+  },
+  "creator": "VANSMITHLAB · AI illustration",
+  "created_at": "2026-08-13",
+  "asset_created_at": "not recorded at generation time",
+  "asset_path": "public/images/glossary/alexey-brodovitch.webp",
+  "generation_prompt_class": "not recorded at generation time",
+  "workflow_run_id": "run_20260813_retrospective_asset_records",
+  "content_sha256": "07ce62c5534a99b6d0f1b976552fcc3c50c72603c04240f9977f9ac24359ec87"
+}

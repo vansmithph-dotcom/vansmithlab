@@ -1,0 +1,37 @@
+{
+  "asset_id": "asset_frank-lloyd-wright-hero-v2-card-v1_record_v1",
+  "record_type": "retrospective_asset_record",
+  "record_basis": "Retrospective asset record. The image was generated before any media record existed for it; this file documents the stored asset from its own published metadata and file hash. It is not a pre-generation brief and did not authorise the image.",
+  "primary_object_id": "obj_94164e8d66da4a7b",
+  "content_release_id": "cnt_df936fe49accafbd",
+  "kind": "image",
+  "origin": "ai_illustration",
+  "locale": "multilingual",
+  "educational_purpose": "Editorial illustration: Frank Lloyd Wright. Fallingwater, the Guggenheim, organic architecture.",
+  "may_depict": [
+    "Editorial illustration: Frank Lloyd Wright"
+  ],
+  "must_not_imply": [
+    "The image documents a real photograph or person",
+    "The image is attributable to a named photographer"
+  ],
+  "rights": {
+    "state": "generated_reviewed",
+    "disclosure": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "rights_basis": "Original AI visual generated for VANSMITHLAB. No licence record was filed at generation time; no third-party work is reproduced.",
+    "third_party_marks": "No logo, wordmark or recognisable branded asset."
+  },
+  "accessibility": {
+    "alt_text_ru": "Editorial illustration: Фрэнк Ллойд Райт",
+    "alt_text_en": "Editorial illustration: Frank Lloyd Wright",
+    "caption_ru": "Editorial illustration: Фрэнк Ллойд Райт. Fallingwater, Guggenheim, органика.",
+    "caption_en": "Editorial illustration: Frank Lloyd Wright. Fallingwater, the Guggenheim, organic architecture."
+  },
+  "creator": "VANSMITHLAB · AI illustration, 2026",
+  "created_at": "2026-08-13",
+  "asset_created_at": "not recorded at generation time",
+  "asset_path": "public/images/glossary/designers/frank-lloyd-wright-hero-v2-card-v1.webp",
+  "generation_prompt_class": "not recorded at generation time",
+  "workflow_run_id": "run_20260813_retrospective_asset_records",
+  "content_sha256": "f1ec93e98ac780cb665c4850a755b91f3ce3f08ab9b3443aa063d029fc186a66"
+}

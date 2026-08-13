@@ -1,0 +1,37 @@
+{
+  "asset_id": "asset_cristobal-balenciaga-card-v2_record_v1",
+  "record_type": "retrospective_asset_record",
+  "record_basis": "Retrospective asset record. The image was generated before any media record existed for it; this file documents the stored asset from its own published metadata and file hash. It is not a pre-generation brief and did not authorise the image.",
+  "primary_object_id": "obj_27f396f6def80fff",
+  "content_release_id": "cnt_33b0508c3e1fc7e7",
+  "kind": "image",
+  "origin": "ai_illustration",
+  "locale": "multilingual",
+  "educational_purpose": "Editorial illustration: cristobal balenciaga",
+  "may_depict": [
+    "Illustration: Архитектор модного силуэта: как баскский портной превратил ткань, крой и пустоту вокруг тела в один из главных языков высокой моды XX века"
+  ],
+  "must_not_imply": [
+    "The image documents a real photograph or person",
+    "The image is attributable to a named photographer"
+  ],
+  "rights": {
+    "state": "generated_reviewed",
+    "disclosure": "VANSMITHLAB - AI-иллюстрация, 2026",
+    "rights_basis": "Original AI visual generated for VANSMITHLAB. No licence record was filed at generation time; no third-party work is reproduced.",
+    "third_party_marks": "No logo, wordmark or recognisable branded asset."
+  },
+  "accessibility": {
+    "alt_text_ru": "Иллюстрация: Архитектор модного силуэта: как баскский портной превратил ткань, крой и пустоту вокруг тела в один из главных языков высокой моды XX века",
+    "alt_text_en": "Illustration: Архитектор модного силуэта: как баскский портной превратил ткань, крой и пустоту вокруг тела в один из главных языков высокой моды XX века",
+    "caption_ru": "Editorial illustration: cristobal balenciaga",
+    "caption_en": "Editorial illustration: cristobal balenciaga"
+  },
+  "creator": "VANSMITHLAB - AI illustration, 2026",
+  "created_at": "2026-08-13",
+  "asset_created_at": "not recorded at generation time",
+  "asset_path": "public/images/glossary/designers/cristobal-balenciaga-card-v2.webp",
+  "generation_prompt_class": "not recorded at generation time",
+  "workflow_run_id": "run_20260813_retrospective_asset_records",
+  "content_sha256": "2635baa293d74ef2eee1081237d12c0994214b16c07fb12689db9b89a7d89a04"
+}

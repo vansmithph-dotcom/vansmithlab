@@ -1,0 +1,37 @@
+{
+  "asset_id": "asset_yves-saint-laurent-hero-v2-card-v1_record_v1",
+  "record_type": "retrospective_asset_record",
+  "record_basis": "Retrospective asset record. The image was generated before any media record existed for it; this file documents the stored asset from its own published metadata and file hash. It is not a pre-generation brief and did not authorise the image.",
+  "primary_object_id": "obj_d677d0674c01d98d",
+  "content_release_id": "cnt_a0ea96ac1223f42b",
+  "kind": "image",
+  "origin": "ai_illustration",
+  "locale": "multilingual",
+  "educational_purpose": "Editorial illustration: Yves Saint Laurent. Le Smoking, Parisian rigor, the colour of Marrakech.",
+  "may_depict": [
+    "Editorial illustration: Yves Saint Laurent"
+  ],
+  "must_not_imply": [
+    "The image documents a real photograph or person",
+    "The image is attributable to a named photographer"
+  ],
+  "rights": {
+    "state": "generated_reviewed",
+    "disclosure": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "rights_basis": "Original AI visual generated for VANSMITHLAB. No licence record was filed at generation time; no third-party work is reproduced.",
+    "third_party_marks": "No logo, wordmark or recognisable branded asset."
+  },
+  "accessibility": {
+    "alt_text_ru": "Редакционная иллюстрация: Ив Сен-Лоран",
+    "alt_text_en": "Editorial illustration: Yves Saint Laurent",
+    "caption_ru": "Редакционная иллюстрация: Ив Сен-Лоран. Le Smoking, парижская строгость, цвет Марракеша.",
+    "caption_en": "Editorial illustration: Yves Saint Laurent. Le Smoking, Parisian rigor, the colour of Marrakech."
+  },
+  "creator": "VANSMITHLAB · AI illustration, 2026",
+  "created_at": "2026-08-13",
+  "asset_created_at": "not recorded at generation time",
+  "asset_path": "public/images/glossary/designers/yves-saint-laurent-hero-v2-card-v1.webp",
+  "generation_prompt_class": "not recorded at generation time",
+  "workflow_run_id": "run_20260813_retrospective_asset_records",
+  "content_sha256": "ac2d696069c7452febd3a914367023249dab3d4778c91e6cef65dbf681c1f4ce"
+}

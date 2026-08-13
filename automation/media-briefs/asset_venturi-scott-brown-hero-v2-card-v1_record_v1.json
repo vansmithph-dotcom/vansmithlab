@@ -1,0 +1,37 @@
+{
+  "asset_id": "asset_venturi-scott-brown-hero-v2-card-v1_record_v1",
+  "record_type": "retrospective_asset_record",
+  "record_basis": "Retrospective asset record. The image was generated before any media record existed for it; this file documents the stored asset from its own published metadata and file hash. It is not a pre-generation brief and did not authorise the image.",
+  "primary_object_id": "obj_4a375d7fc082e412",
+  "content_release_id": "cnt_6078b8da57127791",
+  "kind": "image",
+  "origin": "ai_illustration",
+  "locale": "multilingual",
+  "educational_purpose": "Editorial illustration: Venturi & Scott Brown. Learning from Las Vegas, postmodern complexity.",
+  "may_depict": [
+    "Editorial illustration: Venturi & Scott Brown"
+  ],
+  "must_not_imply": [
+    "The image documents a real photograph or person",
+    "The image is attributable to a named photographer"
+  ],
+  "rights": {
+    "state": "generated_reviewed",
+    "disclosure": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "rights_basis": "Original AI visual generated for VANSMITHLAB. No licence record was filed at generation time; no third-party work is reproduced.",
+    "third_party_marks": "No logo, wordmark or recognisable branded asset."
+  },
+  "accessibility": {
+    "alt_text_ru": "Editorial illustration: Вентури и Скотт Браун",
+    "alt_text_en": "Editorial illustration: Venturi & Scott Brown",
+    "caption_ru": "Editorial illustration: Вентури и Скотт Браун. Learning from Las Vegas, постмодернизм.",
+    "caption_en": "Editorial illustration: Venturi & Scott Brown. Learning from Las Vegas, postmodern complexity."
+  },
+  "creator": "VANSMITHLAB · AI illustration, 2026",
+  "created_at": "2026-08-13",
+  "asset_created_at": "not recorded at generation time",
+  "asset_path": "public/images/glossary/designers/venturi-scott-brown-hero-v2-card-v1.webp",
+  "generation_prompt_class": "not recorded at generation time",
+  "workflow_run_id": "run_20260813_retrospective_asset_records",
+  "content_sha256": "43eb4e20ee561200bbc3059e2d73c0f0452e0006cc404876afc7c577e11bfe4e"
+}

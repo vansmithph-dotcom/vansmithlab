@@ -1,0 +1,37 @@
+{
+  "asset_id": "asset_lina-bo-bardi-hero-v2-card-v1_record_v1",
+  "record_type": "retrospective_asset_record",
+  "record_basis": "Retrospective asset record. The image was generated before any media record existed for it; this file documents the stored asset from its own published metadata and file hash. It is not a pre-generation brief and did not authorise the image.",
+  "primary_object_id": "obj_9d954a70c58542dd",
+  "content_release_id": "cnt_95efe9c86810f3eb",
+  "kind": "image",
+  "origin": "ai_illustration",
+  "locale": "multilingual",
+  "educational_purpose": "Editorial illustration: Lina Bo Bardi. MASP, SESC Pompeia, concrete and tropics.",
+  "may_depict": [
+    "Editorial illustration: Lina Bo Bardi"
+  ],
+  "must_not_imply": [
+    "The image documents a real photograph or person",
+    "The image is attributable to a named photographer"
+  ],
+  "rights": {
+    "state": "generated_reviewed",
+    "disclosure": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "rights_basis": "Original AI visual generated for VANSMITHLAB. No licence record was filed at generation time; no third-party work is reproduced.",
+    "third_party_marks": "No logo, wordmark or recognisable branded asset."
+  },
+  "accessibility": {
+    "alt_text_ru": "Editorial illustration: Лина Бо Барди",
+    "alt_text_en": "Editorial illustration: Lina Bo Bardi",
+    "caption_ru": "Editorial illustration: Лина Бо Барди. MASP, SESC Pompeia, бетон и тропики.",
+    "caption_en": "Editorial illustration: Lina Bo Bardi. MASP, SESC Pompeia, concrete and tropics."
+  },
+  "creator": "VANSMITHLAB · AI illustration, 2026",
+  "created_at": "2026-08-13",
+  "asset_created_at": "not recorded at generation time",
+  "asset_path": "public/images/glossary/designers/lina-bo-bardi-hero-v2-card-v1.webp",
+  "generation_prompt_class": "not recorded at generation time",
+  "workflow_run_id": "run_20260813_retrospective_asset_records",
+  "content_sha256": "9bd2d1a5ac3773dc156b56a1019cfde410674073aa4d84e80dbbd104c5f1f290"
+}

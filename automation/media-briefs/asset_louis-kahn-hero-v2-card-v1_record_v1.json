@@ -1,0 +1,37 @@
+{
+  "asset_id": "asset_louis-kahn-hero-v2-card-v1_record_v1",
+  "record_type": "retrospective_asset_record",
+  "record_basis": "Retrospective asset record. The image was generated before any media record existed for it; this file documents the stored asset from its own published metadata and file hash. It is not a pre-generation brief and did not authorise the image.",
+  "primary_object_id": "obj_509cc086ec668861",
+  "content_release_id": "cnt_572d5cec3840f0f0",
+  "kind": "image",
+  "origin": "ai_illustration",
+  "locale": "multilingual",
+  "educational_purpose": "Editorial illustration: Louis Kahn. Salk Institute, Kimbell, monumental silence.",
+  "may_depict": [
+    "Editorial illustration: Louis Kahn"
+  ],
+  "must_not_imply": [
+    "The image documents a real photograph or person",
+    "The image is attributable to a named photographer"
+  ],
+  "rights": {
+    "state": "generated_reviewed",
+    "disclosure": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "rights_basis": "Original AI visual generated for VANSMITHLAB. No licence record was filed at generation time; no third-party work is reproduced.",
+    "third_party_marks": "No logo, wordmark or recognisable branded asset."
+  },
+  "accessibility": {
+    "alt_text_ru": "Editorial illustration: Луис Кан",
+    "alt_text_en": "Editorial illustration: Louis Kahn",
+    "caption_ru": "Editorial illustration: Луис Кан. Salk Institute, Kimbell, монументальная тишина.",
+    "caption_en": "Editorial illustration: Louis Kahn. Salk Institute, Kimbell, monumental silence."
+  },
+  "creator": "VANSMITHLAB · AI illustration, 2026",
+  "created_at": "2026-08-13",
+  "asset_created_at": "not recorded at generation time",
+  "asset_path": "public/images/glossary/designers/louis-kahn-hero-v2-card-v1.webp",
+  "generation_prompt_class": "not recorded at generation time",
+  "workflow_run_id": "run_20260813_retrospective_asset_records",
+  "content_sha256": "27c414db3617bad78b4cbc6339934317f86a9eb0b57488a8f4e1ae36cdd5cbc4"
+}

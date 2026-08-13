@@ -1,0 +1,37 @@
+{
+  "asset_id": "asset_karl-lagerfeld-hero-v2-card-v1_record_v1",
+  "record_type": "retrospective_asset_record",
+  "record_basis": "Retrospective asset record. The image was generated before any media record existed for it; this file documents the stored asset from its own published metadata and file hash. It is not a pre-generation brief and did not authorise the image.",
+  "primary_object_id": "obj_e9c92617a031c572",
+  "content_release_id": "cnt_57c9cfdb3b2565a9",
+  "kind": "image",
+  "origin": "ai_illustration",
+  "locale": "multilingual",
+  "educational_purpose": "Editorial illustration of Lagerfeld's visual empire — architectural form, silver, monochrome precision.",
+  "may_depict": [
+    "Editorial illustration: Karl Lagerfeld"
+  ],
+  "must_not_imply": [
+    "The image documents a real photograph or person",
+    "The image is attributable to a named photographer"
+  ],
+  "rights": {
+    "state": "generated_reviewed",
+    "disclosure": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "rights_basis": "Original AI visual generated for VANSMITHLAB. No licence record was filed at generation time; no third-party work is reproduced.",
+    "third_party_marks": "No logo, wordmark or recognisable branded asset."
+  },
+  "accessibility": {
+    "alt_text_ru": "Редакционная иллюстрация: Карл Лагерфельд",
+    "alt_text_en": "Editorial illustration: Karl Lagerfeld",
+    "caption_ru": "Редакционная иллюстрация визуальной империи Лагерфельда — архитектурная форма, серебро, монохромная точность.",
+    "caption_en": "Editorial illustration of Lagerfeld's visual empire — architectural form, silver, monochrome precision."
+  },
+  "creator": "VANSMITHLAB · AI illustration, 2026",
+  "created_at": "2026-08-13",
+  "asset_created_at": "not recorded at generation time",
+  "asset_path": "public/images/glossary/designers/karl-lagerfeld-hero-v2-card-v1.webp",
+  "generation_prompt_class": "not recorded at generation time",
+  "workflow_run_id": "run_20260813_retrospective_asset_records",
+  "content_sha256": "1b225e4e19f46b9295c503e66f5af70d23d86c8af9a4ee963b9063bfcb65c7fb"
+}
