@@ -25,7 +25,10 @@
           "locator": "см. источник",
           "support": "Подтверждает утверждение"
         }
-      ]
+      ],
+      "date_start": "1946",
+      "date_end": "1947",
+      "date_precision": "year"
     },
     {
       "id": "clm_5be3dcfa3d6219a9",
@@ -55,7 +58,10 @@
           "locator": "см. источник",
           "support": "Подтверждает утверждение"
         }
-      ]
+      ],
+      "date_start": "1947",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_3863d4163ff27b77",
@@ -85,7 +91,10 @@
           "locator": "см. источник",
           "support": "Подтверждает утверждение"
         }
-      ]
+      ],
+      "date_start": "1957",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_3ecc6b620401268e",
@@ -100,7 +109,10 @@
           "locator": "см. источник",
           "support": "Подтверждает утверждение"
         }
-      ]
+      ],
+      "date_start": "1960",
+      "date_end": "1989",
+      "date_precision": "year"
     },
     {
       "id": "clm_c47e1656a39c98af",
@@ -115,7 +127,10 @@
           "locator": "см. источник",
           "support": "Подтверждает утверждение"
         }
-      ]
+      ],
+      "date_start": "1989",
+      "date_end": "1997",
+      "date_precision": "year"
     },
     {
       "id": "clm_628d0f593ab17650",
@@ -130,7 +145,10 @@
           "locator": "см. источник",
           "support": "Подтверждает утверждение"
         }
-      ]
+      ],
+      "date_start": "1996",
+      "date_end": "2011",
+      "date_precision": "year"
     },
     {
       "id": "clm_7c3251636a60fe33",
@@ -145,7 +163,10 @@
           "locator": "см. источник",
           "support": "Подтверждает утверждение"
         }
-      ]
+      ],
+      "date_start": "2012",
+      "date_end": "2015",
+      "date_precision": "year"
     },
     {
       "id": "clm_9ecdc4a1fcbc56bf",
@@ -160,7 +181,10 @@
           "locator": "см. источник",
           "support": "Подтверждает утверждение"
         }
-      ]
+      ],
+      "date_start": "2016",
+      "date_end": "2025",
+      "date_precision": "year"
     },
     {
       "id": "clm_6995eb22f48bba75",
@@ -175,7 +199,10 @@
           "locator": "см. источник",
           "support": "Подтверждает утверждение"
         }
-      ]
+      ],
+      "date_start": "2018",
+      "date_end": "2025",
+      "date_precision": "year"
     },
     {
       "id": "clm_7620fc8216ad2f81",
@@ -195,7 +222,10 @@
           "locator": "см. источник",
           "support": "Подтверждает утверждение"
         }
-      ]
+      ],
+      "date_start": "2025",
+      "date_end": null,
+      "date_precision": "year"
     }
   ],
   "sources": [

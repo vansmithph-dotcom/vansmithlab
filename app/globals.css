@@ -118,3 +118,16 @@ h1,h2,h3,p { margin-top:0; } h1,h2,h3 { letter-spacing:-.045em; line-height:1; }
    overrides preserve the existing weights and sizes from the editorial system. */
 .mobile-menu summary,.mobile-nav a span,.eyebrow,.art-label,.field-card > span,.process-grid > article > span,.listing-card > span,.sample-marquee,.listing-header,.listing-card-index,.listing-card small,.listing-card i,.article-byline,.article-hero figcaption,.source-rail h2,.evidence-section h2,.analysis-disclaimer strong,.listing-card-visual-placeholder,.article-inline-portrait figcaption { font-family:var(--font-dm-mono),monospace; }
 .analysis-grid h2,.object-body h2,.entry-page h1,.article-copy h2 { font-family:var(--font-playfair),Georgia,serif; }
+
+/* Timeline axis (P-001 C2) */
+.timeline-axis { display:flex; flex-direction:column; }
+.timeline-year { display:grid; grid-template-columns:120px minmax(0,1fr); gap:32px; padding:26px 0; border-bottom:1px solid var(--line); }
+.timeline-year-label { color:var(--accent); font:600 30px var(--font-playfair),Georgia,serif; padding-top:4px; }
+.timeline-year-events { display:flex; flex-direction:column; gap:18px; }
+.timeline-event { border-left:2px solid var(--line); padding:2px 0 2px 18px; }
+.timeline-event-object { display:block; margin-bottom:4px; }
+.timeline-event-object a { color:var(--ink); font-weight:600; text-decoration:none; border-bottom:1px solid var(--accent); }
+.timeline-event-object a:hover { color:var(--accent); }
+.timeline-object-title { color:var(--ink); font-weight:600; }
+.timeline-event-wording { margin:0; color:#514d45; font-size:15px; line-height:1.6; }
+@media (max-width:760px){ .timeline-year { grid-template-columns:1fr; gap:10px; } }

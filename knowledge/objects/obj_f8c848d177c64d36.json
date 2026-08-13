@@ -26,7 +26,10 @@
       "claim_type": "attribution",
       "material": true,
       "verification_state": "attributed",
-      "confidence_score": 0.7
+      "confidence_score": 0.7,
+      "date_start": "1960",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_003",
@@ -42,7 +45,10 @@
       "claim_type": "attribution",
       "material": true,
       "verification_state": "attributed",
-      "confidence_score": 0.7
+      "confidence_score": 0.7,
+      "date_start": "1960",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_005",

@@ -28,7 +28,10 @@
         }
       ],
       "verification_state": "multi_source_verified",
-      "confidence_score": 0.86
+      "confidence_score": 0.86,
+      "date_start": "2011",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_visionaire_01",
@@ -44,7 +47,10 @@
         }
       ],
       "verification_state": "multi_source_verified",
-      "confidence_score": 0.86
+      "confidence_score": 0.86,
+      "date_start": "1991",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_visionaire_18",
@@ -60,7 +66,10 @@
         }
       ],
       "verification_state": "multi_source_verified",
-      "confidence_score": 0.86
+      "confidence_score": 0.86,
+      "date_start": "1996",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_visionaire_38",
@@ -124,7 +133,10 @@
         }
       ],
       "verification_state": "multi_source_verified",
-      "confidence_score": 0.86
+      "confidence_score": 0.86,
+      "date_start": "2017",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_visionaire_65",
@@ -156,7 +168,10 @@
         }
       ],
       "verification_state": "multi_source_verified",
-      "confidence_score": 0.86
+      "confidence_score": 0.86,
+      "date_start": "2026",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_visionaire_glasshandel",
@@ -172,7 +187,10 @@
         }
       ],
       "verification_state": "multi_source_verified",
-      "confidence_score": 0.86
+      "confidence_score": 0.86,
+      "date_start": "2026",
+      "date_end": null,
+      "date_precision": "year"
     }
   ],
   "sources": [

@@ -25,7 +25,10 @@
           "locator": "см. источник",
           "support": "Подтверждает утверждение"
         }
-      ]
+      ],
+      "date_start": "1925",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_d714712088441426",
@@ -75,7 +78,10 @@
           "locator": "см. источник",
           "support": "Подтверждает утверждение"
         }
-      ]
+      ],
+      "date_start": "2006",
+      "date_end": "2015",
+      "date_precision": "year"
     }
   ],
   "sources": [

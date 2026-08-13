@@ -34,7 +34,10 @@
       "claim_type": "attribution",
       "material": true,
       "verification_state": "attributed",
-      "confidence_score": 0.7
+      "confidence_score": 0.7,
+      "date_start": "1851",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_ac_003",
@@ -66,7 +69,10 @@
       "claim_type": "attribution",
       "material": true,
       "verification_state": "attributed",
-      "confidence_score": 0.7
+      "confidence_score": 0.7,
+      "date_start": "1859",
+      "date_end": "1860",
+      "date_precision": "year"
     },
     {
       "id": "clm_ac_007",
@@ -74,7 +80,10 @@
       "claim_type": "attribution",
       "material": true,
       "verification_state": "attributed",
-      "confidence_score": 0.7
+      "confidence_score": 0.7,
+      "date_start": "1861",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_ac_008",
@@ -130,7 +139,10 @@
       "claim_type": "attribution",
       "material": true,
       "verification_state": "attributed",
-      "confidence_score": 0.7
+      "confidence_score": 0.7,
+      "date_start": "1891",
+      "date_end": "1896",
+      "date_precision": "year"
     },
     {
       "id": "clm_ac_015",
@@ -138,7 +150,10 @@
       "claim_type": "attribution",
       "material": true,
       "verification_state": "attributed",
-      "confidence_score": 0.7
+      "confidence_score": 0.7,
+      "date_start": "1887",
+      "date_end": "1888",
+      "date_precision": "year"
     },
     {
       "id": "clm_ac_016",
@@ -146,7 +161,10 @@
       "claim_type": "attribution",
       "material": true,
       "verification_state": "attributed",
-      "confidence_score": 0.7
+      "confidence_score": 0.7,
+      "date_start": "1888",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_ac_017",
@@ -178,7 +196,10 @@
       "claim_type": "attribution",
       "material": true,
       "verification_state": "attributed",
-      "confidence_score": 0.7
+      "confidence_score": 0.7,
+      "date_start": "1890",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_ac_021",
@@ -202,7 +223,10 @@
       "claim_type": "attribution",
       "material": true,
       "verification_state": "attributed",
-      "confidence_score": 0.7
+      "confidence_score": 0.7,
+      "date_start": "1907",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_ac_024",
@@ -210,7 +234,10 @@
       "claim_type": "attribution",
       "material": true,
       "verification_state": "attributed",
-      "confidence_score": 0.7
+      "confidence_score": 0.7,
+      "date_start": "1901",
+      "date_end": "1916",
+      "date_precision": "year"
     },
     {
       "id": "clm_ac_025",
@@ -226,7 +253,10 @@
       "claim_type": "attribution",
       "material": true,
       "verification_state": "attributed",
-      "confidence_score": 0.7
+      "confidence_score": 0.7,
+      "date_start": "1920",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_ac_027",

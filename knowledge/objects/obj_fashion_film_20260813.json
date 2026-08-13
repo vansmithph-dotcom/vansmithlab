@@ -37,7 +37,10 @@
         }
       ],
       "verification_state": "multi_source_verified",
-      "confidence_score": 0.89
+      "confidence_score": 0.89,
+      "date_start": "2000",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_why_fashion_stopped_trusting_photography_sec-2",
@@ -102,7 +105,10 @@
         }
       ],
       "verification_state": "multi_source_verified",
-      "confidence_score": 0.89
+      "confidence_score": 0.89,
+      "date_start": "2000",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_why_fashion_stopped_trusting_photography_sec-5",
@@ -222,7 +228,10 @@
         }
       ],
       "verification_state": "multi_source_verified",
-      "confidence_score": 0.89
+      "confidence_score": 0.89,
+      "date_start": "2000",
+      "date_end": null,
+      "date_precision": "year"
     }
   ],
   "sources": [

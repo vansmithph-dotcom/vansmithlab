@@ -21,7 +21,10 @@
       "claim_type": "attribution",
       "material": true,
       "verification_state": "multi_source_verified",
-      "confidence_score": 0.86
+      "confidence_score": 0.86,
+      "date_start": "1980",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_obj_media_the_face_002",

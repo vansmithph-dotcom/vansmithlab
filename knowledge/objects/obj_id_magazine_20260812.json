@@ -34,7 +34,10 @@
           "locator": "history",
           "support": "Подтверждает влияние i-D на британскую модную культуру."
         }
-      ]
+      ],
+      "date_start": "1980",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_id_language",
@@ -71,7 +74,10 @@
           "locator": "publication report",
           "support": "Подтверждает переход i-D к VICE."
         }
-      ]
+      ],
+      "date_start": "2012",
+      "date_end": null,
+      "date_precision": "year"
     }
   ],
   "sources": [

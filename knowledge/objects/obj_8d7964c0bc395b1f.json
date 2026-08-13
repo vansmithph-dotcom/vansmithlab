@@ -25,7 +25,10 @@
           "locator": "Early Career, line 119: Worth relocated to Paris in 1845 and opened his own firm with a business partner in 1858.",
           "support": "The Met сообщает, что Уорт открыл собственную фирму с деловым партнёром в 1858 году."
         }
-      ]
+      ],
+      "date_start": "1858",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_93e55c7778793b23",
@@ -40,7 +43,10 @@
           "locator": "Our history, line 81: FHCM attributes the first true Couture House to Worth in 1858 at 7 rue de la Paix, Paris.",
           "support": "FHCM относит к Уорту основание первой true Couture House в 1858 году по адресу 7 rue de la Paix в Париже."
         }
-      ]
+      ],
+      "date_start": "1858",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_363c9dfbab660486",
@@ -55,7 +61,10 @@
           "locator": "The House of Worth Continues, lines 129-131.",
           "support": "После смерти Уорта в 1895 году его бизнес перешёл к сыновьям Гастону-Люсьену и Жан-Филиппу Уорт; The Met описывает продолжение деятельности дома во время их управления и в 1920-е годы."
         }
-      ]
+      ],
+      "date_start": "1895",
+      "date_end": "1920",
+      "date_precision": "year"
     },
     {
       "id": "clm_7754d920ff9a0f3c",
@@ -115,7 +124,10 @@
           "locator": "Our history, lines 63-68.",
           "support": "Согласно хронологии FHCM, её предшествующая организация была основана в 1868 году как Chambre Syndicale de la Couture."
         }
-      ]
+      ],
+      "date_start": "1868",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_61acbb7399f01253",
@@ -130,7 +142,10 @@
           "locator": "Our history, lines 63-68.",
           "support": "Согласно хронологии FHCM, в 1910 году организация стала называться Chambre Syndicale de la Couture Parisienne."
         }
-      ]
+      ],
+      "date_start": "1910",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_a566acbb77f9c516",
@@ -145,7 +160,10 @@
           "locator": "Our history, lines 63-68.",
           "support": "Согласно хронологии FHCM, в 1945 году организация стала называться Chambre Syndicale de la Haute Couture."
         }
-      ]
+      ],
+      "date_start": "1945",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_f778aea73cf3cf95",
@@ -160,7 +178,10 @@
           "locator": "Our history, lines 63-68.",
           "support": "Согласно хронологии FHCM, в 1973 году была создана Fédération Française de la Couture, du Prêt-à-Porter des Couturiers et des Créateurs de Mode."
         }
-      ]
+      ],
+      "date_start": "1973",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_6a055d9b619890b2",
@@ -175,7 +196,10 @@
           "locator": "Our history, lines 63-68.",
           "support": "Согласно хронологии FHCM, 29 июня 2017 года организация стала Fédération de la Haute Couture et de la Mode."
         }
-      ]
+      ],
+      "date_start": "2017",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_afab29d2ca01cbd5",
@@ -205,7 +229,10 @@
           "locator": "Haute Couture, a French exception, lines 77-80.",
           "support": "На странице истории FHCM указано, что с 2010 года официальный календарь haute couture стал принимать связанные с федерацией дома высокого ювелирного искусства."
         }
-      ]
+      ],
+      "date_start": "2010",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_4804c65951c6be71",
@@ -225,7 +252,10 @@
           "locator": "Official Journal C/2025/3014, heading.",
           "support": "28 ноября 2024 года Европейская комиссия приняла решение по производству в соответствии со статьёй 101 ДФЕС и статьёй 53 Соглашения о ЕЭП, дело AT.40642 (Pierre Cardin)."
         }
-      ]
+      ],
+      "date_start": "2024",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_068cde6b46b1fca0",
@@ -265,7 +295,10 @@
           "locator": "Official Journal publication C/2025/3014 of the same Commission summary.",
           "support": "Согласно официальному резюме решения, нарушение продолжалось с 1 января 2008 года по 31 марта 2021 года."
         }
-      ]
+      ],
+      "date_start": "2008",
+      "date_end": "2021",
+      "date_precision": "year"
     },
     {
       "id": "clm_ae25013ee84c17d3",
@@ -345,7 +378,10 @@
           "locator": "Exhibition Galleries, lines 48-63.",
           "support": "Выставка The Met «Rei Kawakubo/Comme des Garçons: Art of the In-Between» проходила в The Met Fifth Avenue с 4 мая по 4 сентября 2017 года."
         }
-      ]
+      ],
+      "date_start": "2017",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_50b85d3c30a555ad",
@@ -425,7 +461,10 @@
           "locator": "Pierre Cardin — Visionary creator and businessman, lines 114–118.",
           "support": "Официальная история Pierre Cardin сообщает, что Пьер Карден основал собственный модный дом в Париже в 1950 году."
         }
-      ]
+      ],
+      "date_start": "1950",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_cardin_licensing_expansion",

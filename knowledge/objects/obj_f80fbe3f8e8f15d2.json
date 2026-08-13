@@ -30,7 +30,10 @@
           "locator": "см. источник",
           "support": "Подтверждает утверждение"
         }
-      ]
+      ],
+      "date_start": "1952",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_95bc17150ff89507",
@@ -75,7 +78,10 @@
           "locator": "см. источник",
           "support": "Подтверждает утверждение"
         }
-      ]
+      ],
+      "date_start": "2011",
+      "date_end": null,
+      "date_precision": "year"
     }
   ],
   "sources": [

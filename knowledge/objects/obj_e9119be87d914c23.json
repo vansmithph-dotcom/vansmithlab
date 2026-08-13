@@ -25,7 +25,10 @@
           "locator": "1910s chronology: 1910, 1912, 1915 and 1918 entries",
           "support": "Официальная хронология дома подтверждает адреса, даты и последовательность расширения."
         }
-      ]
+      ],
+      "date_start": "1910",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_fda8df0423df30c4",
@@ -55,7 +58,10 @@
           "locator": "1921 and 1924 entries",
           "support": "Официальная хронология подтверждает запуск аромата и создание парфюмерной компании."
         }
-      ]
+      ],
+      "date_start": "1921",
+      "date_end": "1924",
+      "date_precision": "year"
     },
     {
       "id": "clm_2a5b292a700a1f95",
@@ -75,7 +81,10 @@
           "locator": "Post-war return and CHANEL suit sections",
           "support": "V&A независимо описывает возвращение и конструктивные принципы послевоенного костюма."
         }
-      ]
+      ],
+      "date_start": "1954",
+      "date_end": "1956",
+      "date_precision": "year"
     },
     {
       "id": "clm_3b27db20f8b1b428",
@@ -90,7 +99,10 @@
           "locator": "1983 Arrival of Karl Lagerfeld",
           "support": "Официальная хронология подтверждает назначение и перечисляет направления его работы."
         }
-      ]
+      ],
+      "date_start": "1983",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_8571a175d9f7c942",
@@ -105,7 +117,10 @@
           "locator": "Appointment announcement",
           "support": "Официальное сообщение Chanel определяет должность, круг ответственности и год начала работы."
         }
-      ]
+      ],
+      "date_start": "2025",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_80d5fc170ed51b31",
@@ -120,7 +135,10 @@
           "locator": "Exhibition overview",
           "support": "V&A указывает объём выставки и хронологические границы материала."
         }
-      ]
+      ],
+      "date_start": "1971",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_36a12e2e88dd932a",
@@ -135,7 +153,10 @@
           "locator": "2025 financial highlights and CFO statement",
           "support": "Официальный финансовый пресс-релиз подтверждает показатели и число открытий."
         }
-      ]
+      ],
+      "date_start": "2025",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_d0c22fe794f54bc0",

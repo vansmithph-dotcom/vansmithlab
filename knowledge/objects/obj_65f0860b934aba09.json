@@ -25,7 +25,10 @@
           "locator": "см. источник",
           "support": "Подтверждает утверждение"
         }
-      ]
+      ],
+      "date_start": "1886",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_6a9b75a0949c15b5",
@@ -40,7 +43,10 @@
           "locator": "см. источник",
           "support": "Подтверждает утверждение"
         }
-      ]
+      ],
+      "date_start": "1929",
+      "date_end": "1986",
+      "date_precision": "year"
     },
     {
       "id": "clm_3811cfc2d0563337",
@@ -55,7 +61,10 @@
           "locator": "см. источник",
           "support": "Подтверждает утверждение"
         }
-      ]
+      ],
+      "date_start": "1930",
+      "date_end": "1933",
+      "date_precision": "year"
     },
     {
       "id": "clm_d173203016faa6d6",
@@ -70,7 +79,10 @@
           "locator": "см. источник",
           "support": "Подтверждает утверждение"
         }
-      ]
+      ],
+      "date_start": "1938",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_2091e7baebf15d57",
@@ -85,7 +97,10 @@
           "locator": "см. источник",
           "support": "Подтверждает утверждение"
         }
-      ]
+      ],
+      "date_start": "1958",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_8e926fb2bf7da9e0",
@@ -100,7 +115,10 @@
           "locator": "см. источник",
           "support": "Подтверждает утверждение"
         }
-      ]
+      ],
+      "date_start": "1969",
+      "date_end": null,
+      "date_precision": "year"
     }
   ],
   "sources": [

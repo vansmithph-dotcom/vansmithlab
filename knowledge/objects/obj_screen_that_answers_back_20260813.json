@@ -32,7 +32,10 @@
         }
       ],
       "verification_state": "multi_source_verified",
-      "confidence_score": 0.86
+      "confidence_score": 0.86,
+      "date_start": "1968",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_ui_alto",
@@ -52,7 +55,10 @@
         }
       ],
       "verification_state": "multi_source_verified",
-      "confidence_score": 0.86
+      "confidence_score": 0.86,
+      "date_start": "1970",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_ui_web",
@@ -92,7 +98,10 @@
         }
       ],
       "verification_state": "multi_source_verified",
-      "confidence_score": 0.86
+      "confidence_score": 0.86,
+      "date_start": "2007",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_ui_hig",

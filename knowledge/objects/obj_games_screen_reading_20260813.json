@@ -47,7 +47,10 @@
         }
       ],
       "verification_state": "verified",
-      "confidence_score": 0.87
+      "confidence_score": 0.87,
+      "date_start": "1993",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_game_feedback_loop",

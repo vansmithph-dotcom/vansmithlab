@@ -34,7 +34,10 @@
       "claim_type": "attribution",
       "material": true,
       "verification_state": "attributed",
-      "confidence_score": 0.7
+      "confidence_score": 0.7,
+      "date_start": "1930",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_hiro_002",
@@ -50,7 +53,10 @@
       "claim_type": "attribution",
       "material": true,
       "verification_state": "attributed",
-      "confidence_score": 0.7
+      "confidence_score": 0.7,
+      "date_start": "1954",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_hiro_004",
@@ -58,7 +64,10 @@
       "claim_type": "attribution",
       "material": true,
       "verification_state": "attributed",
-      "confidence_score": 0.7
+      "confidence_score": 0.7,
+      "date_start": "1956",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_hiro_005",
@@ -66,7 +75,10 @@
       "claim_type": "attribution",
       "material": true,
       "verification_state": "attributed",
-      "confidence_score": 0.7
+      "confidence_score": 0.7,
+      "date_start": "1934",
+      "date_end": "1958",
+      "date_precision": "year"
     },
     {
       "id": "clm_hiro_006",
@@ -74,7 +86,10 @@
       "claim_type": "attribution",
       "material": true,
       "verification_state": "attributed",
-      "confidence_score": 0.7
+      "confidence_score": 0.7,
+      "date_start": "1958",
+      "date_end": "1960",
+      "date_precision": "year"
     },
     {
       "id": "clm_hiro_007",
@@ -82,7 +97,10 @@
       "claim_type": "attribution",
       "material": true,
       "verification_state": "attributed",
-      "confidence_score": 0.7
+      "confidence_score": 0.7,
+      "date_start": "1963",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_hiro_008",
@@ -138,7 +156,10 @@
       "claim_type": "attribution",
       "material": true,
       "verification_state": "attributed",
-      "confidence_score": 0.7
+      "confidence_score": 0.7,
+      "date_start": "1963",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_hiro_015",
@@ -146,7 +167,10 @@
       "claim_type": "attribution",
       "material": true,
       "verification_state": "attributed",
-      "confidence_score": 0.7
+      "confidence_score": 0.7,
+      "date_start": "1967",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_hiro_016",
@@ -178,7 +202,10 @@
       "claim_type": "attribution",
       "material": true,
       "verification_state": "attributed",
-      "confidence_score": 0.7
+      "confidence_score": 0.7,
+      "date_start": "1960",
+      "date_end": null,
+      "date_precision": "circa"
     },
     {
       "id": "clm_hiro_020",
@@ -194,7 +221,10 @@
       "claim_type": "attribution",
       "material": true,
       "verification_state": "attributed",
-      "confidence_score": 0.7
+      "confidence_score": 0.7,
+      "date_start": "1976",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_hiro_022",
@@ -202,7 +232,10 @@
       "claim_type": "attribution",
       "material": true,
       "verification_state": "attributed",
-      "confidence_score": 0.7
+      "confidence_score": 0.7,
+      "date_start": "1978",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_hiro_023",
@@ -226,7 +259,10 @@
       "claim_type": "attribution",
       "material": true,
       "verification_state": "attributed",
-      "confidence_score": 0.7
+      "confidence_score": 0.7,
+      "date_start": "1970",
+      "date_end": "1972",
+      "date_precision": "year"
     },
     {
       "id": "clm_hiro_026",
@@ -234,7 +270,10 @@
       "claim_type": "attribution",
       "material": true,
       "verification_state": "attributed",
-      "confidence_score": 0.7
+      "confidence_score": 0.7,
+      "date_start": "1969",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_hiro_027",
@@ -242,7 +281,10 @@
       "claim_type": "attribution",
       "material": true,
       "verification_state": "attributed",
-      "confidence_score": 0.7
+      "confidence_score": 0.7,
+      "date_start": "1982",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_hiro_028",
@@ -250,7 +292,10 @@
       "claim_type": "attribution",
       "material": true,
       "verification_state": "attributed",
-      "confidence_score": 0.7
+      "confidence_score": 0.7,
+      "date_start": "1980",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_hiro_029",
@@ -266,7 +311,10 @@
       "claim_type": "attribution",
       "material": true,
       "verification_state": "attributed",
-      "confidence_score": 0.7
+      "confidence_score": 0.7,
+      "date_start": "2015",
+      "date_end": "2016",
+      "date_precision": "year"
     }
   ],
   "sources": [

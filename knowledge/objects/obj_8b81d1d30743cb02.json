@@ -25,7 +25,10 @@
           "locator": "см. источник",
           "support": "Подтверждает утверждение"
         }
-      ]
+      ],
+      "date_start": "1956",
+      "date_end": "1987",
+      "date_precision": "year"
     },
     {
       "id": "clm_e8eee80553b8b57f",
@@ -40,7 +43,10 @@
           "locator": "см. источник",
           "support": "Подтверждает утверждение"
         }
-      ]
+      ],
+      "date_start": "1966",
+      "date_end": "1997",
+      "date_precision": "year"
     },
     {
       "id": "clm_1f02c3c23b189094",
@@ -60,7 +66,10 @@
           "locator": "см. источник",
           "support": "Подтверждает утверждение"
         }
-      ]
+      ],
+      "date_start": "1995",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_74251c6a38a27054",
@@ -75,7 +84,10 @@
           "locator": "см. источник",
           "support": "Подтверждает утверждение"
         }
-      ]
+      ],
+      "date_start": "2010",
+      "date_end": null,
+      "date_precision": "year"
     }
   ],
   "sources": [

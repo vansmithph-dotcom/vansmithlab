@@ -74,7 +74,41 @@
       "maximum": 1
     },
     "claims": {
-      "type": "array"
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "wording_ru",
+          "claim_type",
+          "verification_state",
+          "confidence_score"
+        ],
+        "properties": {
+          "id": { "type": "string" },
+          "wording_ru": { "type": "string" },
+          "wording_en": { "type": "string" },
+          "claim_type": { "enum": ["factual", "attribution", "date", "causal", "descriptive", "quantitative", "disputed"] },
+          "material": { "type": "boolean" },
+          "evidence": { "type": "array" },
+          "verification_state": {
+            "enum": ["multi_source_verified", "verified", "partially_verified", "unverified", "attributed", "retracted"]
+          },
+          "confidence_score": { "type": "number", "minimum": 0, "maximum": 1 },
+          "date_start": {
+            "type": ["string", "null"],
+            "description": "ISO 8601 date or year-only string (e.g. 1947 or 1947-02-12)."
+          },
+          "date_end": {
+            "type": ["string", "null"],
+            "description": "ISO 8601 date or year-only string marking the end of a period; null for a point in time."
+          },
+          "date_precision": {
+            "enum": ["day", "month", "year", "decade", "circa"],
+            "description": "Precision of date_start; drives grouping on the timeline axis."
+          }
+        }
+      }
     },
     "sources": {
       "type": "array"

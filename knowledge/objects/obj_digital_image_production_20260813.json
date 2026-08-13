@@ -612,7 +612,10 @@
         }
       ],
       "verification_state": "multi_source_verified",
-      "confidence_score": 0.86
+      "confidence_score": 0.86,
+      "date_start": "2003",
+      "date_end": "2026",
+      "date_precision": "year"
     }
   ],
   "sources": [

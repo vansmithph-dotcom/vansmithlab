@@ -34,7 +34,10 @@
       "claim_type": "attribution",
       "material": true,
       "verification_state": "attributed",
-      "confidence_score": 0.7
+      "confidence_score": 0.7,
+      "date_start": "1970",
+      "date_end": "1982",
+      "date_precision": "year"
     },
     {
       "id": "clm_nk_002",
@@ -58,7 +61,10 @@
       "claim_type": "attribution",
       "material": true,
       "verification_state": "attributed",
-      "confidence_score": 0.7
+      "confidence_score": 0.7,
+      "date_start": "1980",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_nk_005",
@@ -82,7 +88,10 @@
       "claim_type": "attribution",
       "material": true,
       "verification_state": "attributed",
-      "confidence_score": 0.7
+      "confidence_score": 0.7,
+      "date_start": "1998",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_nk_008",
@@ -98,7 +107,10 @@
       "claim_type": "attribution",
       "material": true,
       "verification_state": "attributed",
-      "confidence_score": 0.7
+      "confidence_score": 0.7,
+      "date_start": "1997",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_nk_010",
@@ -106,7 +118,10 @@
       "claim_type": "attribution",
       "material": true,
       "verification_state": "attributed",
-      "confidence_score": 0.7
+      "confidence_score": 0.7,
+      "date_start": "2004",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_nk_011",
@@ -122,7 +137,10 @@
       "claim_type": "attribution",
       "material": true,
       "verification_state": "attributed",
-      "confidence_score": 0.7
+      "confidence_score": 0.7,
+      "date_start": "2000",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_nk_013",
@@ -138,7 +156,10 @@
       "claim_type": "attribution",
       "material": true,
       "verification_state": "attributed",
-      "confidence_score": 0.7
+      "confidence_score": 0.7,
+      "date_start": "2010",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_nk_015",
@@ -162,7 +183,10 @@
       "claim_type": "attribution",
       "material": true,
       "verification_state": "attributed",
-      "confidence_score": 0.7
+      "confidence_score": 0.7,
+      "date_start": "2000",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_nk_018",
@@ -178,7 +202,10 @@
       "claim_type": "attribution",
       "material": true,
       "verification_state": "attributed",
-      "confidence_score": 0.7
+      "confidence_score": 0.7,
+      "date_start": "1993",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_nk_020",
@@ -194,7 +221,10 @@
       "claim_type": "attribution",
       "material": true,
       "verification_state": "attributed",
-      "confidence_score": 0.7
+      "confidence_score": 0.7,
+      "date_start": "2020",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_nk_022",
@@ -202,7 +232,10 @@
       "claim_type": "attribution",
       "material": true,
       "verification_state": "attributed",
-      "confidence_score": 0.7
+      "confidence_score": 0.7,
+      "date_start": "2022",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_nk_023",
@@ -210,7 +243,10 @@
       "claim_type": "attribution",
       "material": true,
       "verification_state": "attributed",
-      "confidence_score": 0.7
+      "confidence_score": 0.7,
+      "date_start": "2022",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_nk_024",
@@ -234,7 +270,10 @@
       "claim_type": "attribution",
       "material": true,
       "verification_state": "attributed",
-      "confidence_score": 0.7
+      "confidence_score": 0.7,
+      "date_start": "2024",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_nk_027",

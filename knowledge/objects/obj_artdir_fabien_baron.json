@@ -19,7 +19,10 @@
       "claim_type": "attribution",
       "material": true,
       "verification_state": "multi_source_verified",
-      "confidence_score": 0.9
+      "confidence_score": 0.9,
+      "date_start": "1959",
+      "date_end": "1982",
+      "date_precision": "year"
     },
     {
       "id": "clm_fb_editorial",
@@ -27,7 +30,10 @@
       "claim_type": "attribution",
       "material": true,
       "verification_state": "multi_source_verified",
-      "confidence_score": 0.9
+      "confidence_score": 0.9,
+      "date_start": "1990",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_fb_brand",
@@ -35,7 +41,10 @@
       "claim_type": "attribution",
       "material": true,
       "verification_state": "multi_source_verified",
-      "confidence_score": 0.9
+      "confidence_score": 0.9,
+      "date_start": "1992",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_fb_multidisciplinary",

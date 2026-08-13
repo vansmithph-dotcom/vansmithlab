@@ -28,7 +28,10 @@
         }
       ],
       "verification_state": "attributed",
-      "confidence_score": 0.86
+      "confidence_score": 0.86,
+      "date_start": "1920",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_sb_002",
@@ -78,7 +81,10 @@
         }
       ],
       "verification_state": "attributed",
-      "confidence_score": 0.86
+      "confidence_score": 0.86,
+      "date_start": "1946",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_sb_005",
@@ -93,7 +99,10 @@
         }
       ],
       "verification_state": "attributed",
-      "confidence_score": 0.86
+      "confidence_score": 0.86,
+      "date_start": "1950",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_sb_006",
@@ -108,7 +117,10 @@
         }
       ],
       "verification_state": "attributed",
-      "confidence_score": 0.86
+      "confidence_score": 0.86,
+      "date_start": "1954",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_sb_007",
@@ -438,7 +450,10 @@
         }
       ],
       "verification_state": "multi_source_verified",
-      "confidence_score": 0.86
+      "confidence_score": 0.86,
+      "date_start": "1969",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_sb_024",
@@ -478,7 +493,10 @@
         }
       ],
       "verification_state": "multi_source_verified",
-      "confidence_score": 0.86
+      "confidence_score": 0.86,
+      "date_start": "1968",
+      "date_end": "1974",
+      "date_precision": "year"
     },
     {
       "id": "clm_sb_026",
@@ -498,7 +516,10 @@
         }
       ],
       "verification_state": "multi_source_verified",
-      "confidence_score": 0.86
+      "confidence_score": 0.86,
+      "date_start": "1960",
+      "date_end": "1980",
+      "date_precision": "year"
     },
     {
       "id": "clm_sb_027",
@@ -518,7 +539,10 @@
         }
       ],
       "verification_state": "multi_source_verified",
-      "confidence_score": 0.86
+      "confidence_score": 0.86,
+      "date_start": "2012",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_sb_028",

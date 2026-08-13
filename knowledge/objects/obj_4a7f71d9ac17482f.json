@@ -42,7 +42,10 @@
       "claim_type": "attribution",
       "material": true,
       "verification_state": "attributed",
-      "confidence_score": 0.7
+      "confidence_score": 0.7,
+      "date_start": "1988",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_005",
@@ -98,7 +101,10 @@
       "claim_type": "attribution",
       "material": true,
       "verification_state": "attributed",
-      "confidence_score": 0.7
+      "confidence_score": 0.7,
+      "date_start": "1999",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_012",
@@ -106,7 +112,10 @@
       "claim_type": "attribution",
       "material": true,
       "verification_state": "attributed",
-      "confidence_score": 0.7
+      "confidence_score": 0.7,
+      "date_start": "1988",
+      "date_end": "1994",
+      "date_precision": "year"
     },
     {
       "id": "clm_013",
@@ -114,7 +123,10 @@
       "claim_type": "attribution",
       "material": true,
       "verification_state": "attributed",
-      "confidence_score": 0.7
+      "confidence_score": 0.7,
+      "date_start": "1993",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_014",

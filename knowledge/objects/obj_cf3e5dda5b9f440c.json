@@ -26,7 +26,10 @@
       "claim_type": "attribution",
       "material": true,
       "verification_state": "attributed",
-      "confidence_score": 0.7
+      "confidence_score": 0.7,
+      "date_start": "1917",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_ds_002",
@@ -154,7 +157,10 @@
       "claim_type": "attribution",
       "material": true,
       "verification_state": "attributed",
-      "confidence_score": 0.7
+      "confidence_score": 0.7,
+      "date_start": "1918",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_ds_018",
@@ -202,7 +208,10 @@
       "claim_type": "attribution",
       "material": true,
       "verification_state": "attributed",
-      "confidence_score": 0.7
+      "confidence_score": 0.7,
+      "date_start": "1918",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_ds_024",
@@ -250,7 +259,10 @@
       "claim_type": "attribution",
       "material": true,
       "verification_state": "attributed",
-      "confidence_score": 0.7
+      "confidence_score": 0.7,
+      "date_start": "1924",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_ds_030",
@@ -298,7 +310,10 @@
       "claim_type": "attribution",
       "material": true,
       "verification_state": "attributed",
-      "confidence_score": 0.7
+      "confidence_score": 0.7,
+      "date_start": "1923",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_ds_036",
@@ -330,7 +345,10 @@
       "claim_type": "attribution",
       "material": true,
       "verification_state": "attributed",
-      "confidence_score": 0.7
+      "confidence_score": 0.7,
+      "date_start": "1920",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_ds_040",
@@ -410,7 +428,10 @@
       "claim_type": "attribution",
       "material": true,
       "verification_state": "attributed",
-      "confidence_score": 0.7
+      "confidence_score": 0.7,
+      "date_start": "1965",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_ds_050",

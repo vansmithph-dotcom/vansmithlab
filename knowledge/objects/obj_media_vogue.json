@@ -33,7 +33,10 @@
         }
       ],
       "verification_state": "multi_source_verified",
-      "confidence_score": 0.86
+      "confidence_score": 0.86,
+      "date_start": "1892",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_vg_002",
@@ -73,7 +76,10 @@
         }
       ],
       "verification_state": "multi_source_verified",
-      "confidence_score": 0.86
+      "confidence_score": 0.86,
+      "date_start": "1909",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_vg_004",
@@ -93,7 +99,10 @@
         }
       ],
       "verification_state": "multi_source_verified",
-      "confidence_score": 0.86
+      "confidence_score": 0.86,
+      "date_start": "1924",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_vg_005",
@@ -113,7 +122,10 @@
         }
       ],
       "verification_state": "multi_source_verified",
-      "confidence_score": 0.86
+      "confidence_score": 0.86,
+      "date_start": "1916",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_vg_006",
@@ -133,7 +145,10 @@
         }
       ],
       "verification_state": "multi_source_verified",
-      "confidence_score": 0.86
+      "confidence_score": 0.86,
+      "date_start": "1920",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_vg_007",
@@ -193,7 +208,10 @@
         }
       ],
       "verification_state": "multi_source_verified",
-      "confidence_score": 0.86
+      "confidence_score": 0.86,
+      "date_start": "1932",
+      "date_end": "1936",
+      "date_precision": "year"
     },
     {
       "id": "clm_vg_009b",
@@ -213,7 +231,10 @@
         }
       ],
       "verification_state": "multi_source_verified",
-      "confidence_score": 0.86
+      "confidence_score": 0.86,
+      "date_start": "1932",
+      "date_end": "1936",
+      "date_precision": "year"
     },
     {
       "id": "clm_vg_010",
@@ -233,7 +254,10 @@
         }
       ],
       "verification_state": "multi_source_verified",
-      "confidence_score": 0.86
+      "confidence_score": 0.86,
+      "date_start": "1920",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_vg_011",
@@ -373,7 +397,10 @@
         }
       ],
       "verification_state": "multi_source_verified",
-      "confidence_score": 0.86
+      "confidence_score": 0.86,
+      "date_start": "1952",
+      "date_end": "1962",
+      "date_precision": "year"
     },
     {
       "id": "clm_vg_018",
@@ -393,7 +420,10 @@
         }
       ],
       "verification_state": "multi_source_verified",
-      "confidence_score": 0.86
+      "confidence_score": 0.86,
+      "date_start": "1962",
+      "date_end": "1963",
+      "date_precision": "year"
     },
     {
       "id": "clm_vg_019",
@@ -433,7 +463,10 @@
         }
       ],
       "verification_state": "multi_source_verified",
-      "confidence_score": 0.86
+      "confidence_score": 0.86,
+      "date_start": "1971",
+      "date_end": "1988",
+      "date_precision": "year"
     },
     {
       "id": "clm_vg_021",
@@ -448,7 +481,10 @@
         }
       ],
       "verification_state": "attributed",
-      "confidence_score": 0.86
+      "confidence_score": 0.86,
+      "date_start": "1988",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_vg_022",
@@ -468,7 +504,10 @@
         }
       ],
       "verification_state": "multi_source_verified",
-      "confidence_score": 0.86
+      "confidence_score": 0.86,
+      "date_start": "1940",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_vg_023",
@@ -488,7 +527,10 @@
         }
       ],
       "verification_state": "multi_source_verified",
-      "confidence_score": 0.86
+      "confidence_score": 0.86,
+      "date_start": "2012",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_vg_024",
@@ -548,7 +590,10 @@
         }
       ],
       "verification_state": "multi_source_verified",
-      "confidence_score": 0.86
+      "confidence_score": 0.86,
+      "date_start": "1892",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_vg_027",
@@ -588,7 +633,10 @@
         }
       ],
       "verification_state": "multi_source_verified",
-      "confidence_score": 0.86
+      "confidence_score": 0.86,
+      "date_start": "1999",
+      "date_end": "2015",
+      "date_precision": "year"
     },
     {
       "id": "clm_vg_029",
@@ -608,7 +656,10 @@
         }
       ],
       "verification_state": "multi_source_verified",
-      "confidence_score": 0.86
+      "confidence_score": 0.86,
+      "date_start": "2022",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_vg_030",
@@ -628,7 +679,10 @@
         }
       ],
       "verification_state": "multi_source_verified",
-      "confidence_score": 0.86
+      "confidence_score": 0.86,
+      "date_start": "2025",
+      "date_end": "2026",
+      "date_precision": "year"
     }
   ],
   "sources": [

@@ -87,7 +87,10 @@
         }
       ],
       "verification_state": "multi_source_verified",
-      "confidence_score": 0.87
+      "confidence_score": 0.87,
+      "date_start": "1950",
+      "date_end": "1960",
+      "date_precision": "year"
     },
     {
       "id": "clm_titles_vertigo_whitney",
@@ -107,7 +110,10 @@
         }
       ],
       "verification_state": "multi_source_verified",
-      "confidence_score": 0.87
+      "confidence_score": 0.87,
+      "date_start": "1950",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_titles_bass_method",
@@ -127,7 +133,10 @@
         }
       ],
       "verification_state": "multi_source_verified",
-      "confidence_score": 0.87
+      "confidence_score": 0.87,
+      "date_start": "1950",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_titles_ferro_aiga",
@@ -197,7 +206,10 @@
         }
       ],
       "verification_state": "verified",
-      "confidence_score": 0.87
+      "confidence_score": 0.87,
+      "date_start": "1995",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_titles_cooper_wired",
@@ -217,7 +229,10 @@
         }
       ],
       "verification_state": "multi_source_verified",
-      "confidence_score": 0.87
+      "confidence_score": 0.87,
+      "date_start": "1995",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_titles_tv_academy",
@@ -237,7 +252,10 @@
         }
       ],
       "verification_state": "multi_source_verified",
-      "confidence_score": 0.87
+      "confidence_score": 0.87,
+      "date_start": "2026",
+      "date_end": null,
+      "date_precision": "year"
     },
     {
       "id": "clm_titles_skip_intro",
@@ -252,7 +270,10 @@
         }
       ],
       "verification_state": "verified",
-      "confidence_score": 0.87
+      "confidence_score": 0.87,
+      "date_start": "2017",
+      "date_end": "2022",
+      "date_precision": "year"
     }
   ],
   "sources": [
