@@ -1,50 +1,19 @@
 {
   "content_id": "cnt_795ae034d58a65f2",
-  "primary_object_id": "obj_graphic_peter_saville",
+  "primary_object_id": "",
   "content_type": "graphic_designer_profile",
   "state": "published",
   "source_locale": "ru",
-  "source_revision": 2,
-  "verification_state": "multi_source_verified",
-  "confidence_score": 0.88,
-  "claim_ids": [
-    "clm_001",
-    "clm_002",
-    "clm_003",
-    "clm_004",
-    "clm_005",
-    "clm_006",
-    "clm_007",
-    "clm_008",
-    "clm_009",
-    "clm_010",
-    "clm_011",
-    "clm_012",
-    "clm_013",
-    "clm_014",
-    "clm_015",
-    "clm_016",
-    "clm_017",
-    "clm_018",
-    "clm_019",
-    "clm_020",
-    "clm_021",
-    "clm_022",
-    "clm_023",
-    "clm_024",
-    "clm_025",
-    "clm_026",
-    "clm_027",
-    "clm_028",
-    "clm_029",
-    "clm_030"
-  ],
+  "source_revision": 1,
+  "verification_state": "unverified",
+  "confidence_score": 0.0,
+  "claim_ids": [],
   "source_ids": [
     "src_e4bfc6bb98e70a95",
     "src_0719808f7f3d4b18",
     "src_3cb3f5b13b903825"
   ],
-  "last_reviewed": "2026-08-10",
+  "last_reviewed": "2026-08-12",
   "author": "VANSMITHLAB",
   "locale": "en",
   "slug": "peter-savill",
@@ -58,31 +27,5 @@
     "graphic-designer",
     "art-director"
   ],
-  "body_hash": "ed8e012ac2b1e1be36a71cfb6a901ced24b348ea2cd220ea901764fdb90bf48b",
-  "categories": [
-    "art-direction-graphic-design"
-  ],
-  "hero_image": {
-    "src": "/images/glossary/graphic-designers/peter-saville-hero-v1.webp",
-    "alt": "Editorial still life combining a music carrier, scientific waveform, modular grid and archival botanical fragment",
-    "caption": "Code, found imagery, music packaging and industrial surface treated as one identity system.",
-    "credit": "VANSMITHLAB · AI illustration, 2026",
-    "origin": "ai_illustration",
-    "rights_status": "ai_generated"
-  },
-  "portrait_image": {
-    "src": "/images/glossary/graphic-designers/peter-saville-portrait-source.webp",
-    "alt": "Black-and-white portrait of Peter Saville in a dark turtleneck seated at a table",
-    "caption": "Peter Saville, Royal Designer for Industry.",
-    "credit": "Royal Designers for Industry · editorial source",
-    "origin": "editorial",
-    "rights_status": "editorial_basis_recorded",
-    "source_url": "https://royaldesignersforindustry.org/rdi/129/peter-saville"
-  },
-  "translation": {
-    "source_locale": "ru",
-    "source_revision": 2,
-    "semantic_validated": true,
-    "review_run_id": "manual-editorial-audit-2026-08-10"
-  }
+  "body_hash": "ed8e012ac2b1e1be36a71cfb6a901ced24b348ea2cd220ea901764fdb90bf48b"
 }

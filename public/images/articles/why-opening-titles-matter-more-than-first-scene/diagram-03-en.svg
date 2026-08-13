@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img">
+<rect width="1600" height="900" fill="#f2eee6"/>
+<defs><pattern id="grid" width="80" height="80" patternUnits="userSpaceOnUse"><path d="M80 0H0V80" fill="none" stroke="#ded7ca" stroke-width="1"/></pattern></defs>
+<rect x="40" y="40" width="1520" height="820" fill="url(#grid)" opacity=".46"/>
+<rect x="40" y="40" width="1520" height="820" rx="0" fill="none" stroke="#171716" stroke-width="2"/>
+<text x="78" y="96" fill="#c84a31" text-anchor="start" font-family="monospace" font-size="15" font-weight="500" letter-spacing="2">VANSMITHLAB / ANALYSIS / 03</text>
+<text x="78" y="170" fill="#171716" text-anchor="start" font-family="Georgia" font-size="48" font-weight="500" letter-spacing="0">FERRO: THE LETTER GAINS A VOICE</text>
+<line x1="78" y1="202" x2="1522" y2="202" stroke="#171716" stroke-width="2"/>
+<text x="78" y="824" fill="#777167" text-anchor="start" font-family="Arial" font-size="19" font-weight="400" letter-spacing="0">Dr. Strangelove: handwriting comments on the war machine</text>
+<rect x="105" y="300" width="285" height="290" rx="0" fill="#fbf8f1" stroke="#171716" stroke-width="2"/>
+<text x="247" y="640" fill="#171716" text-anchor="middle" font-family="monospace" font-size="16" font-weight="700" letter-spacing="0">HANDWRITING</text>
+<line x1="390" y1="445" x2="460" y2="445" stroke="#c84a31" stroke-width="4"/>
+<rect x="465" y="300" width="285" height="290" rx="0" fill="#fbf8f1" stroke="#171716" stroke-width="2"/>
+<text x="607" y="640" fill="#171716" text-anchor="middle" font-family="monospace" font-size="16" font-weight="700" letter-spacing="0">QUICK CUTS</text>
+<line x1="750" y1="445" x2="820" y2="445" stroke="#c84a31" stroke-width="4"/>
+<rect x="825" y="300" width="285" height="290" rx="0" fill="#fbf8f1" stroke="#171716" stroke-width="2"/>
+<text x="967" y="640" fill="#171716" text-anchor="middle" font-family="monospace" font-size="16" font-weight="700" letter-spacing="0">MULTI-SCREEN</text>
+<line x1="1110" y1="445" x2="1180" y2="445" stroke="#c84a31" stroke-width="4"/>
+<rect x="1185" y="300" width="285" height="290" rx="0" fill="#dce5e9" stroke="#171716" stroke-width="2"/>
+<text x="1327" y="640" fill="#171716" text-anchor="middle" font-family="monospace" font-size="16" font-weight="700" letter-spacing="0">IRONY</text>
+<path d="M150 350 C220 330 260 370 330 350 C400 330 440 370 510 350" fill="none" stroke="#171716" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M510 350 C580 370 620 330 690 350 C760 370 800 330 870 350" fill="none" stroke="#171716" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="510" y1="380" x2="510" y2="470" stroke="#c8c0b3" stroke-width="3"/>
+<line x1="690" y1="380" x2="690" y2="470" stroke="#c8c0b3" stroke-width="3"/>
+</svg>

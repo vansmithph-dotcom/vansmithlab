@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title-06 desc-06">
+<title id="title-06">LEMONADE: THE VISUAL ALBUM AS A SYSTEM</title><desc id="desc-06">Songs, directors and images assemble into an additional authorial layer.</desc>
+<rect width="1600" height="900" fill="#f2eee6"/>
+<defs><pattern id="grid" width="80" height="80" patternUnits="userSpaceOnUse"><path d="M80 0H0V80" fill="none" stroke="#ded7ca" stroke-width="1"/></pattern></defs>
+<rect x="40" y="40" width="1520" height="820" fill="url(#grid)" opacity=".46"/>
+<rect x="40" y="40" width="1520" height="820" rx="0" fill="none" stroke="#171716" stroke-width="2"/>
+<text x="78" y="96" fill="#c84a31" text-anchor="start" font-family="monospace" font-size="15" font-weight="500" letter-spacing="2">VANSMITHLAB / ANALYSIS / 06</text>
+<text x="78" y="170" fill="#171716" text-anchor="start" font-family="Georgia" font-size="44" font-weight="500" letter-spacing="0">LEMONADE: THE VISUAL ALBUM AS A SYSTEM</text>
+<line x1="78" y1="202" x2="1522" y2="202" stroke="#171716" stroke-width="2"/>
+<text x="78" y="824" fill="#777167" text-anchor="start" font-family="Arial" font-size="18" font-weight="500" letter-spacing="0">Songs, directors and images assemble into an additional authorial layer.</text>
+<rect x="135" y="335" width="280" height="270" rx="0" fill="#fbf8f1" stroke="#171716" stroke-width="2"/>
+<text x="275" y="655" fill="#171716" text-anchor="middle" font-family="monospace" font-size="14" font-weight="700" letter-spacing="0">SONGS</text>
+<line x1="415" y1="470" x2="500" y2="470" stroke="#c84a31" stroke-width="4"/>
+<path d="M485 458 L500 470 L485 482" fill="none" stroke="#c84a31" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="500" y="335" width="280" height="270" rx="0" fill="#ead3ca" stroke="#171716" stroke-width="2"/>
+<text x="640" y="655" fill="#171716" text-anchor="middle" font-family="monospace" font-size="14" font-weight="700" letter-spacing="0">COSTUME + SPACE</text>
+<line x1="780" y1="470" x2="865" y2="470" stroke="#c84a31" stroke-width="4"/>
+<path d="M850 458 L865 470 L850 482" fill="none" stroke="#c84a31" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="865" y="335" width="280" height="270" rx="0" fill="#dce5e9" stroke="#171716" stroke-width="2"/>
+<text x="1005" y="655" fill="#171716" text-anchor="middle" font-family="monospace" font-size="14" font-weight="700" letter-spacing="0">MEMORY + CONTEXT</text>
+<line x1="1145" y1="470" x2="1230" y2="470" stroke="#c84a31" stroke-width="4"/>
+<path d="M1215 458 L1230 470 L1215 482" fill="none" stroke="#c84a31" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="1230" y="335" width="280" height="270" rx="0" fill="#ead3ca" stroke="#171716" stroke-width="2"/>
+<text x="1370" y="655" fill="#171716" text-anchor="middle" font-family="monospace" font-size="14" font-weight="700" letter-spacing="0">SHARED WORLD</text>
+<path d="M215 550 Q275 385 335 550" fill="none" stroke="#171716" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M575 550 Q640 365 705 550" fill="none" stroke="#c84a31" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M940 550 Q1005 365 1070 550" fill="none" stroke="#284e78" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1300 550 Q1365 385 1425 550" fill="none" stroke="#171716" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

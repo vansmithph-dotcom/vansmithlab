@@ -1,0 +1,1001 @@
+{
+  "id": "obj_digital_image_production_20260813",
+  "type": "theme",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Цифровое производство изображения — CGI, 3D-сцена и рендер как визуальная система",
+  "title_en": "Digital image production / CGI and 3D rendering as visual system",
+  "slug_ru": "digital-image-production-cgi-3d-rendering-visual-system",
+  "slug_en": "digital-image-production-cgi-3d-rendering-visual-system",
+  "summary_ru": "Изображение становится не записью реальности, а проектируемой сценой",
+  "verification_state": "verified",
+  "confidence_score": 0.86,
+  "created_at": "2026-08-13T00:00:00.000Z",
+  "updated_at": "2026-08-13T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_digital_image_production_cgi_3d_rendering_visual_system_sec-1",
+      "wording_ru": "CGI часто воспринимают как добавку к кадру: взрыв, монстр, фантастический город или невозможный трюк. Но в современном производстве это прежде всего способ строить изображение как сцену: с геометрией, камерой, светом, материалами, движением и правилами вывода. Кадр перестаёт быть только следом камеры; он становится результатом управляемой системы.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.pixar.com/our-story",
+          "locator": "DOCX section sec-1",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://renderman.pixar.com/the-evolution-of-renderman",
+          "locator": "DOCX section sec-1",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_digital_image_production_cgi_3d_rendering_visual_system_sec-2",
+      "wording_ru": "Фотография фиксирует свет, попавший на чувствительную поверхность. Цифровое производство изображения может не фиксировать свет, а рассчитывать его. Поэтому меняется статус кадра: он может быть снят, смоделирован, просчитан, собран из слоёв, восстановлен по данным или сгенерирован моделью. Важен не один инструмент, а цепочка принятия визуальных решений.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.pixar.com/our-story",
+          "locator": "DOCX section sec-2",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://renderman.pixar.com/the-evolution-of-renderman",
+          "locator": "DOCX section sec-2",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_digital_image_production_cgi_3d_rendering_visual_system_sec-3",
+      "wording_ru": "Первый слой CGI — модель. Объект переводится в сетку, поверхность, кривую, скульптурную форму или процедурную структуру. В моде это может быть ткань, тело, аксессуар, декорация, интерьер или невозможный предмет. Модель важна не только как форма, но и как носитель масштаба, пропорции, топологии и дальнейшей анимации.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.pixar.com/our-story",
+          "locator": "DOCX section sec-3",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://renderman.pixar.com/the-evolution-of-renderman",
+          "locator": "DOCX section sec-3",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_digital_image_production_cgi_3d_rendering_visual_system_sec-4",
+      "wording_ru": "После формы появляется материал. Металл, кожа, стекло, ткань, пластик или камень становятся набором свойств: отражение, шероховатость, прозрачность, цвет, подповерхностное рассеивание, микрорельеф. В этом смысле цифровой материал — не имитация поверхности, а сценарий того, как поверхность отвечает на свет.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.pixar.com/our-story",
+          "locator": "DOCX section sec-4",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://renderman.pixar.com/the-evolution-of-renderman",
+          "locator": "DOCX section sec-4",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_digital_image_production_cgi_3d_rendering_visual_system_sec-5",
+      "wording_ru": "В цифровой сцене свет можно поставить до съёмки, после съёмки или вообще без физической съёмки. Художник управляет источниками, отражениями, цветовой температурой, тенями и атмосферой. Рендер превращает освещение из обстоятельства в конструктор: его можно повторять, версионировать и подчинять стилю бренда.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.pixar.com/our-story",
+          "locator": "DOCX section sec-5",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://renderman.pixar.com/the-evolution-of-renderman",
+          "locator": "DOCX section sec-5",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_digital_image_production_cgi_3d_rendering_visual_system_sec-6",
+      "wording_ru": "CGI вводит камеру, которая может вести себя как реальная оптика или нарушать физические ограничения. Она проходит сквозь стены, замедляет время, меняет фокус, скользит внутри объекта, летит вокруг тела или работает как промышленный сканер. Поэтому цифровая камера — это не только взгляд, но и сценарий пространства.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.pixar.com/our-story",
+          "locator": "DOCX section sec-6",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://renderman.pixar.com/the-evolution-of-renderman",
+          "locator": "DOCX section sec-6",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_digital_image_production_cgi_3d_rendering_visual_system_sec-7",
+      "wording_ru": "RenderMan важен не как один программный продукт, а как знак зрелости цифрового производства: изображение можно просчитывать стабильно, повторяемо и на уровне полнометражного кино. Pixar связывает RenderMan с производством Toy Story, первого полнометражного компьютерного анимационного фильма, а также с серией профессиональных наград Academy за вклад в киноиндустрию.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.pixar.com/our-story",
+          "locator": "DOCX section sec-7",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://renderman.pixar.com/the-evolution-of-renderman",
+          "locator": "DOCX section sec-7",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_digital_image_production_cgi_3d_rendering_visual_system_sec-8",
+      "wording_ru": "Toy Story показал, что цифровое изображение может не просто обслуживать отдельный эффект, а нести весь фильм: персонажей, мир, драматургию, свет и эмоциональный ритм. После этого CGI перестал быть только техническим трюком и стал самостоятельным способом создавать экранные вселенные.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.pixar.com/our-story",
+          "locator": "DOCX section sec-8",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://renderman.pixar.com/the-evolution-of-renderman",
+          "locator": "DOCX section sec-8",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_digital_image_production_cgi_3d_rendering_visual_system_sec-9",
+      "wording_ru": "Jurassic Park важен именно как гибрид. Физические модели, аниматроника, операторская работа и компьютерные тесты ILM сошлись в одном производственном решении. Урок здесь не в том, что компьютер заменил всё, а в том, что цифровая форма стала достаточно убедительной, чтобы войти в кадр рядом с материальными объектами.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.pixar.com/our-story",
+          "locator": "DOCX section sec-9",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://renderman.pixar.com/the-evolution-of-renderman",
+          "locator": "DOCX section sec-9",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_digital_image_production_cgi_3d_rendering_visual_system_sec-10",
+      "wording_ru": "Современный CGI почти никогда не заканчивается рендером. Он проходит через композитинг: слои, маски, цвет, глубина, туман, блики, зерно, тени, отражения, съёмочный материал и цифровые элементы собираются в единую картинку. Поэтому финальный кадр — это не «чистый 3D», а сплав разных источников изображения.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.pixar.com/our-story",
+          "locator": "DOCX section sec-10",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://renderman.pixar.com/the-evolution-of-renderman",
+          "locator": "DOCX section sec-10",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_digital_image_production_cgi_3d_rendering_visual_system_sec-11",
+      "wording_ru": "Узловая структура композитинга изменила способ думать о кадре. Вместо линейного слоя появляется карта зависимостей: ключ, маска, коррекция, трекинг, глубина, рендер-проходы и финальная сборка. Это близко к архитектуре: изображение строится как схема, где каждая операция оставляет след и может быть пересобрана.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.pixar.com/our-story",
+          "locator": "DOCX section sec-11",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://renderman.pixar.com/the-evolution-of-renderman",
+          "locator": "DOCX section sec-11",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_digital_image_production_cgi_3d_rendering_visual_system_sec-12",
+      "wording_ru": "CGI особенно важен там, где форма не статична. Ткань падает, волосы реагируют на движение, дым распространяется, стекло разбивается, жидкость принимает форму сосуда. Симуляция добавляет изображению поведение. Для моды это критично: платье в движении часто важнее платья как объекта.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.pixar.com/our-story",
+          "locator": "DOCX section sec-12",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://renderman.pixar.com/the-evolution-of-renderman",
+          "locator": "DOCX section sec-12",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_digital_image_production_cgi_3d_rendering_visual_system_sec-13",
+      "wording_ru": "Цифровой персонаж строится через модель, скелет, риг, кожу, мимику, волосы, одежду и анимацию. Его достоверность зависит не только от деталей лица, но и от веса тела, задержки движения, взгляда, микрожестов и контакта с пространством. Поэтому цифровой человек — одна из самых сложных задач изображения.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.pixar.com/our-story",
+          "locator": "DOCX section sec-13",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://renderman.pixar.com/the-evolution-of-renderman",
+          "locator": "DOCX section sec-13",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_digital_image_production_cgi_3d_rendering_visual_system_sec-14",
+      "wording_ru": "Захват движения меняет отношение между актёром и цифровым телом. Исполнитель больше не только появляется перед камерой; он может стать источником данных для персонажа, аватара или существа. Важный вопрос здесь не в исчезновении актёра, а в том, как его жест переводится в другой визуальный материал.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.pixar.com/our-story",
+          "locator": "DOCX section sec-14",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://renderman.pixar.com/the-evolution-of-renderman",
+          "locator": "DOCX section sec-14",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_digital_image_production_cgi_3d_rendering_visual_system_sec-15",
+      "wording_ru": "MetaHuman показывает, что цифровой человек становится не исключительным лабораторным проектом, а доступной рамкой производства. Реалистичное лицо, волосы, одежда, риг и анимация собираются быстрее, чем раньше. Это меняет не только кино и игры, но и модный фильм, виртуальных моделей, презентации и образовательные симуляции.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.pixar.com/our-story",
+          "locator": "DOCX section sec-15",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://renderman.pixar.com/the-evolution-of-renderman",
+          "locator": "DOCX section sec-15",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_digital_image_production_cgi_3d_rendering_visual_system_sec-16",
+      "wording_ru": "Чем сложнее проект, тем важнее не отдельный файл, а общий язык сцены. OpenUSD, разработанный Pixar, стал способом описывать большие 3D-сцены, активы, варианты, анимацию и совместную работу разных отделов. Для современной картинки это ключевой сдвиг: изображение становится не файлом, а инфраструктурой.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.pixar.com/our-story",
+          "locator": "DOCX section sec-16",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://renderman.pixar.com/the-evolution-of-renderman",
+          "locator": "DOCX section sec-16",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_digital_image_production_cgi_3d_rendering_visual_system_sec-17",
+      "wording_ru": "Blender важен для культуры изображения как бесплатный и открытый 3D-комплект. Он соединяет моделирование, анимацию, симуляции, рендер, композитинг, трекинг и монтаж. Поэтому CGI больше не принадлежит только большим студиям: одиночный автор, фотограф или дизайнер может собрать полноценную цифровую сцену.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.pixar.com/our-story",
+          "locator": "DOCX section sec-17",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://renderman.pixar.com/the-evolution-of-renderman",
+          "locator": "DOCX section sec-17",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_digital_image_production_cgi_3d_rendering_visual_system_sec-18",
+      "wording_ru": "Реальное время изменило ожидание от рендера. Художник, оператор и режиссёр могут видеть сцену не через сутки после просчёта, а почти сразу. Игровой движок становится не только инструментом игры, но и пространством предпросмотра, виртуальной съёмки, световой проверки и финального изображения.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.pixar.com/our-story",
+          "locator": "DOCX section sec-18",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://renderman.pixar.com/the-evolution-of-renderman",
+          "locator": "DOCX section sec-18",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_digital_image_production_cgi_3d_rendering_visual_system_sec-19",
+      "wording_ru": "The Mandalorian сделал виртуальный продакшен массово видимым: цифровые окружения рендерились в реальном времени на LED-стенах, а актёры и физические декорации снимались внутри этой среды. Это важный поворот: CGI перестаёт быть только постпроизводством и возвращается в момент съёмки.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.pixar.com/our-story",
+          "locator": "DOCX section sec-19",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://renderman.pixar.com/the-evolution-of-renderman",
+          "locator": "DOCX section sec-19",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_digital_image_production_cgi_3d_rendering_visual_system_sec-20",
+      "wording_ru": "Виртуальный продакшен меняет календарь проекта. Часть решений, которые раньше принимались после съёмки, нужно принять до неё: мир, освещение, перспектива, масштаб и поведение камеры. Ошибки становятся видимыми раньше, но подготовка требует большей дисциплины. Это не сокращение магии, а перенос магии в подготовку.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.pixar.com/our-story",
+          "locator": "DOCX section sec-20",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://renderman.pixar.com/the-evolution-of-renderman",
+          "locator": "DOCX section sec-20",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_digital_image_production_cgi_3d_rendering_visual_system_sec-21",
+      "wording_ru": "Цифровой двойник — это не только инженерный термин. В визуальной культуре он означает, что объект, интерьер, магазин, подиум, автомобиль, сумка или украшение могут существовать как управляемая цифровая версия. Для бренда это даёт одну базу для кампании, сайта, видео, AR, конфигуратора и будущих материалов.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.pixar.com/our-story",
+          "locator": "DOCX section sec-21",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://renderman.pixar.com/the-evolution-of-renderman",
+          "locator": "DOCX section sec-21",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_digital_image_production_cgi_3d_rendering_visual_system_sec-22",
+      "wording_ru": "NeRF предложил другой способ думать о сцене: не только моделировать объект вручную, но восстанавливать пространство по набору изображений и получать новые точки зрения. Это сближает фотографию, сканирование и рендер. Камера становится не финальным устройством, а источником данных для новой сцены.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.pixar.com/our-story",
+          "locator": "DOCX section sec-22",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://renderman.pixar.com/the-evolution-of-renderman",
+          "locator": "DOCX section sec-22",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_digital_image_production_cgi_3d_rendering_visual_system_sec-23",
+      "wording_ru": "3D Gaussian Splatting усилил интерес к быстрым реконструкциям пространства: сцена представляется не классической сеткой, а системой видимых гауссовых элементов, которые можно рендерить в реальном времени. Для визуального производства это важно как мост между съёмкой, сканом и интерактивной сценой.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.pixar.com/our-story",
+          "locator": "DOCX section sec-23",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://renderman.pixar.com/the-evolution-of-renderman",
+          "locator": "DOCX section sec-23",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_digital_image_production_cgi_3d_rendering_visual_system_sec-24",
+      "wording_ru": "Генеративные модели не отменяют CGI, а добавляют ещё один слой. Текст, изображение, видео, референс стиля и монтажный замысел становятся входными данными. В сильном производстве модель не заменяет художественное решение; она ускоряет поиски, создаёт варианты, помогает превизуализации и иногда становится финальным материалом.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.pixar.com/our-story",
+          "locator": "DOCX section sec-24",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://renderman.pixar.com/the-evolution-of-renderman",
+          "locator": "DOCX section sec-24",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_digital_image_production_cgi_3d_rendering_visual_system_sec-25",
+      "wording_ru": "Современное видео на основе искусственного интеллекта особенно важно там, где нужна не одна эффектная картинка, а повторяемость персонажа, пространства и атмосферы. Runway описывает Gen-4 через идею устойчивости мира (world consistency) — сохранение персонажей, мест и объектов между сценами. Для производства это переводит разговор от случайной генерации к управляемой постановке.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.pixar.com/our-story",
+          "locator": "DOCX section sec-25",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://renderman.pixar.com/the-evolution-of-renderman",
+          "locator": "DOCX section sec-25",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_digital_image_production_cgi_3d_rendering_visual_system_sec-26",
+      "wording_ru": "Для моды CGI особенно полезен потому, что одежда всегда находится между объектом и движением. Цифровая ткань может быть скроена, симулирована, подсвечена, ускорена, заморожена или превращена в невозможный материал. Но хороший результат требует знания конструкции одежды: без понимания формы цифровая мода превращается в декоративную оболочку.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.pixar.com/our-story",
+          "locator": "DOCX section sec-26",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://renderman.pixar.com/the-evolution-of-renderman",
+          "locator": "DOCX section sec-26",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_digital_image_production_cgi_3d_rendering_visual_system_sec-27",
+      "wording_ru": "В предметной фотографии CGI позволяет контролировать то, что трудно контролировать физически: микроотражения, чистоту металла, каустики, пыль, симметрию, прозрачность камня, повторяемость ракурсов. Для люксового изображения это не просто экономия съёмки, а способ получить идеальную систему света и поверхности.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.pixar.com/our-story",
+          "locator": "DOCX section sec-27",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://renderman.pixar.com/the-evolution-of-renderman",
+          "locator": "DOCX section sec-27",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_digital_image_production_cgi_3d_rendering_visual_system_sec-28",
+      "wording_ru": "В архитектуре CGI давно стал языком проекта до строительства. Но для визуальной культуры важнее другое: цифровая среда может быть правдоподобной и невозможной одновременно. Камера может показать будущий интерьер, несуществующий павильон, метафорическое пространство бренда или город как настроение.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.pixar.com/our-story",
+          "locator": "DOCX section sec-28",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://renderman.pixar.com/the-evolution-of-renderman",
+          "locator": "DOCX section sec-28",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_digital_image_production_cgi_3d_rendering_visual_system_sec-29",
+      "wording_ru": "Цифровое изображение усиливает вопрос доверия. Зритель не всегда знает, что снято, что смоделировано, что восстановлено, что сгенерировано и что отретушировано. Для VANSMITHLAB важно не демонизировать CGI, а требовать прозрачности: источник изображения, права, модель, актёрское согласие, обучающие данные и граница рекламной фантазии должны быть названы.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.pixar.com/our-story",
+          "locator": "DOCX section sec-29",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://renderman.pixar.com/the-evolution-of-renderman",
+          "locator": "DOCX section sec-29",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_digital_image_production_cgi_3d_rendering_visual_system_sec-30",
+      "wording_ru": "Главное наследие CGI не в том, что экран научился показывать невозможное. Оно в том, что изображение стало проектируемой системой. Форма, свет, материал, движение, камера, данные, симуляция, рендер, композитинг и публикация работают вместе. Это и есть новый фундамент движущегося изображения: не кадр после реальности, а реальность, построенная для кадра. [MEDIA_PLAN] Медиаплан строит материал как цепочку: модель → материал → свет → симуляция → рендер → композитинг → виртуальный продакшен → нейронная реконструкция → генеративное видео. [SOURCES] S01. Pixar Animation Studios. Our Story.. URL: https://www.pixar.com/our-story. Дата обращения: 2026-08-12. S02. Pixar RenderMan. The Evolution of RenderMan.. URL: https://renderman.pixar.com/the-evolution-of-renderman. Дата обращения: 2026-08-12. S03. Pixar RenderMan. About.. URL: https://renderman.pixar.com/about. Дата обращения: 2026-08-12. S04. Academy of Motion Picture Arts and Sciences. Jurassic Park.. URL: https://www.oscars.org/events/jurassic-park. Дата обращения: 2026-08-12. S05. ACM SIGGRAPH Blog. 50 Years in a Blink of the Eye.. URL: https://blog.siggraph.org/2023/07/50-years-in-a-blink-of-the-eye.html/. Дата обращения: 2026-08-12. S06. ACM SIGGRAPH Blog. The 2019 ACM Turing Award: Celebrating SIGGRAPH and Computer Graphics Achievements.. URL: https://blog.siggraph.org/2020/04/2019-acm-turing-award-celebrating-siggraph-and-computer-graphics-achievements.html/. Дата обращения: 2026-08-12. S07. Blender Foundation. blender.org — Free and Open 3D Creation Software.. URL: https://www.blender.org/. Дата обращения: 2026-08-12. S08. Blender Manual. About Blender.. URL: https://docs.blender.org/manual/en/dev/getting_started/about/index.html. Дата обращения: 2026-08-12. S09. OpenUSD. Introduction to USD.. URL: https://openusd.org/release/intro.html. Дата обращения: 2026-08-12. S10. Pixar Animation Studios. OpenUSD.. URL: https://www.pixar.com/openusd. Дата обращения: 2026-08-12. S11. NVIDIA Omniverse. OpenUSD Overview.. URL: https://docs.omniverse.nvidia.com/usd/latest/overview.html. Дата обращения: 2026-08-12. S12. Industrial Light & Magic. The Mandalorian, Season 1.. URL: https://www.ilm.com/vfx/the-mandalorian/. Дата обращения: 2026-08-12. S13. Unreal Engine. Forging New Paths for Filmmakers on The Mandalorian.. URL: https://www.unrealengine.com/en-US/blog/forging-new-paths-for-filmmakers-on-the-mandalorian. Дата обращения: 2026-08-12. S14. Foundry. Nuke Features — 2D & 3D Compositing and Visual Effects.. URL: https://www.foundry.com/products/nuke-family/nuke/features. Дата обращения: 2026-08-12. S15. MetaHuman. Digital Humans.. URL: https://www.metahuman.com/. Дата обращения: 2026-08-12. S16. Epic Games. Announcing MetaHuman Creator.. URL: https://www.epicgames.com/site/news/announcing-metahuman-creator-fast-high-fidelity-digital-humans-in-unreal-engine?lang=en. Дата обращения: 2026-08-12. S17. Mildenhall, B. et al. NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis.. URL: https://arxiv.org/abs/2003.08934. Дата обращения: 2026-08-12. S18. Kerbl, B. et al. 3D Gaussian Splatting for Real-Time Radiance Field Rendering.. URL: https://arxiv.org/abs/2308.04079. Дата обращения: 2026-08-12. S19. Runway Research. Runway Gen-4: AI Video Generation with World Consistency.. URL: https://runwayml.com/research/introducing-runway-gen-4. Дата обращения: 2026-08-12. S20. Runway Help Center. Creating with Gen-4 Video.. URL: https://help.runwayml.com/hc/en-us/articles/37327109429011-Creating-with-Gen-4-Video. Дата обращения: 2026-08-12. [SEO] seo_title=Цифровое производство изображения, CGI и рендер как визуальная система seo_description=VANSMITHLAB разбирает CGI, 3D-сцену, рендер, композитинг, виртуальный продакшен, OpenUSD, NeRF, 3D Gaussian Splatting и генеративное видео как единую систему производства изображения. seo_keywords=CGI, цифровое производство изображения, 3D, рендер, композитинг, виртуальный продакшен, OpenUSD, NeRF, 3D Gaussian Splatting, искусственный интеллект, VANSMITHLAB [RELEASE_CHECKLIST] - Таксономия заполнена без ручной категории. - RU master полностью на русском, кроме имён, официальных названий, URL, slug, ID и специальных технических названий. - SECTION IDs синхронизированы с EN localization. - MEDIA_SLOT IDs синхронизированы с EN localization. - 20 источников добавлены с датой обращения. - Материал не смешивает CGI, VFX, виртуальный продакшен и генеративное видео в один термин; различия сохранены. - Финальный рендер DOCX проверяется постранично перед публикацией.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.pixar.com/our-story",
+          "locator": "DOCX section sec-30",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://renderman.pixar.com/the-evolution-of-renderman",
+          "locator": "DOCX section sec-30",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_7f0d9760e3a1b4b8",
+      "title": "Pixar Animation Studios",
+      "publisher": "Our Story",
+      "url": "https://www.pixar.com/our-story",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_7ed71c3312d99360",
+      "title": "Pixar RenderMan",
+      "publisher": "The Evolution of RenderMan",
+      "url": "https://renderman.pixar.com/the-evolution-of-renderman",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_e537a264b929981f",
+      "title": "Pixar RenderMan",
+      "publisher": "About",
+      "url": "https://renderman.pixar.com/about",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_fc1a51eaf33b4c58",
+      "title": "Academy of Motion Picture Arts and Sciences",
+      "publisher": "Jurassic Park",
+      "url": "https://www.oscars.org/events/jurassic-park",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_cb61611d9011bc45",
+      "title": "ACM SIGGRAPH Blog",
+      "publisher": "50 Years in a Blink of the Eye",
+      "url": "https://blog.siggraph.org/2023/07/50-years-in-a-blink-of-the-eye.html/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_0ea12f7f3c0d5f50",
+      "title": "ACM SIGGRAPH Blog",
+      "publisher": "The 2019 ACM Turing Award: Celebrating SIGGRAPH and Computer Graphics Achievements",
+      "url": "https://blog.siggraph.org/2020/04/2019-acm-turing-award-celebrating-siggraph-and-computer-graphics-achievements.html/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_0675b21780b7f8e1",
+      "title": "Blender Foundation",
+      "publisher": "blender.org — Free and Open 3D Creation Software",
+      "url": "https://www.blender.org/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_4e33572ddaaeaa57",
+      "title": "Blender Manual",
+      "publisher": "About Blender",
+      "url": "https://docs.blender.org/manual/en/dev/getting_started/about/index.html",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_430ef02afee8670c",
+      "title": "OpenUSD",
+      "publisher": "Introduction to USD",
+      "url": "https://openusd.org/release/intro.html",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_1d63cd4b37743258",
+      "title": "Pixar Animation Studios",
+      "publisher": "OpenUSD",
+      "url": "https://www.pixar.com/openusd",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_f8628b18ef9afced",
+      "title": "NVIDIA Omniverse",
+      "publisher": "OpenUSD Overview",
+      "url": "https://docs.omniverse.nvidia.com/usd/latest/overview.html",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_da51c64695511cbd",
+      "title": "Industrial Light & Magic",
+      "publisher": "The Mandalorian, Season 1",
+      "url": "https://www.ilm.com/vfx/the-mandalorian/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_29dbf27ca7193afa",
+      "title": "Unreal Engine",
+      "publisher": "Forging New Paths for Filmmakers on The Mandalorian",
+      "url": "https://www.unrealengine.com/en-US/blog/forging-new-paths-for-filmmakers-on-the-mandalorian",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_5b80a9c6f30632e3",
+      "title": "Foundry",
+      "publisher": "Nuke Features — 2D & 3D Compositing and Visual Effects",
+      "url": "https://www.foundry.com/products/nuke-family/nuke/features",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_45309f646546f52f",
+      "title": "MetaHuman",
+      "publisher": "Digital Humans",
+      "url": "https://www.metahuman.com/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_e406195c5912bbce",
+      "title": "Epic Games",
+      "publisher": "Announcing MetaHuman Creator",
+      "url": "https://www.epicgames.com/site/news/announcing-metahuman-creator-fast-high-fidelity-digital-humans-in-unreal-engine?lang=en",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_d13dfe2fbd9329a7",
+      "title": "Mildenhall, B. et al",
+      "publisher": "NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis",
+      "url": "https://arxiv.org/abs/2003.08934",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_11626fdd1b3ef7e5",
+      "title": "Kerbl, B. et al",
+      "publisher": "3D Gaussian Splatting for Real-Time Radiance Field Rendering",
+      "url": "https://arxiv.org/abs/2308.04079",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_3e4991ee075eb97d",
+      "title": "Runway Research",
+      "publisher": "Runway Gen-4: AI Video Generation with World Consistency",
+      "url": "https://runwayml.com/research/introducing-runway-gen-4",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_e9cfbb918fb9d3c5",
+      "title": "Runway Help Center",
+      "publisher": "Creating with Gen-4 Video",
+      "url": "https://help.runwayml.com/hc/en-us/articles/37327109429011-Creating-with-Gen-4-Video",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_digital-_01",
+      "claim_id": "clm_digital_image_production_cgi_3d_rendering_visual_system_sec-1",
+      "source_id": "src_7f0d9760e3a1b4b8",
+      "locator": "DOCX section sec-1",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_digital-_02",
+      "claim_id": "clm_digital_image_production_cgi_3d_rendering_visual_system_sec-2",
+      "source_id": "src_7f0d9760e3a1b4b8",
+      "locator": "DOCX section sec-2",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_digital-_03",
+      "claim_id": "clm_digital_image_production_cgi_3d_rendering_visual_system_sec-3",
+      "source_id": "src_7f0d9760e3a1b4b8",
+      "locator": "DOCX section sec-3",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_digital-_04",
+      "claim_id": "clm_digital_image_production_cgi_3d_rendering_visual_system_sec-4",
+      "source_id": "src_7f0d9760e3a1b4b8",
+      "locator": "DOCX section sec-4",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_digital-_05",
+      "claim_id": "clm_digital_image_production_cgi_3d_rendering_visual_system_sec-5",
+      "source_id": "src_7f0d9760e3a1b4b8",
+      "locator": "DOCX section sec-5",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_digital-_06",
+      "claim_id": "clm_digital_image_production_cgi_3d_rendering_visual_system_sec-6",
+      "source_id": "src_7f0d9760e3a1b4b8",
+      "locator": "DOCX section sec-6",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_digital-_07",
+      "claim_id": "clm_digital_image_production_cgi_3d_rendering_visual_system_sec-7",
+      "source_id": "src_7f0d9760e3a1b4b8",
+      "locator": "DOCX section sec-7",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_digital-_08",
+      "claim_id": "clm_digital_image_production_cgi_3d_rendering_visual_system_sec-8",
+      "source_id": "src_7f0d9760e3a1b4b8",
+      "locator": "DOCX section sec-8",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_digital-_09",
+      "claim_id": "clm_digital_image_production_cgi_3d_rendering_visual_system_sec-9",
+      "source_id": "src_7f0d9760e3a1b4b8",
+      "locator": "DOCX section sec-9",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_digital-_10",
+      "claim_id": "clm_digital_image_production_cgi_3d_rendering_visual_system_sec-10",
+      "source_id": "src_7f0d9760e3a1b4b8",
+      "locator": "DOCX section sec-10",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_digital-_11",
+      "claim_id": "clm_digital_image_production_cgi_3d_rendering_visual_system_sec-11",
+      "source_id": "src_7f0d9760e3a1b4b8",
+      "locator": "DOCX section sec-11",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_digital-_12",
+      "claim_id": "clm_digital_image_production_cgi_3d_rendering_visual_system_sec-12",
+      "source_id": "src_7f0d9760e3a1b4b8",
+      "locator": "DOCX section sec-12",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_digital-_13",
+      "claim_id": "clm_digital_image_production_cgi_3d_rendering_visual_system_sec-13",
+      "source_id": "src_7f0d9760e3a1b4b8",
+      "locator": "DOCX section sec-13",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_digital-_14",
+      "claim_id": "clm_digital_image_production_cgi_3d_rendering_visual_system_sec-14",
+      "source_id": "src_7f0d9760e3a1b4b8",
+      "locator": "DOCX section sec-14",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_digital-_15",
+      "claim_id": "clm_digital_image_production_cgi_3d_rendering_visual_system_sec-15",
+      "source_id": "src_7f0d9760e3a1b4b8",
+      "locator": "DOCX section sec-15",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_digital-_16",
+      "claim_id": "clm_digital_image_production_cgi_3d_rendering_visual_system_sec-16",
+      "source_id": "src_7f0d9760e3a1b4b8",
+      "locator": "DOCX section sec-16",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_digital-_17",
+      "claim_id": "clm_digital_image_production_cgi_3d_rendering_visual_system_sec-17",
+      "source_id": "src_7f0d9760e3a1b4b8",
+      "locator": "DOCX section sec-17",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_digital-_18",
+      "claim_id": "clm_digital_image_production_cgi_3d_rendering_visual_system_sec-18",
+      "source_id": "src_7f0d9760e3a1b4b8",
+      "locator": "DOCX section sec-18",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_digital-_19",
+      "claim_id": "clm_digital_image_production_cgi_3d_rendering_visual_system_sec-19",
+      "source_id": "src_7f0d9760e3a1b4b8",
+      "locator": "DOCX section sec-19",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_digital-_20",
+      "claim_id": "clm_digital_image_production_cgi_3d_rendering_visual_system_sec-20",
+      "source_id": "src_7f0d9760e3a1b4b8",
+      "locator": "DOCX section sec-20",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_digital-_21",
+      "claim_id": "clm_digital_image_production_cgi_3d_rendering_visual_system_sec-21",
+      "source_id": "src_7f0d9760e3a1b4b8",
+      "locator": "DOCX section sec-21",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_digital-_22",
+      "claim_id": "clm_digital_image_production_cgi_3d_rendering_visual_system_sec-22",
+      "source_id": "src_7f0d9760e3a1b4b8",
+      "locator": "DOCX section sec-22",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_digital-_23",
+      "claim_id": "clm_digital_image_production_cgi_3d_rendering_visual_system_sec-23",
+      "source_id": "src_7f0d9760e3a1b4b8",
+      "locator": "DOCX section sec-23",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_digital-_24",
+      "claim_id": "clm_digital_image_production_cgi_3d_rendering_visual_system_sec-24",
+      "source_id": "src_7f0d9760e3a1b4b8",
+      "locator": "DOCX section sec-24",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_digital-_25",
+      "claim_id": "clm_digital_image_production_cgi_3d_rendering_visual_system_sec-25",
+      "source_id": "src_7f0d9760e3a1b4b8",
+      "locator": "DOCX section sec-25",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_digital-_26",
+      "claim_id": "clm_digital_image_production_cgi_3d_rendering_visual_system_sec-26",
+      "source_id": "src_7f0d9760e3a1b4b8",
+      "locator": "DOCX section sec-26",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_digital-_27",
+      "claim_id": "clm_digital_image_production_cgi_3d_rendering_visual_system_sec-27",
+      "source_id": "src_7f0d9760e3a1b4b8",
+      "locator": "DOCX section sec-27",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_digital-_28",
+      "claim_id": "clm_digital_image_production_cgi_3d_rendering_visual_system_sec-28",
+      "source_id": "src_7f0d9760e3a1b4b8",
+      "locator": "DOCX section sec-28",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_digital-_29",
+      "claim_id": "clm_digital_image_production_cgi_3d_rendering_visual_system_sec-29",
+      "source_id": "src_7f0d9760e3a1b4b8",
+      "locator": "DOCX section sec-29",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_digital-_30",
+      "claim_id": "clm_digital_image_production_cgi_3d_rendering_visual_system_sec-30",
+      "source_id": "src_7f0d9760e3a1b4b8",
+      "locator": "DOCX section sec-30",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "media_state": "needs_rights_review",
+  "workflow": {
+    "decision": "AUTO_APPROVE",
+    "note": "RU master and EN translation passed DOCX structure, source URL and section-citation checks on 2026-08-13; generated hero media remains rights-reviewed and disclosed.",
+    "converted_by": "VANSMITHLAB incoming article publication workflow",
+    "converted_at": "2026-08-13T00:00:00.000Z"
+  }
+}

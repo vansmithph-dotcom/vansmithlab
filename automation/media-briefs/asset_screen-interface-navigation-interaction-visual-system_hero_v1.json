@@ -1,0 +1,38 @@
+{
+  "asset_id": "asset_screen-interface-navigation-interaction-visual-system_hero_v1",
+  "primary_object_id": "obj_screen_interface_20260813",
+  "kind": "image",
+  "origin": "ai_illustration",
+  "educational_purpose": "Original editorial illustration that explains the article's visual-system thesis; it is not documentary evidence.",
+  "must_not_imply": [
+    "A documentary photograph of a real event or interface",
+    "An image made by or endorsed by a named brand or artist"
+  ],
+  "rights": {
+    "status": "generated_reviewed",
+    "disclosure": "Original AI-generated editorial illustration for VANSMITHLAB; not documentary evidence.",
+    "rights_basis": "Generated in-session without reference images, logos or copied identifiable work.",
+    "third_party_marks": "None"
+  },
+  "accessibility": {
+    "alt_ru": "Экранный интерфейс как архитектурная сцена: курсор, окна, жест касания и пространственная навигация собраны в одну схему.",
+    "alt_en": "Screen interface as an architectural scene: cursor, windows, touch gesture and spatial navigation assembled as one diagram.",
+    "caption_ru": "Экранный интерфейс как архитектурная сцена: курсор, окна, жест касания и пространственная навигация собраны в одну схему.",
+    "caption_en": "Screen interface as an architectural scene: cursor, windows, touch gesture and spatial navigation assembled as one diagram."
+  },
+  "creator": "OpenAI image generation · directed and reviewed by VANSMITHLAB",
+  "created_at": "2026-08-13",
+  "asset_path": "public/images/articles/screen-interface-navigation-interaction-visual-system-hero-v1.webp",
+  "file": {
+    "path": "/images/articles/screen-interface-navigation-interaction-visual-system-hero-v1.webp",
+    "sha256": "2e656b3be5f6a54510721e08594ad6d430d932f983276cc14205aec3a0b61781",
+    "width": 1536,
+    "height": 1024
+  },
+  "generation_prompt_class": "Original fictional editorial visual for screen-interface-navigation-interaction-visual-system",
+  "rights_state": "original",
+  "licence_or_permission": "Original VANSMITHLAB AI editorial illustration; no third-party images, logos or trademarks.",
+  "source_url": "",
+  "creator_or_credit": "VANSMITHLAB editorial visual system",
+  "disclosure": "VANSMITHLAB · AI-иллюстрация, 2026"
+}

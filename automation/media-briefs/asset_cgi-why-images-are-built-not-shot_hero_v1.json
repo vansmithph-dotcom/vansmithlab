@@ -1,0 +1,57 @@
+{
+  "asset_id": "asset_cgi-why-images-are-built-not-shot_hero_v1",
+  "primary_object_id": "obj_cgi_why_images_are_built_not_shot_20260813",
+  "kind": "diagram",
+  "origin": "editorial_diagram",
+  "locale": "bilingual",
+  "author_supplied_reference": {
+    "reference_url": "https://openusd.org/",
+    "asset_url": "",
+    "creator_or_rightsholder": "VANSMITHLAB",
+    "title_or_subject": "Схема: камера → геометрия → материал → свет → композитинг → реконструкция → генеративный слой",
+    "date_or_context": "Original explanatory visual, 2026",
+    "placement": "after-short-answer",
+    "supports_claims_or_examples": [
+      "editorial-thesis",
+      "sec-2",
+      "sec-11"
+    ],
+    "why_this_visual_matters": "Показывает главный аргумент статьи: современный кадр может быть результатом нескольких производственных режимов, а не одной съёмки.",
+    "suggested_alt_text_ru": "Схема показывает, как современное изображение собирается из камеры, цифровой геометрии, материалов, света, композитинга, реконструкции и генеративного слоя.",
+    "suggested_alt_text_en": "Diagram showing how a contemporary image is assembled from camera capture, digital geometry, materials, lighting, compositing, reconstruction, and a generative layer.",
+    "suggested_caption_ru": "Оригинальная схема VANSMITHLAB: от снятого кадра к проектируемой сцене. Не документальное свидетельство.",
+    "suggested_caption_en": "Original VANSMITHLAB diagram: from captured frame to designed scene. Non-documentary.",
+    "rights_basis_from_author": "Original VANSMITHLAB editorial diagram; no third-party image copied."
+  },
+  "educational_purpose": "Makes the article’s central argument visible: a contemporary frame can result from several production regimes rather than one shoot.",
+  "must_not_imply": [
+    "A documentary production still",
+    "Endorsement by an organization or software platform"
+  ],
+  "rights": {
+    "status": "editorial_basis_recorded",
+    "rights_basis": "Original VANSMITHLAB editorial diagram; no third-party visual asset embedded.",
+    "third_party_marks": "None"
+  },
+  "accessibility": {
+    "alt_ru": "Схема показывает, как современное изображение собирается из камеры, цифровой геометрии, материалов, света, композитинга, реконструкции и генеративного слоя.",
+    "alt_en": "Diagram showing how a contemporary image is assembled from camera capture, digital geometry, materials, lighting, compositing, reconstruction, and a generative layer.",
+    "caption_ru": "Оригинальная схема VANSMITHLAB: от снятого кадра к проектируемой сцене. Не документальное свидетельство.",
+    "caption_en": "Original VANSMITHLAB diagram: from captured frame to designed scene. Non-documentary."
+  },
+  "creator": "VANSMITHLAB editorial visual system",
+  "created_at": "2026-08-13",
+  "asset_path": "public/images/articles/cgi-why-images-are-built-not-shot/hero-v1.svg",
+  "file": {
+    "path": "/images/articles/cgi-why-images-are-built-not-shot/hero-v1.svg",
+    "sha256": "a27f045421a717b3e331e1dcfba0ad95a86a4f281747cd2d2a110f6b7c54c485",
+    "width": 1600,
+    "height": 900
+  },
+  "source_url": "https://openusd.org/",
+  "rights_state": "editorial_basis_recorded",
+  "licence": "Original VANSMITHLAB editorial diagram; no third-party image copied",
+  "licence_or_permission": "Original VANSMITHLAB editorial diagram; no third-party image copied.",
+  "creator_or_credit": "VANSMITHLAB",
+  "disclosure": "Редакционная диаграмма VANSMITHLAB."
+}

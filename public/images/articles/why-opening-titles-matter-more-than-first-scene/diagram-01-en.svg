@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img">
+<rect width="1600" height="900" fill="#f2eee6"/>
+<defs><pattern id="grid" width="80" height="80" patternUnits="userSpaceOnUse"><path d="M80 0H0V80" fill="none" stroke="#ded7ca" stroke-width="1"/></pattern></defs>
+<rect x="40" y="40" width="1520" height="820" fill="url(#grid)" opacity=".46"/>
+<rect x="40" y="40" width="1520" height="820" rx="0" fill="none" stroke="#171716" stroke-width="2"/>
+<text x="78" y="96" fill="#c84a31" text-anchor="start" font-family="monospace" font-size="15" font-weight="500" letter-spacing="2">VANSMITHLAB / ANALYSIS / 01</text>
+<text x="78" y="170" fill="#171716" text-anchor="start" font-family="Georgia" font-size="48" font-weight="500" letter-spacing="0">PSYCHO: THE CUT BEFORE THE STORY</text>
+<line x1="78" y1="202" x2="1522" y2="202" stroke="#171716" stroke-width="2"/>
+<text x="78" y="824" fill="#777167" text-anchor="start" font-family="Arial" font-size="19" font-weight="400" letter-spacing="0">Saul Bass makes the viewer feel the cut and the nerve before the first scene</text>
+<rect x="105" y="290" width="285" height="300" rx="0" fill="#fbf8f1" stroke="#171716" stroke-width="2"/>
+<text x="247" y="640" fill="#171716" text-anchor="middle" font-family="monospace" font-size="17" font-weight="700" letter-spacing="0">SLASHES</text>
+<line x1="390" y1="440" x2="460" y2="440" stroke="#c84a31" stroke-width="4"/>
+<path d="M444 426 L460 440 L444 454" fill="none" stroke="#c84a31" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="465" y="290" width="285" height="300" rx="0" fill="#ead3ca" stroke="#171716" stroke-width="2"/>
+<text x="607" y="640" fill="#171716" text-anchor="middle" font-family="monospace" font-size="17" font-weight="700" letter-spacing="0">BROKEN LETTERS</text>
+<line x1="750" y1="440" x2="820" y2="440" stroke="#c84a31" stroke-width="4"/>
+<path d="M804 426 L820 440 L804 454" fill="none" stroke="#c84a31" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="825" y="290" width="285" height="300" rx="0" fill="#fbf8f1" stroke="#171716" stroke-width="2"/>
+<text x="967" y="640" fill="#171716" text-anchor="middle" font-family="monospace" font-size="17" font-weight="700" letter-spacing="0">NAME ASSEMBLY</text>
+<line x1="1110" y1="440" x2="1180" y2="440" stroke="#c84a31" stroke-width="4"/>
+<path d="M1164 426 L1180 440 L1164 454" fill="none" stroke="#c84a31" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="1185" y="290" width="285" height="300" rx="0" fill="#ead3ca" stroke="#171716" stroke-width="2"/>
+<text x="1327" y="640" fill="#171716" text-anchor="middle" font-family="monospace" font-size="17" font-weight="700" letter-spacing="0">SUSPENSE</text>
+<line x1="170" y1="330" x2="320" y2="470" stroke="#171716" stroke-width="5"/>
+<line x1="170" y1="470" x2="320" y2="330" stroke="#c84a31" stroke-width="5"/>
+<line x1="530" y1="330" x2="680" y2="470" stroke="#171716" stroke-width="5"/>
+<line x1="530" y1="470" x2="680" y2="330" stroke="#c84a31" stroke-width="5"/>
+<line x1="890" y1="330" x2="1040" y2="470" stroke="#171716" stroke-width="5"/>
+<line x1="890" y1="470" x2="1040" y2="330" stroke="#c84a31" stroke-width="5"/>
+<line x1="1250" y1="330" x2="1400" y2="470" stroke="#171716" stroke-width="5"/>
+<line x1="1250" y1="470" x2="1400" y2="330" stroke="#c84a31" stroke-width="5"/>
+</svg>

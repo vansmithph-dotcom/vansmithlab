@@ -3,7 +3,7 @@
   "primary_object_id": "",
   "content_release_id": "cnt_efd762e1e89d8e2b",
   "kind": "image",
-  "origin": "ai_illustration",
+  "origin": "editorial",
   "locale": "multilingual",
   "educational_purpose": "Visualize Klein's method as the street brought into fashion — coarse grain, wide-angle proximity and a cinematic sense of the city — without reproducing protected photographs.",
   "may_depict": [
@@ -22,15 +22,25 @@
     "third_party_marks": "No logo, wordmark or recognisable branded asset."
   },
   "accessibility": {
-    "alt_text_ru": "Редакционная AI-иллюстрация: плотная улица через широкоугольный объектив, грубое зерно и следы разметки контрольного листа.",
-    "alt_text_en": "Editorial AI illustration: a crowded street through a wide lens, coarse grain and contact-sheet marks.",
-    "caption_ru": "Город, зерно, мода и кино: визуализация метода Уильяма Кляйна.",
-    "caption_en": "City, grain, fashion and cinema: a visualization of William Klein's method."
+    "alt_text_ru": "Редакционная схема метода William Klein: городской масштаб, зерно, движение и связь фотографии с кино.",
+    "alt_text_en": "Editorial diagram of William Klein's method: urban scale, grain, movement and the link between photography and film.",
+    "caption_ru": "Городской кадр становится быстрым, резким и кинематографическим способом мышления.",
+    "caption_en": "The urban frame becomes a fast, sharp and cinematic way of thinking."
   },
   "creator": "OpenAI image generation · directed and reviewed by VANSMITHLAB",
   "created_at": "2026-08-12",
-  "asset_path": "public/images/glossary/photographers/william-klein-city-grain-fashion-cinema-hero-v1-card.webp",
+  "asset_path": "public/images/glossary/photographers/william-klein-city-grain-fashion-cinema-hero-v1-card.svg",
   "generation_prompt_class": "original fictional editorial visual for william-klein-city-grain-fashion-cinema",
-  "workflow_run_id": "run_20260812_art_directors_photographers",
-  "content_sha256": ""
+  "workflow_run_id": "run_20260812_media_rights_repair",
+  "content_sha256": "",
+  "content_release_ids": [
+    "cnt_efd762e1e89d8e2b"
+  ],
+  "rights_state": "original",
+  "licence_or_permission": "Original VANSMITHLAB SVG editorial visual; no third-party images, logos or trademarks.",
+  "source_url": "",
+  "creator_or_credit": "VANSMITHLAB editorial visual system",
+  "file_storage_key": "public/images/glossary/photographers/william-klein-city-grain-fashion-cinema-hero-v1-card.svg",
+  "content_hash": "186899181e912b8b4f94d6968dec8b4b66bfe0ce82706ba712022097d308ffee",
+  "disclosure": "VANSMITHLAB · original editorial visual, 2026"
 }

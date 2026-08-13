@@ -1,4 +1,4 @@
-# Louis Vuitton: History of the Fashion House
+# The History of the Louis Vuitton Fashion House 🇫🇷
 
 *How a trunk-making workshop grew into a global house of fashion, art, design and cultural influence*
 

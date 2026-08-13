@@ -2,7 +2,7 @@
 
 *Infinity, repetition and the disappearance of the self*
 
-Kusama turned repetition into a method: the net, the dot, the soft form and the mirror simultaneously expand space and dissolve the individual body. Her art exists between private compulsion, the avant-garde, mass culture and the global economy of spectacle.
+> Editorial voice: VANSMITHLAB Type: Encyclopedia / art-historical and visual-culture material Date of preparation and last review: 8 August 2026 Status: detailed editorial document / draft for evidence review Verification state: partially_verified / Confidence: 0.97 Language: en / source_revision: 1 / route: /en/glossary/artists/yayoi-kusama Kusama turned repetition into a method: the net, the dot, the soft form and the mirror simultaneously expand space and dissolve the individual body. Her art exists between private compulsion, the avant-garde, mass culture and the global economy of spectacle.
 
 ## Editorial thesis
 

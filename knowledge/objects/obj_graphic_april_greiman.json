@@ -1,0 +1,999 @@
+{
+  "id": "obj_graphic_april_greiman",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Эйприл Грейман",
+  "title_en": "April Greiman",
+  "slug_ru": "april-greiman-hybrid-imagery-digital-space-design-beyond-page",
+  "slug_en": "april-greiman-hybrid-imagery-digital-space-design-beyond-page",
+  "summary_ru": "Гибридное изображение, цифровое пространство и дизайн за пределами страницы",
+  "summary_en": "Hybrid Imagery, Digital Space and Design Beyond the Page",
+  "verification_state": "verified",
+  "confidence_score": 0.86,
+  "created_at": "2026-08-12T00:00:00.000Z",
+  "updated_at": "2026-08-12T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_ag_001",
+      "wording_ru": "Эйприл Грейман родилась в 1948 году и училась в Kansas City Art Institute в 1966–1970 годах. Cooper Hewitt фиксирует этот фундамент до её поездки в Швейцарию. Важно, что её цифровая революция началась не с отсутствия дисциплины, а с сильной подготовки в типографике, композиции и печатной культуре. Позднее именно поэтому Greiman могла нарушать модернистские правила осознанно: она понимала, какую систему растягивает, а не просто отвергала её.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.cooperhewitt.org/design-topics/women-in-design/april-greiman/",
+          "locator": "DOCX section sec-1",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.cooperhewitt.org/2017/08/30/26363/",
+          "locator": "DOCX section sec-1",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_ag_002",
+      "wording_ru": "В 1970–1971 годах Greiman продолжила обучение в Базеле у Armin Hofmann и Wolfgang Weingart. Cooper Hewitt связывает эту среду с её переходом к более сложной, постмодернистской графике. Weingart показал, что швейцарская система может быть не только строгой сеткой: буквы можно растягивать, разрывать, ставить под углом и превращать в пространственный материал. Greiman перенесла эту свободу в американский контекст и затем соединила её с электронными медиа.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.cooperhewitt.org/design-topics/women-in-design/april-greiman/",
+          "locator": "DOCX section sec-2",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.cooperhewitt.org/2017/08/30/26363/",
+          "locator": "DOCX section sec-2",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_ag_003",
+      "wording_ru": "Термин New Wave часто используется как визуальная этикетка, но в случае Greiman он полезнее как описание изменения логики. Порядок остаётся, однако перестаёт быть фронтальным и единственным. Диагонали, слои, фотография и разный масштаб создают несколько маршрутов чтения одновременно. Это уже не отказ от системы, а система, допускающая неоднозначность, время и движение взгляда.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.aprilgreiman.com/does-it-make-sense",
+          "locator": "DOCX section sec-3",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.aprilgreiman.com/public-art/walk-earth-talk-poets-walk",
+          "locator": "DOCX section sec-3",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_ag_004",
+      "wording_ru": "В 1976 году Greiman переехала в Лос-Анджелес и открыла собственную студию. Cooper Hewitt называет её одной из ведущих фигур формирующегося дизайна New Wave в США. Западное побережье дало ей среду, где графический дизайн свободно пересекался с архитектурой, фотографией, видео, кино и экспериментальной культурой. География здесь важна: её зрелый язык трудно представить без пространства и света Лос-Анджелеса.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.cooperhewitt.org/design-topics/women-in-design/april-greiman/",
+          "locator": "DOCX section sec-4",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.cooperhewitt.org/2017/08/30/26363/",
+          "locator": "DOCX section sec-4",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_ag_005",
+      "wording_ru": "Работа с фотографом Jayme Odgers стала одной из ключевых связок раннего периода. MoMA хранит совместные проекты Greiman и Odgers, включая материалы CalArts и официальный постер Олимпиады 1984 года. В CalArts Greiman в 1982–1984 годах руководила Visual Communications Program, а фотография и видео становились не иллюстрацией к типографике, а равноправными слоями композиции.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.aprilgreiman.com/does-it-make-sense",
+          "locator": "DOCX section sec-5",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.aprilgreiman.com/public-art/walk-earth-talk-poets-walk",
+          "locator": "DOCX section sec-5",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_ag_006",
+      "wording_ru": "Greiman описывает двумерную страницу как поле, которое можно мысленно расширить по оси Z. Отсюда название её студии Made in Space и постоянное стремление заставить текст, изображение и цвет ощущаться как объекты в пространстве. Даже печатный лист у неё часто работает как сцена: элементы приближаются, удаляются, пересекаются и создают иллюзию глубины.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.aprilgreiman.com/does-it-make-sense",
+          "locator": "DOCX section sec-6",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.aprilgreiman.com/public-art/walk-earth-talk-poets-walk",
+          "locator": "DOCX section sec-6",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_ag_007",
+      "wording_ru": "До появления Macintosh в её студии уже существовали фотографические коллажи, видеокадр и электронная обработка изображения. Страница Does It Make Sense? на официальном сайте подчёркивает, что цифровая работа выросла из более раннего интереса к фотографическому коллажу и видео. Поэтому компьютер не создал её язык с нуля; он дал скорость и новый тип пластики уже существовавшему пространственному мышлению.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.aprilgreiman.com/does-it-make-sense",
+          "locator": "DOCX section sec-7",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://collections.lacma.org/object/194922",
+          "locator": "DOCX section sec-7",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_ag_008",
+      "wording_ru": "В 1984 году Greiman купила первый Macintosh. MoMA в выставке Hyundai Card First Look отмечает этот момент как начало долгого сотрудничества дизайнера с цифровым инструментом. Для неё машина была не способом быстрее повторить ручную композицию, а средой, которая предлагала неожиданные преобразования: масштабирование, пикселизацию, слои и комбинации, которые сложно было заранее нарисовать.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.aprilgreiman.com/does-it-make-sense",
+          "locator": "DOCX section sec-8",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.aprilgreiman.com/public-art/walk-earth-talk-poets-walk",
+          "locator": "DOCX section sec-8",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_ag_009",
+      "wording_ru": "Официальный постер Los Angeles 1984 Olympic Games, созданный Greiman вместе с Jayme Odgers, показывает переход между аналоговым и цифровым периодами. MoMA сохраняет эту работу в своей коллекции. Изображение не строится вокруг одного спортивного символа: оно соединяет фигуру, архитектурную геометрию, фотографическую среду и ощущение калифорнийского света. Важно сохранять совместное авторство, а не превращать проект в одиночный миф Greiman.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.aprilgreiman.com/does-it-make-sense",
+          "locator": "DOCX section sec-9",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.aprilgreiman.com/public-art/walk-earth-talk-poets-walk",
+          "locator": "DOCX section sec-9",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_ag_010",
+      "wording_ru": "Постер Your Turn, My Turn 1983 года был создан для междисциплинарного симпозиума о роли художников, дизайнеров и архитекторов. Cooper Hewitt подчёркивает его смешение традиционных форм с современными инструментами. Здесь уже видна будущая логика Greiman: смысл рождается не из строгой иерархии, а из столкновения разных систем — фотографии, типографики, космического изображения, цвета и диагональной структуры.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.cooperhewitt.org/design-topics/women-in-design/april-greiman/",
+          "locator": "DOCX section sec-10",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.cooperhewitt.org/2017/08/30/26363/",
+          "locator": "DOCX section sec-10",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_ag_011",
+      "wording_ru": "В 1986 году Walker Art Center пригласил Greiman создать Design Quarterly #133. Вместо привычных 32 страниц она превратила выпуск в огромный двусторонний fold-out, складывающийся обратно до журнального формата. Это важный поворот: публикация становится не контейнером для серии страниц, а единым физическим объектом, который надо раскрывать телом и пространством.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.aprilgreiman.com/books/hybrid-imagery",
+          "locator": "DOCX section sec-11",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.moma.org/collection/works/172729",
+          "locator": "DOCX section sec-11",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_ag_012",
+      "wording_ru": "Does It Make Sense? использует оцифрованный автопортрет Greiman в натуральном масштабе. MoMA описывает работу как сочетание пикселизированного видео, текста и заимствованных изображений, а LACMA хранит собственный экземпляр. Тело здесь не просто провокационный образ. Оно превращается в измерительную шкалу между человеком и машиной: цифровой инструмент буквально разбирает и пересобирает присутствие автора.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.aprilgreiman.com/does-it-make-sense",
+          "locator": "DOCX section sec-12",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://collections.lacma.org/object/194922",
+          "locator": "DOCX section sec-12",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_ag_013",
+      "wording_ru": "Создание работы упёрлось в реальные ограничения раннего Macintosh: объём данных, медленную печать и системные ошибки. Greiman на своём сайте вспоминает, как части изображения исчезали из файла и как ассистент Ron Romero помог заставить систему вывести финальную композицию. Ограничение не скрывается. Оно становится частью истории работы и показывает, что ранний цифровой дизайн был не гладкой автоматизацией, а постоянным техническим экспериментом.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.aprilgreiman.com/does-it-make-sense",
+          "locator": "DOCX section sec-13",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.aprilgreiman.com/public-art/walk-earth-talk-poets-walk",
+          "locator": "DOCX section sec-13",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_ag_014",
+      "wording_ru": "В интервью и аудиоматериалах MoMA Greiman формулирует компьютер как нечто большее, чем «ещё один карандаш»: инструмент мог отвечать неожиданным результатом и становиться соавторским. Это отличает её позицию от простого технологического оптимизма. Ценность компьютера не в новизне интерфейса, а в том, что он расширяет диапазон решений и заставляет автора переосмысливать собственную идею.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.aprilgreiman.com/does-it-make-sense",
+          "locator": "DOCX section sec-14",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.aprilgreiman.com/public-art/walk-earth-talk-poets-walk",
+          "locator": "DOCX section sec-14",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_ag_015",
+      "wording_ru": "В книге Hybrid Imagery: The Fusion of Technology and Graphic Design Greiman дала имя собственному процессу. Официальное описание делит его на layering, video, Macintosh, hybrid imagery и cycle of discovery. Термин важен потому, что отказывается от бинарности «ручное или цифровое». Для Greiman изображение может одновременно нести след фотографии, печати, видео, компьютерного расчёта и физического материала.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.aprilgreiman.com/books/hybrid-imagery",
+          "locator": "DOCX section sec-15",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://unframed.lacma.org/node/3829",
+          "locator": "DOCX section sec-15",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_ag_016",
+      "wording_ru": "Диагонали, неожиданные масштабы, насыщенный цвет и плавающая типографика стали узнаваемой частью её языка. Но это не декоративная формула. Cooper Hewitt связывает её подход с превращением страницы в трёхмерное пространство. Приём работает, когда помогает показать время, движение и многослойность содержания. Если повторять его без этой логики, получится лишь стилизация под 1980-е.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.cooperhewitt.org/2017/08/30/26363/",
+          "locator": "DOCX section sec-16",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.cooperhewitt.org/2016/03/31/mind-and-body/",
+          "locator": "DOCX section sec-16",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_ag_017",
+      "wording_ru": "Pacific Wave для Museo Fortuny в 1987 году соединяет космическое изображение, яркий цвет, диагональную типографику и абстрактные формы. LACMA приобрёл работу и использовал её как ключевой образ выставки Digital Witness. Это один из лучших примеров того, как цифровая эстетика Greiman перестаёт выглядеть «технической»: она становится культурным языком Лос-Анджелеса и международного постмодернизма.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.lacma.org/art/exhibition/digital-witness-revolutions-design-photography-and-film",
+          "locator": "DOCX section sec-17",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://collections.lacma.org/node/2302580",
+          "locator": "DOCX section sec-17",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_ag_018",
+      "wording_ru": "Workspace 1987 года, сегодня в коллекции MoMA, превращает рабочую среду в графическую композицию. Название важно: студия у Greiman — не фон, где производится дизайн, а часть метода. Аппаратура, экран, фотография, печать и физическое пространство объединены в одну экосистему. Автор не отделён от инструмента и среды; он находится внутри них.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.aprilgreiman.com/does-it-make-sense",
+          "locator": "DOCX section sec-18",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.aprilgreiman.com/public-art/walk-earth-talk-poets-walk",
+          "locator": "DOCX section sec-18",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_ag_019",
+      "wording_ru": "Связи Greiman с SCI-Arc и архитектурным сообществом показывают, как её графика выходит за пределы плаката. Официальный архив фиксирует проекты для Southern California Institute of Architecture, а Made in Space постоянно работает на пересечении коммуникаций и архитектуры. Типографика здесь уже должна учитывать маршрут, фасад, масштаб человека и время пребывания в пространстве.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.aprilgreiman.com/does-it-make-sense",
+          "locator": "DOCX section sec-19",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.aprilgreiman.com/public-art/walk-earth-talk-poets-walk",
+          "locator": "DOCX section sec-19",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_ag_020",
+      "wording_ru": "Название Made in Space точно описывает зрелую практику Greiman. Её официальный сайт определяет студию как пространство, исследующее пересечения искусства и дизайна в разных масштабах — от коммуникации до архитектуры и новых медиа. Важна не универсальность услуг, а одна повторяющаяся идея: изображение существует не само по себе, а внутри среды, технологий и движения пользователя.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.aprilgreiman.com/does-it-make-sense",
+          "locator": "DOCX section sec-20",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.aprilgreiman.com/public-art/walk-earth-talk-poets-walk",
+          "locator": "DOCX section sec-20",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_ag_021",
+      "wording_ru": "Public art Walk / Earth / Talk 1992 года в Citicorp Plaza переводит типографику Lucille Clifton в гранитные поверхности, по которым движется человек. Официальное описание проекта подчёркивает, что последовательность текста меняется в зависимости от маршрута зрителя. Это уже не графика, которую читают перед собой, а чтение, встроенное в походку, архитектуру и ритм площади.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.aprilgreiman.com/public-art/walk-earth-talk-poets-walk",
+          "locator": "DOCX section sec-21",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_ag_022",
+      "wording_ru": "В 2007 году Greiman завершила Hand Holding a Bowl of Rice — масштабную работу на фасадах у Wilshire Vermont Metro Station в Лос-Анджелесе. Выставочный текст Objects in Space описывает её как семиэтажную настенную работу в публичном пространстве. Масштаб здесь подтверждает раннюю идею Z-space: графическое изображение окончательно покидает формат страницы и становится городской оболочкой.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.aprilgreiman.com/exhibitions/objects-in-space",
+          "locator": "DOCX section sec-22",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.aprilgreiman.com/does-it-make-sense",
+          "locator": "DOCX section sec-22",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_ag_023",
+      "wording_ru": "Проект Drive-by Shooting исследует фотографию, сделанную из движущегося автомобиля, а затем увеличенную до масштаба, где пиксель снова становится заметным физическим событием. Greiman не пытается скрыть цифровую структуру изображения. Напротив, она использует скорость, случайный кадр и увеличение, чтобы показать, как технологии меняют наше восприятие повседневного мира.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.aprilgreiman.com/drive-by-shooting",
+          "locator": "DOCX section sec-23",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.aprilgreiman.com/does-it-make-sense",
+          "locator": "DOCX section sec-23",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_ag_024",
+      "wording_ru": "В серии и книге WhiteSpace фотография становится самостоятельным полем исследования. Официальный сайт показывает пейзажи, дороги, архитектурные фрагменты и случайные объекты, снятые в разных местах. Здесь нет необходимости доказывать «цифровость» эффектом. После десятилетий эксперимента Greiman использует камеру как ещё один способ изучать пространство, цвет, случай и масштаб.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.aprilgreiman.com/does-it-make-sense",
+          "locator": "DOCX section sec-24",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.aprilgreiman.com/public-art/walk-earth-talk-poets-walk",
+          "locator": "DOCX section sec-24",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_ag_025",
+      "wording_ru": "В 2024 году Greiman и Made in Space вместе с Isovist создали alt<DQ — новую версию Does It Make Sense?, рассчитанную на X, Y и Z пространство через смартфон или планшет. Это редкий случай, когда историческая цифровая работа не просто ремастируется, а получает новый тип пространства. AR становится продолжением исходной идеи, а не внешней «современной» надстройкой.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.aprilgreiman.com/does-it-make-sense",
+          "locator": "DOCX section sec-25",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.aprilgreiman.com/books/alt-dq-does-it-make-sense",
+          "locator": "DOCX section sec-25",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_ag_026",
+      "wording_ru": "Greiman последовательно сопротивлялась необходимости выбрать одну профессиональную категорию. Cooper Hewitt называет её транс-медийный дизайнер, её собственный сайт — thinker, artist-designer, а USC — designer с trans-disciplinary practice. Эта размытость продуктивна: она показывает, что границы дисциплин могут быть не административной классификацией, а материалом для проекта.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.cooperhewitt.org/design-topics/women-in-design/april-greiman/",
+          "locator": "DOCX section sec-26",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.cooperhewitt.org/2017/08/30/26363/",
+          "locator": "DOCX section sec-26",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_ag_027",
+      "wording_ru": "Педагогика сопровождает её практику десятилетиями. В 1982–1984 годах она руководила Visual Communications Program в CalArts; USC Roski сегодня указывает её как Professor of Design. Для истории дизайна это важно: цифровой поворот распространялся не только через опубликованные работы, но и через обучение поколений дизайнеров мыслить о новых инструментах как о новых способах композиции и исследования.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://roski.usc.edu/profile/april-greiman/",
+          "locator": "DOCX section sec-27",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.lacma.org/art/exhibition/digital-witness-revolutions-design-photography-and-film",
+          "locator": "DOCX section sec-27",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_ag_028",
+      "wording_ru": "Does It Make Sense? часто вспоминают из-за обнажённого цифрового автопортрет, но его значение шире. Работа соединяет тело, космологию, философские заметки, технологии и историю визуального производства. Тело делает абстрактный разговор о компьютере физическим: зритель сравнивает масштаб изображения с собственным телом и ощущает, что цифровая культура уже касается идентичности, а не только производственного процесса.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.aprilgreiman.com/does-it-make-sense",
+          "locator": "DOCX section sec-28",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://collections.lacma.org/object/194922",
+          "locator": "DOCX section sec-28",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_ag_029",
+      "wording_ru": "В 2024 году MoMA приобрёл Does It Make Sense? и Workspace, а в 2025 провёл Hyundai Card First Look: Эйприл Грейман. Официальная биография Greiman также фиксирует приобретение работы Victoria and Albert Museum в 2025 году. Эта волна институционального интереса показывает, что ранний цифровой дизайн окончательно перемещается из категории «технологической новинки» в центральную историю дизайна XX века.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.aprilgreiman.com/does-it-make-sense",
+          "locator": "DOCX section sec-29",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.aprilgreiman.com/books/alt-dq-does-it-make-sense",
+          "locator": "DOCX section sec-29",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_ag_030",
+      "wording_ru": "Главное наследие Greiman — не пиксель, диагональ или эстетика раннего Macintosh. Её метод учит проверять, меняет ли новый инструмент сам способ мышления. Когда технология только имитирует старый процесс быстрее, дизайн мало меняется. Когда она вводит новый масштаб, время, слой или форму взаимодействия, возникает действительно новый визуальный язык. Именно поэтому её работа остаётся актуальной и в эпоху генеративного ИИ.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.aprilgreiman.com/does-it-make-sense",
+          "locator": "DOCX section sec-30",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.aprilgreiman.com/public-art/walk-earth-talk-poets-walk",
+          "locator": "DOCX section sec-30",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_37269011c3059fca",
+      "title": "About / Career Highlights",
+      "url": "https://www.aprilgreiman.com/about",
+      "publisher": "April Greiman / Made in Space",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_9de15d7e99f6dbd2",
+      "title": "April Greiman",
+      "url": "https://www.cooperhewitt.org/design-topics/women-in-design/april-greiman/",
+      "publisher": "Cooper Hewitt, Smithsonian Design Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_72eaa77329bb9326",
+      "title": "Your Turn, My Turn",
+      "url": "https://www.cooperhewitt.org/2017/08/30/26363/",
+      "publisher": "Cooper Hewitt, Smithsonian Design Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_7e625fe93ce0a900",
+      "title": "Mind and Body",
+      "url": "https://www.cooperhewitt.org/2016/03/31/mind-and-body/",
+      "publisher": "Cooper Hewitt, Smithsonian Design Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_3442e0ee2c7e9856",
+      "title": "April Greiman",
+      "url": "https://www.moma.org/artists/2330-april-greiman",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_69e56ca43c54b857",
+      "title": "DOES IT MAKE SENSE? Design Quarterly #133",
+      "url": "https://www.moma.org/collection/works/172729",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_813f947cf432b40c",
+      "title": "The Computer Was More Than a Pencil: April Greiman’s Design Adventures",
+      "url": "https://www.moma.org/magazine/articles/1347",
+      "publisher": "Museum of Modern Art Magazine",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_0c0cb1b072483545",
+      "title": "Does It Make Sense?",
+      "url": "https://www.aprilgreiman.com/does-it-make-sense",
+      "publisher": "April Greiman / Made in Space",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_b1a7f87f17114205",
+      "title": "Design Quarterly #133: Does it Make Sense?",
+      "url": "https://www.si.edu/object/design-quarterly-133-does-it-make-sense%3Achndm_1995-167-4",
+      "publisher": "Smithsonian Institution",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_d8d386a603420245",
+      "title": "Workspace, 1987",
+      "url": "https://www.moma.org/collection/works/451610",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_1ae140fc76db2729",
+      "title": "Does it Make Sense?, 1986",
+      "url": "https://collections.lacma.org/object/194922",
+      "publisher": "LACMA Collections",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_03de7e6e886bf8ea",
+      "title": "Pacific Wave, 1987",
+      "url": "https://collections.lacma.org/node/2302580",
+      "publisher": "LACMA Collections",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_10b28a882d00a30c",
+      "title": "Digital Witness: Revolutions in Design, Photography, and Film",
+      "url": "https://www.lacma.org/art/exhibition/digital-witness-revolutions-design-photography-and-film",
+      "publisher": "LACMA",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_5faaeb18f9599982",
+      "title": "The texture of technology: Q&A with Artist April Greiman",
+      "url": "https://unframed.lacma.org/node/3829",
+      "publisher": "LACMA Unframed",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_9701444d05a60052",
+      "title": "April Greiman, Professor of Design",
+      "url": "https://roski.usc.edu/profile/april-greiman/",
+      "publisher": "USC Roski School of Art and Design",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_d3b2aac95332957c",
+      "title": "Objects in Space: April Greiman",
+      "url": "https://www.aprilgreiman.com/exhibitions/objects-in-space",
+      "publisher": "April Greiman / Made in Space",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_644a6f7ef8fe92a3",
+      "title": "Hybrid Imagery: The Fusion of Technology and Graphic Design",
+      "url": "https://www.aprilgreiman.com/books/hybrid-imagery",
+      "publisher": "April Greiman / Made in Space",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_b27289bb982fd3d1",
+      "title": "alt<DQ, Does It Make Sense?",
+      "url": "https://www.aprilgreiman.com/books/alt-dq-does-it-make-sense",
+      "publisher": "April Greiman / Made in Space",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_264c9b1f0e166594",
+      "title": "Walk / Earth / Talk, Poets Walk",
+      "url": "https://www.aprilgreiman.com/public-art/walk-earth-talk-poets-walk",
+      "publisher": "April Greiman / Made in Space",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_fc4f6a9c0e794065",
+      "title": "Drive-by Shooting",
+      "url": "https://www.aprilgreiman.com/drive-by-shooting",
+      "publisher": "April Greiman / Made in Space",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_april_greima_01",
+      "claim_id": "clm_ag_001",
+      "source_id": "src_9de15d7e99f6dbd2",
+      "locator": "DOCX section sec-1",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_april_greima_02",
+      "claim_id": "clm_ag_002",
+      "source_id": "src_9de15d7e99f6dbd2",
+      "locator": "DOCX section sec-2",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_april_greima_03",
+      "claim_id": "clm_ag_003",
+      "source_id": "src_0c0cb1b072483545",
+      "locator": "DOCX section sec-3",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_april_greima_04",
+      "claim_id": "clm_ag_004",
+      "source_id": "src_9de15d7e99f6dbd2",
+      "locator": "DOCX section sec-4",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_april_greima_05",
+      "claim_id": "clm_ag_005",
+      "source_id": "src_0c0cb1b072483545",
+      "locator": "DOCX section sec-5",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_april_greima_06",
+      "claim_id": "clm_ag_006",
+      "source_id": "src_0c0cb1b072483545",
+      "locator": "DOCX section sec-6",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_april_greima_07",
+      "claim_id": "clm_ag_007",
+      "source_id": "src_0c0cb1b072483545",
+      "locator": "DOCX section sec-7",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_april_greima_08",
+      "claim_id": "clm_ag_008",
+      "source_id": "src_0c0cb1b072483545",
+      "locator": "DOCX section sec-8",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_april_greima_09",
+      "claim_id": "clm_ag_009",
+      "source_id": "src_0c0cb1b072483545",
+      "locator": "DOCX section sec-9",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_april_greima_10",
+      "claim_id": "clm_ag_010",
+      "source_id": "src_9de15d7e99f6dbd2",
+      "locator": "DOCX section sec-10",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_april_greima_11",
+      "claim_id": "clm_ag_011",
+      "source_id": "src_644a6f7ef8fe92a3",
+      "locator": "DOCX section sec-11",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_april_greima_12",
+      "claim_id": "clm_ag_012",
+      "source_id": "src_0c0cb1b072483545",
+      "locator": "DOCX section sec-12",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_april_greima_13",
+      "claim_id": "clm_ag_013",
+      "source_id": "src_0c0cb1b072483545",
+      "locator": "DOCX section sec-13",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_april_greima_14",
+      "claim_id": "clm_ag_014",
+      "source_id": "src_0c0cb1b072483545",
+      "locator": "DOCX section sec-14",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_april_greima_15",
+      "claim_id": "clm_ag_015",
+      "source_id": "src_644a6f7ef8fe92a3",
+      "locator": "DOCX section sec-15",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_april_greima_16",
+      "claim_id": "clm_ag_016",
+      "source_id": "src_72eaa77329bb9326",
+      "locator": "DOCX section sec-16",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_april_greima_17",
+      "claim_id": "clm_ag_017",
+      "source_id": "src_10b28a882d00a30c",
+      "locator": "DOCX section sec-17",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_april_greima_18",
+      "claim_id": "clm_ag_018",
+      "source_id": "src_0c0cb1b072483545",
+      "locator": "DOCX section sec-18",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_april_greima_19",
+      "claim_id": "clm_ag_019",
+      "source_id": "src_0c0cb1b072483545",
+      "locator": "DOCX section sec-19",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_april_greima_20",
+      "claim_id": "clm_ag_020",
+      "source_id": "src_0c0cb1b072483545",
+      "locator": "DOCX section sec-20",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_april_greima_21",
+      "claim_id": "clm_ag_021",
+      "source_id": "src_264c9b1f0e166594",
+      "locator": "DOCX section sec-21",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_april_greima_22",
+      "claim_id": "clm_ag_022",
+      "source_id": "src_d3b2aac95332957c",
+      "locator": "DOCX section sec-22",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_april_greima_23",
+      "claim_id": "clm_ag_023",
+      "source_id": "src_fc4f6a9c0e794065",
+      "locator": "DOCX section sec-23",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_april_greima_24",
+      "claim_id": "clm_ag_024",
+      "source_id": "src_0c0cb1b072483545",
+      "locator": "DOCX section sec-24",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_april_greima_25",
+      "claim_id": "clm_ag_025",
+      "source_id": "src_0c0cb1b072483545",
+      "locator": "DOCX section sec-25",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_april_greima_26",
+      "claim_id": "clm_ag_026",
+      "source_id": "src_9de15d7e99f6dbd2",
+      "locator": "DOCX section sec-26",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_april_greima_27",
+      "claim_id": "clm_ag_027",
+      "source_id": "src_9701444d05a60052",
+      "locator": "DOCX section sec-27",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_april_greima_28",
+      "claim_id": "clm_ag_028",
+      "source_id": "src_0c0cb1b072483545",
+      "locator": "DOCX section sec-28",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_april_greima_29",
+      "claim_id": "clm_ag_029",
+      "source_id": "src_0c0cb1b072483545",
+      "locator": "DOCX section sec-29",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_april_greima_30",
+      "claim_id": "clm_ag_030",
+      "source_id": "src_0c0cb1b072483545",
+      "locator": "DOCX section sec-30",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "media_state": "media_ready",
+  "workflow": {
+    "decision": "AUTO_APPROVE",
+    "note": "RU/EN pair passed OS structure, source, taxonomy, localization and media-rights checks on 2026-08-12.",
+    "converted_by": "VANSMITHLAB incoming article publication workflow",
+    "converted_at": "2026-08-12T00:00:00.000Z",
+    "media_reviewed_at": "2026-08-12",
+    "media_note": "Original AI editorial illustration generated for VANSMITHLAB; not documentary evidence and not a copied archival photograph."
+  }
+}

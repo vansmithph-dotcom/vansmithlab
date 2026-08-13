@@ -1,0 +1,555 @@
+{
+  "id": "obj_fashion_film_20260813",
+  "type": "theme",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 2,
+  "title_ru": "Почему мода перестала доверять фотографии",
+  "title_en": "Why Fashion Stopped Trusting Photography",
+  "slug_ru": "why-fashion-stopped-trusting-photography",
+  "slug_en": "why-fashion-stopped-trusting-photography",
+  "summary_ru": "Fashion film, платформы и AI-видео как новая драматургия модного образа",
+  "verification_state": "verified",
+  "confidence_score": 0.89,
+  "created_at": "2026-08-13T00:00:00.000Z",
+  "updated_at": "2026-08-13T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_why_fashion_stopped_trusting_photography_sec-1",
+      "wording_ru": "В 2000 году посетитель SHOWstudio мог увидеть не только готовую модную фотографию, но и то, что печатный журнал обычно прятал: как модель входит в свет, как ткань меняет форму между двумя позами, как фотограф принимает решение до финального кадра. Ник Найт создавал платформу именно для показа творческого процесса от замысла до завершения. В этот момент мода получила не очередную витрину, а открытую студию: изображение перестало заканчиваться в долю секунды, выбранную для печати. Фотография долго была главным оружием моды. Один кадр мог сделать платье вечным, лицо — символом эпохи, а бренд — желанием. В сильной fashion-фотографии всё останавливается в нужный момент: ткань ловит свет, тело принимает позу, взгляд становится обещанием, а вещь превращается в знак. Но сцена SHOWstudio обнаружила предел этой силы: фотография создаёт икону, тогда как экран показывает поведение — то, что происходит с телом, тканью и вниманием между позами. Fashion film появляется там, где одного кадра становится недостаточно. Это не отказ от фотографии, а признание её границы: мода хочет быть не только увиденной, но и пережитой во времени.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.nickknight.com/press/nk-fashion-film",
+          "locator": "DOCX section sec-1",
+          "support": "Official Nick Knight and institutional sources establish SHOWstudio's 2000 launch and its process-to-completion purpose; the icon-to-behaviour conclusion is VANSMITHLAB interpretation."
+        },
+        {
+          "source_url": "https://www.onassis.org/people/showstudio",
+          "locator": "DOCX section sec-1",
+          "support": "Official Nick Knight and institutional sources establish SHOWstudio's 2000 launch and its process-to-completion purpose; the icon-to-behaviour conclusion is VANSMITHLAB interpretation."
+        },
+        {
+          "source_url": "https://www.nickknight.com/press/future-fashion",
+          "locator": "DOCX section sec-1",
+          "support": "Official Nick Knight and institutional sources establish SHOWstudio's 2000 launch and its process-to-completion purpose; the icon-to-behaviour conclusion is VANSMITHLAB interpretation."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.89
+    },
+    {
+      "id": "clm_why_fashion_stopped_trusting_photography_sec-2",
+      "wording_ru": "Статичная фотография может показать цвет, фактуру, силуэт и драму света. Но материал в моде часто раскрывается не в неподвижности, а в изменении. Шёлк течёт, кожа сопротивляется, трикотаж растягивается, мех живёт собственной массой, металл вспыхивает при повороте. Каждая ткань имеет не только поверхность, но и характер движения. Поэтому fashion film даёт материалу то, что печатная страница вынуждена только обещать: длительность, инерцию, звук, задержку, падение, сбой. В движении ткань становится почти актёром. Она может подчиняться телу, спорить с ним, выдавать его жест или создавать собственный ритм. Это и есть первая причина, почему мода тянется к экранному времени: одежда не полностью раскрывается как вещь, пока мы не увидим, как она ведёт себя.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.nickknight.com/press/nk-fashion-film",
+          "locator": "DOCX section sec-2",
+          "support": "Nick Knight and SHOWstudio material supports the use of motion to inspect garments and bodies; the fabric-as-actor conclusion is VANSMITHLAB interpretation."
+        },
+        {
+          "source_url": "https://www.showstudio.com/projects/the_fashion_body/right_hand_by_nick_knight",
+          "locator": "DOCX section sec-2",
+          "support": "Nick Knight and SHOWstudio material supports the use of motion to inspect garments and bodies; the fabric-as-actor conclusion is VANSMITHLAB interpretation."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.89
+    },
+    {
+      "id": "clm_why_fashion_stopped_trusting_photography_sec-3",
+      "wording_ru": "Классическая модная фотография часто строится вокруг контроля: поза, линия плеча, напряжение шеи, угол колена, точность взгляда. Тело становится конструкцией, которая удерживает вещь в лучшем состоянии. Но экран разрешает телу нарушить эту дисциплину. В модном фильме человек может идти, спотыкаться, танцевать, замирать, лежать, исчезать из кадра, возвращаться, смотреть не туда, сбиваться с подиумной линии. Одежда начинает читаться не только через идеальную форму, но и через жест, паузу, дыхание, сопротивление ткани, неловкость или ускорение. Камера здесь тоже меняет роль. Она не просто фиксирует модель, а становится тактильным наблюдателем: приближается к шву, скользит по рукаву, задерживается на кисти, идёт за плечом. В этот момент модный образ перестаёт быть поверхностью и становится поведением тела.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.showstudio.com/projects/dolls/fashion-film-dolls",
+          "locator": "DOCX section sec-3",
+          "support": "SHOWstudio project records support the moving body and close observational camera examples; the behavioural reading is VANSMITHLAB interpretation."
+        },
+        {
+          "source_url": "https://www.showstudio.com/projects/the_fashion_body/right_hand_by_nick_knight",
+          "locator": "DOCX section sec-3",
+          "support": "SHOWstudio project records support the moving body and close observational camera examples; the behavioural reading is VANSMITHLAB interpretation."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.89
+    },
+    {
+      "id": "clm_why_fashion_stopped_trusting_photography_sec-4",
+      "wording_ru": "Поворот fashion film стал возможен не благодаря одной камере. К 2000 году цифровая съёмка и монтаж ускорили производство движущегося изображения, веб-публикация позволила распространять видео без печатной полосы и телевизионного эфира, а онлайн-архив сделал процесс повторно доступным. Когда Ник Найт запустил SHOWstudio, эти технологии сошлись с редакционной идеей: показывать производство модного образа от замысла до завершения, а не только утверждённый финальный кадр. Это важно: fashion film здесь не сводится к красивому ролику после съёмки. Он становится новой студией, открытой наружу. Зритель видит, как строится поза, как появляется свет, как принимаются решения, как образ собирается в реальном времени. Производство перестаёт быть невидимой кухней и само становится частью модного сообщения. В старой системе журнал показывал финальную фотографию. В новой экранной системе процесс тоже может быть образом. Это меняет власть зрителя: он больше не только смотрит на готовую икону, но и наблюдает, как она производится.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.onassis.org/people/showstudio",
+          "locator": "DOCX section sec-4",
+          "support": "Official and institutional sources support SHOWstudio's 2000 launch, open-studio purpose and emphasis on process; the media-history synthesis is VANSMITHLAB interpretation."
+        },
+        {
+          "source_url": "https://www.fhcm.paris/en/news/nick-knights-showstudio-an-ongoing-act-of-love",
+          "locator": "DOCX section sec-4",
+          "support": "Official and institutional sources support SHOWstudio's 2000 launch, open-studio purpose and emphasis on process; the media-history synthesis is VANSMITHLAB interpretation."
+        },
+        {
+          "source_url": "https://www.nickknight.com/press/future-fashion",
+          "locator": "DOCX section sec-4",
+          "support": "Official and institutional sources support SHOWstudio's 2000 launch, open-studio purpose and emphasis on process; the media-history synthesis is VANSMITHLAB interpretation."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.89
+    },
+    {
+      "id": "clm_why_fashion_stopped_trusting_photography_sec-5",
+      "wording_ru": "Следующий сдвиг связан с тем, что fashion film перестал быть только модным форматом. Платформы вроде NOWNESS показывают короткое видео как культурную форму: мода там соседствует с искусством, едой, музыкой, путешествием, портретом, архитектурой и красотой. В такой среде ролик работает не как прямой рекламный блок, а как редакционное настроение. Это меняет саму стратегию бренда. Если реклама говорит: «посмотри на продукт», короткая культурная форма говорит: «войди в мир, где этот продукт кажется естественным». Вещь может появиться на секунду, но вокруг неё строится атмосфера: цвет, комната, лицо, голос, пауза, странность, жест. Так fashion film становится ближе к журналу, чем к рекламному ролику. Только этот журнал больше не лежит на столе. Он движется, звучит, открывается в браузере, живёт в архиве и возвращается через ссылку.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.nowness.com/playlist/14917/fashion",
+          "locator": "DOCX section sec-5",
+          "support": "NOWNESS pages establish fashion film within a broader series and playlist environment; the editorial-world argument is VANSMITHLAB interpretation."
+        },
+        {
+          "source_url": "https://www.nowness.com/series",
+          "locator": "DOCX section sec-5",
+          "support": "NOWNESS pages establish fashion film within a broader series and playlist environment; the editorial-world argument is VANSMITHLAB interpretation."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.89
+    },
+    {
+      "id": "clm_why_fashion_stopped_trusting_photography_sec-6",
+      "wording_ru": "Miu Miu Women’s Tales показывает другую возможность: бренд может строить не один сезонный жест, а длительную серию. Официальное описание Miu Miu говорит о Women’s Tales как о долгой платформе женских короткометражных фильмов, где коллекции становятся частью персонажей, актрис и режиссёрских миров. В этом формате одежда не обязана кричать о себе в каждом кадре. Она может жить внутри роли, комнаты, походки, света, диалога, неловкой сцены или внутреннего состояния героини. Бренд становится не только производителем вещей, но и организатором экранной памяти: серия накапливает лица, режиссёрские голоса, темы и атмосферу. Здесь мода перестаёт зависеть от одиночного идеального кадра. Она работает через возвращение: новая история продолжает предыдущие, зритель узнаёт рамку, но ждёт другой голос. Так бренд начинает мыслить не только кампанией, а сериалом.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.miumiu.com/us/en/womens-tales.html",
+          "locator": "DOCX section sec-6",
+          "support": "Miu Miu's official Women’s Tales page establishes the long-running female-led series and the collections' role within its films."
+        }
+      ],
+      "verification_state": "verified",
+      "confidence_score": 0.89
+    },
+    {
+      "id": "clm_why_fashion_stopped_trusting_photography_sec-7",
+      "wording_ru": "У Prada A Therapy вещь получает почти психологическую роль. Короткий фильм Roman Polanski с Helena Bonham Carter и Ben Kingsley строится вокруг ситуации, где пальто Prada становится не просто предметом гардероба, а объектом желания, власти, странности и переноса. Вещь не демонстрируется как товарная карточка; она вмешивается в поведение персонажей. GucciFest и Ouverture of Something That Never Ended идут другим путём: коллекция становится частью многосерийного экранного мира. Gucci описывает проект как семисерийную фильм-коллаборацию Gus Van Sant и Alessandro Michele, где персонажи, город, камео, музыка и вещи существуют внутри одной продолжительной атмосферы. Оба примера показывают одну перемену: luxury brand всё чаще покупает не только кадр, а кинематографический режим. Вещь становится сценой, поводом для сюжета, психологическим объектом или частью мира. Она продаётся не напрямую, а через ситуацию, в которой зритель начинает понимать, каким человеком можно быть рядом с этой вещью.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.prada.com/eu/en/pradasphere/films/2012/a-therapy.html",
+          "locator": "DOCX section sec-7",
+          "support": "Official Prada and Gucci pages establish A Therapy's credited production and Gucci's seven-part collaboration; the comparison of cinematic regimes is VANSMITHLAB interpretation."
+        },
+        {
+          "source_url": "https://www.gucci.com/us/en/st/stories/article/guccifest-episode-1",
+          "locator": "DOCX section sec-7",
+          "support": "Official Prada and Gucci pages establish A Therapy's credited production and Gucci's seven-part collaboration; the comparison of cinematic regimes is VANSMITHLAB interpretation."
+        },
+        {
+          "source_url": "https://www.gucci.com/us/en/st/stories/article/guccifest-episode-7",
+          "locator": "DOCX section sec-7",
+          "support": "Official Prada and Gucci pages establish A Therapy's credited production and Gucci's seven-part collaboration; the comparison of cinematic regimes is VANSMITHLAB interpretation."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.89
+    },
+    {
+      "id": "clm_why_fashion_stopped_trusting_photography_sec-8",
+      "wording_ru": "Социальные платформы ускорили этот процесс. Модный образ теперь должен жить не только в фильме, но и в коротком фрагменте: первые секунды, вертикальный кадр, просмотр без звука, повтор, обрезка, пересылка, попадание в ленту. Это другая экономика внимания. Вертикальный ролик не уничтожает fashion film, но меняет его условия. Образ должен быть читаем быстрее. Силуэт, жест, цвет, лицо, движение камеры и ритм монтажа должны сработать почти мгновенно. Если раньше бренд мог рассчитывать на зрителя, который смотрит кампанию целиком, теперь он часто встречает зрителя в состоянии прокрутки. В этом смысле современная мода существует между двумя скоростями: медленным образом, который строит миф, и быстрым фрагментом, который должен удержать палец от следующего свайпа.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.britishfashioncouncil.co.uk/Business-Support/Fashion-Film/Funding",
+          "locator": "DOCX section sec-8",
+          "support": "British Fashion Council and NOWNESS pages establish fashion film as an active platformed format; the two-speed attention model is VANSMITHLAB interpretation."
+        },
+        {
+          "source_url": "https://www.nowness.com/playlist/14917/fashion",
+          "locator": "DOCX section sec-8",
+          "support": "British Fashion Council and NOWNESS pages establish fashion film as an active platformed format; the two-speed attention model is VANSMITHLAB interpretation."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.89
+    },
+    {
+      "id": "clm_why_fashion_stopped_trusting_photography_sec-9",
+      "wording_ru": "Искусственный интеллект возвращает тему к исходному парадоксу. Если fashion film когда-то отвечал на вопрос «как оживить модную фотографию камерой, телом и монтажом», то image-to-video модели спрашивают иначе: можно ли оживить снимок без новой съёмки? DreamPose, например, описан авторами как метод, который синтезирует fashion video из одного изображения и последовательности поз, включая движение человека и ткани. Это не просто техническая новинка. Для моды это новый конфликт: движение можно получить после факта, но кто отвечает за правдоподобие ткани, согласие модели, авторство стилиста, физику тела, права фотографа и доверие к изображению? Чем легче заставить фотографию двигаться, тем важнее становится вопрос контроля. Интерпретация AI-видео не отменяет fashion film и не делает режиссуру лишней. Оно показывает, что движение стало обязательным ожиданием экранной культуры. Но если движение можно синтезировать, то режиссура перемещается в другое место: в контроль тела, ткани, источника, согласия, авторства и границы между документом и реконструкцией.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://arxiv.org/abs/2304.06025",
+          "locator": "DOCX section sec-9",
+          "support": "The DreamPose paper establishes synthesis of human and fabric motion from a still image and pose sequence; the consent, rights and trust questions are VANSMITHLAB interpretation."
+        }
+      ],
+      "verification_state": "verified",
+      "confidence_score": 0.89
+    },
+    {
+      "id": "clm_why_fashion_stopped_trusting_photography_sec-10",
+      "wording_ru": "Фотография не исчезает из моды. Более того, сильная фотография остаётся одним из немногих форматов, способных сжать сезон, лицо, вещь и настроение в один точный образ. Но она больше не единственный центр системы. Современный модный образ живёт в нескольких состояниях одновременно: как фотография, как фильм, как backstage, как вертикальный фрагмент, как архив, как сериал, как мем, как AI-реконструкция, как платформа и как повторяемое движение. Поэтому мода перестала доверять фотографии не из неверности к фотографии, а из-за расширения самой визуальной среды. Вернёмся к открытой студии 2000 года. Её главное новшество было не в том, что фотограф взял видеокамеру, а в том, что зритель получил доступ к времени изображения — к решениям, паузам, движениям и ошибкам до финальной иконы. Сегодня платформы и AI ещё сильнее расширили это время, но одновременно сделали критически важными авторство, согласие и доверие. Поэтому фотография не проиграла экрану: она перестала быть единственным местом, где модный образ считается завершённым. Фотография дала моде икону. Экран показал, как эта икона живёт после позы.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.nickknight.com/press/nk-fashion-film",
+          "locator": "DOCX section sec-10",
+          "support": "The cited official and editorial platforms establish the coexistence of still, moving and serial fashion-image formats; the conclusion is VANSMITHLAB's synthesis."
+        },
+        {
+          "source_url": "https://www.miumiu.com/us/en/womens-tales.html",
+          "locator": "DOCX section sec-10",
+          "support": "The cited official and editorial platforms establish the coexistence of still, moving and serial fashion-image formats; the conclusion is VANSMITHLAB's synthesis."
+        },
+        {
+          "source_url": "https://www.nowness.com/playlist/14917/fashion",
+          "locator": "DOCX section sec-10",
+          "support": "The cited official and editorial platforms establish the coexistence of still, moving and serial fashion-image formats; the conclusion is VANSMITHLAB's synthesis."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.89
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_c5e3bc5c9bbb241b",
+      "title": "Nick Knight. About",
+      "publisher": "Nick Knight official website",
+      "url": "https://www.nickknight.com/about",
+      "source_tier": 1,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_8ea9a6e008c97485",
+      "title": "Nick Knight on Fashion Film",
+      "publisher": "Nick Knight official website",
+      "url": "https://www.nickknight.com/press/nk-fashion-film",
+      "source_tier": 1,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_dc065ce367c78169",
+      "title": "Fashion Film: Dolls",
+      "publisher": "SHOWstudio",
+      "url": "https://www.showstudio.com/projects/dolls/fashion-film-dolls",
+      "source_tier": 1,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_0fc2b9de954a9cbb",
+      "title": "Fashion Film: Right Hand",
+      "publisher": "SHOWstudio",
+      "url": "https://www.showstudio.com/projects/the_fashion_body/right_hand_by_nick_knight",
+      "source_tier": 1,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_75f3031c803efb9d",
+      "title": "SHOWstudio",
+      "publisher": "Onassis Foundation",
+      "url": "https://www.onassis.org/people/showstudio",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_46e17a3f49015ad0",
+      "title": "ASVOFF",
+      "publisher": "A Shaded View on Fashion Film",
+      "url": "https://www.ashadedviewonfashionfilm.com/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_60c55dc43ddc868c",
+      "title": "About",
+      "publisher": "A Shaded View on Fashion",
+      "url": "https://ashadedviewonfashion.com/about/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_8929fd706f99068e",
+      "title": "Fashion Film Fund",
+      "publisher": "British Fashion Council",
+      "url": "https://www.britishfashioncouncil.co.uk/Business-Support/Fashion-Film/Funding",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_f27715e7b0d68c99",
+      "title": "Women's Tales",
+      "publisher": "Miu Miu",
+      "url": "https://www.miumiu.com/us/en/womens-tales.html",
+      "source_tier": 1,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_18cfc3f1906f88c4",
+      "title": "A Therapy",
+      "publisher": "Prada",
+      "url": "https://www.prada.com/eu/en/pradasphere/films/2012/a-therapy.html",
+      "source_tier": 1,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_83c266f8c7ed0c28",
+      "title": "Ouverture of Something That Never Ended, episode 1",
+      "publisher": "Gucci Stories",
+      "url": "https://www.gucci.com/us/en/st/stories/article/guccifest-episode-1",
+      "source_tier": 1,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_0290297643e4bfc5",
+      "title": "Ouverture Of Something That Never Ended",
+      "publisher": "Gucci Stories",
+      "url": "https://www.gucci.com/us/en/st/stories/article/guccifest-episode-7",
+      "source_tier": 1,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_8108c0e8b9cd4bbf",
+      "title": "Fashion Films playlist",
+      "publisher": "NOWNESS",
+      "url": "https://www.nowness.com/playlist/14917/fashion",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_39ca3a977deb4c26",
+      "title": "Series",
+      "publisher": "NOWNESS",
+      "url": "https://www.nowness.com/series",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_c14eae1f5e14f8cd",
+      "title": "Nick Knight's SHOWstudio: An Ongoing Act of Love",
+      "publisher": "FHCM",
+      "url": "https://www.fhcm.paris/en/news/nick-knights-showstudio-an-ongoing-act-of-love",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_94f9d4b8edea95e7",
+      "title": "Karras, Johanna; Holynski, Aleksander; Wang, Ting-Chun; Kemelmacher-Shlizerman, Ira. DreamPose: Fashion Image-to-Video Synthesis via Stable Diffusion",
+      "publisher": "arXiv, 2023",
+      "url": "https://arxiv.org/abs/2304.06025",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_d2aaaab376733a57",
+      "title": "Dress like a Star: Retrieving Fashion Products from Videos",
+      "publisher": "arXiv",
+      "url": "https://arxiv.org/abs/1710.07198",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_d05e3cef9ddb2702",
+      "title": "Nick Knight on the Future of Fashion",
+      "publisher": "Nick Knight official website",
+      "url": "https://www.nickknight.com/press/future-fashion",
+      "source_tier": 1,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_f30412fd0a442c45",
+      "title": "S.W.A.L.K",
+      "publisher": "Nick Knight official website",
+      "url": "https://www.nickknight.com/films/swalk",
+      "source_tier": 1,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_9f6f905cc8df4a97",
+      "title": "GucciFest: Ouverture Of Something That Never Ended",
+      "publisher": "Gucci YouTube",
+      "url": "https://www.youtube.com/watch?v=OBN2vvuNYsc",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_why_photo_01_01",
+      "claim_id": "clm_why_fashion_stopped_trusting_photography_sec-1",
+      "source_id": "src_8ea9a6e008c97485",
+      "locator": "DOCX section sec-1",
+      "support": "Official Nick Knight and institutional sources establish SHOWstudio's 2000 launch and its process-to-completion purpose; the icon-to-behaviour conclusion is VANSMITHLAB interpretation."
+    },
+    {
+      "id": "cit_why_photo_01_02",
+      "claim_id": "clm_why_fashion_stopped_trusting_photography_sec-1",
+      "source_id": "src_75f3031c803efb9d",
+      "locator": "DOCX section sec-1",
+      "support": "Official Nick Knight and institutional sources establish SHOWstudio's 2000 launch and its process-to-completion purpose; the icon-to-behaviour conclusion is VANSMITHLAB interpretation."
+    },
+    {
+      "id": "cit_why_photo_01_03",
+      "claim_id": "clm_why_fashion_stopped_trusting_photography_sec-1",
+      "source_id": "src_d05e3cef9ddb2702",
+      "locator": "DOCX section sec-1",
+      "support": "Official Nick Knight and institutional sources establish SHOWstudio's 2000 launch and its process-to-completion purpose; the icon-to-behaviour conclusion is VANSMITHLAB interpretation."
+    },
+    {
+      "id": "cit_why_photo_02_01",
+      "claim_id": "clm_why_fashion_stopped_trusting_photography_sec-2",
+      "source_id": "src_8ea9a6e008c97485",
+      "locator": "DOCX section sec-2",
+      "support": "Nick Knight and SHOWstudio material supports the use of motion to inspect garments and bodies; the fabric-as-actor conclusion is VANSMITHLAB interpretation."
+    },
+    {
+      "id": "cit_why_photo_02_02",
+      "claim_id": "clm_why_fashion_stopped_trusting_photography_sec-2",
+      "source_id": "src_0fc2b9de954a9cbb",
+      "locator": "DOCX section sec-2",
+      "support": "Nick Knight and SHOWstudio material supports the use of motion to inspect garments and bodies; the fabric-as-actor conclusion is VANSMITHLAB interpretation."
+    },
+    {
+      "id": "cit_why_photo_03_01",
+      "claim_id": "clm_why_fashion_stopped_trusting_photography_sec-3",
+      "source_id": "src_dc065ce367c78169",
+      "locator": "DOCX section sec-3",
+      "support": "SHOWstudio project records support the moving body and close observational camera examples; the behavioural reading is VANSMITHLAB interpretation."
+    },
+    {
+      "id": "cit_why_photo_03_02",
+      "claim_id": "clm_why_fashion_stopped_trusting_photography_sec-3",
+      "source_id": "src_0fc2b9de954a9cbb",
+      "locator": "DOCX section sec-3",
+      "support": "SHOWstudio project records support the moving body and close observational camera examples; the behavioural reading is VANSMITHLAB interpretation."
+    },
+    {
+      "id": "cit_why_photo_04_01",
+      "claim_id": "clm_why_fashion_stopped_trusting_photography_sec-4",
+      "source_id": "src_75f3031c803efb9d",
+      "locator": "DOCX section sec-4",
+      "support": "Official and institutional sources support SHOWstudio's 2000 launch, open-studio purpose and emphasis on process; the media-history synthesis is VANSMITHLAB interpretation."
+    },
+    {
+      "id": "cit_why_photo_04_02",
+      "claim_id": "clm_why_fashion_stopped_trusting_photography_sec-4",
+      "source_id": "src_c14eae1f5e14f8cd",
+      "locator": "DOCX section sec-4",
+      "support": "Official and institutional sources support SHOWstudio's 2000 launch, open-studio purpose and emphasis on process; the media-history synthesis is VANSMITHLAB interpretation."
+    },
+    {
+      "id": "cit_why_photo_04_03",
+      "claim_id": "clm_why_fashion_stopped_trusting_photography_sec-4",
+      "source_id": "src_d05e3cef9ddb2702",
+      "locator": "DOCX section sec-4",
+      "support": "Official and institutional sources support SHOWstudio's 2000 launch, open-studio purpose and emphasis on process; the media-history synthesis is VANSMITHLAB interpretation."
+    },
+    {
+      "id": "cit_why_photo_05_01",
+      "claim_id": "clm_why_fashion_stopped_trusting_photography_sec-5",
+      "source_id": "src_8108c0e8b9cd4bbf",
+      "locator": "DOCX section sec-5",
+      "support": "NOWNESS pages establish fashion film within a broader series and playlist environment; the editorial-world argument is VANSMITHLAB interpretation."
+    },
+    {
+      "id": "cit_why_photo_05_02",
+      "claim_id": "clm_why_fashion_stopped_trusting_photography_sec-5",
+      "source_id": "src_39ca3a977deb4c26",
+      "locator": "DOCX section sec-5",
+      "support": "NOWNESS pages establish fashion film within a broader series and playlist environment; the editorial-world argument is VANSMITHLAB interpretation."
+    },
+    {
+      "id": "cit_why_photo_06_01",
+      "claim_id": "clm_why_fashion_stopped_trusting_photography_sec-6",
+      "source_id": "src_f27715e7b0d68c99",
+      "locator": "DOCX section sec-6",
+      "support": "Miu Miu's official Women’s Tales page establishes the long-running female-led series and the collections' role within its films."
+    },
+    {
+      "id": "cit_why_photo_07_01",
+      "claim_id": "clm_why_fashion_stopped_trusting_photography_sec-7",
+      "source_id": "src_18cfc3f1906f88c4",
+      "locator": "DOCX section sec-7",
+      "support": "Official Prada and Gucci pages establish A Therapy's credited production and Gucci's seven-part collaboration; the comparison of cinematic regimes is VANSMITHLAB interpretation."
+    },
+    {
+      "id": "cit_why_photo_07_02",
+      "claim_id": "clm_why_fashion_stopped_trusting_photography_sec-7",
+      "source_id": "src_83c266f8c7ed0c28",
+      "locator": "DOCX section sec-7",
+      "support": "Official Prada and Gucci pages establish A Therapy's credited production and Gucci's seven-part collaboration; the comparison of cinematic regimes is VANSMITHLAB interpretation."
+    },
+    {
+      "id": "cit_why_photo_07_03",
+      "claim_id": "clm_why_fashion_stopped_trusting_photography_sec-7",
+      "source_id": "src_0290297643e4bfc5",
+      "locator": "DOCX section sec-7",
+      "support": "Official Prada and Gucci pages establish A Therapy's credited production and Gucci's seven-part collaboration; the comparison of cinematic regimes is VANSMITHLAB interpretation."
+    },
+    {
+      "id": "cit_why_photo_08_01",
+      "claim_id": "clm_why_fashion_stopped_trusting_photography_sec-8",
+      "source_id": "src_8929fd706f99068e",
+      "locator": "DOCX section sec-8",
+      "support": "British Fashion Council and NOWNESS pages establish fashion film as an active platformed format; the two-speed attention model is VANSMITHLAB interpretation."
+    },
+    {
+      "id": "cit_why_photo_08_02",
+      "claim_id": "clm_why_fashion_stopped_trusting_photography_sec-8",
+      "source_id": "src_8108c0e8b9cd4bbf",
+      "locator": "DOCX section sec-8",
+      "support": "British Fashion Council and NOWNESS pages establish fashion film as an active platformed format; the two-speed attention model is VANSMITHLAB interpretation."
+    },
+    {
+      "id": "cit_why_photo_09_01",
+      "claim_id": "clm_why_fashion_stopped_trusting_photography_sec-9",
+      "source_id": "src_94f9d4b8edea95e7",
+      "locator": "DOCX section sec-9",
+      "support": "The DreamPose paper establishes synthesis of human and fabric motion from a still image and pose sequence; the consent, rights and trust questions are VANSMITHLAB interpretation."
+    },
+    {
+      "id": "cit_why_photo_10_01",
+      "claim_id": "clm_why_fashion_stopped_trusting_photography_sec-10",
+      "source_id": "src_8ea9a6e008c97485",
+      "locator": "DOCX section sec-10",
+      "support": "The cited official and editorial platforms establish the coexistence of still, moving and serial fashion-image formats; the conclusion is VANSMITHLAB's synthesis."
+    },
+    {
+      "id": "cit_why_photo_10_02",
+      "claim_id": "clm_why_fashion_stopped_trusting_photography_sec-10",
+      "source_id": "src_f27715e7b0d68c99",
+      "locator": "DOCX section sec-10",
+      "support": "The cited official and editorial platforms establish the coexistence of still, moving and serial fashion-image formats; the conclusion is VANSMITHLAB's synthesis."
+    },
+    {
+      "id": "cit_why_photo_10_03",
+      "claim_id": "clm_why_fashion_stopped_trusting_photography_sec-10",
+      "source_id": "src_8108c0e8b9cd4bbf",
+      "locator": "DOCX section sec-10",
+      "support": "The cited official and editorial platforms establish the coexistence of still, moving and serial fashion-image formats; the conclusion is VANSMITHLAB's synthesis."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "media_state": "editorially_selected",
+  "workflow": {
+    "decision": "AUTO_APPROVE",
+    "note": "Replacement Analysis v2.0 release: RU master and EN adaptation passed DOCX structure, URL source, editorial, media-handoff and parity checks. The new release supersedes the earlier Fashion Film analysis while preserving the content identity and redirecting the legacy route.",
+    "converted_by": "VANSMITHLAB chief-editor replacement workflow",
+    "converted_at": "2026-08-13T00:00:00.000Z"
+  }
+}

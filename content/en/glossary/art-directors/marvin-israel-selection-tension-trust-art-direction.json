@@ -47,7 +47,50 @@
     "art-director",
     "graphic-designer",
     "photographer",
-    "artist"
+    "artist",
+    "educator"
   ],
-  "body_hash": "dcf7761b3f81771b48d1b4de235dcb146d5ac7f3c98548b858a9700ed45aaac3"
+  "body_hash": "dcf7761b3f81771b48d1b4de235dcb146d5ac7f3c98548b858a9700ed45aaac3",
+  "hero_image": {
+    "src": "/images/glossary/art-directors/marvin-israel-selection-tension-trust-art-direction-hero-v1-card.svg",
+    "asset_id": "asset_marvin-israel-selection-tension-trust-art-direction_card_v1",
+    "primary_object_id": "",
+    "content_release_id": "cnt_985bf3313c7f2334",
+    "kind": "image",
+    "locale": "en",
+    "content_hash": "21127eaa319ee84bfd37ed699cea76ff7af326ff6cbfbfbc8af2e9020d9747f6",
+    "file_storage_key": "public/images/glossary/art-directors/marvin-israel-selection-tension-trust-art-direction-hero-v1-card.svg",
+    "creator_or_credit": "VANSMITHLAB editorial visual system",
+    "rights_state": "original",
+    "licence_or_permission": "Original VANSMITHLAB SVG editorial visual; no third-party images, logos or trademarks.",
+    "source_url": "",
+    "created_at": "2026-08-12",
+    "alt": "Editorial diagram of Marvin Israel's method: selection, tension and trust between image and page.",
+    "alt_text": "Editorial diagram of Marvin Israel's method: selection, tension and trust between image and page.",
+    "caption": "Art direction as precise selection and management of tension between elements.",
+    "credit": "VANSMITHLAB · original editorial visual, 2026",
+    "origin": "editorial",
+    "rights_status": "original"
+  },
+  "portrait_image": {
+    "src": "/images/glossary/art-directors/marvin-israel-selection-tension-trust-art-direction-portrait-ai-v1.webp",
+    "asset_id": "asset_marvin-israel-selection-tension-trust-art-direction_portrait_v1",
+    "primary_object_id": "",
+    "content_release_id": "cnt_985bf3313c7f2334",
+    "kind": "image",
+    "locale": "en",
+    "content_hash": "81b641c8f52ac8a93ed20e8f0cdb9e4387bba6d081b3f471d8af1b0d5cabed47",
+    "file_storage_key": "public/images/glossary/art-directors/marvin-israel-selection-tension-trust-art-direction-portrait-ai-v1.webp",
+    "creator_or_credit": "OpenAI image generation · directed and reviewed by VANSMITHLAB",
+    "rights_state": "generated_reviewed",
+    "licence_or_permission": "Original AI portrait reconstruction generated for VANSMITHLAB without copying a specific protected photograph; not documentary evidence.",
+    "source_url": "",
+    "created_at": "2026-08-12",
+    "alt": "AI reconstruction of Marvin Israel at a table with layouts and proof sheets.",
+    "alt_text": "AI reconstruction of Marvin Israel at a table with layouts and proof sheets.",
+    "caption": "Marvin Israel, art director. AI reconstruction, not an archival photograph.",
+    "credit": "VANSMITHLAB · AI-реконструкция, 2026",
+    "origin": "ai_reconstruction",
+    "rights_status": "generated_reviewed"
+  }
 }

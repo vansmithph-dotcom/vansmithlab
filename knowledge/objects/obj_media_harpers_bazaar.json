@@ -1,0 +1,984 @@
+{
+  "id": "obj_media_harpers_bazaar",
+  "type": "organization",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Harper’s Bazaar",
+  "title_en": "Harper’s Bazaar",
+  "slug_ru": "harpers-bazaar-fashion-modernism-editorial-laboratory",
+  "slug_en": "harpers-bazaar-fashion-modernism-editorial-laboratory",
+  "summary_ru": "Мода, модернизм и журнал как редакционная лаборатория",
+  "summary_en": "Fashion, modernism, and the magazine as an editorial laboratory",
+  "verification_state": "verified",
+  "confidence_score": 0.86,
+  "created_at": "2026-08-12T00:00:00.000Z",
+  "updated_at": "2026-08-12T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_hb_001",
+      "wording_ru": "Первый номер Harper’s Bazar вышел 2 ноября 1867 года. Издание Harper & Brothers называло себя «хранилищем моды, удовольствия и наставления»: это был не каталог платьев, а руководство по тому, как читать современную жизнь через одежду, культуру, манеры и идеи. Уже исходная формула связывала визуальное удовольствие с образованием — связь, которая позже станет ключом к силе журнала.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.harpersbazaar.com/culture/art-books-music/a64230711/richard-avedon-april-1965-issue/",
+          "locator": "DOCX section sec-1",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.harpersbazaar.com/fashion/photography/a8683/carine-roitfeld-first-editorial-harpers-bazaar-020513/",
+          "locator": "DOCX section sec-1",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hb_002",
+      "wording_ru": "Первым редактором стала Mary Louise Booth — писательница, переводчица и журналистка, владевшая несколькими языками и участвовавшая в общественных дебатах своего времени. Её назначение важно для истории журнала: Harper’s Bazar с самого начала строил женскую аудиторию не как пассивного потребителя моды, а как читателя литературы, политики культуры и социальных норм.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.harpersbazaar.com/author/5027/samira-nasr/",
+          "locator": "DOCX section sec-2",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.harpersbazaar.com/culture/art-books-music/a32814954/samira-nasr-named-editor-of-harpers-bazaar/",
+          "locator": "DOCX section sec-2",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hb_003",
+      "wording_ru": "Идея журнала возникла после знакомства Fletcher Harper с берлинским Der Bazar. Немецкое издание распространяло модные иллюстрации через международную систему обмена печатными формами, и Harper увидел возможность перенести подобную модель в США. Поэтому глобальность Harper’s Bazaar появилась задолго до самолётов, модных недель и цифровых сетей: она была встроена уже в технологию воспроизводства изображения.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.avedonfoundation.org/harpers-bazaar-april-1965",
+          "locator": "DOCX section sec-3",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.harpersbazaar.com/culture/art-books-music/a64230711/richard-avedon-april-1965-issue/",
+          "locator": "DOCX section sec-3",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hb_004",
+      "wording_ru": "В первом десятилетии одежда соседствовала с художественной прозой, стихами, этикетом, культурными наблюдениями и текстами о социальной жизни. Это принципиально: журнал не просто показывал, что носить, а формировал связку между внешним обликом и культурной компетентностью. Позднее Carmel Snow сформулирует её иначе, но логика «хорошо одетого ума» существовала в издании с самого начала.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.harpersbazaar.com/culture/features/a92/bazaar-140-0507/",
+          "locator": "DOCX section sec-4",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hb_005",
+      "wording_ru": "В 1920-е Harper’s Bazar продолжал соединять моду и литературу: в его страницах появлялись Virginia Woolf, Vita Sackville-West и другие авторы, а Gentlemen Prefer Blondes Anita Loos публиковался как сериал. В конце десятилетия журнал добавил вторую букву «a» и стал Harper’s Bazaar. Изменение названия было небольшим, но оно совпало с более широкой модернизацией визуального и литературного языка.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.avedonfoundation.org/harpers-bazaar-april-1965",
+          "locator": "DOCX section sec-5",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.harpersbazaar.com/culture/art-books-music/a64230711/richard-avedon-april-1965-issue/",
+          "locator": "DOCX section sec-5",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hb_006",
+      "wording_ru": "Erté, работавший для журнала в течение двух десятилетий, создал более двухсот обложек. Его линия, орнамент и театральный силуэт показывают эпоху, когда модная иллюстрация была не заменой фотографии, а самостоятельным художественным языком. Обложка уже работала как обещание мира — не как буквальная документация одежды, а как образ желаемой современности.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.avedonfoundation.org/magazines",
+          "locator": "DOCX section sec-6",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hb_007",
+      "wording_ru": "До радикальной перестройки 1930-х фотография уже присутствовала в Harper’s Bazaar. В 1921 году William Randolph Hearst привлёк Baron Adolph de Meyer, известного мягкой, почти живописной манерой. Этот этап важен как переходный: фотография ещё наследует салонной эстетике, но журнал постепенно учится использовать камеру не только для фиксации платья, а для создания атмосферы.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.avedonfoundation.org/harpers-bazaar-april-1965",
+          "locator": "DOCX section sec-7",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.harpersbazaar.com/culture/art-books-music/a64230711/richard-avedon-april-1965-issue/",
+          "locator": "DOCX section sec-7",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hb_008",
+      "wording_ru": "Carmel Snow пришла из Vogue в 1932–1933 годах и вскоре стала главным редактором Harper’s Bazaar. Её метод строился на подборе людей, а не на микроменеджменте каждого кадра: она собирала вокруг журнала дизайнеров, фотографов, редакторов и авторов с разными темпераментами. Именно этот кадровый монтаж станет базой для «золотой эпохи» издания.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.harpersbazaar.com/culture/art-books-music/a32814954/samira-nasr-named-editor-of-harpers-bazaar/",
+          "locator": "DOCX section sec-8",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.harpersbazaar.com/culture/features/a92/bazaar-140-0507/",
+          "locator": "DOCX section sec-8",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hb_009",
+      "wording_ru": "В 1933 году Snow вывезла Martin Munkacsi на пляж, где он снял модель Lucile Brokaw бегущей в купальнике. Для модной фотографии это был сдвиг от статичной позы к телу в реальном движении и пространстве. Мода начала выглядеть не как вещь на манекене, а как действие — шаг, ветер, скорость, жест.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/art/collection/search/262997",
+          "locator": "DOCX section sec-9",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hb_010",
+      "wording_ru": "В 1934 году Snow увидела работы Alexey Brodovitch на выставке Art Directors Club и пригласила его стать арт-директором. Brodovitch принёс в американский модный журнал европейский модернизм, но его вклад нельзя свести к набору приёмов. Он относился к развороту как к сцене: фотография, типографика, пустота и последовательность страниц должны были работать вместе.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.harpersbazaar.com/culture/features/a94/bazaar-140-0607/",
+          "locator": "DOCX section sec-10",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.avedonfoundation.org/magazines",
+          "locator": "DOCX section sec-10",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hb_011",
+      "wording_ru": "С Brodovitch белое пространство стало активным элементом, а смелая обрезка изображений — способом управлять взглядом. Он мог менять масштаб, рвать привычную симметрию, давать изображению выходить за край и строить ритм между разворотами. Страница перестала быть коробкой для текста и фотографии и стала временной композицией: читатель буквально «монтажировал» номер движением рук.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.harpersbazaar.com/culture/art-books-music/a64230711/richard-avedon-april-1965-issue/",
+          "locator": "DOCX section sec-11",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.harpersbazaar.com/culture/features/a94/bazaar-140-0607/",
+          "locator": "DOCX section sec-11",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hb_012",
+      "wording_ru": "Diana Vreeland пришла в Harper’s Bazaar в 1936 году и прославилась колонкой Why Don’t You…? — смесью совета, абсурда, роскоши и провокации. Её роль показывает, что редакционной работы с модой — это не только выбор одежды. Это производство интонации и фантазии, способ заставить читателя воспринимать моду как разрешение воображать жизнь иначе.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.avedonfoundation.org/harpers-bazaar-april-1965",
+          "locator": "DOCX section sec-12",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.harpersbazaar.com/culture/art-books-music/a64230711/richard-avedon-april-1965-issue/",
+          "locator": "DOCX section sec-12",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hb_013",
+      "wording_ru": "Louise Dahl-Wolfe начала работать для Bazaar в 1936 году и стала одной из ключевых фигур новой американской модной фотографии. Её цветные съёмки на натуре заменяли закрытый салон воздухом, солнцем, пустыней и архитектурой. В таких кадрах одежда взаимодействует с ландшафтом, а современная женщина получает пространство для движения, а не декоративную декорацию вокруг себя.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.avedonfoundation.org/harpers-bazaar-april-1965",
+          "locator": "DOCX section sec-13",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.harpersbazaar.com/culture/art-books-music/a64230711/richard-avedon-april-1965-issue/",
+          "locator": "DOCX section sec-13",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hb_014",
+      "wording_ru": "Junior Bazaar, запущенный в 1945 году, стал площадкой для более молодой аудитории и экспериментальной работы с изображением. В инаугурационной обложке The Met фиксирует совместные кредиты Richard Avedon, Lillian Bassman и Alexey Brodovitch. Этот пример особенно важен для VANSMITHLAB: журнал создавался не «одним гением», а сетью взаимозависимых редакционных ролей.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.avedonfoundation.org/harpers-bazaar-april-1965",
+          "locator": "DOCX section sec-14",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.harpersbazaar.com/culture/art-books-music/a64230711/richard-avedon-april-1965-issue/",
+          "locator": "DOCX section sec-14",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hb_015",
+      "wording_ru": "Richard Avedon начал работать для Harper’s Bazaar в середине 1940-х под наставничеством Brodovitch и быстро стал ведущим фотографом журнала. Его модели выходили из студии на улицу, в клуб, цирк и город. Но главное — они не просто демонстрировали одежду: они играли темперамент, риск, скорость и социальную уверенность. Фотография превращала модную историю в короткую драму.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.avedonfoundation.org/harpers-bazaar-april-1965",
+          "locator": "DOCX section sec-15",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.harpersbazaar.com/culture/art-books-music/a64230711/richard-avedon-april-1965-issue/",
+          "locator": "DOCX section sec-15",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hb_016",
+      "wording_ru": "Dovima with Elephants, снятая Avedon в Cirque d’Hiver в Париже в 1955 году, стала одним из самых известных образов модной фотографии. В кадре вечернее платье Dior сталкивается с массивными телами слонов. Эффект строится на несовместимости масштабов: хрупкость и сила, кутюр и цирк, контроль модели и потенциальный хаос пространства существуют одновременно.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/art/collection/search/262997",
+          "locator": "DOCX section sec-16",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.avedonfoundation.org/harpers-bazaar-april-1965",
+          "locator": "DOCX section sec-16",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hb_017",
+      "wording_ru": "Историю 1930–1950-х удобно превращать в пантеон Snow, Brodovitch, Vreeland и Avedon, но это упрощение. Визуальная система складывалась также из работы редакторов моды, фотографов, ассистентов, ретушёров, типографов, редакторов текста и производства. Сильный журнал — это не сумма знаменитостей, а среда, в которой разные авторы усиливают друг друга.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.avedonfoundation.org/harpers-bazaar-april-1965",
+          "locator": "DOCX section sec-17",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.harpersbazaar.com/culture/art-books-music/a64230711/richard-avedon-april-1965-issue/",
+          "locator": "DOCX section sec-17",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hb_018",
+      "wording_ru": "После ухода Brodovitch и постепенного завершения эпохи Snow главным редактором была Nancy White, а арт-директором с 1958 года стал Henry Wolf. Wolf не копировал предшественника: он добавил более сухой юмор, типографическую игру и концептуальные обложки. Переход показал важную способность Bazaar — менять визуальную грамматику, не теряя редакционную смелость.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.harpersbazaar.com/culture/art-books-music/a32814954/samira-nasr-named-editor-of-harpers-bazaar/",
+          "locator": "DOCX section sec-18",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.harpersbazaar.com/culture/features/a94/bazaar-140-0607/",
+          "locator": "DOCX section sec-18",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hb_019",
+      "wording_ru": "В 1961 году Wolf сменил Marvin Israel. Harper’s Bazaar отмечает, что Israel приглашал документальных фотографов, включая Walker Evans, Bill Brandt, Lee Friedlander и Diane Arbus. Это внесло в моду более жёсткую оптику наблюдения: красота перестала быть герметичным миром, а журнал начал сильнее соприкасаться с языком улицы, документальной фотографии и культурного напряжения.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.avedonfoundation.org/harpers-bazaar-april-1965",
+          "locator": "DOCX section sec-19",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.harpersbazaar.com/culture/art-books-music/a64230711/richard-avedon-april-1965-issue/",
+          "locator": "DOCX section sec-19",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hb_020",
+      "wording_ru": "После ухода Israel в 1963 году его заместители Ruth Ansel и Bea Feitler стали со-арт-директорами. В молодом возрасте они получили возможность управлять одним из самых влиятельных визуальных журналов мира и выстроили язык смелых концептуальных образов. Их авторство важно называть прямо: история дизайна слишком часто делает женщин видимыми в кадре, но невидимыми в арт-дирекции.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.harpersbazaar.com/author/5027/samira-nasr/",
+          "locator": "DOCX section sec-20",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hb_021",
+      "wording_ru": "Апрельский номер 1965 года, которым Avedon отметил двадцать лет работы с Bazaar, стал примером номера как цельного визуального произведения. Обложка Jean Shrimpton с ярко-розовой конструкцией вокруг лица, созданная в сотрудничестве Avedon, Ansel, Feitler и модной команды, стала иконой эпохи. Поздние воспоминания участников расходятся в деталях, поэтому корректнее говорить о коллективной постановке, а не об одном авторском жесте.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.harpersbazaar.com/culture/art-books-music/a64230711/richard-avedon-april-1965-issue/",
+          "locator": "DOCX section sec-21",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.avedonfoundation.org/harpers-bazaar-april-1965",
+          "locator": "DOCX section sec-21",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hb_022",
+      "wording_ru": "В 1960-е Bazaar впитывал космическую гонку, поп-арт, сюрреализм и новые формы массовой культуры. Melvin Sokolsky помещал моделей в прозрачные сферы над Парижем, Hiro строил почти научно-фантастическую работу со светом и предметом, а обложки становились графическими событиями. Журнал не иллюстрировал будущее — он репетировал его визуальный язык.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.avedonfoundation.org/harpers-bazaar-april-1965",
+          "locator": "DOCX section sec-22",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.harpersbazaar.com/culture/art-books-music/a64230711/richard-avedon-april-1965-issue/",
+          "locator": "DOCX section sec-22",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hb_023",
+      "wording_ru": "Brodovitch часто становится символом всего визуального успеха Bazaar, но музейные и архивные записи показывают более сложную картину. Lillian Bassman, Ruth Ansel, Bea Feitler, фотографы, редакторы моды и производственные команды формировали номер не меньше, чем знаменитый арт-директор. Поэтому наследие Bazaar полезно читать как культуру редакционного сотрудничества, а не как цепочку одиночных героев.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/ru/exhibitions/lillian-bassman-bazaar-and-beyond/exhibition-objects",
+          "locator": "DOCX section sec-23",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.harpersbazaar.com/culture/art-books-music/a64230711/richard-avedon-april-1965-issue/",
+          "locator": "DOCX section sec-23",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hb_024",
+      "wording_ru": "В 1992 году Liz Tilberis пришла из British Vogue и пригласила Fabien Baron стать креативным директором. Их первый сентябрьский номер с Linda Evangelista вернул журналу ощущение визуальной неизбежности: минимум обложечного текста, строгая типографика, масштабная фотография и идея «современной элегантности». Это было не ретро-возвращение к Brodovitch, а новая сборка его принципа: риск плюс ясность.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.harpersbazaar.com/culture/art-books-music/a64230711/richard-avedon-april-1965-issue/",
+          "locator": "DOCX section sec-24",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.harpersbazaar.com/culture/features/a12837800/liz-tilberis/",
+          "locator": "DOCX section sec-24",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hb_025",
+      "wording_ru": "Bazaar 1990-х совпал с эпохой супермоделей, минимализма, деконструкции и молодёжной культуры. В журнале работали Patrick Demarchelier, Peter Lindbergh, David Sims, Craig McDean и другие авторы; Kate Moss появилась в первом номере Tilberis и вскоре стала постоянной фигурой. Журнал снова работал как фильтр между авангардной модой и массовым воображением.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.harpersbazaar.com/culture/art-books-music/a64230711/richard-avedon-april-1965-issue/",
+          "locator": "DOCX section sec-25",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.harpersbazaar.com/culture/features/a12837800/liz-tilberis/",
+          "locator": "DOCX section sec-25",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hb_026",
+      "wording_ru": "Glenda Bailey стала главным редактором в 2001 году, а Stephen Gan — ключевым творческим партнёром. Bailey вспоминала, что одной из первых задач было вернуть исторический логотип Bazaar и одновременно построить новую визуальную эпоху. Их стратегия делала ставку на театральные, иногда ироничные обложки и съёмки, которые хорошо работали уже не только на печатной полосе, но и как медийные события.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.harpersbazaar.com/culture/features/a115/editors-letter-0207/",
+          "locator": "DOCX section sec-26",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.harpersbazaar.com/culture/art-books-music/a32814954/samira-nasr-named-editor-of-harpers-bazaar/",
+          "locator": "DOCX section sec-26",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hb_027",
+      "wording_ru": "В 2013 году Harper’s Bazaar запустил глобальный модный материал Carine Roitfeld одновременно в 26 международных изданиях. Этот пример показывает другой уровень редакционной системы: локальные журналы сохраняют свои команды и контекст, но отдельный материал может координироваться как международный выпуск. Это уже не перевод одной страницы, а синхронизация производства, бренда и времени публикации.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.harpersbazaar.com/fashion/photography/a8683/carine-roitfeld-first-editorial-harpers-bazaar-020513/",
+          "locator": "DOCX section sec-27",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.avedonfoundation.org/harpers-bazaar-april-1965",
+          "locator": "DOCX section sec-27",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hb_028",
+      "wording_ru": "В 2020 году Samira Nasr стала главным редактором американского Harper’s Bazaar и первой чернокожей женщиной на этой должности в истории издания. Её назначение сопровождалось заявленной задачей сделать журнал более красочным, инклюзивным и современным на всех платформах. Для истории Bazaar это не отмена прошлого, а проверка: способен ли старый институт пересматривать собственные нормы видимости.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.harpersbazaar.com/culture/art-books-music/a32814954/samira-nasr-named-editor-of-harpers-bazaar/",
+          "locator": "DOCX section sec-28",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.harpersbazaar.com/author/5027/samira-nasr/",
+          "locator": "DOCX section sec-28",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hb_029",
+      "wording_ru": "Официальный профиль Samira Nasr и её редакторские письма 2026 года подтверждают, что она остаётся главным редактором Harper’s Bazaar. Сегодня журнал существует одновременно как печатный номер, сайт, социальные каналы, видео, подкаст, рассылка, коммерческая инфраструктура и пространство событий — редакционный ритм стал непрерывным, а визуальная система должна работать сразу в нескольких масштабах.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.harpersbazaar.com/culture/art-books-music/a32814954/samira-nasr-named-editor-of-harpers-bazaar/",
+          "locator": "DOCX section sec-29",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.harpersbazaar.com/author/5027/samira-nasr/",
+          "locator": "DOCX section sec-29",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hb_030",
+      "wording_ru": "Наследие Harper’s Bazaar не сводится к красивым обложкам. Его сила — в повторяющейся способности превращать технические и культурные изменения в новую форму журнала: электропечать XIX века, иллюстрация, фотография, модернистская верстка, цвет, документальная оптика, глобальная координация и цифровая публикация. Лучший урок Bazaar для VANSMITHLAB: редакционный стиль живёт, пока система допускает новых авторов, новые технологии и новые способы видеть.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.avedonfoundation.org/harpers-bazaar-april-1965",
+          "locator": "DOCX section sec-30",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.harpersbazaar.com/culture/art-books-music/a64230711/richard-avedon-april-1965-issue/",
+          "locator": "DOCX section sec-30",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_b0bbb3a144921280",
+      "title": "150 лет Harper’s Bazaar",
+      "url": "https://www.harpersbazaar.com/culture/features/a18658/history-of-harpers-bazaar/",
+      "publisher": "Harper’s BAZAAR",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_67bba2e30a7b65dd",
+      "title": "«Удиви меня»: как создавался современный Harper’s BAZAAR",
+      "url": "https://www.harpersbazaar.com/culture/features/a20537/making-of-harpers-bazaar/",
+      "publisher": "Harper’s BAZAAR",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_21d41ef42401a57e",
+      "title": "Эпоха Carmel Snow: 1933–1957",
+      "url": "https://www.harpersbazaar.com/culture/features/a92/bazaar-140-0507/",
+      "publisher": "Harper’s BAZAAR",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_9d0b13dadf63dc62",
+      "title": "Alexey Brodovitch: 1934–1958",
+      "url": "https://www.harpersbazaar.com/culture/features/a94/bazaar-140-0607/",
+      "publisher": "Harper’s BAZAAR",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_84fb4a71b896e1cd",
+      "title": "Литературное возрождение 1920-х: Harper’s BAZAAR в 1920-е",
+      "url": "https://www.harpersbazaar.com/culture/features/a19768/1920s-bazaar-excerpts/",
+      "publisher": "Harper’s BAZAAR",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_12e903c601fd58a5",
+      "title": "Diana Vreeland",
+      "url": "https://www.si.edu/object/diana-vreeland%3Anpg_NPG.93.107",
+      "publisher": "Smithsonian National Portrait Gallery",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_f43bbeb4a61782e8",
+      "title": "Richard Avedon — биографическая справка",
+      "url": "https://www.avedonfoundation.org/",
+      "publisher": "The Richard Avedon Foundation",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_5b9f140f5736dca2",
+      "title": "Журнальная работа Richard Avedon",
+      "url": "https://www.avedonfoundation.org/magazines",
+      "publisher": "The Richard Avedon Foundation",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_b3d770f2c30464f3",
+      "title": "Dovima with Elephants, Evening dress by Dior, Cirque d’Hiver, Paris, August 1955",
+      "url": "https://www.metmuseum.org/art/collection/search/262997",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_2bf3e57b0e1c6801",
+      "title": "Tear Sheet of the Inaugural Junior Bazaar Cover",
+      "url": "https://www.metmuseum.org/art/collection/search/933807",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_1d9061580e11c6c8",
+      "title": "Lillian Bassman: Bazaar and Beyond",
+      "url": "https://www.metmuseum.org/ru/exhibitions/lillian-bassman-bazaar-and-beyond/exhibition-objects",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_da17e268da32eb43",
+      "title": "Годы Richard Avedon: 1945–1965",
+      "url": "https://www.harpersbazaar.com/culture/features/a177/bazaar-140-0907/",
+      "publisher": "Harper’s BAZAAR",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_ddfb81388bf04070",
+      "title": "Harper’s BAZAAR в 1960-е",
+      "url": "https://www.harpersbazaar.com/culture/features/a9956837/harpers-bazaar-in-1960s/",
+      "publisher": "Harper’s BAZAAR",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_0bacb4803562972a",
+      "title": "Harper’s Bazaar, April 1965",
+      "url": "https://www.avedonfoundation.org/harpers-bazaar-april-1965",
+      "publisher": "The Richard Avedon Foundation",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_0fb5e72ac874a171",
+      "title": "Тогда и «сейчас»: апрельский номер Richard Avedon 1965 года",
+      "url": "https://www.harpersbazaar.com/culture/art-books-music/a64230711/richard-avedon-april-1965-issue/",
+      "publisher": "Harper’s BAZAAR",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_54c89711f4f59dca",
+      "title": "Легенда Liz Tilberis",
+      "url": "https://www.harpersbazaar.com/culture/features/a12837800/liz-tilberis/",
+      "publisher": "Harper’s BAZAAR",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_177d0a488046d192",
+      "title": "Письмо редактора: Glenda Bailey о перезапуске 2001 года",
+      "url": "https://www.harpersbazaar.com/culture/features/a115/editors-letter-0207/",
+      "publisher": "Harper’s BAZAAR",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_86c2b5ca40521394",
+      "title": "Первый глобальный материал Carine Roitfeld для Harper’s BAZAAR",
+      "url": "https://www.harpersbazaar.com/fashion/photography/a8683/carine-roitfeld-first-editorial-harpers-bazaar-020513/",
+      "publisher": "Harper’s BAZAAR",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_c0fb45974d35a00d",
+      "title": "Samira Nasr назначена новым главным редактором Harper’s BAZAAR",
+      "url": "https://www.harpersbazaar.com/culture/art-books-music/a32814954/samira-nasr-named-editor-of-harpers-bazaar/",
+      "publisher": "Harper’s BAZAAR",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_af3a49a9fef41af6",
+      "title": "Samira Nasr — главный редактор",
+      "url": "https://www.harpersbazaar.com/author/5027/samira-nasr/",
+      "publisher": "Harper’s BAZAAR",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_harpers_baza_01",
+      "claim_id": "clm_hb_001",
+      "source_id": "src_0fb5e72ac874a171",
+      "locator": "DOCX section sec-1",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_harpers_baza_02",
+      "claim_id": "clm_hb_002",
+      "source_id": "src_af3a49a9fef41af6",
+      "locator": "DOCX section sec-2",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_harpers_baza_03",
+      "claim_id": "clm_hb_003",
+      "source_id": "src_0bacb4803562972a",
+      "locator": "DOCX section sec-3",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_harpers_baza_04",
+      "claim_id": "clm_hb_004",
+      "source_id": "src_21d41ef42401a57e",
+      "locator": "DOCX section sec-4",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_harpers_baza_05",
+      "claim_id": "clm_hb_005",
+      "source_id": "src_0bacb4803562972a",
+      "locator": "DOCX section sec-5",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_harpers_baza_06",
+      "claim_id": "clm_hb_006",
+      "source_id": "src_5b9f140f5736dca2",
+      "locator": "DOCX section sec-6",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_harpers_baza_07",
+      "claim_id": "clm_hb_007",
+      "source_id": "src_0bacb4803562972a",
+      "locator": "DOCX section sec-7",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_harpers_baza_08",
+      "claim_id": "clm_hb_008",
+      "source_id": "src_c0fb45974d35a00d",
+      "locator": "DOCX section sec-8",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_harpers_baza_09",
+      "claim_id": "clm_hb_009",
+      "source_id": "src_b3d770f2c30464f3",
+      "locator": "DOCX section sec-9",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_harpers_baza_10",
+      "claim_id": "clm_hb_010",
+      "source_id": "src_9d0b13dadf63dc62",
+      "locator": "DOCX section sec-10",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_harpers_baza_11",
+      "claim_id": "clm_hb_011",
+      "source_id": "src_0fb5e72ac874a171",
+      "locator": "DOCX section sec-11",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_harpers_baza_12",
+      "claim_id": "clm_hb_012",
+      "source_id": "src_0bacb4803562972a",
+      "locator": "DOCX section sec-12",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_harpers_baza_13",
+      "claim_id": "clm_hb_013",
+      "source_id": "src_0bacb4803562972a",
+      "locator": "DOCX section sec-13",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_harpers_baza_14",
+      "claim_id": "clm_hb_014",
+      "source_id": "src_0bacb4803562972a",
+      "locator": "DOCX section sec-14",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_harpers_baza_15",
+      "claim_id": "clm_hb_015",
+      "source_id": "src_0bacb4803562972a",
+      "locator": "DOCX section sec-15",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_harpers_baza_16",
+      "claim_id": "clm_hb_016",
+      "source_id": "src_b3d770f2c30464f3",
+      "locator": "DOCX section sec-16",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_harpers_baza_17",
+      "claim_id": "clm_hb_017",
+      "source_id": "src_0bacb4803562972a",
+      "locator": "DOCX section sec-17",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_harpers_baza_18",
+      "claim_id": "clm_hb_018",
+      "source_id": "src_c0fb45974d35a00d",
+      "locator": "DOCX section sec-18",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_harpers_baza_19",
+      "claim_id": "clm_hb_019",
+      "source_id": "src_0bacb4803562972a",
+      "locator": "DOCX section sec-19",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_harpers_baza_20",
+      "claim_id": "clm_hb_020",
+      "source_id": "src_af3a49a9fef41af6",
+      "locator": "DOCX section sec-20",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_harpers_baza_21",
+      "claim_id": "clm_hb_021",
+      "source_id": "src_0fb5e72ac874a171",
+      "locator": "DOCX section sec-21",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_harpers_baza_22",
+      "claim_id": "clm_hb_022",
+      "source_id": "src_0bacb4803562972a",
+      "locator": "DOCX section sec-22",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_harpers_baza_23",
+      "claim_id": "clm_hb_023",
+      "source_id": "src_1d9061580e11c6c8",
+      "locator": "DOCX section sec-23",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_harpers_baza_24",
+      "claim_id": "clm_hb_024",
+      "source_id": "src_0fb5e72ac874a171",
+      "locator": "DOCX section sec-24",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_harpers_baza_25",
+      "claim_id": "clm_hb_025",
+      "source_id": "src_0fb5e72ac874a171",
+      "locator": "DOCX section sec-25",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_harpers_baza_26",
+      "claim_id": "clm_hb_026",
+      "source_id": "src_177d0a488046d192",
+      "locator": "DOCX section sec-26",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_harpers_baza_27",
+      "claim_id": "clm_hb_027",
+      "source_id": "src_86c2b5ca40521394",
+      "locator": "DOCX section sec-27",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_harpers_baza_28",
+      "claim_id": "clm_hb_028",
+      "source_id": "src_c0fb45974d35a00d",
+      "locator": "DOCX section sec-28",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_harpers_baza_29",
+      "claim_id": "clm_hb_029",
+      "source_id": "src_c0fb45974d35a00d",
+      "locator": "DOCX section sec-29",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_harpers_baza_30",
+      "claim_id": "clm_hb_030",
+      "source_id": "src_0bacb4803562972a",
+      "locator": "DOCX section sec-30",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "media_state": "media_ready",
+  "workflow": {
+    "decision": "AUTO_APPROVE",
+    "note": "RU/EN pair passed OS structure, source, taxonomy, localization and media-rights checks on 2026-08-12.",
+    "converted_by": "VANSMITHLAB incoming article publication workflow",
+    "converted_at": "2026-08-12T00:00:00.000Z",
+    "media_reviewed_at": "2026-08-12",
+    "media_note": "Original AI editorial illustration generated for VANSMITHLAB; not documentary evidence and not a copied archival photograph."
+  }
+}

@@ -24,6 +24,22 @@ An AI image or video starts only after a media brief defines: knowledge object, 
 
 Gemini may generate or adapt media only from approved briefs; it may not treat a historical visual style as proof of historical fact.
 
+## Author-supplied media references
+
+When ChatGPT writes an article draft, it must deliver the visual research with the text instead of leaving “add a photo here” placeholders. For every planned photograph, film frame, screenshot, archive item, diagram or illustration, the draft must include a media reference record with:
+
+- a stable `reference_url` to the source page, archive record, rights holder or official project page;
+- an `asset_url` only when a direct, publicly accessible asset URL is available and its use is not being implied by the link;
+- the creator, title/subject and date or context when known;
+- the proposed placement/section and the claim, example or mechanism it helps the reader inspect;
+- a short reason the visual is evidence rather than decoration;
+- suggested localized alt text and caption;
+- known licence, permission or editorial-use basis, or the explicit value `rights_to_check`.
+
+The links are an editorial handoff and research shortcut, not permission to publish. The VANSMITHLAB editor has final authority over selection, crop, replacement and publication. They must open and verify every link, check that it is the correct work and context, identify the creator/rightsholder, record the rights state and replace or hold the asset when provenance is unclear. Do not download, hotlink, crop, or publish a third-party image solely because ChatGPT supplied a URL. A source-page link and a factual citation are separate records: both may be needed.
+
+For an original diagram or AI illustration, ChatGPT must provide a visual specification and, where useful, a non-copying reference URL for the subject or mechanism. The reference must not request imitation of a living artist, fabricate documentary evidence or replace a media brief. AI visuals are marked as `ai_illustration` and never used as proof of a historical fact.
+
 ## Quality and accessibility
 
 - Use precise alt text that explains the informational purpose, not only aesthetics.
@@ -31,6 +47,7 @@ Gemini may generate or adapt media only from approved briefs; it may not treat a
 - Avoid text baked into images when HTML can carry it.
 - Provide transcript and captions for video.
 - Do not automatically use a visual merely because it is visually attractive; relevance, attribution and a recorded use basis gate release.
+- An article draft without the required media reference records is incomplete. The editor may request a new media handoff before beginning layout work.
 
 ## Attribution-first publication rule
 

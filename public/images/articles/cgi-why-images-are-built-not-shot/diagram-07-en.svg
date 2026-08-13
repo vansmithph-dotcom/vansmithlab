@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img">
+<title>A MAP OF CONTROL: EXPLICIT 3D AND GENERATIVE VIDEO</title>
+<desc>The comparison is not between technologies, but where the author controls dependencies</desc>
+<rect width="1600" height="900" fill="#f2eee6"/>
+<defs><pattern id="grid" width="80" height="80" patternUnits="userSpaceOnUse"><path d="M80 0H0V80" fill="none" stroke="#ded7ca" stroke-width="1"/></pattern></defs>
+<rect x="40" y="40" width="1520" height="820" fill="url(#grid)" opacity=".46"/>
+<rect x="40" y="40" width="1520" height="820" rx="0" fill="none" stroke="#171716" stroke-width="2"/>
+<text x="78" y="96" fill="#c84a31" text-anchor="start" font-family="monospace" font-size="15" font-weight="500" letter-spacing="2">VANSMITHLAB / ANALYSIS / 07</text>
+<text x="78" y="170" fill="#171716" text-anchor="start" font-family="Georgia" font-size="42" font-weight="500" letter-spacing="0">A MAP OF CONTROL: EXPLICIT 3D AND GENERATIVE VIDEO</text>
+<line x1="78" y1="202" x2="1522" y2="202" stroke="#171716" stroke-width="2"/>
+<text x="78" y="824" fill="#777167" text-anchor="start" font-family="Arial" font-size="19" font-weight="400" letter-spacing="0">The comparison is not between technologies, but where the author controls dependencies</text>
+<rect x="100" y="285" width="620" height="430" rx="0" fill="#dce5e9" stroke="#171716" stroke-width="2"/>
+<rect x="880" y="285" width="620" height="430" rx="0" fill="#ead3ca" stroke="#171716" stroke-width="2"/>
+<text x="410" y="345" fill="#171716" text-anchor="middle" font-family="Georgia" font-size="22" font-weight="500" letter-spacing="0">EXPLICIT 3D</text>
+<text x="1190" y="345" fill="#171716" text-anchor="middle" font-family="Georgia" font-size="22" font-weight="500" letter-spacing="0">GENERATIVE VIDEO</text>
+<rect x="180" y="430" width="180" height="76" rx="12" fill="#fbf8f1" stroke="#284e78" stroke-width="2"/>
+<text x="270" y="477" fill="#171716" text-anchor="middle" font-family="monospace" font-size="14" font-weight="700" letter-spacing="0">GEOMETRY</text>
+<rect x="460" y="430" width="180" height="76" rx="12" fill="#fbf8f1" stroke="#284e78" stroke-width="2"/>
+<text x="550" y="477" fill="#171716" text-anchor="middle" font-family="monospace" font-size="14" font-weight="700" letter-spacing="0">MATERIAL</text>
+<rect x="180" y="585" width="180" height="76" rx="12" fill="#fbf8f1" stroke="#284e78" stroke-width="2"/>
+<text x="270" y="632" fill="#171716" text-anchor="middle" font-family="monospace" font-size="14" font-weight="700" letter-spacing="0">LIGHT</text>
+<rect x="460" y="585" width="180" height="76" rx="12" fill="#fbf8f1" stroke="#284e78" stroke-width="2"/>
+<text x="550" y="632" fill="#171716" text-anchor="middle" font-family="monospace" font-size="14" font-weight="700" letter-spacing="0">ANIMATION</text>
+<rect x="960" y="450" width="205" height="76" rx="12" fill="#fbf8f1" stroke="#c84a31" stroke-width="2"/>
+<text x="1062" y="497" fill="#171716" text-anchor="middle" font-family="monospace" font-size="14" font-weight="700" letter-spacing="0">REFERENCES</text>
+<rect x="1210" y="450" width="205" height="76" rx="12" fill="#fbf8f1" stroke="#c84a31" stroke-width="2"/>
+<text x="1312" y="497" fill="#171716" text-anchor="middle" font-family="monospace" font-size="14" font-weight="700" letter-spacing="0">CONTEXT</text>
+<rect x="960" y="585" width="205" height="76" rx="12" fill="#fbf8f1" stroke="#c84a31" stroke-width="2"/>
+<text x="1062" y="632" fill="#171716" text-anchor="middle" font-family="monospace" font-size="14" font-weight="700" letter-spacing="0">INSTRUCTIONS</text>
+<line x1="720" y1="500" x2="880" y2="500" stroke="#171716" stroke-width="3" stroke-dasharray="10 10"/>
+<text x="800" y="470" fill="#171716" text-anchor="middle" font-family="monospace" font-size="14" font-weight="700" letter-spacing="0">WHERE DOES CONTROL LIVE?</text>
+</svg>

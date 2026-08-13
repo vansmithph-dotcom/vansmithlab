@@ -1,4 +1,4 @@
-# Hermès: History of the Fashion House
+# The History of the Hermès Fashion House 🇫🇷
 
 *How a Parisian harness workshop turned function, material, manual skill and control of time into one of the most resilient systems in modern luxury*
 

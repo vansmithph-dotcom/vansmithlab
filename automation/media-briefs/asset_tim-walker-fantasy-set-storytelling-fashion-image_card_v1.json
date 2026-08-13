@@ -3,7 +3,7 @@
   "primary_object_id": "",
   "content_release_id": "cnt_57a2ce8293233775",
   "kind": "image",
-  "origin": "ai_illustration",
+  "origin": "editorial",
   "locale": "multilingual",
   "educational_purpose": "Visualize Walker's method as built fantasy — a constructed set and narrative scale that carry the fashion image — without reproducing protected photographs.",
   "may_depict": [
@@ -22,15 +22,25 @@
     "third_party_marks": "No logo, wordmark or recognisable branded asset."
   },
   "accessibility": {
-    "alt_text_ru": "Редакционная AI-иллюстрация: гигантский бутафорский объект на построенной площадке и написанный задник.",
-    "alt_text_en": "Editorial AI illustration: an oversized prop on a constructed set and a painted backdrop.",
-    "caption_ru": "Фантазия, декорация и повествование: визуализация метода Тима Уокера.",
-    "caption_en": "Fantasy, set design and storytelling: a visualization of Tim Walker's method."
+    "alt_text_ru": "Редакционная схема метода Tim Walker: декорация, театральная постановка и повествовательный fashion-образ.",
+    "alt_text_en": "Editorial diagram of Tim Walker's method: constructed set, theatrical staging and narrative fashion image.",
+    "caption_ru": "Фантазия строится как материальная сцена: декорация становится частью рассказа.",
+    "caption_en": "Fantasy is built as a material stage: the set becomes part of the story."
   },
   "creator": "OpenAI image generation · directed and reviewed by VANSMITHLAB",
   "created_at": "2026-08-12",
-  "asset_path": "public/images/glossary/photographers/tim-walker-fantasy-set-storytelling-fashion-image-hero-v1-card.webp",
+  "asset_path": "public/images/glossary/photographers/tim-walker-fantasy-set-storytelling-fashion-image-hero-v1-card.svg",
   "generation_prompt_class": "original fictional editorial visual for tim-walker-fantasy-set-storytelling-fashion-image",
-  "workflow_run_id": "run_20260812_art_directors_photographers",
-  "content_sha256": ""
+  "workflow_run_id": "run_20260812_media_rights_repair",
+  "content_sha256": "",
+  "content_release_ids": [
+    "cnt_57a2ce8293233775"
+  ],
+  "rights_state": "original",
+  "licence_or_permission": "Original VANSMITHLAB SVG editorial visual; no third-party images, logos or trademarks.",
+  "source_url": "",
+  "creator_or_credit": "VANSMITHLAB editorial visual system",
+  "file_storage_key": "public/images/glossary/photographers/tim-walker-fantasy-set-storytelling-fashion-image-hero-v1-card.svg",
+  "content_hash": "7332a65e6aec7ce4d464ca25683c74bd00cd226c98be5a94d9fcee9c80cbccc7",
+  "disclosure": "VANSMITHLAB · original editorial visual, 2026"
 }

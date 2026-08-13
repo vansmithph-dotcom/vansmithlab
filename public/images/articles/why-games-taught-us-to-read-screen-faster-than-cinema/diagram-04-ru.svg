@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img">
+<rect width="1600" height="900" fill="#f2eee6"/>
+<defs><pattern id="grid" width="80" height="80" patternUnits="userSpaceOnUse"><path d="M80 0H0V80" fill="none" stroke="#ded7ca" stroke-width="1"/></pattern></defs>
+<rect x="40" y="40" width="1520" height="820" fill="url(#grid)" opacity=".46"/>
+<rect x="40" y="40" width="1520" height="820" rx="0" fill="none" stroke="#171716" stroke-width="2"/>
+<text x="78" y="96" fill="#c84a31" text-anchor="start" font-family="monospace" font-size="15" font-weight="500" letter-spacing="2">VANSMITHLAB / ANALYSIS / 04</text>
+<text x="78" y="170" fill="#171716" text-anchor="start" font-family="Georgia" font-size="48" font-weight="500" letter-spacing="0">????? ? ?????????</text>
+<line x1="78" y1="202" x2="1522" y2="202" stroke="#171716" stroke-width="2"/>
+<text x="78" y="824" fill="#777167" text-anchor="start" font-family="Arial" font-size="19" font-weight="400" letter-spacing="0">?????? ?????? ?????? ????? ????????</text>
+<rect x="95" y="300" width="270" height="300" rx="0" fill="#fbf8f1" stroke="#171716" stroke-width="2"/>
+<text x="230" y="640" fill="#171716" text-anchor="middle" font-family="monospace" font-size="16" font-weight="700" letter-spacing="0">?????</text>
+<line x1="365" y1="450" x2="445" y2="450" stroke="#c84a31" stroke-width="4"/>
+<path d="M429 436 L445 450 L429 464" fill="none" stroke="#c84a31" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="445" y="300" width="270" height="300" rx="0" fill="#dce5e9" stroke="#171716" stroke-width="2"/>
+<text x="580" y="640" fill="#171716" text-anchor="middle" font-family="monospace" font-size="16" font-weight="700" letter-spacing="0">?????</text>
+<line x1="715" y1="450" x2="795" y2="450" stroke="#c84a31" stroke-width="4"/>
+<path d="M779 436 L795 450 L779 464" fill="none" stroke="#c84a31" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="795" y="300" width="270" height="300" rx="0" fill="#ead3ca" stroke="#171716" stroke-width="2"/>
+<text x="930" y="640" fill="#171716" text-anchor="middle" font-family="monospace" font-size="16" font-weight="700" letter-spacing="0">?????????</text>
+<line x1="1065" y1="450" x2="1145" y2="450" stroke="#c84a31" stroke-width="4"/>
+<path d="M1129 436 L1145 450 L1129 464" fill="none" stroke="#c84a31" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="1145" y="300" width="270" height="300" rx="0" fill="#fbf8f1" stroke="#171716" stroke-width="2"/>
+<text x="1280" y="640" fill="#171716" text-anchor="middle" font-family="monospace" font-size="16" font-weight="700" letter-spacing="0">?????????</text>
+<path d="M170 560 C220 400 300 400 340 560" fill="none" stroke="#171716" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="500" y="380" width="90" height="90" rx="0" fill="none" stroke="#284e78" stroke-width="4"/>
+<circle cx="545" cy="500" r="22" fill="#c84a31" stroke="#c84a31" stroke-width="2"/>
+<rect x="850" y="360" width="140" height="70" rx="0" fill="none" stroke="#171716" stroke-width="3"/>
+<line x1="870" y1="400" x2="970" y2="400" stroke="#c84a31" stroke-width="5"/>
+</svg>

@@ -1347,6 +1347,9 @@
     "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
     "note": "Источник — research-досье автора (Иван Мельник). Claude (сессия) свёл документ в формат сайта без запуска автоматической evidence-проверки.",
     "converted_by": "claude_session_manual_conversion",
-    "converted_at": "2026-08-06T00:00:00.000Z"
-  }
+    "converted_at": "2026-08-06T00:00:00.000Z",
+    "media_reviewed_at": "2026-08-12",
+    "media_note": "Primary hero now has a complete localized media record, accessibility text, provenance, rights state and content hash; optional detail slots remain editorially unfilled."
+  },
+  "media_state": "media_ready"
 }

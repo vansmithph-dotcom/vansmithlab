@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title-04">
+<title id="title-04">IPHONE 2007: THE SCREEN BECOMES BODILY</title>
+<rect width="1600" height="900" fill="#f2eee6"/>
+<defs><pattern id="grid" width="80" height="80" patternUnits="userSpaceOnUse"><path d="M80 0H0V80" fill="none" stroke="#ded7ca" stroke-width="1"/></pattern></defs>
+<rect x="40" y="40" width="1520" height="820" fill="url(#grid)" opacity=".48"/>
+<rect x="40" y="40" width="1520" height="820" rx="0" fill="none" stroke="#171716" stroke-width="2"/>
+<text x="78" y="96" fill="#c84a31" text-anchor="start" font-family="monospace" font-size="15" font-weight="700" letter-spacing="2">VANSMITHLAB / ANALYSIS / 04</text>
+<text x="78" y="170" fill="#171716" text-anchor="start" font-family="Georgia" font-size="44" font-weight="500" letter-spacing="0">IPHONE 2007: THE SCREEN BECOMES BODILY</text>
+<line x1="78" y1="202" x2="1522" y2="202" stroke="#171716" stroke-width="2"/>
+<text x="78" y="824" fill="#777167" text-anchor="start" font-family="Georgia" font-size="18" font-weight="400" letter-spacing="0">The finger does not point at the image from outside; it acts on the surface.</text>
+<rect x="630" y="260" width="340" height="480" rx="34" fill="#171716" stroke="#171716" stroke-width="2"/>
+<rect x="660" y="305" width="280" height="345" rx="8" fill="#fbf8f1" stroke="#fbf8f1" stroke-width="2"/>
+<text x="800" y="690" fill="#f2eee6" text-anchor="middle" font-family="monospace" font-size="18" font-weight="700" letter-spacing="0">2007</text>
+<line x1="800" y1="480" x2="335" y2="330" stroke="#c8c0b3" stroke-width="2"/>
+<rect x="200" y="288" width="270" height="84" rx="12" fill="#fbf8f1" stroke="#c84a31" stroke-width="4"/>
+<text x="335" y="337" fill="#171716" text-anchor="middle" font-family="monospace" font-size="16" font-weight="700" letter-spacing="0">TOUCH</text>
+<line x1="800" y1="480" x2="1265" y2="330" stroke="#c8c0b3" stroke-width="2"/>
+<rect x="1130" y="288" width="270" height="84" rx="12" fill="#fbf8f1" stroke="#284e78" stroke-width="4"/>
+<text x="1265" y="337" fill="#171716" text-anchor="middle" font-family="monospace" font-size="16" font-weight="700" letter-spacing="0">SCROLL</text>
+<line x1="800" y1="480" x2="335" y2="625" stroke="#c8c0b3" stroke-width="2"/>
+<rect x="200" y="583" width="270" height="84" rx="12" fill="#fbf8f1" stroke="#284e78" stroke-width="4"/>
+<text x="335" y="632" fill="#171716" text-anchor="middle" font-family="monospace" font-size="16" font-weight="700" letter-spacing="0">PINCH</text>
+<line x1="800" y1="480" x2="1265" y2="625" stroke="#c8c0b3" stroke-width="2"/>
+<rect x="1130" y="583" width="270" height="84" rx="12" fill="#fbf8f1" stroke="#c84a31" stroke-width="4"/>
+<text x="1265" y="632" fill="#171716" text-anchor="middle" font-family="monospace" font-size="16" font-weight="700" letter-spacing="0">KEYBOARD</text>
+<path d="M760 550 C745 500 770 460 800 445 C830 460 855 500 840 550" fill="none" stroke="#c84a31" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M720 520 L755 550 M880 520 L845 550" fill="none" stroke="#284e78" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

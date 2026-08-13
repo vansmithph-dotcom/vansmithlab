@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img">
+<title>TOY STORY / RENDERMAN: КАДР КАК КОНВЕЙЕР</title>
+<desc>Целый цифровой мир проходит через повторяемые состояния — от сцены до рассчитанного кадра</desc>
+<rect width="1600" height="900" fill="#f2eee6"/>
+<defs><pattern id="grid" width="80" height="80" patternUnits="userSpaceOnUse"><path d="M80 0H0V80" fill="none" stroke="#ded7ca" stroke-width="1"/></pattern></defs>
+<rect x="40" y="40" width="1520" height="820" fill="url(#grid)" opacity=".46"/>
+<rect x="40" y="40" width="1520" height="820" rx="0" fill="none" stroke="#171716" stroke-width="2"/>
+<text x="78" y="96" fill="#c84a31" text-anchor="start" font-family="monospace" font-size="15" font-weight="500" letter-spacing="2">VANSMITHLAB / ANALYSIS / 02</text>
+<text x="78" y="170" fill="#171716" text-anchor="start" font-family="Georgia" font-size="42" font-weight="500" letter-spacing="0">TOY STORY / RENDERMAN: КАДР КАК КОНВЕЙЕР</text>
+<line x1="78" y1="202" x2="1522" y2="202" stroke="#171716" stroke-width="2"/>
+<text x="78" y="824" fill="#777167" text-anchor="start" font-family="Arial" font-size="19" font-weight="400" letter-spacing="0">Целый цифровой мир проходит через повторяемые состояния — от сцены до рассчитанного кадра</text>
+<rect x="100" y="370" width="220" height="180" rx="0" fill="#fbf8f1" stroke="#171716" stroke-width="2"/>
+<text x="210" y="590" fill="#171716" text-anchor="middle" font-family="monospace" font-size="15" font-weight="700" letter-spacing="0">СЦЕНА</text>
+<line x1="320" y1="460" x2="370" y2="460" stroke="#c84a31" stroke-width="4"/>
+<path d="M354 446 L370 460 L354 474" fill="none" stroke="#c84a31" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="390" y="370" width="220" height="180" rx="0" fill="#ead3ca" stroke="#171716" stroke-width="2"/>
+<text x="500" y="590" fill="#171716" text-anchor="middle" font-family="monospace" font-size="15" font-weight="700" letter-spacing="0">МОДЕЛЬ</text>
+<line x1="610" y1="460" x2="660" y2="460" stroke="#c84a31" stroke-width="4"/>
+<path d="M644 446 L660 460 L644 474" fill="none" stroke="#c84a31" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="680" y="370" width="220" height="180" rx="0" fill="#dce5e9" stroke="#171716" stroke-width="2"/>
+<text x="790" y="590" fill="#171716" text-anchor="middle" font-family="monospace" font-size="15" font-weight="700" letter-spacing="0">МАТЕРИАЛ + СВЕТ</text>
+<line x1="900" y1="460" x2="950" y2="460" stroke="#c84a31" stroke-width="4"/>
+<path d="M934 446 L950 460 L934 474" fill="none" stroke="#c84a31" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="970" y="370" width="220" height="180" rx="0" fill="#ead3ca" stroke="#171716" stroke-width="2"/>
+<text x="1080" y="590" fill="#171716" text-anchor="middle" font-family="monospace" font-size="15" font-weight="700" letter-spacing="0">РЕНДЕР</text>
+<line x1="1190" y1="460" x2="1240" y2="460" stroke="#c84a31" stroke-width="4"/>
+<path d="M1224 446 L1240 460 L1224 474" fill="none" stroke="#c84a31" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="1260" y="370" width="220" height="180" rx="0" fill="#fbf8f1" stroke="#171716" stroke-width="2"/>
+<text x="1370" y="590" fill="#171716" text-anchor="middle" font-family="monospace" font-size="15" font-weight="700" letter-spacing="0">КАДРЫ + ПРАВКИ</text>
+<path d="M155 490 L210 410 L265 490" fill="none" stroke="#171716" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M447 495 C480 405 525 405 552 495" fill="none" stroke="#c84a31" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="790" cy="455" r="55" fill="#171716" stroke="#171716" stroke-width="2"/>
+<path d="M1020 515 Q1080 385 1140 515" fill="none" stroke="#284e78" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="1320" y1="425" x2="1420" y2="425" stroke="#c84a31" stroke-width="9"/>
+<line x1="1320" y1="470" x2="1400" y2="470" stroke="#171716" stroke-width="9"/>
+</svg>

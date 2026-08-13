@@ -9,7 +9,7 @@
   "confidence_score": 0.0,
   "claim_ids": [],
   "source_ids": [],
-  "last_reviewed": "2026-08-09",
+  "last_reviewed": "2026-08-12",
   "author": "VANSMITHLAB",
   "locale": "en",
   "slug": "guy-bourdin",
@@ -23,6 +23,19 @@
     "photographer"
   ],
   "body_hash": "fdc4d5bf83a19f6c370cacde379009f2b3cd9cf7d86206675bd46e12d322ed32",
-  "hero_image": {"src":"/images/glossary/photographers/guy-bourdin-hero-v2-card.webp","alt":"Editorial visualization of Guy Bourdin's method","caption":"Color, tension and staged composition","credit":"VANSMITHLAB · AI illustration, 2026","origin":"ai_illustration"},
-  "portrait_image": {"src":"/images/glossary/photographers/guy-bourdin-portrait-ai-v1.webp","alt":"Portrait of Guy Bourdin, AI reconstruction","caption":"Editorial AI reconstruction of a portrait of Guy Bourdin","credit":"VANSMITHLAB · AI reconstruction from public reference imagery, 2026","origin":"ai_reconstruction","rights_status":"ai_generated"}
+  "hero_image": {
+    "src": "/images/glossary/photographers/guy-bourdin-hero-v2-card.webp",
+    "alt": "Editorial visualization of Guy Bourdin's method",
+    "caption": "Color, tension and staged composition",
+    "credit": "VANSMITHLAB · AI illustration, 2026",
+    "origin": "ai_illustration"
+  },
+  "portrait_image": {
+    "src": "/images/glossary/photographers/guy-bourdin-portrait-ai-v1.webp",
+    "alt": "Portrait of Guy Bourdin, AI reconstruction",
+    "caption": "Editorial AI reconstruction of a portrait of Guy Bourdin",
+    "credit": "VANSMITHLAB · AI reconstruction from public reference imagery, 2026",
+    "origin": "ai_reconstruction",
+    "rights_status": "ai_generated"
+  }
 }

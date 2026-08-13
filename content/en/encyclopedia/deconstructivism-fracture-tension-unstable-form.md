@@ -24,7 +24,7 @@ This article reads the movement beyond architecture: through graphic design, pho
 
 ## 1. After modernism: why stable form was no longer enough
 
-By the end of the twentieth century, the modernist belief in universal clarity no longer felt sufficient. The city had become more complex, media faster, memory more painful and function itself less neutral. In that context the stable rectangle began to look less like the only rational answer and more like one mode of control among others. [^clm_016]
+By the end of the twentieth century, the modernist belief in universal clarity no longer felt sufficient. The city had become more complex, media faster, memory more painful and function itself less neutral. In that context the stable rectangle began to look less like the only rational answer and more like one mode of control among others.
 
 Deconstructivism appears where order no longer cancels conflict. It does not abandon modernism completely: it inherits abstraction, technology and construction. But instead of calm logic it shows form at the moment of displacement.
 

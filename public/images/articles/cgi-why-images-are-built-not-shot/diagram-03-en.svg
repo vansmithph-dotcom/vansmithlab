@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img">
+<title>NUKE: THE FRAME AS A DEPENDENCY GRAPH</title>
+<desc>Plate, CG passes, mattes, depth, colour and grain converge into one final frame</desc>
+<rect width="1600" height="900" fill="#f2eee6"/>
+<defs><pattern id="grid" width="80" height="80" patternUnits="userSpaceOnUse"><path d="M80 0H0V80" fill="none" stroke="#ded7ca" stroke-width="1"/></pattern></defs>
+<rect x="40" y="40" width="1520" height="820" fill="url(#grid)" opacity=".46"/>
+<rect x="40" y="40" width="1520" height="820" rx="0" fill="none" stroke="#171716" stroke-width="2"/>
+<text x="78" y="96" fill="#c84a31" text-anchor="start" font-family="monospace" font-size="15" font-weight="500" letter-spacing="2">VANSMITHLAB / ANALYSIS / 03</text>
+<text x="78" y="170" fill="#171716" text-anchor="start" font-family="Georgia" font-size="42" font-weight="500" letter-spacing="0">NUKE: THE FRAME AS A DEPENDENCY GRAPH</text>
+<line x1="78" y1="202" x2="1522" y2="202" stroke="#171716" stroke-width="2"/>
+<text x="78" y="824" fill="#777167" text-anchor="start" font-family="Arial" font-size="19" font-weight="400" letter-spacing="0">Plate, CG passes, mattes, depth, colour and grain converge into one final frame</text>
+<rect x="150" y="335" width="230" height="105" rx="14" fill="#fbf8f1" stroke="#171716" stroke-width="2"/>
+<text x="265" y="399" fill="#171716" text-anchor="middle" font-family="monospace" font-size="14" font-weight="700" letter-spacing="0">PLATE</text>
+<rect x="150" y="555" width="230" height="105" rx="14" fill="#dce5e9" stroke="#171716" stroke-width="2"/>
+<text x="265" y="619" fill="#171716" text-anchor="middle" font-family="monospace" font-size="14" font-weight="700" letter-spacing="0">CG PASSES</text>
+<rect x="500" y="335" width="230" height="105" rx="14" fill="#ead3ca" stroke="#171716" stroke-width="2"/>
+<text x="615" y="399" fill="#171716" text-anchor="middle" font-family="monospace" font-size="14" font-weight="700" letter-spacing="0">MATTES</text>
+<rect x="500" y="555" width="230" height="105" rx="14" fill="#fbf8f1" stroke="#171716" stroke-width="2"/>
+<text x="615" y="619" fill="#171716" text-anchor="middle" font-family="monospace" font-size="14" font-weight="700" letter-spacing="0">DEPTH</text>
+<rect x="850" y="445" width="230" height="105" rx="14" fill="#dce5e9" stroke="#171716" stroke-width="2"/>
+<text x="965" y="509" fill="#171716" text-anchor="middle" font-family="monospace" font-size="14" font-weight="700" letter-spacing="0">GRADE + GRAIN</text>
+<rect x="1200" y="445" width="230" height="105" rx="14" fill="#171716" stroke="#171716" stroke-width="2"/>
+<text x="1315" y="509" fill="#f2eee6" text-anchor="middle" font-family="monospace" font-size="14" font-weight="700" letter-spacing="0">FINAL</text>
+<line x1="380" y1="388" x2="500" y2="388" stroke="#c84a31" stroke-width="4"/>
+<path d="M484 374 L500 388 L484 402" fill="none" stroke="#c84a31" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="380" y1="608" x2="500" y2="608" stroke="#284e78" stroke-width="4"/>
+<path d="M484 594 L500 608 L484 622" fill="none" stroke="#284e78" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="730" y1="388" x2="850" y2="498" stroke="#c84a31" stroke-width="4"/>
+<path d="M834 484 L850 498 L834 512" fill="none" stroke="#c84a31" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="730" y1="608" x2="850" y2="498" stroke="#284e78" stroke-width="4"/>
+<path d="M834 484 L850 498 L834 512" fill="none" stroke="#284e78" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="1080" y1="498" x2="1200" y2="498" stroke="#c84a31" stroke-width="4"/>
+<path d="M1184 484 L1200 498 L1184 512" fill="none" stroke="#c84a31" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

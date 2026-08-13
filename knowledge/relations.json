@@ -1,12 +1,12 @@
 {
   "generated_by": "scripts/build-relations.mjs",
-  "generated_at": "2026-08-09",
+  "generated_at": "2026-08-12",
   "min_weight": 1,
   "note": "Edges of type `mentions` are editorial discovery labels, not factual claims. A relation that asserts a fact must live in the object record with a supporting claim.",
   "stats": {
-    "nodes": 113,
-    "nodes_with_object": 80,
-    "edges": 98,
+    "nodes": 116,
+    "nodes_with_object": 102,
+    "edges": 101,
     "reciprocal_pairs": 15
   },
   "nodes": [
@@ -22,8 +22,8 @@
         "art-director",
         "photographer"
       ],
-      "object_id": null,
-      "object_type": null
+      "object_id": "obj_artdir_alexey_brodovitch",
+      "object_type": "person"
     },
     {
       "slug": "anish-kapoor",
@@ -59,8 +59,8 @@
       ],
       "kind": "material-technique",
       "role": [],
-      "object_id": null,
-      "object_type": null
+      "object_id": "obj_8ce6c87c68b94304",
+      "object_type": "theme"
     },
     {
       "slug": "brass-composition-patina-warm-metallic-light",
@@ -70,8 +70,8 @@
       ],
       "kind": "material-technique",
       "role": [],
-      "object_id": null,
-      "object_type": null
+      "object_id": "obj_0311929ba5dd4edc",
+      "object_type": "theme"
     },
     {
       "slug": "christian-dior-istoriya-modnogo-doma",
@@ -92,8 +92,8 @@
       ],
       "kind": "material-technique",
       "role": [],
-      "object_id": null,
-      "object_type": null
+      "object_id": "obj_558002284c0847b7",
+      "object_type": "theme"
     },
     {
       "slug": "couture-embroidery-luneville",
@@ -103,8 +103,8 @@
       ],
       "kind": "material-technique",
       "role": [],
-      "object_id": null,
-      "object_type": null
+      "object_id": "obj_3b8ee2c20878495a",
+      "object_type": "theme"
     },
     {
       "slug": "deborah-turbeville",
@@ -127,8 +127,8 @@
       ],
       "kind": "material-technique",
       "role": [],
-      "object_id": null,
-      "object_type": null
+      "object_id": "obj_246c1de025354301",
+      "object_type": "theme"
     },
     {
       "slug": "fabien-baron",
@@ -140,8 +140,8 @@
       "role": [
         "art-director"
       ],
-      "object_id": null,
-      "object_type": null
+      "object_id": "obj_artdir_fabien_baron",
+      "object_type": "person"
     },
     {
       "slug": "istoriya-modnogo-doma-giorgio-armani",
@@ -162,8 +162,8 @@
       ],
       "kind": "material-technique",
       "role": [],
-      "object_id": null,
-      "object_type": null
+      "object_id": "obj_5760fac5763742dd",
+      "object_type": "theme"
     },
     {
       "slug": "istoriya-modnogo-doma-gucci",
@@ -234,8 +234,8 @@
       ],
       "kind": "material-technique",
       "role": [],
-      "object_id": null,
-      "object_type": null
+      "object_id": "obj_8edaac2724ed42a1",
+      "object_type": "theme"
     },
     {
       "slug": "leather-tanning-luxury-production",
@@ -245,8 +245,8 @@
       ],
       "kind": "material-technique",
       "role": [],
-      "object_id": null,
-      "object_type": null
+      "object_id": "obj_6c7baf5c749d428d",
+      "object_type": "theme"
     },
     {
       "slug": "louis-vuitton-istoriya-modnogo-doma",
@@ -267,8 +267,8 @@
       ],
       "kind": "material-technique",
       "role": [],
-      "object_id": null,
-      "object_type": null
+      "object_id": "obj_94eb5742f6184d6c",
+      "object_type": "theme"
     },
     {
       "slug": "marina-abramovic",
@@ -291,8 +291,8 @@
       ],
       "kind": "material-technique",
       "role": [],
-      "object_id": null,
-      "object_type": null
+      "object_id": "obj_17831bfb826f4a4a",
+      "object_type": "theme"
     },
     {
       "slug": "nylon-industrial-material-to-luxury",
@@ -302,8 +302,8 @@
       ],
       "kind": "material-technique",
       "role": [],
-      "object_id": null,
-      "object_type": null
+      "object_id": "obj_336c3fff52704427",
+      "object_type": "theme"
     },
     {
       "slug": "olafur-eliasson",
@@ -347,20 +347,6 @@
       "object_type": null
     },
     {
-      "slug": "peter-savill",
-      "title_ru": "Питер Сэвилл",
-      "discipline": [
-        "graphic-design"
-      ],
-      "kind": "person",
-      "role": [
-        "graphic-designer",
-        "art-director"
-      ],
-      "object_id": null,
-      "object_type": null
-    },
-    {
       "slug": "pleating-issey-miyake",
       "title_ru": "Плиссировка",
       "discipline": [
@@ -368,12 +354,12 @@
       ],
       "kind": "material-technique",
       "role": [],
-      "object_id": null,
-      "object_type": null
+      "object_id": "obj_4a7f71d9ac17482f",
+      "object_type": "theme"
     },
     {
       "slug": "istoriya-modnogo-doma-prada",
-      "title_ru": "Prada: история модного дома и системы",
+      "title_ru": "История модного домаPrada 🇮🇹",
       "discipline": [
         "fashion"
       ],
@@ -427,8 +413,8 @@
       ],
       "kind": "material-technique",
       "role": [],
-      "object_id": null,
-      "object_type": null
+      "object_id": "obj_cf9a7f14a5d4454c",
+      "object_type": "theme"
     },
     {
       "slug": "stainless-steel-architecture-object-design",
@@ -438,8 +424,8 @@
       ],
       "kind": "material-technique",
       "role": [],
-      "object_id": null,
-      "object_type": null
+      "object_id": "obj_27518d46e6914a22",
+      "object_type": "theme"
     },
     {
       "slug": "travertine-origin-properties-applications",
@@ -449,8 +435,8 @@
       ],
       "kind": "material-technique",
       "role": [],
-      "object_id": null,
-      "object_type": null
+      "object_id": "obj_f96ecedbeb2d4b55",
+      "object_type": "theme"
     },
     {
       "slug": "tweed-chanel",
@@ -460,8 +446,8 @@
       ],
       "kind": "material-technique",
       "role": [],
-      "object_id": null,
-      "object_type": null
+      "object_id": "obj_7f2e08283cb841a4",
+      "object_type": "theme"
     },
     {
       "slug": "istoriya-modnogo-doma-versace",
@@ -1449,6 +1435,79 @@
       ],
       "object_id": "obj_8c2620c8d668c7f7",
       "object_type": "person"
+    },
+    {
+      "slug": "massimo-vignelli-system-order-design-is-one",
+      "title_ru": "Массимо Виньелли",
+      "discipline": [
+        "graphic-design",
+        "product-design",
+        "interior-design",
+        "architecture",
+        "media-publishing"
+      ],
+      "kind": "person",
+      "role": [
+        "graphic-designer",
+        "industrial-designer",
+        "interior-designer",
+        "critic-theorist"
+      ],
+      "object_id": "obj_graphic_massimo_vignelli",
+      "object_type": "person"
+    },
+    {
+      "slug": "mm-paris-signs-collaboration-expanded-graphic-design",
+      "title_ru": "M/M (Paris)",
+      "discipline": [
+        "graphic-design",
+        "media-publishing",
+        "fashion",
+        "art",
+        "photography",
+        "product-design",
+        "interior-design"
+      ],
+      "kind": "organization",
+      "role": [],
+      "object_id": "obj_graphic_mm_paris",
+      "object_type": "organization"
+    },
+    {
+      "slug": "paul-rand-modernism-wit-corporate-identity",
+      "title_ru": "Пол Рэнд",
+      "discipline": [
+        "graphic-design",
+        "media-publishing",
+        "art"
+      ],
+      "kind": "person",
+      "role": [
+        "graphic-designer",
+        "art-director",
+        "illustrator",
+        "critic-theorist"
+      ],
+      "object_id": "obj_graphic_paul_rand",
+      "object_type": "person"
+    },
+    {
+      "slug": "peter-saville",
+      "title_ru": "Питер Сэвилл",
+      "discipline": [
+        "graphic-design",
+        "media-publishing",
+        "fashion",
+        "art",
+        "product-design"
+      ],
+      "kind": "person",
+      "role": [
+        "art-director",
+        "graphic-designer"
+      ],
+      "object_id": "obj_graphic_peter_saville",
+      "object_type": "person"
     }
   ],
   "edges": [
@@ -1476,7 +1535,7 @@
       "type": "mentions",
       "kind": "editorial_discovery",
       "weight": 19,
-      "rationale_ru": "Материал «Prada: история модного дома и системы» называет предмет связанного материала 19 раз.",
+      "rationale_ru": "Материал «История модного домаPrada 🇮🇹» называет предмет связанного материала 19 раз.",
       "reciprocal": true
     },
     {
@@ -1602,7 +1661,7 @@
       "type": "mentions",
       "kind": "editorial_discovery",
       "weight": 8,
-      "rationale_ru": "Материал «Prada: история модного дома и системы» называет предмет связанного материала 8 раз.",
+      "rationale_ru": "Материал «История модного домаPrada 🇮🇹» называет предмет связанного материала 8 раз.",
       "reciprocal": true
     },
     {
@@ -1990,6 +2049,33 @@
       "kind": "editorial_discovery",
       "weight": 3,
       "rationale_ru": "Материал «Фрэнсис Бэкон» называет предмет связанного материала 3 раз.",
+      "reciprocal": false
+    },
+    {
+      "from": "mm-paris-signs-collaboration-expanded-graphic-design",
+      "to": "istoriya-modnogo-doma-balenciaga",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 3,
+      "rationale_ru": "Материал «M/M (Paris)» называет предмет связанного материала 3 раз.",
+      "reciprocal": false
+    },
+    {
+      "from": "mm-paris-signs-collaboration-expanded-graphic-design",
+      "to": "louis-vuitton-istoriya-modnogo-doma",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 3,
+      "rationale_ru": "Материал «M/M (Paris)» называет предмет связанного материала 3 раз.",
+      "reciprocal": false
+    },
+    {
+      "from": "mm-paris-signs-collaboration-expanded-graphic-design",
+      "to": "istoriya-modnogo-doma-prada",
+      "type": "mentions",
+      "kind": "editorial_discovery",
+      "weight": 3,
+      "rationale_ru": "Материал «M/M (Paris)» называет предмет связанного материала 3 раз.",
       "reciprocal": false
     },
     {

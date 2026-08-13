@@ -4,7 +4,7 @@
   "canonical_locale": "ru",
   "lifecycle_state": "published",
   "revision": 2,
-  "title_ru": "Как модный дом стал системой",
+  "title_ru": "Pierre Cardin: как модный дом стал системой",
   "slug_ru": "kak-modnye-doma-formiruyut-industriyu-mody",
   "summary_ru": "Исследование объясняет модный дом как систему, соединяющую авторство, профессиональный календарь, культурную память и лицензирование. Кейсы House of Worth, FHCM, Comme des Garçons / Рей Кавакубо и Pierre Cardin показывают разные механизмы влияния без утверждения об универсальном контроле над индустрией.",
   "verification_state": "verified",
@@ -937,6 +937,9 @@
         "started_at": "2026-08-04T21:08:09.700Z",
         "completed_at": "2026-08-04T21:08:58.237Z"
       }
-    ]
-  }
+    ],
+    "media_reviewed_at": "2026-08-12",
+    "media_note": "Primary hero now has a complete localized media record, accessibility text, provenance, rights state and content hash; optional detail slots remain editorially unfilled."
+  },
+  "media_state": "media_ready"
 }

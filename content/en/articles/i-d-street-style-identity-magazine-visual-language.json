@@ -1,0 +1,47 @@
+{
+  "content_id": "cnt_0a8757234fc768ec",
+  "primary_object_id": "obj_id_magazine_20260812",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "verified",
+  "confidence_score": 0.9,
+  "claim_ids": [
+    "clm_id_origin",
+    "clm_id_language",
+    "clm_id_media"
+  ],
+  "source_ids": [],
+  "last_reviewed": "2026-08-12",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "i-d-street-style-identity-magazine-visual-language",
+  "title": "i-D",
+  "summary": "Street style, identity and the magazine as a visual language",
+  "discipline": [
+    "graphic-design",
+    "fashion",
+    "photography",
+    "media-publishing"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "c5c6613cac0f2beefc8de9a53e5b8d4f53da17b97e872693d9ba54169ff0ea81",
+  "translation": {
+    "semantic_validated": true,
+    "source_locale": "ru"
+  },
+  "hero_image": {
+    "src": "/images/articles/i-d-street-style-identity-magazine-visual-language-hero-v1.webp",
+    "alt": "Editorial composition about i-D magazine: contact sheets, street silhouettes and a geometric wink motif on a designer’s table.",
+    "caption": "Original editorial illustration: i-D as a visual system of street style and independent magazine making.",
+    "credit": "VANSMITHLAB",
+    "origin": "ai_illustration",
+    "rights_status": "generated_reviewed",
+    "content_hash": "a7b13b2411ba709050ec3c24d8a2f0ef2927df71326bef8279cb5f6e4aaad5ee",
+    "asset_id": "asset_i-d-street-style-identity-magazine-visual-language_hero_v1",
+    "width": 1536,
+    "height": 1024
+  }
+}

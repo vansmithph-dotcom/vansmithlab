@@ -1,0 +1,887 @@
+{
+  "id": "obj_graphic_paul_rand",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Пол Рэнд",
+  "slug_ru": "paul-rand-modernism-wit-corporate-identity",
+  "slug_en": "paul-rand-modernism-wit-corporate-identity",
+  "summary_ru": "Модернизм, остроумие и корпоративная идентичность",
+  "verification_state": "verified",
+  "confidence_score": 0.86,
+  "created_at": "2026-08-12T00:00:00.000Z",
+  "updated_at": "2026-08-12T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_rand_001",
+      "wording_ru": "Paul Rand родился 15 августа 1914 года в Бруклине и вырос в небогатой ортодоксальной еврейской семье. Yale University Library фиксирует даты 1914-1996, а поздние биографические материалы связывают его детство с Brownsville и магазином родителей. Важно не превращать бедность или религиозное воспитание в готовое объяснение его стиля. Полезнее увидеть другое: будущая профессия graphic designer тогда ещё не имела ясного статуса. Rand входил в неё через вывески, рекламные картинки, журналы и самостоятельное наблюдение за тем, как изображение работает в повседневной жизни.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://web.library.yale.edu/news/2014/10/paul-rand-pioneer-design",
+          "locator": "DOCX section sec-1",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rand_002",
+      "wording_ru": "Он родился как Peretz Rosenbaum, а профессиональное имя Paul Rand появилось в начале карьеры. Архивные биографические публикации связывают смену имени с антисемитской средой американского рынка труда; позднее сам факт двух коротких слов стал почти идеальным графическим знаком. Этот эпизод нельзя романтизировать как остроумный branding exercise: в основе лежало социальное давление. Но он показывает важную тему всей карьеры Rand - имя, знак и репутация не существуют отдельно от системы, в которой должны быть прочитаны.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://web.library.yale.edu/news/2014/10/paul-rand-pioneer-design",
+          "locator": "DOCX section sec-2",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rand_003",
+      "wording_ru": "Rand часто называл себя в значительной степени self-taught modernist. Он изучал европейские журналы вроде Gebrauchsgrafik и Commercial Art, через которые знакомился с Cassandre, Bauhaus, Constructivism, De Stijl, Cubism и новой типографикой. Он не копировал Европу буквально. Его сила была в переводе: строгая структура соединялась с американской рекламной скоростью, юмором, фотографией, hand lettering и массовой печатью. Modernism переставал быть импортным стилем и становился инструментом американской коммерческой культуры.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://yalebooks.yale.edu/book/9780300082821/paul-rand/",
+          "locator": "DOCX section sec-3",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://yalebooks.yale.edu/book/9780300230918/design-form-and-chaos/",
+          "locator": "DOCX section sec-3",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rand_004",
+      "wording_ru": "Rand учился в Pratt Institute, Parsons School of Design и Art Students League, где занимался у George Grosz. При этом позднее он критиковал школы за слабое знакомство с современной европейской культурой. Это полезное противоречие. Формальное обучение дало дисциплину рисунка и ремесла, но интеллектуальную систему он собирал сам. Для современного дизайнера отсюда следует не миф \"школа не нужна\", а обратное: образование становится сильнее, когда студент способен строить собственную карту источников вне обязательной программы.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.art.yale.edu/about/history",
+          "locator": "DOCX section sec-4",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rand_005",
+      "wording_ru": "В 1936 году Rand получил работу над юбилейным выпуском Apparel Arts, мужского fashion trade magazine, связанного с Esquire. Его коллажные обложки быстро выделились на фоне более буквальной журнальной графики. Обложка стала лабораторией сокращения. Вместо множества cover lines - один визуальный конфликт; вместо иллюстрации содержания - метафора. Здесь появляется будущий корпоративный Rand: способность свести сложный объект к нескольким формам, не делая его банальным.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://web.library.yale.edu/news/2014/10/paul-rand-pioneer-design",
+          "locator": "DOCX section sec-5",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rand_006",
+      "wording_ru": "К двадцати трём годам Rand уже работал art director в среде Esquire/Coronet. Для молодого дизайнера это означало ответственность не только за картинку, но за поток editorial material, promotion и отношения с печатным производством. Ранний успех важен не как легенда о гении. Он показывает, насколько быстро Rand научился соединять taste и business constraint. Журнал не может ждать бесконечно: решение должно быть сильным, воспроизводимым и готовым к сроку.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://web.library.yale.edu/news/2014/10/paul-rand-pioneer-design",
+          "locator": "DOCX section sec-6",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rand_007",
+      "wording_ru": "С 1938 по 1941 год Rand создавал обложки для Direction - небольшого культурного журнала с антифашистской позицией. Низкий бюджет компенсировался высокой степенью творческой свободы. Именно ограничение сделало эти обложки сильнее. Карта, колючая проволока, крест, бумажный вырез или простая типографика могли передавать политический конфликт без сложной иллюстрации. Rand показывает, что editorial design способен быть интеллектуальным высказыванием, а не декоративным сопровождением текста.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.paulrand.design/life/books-articles/articles/print/1993-print-magazine.html",
+          "locator": "DOCX section sec-7",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.paulrand.design/life/books-articles/articles/print/1979-communication-arts.html",
+          "locator": "DOCX section sec-7",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rand_008",
+      "wording_ru": "Asymmetry, collage, photography, cut paper, hand drawing и крупная типографика стали базовыми приёмами Rand. Cooper Hewitt связывает его язык с Constructivism, De Stijl, Cubism и Bauhaus, но сами композиции остаются очень игровыми. Главный принцип здесь - visual metaphor. Два знакомых элемента сталкиваются и создают третье значение. Такой подход переживает конкретный стиль: он применим и к poster, и к social visual, и к interface, если образ не просто украшает сообщение, а меняет способ его понимания.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.cooperhewitt.org/2012/11/26/abacus/",
+          "locator": "DOCX section sec-8",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.cooperhewitt.org/2018/10/05/hatching-good-design/",
+          "locator": "DOCX section sec-8",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rand_009",
+      "wording_ru": "В 1941 году Rand стал art director William H. Weintraub Advertising Agency и проработал там до 1954 года. Эта фаза переносит его модернистскую дисциплину из редакции в массовую рекламу. Американская реклама того времени часто строилась вокруг текста, а layout обслуживал copy. Rand настаивал, что composition сама является частью идеи. Это меняет профессиональную иерархию: art director перестаёт быть человеком, который \"оформляет\" готовое сообщение.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.paulrand.design/life/books-articles/articles/print/1993-print-magazine.html",
+          "locator": "DOCX section sec-9",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rand_010",
+      "wording_ru": "В Weintraub Rand работал с молодым copywriter Bill Bernbach. Поздние свидетельства описывают их сотрудничество как ранний пример союза art и copy, который позже станет нормой creative team в рекламе. Смысл не в том, чтобы объявить одного человека изобретателем всей Creative Revolution. Важнее принцип: текст и изображение должны рождаться вместе. Если headline уже полностью объясняет идею, картинка становится иллюстрацией; если изображение не связано с copy, реклама распадается на две независимые половины.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.paulrand.design/life/books-articles/articles/print/1993-print-magazine.html",
+          "locator": "DOCX section sec-10",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rand_011",
+      "wording_ru": "Кампания El Producto 1950-х показывает фирменный юмор Rand. Cooper Hewitt описывает серию, где сигара получает hats, accessories и разные \"личности\". Товар не прячется: сигара остаётся буквально в центре. Но вокруг неё появляется character. Это урок product advertising, который особенно полезен сегодня: визуальная метафора может добавить бренду человеческий тон, не уничтожая читаемость самого продукта.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.cooperhewitt.org/2018/10/05/hatching-good-design/",
+          "locator": "DOCX section sec-11",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rand_012",
+      "wording_ru": "Thoughts on Design вышла в 1947 году и стала одной из ключевых книг американского graphic design. Cooper Hewitt называет её влиятельным manifesto modernist theory and practice. Важно, что Rand пишет из практики, а не из академической дистанции. Книга соединяет form, function, symbol, audience и aesthetics. Дизайнер для него не стилист, который выбирает красивую оболочку, а человек, который анализирует задачу, убирает лишнее, ищет аналогию и строит ясный визуальный аргумент.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://yalebooks.yale.edu/book/9780300082821/paul-rand/",
+          "locator": "DOCX section sec-12",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rand_013",
+      "wording_ru": "В эссе и преподавании Rand постоянно возвращался к play instinct. Игра для него не противоположность дисциплине, а способ найти неожиданное отношение между формами. Это объясняет, почему его modernism не выглядит стерильным. Строгая сетка может соседствовать с детским рисунком, rebus, случайным объектом или абсурдной ассоциацией. Сильная система не запрещает игру - она создаёт достаточно ясные границы, чтобы игра не превратилась в шум.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://yalebooks.yale.edu/book/9780300230918/design-form-and-chaos/",
+          "locator": "DOCX section sec-13",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rand_014",
+      "wording_ru": "В 1954 году Rand ушёл из агентства и сосредоточился на независимой практике, teaching и long-term corporate consulting. Этот переход совпал с ростом американской corporate identity как отдельной дисциплины. Для дизайнера меняется масштаб задачи. Реклама живёт кампанией, а identity должна выдерживать годы, тысячи носителей и разные подразделения. Теперь важна не только сила одной идеи, но способность системы не разрушаться при многократном применении.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.paulrand.design/life/books-articles/articles/print/1993-print-magazine.html",
+          "locator": "DOCX section sec-14",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rand_015",
+      "wording_ru": "В 1956 году Eliot Noyes пригласил Rand в IBM Design Program. IBM сегодня описывает этот момент как начало современной главы своего визуального языка; первоначальный логотип Rand должен был одновременно показать новую эпоху и сохранить continuity. Сам знак - только вход. Работа распространилась на publications, packaging, stationery, exhibitions и другие touchpoints. Corporate identity становится системой управления качеством, а graphic designer - участником большой организационной инфраструктуры.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.ibm.com/history/design-program",
+          "locator": "DOCX section sec-15",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rand_016",
+      "wording_ru": "В 1972 году Rand создал восьмиполосную версию IBM logo, которая остаётся основным знаком компании и в 2026 году. IBM подчёркивает, что базовая конструкция не менялась более пятидесяти лет. Секрет долговечности не в мистической \"вечности\" формы. Rand изменял знак постепенно: сначала тяжёлые буквы, затем полосы, затем упрощение до eight-bar. Identity сохраняет память, потому что изменения происходят внутри узнаваемой структуры, а не каждый раз начинают бренд с нуля.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.ibm.com/design/language/ibm-logos/8-bar/",
+          "locator": "DOCX section sec-16",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rand_017",
+      "wording_ru": "Eye-Bee-M rebus 1981 года заменяет I на изображение eye, B - на bee, а M оставляет полосатой буквой. IBM по-прежнему использует этот знак как часть собственного heritage, а MoMA хранит related poster в collection. Особенно интересно, что шутка происходит внутри серьёзной technology corporation. Rebus гуманизирует систему, не разрушая её authority. Rand показывает: brand consistency не означает постоянную серьёзность. Сильная identity может позволить controlled exception.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.ibm.com/history/design-program",
+          "locator": "DOCX section sec-17",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rand_018",
+      "wording_ru": "Westinghouse logo 1960 года показывает другой тип corporate mark. Архив Paul Rand сохраняет не только знак, но graphics identification manuals, vehicle programs, signage и advertising. Это принципиально: хорошая марка проверяется не в центре презентационного слайда, а на service truck, вывеске, коробке, экране и маленьком шильдике. Corporate design становится инженерией применения.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.paulrand.design/work/Westinghouse.html",
+          "locator": "DOCX section sec-18",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rand_019",
+      "wording_ru": "UPS shield 1961 года со связанным пакетом работал до редизайна 2003 года. Архивные материалы показывают sketches и реальные applications, а современная история подчёркивает, что Rand проверял знак на delivery vehicles. Здесь видна практичность его метода. Символ должен пережить грязь, скорость, разный масштаб и ежедневное использование. Красивый vector mark, который разваливается на реальном носителе, для Rand не был завершённым решением.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.paulrand.design/work/Logos.html",
+          "locator": "DOCX section sec-19",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rand_020",
+      "wording_ru": "ABC logo 1962 года - почти предельное сокращение: три lowercase letters внутри круглой системы. Архив Rand фиксирует дату и авторство, а знак стал одним из наиболее устойчивых примеров американской television identity. Простота особенно трудна в media brand. Знак должен работать рядом с лицами, titles, live graphics и огромным количеством контента. Поэтому логотип не должен постоянно требовать внимание к себе - он создаёт устойчивую точку идентификации внутри визуального шума.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.paulrand.design/work/Logos.html",
+          "locator": "DOCX section sec-20",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rand_021",
+      "wording_ru": "Cooper Hewitt напоминает: coordinated corporate identity задумывалась гораздо шире logo - signage, letterheads, packaging, publications и environment. IBM стала одним из наиболее известных примеров этой логики. Это важное различие для современного branding. Logo file - не design system. Настоящая identity определяет, как организация говорит, как размещает информацию, какие материалы использует, как ведёт себя в пространстве и насколько последовательно применяет собственные правила.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.cooperhewitt.org/2018/10/05/hatching-good-design/",
+          "locator": "DOCX section sec-21",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rand_022",
+      "wording_ru": "Rand писал о good design и good will, но одновременно предупреждал: красивый объект, который плохо работает, отражается на integrity компании. Отсюда следует критическое ограничение branding. Дизайн способен организовать репутационный сигнал, но не способен заменить качество продукта, governance или этику. Если реальное поведение компании конфликтует с визуальным обещанием, identity начинает не укреплять доверие, а подчеркивать лицемерие.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://yalebooks.yale.edu/book/9780300082821/paul-rand/",
+          "locator": "DOCX section sec-22",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rand_023",
+      "wording_ru": "С 1956 по 1985 год Rand преподавал graphic design в Yale. Cooper Hewitt фиксирует этот период, а Yale School of Art до сих пор поддерживает Paul Rand Lecture Series. Его teaching строилось вокруг необходимости объяснить решение. Студенту недостаточно показать красивую форму - нужно сформулировать, почему она существует. Такой подход делает critique тренировкой будущей client presentation: идея должна выдержать вопросы, а не только понравиться автору.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.art.yale.edu/about/history",
+          "locator": "DOCX section sec-23",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.art.yale.edu/news/visiting-artist-lectures/spring-2026",
+          "locator": "DOCX section sec-23",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rand_024",
+      "wording_ru": "Многие воспоминания описывают Rand как чрезвычайно жёсткого преподавателя; критика могла быть резкой и унизительной. Современная педагогика должна отделять ценную требовательность от авторитарной манеры. Сильный mentor действительно заставляет уточнять аргумент, но психологическое давление не является необходимым условием качества. Наследие Rand полезнее продолжать через rigor of reasoning, а не через имитацию его грубости.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.art.yale.edu/news/visiting-artist-lectures/spring-2026",
+          "locator": "DOCX section sec-24",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rand_025",
+      "wording_ru": "Rand иллюстрировал детские книги, включая I Know a Lot of Things, созданную вместе с Ann Rand. MoMA хранит illustration from the 1956 edition. Детская графика показывает его особенно ясно: простая форма не равна бедной форме. Ребёнок мгновенно замечает ритм, цвет, странность масштаба и визуальную шутку. Работа для детей освобождает Rand от corporate seriousness, но сохраняет ту же дисциплину ясного знака.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.moma.org/artists/4809-paul-rand",
+          "locator": "DOCX section sec-25",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rand_026",
+      "wording_ru": "Его photogram Abacus стал и обложкой Thoughts on Design, и основой textile pattern. Cooper Hewitt рассматривает эту работу как пример перехода одной идеи между book design и furnishing fabric. Здесь видно, что graphic form не обязана оставаться плоской. Pattern входит в интерьер, повторяется на большой поверхности и становится частью бытовой среды. Design system проверяется уже не страницей, а физическим масштабом.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.cooperhewitt.org/2012/11/26/abacus/",
+          "locator": "DOCX section sec-26",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rand_027",
+      "wording_ru": "В 1986 году Steve Jobs пригласил Rand разработать identity NeXT. Архив проекта сохраняет presentation book, где дизайнер не показывает десяток вариантов, а пошагово объясняет одну концепцию - tilted cube, разделение Ne/XT и выбранную typographic logic. Этот подход стал легендой design presentation. Его сильная сторона - ответственность: автор предлагает решение, а не перекладывает выбор на клиента. Но метод работает только при достаточной research depth и доверии; \"один вариант\" без аргумента - не уверенность, а догма.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.paulrand.design/work/NeXT-Computers.html",
+          "locator": "DOCX section sec-27",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rand_028",
+      "wording_ru": "В 1996 году Rand создал logo Enron - один из последних знаков в его архиве. После корпоративного краха компании знак получил совсем другой исторический контекст. Этот случай почти буквально подтверждает ограничение, о котором Rand писал сам: strong identity не делает организацию честной. Graphic design способен создать coherence и recognition, но не контролирует financial reporting, management incentives или law. История Enron полезна как защита от мифа, будто branding может \"исправить\" бизнес.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.paulrand.design/work/Logos.html",
+          "locator": "DOCX section sec-28",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rand_029",
+      "wording_ru": "Сегодня Paul Rand papers хранятся в Yale University Library; MoMA и Cooper Hewitt имеют значительные коллекции его работ. Yale продолжает lecture series, носящую его имя. Архив важен потому, что позволяет изучать не только finished logos. Sketches, presentation books, print objects и correspondence показывают процесс, клиентские ограничения и производственную реальность. История graphic design становится точнее, когда мы видим не только канонический знак, но и путь к нему.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://web.library.yale.edu/news/2014/10/paul-rand-pioneer-design",
+          "locator": "DOCX section sec-29",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.moma.org/artists/4809-paul-rand",
+          "locator": "DOCX section sec-29",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.cooperhewitt.org/2012/11/26/abacus/",
+          "locator": "DOCX section sec-29",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rand_030",
+      "wording_ru": "Главное наследие Paul Rand - не набор IBM-blue logos и не идея, что всё должно быть максимально простым. Его реальный вклад глубже: graphic designer становится автором visual idea, который понимает business, production, writing, image, symbol и audience как одну задачу. Он доказал, что коммерческая эффективность и художественная амбиция могут существовать вместе - но только если designer отвечает не за украшение, а за смысл, структуру и качество решения.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://yalebooks.yale.edu/book/9780300082821/paul-rand/",
+          "locator": "DOCX section sec-30",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://yalebooks.yale.edu/book/9780300230918/design-form-and-chaos/",
+          "locator": "DOCX section sec-30",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_7819b8923cfb1092",
+      "title": "Paul Rand: Pioneer by Design",
+      "url": "https://web.library.yale.edu/news/2014/10/paul-rand-pioneer-design",
+      "publisher": "Yale University Library",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_03edc6f59099b4c2",
+      "title": "History",
+      "url": "https://www.art.yale.edu/about/history",
+      "publisher": "Yale School of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_160f2594e7fbfc33",
+      "title": "Spring 2026 Visiting Artist Lectures / Paul Rand Lectures in Graphic Design",
+      "url": "https://www.art.yale.edu/news/visiting-artist-lectures/spring-2026",
+      "publisher": "Yale School of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_aad515174cc595c7",
+      "title": "Paul Rand",
+      "url": "https://www.moma.org/artists/4809-paul-rand",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_b553d369a4554a3d",
+      "title": "Paul Rand. IBM. 1982",
+      "url": "https://www.moma.org/collection/works/7374",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_051d82f4c5196fab",
+      "title": "Paul Rand. IBM Supply Kit. 1979",
+      "url": "https://www.moma.org/collection/works/223042",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_29bf28cb2b74e6c3",
+      "title": "Abacus",
+      "url": "https://www.cooperhewitt.org/2012/11/26/abacus/",
+      "publisher": "Cooper Hewitt, Smithsonian Design Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_447517a33445d1df",
+      "title": "Hatching Good Design",
+      "url": "https://www.cooperhewitt.org/2018/10/05/hatching-good-design/",
+      "publisher": "Cooper Hewitt, Smithsonian Design Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_43cc82d84cbd8423",
+      "title": "How sharp is your vision? Cooper Hewitt, Smithsonian Design Museum",
+      "url": "https://www.cooperhewitt.org/2018/04/18/how-sharp-is-your-vision/",
+      "publisher": "",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_fb5c28f6cb53bbdc",
+      "title": "Santa's Favorite Cigar",
+      "url": "https://www.cooperhewitt.org/2016/12/25/santas-favorite-cigar/",
+      "publisher": "Cooper Hewitt, Smithsonian Design Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_b3b9cd8d500e997a",
+      "title": "The IBM logo",
+      "url": "https://www.ibm.com/history/logo",
+      "publisher": "IBM History",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_b218c982bd27cf73",
+      "title": "IBM design",
+      "url": "https://www.ibm.com/history/design-program",
+      "publisher": "IBM History",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_9eafc4020f19bee2",
+      "title": "8-Bar",
+      "url": "https://www.ibm.com/design/language/ibm-logos/8-bar/",
+      "publisher": "IBM Design Language",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_191465df3f704aff",
+      "title": "Thoughts on Rand",
+      "url": "https://www.paulrand.design/life/books-articles/articles/print/1993-print-magazine.html",
+      "publisher": "Paul Rand: Modernist Master 1914-1996",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_c36f9a674b2b0230",
+      "title": "Paul Rand. Communication Arts, 1979 archive",
+      "url": "https://www.paulrand.design/life/books-articles/articles/print/1979-communication-arts.html",
+      "publisher": "Paul Rand: Modernist Master 1914-1996",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_e9dc5112834ef12d",
+      "title": "Logos",
+      "url": "https://www.paulrand.design/work/Logos.html",
+      "publisher": "Paul Rand: Modernist Master 1914-1996",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_0cea1b6b679fd698",
+      "title": "Westinghouse",
+      "url": "https://www.paulrand.design/work/Westinghouse.html",
+      "publisher": "Paul Rand: Modernist Master 1914-1996",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_cdadf06b7c4fc585",
+      "title": "NeXT Computers",
+      "url": "https://www.paulrand.design/work/NeXT-Computers.html",
+      "publisher": "Paul Rand: Modernist Master 1914-1996",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_a8778c428bf071cd",
+      "title": "Paul Rand: A Designer's Art",
+      "url": "https://yalebooks.yale.edu/book/9780300082821/paul-rand/",
+      "publisher": "Yale University Press",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_f334f4b45432f1dd",
+      "title": "Design, Form, and Chaos",
+      "url": "https://yalebooks.yale.edu/book/9780300230918/design-form-and-chaos/",
+      "publisher": "Yale University Press",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_paul-ran_01",
+      "claim_id": "clm_rand_001",
+      "source_id": "src_7819b8923cfb1092",
+      "locator": "DOCX section sec-1",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_paul-ran_02",
+      "claim_id": "clm_rand_002",
+      "source_id": "src_7819b8923cfb1092",
+      "locator": "DOCX section sec-2",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_paul-ran_03",
+      "claim_id": "clm_rand_003",
+      "source_id": "src_a8778c428bf071cd",
+      "locator": "DOCX section sec-3",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_paul-ran_04",
+      "claim_id": "clm_rand_004",
+      "source_id": "src_03edc6f59099b4c2",
+      "locator": "DOCX section sec-4",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_paul-ran_05",
+      "claim_id": "clm_rand_005",
+      "source_id": "src_7819b8923cfb1092",
+      "locator": "DOCX section sec-5",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_paul-ran_06",
+      "claim_id": "clm_rand_006",
+      "source_id": "src_7819b8923cfb1092",
+      "locator": "DOCX section sec-6",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_paul-ran_07",
+      "claim_id": "clm_rand_007",
+      "source_id": "src_191465df3f704aff",
+      "locator": "DOCX section sec-7",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_paul-ran_08",
+      "claim_id": "clm_rand_008",
+      "source_id": "src_29bf28cb2b74e6c3",
+      "locator": "DOCX section sec-8",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_paul-ran_09",
+      "claim_id": "clm_rand_009",
+      "source_id": "src_191465df3f704aff",
+      "locator": "DOCX section sec-9",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_paul-ran_10",
+      "claim_id": "clm_rand_010",
+      "source_id": "src_191465df3f704aff",
+      "locator": "DOCX section sec-10",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_paul-ran_11",
+      "claim_id": "clm_rand_011",
+      "source_id": "src_447517a33445d1df",
+      "locator": "DOCX section sec-11",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_paul-ran_12",
+      "claim_id": "clm_rand_012",
+      "source_id": "src_a8778c428bf071cd",
+      "locator": "DOCX section sec-12",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_paul-ran_13",
+      "claim_id": "clm_rand_013",
+      "source_id": "src_f334f4b45432f1dd",
+      "locator": "DOCX section sec-13",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_paul-ran_14",
+      "claim_id": "clm_rand_014",
+      "source_id": "src_191465df3f704aff",
+      "locator": "DOCX section sec-14",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_paul-ran_15",
+      "claim_id": "clm_rand_015",
+      "source_id": "src_b218c982bd27cf73",
+      "locator": "DOCX section sec-15",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_paul-ran_16",
+      "claim_id": "clm_rand_016",
+      "source_id": "src_9eafc4020f19bee2",
+      "locator": "DOCX section sec-16",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_paul-ran_17",
+      "claim_id": "clm_rand_017",
+      "source_id": "src_b218c982bd27cf73",
+      "locator": "DOCX section sec-17",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_paul-ran_18",
+      "claim_id": "clm_rand_018",
+      "source_id": "src_0cea1b6b679fd698",
+      "locator": "DOCX section sec-18",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_paul-ran_19",
+      "claim_id": "clm_rand_019",
+      "source_id": "src_e9dc5112834ef12d",
+      "locator": "DOCX section sec-19",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_paul-ran_20",
+      "claim_id": "clm_rand_020",
+      "source_id": "src_e9dc5112834ef12d",
+      "locator": "DOCX section sec-20",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_paul-ran_21",
+      "claim_id": "clm_rand_021",
+      "source_id": "src_447517a33445d1df",
+      "locator": "DOCX section sec-21",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_paul-ran_22",
+      "claim_id": "clm_rand_022",
+      "source_id": "src_a8778c428bf071cd",
+      "locator": "DOCX section sec-22",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_paul-ran_23",
+      "claim_id": "clm_rand_023",
+      "source_id": "src_03edc6f59099b4c2",
+      "locator": "DOCX section sec-23",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_paul-ran_24",
+      "claim_id": "clm_rand_024",
+      "source_id": "src_160f2594e7fbfc33",
+      "locator": "DOCX section sec-24",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_paul-ran_25",
+      "claim_id": "clm_rand_025",
+      "source_id": "src_aad515174cc595c7",
+      "locator": "DOCX section sec-25",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_paul-ran_26",
+      "claim_id": "clm_rand_026",
+      "source_id": "src_29bf28cb2b74e6c3",
+      "locator": "DOCX section sec-26",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_paul-ran_27",
+      "claim_id": "clm_rand_027",
+      "source_id": "src_cdadf06b7c4fc585",
+      "locator": "DOCX section sec-27",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_paul-ran_28",
+      "claim_id": "clm_rand_028",
+      "source_id": "src_e9dc5112834ef12d",
+      "locator": "DOCX section sec-28",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_paul-ran_29",
+      "claim_id": "clm_rand_029",
+      "source_id": "src_7819b8923cfb1092",
+      "locator": "DOCX section sec-29",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_paul-ran_30",
+      "claim_id": "clm_rand_030",
+      "source_id": "src_a8778c428bf071cd",
+      "locator": "DOCX section sec-30",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "media_state": "media_ready",
+  "workflow": {
+    "decision": "AUTO_APPROVE",
+    "note": "Incoming RU master and EN translation passed DOCX structure, source-format, URL reachability and section-level citation checks on 2026-08-12. Claims are retained as explicit attributions; planned media remains rights-review work.",
+    "converted_by": "VANSMITHLAB incoming article publication workflow",
+    "converted_at": "2026-08-12T00:00:00.000Z",
+    "media_reviewed_at": "2026-08-12",
+    "media_note": "Card visual replaced with an AI editorial studio illustration; it is not a documentary portrait or archival image."
+  }
+}

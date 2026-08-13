@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img">
+<title>NERF И 3D GAUSSIAN SPLATTING: СНИМКИ СТАНОВЯТСЯ СЦЕНОЙ</title>
+<desc>Набор ракурсов превращается в представление пространства и новую виртуальную камеру</desc>
+<rect width="1600" height="900" fill="#f2eee6"/>
+<defs><pattern id="grid" width="80" height="80" patternUnits="userSpaceOnUse"><path d="M80 0H0V80" fill="none" stroke="#ded7ca" stroke-width="1"/></pattern></defs>
+<rect x="40" y="40" width="1520" height="820" fill="url(#grid)" opacity=".46"/>
+<rect x="40" y="40" width="1520" height="820" rx="0" fill="none" stroke="#171716" stroke-width="2"/>
+<text x="78" y="96" fill="#c84a31" text-anchor="start" font-family="monospace" font-size="15" font-weight="500" letter-spacing="2">VANSMITHLAB / ANALYSIS / 06</text>
+<text x="78" y="170" fill="#171716" text-anchor="start" font-family="Georgia" font-size="42" font-weight="500" letter-spacing="0">NERF И 3D GAUSSIAN SPLATTING: СНИМКИ СТАНОВЯТСЯ СЦЕНОЙ</text>
+<line x1="78" y1="202" x2="1522" y2="202" stroke="#171716" stroke-width="2"/>
+<text x="78" y="824" fill="#777167" text-anchor="start" font-family="Arial" font-size="19" font-weight="400" letter-spacing="0">Набор ракурсов превращается в представление пространства и новую виртуальную камеру</text>
+<rect x="90" y="300" width="250" height="360" rx="0" fill="#fbf8f1" stroke="#171716" stroke-width="2"/>
+<rect x="425" y="300" width="430" height="360" rx="0" fill="#dce5e9" stroke="#171716" stroke-width="2"/>
+<rect x="920" y="300" width="430" height="360" rx="0" fill="#ead3ca" stroke="#171716" stroke-width="2"/>
+<rect x="1415" y="300" width="120" height="360" rx="0" fill="#171716" stroke="#171716" stroke-width="2"/>
+<circle cx="150" cy="365" r="18" fill="#c84a31" stroke="none" stroke-width="2"/>
+<circle cx="230" cy="365" r="18" fill="#c84a31" stroke="none" stroke-width="2"/>
+<circle cx="150" cy="455" r="18" fill="#c84a31" stroke="none" stroke-width="2"/>
+<circle cx="230" cy="455" r="18" fill="#c84a31" stroke="none" stroke-width="2"/>
+<circle cx="150" cy="545" r="18" fill="#c84a31" stroke="none" stroke-width="2"/>
+<circle cx="230" cy="545" r="18" fill="#c84a31" stroke="none" stroke-width="2"/>
+<path d="M480 575 C555 345 690 345 795 575" fill="none" stroke="#284e78" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M980 500 C1070 345 1200 390 1290 540" fill="none" stroke="#c84a31" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="1040" cy="475" r="28" fill="#c84a31" stroke="#171716" stroke-width="2"/>
+<circle cx="1130" cy="475" r="28" fill="#c84a31" stroke="#171716" stroke-width="2"/>
+<circle cx="1220" cy="475" r="28" fill="#c84a31" stroke="#171716" stroke-width="2"/>
+<text x="215" y="710" fill="#171716" text-anchor="middle" font-family="monospace" font-size="14" font-weight="700" letter-spacing="0">МНОГО РАКУРСОВ</text>
+<text x="640" y="710" fill="#171716" text-anchor="middle" font-family="monospace" font-size="14" font-weight="700" letter-spacing="0">NeRF / НЕПРЕРЫВНОЕ ПОЛЕ</text>
+<text x="1135" y="710" fill="#171716" text-anchor="middle" font-family="monospace" font-size="14" font-weight="700" letter-spacing="0">3DGS / ГАУССИАНЫ</text>
+<text x="1475" y="710" fill="#f2eee6" text-anchor="middle" font-family="monospace" font-size="14" font-weight="700" letter-spacing="0">НОВЫЙ РАКУРС</text>
+<line x1="340" y1="480" x2="425" y2="480" stroke="#c84a31" stroke-width="4"/>
+<path d="M409 466 L425 480 L409 494" fill="none" stroke="#c84a31" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="855" y1="480" x2="920" y2="480" stroke="#c84a31" stroke-width="4"/>
+<path d="M904 466 L920 480 L904 494" fill="none" stroke="#c84a31" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="1350" y1="480" x2="1415" y2="480" stroke="#c84a31" stroke-width="4"/>
+<path d="M1399 466 L1415 480 L1399 494" fill="none" stroke="#c84a31" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

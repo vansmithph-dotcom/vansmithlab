@@ -47,5 +47,47 @@
   "role": [
     "photographer"
   ],
-  "body_hash": "6c0e995cea81a444fff72a95c1261aa745f33654fd72bcde8a417abe3f48aeb9"
+  "body_hash": "6c0e995cea81a444fff72a95c1261aa745f33654fd72bcde8a417abe3f48aeb9",
+  "hero_image": {
+    "src": "/images/glossary/photographers/tim-walker-fantasy-set-storytelling-fashion-image-hero-v2-card.webp",
+    "asset_id": "asset_tim-walker-fantasy-set-storytelling-fashion-image_hero_v2",
+    "primary_object_id": "",
+    "content_release_id": "cnt_57a2ce8293233775",
+    "kind": "image",
+    "locale": "en",
+    "content_hash": "94604588fc009eb62291464162bb82be418910e45181c3f8b2c62eb248b18f7f",
+    "file_storage_key": "public/images/glossary/photographers/tim-walker-fantasy-set-storytelling-fashion-image-hero-v2-card.webp",
+    "creator_or_credit": "OpenAI image generation · directed and reviewed by VANSMITHLAB",
+    "rights_state": "generated_reviewed",
+    "licence_or_permission": "Original AI editorial illustration generated for VANSMITHLAB without source images or copied brand assets; not documentary evidence.",
+    "source_url": "",
+    "created_at": "2026-08-12",
+    "alt": "Editorial photographic illustration of Tim Walker’s method: theatrical scenery, scale and fantastical storytelling.",
+    "alt_text": "Editorial photographic illustration of Tim Walker’s method: theatrical scenery, scale and fantastical storytelling.",
+    "caption": "Fantasy is built as a material stage: the set becomes part of the story. AI illustration, not documentary photography.",
+    "credit": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "generated_reviewed"
+  },
+  "portrait_image": {
+    "src": "/images/glossary/photographers/tim-walker-fantasy-set-storytelling-fashion-image-portrait-ai-v1.webp",
+    "asset_id": "asset_tim-walker-fantasy-set-storytelling-fashion-image_portrait_v1",
+    "primary_object_id": "",
+    "content_release_id": "cnt_57a2ce8293233775",
+    "kind": "image",
+    "locale": "en",
+    "content_hash": "181da089c435f0a56344f83daa600389dca85c83cdb448de075049b237f3d2dd",
+    "file_storage_key": "public/images/glossary/photographers/tim-walker-fantasy-set-storytelling-fashion-image-portrait-ai-v1.webp",
+    "creator_or_credit": "OpenAI image generation · directed and reviewed by VANSMITHLAB",
+    "rights_state": "generated_reviewed",
+    "licence_or_permission": "Original AI portrait reconstruction generated for VANSMITHLAB without copying a specific protected photograph; not documentary evidence.",
+    "source_url": "",
+    "created_at": "2026-08-12",
+    "alt": "AI reconstruction of Tim Walker on a set with theatrical scenery.",
+    "alt_text": "AI reconstruction of Tim Walker on a set with theatrical scenery.",
+    "caption": "Tim Walker, photographer. AI reconstruction, not an archival photograph.",
+    "credit": "VANSMITHLAB · AI-реконструкция, 2026",
+    "origin": "ai_reconstruction",
+    "rights_status": "generated_reviewed"
+  }
 }

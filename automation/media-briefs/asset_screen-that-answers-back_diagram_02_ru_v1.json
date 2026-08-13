@@ -1,0 +1,55 @@
+{
+  "asset_id": "asset_screen-that-answers-back_diagram_02_ru_v1",
+  "primary_object_id": "obj_screen_that_answers_back_20260813",
+  "content_release_id": "VSL-AN-INTERFACE-005",
+  "kind": "diagram",
+  "origin": "editorial_diagram",
+  "locale": "ru",
+  "author_supplied_reference": {
+    "reference_url": "https://www.computerhistory.org/revolution/story/347",
+    "asset_url": "",
+    "creator_or_rightsholder": "VANSMITHLAB",
+    "title_or_subject": "Xerox Alto graphical workspace",
+    "date_or_context": "2026 editorial analysis release",
+    "placement": "sec-4",
+    "supports_claims_or_examples": [
+      "clm_ui_alto",
+      "example-xerox-alto"
+    ],
+    "why_this_visual_matters": "Xerox Alto, 1970-е. Визуальный референс: Computer History Museum. Права на конкретное изображение проверить.",
+    "suggested_alt_text_ru": "Исторический интерфейс Xerox Alto с графической рабочей средой, окнами и документами.",
+    "suggested_alt_text_en": "Historical Xerox Alto interface with graphical workspace, windows and documents.",
+    "suggested_caption_ru": "Xerox Alto, 1970-е. Визуальный референс: Computer History Museum. Права на конкретное изображение проверить.",
+    "suggested_caption_en": "Xerox Alto, 1970s. Visual reference: Computer History Museum. Rights for the specific image must be checked.",
+    "rights_basis_from_author": "Original VANSMITHLAB editorial diagram; no third-party image copied."
+  },
+  "educational_purpose": "Xerox Alto, 1970-е. Визуальный референс: Computer History Museum. Права на конкретное изображение проверить.",
+  "must_not_imply": [
+    "A documentary screenshot or reproduction",
+    "Endorsement by the referenced organization or platform"
+  ],
+  "rights": {
+    "status": "editorial_basis_recorded",
+    "rights_basis": "Original VANSMITHLAB editorial diagram; no third-party visual asset embedded.",
+    "third_party_marks": "Textual nominative reference only where needed for analysis."
+  },
+  "accessibility": {
+    "alt": "Исторический интерфейс Xerox Alto с графической рабочей средой, окнами и документами.",
+    "caption": "Xerox Alto, 1970-е. Визуальный референс: Computer History Museum. Права на конкретное изображение проверить."
+  },
+  "creator": "VANSMITHLAB editorial visual system",
+  "created_at": "2026-08-13",
+  "asset_path": "public/images/articles/screen-that-answers-back/diagram-02-ru.svg",
+  "file": {
+    "path": "/images/articles/screen-that-answers-back/diagram-02-ru.svg",
+    "sha256": "f19e88d2f04b4c8156371018a6ed54b6b5a0aec32e17f5960ab2eef3efb84a9c",
+    "width": 1600,
+    "height": 900
+  },
+  "source_url": "https://www.computerhistory.org/revolution/story/347",
+  "rights_state": "editorial_basis_recorded",
+  "licence": "Original VANSMITHLAB editorial diagram; no third-party image copied.",
+  "licence_or_permission": "Original VANSMITHLAB editorial diagram; no third-party image copied.",
+  "creator_or_credit": "VANSMITHLAB",
+  "disclosure": "Редакционная диаграмма VANSMITHLAB."
+}

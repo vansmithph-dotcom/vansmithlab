@@ -1,0 +1,1004 @@
+{
+  "id": "obj_graphic_herb_lubalin",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Херб Любалин",
+  "title_en": "Herb Lubalin",
+  "slug_ru": "herb-lubalin-words-as-image-expressive-typography-editorial-risk",
+  "slug_en": "herb-lubalin-words-as-image-expressive-typography-editorial-risk",
+  "summary_ru": "Слова как изображение, выразительная типографика и редакционный риск",
+  "summary_en": "Words as image, expressive typography and editorial risk",
+  "verification_state": "verified",
+  "confidence_score": 0.86,
+  "created_at": "2026-08-12T00:00:00.000Z",
+  "updated_at": "2026-08-12T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_hl_001",
+      "wording_ru": "Herbert Frederick Lubalin родился 17 марта 1918 года в Нью-Йорке и вырос в творческой семье, где музыка и искусство были частью повседневной жизни. Проверенная биография Lubalin100 описывает его как тихого ребёнка, который не блистал в обычной школе, но заметно изменился после поступления в Cooper Union. Его цветовая слепота не стала ограничением карьеры; важнее оказалось раннее внимание к форме, ритму и силуэту. Для будущего дизайнера это важная отправная точка: Lubalin не строил профессиональную идентичность вокруг академической безупречности. Его зрелая графика будет постоянно доказывать, что выразительность рождается не из декоративного избытка, а из способности услышать характер слова и превратить его в зрительный жест.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://cooper.edu/events-and-exhibitions/events/herb-lubalin-then",
+          "locator": "DOCX section sec-1",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://cooper.edu/art/herb-lubalin-study-center-design-and-typography",
+          "locator": "DOCX section sec-1",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hl_002",
+      "wording_ru": "В Cooper Union Lubalin начал как не самый уверенный студент, но закончил School of Art в 1939 году с Student’s Medal for General Excellence. Там же он познакомился с Sylvia Kushner и Lou Dorfsman — будущими важными фигурами его личной и профессиональной жизни. Архивная биография подчёркивает, что именно в школе его отношение к работе стало дисциплинированным и целеустремлённым. Cooper Union важен для его истории ещё и как замкнувшийся круг. Через десятилетия Lubalin вернётся туда преподавателем, а после его смерти школа создаст Herb Lubalin Study Center. Поэтому образование здесь — не эпизод биографии, а институциональная линия, соединяющая обучение, практику, передачу знаний и архив.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://cooper.edu/art/herb-lubalin-study-center-design-and-typography",
+          "locator": "DOCX section sec-2",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://lubalin100.com/",
+          "locator": "DOCX section sec-2",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hl_003",
+      "wording_ru": "Первой работой после выпуска стало lettering для sign company на New York World’s Fair 1939 года. Lubalin100 сохраняет почти анекдотический эпизод: его уволили после просьбы поднять недельную оплату на два доллара. Затем последовали небольшие агентства, журналы и рекламные задания — типичная школа довоенного и военного коммерческого дизайна. Этот период не дал ему знаменитого визуального языка, но дал производственную выносливость. До того как буква станет у Lubalin изображением, она должна была научиться работать в реальном мире: в сроках, бюджетах, печатных ограничениях и иерархии рекламного сообщения.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://cooper.edu/events-and-exhibitions/events/herb-lubalin-then",
+          "locator": "DOCX section sec-3",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://cooper.edu/art/herb-lubalin-study-center-design-and-typography",
+          "locator": "DOCX section sec-3",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hl_004",
+      "wording_ru": "В 1945 году Lubalin пришёл в Sudler & Hennessey как art director, специализируясь на фармацевтической рекламе и промоции. К 1955 году он стал vice-president и creative director, а фирма выросла в полноценное рекламное агентство. Эта почти двадцатилетняя школа приучила его к задаче, где изображение должно быстро объяснять, убеждать и продавать. Поздний Lubalin часто воспринимается как антипод корпоративной сдержанности, но его экспрессия держится именно на дисциплине рекламы. Он понимает, что сильная форма не освобождает от функции. Наоборот, буква может быть смелой только тогда, когда дизайнер точно знает, что она должна сообщить.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://lubalin100.com/day-49/",
+          "locator": "DOCX section sec-4",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://cooper.edu/events-and-exhibitions/events/lubalin-ginzburg-and-triumph-creative-risk",
+          "locator": "DOCX section sec-4",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hl_005",
+      "wording_ru": "В 1964 году Lubalin покинул стабильную позицию и открыл Herb Lubalin, Inc. В собственных воспоминаниях он объяснял этот поворот усталостью от рекламной системы и постоянного компромисса с клиентом. Позднее название студии менялось вместе с партнёрами — Ernie Smith, Tom Carnase, Tony DiSpigna, Alan Peckolick и другими. Это не история одиночного автора, который наконец «стал свободным». Скорее, Lubalin построил лабораторию, где мог выбирать задачи и собирать вокруг них сильных специалистов. Свобода означала не отсутствие ограничений, а возможность самому определять, какие ограничения действительно помогают идее.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://cooper.edu/events-and-exhibitions/events/herb-lubalin-then",
+          "locator": "DOCX section sec-5",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://cooper.edu/art/herb-lubalin-study-center-design-and-typography",
+          "locator": "DOCX section sec-5",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hl_006",
+      "wording_ru": "Lubalin называл свой подход Graphic Expressionism: использование typography и letterforms не только как механического способа набора текста, но как средства выражения идеи и эмоционального воздействия. Для него слово не обязано выглядеть как спокойный контейнер смысла; его форма может участвовать в содержании наравне с фотографией или иллюстрацией. Здесь проходит главный разрыв с нейтральным модернистским идеалом. Lubalin не отказывается от ясности, но не верит, что ясность всегда равна визуальной невидимости. Если слово говорит о близости, конфликте, сексе, семье или политике, его ритм, расстояния и внутренние формы могут стать частью аргумента.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://cooper.edu/events-and-exhibitions/events/herb-lubalin-then",
+          "locator": "DOCX section sec-6",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://cooper.edu/art/herb-lubalin-study-center-design-and-typography",
+          "locator": "DOCX section sec-6",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hl_007",
+      "wording_ru": "Lubalin последовательно сокращал расстояния между буквами и строками, считая, что читатель воспринимает слова как целостные структуры. Его знаменитая практика сверхплотного kerning возникла в эпоху phototypesetting, когда физические ограничения металлической литеры ослабли и дизайнер получил возможность буквально сталкивать знаки друг с другом. Это не лицензия на любое сжатие текста. В лучших работах Lubalin плотность создаёт сцепление смысла: буквы становятся единой конструкцией, а негативное пространство — активной частью рисунка. Без этой логики «Lubalinesque» быстро превращается в стилистическую манеру, где теснота заменяет идею.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://cooper.edu/events-and-exhibitions/events/herb-lubalin-then",
+          "locator": "DOCX section sec-7",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://cooper.edu/art/herb-lubalin-study-center-design-and-typography",
+          "locator": "DOCX section sec-7",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hl_008",
+      "wording_ru": "Один из ключевых приёмов Lubalin — заставить слово выглядеть так, как оно означает. В логотипах и typograms он использовал поворот, наложение, зеркальность и заполненные counters, чтобы отношения между буквами превращались в отношения между понятиями. Его Marriage, где две буквы R вступают в визуальный контакт, стал почти учебниковым примером такого мышления. Важно, что это не иллюстрация, поставленная рядом со словом. Изображение возникает внутри языка. Дизайнер не добавляет символ к тексту — он обнаруживает символические возможности уже существующих букв и превращает чтение в маленькое визуальное событие.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://cooper.edu/events-and-exhibitions/events/herb-lubalin-then",
+          "locator": "DOCX section sec-8",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://cooper.edu/art/herb-lubalin-study-center-design-and-typography",
+          "locator": "DOCX section sec-8",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hl_009",
+      "wording_ru": "Логотип Mother & Child показывает Lubalin в наиболее точной форме. Большая буква O в слове MOTHER окружает маленькое CHILD и амперсанд, создавая образ защиты и физической близости. Lubalin Center уточняет коллективное авторство: концепция связана с Herb Lubalin и Alan Peckolick, а окончательный рисунок выполнил Tom Carnase. Эта работа стала знаменитой именно потому, что визуальная метафора не требует объяснения. Но её простота обманчива: масштаб, позиция, counter и амперсанд должны совпасть почти математически. Один небольшой сдвиг — и эмоциональная конструкция распадается.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.lubalin100.com/day-59/",
+          "locator": "DOCX section sec-9",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://cooper.edu/art/herb-lubalin-study-center-design-and-typography",
+          "locator": "DOCX section sec-9",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hl_010",
+      "wording_ru": "Архив Lubalin100 постоянно возвращает имена людей, работавших рядом с Lubalin: Tom Carnase, Alan Peckolick, Tony DiSpigna, Annegret Beier, Ernie Smith и других. Он умел формулировать идею и видеть решение, но производство многих знаменитых знаков и шрифтов было коллективным. Для VANSMITHLAB это принципиально: миф единственного гения удобен, но плохо объясняет реальный дизайн-процесс. Авторство Lubalin сильнее, когда видно, как он создавал среду, в которой lettering artist, designer, illustrator и typographer могли доводить идею до уровня, недостижимого для одного человека.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://cooper.edu/events-and-exhibitions/events/herb-lubalin-then",
+          "locator": "DOCX section sec-10",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://cooper.edu/art/herb-lubalin-study-center-design-and-typography",
+          "locator": "DOCX section sec-10",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hl_011",
+      "wording_ru": "Сотрудничество с publisher Ralph Ginzburg началось с Eros — дорогого hard-cover quarterly о любви, сексуальности и культуре. Lubalin получил редкую степень свободы в выборе формата, типографики, изображения и темпа страницы. В результате журнал ощущался не просто носителем статей, а спроектированным объектом с собственным ритмом чтения. Для Lubalin это был шанс проверить, что editorial design способен не обслуживать материал после написания, а формировать способ его восприятия. Обложка, endpapers, пустота, масштаб фотографии и качество бумаги становятся аргументами не меньше, чем заголовок.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://lubalin100.com/day-49/",
+          "locator": "DOCX section sec-11",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://cooper.edu/art/herb-lubalin-study-center-design-and-typography",
+          "locator": "DOCX section sec-11",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hl_012",
+      "wording_ru": "Eros существовал в момент, когда американские нормы публикации, сексуальности и obscenity быстро менялись и одновременно становились предметом юридического давления. Проект Ginzburg столкнулся с федеральным преследованием, а последующие решения затронули не только издателя, но и саму возможность радикального editorial experiment. Здесь дизайн нельзя отделить от политики распространения. Lubalin создавал изящную, тщательно контролируемую форму для содержания, которое власти считали опасным или неприемлемым. Контраст между визуальной элегантностью и общественным скандалом сделал Eros важным примером того, как дизайн участвует в споре о допустимом.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://lubalin100.com/day-34/",
+          "locator": "DOCX section sec-12",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://lubalin100.com/day-49/",
+          "locator": "DOCX section sec-12",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hl_013",
+      "wording_ru": "После Eros Ginzburg и Lubalin создали Fact. В отличие от роскошной материальности предыдущего проекта, Fact работал более экономно и текстово. Lubalin Center использует журнальные развороты Fact как пример того, насколько по-разному дизайнер мог обращаться с редакционным тоном, не превращая каждый проект в повтор одного фирменного жеста. Это важный противовес карикатуре на Lubalin как дизайнера одних лигатур. Когда материал требует напряжения, иронии или интеллектуальной дистанции, выразительность может быть построена на строгой структуре. Система должна соответствовать голосу публикации, а не личному почерку арт-директора.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://lubalin100.com/day-34/",
+          "locator": "DOCX section sec-13",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://cooper.edu/art/herb-lubalin-study-center-design-and-typography",
+          "locator": "DOCX section sec-13",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hl_014",
+      "wording_ru": "Cooper Union описывает партнёрство Lubalin и Ginzburg как одно из самых значительных творческих сотрудничеств 1960-х. Они последовательно сделали Eros, Fact и Avant Garde, проходя через цензуру, обвинения, юридическое давление и финансовый риск. Ginzburg отвечал за редакционный вызов; Lubalin получал свободу формировать его визуально. Такое доверие объясняет качество работы лучше, чем разговор о стиле. Лучший art direction появляется, когда редакционная идея и визуальная система развиваются одновременно, а дизайнеру не приходится оформлять уже закрытый текстовый продукт.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://cooper.edu/events-and-exhibitions/events/lubalin-ginzburg-and-triumph-creative-risk",
+          "locator": "DOCX section sec-14",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://cooper.edu/events-and-exhibitions/events/herb-lubalin-then",
+          "locator": "DOCX section sec-14",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hl_015",
+      "wording_ru": "Avant Garde должен был стать голосом искусства, политики и культурных конфликтов конца 1960-х. Само название казалось Lubalin почти невыполнимой задачей: любое решение, объявленное avant-garde, рисковало устареть в момент публикации. Работа над identity превратилась в длительный спор с Ginzburg и серию намеренно неподходящих предложений. Этот конфликт продуктивен: вместо модного эффекта Lubalin начал исследовать саму структуру букв. Решение оказалось не футуристической иллюстрацией, а новой системой соединения знаков — логотипом, который выглядел одновременно геометрически строгим и почти интимно сцепленным.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://lubalin100.com/day-49/",
+          "locator": "DOCX section sec-15",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://lubalin100.com/day-57/",
+          "locator": "DOCX section sec-15",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hl_016",
+      "wording_ru": "Финальный логотип Avant Garde строился на capital ligatures: AV, VA, AN, GA и других соединениях, которые Lubalin сознательно делал ядром identity. В собственном тексте для первого U&lc он вспоминал, как перебрал многочисленные стилистические варианты, прежде чем пришёл к этой системе. Здесь лигатура перестаёт быть традиционным типографическим удобством. Она превращается в композиционный двигатель: буквы не стоят рядом, а образуют архитектуру. Это тот редкий случай, когда логотип действительно породил язык, способный существовать за пределами одного названия.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://lubalin100.com/day-49/",
+          "locator": "DOCX section sec-16",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://lubalin100.com/day-57/",
+          "locator": "DOCX section sec-16",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hl_017",
+      "wording_ru": "Популярность знака Avant Garde привела к коммерческому расширению его форм в typeface. Avant Garde Gothic был выпущен в 1970 году; архив Lubalin100 подчёркивает участие Tom Carnase, который рисовал логотип и будущий шрифт. Позднее семейство расширялось другими авторами. Это переход от bespoke lettering к системе повторного использования. Но именно здесь появляется парадокс: решение, идеально работавшее внутри конкретного журнала, начинает жить как универсальный продукт и часто теряет исходную дисциплину. Сам Lubalin позже публично критиковал неумелое использование собственного шрифта.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://lubalin100.com/day-57/",
+          "locator": "DOCX section sec-17",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://lubalin100.com/day-49/",
+          "locator": "DOCX section sec-17",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hl_018",
+      "wording_ru": "Avant Garde Gothic часто автоматически называется «шрифтом Herb Lubalin», хотя архивная документация точнее описывает совместную работу: Lubalin сформулировал визуальную идею и ligature logic, Carnase отвечал за значительную часть рисунка и превращение логотипа в шрифтовую систему. Это хороший пример того, почему дизайн-истории необходима точность атрибуции. Концептуальное авторство и drawing authorship могут принадлежать разным людям, а массовая культура любит сжимать сложный процесс до одного узнаваемого имени.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://lubalin100.com/day-57/",
+          "locator": "DOCX section sec-18",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://lubalin100.com/day-49/",
+          "locator": "DOCX section sec-18",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hl_019",
+      "wording_ru": "В 1970 году Aaron Burns, Herb Lubalin и Edward Rondthaler основали International Typeface Corporation. TDC описывает ITC как одну из первых type foundries без традиционной базы в производстве metal type: компания строилась вокруг новых условий phototypesetting и лицензирования дизайнов независимым производителям. Для Lubalin это логичное расширение редакционной практики. Если технология освободила букву от металла, нужна была новая экономическая и культурная инфраструктура, которая позволяла type designers получать вознаграждение, а шрифтовым системам — распространяться через множество машин и рынков.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://cooper.edu/events-and-exhibitions/events/herb-lubalin-then",
+          "locator": "DOCX section sec-19",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://cooper.edu/art/herb-lubalin-study-center-design-and-typography",
+          "locator": "DOCX section sec-19",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hl_020",
+      "wording_ru": "В 1973 году Lubalin начал проектировать U&lc — in-house publication ITC, название которого расшифровывалось как Upper and lower case. Вместо обычного specimen catalogue он создал большой tabloid, где новые гарнитуры демонстрировались через редакционные материалы, иллюстрацию, эссе, игру и исторические ссылки. Это один из самых сильных примеров content marketing задолго до появления термина. U&lc продавал шрифты не прямой рекламой, а культурной средой: читателю хотелось принадлежать миру, в котором типографика является интеллектуальным и визуальным приключением.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://cooper.edu/events-and-exhibitions/events/herb-lubalin-then",
+          "locator": "DOCX section sec-20",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://cooper.edu/art/herb-lubalin-study-center-design-and-typography",
+          "locator": "DOCX section sec-20",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hl_021",
+      "wording_ru": "Lubalin говорил, что долгие годы стремился к ситуации, где сможет стать собственным клиентом. U&lc приблизил его к этой модели: как editor и designer он мог выбирать материалы, авторов, ритм выпуска и способ показа typefaces без привычной клиентской цепочки согласований. Но свобода не сделала журнал хаотичным. Напротив, U&lc показывает, насколько требовательным Lubalin был к отбору и редактуре. Самостоятельность работала только потому, что у него уже существовали десятилетия производственной дисциплины.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://cooper.edu/events-and-exhibitions/events/herb-lubalin-then",
+          "locator": "DOCX section sec-21",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://cooper.edu/art/herb-lubalin-study-center-design-and-typography",
+          "locator": "DOCX section sec-21",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hl_022",
+      "wording_ru": "В U&lc Lubalin регулярно публиковал иллюстраторов, дизайнеров и авторов, превращая журнал в открытую платформу, а не персональное портфолио. В воспоминаниях художников повторяется одна деталь: он мог дать человеку пространство и не «редактировать его до неузнаваемости». Такой art direction строится не на тотальном контроле стиля, а на точном выборе людей. Сильная система может быть узнаваемой, не заставляя каждый материал выглядеть одинаково. Это принцип, который остаётся актуальным для журналов, брендов и digital platforms.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://cooper.edu/events-and-exhibitions/events/herb-lubalin-then",
+          "locator": "DOCX section sec-22",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://cooper.edu/art/herb-lubalin-study-center-design-and-typography",
+          "locator": "DOCX section sec-22",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hl_023",
+      "wording_ru": "Помимо Avant Garde Gothic Lubalin участвовал в разработке Ronda с Tom Carnase, Serif Gothic и Lubalin Graph с Tony DiSpigna. Архив Lubalin100 фиксирует эти совместные проекты как часть более широкого интереса к тому, как display typography может стать воспроизводимой системой. Особенно показателен Lubalin Graph: логика геометрического sans получает slab-serif продолжение. Это демонстрирует, что Lubalin интересовал не только эффект одной формы, но и возможность строить родственные визуальные голоса для разных задач.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://lubalin100.com/day-57/",
+          "locator": "DOCX section sec-23",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://lubalin100.com/day-49/",
+          "locator": "DOCX section sec-23",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hl_024",
+      "wording_ru": "После 1971 года студия Lubalin работала над animated titles для PBS. В U&lc он описывал этот подход как Metaphorical typography: слова и знаки меняли форму во времени, а типографическая идея становилась последовательностью, а не статичной композицией. Производство выполнялось совместно с Lawrence K Grossman Agency и Edstan Studios. Это важный мост к современному motion design. Lubalin не просто заставляет буквы двигаться; он переносит в время тот же принцип, который использовал на бумаге: форма слова должна раскрывать смысл. Сегодня этот подход читается в title design, interface motion и кинетической айдентике.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://cooper.edu/art/herb-lubalin-study-center-design-and-typography",
+          "locator": "DOCX section sec-24",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://lubalin100.com/day-16/",
+          "locator": "DOCX section sec-24",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hl_025",
+      "wording_ru": "В 1972 году Lubalin начал преподавать в Cornell University, а с 1976 по 1981 год — в Cooper Union. Биографические материалы подчёркивают, что он пришёл к преподаванию уже как чрезвычайно успешный практик, несущий в аудиторию не столько набор правил, сколько опыт реального производства и критики. Его известная фраза о том, что настоящее образование начинается в первый день работы, хорошо описывает педагогический темперамент Lubalin. Для него typography была не абстрактной системой классификации, а способом решать конкретные коммуникационные задачи под давлением реального мира.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://cooper.edu/art/herb-lubalin-study-center-design-and-typography",
+          "locator": "DOCX section sec-25",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://cooper.edu/events-and-exhibitions/events/herb-lubalin-then",
+          "locator": "DOCX section sec-25",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hl_026",
+      "wording_ru": "Исследователи Lubalin Center и Unit Editions часто противопоставляют Lubalin строгой Swiss modernist tradition. Но точнее говорить не об отказе от модернизма вообще, а о споре с идеей, что универсальность требует эмоциональной нейтральности. Lubalin использовал системность, но позволял системе говорить разными голосами. В этом смысле его работа особенно важна после Swiss Style: она показывает другой путь профессиональной дисциплины. Grid, hierarchy и typography остаются инструментами, но дизайнер имеет право сделать букву смешной, тревожной, сексуальной, нежной или политической, если этого требует содержание.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://cooper.edu/art/herb-lubalin-study-center-design-and-typography",
+          "locator": "DOCX section sec-26",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://lubalin100.com/day-64/",
+          "locator": "DOCX section sec-26",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hl_027",
+      "wording_ru": "Материалы Lubalin100 подчёркивают политическую чувствительность Lubalin и его готовность работать с темами, которые многие коммерческие дизайнеры предпочитали обходить. Его связь с Ginzburg, отношение к цензуре и выбор редакционных проектов показывают, что для него профессиональная свобода имела общественное измерение. Это не превращает каждую работу Lubalin в активистский плакат. Скорее, он демонстрирует, что дизайнер не существует вне условий публикации. Выбор клиента, площадки, темы и степени риска уже формирует политическую позицию — даже если визуальная форма остаётся элегантной.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://lubalin100.com/day-34/",
+          "locator": "DOCX section sec-27",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://cooper.edu/events-and-exhibitions/events/lubalin-ginzburg-and-triumph-creative-risk",
+          "locator": "DOCX section sec-27",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hl_028",
+      "wording_ru": "В воспоминаниях о Lubalin повторяется тема признания сотрудников. Unit Editions и Lubalin100 отмечают, что он часто показывал имена collaborators и не скрывал участие lettering artists и designers в проектах студии. Это особенно важно для работ, которые история позднее приписала только ему. Такая модель не отменяет сильного creative director. Напротив, она уточняет его роль: видеть потенциал людей, соединять их навыки и удерживать идею. В современном production это ближе к работе visual director, чем к романтическому образу мастера, лично рисующего каждый элемент.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://lubalin100.com/day-49/",
+          "locator": "DOCX section sec-28",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://cooper.edu/events-and-exhibitions/events/herb-lubalin-then",
+          "locator": "DOCX section sec-28",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hl_029",
+      "wording_ru": "Влияние Lubalin породило огромный пласт подражаний: tight kerning, ligatures, oversized ampersands, округлая геометрия и превращение букв в картинки. Сам дизайнер наблюдал, как Avant Garde Gothic используется без чувства меры, и публично критиковал многие такие применения. Главный урок здесь парадоксален: чтобы работать «как Lubalin», нужно меньше копировать Lubalin. Его лучшие решения рождаются из смысла конкретного слова и задачи. Если взять только визуальные симптомы, исчезает то, что делало работу убедительной — связь формы с редакционной идеей.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://lubalin100.com/day-57/",
+          "locator": "DOCX section sec-29",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://lubalin100.com/day-49/",
+          "locator": "DOCX section sec-29",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hl_030",
+      "wording_ru": "Lubalin умер 24 мая 1981 года в Нью-Йорке. В 1985 году Cooper Union и друзья дизайнера основали Herb Lubalin Study Center of Design and Typography, ядром которого стал его архив. В 2018 году центр запустил Lubalin100 к столетию со дня рождения, открыв новые слои процесса, атрибуции и сотрудничества. Главный урок Lubalin не в плотном kerning и не в одной знаменитой гарнитуре. Он доказал, что typography может быть одновременно языком, изображением, редакционным голосом и бизнес-инфраструктурой. Но выразительность работает только тогда, когда форма отвечает конкретному смыслу. Поэтому его наследие — не стиль для копирования, а разрешение думать буквами как живыми отношениями.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://cooper.edu/art/herb-lubalin-study-center-design-and-typography",
+          "locator": "DOCX section sec-30",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://lubalin100.com/",
+          "locator": "DOCX section sec-30",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_3786516deed2c2ce",
+      "title": "Herb Lubalin Biography",
+      "url": "https://lubalin100.com/day-4/",
+      "publisher": "Lubalin100 / Herb Lubalin Study Center",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_0b1de78100559fde",
+      "title": "The Herb Lubalin Study Center of Design and Typography",
+      "url": "https://cooper.edu/art/herb-lubalin-study-center-design-and-typography",
+      "publisher": "The Cooper Union",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_a936f1d1f0916a4b",
+      "title": "Lubalin 100",
+      "url": "https://lubalin100.com/",
+      "publisher": "Herb Lubalin Study Center / The Cooper Union",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_07e0065f551816e1",
+      "title": "Herb Lubalin: American Graphic Designer (1918-81) symposium",
+      "url": "https://cooper.edu/events-and-exhibitions/events/herb-lubalin-then",
+      "publisher": "The Cooper Union",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_35f88b932fc97c18",
+      "title": "Mother & Child & Son & Madonna",
+      "url": "https://www.lubalin100.com/day-59/",
+      "publisher": "Lubalin100 / Herb Lubalin Study Center",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_b26c05debc4a3622",
+      "title": "Lubalin, Ginzburg, and the Triumph of Creative Risk",
+      "url": "https://cooper.edu/events-and-exhibitions/events/lubalin-ginzburg-and-triumph-creative-risk",
+      "publisher": "The Cooper Union",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_dd3fefd5958d5a1c",
+      "title": "Avant Garde / Eros archival notes",
+      "url": "https://lubalin100.com/day-35/",
+      "publisher": "Lubalin100 / Herb Lubalin Study Center",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_75546c751bd4c5e3",
+      "title": "Eros, obscenity and the Ginzburg case archival notes",
+      "url": "https://lubalin100.com/day-34/",
+      "publisher": "Lubalin100 / Herb Lubalin Study Center",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_6bf3cc6ede0c4a59",
+      "title": "Avant Garde editorial design and creative partnership",
+      "url": "https://lubalin100.com/day-49/",
+      "publisher": "Lubalin100 / Herb Lubalin Study Center",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_fff98eb33aa07eff",
+      "title": "Is Avant Garde Avant-Garde? Lubalin100 / Herb Lubalin Study Center",
+      "url": "https://lubalin100.com/day-56/",
+      "publisher": "",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_b652d2e99214dde2",
+      "title": "Avant Garde Gothic and its use",
+      "url": "https://lubalin100.com/day-57/",
+      "publisher": "Lubalin100 / Herb Lubalin Study Center",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_485eed8f8ca1159c",
+      "title": "Aaron Burns and the founding of ITC",
+      "url": "https://tdc.org/medal-winner/aaron-burns/",
+      "publisher": "Type Directors Club",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_dac577faa1db5abc",
+      "title": "Good type has secrets",
+      "url": "https://www.monotype.com/resources/videos/good-type-has-secrets",
+      "publisher": "Monotype",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_76681611576731b7",
+      "title": "Rejection and becoming your own client",
+      "url": "https://lubalin100.com/day-51/",
+      "publisher": "Lubalin100 / Herb Lubalin Study Center",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_bad9c16d3d10983e",
+      "title": "Metaphorical typography and PBS",
+      "url": "https://lubalin100.com/day-16/",
+      "publisher": "Lubalin100 / Herb Lubalin Study Center",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_5b2d4645aa59fea7",
+      "title": "The Story of O and U&lc",
+      "url": "https://lubalin100.com/day-89/",
+      "publisher": "Lubalin100 / Herb Lubalin Study Center",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_6429b5fb7fd770ef",
+      "title": "Herb Lubalin and Unit Editions / studio authorship",
+      "url": "https://lubalin100.com/day-64/",
+      "publisher": "Lubalin100 / Herb Lubalin Study Center",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_c24f94b386c17278",
+      "title": "Memories of Herb Lubalin / studio practice",
+      "url": "https://lubalin100.com/day-92/",
+      "publisher": "Lubalin100 / Herb Lubalin Study Center",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_471e6c0e5a02500d",
+      "title": "100 Days of Herb Lubalin",
+      "url": "https://cooper.edu/art/news/100-days-herb-lubalin",
+      "publisher": "The Cooper Union",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_5386edf27253b0fb",
+      "title": "The Lubalin Center at 30",
+      "url": "https://cooper.edu/art/news/lubalin-center-30",
+      "publisher": "The Cooper Union",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_herb_lubal_01",
+      "claim_id": "clm_hl_001",
+      "source_id": "src_07e0065f551816e1",
+      "locator": "DOCX section sec-1",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_herb_lubal_02",
+      "claim_id": "clm_hl_002",
+      "source_id": "src_0b1de78100559fde",
+      "locator": "DOCX section sec-2",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_herb_lubal_03",
+      "claim_id": "clm_hl_003",
+      "source_id": "src_07e0065f551816e1",
+      "locator": "DOCX section sec-3",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_herb_lubal_04",
+      "claim_id": "clm_hl_004",
+      "source_id": "src_6bf3cc6ede0c4a59",
+      "locator": "DOCX section sec-4",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_herb_lubal_05",
+      "claim_id": "clm_hl_005",
+      "source_id": "src_07e0065f551816e1",
+      "locator": "DOCX section sec-5",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_herb_lubal_06",
+      "claim_id": "clm_hl_006",
+      "source_id": "src_07e0065f551816e1",
+      "locator": "DOCX section sec-6",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_herb_lubal_07",
+      "claim_id": "clm_hl_007",
+      "source_id": "src_07e0065f551816e1",
+      "locator": "DOCX section sec-7",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_herb_lubal_08",
+      "claim_id": "clm_hl_008",
+      "source_id": "src_07e0065f551816e1",
+      "locator": "DOCX section sec-8",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_herb_lubal_09",
+      "claim_id": "clm_hl_009",
+      "source_id": "src_35f88b932fc97c18",
+      "locator": "DOCX section sec-9",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_herb_lubal_10",
+      "claim_id": "clm_hl_010",
+      "source_id": "src_07e0065f551816e1",
+      "locator": "DOCX section sec-10",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_herb_lubal_11",
+      "claim_id": "clm_hl_011",
+      "source_id": "src_6bf3cc6ede0c4a59",
+      "locator": "DOCX section sec-11",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_herb_lubal_12",
+      "claim_id": "clm_hl_012",
+      "source_id": "src_75546c751bd4c5e3",
+      "locator": "DOCX section sec-12",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_herb_lubal_13",
+      "claim_id": "clm_hl_013",
+      "source_id": "src_75546c751bd4c5e3",
+      "locator": "DOCX section sec-13",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_herb_lubal_14",
+      "claim_id": "clm_hl_014",
+      "source_id": "src_b26c05debc4a3622",
+      "locator": "DOCX section sec-14",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_herb_lubal_15",
+      "claim_id": "clm_hl_015",
+      "source_id": "src_6bf3cc6ede0c4a59",
+      "locator": "DOCX section sec-15",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_herb_lubal_16",
+      "claim_id": "clm_hl_016",
+      "source_id": "src_6bf3cc6ede0c4a59",
+      "locator": "DOCX section sec-16",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_herb_lubal_17",
+      "claim_id": "clm_hl_017",
+      "source_id": "src_b652d2e99214dde2",
+      "locator": "DOCX section sec-17",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_herb_lubal_18",
+      "claim_id": "clm_hl_018",
+      "source_id": "src_b652d2e99214dde2",
+      "locator": "DOCX section sec-18",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_herb_lubal_19",
+      "claim_id": "clm_hl_019",
+      "source_id": "src_07e0065f551816e1",
+      "locator": "DOCX section sec-19",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_herb_lubal_20",
+      "claim_id": "clm_hl_020",
+      "source_id": "src_07e0065f551816e1",
+      "locator": "DOCX section sec-20",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_herb_lubal_21",
+      "claim_id": "clm_hl_021",
+      "source_id": "src_07e0065f551816e1",
+      "locator": "DOCX section sec-21",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_herb_lubal_22",
+      "claim_id": "clm_hl_022",
+      "source_id": "src_07e0065f551816e1",
+      "locator": "DOCX section sec-22",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_herb_lubal_23",
+      "claim_id": "clm_hl_023",
+      "source_id": "src_b652d2e99214dde2",
+      "locator": "DOCX section sec-23",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_herb_lubal_24",
+      "claim_id": "clm_hl_024",
+      "source_id": "src_0b1de78100559fde",
+      "locator": "DOCX section sec-24",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_herb_lubal_25",
+      "claim_id": "clm_hl_025",
+      "source_id": "src_0b1de78100559fde",
+      "locator": "DOCX section sec-25",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_herb_lubal_26",
+      "claim_id": "clm_hl_026",
+      "source_id": "src_0b1de78100559fde",
+      "locator": "DOCX section sec-26",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_herb_lubal_27",
+      "claim_id": "clm_hl_027",
+      "source_id": "src_75546c751bd4c5e3",
+      "locator": "DOCX section sec-27",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_herb_lubal_28",
+      "claim_id": "clm_hl_028",
+      "source_id": "src_6bf3cc6ede0c4a59",
+      "locator": "DOCX section sec-28",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_herb_lubal_29",
+      "claim_id": "clm_hl_029",
+      "source_id": "src_b652d2e99214dde2",
+      "locator": "DOCX section sec-29",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_herb_lubal_30",
+      "claim_id": "clm_hl_030",
+      "source_id": "src_0b1de78100559fde",
+      "locator": "DOCX section sec-30",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "media_state": "media_ready",
+  "workflow": {
+    "decision": "AUTO_APPROVE",
+    "note": "RU/EN pair passed DOCX structure, source-format, URL reachability, taxonomy and media-rights checks on 2026-08-12. Claims remain explicitly attributed to the listed sources.",
+    "converted_by": "VANSMITHLAB incoming article publication workflow",
+    "converted_at": "2026-08-12T00:00:00.000Z",
+    "media_reviewed_at": "2026-08-12",
+    "media_note": "Card and portrait are original AI editorial illustrations; neither is documentary evidence or a copied archival photograph."
+  }
+}

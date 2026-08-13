@@ -4,7 +4,7 @@
   "canonical_locale": "ru",
   "lifecycle_state": "published",
   "revision": 2,
-  "title_ru": "Prada: история модного дома и системы",
+  "title_ru": "Prada: Как модный дом стал системой",
   "slug_ru": "istoriya-modnogo-doma-prada",
   "summary_ru": "Исследовательское досье о развитии Prada от миланского магазина дорожных изделий 1913 года до современной творческой, культурной и корпоративной структуры группы.",
   "verification_state": "verified",
@@ -1085,6 +1085,9 @@
     "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
     "note": "Источник — research-досье автора (Иван Мельник), подготовленное вне автоматизированного конвейера VANSMITHLAB. Claude (сессия) свёл документ в формат сайта, перенёс claim registry и источники без запуска автоматической evidence-проверки. Требуется полный прогон конвейера (research -> evidence -> russian_fact_review) для перехода в verification_state \"verified\".",
     "converted_by": "claude_session_manual_conversion",
-    "converted_at": "2026-08-06T00:00:00.000Z"
-  }
+    "converted_at": "2026-08-06T00:00:00.000Z",
+    "media_reviewed_at": "2026-08-12",
+    "media_note": "Primary hero now has a complete localized media record, accessibility text, provenance, rights state and content hash; optional detail slots remain editorially unfilled."
+  },
+  "media_state": "media_ready"
 }

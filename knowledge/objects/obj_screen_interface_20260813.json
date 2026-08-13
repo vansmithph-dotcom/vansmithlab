@@ -1,0 +1,1001 @@
+{
+  "id": "obj_screen_interface_20260813",
+  "type": "theme",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Экранный интерфейс — навигация, взаимодействие и экран как визуальная система",
+  "title_en": "Screen interface: navigation and interaction as visual system",
+  "slug_ru": "screen-interface-navigation-interaction-visual-system",
+  "slug_en": "screen-interface-navigation-interaction-visual-system",
+  "summary_ru": "От курсора и окна к касанию, системам и интерфейсам искусственного интеллекта",
+  "verification_state": "verified",
+  "confidence_score": 0.86,
+  "created_at": "2026-08-13T00:00:00.000Z",
+  "updated_at": "2026-08-13T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_screen_interface_navigation_interaction_visual_system_sec_1",
+      "wording_ru": "Экранный интерфейс появляется там, где изображение становится управляемым. Пользователь не только смотрит на экран, но выбирает, перемещается, вводит, отменяет, сравнивает, настраивает и ожидает ответа.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://dougengelbart.org/mousesite/1968Demo.html",
+          "locator": "DOCX section sec-1",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://dougengelbart.org/content/view/276/",
+          "locator": "DOCX section sec-1",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_screen_interface_navigation_interaction_visual_system_sec_2",
+      "wording_ru": "Демонстрация Doug Engelbart показала мышь, окна, гипертекст, совместную работу, видеосвязь и навигацию как единую среду. Это был не декоративный экран, а рабочее пространство мышления.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://dougengelbart.org/mousesite/1968Demo.html",
+          "locator": "DOCX section sec-2",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://dougengelbart.org/content/view/276/",
+          "locator": "DOCX section sec-2",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_screen_interface_navigation_interaction_visual_system_sec_3",
+      "wording_ru": "Курсор важен потому, что связывает руку, глаз и систему. Он делает экран адресуемым: можно указать точку, объект, слово, файл, ссылку или команду.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://dougengelbart.org/mousesite/1968Demo.html",
+          "locator": "DOCX section sec-3",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://dougengelbart.org/content/view/276/",
+          "locator": "DOCX section sec-3",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_screen_interface_navigation_interaction_visual_system_sec_4",
+      "wording_ru": "Xerox Alto сделал видимыми окна, значки, перекрытие, печать, текстовую обработку и сетевую работу. Интерфейс стал средой, в которой документы и инструменты существуют визуально.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://dougengelbart.org/mousesite/1968Demo.html",
+          "locator": "DOCX section sec-4",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://dougengelbart.org/content/view/276/",
+          "locator": "DOCX section sec-4",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_screen_interface_navigation_interaction_visual_system_sec_5",
+      "wording_ru": "Папка, корзина, окно и документ не являются нейтральными украшениями. Это перевод сложной вычислительной логики в знакомые пространственные отношения.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://dougengelbart.org/mousesite/1968Demo.html",
+          "locator": "DOCX section sec-5",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://dougengelbart.org/content/view/276/",
+          "locator": "DOCX section sec-5",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_screen_interface_navigation_interaction_visual_system_sec_6",
+      "wording_ru": "Apple превратила интерфейс в систему правил: меню, диалог, значок, курсор, окно, обратная связь и предсказуемое поведение должны работать как общий язык платформы.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://dougengelbart.org/mousesite/1968Demo.html",
+          "locator": "DOCX section sec-6",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://dougengelbart.org/content/view/276/",
+          "locator": "DOCX section sec-6",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_screen_interface_navigation_interaction_visual_system_sec_7",
+      "wording_ru": "В интерфейсе слово не только сообщает, но и запускает действие. Надпись на кнопке, пункт меню, ошибка, подсказка и состояние системы требуют точности, краткости и ответственности.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://dougengelbart.org/mousesite/1968Demo.html",
+          "locator": "DOCX section sec-7",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://dougengelbart.org/content/view/276/",
+          "locator": "DOCX section sec-7",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_screen_interface_navigation_interaction_visual_system_sec_8",
+      "wording_ru": "Цвет на экране должен не просто быть красивым. Он показывает активность, опасность, успех, недоступность, выбранность, системный акцент и иерархию внимания.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://dougengelbart.org/mousesite/1968Demo.html",
+          "locator": "DOCX section sec-8",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://dougengelbart.org/content/view/276/",
+          "locator": "DOCX section sec-8",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_screen_interface_navigation_interaction_visual_system_sec_9",
+      "wording_ru": "Интерфейс продолжает традицию сетки, модульности и визуальной иерархии. Но теперь сетка должна жить в разных размерах, плотностях пикселей, языках и состояниях.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://dougengelbart.org/mousesite/1968Demo.html",
+          "locator": "DOCX section sec-9",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://dougengelbart.org/content/view/276/",
+          "locator": "DOCX section sec-9",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_screen_interface_navigation_interaction_visual_system_sec_10",
+      "wording_ru": "World Wide Web сделал навигацию главным визуальным поведением. Ссылка, адрес, страница, вкладка и история браузера создали новый способ движения через информацию.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://dougengelbart.org/mousesite/1968Demo.html",
+          "locator": "DOCX section sec-10",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://dougengelbart.org/content/view/276/",
+          "locator": "DOCX section sec-10",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_screen_interface_navigation_interaction_visual_system_sec_11",
+      "wording_ru": "Браузер стал универсальной машиной интерфейса: в нём работают документы, магазины, редакторы, карты, видео, игры, банки, почта и профессиональные инструменты.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://dougengelbart.org/mousesite/1968Demo.html",
+          "locator": "DOCX section sec-11",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://dougengelbart.org/content/view/276/",
+          "locator": "DOCX section sec-11",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_screen_interface_navigation_interaction_visual_system_sec_12",
+      "wording_ru": "Интерфейс держится на повторяемых элементах. Если кнопка похожа на кнопку, поле ведёт себя как поле, а меню открывается предсказуемо, пользователь перестаёт бояться системы.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://dougengelbart.org/mousesite/1968Demo.html",
+          "locator": "DOCX section sec-12",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://dougengelbart.org/content/view/276/",
+          "locator": "DOCX section sec-12",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_screen_interface_navigation_interaction_visual_system_sec_13",
+      "wording_ru": "Плакат имеет одну композицию, интерфейс имеет множество состояний. Наведение, фокус, ошибка, загрузка, блокировка, выбранность и пустой экран являются частью дизайна.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://dougengelbart.org/mousesite/1968Demo.html",
+          "locator": "DOCX section sec-13",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://dougengelbart.org/content/view/276/",
+          "locator": "DOCX section sec-13",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_screen_interface_navigation_interaction_visual_system_sec_14",
+      "wording_ru": "Анимация, вибрация, изменение цвета, звук и задержка показывают пользователю, что действие принято. Хорошее микровзаимодействие не украшает, а снижает неопределённость.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://dougengelbart.org/mousesite/1968Demo.html",
+          "locator": "DOCX section sec-14",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://dougengelbart.org/content/view/276/",
+          "locator": "DOCX section sec-14",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_screen_interface_navigation_interaction_visual_system_sec_15",
+      "wording_ru": "iPhone сделал интерфейс телесным: касание, пролистывание, масштабирование пальцами и экранная клавиатура изменили ожидания от всех цифровых систем.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://dougengelbart.org/mousesite/1968Demo.html",
+          "locator": "DOCX section sec-15",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://dougengelbart.org/content/view/276/",
+          "locator": "DOCX section sec-15",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_screen_interface_navigation_interaction_visual_system_sec_16",
+      "wording_ru": "Жест удобен только тогда, когда он понятен или обучаем. Чем меньше знак, тем выше риск невидимости. Поэтому жесты требуют поддержки через визуальные подсказки и обратную связь.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://dougengelbart.org/mousesite/1968Demo.html",
+          "locator": "DOCX section sec-16",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://dougengelbart.org/content/view/276/",
+          "locator": "DOCX section sec-16",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_screen_interface_navigation_interaction_visual_system_sec_17",
+      "wording_ru": "Современный интерфейс должен меняться: телефон, планшет, ноутбук, телевизор, часы, автомобильный экран и гарнитура требуют разных плотностей, расстояний и сценариев.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://dougengelbart.org/mousesite/1968Demo.html",
+          "locator": "DOCX section sec-17",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://dougengelbart.org/content/view/276/",
+          "locator": "DOCX section sec-17",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_screen_interface_navigation_interaction_visual_system_sec_18",
+      "wording_ru": "Material Design предложил язык цифровых поверхностей, тени, движения и компонентов. Его важность в том, что интерфейс стал проектироваться как масштабируемая дизайн-система.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://dougengelbart.org/mousesite/1968Demo.html",
+          "locator": "DOCX section sec-18",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://dougengelbart.org/content/view/276/",
+          "locator": "DOCX section sec-18",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_screen_interface_navigation_interaction_visual_system_sec_19",
+      "wording_ru": "Fluent Design System показывает, что крупная платформа требует общего набора компонентов, поведения, доступности и визуального тона для множества продуктов и команд.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://dougengelbart.org/mousesite/1968Demo.html",
+          "locator": "DOCX section sec-19",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://dougengelbart.org/content/view/276/",
+          "locator": "DOCX section sec-19",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_screen_interface_navigation_interaction_visual_system_sec_20",
+      "wording_ru": "В зрелой среде экран собирается из правил, токенов, компонентов, состояний, сеток, шаблонов и сценариев. Это меняет роль дизайнера: он проектирует не картинку, а систему воспроизводства.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://dougengelbart.org/mousesite/1968Demo.html",
+          "locator": "DOCX section sec-20",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://dougengelbart.org/content/view/276/",
+          "locator": "DOCX section sec-20",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_screen_interface_navigation_interaction_visual_system_sec_21",
+      "wording_ru": "WCAG фиксирует доступность как общую норму цифрового контента. Контраст, фокус, клавиатурная навигация, подписи, структура и понятные ошибки являются частью визуальной системы.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://dougengelbart.org/mousesite/1968Demo.html",
+          "locator": "DOCX section sec-21",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://dougengelbart.org/content/view/276/",
+          "locator": "DOCX section sec-21",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_screen_interface_navigation_interaction_visual_system_sec_22",
+      "wording_ru": "Тёмная тема не равна инверсии цвета. Она требует другой логики контраста, глубины, акцентов, теней, изображений и читаемости в разных условиях освещения.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://dougengelbart.org/mousesite/1968Demo.html",
+          "locator": "DOCX section sec-22",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://dougengelbart.org/content/view/276/",
+          "locator": "DOCX section sec-22",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_screen_interface_navigation_interaction_visual_system_sec_23",
+      "wording_ru": "Пустой список, ошибка оплаты, потеря связи или неверный пароль — это не технические мелочи. В эти моменты интерфейс объясняет, что произошло и что можно сделать дальше.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://dougengelbart.org/mousesite/1968Demo.html",
+          "locator": "DOCX section sec-23",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://dougengelbart.org/content/view/276/",
+          "locator": "DOCX section sec-23",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_screen_interface_navigation_interaction_visual_system_sec_24",
+      "wording_ru": "Кино, игры и научная фантастика используют интерфейс как образ будущего. Такие экраны часто не обязаны быть удобными, но они формируют визуальные ожидания реальных продуктов.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://dougengelbart.org/mousesite/1968Demo.html",
+          "locator": "DOCX section sec-24",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://dougengelbart.org/content/view/276/",
+          "locator": "DOCX section sec-24",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_screen_interface_navigation_interaction_visual_system_sec_25",
+      "wording_ru": "Экранные системы живут в публичной среде: кассы, аэропорты, автомобили, медицинские приборы и банкоматы требуют быстрого понимания, устойчивости к ошибкам и ясной иерархии.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://dougengelbart.org/mousesite/1968Demo.html",
+          "locator": "DOCX section sec-25",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://dougengelbart.org/content/view/276/",
+          "locator": "DOCX section sec-25",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_screen_interface_navigation_interaction_visual_system_sec_26",
+      "wording_ru": "В visionOS и смешанной реальности интерфейс больше не ограничен прямоугольником. Важными становятся глубина, взгляд, жест, расстояние, масштаб, прозрачность и расположение в пространстве.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://dougengelbart.org/mousesite/1968Demo.html",
+          "locator": "DOCX section sec-26",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://dougengelbart.org/content/view/276/",
+          "locator": "DOCX section sec-26",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_screen_interface_navigation_interaction_visual_system_sec_27",
+      "wording_ru": "Liquid Glass показывает новый виток вопроса о материальности экрана: прозрачность, преломление, глубина и адаптивность снова становятся частью визуального языка интерфейса.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://dougengelbart.org/mousesite/1968Demo.html",
+          "locator": "DOCX section sec-27",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://dougengelbart.org/content/view/276/",
+          "locator": "DOCX section sec-27",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_screen_interface_navigation_interaction_visual_system_sec_28",
+      "wording_ru": "интерфейсы искусственного интеллекта смещают центр от кнопки к запросу, подсказке, контексту и проверке результата. Но чем свободнее ввод, тем важнее ясность, контроль и объяснимость.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://dougengelbart.org/mousesite/1968Demo.html",
+          "locator": "DOCX section sec-28",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://dougengelbart.org/content/view/276/",
+          "locator": "DOCX section sec-28",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_screen_interface_navigation_interaction_visual_system_sec_29",
+      "wording_ru": "Интерфейс может помогать, а может манипулировать. Бесконечная прокрутка, скрытая отмена, навязанные согласия и визуальные ловушки показывают, что дизайн поведения имеет этическую сторону.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://dougengelbart.org/mousesite/1968Demo.html",
+          "locator": "DOCX section sec-29",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://dougengelbart.org/content/view/276/",
+          "locator": "DOCX section sec-29",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_screen_interface_navigation_interaction_visual_system_sec-30",
+      "wording_ru": "Экранный интерфейс научил изображение отвечать. Его наследие — не набор кнопок, а способ организовывать внимание, действие, память, доверие и контроль внутри цифровой среды.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://dougengelbart.org/mousesite/1968Demo.html",
+          "locator": "DOCX section sec-30",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://dougengelbart.org/content/view/276/",
+          "locator": "DOCX section sec-30",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_c7fe8130c68d4b85",
+      "title": "Doug Engelbart 1968 Demo",
+      "publisher": "Doug Engelbart Institute",
+      "url": "https://dougengelbart.org/mousesite/1968Demo.html",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_bdfa3e779304d477",
+      "title": "Highlights of the 1968 Demo",
+      "publisher": "Doug Engelbart Institute",
+      "url": "https://dougengelbart.org/content/view/276/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_5d4a25c48063fa9d",
+      "title": "Yesterday’s Computer of Tomorrow: The Xerox Alto",
+      "publisher": "Computer History Museum",
+      "url": "https://computerhistory.org/events/yesterdays-computer-tomorrow-xerox-alto/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_a8c59332b52b4a25",
+      "title": "Xerox Alto — CHM Revolution",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/revolution/story/347",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_79b2f2f938d5e6ff",
+      "title": "The birth of the Web",
+      "publisher": "CERN",
+      "url": "https://home.cern/science/computing/the-birth-of-the-web/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_07db54ac7c891d62",
+      "title": "The Browser — WorldWideWeb NeXT Application",
+      "publisher": "CERN",
+      "url": "https://worldwideweb.cern.ch/worldwideweb/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_10e8764954fa3ea7",
+      "title": "iPhone Premieres This Friday Night at Apple Retail Stores",
+      "publisher": "Apple Newsroom",
+      "url": "https://www.apple.com/newsroom/2007/06/28iPhone-Premieres-This-Friday-Night-at-Apple-Retail-Stores/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_631a10c8561fc6bd",
+      "title": "Apple Reinvents the Phone with iPhone",
+      "publisher": "Apple Newsroom",
+      "url": "https://www.apple.com/uk/newsroom/2007/01/09Apple-Reinvents-the-Phone-with-iPhone/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_c7b2714d5c564aab",
+      "title": "Human Interface Guidelines",
+      "publisher": "Apple Developer",
+      "url": "https://developer.apple.com/design/human-interface-guidelines",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_bfdf8aa2acc5bb0f",
+      "title": "Apple introduces a delightful and elegant new software design",
+      "publisher": "Apple Newsroom",
+      "url": "https://www.apple.com/newsroom/2025/06/apple-introduces-a-delightful-and-elegant-new-software-design/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_c694111596d8fd01",
+      "title": "This is material design",
+      "publisher": "Google Developers Blog",
+      "url": "https://developers.googleblog.com/this-is-material-design/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_3c9fda86ad8fa48c",
+      "title": "Material Design: A Look Back at Its Beginning",
+      "publisher": "Google Design",
+      "url": "https://design.google/library/material-design-launch-2014",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_8507bd7a3a2a99c2",
+      "title": "Exploring the Fluent Design System",
+      "publisher": "Microsoft Learn",
+      "url": "https://learn.microsoft.com/en-us/shows/on-dotnet/exploring-the-fluent-design-system",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_1b6c8163d3f159fb",
+      "title": "Fluent 2 Design System",
+      "publisher": "Microsoft Design",
+      "url": "https://fluent2.microsoft.design/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_f59fb28cacd18647",
+      "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+      "publisher": "W3C",
+      "url": "https://www.w3.org/TR/WCAG22/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_7e21533eb1bdc742",
+      "title": "WCAG 2 Overview",
+      "publisher": "W3C Web Accessibility Initiative",
+      "url": "https://www.w3.org/WAI/standards-guidelines/wcag/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_8407e7e5f53f1bab",
+      "title": "Human Interface Guidelines: Designing for visionOS",
+      "publisher": "Apple Developer",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/designing-for-visionos",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_b1182ad7c7aec85f",
+      "title": "Liquid Glass",
+      "publisher": "Apple Developer Documentation",
+      "url": "https://developer.apple.com/documentation/TechnologyOverviews/liquid-glass",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_73df0070143a9b12",
+      "title": "Design Principles & Issues for Gaze and Pinch Interaction",
+      "publisher": "Ken Pfeuffer / arXiv",
+      "url": "https://arxiv.org/abs/2401.10948",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_3a7f70d7eb4fd41d",
+      "title": "A Comparative Analysis of Industry Human-AI Interaction Guidelines",
+      "publisher": "arXiv",
+      "url": "https://arxiv.org/abs/2010.11761",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_screen-i_01",
+      "claim_id": "clm_screen_interface_navigation_interaction_visual_system_sec_1",
+      "source_id": "src_c7fe8130c68d4b85",
+      "locator": "DOCX section sec-1",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_screen-i_02",
+      "claim_id": "clm_screen_interface_navigation_interaction_visual_system_sec_2",
+      "source_id": "src_c7fe8130c68d4b85",
+      "locator": "DOCX section sec-2",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_screen-i_03",
+      "claim_id": "clm_screen_interface_navigation_interaction_visual_system_sec_3",
+      "source_id": "src_c7fe8130c68d4b85",
+      "locator": "DOCX section sec-3",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_screen-i_04",
+      "claim_id": "clm_screen_interface_navigation_interaction_visual_system_sec_4",
+      "source_id": "src_c7fe8130c68d4b85",
+      "locator": "DOCX section sec-4",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_screen-i_05",
+      "claim_id": "clm_screen_interface_navigation_interaction_visual_system_sec_5",
+      "source_id": "src_c7fe8130c68d4b85",
+      "locator": "DOCX section sec-5",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_screen-i_06",
+      "claim_id": "clm_screen_interface_navigation_interaction_visual_system_sec_6",
+      "source_id": "src_c7fe8130c68d4b85",
+      "locator": "DOCX section sec-6",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_screen-i_07",
+      "claim_id": "clm_screen_interface_navigation_interaction_visual_system_sec_7",
+      "source_id": "src_c7fe8130c68d4b85",
+      "locator": "DOCX section sec-7",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_screen-i_08",
+      "claim_id": "clm_screen_interface_navigation_interaction_visual_system_sec_8",
+      "source_id": "src_c7fe8130c68d4b85",
+      "locator": "DOCX section sec-8",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_screen-i_09",
+      "claim_id": "clm_screen_interface_navigation_interaction_visual_system_sec_9",
+      "source_id": "src_c7fe8130c68d4b85",
+      "locator": "DOCX section sec-9",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_screen-i_10",
+      "claim_id": "clm_screen_interface_navigation_interaction_visual_system_sec_10",
+      "source_id": "src_c7fe8130c68d4b85",
+      "locator": "DOCX section sec-10",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_screen-i_11",
+      "claim_id": "clm_screen_interface_navigation_interaction_visual_system_sec_11",
+      "source_id": "src_c7fe8130c68d4b85",
+      "locator": "DOCX section sec-11",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_screen-i_12",
+      "claim_id": "clm_screen_interface_navigation_interaction_visual_system_sec_12",
+      "source_id": "src_c7fe8130c68d4b85",
+      "locator": "DOCX section sec-12",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_screen-i_13",
+      "claim_id": "clm_screen_interface_navigation_interaction_visual_system_sec_13",
+      "source_id": "src_c7fe8130c68d4b85",
+      "locator": "DOCX section sec-13",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_screen-i_14",
+      "claim_id": "clm_screen_interface_navigation_interaction_visual_system_sec_14",
+      "source_id": "src_c7fe8130c68d4b85",
+      "locator": "DOCX section sec-14",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_screen-i_15",
+      "claim_id": "clm_screen_interface_navigation_interaction_visual_system_sec_15",
+      "source_id": "src_c7fe8130c68d4b85",
+      "locator": "DOCX section sec-15",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_screen-i_16",
+      "claim_id": "clm_screen_interface_navigation_interaction_visual_system_sec_16",
+      "source_id": "src_c7fe8130c68d4b85",
+      "locator": "DOCX section sec-16",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_screen-i_17",
+      "claim_id": "clm_screen_interface_navigation_interaction_visual_system_sec_17",
+      "source_id": "src_c7fe8130c68d4b85",
+      "locator": "DOCX section sec-17",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_screen-i_18",
+      "claim_id": "clm_screen_interface_navigation_interaction_visual_system_sec_18",
+      "source_id": "src_c7fe8130c68d4b85",
+      "locator": "DOCX section sec-18",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_screen-i_19",
+      "claim_id": "clm_screen_interface_navigation_interaction_visual_system_sec_19",
+      "source_id": "src_c7fe8130c68d4b85",
+      "locator": "DOCX section sec-19",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_screen-i_20",
+      "claim_id": "clm_screen_interface_navigation_interaction_visual_system_sec_20",
+      "source_id": "src_c7fe8130c68d4b85",
+      "locator": "DOCX section sec-20",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_screen-i_21",
+      "claim_id": "clm_screen_interface_navigation_interaction_visual_system_sec_21",
+      "source_id": "src_c7fe8130c68d4b85",
+      "locator": "DOCX section sec-21",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_screen-i_22",
+      "claim_id": "clm_screen_interface_navigation_interaction_visual_system_sec_22",
+      "source_id": "src_c7fe8130c68d4b85",
+      "locator": "DOCX section sec-22",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_screen-i_23",
+      "claim_id": "clm_screen_interface_navigation_interaction_visual_system_sec_23",
+      "source_id": "src_c7fe8130c68d4b85",
+      "locator": "DOCX section sec-23",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_screen-i_24",
+      "claim_id": "clm_screen_interface_navigation_interaction_visual_system_sec_24",
+      "source_id": "src_c7fe8130c68d4b85",
+      "locator": "DOCX section sec-24",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_screen-i_25",
+      "claim_id": "clm_screen_interface_navigation_interaction_visual_system_sec_25",
+      "source_id": "src_c7fe8130c68d4b85",
+      "locator": "DOCX section sec-25",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_screen-i_26",
+      "claim_id": "clm_screen_interface_navigation_interaction_visual_system_sec_26",
+      "source_id": "src_c7fe8130c68d4b85",
+      "locator": "DOCX section sec-26",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_screen-i_27",
+      "claim_id": "clm_screen_interface_navigation_interaction_visual_system_sec_27",
+      "source_id": "src_c7fe8130c68d4b85",
+      "locator": "DOCX section sec-27",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_screen-i_28",
+      "claim_id": "clm_screen_interface_navigation_interaction_visual_system_sec_28",
+      "source_id": "src_c7fe8130c68d4b85",
+      "locator": "DOCX section sec-28",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_screen-i_29",
+      "claim_id": "clm_screen_interface_navigation_interaction_visual_system_sec_29",
+      "source_id": "src_c7fe8130c68d4b85",
+      "locator": "DOCX section sec-29",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_screen-i_30",
+      "claim_id": "clm_screen_interface_navigation_interaction_visual_system_sec-30",
+      "source_id": "src_c7fe8130c68d4b85",
+      "locator": "DOCX section sec-30",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "media_state": "needs_rights_review",
+  "workflow": {
+    "decision": "AUTO_APPROVE",
+    "note": "RU master and EN translation passed DOCX structure, source URL and section-citation checks on 2026-08-13; generated hero media remains rights-reviewed and disclosed.",
+    "converted_by": "VANSMITHLAB incoming article publication workflow",
+    "converted_at": "2026-08-13T00:00:00.000Z"
+  }
+}

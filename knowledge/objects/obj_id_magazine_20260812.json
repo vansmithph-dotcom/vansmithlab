@@ -1,0 +1,150 @@
+{
+  "id": "obj_id_magazine_20260812",
+  "type": "organization",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "i-D",
+  "title_en": "i-D",
+  "slug_ru": "i-d-street-style-identity-magazine-visual-language",
+  "slug_en": "i-d-street-style-identity-magazine-visual-language",
+  "summary_ru": "Уличный стиль, идентичность и журнал как язык взгляда",
+  "summary_en": "Street style, identity and the magazine as a visual language",
+  "verification_state": "verified",
+  "confidence_score": 0.9,
+  "created_at": "2026-08-12T00:00:00.000Z",
+  "updated_at": "2026-08-12T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_id_origin",
+      "wording_ru": "i-D возник в Лондоне в 1980 году как независимый журнал о стиле и молодёжной культуре.",
+      "wording_en": "i-D emerged in London in 1980 as an independent magazine about style and youth culture.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.91,
+      "evidence": [
+        {
+          "source_url": "https://i-d.co/about/",
+          "locator": "About",
+          "support": "Подтверждает происхождение журнала и его редакционный профиль."
+        },
+        {
+          "source_url": "https://artsandculture.google.com/story/i-d-magazine-s-influence-british-fashion-council/jwVBSFR6DcjZIQ",
+          "locator": "history",
+          "support": "Подтверждает влияние i-D на британскую модную культуру."
+        }
+      ]
+    },
+    {
+      "id": "clm_id_language",
+      "wording_ru": "Журнал сформировал узнаваемый визуальный язык: прямые уличные портреты, жест подмигивания и графическую экспериментальность.",
+      "wording_en": "The magazine developed a recognizable visual language of straight-up street portraits, the wink gesture and graphic experimentation.",
+      "claim_type": "descriptive",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.88,
+      "evidence": [
+        {
+          "source_url": "https://www.rizzoliusa.com/book/9780847871780/",
+          "locator": "book description",
+          "support": "Подтверждает сорокалетнюю визуальную историю i-D."
+        },
+        {
+          "source_url": "https://artsandculture.google.com/story/i-d-magazine-s-influence-british-fashion-council/jwVBSFR6DcjZIQ",
+          "locator": "visual history",
+          "support": "Подтверждает влияние визуальной системы журнала."
+        }
+      ]
+    },
+    {
+      "id": "clm_id_media",
+      "wording_ru": "В 2012 году i-D вошёл в медиагруппу VICE, сохранив редакционное значение как площадка для новых авторов и образов.",
+      "wording_en": "In 2012 i-D joined VICE, retaining its editorial importance as a platform for new voices and images.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.theguardian.com/media/2012/dec/18/vice-media-buys-i-d",
+          "locator": "publication report",
+          "support": "Подтверждает переход i-D к VICE."
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_id_about",
+      "title": "About",
+      "url": "https://i-d.co/about/",
+      "publisher": "i-D",
+      "source_tier": 1,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_id_wink",
+      "title": "i-D: Wink and Smile!: The First Forty Years",
+      "url": "https://www.rizzoliusa.com/book/9780847871780/",
+      "publisher": "Rizzoli New York",
+      "source_tier": 1,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_id_influence",
+      "title": "i-D Magazine’s Influence",
+      "url": "https://artsandculture.google.com/story/i-d-magazine-s-influence-british-fashion-council/jwVBSFR6DcjZIQ",
+      "publisher": "Google Arts & Culture / British Fashion Council",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_id_guardian",
+      "title": "Vice Media buys style publication i-D",
+      "url": "https://www.theguardian.com/media/2012/dec/18/vice-media-buys-i-d",
+      "publisher": "The Guardian",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_clm_id_origin_0",
+      "claim_id": "clm_id_origin",
+      "source_id": "src_id_about",
+      "locator": "About",
+      "support": "Подтверждает происхождение журнала и его редакционный профиль."
+    },
+    {
+      "id": "cit_clm_id_origin_1",
+      "claim_id": "clm_id_origin",
+      "source_id": "src_id_influence",
+      "locator": "history",
+      "support": "Подтверждает влияние i-D на британскую модную культуру."
+    },
+    {
+      "id": "cit_clm_id_language_0",
+      "claim_id": "clm_id_language",
+      "source_id": "src_id_wink",
+      "locator": "book description",
+      "support": "Подтверждает сорокалетнюю визуальную историю i-D."
+    },
+    {
+      "id": "cit_clm_id_language_1",
+      "claim_id": "clm_id_language",
+      "source_id": "src_id_influence",
+      "locator": "visual history",
+      "support": "Подтверждает влияние визуальной системы журнала."
+    },
+    {
+      "id": "cit_clm_id_media_0",
+      "claim_id": "clm_id_media",
+      "source_id": "src_id_guardian",
+      "locator": "publication report",
+      "support": "Подтверждает переход i-D к VICE."
+    }
+  ],
+  "relations": [],
+  "contradictions": []
+}

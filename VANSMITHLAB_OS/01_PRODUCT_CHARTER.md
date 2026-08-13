@@ -16,13 +16,15 @@ Build a trusted, growing public reference for design: useful for a curious reade
 
 The default author is **VANSMITHLAB**, an institutional voice: precise, curious, neutral, source-aware and clear about uncertainty.
 
-Occasional signed essays are allowed when an argument matters more than neutrality — for example, “How religion has shaped fashionable dress.” They must:
+The Analysis section is the principal authorial surface when an argument matters more than neutrality — for example, “How religion has shaped fashionable dress.” Occasional signed essays may also be published there. They must:
 
 - live in the `Analysis` or `Essays` content type, never masquerade as an encyclopedia entry;
 - name the author and date;
 - distinguish evidence, interpretation and opinion;
 - retain citations and a corrections path;
 - link to the neutral objects and glossary terms that underpin the argument.
+
+Analysis releases follow `20_ANALYSIS_EDITORIAL_STANDARD.md`: a strong question, concrete hook, cultural conflict, sourced examples, an independent conclusion and a visual argument. They are not encyclopedia definitions with a more dramatic headline.
 
 ## Audience and jobs to be done
 

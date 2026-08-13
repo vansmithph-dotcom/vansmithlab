@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img">
+<rect width="1600" height="900" fill="#f2eee6"/>
+<defs><pattern id="grid" width="80" height="80" patternUnits="userSpaceOnUse"><path d="M80 0H0V80" fill="none" stroke="#ded7ca" stroke-width="1"/></pattern></defs>
+<rect x="40" y="40" width="1520" height="820" fill="url(#grid)" opacity=".46"/>
+<rect x="40" y="40" width="1520" height="820" rx="0" fill="none" stroke="#171716" stroke-width="2"/>
+<text x="78" y="96" fill="#c84a31" text-anchor="start" font-family="monospace" font-size="15" font-weight="500" letter-spacing="2">VANSMITHLAB / ANALYSIS / 06</text>
+<text x="78" y="170" fill="#171716" text-anchor="start" font-family="Georgia" font-size="48" font-weight="500" letter-spacing="0">ДВА КИНЕМАТОГРАФИЧЕСКИХ РЕЖИМА</text>
+<line x1="78" y1="202" x2="1522" y2="202" stroke="#171716" stroke-width="2"/>
+<text x="78" y="824" fill="#777167" text-anchor="start" font-family="Arial" font-size="19" font-weight="400" letter-spacing="0">Бренд продаёт не только предмет — он организует ситуацию и желаемую идентичность</text>
+<rect x="90" y="270" width="690" height="430" rx="0" fill="#fbf8f1" stroke="#171716" stroke-width="2"/>
+<rect x="820" y="270" width="690" height="430" rx="0" fill="#171716" stroke="#171716" stroke-width="2"/>
+<text x="435" y="650" fill="#171716" text-anchor="middle" font-family="monospace" font-size="16" font-weight="600" letter-spacing="0">PRADA / ВЕЩЬ КАК ПСИХОЛОГИЧЕСКИЙ ОБЪЕКТ</text>
+<text x="1165" y="650" fill="#f2eee6" text-anchor="middle" font-family="monospace" font-size="16" font-weight="600" letter-spacing="0">GUCCIFEST / КОЛЛЕКЦИЯ КАК СЕРИЙНЫЙ МИР</text>
+<path d="M245 565 Q435 250 625 565" fill="#ead3ca" stroke="#c84a31" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="435" cy="370" r="55" fill="#171716" stroke="#171716" stroke-width="2"/>
+<rect x="900" y="345" width="90" height="155" rx="0" fill="#c84a31" stroke="#f2eee6" stroke-width="2"/>
+<text x="945" y="545" fill="#f2eee6" text-anchor="middle" font-family="monospace" font-size="14" font-weight="500" letter-spacing="0">01</text>
+<rect x="1070" y="415" width="90" height="155" rx="0" fill="#f2eee6" stroke="#f2eee6" stroke-width="2"/>
+<text x="1115" y="569" fill="#f2eee6" text-anchor="middle" font-family="monospace" font-size="14" font-weight="500" letter-spacing="0">02</text>
+<rect x="1240" y="345" width="90" height="155" rx="0" fill="#f2eee6" stroke="#f2eee6" stroke-width="2"/>
+<text x="1285" y="545" fill="#f2eee6" text-anchor="middle" font-family="monospace" font-size="14" font-weight="500" letter-spacing="0">03</text>
+<rect x="1410" y="415" width="90" height="155" rx="0" fill="#c84a31" stroke="#f2eee6" stroke-width="2"/>
+<text x="1455" y="569" fill="#f2eee6" text-anchor="middle" font-family="monospace" font-size="14" font-weight="500" letter-spacing="0">04</text>
+<line x1="780" y1="270" x2="820" y2="700" stroke="#c84a31" stroke-width="6"/>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title-01">
+<title id="title-01">1968: ЭКРАН СТАНОВИТСЯ АДРЕСУЕМЫМ</title>
+<rect width="1600" height="900" fill="#f2eee6"/>
+<defs><pattern id="grid" width="80" height="80" patternUnits="userSpaceOnUse"><path d="M80 0H0V80" fill="none" stroke="#ded7ca" stroke-width="1"/></pattern></defs>
+<rect x="40" y="40" width="1520" height="820" fill="url(#grid)" opacity=".48"/>
+<rect x="40" y="40" width="1520" height="820" rx="0" fill="none" stroke="#171716" stroke-width="2"/>
+<text x="78" y="96" fill="#c84a31" text-anchor="start" font-family="monospace" font-size="15" font-weight="700" letter-spacing="2">VANSMITHLAB / ANALYSIS / 01</text>
+<text x="78" y="170" fill="#171716" text-anchor="start" font-family="Georgia" font-size="44" font-weight="500" letter-spacing="0">1968: ЭКРАН СТАНОВИТСЯ АДРЕСУЕМЫМ</text>
+<line x1="78" y1="202" x2="1522" y2="202" stroke="#171716" stroke-width="2"/>
+<text x="78" y="824" fill="#777167" text-anchor="start" font-family="Georgia" font-size="18" font-weight="400" letter-spacing="0">Указание связывает взгляд, действие и изменяемую рабочую среду.</text>
+<rect x="125" y="310" width="255" height="160" rx="12" fill="#fbf8f1" stroke="#171716" stroke-width="2"/>
+<text x="252.5" y="430" fill="#171716" text-anchor="middle" font-family="monospace" font-size="17" font-weight="700" letter-spacing="0">КУРСОР</text>
+<line x1="380" y1="390" x2="500" y2="390" stroke="#c84a31" stroke-width="4"/>
+<path d="M485 376 L500 390 L485 404" fill="none" stroke="#c84a31" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="500" y="310" width="255" height="160" rx="12" fill="#dce5e9" stroke="#171716" stroke-width="2"/>
+<text x="627.5" y="430" fill="#171716" text-anchor="middle" font-family="monospace" font-size="17" font-weight="700" letter-spacing="0">ОКНА</text>
+<line x1="755" y1="390" x2="875" y2="390" stroke="#c84a31" stroke-width="4"/>
+<path d="M860 376 L875 390 L860 404" fill="none" stroke="#c84a31" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="875" y="310" width="255" height="160" rx="12" fill="#fbf8f1" stroke="#171716" stroke-width="2"/>
+<text x="1002.5" y="430" fill="#171716" text-anchor="middle" font-family="monospace" font-size="17" font-weight="700" letter-spacing="0">ГИПЕРТЕКСТ</text>
+<line x1="1130" y1="390" x2="1250" y2="390" stroke="#c84a31" stroke-width="4"/>
+<path d="M1235 376 L1250 390 L1235 404" fill="none" stroke="#c84a31" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="1250" y="310" width="230" height="160" rx="12" fill="#dce5e9" stroke="#171716" stroke-width="2"/>
+<text x="1365.0" y="430" fill="#171716" text-anchor="middle" font-family="monospace" font-size="17" font-weight="700" letter-spacing="0">СОВМЕСТНАЯ РАБОТА</text>
+<path d="M200 630 C430 510 680 745 875 630 S1260 510 1430 630" fill="none" stroke="#284e78" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="800" y="730" fill="#c84a31" text-anchor="middle" font-family="monospace" font-size="20" font-weight="700" letter-spacing="0">POINTER → ACTION → STATE → RESPONSE</text>
+</svg>

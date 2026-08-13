@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img">
+<rect width="1600" height="900" fill="#f2eee6"/>
+<defs><pattern id="grid" width="80" height="80" patternUnits="userSpaceOnUse"><path d="M80 0H0V80" fill="none" stroke="#ded7ca" stroke-width="1"/></pattern></defs>
+<rect x="40" y="40" width="1520" height="820" fill="url(#grid)" opacity=".46"/>
+<rect x="40" y="40" width="1520" height="820" rx="0" fill="none" stroke="#171716" stroke-width="2"/>
+<text x="78" y="96" fill="#c84a31" text-anchor="start" font-family="monospace" font-size="15" font-weight="500" letter-spacing="2">VANSMITHLAB / ANALYSIS / 02</text>
+<text x="78" y="170" fill="#171716" text-anchor="start" font-family="Georgia" font-size="48" font-weight="500" letter-spacing="0">MATERIAL REVEALS ITSELF IN TIME</text>
+<line x1="78" y1="202" x2="1522" y2="202" stroke="#171716" stroke-width="2"/>
+<text x="78" y="824" fill="#777167" text-anchor="start" font-family="Arial" font-size="19" font-weight="400" letter-spacing="0">Surface is only the beginning: fabric is read through inertia, pause and deformation</text>
+<text x="95" y="335" fill="#171716" text-anchor="start" font-family="monospace" font-size="18" font-weight="600" letter-spacing="0">SILK / flow</text>
+<line x1="365" y1="320" x2="1465" y2="320" stroke="#c8c0b3" stroke-width="2"/>
+<path d="M395 320 C520 225 610 415 740 320 S960 225 1090 320 S1310 415 1450 320" fill="none" stroke="#c84a31" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="95" y="490" fill="#171716" text-anchor="start" font-family="monospace" font-size="18" font-weight="600" letter-spacing="0">LEATHER / resistance</text>
+<line x1="365" y1="475" x2="1465" y2="475" stroke="#c8c0b3" stroke-width="2"/>
+<path d="M395 520 L540 450 L690 505 L840 460 L990 493 L1140 465 L1300 485 L1450 475" fill="none" stroke="#171716" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="95" y="645" fill="#171716" text-anchor="start" font-family="monospace" font-size="18" font-weight="600" letter-spacing="0">KNIT / stretch</text>
+<line x1="365" y1="630" x2="1465" y2="630" stroke="#c8c0b3" stroke-width="2"/>
+<path d="M395 630 C440 585 485 675 530 630 S620 585 665 630 S755 675 800 630 S890 585 935 630 S1025 675 1070 630 S1160 585 1205 630 S1295 675 1340 630 S1415 600 1450 630" fill="none" stroke="#284e78" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="395" y1="265" x2="395" y2="700" stroke="#c8c0b3" stroke-width="1" stroke-dasharray="5 8"/>
+<line x1="515" y1="265" x2="515" y2="700" stroke="#c8c0b3" stroke-width="1" stroke-dasharray="5 8"/>
+<line x1="635" y1="265" x2="635" y2="700" stroke="#c8c0b3" stroke-width="1" stroke-dasharray="5 8"/>
+<line x1="755" y1="265" x2="755" y2="700" stroke="#c8c0b3" stroke-width="1" stroke-dasharray="5 8"/>
+<line x1="875" y1="265" x2="875" y2="700" stroke="#c8c0b3" stroke-width="1" stroke-dasharray="5 8"/>
+<line x1="995" y1="265" x2="995" y2="700" stroke="#c8c0b3" stroke-width="1" stroke-dasharray="5 8"/>
+<line x1="1115" y1="265" x2="1115" y2="700" stroke="#c8c0b3" stroke-width="1" stroke-dasharray="5 8"/>
+<line x1="1235" y1="265" x2="1235" y2="700" stroke="#c8c0b3" stroke-width="1" stroke-dasharray="5 8"/>
+<line x1="1355" y1="265" x2="1355" y2="700" stroke="#c8c0b3" stroke-width="1" stroke-dasharray="5 8"/>
+</svg>

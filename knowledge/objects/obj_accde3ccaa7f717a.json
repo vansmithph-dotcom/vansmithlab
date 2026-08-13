@@ -405,6 +405,9 @@
     "decision": "MANUAL_CONVERSION_PENDING_FULL_PIPELINE",
     "note": "Источник — research-досье автора без URL у источников. Claude (сессия) нашёл и проверил официальные/независимые ссылки веб-поиском для каждого включённого claim перед публикацией; claims без проверяемого источника исключены из релиза.",
     "converted_by": "claude_session_manual_conversion_with_web_search",
-    "converted_at": "2026-08-06T00:00:00.000Z"
-  }
+    "converted_at": "2026-08-06T00:00:00.000Z",
+    "media_reviewed_at": "2026-08-12",
+    "media_note": "Primary hero now has a complete localized media record, accessibility text, provenance, rights state and content hash; optional detail slots remain editorially unfilled."
+  },
+  "media_state": "media_ready"
 }

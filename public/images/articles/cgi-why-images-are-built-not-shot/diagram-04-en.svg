@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img">
+<title>OPENUSD: A SCENE IS COMPOSED, NOT GLUED TOGETHER</title>
+<desc>Assets and variants remain separate while a shared scene connects them</desc>
+<rect width="1600" height="900" fill="#f2eee6"/>
+<defs><pattern id="grid" width="80" height="80" patternUnits="userSpaceOnUse"><path d="M80 0H0V80" fill="none" stroke="#ded7ca" stroke-width="1"/></pattern></defs>
+<rect x="40" y="40" width="1520" height="820" fill="url(#grid)" opacity=".46"/>
+<rect x="40" y="40" width="1520" height="820" rx="0" fill="none" stroke="#171716" stroke-width="2"/>
+<text x="78" y="96" fill="#c84a31" text-anchor="start" font-family="monospace" font-size="15" font-weight="500" letter-spacing="2">VANSMITHLAB / ANALYSIS / 04</text>
+<text x="78" y="170" fill="#171716" text-anchor="start" font-family="Georgia" font-size="42" font-weight="500" letter-spacing="0">OPENUSD: A SCENE IS COMPOSED, NOT GLUED TOGETHER</text>
+<line x1="78" y1="202" x2="1522" y2="202" stroke="#171716" stroke-width="2"/>
+<text x="78" y="824" fill="#777167" text-anchor="start" font-family="Arial" font-size="19" font-weight="400" letter-spacing="0">Assets and variants remain separate while a shared scene connects them</text>
+<line x1="800" y1="490" x2="350" y2="340" stroke="#c8c0b3" stroke-width="2"/>
+<circle cx="350" cy="340" r="78" fill="#fbf8f1" stroke="#c84a31" stroke-width="5"/>
+<text x="350" y="346" fill="#171716" text-anchor="middle" font-family="monospace" font-size="14" font-weight="700" letter-spacing="0">CHARACTER</text>
+<line x1="800" y1="490" x2="800" y2="300" stroke="#c8c0b3" stroke-width="2"/>
+<circle cx="800" cy="300" r="78" fill="#fbf8f1" stroke="#284e78" stroke-width="5"/>
+<text x="800" y="306" fill="#171716" text-anchor="middle" font-family="monospace" font-size="14" font-weight="700" letter-spacing="0">CLOTHING</text>
+<line x1="800" y1="490" x2="1250" y2="340" stroke="#c8c0b3" stroke-width="2"/>
+<circle cx="1250" cy="340" r="78" fill="#fbf8f1" stroke="#171716" stroke-width="5"/>
+<text x="1250" y="346" fill="#171716" text-anchor="middle" font-family="monospace" font-size="14" font-weight="700" letter-spacing="0">ENVIRONMENT</text>
+<line x1="800" y1="490" x2="1250" y2="640" stroke="#c8c0b3" stroke-width="2"/>
+<circle cx="1250" cy="640" r="78" fill="#fbf8f1" stroke="#c84a31" stroke-width="5"/>
+<text x="1250" y="646" fill="#171716" text-anchor="middle" font-family="monospace" font-size="14" font-weight="700" letter-spacing="0">LIGHTING</text>
+<line x1="800" y1="490" x2="800" y2="680" stroke="#c8c0b3" stroke-width="2"/>
+<circle cx="800" cy="680" r="78" fill="#fbf8f1" stroke="#284e78" stroke-width="5"/>
+<text x="800" y="686" fill="#171716" text-anchor="middle" font-family="monospace" font-size="14" font-weight="700" letter-spacing="0">VARIANTS</text>
+<circle cx="800" cy="490" r="130" fill="#171716" stroke="#171716" stroke-width="2"/>
+<text x="800" y="498" fill="#f2eee6" text-anchor="middle" font-family="monospace" font-size="18" font-weight="700" letter-spacing="0">SHARED SCENE</text>
+<path d="M520 515 C620 425 690 425 760 470" fill="none" stroke="#c84a31" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M840 505 C930 575 1000 560 1080 495" fill="none" stroke="#284e78" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

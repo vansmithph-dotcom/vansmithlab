@@ -1,0 +1,653 @@
+{
+  "id": "obj_screen_that_answers_back_20260813",
+  "type": "theme",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 2,
+  "title_ru": "Экран, который смотрит в ответ",
+  "title_en": "The Screen That Answers Back",
+  "slug_ru": "screen-that-answers-back",
+  "slug_en": "screen-that-answers-back",
+  "summary_ru": "Как курсор, касание, дизайн-системы и ИИ превратили изображение в действие",
+  "verification_state": "multi_source_verified",
+  "confidence_score": 0.86,
+  "created_at": "2026-08-13T00:00:00.000Z",
+  "updated_at": "2026-08-13T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_ui_engelbart",
+      "wording_ru": "Демонстрацию Doug Engelbart 1968 года часто сокращают до истории компьютерной мыши. Но её масштаб был шире: мышь, курсор, окна, гипертекст, совместное редактирование и видеосвязь были показаны как элементы одной рабочей среды. Экран перестал быть только местом вывода и стал пространством, в котором можно указывать, переходить, менять и сотрудничать. Курсор здесь особенно важен. Он соединяет глаз, руку и вычисление. До курсора экран можно было читать; с курсором его можно адресовать. Точка на экране становится местом действия. Это один из фундаментальных сдвигов визуальной культуры XX века: изображение получает координату, а координата — команду. С этого момента композиция должна учитывать не только то, что видно, но и то, что может быть выбрано.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://dougengelbart.org/mousesite/1968Demo.html",
+          "locator": "DOCX section sec-3",
+          "support": "Doug Engelbart Institute documents the 1968 demonstration and its integrated mouse, cursor, window, hypertext and collaborative-work environment."
+        },
+        {
+          "source_url": "https://dougengelbart.org/content/view/276/",
+          "locator": "DOCX section sec-3",
+          "support": "Doug Engelbart Institute documents the 1968 demonstration and its integrated mouse, cursor, window, hypertext and collaborative-work environment."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_ui_alto",
+      "wording_ru": "Xerox Alto в 1970-х сделал графическую рабочую среду лабораторной реальностью: окна, документы, указатель, текстовая работа и сетевые функции сосуществовали на одном экране. Computer History Museum описывает Alto как важную платформу персональных графических вычислений, а не как массовый потребительский продукт. Главная идея здесь не в пиктограммах самих по себе. Папка, окно, документ и рабочая поверхность переводят невидимую вычислительную структуру в пространственные отношения. Пользователь понимает систему через метафору: предметы можно открыть, переместить, закрыть, сложить, вернуть. Интерфейс тем самым становится переводчиком. Его задача — не показать устройство компьютера буквально, а предложить визуальную модель, внутри которой сложность становится управляемой.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://computerhistory.org/events/yesterdays-computer-tomorrow-xerox-alto/",
+          "locator": "DOCX section sec-4",
+          "support": "Computer History Museum sources document the Xerox Alto and its formative graphical personal-computing environment."
+        },
+        {
+          "source_url": "https://www.computerhistory.org/revolution/story/347",
+          "locator": "DOCX section sec-4",
+          "support": "Computer History Museum sources document the Xerox Alto and its formative graphical personal-computing environment."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_ui_web",
+      "wording_ru": "World Wide Web добавил к экрану новый тип поведения: переход. CERN связывает рождение Web с системой документов и гиперссылок, а ранний браузер WorldWideWeb был одновременно инструментом чтения и редактирования. Это важный культурный поворот. Страница больше не обязана быть конечной композицией. Её смысл частично находится в том, куда она ведёт: ссылка, адрес, история, вкладка, возврат, внешний источник. Пользователь читает не только страницу — он строит маршрут. В печатном журнале дизайнер управляет последовательностью страниц. В Web последовательность становится частично пользовательской. Хороший интерфейс должен одновременно дать свободу перехода и не потерять ориентацию.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://home.cern/science/computing/the-birth-of-the-web/",
+          "locator": "DOCX section sec-5",
+          "support": "CERN documents the Web's document-and-hyperlink system and the WorldWideWeb browser as reader and editor."
+        },
+        {
+          "source_url": "https://worldwideweb.cern.ch/worldwideweb/",
+          "locator": "DOCX section sec-5",
+          "support": "CERN documents the Web's document-and-hyperlink system and the WorldWideWeb browser as reader and editor."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_ui_iphone",
+      "wording_ru": "В 2007 году Apple представила iPhone как устройство с интерфейсом множественных касаний, где взаимодействие строится непосредственно через экран. Касание, прокрутка, масштабирование пальцами и программная клавиатура сделали поверхность не только отображением, но и местом физического жеста. После этого визуальная форма стала ещё сильнее зависеть от тела. Размер цели, расстояние между элементами, инерция прокрутки, случайное касание, положение большого пальца и обратная связь перестали быть техническими деталями. Они вошли в композицию. Экран оказался странным объектом: он плоский, но ведёт себя как пространство; не имеет физических кнопок, но должен убеждать пальцы, что действие возможно. Интерфейс стал тактильной иллюзией, которая держится на очень точной визуальной и поведенческой дисциплине.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.apple.com/uk/newsroom/2007/01/09Apple-Reinvents-the-Phone-with-iPhone/",
+          "locator": "DOCX section sec-6",
+          "support": "Apple Newsroom sources document the 2007 iPhone launch and its multi-touch interface."
+        },
+        {
+          "source_url": "https://www.apple.com/newsroom/2007/06/28iPhone-Premieres-This-Friday-Night-at-Apple-Retail-Stores/",
+          "locator": "DOCX section sec-6",
+          "support": "Apple Newsroom sources document the 2007 iPhone launch and its multi-touch interface."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_ui_hig",
+      "wording_ru": "Material Design, Fluent и Human Interface Guidelines показывают следующий этап: интерфейс становится слишком большим, чтобы проектировать каждый экран как отдельную картинку. Платформе нужны повторяемые компоненты, состояния, правила движения, иерархии и паттерны, которые работают в тысячах ситуаций и у множества команд. В этом смысле дизайн-система ближе к грамматике, чем к библиотеке готовых кнопок. Она определяет не только внешний вид элемента, но и условия его поведения: когда он активен, как сообщает ошибку, как реагирует на фокус, как изменяется при масштабировании текста и как сохраняет смысл в другой среде. Чем крупнее система, тем меньше дизайнер может полагаться на интуицию одного красивого экрана. Ему приходится проектировать правила, которые переживут его собственный макет.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://developer.apple.com/design/human-interface-guidelines",
+          "locator": "DOCX section sec-7",
+          "support": "Apple Human Interface Guidelines establish the platform guidance context for scalable interface behaviour."
+        }
+      ],
+      "verification_state": "verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_ui_material",
+      "wording_ru": "Material Design, Fluent и Human Interface Guidelines показывают следующий этап: интерфейс становится слишком большим, чтобы проектировать каждый экран как отдельную картинку. Платформе нужны повторяемые компоненты, состояния, правила движения, иерархии и паттерны, которые работают в тысячах ситуаций и у множества команд. В этом смысле дизайн-система ближе к грамматике, чем к библиотеке готовых кнопок. Она определяет не только внешний вид элемента, но и условия его поведения: когда он активен, как сообщает ошибку, как реагирует на фокус, как изменяется при масштабировании текста и как сохраняет смысл в другой среде. Чем крупнее система, тем меньше дизайнер может полагаться на интуицию одного красивого экрана. Ему приходится проектировать правила, которые переживут его собственный макет.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://developers.googleblog.com/this-is-material-design/",
+          "locator": "DOCX section sec-7",
+          "support": "Google's launch and retrospective sources establish Material Design as a shared system for digital interface design."
+        },
+        {
+          "source_url": "https://design.google/library/material-design-launch-2014",
+          "locator": "DOCX section sec-7",
+          "support": "Google's launch and retrospective sources establish Material Design as a shared system for digital interface design."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_ui_fluent",
+      "wording_ru": "Material Design, Fluent и Human Interface Guidelines показывают следующий этап: интерфейс становится слишком большим, чтобы проектировать каждый экран как отдельную картинку. Платформе нужны повторяемые компоненты, состояния, правила движения, иерархии и паттерны, которые работают в тысячах ситуаций и у множества команд. В этом смысле дизайн-система ближе к грамматике, чем к библиотеке готовых кнопок. Она определяет не только внешний вид элемента, но и условия его поведения: когда он активен, как сообщает ошибку, как реагирует на фокус, как изменяется при масштабировании текста и как сохраняет смысл в другой среде. Чем крупнее система, тем меньше дизайнер может полагаться на интуицию одного красивого экрана. Ему приходится проектировать правила, которые переживут его собственный макет.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://learn.microsoft.com/en-us/shows/on-dotnet/exploring-the-fluent-design-system",
+          "locator": "DOCX section sec-7",
+          "support": "Microsoft Learn and Microsoft Design document Fluent as a design-system framework."
+        },
+        {
+          "source_url": "https://fluent2.microsoft.design/",
+          "locator": "DOCX section sec-7",
+          "support": "Microsoft Learn and Microsoft Design document Fluent as a design-system framework."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_ui_wcag",
+      "wording_ru": "WCAG 2.2 формализует то, что визуальная культура долго могла считать второстепенным: контраст, клавиатурный фокус, структура, понятные ошибки, подписи и возможность взаимодействовать разными способами относятся к качеству цифрового содержания, а не к дополнительной опции. Это меняет сам критерий хорошего дизайна. Если элемент красив, но его нельзя различить, достичь клавиатурой, понять по тексту или восстановить после ошибки, он не завершён как интерфейс. Интерпретация Интерфейс делает власть дизайна особенно видимой: он может открыть действие или спрятать его, объяснить ошибку или обвинить пользователя, дать настоящий выбор или визуально подтолкнуть к выгодному системе решению. Поэтому доступность и отказ от манипулятивных паттернов — не внешняя мораль над дизайном, а проверка того, насколько честно устроен сам визуальный договор.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.w3.org/TR/WCAG22/",
+          "locator": "DOCX section sec-8",
+          "support": "W3C WCAG 2.2 and its overview establish contrast, keyboard access, structure, errors and labels as accessibility requirements."
+        },
+        {
+          "source_url": "https://www.w3.org/WAI/standards-guidelines/wcag/",
+          "locator": "DOCX section sec-8",
+          "support": "W3C WCAG 2.2 and its overview establish contrast, keyboard access, structure, errors and labels as accessibility requirements."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_ui_gaze",
+      "wording_ru": "В visionOS интерфейс уже не ограничен плоским прямоугольником: значение получают глубина, расстояние, взгляд, жест и размещение элементов в пространстве. Исследования gaze-and-pinch отдельно показывают, что сочетание взгляда и жеста создаёт новые вопросы выбора, точности и обратной связи. Интерфейсы искусственного интеллекта сдвигают центр ещё раз. Пользователь может не искать команду в меню, а описывать намерение естественным языком. Но свободный ввод не отменяет интерфейс — он делает его ответственность выше. Система должна показать, что поняла запрос, какие данные использует, где не уверена, что можно изменить и как проверить результат. В обоих случаях исчезновение привычной кнопки не означает исчезновения дизайна. Наоборот: когда управление становится менее видимым, особенно важны подсказка, состояние, обратная связь и возможность вернуть контроль.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://arxiv.org/abs/2401.10948",
+          "locator": "DOCX section sec-9",
+          "support": "The cited gaze-and-pinch research examines selection, precision and feedback issues in the combined interaction technique."
+        }
+      ],
+      "verification_state": "verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_ui_visionos",
+      "wording_ru": "В visionOS интерфейс уже не ограничен плоским прямоугольником: значение получают глубина, расстояние, взгляд, жест и размещение элементов в пространстве. Исследования gaze-and-pinch отдельно показывают, что сочетание взгляда и жеста создаёт новые вопросы выбора, точности и обратной связи. Интерфейсы искусственного интеллекта сдвигают центр ещё раз. Пользователь может не искать команду в меню, а описывать намерение естественным языком. Но свободный ввод не отменяет интерфейс — он делает его ответственность выше. Система должна показать, что поняла запрос, какие данные использует, где не уверена, что можно изменить и как проверить результат. В обоих случаях исчезновение привычной кнопки не означает исчезновения дизайна. Наоборот: когда управление становится менее видимым, особенно важны подсказка, состояние, обратная связь и возможность вернуть контроль.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://developer.apple.com/design/human-interface-guidelines/designing-for-visionos",
+          "locator": "DOCX section sec-9",
+          "support": "Apple's visionOS Human Interface Guidelines document spatial placement, gaze and gesture as meaningful interaction dimensions."
+        }
+      ],
+      "verification_state": "verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_ui_hai",
+      "wording_ru": "В visionOS интерфейс уже не ограничен плоским прямоугольником: значение получают глубина, расстояние, взгляд, жест и размещение элементов в пространстве. Исследования gaze-and-pinch отдельно показывают, что сочетание взгляда и жеста создаёт новые вопросы выбора, точности и обратной связи. Интерфейсы искусственного интеллекта сдвигают центр ещё раз. Пользователь может не искать команду в меню, а описывать намерение естественным языком. Но свободный ввод не отменяет интерфейс — он делает его ответственность выше. Система должна показать, что поняла запрос, какие данные использует, где не уверена, что можно изменить и как проверить результат. В обоих случаях исчезновение привычной кнопки не означает исчезновения дизайна. Наоборот: когда управление становится менее видимым, особенно важны подсказка, состояние, обратная связь и возможность вернуть контроль.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://arxiv.org/abs/2010.11761",
+          "locator": "DOCX section sec-9",
+          "support": "The cited comparative analysis records published industry Human-AI interaction guidance; the responsibility framing is VANSMITHLAB editorial synthesis."
+        }
+      ],
+      "verification_state": "verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_ui_conclusion",
+      "wording_ru": "За полвека экран прошёл путь от поверхности вывода к среде, которая постоянно меняет своё состояние в ответ на человека. Курсор сделал изображение адресуемым. Графический рабочий стол дал вычислению пространственную модель. Web превратил экран в маршрут. Множественные касания сделали его телесным. Дизайн-системы превратили поведение в инфраструктуру. Пространственные и интерфейсы искусственного интеллекта снова размывают привычную форму управления. Но главный вопрос остаётся тем же, что и у молчащей кнопки в начале: понимает ли человек, что происходит между его намерением и ответом системы? Хороший интерфейс не демонстрирует власть технологии. Он делает эту власть читаемой. Он показывает состояние, оставляет путь назад, не прячет последствия и не заставляет пользователя угадывать правила. Экран стал изображением, которое отвечает. Значит, дизайн теперь отвечает вместе с ним.",
+      "claim_type": "descriptive",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://dougengelbart.org/mousesite/1968Demo.html",
+          "locator": "DOCX section sec-10",
+          "support": "This conclusion is VANSMITHLAB synthesis grounded in the documented evolution from addressable screens to accessible interface states."
+        },
+        {
+          "source_url": "https://www.w3.org/TR/WCAG22/",
+          "locator": "DOCX section sec-10",
+          "support": "This conclusion is VANSMITHLAB synthesis grounded in the documented evolution from addressable screens to accessible interface states."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_c7fe8130c68d4b85",
+      "title": "Doug Engelbart 1968 Demo",
+      "publisher": "Doug Engelbart Institute",
+      "url": "https://dougengelbart.org/mousesite/1968Demo.html",
+      "source_tier": 1,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_bdfa3e779304d477",
+      "title": "Highlights of the 1968 Demo",
+      "publisher": "Doug Engelbart Institute",
+      "url": "https://dougengelbart.org/content/view/276/",
+      "source_tier": 1,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_5d4a25c48063fa9d",
+      "title": "Yesterday’s Computer of Tomorrow: The Xerox Alto",
+      "publisher": "Computer History Museum",
+      "url": "https://computerhistory.org/events/yesterdays-computer-tomorrow-xerox-alto/",
+      "source_tier": 1,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_a8c59332b52b4a25",
+      "title": "Xerox Alto — CHM Revolution",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/revolution/story/347",
+      "source_tier": 1,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_79b2f2f938d5e6ff",
+      "title": "The birth of the Web",
+      "publisher": "CERN",
+      "url": "https://home.cern/science/computing/the-birth-of-the-web/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_07db54ac7c891d62",
+      "title": "The Browser — WorldWideWeb NeXT Application",
+      "publisher": "CERN",
+      "url": "https://worldwideweb.cern.ch/worldwideweb/",
+      "source_tier": 1,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_631a10c8561fc6bd",
+      "title": "Apple Reinvents the Phone with iPhone",
+      "publisher": "Apple Newsroom",
+      "url": "https://www.apple.com/uk/newsroom/2007/01/09Apple-Reinvents-the-Phone-with-iPhone/",
+      "source_tier": 1,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_10e8764954fa3ea7",
+      "title": "iPhone Premieres This Friday Night at Apple Retail Stores",
+      "publisher": "Apple Newsroom",
+      "url": "https://www.apple.com/newsroom/2007/06/28iPhone-Premieres-This-Friday-Night-at-Apple-Retail-Stores/",
+      "source_tier": 1,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_c7b2714d5c564aab",
+      "title": "Human Interface Guidelines",
+      "publisher": "Apple Developer",
+      "url": "https://developer.apple.com/design/human-interface-guidelines",
+      "source_tier": 1,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_c694111596d8fd01",
+      "title": "This is material design",
+      "publisher": "Google Developers Blog",
+      "url": "https://developers.googleblog.com/this-is-material-design/",
+      "source_tier": 1,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_3c9fda86ad8fa48c",
+      "title": "Material Design: A Look Back at Its Beginning",
+      "publisher": "Google Design",
+      "url": "https://design.google/library/material-design-launch-2014",
+      "source_tier": 1,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_8507bd7a3a2a99c2",
+      "title": "Exploring the Fluent Design System",
+      "publisher": "Microsoft Learn",
+      "url": "https://learn.microsoft.com/en-us/shows/on-dotnet/exploring-the-fluent-design-system",
+      "source_tier": 1,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_1b6c8163d3f159fb",
+      "title": "Fluent 2 Design System",
+      "publisher": "Microsoft Design",
+      "url": "https://fluent2.microsoft.design/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_f59fb28cacd18647",
+      "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+      "publisher": "W3C",
+      "url": "https://www.w3.org/TR/WCAG22/",
+      "source_tier": 1,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_7e21533eb1bdc742",
+      "title": "WCAG 2 Overview",
+      "publisher": "W3C Web Accessibility Initiative",
+      "url": "https://www.w3.org/WAI/standards-guidelines/wcag/",
+      "source_tier": 1,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_8407e7e5f53f1bab",
+      "title": "Human Interface Guidelines: Designing for visionOS",
+      "publisher": "Apple Developer",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/designing-for-visionos",
+      "source_tier": 1,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_bfdf8aa2acc5bb0f",
+      "title": "Apple introduces a delightful and elegant new software design",
+      "publisher": "Apple Newsroom",
+      "url": "https://www.apple.com/newsroom/2025/06/apple-introduces-a-delightful-and-elegant-new-software-design/",
+      "source_tier": 1,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_b1182ad7c7aec85f",
+      "title": "Liquid Glass",
+      "publisher": "Apple Developer Documentation",
+      "url": "https://developer.apple.com/documentation/TechnologyOverviews/liquid-glass",
+      "source_tier": 1,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_73df0070143a9b12",
+      "title": "Design Principles & Issues for Gaze and Pinch Interaction",
+      "publisher": "Ken Pfeuffer / arXiv",
+      "url": "https://arxiv.org/abs/2401.10948",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_3a7f70d7eb4fd41d",
+      "title": "A Comparative Analysis of Industry Human-AI Interaction Guidelines",
+      "publisher": "arXiv",
+      "url": "https://arxiv.org/abs/2010.11761",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_screen_01_01",
+      "claim_id": "clm_ui_engelbart",
+      "source_id": "src_c7fe8130c68d4b85",
+      "locator": "DOCX section sec-3",
+      "support": "Doug Engelbart Institute documents the 1968 demonstration and its integrated mouse, cursor, window, hypertext and collaborative-work environment."
+    },
+    {
+      "id": "cit_screen_01_02",
+      "claim_id": "clm_ui_engelbart",
+      "source_id": "src_bdfa3e779304d477",
+      "locator": "DOCX section sec-3",
+      "support": "Doug Engelbart Institute documents the 1968 demonstration and its integrated mouse, cursor, window, hypertext and collaborative-work environment."
+    },
+    {
+      "id": "cit_screen_02_01",
+      "claim_id": "clm_ui_alto",
+      "source_id": "src_5d4a25c48063fa9d",
+      "locator": "DOCX section sec-4",
+      "support": "Computer History Museum sources document the Xerox Alto and its formative graphical personal-computing environment."
+    },
+    {
+      "id": "cit_screen_02_02",
+      "claim_id": "clm_ui_alto",
+      "source_id": "src_a8c59332b52b4a25",
+      "locator": "DOCX section sec-4",
+      "support": "Computer History Museum sources document the Xerox Alto and its formative graphical personal-computing environment."
+    },
+    {
+      "id": "cit_screen_03_01",
+      "claim_id": "clm_ui_web",
+      "source_id": "src_79b2f2f938d5e6ff",
+      "locator": "DOCX section sec-5",
+      "support": "CERN documents the Web's document-and-hyperlink system and the WorldWideWeb browser as reader and editor."
+    },
+    {
+      "id": "cit_screen_03_02",
+      "claim_id": "clm_ui_web",
+      "source_id": "src_07db54ac7c891d62",
+      "locator": "DOCX section sec-5",
+      "support": "CERN documents the Web's document-and-hyperlink system and the WorldWideWeb browser as reader and editor."
+    },
+    {
+      "id": "cit_screen_04_01",
+      "claim_id": "clm_ui_iphone",
+      "source_id": "src_631a10c8561fc6bd",
+      "locator": "DOCX section sec-6",
+      "support": "Apple Newsroom sources document the 2007 iPhone launch and its multi-touch interface."
+    },
+    {
+      "id": "cit_screen_04_02",
+      "claim_id": "clm_ui_iphone",
+      "source_id": "src_10e8764954fa3ea7",
+      "locator": "DOCX section sec-6",
+      "support": "Apple Newsroom sources document the 2007 iPhone launch and its multi-touch interface."
+    },
+    {
+      "id": "cit_screen_05_01",
+      "claim_id": "clm_ui_hig",
+      "source_id": "src_c7b2714d5c564aab",
+      "locator": "DOCX section sec-7",
+      "support": "Apple Human Interface Guidelines establish the platform guidance context for scalable interface behaviour."
+    },
+    {
+      "id": "cit_screen_06_01",
+      "claim_id": "clm_ui_material",
+      "source_id": "src_c694111596d8fd01",
+      "locator": "DOCX section sec-7",
+      "support": "Google's launch and retrospective sources establish Material Design as a shared system for digital interface design."
+    },
+    {
+      "id": "cit_screen_06_02",
+      "claim_id": "clm_ui_material",
+      "source_id": "src_3c9fda86ad8fa48c",
+      "locator": "DOCX section sec-7",
+      "support": "Google's launch and retrospective sources establish Material Design as a shared system for digital interface design."
+    },
+    {
+      "id": "cit_screen_07_01",
+      "claim_id": "clm_ui_fluent",
+      "source_id": "src_8507bd7a3a2a99c2",
+      "locator": "DOCX section sec-7",
+      "support": "Microsoft Learn and Microsoft Design document Fluent as a design-system framework."
+    },
+    {
+      "id": "cit_screen_07_02",
+      "claim_id": "clm_ui_fluent",
+      "source_id": "src_1b6c8163d3f159fb",
+      "locator": "DOCX section sec-7",
+      "support": "Microsoft Learn and Microsoft Design document Fluent as a design-system framework."
+    },
+    {
+      "id": "cit_screen_08_01",
+      "claim_id": "clm_ui_wcag",
+      "source_id": "src_f59fb28cacd18647",
+      "locator": "DOCX section sec-8",
+      "support": "W3C WCAG 2.2 and its overview establish contrast, keyboard access, structure, errors and labels as accessibility requirements."
+    },
+    {
+      "id": "cit_screen_08_02",
+      "claim_id": "clm_ui_wcag",
+      "source_id": "src_7e21533eb1bdc742",
+      "locator": "DOCX section sec-8",
+      "support": "W3C WCAG 2.2 and its overview establish contrast, keyboard access, structure, errors and labels as accessibility requirements."
+    },
+    {
+      "id": "cit_screen_09_01",
+      "claim_id": "clm_ui_gaze",
+      "source_id": "src_73df0070143a9b12",
+      "locator": "DOCX section sec-9",
+      "support": "The cited gaze-and-pinch research examines selection, precision and feedback issues in the combined interaction technique."
+    },
+    {
+      "id": "cit_screen_10_01",
+      "claim_id": "clm_ui_visionos",
+      "source_id": "src_8407e7e5f53f1bab",
+      "locator": "DOCX section sec-9",
+      "support": "Apple's visionOS Human Interface Guidelines document spatial placement, gaze and gesture as meaningful interaction dimensions."
+    },
+    {
+      "id": "cit_screen_11_01",
+      "claim_id": "clm_ui_hai",
+      "source_id": "src_3a7f70d7eb4fd41d",
+      "locator": "DOCX section sec-9",
+      "support": "The cited comparative analysis records published industry Human-AI interaction guidance; the responsibility framing is VANSMITHLAB editorial synthesis."
+    },
+    {
+      "id": "cit_screen_12_01",
+      "claim_id": "clm_ui_conclusion",
+      "source_id": "src_c7fe8130c68d4b85",
+      "locator": "DOCX section sec-10",
+      "support": "This conclusion is VANSMITHLAB synthesis grounded in the documented evolution from addressable screens to accessible interface states."
+    },
+    {
+      "id": "cit_screen_12_02",
+      "claim_id": "clm_ui_conclusion",
+      "source_id": "src_f59fb28cacd18647",
+      "locator": "DOCX section sec-10",
+      "support": "This conclusion is VANSMITHLAB synthesis grounded in the documented evolution from addressable screens to accessible interface states."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "media_state": "editorially_selected",
+  "workflow": {
+    "decision": "AUTO_APPROVE",
+    "note": "RU master claims were extracted from their DOCX markers, paired with 1–3 semantic source records and URL-checked. Confirmed anti-bot HTTP 403 responses are accepted under the evidence policy.",
+    "url_checks": [
+      {
+        "url": "https://dougengelbart.org/mousesite/1968Demo.html",
+        "status": 200,
+        "result": "reachable"
+      },
+      {
+        "url": "https://dougengelbart.org/content/view/276/",
+        "status": 200,
+        "result": "reachable"
+      },
+      {
+        "url": "https://computerhistory.org/events/yesterdays-computer-tomorrow-xerox-alto/",
+        "status": 200,
+        "result": "reachable"
+      },
+      {
+        "url": "https://www.computerhistory.org/revolution/story/347",
+        "status": 200,
+        "result": "reachable"
+      },
+      {
+        "url": "https://home.cern/science/computing/the-birth-of-the-web/",
+        "status": 200,
+        "result": "reachable"
+      },
+      {
+        "url": "https://worldwideweb.cern.ch/worldwideweb/",
+        "status": 200,
+        "result": "reachable"
+      },
+      {
+        "url": "https://www.apple.com/uk/newsroom/2007/01/09Apple-Reinvents-the-Phone-with-iPhone/",
+        "status": 200,
+        "result": "reachable"
+      },
+      {
+        "url": "https://www.apple.com/newsroom/2007/06/28iPhone-Premieres-This-Friday-Night-at-Apple-Retail-Stores/",
+        "status": 200,
+        "result": "reachable"
+      },
+      {
+        "url": "https://developer.apple.com/design/human-interface-guidelines",
+        "status": 200,
+        "result": "reachable"
+      },
+      {
+        "url": "https://developers.googleblog.com/this-is-material-design/",
+        "status": 200,
+        "result": "reachable"
+      },
+      {
+        "url": "https://design.google/library/material-design-launch-2014",
+        "status": 200,
+        "result": "reachable"
+      },
+      {
+        "url": "https://learn.microsoft.com/en-us/shows/on-dotnet/exploring-the-fluent-design-system",
+        "status": 200,
+        "result": "reachable"
+      },
+      {
+        "url": "https://fluent2.microsoft.design/",
+        "status": 200,
+        "result": "reachable"
+      },
+      {
+        "url": "https://www.w3.org/TR/WCAG22/",
+        "status": 200,
+        "result": "reachable"
+      },
+      {
+        "url": "https://www.w3.org/WAI/standards-guidelines/wcag/",
+        "status": 200,
+        "result": "reachable"
+      },
+      {
+        "url": "https://developer.apple.com/design/human-interface-guidelines/designing-for-visionos",
+        "status": 200,
+        "result": "reachable"
+      },
+      {
+        "url": "https://www.apple.com/newsroom/2025/06/apple-introduces-a-delightful-and-elegant-new-software-design/",
+        "status": 200,
+        "result": "reachable"
+      },
+      {
+        "url": "https://developer.apple.com/documentation/TechnologyOverviews/liquid-glass",
+        "status": 200,
+        "result": "reachable"
+      },
+      {
+        "url": "https://arxiv.org/abs/2401.10948",
+        "status": 200,
+        "result": "reachable"
+      },
+      {
+        "url": "https://arxiv.org/abs/2010.11761",
+        "status": 200,
+        "result": "reachable"
+      }
+    ],
+    "converted_by": "VANSMITHLAB publication-artifact workflow",
+    "converted_at": "2026-08-13T00:00:00.000Z"
+  }
+}

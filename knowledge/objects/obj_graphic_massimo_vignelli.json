@@ -1,0 +1,892 @@
+{
+  "id": "obj_graphic_massimo_vignelli",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Массимо Виньелли",
+  "slug_ru": "massimo-vignelli-system-order-design-is-one",
+  "slug_en": "massimo-vignelli-system-order-design-is-one",
+  "summary_ru": "Система, порядок и дизайн как единое целое",
+  "verification_state": "verified",
+  "confidence_score": 0.86,
+  "created_at": "2026-08-12T00:00:00.000Z",
+  "updated_at": "2026-08-12T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_mv_001",
+      "wording_ru": "Massimo Vignelli родился в Милане в 1931 году. RIT и MoMA описывают его как дизайнера, чья практика позже охватит corporate identity, транспорт, публикации, мебель, продукты и интерьеры, но профессиональный фундамент был архитектурным. Для истории graphic design это принципиально. Vignelli не начинает с логотипа как автономного знака. Он с самого начала привык думать о масштабе, пропорции, маршруте, материале и отношениях частей внутри целого. Поэтому поздний corporate manual у него ближе к архитектурному проекту, чем к коллекции декоративных вариантов.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.rit.edu/vignellicenter/vignelli-legacy-0",
+          "locator": "DOCX section sec-1",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.rit.edu/vignellicenter/vignelli-archives",
+          "locator": "DOCX section sec-1",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_mv_002",
+      "wording_ru": "В 1950–1953 годах Vignelli изучал архитектуру в Милане и Венеции. RIT фиксирует этот период как основу его образования до перехода к более широкому дизайну. Архитектурная школа приучает видеть систему до отдельного объекта. Стена зависит от плана, шрифт — от иерархии, вывеска — от маршрута, каталог — от последовательности. Позднее Vignelli будет применять эту логику к самым разным масштабам: от буквы на визитке до движения миллионов пассажиров по метро.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.rit.edu/vignellicenter/vignelli-legacy-0",
+          "locator": "DOCX section sec-2",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_mv_003",
+      "wording_ru": "RIT связывает развитие Vignelli с послевоенной миланской культурой и сильным швейцарским влиянием; Max Huber упоминается как особенно важная фигура. От Swiss-derived rationalism он принимает не просто Helvetica и асимметрию, а убеждение, что форма должна подчиняться ясной структуре. Это позволяет отличить модернистский метод от его поздней стилизации: «чистая страница» работает только тогда, когда за ней есть точная система отношений.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.rit.edu/vignellicenter/vignelli-legacy-0",
+          "locator": "DOCX section sec-3",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_mv_004",
+      "wording_ru": "Massimo женился на Lella Valle в 1957 году, и их профессиональная история на протяжении более пятидесяти лет была тесно переплетена. Vignelli Center подчёркивает, что Lella была архитектором, руководила Interiors в Unimark, стала executive vice president и позднее CEO Vignelli Associates, а затем президентом Vignelli Designs. Поэтому современный текст не должен автоматически приписывать всё «Massimo Vignelli». MoMA часто атрибутирует ключевые объекты обоим авторам. Чем шире проект — identity, интерьер, мебель, product — тем важнее сохранять эту распределённость авторства.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.rit.edu/vignellicenter/vignelli-legacy-0",
+          "locator": "DOCX section sec-4",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.rit.edu/vignellicenter/vignelli-archives",
+          "locator": "DOCX section sec-4",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_mv_005",
+      "wording_ru": "В 1960 году Massimo и Lella основали в Милане Vignelli Office of Design and Architecture. RIT рассматривает этот офис как начало их совместной практики до американского периода. Название точно формулирует будущую философию: design и architecture не делятся на «высокое» и «прикладное». Один и тот же интеллект может организовать плакат, столовую посуду, экспозицию и пространство. Поздняя формула Design is One вырастет именно из такого опыта.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.rit.edu/vignellicenter/vignelli-legacy-0",
+          "locator": "DOCX section sec-5",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_mv_006",
+      "wording_ru": "В 1965 году Massimo стал co-founder и design director Unimark International. Компания строилась как международная сеть, способная работать с крупными корпоративными системами, а не только с единичной рекламой. Unimark важен как организационный поворот в истории профессии. Дизайнер должен не просто придумать удачный mark, но описать, как он живёт на самолёте, билете, вывеске, форме, автомобиле, карте или офисе. Масштаб бизнеса требует стандарта — и standard manual становится таким же важным, как сам знак.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.rit.edu/vignellicenter/vignelli-legacy-0",
+          "locator": "DOCX section sec-6",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_mv_007",
+      "wording_ru": "Knoll International стал одной из ранних долгих программ: MoMA хранит серию из двадцати brochures 1966–1980, атрибутированных Massimo и Lella Vignelli. Сила программы в повторяемости без монотонности. Размер, типографика, фотография, бумага и grid создают узнаваемый каркас, внутри которого меняются мебель, дизайнеры и коллекции. Identity становится грамматикой, способной говорить о десятках продуктов, а не одним рекламным образом.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.moma.org/collection/works/89306",
+          "locator": "DOCX section sec-7",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_mv_008",
+      "wording_ru": "В 1967 году Unimark разработал новую identity American Airlines. Cooper Hewitt уточняет важную деталь: изначальная логика Vignelli строилась на двух Helvetica A — красной и синей; авиакомпания настояла на сохранении орла, который в итоге был добавлен другим дизайнерским офисом. Эпизод полезен против мифа о полностью автономном designer-author. Corporate identity всегда существует в переговорах с руководством, историей бренда, сотрудниками и регуляторной реальностью. Чистота идеи сталкивается с памятью организации — и итоговая форма часто является компромиссом.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://exhibitions.cooperhewitt.org/dorothy-liebes/american-airlines/",
+          "locator": "DOCX section sec-8",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_mv_009",
+      "wording_ru": "Vignelli Center формулирует corporate identity как координацию всех визуальных аспектов компании: products, packaging, printed communication, point of sale и более широкую культуру организации. Отсюда главный урок: logo — вход, а не вся система. Если знак прекрасен, но инструкции, signage, упаковка и digital интерфейс живут независимо, identity распадается. Vignelli интересует не логотип как картинка, а согласованное поведение большой организации.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.rit.edu/vignellicenter/vignelli-graphic-identity",
+          "locator": "DOCX section sec-9",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_mv_010",
+      "wording_ru": "Vignelli известен ограниченной типографической палитрой и убеждением, что несколько хорошо понятых гарнитур полезнее бесконечного выбора. The Vignelli Canon и материалы RIT фиксируют его предпочтение к проверенным семействам и строгой иерархии. Сегодня этот принцип нужно читать не как запрет на новые fonts. Его сильная часть — экономия решений: каждый дополнительный шрифт должен иметь функцию. Ограничение освобождает внимание для scale, spacing, hierarchy и содержания; догматическое повторение Helvetica, наоборот, превращает метод в костюм.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.rit.edu/vignellicenter/vignelli-legacy-0",
+          "locator": "DOCX section sec-10",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_mv_011",
+      "wording_ru": "Grid у Vignelli — не декоративная сетка, которую зритель должен заметить. Это невидимая инфраструктура, помогающая согласовать размеры, поля, изображения, заголовки и производство. Хорошая сетка особенно полезна в больших системах: она снижает количество случайных решений и ускоряет работу команды. Но grid не освобождает от judgment. Две страницы могут следовать одной сетке и иметь совершенно разное качество, потому что ритм рождается из выбора масштаба и паузы, а не только из колонок.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.rit.edu/vignellicenter/vignelli-legacy-0",
+          "locator": "DOCX section sec-11",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_mv_012",
+      "wording_ru": "В 1967 году New York City Transit Authority пригласила Unimark International создать system-wide graphic identity для метро. MoMA указывает, что Graphics Standards Manual 1970 года стандартизировал signage, sans-serif typography и цветовую логику задолго до того, как карта стала главным культурным символом проекта. Это ключевой момент: пассажир ежедневно взаимодействует не с плакатом-иконой, а с сотнями микрорешений. Название станции, направление, пересадка и выход должны появляться в нужной точке. Wayfinding — дизайн поведения в пространстве.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.rit.edu/vignellicenter/vignelli-transportation",
+          "locator": "DOCX section sec-12",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.moma.org/collection/works/89300",
+          "locator": "DOCX section sec-12",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_mv_013",
+      "wording_ru": "История subway system — коллективная. MoMA атрибутирует знаменитую карту Massimo Vignelli, Joan Charysyn, Bob Noorda и Unimark International, а RIT отдельно подчёркивает работу Vignelli и Noorda над signage и maps. Это исправляет популярную легенду «Vignelli сделал метро». Large-scale information design требует researchers, designers, engineers, printers, transit staff и institutional approval. Авторская идея сильна, но она функционирует только как часть организационной системы.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.moma.org/collection/works/89300",
+          "locator": "DOCX section sec-13",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.moma.org/explore/inside_out/2014/06/23/the-subway-and-the-city-massimo-vignelli-1931-2014/",
+          "locator": "DOCX section sec-13",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_mv_014",
+      "wording_ru": "Карта 1970–1972 годов отказалась от географической точности в пользу diagram: линии выпрямлены под 45 и 90 градусов, станции сведены к точкам, а топография сильно упрощена. MoMA описывает её как попытку сделать огромную сеть более логичной для чтения. Главное различие — map versus diagram. Географическая карта отвечает «где это в городе», transit diagram — «как связаны линии». Vignelli сознательно ставит сетевое отношение выше физической формы Манхэттена.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.moma.org/collection/works/89300",
+          "locator": "DOCX section sec-14",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_mv_015",
+      "wording_ru": "Ньюйоркцы критиковали diagram за расхождение с реальной географией; в 1979 году её заменили более топографическим решением. MoMA при этом отмечает, что со временем карта стала объектом восхищения и вошла в музейный канон. Этот провал/успех показывает предел универсальной ясности. То, что логично дизайнеру как network abstraction, может конфликтовать с mental map пользователя. Good design требует не только внутренней стройности, но проверки того, какую задачу человек реально пытается решить.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.moma.org/explore/inside_out/2014/06/23/the-subway-and-the-city-massimo-vignelli-1931-2014/",
+          "locator": "DOCX section sec-15",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_mv_016",
+      "wording_ru": "В 2012 году Massimo Vignelli вместе с Beatriz Cifuentes и Yoshiki Waterhouse создал новую subway diagram для Weekender/service-change информации; MoMA хранит этот print и отмечает его издателя MTA New York City Transit. Digital context неожиданно сделал diagram снова полезной: временные изменения сети требуют быстро увидеть topology, а не точную форму улиц. Это хороший пример того, как идея, не идеально подходившая одной задаче в 1970-х, может оказаться сильной в другом use case спустя десятилетия.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.rit.edu/vignellicenter/vignelli-archives",
+          "locator": "DOCX section sec-16",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_mv_017",
+      "wording_ru": "В 1971 году Massimo и Lella основали Vignelli Associates. Позднее Vignelli Designs расширил работу в product и furniture. RIT описывает эти структуры как единое поле graphic identity, publication, interior, furniture и consumer products. Так формируется Design is One: не утверждение, что все предметы должны выглядеть одинаково, а вера в переносимость принципов — scale, proportion, material, hierarchy, clarity — между дисциплинами.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.rit.edu/vignellicenter/vignelli-legacy-0",
+          "locator": "DOCX section sec-17",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.rit.edu/vignellicenter/vignelli-archives",
+          "locator": "DOCX section sec-17",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_mv_018",
+      "wording_ru": "В 1973 году Massimo Vignelli создал знаменитую Big Brown Bag для Bloomingdale’s; Cooper Hewitt отмечает, что успех большого пакета привёл к Little и Medium Brown Bag. Это почти идеальный branding object: дешёвый kraft paper превращается в walking billboard без иллюстрации и сложной символики. Размер продукта становится сообщением. Упаковка одновременно выполняет физическую функцию, говорит о бренде и движется по городу вместе с покупателем.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.cooperhewitt.org/2016/05/04/the-art-of-shopping/",
+          "locator": "DOCX section sec-18",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_mv_019",
+      "wording_ru": "В 1977 году National Park Service привлёк Vignelli к реформе разнородных visitor brochures. NPS описывает Unigrid как comprehensive system, стандартизировавший формат и производство и позволивший авторам сосредоточиться на содержании. Это один из лучших примеров design system до цифрового interface design. Grid здесь решает не эстетическую, а административную задачу: тысячи материалов должны быть узнаваемыми, экономичными в печати и достаточно гибкими для совершенно разных парков.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.nps.gov/subjects/hfc/a-brief-history-of-the-unigrid.htm",
+          "locator": "DOCX section sec-19",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_mv_020",
+      "wording_ru": "Vignelli Center формулирует транспортный принцип предельно практично: информацию нужно сообщать в точке принятия решения — не слишком рано и не слишком поздно. Эта мысль переживает конкретную typography. Современная navigation system, airport app или website сталкиваются с тем же вопросом: какая информация нужна именно сейчас? Clarity — это не показать всё, а показать правильное в правильный момент.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.rit.edu/vignellicenter/vignelli-transportation",
+          "locator": "DOCX section sec-20",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_mv_021",
+      "wording_ru": "RIT относит дизайн St. Peter’s Church в New York 1977 года к landmark projects Vignelli. В более широкой практике офиса interiors, environmental graphics, furniture и signage постоянно пересекаются. Церковь особенно важна для идеи Design is One: identity невозможно закончить на бланке. Пользователь входит внутрь пространства, считывает материалы, пропорции, свет и графику как единый характер. Brand/environment становится архитектурным опытом.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.rit.edu/vignellicenter/vignelli-legacy-0",
+          "locator": "DOCX section sec-21",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_mv_022",
+      "wording_ru": "Фраза Design is One закрепила холистическую позицию Massimo и Lella Vignelli. RIT сегодня использует её как центральную часть Vignelli ethos и как тему образовательных проектов. Её легко неправильно понять как универсальный эстетический стиль. Сильнее другое чтение: дизайнер должен понимать отношения между disciplines. Если graphic designer игнорирует product, пространство и production, система распадается на отдельные красивые фрагменты.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.rit.edu/vignellicenter/vignelli-legacy-0",
+          "locator": "DOCX section sec-22",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_mv_023",
+      "wording_ru": "Vignelli Center описывает publication design через контроль pacing, white space, scale, typeface, paper, ink, binding и materials. Книга у Vignelli — не нейтральный контейнер для контента. Она управляет временем чтения: крупное изображение ускоряет, пауза замедляет, бумага меняет ощущение веса, binding влияет на движение. Print design становится хореографией внимания и физического действия.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.rit.edu/vignellicenter/vignelli-publications",
+          "locator": "DOCX section sec-23",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_mv_024",
+      "wording_ru": "The Vignelli Canon вышел в 2010 году как концентрированная формулировка его design philosophy. RIT подчёркивает в книге semantics, syntax, pragmatics, discipline, timelessness и другие критерии. Canon полезен как ясная позиция, а не как священный список правил. Его модернистская вера в порядок может конфликтовать с accessibility, cultural plurality, responsive interfaces и другими задачами XXI века. Лучшее продолжение Vignelli — проверять принципы на новых условиях, а не воспроизводить внешний стиль.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.rit.edu/vignellicenter/vignelli-legacy-0",
+          "locator": "DOCX section sec-24",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_mv_025",
+      "wording_ru": "MoMA хранит Stacking Dinnerware 1964 года Massimo и Lella Vignelli: melamine resin, компактное складывание и цветная модульность. Объект показывает, что «система» у Vignelli не является метафорой. Чашка, тарелка и bowl физически должны согласоваться в хранении, производстве и использовании. Геометрия становится функциональной инфраструктурой — той же логикой, которая в графике проявляется как grid.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.moma.org/collection/works/4551",
+          "locator": "DOCX section sec-25",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_mv_026",
+      "wording_ru": "Handkerchief Chair 1985 года MoMA атрибутирует Massimo Vignelli, Lella Vignelli и David Law. Изогнутая fiberglass-reinforced shell выглядит лёгкой, будто ткань зависла в воздухе, но сохраняет функцию stacking office chair. Здесь особенно хорошо видно отличие минимализма от визуальной аскезы. Форма проста, но не безэмоциональна. Один непрерывный жест одновременно отвечает производству, эргономике и характеру объекта.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.moma.org/collection/works/1601",
+          "locator": "DOCX section sec-26",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_mv_027",
+      "wording_ru": "Vignelli Center описывает interiors как создание memorable experience через scale, light, simple materials и controlled space, а не через дорогую отделку саму по себе. Для graphic designer это расширяет понимание identity. В пространстве поля и margins становятся реальными расстояниями, contrast — светом и тенью, hierarchy — маршрутом, typography — signage. Те же принципы переходят из страницы в человеческий масштаб.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.rit.edu/vignellicenter/vignelli-interiors",
+          "locator": "DOCX section sec-27",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_mv_028",
+      "wording_ru": "Миф об одном Massimo долго затмевал вклад Lella и других collaborators. Однако MoMA и Vignelli Center последовательно возвращают совместную атрибуцию Knoll, products, furniture и office practice. Это не уменьшает роль Massimo. Напротив, делает её точнее: его талант был также в создании интеллектуальной рамки и публичного языка, внутри которого могла работать большая collaborative practice. Современная design history должна различать public persona и реальное производство.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.rit.edu/vignellicenter/vignelli-legacy-0",
+          "locator": "DOCX section sec-28",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.rit.edu/vignellicenter/vignelli-archives",
+          "locator": "DOCX section sec-28",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_mv_029",
+      "wording_ru": "В 2010 году архив Vignelli получил постоянный дом в Vignelli Center for Design Studies at RIT. В 2026 году Triennale Milano показывает Lella and Massimo Vignelli: A Language of Clarity — первую крупную ретроспективу их международного вклада, открытую до 6 сентября 2026 года. Важно, что новая выставка сознательно возвращает в заголовок обоих авторов. Архив перестаёт быть мавзолеем «вечного стиля» и становится материалом для нового спора: что в рациональной ясности всё ещё работает, а что требует пересмотра.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.rit.edu/vignellicenter/vignelli-archives",
+          "locator": "DOCX section sec-29",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://triennale.org/en/events/vignelli",
+          "locator": "DOCX section sec-29",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_mv_030",
+      "wording_ru": "Главное наследие Massimo Vignelli — не Helvetica, красная линия, коричневый пакет или геометрическая карта. Эти surface-признаки можно скопировать за час. Сложнее перенять метод: определить задачу, сократить число произвольных решений, построить grid и hierarchy, согласовать physical production, признать коллективное авторство и сделать систему достаточно строгой для узнаваемости, но достаточно гибкой для реальной жизни. Поэтому Vignelli остаётся актуален именно как designer of systems, а не как поставщик одного «modernist look».",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.rit.edu/vignellicenter/vignelli-legacy-0",
+          "locator": "DOCX section sec-30",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.rit.edu/vignellicenter/vignelli-dialogue",
+          "locator": "DOCX section sec-30",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_d79eda3b056a3863",
+      "title": "Vignelli Legacy",
+      "url": "https://www.rit.edu/vignellicenter/vignelli-legacy-0",
+      "publisher": "Vignelli Center for Design Studies, RIT",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_6608b1ddf5f1a8c6",
+      "title": "Vignelli Archives",
+      "url": "https://www.rit.edu/vignellicenter/vignelli-archives",
+      "publisher": "Vignelli Center for Design Studies, RIT",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_f440767c00956f84",
+      "title": "Vignelli Graphic Identity",
+      "url": "https://www.rit.edu/vignellicenter/vignelli-graphic-identity",
+      "publisher": "Vignelli Center for Design Studies, RIT",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_b63768203c03e25a",
+      "title": "Vignelli Transportation",
+      "url": "https://www.rit.edu/vignellicenter/vignelli-transportation",
+      "publisher": "Vignelli Center for Design Studies, RIT",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_b012877e090af09d",
+      "title": "Vignelli Publications",
+      "url": "https://www.rit.edu/vignellicenter/vignelli-publications",
+      "publisher": "Vignelli Center for Design Studies, RIT",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_b50abfa98f12b9b4",
+      "title": "Vignelli Packaging",
+      "url": "https://www.rit.edu/vignellicenter/vignelli-packaging",
+      "publisher": "Vignelli Center for Design Studies, RIT",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_2037ebe43aafff48",
+      "title": "Vignelli Products",
+      "url": "https://www.rit.edu/vignellicenter/vignelli-products",
+      "publisher": "Vignelli Center for Design Studies, RIT",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_a6d8b6ea5357a3ae",
+      "title": "Vignelli Furniture",
+      "url": "https://www.rit.edu/vignellicenter/vignelli-furniture",
+      "publisher": "Vignelli Center for Design Studies, RIT",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_ff2b9a8765e5032d",
+      "title": "Vignelli Interiors",
+      "url": "https://www.rit.edu/vignellicenter/vignelli-interiors",
+      "publisher": "Vignelli Center for Design Studies, RIT",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_345613e682e101d9",
+      "title": "Massimo Vignelli, Joan Charysyn, Bob Noorda, Unimark International Corporation. New York Subway Map, 1970–1972",
+      "url": "https://www.moma.org/collection/works/89300",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_1cab0bef1b04e570",
+      "title": "The Subway and the City: Massimo Vignelli, 1931–2014",
+      "url": "https://www.moma.org/explore/inside_out/2014/06/23/the-subway-and-the-city-massimo-vignelli-1931-2014/",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_a699b099aed769cd",
+      "title": "A Brief History of the Unigrid. U.S",
+      "url": "https://www.nps.gov/subjects/hfc/a-brief-history-of-the-unigrid.htm",
+      "publisher": "National Park Service",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_6de3f7268879109f",
+      "title": "Oral history interview with Massimo Vignelli, 2011 June 6–7",
+      "url": "https://www.aaa.si.edu/collections/interviews/oral-history-interview-massimo-vignelli-15958",
+      "publisher": "Archives of American Art, Smithsonian Institution",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_74c44d19135b615b",
+      "title": "American Airlines — A Dark, A Light, A Bright: The Designs of Dorothy Liebes",
+      "url": "https://exhibitions.cooperhewitt.org/dorothy-liebes/american-airlines/",
+      "publisher": "Cooper Hewitt, Smithsonian Design Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_ce10bceb76c9b18c",
+      "title": "The Art of Shopping",
+      "url": "https://www.cooperhewitt.org/2016/05/04/the-art-of-shopping/",
+      "publisher": "Cooper Hewitt, Smithsonian Design Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_14854d583fbabf12",
+      "title": "Massimo Vignelli, Lella Vignelli. Knoll International Graphic Program, 20 brochures, 1966–80",
+      "url": "https://www.moma.org/collection/works/89306",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_5cc22210cfc256a5",
+      "title": "Massimo Vignelli, Lella Vignelli. Stacking Dinnerware, 1964",
+      "url": "https://www.moma.org/collection/works/4551",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_dca1e7cc551306a1",
+      "title": "Massimo Vignelli, Lella Vignelli, David Law. Handkerchief Chair, 1985",
+      "url": "https://www.moma.org/collection/works/1601",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_d3cdc243222eb68b",
+      "title": "The Vignelli Dialogue",
+      "url": "https://www.rit.edu/vignellicenter/vignelli-dialogue",
+      "publisher": "Vignelli Center for Design Studies, RIT",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_bc0a12a9140e1a80",
+      "title": "Lella and Massimo Vignelli: A Language of Clarity",
+      "url": "https://triennale.org/en/events/vignelli",
+      "publisher": "Triennale Milano",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_massimo-_01",
+      "claim_id": "clm_mv_001",
+      "source_id": "src_d79eda3b056a3863",
+      "locator": "DOCX section sec-1",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_massimo-_02",
+      "claim_id": "clm_mv_002",
+      "source_id": "src_d79eda3b056a3863",
+      "locator": "DOCX section sec-2",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_massimo-_03",
+      "claim_id": "clm_mv_003",
+      "source_id": "src_d79eda3b056a3863",
+      "locator": "DOCX section sec-3",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_massimo-_04",
+      "claim_id": "clm_mv_004",
+      "source_id": "src_d79eda3b056a3863",
+      "locator": "DOCX section sec-4",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_massimo-_05",
+      "claim_id": "clm_mv_005",
+      "source_id": "src_d79eda3b056a3863",
+      "locator": "DOCX section sec-5",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_massimo-_06",
+      "claim_id": "clm_mv_006",
+      "source_id": "src_d79eda3b056a3863",
+      "locator": "DOCX section sec-6",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_massimo-_07",
+      "claim_id": "clm_mv_007",
+      "source_id": "src_14854d583fbabf12",
+      "locator": "DOCX section sec-7",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_massimo-_08",
+      "claim_id": "clm_mv_008",
+      "source_id": "src_74c44d19135b615b",
+      "locator": "DOCX section sec-8",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_massimo-_09",
+      "claim_id": "clm_mv_009",
+      "source_id": "src_f440767c00956f84",
+      "locator": "DOCX section sec-9",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_massimo-_10",
+      "claim_id": "clm_mv_010",
+      "source_id": "src_d79eda3b056a3863",
+      "locator": "DOCX section sec-10",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_massimo-_11",
+      "claim_id": "clm_mv_011",
+      "source_id": "src_d79eda3b056a3863",
+      "locator": "DOCX section sec-11",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_massimo-_12",
+      "claim_id": "clm_mv_012",
+      "source_id": "src_b63768203c03e25a",
+      "locator": "DOCX section sec-12",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_massimo-_13",
+      "claim_id": "clm_mv_013",
+      "source_id": "src_345613e682e101d9",
+      "locator": "DOCX section sec-13",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_massimo-_14",
+      "claim_id": "clm_mv_014",
+      "source_id": "src_345613e682e101d9",
+      "locator": "DOCX section sec-14",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_massimo-_15",
+      "claim_id": "clm_mv_015",
+      "source_id": "src_1cab0bef1b04e570",
+      "locator": "DOCX section sec-15",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_massimo-_16",
+      "claim_id": "clm_mv_016",
+      "source_id": "src_6608b1ddf5f1a8c6",
+      "locator": "DOCX section sec-16",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_massimo-_17",
+      "claim_id": "clm_mv_017",
+      "source_id": "src_d79eda3b056a3863",
+      "locator": "DOCX section sec-17",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_massimo-_18",
+      "claim_id": "clm_mv_018",
+      "source_id": "src_ce10bceb76c9b18c",
+      "locator": "DOCX section sec-18",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_massimo-_19",
+      "claim_id": "clm_mv_019",
+      "source_id": "src_a699b099aed769cd",
+      "locator": "DOCX section sec-19",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_massimo-_20",
+      "claim_id": "clm_mv_020",
+      "source_id": "src_b63768203c03e25a",
+      "locator": "DOCX section sec-20",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_massimo-_21",
+      "claim_id": "clm_mv_021",
+      "source_id": "src_d79eda3b056a3863",
+      "locator": "DOCX section sec-21",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_massimo-_22",
+      "claim_id": "clm_mv_022",
+      "source_id": "src_d79eda3b056a3863",
+      "locator": "DOCX section sec-22",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_massimo-_23",
+      "claim_id": "clm_mv_023",
+      "source_id": "src_b012877e090af09d",
+      "locator": "DOCX section sec-23",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_massimo-_24",
+      "claim_id": "clm_mv_024",
+      "source_id": "src_d79eda3b056a3863",
+      "locator": "DOCX section sec-24",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_massimo-_25",
+      "claim_id": "clm_mv_025",
+      "source_id": "src_5cc22210cfc256a5",
+      "locator": "DOCX section sec-25",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_massimo-_26",
+      "claim_id": "clm_mv_026",
+      "source_id": "src_dca1e7cc551306a1",
+      "locator": "DOCX section sec-26",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_massimo-_27",
+      "claim_id": "clm_mv_027",
+      "source_id": "src_ff2b9a8765e5032d",
+      "locator": "DOCX section sec-27",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_massimo-_28",
+      "claim_id": "clm_mv_028",
+      "source_id": "src_d79eda3b056a3863",
+      "locator": "DOCX section sec-28",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_massimo-_29",
+      "claim_id": "clm_mv_029",
+      "source_id": "src_6608b1ddf5f1a8c6",
+      "locator": "DOCX section sec-29",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_massimo-_30",
+      "claim_id": "clm_mv_030",
+      "source_id": "src_d79eda3b056a3863",
+      "locator": "DOCX section sec-30",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "media_state": "media_ready",
+  "workflow": {
+    "decision": "AUTO_APPROVE",
+    "note": "Incoming RU master and EN translation passed DOCX structure, source-format, URL reachability and section-level citation checks on 2026-08-12. Claims are retained as explicit attributions; planned media remains rights-review work.",
+    "converted_by": "VANSMITHLAB incoming article publication workflow",
+    "converted_at": "2026-08-12T00:00:00.000Z",
+    "media_reviewed_at": "2026-08-12",
+    "media_note": "Card visual replaced with an AI editorial studio illustration; it is not a documentary portrait or archival image."
+  }
+}

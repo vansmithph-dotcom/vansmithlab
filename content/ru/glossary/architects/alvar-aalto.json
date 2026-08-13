@@ -16,7 +16,7 @@
     "clm_579ebbb55f48c1c6"
   ],
   "source_ids": [],
-  "last_reviewed": "2026-08-09",
+  "last_reviewed": "2026-08-12",
   "author": "VANSMITHLAB",
   "locale": "ru",
   "slug": "alvar-aalto",
@@ -29,16 +29,31 @@
   "role": [
     "architect"
   ],
-  "body_hash": "88e1eef8f4808671e404661af6474484b4ca0bdd6151f831c0d94ee32d6e76fd",
+  "body_hash": "3d5b7dcbb769cd3319fe799dea6b631782783cc4d5ce75ca962a99a5b021fb05",
   "categories": [
     "architects"
   ],
   "hero_image": {
-    "src": "/images/glossary/designers/alvar-aalto-hero-v2-card-v1.webp",
-    "alt": "Editorial illustration: Алвар Аалто",
-    "caption": "Editorial illustration: Алвар Аалто. Финский модернизм, Savoy, Paimio.",
-    "credit": "VANSMITHLAB · AI illustration, 2026",
-    "origin": "ai_illustration"
+    "asset_id": "asset_alvar-aalto_hero_v3",
+    "primary_object_id": "obj_4cf1525b34834ecd",
+    "content_release_id": "cnt_a761d6bfc85ca96b",
+    "kind": "image",
+    "src": "/images/glossary/designers/alvar-aalto-hero-v3-card.webp",
+    "alt": "Редакционная фотографическая иллюстрация практики Алвара Аалто: финский модернистский интерьер, изогнутая деревянная мебель, макеты и северный пейзаж.",
+    "alt_text": "Редакционная фотографическая иллюстрация практики Алвара Аалто: финский модернистский интерьер, изогнутая деревянная мебель, макеты и северный пейзаж.",
+    "caption": "Архитектура, мебель, дерево и свет показаны как единая гуманистическая система. AI-иллюстрация, не документальная фотография.",
+    "credit": "OpenAI image generation · directed and reviewed by VANSMITHLAB",
+    "creator_or_credit": "OpenAI image generation · directed and reviewed by VANSMITHLAB",
+    "origin": "ai_illustration",
+    "rights_state": "generated_reviewed",
+    "rights_status": "generated_reviewed",
+    "licence_or_permission": "Original AI visual generated for VANSMITHLAB without reference images or copied identifiable work.",
+    "source_url": "",
+    "locale": "ru",
+    "created_at": "2026-08-12",
+    "content_hash": "f31387ce57cb5fe0cba878750bad13476dc1fefc10c1530679cfca32c46e802a",
+    "file_storage_key": "public/images/glossary/designers/alvar-aalto-hero-v3-card.webp",
+    "disclosure": "VANSMITHLAB · AI-иллюстрация, 2026"
   },
   "portrait_image": {
     "src": "/images/glossary/designers/alvar-aalto-portrait-v1.webp",

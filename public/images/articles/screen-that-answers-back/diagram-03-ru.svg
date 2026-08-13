@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title-03">
+<title id="title-03">WEB: ССЫЛКА КАК МАРШРУТ</title>
+<rect width="1600" height="900" fill="#f2eee6"/>
+<defs><pattern id="grid" width="80" height="80" patternUnits="userSpaceOnUse"><path d="M80 0H0V80" fill="none" stroke="#ded7ca" stroke-width="1"/></pattern></defs>
+<rect x="40" y="40" width="1520" height="820" fill="url(#grid)" opacity=".48"/>
+<rect x="40" y="40" width="1520" height="820" rx="0" fill="none" stroke="#171716" stroke-width="2"/>
+<text x="78" y="96" fill="#c84a31" text-anchor="start" font-family="monospace" font-size="15" font-weight="700" letter-spacing="2">VANSMITHLAB / ANALYSIS / 03</text>
+<text x="78" y="170" fill="#171716" text-anchor="start" font-family="Georgia" font-size="44" font-weight="500" letter-spacing="0">WEB: ССЫЛКА КАК МАРШРУТ</text>
+<line x1="78" y1="202" x2="1522" y2="202" stroke="#171716" stroke-width="2"/>
+<text x="78" y="824" fill="#777167" text-anchor="start" font-family="Georgia" font-size="18" font-weight="400" letter-spacing="0">Композиция превращается в навигацию: читатель выбирает следующий переход.</text>
+<rect x="100.0" y="350" width="249.6" height="190" rx="16" fill="#fbf8f1" stroke="#171716" stroke-width="2"/>
+<text x="224.8" y="435" fill="#171716" text-anchor="middle" font-family="monospace" font-size="18" font-weight="700" letter-spacing="0">СТРАНИЦА</text>
+<text x="224.8" y="485" fill="#284e78" text-anchor="middle" font-family="monospace" font-size="15" font-weight="700" letter-spacing="0">01</text>
+<line x1="349.6" y1="445" x2="387.6" y2="445" stroke="#c84a31" stroke-width="4"/>
+<path d="M372.6 431 L387.6 445 L372.6 459" fill="none" stroke="#c84a31" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="387.6" y="350" width="249.6" height="190" rx="16" fill="#ead3ca" stroke="#171716" stroke-width="2"/>
+<text x="512.4" y="435" fill="#171716" text-anchor="middle" font-family="monospace" font-size="18" font-weight="700" letter-spacing="0">ССЫЛКА</text>
+<text x="512.4" y="485" fill="#284e78" text-anchor="middle" font-family="monospace" font-size="15" font-weight="700" letter-spacing="0">02</text>
+<line x1="637.2" y1="445" x2="675.2" y2="445" stroke="#c84a31" stroke-width="4"/>
+<path d="M660.2 431 L675.2 445 L660.2 459" fill="none" stroke="#c84a31" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="675.2" y="350" width="249.6" height="190" rx="16" fill="#fbf8f1" stroke="#171716" stroke-width="2"/>
+<text x="800.0" y="435" fill="#171716" text-anchor="middle" font-family="monospace" font-size="18" font-weight="700" letter-spacing="0">ИСТОРИЯ</text>
+<text x="800.0" y="485" fill="#284e78" text-anchor="middle" font-family="monospace" font-size="15" font-weight="700" letter-spacing="0">03</text>
+<line x1="924.8000000000001" y1="445" x2="962.8000000000001" y2="445" stroke="#c84a31" stroke-width="4"/>
+<path d="M947.8000000000001 431 L962.8000000000001 445 L947.8000000000001 459" fill="none" stroke="#c84a31" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="962.8000000000001" y="350" width="249.6" height="190" rx="16" fill="#ead3ca" stroke="#171716" stroke-width="2"/>
+<text x="1087.6000000000001" y="435" fill="#171716" text-anchor="middle" font-family="monospace" font-size="18" font-weight="700" letter-spacing="0">ВОЗВРАТ</text>
+<text x="1087.6000000000001" y="485" fill="#284e78" text-anchor="middle" font-family="monospace" font-size="15" font-weight="700" letter-spacing="0">04</text>
+<line x1="1212.4" y1="445" x2="1250.4" y2="445" stroke="#c84a31" stroke-width="4"/>
+<path d="M1235.4 431 L1250.4 445 L1235.4 459" fill="none" stroke="#c84a31" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="1250.4" y="350" width="249.6" height="190" rx="16" fill="#fbf8f1" stroke="#171716" stroke-width="2"/>
+<text x="1375.2" y="435" fill="#171716" text-anchor="middle" font-family="monospace" font-size="18" font-weight="700" letter-spacing="0">НОВЫЙ ПУТЬ</text>
+<text x="1375.2" y="485" fill="#284e78" text-anchor="middle" font-family="monospace" font-size="15" font-weight="700" letter-spacing="0">05</text>
+</svg>

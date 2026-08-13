@@ -1,0 +1,75 @@
+{
+  "id": "obj_032c_magazine_20260812",
+  "type": "organization",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "032c",
+  "title_en": "032c — Berlin Culture, Fashion and the Magazine as a Production System",
+  "slug_ru": "032c-berlin-culture-fashion-magazine-as-production-system",
+  "slug_en": "032c-berlin-culture-fashion-magazine-as-production-system",
+  "summary_ru": "Берлинская культура, мода и журнал как производственная система",
+  "summary_en": "Berlin Culture, Fashion and the Magazine as a Production System",
+  "verification_state": "verified",
+  "confidence_score": 0.86,
+  "created_at": "2026-08-12T00:00:00.000Z",
+  "updated_at": "2026-08-12T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "obj_032c_magazine_20260812_c1",
+      "wording_ru": "032c как берлинская редакционная и производственная система: журнал, одежда, галерея и архив работают как единый культурный объект.",
+      "claim_type": "descriptive",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.86,
+      "evidence": [
+        {
+          "source_url": "https://032c.com/about",
+          "locator": "primary overview",
+          "support": "Подтверждает предмет и редакционный контекст."
+        },
+        {
+          "source_url": "https://www.theartnewspaper.com/2024/09/12/fashion-and-media-brand-032c-launches-commercial-gallery-in-berlin",
+          "locator": "history overview",
+          "support": "Подтверждает историческое развитие практики."
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "obj_032c_magazine_20260812_s1",
+      "title": "032c — primary source",
+      "url": "https://032c.com/about",
+      "publisher": "032c",
+      "source_tier": 1,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "obj_032c_magazine_20260812_s2",
+      "title": "032c — history",
+      "url": "https://www.theartnewspaper.com/2024/09/12/fashion-and-media-brand-032c-launches-commercial-gallery-in-berlin",
+      "publisher": "The Art Newspaper",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    }
+  ],
+  "citations": [
+    {
+      "id": "obj_032c_magazine_20260812_c1_cit0",
+      "claim_id": "obj_032c_magazine_20260812_c1",
+      "source_id": "obj_032c_magazine_20260812_s1",
+      "locator": "primary overview",
+      "support": "Подтверждает предмет и редакционный контекст."
+    },
+    {
+      "id": "obj_032c_magazine_20260812_c1_cit1",
+      "claim_id": "obj_032c_magazine_20260812_c1",
+      "source_id": "obj_032c_magazine_20260812_s2",
+      "locator": "history overview",
+      "support": "Подтверждает историческое развитие практики."
+    }
+  ],
+  "relations": [],
+  "contradictions": []
+}

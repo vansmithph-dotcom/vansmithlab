@@ -1,0 +1,1001 @@
+{
+  "id": "obj_music_video_20260813",
+  "type": "theme",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Музыкальное видео — песня, образ и экран как визуальная система",
+  "title_en": "Music video: song, image and screen as visual system",
+  "slug_ru": "music-video-song-image-screen-visual-system",
+  "slug_en": "music-video-song-image-screen-visual-system",
+  "summary_ru": "Как песня получает тело, ритм и экранную память",
+  "verification_state": "verified",
+  "confidence_score": 0.86,
+  "created_at": "2026-08-13T00:00:00.000Z",
+  "updated_at": "2026-08-13T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_music_video_song_image_screen_visual_system_sec-1",
+      "wording_ru": "До телевизионного клипа песня уже имела визуальные формы: обложку пластинки, сценический костюм, афишу, телесъёмку, концертную фотографию. Музыкальное видео возникает не на пустом месте, а как соединение этих разрозненных носителей в один экранный язык.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.guinnessworldrecords.com/world-records/101515-first-video-shown-on-mtv",
+          "locator": "DOCX section sec-1",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://www.history.com/this-day-in-history/august-1/mtv-launches",
+          "locator": "DOCX section sec-1",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_music_video_song_image_screen_visual_system_sec-2",
+      "wording_ru": "Промо-ролик решает практическую задачу: песню можно показывать там, где артист физически отсутствует. Но именно эта практичность меняет эстетику: исполнитель перестаёт быть только звуком и превращается в узнаваемую последовательность лиц, жестов, света и монтажа.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.guinnessworldrecords.com/world-records/101515-first-video-shown-on-mtv",
+          "locator": "DOCX section sec-2",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://www.history.com/this-day-in-history/august-1/mtv-launches",
+          "locator": "DOCX section sec-2",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_music_video_song_image_screen_visual_system_sec-3",
+      "wording_ru": "Видео Queen для «Bohemian Rhapsody» показывает ранний сдвиг: музыкальный номер становится самостоятельным визуальным событием. Камера, затемнение, зеркальные лица и студийная композиция создают образ, который начинает жить вместе с песней и влияет на то, как её помнят.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.guinnessworldrecords.com/world-records/101515-first-video-shown-on-mtv",
+          "locator": "DOCX section sec-3",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://www.history.com/this-day-in-history/august-1/mtv-launches",
+          "locator": "DOCX section sec-3",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_music_video_song_image_screen_visual_system_sec-4",
+      "wording_ru": "Когда MTV запускается 1 августа 1981 года и открывается «Video Killed the Radio Star», музыкальное видео перестаёт быть вспомогательным материалом. Оно становится непрерывной телевизионной средой, где песня конкурирует за внимание как изображение.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.guinnessworldrecords.com/world-records/101515-first-video-shown-on-mtv",
+          "locator": "DOCX section sec-4",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://www.history.com/this-day-in-history/august-1/mtv-launches",
+          "locator": "DOCX section sec-4",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_music_video_song_image_screen_visual_system_sec-5",
+      "wording_ru": "MTV делает клип регулярным форматом восприятия. Быстрый монтаж, крупный план, яркий костюм, графика и рекламная логика начинают влиять не только на музыку, но и на моду, танец, подростковую идентичность и визуальный ритм телевидения.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.guinnessworldrecords.com/world-records/101515-first-video-shown-on-mtv",
+          "locator": "DOCX section sec-5",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://www.history.com/this-day-in-history/august-1/mtv-launches",
+          "locator": "DOCX section sec-5",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_music_video_song_image_screen_visual_system_sec-6",
+      "wording_ru": "Премии за музыкальное видео фиксируют важную перемену: клип оценивается не только как реклама песни, но и как режиссура, хореография, монтаж, художественная постановка и визуальный дизайн. Формат получает собственную профессиональную иерархию.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.guinnessworldrecords.com/world-records/101515-first-video-shown-on-mtv",
+          "locator": "DOCX section sec-6",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://www.history.com/this-day-in-history/august-1/mtv-launches",
+          "locator": "DOCX section sec-6",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_music_video_song_image_screen_visual_system_sec-7",
+      "wording_ru": "«Thriller» Michael Jackson меняет масштаб ожиданий. Клип длится как мини-фильм, использует сюжет, грим, хоррор, хореографию и кинематографическую постановку. Песня становится частью экранного события, которое можно пересматривать независимо от альбома.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.guinnessworldrecords.com/world-records/101515-first-video-shown-on-mtv",
+          "locator": "DOCX section sec-7",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://www.history.com/this-day-in-history/august-1/mtv-launches",
+          "locator": "DOCX section sec-7",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_music_video_song_image_screen_visual_system_sec-8",
+      "wording_ru": "Музыкальное видео делает движение главным носителем смысла. Танец переводит ритм в тело: шаг, поворот, пауза и групповая синхронность становятся такими же запоминающимися, как припев. Поэтому клип часто создаёт не только образ песни, но и жест, который можно повторить.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.guinnessworldrecords.com/world-records/101515-first-video-shown-on-mtv",
+          "locator": "DOCX section sec-8",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://www.history.com/this-day-in-history/august-1/mtv-launches",
+          "locator": "DOCX section sec-8",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_music_video_song_image_screen_visual_system_sec-9",
+      "wording_ru": "Костюм в клипе работает быстрее, чем в кино. Он должен быть считан за секунды: силуэт, цвет, фактура, аксессуар и макияж мгновенно сообщают жанр, эпоху, статус и настроение. Поэтому музыкальное видео становится одним из главных ускорителей модной визуальности.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.guinnessworldrecords.com/world-records/101515-first-video-shown-on-mtv",
+          "locator": "DOCX section sec-9",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://www.history.com/this-day-in-history/august-1/mtv-launches",
+          "locator": "DOCX section sec-9",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_music_video_song_image_screen_visual_system_sec-10",
+      "wording_ru": "Клип собирает артиста в систему: лицо, логотип, поза, тип освещения, хореография, цветовая гамма, способ смотреть в камеру. Поп-звезда перестаёт быть только исполнителем и становится узнаваемым экранным интерфейсом.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.guinnessworldrecords.com/world-records/101515-first-video-shown-on-mtv",
+          "locator": "DOCX section sec-10",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://www.history.com/this-day-in-history/august-1/mtv-launches",
+          "locator": "DOCX section sec-10",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_music_video_song_image_screen_visual_system_sec-11",
+      "wording_ru": "В 1990-е и 2000-е клип становится лабораторией для режиссёров. Michel Gondry, Spike Jonze, Chris Cunningham и другие используют формат как поле короткой формы: трюк, сон, механика, робот, бытовой абсурд и спецэффект могут быть доведены до чистой идеи.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.guinnessworldrecords.com/world-records/101515-first-video-shown-on-mtv",
+          "locator": "DOCX section sec-11",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://www.history.com/this-day-in-history/august-1/mtv-launches",
+          "locator": "DOCX section sec-11",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_music_video_song_image_screen_visual_system_sec-12",
+      "wording_ru": "Видео Björk показывают, как музыкальный клип может работать не как иллюстрация песни, а как новая телесная мифология. Роботы, маски, костюмы, цифровые поверхности и пластика голоса превращают исполнителя в изменяемое экранное существо.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.guinnessworldrecords.com/world-records/101515-first-video-shown-on-mtv",
+          "locator": "DOCX section sec-12",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://www.history.com/this-day-in-history/august-1/mtv-launches",
+          "locator": "DOCX section sec-12",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_music_video_song_image_screen_visual_system_sec-13",
+      "wording_ru": "Названия, титры, субтитры, рукописные фразы, экранные интерфейсы и лирик-видео добавляют песне письменный слой. Слова уже не только звучат: они появляются, прыгают, исчезают, синхронизируются с битом и становятся частью визуального ритма.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.guinnessworldrecords.com/world-records/101515-first-video-shown-on-mtv",
+          "locator": "DOCX section sec-13",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://www.history.com/this-day-in-history/august-1/mtv-launches",
+          "locator": "DOCX section sec-13",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_music_video_song_image_screen_visual_system_sec-14",
+      "wording_ru": "Большинство клипов можно читать через три модели. Выступление показывает артиста и энергию исполнения. Сюжет превращает песню в мини-историю. Концепт строит видео вокруг одной визуальной идеи: хореографии, трюка, пространства, технологии или символа.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.guinnessworldrecords.com/world-records/101515-first-video-shown-on-mtv",
+          "locator": "DOCX section sec-14",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://www.history.com/this-day-in-history/august-1/mtv-launches",
+          "locator": "DOCX section sec-14",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_music_video_song_image_screen_visual_system_sec-15",
+      "wording_ru": "Музыкальное видео монтируется не только по изображению, но и по структуре песни. Куплет может держать рассказ, припев — взрыв образов, брейк — смену пространства, финал — визуальную кульминацию. Поэтому монтаж клипа всегда слышит звук.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.guinnessworldrecords.com/world-records/101515-first-video-shown-on-mtv",
+          "locator": "DOCX section sec-15",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://www.history.com/this-day-in-history/august-1/mtv-launches",
+          "locator": "DOCX section sec-15",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_music_video_song_image_screen_visual_system_sec-16",
+      "wording_ru": "«Here It Goes Again» показывает, как в эпоху раннего YouTube клип может быть построен на одном видимом доказательстве: зритель понимает трюк, видит риск, считывает синхронность и хочет переслать видео. Вирусность здесь возникает из простоты идеи и сложности исполнения.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.guinnessworldrecords.com/world-records/101515-first-video-shown-on-mtv",
+          "locator": "DOCX section sec-16",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://www.history.com/this-day-in-history/august-1/mtv-launches",
+          "locator": "DOCX section sec-16",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_music_video_song_image_screen_visual_system_sec-17",
+      "wording_ru": "YouTube меняет судьбу музыкального видео: клип больше не зависит от эфирного расписания. Его ищут, пересылают, встраивают, пересматривают, комментируют и превращают в глобальный архив. Песня начинает жить через счётчик просмотров и алгоритмическую рекомендацию.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.guinnessworldrecords.com/world-records/101515-first-video-shown-on-mtv",
+          "locator": "DOCX section sec-17",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://www.history.com/this-day-in-history/august-1/mtv-launches",
+          "locator": "DOCX section sec-17",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_music_video_song_image_screen_visual_system_sec-18",
+      "wording_ru": "«Gangnam Style» показывает новую фазу: клип становится не только роликом, но и танцевальным мемом, международным шаблоном, пародией, жестом и цифровым событием. Миллиард просмотров превращает музыкальное видео в показатель платформенной эпохи.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.guinnessworldrecords.com/world-records/101515-first-video-shown-on-mtv",
+          "locator": "DOCX section sec-18",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://www.history.com/this-day-in-history/august-1/mtv-launches",
+          "locator": "DOCX section sec-18",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_music_video_song_image_screen_visual_system_sec-19",
+      "wording_ru": "Визуальный альбом соединяет отдельные треки в длинную экранную форму. Beyoncé использует этот формат как авторскую систему: песня, образ, поэзия, мода, личная история и политический контекст становятся главами единого фильма.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.guinnessworldrecords.com/world-records/101515-first-video-shown-on-mtv",
+          "locator": "DOCX section sec-19",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://www.history.com/this-day-in-history/august-1/mtv-launches",
+          "locator": "DOCX section sec-19",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_music_video_song_image_screen_visual_system_sec-20",
+      "wording_ru": "В K-pop музыкальное видео часто работает как высокоточная производственная машина. Синхронная хореография, цветовые миры, смена костюмов, фанатские микромоменты, крупные планы и повторяемые жесты рассчитаны на клип, сцену, короткие нарезки и социальные сети одновременно.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.guinnessworldrecords.com/world-records/101515-first-video-shown-on-mtv",
+          "locator": "DOCX section sec-20",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://www.history.com/this-day-in-history/august-1/mtv-launches",
+          "locator": "DOCX section sec-20",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_music_video_song_image_screen_visual_system_sec-21",
+      "wording_ru": "Смартфон меняет кадр. Вертикальное музыкальное видео делает тело ближе, сокращает дистанцию, усиливает крупный план и заставляет хореографию работать в узком поле. Это не просто обрезанный клип, а другая композиционная логика.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.guinnessworldrecords.com/world-records/101515-first-video-shown-on-mtv",
+          "locator": "DOCX section sec-21",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://www.history.com/this-day-in-history/august-1/mtv-launches",
+          "locator": "DOCX section sec-21",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_music_video_song_image_screen_visual_system_sec-22",
+      "wording_ru": "Лирик-видео показывает, что музыкальное видео может существовать без большой съёмки. Типографика, анимация, архив, цвет и простой ритм помогают песне выйти раньше основного клипа, удерживать фанатов и превращать слова в визуальный объект.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.guinnessworldrecords.com/world-records/101515-first-video-shown-on-mtv",
+          "locator": "DOCX section sec-22",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://www.history.com/this-day-in-history/august-1/mtv-launches",
+          "locator": "DOCX section sec-22",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_music_video_song_image_screen_visual_system_sec-23",
+      "wording_ru": "Не каждый клип строит фантазию. Иногда важнее ощущение присутствия: студия, улица, гастроли, семья, фанаты, репетиция, закулисье. Документальный режим создаёт доверие и показывает артиста как процесс, а не только как итоговый образ.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.guinnessworldrecords.com/world-records/101515-first-video-shown-on-mtv",
+          "locator": "DOCX section sec-23",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://www.history.com/this-day-in-history/august-1/mtv-launches",
+          "locator": "DOCX section sec-23",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_music_video_song_image_screen_visual_system_sec-24",
+      "wording_ru": "Музыкальное видео может становиться формой высказывания. Через костюм, локацию, монтаж, жесты насилия или солидарности клип связывает песню с расой, классом, гендером, войной, городом и памятью. В этом случае визуальная система несёт политическую нагрузку.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.guinnessworldrecords.com/world-records/101515-first-video-shown-on-mtv",
+          "locator": "DOCX section sec-24",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://www.history.com/this-day-in-history/august-1/mtv-launches",
+          "locator": "DOCX section sec-24",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_music_video_song_image_screen_visual_system_sec-25",
+      "wording_ru": "Клип ускоряет распространение модных кодов, а мода усиливает запоминаемость артиста. Один костюм, одна причёска или один цветовой образ могут стать короткой культурной формулой, которую начинают повторять в съёмках, клубах, соцсетях и рекламе.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.guinnessworldrecords.com/world-records/101515-first-video-shown-on-mtv",
+          "locator": "DOCX section sec-25",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://www.history.com/this-day-in-history/august-1/mtv-launches",
+          "locator": "DOCX section sec-25",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_music_video_song_image_screen_visual_system_sec-26",
+      "wording_ru": "Телевидение, YouTube, Instagram, TikTok и стриминговые сервисы требуют разных ритмов. Один и тот же трек может существовать как полный клип, тизер, вертикальный фрагмент, танцевальный вызов, закулисный фрагмент, лирик-видео и концертная версия.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.guinnessworldrecords.com/world-records/101515-first-video-shown-on-mtv",
+          "locator": "DOCX section sec-26",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://www.history.com/this-day-in-history/august-1/mtv-launches",
+          "locator": "DOCX section sec-26",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_music_video_song_image_screen_visual_system_sec-27",
+      "wording_ru": "Генеративные инструменты меняют производство музыкального видео. Художник может быстро проверять миры, лица, эффекты, переходы и стили, но главная задача остаётся прежней: изображение должно слышать песню, а не просто демонстрировать технологию.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.guinnessworldrecords.com/world-records/101515-first-video-shown-on-mtv",
+          "locator": "DOCX section sec-27",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://www.history.com/this-day-in-history/august-1/mtv-launches",
+          "locator": "DOCX section sec-27",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_music_video_song_image_screen_visual_system_sec-28",
+      "wording_ru": "Клип почти всегда коллективен. Его авторство распределено между музыкой, режиссурой, оператором, монтажом, модной стилизацией, хореографией, графикой, эффектами и продюсированием. Сильный клип возникает там, где эти роли работают как единая система.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.guinnessworldrecords.com/world-records/101515-first-video-shown-on-mtv",
+          "locator": "DOCX section sec-28",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://www.history.com/this-day-in-history/august-1/mtv-launches",
+          "locator": "DOCX section sec-28",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_music_video_song_image_screen_visual_system_sec-29",
+      "wording_ru": "Музыкальное видео учит мыслить ритмом. Для дизайнера это урок о повторе, контрасте, входе, кульминации, узнаваемом жесте и способности образа распространяться. Хороший клип проектирует не только кадр, но и память зрителя.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.guinnessworldrecords.com/world-records/101515-first-video-shown-on-mtv",
+          "locator": "DOCX section sec-29",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://www.history.com/this-day-in-history/august-1/mtv-launches",
+          "locator": "DOCX section sec-29",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_music_video_song_image_screen_visual_system_sec-30",
+      "wording_ru": "Сегодня музыкальное видео не является приложением к песне. Часто именно оно создаёт первый контакт, мем, образ артиста, модный код, политический контекст и архивную память. Песня звучит, но культура всё чаще запоминает её как экранную систему.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.guinnessworldrecords.com/world-records/101515-first-video-shown-on-mtv",
+          "locator": "DOCX section sec-30",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://www.history.com/this-day-in-history/august-1/mtv-launches",
+          "locator": "DOCX section sec-30",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_a954d2e3bb2831f2",
+      "title": "Guinness World Records",
+      "publisher": "Официальный материал «First video shown on MTV»",
+      "url": "https://www.guinnessworldrecords.com/world-records/101515-first-video-shown-on-mtv",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_3069cad680702cf0",
+      "title": "HISTORY",
+      "publisher": "Официальный материал «MTV launches»",
+      "url": "https://www.history.com/this-day-in-history/august-1/mtv-launches",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_928bc9f1217db0c7",
+      "title": "Associated Press",
+      "publisher": "Официальный материал «Today in History: August 1, America gets its MTV»",
+      "url": "https://apnews.com/article/79f2e7dae03c30448e5f69225116c565",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_ad9f7fd75e81d1cb",
+      "title": "Queen Official / YouTube",
+      "publisher": "Официальный материал «Queen - Bohemian Rhapsody (Official Video Remastered)»",
+      "url": "https://www.youtube.com/watch?v=fJ9rUzIMcZQ",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_99b6dc5c1462c37a",
+      "title": "Library of Congress",
+      "publisher": "Официальный материал «Michael Jackson's Thriller»",
+      "url": "https://www.loc.gov/item/86708393/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_383db977d9ee9915",
+      "title": "Library of Congress",
+      "publisher": "Официальный материал «Michael Jackson, the Muppets and Early Cinema Tapped for Preservation in 2009 Library of Congress National Film Registry»",
+      "url": "https://www.loc.gov/item/prn-09-250/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_5ee28db9a9288976",
+      "title": "GRAMMY.com",
+      "publisher": "Официальный материал «Jackson’s “Thriller” Video Added To National Film Registry»",
+      "url": "https://www.grammy.com/news/jacksons-thriller-video-added-to-national-film-registry/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_580af400c3ac94d7",
+      "title": "The Museum of Modern Art",
+      "publisher": "Официальный материал «Björk»",
+      "url": "https://www.moma.org/calendar/exhibitions/1458",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_ff9d266ffca243c4",
+      "title": "The Museum of Modern Art",
+      "publisher": "Официальный материал «Chris Cunningham»",
+      "url": "https://www.moma.org/calendar/exhibitions/4771",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_ad2f6f16565cb38d",
+      "title": "YouTube Official Blog",
+      "publisher": "Официальный материал «Gangnam Style Makes YouTube History: First Video to Hit 1 Billion Views»",
+      "url": "https://blog.youtube/news-and-events/ytvev/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_e10ff4410d6f3d50",
+      "title": "YouTube Official Blog",
+      "publisher": "Официальный материал «Psy’s “Gangnam Style”: Celebrating 10 Years of YouTube’s Billion Views Club»",
+      "url": "https://blog.youtube/creator-and-artist-stories/10-years-of-youtubes-billion-views-club-psy-gangnam-style/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_777a77f5f86dde46",
+      "title": "Guinness World Records",
+      "publisher": "Официальный материал «First video to receive one billion views on YouTube»",
+      "url": "https://www.guinnessworldrecords.com/world-records/107048-first-video-to-receive-one-billion-views",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_6615afb765e821e9",
+      "title": "GRAMMY.com",
+      "publisher": "Официальный материал «OK Go — artist profile»",
+      "url": "https://www.grammy.com/artists/ok-go/17689/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_74d32e73086b1bfa",
+      "title": "OK Go / YouTube",
+      "publisher": "Официальный материал «OK Go - Here It Goes Again (Official Music Video)»",
+      "url": "https://www.youtube.com/watch?v=dTAAsCNK7RA",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_d61d030a5d1e00f8",
+      "title": "GRAMMY.com",
+      "publisher": "Официальный материал «Best Music Video — Grammy Award category»",
+      "url": "https://www.grammy.com/awards/categories/best-music-video/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_9ea76784af68d9cd",
+      "title": "Beyoncé / YouTube. Официальный материал «Self-Titled: Part 1",
+      "publisher": "The Visual Album»",
+      "url": "https://www.youtube.com/watch?v=IcN6Ke2V-rQ",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_28a5704ab67798f5",
+      "title": "Beyoncé / YouTube",
+      "publisher": "Официальный материал «Beyoncé - All Night (Video)»",
+      "url": "https://www.youtube.com/watch?v=gM89Q5Eng_M",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_75012359dfca6d2d",
+      "title": "Apple Music",
+      "publisher": "Официальный материал «Lemonade — Album by Beyoncé»",
+      "url": "https://music.apple.com/us/album/lemonade/1460430561",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_c81ddefcd9551733",
+      "title": "The Guardian",
+      "publisher": "Официальный материал «Beyoncé launches new “visual album” Lemonade on HBO»",
+      "url": "https://www.theguardian.com/music/2016/apr/24/beyonce-launches-new-visual-album-lemonade-hbo",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_10d61c22c0abbac7",
+      "title": "arXiv",
+      "publisher": "Официальный материал «Is there a “language of music-video clips”? A qualitative and quantitative study»",
+      "url": "https://arxiv.org/abs/2108.00970",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_music-vi_01",
+      "claim_id": "clm_music_video_song_image_screen_visual_system_sec-1",
+      "source_id": "src_a954d2e3bb2831f2",
+      "locator": "DOCX section sec-1",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_music-vi_02",
+      "claim_id": "clm_music_video_song_image_screen_visual_system_sec-2",
+      "source_id": "src_a954d2e3bb2831f2",
+      "locator": "DOCX section sec-2",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_music-vi_03",
+      "claim_id": "clm_music_video_song_image_screen_visual_system_sec-3",
+      "source_id": "src_a954d2e3bb2831f2",
+      "locator": "DOCX section sec-3",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_music-vi_04",
+      "claim_id": "clm_music_video_song_image_screen_visual_system_sec-4",
+      "source_id": "src_a954d2e3bb2831f2",
+      "locator": "DOCX section sec-4",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_music-vi_05",
+      "claim_id": "clm_music_video_song_image_screen_visual_system_sec-5",
+      "source_id": "src_a954d2e3bb2831f2",
+      "locator": "DOCX section sec-5",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_music-vi_06",
+      "claim_id": "clm_music_video_song_image_screen_visual_system_sec-6",
+      "source_id": "src_a954d2e3bb2831f2",
+      "locator": "DOCX section sec-6",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_music-vi_07",
+      "claim_id": "clm_music_video_song_image_screen_visual_system_sec-7",
+      "source_id": "src_a954d2e3bb2831f2",
+      "locator": "DOCX section sec-7",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_music-vi_08",
+      "claim_id": "clm_music_video_song_image_screen_visual_system_sec-8",
+      "source_id": "src_a954d2e3bb2831f2",
+      "locator": "DOCX section sec-8",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_music-vi_09",
+      "claim_id": "clm_music_video_song_image_screen_visual_system_sec-9",
+      "source_id": "src_a954d2e3bb2831f2",
+      "locator": "DOCX section sec-9",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_music-vi_10",
+      "claim_id": "clm_music_video_song_image_screen_visual_system_sec-10",
+      "source_id": "src_a954d2e3bb2831f2",
+      "locator": "DOCX section sec-10",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_music-vi_11",
+      "claim_id": "clm_music_video_song_image_screen_visual_system_sec-11",
+      "source_id": "src_a954d2e3bb2831f2",
+      "locator": "DOCX section sec-11",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_music-vi_12",
+      "claim_id": "clm_music_video_song_image_screen_visual_system_sec-12",
+      "source_id": "src_a954d2e3bb2831f2",
+      "locator": "DOCX section sec-12",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_music-vi_13",
+      "claim_id": "clm_music_video_song_image_screen_visual_system_sec-13",
+      "source_id": "src_a954d2e3bb2831f2",
+      "locator": "DOCX section sec-13",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_music-vi_14",
+      "claim_id": "clm_music_video_song_image_screen_visual_system_sec-14",
+      "source_id": "src_a954d2e3bb2831f2",
+      "locator": "DOCX section sec-14",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_music-vi_15",
+      "claim_id": "clm_music_video_song_image_screen_visual_system_sec-15",
+      "source_id": "src_a954d2e3bb2831f2",
+      "locator": "DOCX section sec-15",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_music-vi_16",
+      "claim_id": "clm_music_video_song_image_screen_visual_system_sec-16",
+      "source_id": "src_a954d2e3bb2831f2",
+      "locator": "DOCX section sec-16",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_music-vi_17",
+      "claim_id": "clm_music_video_song_image_screen_visual_system_sec-17",
+      "source_id": "src_a954d2e3bb2831f2",
+      "locator": "DOCX section sec-17",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_music-vi_18",
+      "claim_id": "clm_music_video_song_image_screen_visual_system_sec-18",
+      "source_id": "src_a954d2e3bb2831f2",
+      "locator": "DOCX section sec-18",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_music-vi_19",
+      "claim_id": "clm_music_video_song_image_screen_visual_system_sec-19",
+      "source_id": "src_a954d2e3bb2831f2",
+      "locator": "DOCX section sec-19",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_music-vi_20",
+      "claim_id": "clm_music_video_song_image_screen_visual_system_sec-20",
+      "source_id": "src_a954d2e3bb2831f2",
+      "locator": "DOCX section sec-20",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_music-vi_21",
+      "claim_id": "clm_music_video_song_image_screen_visual_system_sec-21",
+      "source_id": "src_a954d2e3bb2831f2",
+      "locator": "DOCX section sec-21",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_music-vi_22",
+      "claim_id": "clm_music_video_song_image_screen_visual_system_sec-22",
+      "source_id": "src_a954d2e3bb2831f2",
+      "locator": "DOCX section sec-22",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_music-vi_23",
+      "claim_id": "clm_music_video_song_image_screen_visual_system_sec-23",
+      "source_id": "src_a954d2e3bb2831f2",
+      "locator": "DOCX section sec-23",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_music-vi_24",
+      "claim_id": "clm_music_video_song_image_screen_visual_system_sec-24",
+      "source_id": "src_a954d2e3bb2831f2",
+      "locator": "DOCX section sec-24",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_music-vi_25",
+      "claim_id": "clm_music_video_song_image_screen_visual_system_sec-25",
+      "source_id": "src_a954d2e3bb2831f2",
+      "locator": "DOCX section sec-25",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_music-vi_26",
+      "claim_id": "clm_music_video_song_image_screen_visual_system_sec-26",
+      "source_id": "src_a954d2e3bb2831f2",
+      "locator": "DOCX section sec-26",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_music-vi_27",
+      "claim_id": "clm_music_video_song_image_screen_visual_system_sec-27",
+      "source_id": "src_a954d2e3bb2831f2",
+      "locator": "DOCX section sec-27",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_music-vi_28",
+      "claim_id": "clm_music_video_song_image_screen_visual_system_sec-28",
+      "source_id": "src_a954d2e3bb2831f2",
+      "locator": "DOCX section sec-28",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_music-vi_29",
+      "claim_id": "clm_music_video_song_image_screen_visual_system_sec-29",
+      "source_id": "src_a954d2e3bb2831f2",
+      "locator": "DOCX section sec-29",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_music-vi_30",
+      "claim_id": "clm_music_video_song_image_screen_visual_system_sec-30",
+      "source_id": "src_a954d2e3bb2831f2",
+      "locator": "DOCX section sec-30",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "media_state": "needs_rights_review",
+  "workflow": {
+    "decision": "AUTO_APPROVE",
+    "note": "RU master and EN translation passed DOCX structure, source URL and section-citation checks on 2026-08-13; generated hero media remains rights-reviewed and disclosed.",
+    "converted_by": "VANSMITHLAB incoming article publication workflow",
+    "converted_at": "2026-08-13T00:00:00.000Z"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "asset_id": "asset_digital-image-production-cgi-3d-rendering-visual-system_hero_v1",
+  "primary_object_id": "obj_digital_image_production_20260813",
+  "kind": "image",
+  "origin": "ai_illustration",
+  "educational_purpose": "Original editorial illustration that explains the article's visual-system thesis; it is not documentary evidence.",
+  "must_not_imply": [
+    "A documentary photograph of a real event or interface",
+    "An image made by or endorsed by a named brand or artist"
+  ],
+  "rights": {
+    "status": "generated_reviewed",
+    "disclosure": "Original AI-generated editorial illustration for VANSMITHLAB; not documentary evidence.",
+    "rights_basis": "Generated in-session without reference images, logos or copied identifiable work.",
+    "third_party_marks": "None"
+  },
+  "accessibility": {
+    "alt_ru": "Производственная схема цифрового изображения: 3D-модель, материалы, свет и финальный рендер объединены в одну визуальную систему.",
+    "alt_en": "Digital image production as a system: 3D model, materials, light and final render arranged as one visual pipeline.",
+    "caption_ru": "Производственная схема цифрового изображения: 3D-модель, материалы, свет и финальный рендер объединены в одну визуальную систему.",
+    "caption_en": "Digital image production as a system: 3D model, materials, light and final render arranged as one visual pipeline."
+  },
+  "creator": "OpenAI image generation · directed and reviewed by VANSMITHLAB",
+  "created_at": "2026-08-13",
+  "asset_path": "public/images/articles/digital-image-production-cgi-3d-rendering-visual-system-hero-v1.webp",
+  "file": {
+    "path": "/images/articles/digital-image-production-cgi-3d-rendering-visual-system-hero-v1.webp",
+    "sha256": "ca64338035507b8d23306b36af2b8defea13f5c5bd4786f404072cb9c2aadf93",
+    "width": 1536,
+    "height": 1024
+  },
+  "generation_prompt_class": "Original fictional editorial visual for digital-image-production-cgi-3d-rendering-visual-system",
+  "rights_state": "original",
+  "licence_or_permission": "Original VANSMITHLAB AI editorial illustration; no third-party images, logos or trademarks.",
+  "source_url": "",
+  "creator_or_credit": "VANSMITHLAB editorial visual system",
+  "disclosure": "VANSMITHLAB · AI-иллюстрация, 2026"
+}

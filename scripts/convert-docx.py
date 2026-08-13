@@ -67,6 +67,7 @@ ALIAS = {
     "istoriya-modnogo-doma-christian-dior": "christian-dior-istoriya-modnogo-doma",
     "istoriya-modnogo-doma-louis-vuitton": "louis-vuitton-istoriya-modnogo-doma",
     "kak-religiya-povliyala-na-modu": "kak-religiya-povliyala-na-mir-mody",
+    "fashion-film-moving-fashion-image-visual-system": "why-fashion-stopped-trusting-photography",
 }
 
 MARKER = re.compile(r"^\[[^\]]*\]$")

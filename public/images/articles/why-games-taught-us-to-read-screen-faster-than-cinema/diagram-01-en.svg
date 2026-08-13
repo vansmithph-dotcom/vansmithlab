@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img">
+<rect width="1600" height="900" fill="#f2eee6"/>
+<defs><pattern id="grid" width="80" height="80" patternUnits="userSpaceOnUse"><path d="M80 0H0V80" fill="none" stroke="#ded7ca" stroke-width="1"/></pattern></defs>
+<rect x="40" y="40" width="1520" height="820" fill="url(#grid)" opacity=".46"/>
+<rect x="40" y="40" width="1520" height="820" rx="0" fill="none" stroke="#171716" stroke-width="2"/>
+<text x="78" y="96" fill="#c84a31" text-anchor="start" font-family="monospace" font-size="15" font-weight="500" letter-spacing="2">VANSMITHLAB / ANALYSIS / 01</text>
+<text x="78" y="170" fill="#171716" text-anchor="start" font-family="Georgia" font-size="48" font-weight="500" letter-spacing="0">SPACEWAR! AND PONG: RULE BECOMES VISIBLE</text>
+<line x1="78" y1="202" x2="1522" y2="202" stroke="#171716" stroke-width="2"/>
+<text x="78" y="824" fill="#777167" text-anchor="start" font-family="Arial" font-size="19" font-weight="400" letter-spacing="0">Form shows what can be done: the rule without text</text>
+<rect x="90" y="280" width="690" height="420" rx="0" fill="#171716" stroke="#171716" stroke-width="2"/>
+<rect x="820" y="280" width="690" height="420" rx="0" fill="#fbf8f1" stroke="#171716" stroke-width="2"/>
+<text x="435" y="350" fill="#f2eee6" text-anchor="middle" font-family="monospace" font-size="18" font-weight="700" letter-spacing="0">SPACEWAR! / PDP-1</text>
+<text x="1165" y="350" fill="#171716" text-anchor="middle" font-family="monospace" font-size="18" font-weight="700" letter-spacing="0">PONG / TWO PADDLES</text>
+<circle cx="435" cy="500" r="65" fill="none" stroke="#f2eee6" stroke-width="4"/>
+<path d="M420 540 L380 610 L490 610 Z" fill="#f2eee6" stroke="#f2eee6" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="1150" cy="560" r="26" fill="#c84a31" stroke="#c84a31" stroke-width="2"/>
+<line x1="940" y1="560" x2="1060" y2="560" stroke="#171716" stroke-width="6"/>
+<line x1="1240" y1="560" x2="1360" y2="560" stroke="#171716" stroke-width="6"/>
+</svg>

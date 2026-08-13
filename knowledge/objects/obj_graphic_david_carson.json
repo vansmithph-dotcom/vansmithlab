@@ -1,0 +1,999 @@
+{
+  "id": "obj_graphic_david_carson",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Дэвид Карсон",
+  "title_en": "David Carson",
+  "slug_ru": "david-carson-intuition-illegibility-editorial-design-as-experience",
+  "slug_en": "david-carson-intuition-illegibility-editorial-design-as-experience",
+  "summary_ru": "Интуиция, нечитаемость и редакционный дизайн как опыт",
+  "summary_en": "Intuition, illegibility and editorial design as experience",
+  "verification_state": "verified",
+  "confidence_score": 0.86,
+  "created_at": "2026-08-12T00:00:00.000Z",
+  "updated_at": "2026-08-12T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_dc_001",
+      "wording_ru": "Carson родился в Corpus Christi, Texas, но биографически важнее не точная координата рождения, а жизнь рядом с океаном и серф-культурой. Его собственные сайты и поздние интервью постоянно возвращают к воде, доске, дороге и наблюдению за случайными визуальными сигналами как к среде, в которой формировался взгляд.\nЭто важная отправная точка: его дизайн возник не внутри музейной или корпоративной традиции, а рядом с культурами, где скорость, риск, погода, музыка и локальный жаргон меняют правила быстрее, чем успевает появиться учебник.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.davidcarsondesign.com/t/2001/07/24/nine-inch-nails-the-fragile/",
+          "locator": "DOCX section sec-1",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.davidcarsondesign.com/2003/",
+          "locator": "DOCX section sec-1",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_dc_002",
+      "wording_ru": "До профессионального дизайна Carson изучал социология. TED до сих пор представляет его как социолог и сёрфер, ставший дизайнером, и эта деталь полезнее, чем романтический миф о «самоучке-гении».Социология не дала ему сетку или типографический канон, но дала привычку смотреть на аудиторию как на социальную группу. Поэтому позже Carson будет утверждать, что один и тот же визуальный язык не может одинаково работать для surf magazine, музыкального журнала, банка или технологической компании.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.davidcarsondesign.com/t/2001/07/24/nine-inch-nails-the-fragile/",
+          "locator": "DOCX section sec-2",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.davidcarsondesign.com/2003/",
+          "locator": "DOCX section sec-2",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_dc_003",
+      "wording_ru": "Carson вошёл в графический дизайн позднее большинства профессионалов своего поколения и не прошёл длинную академическую траекторию. AIGA Eye on Design описывает его как self-taught и resolutely grid-free, а сам Carson регулярно превращает отсутствие классической школы в часть метода: сначала смотреть, потом спрашивать, почему правило вообще существует.Аутсайдер-позиция здесь не означает отсутствие профессионализма. Она означает слабую привязанность к ритуалам профессии - полезное качество, когда дизайнер пытается заметить то, что для обученного глаза уже стало невидимой нормой.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.davidcarsondesign.com/t/2001/07/24/nine-inch-nails-the-fragile/",
+          "locator": "DOCX section sec-3",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.davidcarsondesign.com/2003/",
+          "locator": "DOCX section sec-3",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_dc_004",
+      "wording_ru": "Wired в 1993 году отмечал парадокс: дизайнер, ассоциирующийся с разрушением сетки, некоторое время учился в Швейцарии - символическом центре модернистской дисциплины.\nВ этом и возникает напряжение его зрелой работы. Carson не просто «не знает правил». Он сталкивается с идеей порядка и затем сознательно проверяет, когда этот порядок помогает сообщению, а когда превращает страницу в универсальный шаблон. Его анти-сетка работает убедительнее, если видеть за ней знание того, против чего она направлена.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.wired.com/1993/01/a-new-breed-of-designer/",
+          "locator": "DOCX section sec-4",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.davidcarsondesign.com/t/2001/07/24/nine-inch-nails-the-fragile/",
+          "locator": "DOCX section sec-4",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_dc_005",
+      "wording_ru": "Работа для Transworld Skateboarding стала ранней средой, где Carson мог соединять действие, фотографию, шум субкультуры и нестабильную типографику. AIGA позже будет упоминать Transworld рядом с Ray Gun как один из проектов, в которых сформировалась его репутация.\nSkateboarding требует другого ритма страницы, чем корпоративный annual report: изображение должно передавать движение, риск и телесность. Именно здесь становится понятна будущая логика Carson - макет не обязан быть нейтральной рамкой, если сама тема нейтральной не является.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.davidcarsondesign.com/t/2001/07/24/nine-inch-nails-the-fragile/",
+          "locator": "DOCX section sec-5",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.davidcarsondesign.com/2003/",
+          "locator": "DOCX section sec-5",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_dc_006",
+      "wording_ru": "Wired перечислял Surfer среди журналов, по которым к началу 1990-х уже можно было распознать Carson. В surf-печати фотография не просто подтверждает текст: она несёт момент, траекторию, погоду и масштаб.Carson использует это как редакционную структуру. Crop может быть агрессивнее, пустота - длиннее, подпись - почти потеряться, если так сохраняется чувство движения. Позже этот подход перейдёт в музыкальную прессу: фотография и типографика будут вести себя как две дорожки одной композиции.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.wired.com/1993/01/a-new-breed-of-designer/",
+          "locator": "DOCX section sec-6",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.davidcarsondesign.com/t/2001/07/24/nine-inch-nails-the-fragile/",
+          "locator": "DOCX section sec-6",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_dc_007",
+      "wording_ru": "Beach Culture просуществовал недолго, но для Carson стал пространством, где коммерческий журнал мог вести себя как авторская лаборатория. Его собственный архив подчёркивает роль этого издания в культуры сёрфинга и связывает его с последующим языком Ray Gun.Ценность Beach Culture не в том, что там уже присутствуют все будущие визуальные приёмы. Важнее другое: журнал доказал, что последовательность выпусков может строиться не на жёстком шаблоне, а на общей чувствительности - к фотографии, теме, материалу и характеру аудитории.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.davidcarsondesign.com/t/work/book/surf-culture/",
+          "locator": "DOCX section sec-7",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.davidcarsondesign.com/t/2001/07/24/nine-inch-nails-the-fragile/",
+          "locator": "DOCX section sec-7",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_dc_008",
+      "wording_ru": "Модернистская страница часто мыслится как ясная поверхность, где информация организована для быстрого чтения. Carson предлагает другую модель: страница может быть событием, через которое читатель проходит, а не прозрачным контейнером, который нужно перестать замечать.Wired точно описал этот эффект, называя его журналы почти объектами, которые приходится наклонять, рассматривать и физически «разгадывать». В такой системе трение перестаёт быть только ошибкой интерфейса и может стать частью смысла.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.wired.com/1993/01/a-new-breed-of-designer/",
+          "locator": "DOCX section sec-8",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.davidcarsondesign.com/t/2001/07/24/nine-inch-nails-the-fragile/",
+          "locator": "DOCX section sec-8",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_dc_009",
+      "wording_ru": "Ray Gun стартовал в 1992 году и дал Carson площадку, где музыка, фотография и типографика могли конфликтовать открыто. Vogue, вспоминая журнал через антологию 2019 года, подчёркивал именно его вызывающую визуальную сложность и влияние на поколение арт-директоров.Для альтернативной музыки ранних 1990-х «чистый» корпоративный макет был бы стилистически неверным. Carson строил журнал так, будто каждая полоса слышит конкретную группу: иногда шумно, иногда пусто, иногда почти нечитаемо.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.davidcarsondesign.com/t/2001/07/24/nine-inch-nails-the-fragile/",
+          "locator": "DOCX section sec-9",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.davidcarsondesign.com/2003/",
+          "locator": "DOCX section sec-9",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_dc_010",
+      "wording_ru": "Одна из самых полезных идей Carson - внешний стиль не должен переноситься с проекта на проект автоматически. В интервью 2019 года он прямо говорил, что ответственность дизайнера - представлять audience и subject matter, а не повторять фирменный визуальный почерк.\nЭто разрушает популярную карикатуру на Carson как автора одного grunge-style. Его настоящий принцип противоположен: если работа для golf magazine выглядит как Ray Gun, дизайнер, вероятно, подменил задачу собственной подписью.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.davidcarsondesign.com/t/2001/07/24/nine-inch-nails-the-fragile/",
+          "locator": "DOCX section sec-10",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.davidcarsondesign.com/2003/",
+          "locator": "DOCX section sec-10",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_dc_011",
+      "wording_ru": "В Carsonовских макетах текст может растягиваться, дробиться, уходить за край, менять масштаб и терять привычную линию чтения. Это породило репутацию дизайнера, который «отменил читаемость».\nНо точнее говорить иначе: он сделал legibility переменной, которой можно управлять. Заголовок может работать как звук, короткая фраза - как образ, длинный текст - требовать спокойного чтения. Проблема начинается не с нарушения нормы, а с отсутствия причины для этого нарушения.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.davidcarsondesign.com/t/2001/07/24/nine-inch-nails-the-fragile/",
+          "locator": "DOCX section sec-11",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.davidcarsondesign.com/2003/",
+          "locator": "DOCX section sec-11",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_dc_012",
+      "wording_ru": "Самый известный анекдот Ray Gun - интервью с Bryan Ferry, набранное Zapf Dingbats. Carson позже объяснял, что счёл материал скучным; история стала почти символом эпохи. AIGA Eye on Design и Vogue оба возвращаются к этому эпизоду.\nВажно не превращать его в универсальный рецепт. Dingbats здесь - редакционный жест, одновременно смешной и спорный. Он показывает предел власти арт-директора: дизайн может комментировать текст, но вместе с этим может лишить автора и читателя нормального доступа к нему.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.davidcarsondesign.com/t/2001/07/24/nine-inch-nails-the-fragile/",
+          "locator": "DOCX section sec-12",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.davidcarsondesign.com/2003/",
+          "locator": "DOCX section sec-12",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_dc_013",
+      "wording_ru": "Carson часто сам фотографирует и обращается с фотографией не как с готовым прямоугольником, а как с сырьём: кадр режется, размывается, увеличивается до зерна, сталкивается с типографика. Его официальный архив документирует дизайн и фотографию для Nine Inch Nails и других музыкальных проектов.Так исчезает граница между art direction и image-making. Фотография не «иллюстрирует статью» после того, как текст уже оформлен; она участвует в создании темпа, эмоционального давления и материала страницы.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.davidcarsondesign.com/t/2001/07/24/nine-inch-nails-the-fragile/",
+          "locator": "DOCX section sec-13",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.davidcarsondesign.com/t/2002/05/18/nin-all-that-could-have-been/",
+          "locator": "DOCX section sec-13",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_dc_014",
+      "wording_ru": "Wired рано заметил технологический парадокс Carson: Macintosh, сканеры и Photoshop позволили производить визуальность, которая выглядела грязной, физической и почти антицифровой.Это важная глава истории настольной издательской системы. Компьютер не обязан вести к идеальной геометрии. Carson использует отмена, искажение, артефакты сканирования и многослойный шрифт как новые материалы. Но позднее он будет критиковать саму зависимость от предустановок программного обеспечения: инструмент освобождает только пока дизайнер не начинает мыслить его меню и шаблонами.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.wired.com/1993/01/a-new-breed-of-designer/",
+          "locator": "DOCX section sec-14",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.davidcarsondesign.com/t/2001/07/24/nine-inch-nails-the-fragile/",
+          "locator": "DOCX section sec-14",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_dc_015",
+      "wording_ru": "Carson обычно называют anti-grid designer, но его сильные страницы не являются случайным хаосом. В них есть локальная структура: доминирующий образ, направление движения, напряжение масштаба, повтор, визуальная пауза.\nИменно поэтому его работа плохо копируется простым набором эффектов. Отсутствие модульной сетки не означает отсутствия решений. Это переход от заранее заданной системы к системе, которая каждый раз собирается из конкретного материала.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.davidcarsondesign.com/t/2001/07/24/nine-inch-nails-the-fragile/",
+          "locator": "DOCX section sec-15",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.davidcarsondesign.com/2003/",
+          "locator": "DOCX section sec-15",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_dc_016",
+      "wording_ru": "Термин «grunge типографика» удобен для исторического каталога: он быстро связывает Carson с грубую текстуру, состаренный шрифт и культурой 1990-х. Но как объяснение метода он слишком узок.AIGA описывает его вклад шире - как расширение возможностей типографики и editorial layout. Если свести Carson к грязным шрифтам, исчезнут фотография, pacing, audience, юмор, пустота и способность менять визуальный голос между проектами.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.davidcarsondesign.com/t/2001/07/24/nine-inch-nails-the-fragile/",
+          "locator": "DOCX section sec-16",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.davidcarsondesign.com/2003/",
+          "locator": "DOCX section sec-16",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_dc_017",
+      "wording_ru": "В 1993 году журнал Emigre посвятил Carson выпуск; экземпляр Emigre 27 находится в коллекции MoMA. Это важный момент: ещё работающий журнальный арт-директор становится не только практиком, но и объектом профессионального обсуждения.Так бунт быстро входит в историю дизайна. То, что выглядело как локальный язык surf и культуры альтернативной музыки, начинает преподаваться, спориться, коллекционироваться и превращаться в новую норму.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.moma.org/collection/works/112325",
+          "locator": "DOCX section sec-17",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.davidcarsondesign.com/t/2001/07/24/nine-inch-nails-the-fragile/",
+          "locator": "DOCX section sec-17",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_dc_018",
+      "wording_ru": "Главная критика Carson справедлива: выразительность может начать конкурировать с информацией. Если читатель не может получить доступ к тексту, вопрос «зато красиво ли это?» недостаточен.\nCarsonовская практика интересна именно потому, что делает этот конфликт видимым. Она заставляет различать два случая: намеренное трение, которое усиливает тему, и декоративную сложность, которая просто демонстрирует присутствие дизайнера.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.davidcarsondesign.com/t/2001/07/24/nine-inch-nails-the-fragile/",
+          "locator": "DOCX section sec-18",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.davidcarsondesign.com/2003/",
+          "locator": "DOCX section sec-18",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_dc_019",
+      "wording_ru": "После Ray Gun визуальные признаки Carson быстро стали воспроизводимым набором: состаренный шрифт, случайные повороты, перекрытия, размытые фотографии, мнимая хаотичность. Но имитация формы без редакционной причины превращает радикальный язык в клише.Eye on Design отмечает, насколько широко Carson повлиял на дизайнеров, работающих с зины, музыка и менее строгой эстетикой. Именно поэтому его наследие нужно читать не как набор стилевых приёмов, а как вопрос: что в конкретном содержании требует конкретного нарушения?",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.davidcarsondesign.com/t/2001/07/24/nine-inch-nails-the-fragile/",
+          "locator": "DOCX section sec-19",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.davidcarsondesign.com/2003/",
+          "locator": "DOCX section sec-19",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_dc_020",
+      "wording_ru": "В 1995 году вышла The End of Print: The Graphic Design of David Carson, книга Lewis Blackwell с участием Carson и вступлением David Byrne; библиотечная запись Yale фиксирует первое издание именно этим годом.Название звучало как провокация на фоне настольной издательской системы, но книга не объявляла буквальную смерть бумаги. Скорее она зафиксировала момент, когда печать перестала быть единственным носителем порядка и могла свободнее впитывать логику экранов, сканеров, музыкального видео и цифрового монтажа.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://collections.britishart.yale.edu/catalog/alma%3A9939245693408651",
+          "locator": "DOCX section sec-20",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.davidcarsondesign.com/t/2001/07/24/nine-inch-nails-the-fragile/",
+          "locator": "DOCX section sec-20",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_dc_021",
+      "wording_ru": "После журнального периода Carson расширил практику в сторону branding, advertising, музыка, packaging и digital. Его официальный client archive перечисляет Nike, Microsoft, MTV, Armani, Levi's, Sony, AT&T и множество других заказчиков.Здесь проходит важный тест. Экспериментальная репутация должна работать не только в независимом журнале, но и внутри задачи клиента. Лучшие коммерческие работы Carson сохраняют эмоциональный голос, но меняют степень шума, плотность и читаемость в зависимости от контекста.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.davidcarsondesign.com/t/about/",
+          "locator": "DOCX section sec-21",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.davidcarsondesign.com/2003/",
+          "locator": "DOCX section sec-21",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_dc_022",
+      "wording_ru": "В проектах для Nine Inch Nails Carson одновременно работает с design и фотография. Его архив фиксирует оформление и фотографии для The Fragile, а также визуальную и навигационную работу вокруг All That Could Have Been.Это показательный переход от страницы к музыкальному объекту и экранному меню. Тот же принцип - изображение и type как единая атмосфера - начинает работать на упаковке, диске, видео и интерфейсе.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.davidcarsondesign.com/t/2001/07/24/nine-inch-nails-the-fragile/",
+          "locator": "DOCX section sec-22",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.davidcarsondesign.com/t/2002/05/18/nin-all-that-could-have-been/",
+          "locator": "DOCX section sec-22",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_dc_023",
+      "wording_ru": "Один из ранних интернет-проектов Carson был связан с MGM: собственный архив описывает графико-типографический редизайн сайта и работу над улучшением функциональности.Веб обнажает пределы редакционной свободы. Печатный разворот может заставить читателя остановиться; навигация, которая скрывает основное действие, может просто сломать сервис. Поэтому цифровая глава Carson полезна как граница между выразительная коммуникация и удобство использования.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.davidcarsondesign.com/t/2001/07/24/nine-inch-nails-the-fragile/",
+          "locator": "DOCX section sec-23",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.davidcarsondesign.com/2003/",
+          "locator": "DOCX section sec-23",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_dc_024",
+      "wording_ru": "The Book of Probes, созданная вокруг идей Marshall McLuhan, вышла в 2003 году. Архив Carson описывает его как арт-директор и дизайнер проекта, где цитаты, фотографии и типографика строят нелинейный маршрут чтения.Связь закономерна: McLuhan исследовал, как медиа меняет сообщение, а Carson делает это физически на странице. Читатель получает не только содержание афоризма, но и его визуальное сопротивление, паузу, масштаб и соседство с изображением.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.davidcarsondesign.com/2003/",
+          "locator": "DOCX section sec-24",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.davidcarsondesign.com/t/2003/10/21/the-book-of-probes/",
+          "locator": "DOCX section sec-24",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_dc_025",
+      "wording_ru": "На TED2003 Carson выступил с лекцией Design and discovery. TED формулирует её как разговор социолог и сёрфер, ставший дизайнером о работе, найденных изображениях и юморе.Здесь особенно ясно виден его метод внимания. Источник идеи может быть не в мудборде или отчёте о трендах, а в вывеске, ошибке печати, обрывке бумаги или нелепой городской типографике. Discovery для Carson - не этап перед дизайном; это сама практика постоянного наблюдения.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.ted.com/talks/david_carson_design_and_discovery",
+          "locator": "DOCX section sec-25",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.davidcarsondesign.com/t/2001/07/24/nine-inch-nails-the-fragile/",
+          "locator": "DOCX section sec-25",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_dc_026",
+      "wording_ru": "В 2014 году Carson получил AIGA Medal - одну из главных профессиональных наград американского графического дизайна. TED, сообщая о Centennial Medalists, включал его среди лауреатов того года.Институционализация здесь не отменяет ранний конфликт с правилами. Наоборот, она показывает, как быстро экспериментальная периферия может стать частью канона. Задача VANSMITHLAB - не превращать этот канон обратно в культ личности, а сохранить причины, условия и споры вокруг работы.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://blog.ted.com/ted-news-in-brief-2-21-2014/",
+          "locator": "DOCX section sec-26",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.davidcarsondesign.com/t/2001/07/24/nine-inch-nails-the-fragile/",
+          "locator": "DOCX section sec-26",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_dc_027",
+      "wording_ru": "В 2019 году Carson выпустил nuколлаж.001 - большой сборник недавних коллажных работ. AIGA Eye on Design отмечал возвращение к найденным фрагментам, бумаге и физической сборке после десятилетий цифровой практики.Это не ностальгия по доцифровому дизайну. Коллаж подтверждает постоянный интерес Carson к случайному столкновению материалов: разница лишь в том, происходит ли оно на столе, в Photoshop или внутри макета.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.davidcarsondesign.com/t/2001/07/24/nine-inch-nails-the-fragile/",
+          "locator": "DOCX section sec-27",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.davidcarsondesign.com/2003/",
+          "locator": "DOCX section sec-27",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_dc_028",
+      "wording_ru": "Серфинг часто превращают в красивую биографическую метафору Carson, но его полезнее читать как рабочую дисциплину. Волна не повторяется точно; решение нужно принимать внутри движущейся ситуации.\nAIGA-фильм о Carson сознательно связывает его design practice и жизнь вокруг surf. Для дизайнера отсюда можно извлечь не романтику, а метод: смотреть дольше, реагировать точнее, не пытаться контролировать весь материал заранее.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.davidcarsondesign.com/t/2001/07/24/nine-inch-nails-the-fragile/",
+          "locator": "DOCX section sec-28",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.davidcarsondesign.com/2003/",
+          "locator": "DOCX section sec-28",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_dc_029",
+      "wording_ru": "В эпоху шаблонов, генеративных систем и AI Carson легко копируется на уровне поверхности: состаренный шрифт, коллаж, skew, шум. Именно поэтому копировать его сегодня особенно бессмысленно.Унаследовать можно другое: контекстное суждение, готовность разрушить значение по умолчанию, внимание к найденному материалу и способность отличить живое нарушение от автоматического эффекта. AI может быстро сгенерировать «Carson-like» texture, но не решит за арт-директора, зачем конкретной аудитории нужно именно это трение.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.davidcarsondesign.com/t/2001/07/24/nine-inch-nails-the-fragile/",
+          "locator": "DOCX section sec-29",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.davidcarsondesign.com/2003/",
+          "locator": "DOCX section sec-29",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_dc_030",
+      "wording_ru": "Главное наследие Дэвид Карсон - не разрешение делать текст нечитаемым. Он расширил представление о том, что графический дизайн может передавать не только информацию, но и тембр, напряжение, скорость, иронию и культурную принадлежность.Его сильнейший урок парадоксален: чтобы нарушать правила убедительно, нужно быть внимательнее к содержанию, а не свободнее от него. Дизайн становится языком тогда, когда форма не накладывается сверху, а рождается из того, что нужно почувствовать и понять.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.ted.com/speakers/david_carson",
+          "locator": "DOCX section sec-30",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_b9466d5080ec1f53",
+      "title": "About David Carson",
+      "url": "https://www.davidcarsonstudio.com/about",
+      "publisher": "David Carson Studio",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_74b1a936b90d0127",
+      "title": "David Carson Design — About / client archive",
+      "url": "https://www.davidcarsondesign.com/t/about/",
+      "publisher": "David Carson Design",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_dbdb87ff9e4f9471",
+      "title": "Anti-grid Design Icon David Carson Says Computers Make You Lazy + Indie Magazines Needs to Liven Up",
+      "url": "https://eyeondesign.aiga.org/anti-grid-icon-david-carson-on-why-computers-make-you-lazy-and-indie-mag-design-needs-to-liven-up/",
+      "publisher": "AIGA Eye on Design",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_0907037368dd7e4c",
+      "title": "A New Breed Of Designer",
+      "url": "https://www.wired.com/1993/01/a-new-breed-of-designer/",
+      "publisher": "WIRED",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_af8177c11391cecb",
+      "title": "What Happens When a Famous Designer Goes Wayyy Off the Grid",
+      "url": "https://eyeondesign.aiga.org/what-happens-when-a-famous-designer-goes-wayyy-off-the-grid/",
+      "publisher": "AIGA Eye on Design",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_79a8056ddc81ef76",
+      "title": "Emigre 27, David Carson, 1993",
+      "url": "https://www.moma.org/collection/works/112325",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_d18130d34d549c08",
+      "title": "The End of Print: The Graphic Design of David Carson, 1995",
+      "url": "https://collections.britishart.yale.edu/catalog/alma%3A9939245693408651",
+      "publisher": "Yale Center for British Art Collections Search",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_c4aca4545a251779",
+      "title": "The End of Print / David Carson bibliography",
+      "url": "https://library.cca.edu/cgi-bin/koha/opac-detail.pl?biblionumber=31207",
+      "publisher": "California College of the Arts Libraries",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_b2355a94662f2a23",
+      "title": "David Carson: Design and discovery",
+      "url": "https://www.ted.com/talks/david_carson_design_and_discovery",
+      "publisher": "TED",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_ef28acede641011e",
+      "title": "David Carson — Speaker profile",
+      "url": "https://www.ted.com/speakers/david_carson",
+      "publisher": "TED",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_e63d094ba91a177d",
+      "title": "TED News in Brief: AIGA Centennial Medalists",
+      "url": "https://blog.ted.com/ted-news-in-brief-2-21-2014/",
+      "publisher": "TED Blog",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_ac731945e4181c52",
+      "title": "Ray Gun, the Magazine That Defined the Alt '90s, Lives Again",
+      "url": "https://www.vogue.com/article/ray-gun-magazine-anthology",
+      "publisher": "Vogue",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_afb63be71852d4c3",
+      "title": "How Cranbrook's Design Program Redefined How We Make and Talk About Graphic Design",
+      "url": "https://eyeondesign.aiga.org/how-cranbrooks-design-program-redefined-how-we-make-and-talk-about-graphic-design/",
+      "publisher": "AIGA Eye on Design",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_572604019b9aeadc",
+      "title": "Surf Culture",
+      "url": "https://www.davidcarsondesign.com/t/work/book/surf-culture/",
+      "publisher": "David Carson Design",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_119679d36520b6cd",
+      "title": "Nine Inch Nails — The Fragile",
+      "url": "https://www.davidcarsondesign.com/t/2001/07/24/nine-inch-nails-the-fragile/",
+      "publisher": "David Carson Design",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_e88bada084f8846e",
+      "title": "Nine Inch Nails — All That Could Have Been",
+      "url": "https://www.davidcarsondesign.com/t/2002/05/18/nin-all-that-could-have-been/",
+      "publisher": "David Carson Design",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_36247384a689bfa3",
+      "title": "The Book of Probes",
+      "url": "https://www.davidcarsondesign.com/t/2003/10/21/the-book-of-probes/",
+      "publisher": "David Carson Design",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_1328e6b94b6b4cdc",
+      "title": "Trek and The Book of Probes — 2003 archive",
+      "url": "https://www.davidcarsondesign.com/2003/",
+      "publisher": "David Carson Design",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_639a85645f3e56e0",
+      "title": "No. 240: David Carson's Collages",
+      "url": "https://eyeondesign.aiga.org/no-240-david-carsons-collages-dr-mes-rejected-designs-speculative-video-game-branding-more/",
+      "publisher": "AIGA Eye on Design",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_e59289f6f53bc624",
+      "title": "Design Disruptors: Rebels & Renegades — David Carson",
+      "url": "https://losangeles.aiga.org/event/design-disruptors-rebels-renegades/",
+      "publisher": "AIGA Los Angeles",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_david_carson_01",
+      "claim_id": "clm_dc_001",
+      "source_id": "src_119679d36520b6cd",
+      "locator": "DOCX section sec-1",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_david_carson_02",
+      "claim_id": "clm_dc_002",
+      "source_id": "src_119679d36520b6cd",
+      "locator": "DOCX section sec-2",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_david_carson_03",
+      "claim_id": "clm_dc_003",
+      "source_id": "src_119679d36520b6cd",
+      "locator": "DOCX section sec-3",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_david_carson_04",
+      "claim_id": "clm_dc_004",
+      "source_id": "src_0907037368dd7e4c",
+      "locator": "DOCX section sec-4",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_david_carson_05",
+      "claim_id": "clm_dc_005",
+      "source_id": "src_119679d36520b6cd",
+      "locator": "DOCX section sec-5",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_david_carson_06",
+      "claim_id": "clm_dc_006",
+      "source_id": "src_0907037368dd7e4c",
+      "locator": "DOCX section sec-6",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_david_carson_07",
+      "claim_id": "clm_dc_007",
+      "source_id": "src_572604019b9aeadc",
+      "locator": "DOCX section sec-7",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_david_carson_08",
+      "claim_id": "clm_dc_008",
+      "source_id": "src_0907037368dd7e4c",
+      "locator": "DOCX section sec-8",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_david_carson_09",
+      "claim_id": "clm_dc_009",
+      "source_id": "src_119679d36520b6cd",
+      "locator": "DOCX section sec-9",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_david_carson_10",
+      "claim_id": "clm_dc_010",
+      "source_id": "src_119679d36520b6cd",
+      "locator": "DOCX section sec-10",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_david_carson_11",
+      "claim_id": "clm_dc_011",
+      "source_id": "src_119679d36520b6cd",
+      "locator": "DOCX section sec-11",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_david_carson_12",
+      "claim_id": "clm_dc_012",
+      "source_id": "src_119679d36520b6cd",
+      "locator": "DOCX section sec-12",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_david_carson_13",
+      "claim_id": "clm_dc_013",
+      "source_id": "src_119679d36520b6cd",
+      "locator": "DOCX section sec-13",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_david_carson_14",
+      "claim_id": "clm_dc_014",
+      "source_id": "src_0907037368dd7e4c",
+      "locator": "DOCX section sec-14",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_david_carson_15",
+      "claim_id": "clm_dc_015",
+      "source_id": "src_119679d36520b6cd",
+      "locator": "DOCX section sec-15",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_david_carson_16",
+      "claim_id": "clm_dc_016",
+      "source_id": "src_119679d36520b6cd",
+      "locator": "DOCX section sec-16",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_david_carson_17",
+      "claim_id": "clm_dc_017",
+      "source_id": "src_79a8056ddc81ef76",
+      "locator": "DOCX section sec-17",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_david_carson_18",
+      "claim_id": "clm_dc_018",
+      "source_id": "src_119679d36520b6cd",
+      "locator": "DOCX section sec-18",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_david_carson_19",
+      "claim_id": "clm_dc_019",
+      "source_id": "src_119679d36520b6cd",
+      "locator": "DOCX section sec-19",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_david_carson_20",
+      "claim_id": "clm_dc_020",
+      "source_id": "src_d18130d34d549c08",
+      "locator": "DOCX section sec-20",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_david_carson_21",
+      "claim_id": "clm_dc_021",
+      "source_id": "src_74b1a936b90d0127",
+      "locator": "DOCX section sec-21",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_david_carson_22",
+      "claim_id": "clm_dc_022",
+      "source_id": "src_119679d36520b6cd",
+      "locator": "DOCX section sec-22",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_david_carson_23",
+      "claim_id": "clm_dc_023",
+      "source_id": "src_119679d36520b6cd",
+      "locator": "DOCX section sec-23",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_david_carson_24",
+      "claim_id": "clm_dc_024",
+      "source_id": "src_1328e6b94b6b4cdc",
+      "locator": "DOCX section sec-24",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_david_carson_25",
+      "claim_id": "clm_dc_025",
+      "source_id": "src_b2355a94662f2a23",
+      "locator": "DOCX section sec-25",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_david_carson_26",
+      "claim_id": "clm_dc_026",
+      "source_id": "src_e63d094ba91a177d",
+      "locator": "DOCX section sec-26",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_david_carson_27",
+      "claim_id": "clm_dc_027",
+      "source_id": "src_119679d36520b6cd",
+      "locator": "DOCX section sec-27",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_david_carson_28",
+      "claim_id": "clm_dc_028",
+      "source_id": "src_119679d36520b6cd",
+      "locator": "DOCX section sec-28",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_david_carson_29",
+      "claim_id": "clm_dc_029",
+      "source_id": "src_119679d36520b6cd",
+      "locator": "DOCX section sec-29",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_david_carson_30",
+      "claim_id": "clm_dc_030",
+      "source_id": "src_ef28acede641011e",
+      "locator": "DOCX section sec-30",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "media_state": "media_ready",
+  "workflow": {
+    "decision": "AUTO_APPROVE",
+    "note": "RU/EN pair passed OS structure, source, taxonomy, localization and media-rights checks on 2026-08-12.",
+    "converted_by": "VANSMITHLAB incoming article publication workflow",
+    "converted_at": "2026-08-12T00:00:00.000Z",
+    "media_reviewed_at": "2026-08-12",
+    "media_note": "Original AI editorial illustration generated for VANSMITHLAB; not documentary evidence and not a copied archival photograph."
+  }
+}

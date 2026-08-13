@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img">
+<rect width="1600" height="900" fill="#f2eee6"/>
+<defs><pattern id="grid" width="80" height="80" patternUnits="userSpaceOnUse"><path d="M80 0H0V80" fill="none" stroke="#ded7ca" stroke-width="1"/></pattern></defs>
+<rect x="40" y="40" width="1520" height="820" fill="url(#grid)" opacity=".46"/>
+<rect x="40" y="40" width="1520" height="820" rx="0" fill="none" stroke="#171716" stroke-width="2"/>
+<text x="78" y="96" fill="#c84a31" text-anchor="start" font-family="monospace" font-size="15" font-weight="500" letter-spacing="2">VANSMITHLAB / ANALYSIS / 05</text>
+<text x="78" y="170" fill="#171716" text-anchor="start" font-family="Georgia" font-size="48" font-weight="500" letter-spacing="0">WOMEN’S TALES: THE BRAND AS A SERIES</text>
+<line x1="78" y1="202" x2="1522" y2="202" stroke="#171716" stroke-width="2"/>
+<text x="78" y="824" fill="#777167" text-anchor="start" font-family="Arial" font-size="19" font-weight="400" letter-spacing="0">A recurring frame accumulates directorial voices, heroines and screen memory</text>
+<line x1="140" y1="500" x2="1460" y2="500" stroke="#171716" stroke-width="3"/>
+<line x1="180" y1="500" x2="180" y2="430" stroke="#c8c0b3" stroke-width="2"/>
+<circle cx="180" cy="500" r="12" fill="#c84a31" stroke="#c84a31" stroke-width="2"/>
+<rect x="75" y="270" width="210" height="120" rx="0" fill="#fbf8f1" stroke="#171716" stroke-width="2"/>
+<text x="180" y="335" fill="#171716" text-anchor="middle" font-family="monospace" font-size="17" font-weight="700" letter-spacing="0">FILM 01</text>
+<text x="180" y="368" fill="#777167" text-anchor="middle" font-family="monospace" font-size="14" font-weight="500" letter-spacing="0">01 / ∞</text>
+<line x1="490" y1="500" x2="490" y2="560" stroke="#c8c0b3" stroke-width="2"/>
+<circle cx="490" cy="500" r="12" fill="#c84a31" stroke="#c84a31" stroke-width="2"/>
+<rect x="385" y="520" width="210" height="120" rx="0" fill="#fbf8f1" stroke="#171716" stroke-width="2"/>
+<text x="490" y="585" fill="#171716" text-anchor="middle" font-family="monospace" font-size="17" font-weight="700" letter-spacing="0">FILM 02</text>
+<text x="490" y="618" fill="#777167" text-anchor="middle" font-family="monospace" font-size="14" font-weight="500" letter-spacing="0">02 / ∞</text>
+<line x1="800" y1="500" x2="800" y2="430" stroke="#c8c0b3" stroke-width="2"/>
+<circle cx="800" cy="500" r="12" fill="#c84a31" stroke="#c84a31" stroke-width="2"/>
+<rect x="695" y="270" width="210" height="120" rx="0" fill="#fbf8f1" stroke="#171716" stroke-width="2"/>
+<text x="800" y="335" fill="#171716" text-anchor="middle" font-family="monospace" font-size="17" font-weight="700" letter-spacing="0">FILM 03</text>
+<text x="800" y="368" fill="#777167" text-anchor="middle" font-family="monospace" font-size="14" font-weight="500" letter-spacing="0">03 / ∞</text>
+<line x1="1110" y1="500" x2="1110" y2="560" stroke="#c8c0b3" stroke-width="2"/>
+<circle cx="1110" cy="500" r="12" fill="#c84a31" stroke="#c84a31" stroke-width="2"/>
+<rect x="1005" y="520" width="210" height="120" rx="0" fill="#fbf8f1" stroke="#171716" stroke-width="2"/>
+<text x="1110" y="585" fill="#171716" text-anchor="middle" font-family="monospace" font-size="17" font-weight="700" letter-spacing="0">FILM 04</text>
+<text x="1110" y="618" fill="#777167" text-anchor="middle" font-family="monospace" font-size="14" font-weight="500" letter-spacing="0">04 / ∞</text>
+<line x1="1420" y1="500" x2="1420" y2="430" stroke="#c8c0b3" stroke-width="2"/>
+<circle cx="1420" cy="500" r="12" fill="#c84a31" stroke="#c84a31" stroke-width="2"/>
+<rect x="1315" y="270" width="210" height="120" rx="0" fill="#ead3ca" stroke="#171716" stroke-width="2"/>
+<text x="1420" y="335" fill="#171716" text-anchor="middle" font-family="monospace" font-size="17" font-weight="700" letter-spacing="0">FILM 05</text>
+<text x="1420" y="368" fill="#777167" text-anchor="middle" font-family="monospace" font-size="14" font-weight="500" letter-spacing="0">05 / ∞</text>
+<path d="M180 745 C500 680 820 790 1110 705 S1370 700 1420 675" fill="none" stroke="#284e78" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

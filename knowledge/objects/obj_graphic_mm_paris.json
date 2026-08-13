@@ -1,0 +1,861 @@
+{
+  "id": "obj_graphic_mm_paris",
+  "type": "organization",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "M/M (Paris): знаки, сотрудничество и расширенное поле графического дизайна",
+  "slug_ru": "mm-paris-signs-collaboration-expanded-graphic-design",
+  "slug_en": "mm-paris-signs-collaboration-expanded-graphic-design",
+  "summary_ru": "Знаки, сотрудничество и расширенное поле графического дизайна",
+  "verification_state": "verified",
+  "confidence_score": 0.86,
+  "created_at": "2026-08-12T00:00:00.000Z",
+  "updated_at": "2026-08-12T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_mm_001",
+      "wording_ru": "M/M (Paris) был основан в Париже в 1992 году Michaël Amzalag и Mathias Augustyniak. И официальный сайт студии, и Centre Pompidou фиксируют эту дату как начало общей практики. Важен сам формат дуэта. История graphic design часто любит один узнаваемый почерк и одного автора, но M/M строят практику на разговоре между двумя людьми и затем расширяют этот разговор на клиента, фотографа, музыканта, художника или институцию. Авторство с самого начала становится отношением, а не одиночной подписью.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.mmparis.com/",
+          "locator": "DOCX section sec-1",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.centrepompidou.fr/en/ressources/personne/cT6544",
+          "locator": "DOCX section sec-1",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_mm_002",
+      "wording_ru": "Augustyniak родился в 1967 году и учился в Royal College of Art в Лондоне; Amzalag, родившийся в 1968-м, учился в École Nationale Supérieure des Arts Décoratifs в Париже. Эти биографические линии подтверждаются Centre Pompidou и Air de Paris. Разные школы полезны не как психологическое объяснение «кто за что отвечает». Их зрелая практика не делится на одну половину рисунка и другую половину стратегии. Скорее различие поддерживает постоянную внутреннюю редактуру: решение должно выдержать как минимум два сильных взгляда ещё до встречи с внешним заказчиком.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.centrepompidou.fr/en/ressources/personne/cT6544",
+          "locator": "DOCX section sec-2",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_mm_003",
+      "wording_ru": "Centre Pompidou в материале 2000 года отмечал, что M/M начали с музыкальной индустрии, а затем быстро расширили поле в fashion и contemporary art. Музыка особенно подходит для такого старта: звук невидим, а значит дизайнеру приходится создавать не «оформление продукта», а систему ожиданий вокруг него — обложку, типографику, персонажей, фотографию, упаковку, иногда видео и сцену. Уже здесь появляется будущая логика M/M: один проект должен иметь способность жить в нескольких медиумах.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.centrepompidou.fr/en/program/calendar/event/cLeoKd",
+          "locator": "DOCX section sec-3",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_mm_004",
+      "wording_ru": "Air de Paris описывает M/M как image thinkers and practitioners, а официальный сайт говорит об agency, развивающем communication, branding, image, design и spatial strategies. Это помогает точнее понять их профессию. Graphic design остаётся отправной точкой, но не конечной границей. Для M/M знак может стать плакатом, буквами, мебелью, выставочным модулем, book object или интерфейсом. Расширение медиума не означает отказ от графики; наоборот, графическое мышление переносится в пространство и поведение.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.airdeparis.com/artists/mm/",
+          "locator": "DOCX section sec-4",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_mm_005",
+      "wording_ru": "V&A фиксирует, что M/M арт-директировали каталоги Yohji Yamamoto в 1996–2000 годах. В музейном материале дуэт вспоминает необычную свободу: решения создавались самостоятельно и показывались дизайнеру уже в завершённом виде. Такое доверие важно для creative direction. Заказчик не исчезает, но не управляет каждым пикселем. Каталог становится интерпретацией коллекции, а не сервисным приложением к ней. Это одна из причин, почему M/M удаётся создавать с fashion designers полноценные визуальные миры, а не только сезонную рекламу.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vam.ac.uk/blog/yohji-yamamoto-va/blogyohji-yamamoto-va-2010-11timeline",
+          "locator": "DOCX section sec-5",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_mm_006",
+      "wording_ru": "M/M десятилетиями работают рядом с ведущими fashion photographers — Air de Paris перечисляет Craig McDean, Inez & Vinoodh, Juergen Teller, Paolo Roversi, Steven Meisel, Viviane Sassen и других. В их системе фотография не приходит в layout как окончательно закрытое произведение. Текст, рисунок, рамка, crop, персонаж и буква могут вмешиваться в изображение и менять способ его чтения. Но сильная работа требует точной атрибуции: дизайнер не «создаёт» фотографию, а строит второй уровень смысла вокруг самостоятельного авторства снимка.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.airdeparis.com/artists/mm/",
+          "locator": "DOCX section sec-6",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_mm_007",
+      "wording_ru": "Thames & Hudson перечисляет среди fashion collaborations M/M Alexander McQueen, Balenciaga, Louis Vuitton, Miuccia Prada, Jonathan Anderson, Nicolas Ghesquière и Yohji Yamamoto; Air de Paris добавляет Loewe, Givenchy, Jil Sander и другие дома. Такой диапазон показывает, почему невозможно определить M/M одним готовым style preset. У каждого бренда другая история и другой уровень визуальной власти. Задача студии — строить отношения между существующим кодом и новым знаком, а не накладывать поверх всех клиентов один и тот же эффект.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.thamesandhudson.com/products/m-to-m-of-m-m-paris-vol-2",
+          "locator": "DOCX section sec-7",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_mm_008",
+      "wording_ru": "Björk — один из самых длительных музыкальных диалогов M/M. Официальный архив студии хранит Björk as a Book, Hidden Place, Biophilia и другие проекты, а MoMA называет M/M её давними design collaborators. Такое сотрудничество отличается от «сделать обложку к альбому». Образ певицы, шрифт, digital interface, печатный объект и сценическая среда могут развиваться на протяжении многих лет. В результате дизайнер работает не только с релизом, а с продолжающейся мифологией артиста.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.mmparis.com/",
+          "locator": "DOCX section sec-8",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_mm_009",
+      "wording_ru": "В 2011 году Biophilia объединила album, interactive application, игры, визуализации и музыкальное взаимодействие. MoMA указывает Mathias Augustyniak и Michaël Amzalag среди создателей проекта и отдельно отмечает, что «mother app» — галактика, связывающая песни, — была задумана Björk вместе с M/M. Для graphic design это важный исторический переход. Идентичность уже нельзя описать только обложкой и шрифтом. Она становится интерфейсом, маршрутом пользователя и логикой переходов между частями произведения.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.moma.org/collection/works/179295",
+          "locator": "DOCX section sec-9",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.moma.org/explore/inside_out/2014/06/11/biophilia-the-first-app-in-momas-collection/",
+          "locator": "DOCX section sec-9",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_mm_010",
+      "wording_ru": "На 55-й церемонии Grammy в 2013 году Michael Amzalag и Mathias Augustyniak получили Best Recording Package за Biophilia. Официальный архив Grammy фиксирует обоих поимённо. Награда важна не как доказательство «лучшего дизайна», а как признание того, что упаковка и визуальная система музыкального релиза являются самостоятельным уровнем авторства. В случае Biophilia это особенно показательно: physical package существовал рядом с app, sound и performance, а не вместо них.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.grammy.com/awards/55th-annual-grammy-awards/",
+          "locator": "DOCX section sec-10",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_mm_011",
+      "wording_ru": "Серия Art Posters началась в 1999 году и продолжалась десятилетиями; Air de Paris в 2023 году указывал уже более 80 плакатов. Каждый плакат связан с конкретным artist, exhibition, film или cultural object, но серия вводит повторяемые правила — индустриальная шелкография, городской advertising format, собственные типографические и персонажные системы. Заказ становится одновременно коммуникацией и частью автономного художественного архива M/M.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.airdeparis.com/artists/mm/",
+          "locator": "DOCX section sec-11",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_mm_012",
+      "wording_ru": "Walker Art Center хранит M/M poster как часть No Ghost Just a Shell — проекта Pierre Huyghe и Philippe Parreno вокруг персонажа Annlee. Этот случай особенно ясно показывает расширенное поле дизайна. Плакат не рекламирует произведение снаружи; он существует внутри самого художественного проекта и помогает формировать идентичность персонажа, чьё авторство изначально задумано как коллективное и передаваемое.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.walkerart.org/reader/gd-nip-11-no-ghost-just-a-shell/",
+          "locator": "DOCX section sec-12",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_mm_013",
+      "wording_ru": "Air de Paris и Centre Pompidou связывают M/M с Philippe Parreno, Pierre Huyghe, Sarah Morris, Rirkrit Tiravanija, Carsten Höller и другими contemporary artists. Здесь дизайнер перестаёт быть последним звеном после «настоящего искусства». Он может участвовать в самой структуре проекта: придумать знак, book system, poster series, credits, fictional character или exhibition device. Граница между artwork и communication становится предметом работы, а не административным разделением.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.airdeparis.com/artists/mm/",
+          "locator": "DOCX section sec-13",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.centrepompidou.fr/en/ressources/personne/cT6544",
+          "locator": "DOCX section sec-13",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_mm_014",
+      "wording_ru": "Musée des Arts Décoratifs хранит большой корпус плакатов M/M для Théâtre de Lorient, созданных с 1996 по 2015 год. Музей описывает метод: внимательное чтение пьесы, разговор с Éric Vigner, цветная фотография и контрастный чёрно-белый заголовок. Плакат здесь — не иллюстрация сцены. Он переводит драматургическую структуру в визуальную. Это хороший пример research-based art direction: изображение появляется после анализа содержания, а не до него.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://madparis.fr/m-m-paris-d-un-m-musee-a-l-autre",
+          "locator": "DOCX section sec-14",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_mm_015",
+      "wording_ru": "В театральных плакатах повседневная фотография встречается с очень активным титром. MAD подчёркивает, что документально выглядящая сцена выбиралась после чтения пьесы и разговора с режиссёром. Столкновение фото и буквы создаёт продуктивную неясность. Зритель одновременно видит фрагмент реальности и понимает, что этот фрагмент уже превращён в знак. M/M не стремятся стереть противоречие — именно оно удерживает внимание.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://madparis.fr/m-m-paris-d-un-m-musee-a-l-autre",
+          "locator": "DOCX section sec-15",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_mm_016",
+      "wording_ru": "Cooper Hewitt включил M/M в выставку How Posters Work и отдельно анализировал их exhibition posters as art. Музей показывает, как плакат может одновременно сообщать событие, спорить с институциональным оформлением и становиться коллекционным объектом. Это тройная роль, редко существующая без конфликта. Если плакат слишком автономен, он рискует перестать информировать; если слишком сервисен — теряет авторскую энергию. M/M постоянно удерживают этот баланс на границе дизайна и искусства.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.cooperhewitt.org/2015/05/30/mm-paris-exhibition-posters-as-art/",
+          "locator": "DOCX section sec-16",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_mm_017",
+      "wording_ru": "В ранних 2000-х M/M работали с Palais de Tokyo и создали visual identity toolkit, который их собственный архив датирует 2000–2006 годами. Cultural identity в таком случае не должна замораживать институцию в одном логотипе. Музей или kunsthalle живёт через смену выставок и художников, поэтому система должна быть узнаваемой и при этом позволять новым авторам нарушать её. Для M/M идентичность сильна, когда она производит вариативность, а не только единообразие.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.mmparis.com/",
+          "locator": "DOCX section sec-17",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_mm_018",
+      "wording_ru": "Air de Paris описывает практику M/M через icons, indexes and symbols — триаду, связанную с семиотикой Charles S. Peirce. Это помогает понять их визуальную плотность. Знак может быть похож на объект, указывать на него косвенно или работать через договорённость языка. Поэтому M/M любят изображения, где буква, портрет, персонаж и декоративный мотив одновременно сообщают и запутывают. Дизайн становится не украшением сообщения, а машиной его многослойного чтения.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.airdeparis.com/artists/mm/",
+          "locator": "DOCX section sec-18",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_mm_019",
+      "wording_ru": "Алфавит у M/M — не нейтральный набор букв. За разные проекты они создавали собственные letterforms, fonts и graphic characters, которые могут переходить из печати в предмет или пространство. Буква становится минимальной единицей мира. Если logo обычно концентрирует идентичность в одном знаке, alphabet распределяет её на целую систему знаков, из которых можно собирать новые сообщения без потери характера.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.mmparis.com/",
+          "locator": "DOCX section sec-19",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_mm_020",
+      "wording_ru": "Книга Letters from M/M (Paris), вышедшая в декабре 2022 года, собрала созданные с 1992 года буквы и шрифты; Air de Paris посвятил этому архиву выставку En toutes lettres в 2023-м. Проект показывает редкую способность студии читать собственную историю не только по клиентам, а по инструментам. Вместо списка кампаний появляется археология букв: какие формы возникли для конкретных диалогов и как затем они продолжили жить в других контекстах.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.thamesandhudson.com/products/m-to-m-of-m-m-paris-vol-2",
+          "locator": "DOCX section sec-20",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.airdeparis.com/exhibitions/2023/mmparis2023/index.html",
+          "locator": "DOCX section sec-20",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_mm_021",
+      "wording_ru": "The Agent — повторяющийся персонаж M/M, появившийся около 2000 года. MAD описывает его как молчаливую фигуру, которая одновременно является приманкой-заместителем самих авторов и представлением зрителя. Персонаж решает проблему присутствия автора. Вместо прямого self-branding M/M вводят посредника — знак, который может наблюдать за проектом изнутри. Это делает студию частью собственного визуального мира, не превращая каждую работу в буквальный автопортрет.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://madparis.fr/m-m-paris-d-un-m-musee-a-l-autre",
+          "locator": "DOCX section sec-21",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_mm_022",
+      "wording_ru": "С 1998 года M/M создают Wallpaper Posters — крупноформатные шелкографические обои, использованные во многих выставках. Официальный архив описывает серию как продолжающуюся систему формата 120 × 176 см. Повторение меняет статус graphics. Один poster читается фронтально; десятки повторённых элементов формируют интерьер и начинают влиять на тело зрителя. Graphic design превращается в spatial rhythm.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.mmparis.com/",
+          "locator": "DOCX section sec-22",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_mm_023",
+      "wording_ru": "В 2008 году Centre Pompidou представил Vision Tenace, где новые версии Art Posters были помещены в специально спроектированную M/M среду. Институция описывает пространство как artwork, где signs, clues and symbols образуют новый язык. Так плоский архив превращается в выставочную архитектуру. Постер уже нельзя рассматривать только с правильного расстояния перед стеной — зритель движется внутри системы, а последовательность встреч с работами становится частью дизайна.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.centrepompidou.fr/en/program/calendar/event/cMddqaM",
+          "locator": "DOCX section sec-23",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_mm_024",
+      "wording_ru": "В 2012 году вышла первая большая монография M to M of M/M (Paris). Centre Pompidou представлял её как 528-страничную книгу, собравшую двадцать лет проектов и организованную в особом алфавитном порядке — от M к M. Это не просто остроумный contents design. Алфавит разрушает линейный карьерный рассказ «раннее → зрелое». Fashion, music, art и self-initiated work сталкиваются по другим правилам, показывая, что практика M/M всегда развивалась сеткой связей.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.centrepompidou.fr/en/ressources/personne/cT6544",
+          "locator": "DOCX section sec-24",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_mm_025",
+      "wording_ru": "В 2020 году Thames & Hudson выпустил M to M of M/M (Paris), Volume II — 456 страниц и более 850 изображений работ следующего десятилетия. Второй том особенно важен методологически: архив не закрывается после канонизации первого периода. Он продолжает расти и переопределять предыдущие проекты. Для design studio собственная история становится активным материалом, а не музейной финальной точкой.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.thamesandhudson.com/products/m-to-m-of-m-m-paris-vol-2",
+          "locator": "DOCX section sec-25",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_mm_026",
+      "wording_ru": "В 2020–2021 годах Musée des Arts Décoratifs и Musée d’Orsay совместно показали D’un M/Musée à l’autre. Экспозиция была связана с Volume II и размещала страницы монографии, объекты и модули M/M внутри постоянных коллекций двух музеев. Книга фактически стала выставочным сценарием. Масштаб страницы расширился до пространства, а музейная архитектура, furniture и historical objects вступили в новый монтаж. Это точный пример того, как editorial thinking может управлять физическим маршрутом.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://madparis.fr/m-m-paris-d-un-m-musee-a-l-autre",
+          "locator": "DOCX section sec-26",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_mm_027",
+      "wording_ru": "MAD показывает в этой же экспозиции Borderline, M/Matching Colorstools и другие объекты M/M. Плоские графические элементы превращаются в steel structures, табуреты и пространственные модули. Такой переход полезен для понимания product design: M/M не начинают заново как промышленные дизайнеры. Они продолжают работать со знаком, модулем, цветом и повторением, только теперь эти отношения должны выдерживать вес, масштаб и прикосновение человека.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://madparis.fr/m-m-paris-d-un-m-musee-a-l-autre",
+          "locator": "DOCX section sec-27",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_mm_028",
+      "wording_ru": "M/M сознательно работают между art, design и commerce. Centre Pompidou ещё в 2012 году подчёркивал их деятельность в fashion, art, music, theatre, publishing и design; MAD позднее описывал их heterogeneous output как единый imaginary world. Это не означает, что различия между заказом и artwork исчезают. У них разные бюджеты, права, аудитория и ответственность. Сильная практика умеет переходить границу, не притворяясь, что коммерческий проект автоматически становится искусством только из-за известного автора.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.centrepompidou.fr/en/ressources/personne/cT6544",
+          "locator": "DOCX section sec-28",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_mm_029",
+      "wording_ru": "На 2026 год официальный сайт M/M (Paris) продолжает описывать студию как активное agency, работающее с creative communication, branding, image, design и spatial strategies; галерейное представительство связано с Air de Paris. Это показывает устойчивость модели спустя более трёх десятилетий. Их практика не закрепилась в музейном статусе и не растворилась в agency routine. Commercial commissions, type, self-publishing, exhibition objects и art projects продолжают существовать параллельно.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.mmparis.com/",
+          "locator": "DOCX section sec-29",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_mm_030",
+      "wording_ru": "Главное наследие M/M (Paris) — не сложная буква, не коллаж поверх фотографии и не «французская» интеллектуальная графика как набор внешних признаков. Их реальный метод — производство отношений. Два автора разговаривают друг с другом; затем подключаются photographer, designer, musician, artist, institution, reader и viewer. Graphic design организует эти связи через signs, books, posters, objects, interfaces and spaces. Поэтому копировать M/M визуально легко, а работать как M/M трудно: нужно строить собственную систему диалогов, а не чужой стиль.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.mmparis.com/",
+          "locator": "DOCX section sec-30",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.airdeparis.com/artists/mm/",
+          "locator": "DOCX section sec-30",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_be1bf620ed49525a",
+      "title": "M/M (Paris) — official site",
+      "url": "https://www.mmparis.com/",
+      "publisher": "M/M (Paris)",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_08ea2e5992e08300",
+      "title": "M/M (Paris) — project and bibliography index",
+      "url": "https://www.mmparis.com/list.html",
+      "publisher": "M/M (Paris)",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_696dc67616e0fc47",
+      "title": "M/M — artist/personality record",
+      "url": "https://www.centrepompidou.fr/en/ressources/personne/cT6544",
+      "publisher": "Centre Pompidou",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_546be91226996814",
+      "title": "Cycle “L’atelier de…”: M/M",
+      "url": "https://www.centrepompidou.fr/en/program/calendar/event/cLeoKd",
+      "publisher": "Centre Pompidou",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_669fb432d6ec237f",
+      "title": "M/M (Paris): Vision tenace",
+      "url": "https://www.centrepompidou.fr/en/program/calendar/event/cMddqaM",
+      "publisher": "Centre Pompidou",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_ab2108399ca9c11c",
+      "title": "M/M (Paris) de M à M",
+      "url": "https://www.centrepompidou.fr/fr/programme/agenda/evenement/cX6Ro5",
+      "publisher": "Centre Pompidou",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_d2cb1f1fdcaad843",
+      "title": "M/M (Paris)",
+      "url": "https://www.moma.org/artists/45521-m-m-paris",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_1c2177828d62ee4f",
+      "title": "Biophilia, 2011",
+      "url": "https://www.moma.org/collection/works/179295",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_bec25bd63b6d948e",
+      "title": "Biophilia, the First App in MoMA’s Collection",
+      "url": "https://www.moma.org/explore/inside_out/2014/06/11/biophilia-the-first-app-in-momas-collection/",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_9d2e409eb580391f",
+      "title": "55th Annual Grammy Awards — Best Recording Package",
+      "url": "https://www.grammy.com/awards/55th-annual-grammy-awards/",
+      "publisher": "Recording Academy",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_f7f19d16ec4258ba",
+      "title": "Yohji Yamamoto at the V&A — The Timeline",
+      "url": "https://www.vam.ac.uk/blog/yohji-yamamoto-va/blogyohji-yamamoto-va-2010-11timeline",
+      "publisher": "Victoria and Albert Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_0731dd5787641f43",
+      "title": "Design graphique: acquisitions récentes",
+      "url": "https://madparis.fr/design-graphique-acquisitions-recentes-1166",
+      "publisher": "Musée des Arts Décoratifs",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_c3f38f99f32f2d3e",
+      "title": "M/M (Paris). D’un M/Musée à l’autre",
+      "url": "https://madparis.fr/m-m-paris-d-un-m-musee-a-l-autre",
+      "publisher": "Musée des Arts Décoratifs",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_e149eeeecf3aec09",
+      "title": "M/M (Paris) — artist profile",
+      "url": "https://www.airdeparis.com/artists/mm/",
+      "publisher": "Air de Paris",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_97bcb0a1ad9144cb",
+      "title": "M/M (Paris): En toutes lettres",
+      "url": "https://www.airdeparis.com/exhibitions/2023/mmparis2023/index.html",
+      "publisher": "Air de Paris",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_fcf9971f5253c741",
+      "title": "M to M of M/M (Paris), Vol. 2",
+      "url": "https://www.thamesandhudson.com/products/m-to-m-of-m-m-paris-vol-2",
+      "publisher": "Thames & Hudson",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_5f754bab7a8bd3d8",
+      "title": "Exhibition Posters as Art",
+      "url": "https://www.cooperhewitt.org/2015/05/30/mm-paris-exhibition-posters-as-art/",
+      "publisher": "Cooper Hewitt, Smithsonian Design Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_e027ac56f0161d38",
+      "title": "GD: NIP #11: No Ghost Just a Shell",
+      "url": "https://www.walkerart.org/reader/gd-nip-11-no-ghost-just-a-shell/",
+      "publisher": "Walker Art Center",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_mm-paris_01",
+      "claim_id": "clm_mm_001",
+      "source_id": "src_be1bf620ed49525a",
+      "locator": "DOCX section sec-1",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_mm-paris_02",
+      "claim_id": "clm_mm_002",
+      "source_id": "src_696dc67616e0fc47",
+      "locator": "DOCX section sec-2",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_mm-paris_03",
+      "claim_id": "clm_mm_003",
+      "source_id": "src_546be91226996814",
+      "locator": "DOCX section sec-3",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_mm-paris_04",
+      "claim_id": "clm_mm_004",
+      "source_id": "src_e149eeeecf3aec09",
+      "locator": "DOCX section sec-4",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_mm-paris_05",
+      "claim_id": "clm_mm_005",
+      "source_id": "src_f7f19d16ec4258ba",
+      "locator": "DOCX section sec-5",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_mm-paris_06",
+      "claim_id": "clm_mm_006",
+      "source_id": "src_e149eeeecf3aec09",
+      "locator": "DOCX section sec-6",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_mm-paris_07",
+      "claim_id": "clm_mm_007",
+      "source_id": "src_fcf9971f5253c741",
+      "locator": "DOCX section sec-7",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_mm-paris_08",
+      "claim_id": "clm_mm_008",
+      "source_id": "src_be1bf620ed49525a",
+      "locator": "DOCX section sec-8",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_mm-paris_09",
+      "claim_id": "clm_mm_009",
+      "source_id": "src_1c2177828d62ee4f",
+      "locator": "DOCX section sec-9",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_mm-paris_10",
+      "claim_id": "clm_mm_010",
+      "source_id": "src_9d2e409eb580391f",
+      "locator": "DOCX section sec-10",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_mm-paris_11",
+      "claim_id": "clm_mm_011",
+      "source_id": "src_e149eeeecf3aec09",
+      "locator": "DOCX section sec-11",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_mm-paris_12",
+      "claim_id": "clm_mm_012",
+      "source_id": "src_e027ac56f0161d38",
+      "locator": "DOCX section sec-12",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_mm-paris_13",
+      "claim_id": "clm_mm_013",
+      "source_id": "src_e149eeeecf3aec09",
+      "locator": "DOCX section sec-13",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_mm-paris_14",
+      "claim_id": "clm_mm_014",
+      "source_id": "src_c3f38f99f32f2d3e",
+      "locator": "DOCX section sec-14",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_mm-paris_15",
+      "claim_id": "clm_mm_015",
+      "source_id": "src_c3f38f99f32f2d3e",
+      "locator": "DOCX section sec-15",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_mm-paris_16",
+      "claim_id": "clm_mm_016",
+      "source_id": "src_5f754bab7a8bd3d8",
+      "locator": "DOCX section sec-16",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_mm-paris_17",
+      "claim_id": "clm_mm_017",
+      "source_id": "src_be1bf620ed49525a",
+      "locator": "DOCX section sec-17",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_mm-paris_18",
+      "claim_id": "clm_mm_018",
+      "source_id": "src_e149eeeecf3aec09",
+      "locator": "DOCX section sec-18",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_mm-paris_19",
+      "claim_id": "clm_mm_019",
+      "source_id": "src_be1bf620ed49525a",
+      "locator": "DOCX section sec-19",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_mm-paris_20",
+      "claim_id": "clm_mm_020",
+      "source_id": "src_fcf9971f5253c741",
+      "locator": "DOCX section sec-20",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_mm-paris_21",
+      "claim_id": "clm_mm_021",
+      "source_id": "src_c3f38f99f32f2d3e",
+      "locator": "DOCX section sec-21",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_mm-paris_22",
+      "claim_id": "clm_mm_022",
+      "source_id": "src_be1bf620ed49525a",
+      "locator": "DOCX section sec-22",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_mm-paris_23",
+      "claim_id": "clm_mm_023",
+      "source_id": "src_669fb432d6ec237f",
+      "locator": "DOCX section sec-23",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_mm-paris_24",
+      "claim_id": "clm_mm_024",
+      "source_id": "src_696dc67616e0fc47",
+      "locator": "DOCX section sec-24",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_mm-paris_25",
+      "claim_id": "clm_mm_025",
+      "source_id": "src_fcf9971f5253c741",
+      "locator": "DOCX section sec-25",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_mm-paris_26",
+      "claim_id": "clm_mm_026",
+      "source_id": "src_c3f38f99f32f2d3e",
+      "locator": "DOCX section sec-26",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_mm-paris_27",
+      "claim_id": "clm_mm_027",
+      "source_id": "src_c3f38f99f32f2d3e",
+      "locator": "DOCX section sec-27",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_mm-paris_28",
+      "claim_id": "clm_mm_028",
+      "source_id": "src_696dc67616e0fc47",
+      "locator": "DOCX section sec-28",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_mm-paris_29",
+      "claim_id": "clm_mm_029",
+      "source_id": "src_be1bf620ed49525a",
+      "locator": "DOCX section sec-29",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_mm-paris_30",
+      "claim_id": "clm_mm_030",
+      "source_id": "src_be1bf620ed49525a",
+      "locator": "DOCX section sec-30",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "media_state": "media_ready",
+  "workflow": {
+    "decision": "AUTO_APPROVE",
+    "note": "Incoming RU master and EN translation passed DOCX structure, source-format, URL reachability and section-level citation checks on 2026-08-12. Claims are retained as explicit attributions; planned media remains rights-review work.",
+    "converted_by": "VANSMITHLAB incoming article publication workflow",
+    "converted_at": "2026-08-12T00:00:00.000Z",
+    "media_reviewed_at": "2026-08-12",
+    "media_note": "Primary hero now has a complete localized media record, accessibility text, provenance, rights state and content hash; optional detail slots remain editorially unfilled."
+  }
+}

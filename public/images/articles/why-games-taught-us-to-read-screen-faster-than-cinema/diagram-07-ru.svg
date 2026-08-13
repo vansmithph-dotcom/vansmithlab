@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img">
+<rect width="1600" height="900" fill="#f2eee6"/>
+<defs><pattern id="grid" width="80" height="80" patternUnits="userSpaceOnUse"><path d="M80 0H0V80" fill="none" stroke="#ded7ca" stroke-width="1"/></pattern></defs>
+<rect x="40" y="40" width="1520" height="820" fill="url(#grid)" opacity=".46"/>
+<rect x="40" y="40" width="1520" height="820" rx="0" fill="none" stroke="#171716" stroke-width="2"/>
+<text x="78" y="96" fill="#c84a31" text-anchor="start" font-family="monospace" font-size="15" font-weight="500" letter-spacing="2">VANSMITHLAB / ANALYSIS / 07</text>
+<text x="78" y="170" fill="#171716" text-anchor="start" font-family="Georgia" font-size="48" font-weight="500" letter-spacing="0">???????????: ??????? ????????</text>
+<line x1="78" y1="202" x2="1522" y2="202" stroke="#171716" stroke-width="2"/>
+<text x="78" y="824" fill="#777167" text-anchor="start" font-family="Arial" font-size="19" font-weight="400" letter-spacing="0">????????? ????? ?????? ????? ????????? ??????? ? ??????? ??????????</text>
+<rect x="105" y="300" width="230" height="260" rx="0" fill="#fbf8f1" stroke="#171716" stroke-width="2"/>
+<text x="220" y="610" fill="#171716" text-anchor="middle" font-family="monospace" font-size="15" font-weight="700" letter-spacing="0">?????</text>
+<line x1="335" y1="430" x2="405" y2="430" stroke="#c84a31" stroke-width="4"/>
+<path d="M389 416 L405 430 L389 444" fill="none" stroke="#c84a31" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="385" y="300" width="230" height="260" rx="0" fill="#fbf8f1" stroke="#171716" stroke-width="2"/>
+<text x="500" y="610" fill="#171716" text-anchor="middle" font-family="monospace" font-size="15" font-weight="700" letter-spacing="0">????</text>
+<line x1="615" y1="430" x2="685" y2="430" stroke="#c84a31" stroke-width="4"/>
+<path d="M669 416 L685 430 L669 444" fill="none" stroke="#c84a31" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="665" y="300" width="230" height="260" rx="0" fill="#fbf8f1" stroke="#171716" stroke-width="2"/>
+<text x="780" y="610" fill="#171716" text-anchor="middle" font-family="monospace" font-size="15" font-weight="700" letter-spacing="0">?????</text>
+<line x1="895" y1="430" x2="965" y2="430" stroke="#c84a31" stroke-width="4"/>
+<path d="M949 416 L965 430 L949 444" fill="none" stroke="#c84a31" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="945" y="300" width="230" height="260" rx="0" fill="#ead3ca" stroke="#171716" stroke-width="2"/>
+<text x="1060" y="610" fill="#171716" text-anchor="middle" font-family="monospace" font-size="15" font-weight="700" letter-spacing="0">????</text>
+<line x1="1175" y1="430" x2="1245" y2="430" stroke="#c84a31" stroke-width="4"/>
+<path d="M1229 416 L1245 430 L1229 444" fill="none" stroke="#c84a31" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="1225" y="300" width="230" height="260" rx="0" fill="#fbf8f1" stroke="#171716" stroke-width="2"/>
+<text x="1340" y="610" fill="#171716" text-anchor="middle" font-family="monospace" font-size="15" font-weight="700" letter-spacing="0">??????????????????</text>
+<circle cx="220" cy="380" r="26" fill="#171716" stroke="#171716" stroke-width="2"/>
+<line x1="200" y1="380" x2="240" y2="380" stroke="#f2eee6" stroke-width="4"/>
+<rect x="500" y="380" width="60" height="60" rx="0" fill="#284e78" stroke="none" stroke-width="2"/>
+<circle cx="560" cy="350" r="18" fill="#c84a31" stroke="#c84a31" stroke-width="2"/>
+<path d="M740 360 Q780 500 830 360" fill="#171716" stroke="#171716" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="1000" y="360" width="90" height="90" rx="0" fill="none" stroke="#284e78" stroke-width="5"/>
+<line x1="1000" y1="450" x2="1090" y2="360" stroke="#284e78" stroke-width="5"/>
+<rect x="1270" y="340" width="150" height="130" rx="0" fill="none" stroke="#171716" stroke-width="3"/>
+<line x1="1290" y1="380" x2="1400" y2="380" stroke="#c84a31" stroke-width="6"/>
+</svg>

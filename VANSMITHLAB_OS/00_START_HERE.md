@@ -47,7 +47,8 @@ npx tsc --noEmit                                    # the site still type-checks
 `os:index` is the one to run after editing anything in this directory. It catches references to documents and code paths that do not exist, a title version that disagrees with its footer, retired vocabulary in a live rule, counts that contradict another document or the corpus, routes documented but not built, and any document missing from `README.md`.
 
 `os:structure` and `os:sources` exit non-zero on failure, so they can gate a commit or a build. Nothing runs them automatically yet — wiring them into CI or a pre-commit hook is an open task.
-| Article, analysis, timeline, guide | `06_CONTENT_MODEL.md`, `05_EVIDENCE_POLICY.md`, `07_LANGUAGE_SYSTEM.md` | `playbooks/02_CONTENT_PRODUCTION.md` |
+| Article, timeline, guide (non-analysis) | `06_CONTENT_MODEL.md`, `05_EVIDENCE_POLICY.md`, `07_LANGUAGE_SYSTEM.md` | `playbooks/02_CONTENT_PRODUCTION.md` |
+| Analysis / essay with an authorial argument | `20_ANALYSIS_EDITORIAL_STANDARD.md`, `06_CONTENT_MODEL.md`, `05_EVIDENCE_POLICY.md`, `07_LANGUAGE_SYSTEM.md`, `19_VISUAL_EDITORIAL_GUIDE.md` | `playbooks/02_CONTENT_PRODUCTION.md` |
 | Image, gallery, video, diagram | `08_MEDIA_AND_RIGHTS.md`, `12_UX_UI_SYSTEM.md` | `playbooks/03_MEDIA_PRODUCTION.md` |
 | Translation | `07_LANGUAGE_SYSTEM.md` | `playbooks/04_LOCALIZATION.md` |
 | AI automation | `09_AI_OPERATING_MODEL.md`, `10_AUTOMATION_AND_ESCALATION.md` | `playbooks/05_AUTOMATION_RUN.md` |

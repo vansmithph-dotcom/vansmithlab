@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img">
+<rect width="1600" height="900" fill="#f2eee6"/>
+<defs><pattern id="grid" width="80" height="80" patternUnits="userSpaceOnUse"><path d="M80 0H0V80" fill="none" stroke="#ded7ca" stroke-width="1"/></pattern></defs>
+<rect x="40" y="40" width="1520" height="820" fill="url(#grid)" opacity=".46"/>
+<rect x="40" y="40" width="1520" height="820" rx="0" fill="none" stroke="#171716" stroke-width="2"/>
+<text x="78" y="96" fill="#c84a31" text-anchor="start" font-family="monospace" font-size="15" font-weight="500" letter-spacing="2">VANSMITHLAB / ANALYSIS / 05</text>
+<text x="78" y="170" fill="#171716" text-anchor="start" font-family="Georgia" font-size="48" font-weight="500" letter-spacing="0">SE7EN: ??????? ? ???????</text>
+<line x1="78" y1="202" x2="1522" y2="202" stroke="#171716" stroke-width="2"/>
+<text x="78" y="824" fill="#777167" text-anchor="start" font-family="Arial" font-size="19" font-weight="400" letter-spacing="0">????? ?????? ???????? ????? ??? ?????? ??? ????</text>
+<rect x="105" y="300" width="285" height="300" rx="0" fill="#fbf8f1" stroke="#171716" stroke-width="2"/>
+<text x="247" y="645" fill="#171716" text-anchor="middle" font-family="monospace" font-size="17" font-weight="700" letter-spacing="0">????????</text>
+<line x1="390" y1="450" x2="460" y2="450" stroke="#c84a31" stroke-width="4"/>
+<path d="M444 436 L460 450 L444 464" fill="none" stroke="#c84a31" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="465" y="300" width="285" height="300" rx="0" fill="#fbf8f1" stroke="#171716" stroke-width="2"/>
+<text x="607" y="645" fill="#171716" text-anchor="middle" font-family="monospace" font-size="17" font-weight="700" letter-spacing="0">??????????</text>
+<line x1="750" y1="450" x2="820" y2="450" stroke="#c84a31" stroke-width="4"/>
+<path d="M804 436 L820 450 L804 464" fill="none" stroke="#c84a31" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="825" y="300" width="285" height="300" rx="0" fill="#171716" stroke="#171716" stroke-width="2"/>
+<text x="967" y="645" fill="#f2eee6" text-anchor="middle" font-family="monospace" font-size="17" font-weight="700" letter-spacing="0">??????</text>
+<line x1="1110" y1="450" x2="1180" y2="450" stroke="#c84a31" stroke-width="4"/>
+<path d="M1164 436 L1180 450 L1164 464" fill="none" stroke="#c84a31" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="1185" y="300" width="285" height="300" rx="0" fill="#fbf8f1" stroke="#171716" stroke-width="2"/>
+<text x="1327" y="645" fill="#171716" text-anchor="middle" font-family="monospace" font-size="17" font-weight="700" letter-spacing="0">????????</text>
+<path d="M170 340 C290 380 210 500 330 560" fill="none" stroke="#171716" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M530 340 C650 380 570 500 690 560" fill="none" stroke="#171716" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="1240" y="340" width="110" height="220" rx="0" fill="#c84a31" stroke="#c84a31" stroke-width="2"/>
+<path d="M1260 620 L1330 560" fill="none" stroke="#f2eee6" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

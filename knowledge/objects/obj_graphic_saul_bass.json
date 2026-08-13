@@ -1,0 +1,964 @@
+{
+  "id": "obj_graphic_saul_bass",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Сол Басс",
+  "title_en": "Saul Bass",
+  "slug_ru": "saul-bass-symbol-motion-film-visual-system",
+  "slug_en": "saul-bass-symbol-motion-film-visual-system",
+  "summary_ru": "Символ, движение и фильм как визуальная система",
+  "summary_en": "Symbol, motion and film as a visual system",
+  "verification_state": "verified",
+  "confidence_score": 0.86,
+  "created_at": "2026-08-12T00:00:00.000Z",
+  "updated_at": "2026-08-12T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_sb_001",
+      "wording_ru": "Saul Bass родился 8 мая 1920 года в Бронксе. Его ранняя история важна не как романтический миф о врожденном гении, а как история профессионального взросления внутри плотной городской визуальной среды: витрины, вывески, реклама, кинотеатры и печатная графика были частью повседневности. RIT фиксирует ранний интерес Bass к рисованию и иллюстрации, а затем обучение в Art Students League и Brooklyn College. Поздняя работа Bass будет предельно сокращенной, но эта экономия не означает бедность наблюдения. Напротив, она строится на умении видеть в сложном городском потоке один знак, который способен удержать внимание. Именно это качество позже станет основой и киноафиши, и логотипа, и титров.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.rit.edu/carycollection/saul-bass",
+          "locator": "DOCX section sec-1",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_sb_002",
+      "wording_ru": "До того как Bass сформулировал собственный метод, ему пришлось освоить ремесленную сторону профессии. В Art Students League он учился у Howard Trafton; профессиональные биографические источники подчеркивают, что Bass сохранял уважение к процессу, материалу и точности исполнения даже после того, как стал символом концептуального дизайна. Это важно для понимания его простоты. Неровная бумажная фигура в его плакатах выглядит спонтанной, но она не является случайностью. Сокращение работает только тогда, когда дизайнер знает, что именно можно убрать без потери смысла. В этом отношении Bass ближе к монтажеру, чем к декоратору: ценность элемента определяется его ролью в общей последовательности.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.aaa.si.edu/collections/gyorgy-kepes-papers-7252/biographical-note",
+          "locator": "DOCX section sec-2",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_sb_003",
+      "wording_ru": "В Brooklyn College Bass попал под влияние Gyorgy Kepes — художника, теоретика и преподавателя, связанного с New Bauhaus и идеей визуального языка как системы отношений. RIT прямо связывает обучение Bass у Kepes с воздействием конструктивистской типографики и Bauhaus theory; архив Smithsonian показывает более широкий контекст Kepes — от Moholy-Nagy до исследований света, фотографии, технологии и визуальной коммуникации. Для Bass это означало переход от картинки как украшения к изображению как организованному воздействию. Форма, масштаб, пустота, контраст и движение становятся не стилистическими приемами, а средствами управления восприятием. Позже этот принцип одинаково убедительно сработает в кинотитрах и в identity system.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.aaa.si.edu/collections/gyorgy-kepes-papers-7252/biographical-note",
+          "locator": "DOCX section sec-3",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://identity.usc.edu/identity/logos-marks/",
+          "locator": "DOCX section sec-3",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_sb_004",
+      "wording_ru": "В 1946 году Bass переехал в Лос-Анджелес. RIT отмечает этот переезд как точку, после которой его карьера получает основной импульс: в городе киноиндустрии графический дизайнер оказывается рядом с рекламными агентствами, студиями, печатным продвижением и самими фильмами. До Bass рекламная кампания фильма и экранные титры чаще существовали как разные производственные задачи. Его дальнейшая практика постепенно разрушит эту границу. Он увидит фильм как объект, который можно спроектировать до, во время и после просмотра: плакат формирует ожидание, титры задают эмоциональный вход, а знак сохраняет фильм в памяти.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.moma.org/collection/works/5665",
+          "locator": "DOCX section sec-4",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_sb_005",
+      "wording_ru": "К началу 1950-х Bass выстраивает независимую практику в Лос-Анджелесе. В центре этой модели находится не узнаваемый набор приемов, а поиск понятия, способного организовать проект. Именно поэтому его лучшие работы настолько различны по технике: cut paper, фотография, линии, живая съемка, split screen или почти нейтральная типографика могут служить одной и той же задаче. Для VANSMITHLAB здесь важен методический вывод: стиль появляется после постановки проблемы. Если сначала выбрать «эстетику Saul Bass», а затем пытаться натянуть ее на содержание, получится имитация. Bass работал в обратном порядке — сначала находил нерв проекта, затем выбирал минимальный язык, который этот нерв делает видимым.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.moma.org/collection/works/185648",
+          "locator": "DOCX section sec-5",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_sb_006",
+      "wording_ru": "Поворот в кино произошел через сотрудничество с Otto Preminger. Для Carmen Jones (1954) Bass разработал рекламную концепцию, где огненная роза стала компактным образом страсти и опасности. Биографические источники связывают именно эту работу с переходом от рекламного дизайна к титрам: Preminger увидел, что визуальный мотив может существовать не только на афише, но и внутри фильма. Это принципиально: знак перестает быть логотипом постфактум. Он становится смысловым ядром кампании. Отсюда рождается один из главных приемов Bass — не показывать все, что есть в фильме, а найти образ, который позволяет зрителю мысленно достроить остальное.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.bfi.org.uk/lists/celebrating-saul-basss-centenary-10-essential-title-sequences",
+          "locator": "DOCX section sec-6",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_sb_007",
+      "wording_ru": "Preminger оказался режиссером, готовым дать дизайнеру необычно широкую зону ответственности. Их сотрудничество показало, что титры могут быть самостоятельной режиссерской задачей, а не только обязательным списком имен. Academy и MoMA сохраняют многочисленные материалы этой линии — от постеров до альбомных обложек и film-title work. Bass не заменял режиссера. Он проектировал переход между внешним миром зрителя и внутренним миром фильма. Эта промежуточная зона — несколько десятков секунд до первой сцены — стала отдельным медиумом. В современной терминологии это уже похоже на experience design: зритель еще не получил сюжет, но его ритм внимания и эмоциональная температура уже настроены.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://eyeondesign.aiga.org/design-history-101/",
+          "locator": "DOCX section sec-7",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://sites.northwestern.edu/transportationdesign/united-airlines/",
+          "locator": "DOCX section sec-7",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_sb_008",
+      "wording_ru": "Для The Man with the Golden Arm Bass создал один из самых узнаваемых знаков XX века — ломаную черную руку. MoMA связывает этот образ с темой зависимости и подчеркивает, что один символ объединил постер, soundtrack album и title sequence. Радикальность решения состоит в отказе от звездного портрета и прямой сценической иллюстрации. Фильм с Frank Sinatra продается не лицом актера, а абстрагированной формой. Эта форма достаточно проста, чтобы работать на улице, на пластинке и в движении, но достаточно напряжена, чтобы передавать психологическое состояние. Так Bass превращает маркетинговый знак в драматургический инструмент.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.moma.org/collection/works/185648",
+          "locator": "DOCX section sec-8",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.criterion.com/current/posts/6937-credit-where-it-s-due-the-father-of-the-title-sequence",
+          "locator": "DOCX section sec-8",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_sb_009",
+      "wording_ru": "После The Man with the Golden Arm стало очевидно, что opening titles могут быть частью повествовательного опыта. Academy описывает Bass как фигуру, революционизировавшую feature-film title sequence, а Criterion отмечает его способность превращать юридически необходимый список имен в отдельное пространство идеи, ритма и ожидания. Для Bass главное не украшение титров, а психологическая подготовка. Последовательность должна создать климат, в котором первая сцена уже воспринимается иначе. Это делает титры похожими на архитектурный вестибюль: они не являются главным помещением, но меняют состояние человека перед входом.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.criterion.com/current/posts/6937-credit-where-it-s-due-the-father-of-the-title-sequence",
+          "locator": "DOCX section sec-9",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.criterion.com/films/449-spartacus",
+          "locator": "DOCX section sec-9",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_sb_010",
+      "wording_ru": "MoMA приводит важное свидетельство о The Man with the Golden Arm: Bass и композитор Elmer Bernstein работали параллельно, а движение графики проектировалось в отношении к музыкальному счету. Здесь graphic design перестает быть статичным. Линия имеет длительность, пауза имеет вес, появление текста становится монтажным событием. Bass переносит в экранную графику принцип музыкального ритма: повтор, акцент, задержка и разрыв. Поэтому его титры невозможно полноценно оценить по отдельному still frame — смысл возникает во времени.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://eyeondesign.aiga.org/design-history-101/",
+          "locator": "DOCX section sec-10",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://sites.northwestern.edu/transportationdesign/united-airlines/",
+          "locator": "DOCX section sec-10",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_sb_011",
+      "wording_ru": "Одна из сильнейших инноваций Bass — мыслить film campaign как систему носителей. MoMA показывает, как знак The Man with the Golden Arm переходил между постером и soundtrack sleeve; похожий принцип виден в Anatomy of a Murder, где расчлененный силуэт становится одновременно рекламным образом и движущимся материалом титров. Это уже почти brand system, но примененная к отдельному фильму. Носители не обязаны выглядеть идентично; важно, чтобы они были производными от одной идеи. Для современного арт-директора это по-прежнему актуальнее простого «key visual»: система живет в разных форматах, но сохраняет смысловую ДНК.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.criterion.com/films/27901-anatomy-of-a-murder",
+          "locator": "DOCX section sec-11",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.moma.org/collection/works/4824",
+          "locator": "DOCX section sec-11",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_sb_012",
+      "wording_ru": "В Vertigo Bass работает не с сюжетом, а с состоянием: глаз, приближение, красный цвет и разворачивающиеся спирали создают ощущение затягивания и потери устойчивости. BFI рассматривает эту последовательность как один из ключевых примеров того, как Bass находил «секрет» фильма и переводил его в абстрактный механизм. Особенно важно, что спираль не объясняет персонажей и не пересказывает события. Она задает физическое чувство повторения, воронки и невозможности выйти из движения. Это пример визуальной метафоры, которая сильнее буквальной иллюстрации именно потому, что работает до рационального понимания.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.oscars.org/film-archive/collections/saul-bass-collection",
+          "locator": "DOCX section sec-12",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_sb_013",
+      "wording_ru": "Спиральная графика Vertigo была создана в сотрудничестве с John Whitney, пионером механизированной и вычислительной анимации. BFI отмечает использование Whitney технологических систем для генерации геометрического движения. Эта работа разрушает удобный миф о дизайнере-одиночке. Bass формулирует концепт и визуальную логику, но сложный результат возникает через специалиста по движению и технологии. В этом смысле Vertigo предвосхищает современную работу art director с motion designer, creative coder или generative system: авторство остается сильным, но становится распределенным.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://eyeondesign.aiga.org/design-history-101/",
+          "locator": "DOCX section sec-13",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.oscars.org/events/real-indies-close-look-orphan-films",
+          "locator": "DOCX section sec-13",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_sb_014",
+      "wording_ru": "В North by Northwest Bass начинает с строгой диагональной сетки, по которой в кадр входят имена, а затем геометрия растворяется в отражающем фасаде реального здания. BFI отмечает этот переход от абстрактной конструкции к поверхности города. Сетка здесь не типографическая доктрина в духе Swiss Style. Она становится кинематографическим устройством: сначала координатой, затем архитектурой, затем потоком людей. Bass показывает, как одна структура может переходить между graphic design, architecture и live action без смены основного принципа.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://eyeondesign.aiga.org/design-history-101/",
+          "locator": "DOCX section sec-14",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://sites.northwestern.edu/transportationdesign/united-airlines/",
+          "locator": "DOCX section sec-14",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_sb_015",
+      "wording_ru": "Для Anatomy of a Murder Bass разрезает человеческий силуэт на отдельные части. MoMA и Criterion фиксируют эту работу как одну из центральных в его film-design практике. Тело здесь одновременно улика, схема и почти типографическая композиция. Важно, что части можно перестраивать: знак становится модульным и пригодным для постера, титров и сопутствующей графики. Bass снова находит не картинку к фильму, а правило, из которого можно производить разные изображения.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.criterion.com/films/27901-anatomy-of-a-murder",
+          "locator": "DOCX section sec-15",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.moma.org/collection/works/4824",
+          "locator": "DOCX section sec-15",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_sb_016",
+      "wording_ru": "В Psycho вместо фигур появляются полосы, которые врезаются в экран, раздвигают и собирают типографику. BFI связывает эту формальную фрагментацию с нервной структурой фильма и музыкой Bernard Herrmann. Решение почти аскетично: черный, белый, серый, линии и наборный текст. Но движение превращает нейтральные элементы в угрозу. Это хороший пример того, что эмоциональность не требует иллюстративной насыщенности. Когда ритм, направление и разрыв точны, минимальный материал способен быть агрессивнее сложного изображения.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://sites.northwestern.edu/transportationdesign/united-airlines/",
+          "locator": "DOCX section sec-16",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_sb_017",
+      "wording_ru": "Bass работал над Psycho не только как title designer: исследование Pat Kirkham в West 86th документирует его роль pictorial consultant и создание storyboard для душевой сцены. При этом вопрос о том, кто именно «режиссировал» сцену, остается предметом спора; корректнее отделять хорошо подтвержденный вклад в визуализацию и раскадровку от более сильных заявлений о режиссерском авторстве. Для истории дизайна этот спор полезен: он показывает, насколько далеко может заходить работа визуального консультанта внутри кино. Storyboard здесь не сервисный рисунок после решения режиссера, а инструмент, который участвует в проектировании пространства, монтажной логики и точки зрения.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://eyeondesign.aiga.org/design-history-101/",
+          "locator": "DOCX section sec-17",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://sites.northwestern.edu/transportationdesign/united-airlines/",
+          "locator": "DOCX section sec-17",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_sb_018",
+      "wording_ru": "Criterion указывает Bass как автора main title для Spartacus. Вместо привычных бумажных знаков здесь используются скульптурные фрагменты, поверхности и предметы, которые читаются как материальные следы Рима и власти. Этот пример важен против редукции Bass к «неровным бумажным силуэтам». Он не защищал один фирменный стиль. Для конкретного фильма он мог перейти к объемному объекту и фотографическому изображению, если это точнее создавало нужную историческую тяжесть. Метод остается стабильным, визуальная форма меняется.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.criterion.com/films/449-spartacus",
+          "locator": "DOCX section sec-18",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.criterion.com/current/posts/6937-credit-where-it-s-due-the-father-of-the-title-sequence",
+          "locator": "DOCX section sec-18",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_sb_019",
+      "wording_ru": "В West Side Story графическая работа Bass соединяется с самим Нью-Йорком: буквы, знаки, фактура стен и городской визуальный шум становятся частью титров. История этой работы также связана с Elaine Bass и исследовательской съемкой городской среды. Это другой способ разрушить границу между design и film. Если North by Northwest превращал сетку в фасад, здесь город уже не фон для типографики — он становится носителем. Современные location-based identities и environmental graphics используют тот же принцип: поверхность пространства может быть медиумом сообщения.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://eyeondesign.aiga.org/design-history-101/",
+          "locator": "DOCX section sec-19",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://sites.northwestern.edu/transportationdesign/united-airlines/",
+          "locator": "DOCX section sec-19",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_sb_020",
+      "wording_ru": "RIT прямо отмечает сотрудничество Saul Bass с Elaine Bass, а Criterion при обсуждении поздних титров подчеркивает, что многие работы следует читать как результат пары Saul and Elaine. Elaine особенно важна для позднего периода, где фотография, live action, time-lapse и более чувственная образность расширяют язык студии. Редакционно важно не повторять старую модель «великий мужчина и безымянные помощники». История Bass становится точнее, когда мы различаем персональный метод Saul и реальное коллективное производство, в котором Elaine была самостоятельным творческим партнером.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.criterion.com/films/449-spartacus",
+          "locator": "DOCX section sec-20",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.criterion.com/films/27901-anatomy-of-a-murder",
+          "locator": "DOCX section sec-20",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_sb_021",
+      "wording_ru": "В Walk on the Wild Side Bass отказывается от плоской графики и строит титры вокруг черной кошки. Criterion отмечает эту последовательность как пример того, как он превращал обыденный объект или существо в необычный визуальный знак. Кошка остается реальной, но кадрирование, свет, монтаж и типографика превращают ее в почти абстрактную форму. Это демонстрирует важное качество Bass: ему не нужна была одна техника, чтобы сохранять авторскую логику. Он мог добиться графичности внутри фотографии и live action без рисованной стилизации.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.criterion.com/films/449-spartacus",
+          "locator": "DOCX section sec-21",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.criterion.com/films/27901-anatomy-of-a-murder",
+          "locator": "DOCX section sec-21",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_sb_022",
+      "wording_ru": "В Grand Prix тема скорости решается через split screen, фрагменты техники, тайминг и монтажное сопоставление. Criterion выделяет эту работу среди последовательностей, в которых Bass использовал язык кино гораздо шире статичной графики. Он проектирует не изображение автомобиля, а ощущение системы: подготовка, механика, ожидание старта, повтор и ускорение. Для motion design это важный урок — динамический объект не обязательно нужно показывать целиком; иногда точнее собрать его из временных и пространственных фрагментов.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.criterion.com/films/449-spartacus",
+          "locator": "DOCX section sec-22",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://eyeondesign.aiga.org/design-history-101/",
+          "locator": "DOCX section sec-22",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_sb_023",
+      "wording_ru": "Bass давно выходил за рамки title design, но Why Man Creates сделал этот переход институционально очевидным. Academy фиксирует фильм как победителя 1969 года в категории Documentary (Short Subject), с Saul Bass как producer. Фильм смешивает анимацию, документальный материал, графику и эссеистическую структуру вокруг вопроса о природе творчества. В нем нет необходимости выбирать между дизайнером и режиссером: именно способность организовать идеи через последовательность образов делает переход естественным. Graphic design здесь становится способом мыслить временем.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://eyeondesign.aiga.org/design-history-101/",
+          "locator": "DOCX section sec-23",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.oscars.org/oscars/ceremonies/1969/B",
+          "locator": "DOCX section sec-23",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_sb_024",
+      "wording_ru": "Параллельно кино Bass десятилетиями развивал corporate identity. AIGA и RIT перечисляют компании, для которых его студия создавала знаки и системы — от Bell и AT&T до Continental, United и других. На первый взгляд логотип и title sequence противоположны: один должен быть стабилен, другой существует во времени. Но метод один и тот же — найти компактную идею, убрать лишнее и проверить, выдерживает ли она смену масштаба и носителя. В кино идея должна пережить движение; в identity — годы использования.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.criterion.com/current/posts/6937-credit-where-it-s-due-the-father-of-the-title-sequence",
+          "locator": "DOCX section sec-24",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://sites.northwestern.edu/transportationdesign/united-airlines/",
+          "locator": "DOCX section sec-24",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_sb_025",
+      "wording_ru": "Northwestern University Transportation Library документирует rebranding Continental Airlines 1968 года и United Airlines tulip 1974 года, связывая оба проекта с Bass. Авиакомпания — особенно жесткий тест для идентичности: знак работает на огромном хвосте самолета, в расписании, билете, рекламе и аэропорту. Bass проектирует не красивую эмблему, а форму с сильным силуэтом и высокой воспроизводимостью. Это то же мышление, что в его киносимволах: идея должна считываться мгновенно, даже когда контекст быстро меняется.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://sites.northwestern.edu/transportationdesign/united-airlines/",
+          "locator": "DOCX section sec-25",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://sites.northwestern.edu/transportationdesign/continental-airlines/",
+          "locator": "DOCX section sec-25",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_sb_026",
+      "wording_ru": "История брендов AT&T показывает переход от Bell symbol конца 1960-х к striped globe начала 1980-х. Academy также сохраняет A New Look for the Bell System — фильм Bass 1969 года, созданный для представления новой identity program. Здесь дизайн становится инфраструктурой: транспорт, здания, телефонные будки, печатные формы и коммуникации должны подчиняться общим правилам. Важен не только знак, но и стандарты применения. Bass демонстрирует, что corporate identity — это управляемая система поведения формы, а не коллекция красивых макетов.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.oscars.org/events/real-indies-close-look-orphan-films",
+          "locator": "DOCX section sec-26",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.oscars.org/film-archive/collections/saul-bass-collection",
+          "locator": "DOCX section sec-26",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_sb_027",
+      "wording_ru": "Phase IV — единственный полнометражный фильм, поставленный Bass. Academy Film Archive указывает, что в 2012 году архив заново обнаружил его оригинальное расширенное абстрактное окончание, что позволило иначе увидеть режиссерскую амбицию проекта. Фильм важен даже там, где он не совпадает с ожиданиями от «Saul Bass design». Его визуальная дисциплина строится через макроизображения, ритм, повтор и поведение системы. Это показывает, что для Bass интерес к форме всегда был связан с вопросом: как зритель понимает сложность через последовательность наблюдений.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.oscars.org/film-archive/collections/saul-bass-collection",
+          "locator": "DOCX section sec-27",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://eyeondesign.aiga.org/design-history-101/",
+          "locator": "DOCX section sec-27",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_sb_028",
+      "wording_ru": "После периода меньшей активности в mainstream titles Saul и Elaine Bass вернулись к большим фильмам через сотрудничество с Martin Scorsese. Academy и Criterion связывают поздний период с GoodFellas, Cape Fear, The Age of Innocence и Casino. Особенно показателен The Age of Innocence: вместо mid-century cut paper появляется насыщенная фотографическая и ботаническая образность, слои кружева и замедленное раскрытие. Это опровергает представление, что Bass всю жизнь повторял одну эстетику. Его постоянство было концептуальным, а не декоративным.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.criterion.com/current/posts/6937-credit-where-it-s-due-the-father-of-the-title-sequence",
+          "locator": "DOCX section sec-28",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.criterion.com/films/449-spartacus",
+          "locator": "DOCX section sec-28",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_sb_029",
+      "wording_ru": "Пародийный «Bass style» сегодня узнается мгновенно: неровный cut paper, ограниченная палитра, грубый grotesk, диагонали. Именно поэтому его так часто имитируют. Но Criterion справедливо отмечает, что внешнее сходство редко воспроизводит то качество, которое делало оригиналы сильными. Причина проста: у Bass форма была следствием тезиса. Ломаная рука существует из-за конкретной темы зависимости; разрезанное тело — из-за структуры Anatomy of a Murder; полосы Psycho — из-за идеи разрыва. Если убрать причинность и оставить только фактуру, получится ретро-декор.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.criterion.com/films/27901-anatomy-of-a-murder",
+          "locator": "DOCX section sec-29",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.moma.org/collection/works/4824",
+          "locator": "DOCX section sec-29",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_sb_030",
+      "wording_ru": "Главный урок Bass — не «делать проще», а находить форму, способную выдержать разные условия. Сильный визуальный тезис может стать постером, движением, обложкой, рекламой, логотипом или пространственной системой, не превращаясь в механическое повторение. Для современного дизайнера, фотографа или арт-директора это особенно актуально в среде множества экранов и форматов. Не нужно начинать с набора адаптаций. Нужно начать с идеи, которая имеет внутреннюю структуру. Тогда система масштабируется естественно, а не за счет декоративной унификации.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://west86th.bgc.bard.edu/articles/reassessing-the-saul-bass-and-alfred-hitchcock-collaboration/",
+          "locator": "DOCX section sec-30",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_8c1d7d1dc61b1253",
+      "title": "Saul Bass",
+      "url": "https://www.rit.edu/carycollection/saul-bass",
+      "publisher": "Cary Graphic Arts Collection, Rochester Institute of Technology",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_b394224ff6e9d150",
+      "title": "Biographical Note: Gyorgy Kepes papers",
+      "url": "https://www.aaa.si.edu/collections/gyorgy-kepes-papers-7252/biographical-note",
+      "publisher": "Archives of American Art, Smithsonian Institution",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_c3b099c97aec2827",
+      "title": "Saul Bass",
+      "url": "https://www.moma.org/artists/372-saul-bass",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_d5f2782b907c5573",
+      "title": "Poster for The Man with the Golden Arm, 1955",
+      "url": "https://www.moma.org/collection/works/5665",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_780d6c129291e146",
+      "title": "Album cover for The Man with the Golden Arm, 1955",
+      "url": "https://www.moma.org/collection/works/185648",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_5290d6d38f1fa19e",
+      "title": "Celebrating Saul Bass’s centenary: 10 essential title sequences",
+      "url": "https://www.bfi.org.uk/lists/celebrating-saul-basss-centenary-10-essential-title-sequences",
+      "publisher": "British Film Institute",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_fd899c4138ba0d6a",
+      "title": "Credit Where It’s Due: The Father of the Title Sequence",
+      "url": "https://www.criterion.com/current/posts/6937-credit-where-it-s-due-the-father-of-the-title-sequence",
+      "publisher": "The Criterion Collection",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_9f42c96bbff50742",
+      "title": "Poster for Anatomy of a Murder, 1959",
+      "url": "https://www.moma.org/collection/works/4824",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_75c547b7f2f149a5",
+      "title": "Anatomy of a Murder, 1959",
+      "url": "https://www.criterion.com/films/27901-anatomy-of-a-murder",
+      "publisher": "The Criterion Collection",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_5627c75031e88062",
+      "title": "Reassessing the Saul Bass and Alfred Hitchcock Collaboration",
+      "url": "https://west86th.bgc.bard.edu/articles/reassessing-the-saul-bass-and-alfred-hitchcock-collaboration/",
+      "publisher": "West 86th / Bard Graduate Center",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_0a857d4cdedb1695",
+      "title": "Spartacus, 1960",
+      "url": "https://www.criterion.com/films/449-spartacus",
+      "publisher": "The Criterion Collection",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_5e59026fc13cd754",
+      "title": "Saul Bass Collection",
+      "url": "https://www.oscars.org/film-archive/collections/saul-bass-collection",
+      "publisher": "Academy Film Archive, Academy of Motion Picture Arts and Sciences",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_add7f83d27f1bc99",
+      "title": "1969 Academy Awards: Why Man Creates",
+      "url": "https://www.oscars.org/oscars/ceremonies/1969/B",
+      "publisher": "Academy of Motion Picture Arts and Sciences",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_f7785cbfda656fc8",
+      "title": "The Real Indies: Corporate Orientation / A New Look for the Bell System",
+      "url": "https://www.oscars.org/events/real-indies-close-look-orphan-films",
+      "publisher": "Academy of Motion Picture Arts and Sciences",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_3ac0de9b905c356c",
+      "title": "Continental Airlines",
+      "url": "https://sites.northwestern.edu/transportationdesign/continental-airlines/",
+      "publisher": "On Board With Design, Northwestern University Transportation Library",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_3a0ea79f203fe2d9",
+      "title": "United Airlines",
+      "url": "https://sites.northwestern.edu/transportationdesign/united-airlines/",
+      "publisher": "On Board With Design, Northwestern University Transportation Library",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_cb21935d54802e3a",
+      "title": "History of AT&T Brands",
+      "url": "https://about.att.com/innovation/intellectualproperty/ip_brands/ip_history.html",
+      "publisher": "AT&T Intellectual Property",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_77178cec2185f1e5",
+      "title": "Marks and Logotypes: History",
+      "url": "https://identity.usc.edu/identity/logos-marks/",
+      "publisher": "University of Southern California Brand and Identity Guidelines",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_18d3f607abd6fb47",
+      "title": "Saul Bass, the Filmmaker’s Graphic Designer",
+      "url": "https://eyeondesign.aiga.org/design-history-101/",
+      "publisher": "AIGA Eye on Design",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_c651f6f74f2d4813",
+      "title": "Words on Film: A Tribute to Saul Bass",
+      "url": "https://www.oscars.org/news/princess-and-frog-hair-and-muriels-wedding-anniversary-screenings-headline-academys-fall-slate",
+      "publisher": "Academy of Motion Picture Arts and Sciences",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_saul_bass__01",
+      "claim_id": "clm_sb_001",
+      "source_id": "src_8c1d7d1dc61b1253",
+      "locator": "DOCX section sec-1",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_saul_bass__02",
+      "claim_id": "clm_sb_002",
+      "source_id": "src_b394224ff6e9d150",
+      "locator": "DOCX section sec-2",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_saul_bass__03",
+      "claim_id": "clm_sb_003",
+      "source_id": "src_b394224ff6e9d150",
+      "locator": "DOCX section sec-3",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_saul_bass__04",
+      "claim_id": "clm_sb_004",
+      "source_id": "src_d5f2782b907c5573",
+      "locator": "DOCX section sec-4",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_saul_bass__05",
+      "claim_id": "clm_sb_005",
+      "source_id": "src_780d6c129291e146",
+      "locator": "DOCX section sec-5",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_saul_bass__06",
+      "claim_id": "clm_sb_006",
+      "source_id": "src_5290d6d38f1fa19e",
+      "locator": "DOCX section sec-6",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_saul_bass__07",
+      "claim_id": "clm_sb_007",
+      "source_id": "src_18d3f607abd6fb47",
+      "locator": "DOCX section sec-7",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_saul_bass__08",
+      "claim_id": "clm_sb_008",
+      "source_id": "src_780d6c129291e146",
+      "locator": "DOCX section sec-8",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_saul_bass__09",
+      "claim_id": "clm_sb_009",
+      "source_id": "src_fd899c4138ba0d6a",
+      "locator": "DOCX section sec-9",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_saul_bass__10",
+      "claim_id": "clm_sb_010",
+      "source_id": "src_18d3f607abd6fb47",
+      "locator": "DOCX section sec-10",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_saul_bass__11",
+      "claim_id": "clm_sb_011",
+      "source_id": "src_75c547b7f2f149a5",
+      "locator": "DOCX section sec-11",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_saul_bass__12",
+      "claim_id": "clm_sb_012",
+      "source_id": "src_5e59026fc13cd754",
+      "locator": "DOCX section sec-12",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_saul_bass__13",
+      "claim_id": "clm_sb_013",
+      "source_id": "src_18d3f607abd6fb47",
+      "locator": "DOCX section sec-13",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_saul_bass__14",
+      "claim_id": "clm_sb_014",
+      "source_id": "src_18d3f607abd6fb47",
+      "locator": "DOCX section sec-14",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_saul_bass__15",
+      "claim_id": "clm_sb_015",
+      "source_id": "src_75c547b7f2f149a5",
+      "locator": "DOCX section sec-15",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_saul_bass__16",
+      "claim_id": "clm_sb_016",
+      "source_id": "src_3a0ea79f203fe2d9",
+      "locator": "DOCX section sec-16",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_saul_bass__17",
+      "claim_id": "clm_sb_017",
+      "source_id": "src_18d3f607abd6fb47",
+      "locator": "DOCX section sec-17",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_saul_bass__18",
+      "claim_id": "clm_sb_018",
+      "source_id": "src_0a857d4cdedb1695",
+      "locator": "DOCX section sec-18",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_saul_bass__19",
+      "claim_id": "clm_sb_019",
+      "source_id": "src_18d3f607abd6fb47",
+      "locator": "DOCX section sec-19",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_saul_bass__20",
+      "claim_id": "clm_sb_020",
+      "source_id": "src_0a857d4cdedb1695",
+      "locator": "DOCX section sec-20",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_saul_bass__21",
+      "claim_id": "clm_sb_021",
+      "source_id": "src_0a857d4cdedb1695",
+      "locator": "DOCX section sec-21",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_saul_bass__22",
+      "claim_id": "clm_sb_022",
+      "source_id": "src_0a857d4cdedb1695",
+      "locator": "DOCX section sec-22",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_saul_bass__23",
+      "claim_id": "clm_sb_023",
+      "source_id": "src_18d3f607abd6fb47",
+      "locator": "DOCX section sec-23",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_saul_bass__24",
+      "claim_id": "clm_sb_024",
+      "source_id": "src_fd899c4138ba0d6a",
+      "locator": "DOCX section sec-24",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_saul_bass__25",
+      "claim_id": "clm_sb_025",
+      "source_id": "src_3a0ea79f203fe2d9",
+      "locator": "DOCX section sec-25",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_saul_bass__26",
+      "claim_id": "clm_sb_026",
+      "source_id": "src_f7785cbfda656fc8",
+      "locator": "DOCX section sec-26",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_saul_bass__27",
+      "claim_id": "clm_sb_027",
+      "source_id": "src_5e59026fc13cd754",
+      "locator": "DOCX section sec-27",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_saul_bass__28",
+      "claim_id": "clm_sb_028",
+      "source_id": "src_fd899c4138ba0d6a",
+      "locator": "DOCX section sec-28",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_saul_bass__29",
+      "claim_id": "clm_sb_029",
+      "source_id": "src_75c547b7f2f149a5",
+      "locator": "DOCX section sec-29",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_saul_bass__30",
+      "claim_id": "clm_sb_030",
+      "source_id": "src_5627c75031e88062",
+      "locator": "DOCX section sec-30",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "media_state": "media_ready",
+  "workflow": {
+    "decision": "AUTO_APPROVE",
+    "note": "RU/EN pair passed DOCX structure, source-format, URL reachability, taxonomy and media-rights checks on 2026-08-12. Claims remain explicitly attributed to the listed sources.",
+    "converted_by": "VANSMITHLAB incoming article publication workflow",
+    "converted_at": "2026-08-12T00:00:00.000Z",
+    "media_reviewed_at": "2026-08-12",
+    "media_note": "Card and portrait are original AI editorial illustrations; neither is documentary evidence or a copied archival photograph."
+  }
+}

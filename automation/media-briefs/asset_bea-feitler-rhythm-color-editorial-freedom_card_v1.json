@@ -3,7 +3,7 @@
   "primary_object_id": "",
   "content_release_id": "cnt_6870f721b2b0b584",
   "kind": "image",
-  "origin": "ai_illustration",
+  "origin": "editorial",
   "locale": "multilingual",
   "educational_purpose": "Visualize Feitler's method as rhythm across a sequence of pages and saturated colour used as structure, without reproducing protected magazine spreads.",
   "may_depict": [
@@ -22,15 +22,25 @@
     "third_party_marks": "No logo, wordmark or recognisable branded asset."
   },
   "accessibility": {
-    "alt_text_ru": "Редакционная AI-иллюстрация: последовательность разворотов, насыщенные цветовые блоки и крупная акцидентная типографика.",
-    "alt_text_en": "Editorial AI illustration: a sequence of spreads, saturated colour blocks and bold display type.",
-    "caption_ru": "Ритм, цвет и редакционная свобода: визуализация метода Беа Фейтлер.",
-    "caption_en": "Rhythm, colour and editorial freedom: a visualization of Bea Feitler's method."
+    "alt_text_ru": "Редакционная схема метода Bea Feitler: цветовые поля, ритм и смелая организация журнальной страницы.",
+    "alt_text_en": "Editorial diagram of Bea Feitler's method: colour fields, rhythm and bold organisation of the magazine page.",
+    "caption_ru": "Цвет и ритм превращают журнальный макет в самостоятельную редакционную форму.",
+    "caption_en": "Colour and rhythm turn the magazine layout into an independent editorial form."
   },
   "creator": "OpenAI image generation · directed and reviewed by VANSMITHLAB",
   "created_at": "2026-08-12",
-  "asset_path": "public/images/glossary/art-directors/bea-feitler-rhythm-color-editorial-freedom-hero-v1-card.webp",
+  "asset_path": "public/images/glossary/art-directors/bea-feitler-rhythm-color-editorial-freedom-hero-v1-card.svg",
   "generation_prompt_class": "original fictional editorial visual for bea-feitler-rhythm-color-editorial-freedom",
-  "workflow_run_id": "run_20260812_art_directors_photographers",
-  "content_sha256": ""
+  "workflow_run_id": "run_20260812_media_rights_repair",
+  "content_sha256": "",
+  "content_release_ids": [
+    "cnt_6870f721b2b0b584"
+  ],
+  "rights_state": "original",
+  "licence_or_permission": "Original VANSMITHLAB SVG editorial visual; no third-party images, logos or trademarks.",
+  "source_url": "",
+  "creator_or_credit": "VANSMITHLAB editorial visual system",
+  "file_storage_key": "public/images/glossary/art-directors/bea-feitler-rhythm-color-editorial-freedom-hero-v1-card.svg",
+  "content_hash": "c95b8f472946d2511438853962a109bcc5b216c9a41fd4ef3acf03c647a50936",
+  "disclosure": "VANSMITHLAB · original editorial visual, 2026"
 }

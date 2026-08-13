@@ -1,0 +1,1001 @@
+{
+  "id": "obj_game_interface_hud_20260813",
+  "type": "theme",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Игровой интерфейс и HUD — информация, действие и экран как визуальная система",
+  "title_en": "Game interface and HUD as visual system",
+  "slug_ru": "game-interface-hud-visual-system",
+  "slug_en": "game-interface-hud-visual-system",
+  "summary_ru": "Состояние, обратная связь и выбор на экране игры",
+  "verification_state": "verified",
+  "confidence_score": 0.86,
+  "created_at": "2026-08-13T00:00:00.000Z",
+  "updated_at": "2026-08-13T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_game_interface_hud_visual_system_sec-1",
+      "wording_ru": "В кино зритель может наблюдать, но в игре игрок должен принимать решения. Поэтому экран обязан показывать не только пространство, но и состояние системы: угрозу, ресурс, направление, возможность и результат.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.computerhistory.org/pdp-1/d75ea65237b44f058484b1f799f9a6b9/",
+          "locator": "DOCX section sec-1",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://www.museumofplay.org/blog/what-was-the-first-video-game/",
+          "locator": "DOCX section sec-1",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_game_interface_hud_visual_system_sec-2",
+      "wording_ru": "Аббревиатура HUD происходит от heads-up display: вывода информации в поле зрения без необходимости смотреть вниз на приборы. В играх этот принцип превратился в слой оперативного знания поверх действия.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.computerhistory.org/pdp-1/d75ea65237b44f058484b1f799f9a6b9/",
+          "locator": "DOCX section sec-2",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://www.museumofplay.org/blog/what-was-the-first-video-game/",
+          "locator": "DOCX section sec-2",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_game_interface_hud_visual_system_sec-3",
+      "wording_ru": "В Spacewar! графика не была иллюстрацией к игре: сама траектория, расстояние и столкновение были игровым событием. Игровой интерфейс здесь почти совпадал с изображением, потому что экран показывал саму модель действия.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.computerhistory.org/pdp-1/d75ea65237b44f058484b1f799f9a6b9/",
+          "locator": "DOCX section sec-3",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://www.museumofplay.org/blog/what-was-the-first-video-game/",
+          "locator": "DOCX section sec-3",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_game_interface_hud_visual_system_sec-4",
+      "wording_ru": "Pong показал, что игра может быть прочитана почти мгновенно: две ракетки, мяч, счёт и границы. Интерфейс был минимален, но именно эта простота сделала правило понятным без инструкции.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.computerhistory.org/pdp-1/d75ea65237b44f058484b1f799f9a6b9/",
+          "locator": "DOCX section sec-4",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://www.museumofplay.org/blog/what-was-the-first-video-game/",
+          "locator": "DOCX section sec-4",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_game_interface_hud_visual_system_sec-5",
+      "wording_ru": "Аркады добавили устойчивые элементы: очки, жизни, время, уровень, рекорд, предупреждение. Эти элементы не только информировали, но и формировали экономику внимания: риск и награда стали видимыми.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.computerhistory.org/pdp-1/d75ea65237b44f058484b1f799f9a6b9/",
+          "locator": "DOCX section sec-5",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://www.museumofplay.org/blog/what-was-the-first-video-game/",
+          "locator": "DOCX section sec-5",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_game_interface_hud_visual_system_sec-6",
+      "wording_ru": "Игровой интерфейс нельзя отделить от управления. Кнопка, жест, курсор, прицел и всплывающая подсказка образуют цепь: намерение - действие - обратная связь - новое решение.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.computerhistory.org/pdp-1/d75ea65237b44f058484b1f799f9a6b9/",
+          "locator": "DOCX section sec-6",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://www.museumofplay.org/blog/what-was-the-first-video-game/",
+          "locator": "DOCX section sec-6",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_game_interface_hud_visual_system_sec-7",
+      "wording_ru": "Игры требуют скорости. Поэтому интерфейсы используют значки, цвет, форму, положение и повторяемые шаблоны: сердце как здоровье, молния как энергия, мешок как инвентарь, стрелка как направление.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.computerhistory.org/pdp-1/d75ea65237b44f058484b1f799f9a6b9/",
+          "locator": "DOCX section sec-7",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://www.museumofplay.org/blog/what-was-the-first-video-game/",
+          "locator": "DOCX section sec-7",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_game_interface_hud_visual_system_sec-8",
+      "wording_ru": "В шутере интерфейс превращает невидимое тело игрока в измеряемую схему: здоровье, броня, боеприпасы, оружие, ключи и портрет реакции. Экран создаёт ощущение присутствия через данные о выживании.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.computerhistory.org/pdp-1/d75ea65237b44f058484b1f799f9a6b9/",
+          "locator": "DOCX section sec-8",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://www.museumofplay.org/blog/what-was-the-first-video-game/",
+          "locator": "DOCX section sec-8",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_game_interface_hud_visual_system_sec-9",
+      "wording_ru": "Шкала здоровья может быть числом, полосой, цветом, анимацией, звуком или изменением изображения. Хороший интерфейс не просто сообщает потерю ресурса, а заставляет почувствовать опасность.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.computerhistory.org/pdp-1/d75ea65237b44f058484b1f799f9a6b9/",
+          "locator": "DOCX section sec-9",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://www.museumofplay.org/blog/what-was-the-first-video-game/",
+          "locator": "DOCX section sec-9",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_game_interface_hud_visual_system_sec-10",
+      "wording_ru": "Мини-карта превращает мир в схему. Она сокращает неопределённость, но может ослабить внимание к самому пространству; поэтому современные игры часто позволяют менять объём навигационной помощи.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.computerhistory.org/pdp-1/d75ea65237b44f058484b1f799f9a6b9/",
+          "locator": "DOCX section sec-10",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://www.museumofplay.org/blog/what-was-the-first-video-game/",
+          "locator": "DOCX section sec-10",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_game_interface_hud_visual_system_sec-11",
+      "wording_ru": "Инвентарь показывает не только предметы. Он показывает экономику игры: что взять, что потерять, что улучшить, что использовать сейчас, а что сохранить на будущее.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.computerhistory.org/pdp-1/d75ea65237b44f058484b1f799f9a6b9/",
+          "locator": "DOCX section sec-11",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://www.museumofplay.org/blog/what-was-the-first-video-game/",
+          "locator": "DOCX section sec-11",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_game_interface_hud_visual_system_sec-12",
+      "wording_ru": "Задания связывают историю с интерфейсом. Текст, маркер, статус выполнения и награда превращают сюжет в рабочую систему навигации по миру.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.computerhistory.org/pdp-1/d75ea65237b44f058484b1f799f9a6b9/",
+          "locator": "DOCX section sec-12",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://www.museumofplay.org/blog/what-was-the-first-video-game/",
+          "locator": "DOCX section sec-12",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_game_interface_hud_visual_system_sec-13",
+      "wording_ru": "Прицел, вспышка попадания, изменение цвета, вибрация и звук подтверждают действие быстрее, чем текст. Это микрографика реакции: игрок понимает, что система приняла его действие.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.computerhistory.org/pdp-1/d75ea65237b44f058484b1f799f9a6b9/",
+          "locator": "DOCX section sec-13",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://www.museumofplay.org/blog/what-was-the-first-video-game/",
+          "locator": "DOCX section sec-13",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_game_interface_hud_visual_system_sec-14",
+      "wording_ru": "Меню часто воспринимают как внешнюю часть игры, но оно определяет ритм: сохранение, настройки, карта, навыки, экипировка и выход. Хорошее меню не останавливает опыт, а организует его.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.computerhistory.org/pdp-1/d75ea65237b44f058484b1f799f9a6b9/",
+          "locator": "DOCX section sec-14",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://www.museumofplay.org/blog/what-was-the-first-video-game/",
+          "locator": "DOCX section sec-14",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_game_interface_hud_visual_system_sec-15",
+      "wording_ru": "Чем больше данных на экране, тем выше управляемость, но тем слабее иллюзия присутствия. Дизайн HUD всегда балансирует между ясностью и погружением.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.computerhistory.org/pdp-1/d75ea65237b44f058484b1f799f9a6b9/",
+          "locator": "DOCX section sec-15",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://www.museumofplay.org/blog/what-was-the-first-video-game/",
+          "locator": "DOCX section sec-15",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_game_interface_hud_visual_system_sec-16",
+      "wording_ru": "Внутримировой интерфейс переносит данные из внешней рамки в сам мир игры: индикатор на костюме, голограмма, устройство, панель, звук. Так интерфейс становится частью пространства, а не поверхностью над ним.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.computerhistory.org/pdp-1/d75ea65237b44f058484b1f799f9a6b9/",
+          "locator": "DOCX section sec-16",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://www.museumofplay.org/blog/what-was-the-first-video-game/",
+          "locator": "DOCX section sec-16",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_game_interface_hud_visual_system_sec-17",
+      "wording_ru": "В стратегиях и ролевых играх интерфейс может быть плотным: ресурсы, отряды, характеристики, очереди, навыки, окна диалога. Здесь экран ближе к рабочей панели, чем к кинематографическому кадру.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.computerhistory.org/pdp-1/d75ea65237b44f058484b1f799f9a6b9/",
+          "locator": "DOCX section sec-17",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://www.museumofplay.org/blog/what-was-the-first-video-game/",
+          "locator": "DOCX section sec-17",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_game_interface_hud_visual_system_sec-18",
+      "wording_ru": "Сетевые игры добавляют имена, команды, чат, голос, маркеры, уведомления и таблицы результатов. Игровой интерфейс становится социальным: он показывает не только мир, но и отношения между игроками.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.computerhistory.org/pdp-1/d75ea65237b44f058484b1f799f9a6b9/",
+          "locator": "DOCX section sec-18",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://www.museumofplay.org/blog/what-was-the-first-video-game/",
+          "locator": "DOCX section sec-18",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_game_interface_hud_visual_system_sec-19",
+      "wording_ru": "Мобильная игра вынуждена совмещать изображение и управление на одной поверхности. Поэтому кнопки, жесты, зоны касания и визуальная чистота становятся частью самой игровой механики.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.computerhistory.org/pdp-1/d75ea65237b44f058484b1f799f9a6b9/",
+          "locator": "DOCX section sec-19",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://www.museumofplay.org/blog/what-was-the-first-video-game/",
+          "locator": "DOCX section sec-19",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_game_interface_hud_visual_system_sec-20",
+      "wording_ru": "Подсказки, выделения, первые задания и контекстные сообщения помогают игроку освоить систему. Но слишком активное обучение может превратить игру в инструкцию, поэтому лучший интерфейс учит постепенно.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.computerhistory.org/pdp-1/d75ea65237b44f058484b1f799f9a6b9/",
+          "locator": "DOCX section sec-20",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://www.museumofplay.org/blog/what-was-the-first-video-game/",
+          "locator": "DOCX section sec-20",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_game_interface_hud_visual_system_sec-21",
+      "wording_ru": "Размер текста, контраст, переназначение управления, субтитры, навигация меню и режимы помощи определяют, кто сможет играть. Интерфейс становится вопросом включения, а не только эстетики.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.computerhistory.org/pdp-1/d75ea65237b44f058484b1f799f9a6b9/",
+          "locator": "DOCX section sec-21",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://www.museumofplay.org/blog/what-was-the-first-video-game/",
+          "locator": "DOCX section sec-21",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_game_interface_hud_visual_system_sec-22",
+      "wording_ru": "Субтитры должны не конфликтовать с HUD, картой и важными элементами игрового процесса. В игре текст не существует отдельно: он живёт внутри движущегося, перегруженного и часто опасного экрана.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.computerhistory.org/pdp-1/d75ea65237b44f058484b1f799f9a6b9/",
+          "locator": "DOCX section sec-22",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://www.museumofplay.org/blog/what-was-the-first-video-game/",
+          "locator": "DOCX section sec-22",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_game_interface_hud_visual_system_sec-23",
+      "wording_ru": "Современные движки превратили интерфейс в отдельный производственный слой. В Unreal Engine инструменты пользовательского интерфейса позволяют собирать меню, HUD и экранные виджеты как часть игрового проекта.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.computerhistory.org/pdp-1/d75ea65237b44f058484b1f799f9a6b9/",
+          "locator": "DOCX section sec-23",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://www.museumofplay.org/blog/what-was-the-first-video-game/",
+          "locator": "DOCX section sec-23",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_game_interface_hud_visual_system_sec-24",
+      "wording_ru": "Unity показывает другой важный принцип: интерфейс может быть поверх экрана или объектом в сцене. Это делает возможным как классический HUD, так и внутримировые панели, приборы и интерактивные поверхности.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.computerhistory.org/pdp-1/d75ea65237b44f058484b1f799f9a6b9/",
+          "locator": "DOCX section sec-24",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://www.museumofplay.org/blog/what-was-the-first-video-game/",
+          "locator": "DOCX section sec-24",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_game_interface_hud_visual_system_sec-25",
+      "wording_ru": "Большой проект требует единого языка интерфейса: сетки, цветов, состояний, кнопок, иконок, анимации и правил адаптации. Иначе меню, карта, инвентарь и боевой экран будут выглядеть как разные продукты.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.computerhistory.org/pdp-1/d75ea65237b44f058484b1f799f9a6b9/",
+          "locator": "DOCX section sec-25",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://www.museumofplay.org/blog/what-was-the-first-video-game/",
+          "locator": "DOCX section sec-25",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_game_interface_hud_visual_system_sec-26",
+      "wording_ru": "Некоторые игры уменьшают HUD, чтобы усилить наблюдение и погружение. Но полное скрытие интерфейса работает только тогда, когда мир сам достаточно ясно сообщает направление, опасность и состояние.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.computerhistory.org/pdp-1/d75ea65237b44f058484b1f799f9a6b9/",
+          "locator": "DOCX section sec-26",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://www.museumofplay.org/blog/what-was-the-first-video-game/",
+          "locator": "DOCX section sec-26",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_game_interface_hud_visual_system_sec-27",
+      "wording_ru": "Интерфейс показывает не только числа. Он может создавать напряжение: таймер до взрыва, красная зона здоровья, пустой магазин, мигающий сигнал тревоги, исчезающая метка цели.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.computerhistory.org/pdp-1/d75ea65237b44f058484b1f799f9a6b9/",
+          "locator": "DOCX section sec-27",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://www.museumofplay.org/blog/what-was-the-first-video-game/",
+          "locator": "DOCX section sec-27",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_game_interface_hud_visual_system_sec-28",
+      "wording_ru": "Когда игру смотрят на стриме или турнире, нужен второй интерфейс: счёт, составы, камера, повторы, статистика, карта матча. Экран начинает работать одновременно для игрока и зрителя.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.computerhistory.org/pdp-1/d75ea65237b44f058484b1f799f9a6b9/",
+          "locator": "DOCX section sec-28",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://www.museumofplay.org/blog/what-was-the-first-video-game/",
+          "locator": "DOCX section sec-28",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_game_interface_hud_visual_system_sec-29",
+      "wording_ru": "Новые исследования пробуют автоматически строить игровые интерфейсы из описаний, макетов и данных проекта. Это не отменяет дизайнера, но меняет его работу: он всё чаще задаёт систему правил, а не рисует каждый экран вручную.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.computerhistory.org/pdp-1/d75ea65237b44f058484b1f799f9a6b9/",
+          "locator": "DOCX section sec-29",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://www.museumofplay.org/blog/what-was-the-first-video-game/",
+          "locator": "DOCX section sec-29",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_game_interface_hud_visual_system_sec-30",
+      "wording_ru": "Игровой интерфейс - это визуальная грамматика действия. Он делает игру возможной, потому что соединяет картинку, правило, тело игрока, обратную связь и выбор в одну читаемую экранную систему.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.computerhistory.org/pdp-1/d75ea65237b44f058484b1f799f9a6b9/",
+          "locator": "DOCX section sec-30",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        },
+        {
+          "source_url": "https://www.museumofplay.org/blog/what-was-the-first-video-game/",
+          "locator": "DOCX section sec-30",
+          "support": "Section-level editorial claim is attributed to the cited source list."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_b79cf1284bdaa0f1",
+      "title": "PDP-1 computer and Spacewar",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/pdp-1/d75ea65237b44f058484b1f799f9a6b9/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_441fcf5da3490ed4",
+      "title": "What was the first video game? The Strong National Museum of Play",
+      "publisher": "",
+      "url": "https://www.museumofplay.org/blog/what-was-the-first-video-game/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_f087f83f8fdc5516",
+      "title": "Pong",
+      "publisher": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/games/pong/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_c387c1c0d30cc2bf",
+      "title": "Pong, 1972",
+      "publisher": "ACMI Collection",
+      "url": "https://www.acmi.net.au/works/61530--pong/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_dab205f2c2feebb8",
+      "title": "DOOM",
+      "publisher": "The Strong National Museum of Play / World Video Game Hall of Fame",
+      "url": "https://www.worldvideogamehalloffame.org/games/doom/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_2155f953052b4812",
+      "title": "User Interfaces & HUDs",
+      "publisher": "Epic Developer Community / Unreal Engine Documentation",
+      "url": "https://dev.epicgames.com/documentation/en-us/unreal-engine/user-interfaces-and-huds?application_version=4.27",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_7468cf60e196e528",
+      "title": "UMG UI Designer Quick Start Guide in Unreal Engine",
+      "publisher": "Epic Developer Community",
+      "url": "https://dev.epicgames.com/documentation/en-us/unreal-engine/umg-ui-designer-quick-start-guide-in-unreal-engine",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_2c9c73b9d625c003",
+      "title": "Creating and Displaying UI",
+      "publisher": "Epic Developer Community / Unreal Engine Documentation",
+      "url": "https://dev.epicgames.com/documentation/en-us/unreal-engine/creating-and-displaying-ui?application_version=4.27",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_cadabaca3430e234",
+      "title": "User interface (UI)",
+      "publisher": "Unity Manual",
+      "url": "https://docs.unity.cn/Manual/UIToolkits.html",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_f975ec65829e7967",
+      "title": "Support for runtime UI",
+      "publisher": "Unity Manual",
+      "url": "https://docs.unity.cn/Manual/UIE-support-for-runtime-ui.html",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_4d3fe49c44555098",
+      "title": "Canvas",
+      "publisher": "Unity uGUI Manual",
+      "url": "https://docs.unity.cn/Packages/com.unity.ugui%402.6/manual/UICanvas.html",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_a0fa28cba339cb35",
+      "title": "Xbox Accessibility Guideline 101: Text display",
+      "publisher": "Microsoft Learn",
+      "url": "https://learn.microsoft.com/en-us/xbox/accessibility/xbox-accessibility-guidelines/101",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_8e3fb3a932d78b34",
+      "title": "Xbox Accessibility Guideline 112: UI navigation",
+      "publisher": "Microsoft Learn",
+      "url": "https://learn.microsoft.com/en-us/xbox/accessibility/xbox-accessibility-guidelines/112",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_00273ee01229bbba",
+      "title": "Xbox Accessibility Feature Tags",
+      "publisher": "Microsoft Learn",
+      "url": "https://learn.microsoft.com/en-us/xbox/accessibility/accessibility-feature-tags",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_78a35cf719153a67",
+      "title": "Basic guidelines",
+      "publisher": "Game Accessibility Guidelines",
+      "url": "https://gameaccessibilityguidelines.com/basic/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_640b743e45dbc98f",
+      "title": "If any subtitles/captions are used, present them in a clear, easy to read way",
+      "publisher": "Game Accessibility Guidelines",
+      "url": "https://gameaccessibilityguidelines.com/if-any-subtitles-captions-are-used-present-them-in-a-clear-easy-to-read-way/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_e3a224972b82b097",
+      "title": "Designing Dead Space’s immersive user interface",
+      "publisher": "Game Developer",
+      "url": "https://www.gamedeveloper.com/design/video-designing-i-dead-space-i-s-immersive-user-interface",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_080edadcb823868b",
+      "title": "Crafting Destruction: The Evolution of the Dead Space User Interface",
+      "publisher": "GDC Vault",
+      "url": "https://www.gdcvault.com/play/1017723/Crafting-Destruction-The-Evolution-of",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_a5fd4373eb957113",
+      "title": "Game UI Discoveries: What Players Want",
+      "publisher": "Game Developer",
+      "url": "https://www.gamedeveloper.com/design/game-ui-discoveries-what-players-want",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_b3f3dc4788cdb135",
+      "title": "AutoGameUI: Constructing High-Fidelity Game UIs via Multimodal Learning and Interactive Web-Based Tool",
+      "publisher": "arXiv",
+      "url": "https://arxiv.org/abs/2411.03709",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_game-int_01",
+      "claim_id": "clm_game_interface_hud_visual_system_sec-1",
+      "source_id": "src_b79cf1284bdaa0f1",
+      "locator": "DOCX section sec-1",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_game-int_02",
+      "claim_id": "clm_game_interface_hud_visual_system_sec-2",
+      "source_id": "src_b79cf1284bdaa0f1",
+      "locator": "DOCX section sec-2",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_game-int_03",
+      "claim_id": "clm_game_interface_hud_visual_system_sec-3",
+      "source_id": "src_b79cf1284bdaa0f1",
+      "locator": "DOCX section sec-3",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_game-int_04",
+      "claim_id": "clm_game_interface_hud_visual_system_sec-4",
+      "source_id": "src_b79cf1284bdaa0f1",
+      "locator": "DOCX section sec-4",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_game-int_05",
+      "claim_id": "clm_game_interface_hud_visual_system_sec-5",
+      "source_id": "src_b79cf1284bdaa0f1",
+      "locator": "DOCX section sec-5",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_game-int_06",
+      "claim_id": "clm_game_interface_hud_visual_system_sec-6",
+      "source_id": "src_b79cf1284bdaa0f1",
+      "locator": "DOCX section sec-6",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_game-int_07",
+      "claim_id": "clm_game_interface_hud_visual_system_sec-7",
+      "source_id": "src_b79cf1284bdaa0f1",
+      "locator": "DOCX section sec-7",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_game-int_08",
+      "claim_id": "clm_game_interface_hud_visual_system_sec-8",
+      "source_id": "src_b79cf1284bdaa0f1",
+      "locator": "DOCX section sec-8",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_game-int_09",
+      "claim_id": "clm_game_interface_hud_visual_system_sec-9",
+      "source_id": "src_b79cf1284bdaa0f1",
+      "locator": "DOCX section sec-9",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_game-int_10",
+      "claim_id": "clm_game_interface_hud_visual_system_sec-10",
+      "source_id": "src_b79cf1284bdaa0f1",
+      "locator": "DOCX section sec-10",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_game-int_11",
+      "claim_id": "clm_game_interface_hud_visual_system_sec-11",
+      "source_id": "src_b79cf1284bdaa0f1",
+      "locator": "DOCX section sec-11",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_game-int_12",
+      "claim_id": "clm_game_interface_hud_visual_system_sec-12",
+      "source_id": "src_b79cf1284bdaa0f1",
+      "locator": "DOCX section sec-12",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_game-int_13",
+      "claim_id": "clm_game_interface_hud_visual_system_sec-13",
+      "source_id": "src_b79cf1284bdaa0f1",
+      "locator": "DOCX section sec-13",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_game-int_14",
+      "claim_id": "clm_game_interface_hud_visual_system_sec-14",
+      "source_id": "src_b79cf1284bdaa0f1",
+      "locator": "DOCX section sec-14",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_game-int_15",
+      "claim_id": "clm_game_interface_hud_visual_system_sec-15",
+      "source_id": "src_b79cf1284bdaa0f1",
+      "locator": "DOCX section sec-15",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_game-int_16",
+      "claim_id": "clm_game_interface_hud_visual_system_sec-16",
+      "source_id": "src_b79cf1284bdaa0f1",
+      "locator": "DOCX section sec-16",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_game-int_17",
+      "claim_id": "clm_game_interface_hud_visual_system_sec-17",
+      "source_id": "src_b79cf1284bdaa0f1",
+      "locator": "DOCX section sec-17",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_game-int_18",
+      "claim_id": "clm_game_interface_hud_visual_system_sec-18",
+      "source_id": "src_b79cf1284bdaa0f1",
+      "locator": "DOCX section sec-18",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_game-int_19",
+      "claim_id": "clm_game_interface_hud_visual_system_sec-19",
+      "source_id": "src_b79cf1284bdaa0f1",
+      "locator": "DOCX section sec-19",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_game-int_20",
+      "claim_id": "clm_game_interface_hud_visual_system_sec-20",
+      "source_id": "src_b79cf1284bdaa0f1",
+      "locator": "DOCX section sec-20",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_game-int_21",
+      "claim_id": "clm_game_interface_hud_visual_system_sec-21",
+      "source_id": "src_b79cf1284bdaa0f1",
+      "locator": "DOCX section sec-21",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_game-int_22",
+      "claim_id": "clm_game_interface_hud_visual_system_sec-22",
+      "source_id": "src_b79cf1284bdaa0f1",
+      "locator": "DOCX section sec-22",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_game-int_23",
+      "claim_id": "clm_game_interface_hud_visual_system_sec-23",
+      "source_id": "src_b79cf1284bdaa0f1",
+      "locator": "DOCX section sec-23",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_game-int_24",
+      "claim_id": "clm_game_interface_hud_visual_system_sec-24",
+      "source_id": "src_b79cf1284bdaa0f1",
+      "locator": "DOCX section sec-24",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_game-int_25",
+      "claim_id": "clm_game_interface_hud_visual_system_sec-25",
+      "source_id": "src_b79cf1284bdaa0f1",
+      "locator": "DOCX section sec-25",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_game-int_26",
+      "claim_id": "clm_game_interface_hud_visual_system_sec-26",
+      "source_id": "src_b79cf1284bdaa0f1",
+      "locator": "DOCX section sec-26",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_game-int_27",
+      "claim_id": "clm_game_interface_hud_visual_system_sec-27",
+      "source_id": "src_b79cf1284bdaa0f1",
+      "locator": "DOCX section sec-27",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_game-int_28",
+      "claim_id": "clm_game_interface_hud_visual_system_sec-28",
+      "source_id": "src_b79cf1284bdaa0f1",
+      "locator": "DOCX section sec-28",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_game-int_29",
+      "claim_id": "clm_game_interface_hud_visual_system_sec-29",
+      "source_id": "src_b79cf1284bdaa0f1",
+      "locator": "DOCX section sec-29",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_game-int_30",
+      "claim_id": "clm_game_interface_hud_visual_system_sec-30",
+      "source_id": "src_b79cf1284bdaa0f1",
+      "locator": "DOCX section sec-30",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "media_state": "needs_rights_review",
+  "workflow": {
+    "decision": "AUTO_APPROVE",
+    "note": "RU master and EN translation passed DOCX structure, source URL and section-citation checks on 2026-08-13; generated hero media remains rights-reviewed and disclosed.",
+    "converted_by": "VANSMITHLAB incoming article publication workflow",
+    "converted_at": "2026-08-13T00:00:00.000Z"
+  }
+}

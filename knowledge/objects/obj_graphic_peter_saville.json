@@ -4,254 +4,534 @@
   "canonical_locale": "ru",
   "lifecycle_state": "published",
   "revision": 2,
-  "title_ru": "????? ??????",
-  "slug_ru": "peter-savill",
-  "slug_en": "peter-savill",
-  "summary_ru": "??????????? ??????, ??????????? ???????? ? ???????????? ??? ???????",
-  "verification_state": "multi_source_verified",
-  "confidence_score": 0.88,
+  "title_ru": "Питер Сэвилл",
+  "slug_ru": "peter-saville",
+  "slug_en": "peter-saville",
+  "summary_ru": "Музыка, код и идентичность как культурная система",
+  "verification_state": "verified",
+  "confidence_score": 0.86,
   "created_at": "2026-08-09T00:00:00.000Z",
-  "updated_at": "2026-08-10T00:00:00.000Z",
+  "updated_at": "2026-08-12T00:00:00.000Z",
   "claims": [
     {
-      "id": "clm_001",
-      "wording_ru": "Питер Сэвилл сделал графический дизайн частью музыкального опыта: обложка перестала объяснять запись и стала параллельным культурным объектом. Его практика соединяет модернистскую типографику, найденные изображения, кодирование, моду, искусство и идентичность города.",
+      "id": "clm_ps_001",
+      "wording_ru": "Питер Сэвилл родился в Манчестере в 1955 году и вырос в Hale. Design Museum, Science Museum Group и National Portrait Gallery связывают его профессиональную идентичность с городом, чья индустриальная история и позднейшая музыкальная культура постоянно возвращаются в его работе. Манчестер важен здесь не как декоративный фон. Город показывает, что визуальная культура возникает не отдельно от экономики и инфраструктуры: фабрики, транспорт, клубы, независимый лейбл, печатное производство и молодёжная сцена оказываются частями одной системы.",
       "claim_type": "attribution",
       "material": true,
+      "evidence": [
+        {
+          "source_url": "https://designmuseum.org/designers/peter-saville",
+          "locator": "DOCX section sec-1",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.moma.org/artists/39654-peter-saville",
+          "locator": "DOCX section sec-1",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://collection.sciencemuseumgroup.org.uk/people/ap19213",
+          "locator": "DOCX section sec-1",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
       "verification_state": "multi_source_verified",
-      "confidence_score": 0.88
+      "confidence_score": 0.86
     },
     {
-      "id": "clm_002",
-      "wording_ru": "Питер Сэвилл родился в Манчестере в 1955 году, изучал графический дизайн в Manchester Polytechnic и в 1978 году создал афишу для клубной ночи The Factory. В 1979 году он стал сооснователем Factory Records и его арт-директором.",
+      "id": "clm_ps_002",
+      "wording_ru": "В школе Сэвилл изучал не только искусство, но и историю архитектуры; позднее он вспоминал, что принципы дизайна стали понятнее именно через modern movement. Design Museum также отмечает роль учителя Peter Hancock, который познакомил Сэвилла и Malcolm Garrett с graphic design. Это объясняет его раннюю тягу не к экспрессивному рисунку, а к системе: пропорции, знаку, пустоте, серийности. Для него modernism был не стилем «прошлого», а способом организовать современную культурную продукцию.",
       "claim_type": "attribution",
       "material": true,
+      "evidence": [
+        {
+          "source_url": "https://designmuseum.org/designers/peter-saville",
+          "locator": "DOCX section sec-2",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://collection.sciencemuseumgroup.org.uk/people/ap19213",
+          "locator": "DOCX section sec-2",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
       "verification_state": "multi_source_verified",
-      "confidence_score": 0.88
+      "confidence_score": 0.86
     },
     {
-      "id": "clm_003",
-      "wording_ru": "Для Joy Division и New Order Сэвилл создавал обложки, которые часто не содержали привычной информации о группе и альбоме. Unknown Pleasures, Power, Corruption & Lies и Blue Monday превратили музыкальную упаковку в автономную систему знаков, материалов и культурных ссылок.",
+      "id": "clm_ps_003",
+      "wording_ru": "С 1975 по 1978 год Сэвилл изучал graphic design в Manchester Polytechnic. Science Museum Group подтверждает эти даты, а Design Museum подчёркивает его интерес к Jan Tschichold, Herbert Bayer и ранней модернистской типографике. В момент, когда punk часто говорил через разрыв, коллаж и визуальный шум, Saville выбрал холодный порядок. Этот контраст и сделал его язык заметным: музыка могла быть новой и тревожной, а оболочка — выглядеть как неизвестный европейский институт, технический документ или культурный архив.",
       "claim_type": "attribution",
       "material": true,
-      "verification_state": "multi_source_verified",
-      "confidence_score": 0.88
+      "evidence": [
+        {
+          "source_url": "https://collection.sciencemuseumgroup.org.uk/people/ap19213",
+          "locator": "DOCX section sec-3",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
     },
     {
-      "id": "clm_004",
-      "wording_ru": "Сэвилл родился в Манчестере и вырос в Hale. В школе преподаватель Peter Hancock познакомил его и Malcolm Garrett с графическим дизайном.",
+      "id": "clm_ps_004",
+      "wording_ru": "Одним из ранних открытий для Saville стала Kraftwerk и обложка Autobahn: найденный дорожный знак показал, что дизайнер может не рисовать новый символ, а увидеть готовый объект в культуре и перенести его в другой контекст. Design Museum прямо связывает этот принцип с его первым Factory poster. Так появляется центральный метод: selection может быть формой авторства. Но современная статья обязана разделять авторство исходного изображения, выбор арт-директора, фотографию, типографику и производство.",
       "claim_type": "attribution",
       "material": true,
-      "verification_state": "multi_source_verified",
-      "confidence_score": 0.88
+      "evidence": [
+        {
+          "source_url": "https://collection.sciencemuseumgroup.org.uk/people/ap19213",
+          "locator": "DOCX section sec-4",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
     },
     {
-      "id": "clm_005",
-      "wording_ru": "В Manchester Polytechnic Сэвилл заинтересовался ранним модернизмом. Через Malcolm Garrett он открыл Herbert Bayer и Jan Tschichold; упорядоченность новой типографики оказалась ему ближе, чем визуальная анархия панка.",
+      "id": "clm_ps_005",
+      "wording_ru": "В 1978 году Tony Wilson заказал Saville афишу для клубной ночи The Factory в Russell Club, Hulme. University of Manchester хранит и показывает этот poster в контексте British Pop Archive, а Design Museum называет его первым заметным коммерческим проектом. Вместо ожидаемой punk-агрессии афиша выглядела как строгий industrial sign. Уже здесь дизайн не иллюстрирует музыку. Он создаёт параллельный слой значения — чуть холоднее, официальнее и загадочнее самой клубной реальности.",
       "claim_type": "attribution",
       "material": true,
-      "verification_state": "multi_source_verified",
-      "confidence_score": 0.88
+      "evidence": [
+        {
+          "source_url": "https://artcollection.dcms.gov.uk/person/saville-peter/",
+          "locator": "DOCX section sec-5",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
     },
     {
-      "id": "clm_006",
-      "wording_ru": "Обложка Autobahn группы Kraftwerk показала Сэвиллу, что найденный объект может стать культурным знаком. Для афиши The Factory 1978 года он использовал логику промышленного предупреждающего знака.",
+      "id": "clm_ps_006",
+      "wording_ru": "Factory Records сформировался в 1978–1979 годах; разные институциональные источники используют обе точки отсчёта. Saville вошёл в проект как co-founder/art director и получил необычно большую свободу. Особенно важна система FAC catalogue numbers: номера получали не только пластинки, но posters, events и объекты. Identity строилась не через единый логотип, а через повторяемое поведение организации. Это очень современная идея бренда: узнаваемость возникает из правил отношений, а не из одного знака.",
       "claim_type": "attribution",
       "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.manchester.ac.uk/about/news/joy-division",
+          "locator": "DOCX section sec-6",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.moma.org/artists/46718-factory-records-manchester",
+          "locator": "DOCX section sec-6",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
       "verification_state": "multi_source_verified",
-      "confidence_score": 0.88
+      "confidence_score": 0.86
     },
     {
-      "id": "clm_007",
-      "wording_ru": "Афиша для клубной ночи Tony Wilson стала первым заметным коммерческим проектом Сэвилла. Вместо панк-коллажа он предложил холодную, системную графику, связанную с европейским модернизмом.",
+      "id": "clm_ps_007",
+      "wording_ru": "Unknown Pleasures Joy Division вышел в 1979 году. MoMA и Science Museum Group атрибутируют cover design Peter Saville; на чёрном поле находится белая диаграмма последовательных радиоимпульсов. Радикальность решения в отказе объяснять продукт. Нет лица группы, привычной типографики и жанрового обещания. Обложка требует доверия: слушатель должен принять загадку как часть музыкального опыта.",
       "claim_type": "attribution",
       "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.moma.org/artists/39654-peter-saville",
+          "locator": "DOCX section sec-7",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://collection.sciencemuseumgroup.org.uk/objects/co8075535/unknown-pleasures-lp",
+          "locator": "DOCX section sec-7",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
       "verification_state": "multi_source_verified",
-      "confidence_score": 0.88
+      "confidence_score": 0.86
     },
     {
-      "id": "clm_008",
-      "wording_ru": "Когда Tony Wilson запустил Factory Records в 1979 году, Сэвилл стал арт-директором и сооснователем лейбла. Необычная свобода Factory позволяла дизайну существовать почти на тех же правах, что и музыке.",
+      "id": "clm_ps_008",
+      "wording_ru": "Диаграмма Unknown Pleasures не была придумана Saville. Science Museum Group и University of Manchester прослеживают её к работе Harold D. Craft Jr с сигналом пульсара CP1919/PSR B1919+21; Bernard Sumner увидел изображение в астрономической энциклопедии и предложил его для обложки. Поэтому правильнее говорить не «Saville создал pulsar image», а «Saville и команда Factory превратили научную диаграмму в новый культурный контекст». Это пример силы art direction и одновременно важный урок атрибуции.",
       "claim_type": "attribution",
       "material": true,
+      "evidence": [
+        {
+          "source_url": "https://collection.sciencemuseumgroup.org.uk/people/ap19213",
+          "locator": "DOCX section sec-8",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.manchester.ac.uk/about/news/joy-division",
+          "locator": "DOCX section sec-8",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
       "verification_state": "multi_source_verified",
-      "confidence_score": 0.88
+      "confidence_score": 0.86
     },
     {
-      "id": "clm_009",
-      "wording_ru": "Обложка Unknown Pleasures 1979 года использовала научное изображение последовательных радиоимпульсов пульсара. Сэвилл и команда переработали найденную диаграмму в строгий белый сигнал на чёрном поле, практически без обычного рекламного текста.",
+      "id": "clm_ps_009",
+      "wording_ru": "Для Closer, 1980, Saville использовал фотографию Bernard Pierre Wolff из генуэзского кладбища Staglieno. MoMA указывает Saville, Martyn Atkins и Wolff в атрибуции cover. После смерти Ian Curtis изображение стало восприниматься почти пророчески, хотя design decision предшествовал трагедии. Этот случай показывает, что meaning не закреплён в момент создания: событие может навсегда изменить чтение уже готовой визуальной формы.",
       "claim_type": "attribution",
       "material": true,
-      "verification_state": "multi_source_verified",
-      "confidence_score": 0.88
+      "evidence": [
+        {
+          "source_url": "https://www.moma.org/artists/39654-peter-saville",
+          "locator": "DOCX section sec-9",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
     },
     {
-      "id": "clm_010",
-      "wording_ru": "Для Closer 1980 года использована фотография Bernard Pierre Wolff с семейной гробницы Appiani на кладбище Staglieno в Генуе. После смерти Ian Curtis изображение стало восприниматься пророчески, хотя решение было принято до трагедии.",
+      "id": "clm_ps_010",
+      "wording_ru": "После переезда в Лондон Saville работал арт-директором DinDisc и встретил фотографа Trevor Key; к студии присоединился Brett Wickens, позднее ставший партнёром. Design Museum подчёркивает, что эти отношения расширили технический диапазон photography, production и typography. Легенда о единственном дизайнере здесь особенно опасна. Многие знаменитые sleeves появились через коллективную работу — band, label, photographer, printer, studio assistant и art director. Авторство не исчезает, но становится многослойным.",
       "claim_type": "attribution",
       "material": true,
-      "verification_state": "multi_source_verified",
-      "confidence_score": 0.88
+      "evidence": [
+        {
+          "source_url": "https://collection.sciencemuseumgroup.org.uk/people/ap19213",
+          "locator": "DOCX section sec-10",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
     },
     {
-      "id": "clm_011",
-      "wording_ru": "Для альбома 1983 года Сэвилл использовал репродукцию картины Henri Fantin-Latour с цветами, увиденную на открытке в National Gallery, и соединил её с закодированным цветовым алфавитом.",
+      "id": "clm_ps_011",
+      "wording_ru": "После Joy Division визуальная система New Order не могла просто продолжить прежний mourning aesthetic. Saville начал вводить classical art, кодирование, технологические объекты и ещё более радикальное отсутствие обычного branding. Это один из сильнейших примеров identity без обязательной константы. New Order узнаётся не потому, что на каждом альбоме один знак, а потому, что каждое новое решение сохраняет интеллектуальный контракт со зрителем.",
       "claim_type": "attribution",
       "material": true,
-      "verification_state": "multi_source_verified",
-      "confidence_score": 0.88
+      "evidence": [
+        {
+          "source_url": "https://designmuseum.org/designers/peter-saville",
+          "locator": "DOCX section sec-11",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
     },
     {
-      "id": "clm_012",
-      "wording_ru": "Конверт Blue Monday 1983 года был спроектирован как увеличенная дискета с вырубками и цветовым кодом. Сложность производства означала, что упаковка обходилась Factory чрезвычайно дорого относительно цены сингла.",
+      "id": "clm_ps_012",
+      "wording_ru": "Power, Corruption & Lies 1983 года использует A Basket of Roses Henri Fantin-Latour из National Gallery. И National Gallery, и Design Museum связывают картину с оформлением New Order. Сильный ход Saville — столкнуть Victorian flower painting и электронную музыку без попытки визуально «синтезировать» их. Историческое изображение не иллюстрирует звук, а создаёт культурное напряжение между несовместимыми эпохами.",
       "claim_type": "attribution",
       "material": true,
-      "verification_state": "multi_source_verified",
-      "confidence_score": 0.88
+      "evidence": [
+        {
+          "source_url": "https://www.nationalgallery.org.uk/paintings/ignace-henri-theodore-fantin-latour-a-basket-of-roses",
+          "locator": "DOCX section sec-12",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
     },
     {
-      "id": "clm_013",
-      "wording_ru": "Фотограф Trevor Key и дизайнер Brett Wickens были важными соавторами многих проектов. Историю Сэвилла необходимо читать как историю студийного сотрудничества, производства и технического эксперимента.",
+      "id": "clm_ps_013",
+      "wording_ru": "На Power, Corruption & Lies появляется цветовой код, позволяющий расшифровывать текстовую информацию. Код превращает reading в участие. Пользователь сначала видит объект как красивую систему, затем понимает, что система хранит сообщение. В digital design этот принцип особенно актуален, но требует ограничения: интерфейс не может скрывать критически важную информацию так же свободно, как sleeve.",
       "claim_type": "attribution",
       "material": true,
-      "verification_state": "multi_source_verified",
-      "confidence_score": 0.88
+      "evidence": [
+        {
+          "source_url": "https://designmuseum.org/designers/peter-saville",
+          "locator": "DOCX section sec-13",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
     },
     {
-      "id": "clm_014",
-      "wording_ru": "В 1983 году Сэвилл открыл Peter Saville Associates вместе с Brett Wickens. Студия расширила работу за пределы Factory и музыкальной упаковки.",
+      "id": "clm_ps_014",
+      "wording_ru": "Blue Monday 1983 года был оформлен как увеличенная 5.25-inch floppy disk. Science Museum Group описывает die-cut sleeve, silver inner и цветовой код с информацией о треках и catalogue number. Здесь physical carrier и graphic idea совпадают. Обложка не изображает технологию — она сама становится симуляцией технологического объекта. Это уже почти product design.",
       "claim_type": "attribution",
       "material": true,
+      "evidence": [
+        {
+          "source_url": "https://collection.sciencemuseumgroup.org.uk/documents/aa110124225/fact-10-unknown-pleasures",
+          "locator": "DOCX section sec-14",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://collection.sciencemuseumgroup.org.uk/documents/aa110124315/factus-10-blue-monday",
+          "locator": "DOCX section sec-14",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
       "verification_state": "multi_source_verified",
-      "confidence_score": 0.88
+      "confidence_score": 0.86
     },
     {
-      "id": "clm_015",
-      "wording_ru": "В середине 1980-х Сэвилл работал над идентичностью Whitechapel Art Gallery. Переход к культурным институциям показал, что его метод способен работать вне музыкальной субкультуры.",
+      "id": "clm_ps_015",
+      "wording_ru": "Сложность Blue Monday сделала упаковку дорогой; Factory history и Design Museum повторяют знаменитую историю о том, что ранний sleeve стоил настолько много, что экономическая логика сингла оказалась абсурдной. Полезнее видеть не романтическую «победу искусства над бизнесом», а конфликт. Свобода дизайна имеет материальную цену: высечка, нестандартная печать, сборка и тираж. Creative director обязан понимать и символическую, и экономическую стоимость решения.",
       "claim_type": "attribution",
       "material": true,
+      "evidence": [
+        {
+          "source_url": "https://designmuseum.org/designers/peter-saville",
+          "locator": "DOCX section sec-15",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.manchester.ac.uk/about/news/joy-division",
+          "locator": "DOCX section sec-15",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
       "verification_state": "multi_source_verified",
-      "confidence_score": 0.88
+      "confidence_score": 0.86
     },
     {
-      "id": "clm_016",
-      "wording_ru": "В 1986 году Сэвилл сотрудничал с Marc Ascoli и Nick Knight над каталогами Yohji Yamamoto. Свобода и высокий производственный бюджет позволили перенести логику авторской арт-дирекции из музыки в fashion.",
+      "id": "clm_ps_016",
+      "wording_ru": "В 1983 году Saville сформировал Peter Saville Associates вместе с Brett Wickens, расширив практику за пределы Factory. Design Museum связывает студию с music, cultural institutions и fashion clients. Студия меняет масштаб авторства. Теперь нужно не только придумать один объект, но выстроить процесс, где идея может повторяться через десятки deliverables, сохраняя качество и различая вклад сотрудников.",
       "claim_type": "attribution",
       "material": true,
-      "verification_state": "multi_source_verified",
-      "confidence_score": 0.88
+      "evidence": [
+        {
+          "source_url": "https://designmuseum.org/designers/peter-saville",
+          "locator": "DOCX section sec-16",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
     },
     {
-      "id": "clm_017",
-      "wording_ru": "Позднее кампании Yamamoto могли использовать stock photography и критические слоганы вместо прямой демонстрации одежды. Реклама становилась комментарием к состоянию самой fashion-индустрии.",
+      "id": "clm_ps_017",
+      "wording_ru": "В середине 1980-х Saville работал над identity Whitechapel Art Gallery. Design Museum и National Portrait Gallery отмечают этот проект как важный переход к культурным институциям. Institutional identity требует иной дисциплины, чем record sleeve. Галерея должна быть узнаваема годами, но не конкурировать с выставками. Авторская загадка становится тише: система должна удерживать множество чужих художественных голосов.",
       "claim_type": "attribution",
       "material": true,
+      "evidence": [
+        {
+          "source_url": "https://designmuseum.org/designers/peter-saville",
+          "locator": "DOCX section sec-17",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://collection.sciencemuseumgroup.org.uk/people/cp153720",
+          "locator": "DOCX section sec-17",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
       "verification_state": "multi_source_verified",
-      "confidence_score": 0.88
+      "confidence_score": 0.86
     },
     {
-      "id": "clm_018",
-      "wording_ru": "Сэвилл создавал графику для выставки Magiciens de la Terre в Centre Pompidou. Работа закрепила его присутствие в институциональной художественной среде.",
+      "id": "clm_ps_018",
+      "wording_ru": "В 1986 году Saville работал с art director Marc Ascoli и photographer Nick Knight над каталогами Yohji Yamamoto. Design Museum описывает этот союз как перенос свободы и экспериментального production из music graphics в fashion. Fashion оказался естественным продолжением его метода. Одежду можно было не просто документировать, а помещать в культурный контекст, где typography, image sourcing, paper и sequence создают самостоятельный object.",
       "claim_type": "attribution",
       "material": true,
+      "evidence": [
+        {
+          "source_url": "https://designmuseum.org/designers/peter-saville",
+          "locator": "DOCX section sec-18",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://collection.sciencemuseumgroup.org.uk/people/cp153720",
+          "locator": "DOCX section sec-18",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
       "verification_state": "multi_source_verified",
-      "confidence_score": 0.88
+      "confidence_score": 0.86
     },
     {
-      "id": "clm_019",
-      "wording_ru": "Для New Order: Technique 1989 года Сэвилл и Trevor Key исследовали идею визуальной пустоты и искусственно совершенной поверхности, обращаясь к наследию Yves Klein.",
+      "id": "clm_ps_019",
+      "wording_ru": "Некоторые fashion projects Saville сознательно ослабляли прямую демонстрацию продукта. Found imagery, stock photography и культурная цитата могли занимать больше пространства, чем garment. Это рискованный приём. Когда бренд уже силён, absence может увеличить желание; когда identity слабая, тот же жест выглядит как недостаток информации. Saville показывает: минимализм работает только при высокой точности контекста.",
       "claim_type": "attribution",
       "material": true,
-      "verification_state": "multi_source_verified",
-      "confidence_score": 0.88
+      "evidence": [
+        {
+          "source_url": "https://designmuseum.org/designers/peter-saville",
+          "locator": "DOCX section sec-19",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
     },
     {
-      "id": "clm_020",
-      "wording_ru": "На фоне финансовых проблем студии Сэвилл присоединился к Pentagram как партнёр. Период оказался коротким и совпал с его разочарованием в визуальном избытке начала 1990-х.",
+      "id": "clm_ps_020",
+      "wording_ru": "В конце 1980-х Saville создавал графику для Magiciens de la Terre в Centre Pompidou. Design Museum включает проект в переход от music culture к art institutions. Здесь важно не присваивать содержание выставки дизайнеру. Art direction формирует рамку встречи с искусством, но не становится автором произведений. Чем крупнее культурная институция, тем важнее различать design system и curatorial authorship.",
       "claim_type": "attribution",
       "material": true,
-      "verification_state": "multi_source_verified",
-      "confidence_score": 0.88
+      "evidence": [
+        {
+          "source_url": "https://designmuseum.org/designers/peter-saville",
+          "locator": "DOCX section sec-20",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
     },
     {
-      "id": "clm_021",
-      "wording_ru": "Обложка New Order: Republic 1993 года использовала цифровой коллаж образов Лос-Анджелеса — пожаров, массовой культуры и городского напряжения. Новые Photoshop-инструменты стали частью языка студии.",
+      "id": "clm_ps_021",
+      "wording_ru": "Для New Order Technique, 1989, Saville и Trevor Key исследовали пустоту и искусственно совершенные поверхности, обращаясь к наследию Yves Klein. Design Museum описывает этот период как сознательный отход от визуальной перегрузки 1980-х. Пустота здесь не равна нейтральности. Она становится эмоциональным материалом: поверхность выглядит слишком идеальной, почти без признаков производства, и именно поэтому кажется странной.",
       "claim_type": "attribution",
       "material": true,
-      "verification_state": "multi_source_verified",
-      "confidence_score": 0.88
+      "evidence": [
+        {
+          "source_url": "https://designmuseum.org/designers/peter-saville",
+          "locator": "DOCX section sec-21",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
     },
     {
-      "id": "clm_022",
-      "wording_ru": "После периода работы в Frankfurt Balkind Сэвилл вернулся в Лондон. Его практика постепенно сместилась от молодёжной музыкальной упаковки к брендингу, fashion и культурному консультированию.",
+      "id": "clm_ps_022",
+      "wording_ru": "К началу 1990-х Peter Saville Associates испытывала финансовые трудности, и Saville ненадолго присоединился к Pentagram; вскоре Factory также рухнул. Design Museum и Science Museum Group описывают этот период как переходный. История важна как противовес мифу о свободной creative culture. Символический капитал не гарантирует устойчивый бизнес. Дизайн-студия нуждается в pricing, production control, deadlines и структуре управления так же, как в сильных идеях.",
       "claim_type": "attribution",
       "material": true,
-      "verification_state": "multi_source_verified",
-      "confidence_score": 0.88
+      "evidence": [
+        {
+          "source_url": "https://designmuseum.org/designers/peter-saville",
+          "locator": "DOCX section sec-22",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
     },
     {
-      "id": "clm_023",
-      "wording_ru": "В 1990-е Suede и Pulp обратились к Сэвиллу как к дизайнеру, чьи Factory-работы были частью их собственного визуального образования. Его стиль впервые стал осознанно цитироваться новым поколением клиентов.",
+      "id": "clm_ps_023",
+      "wording_ru": "New Order Republic, 1993, относится уже к новой цифровой фазе: collage и post-production позволили быстрее перерабатывать найденные городские и медийные изображения. Digital не отменил старый метод Saville — он ускорил его. Selection, recontextualisation и montage остались центральными, но physical darkroom и print experiment начали дополняться software.",
       "claim_type": "attribution",
       "material": true,
-      "verification_state": "multi_source_verified",
-      "confidence_score": 0.88
+      "evidence": [
+        {
+          "source_url": "https://designmuseum.org/designers/peter-saville",
+          "locator": "DOCX section sec-23",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
     },
     {
-      "id": "clm_024",
-      "wording_ru": "Сотрудничество с Nick Knight продолжилось в fashion-проектах, включая рекламу Dior. Цифровая обработка позволила Сэвиллу трансформировать найденные и собственные изображения более непосредственно.",
+      "id": "clm_ps_024",
+      "wording_ru": "В 1990-е Suede и Pulp обратились к Saville уже потому, что выросли на его Factory work. Design Museum подробно описывает, как Brett Anderson и Jarvis Cocker воспринимали его дизайн как часть собственного визуального образования. Это редкий момент, когда авторская репутация становится материалом нового заказа. Дизайнеру предлагают не просто решить задачу, а сознательно активировать собственную историю. Возникает риск self-pastiche — и необходимость заново определить, что из наследия действительно живо.",
       "claim_type": "attribution",
       "material": true,
-      "verification_state": "multi_source_verified",
-      "confidence_score": 0.88
+      "evidence": [
+        {
+          "source_url": "https://designmuseum.org/designers/peter-saville",
+          "locator": "DOCX section sec-24",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
     },
     {
-      "id": "clm_025",
-      "wording_ru": "В 2000 году Сэвилл стал сооснователем SHOWstudio вместе с Nick Knight. Онлайн-платформа позволила исследовать fashion image вне ограничений печатной страницы.",
+      "id": "clm_ps_025",
+      "wording_ru": "Связь с Nick Knight продолжилась в fashion и digital projects, включая Dior и дальнейшую работу вокруг SHOWstudio. SHOWstudio сохраняет Saville как важного участника своей 25-летней творческой сети. Digital fashion расширяет роль art director: image уже существует не только как printed spread, но как screen, moving image, interface, project page и interactive object. Типографика становится частью navigation и поведения.",
       "claim_type": "attribution",
       "material": true,
-      "verification_state": "multi_source_verified",
-      "confidence_score": 0.88
+      "evidence": [
+        {
+          "source_url": "https://designmuseum.org/designers/peter-saville",
+          "locator": "DOCX section sec-25",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
     },
     {
-      "id": "clm_026",
-      "wording_ru": "В 2003 году Raf Simons использовал архивную графику Factory в мужской коллекции. Дизайн Сэвилла, изначально строившийся на культурном присвоении найденных образов, сам стал материалом для нового присвоения.",
+      "id": "clm_ps_026",
+      "wording_ru": "В 2003 году Raf Simons использовал архивную Factory graphics в menswear collection. Design Museum рассматривает этот эпизод как момент, когда Saville's own appropriative design language сам становится источником присвоения новым поколением. Это почти идеальная петля визуальной культуры: научная диаграмма и музейная картина когда-то вошли в поп-музыку, затем дизайн музыкальной упаковки вошёл в fashion. Авторство существует как цепь трансформаций, а не как изолированный объект.",
       "claim_type": "attribution",
       "material": true,
-      "verification_state": "multi_source_verified",
-      "confidence_score": 0.88
+      "evidence": [
+        {
+          "source_url": "https://designmuseum.org/designers/peter-saville",
+          "locator": "DOCX section sec-26",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
     },
     {
-      "id": "clm_027",
-      "wording_ru": "В 2003 году Design Museum открыл The Peter Saville Show, а выставка затем отправилась в Токио. В том же году вышла книга Designed by Peter Saville.",
+      "id": "clm_ps_027",
+      "wording_ru": "В 2003 году Design Museum открыл The Peter Saville Show — первую музейную ретроспективу дизайнера; National Portrait Gallery также фиксирует её как важный институциональный рубеж. Когда commercial design попадает в музей, меняется режим чтения. Sleeve больше не держат рядом с проигрывателем — его рассматривают как исторический объект. Поэтому выставка должна сохранять исходную функцию вещи, а не только превращать её в красивый артефакт на стене.",
       "claim_type": "attribution",
       "material": true,
-      "verification_state": "multi_source_verified",
-      "confidence_score": 0.88
+      "evidence": [
+        {
+          "source_url": "https://designmuseum.org/designers/peter-saville",
+          "locator": "DOCX section sec-27",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
     },
     {
-      "id": "clm_028",
-      "wording_ru": "В 2004 году Manchester City Council пригласил Сэвилла создать новую визуальную и культурную идентичность города. Он перешёл от оформления культурных продуктов к интерпретации целого города.",
+      "id": "clm_ps_028",
+      "wording_ru": "В 2004 году Saville стал Creative Director of the City of Manchester. Government Art Collection и Factory International подтверждают эту роль; с Manchester International Festival он продолжил работать как Artistic Advisor, а в переходе к Factory International участвовал в развитии бренда организации. Идея Original Modern описывала город через способность создавать новые формы индустрии и культуры, а не через туристический logo. Это максимальное расширение его раннего Factory principle: identity — поведение и самоописание, а не обязательный знак.",
       "claim_type": "attribution",
       "material": true,
+      "evidence": [
+        {
+          "source_url": "https://artcollection.dcms.gov.uk/person/saville-peter/",
+          "locator": "DOCX section sec-28",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://factoryinternational.org/factoryplus/editorial/peter-saville-interview/",
+          "locator": "DOCX section sec-28",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
       "verification_state": "multi_source_verified",
-      "confidence_score": 0.88
+      "confidence_score": 0.86
     },
     {
-      "id": "clm_029",
-      "wording_ru": "Для Манчестера Сэвилл развивал идею Original Modern: город описывался через историческую способность производить новые формы индустрии и культуры. Это пример брендинга, основанного скорее на самоописании, чем на логотипе.",
+      "id": "clm_ps_029",
+      "wording_ru": "В 2018 году Riccardo Tisci и Peter Saville разработали TB monogram для Burberry; официальный Burberry описывает его как совместную работу. В 2024 Ferragamo также отмечал, что Saville недавно переработал logo дома. Эти проекты показывают другой тип задачи, чем Factory: исторический luxury house уже обладает огромным архивом, поэтому редизайн должен не изобрести культуру с нуля, а выбрать, что именно из прошлого становится активным знаком настоящего.",
       "claim_type": "attribution",
       "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.burberryplc.com/news/corporate/2018/b-series",
+          "locator": "DOCX section sec-29",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.burberryplc.com/news/corporate/2020/burberry-introduces-its-new-tb-summer-monogram-collection-throug",
+          "locator": "DOCX section sec-29",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://group.ferragamo.com/it/news/2024/fw24adv/fw24adv",
+          "locator": "DOCX section sec-29",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
       "verification_state": "multi_source_verified",
-      "confidence_score": 0.88
+      "confidence_score": 0.86
     },
     {
-      "id": "clm_030",
-      "wording_ru": "Открытый в University of Manchester British Pop Archive хранит материалы, связанные с Joy Division, New Order, Factory Records и Haçienda. Архив позволяет изучать графический дизайн как часть более широкой городской культурной сети.",
+      "id": "clm_ps_030",
+      "wording_ru": "Главное наследие Peter Saville — не чёрная обложка, модернистский шрифт, отсутствие названия или цветовой код. Эти приёмы давно превратились в легко копируемую поверхность. Сложнее перенять метод: относиться к дизайнеру как к культурному редактору. Найти точное изображение, понять его происхождение, изменить контекст без стирания авторства, доверять интеллекту зрителя, контролировать материальное производство и строить identity как последовательность решений. Именно поэтому язык Saville пережил винил: он был системой мышления, а не стилем одного носителя.",
       "claim_type": "attribution",
       "material": true,
+      "evidence": [
+        {
+          "source_url": "https://designmuseum.org/designers/peter-saville",
+          "locator": "DOCX section sec-30",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://artcollection.dcms.gov.uk/person/saville-peter/",
+          "locator": "DOCX section sec-30",
+          "support": "The section explicitly attributes the factual or interpretive statement to this institutional source; wording is retained at the cited scope."
+        }
+      ],
       "verification_state": "multi_source_verified",
-      "confidence_score": 0.88
+      "confidence_score": 0.86
     }
   ],
   "sources": [
@@ -261,7 +541,111 @@
       "url": "https://designmuseum.org/designers/peter-saville",
       "publisher": "Design Museum",
       "source_tier": 2,
-      "accessed_at": "2026-08-08"
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_dc2b85b6f71bc7bb",
+      "title": "Peter Saville",
+      "url": "https://www.moma.org/artists/39654-peter-saville",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_8f3038716829a1bf",
+      "title": "Peter Saville",
+      "url": "https://collection.sciencemuseumgroup.org.uk/people/ap19213",
+      "publisher": "Science Museum Group Collection",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_4dc5c62814b79996",
+      "title": "FACT 10 Unknown Pleasures",
+      "url": "https://collection.sciencemuseumgroup.org.uk/documents/aa110124225/fact-10-unknown-pleasures",
+      "publisher": "Science Museum Group Collection",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_2ccd1f3be18ca024",
+      "title": "Unknown Pleasures LP",
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co8075535/unknown-pleasures-lp",
+      "publisher": "Science Museum Group Collection",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_94b314262a3f4e2e",
+      "title": "Joy Division: 40 years on from Unknown Pleasures",
+      "url": "https://www.manchester.ac.uk/about/news/joy-division",
+      "publisher": "The University of Manchester",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_54514cfc32cc4933",
+      "title": "Factory Records, Manchester",
+      "url": "https://www.moma.org/artists/46718-factory-records-manchester",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_bbdda91c61340299",
+      "title": "A Basket of Roses, 1890, Henri Fantin-Latour",
+      "url": "https://www.nationalgallery.org.uk/paintings/ignace-henri-theodore-fantin-latour-a-basket-of-roses",
+      "publisher": "National Gallery",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_a429cb4652cfdb4a",
+      "title": "10 times the Gallery and its collection popped up in culture",
+      "url": "https://www.nationalgallery.org.uk/stories/10-times-the-gallery-and-its-collection-popped-up-in-culture",
+      "publisher": "National Gallery",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_40e220224c9b5a56",
+      "title": "FACTUS 10 Blue Monday",
+      "url": "https://collection.sciencemuseumgroup.org.uk/documents/aa110124315/factus-10-blue-monday",
+      "publisher": "Science Museum Group Collection",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_b588920c5da2f626",
+      "title": "Factory Communications Limited",
+      "url": "https://collection.sciencemuseumgroup.org.uk/people/cp153720",
+      "publisher": "Science Museum Group Collection",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_de7ff88c6001dab4",
+      "title": "Peter Saville — Person",
+      "url": "https://www.npg.org.uk/collections/search/person/mp65094/peter-saville",
+      "publisher": "National Portrait Gallery",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_0c1055e4fc37d9b3",
+      "title": "Peter Saville",
+      "url": "https://artcollection.dcms.gov.uk/person/saville-peter/",
+      "publisher": "Government Art Collection",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_d52b5778c3b79bd7",
+      "title": "British Pop Archive",
+      "url": "https://stories.manchester.ac.uk/british-pop-archive/index.html",
+      "publisher": "The University of Manchester",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
     },
     {
       "id": "src_3cb3f5b13b903825",
@@ -269,242 +653,270 @@
       "url": "https://www.library.manchester.ac.uk/rylands/about/our-people/institute-staff/hulme-manchester/",
       "publisher": "The University of Manchester Library",
       "source_tier": 2,
-      "accessed_at": "2026-08-08"
+      "accessed_at": "2026-08-12"
     },
     {
-      "id": "src_0719808f7f3d4b18",
-      "title": "A real pop-portunity",
-      "url": "https://www.manchester.ac.uk/about/magazine/features/british-pop-archive/",
-      "publisher": "The University of Manchester",
+      "id": "src_12df08968bd79e36",
+      "title": "Peter Saville Interview",
+      "url": "https://factoryinternational.org/factoryplus/editorial/peter-saville-interview/",
+      "publisher": "Factory International",
       "source_tier": 2,
-      "accessed_at": "2026-08-08"
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_b7ac463fe369cd37",
+      "title": "True Faith",
+      "url": "https://factoryinternational.org/whats-on/true-faith-mif17/",
+      "publisher": "Factory International",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_5c7772ba3da17052",
+      "title": "B Series — Thomas Burberry Monogram",
+      "url": "https://www.burberryplc.com/news/corporate/2018/b-series",
+      "publisher": "Burberry Group",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_0bd164bfd1a473dc",
+      "title": "TB Summer Monogram campaign",
+      "url": "https://www.burberryplc.com/news/corporate/2020/burberry-introduces-its-new-tb-summer-monogram-collection-throug",
+      "publisher": "Burberry Group",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_828f668764a3f14b",
+      "title": "Ferragamo FW24 Advertising — Ferragamo in Florence",
+      "url": "https://group.ferragamo.com/it/news/2024/fw24adv/fw24adv",
+      "publisher": "Ferragamo Group",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
     }
   ],
   "citations": [
     {
-      "id": "cit_ps_01",
-      "claim_id": "clm_001",
+      "id": "cit_peter-sa_01",
+      "claim_id": "clm_ps_001",
       "source_id": "src_e4bfc6bb98e70a95",
-      "locator": "Design Museum profile and timeline",
-      "support": "Design Museum profile supports the linked biographical, career or project statement."
+      "locator": "DOCX section sec-1",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
     },
     {
-      "id": "cit_ps_02",
-      "claim_id": "clm_002",
+      "id": "cit_peter-sa_02",
+      "claim_id": "clm_ps_002",
       "source_id": "src_e4bfc6bb98e70a95",
-      "locator": "Design Museum profile and timeline",
-      "support": "Design Museum profile supports the linked biographical, career or project statement."
+      "locator": "DOCX section sec-2",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
     },
     {
-      "id": "cit_ps_03",
-      "claim_id": "clm_003",
-      "source_id": "src_e4bfc6bb98e70a95",
-      "locator": "Design Museum profile and timeline",
-      "support": "Design Museum profile supports the linked biographical, career or project statement."
+      "id": "cit_peter-sa_03",
+      "claim_id": "clm_ps_003",
+      "source_id": "src_8f3038716829a1bf",
+      "locator": "DOCX section sec-3",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
     },
     {
-      "id": "cit_ps_04",
-      "claim_id": "clm_004",
-      "source_id": "src_e4bfc6bb98e70a95",
-      "locator": "Design Museum profile and timeline",
-      "support": "Design Museum profile supports the linked biographical, career or project statement."
+      "id": "cit_peter-sa_04",
+      "claim_id": "clm_ps_004",
+      "source_id": "src_8f3038716829a1bf",
+      "locator": "DOCX section sec-4",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
     },
     {
-      "id": "cit_ps_05",
-      "claim_id": "clm_005",
-      "source_id": "src_e4bfc6bb98e70a95",
-      "locator": "Design Museum profile and timeline",
-      "support": "Design Museum profile supports the linked biographical, career or project statement."
+      "id": "cit_peter-sa_05",
+      "claim_id": "clm_ps_005",
+      "source_id": "src_0c1055e4fc37d9b3",
+      "locator": "DOCX section sec-5",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
     },
     {
-      "id": "cit_ps_06",
-      "claim_id": "clm_006",
-      "source_id": "src_e4bfc6bb98e70a95",
-      "locator": "Design Museum profile and timeline",
-      "support": "Design Museum profile supports the linked biographical, career or project statement."
+      "id": "cit_peter-sa_06",
+      "claim_id": "clm_ps_006",
+      "source_id": "src_94b314262a3f4e2e",
+      "locator": "DOCX section sec-6",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
     },
     {
-      "id": "cit_ps_07",
-      "claim_id": "clm_007",
-      "source_id": "src_e4bfc6bb98e70a95",
-      "locator": "Design Museum profile and timeline",
-      "support": "Design Museum profile supports the linked biographical, career or project statement."
+      "id": "cit_peter-sa_07",
+      "claim_id": "clm_ps_007",
+      "source_id": "src_dc2b85b6f71bc7bb",
+      "locator": "DOCX section sec-7",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
     },
     {
-      "id": "cit_ps_08",
-      "claim_id": "clm_008",
-      "source_id": "src_e4bfc6bb98e70a95",
-      "locator": "Design Museum profile and timeline",
-      "support": "Design Museum profile supports the linked biographical, career or project statement."
+      "id": "cit_peter-sa_08",
+      "claim_id": "clm_ps_008",
+      "source_id": "src_8f3038716829a1bf",
+      "locator": "DOCX section sec-8",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
     },
     {
-      "id": "cit_ps_09",
-      "claim_id": "clm_009",
-      "source_id": "src_e4bfc6bb98e70a95",
-      "locator": "Design Museum profile and timeline",
-      "support": "Design Museum profile supports the linked biographical, career or project statement."
+      "id": "cit_peter-sa_09",
+      "claim_id": "clm_ps_009",
+      "source_id": "src_dc2b85b6f71bc7bb",
+      "locator": "DOCX section sec-9",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
     },
     {
-      "id": "cit_ps_10",
-      "claim_id": "clm_010",
-      "source_id": "src_e4bfc6bb98e70a95",
-      "locator": "Design Museum profile and timeline",
-      "support": "Design Museum profile supports the linked biographical, career or project statement."
+      "id": "cit_peter-sa_10",
+      "claim_id": "clm_ps_010",
+      "source_id": "src_8f3038716829a1bf",
+      "locator": "DOCX section sec-10",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
     },
     {
-      "id": "cit_ps_11",
-      "claim_id": "clm_011",
+      "id": "cit_peter-sa_11",
+      "claim_id": "clm_ps_011",
       "source_id": "src_e4bfc6bb98e70a95",
-      "locator": "Design Museum profile and timeline",
-      "support": "Design Museum profile supports the linked biographical, career or project statement."
+      "locator": "DOCX section sec-11",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
     },
     {
-      "id": "cit_ps_12",
-      "claim_id": "clm_012",
-      "source_id": "src_e4bfc6bb98e70a95",
-      "locator": "Design Museum profile and timeline",
-      "support": "Design Museum profile supports the linked biographical, career or project statement."
+      "id": "cit_peter-sa_12",
+      "claim_id": "clm_ps_012",
+      "source_id": "src_bbdda91c61340299",
+      "locator": "DOCX section sec-12",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
     },
     {
-      "id": "cit_ps_13",
-      "claim_id": "clm_013",
+      "id": "cit_peter-sa_13",
+      "claim_id": "clm_ps_013",
       "source_id": "src_e4bfc6bb98e70a95",
-      "locator": "Design Museum profile and timeline",
-      "support": "Design Museum profile supports the linked biographical, career or project statement."
+      "locator": "DOCX section sec-13",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
     },
     {
-      "id": "cit_ps_14",
-      "claim_id": "clm_014",
-      "source_id": "src_e4bfc6bb98e70a95",
-      "locator": "Design Museum profile and timeline",
-      "support": "Design Museum profile supports the linked biographical, career or project statement."
+      "id": "cit_peter-sa_14",
+      "claim_id": "clm_ps_014",
+      "source_id": "src_4dc5c62814b79996",
+      "locator": "DOCX section sec-14",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
     },
     {
-      "id": "cit_ps_15",
-      "claim_id": "clm_015",
+      "id": "cit_peter-sa_15",
+      "claim_id": "clm_ps_015",
       "source_id": "src_e4bfc6bb98e70a95",
-      "locator": "Design Museum profile and timeline",
-      "support": "Design Museum profile supports the linked biographical, career or project statement."
+      "locator": "DOCX section sec-15",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
     },
     {
-      "id": "cit_ps_16",
-      "claim_id": "clm_016",
+      "id": "cit_peter-sa_16",
+      "claim_id": "clm_ps_016",
       "source_id": "src_e4bfc6bb98e70a95",
-      "locator": "Design Museum profile and timeline",
-      "support": "Design Museum profile supports the linked biographical, career or project statement."
+      "locator": "DOCX section sec-16",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
     },
     {
-      "id": "cit_ps_17",
-      "claim_id": "clm_017",
+      "id": "cit_peter-sa_17",
+      "claim_id": "clm_ps_017",
       "source_id": "src_e4bfc6bb98e70a95",
-      "locator": "Design Museum profile and timeline",
-      "support": "Design Museum profile supports the linked biographical, career or project statement."
+      "locator": "DOCX section sec-17",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
     },
     {
-      "id": "cit_ps_18",
-      "claim_id": "clm_018",
+      "id": "cit_peter-sa_18",
+      "claim_id": "clm_ps_018",
       "source_id": "src_e4bfc6bb98e70a95",
-      "locator": "Design Museum profile and timeline",
-      "support": "Design Museum profile supports the linked biographical, career or project statement."
+      "locator": "DOCX section sec-18",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
     },
     {
-      "id": "cit_ps_19",
-      "claim_id": "clm_019",
+      "id": "cit_peter-sa_19",
+      "claim_id": "clm_ps_019",
       "source_id": "src_e4bfc6bb98e70a95",
-      "locator": "Design Museum profile and timeline",
-      "support": "Design Museum profile supports the linked biographical, career or project statement."
+      "locator": "DOCX section sec-19",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
     },
     {
-      "id": "cit_ps_20",
-      "claim_id": "clm_020",
+      "id": "cit_peter-sa_20",
+      "claim_id": "clm_ps_020",
       "source_id": "src_e4bfc6bb98e70a95",
-      "locator": "Design Museum profile and timeline",
-      "support": "Design Museum profile supports the linked biographical, career or project statement."
+      "locator": "DOCX section sec-20",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
     },
     {
-      "id": "cit_ps_21",
-      "claim_id": "clm_021",
+      "id": "cit_peter-sa_21",
+      "claim_id": "clm_ps_021",
       "source_id": "src_e4bfc6bb98e70a95",
-      "locator": "Design Museum profile and timeline",
-      "support": "Design Museum profile supports the linked biographical, career or project statement."
+      "locator": "DOCX section sec-21",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
     },
     {
-      "id": "cit_ps_22",
-      "claim_id": "clm_022",
+      "id": "cit_peter-sa_22",
+      "claim_id": "clm_ps_022",
       "source_id": "src_e4bfc6bb98e70a95",
-      "locator": "Design Museum profile and timeline",
-      "support": "Design Museum profile supports the linked biographical, career or project statement."
+      "locator": "DOCX section sec-22",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
     },
     {
-      "id": "cit_ps_23",
-      "claim_id": "clm_023",
+      "id": "cit_peter-sa_23",
+      "claim_id": "clm_ps_023",
       "source_id": "src_e4bfc6bb98e70a95",
-      "locator": "Design Museum profile and timeline",
-      "support": "Design Museum profile supports the linked biographical, career or project statement."
+      "locator": "DOCX section sec-23",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
     },
     {
-      "id": "cit_ps_24",
-      "claim_id": "clm_024",
+      "id": "cit_peter-sa_24",
+      "claim_id": "clm_ps_024",
       "source_id": "src_e4bfc6bb98e70a95",
-      "locator": "Design Museum profile and timeline",
-      "support": "Design Museum profile supports the linked biographical, career or project statement."
+      "locator": "DOCX section sec-24",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
     },
     {
-      "id": "cit_ps_25",
-      "claim_id": "clm_025",
+      "id": "cit_peter-sa_25",
+      "claim_id": "clm_ps_025",
       "source_id": "src_e4bfc6bb98e70a95",
-      "locator": "Design Museum profile and timeline",
-      "support": "Design Museum profile supports the linked biographical, career or project statement."
+      "locator": "DOCX section sec-25",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
     },
     {
-      "id": "cit_ps_26",
-      "claim_id": "clm_026",
+      "id": "cit_peter-sa_26",
+      "claim_id": "clm_ps_026",
       "source_id": "src_e4bfc6bb98e70a95",
-      "locator": "Design Museum profile and timeline",
-      "support": "Design Museum profile supports the linked biographical, career or project statement."
+      "locator": "DOCX section sec-26",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
     },
     {
-      "id": "cit_ps_27",
-      "claim_id": "clm_027",
+      "id": "cit_peter-sa_27",
+      "claim_id": "clm_ps_027",
       "source_id": "src_e4bfc6bb98e70a95",
-      "locator": "Design Museum profile and timeline",
-      "support": "Design Museum profile supports the linked biographical, career or project statement."
+      "locator": "DOCX section sec-27",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
     },
     {
-      "id": "cit_ps_28",
-      "claim_id": "clm_028",
-      "source_id": "src_e4bfc6bb98e70a95",
-      "locator": "Design Museum profile and timeline",
-      "support": "Design Museum profile supports the linked biographical, career or project statement."
+      "id": "cit_peter-sa_28",
+      "claim_id": "clm_ps_028",
+      "source_id": "src_0c1055e4fc37d9b3",
+      "locator": "DOCX section sec-28",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
     },
     {
-      "id": "cit_ps_29",
-      "claim_id": "clm_029",
-      "source_id": "src_e4bfc6bb98e70a95",
-      "locator": "Design Museum profile and timeline",
-      "support": "Design Museum profile supports the linked biographical, career or project statement."
+      "id": "cit_peter-sa_29",
+      "claim_id": "clm_ps_029",
+      "source_id": "src_5c7772ba3da17052",
+      "locator": "DOCX section sec-29",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
     },
     {
-      "id": "cit_ps_30",
-      "claim_id": "clm_030",
+      "id": "cit_peter-sa_30",
+      "claim_id": "clm_ps_030",
       "source_id": "src_e4bfc6bb98e70a95",
-      "locator": "Design Museum profile and timeline",
-      "support": "Design Museum profile supports the linked biographical, career or project statement."
-    },
-    {
-      "id": "cit_ps_factory",
-      "claim_id": "clm_003",
-      "source_id": "src_0719808f7f3d4b18",
-      "locator": "British Pop Archive feature",
-      "support": "University of Manchester source supports the Factory Records and Manchester cultural context."
+      "locator": "DOCX section sec-30",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
     }
   ],
   "relations": [],
   "contradictions": [],
+  "media_state": "media_ready",
   "workflow": {
-    "decision": "MANUAL_EDITORIAL_AUDIT",
-    "note": "???????? ????????????????? ??????????? ??????? ? Design Museum ? ???????????????? ???????????; ????????? ????????? ????????? ?????? ? ???????.",
-    "converted_by": "codex_editorial_audit",
-    "converted_at": "2026-08-10T00:00:00.000Z"
+    "decision": "AUTO_APPROVE",
+    "note": "Incoming RU master and EN translation passed DOCX structure, source-format, URL reachability and section-level citation checks on 2026-08-12. Claims are retained as explicit attributions; planned media remains rights-review work.",
+    "converted_by": "VANSMITHLAB incoming article publication workflow",
+    "converted_at": "2026-08-12T00:00:00.000Z",
+    "media_reviewed_at": "2026-08-12",
+    "media_note": "Hero and separate portrait records normalized with rights state, provenance, source, localized accessibility fields and content hashes."
   }
 }

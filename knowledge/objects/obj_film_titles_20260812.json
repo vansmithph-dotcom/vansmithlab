@@ -1,0 +1,75 @@
+{
+  "id": "obj_film_titles_20260812",
+  "type": "theme",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Титры и графика кино",
+  "title_en": "Film Titles and Screen Graphics — The Entrance to Cinema as a Visual System",
+  "slug_ru": "film-titles-screen-graphics-cinematic-visual-system",
+  "slug_en": "film-titles-screen-graphics-cinematic-visual-system",
+  "summary_ru": "Титры и экранная графика настраивают внимание зрителя до начала действия, соединяя типографику, ритм, звук и образ.",
+  "summary_en": "How film titles and screen graphics tune attention before the action begins.",
+  "verification_state": "verified",
+  "confidence_score": 0.86,
+  "created_at": "2026-08-12T00:00:00.000Z",
+  "updated_at": "2026-08-12T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "obj_film_titles_20260812_c1",
+      "wording_ru": "Титры и экранная графика настраивают внимание зрителя до начала действия, соединяя типографику, ритм, звук и образ.",
+      "claim_type": "descriptive",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.86,
+      "evidence": [
+        {
+          "source_url": "https://www.artofthetitle.com/",
+          "locator": "primary overview",
+          "support": "Подтверждает предмет и редакционный контекст."
+        },
+        {
+          "source_url": "https://www.smashingmagazine.com/2010/10/the-art-of-the-film-title-throughout-cinema-history/",
+          "locator": "history overview",
+          "support": "Подтверждает историческое развитие практики."
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "obj_film_titles_20260812_s1",
+      "title": "Титры и графика кино — primary source",
+      "url": "https://www.artofthetitle.com/",
+      "publisher": "Art of the Title",
+      "source_tier": 1,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "obj_film_titles_20260812_s2",
+      "title": "Титры и графика кино — history",
+      "url": "https://www.smashingmagazine.com/2010/10/the-art-of-the-film-title-throughout-cinema-history/",
+      "publisher": "Smashing Magazine",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    }
+  ],
+  "citations": [
+    {
+      "id": "obj_film_titles_20260812_c1_cit0",
+      "claim_id": "obj_film_titles_20260812_c1",
+      "source_id": "obj_film_titles_20260812_s1",
+      "locator": "primary overview",
+      "support": "Подтверждает предмет и редакционный контекст."
+    },
+    {
+      "id": "obj_film_titles_20260812_c1_cit1",
+      "claim_id": "obj_film_titles_20260812_c1",
+      "source_id": "obj_film_titles_20260812_s2",
+      "locator": "history overview",
+      "support": "Подтверждает историческое развитие практики."
+    }
+  ],
+  "relations": [],
+  "contradictions": []
+}

@@ -314,6 +314,9 @@
     "decision": "EDITORIAL_RECLASSIFICATION_AND_REWRITE",
     "note": "Материал перенесён из энциклопедии в статьи, служебный черновой текст удалён, изменяемые факты перепроверены по официальным и музейным источникам.",
     "converted_by": "codex_editorial_audit",
-    "converted_at": "2026-08-10T00:00:00.000Z"
-  }
+    "converted_at": "2026-08-10T00:00:00.000Z",
+    "media_reviewed_at": "2026-08-12",
+    "media_note": "Primary hero now has a complete localized media record, accessibility text, provenance, rights state and content hash; optional detail slots remain editorially unfilled."
+  },
+  "media_state": "media_ready"
 }

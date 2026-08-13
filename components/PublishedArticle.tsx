@@ -1,8 +1,9 @@
 import Link from "next/link";
 import Image from "next/image";
+import { Children, type ReactNode } from "react";
 import ReactMarkdown from "react-markdown";
 import rehypeRaw from "rehype-raw";
-import type { PublishedContent } from "@/lib/content";
+import type { InlineMediaReference, PublishedContent } from "@/lib/content";
 import { copy, type Locale } from "@/lib/site-data";
 import { organizationId, organizationStructuredData, siteUrl, websiteId } from "@/lib/structured-data";
 import { roleByRoute } from "@/lib/taxonomy";
@@ -32,6 +33,45 @@ function removeDuplicatedArticleIntro(body: string, title: string, summary: stri
 
   while (lines[0]?.trim() === "") lines.shift();
   return lines.join("\n");
+}
+
+function headingText(children: ReactNode) {
+  return Children.toArray(children)
+    .map((child) => typeof child === "string" || typeof child === "number" ? String(child) : "")
+    .join("")
+    .trim();
+}
+
+function InlineArticleFigure({ media, locale }: { media: InlineMediaReference; locale: Locale }) {
+  const sourceLabel = locale === "ru" ? "Официальный пример" : "Official example";
+  const disclosure = media.origin === "ai_illustration"
+    ? (locale === "ru" ? "AI-иллюстрация" : "AI illustration")
+    : media.origin === "editorial_diagram"
+      ? (locale === "ru" ? "Редакционная диаграмма" : "Editorial diagram")
+      : null;
+
+  return (
+    <figure className="article-inline-figure" aria-label={media.alt}>
+      <span className="article-inline-media">
+        <Image
+          alt={media.alt}
+          height={media.height}
+          loading="lazy"
+          sizes="(max-width: 920px) calc(100vw - 32px), 760px"
+          src={media.src}
+          width={media.width}
+        />
+      </span>
+      <figcaption>
+        <span className="article-inline-caption">{media.caption}</span>
+        <span className="article-inline-credit">
+          {media.credit}
+          {disclosure ? <> · {disclosure}</> : null}
+          {media.source_url ? <> · <a href={media.source_url} rel="noreferrer" target="_blank">{sourceLabel}</a></> : null}
+        </span>
+      </figcaption>
+    </figure>
+  );
 }
 
 function buildJsonLd(locale: Locale, section: string, content: PublishedContent) {
@@ -142,7 +182,8 @@ export function PublishedArticle({ locale, section, content }: { locale: Locale;
           dispute: { ru: "Спорное утверждение", en: "Disputed claim" },
         };
         const label = calloutLabels[type]?.[locale] ?? type;
-        return `<aside class="callout callout-${type}" aria-label="${label}"><strong>${label}</strong>${content.trim()}</aside>`;
+        const cleanedContent = content.trim().replace(/^(Интерпретация|Interpretation)\s*/i, "");
+        return `<aside class="callout callout-${type}" aria-label="${label}"><strong>${label}</strong>${cleanedContent}</aside>`;
       }
     );
   const jsonLd = buildJsonLd(locale, section, content);
@@ -220,7 +261,12 @@ export function PublishedArticle({ locale, section, content }: { locale: Locale;
           )}
           <ReactMarkdown rehypePlugins={[rehypeRaw]} components={{
             a: ({ children, ...props }) => <a {...props} rel="noreferrer" target="_blank" title={props.title || undefined}>{children}</a>,
-            cite: ({ children, title }) => <cite className="citation-link" title={title} style={{ cursor: "help", borderBottom: "1px dotted var(--accent)", fontStyle: "normal" }}>{children}</cite>
+            cite: ({ children, title }) => <cite className="citation-link" title={title} style={{ cursor: "help", borderBottom: "1px dotted var(--accent)", fontStyle: "normal" }}>{children}</cite>,
+            h2: ({ children }) => {
+              const heading = headingText(children);
+              const figures = (metadata.inline_media ?? []).filter((media) => media.after_heading === heading);
+              return <><h2>{children}</h2>{figures.map((media) => <InlineArticleFigure key={media.asset_id} locale={locale} media={media} />)}</>;
+            },
           }}>{renderedBody}</ReactMarkdown>
         </div>
 

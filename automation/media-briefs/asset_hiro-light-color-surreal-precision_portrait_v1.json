@@ -22,15 +22,25 @@
     "third_party_marks": "No logo, wordmark or recognisable branded asset."
   },
   "accessibility": {
-    "alt_text_ru": "AI-реконструкция портрета: Хиро, фотограф.",
-    "alt_text_en": "AI reconstruction of a portrait of Hiro, photographer.",
-    "caption_ru": "Хиро, фотограф. AI-реконструкция портрета по публичным референсам.",
-    "caption_en": "Hiro, photographer. AI portrait reconstruction from public references."
+    "alt_text_ru": "AI-реконструкция портрета фотографа Hiro рядом со студийной камерой и источником света.",
+    "alt_text_en": "AI reconstruction of photographer Hiro beside a studio camera and controlled light.",
+    "caption_ru": "Hiro, фотограф. AI-реконструкция, не архивная фотография.",
+    "caption_en": "Hiro, photographer. AI reconstruction, not an archival photograph."
   },
   "creator": "OpenAI image generation · directed and reviewed by VANSMITHLAB",
   "created_at": "2026-08-12",
   "asset_path": "public/images/glossary/photographers/hiro-light-color-surreal-precision-portrait-ai-v1.webp",
   "generation_prompt_class": "original fictional editorial visual for hiro-light-color-surreal-precision",
-  "workflow_run_id": "run_20260812_art_directors_photographers",
-  "content_sha256": ""
+  "workflow_run_id": "run_20260812_media_rights_repair",
+  "content_sha256": "",
+  "content_release_ids": [
+    "cnt_3aee9f965e90e660"
+  ],
+  "rights_state": "generated_reviewed",
+  "licence_or_permission": "Original AI portrait reconstruction generated for VANSMITHLAB without copying a specific protected photograph; not documentary evidence.",
+  "source_url": "",
+  "creator_or_credit": "OpenAI image generation · directed and reviewed by VANSMITHLAB",
+  "file_storage_key": "public/images/glossary/photographers/hiro-light-color-surreal-precision-portrait-ai-v1.webp",
+  "content_hash": "b3d6698f46c7ab489a6a4ca301ed162e38fc5689cc87fc01c1c1fbae7542f9f9",
+  "disclosure": "VANSMITHLAB · AI-реконструкция, 2026"
 }

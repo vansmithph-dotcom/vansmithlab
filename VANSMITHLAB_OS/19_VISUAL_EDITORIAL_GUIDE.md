@@ -67,7 +67,7 @@ Every published article should have one hero unless the content is intentionally
 
 ### Inline visuals
 
-Long articles should normally contain 1–3 inline visuals after editorial review. A visual earns its place when it explains a claim, gives scale, shows a process or creates a useful comparison. Each inline figure has its own caption, alt text, credit, rights/origin and source object.
+Long institutional articles should normally contain 1–3 inline visuals after editorial review. A long-form **Analysis** follows the stricter `20_ANALYSIS_EDITORIAL_STANDARD.md` rule: hero plus at least 4 purposeful inline visuals, usually 5–8, combining photographs/details where rights allow, diagrams, timelines, comparisons and annotated examples. A visual earns its place when it explains a claim, gives scale, shows a process or creates a useful comparison. Each inline figure has its own caption, alt text, credit, rights/origin and source object.
 
 Suggested rhythm:
 

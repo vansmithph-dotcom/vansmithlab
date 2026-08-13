@@ -99,9 +99,16 @@ h1,h2,h3,p { margin-top:0; } h1,h2,h3 { letter-spacing:-.045em; line-height:1; }
 /* Visual editorial system */
 .article-hero-caption { flex:1!important; text-align:left!important; }
 .article-hero-credit { flex:none; text-align:right; }
+.article-inline-figure { margin:26px 0 34px; }
+.article-inline-media { display:block; width:100%; overflow:hidden; border:1px solid var(--line); background:#e7e2d9; }
+.article-inline-media img { display:block; width:100%; height:auto; }
+.article-inline-figure figcaption { display:grid; grid-template-columns:minmax(0,1fr) auto; gap:24px; padding:11px 0 13px; border-bottom:1px solid var(--line); color:var(--muted); font:11px/1.55 var(--font-dm-mono),monospace; }
+.article-inline-caption { color:#403d38; }
+.article-inline-credit { max-width:310px; text-align:right; }
+.article-inline-credit a { color:var(--accent); }
 .media-disclosure { color:var(--accent); font-style:normal; }
 .citation-unmapped { text-decoration-style:dashed!important; }
-@media (max-width:560px) { .article-hero-caption,.article-hero-credit { text-align:left!important; } }
+@media (max-width:560px) { .article-hero-caption,.article-hero-credit { text-align:left!important; }.article-inline-figure { margin:20px 0 30px; }.article-inline-figure figcaption { display:block; font-size:10px; }.article-inline-credit { display:block; max-width:none; margin-top:6px; text-align:left; } }
 /* Inline author portrait: a secondary, clearly disclosed visual inside the article. */
 .article-inline-portrait { width: min(100%, 512px); margin: 42px 0 0; }
 .article-inline-portrait img { display: block; width: 100%; height: auto; background: #e7e2d9; }

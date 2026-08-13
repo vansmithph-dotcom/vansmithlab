@@ -9,7 +9,7 @@
   "confidence_score": 0.0,
   "claim_ids": [],
   "source_ids": [],
-  "last_reviewed": "2026-08-09",
+  "last_reviewed": "2026-08-12",
   "author": "VANSMITHLAB",
   "locale": "ru",
   "slug": "richard-avedon",
@@ -23,6 +23,19 @@
     "photographer"
   ],
   "body_hash": "0073269b372cad3f1536858d62158144fb2a8fb1b6fd0e86cdc18b7c24ff607d",
-  "hero_image": {"src":"/images/glossary/photographers/richard-avedon-hero-v1-card.webp","alt":"Редакционная визуализация метода Ричарда Аведона","caption":"Психологическое давление и публичный образ","credit":"VANSMITHLAB · AI-иллюстрация, 2026","origin":"ai_illustration"},
-  "portrait_image": {"src":"/images/glossary/photographers/richard-avedon-portrait-source.webp","alt":"Портрет Ричарда Аведона","caption":"Ричард Аведон, 2004","credit":"Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Richard_Avedon_2004.jpg","origin":"wikimedia_commons","rights_status":"editorial_basis_recorded"}
+  "hero_image": {
+    "src": "/images/glossary/photographers/richard-avedon-hero-v1-card.webp",
+    "alt": "Редакционная визуализация метода Ричарда Аведона",
+    "caption": "Психологическое давление и публичный образ",
+    "credit": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "origin": "ai_illustration"
+  },
+  "portrait_image": {
+    "src": "/images/glossary/photographers/richard-avedon-portrait-source.webp",
+    "alt": "Портрет Ричарда Аведона",
+    "caption": "Ричард Аведон, 2004",
+    "credit": "Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Richard_Avedon_2004.jpg",
+    "origin": "wikimedia_commons",
+    "rights_status": "editorial_basis_recorded"
+  }
 }

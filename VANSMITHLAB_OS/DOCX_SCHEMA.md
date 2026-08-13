@@ -1,4 +1,4 @@
-# VANSMITHLAB — Docx Authoring Schema v1.2
+# VANSMITHLAB — Docx Authoring Schema v1.3
 
 Use this schema to write articles as `.docx` files that the converter reads directly.
 Write one paragraph per line in Word. Tags go on their own line, in square brackets.
@@ -108,6 +108,16 @@ asset: portrait-or-studio-view
 caption_required: yes
 alt_required: yes
 rights_status: to-be-licensed
+reference_url: https://example.org/source-page
+asset_url: https://example.org/image.jpg
+creator_or_rightsholder: Name or institution
+title_or_subject: Work, frame or mechanism shown
+date_or_context: Year, collection or production context
+supports: clm_example_id or example-1
+why_it_matters: What the reader should inspect and why it supports the argument
+suggested_alt_ru: Короткое информативное описание на русском
+suggested_caption_ru: Подпись с автором, контекстом и правами
+rights_basis: rights_to_check
 [/MEDIA_SLOT]
 ```
 
@@ -118,6 +128,15 @@ Fields inside the slot (one per line):
 - `caption_required:` — `yes` or `no`.
 - `alt_required:` — `yes` or `no`.
 - `rights_status:` — `to-be-licensed`, `public-domain`, `ai-illustration`, `press-kit`.
+- `reference_url:` — required for documentary, licensed, editorial and archival visuals; points to the source page, archive record, rights holder or official project page.
+- `asset_url:` — optional direct asset link for editor research only. It is never a licence, permission or instruction to hotlink.
+- `creator_or_rightsholder:`, `title_or_subject:`, `date_or_context:` — identify what the reader would see and who controls or created it; use `unknown` only while the asset is held for review.
+- `supports:` — claim ID(s), example ID(s) or mechanism the visual makes inspectable.
+- `why_it_matters:` — one sentence explaining the visual's argumentative/educational purpose.
+- `suggested_alt_ru:` / `suggested_caption_ru:` — author-provided accessibility and editorial copy; provide English equivalents in the EN file.
+- `rights_basis:` — `rights_to_check`, `public_domain`, `licensed`, `permission_confirmed`, `editorial_basis_recorded` or `ai_illustration`. A supplied URL never changes this to an approved state.
+
+For a long-form `analysis`, each planned visual must carry this handoff record. The hero and at least four purposeful inline visuals are required by `20_ANALYSIS_EDITORIAL_STANDARD.md`; AI/original diagrams may use a visual specification instead of an asset URL, but must still state what they explain and provide any non-copying reference URLs.
 
 ---
 
@@ -179,6 +198,7 @@ D. Media Plan
 
 - `type:` — `critical-context`, `interpretation` or `dispute`.
 - A `analysis` document must carry at least one `interpretation` callout: this is what separates an attributed argument from a neutral article, per `06_CONTENT_MODEL.md`.
+- An `analysis` document must also carry an author/byline, concrete opening case, explicit thesis, at least three sourced examples and a purposeful media plan. Do not use a broad definition as the opening hook. Long-form analysis normally follows the 1,200–3,000-word and **hero plus at least four purposeful inline visuals (usually 5–8)** standard in `20_ANALYSIS_EDITORIAL_STANDARD.md`; photographs/details require source, creator/context and rights metadata. Record justified exceptions in the brief.
 
 ---
 
@@ -303,10 +323,13 @@ keywords: Elsa Schiaparelli, Surrealism, fashion, Dali, lobster dress
 8. **No images in docx.** Use `[MEDIA_SLOT]` blocks to describe what image is needed.
 9. **Verification state and confidence are editorial metadata**, not part of the docx schema. The converter sets them.
 10. **`paired_document_id`** links RU+EN for the converter. Use the same ID in both files.
+11. **Analysis is not a thin article.** The first paragraphs must give the reader a concrete case and a question; the body must develop a sourced argument with examples, marked interpretation and explanatory visuals. Existing dry materials are rewritten as source material, not released unchanged.
 
 ---
 
-Version: 1.2 / 2026-08-09
+Version: 1.3 / 2026-08-13
+
+Changes in 1.3: Analysis documents follow `20_ANALYSIS_EDITORIAL_STANDARD.md` v2.0: concrete opening, strong question, authorial thesis, sourced examples, marked interpretation, developed sections and a purposeful visual package. Dry informational material is source input and must be rewritten before release.
 
 Changes in 1.2: `category`/`categories` replaced by the three-axis model in `TAXONOMY.md` v2 — `discipline`, `kind`, `role`; `category` is now derived, not authored. Every `[SOURCE]` must carry a URL and an access date.
 

@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img">
+<rect width="1600" height="900" fill="#f2eee6"/>
+<defs>
+<pattern id="grid" width="80" height="80" patternUnits="userSpaceOnUse"><path d="M80 0H0V80" fill="none" stroke="#ded7ca" stroke-width="1"/></pattern>
+<radialGradient id="sphereGrad" cx="0.36" cy="0.3" r="0.9"><stop offset="0" stop-color="#fbf8f1"/><stop offset="0.55" stop-color="#dce5e9"/><stop offset="1" stop-color="#7f98a6"/></radialGradient>
+</defs>
+<rect x="40" y="40" width="1520" height="820" fill="url(#grid)" opacity=".46"/>
+<rect x="40" y="40" width="1520" height="820" rx="0" fill="none" stroke="#171716" stroke-width="2"/>
+<text x="78" y="96" fill="#c84a31" text-anchor="start" font-family="monospace" font-size="15" font-weight="500" letter-spacing="2">VANSMITHLAB / ANALYSIS / CGI-004</text>
+<text x="78" y="170" fill="#171716" text-anchor="start" font-family="Georgia" font-size="52" font-weight="500" letter-spacing="0">CGI: THE FRAME IS ASSEMBLED</text>
+<line x1="78" y1="202" x2="1522" y2="202" stroke="#171716" stroke-width="2"/>
+
+<!-- stage 1: camera -->
+<rect x="105" y="390" width="200" height="150" rx="0" fill="#fbf8f1" stroke="#171716" stroke-width="3"/>
+<rect x="145" y="370" width="55" height="22" rx="3" fill="#dce5e9" stroke="#171716" stroke-width="2"/>
+<rect x="300" y="428" width="48" height="74" rx="4" fill="#171716"/>
+<circle cx="352" cy="465" r="32" fill="#171716" stroke="#fbf8f1" stroke-width="3"/>
+<circle cx="352" cy="465" r="15" fill="#c84a31"/>
+<circle cx="352" cy="465" r="6" fill="#fbf8f1"/>
+<text x="210" y="652" fill="#777167" text-anchor="middle" font-family="monospace" font-size="16" letter-spacing="2">CAMERA</text>
+<line x1="382" y1="470" x2="420" y2="470" stroke="#c84a31" stroke-width="4"/>
+<path d="M412 456 L428 470 L412 484" fill="none" stroke="#c84a31" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+<!-- stage 2: wireframe geometry -->
+<circle cx="535" cy="470" r="100" fill="none" stroke="#171716" stroke-width="2.5"/>
+<ellipse cx="535" cy="470" rx="100" ry="30" fill="none" stroke="#171716" stroke-width="1.5"/>
+<ellipse cx="535" cy="470" rx="100" ry="66" fill="none" stroke="#171716" stroke-width="1.5"/>
+<ellipse cx="535" cy="470" rx="32" ry="100" fill="none" stroke="#171716" stroke-width="1.5"/>
+<line x1="435" y1="470" x2="635" y2="470" stroke="#171716" stroke-width="1.5"/>
+<text x="535" y="652" fill="#777167" text-anchor="middle" font-family="monospace" font-size="16" letter-spacing="2">GEOMETRY</text>
+<line x1="640" y1="470" x2="678" y2="470" stroke="#c84a31" stroke-width="4"/>
+<path d="M670 456 L686 470 L670 484" fill="none" stroke="#c84a31" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+<!-- stage 3: shaded material -->
+<circle cx="835" cy="462" r="102" fill="url(#sphereGrad)" stroke="#171716" stroke-width="2.5"/>
+<ellipse cx="835" cy="596" rx="92" ry="16" fill="#c84a31" opacity=".25"/>
+<circle cx="792" cy="424" r="26" fill="#fbf8f1" opacity=".9"/>
+<text x="835" y="652" fill="#777167" text-anchor="middle" font-family="monospace" font-size="16" letter-spacing="2">MATERIAL</text>
+<line x1="945" y1="470" x2="983" y2="470" stroke="#c84a31" stroke-width="4"/>
+<path d="M975 456 L991 470 L975 484" fill="none" stroke="#c84a31" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+<!-- stage 4: light -->
+<circle cx="1140" cy="452" r="46" fill="#ead3ca" stroke="#171716" stroke-width="3"/>
+<rect x="1120" y="496" width="40" height="26" rx="4" fill="#171716"/>
+<line x1="1140" y1="386" x2="1140" y2="356" stroke="#c84a31" stroke-width="4"/>
+<line x1="1140" y1="518" x2="1140" y2="548" stroke="#c84a31" stroke-width="4" opacity="0"/>
+<line x1="1074" y1="422" x2="1048" y2="398" stroke="#c84a31" stroke-width="4"/>
+<line x1="1206" y1="422" x2="1232" y2="398" stroke="#c84a31" stroke-width="4"/>
+<line x1="1072" y1="486" x2="1044" y2="506" stroke="#c84a31" stroke-width="4"/>
+<line x1="1208" y1="486" x2="1236" y2="506" stroke="#c84a31" stroke-width="4"/>
+<text x="1140" y="652" fill="#777167" text-anchor="middle" font-family="monospace" font-size="16" letter-spacing="2">LIGHT</text>
+<line x1="1200" y1="470" x2="1238" y2="470" stroke="#c84a31" stroke-width="4"/>
+<path d="M1230 456 L1246 470 L1230 484" fill="none" stroke="#c84a31" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+<!-- stage 5: final frame -->
+<rect x="1252" y="350" width="216" height="244" rx="0" fill="#171716" stroke="#171716" stroke-width="3"/>
+<rect x="1262" y="360" width="196" height="224" rx="0" fill="#dce5e9"/>
+<circle cx="1322" cy="402" r="22" fill="#c84a31"/>
+<path d="M1262 584 L1326 476 L1384 540 L1458 470 L1458 584 Z" fill="#284e78"/>
+<path d="M1352 584 L1396 516 L1442 584 Z" fill="#7f98a6"/>
+<text x="1360" y="652" fill="#777167" text-anchor="middle" font-family="monospace" font-size="16" letter-spacing="2">FRAME</text>
+
+<!-- assembly baseline -->
+<line x1="100" y1="690" x2="1500" y2="690" stroke="#ded7ca" stroke-width="2"/>
+<circle cx="230" cy="690" r="7" fill="#fbf8f1" stroke="#171716" stroke-width="2"/>
+<circle cx="575" cy="690" r="7" fill="#fbf8f1" stroke="#171716" stroke-width="2"/>
+<circle cx="900" cy="690" r="7" fill="#fbf8f1" stroke="#171716" stroke-width="2"/>
+<circle cx="1225" cy="690" r="7" fill="#fbf8f1" stroke="#171716" stroke-width="2"/>
+
+<text x="78" y="824" fill="#777167" text-anchor="start" font-family="Arial" font-size="19" font-weight="400" letter-spacing="0">Camera, geometry, material, light, compositing, reconstruction and generative layer as one production system</text>
+</svg>

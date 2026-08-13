@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img">
+<rect width="1600" height="900" fill="#f2eee6"/>
+<defs>
+<pattern id="grid" width="80" height="80" patternUnits="userSpaceOnUse"><path d="M80 0H0V80" fill="none" stroke="#ded7ca" stroke-width="1"/></pattern>
+</defs>
+<rect x="40" y="40" width="1520" height="820" fill="url(#grid)" opacity=".46"/>
+<rect x="40" y="40" width="1520" height="820" rx="0" fill="none" stroke="#171716" stroke-width="2"/>
+<text x="78" y="96" fill="#c84a31" text-anchor="start" font-family="monospace" font-size="15" font-weight="500" letter-spacing="2">VANSMITHLAB / ANALYSIS / MV-002</text>
+<text x="78" y="170" fill="#171716" text-anchor="start" font-family="Georgia" font-size="52" font-weight="500" letter-spacing="0">THE MUSIC VIDEO AS MYTH FACTORY</text>
+<line x1="78" y1="202" x2="1522" y2="202" stroke="#171716" stroke-width="2"/>
+
+<!-- conveyor line -->
+<line x1="105" y1="655" x2="1495" y2="655" stroke="#171716" stroke-width="3"/>
+<circle cx="230" cy="655" r="12" fill="#fbf8f1" stroke="#171716" stroke-width="2"/>
+<circle cx="510" cy="655" r="12" fill="#fbf8f1" stroke="#171716" stroke-width="2"/>
+<circle cx="790" cy="655" r="12" fill="#fbf8f1" stroke="#171716" stroke-width="2"/>
+<circle cx="1070" cy="655" r="12" fill="#fbf8f1" stroke="#171716" stroke-width="2"/>
+<circle cx="1350" cy="655" r="12" fill="#fbf8f1" stroke="#171716" stroke-width="2"/>
+
+<!-- stage 1: song / record -->
+<circle cx="230" cy="430" r="95" fill="#171716"/>
+<circle cx="230" cy="430" r="76" fill="none" stroke="#fbf8f1" stroke-width="1.5" opacity=".7"/>
+<circle cx="230" cy="430" r="58" fill="none" stroke="#fbf8f1" stroke-width="1.5" opacity=".7"/>
+<circle cx="230" cy="430" r="40" fill="none" stroke="#fbf8f1" stroke-width="1.5" opacity=".7"/>
+<circle cx="230" cy="430" r="22" fill="#c84a31"/>
+<circle cx="230" cy="430" r="6" fill="#fbf8f1"/>
+<text x="230" y="732" fill="#777167" text-anchor="middle" font-family="monospace" font-size="16" letter-spacing="2">SONG</text>
+<line x1="335" y1="470" x2="375" y2="470" stroke="#c84a31" stroke-width="4"/>
+<path d="M367 456 L383 470 L367 484" fill="none" stroke="#c84a31" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+<!-- stage 2: face -->
+<circle cx="510" cy="440" r="78" fill="#ead3ca" stroke="#171716" stroke-width="3"/>
+<path d="M455 480 Q510 515 565 480" fill="none" stroke="#171716" stroke-width="3"/>
+<circle cx="486" cy="438" r="9" fill="#171716"/>
+<circle cx="534" cy="438" r="9" fill="#171716"/>
+<path d="M500 468 Q510 480 520 468" fill="none" stroke="#171716" stroke-width="3" stroke-linecap="round"/>
+<text x="510" y="732" fill="#777167" text-anchor="middle" font-family="monospace" font-size="16" letter-spacing="2">FACE</text>
+<line x1="615" y1="470" x2="655" y2="470" stroke="#c84a31" stroke-width="4"/>
+<path d="M647 456 L663 470 L647 484" fill="none" stroke="#c84a31" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+<!-- stage 3: costume -->
+<path d="M760 360 Q790 355 820 360 L838 470 L742 470 Z" fill="#fbf8f1" stroke="#171716" stroke-width="3"/>
+<path d="M700 470 L900 470 L856 590 L744 590 Z" fill="#dce5e9" stroke="#171716" stroke-width="3"/>
+<line x1="800" y1="470" x2="800" y2="590" stroke="#171716" stroke-width="2"/>
+<circle cx="800" cy="418" r="12" fill="#c84a31"/>
+<text x="800" y="732" fill="#777167" text-anchor="middle" font-family="monospace" font-size="16" letter-spacing="2">COSTUME</text>
+<line x1="908" y1="470" x2="948" y2="470" stroke="#c84a31" stroke-width="4"/>
+<path d="M940 456 L956 470 L940 484" fill="none" stroke="#c84a31" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+<!-- stage 4: gesture -->
+<rect x="1032" y="400" width="66" height="56" rx="14" fill="#fbf8f1" stroke="#171716" stroke-width="3"/>
+<rect x="1032" y="360" width="14" height="46" rx="7" fill="#fbf8f1" stroke="#171716" stroke-width="3"/>
+<rect x="1050" y="348" width="14" height="58" rx="7" fill="#fbf8f1" stroke="#171716" stroke-width="3"/>
+<rect x="1068" y="342" width="14" height="64" rx="7" fill="#fbf8f1" stroke="#171716" stroke-width="3"/>
+<rect x="1086" y="356" width="12" height="48" rx="6" fill="#fbf8f1" stroke="#171716" stroke-width="3"/>
+<path d="M1026 420 Q1006 440 1006 470 Q1006 500 1030 512" fill="none" stroke="#c84a31" stroke-width="4"/>
+<circle cx="1006" cy="470" r="14" fill="#c84a31"/>
+<text x="1070" y="732" fill="#777167" text-anchor="middle" font-family="monospace" font-size="16" letter-spacing="2">GESTURE</text>
+<line x1="1160" y1="470" x2="1200" y2="470" stroke="#c84a31" stroke-width="4"/>
+<path d="M1192 456 L1208 470 L1192 484" fill="none" stroke="#c84a31" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+<!-- stage 5: platform fragment / memory -->
+<rect x="1212" y="366" width="110" height="196" rx="16" fill="#171716"/>
+<rect x="1224" y="384" width="86" height="140" rx="6" fill="#fbf8f1"/>
+<path d="M1250 460 L1284 440 L1250 496 Z" fill="#c84a31"/>
+<line x1="1240" y1="546" x2="1282" y2="546" stroke="#171716" stroke-width="4"/>
+<circle cx="1376" cy="468" r="56" fill="none" stroke="#284e78" stroke-width="3"/>
+<path d="M1376 420 L1386 448 L1414 448 L1392 466 L1400 494 L1376 478 L1352 494 L1360 466 L1338 448 L1366 448 Z" fill="#c84a31"/>
+<text x="1350" y="732" fill="#777167" text-anchor="middle" font-family="monospace" font-size="16" letter-spacing="2">MEMORY</text>
+
+<path d="M200 620 C400 700 600 600 800 660 S1200 690 1400 620" fill="none" stroke="#284e78" stroke-width="4" stroke-linecap="round"/>
+<text x="78" y="824" fill="#777167" text-anchor="start" font-family="Arial" font-size="19" font-weight="400" letter-spacing="0">Song to face, costume, gesture, platform fragment and cultural memory</text>
+</svg>

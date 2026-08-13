@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img">
+<rect width="1600" height="900" fill="#f2eee6"/>
+<defs><pattern id="grid" width="80" height="80" patternUnits="userSpaceOnUse"><path d="M80 0H0V80" fill="none" stroke="#ded7ca" stroke-width="1"/></pattern></defs>
+<rect x="40" y="40" width="1520" height="820" fill="url(#grid)" opacity=".46"/>
+<rect x="40" y="40" width="1520" height="820" rx="0" fill="none" stroke="#171716" stroke-width="2"/>
+<text x="78" y="96" fill="#c84a31" text-anchor="start" font-family="monospace" font-size="15" font-weight="500" letter-spacing="2">VANSMITHLAB / ANALYSIS / 04</text>
+<text x="78" y="170" fill="#171716" text-anchor="start" font-family="Georgia" font-size="48" font-weight="500" letter-spacing="0">NOWNESS: РЕДАКЦИОННАЯ СРЕДА</text>
+<line x1="78" y1="202" x2="1522" y2="202" stroke="#171716" stroke-width="2"/>
+<text x="78" y="824" fill="#777167" text-anchor="start" font-family="Arial" font-size="19" font-weight="400" letter-spacing="0">Продукт работает не как команда к покупке, а как часть культурного мира</text>
+<circle cx="800" cy="475" r="125" fill="#171716" stroke="#171716" stroke-width="2"/>
+<text x="800" y="483" fill="#f2eee6" text-anchor="middle" font-family="monospace" font-size="28" font-weight="700" letter-spacing="0">FILM</text>
+<line x1="800" y1="475" x2="390" y2="315" stroke="#c8c0b3" stroke-width="2"/>
+<circle cx="390" cy="315" r="75" fill="#fbf8f1" stroke="#c84a31" stroke-width="5"/>
+<text x="390" y="321" fill="#171716" text-anchor="middle" font-family="monospace" font-size="15" font-weight="600" letter-spacing="0">МОДА</text>
+<line x1="800" y1="475" x2="800" y2="285" stroke="#c8c0b3" stroke-width="2"/>
+<circle cx="800" cy="285" r="75" fill="#fbf8f1" stroke="#284e78" stroke-width="5"/>
+<text x="800" y="291" fill="#171716" text-anchor="middle" font-family="monospace" font-size="15" font-weight="600" letter-spacing="0">ИСКУССТВО</text>
+<line x1="800" y1="475" x2="1210" y2="315" stroke="#c8c0b3" stroke-width="2"/>
+<circle cx="1210" cy="315" r="75" fill="#fbf8f1" stroke="#171716" stroke-width="5"/>
+<text x="1210" y="321" fill="#171716" text-anchor="middle" font-family="monospace" font-size="15" font-weight="600" letter-spacing="0">МУЗЫКА</text>
+<line x1="800" y1="475" x2="1250" y2="625" stroke="#c8c0b3" stroke-width="2"/>
+<circle cx="1250" cy="625" r="75" fill="#fbf8f1" stroke="#c84a31" stroke-width="5"/>
+<text x="1250" y="631" fill="#171716" text-anchor="middle" font-family="monospace" font-size="15" font-weight="600" letter-spacing="0">АРХИТЕКТУРА</text>
+<line x1="800" y1="475" x2="800" y2="675" stroke="#c8c0b3" stroke-width="2"/>
+<circle cx="800" cy="675" r="75" fill="#fbf8f1" stroke="#284e78" stroke-width="5"/>
+<text x="800" y="681" fill="#171716" text-anchor="middle" font-family="monospace" font-size="15" font-weight="600" letter-spacing="0">ПОРТРЕТ</text>
+<line x1="800" y1="475" x2="350" y2="625" stroke="#c8c0b3" stroke-width="2"/>
+<circle cx="350" cy="625" r="75" fill="#fbf8f1" stroke="#171716" stroke-width="5"/>
+<text x="350" y="631" fill="#171716" text-anchor="middle" font-family="monospace" font-size="15" font-weight="600" letter-spacing="0">ПУТЕШЕСТВИЕ</text>
+<path d="M580 475 C640 410 700 410 750 455" fill="none" stroke="#c84a31" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M850 495 C920 545 980 535 1040 475" fill="none" stroke="#284e78" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

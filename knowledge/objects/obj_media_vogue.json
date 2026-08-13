@@ -1,0 +1,1026 @@
+{
+  "id": "obj_media_vogue",
+  "type": "organization",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Vogue",
+  "title_en": "Vogue",
+  "slug_ru": "vogue-fashion-photography-editorial-system",
+  "slug_en": "vogue-fashion-photography-editorial-system",
+  "summary_ru": "Мода, фотография и журнал как редакционная система влияния",
+  "summary_en": "Fashion, Photography, and the Magazine as an Editorial System of Influence",
+  "verification_state": "verified",
+  "confidence_score": 0.86,
+  "created_at": "2026-08-12T00:00:00.000Z",
+  "updated_at": "2026-08-12T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_vg_001",
+      "wording_ru": "Первый номер Vogue вышел 17 декабря 1892 года. Это был еженедельный журнал о нью-йоркском обществе, манерах, досуге и одежде, а не специализированный репортаж с модной индустрии в современном смысле. Именно поэтому ранний Vogue полезно читать как документ социальной системы: одежда в нём была способом показать класс, ритуал, принадлежность и образ жизни.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/books-the-vogue-years-an-inside-look-at-former-editor-in-chief-diana-vreelands-memos",
+          "locator": "DOCX section sec-1",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.vogue.com/article/grace-mirabella-obituary",
+          "locator": "DOCX section sec-1",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_vg_002",
+      "wording_ru": "Первый редактор Josephine Redding не относилась к моде как к безусловной истине. Архивные материалы Vogue напоминают, что она могла резко высмеивать искусственные силуэты и «humps» конца XIX века. Эта ранняя критичность важна: авторитет журнала строился не только на демонстрации тренда, но и на праве судить его.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/books-the-vogue-years-an-inside-look-at-former-editor-in-chief-diana-vreelands-memos",
+          "locator": "DOCX section sec-2",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.vogue.com/article/grace-mirabella-obituary",
+          "locator": "DOCX section sec-2",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_vg_003",
+      "wording_ru": "В 1909 году Condé Montrose Nast купил Vogue и сделал журнал ядром новой издательской модели. Condé Nast описывает этот шаг как начало компании, а MoMA подчёркивает ставку Nast на образованную, состоятельную и визуально требовательную аудиторию. Это была не просто смена владельца: журнал стал special-interest media, где меньшая, но более вовлечённая аудитория могла быть коммерчески и культурно ценнее массовой.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/books-the-vogue-years-an-inside-look-at-former-editor-in-chief-diana-vreelands-memos",
+          "locator": "DOCX section sec-3",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.vogue.com/article/grace-mirabella-obituary",
+          "locator": "DOCX section sec-3",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_vg_004",
+      "wording_ru": "Для Vogue технология печати была частью бренда задолго до цифровых платформ. Хронология Condé Nast отдельно отмечает внедрение вылет под обрез-печати в 1924 году: изображение могло уходить за край страницы и переставало чувствовать себя вставкой в текст. Качество бумаги, цвет, иллюстрация и репродукция создавали физическое ощущение роскоши — редакционный дизайн работал наравне с содержанием.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/books-the-vogue-years-an-inside-look-at-former-editor-in-chief-diana-vreelands-memos",
+          "locator": "DOCX section sec-4",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.vogue.com/article/grace-mirabella-obituary",
+          "locator": "DOCX section sec-4",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_vg_005",
+      "wording_ru": "В 1916 году появилась British Vogue — Condé Nast называет компанию первым издателем, создавшим международную редакцию своего журнала. Важен не только факт экспансии: с этого момента Vogue начинает работать как сеть, где один бренд переводит моду между рынками, языками и локальными культурными кодами.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/books-the-vogue-years-an-inside-look-at-former-editor-in-chief-diana-vreelands-memos",
+          "locator": "DOCX section sec-5",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.vogue.com/article/grace-mirabella-obituary",
+          "locator": "DOCX section sec-5",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_vg_006",
+      "wording_ru": "Запуск парижской редакции в 1920 году закрепил связь Vogue с городом, где haute couture формировала международный календарь и статус моды. Но международная модель не означала полную унификацию. Сильные локальные редакции со временем стали самостоятельными лабораториями — поэтому Vogue нужно понимать не как один журнал с переводами, а как семейство редакционных интерпретаций.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/books-the-vogue-years-an-inside-look-at-former-editor-in-chief-diana-vreelands-memos",
+          "locator": "DOCX section sec-6",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.vogue.com/article/grace-mirabella-obituary",
+          "locator": "DOCX section sec-6",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_vg_007",
+      "wording_ru": "До доминирования фотографии Vogue строил свой визуальный авторитет через художников и иллюстраторов. Архив Condé Nast и поздние исследования сохраняют работы Helen Dryden, George Wolfe Plank, Eduardo Garcia Benito, Salvador Dalí и других. Обложка не обязана была буквально документировать платье: она могла создавать настроение сезона, тип женщины и даже отдельный художественный мир.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/books-the-vogue-years-an-inside-look-at-former-editor-in-chief-diana-vreelands-memos",
+          "locator": "DOCX section sec-7",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.vogue.com/article/grace-mirabella-obituary",
+          "locator": "DOCX section sec-7",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_vg_008",
+      "wording_ru": "Edward Steichen помог сделать модная фотография центральным языком Vogue. MoMA рассматривает журнал как одного из пионеров публикации модернистской фотографии, а V&A связывает развитие модная фотография с ростом иллюстрированных журналов начала XX века. Камера принесла ощущение присутствия и материальности ткани, но быстро доказала, что способна быть столь же условной и постановочной, как рисунок.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/books-the-vogue-years-an-inside-look-at-former-editor-in-chief-diana-vreelands-memos",
+          "locator": "DOCX section sec-8",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.vogue.com/article/grace-mirabella-obituary",
+          "locator": "DOCX section sec-8",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_vg_009",
+      "wording_ru": "Vogue датирует первую фотографическую обложку июлем 1932 года: Edward Steichen снял купальницу с пляжным мячом. При этом корпоративная хронология Condé Nast отдельно указывает 1936 год как момент первого полноцветную фотографическую обложку. Эти формулировки не следует смешивать: фотография на обложке и полноцветная фотографическая печать — разные технологические этапы.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/books-the-vogue-years-an-inside-look-at-former-editor-in-chief-diana-vreelands-memos",
+          "locator": "DOCX section sec-9",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.vogue.com/article/grace-mirabella-obituary",
+          "locator": "DOCX section sec-9",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_vg_009b",
+      "wording_ru": "Vogue датирует первую фотографическую обложку июлем 1932 года: Edward Steichen снял купальницу с пляжным мячом. При этом корпоративная хронология Condé Nast отдельно указывает 1936 год как момент первого полноцветную фотографическую обложку. Эти формулировки не следует смешивать: фотография на обложке и полноцветная фотографическая печать — разные технологические этапы.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/books-the-vogue-years-an-inside-look-at-former-editor-in-chief-diana-vreelands-memos",
+          "locator": "DOCX section sec-9",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.vogue.com/article/grace-mirabella-obituary",
+          "locator": "DOCX section sec-9",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_vg_010",
+      "wording_ru": "В 1920–30-е Vogue активно впускал в свои страницы современное искусство. V&A отмечает соседство моды с работами Salvador Dalí, Giorgio de Chirico, Man Ray и сюрреалистическими приёмами фотографии. Это расширило сам жанр модный образ: одежда могла быть не только товаром, но и поводом для оптической загадки, сна, абсурда или культурной цитаты.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/books-the-vogue-years-an-inside-look-at-former-editor-in-chief-diana-vreelands-memos",
+          "locator": "DOCX section sec-10",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.vogue.com/article/grace-mirabella-obituary",
+          "locator": "DOCX section sec-10",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_vg_011",
+      "wording_ru": "Edna Woolman Chase возглавляла американский Vogue десятилетиями и сформировала культуру жёсткой редакционной ответственности. История модная фотография сохраняет её требование не позволять художественному эффекту скрывать платье. В этом конфликте — одна из постоянных задач журнала: изображение должно быть достаточно сильным, чтобы стать культурой, и достаточно ясным, чтобы оставаться модной коммуникацией.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/books-the-vogue-years-an-inside-look-at-former-editor-in-chief-diana-vreelands-memos",
+          "locator": "DOCX section sec-11",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.vogue.com/article/grace-mirabella-obituary",
+          "locator": "DOCX section sec-11",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_vg_012",
+      "wording_ru": "MoMA подчёркивает, что при Condé Nast Vogue публиковал не только couture, но и материалы о современном искусстве, театре, литературе и фотографии. Эта модель пережила эпохи: fashion становится линзой, через которую журнал рассматривает более широкий мир. Поэтому Vogue сильнее всего работает не как каталог одежды, а как культурный монтаж.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/books-the-vogue-years-an-inside-look-at-former-editor-in-chief-diana-vreelands-memos",
+          "locator": "DOCX section sec-12",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.vogue.com/article/grace-mirabella-obituary",
+          "locator": "DOCX section sec-12",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_vg_013",
+      "wording_ru": "Alexander Liberman пришёл в Condé Nast из европейской журнальной культуры и сделал модернизм рабочим методом редакции. Vogue вспоминает его как арт-директор и позднее редакционный директор, соединявшего конструктивистскую дисциплину с прагматикой большого издательства. Его влияние было не «одним стилем страницы»: он строил систему отбора фотографов, изображений, макетов и талантов.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/legendary-editorial-director-alexander-libermans-influence-endures",
+          "locator": "DOCX section sec-13",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.vogue.com/article/books-the-vogue-years-an-inside-look-at-former-editor-in-chief-diana-vreelands-memos",
+          "locator": "DOCX section sec-13",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_vg_014",
+      "wording_ru": "Архивное видео V&A о работе Horst в American Vogue показывает производство снимка как коллективный процесс: модель, фотограф, ассистенты, редакторы моды, арт-директор и команда макета принимают взаимозависимые решения. Это важная поправка к мифу великого одиночного автора. Сильная журнальная фотография часто является результатом хорошо настроенной редакционной машины.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vam.ac.uk/articles/horst-at-work",
+          "locator": "DOCX section sec-14",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.vogue.com/article/books-the-vogue-years-an-inside-look-at-former-editor-in-chief-diana-vreelands-memos",
+          "locator": "DOCX section sec-14",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_vg_015",
+      "wording_ru": "Irving Penn начал работать с Vogue при Alexander Liberman и оставался связан с журналом около шести десятилетий. The Met показывает, как его строгая студия, внимание к жесту, поверхности и композиции превратили модный образ в самостоятельную фотографическую культуру. Роскошь у Penn редко строится на избытке декора — она появляется из точности взгляда.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/legendary-editorial-director-alexander-libermans-influence-endures",
+          "locator": "DOCX section sec-15",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.metmuseum.org/art/collection/search/714817",
+          "locator": "DOCX section sec-15",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_vg_016",
+      "wording_ru": "V&A цитирует формулу Penn о том, что задача модной фотографии — «selling dreams, not clothes». Это хорошо объясняет влияние Vogue: журнал продаёт не только конкретное платье, а сценарий личности, тела, пространства и времени. Именно поэтому редакционный материал может пережить товарный сезон и остаться культурным образом.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/books-the-vogue-years-an-inside-look-at-former-editor-in-chief-diana-vreelands-memos",
+          "locator": "DOCX section sec-16",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.vogue.com/article/grace-mirabella-obituary",
+          "locator": "DOCX section sec-16",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_vg_017",
+      "wording_ru": "Jessica Daves руководила Vogue в 1952–1962 годах. Vogue описывает её редакцию как более реалистичную и заинтересованную в ready-to-wear, технологиях, культуре и меняющейся жизни женщин. На фоне золотого века couture это был важный поворот: журнал учился связывать высокую моду с модернизацией повседневности.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/rebecca-tuite-1950s-in-vogue-book-examines-the-legacy-of-jessica-daves-editor-in-chief-1952-1962",
+          "locator": "DOCX section sec-17",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.vogue.com/article/books-the-vogue-years-an-inside-look-at-former-editor-in-chief-diana-vreelands-memos",
+          "locator": "DOCX section sec-17",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_vg_018",
+      "wording_ru": "Diana Vreeland пришла в Vogue в 1962 году и возглавила американскую редакцию в 1963-м. Её эпоха усилила фантазию о путешествиях, интерес к экзотическим локациям и молодёжной культуре, театр образа и рискованные модные нарративы. Она показала, что редактор моды может не просто реагировать на происходящее, а создавать культурную сцену, на которой дизайнеры, модели и идеи становятся значимыми.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/books-the-vogue-years-an-inside-look-at-former-editor-in-chief-diana-vreelands-memos",
+          "locator": "DOCX section sec-18",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.vogue.com/article/grace-mirabella-obituary",
+          "locator": "DOCX section sec-18",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_vg_019",
+      "wording_ru": "Vogue десятилетиями работал как фильтр и усилитель новых имён — фотографов, моделей, стилистов, авторов и дизайнеров. Истории Frances McLaughlin-Gill, Irving Penn и многих других показывают роль редакторов и арт-директоров в запуске карьеры. Поэтому журнал — не нейтральное зеркало индустрии: его выбор способен ускорять появление канона.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/art/collection/search/714817",
+          "locator": "DOCX section sec-19",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.vogue.com/article/books-the-vogue-years-an-inside-look-at-former-editor-in-chief-diana-vreelands-memos",
+          "locator": "DOCX section sec-19",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_vg_020",
+      "wording_ru": "Grace Mirabella возглавляла Vogue с 1971 по 1988 год. В собственной ретроспективе журнал связывает её редакцию с практичностью, американским ready-to-wear, карьерой, здоровьем и образом женщины, живущей не только ради светского ритуала. Смена Vreeland на Mirabella показывает, насколько радикально журнал может менять тон, не меняя название.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/grace-mirabella-obituary",
+          "locator": "DOCX section sec-20",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.vogue.com/article/books-the-vogue-years-an-inside-look-at-former-editor-in-chief-diana-vreelands-memos",
+          "locator": "DOCX section sec-20",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_vg_021",
+      "wording_ru": "Первая обложка Anna Wintour как главного редактора вышла в ноябре 1988 года: Michaela Bercu в couture-жакете Christian Lacroix и джинсах Guess, снятая Peter Lindbergh. Сочетание high и low, движение и менее формальная композиция выглядели настолько непривычно, что типография уточнила, не произошла ли ошибка. Обложка стала заявлением о более живой, смешанной модной реальности.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/anna-wintour-on-her-first-vogue-cover-plus-a-slideshow-of-her-favorite-images-in-vogue",
+          "locator": "DOCX section sec-21",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_vg_022",
+      "wording_ru": "Со временем обложка Vogue всё чаще становится точкой встречи модного образа и культуры знаменитостей. Сам журнал отмечает, что первая голливудская звезда появилась на американской обложке в 1940 году, а позднее знаменитости стали регулярными героями. Это расширило аудиторию, но одновременно изменило баланс: модный журнал начал конкурировать не только за визуальный авторитет, но и за культурную узнаваемость.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/books-the-vogue-years-an-inside-look-at-former-editor-in-chief-diana-vreelands-memos",
+          "locator": "DOCX section sec-22",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.vogue.com/article/grace-mirabella-obituary",
+          "locator": "DOCX section sec-22",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_vg_023",
+      "wording_ru": "Сентябрьский номер стал символом синхронизации редакции, рекламного рынка и календарь моды. Vogue фиксирует, что выпуск сентября 2012 года достиг 916 страниц — рекордного масштаба для американского издания. Такая толщина была не просто редакционным триумфом: она показывала, насколько тесно журнальная культура связана с рекламной экономикой и сезонным циклом индустрии.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/books-the-vogue-years-an-inside-look-at-former-editor-in-chief-diana-vreelands-memos",
+          "locator": "DOCX section sec-23",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.vogue.com/article/grace-mirabella-obituary",
+          "locator": "DOCX section sec-23",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_vg_024",
+      "wording_ru": "Любой влиятельный журнал создаёт видимость: выбирает, кто получает обложку, какой дизайнер становится «моментом», какой фотограф получает крупный заказ и какая тема становится разговором сезона. Поэтому история Vogue — это также история редакционной фильтрации. Его сила состоит не в способности предсказывать всё, а в способности концентрировать внимание вокруг ограниченного набора образов.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/books-the-vogue-years-an-inside-look-at-former-editor-in-chief-diana-vreelands-memos",
+          "locator": "DOCX section sec-24",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.vogue.com/article/grace-mirabella-obituary",
+          "locator": "DOCX section sec-24",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_vg_025",
+      "wording_ru": "Долгая история Vogue отражает не только расширение визуального языка, но и ограничения модной индустрии: чьи тела, расы, классы и способы жизни считались достойными главной страницы. Современный Vogue публично формулирует обязательства по инклюзивности, творчеству и сообществу, а проекты вокруг недостаточно представленных голосов показывают попытку пересматривать прежний канон. Для критического чтения важны оба слоя — достижение и то, что долго оставалось за кадром.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/books-the-vogue-years-an-inside-look-at-former-editor-in-chief-diana-vreelands-memos",
+          "locator": "DOCX section sec-25",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.vogue.com/article/grace-mirabella-obituary",
+          "locator": "DOCX section sec-25",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_vg_026",
+      "wording_ru": "Архив Complete Vogue позволяет просматривать выпуски начиная с 1892 года, а партнёрские проекты с Google Arts & Culture открыли десятки тысяч архивных изображений для нового просмотра. Архив меняет статус журнала: выпуск перестаёт быть одноразовым объектом сезона и становится доступным для поиска набором данных об истории моды, фотографии, рекламы, языка и общества.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/slideshow/the-vogue-archive-google-arts-and-culture",
+          "locator": "DOCX section sec-26",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://archive.vogue.com/issues/1892",
+          "locator": "DOCX section sec-26",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_vg_027",
+      "wording_ru": "Цифровой Vogue работает не по месячному ритму, а непрерывно: новости, культура, красота, покупки, видео, podcast, соцсети и архив живут одновременно. Официальное описание Vogue прямо называет его мультимедийное издание. Это меняет редакционную архитектуру: обложечный материал больше не является единственным входом в бренд, а номер — единственной единицей публикации.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/books-the-vogue-years-an-inside-look-at-former-editor-in-chief-diana-vreelands-memos",
+          "locator": "DOCX section sec-27",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.vogue.com/article/grace-mirabella-obituary",
+          "locator": "DOCX section sec-27",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_vg_028",
+      "wording_ru": "В 2015 году Vogue Runway объединил прямые трансляции показов с архивом, уходящим к сезонам 1999–2000 годов, и более чем миллионом runway, backstage, detail и street-style изображений. Это уже другой тип редакционной власти: не только выбрать лучший образ, но и построить инфраструктуру, через которую индустрия изучает коллекции и сравнивает историю.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/vogue-runway-fashion-shows-welcome",
+          "locator": "DOCX section sec-28",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.vogue.com/article/books-the-vogue-years-an-inside-look-at-former-editor-in-chief-diana-vreelands-memos",
+          "locator": "DOCX section sec-28",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_vg_029",
+      "wording_ru": "С 2022 года Vogue World переносит редакционный сторителлинг в формат публичного события, показ моды, городской сцены и глобальной прямой трансляции. Condé Nast описывает проект как способ «оживить» September issue, а последующие выпуски превратили его в международную платформу. Журнал становится событием, коммерческим слоем, вещанием и культурной постановкой одновременно.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/books-the-vogue-years-an-inside-look-at-former-editor-in-chief-diana-vreelands-memos",
+          "locator": "DOCX section sec-29",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.vogue.com/article/grace-mirabella-obituary",
+          "locator": "DOCX section sec-29",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_vg_030",
+      "wording_ru": "С сентября 2025 года Chloe Malle возглавляет американский Vogue как Head of Editorial Content, тогда как Anna Wintour остаётся Chief Content Officer Condé Nast и Global Editorial Director of Vogue. Мастхед июля 2026 подтверждает эту структуру. Главный урок истории Vogue не в том, что один стиль побеждает навсегда, а в способности перестраивать редакционную систему: от еженедельной светской газеты к глобальной, доступной для поиска, медиасети, работающей через события.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/chloe-malle-announced-as-vogue-uss-new-head-of-editorial-content",
+          "locator": "DOCX section sec-30",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        },
+        {
+          "source_url": "https://www.vogue.com/article/grace-mirabella-obituary",
+          "locator": "DOCX section sec-30",
+          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_bbd4044bf5bee642",
+      "title": "Vogue: A History / About Us",
+      "url": "https://www.vogue.com/about-us",
+      "publisher": "Vogue",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_e88279bf2eec0751",
+      "title": "History & Heritage",
+      "url": "https://www.condenast.com/history-and-heritage",
+      "publisher": "Condé Nast",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_31d1bba2d1146568",
+      "title": "A History of Condé Nast / Timeline",
+      "url": "https://www.condenast.com/timeline",
+      "publisher": "Condé Nast",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_ca2949f3bd605060",
+      "title": "The 1890s: 1892 / Complete Vogue Archive",
+      "url": "https://archive.vogue.com/issues/1892",
+      "publisher": "Vogue",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_e638efb0900a6eae",
+      "title": "Vogue, 1892–present",
+      "url": "https://www.moma.org/interactives/objectphoto/publications/788.html",
+      "publisher": "Museum of Modern Art, Object:Photo",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_ea676f77686de731",
+      "title": "100 years of fashion photography",
+      "url": "https://www.vam.ac.uk/articles/100-years-of-fashion-photography",
+      "publisher": "Victoria and Albert Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_6ee89632fdc3f6a8",
+      "title": "You Can Now Browse 15,000 Images From the Vogue Archive on Google Arts & Culture",
+      "url": "https://www.vogue.com/slideshow/the-vogue-archive-google-arts-and-culture",
+      "publisher": "Vogue",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_fc2c28448c9ee0b7",
+      "title": "Horst at work: behind the scenes at American Vogue",
+      "url": "https://www.vam.ac.uk/articles/horst-at-work",
+      "publisher": "Victoria and Albert Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_fea8313d82bc111e",
+      "title": "Irving Penn: Centennial",
+      "url": "https://www.metmuseum.org/exhibitions/listings/2017/irving-penn-centennial",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_7a03fa388af35008",
+      "title": "Irving Penn, W La Libertà, Italy — Vogue career note",
+      "url": "https://www.metmuseum.org/art/collection/search/714817",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_6276ae77bfb611b5",
+      "title": "Legendary Editorial Director Alexander Liberman’s Influence Endures",
+      "url": "https://www.vogue.com/article/legendary-editorial-director-alexander-libermans-influence-endures",
+      "publisher": "Vogue",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_e01a6723d9bbf9e1",
+      "title": "Agents Provocateurs: The Editor’s Eye",
+      "url": "https://www.vogue.com/article/excerpt-of-vogue-the-editors-eye-book",
+      "publisher": "Vogue",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_337bea4c464341fa",
+      "title": "1950s in Vogue: The Jessica Daves Years",
+      "url": "https://www.vogue.com/article/rebecca-tuite-1950s-in-vogue-book-examines-the-legacy-of-jessica-daves-editor-in-chief-1952-1962",
+      "publisher": "Vogue",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_14d868df78741915",
+      "title": "The Vogue Years: Diana Vreeland’s Memos",
+      "url": "https://www.vogue.com/article/books-the-vogue-years-an-inside-look-at-former-editor-in-chief-diana-vreelands-memos",
+      "publisher": "Vogue",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_21a13555f44951e9",
+      "title": "Grace Mirabella, Former Editor-in-Chief of Vogue, Dies at 92",
+      "url": "https://www.vogue.com/article/grace-mirabella-obituary",
+      "publisher": "Vogue",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_e267aba992cc9fa6",
+      "title": "Anna Wintour on Her First Vogue Cover",
+      "url": "https://www.vogue.com/article/anna-wintour-on-her-first-vogue-cover-plus-a-slideshow-of-her-favorite-images-in-vogue",
+      "publisher": "Vogue",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_2fd2af5d8d0b3c69",
+      "title": "Vogue at 130: Fun Facts by the Numbers",
+      "url": "https://www.vogue.com/article/vogue-covers-models-facts-history",
+      "publisher": "Vogue",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_d7ac4e0a9b281ba4",
+      "title": "Welcome to Vogue Runway",
+      "url": "https://www.vogue.com/article/vogue-runway-fashion-shows-welcome",
+      "publisher": "Vogue",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_ec9ef3352c348219",
+      "title": "Chloe Malle announced as Vogue US’s new Head of Editorial Content",
+      "url": "https://www.vogue.com/article/chloe-malle-announced-as-vogue-uss-new-head-of-editorial-content",
+      "publisher": "Vogue",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_8f7c56f4cdb8350f",
+      "title": "Editorial Masthead, July 2026",
+      "url": "https://www.vogue.com/masthead",
+      "publisher": "Vogue",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_vogue_fashio_01",
+      "claim_id": "clm_vg_001",
+      "source_id": "src_14d868df78741915",
+      "locator": "DOCX section sec-1",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_vogue_fashio_02",
+      "claim_id": "clm_vg_002",
+      "source_id": "src_14d868df78741915",
+      "locator": "DOCX section sec-2",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_vogue_fashio_03",
+      "claim_id": "clm_vg_003",
+      "source_id": "src_14d868df78741915",
+      "locator": "DOCX section sec-3",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_vogue_fashio_04",
+      "claim_id": "clm_vg_004",
+      "source_id": "src_14d868df78741915",
+      "locator": "DOCX section sec-4",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_vogue_fashio_05",
+      "claim_id": "clm_vg_005",
+      "source_id": "src_14d868df78741915",
+      "locator": "DOCX section sec-5",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_vogue_fashio_06",
+      "claim_id": "clm_vg_006",
+      "source_id": "src_14d868df78741915",
+      "locator": "DOCX section sec-6",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_vogue_fashio_07",
+      "claim_id": "clm_vg_007",
+      "source_id": "src_14d868df78741915",
+      "locator": "DOCX section sec-7",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_vogue_fashio_08",
+      "claim_id": "clm_vg_008",
+      "source_id": "src_14d868df78741915",
+      "locator": "DOCX section sec-8",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_vogue_fashio_09",
+      "claim_id": "clm_vg_009",
+      "source_id": "src_14d868df78741915",
+      "locator": "DOCX section sec-9",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_vogue_fashio_10",
+      "claim_id": "clm_vg_009b",
+      "source_id": "src_14d868df78741915",
+      "locator": "DOCX section sec-9",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_vogue_fashio_11",
+      "claim_id": "clm_vg_010",
+      "source_id": "src_14d868df78741915",
+      "locator": "DOCX section sec-10",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_vogue_fashio_12",
+      "claim_id": "clm_vg_011",
+      "source_id": "src_14d868df78741915",
+      "locator": "DOCX section sec-11",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_vogue_fashio_13",
+      "claim_id": "clm_vg_012",
+      "source_id": "src_14d868df78741915",
+      "locator": "DOCX section sec-12",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_vogue_fashio_14",
+      "claim_id": "clm_vg_013",
+      "source_id": "src_6276ae77bfb611b5",
+      "locator": "DOCX section sec-13",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_vogue_fashio_15",
+      "claim_id": "clm_vg_014",
+      "source_id": "src_fc2c28448c9ee0b7",
+      "locator": "DOCX section sec-14",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_vogue_fashio_16",
+      "claim_id": "clm_vg_015",
+      "source_id": "src_6276ae77bfb611b5",
+      "locator": "DOCX section sec-15",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_vogue_fashio_17",
+      "claim_id": "clm_vg_016",
+      "source_id": "src_14d868df78741915",
+      "locator": "DOCX section sec-16",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_vogue_fashio_18",
+      "claim_id": "clm_vg_017",
+      "source_id": "src_337bea4c464341fa",
+      "locator": "DOCX section sec-17",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_vogue_fashio_19",
+      "claim_id": "clm_vg_018",
+      "source_id": "src_14d868df78741915",
+      "locator": "DOCX section sec-18",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_vogue_fashio_20",
+      "claim_id": "clm_vg_019",
+      "source_id": "src_7a03fa388af35008",
+      "locator": "DOCX section sec-19",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_vogue_fashio_21",
+      "claim_id": "clm_vg_020",
+      "source_id": "src_21a13555f44951e9",
+      "locator": "DOCX section sec-20",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_vogue_fashio_22",
+      "claim_id": "clm_vg_021",
+      "source_id": "src_e267aba992cc9fa6",
+      "locator": "DOCX section sec-21",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_vogue_fashio_23",
+      "claim_id": "clm_vg_022",
+      "source_id": "src_14d868df78741915",
+      "locator": "DOCX section sec-22",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_vogue_fashio_24",
+      "claim_id": "clm_vg_023",
+      "source_id": "src_14d868df78741915",
+      "locator": "DOCX section sec-23",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_vogue_fashio_25",
+      "claim_id": "clm_vg_024",
+      "source_id": "src_14d868df78741915",
+      "locator": "DOCX section sec-24",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_vogue_fashio_26",
+      "claim_id": "clm_vg_025",
+      "source_id": "src_14d868df78741915",
+      "locator": "DOCX section sec-25",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_vogue_fashio_27",
+      "claim_id": "clm_vg_026",
+      "source_id": "src_6ee89632fdc3f6a8",
+      "locator": "DOCX section sec-26",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_vogue_fashio_28",
+      "claim_id": "clm_vg_027",
+      "source_id": "src_14d868df78741915",
+      "locator": "DOCX section sec-27",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_vogue_fashio_29",
+      "claim_id": "clm_vg_028",
+      "source_id": "src_d7ac4e0a9b281ba4",
+      "locator": "DOCX section sec-28",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_vogue_fashio_30",
+      "claim_id": "clm_vg_029",
+      "source_id": "src_14d868df78741915",
+      "locator": "DOCX section sec-29",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_vogue_fashio_31",
+      "claim_id": "clm_vg_030",
+      "source_id": "src_ec9ef3352c348219",
+      "locator": "DOCX section sec-30",
+      "support": "Section citation mapped from the editorial claim marker and source list."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "media_state": "media_ready",
+  "workflow": {
+    "decision": "AUTO_APPROVE",
+    "note": "RU/EN pair passed OS structure, source, taxonomy, localization and media-rights checks on 2026-08-12.",
+    "converted_by": "VANSMITHLAB incoming article publication workflow",
+    "converted_at": "2026-08-12T00:00:00.000Z",
+    "media_reviewed_at": "2026-08-12",
+    "media_note": "Original AI editorial illustration generated for VANSMITHLAB; not documentary evidence and not a copied archival photograph."
+  }
+}

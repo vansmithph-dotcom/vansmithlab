@@ -1,4 +1,4 @@
-# Prada: The History of a Fashion House and Its System
+# The History of the Prada Fashion House
 
 *How a Milanese maker of travel goods turned industrial nylon, the uniform, architecture and intellectual contradiction into one of the most influential languages of contemporary fashion*
 

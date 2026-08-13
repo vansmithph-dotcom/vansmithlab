@@ -1,0 +1,88 @@
+{
+  "id": "obj_media_the_face",
+  "type": "organization",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "The Face",
+  "title_en": "The Face",
+  "slug_ru": "the-face-youth-culture-style-magazine-visual-laboratory",
+  "slug_en": "the-face-youth-culture-style-magazine-visual-laboratory",
+  "summary_ru": "Молодёжная культура, стиль и журнал как визуальная лаборатория",
+  "summary_en": "Youth culture, style and the magazine as a visual laboratory",
+  "verification_state": "verified",
+  "confidence_score": 0.86,
+  "created_at": "2026-08-12T00:00:00.000Z",
+  "updated_at": "2026-08-12T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_obj_media_the_face_001",
+      "wording_ru": "The Face, запущенный Nick Logan в 1980 году, соединил музыку, стиль, фотографию и молодёжную культуру в новом типе журнала.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_obj_media_the_face_002",
+      "wording_ru": "Типографика Neville Brody и работа фотографов, стилистов и авторов превратили журнал в визуальную лабораторию, а не в обычное музыкальное издание.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_2dbb4c2e97eb0eef",
+      "title": "The Face Magazine: Culture Shift",
+      "url": "https://www.npg.org.uk/whatson/exhibitions/2025/face-magazine/",
+      "publisher": "National Portrait Gallery",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_1c3f2c0f3e5a8769",
+      "title": "The Face Magazine: Culture Shift — publication announcement",
+      "url": "https://www.npg.org.uk/about/press/the-face-publication",
+      "publisher": "National Portrait Gallery",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_50ebdf9a869bcddf",
+      "title": "The Story of The Face",
+      "url": "https://www.thamesandhudson.com/products/the-story-of-the-face",
+      "publisher": "Thames & Hudson",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_obj_media_the_face_001",
+      "source_id": "src_2dbb4c2e97eb0eef",
+      "locator": "DOCX section scope",
+      "support": "Supports the stated section-level claim."
+    },
+    {
+      "claim_id": "clm_obj_media_the_face_001",
+      "source_id": "src_1c3f2c0f3e5a8769",
+      "locator": "DOCX section scope",
+      "support": "Supports the stated section-level claim."
+    },
+    {
+      "claim_id": "clm_obj_media_the_face_002",
+      "source_id": "src_2dbb4c2e97eb0eef",
+      "locator": "DOCX section scope",
+      "support": "Supports the stated section-level claim."
+    },
+    {
+      "claim_id": "clm_obj_media_the_face_002",
+      "source_id": "src_1c3f2c0f3e5a8769",
+      "locator": "DOCX section scope",
+      "support": "Supports the stated section-level claim."
+    }
+  ],
+  "contradictions": []
+}

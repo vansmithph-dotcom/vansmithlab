@@ -1,0 +1,38 @@
+{
+  "asset_id": "asset_game-interface-hud-visual-system_hero_v1",
+  "primary_object_id": "obj_game_interface_hud_20260813",
+  "kind": "image",
+  "origin": "ai_illustration",
+  "educational_purpose": "Original editorial illustration that explains the article's visual-system thesis; it is not documentary evidence.",
+  "must_not_imply": [
+    "A documentary photograph of a real event or interface",
+    "An image made by or endorsed by a named brand or artist"
+  ],
+  "rights": {
+    "status": "generated_reviewed",
+    "disclosure": "Original AI-generated editorial illustration for VANSMITHLAB; not documentary evidence.",
+    "rights_basis": "Generated in-session without reference images, logos or copied identifiable work.",
+    "third_party_marks": "None"
+  },
+  "accessibility": {
+    "alt_ru": "Игровой экран с HUD: силуэт игрока, прицельные сетки, панели состояния и карта образуют пространственный интерфейс.",
+    "alt_en": "A game screen with HUD: player silhouette, reticles, status panels and map form a spatial interface.",
+    "caption_ru": "Игровой экран с HUD: силуэт игрока, прицельные сетки, панели состояния и карта образуют пространственный интерфейс.",
+    "caption_en": "A game screen with HUD: player silhouette, reticles, status panels and map form a spatial interface."
+  },
+  "creator": "OpenAI image generation · directed and reviewed by VANSMITHLAB",
+  "created_at": "2026-08-13",
+  "asset_path": "public/images/articles/game-interface-hud-visual-system-hero-v1.webp",
+  "file": {
+    "path": "/images/articles/game-interface-hud-visual-system-hero-v1.webp",
+    "sha256": "214fddde1033760a660e6d2e6c1b439ca45966e9fdb3986bcdcf6ae06d944e4d",
+    "width": 1536,
+    "height": 1024
+  },
+  "generation_prompt_class": "Original fictional editorial visual for game-interface-hud-visual-system",
+  "rights_state": "original",
+  "licence_or_permission": "Original VANSMITHLAB AI editorial illustration; no third-party images, logos or trademarks.",
+  "source_url": "",
+  "creator_or_credit": "VANSMITHLAB editorial visual system",
+  "disclosure": "VANSMITHLAB · AI-иллюстрация, 2026"
+}

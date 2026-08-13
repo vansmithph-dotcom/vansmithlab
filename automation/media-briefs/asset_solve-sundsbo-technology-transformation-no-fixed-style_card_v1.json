@@ -3,7 +3,7 @@
   "primary_object_id": "",
   "content_release_id": "cnt_d85fa8c33ae2cdc5",
   "kind": "image",
-  "origin": "ai_illustration",
+  "origin": "editorial",
   "locale": "multilingual",
   "educational_purpose": "Visualize Sundsbø's method as technology and transformation of the fashion image with no fixed signature style, without reproducing protected photographs.",
   "may_depict": [
@@ -22,15 +22,25 @@
     "third_party_marks": "No logo, wordmark or recognisable branded asset."
   },
   "accessibility": {
-    "alt_text_ru": "Редакционная AI-иллюстрация: фигура между сканом и печатью, расходящиеся цветоделения и студийная техника.",
-    "alt_text_en": "Editorial AI illustration: a figure between a scan and a print, separating colour channels and studio capture equipment.",
-    "caption_ru": "Технология, трансформация и отсутствие фиксированного стиля: визуализация метода Сёльве Сундсбё.",
-    "caption_en": "Technology, transformation and no fixed style: a visualization of Sølve Sundsbø's method."
+    "alt_text_ru": "Редакционная схема метода Sølve Sundsbø: свет, цифровая трансформация и изменяемая фотографическая форма.",
+    "alt_text_en": "Editorial diagram of Sølve Sundsbø's method: light, digital transformation and mutable photographic form.",
+    "caption_ru": "Технология здесь не эффект, а способ менять границы фотографического изображения.",
+    "caption_en": "Technology is not an effect here but a way to change the boundaries of the photographic image."
   },
   "creator": "OpenAI image generation · directed and reviewed by VANSMITHLAB",
   "created_at": "2026-08-12",
-  "asset_path": "public/images/glossary/photographers/solve-sundsbo-technology-transformation-no-fixed-style-hero-v1-card.webp",
+  "asset_path": "public/images/glossary/photographers/solve-sundsbo-technology-transformation-no-fixed-style-hero-v1-card.svg",
   "generation_prompt_class": "original fictional editorial visual for solve-sundsbo-technology-transformation-no-fixed-style",
-  "workflow_run_id": "run_20260812_art_directors_photographers",
-  "content_sha256": ""
+  "workflow_run_id": "run_20260812_media_rights_repair",
+  "content_sha256": "",
+  "content_release_ids": [
+    "cnt_d85fa8c33ae2cdc5"
+  ],
+  "rights_state": "original",
+  "licence_or_permission": "Original VANSMITHLAB SVG editorial visual; no third-party images, logos or trademarks.",
+  "source_url": "",
+  "creator_or_credit": "VANSMITHLAB editorial visual system",
+  "file_storage_key": "public/images/glossary/photographers/solve-sundsbo-technology-transformation-no-fixed-style-hero-v1-card.svg",
+  "content_hash": "607e8d6124e916185de7a614984a9d09a23db78085b92066955ba777c3091748",
+  "disclosure": "VANSMITHLAB · original editorial visual, 2026"
 }

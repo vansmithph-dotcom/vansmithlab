@@ -1,0 +1,1004 @@
+{
+  "id": "obj_graphic_josef_muller_brockmann",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Йозеф Мюллер-Брокман",
+  "title_en": "Josef Müller-Brockmann",
+  "slug_ru": "josef-muller-brockmann-grid-rhythm-objective-communication",
+  "slug_en": "josef-muller-brockmann-grid-rhythm-objective-communication",
+  "summary_ru": "Сетка, ритм и объективная коммуникация",
+  "summary_en": "Grid, rhythm and objective communication",
+  "verification_state": "verified",
+  "confidence_score": 0.86,
+  "created_at": "2026-08-12T00:00:00.000Z",
+  "updated_at": "2026-08-12T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_jmb_001",
+      "wording_ru": "Josef Müller-Brockmann родился 9 мая 1914 года в Рапперсвиле, Швейцария. SFMOMA и европейские authority records фиксируют этот небольшой город у Цюрихского озера как исходную точку биографии будущего теоретика системного дизайна. Его зрелая работа часто выглядит почти безместной: сетка, grotesk, геометрия, пустота. Но за этой универсальностью стоит очень конкретная швейцарская среда — промышленность, транспорт, публичный плакат, многоязычность и культура профессиональных школ.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.sfmoma.org/artist/Josef_Muller-Brockmann/",
+          "locator": "DOCX section sec-1",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://nakka-art.jp/en/exhibition-post/sib-2024-en/syjmb_webbanner_960x480-1536x768/",
+          "locator": "DOCX section sec-1",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jmb_002",
+      "wording_ru": "В начале 1930-х Müller-Brockmann учился и посещал занятия в Kunstgewerbeschule Zürich, где ключевой фигурой был Ernst Keller. Позже музейная история Swiss Style будет постоянно возвращаться к принципу Keller: решение должно рождаться из конкретной задачи, а не из заранее выбранной эстетики. Для Müller-Brockmann это станет фундаментом. Сетка появляется не потому, что дизайнер любит прямоугольники, а потому, что нужно организовать сообщение так, чтобы каждый элемент получил функцию и место.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.lars-mueller-publishers.com/josef-muller-brockmannpioneer-swiss-graphic-design",
+          "locator": "DOCX section sec-2",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://nakka-art.jp/en/exhibition-post/sib-2024-en/syjmb_webbanner_960x480-1536x768/",
+          "locator": "DOCX section sec-2",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jmb_003",
+      "wording_ru": "Ранняя карьера Müller-Brockmann включала иллюстрацию, сценографию, выставочный дизайн и коммерческую графику. Lars Müller Publishers прямо отмечает, что радикальный переход к рациональному языку произошёл только около 1950 года. Это полезно против мифа о «врождённом Swiss Style». Системность была найденной позицией, а не естественной манерой. До неё существовали другие способы работы, от которых дизайнер сознательно отказался.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.lars-mueller-publishers.com/josef-muller-brockmannpioneer-swiss-graphic-design",
+          "locator": "DOCX section sec-3",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.lars-mueller-publishers.com/josef-muller-brockmann_1",
+          "locator": "DOCX section sec-3",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jmb_004",
+      "wording_ru": "Около 1950 года Müller-Brockmann сделал резкий поворот от иллюстративной манеры к конструктивной графике. Из изображения постепенно исчезает индивидуальная экспрессия, а на её место приходят модуль, соотношение, типографическая иерархия и строгая экономия средств. Отказ от жеста не означает отказ от авторства. Авторство переносится в выбор структуры: какая информация главная, что повторяется, где возникает пауза и насколько сильным должен быть контраст.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://nakka-art.jp/en/exhibition-post/sib-2024-en/syjmb_webbanner_960x480-1536x768/",
+          "locator": "DOCX section sec-4",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.lars-mueller-publishers.com/josef-muller-brockmann_1",
+          "locator": "DOCX section sec-4",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jmb_005",
+      "wording_ru": "Сетка у Müller-Brockmann — не декоративная разметка, которую зритель обязан заметить. Это рабочая машина принятия решений. Она связывает формат, колонки, типографику, изображение, интервалы и последовательность. Хорошая grid system парадоксальна: чем точнее она работает, тем меньше читатель думает о самой сетке. Он просто быстрее понимает порядок. Именно поэтому современный digital design system так легко узнаёт в Müller-Brockmann своего предка.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.lars-mueller-publishers.com/josef-muller-brockmannpioneer-swiss-graphic-design",
+          "locator": "DOCX section sec-5",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://nakka-art.jp/en/exhibition-post/sib-2024-en/syjmb_webbanner_960x480-1536x768/",
+          "locator": "DOCX section sec-5",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jmb_006",
+      "wording_ru": "Плакат был для Müller-Brockmann почти идеальным носителем: публичный, быстрый, крупный и конкурирующий с городом. Museum für Gestaltung Zürich подчёркивает, что его плакаты соединяют строгие функциональные критерии с динамичными и разнообразными композициями. Плакат проверяет систему жёстче журнального разворота. У зрителя нет времени изучать логику — её нужно почувствовать за секунду.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://eshop.museum-gestaltung.ch/?id=9286&lang=en&op=product",
+          "locator": "DOCX section sec-6",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://museum-gestaltung.ch/en/article/teaching-activities-josef-muller-brockmann",
+          "locator": "DOCX section sec-6",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jmb_007",
+      "wording_ru": "С начала 1950-х Müller-Brockmann регулярно работал с Tonhalle Zürich. MoMA хранит несколько концертных плакатов 1953 года, а Museum für Gestaltung называет Tonhalle одним из его долгосрочных клиентов. Длительный заказ важен для развития языка. Одноразовая работа может быть эффектной; серия требует вариативности внутри правил. Именно здесь становится видно, что строгая система не обязательно производит одинаковые решения.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://eshop.museum-gestaltung.ch/?id=9286&lang=en&op=product",
+          "locator": "DOCX section sec-7",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://museum-gestaltung.ch/en/article/teaching-activities-josef-muller-brockmann",
+          "locator": "DOCX section sec-7",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jmb_008",
+      "wording_ru": "Серия Musica viva стала самым известным доказательством того, что абстрактная композиция может передавать характер музыки без буквальной иллюстрации. MoMA хранит версии 1957 и 1958 годов, выполненные разными печатными техниками. Круг, линия, повтор, масштаб и интервал начинают работать как темп, пауза и акцент. Плакат не изображает оркестр — он переводит структурное качество музыки в визуальный ритм.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.moma.org/collection/works/7233",
+          "locator": "DOCX section sec-8",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.moma.org/collection/works/4885",
+          "locator": "DOCX section sec-8",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jmb_009",
+      "wording_ru": "Плакаты Beethoven, Strawinsky, Berg, Fortner и другие типографические работы середины 1950-х сегодня входят в музейные издания, посвящённые Müller-Brockmann. Сильный ход здесь — отсутствие обязательного символа композитора. Вместо портрета, нот или инструмента зритель получает напряжённую систему форм. Информация остаётся конкретной, но образ не превращается в иллюстративный клише.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://nakka-art.jp/en/exhibition-post/sib-2024-en/syjmb_webbanner_960x480-1536x768/",
+          "locator": "DOCX section sec-9",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.lars-mueller-publishers.com/josef-muller-brockmann_1",
+          "locator": "DOCX section sec-9",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jmb_010",
+      "wording_ru": "Асимметрия позволила Müller-Brockmann отказаться от привычной центральной композиции, не разрушая устойчивости. Элемент может быть смещён, но вес, расстояние и масштаб удерживают всю поверхность. Для современного дизайнера это важнее внешнего «Swiss look». Асимметрия работает только тогда, когда отношения рассчитаны. Случайное смещение не становится системой только потому, что текст стоит слева.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.lars-mueller-publishers.com/josef-muller-brockmannpioneer-swiss-graphic-design",
+          "locator": "DOCX section sec-10",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://nakka-art.jp/en/exhibition-post/sib-2024-en/syjmb_webbanner_960x480-1536x768/",
+          "locator": "DOCX section sec-10",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jmb_011",
+      "wording_ru": "Müller-Brockmann ассоциируется с sans-serif типографикой и дисциплинированным набором, однако смысл не в одном любимом шрифте. Его метод требует нейтрализовать лишнюю театральность текста и сделать иерархию читаемой через размер, положение, интервал и повтор. Поэтому попытка воспроизвести его язык одной Helvetica или Akzidenz-Grotesk почти всегда превращается в стилизацию. Типографика работает только внутри всей системы.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://nakka-art.jp/en/exhibition-post/sib-2024-en/syjmb_webbanner_960x480-1536x768/",
+          "locator": "DOCX section sec-11",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.lars-mueller-publishers.com/josef-muller-brockmann_1",
+          "locator": "DOCX section sec-11",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jmb_012",
+      "wording_ru": "Важная часть его плакатов построена не на геометрической абстракции, а на фотографии. Museum für Gestaltung отдельно выделяет группу Photo Posters: дорожная безопасность, шум, ребёнок, велосипедист. Фотография здесь выглядит фактом, но «объективность» всё равно сконструирована. Кроп, масштаб, контраст и соседство с текстом направляют чтение не менее сильно, чем нарисованная форма.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://eshop.museum-gestaltung.ch/?id=9286&lang=en&op=product",
+          "locator": "DOCX section sec-12",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://eshop.museum-gestaltung.ch/?lang=en&nr=780025&op=productnr",
+          "locator": "DOCX section sec-12",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jmb_013",
+      "wording_ru": "Для Automobile Club of Switzerland Müller-Brockmann создавал кампании дорожной безопасности. Museum für Gestaltung называет клуб одним из его долгосрочных клиентов и подчёркивает сочетание строгой функциональности с визуальным напряжением. Это дизайн с реальными последствиями: сообщение должно не просто понравиться, а изменить поведение водителя. Формальная ясность здесь превращается в общественную функцию.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://eshop.museum-gestaltung.ch/?id=9286&lang=en&op=product",
+          "locator": "DOCX section sec-13",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://museum-gestaltung.ch/en/article/teaching-activities-josef-muller-brockmann",
+          "locator": "DOCX section sec-13",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jmb_014",
+      "wording_ru": "Плакат Überholen…? Im Zweifel nie! 1957 года строится вокруг мгновения сомнения перед обгоном. MoMA и музейные переиздания фиксируют его среди ключевых safety posters Müller-Brockmann. Сильный дизайн сокращает сложное правило до одного психологического момента. Зритель считывает опасность быстрее, чем успевает разобрать всю композиционную механику.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://eshop.museum-gestaltung.ch/?id=9286&lang=en&op=product",
+          "locator": "DOCX section sec-14",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://eshop.museum-gestaltung.ch/?lang=en&nr=780025&op=productnr",
+          "locator": "DOCX section sec-14",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jmb_015",
+      "wording_ru": "Weniger Lärm 1960 года переводит тему городского шума в лаконичную визуальную ситуацию и сегодня хранится в MoMA. Здесь особенно заметно, что Swiss objectivity не равна эмоциональной холодности. Социальная проблема может быть передана резко и почти физически — просто без декоративной риторики.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.moma.org/collection/works/7339",
+          "locator": "DOCX section sec-15",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.lars-mueller-publishers.com/josef-muller-brockmannpioneer-swiss-graphic-design",
+          "locator": "DOCX section sec-15",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jmb_016",
+      "wording_ru": "С 1957 по 1960 год Müller-Brockmann преподавал в Kunstgewerbeschule Zürich. Museum für Gestaltung отмечает, что он существенно реформировал программу своего предшественника Ernst Keller, используя принципы конструктивной графики как основу обучения. Преподавание показывает систему в чистом виде: метод должен работать не только у автора. Если студент способен применять правила к другой задаче и получать другой результат, значит перед нами действительно система, а не персональный эффект.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://eshop.museum-gestaltung.ch/?id=9286&lang=en&op=product",
+          "locator": "DOCX section sec-16",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://museum-gestaltung.ch/en/article/teaching-activities-josef-muller-brockmann",
+          "locator": "DOCX section sec-16",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jmb_017",
+      "wording_ru": "Müller-Brockmann стремился к универсальной, формально редуцированной коммуникации. Эта позиция часто описывается как «объективность» Swiss Style. Но полной нейтральности не существует. Кто-то выбирает масштаб, фотографию, шрифт и критерии ясности. Поэтому сегодня полезнее читать его объективность как этику: уменьшать визуальный шум и личную демонстративность, не притворяясь, что автор исчез.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.lars-mueller-publishers.com/josef-muller-brockmannpioneer-swiss-graphic-design",
+          "locator": "DOCX section sec-17",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://nakka-art.jp/en/exhibition-post/sib-2024-en/syjmb_webbanner_960x480-1536x768/",
+          "locator": "DOCX section sec-17",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jmb_018",
+      "wording_ru": "В 1958 году Müller-Brockmann инициировал журнал Neue Grafik / New Graphic Design / Graphisme Actuel. Lars Müller Publishers называет его программной платформой Swiss graphic design и международным органом конструктивного подхода. Журнал превращает практику в дискурс. Дизайнеры не только показывают работы, но объясняют, почему порядок, функция и современная визуальная коммуникация должны стать профессиональными ценностями.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.lars-mueller-publishers.com/neue-grafiknew-graphic-designgraphisme-actuel-1958-1965",
+          "locator": "DOCX section sec-18",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.lars-mueller-publishers.com/josef-muller-brockmannpioneer-swiss-graphic-design",
+          "locator": "DOCX section sec-18",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jmb_019",
+      "wording_ru": "Neue Grafik выходил восемнадцатью выпусками в 1958–1965 годах и создавался редакционным коллективом Müller-Brockmann, Richard Paul Lohse, Hans Neuburg и Carlo Vivarelli — LMNV. Это важно для истории влияния: International Typographic Style не распространялся усилиями одного героя. Его международная сила возникла из сети авторов, школ, клиентов, журналов и конференций.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.lars-mueller-publishers.com/josef-muller-brockmannpioneer-swiss-graphic-design",
+          "locator": "DOCX section sec-19",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.lars-mueller-publishers.com/neue-grafiknew-graphic-designgraphisme-actuel-1958-1965",
+          "locator": "DOCX section sec-19",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jmb_020",
+      "wording_ru": "В 1961 году вышла книга The Graphic Artist and His Design Problems. Niggli описывает её как систематическое руководство по form, function, typography, рекламе, выставкам, visual communication и обучению дизайнера. Книга показывает переход профессии от мастерской интуиции к объяснимому процессу. Дизайнер должен уметь не только сделать решение, но и аргументировать, почему оно работает.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://niggli.ch/en/products/gestaltungsprobleme-des-grafikers",
+          "locator": "DOCX section sec-20",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://niggli.ch/en/products/rastersysteme-fur-die-visuelle-gestaltung",
+          "locator": "DOCX section sec-20",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jmb_021",
+      "wording_ru": "На World Design Conference в Токио в 1960 году Müller-Brockmann встретил Shizuko Yoshikawa, работавшую переводчиком. Nakanoshima Museum of Art связывает эту встречу с последующим профессиональным и личным партнёрством. Этот эпизод расширяет привычную европейскую историю Swiss Style: идеи движутся через конференции, перевод, обучение и личные связи, а не только через напечатанные плакаты.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://nakka-art.jp/en/exhibition-post/sib-2024-en/syjmb_webbanner_960x480-1536x768/",
+          "locator": "DOCX section sec-21",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.lars-mueller-publishers.com/josef-muller-brockmannpioneer-swiss-graphic-design",
+          "locator": "DOCX section sec-21",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jmb_022",
+      "wording_ru": "В 1960–1980-е Müller-Brockmann неоднократно работал и преподавал в Японии; Lars Müller Publishers также отмечает его преподавательскую деятельность в Zürich, Ulm и Японии. Когда метод пересекает культурную границу, становится видно, что универсальность требует адаптации. Сетка переносима, но визуальные привычки, письмо, городской контекст и педагогическая культура меняют её применение.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.lars-mueller-publishers.com/josef-muller-brockmann_1",
+          "locator": "DOCX section sec-22",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.lars-mueller-publishers.com/josef-muller-brockmannpioneer-swiss-graphic-design",
+          "locator": "DOCX section sec-22",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jmb_023",
+      "wording_ru": "Shizuko Yoshikawa позднее работала в дизайн-офисе Müller-Brockmann в Цюрихе, а их сотрудничество переросло в длительное партнёрство. Выставка Space In-Between в Osaka 2024–2025 впервые крупно показала обоих как параллельных авторов. Это важная корректировка канона. Yoshikawa не должна появляться только как «жена известного дизайнера»: у неё была самостоятельная художественная практика, а их общая история лучше читается как обмен между двумя авторами.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://nakka-art.jp/en/exhibition-post/sib-2024-en/syjmb_webbanner_960x480-1536x768/",
+          "locator": "DOCX section sec-23",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.moma.org/collection/works/207142",
+          "locator": "DOCX section sec-23",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jmb_024",
+      "wording_ru": "В 1960–1980-е Müller-Brockmann работал как консультант и дизайнер для промышленных и корпоративных клиентов, постепенно переводя принципы плаката в более длинные системы идентичности и информации. Корпоративная задача проверяет сетку на выносливость. Она должна работать не один сезон, а на множестве документов, носителей и исполнителей, сохраняя порядок без постоянного участия автора.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://nakka-art.jp/en/exhibition-post/sib-2024-en/syjmb_webbanner_960x480-1536x768/",
+          "locator": "DOCX section sec-24",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.lars-mueller-publishers.com/josef-muller-brockmann_1",
+          "locator": "DOCX section sec-24",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jmb_025",
+      "wording_ru": "В 1980 году Müller-Brockmann создал для Swiss Federal Railways основу единого Visual Information System at Train Stations and Stops. Lars Müller Publishers и Museum für Gestaltung подчёркивают, что система учитывала многоязычность страны и активно использовала пиктограммы. Здесь graphic design становится инфраструктурой. Пользователь не оценивает красоту таблички — он должен быстро понять путь, платформу и направление. Успех измеряется не вниманием к дизайнеру, а отсутствием лишнего сомнения.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.lars-mueller-publishers.com/josef-muller-brockmannpioneer-swiss-graphic-design",
+          "locator": "DOCX section sec-25",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://eshop.museum-gestaltung.ch/?id=9177&lang=en&op=product",
+          "locator": "DOCX section sec-25",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jmb_026",
+      "wording_ru": "В 1992 году система SBB была значительно расширена и получила название Passenger Information System. Современное переиздание показывает проект как образец сложного system design, построенного на рациональности, последовательности и долгом жизненном цикле. Это важный контрапункт культовым плакатам: наследие Müller-Brockmann живёт не только на музейной стене, но и в незаметной повседневной навигации.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://eshop.museum-gestaltung.ch/?id=9177&lang=en&op=product",
+          "locator": "DOCX section sec-26",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.lars-mueller-publishers.com/fahrgastinformationssystempassenger-information-system-0",
+          "locator": "DOCX section sec-26",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jmb_027",
+      "wording_ru": "Grid Systems in Graphic Design вышла в 1981 году. Niggli описывает книгу как практическое руководство, охватывающее сетки от 8 до 32 полей и применение от визитной карточки до выставочного стенда. Главная идея книги не «всё нужно делить на колонки». Сетка сокращает количество случайных решений, освобождая внимание для содержания, иерархии и отношений между элементами.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://niggli.ch/en/products/rastersysteme-fur-die-visuelle-gestaltung",
+          "locator": "DOCX section sec-27",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://niggli.ch/en/products/gestaltungsprobleme-des-grafikers",
+          "locator": "DOCX section sec-27",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jmb_028",
+      "wording_ru": "Универсальный язык Swiss Style имеет пределы. То, что кажется нейтральным внутри европейской модернистской традиции, может не быть нейтральным для другой письменности, аудитории или культурного контекста. Современный дизайнер может взять у Müller-Brockmann системность, но не обязан наследовать его претензию на единственный правильный визуальный язык. Система полезна, когда она служит человеку, а не когда человек подгоняется под систему.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.lars-mueller-publishers.com/josef-muller-brockmannpioneer-swiss-graphic-design",
+          "locator": "DOCX section sec-28",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://nakka-art.jp/en/exhibition-post/sib-2024-en/syjmb_webbanner_960x480-1536x768/",
+          "locator": "DOCX section sec-28",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jmb_029",
+      "wording_ru": "Наследие Müller-Brockmann сегодня хранится в Museum für Gestaltung Zürich и поддерживается Shizuko Yoshikawa and Josef Müller-Brockmann Foundation. Выставка Space In-Between в Nakanoshima Museum of Art, Osaka в 2024–2025 годах заново связала его дизайн с независимой практикой Yoshikawa. Архив меняет канон: рядом с культовыми плакатами появляются учебные материалы, письма, совместная работа и транснациональная история. Так герой превращается обратно в участника сети.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://nakka-art.jp/en/exhibition-post/sib-2024-en/syjmb_webbanner_960x480-1536x768/",
+          "locator": "DOCX section sec-29",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://eshop.museum-gestaltung.ch/?id=9286&lang=en&op=product",
+          "locator": "DOCX section sec-29",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jmb_030",
+      "wording_ru": "Главное наследие Josef Müller-Brockmann — не красный квадрат, Helvetica или видимая сетка. Эти признаки легко копировать и столь же легко превращать в ретро-костюм. Сложнее перенять дисциплину: сначала определить задачу, затем построить отношения между информацией, форматом, типографикой, изображением и пользователем; создать правила, которые переживут автора; и оставить системе достаточно свободы, чтобы разные задачи не выглядели одинаково.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://nakka-art.jp/en/exhibition-post/sib-2024-en/syjmb_webbanner_960x480-1536x768/",
+          "locator": "DOCX section sec-30",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.lars-mueller-publishers.com/josef-muller-brockmann_1",
+          "locator": "DOCX section sec-30",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_312673a71f41e529",
+      "title": "Josef Müller-Brockmann",
+      "url": "https://www.sfmoma.org/artist/Josef_Muller-Brockmann/",
+      "publisher": "SFMOMA",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_d54437ad32ccee04",
+      "title": "Josef Müller-Brockmann",
+      "url": "https://eshop.museum-gestaltung.ch/?lang=en&nr=780025&op=productnr",
+      "publisher": "Museum für Gestaltung Zürich / Poster Collection 25",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_1e1c63aaa89ac6e1",
+      "title": "Josef Müller-Brockmann",
+      "url": "https://www.lars-mueller-publishers.com/josef-muller-brockmann_1",
+      "publisher": "Lars Müller Publishers",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_3a769a50547ba70e",
+      "title": "Josef Müller-Brockmann: Pioneer of Swiss Graphic Design",
+      "url": "https://www.lars-mueller-publishers.com/josef-muller-brockmannpioneer-swiss-graphic-design",
+      "publisher": "Lars Müller Publishers",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_97f3c46809cb7e7e",
+      "title": "Josef Müller-Brockmann",
+      "url": "https://www.moma.org/artists/4154-josef-muller-brockmann",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_663dfe5de647a122",
+      "title": "Concert poster, 1953",
+      "url": "https://www.moma.org/collection/works/6239",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_087c03da19d90840",
+      "title": "Poster for a concert at Tonhalle Zürich, 1953",
+      "url": "https://www.moma.org/collection/works/6257",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_f051582275314c1e",
+      "title": "Musica Viva, 1957",
+      "url": "https://www.moma.org/collection/works/4885",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_e336b1bf732b5f07",
+      "title": "Musica Viva, 1958",
+      "url": "https://www.moma.org/collection/works/7233",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_5f31d6bfefcb0939",
+      "title": "Josef Müller-Brockmann Edition I + II: Typo + Photo Posters",
+      "url": "https://eshop.museum-gestaltung.ch/?id=9286&lang=en&op=product",
+      "publisher": "Museum für Gestaltung Zürich",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_48f7a0dfcc1cb2e1",
+      "title": "Der Film, 1960",
+      "url": "https://www.moma.org/collection/works/4882",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_1785c67891972b2f",
+      "title": "Weniger Lärm, 1960",
+      "url": "https://www.moma.org/collection/works/7339",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_7b539c084f0f6005",
+      "title": "The teaching activities of Josef Müller-Brockmann",
+      "url": "https://museum-gestaltung.ch/en/article/teaching-activities-josef-muller-brockmann",
+      "publisher": "Museum für Gestaltung Zürich",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_55ebe7b12a289896",
+      "title": "Neue Grafik/New Graphic Design/Graphisme Actuel 1958–1965",
+      "url": "https://www.lars-mueller-publishers.com/neue-grafiknew-graphic-designgraphisme-actuel-1958-1965",
+      "publisher": "Lars Müller Publishers",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_528235c1c8b0e855",
+      "title": "The Graphic Artist and his Design Problems",
+      "url": "https://niggli.ch/en/products/gestaltungsprobleme-des-grafikers",
+      "publisher": "Niggli",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_c62cc1121fdba23e",
+      "title": "Grid Systems in Graphic Design",
+      "url": "https://niggli.ch/en/products/rastersysteme-fur-die-visuelle-gestaltung",
+      "publisher": "Niggli",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_ea5194e8d5be0f1b",
+      "title": "Fahrgastinformationssystem / Passenger Information System",
+      "url": "https://eshop.museum-gestaltung.ch/?id=9177&lang=en&op=product",
+      "publisher": "Museum für Gestaltung Zürich",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_f4f26a06cf987456",
+      "title": "Fahrgastinformationssystem / Passenger Information System",
+      "url": "https://www.lars-mueller-publishers.com/fahrgastinformationssystempassenger-information-system-0",
+      "publisher": "Lars Müller Publishers",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_01dd159e1f4de881",
+      "title": "Space In-Between: Shizuko Yoshikawa and Josef Müller-Brockmann",
+      "url": "https://nakka-art.jp/en/exhibition-post/sib-2024-en/syjmb_webbanner_960x480-1536x768/",
+      "publisher": "Nakanoshima Museum of Art, Osaka",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_c595dd00d729937b",
+      "title": "Shizuko Muller-Yoshikawa stationery card, 1972",
+      "url": "https://www.moma.org/collection/works/207142",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_josef_mull_01",
+      "claim_id": "clm_jmb_001",
+      "source_id": "src_312673a71f41e529",
+      "locator": "DOCX section sec-1",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_josef_mull_02",
+      "claim_id": "clm_jmb_002",
+      "source_id": "src_3a769a50547ba70e",
+      "locator": "DOCX section sec-2",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_josef_mull_03",
+      "claim_id": "clm_jmb_003",
+      "source_id": "src_3a769a50547ba70e",
+      "locator": "DOCX section sec-3",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_josef_mull_04",
+      "claim_id": "clm_jmb_004",
+      "source_id": "src_01dd159e1f4de881",
+      "locator": "DOCX section sec-4",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_josef_mull_05",
+      "claim_id": "clm_jmb_005",
+      "source_id": "src_3a769a50547ba70e",
+      "locator": "DOCX section sec-5",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_josef_mull_06",
+      "claim_id": "clm_jmb_006",
+      "source_id": "src_5f31d6bfefcb0939",
+      "locator": "DOCX section sec-6",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_josef_mull_07",
+      "claim_id": "clm_jmb_007",
+      "source_id": "src_5f31d6bfefcb0939",
+      "locator": "DOCX section sec-7",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_josef_mull_08",
+      "claim_id": "clm_jmb_008",
+      "source_id": "src_e336b1bf732b5f07",
+      "locator": "DOCX section sec-8",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_josef_mull_09",
+      "claim_id": "clm_jmb_009",
+      "source_id": "src_01dd159e1f4de881",
+      "locator": "DOCX section sec-9",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_josef_mull_10",
+      "claim_id": "clm_jmb_010",
+      "source_id": "src_3a769a50547ba70e",
+      "locator": "DOCX section sec-10",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_josef_mull_11",
+      "claim_id": "clm_jmb_011",
+      "source_id": "src_01dd159e1f4de881",
+      "locator": "DOCX section sec-11",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_josef_mull_12",
+      "claim_id": "clm_jmb_012",
+      "source_id": "src_5f31d6bfefcb0939",
+      "locator": "DOCX section sec-12",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_josef_mull_13",
+      "claim_id": "clm_jmb_013",
+      "source_id": "src_5f31d6bfefcb0939",
+      "locator": "DOCX section sec-13",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_josef_mull_14",
+      "claim_id": "clm_jmb_014",
+      "source_id": "src_5f31d6bfefcb0939",
+      "locator": "DOCX section sec-14",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_josef_mull_15",
+      "claim_id": "clm_jmb_015",
+      "source_id": "src_1785c67891972b2f",
+      "locator": "DOCX section sec-15",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_josef_mull_16",
+      "claim_id": "clm_jmb_016",
+      "source_id": "src_5f31d6bfefcb0939",
+      "locator": "DOCX section sec-16",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_josef_mull_17",
+      "claim_id": "clm_jmb_017",
+      "source_id": "src_3a769a50547ba70e",
+      "locator": "DOCX section sec-17",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_josef_mull_18",
+      "claim_id": "clm_jmb_018",
+      "source_id": "src_55ebe7b12a289896",
+      "locator": "DOCX section sec-18",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_josef_mull_19",
+      "claim_id": "clm_jmb_019",
+      "source_id": "src_3a769a50547ba70e",
+      "locator": "DOCX section sec-19",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_josef_mull_20",
+      "claim_id": "clm_jmb_020",
+      "source_id": "src_528235c1c8b0e855",
+      "locator": "DOCX section sec-20",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_josef_mull_21",
+      "claim_id": "clm_jmb_021",
+      "source_id": "src_01dd159e1f4de881",
+      "locator": "DOCX section sec-21",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_josef_mull_22",
+      "claim_id": "clm_jmb_022",
+      "source_id": "src_1e1c63aaa89ac6e1",
+      "locator": "DOCX section sec-22",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_josef_mull_23",
+      "claim_id": "clm_jmb_023",
+      "source_id": "src_01dd159e1f4de881",
+      "locator": "DOCX section sec-23",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_josef_mull_24",
+      "claim_id": "clm_jmb_024",
+      "source_id": "src_01dd159e1f4de881",
+      "locator": "DOCX section sec-24",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_josef_mull_25",
+      "claim_id": "clm_jmb_025",
+      "source_id": "src_3a769a50547ba70e",
+      "locator": "DOCX section sec-25",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_josef_mull_26",
+      "claim_id": "clm_jmb_026",
+      "source_id": "src_ea5194e8d5be0f1b",
+      "locator": "DOCX section sec-26",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_josef_mull_27",
+      "claim_id": "clm_jmb_027",
+      "source_id": "src_c62cc1121fdba23e",
+      "locator": "DOCX section sec-27",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_josef_mull_28",
+      "claim_id": "clm_jmb_028",
+      "source_id": "src_3a769a50547ba70e",
+      "locator": "DOCX section sec-28",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_josef_mull_29",
+      "claim_id": "clm_jmb_029",
+      "source_id": "src_01dd159e1f4de881",
+      "locator": "DOCX section sec-29",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_josef_mull_30",
+      "claim_id": "clm_jmb_030",
+      "source_id": "src_01dd159e1f4de881",
+      "locator": "DOCX section sec-30",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "media_state": "media_ready",
+  "workflow": {
+    "decision": "AUTO_APPROVE",
+    "note": "RU/EN pair passed DOCX structure, source-format, URL reachability, taxonomy and media-rights checks on 2026-08-12. Claims remain explicitly attributed to the listed sources.",
+    "converted_by": "VANSMITHLAB incoming article publication workflow",
+    "converted_at": "2026-08-12T00:00:00.000Z",
+    "media_reviewed_at": "2026-08-12",
+    "media_note": "Card and portrait are original AI editorial illustrations; neither is documentary evidence or a copied archival photograph."
+  }
+}

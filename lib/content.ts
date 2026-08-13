@@ -12,9 +12,10 @@ export type ContentMetadata = {
   confidence_score: number; claim_ids: string[]; source_ids: string[]; last_reviewed: string; author: string; body_hash: string;
   hero_image?: MediaReference;
   portrait_image?: MediaReference;
+  inline_media?: InlineMediaReference[];
   translation?: { source_locale: "ru"; source_revision: number; semantic_validated: boolean; review_run_id: string };
 };
-type MediaReference = {
+export type MediaReference = {
   src: string;
   alt: string;
   caption: string;
@@ -23,6 +24,12 @@ type MediaReference = {
   rights_status?: "public_domain" | "licensed" | "attribution_required" | "editorial_basis_recorded" | "review_required" | "ai_generated" | "permission_confirmed" | "cc_by_sa";
   source_url?: string;
   licence_or_permission?: string;
+};
+export type InlineMediaReference = MediaReference & {
+  asset_id: string;
+  after_heading: string;
+  width: number;
+  height: number;
 };
 export type KnowledgeSource = { id: string; title: string; url: string; publisher: string; source_tier: number; accessed_at: string };
 export type KnowledgeCitation = { id: string; claim_id: string; source_id: string; locator: string; support: string };

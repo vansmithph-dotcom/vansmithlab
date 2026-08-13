@@ -1,0 +1,994 @@
+{
+  "id": "obj_graphic_wim_crouwel",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Вим Кроувел",
+  "title_en": "Wim Crouwel",
+  "slug_ru": "wim-crouwel-grid-technology-design-as-system",
+  "slug_en": "wim-crouwel-grid-technology-design-as-system",
+  "summary_ru": "Сетка, технология и дизайн как система",
+  "summary_en": "Grid, technology and design as a system",
+  "verification_state": "verified",
+  "confidence_score": 0.86,
+  "created_at": "2026-08-12T00:00:00.000Z",
+  "updated_at": "2026-08-12T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_wc_001",
+      "wording_ru": "Wim Crouwel родился в 1928 году в Гронингене. Его ранняя траектория начиналась не с corporate identity и не с типографических сеток, а с изобразительного искусства. В 1946–1949 годах он учился в Academie Minerva, формируя отношение к композиции, пространству и ритму ещё до того, как типографика стала его главным профессиональным инструментом. Это важно для чтения зрелого Crouwel. Его рациональность не была противоположностью визуальной культуре: она выросла из неё. Даже самые строгие плакаты сохраняют ощущение масштаба, движения и напряжения, которое трудно объяснить только набором правил.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.wimcrouwelinstituut.nl/nl/research/ontwerproces-van-cijferpostzegels",
+          "locator": "DOCX section sec-1",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.stedelijk.nl/en/collection/32824-wim-crouwel-tetsumi-kudo",
+          "locator": "DOCX section sec-1",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_wc_002",
+      "wording_ru": "Обучение в Гронингене дало Crouwel базу художника, но не готовую профессию graphic designer. Позже в Амстердаме он изучал типографику в Instituut voor Kunstnijverheidsonderwijs — будущей Gerrit Rietveld Academie. Именно этот переход от изображения к организации текста стал решающим. Вместо идеи «талантливый плакатист нашёл свой стиль» здесь появляется другая история: дизайнер учится переводить композиционное мышление в повторяемую систему, пригодную для реальных учреждений, тиража и производства.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.wimcrouwelinstituut.nl/en/activities/news/it-s-all-graphic-1",
+          "locator": "DOCX section sec-2",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.wimcrouwelinstituut.nl/nl/research/ontwerproces-van-cijferpostzegels",
+          "locator": "DOCX section sec-2",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_wc_003",
+      "wording_ru": "В послевоенном Амстердаме Crouwel оказался внутри культуры, где модернизм был не только эстетикой, но и проектом организации новой общественной среды. Sans serif, асимметрия, стандартизация и модульность давали языку дизайна ощущение современности, однако для Crouwel решающим стал вопрос не «как выглядит модернизм», а «как работает порядок». Поэтому его типографика постепенно становится конструктивной. Буквы, интервалы, формат и поля образуют систему отношений. Визуальный результат может меняться, но логика принятия решений должна оставаться ясной.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.wimcrouwelinstituut.nl/nl/research/ontwerproces-van-cijferpostzegels",
+          "locator": "DOCX section sec-3",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.stedelijk.nl/en/collection/32824-wim-crouwel-tetsumi-kudo",
+          "locator": "DOCX section sec-3",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_wc_004",
+      "wording_ru": "В 1955 году Crouwel открыл бюро вместе с дизайнером Kho Liang Ie. Работа включала exhibition, graphic и product design — дисциплины, которые позже будут восприниматься как естественные части одного design system, но тогда ещё часто существовали отдельно. Выставка оказалась идеальной школой системного мышления: сообщение нужно было распределять не по одной странице, а по пространству, маршруту и времени. Это подготовило Crouwel к музеям и крупным институциям, где визуальная идентичность существует сразу в десятках масштабов.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.wimcrouwelinstituut.nl/en/activities/news/it-s-all-graphic-1",
+          "locator": "DOCX section sec-4",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://designmuseum.nl/activiteit/lezing-modern-nederland-totaal-modern-wim-crouwel-en-total-design/",
+          "locator": "DOCX section sec-4",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_wc_005",
+      "wording_ru": "До Stedelijk Museum важной лабораторией стал Van Abbemuseum в Эйндховене. Crouwel проектировал для него каталоги, приглашения и плакаты; MoMA хранит, например, его плакат Bazaine 1959 года. Музейный заказ требовал одновременно узнаваемости институции и уважения к постоянно меняющемуся искусству. Здесь формируется одна из главных тем его карьеры: дизайнер не должен каждый раз начинать с нуля. Система создаёт постоянный каркас, внутри которого отдельная выставка может получить собственный голос.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.moma.org/collection/works/6844",
+          "locator": "DOCX section sec-5",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.stedelijk.nl/en/collection/32824-wim-crouwel-tetsumi-kudo",
+          "locator": "DOCX section sec-5",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_wc_006",
+      "wording_ru": "В 1963 году Crouwel начал долгую работу для Stedelijk Museum Amsterdam, продолжив линию после Willem Sandberg. По данным Type Directors Club, он проектировал почти все основные плакаты и каталоги музея до 1985 года. Наследство Sandberg было сложным: музей уже имел сильную графическую культуру и авторский характер. Crouwel не копировал предшественника. Он сделал ставку на модульность, унификацию форматов и повторяемую сетку — то есть превратил музейную графику в системную инфраструктуру.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.stedelijk.nl/en/collection/32824-wim-crouwel-tetsumi-kudo",
+          "locator": "DOCX section sec-6",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.stedelijk.nl/en/collection/53490-wim-crouwel-arlette-brouwers-ben-d%27armagnac",
+          "locator": "DOCX section sec-6",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_wc_007",
+      "wording_ru": "Сетка у Crouwel — не визуальный орнамент из колонок. Она работает как скрытая архитектура, позволяющая согласовать текст, изображение, подпись, дату и формат. Именно поэтому его систему можно применять к разным выставкам, не превращая их в одинаковые постеры. Парадокс в том, что сетка одновременно ограничивает и освобождает. Она сокращает число случайных решений, но оставляет дизайнеру пространство для масштаба, цвета, поворота, повторения и необычной типографической композиции.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.wimcrouwelinstituut.nl/nl/research/ontwerproces-van-cijferpostzegels",
+          "locator": "DOCX section sec-7",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.stedelijk.nl/en/collection/32824-wim-crouwel-tetsumi-kudo",
+          "locator": "DOCX section sec-7",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_wc_008",
+      "wording_ru": "Stedelijk был не набором отдельных заказов, а длинной серией. Плакат должен был работать на улице, каталог — в руках и архиве, приглашение — как короткий сигнал, а расписание и внутренняя информация — как регулярный сервис. Crouwel соединял эти носители не одним логотипом, а общей грамматикой. Так музей становится ранним примером того, что сегодня назвали бы design system: одинаковые правила помогают производить разные интерфейсы без потери идентичности. В этом смысле музейная графика Crouwel ближе к современной продуктовой системе, чем к коллекции «красивых афиш».",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.stedelijk.nl/en/collection/32824-wim-crouwel-tetsumi-kudo",
+          "locator": "DOCX section sec-8",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.wimcrouwelinstituut.nl/en/activities/news/it-s-all-graphic-1",
+          "locator": "DOCX section sec-8",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_wc_009",
+      "wording_ru": "Crouwel предпочитал функциональные sans serif typefaces, включая Univers. Его интересовала не нейтральность как отсутствие характера, а способность шрифта поддерживать иерархию, повторение и большие массивы информации. Такая экономия делала типографику почти инфраструктурной. Но она же породила критику: когда системность становилась слишком последовательной, читатель мог воспринимать её как холодную и институционально властную.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.wimcrouwelinstituut.nl/nl/research/ontwerproces-van-cijferpostzegels",
+          "locator": "DOCX section sec-9",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.stedelijk.nl/en/collection/32824-wim-crouwel-tetsumi-kudo",
+          "locator": "DOCX section sec-9",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_wc_010",
+      "wording_ru": "В том же 1963 году Crouwel вместе с Benno Wissing, Friso Kramer, Paul Schwarz и Dick Schwarz стал одним из основателей Associatie voor Total Design NV. Design Museum Den Bosch описывает бюро как одну из первых крупных современных междисциплинарных design practices Нидерландов. Total Design работал не как мастерская одного автора, а как организация, способная создавать identity, графику, product и spatial systems для крупных клиентов. Это был важный переход: системный дизайн становится не личным методом, а производственной моделью команды.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://designmuseum.nl/activiteit/lezing-modern-nederland-totaal-modern-wim-crouwel-en-total-design/",
+          "locator": "DOCX section sec-10",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.wimcrouwelinstituut.nl/en/activities/news/it-s-all-graphic-1",
+          "locator": "DOCX section sec-10",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_wc_011",
+      "wording_ru": "Для Total Design corporate identity означала гораздо больше знака. Логотип, цвет, typographic hierarchy, stationery, signage и последовательность применения должны были образовывать одну управляемую систему. Crouwel важен здесь как представитель профессии, которая начинает проектировать поведение визуальной организации. Хорошая идентичность существует не потому, что каждое применение красиво само по себе, а потому что сотни применений узнаваемо принадлежат одной структуре.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.wimcrouwelinstituut.nl/en/activities/news/it-s-all-graphic-1",
+          "locator": "DOCX section sec-11",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://designmuseum.nl/activiteit/lezing-modern-nederland-totaal-modern-wim-crouwel-en-total-design/",
+          "locator": "DOCX section sec-11",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_wc_012",
+      "wording_ru": "Популярная история дизайна часто сокращает Total Design до имени Crouwel. Это удобно, но исторически неточно. В бюро работали Benno Wissing, Ben Bos, Friso Kramer и многие другие дизайнеры; разные программы имели разных ведущих авторов. Архивные записи Stedelijk также фиксируют совместные работы Crouwel с Jolijn van de Wouw и Arlette Brouwers. Для VANSMITHLAB это важный принцип: системный дизайн особенно легко превращается в миф «единственного мастера», хотя сама его природа опирается на команды, производство и институции.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.stedelijk.nl/en/collection/53490-wim-crouwel-arlette-brouwers-ben-d%27armagnac",
+          "locator": "DOCX section sec-12",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.wimcrouwelinstituut.nl/en/activities/news/it-s-all-graphic-1",
+          "locator": "DOCX section sec-12",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_wc_013",
+      "wording_ru": "Плакат Henri Michaux для Stedelijk Museum 1964 года показывает, почему Crouwel нельзя свести к сухой сетке. MoMA хранит эту литографию как самостоятельный объект graphic design: структура остаётся строгой, но масштаб, контраст и распределение элементов создают сильное визуальное напряжение. Сетка здесь не видна как клетка. Она чувствуется как уверенность в расположении. Это ключ к лучшим работам Crouwel: система исчезает в результате и оставляет зрителю только ясность и ритм.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.moma.org/collection/works/6930",
+          "locator": "DOCX section sec-13",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.stedelijk.nl/en/collection/32824-wim-crouwel-tetsumi-kudo",
+          "locator": "DOCX section sec-13",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_wc_014",
+      "wording_ru": "В плакате Vorm Gevers для Stedelijk Museum 1968 года Crouwel строит изображение практически самой типографикой. MoMA фиксирует работу как offset lithograph; масштаб букв и их размещение превращают название выставки в пространственное событие. Это противоречит стереотипу о модернистской типографике как о маленьком тексте в левом верхнем углу. Crouwel мог быть громким — но его громкость всегда подчинялась структуре.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.moma.org/collection/works/8735",
+          "locator": "DOCX section sec-14",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.stedelijk.nl/en/collection/32824-wim-crouwel-tetsumi-kudo",
+          "locator": "DOCX section sec-14",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_wc_015",
+      "wording_ru": "Плакат Visuele Communicatie Nederland 1969 года особенно показателен: graphic design становится темой graphic design. Crouwel проектирует коммуникацию о самой визуальной коммуникации, демонстрируя, что профессия уже воспринимает себя как самостоятельную дисциплину со своими методами и ответственностью. Для Crouwel профессионализация была не статусным вопросом. Он постоянно преподавал, выступал, организовывал и спорил о том, что дизайнер должен уметь объяснить собственный метод, а не только предъявить результат.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.moma.org/collection/works/8604",
+          "locator": "DOCX section sec-15",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.wimcrouwelinstituut.nl/en/activities/news/it-s-all-graphic-1",
+          "locator": "DOCX section sec-15",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_wc_016",
+      "wording_ru": "New Alphabet 1967 года возник как эксперимент с ограничениями ранних электронных дисплеев. MoMA описывает его как алфавит, построенный из прямолинейных элементов, потому что CRT-технология плохо воспроизводила традиционные кривые формы букв. Главное здесь не футуристический вид. Crouwel задаёт дизайнерский вопрос: если технология меняет условия отображения, должны ли мы имитировать старую форму или создать новую форму из возможностей машины?",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.wimcrouwelinstituut.nl/nl/research/ontwerproces-van-cijferpostzegels",
+          "locator": "DOCX section sec-16",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.stedelijk.nl/en/collection/32824-wim-crouwel-tetsumi-kudo",
+          "locator": "DOCX section sec-16",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_wc_017",
+      "wording_ru": "Сам Crouwel позже называл New Alphabet чрезмерным и не предназначенным для нормального использования. Именно поэтому его лучше понимать не как попытку заменить латиницу, а как критический prototype. Эксперимент доводит функционализм до точки, где функциональность начинает конфликтовать с чтением. Это делает New Alphabet особенно ценным: он показывает предел собственной идеологии Crouwel и превращает техническое ограничение в интеллектуальную провокацию.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.wimcrouwelinstituut.nl/nl/research/ontwerproces-van-cijferpostzegels",
+          "locator": "DOCX section sec-17",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.stedelijk.nl/en/collection/32824-wim-crouwel-tetsumi-kudo",
+          "locator": "DOCX section sec-17",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_wc_018",
+      "wording_ru": "В 1967 году идея типографики, отвечающей логике экрана, казалась радикальной. Через несколько десятилетий дизайнеры интерфейсов будут ежедневно решать похожие задачи: pixel grid, responsive rendering, hinting, variable typography и разные устройства. New Alphabet не предсказывает современный UI буквально. Но он рано формулирует принцип: медиа — не нейтральный контейнер. Техническая система влияет на форму сообщения, а дизайнер должен понимать ограничения машины как часть визуального языка.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.moma.org/collection/works/139322",
+          "locator": "DOCX section sec-18",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_wc_019",
+      "wording_ru": "Прозвище Mr. Gridnik и название Gridnik закрепили за Crouwel образ человека-сетки. Но экспериментальная типографика была для него лабораторией, а не рецептом, который надо применять ко всему. Если использовать Gridnik только как декоративный techno-font, исчезает главное: Crouwel исследовал отношения между модулем, производством и читаемостью. Его наследие — вопрос к системе, а не набор узнаваемых форм.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.wimcrouwelinstituut.nl/nl/research/ontwerproces-van-cijferpostzegels",
+          "locator": "DOCX section sec-19",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.stedelijk.nl/en/collection/32824-wim-crouwel-tetsumi-kudo",
+          "locator": "DOCX section sec-19",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_wc_020",
+      "wording_ru": "Когда системный модернизм выходит из музея в массовый сервис, его легко проверить реальным чтением. Работы вокруг PTT и телефонных книг стали именно таким тестом. Исследование Wim Crouwel Instituut напоминает и о критике телефонной книги, набранной маленьким Univers без прописных букв. Это важная граница: визуальная последовательность не гарантирует удобства. Массовая информационная система должна выдерживать скорость поиска, возраст аудитории, печатное качество и привычки чтения.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.wimcrouwelinstituut.nl/nl/research/ontwerproces-van-cijferpostzegels",
+          "locator": "DOCX section sec-20",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.wimcrouwelinstituut.nl/en/activities/news/it-s-all-graphic-1",
+          "locator": "DOCX section sec-20",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_wc_021",
+      "wording_ru": "В 1974 году PTT предложила Crouwel, Gerrit Noordzij и Willem Sandberg разработать новые number stamps. В итоге была выбрана система Crouwel; марки вышли в 1976 году. Он стремился различать номиналы через типографику и цвет и придать цифрам простой математический характер. Почтовая марка размером в несколько сантиметров становится миниатюрным information interface. Здесь особенно ясно видно, как Crouwel переводит модернистскую систему в массовый, тиражный и регламентированный объект.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.wimcrouwelinstituut.nl/nl/research/ontwerproces-van-cijferpostzegels",
+          "locator": "DOCX section sec-21",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.stedelijk.nl/en/collection/32824-wim-crouwel-tetsumi-kudo",
+          "locator": "DOCX section sec-21",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_wc_022",
+      "wording_ru": "Type Directors Club отмечает участие Crouwel в проектировании голландского павильона для Expo ’70 в Осаке. Для поколения Total Design мировая выставка была местом, где национальная современность демонстрировалась через архитектуру, exhibition design, графику и технологию одновременно. Это усиливает cross-field характер его практики: graphic design у Crouwel постоянно соприкасается с пространством, индустриальным производством и архитектурой.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.wimcrouwelinstituut.nl/en/activities/news/it-s-all-graphic-1",
+          "locator": "DOCX section sec-22",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://designmuseum.nl/activiteit/lezing-modern-nederland-totaal-modern-wim-crouwel-en-total-design/",
+          "locator": "DOCX section sec-22",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_wc_023",
+      "wording_ru": "В 1970-е рациональная позиция Crouwel всё чаще встречала сопротивление. Wim Crouwel Instituut описывает, как молодые и политически ориентированные дизайнеры, включая Jan van Toorn, критиковали догматизм модернистского подхода и требовали большей авторской и общественной позиции. Этот конфликт нельзя сводить к «сетка против хаоса». Вопрос глубже: должен ли дизайнер максимально упорядочивать сообщение и скрывать себя — или обязан показывать, что любая форма уже содержит интерпретацию и власть?",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.wimcrouwelinstituut.nl/nl/research/ontwerproces-van-cijferpostzegels",
+          "locator": "DOCX section sec-23",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.wimcrouwelinstituut.nl/en/activities/news/it-s-all-graphic-1",
+          "locator": "DOCX section sec-23",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_wc_024",
+      "wording_ru": "Crouwel преподавал значительную часть карьеры. Type Directors Club указывает его работу в Technische Hogeschool Delft, назначение associate professor в 1972 году и последующее руководство факультетом. В образовательном контексте сетка становится не стилем преподавателя, а способом дисциплинировать аргумент: определить задачу, ограничения, формат и последовательность. При этом история Crouwel показывает и риск — метод может превратиться в догму, если перестать проверять его на новых условиях.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://tdc.org/news/type-directors-club-awards-the-tdc-medal-to-wim-crouwel/",
+          "locator": "DOCX section sec-24",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://tdc.org/medal-winner/wim-crouwel/",
+          "locator": "DOCX section sec-24",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_wc_025",
+      "wording_ru": "Crouwel был не только практиком. Он участвовал в профессиональных организациях, преподавал, руководил, писал и публично защищал graphic design как самостоятельную дисциплину. Wim Crouwel Instituut подчёркивает его роль организатора и человека, постоянно работавшего на инфраструктуру профессии. Для VANSMITHLAB это особенно важный слой: история дизайна состоит не только из объектов. Школы, бюро, музеи, профессиональные объединения и архивы определяют, какие методы сохраняются, масштабируются и становятся нормой.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.wimcrouwelinstituut.nl/en/activities/news/it-s-all-graphic-1",
+          "locator": "DOCX section sec-25",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.wimcrouwelinstituut.nl/nl/research/ontwerproces-van-cijferpostzegels",
+          "locator": "DOCX section sec-25",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_wc_026",
+      "wording_ru": "В середине 1980-х Crouwel стал директором Museum Boijmans Van Beuningen в Роттердаме и оставался на этой должности до выхода на пенсию в 1993 году. Переход символичен: дизайнер, десятилетиями строивший визуальные системы музеев, теперь отвечал за музей как институцию. Это расширяет представление о design leadership. Управление коллекцией, выставочной политикой, организацией и публичной ролью музея — тоже работа с системами, только уже не на уровне типографической сетки.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://designmuseum.nl/activiteit/lezing-modern-nederland-totaal-modern-wim-crouwel-en-total-design/",
+          "locator": "DOCX section sec-26",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.stedelijk.nl/en/collection/32824-wim-crouwel-tetsumi-kudo",
+          "locator": "DOCX section sec-26",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_wc_027",
+      "wording_ru": "К концу XX века модернистская уверенность Crouwel перестала быть единственным языком профессионального будущего. New Wave, postmodern graphic design и более авторские практики разрушали идею универсальной нейтральности. Но именно в этот момент его экспериментальные алфавиты начали заново открывать молодые дизайнеры. Возвращение Crouwel показывает цикличность визуальной культуры: то, что одно поколение воспринимает как догму, следующее может увидеть как исторический материал для нового эксперимента.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.wimcrouwelinstituut.nl/en/activities/news/it-s-all-graphic-1",
+          "locator": "DOCX section sec-27",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://designmuseum.nl/activiteit/lezing-modern-nederland-totaal-modern-wim-crouwel-en-total-design/",
+          "locator": "DOCX section sec-27",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_wc_028",
+      "wording_ru": "MoMA отмечает, что Peter Saville Associates использовали стилизованную версию New Alphabet на обложке сборника Substance группы Joy Division в 1988 году. Позднее, в 1997-м, Freda Sack и David Quay из The Foundry оцифровали алфавит для современного использования. Так типографический эксперимент 1967 года переходит из дискуссии о компьютерах в музыкальную культуру и digital font production. Это не просто revival: новая среда дала старому проекту функцию, которой у него первоначально не было.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.moma.org/collection/works/139322",
+          "locator": "DOCX section sec-28",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_wc_029",
+      "wording_ru": "В 2019 году Crouwel стал 32-м лауреатом TDC Medal за вклад в typography. В том же году Stedelijk Museum подготовил выставку Wim Crouwel: Mr. Gridnik, а Wim Crouwel Instituut фиксировал новый виток внимания к его наследию. Признание интересно не как финальная точка канона. К этому моменту Crouwel уже читался одновременно как образец системности, источник digital-type эксперимента и фигура, через которую удобно обсуждать границы модернистской объективности.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.stedelijk.nl/en/collection/32824-wim-crouwel-tetsumi-kudo",
+          "locator": "DOCX section sec-29",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.stedelijk.nl/en/collection/53490-wim-crouwel-arlette-brouwers-ben-d%27armagnac",
+          "locator": "DOCX section sec-29",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_wc_030",
+      "wording_ru": "Главный урок Crouwel — не «используйте сетку». Его сильнейшие проекты показывают, что система нужна для координации сложной информации во времени, между людьми и носителями. Сетка, typography и standards полезны, пока они делают содержание понятнее и производство устойчивее. Но его же карьера демонстрирует предел: когда метод объявляется универсально правильным, он начинает подавлять контекст. Поэтому современное наследие Crouwel — дисциплина плюс критика собственной дисциплины. Не визуальный костюм модернизма, а привычка проектировать отношения и снова проверять, кому они служат.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.wimcrouwelinstituut.nl/nl/research/ontwerproces-van-cijferpostzegels",
+          "locator": "DOCX section sec-30",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.stedelijk.nl/en/collection/32824-wim-crouwel-tetsumi-kudo",
+          "locator": "DOCX section sec-30",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_e813e7e50f72e042",
+      "title": "Wim Crouwel",
+      "url": "https://tdc.org/medal-winner/wim-crouwel/",
+      "publisher": "Type Directors Club",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_b6b16f4ed4c8a1c7",
+      "title": "Wim Crouwel overleden",
+      "url": "https://www.wimcrouwelinstituut.nl/nl/activities/news/wim-crouwel-overleden",
+      "publisher": "Wim Crouwel Instituut",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_ce0a94122da03f97",
+      "title": "Wim Crouwel (1928–2019): modernist en poëet",
+      "url": "https://www.wimcrouwelinstituut.nl/nl/research/wim-crouwel-1928-2019-modernist-en-poeet",
+      "publisher": "Wim Crouwel Instituut",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_c5dd1d7e4c7866eb",
+      "title": "Totaal Modern — Wim Crouwel en Total Design",
+      "url": "https://designmuseum.nl/activiteit/lezing-modern-nederland-totaal-modern-wim-crouwel-en-total-design/",
+      "publisher": "Design Museum Den Bosch",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_cee4a6b66b7528a4",
+      "title": "Wim Crouwel",
+      "url": "https://www.moma.org/artists/1314-wim-crouwel",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_e52d94614fcf292f",
+      "title": "Bazaine, stedelijk Van Abbemuseum Eindhoven, 1959",
+      "url": "https://www.moma.org/collection/works/6844",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_c27b9afa8f2e7ac2",
+      "title": "Étienne Martin, Amsterdam Stedelijk Museum, 1963",
+      "url": "https://www.moma.org/collection/works/6937",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_3e57f85fa2dce556",
+      "title": "Henri Michaux, Stedelijk Museum Amsterdam, 1964",
+      "url": "https://www.moma.org/collection/works/6930",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_44430efa8721fd99",
+      "title": "New Alphabet, 1967",
+      "url": "https://www.moma.org/collection/works/139322",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_1cfa1621123c7226",
+      "title": "Stedelijk Museum Amsterdam, Vorm Gevers, 1968",
+      "url": "https://www.moma.org/collection/works/8735",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_030535cceaa350a9",
+      "title": "Visuele Communicatie Nederland, Stedelijk Museum Amsterdam, 1969",
+      "url": "https://www.moma.org/collection/works/8604",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_b5b7385d6bdc9062",
+      "title": "Claes Oldenburg, Wim Crouwel–Jolijn van de Wouw, 1970",
+      "url": "https://www.stedelijk.nl/en/collection/15309-wim-crouwel-jolijn-van-de-wouw-claes-oldenburg",
+      "publisher": "Stedelijk Museum Amsterdam",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_2bfa9aef45390173",
+      "title": "Tetsumi Kudo, Wim Crouwel, 1972",
+      "url": "https://www.stedelijk.nl/en/collection/32824-wim-crouwel-tetsumi-kudo",
+      "publisher": "Stedelijk Museum Amsterdam",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_7714044cb321f09a",
+      "title": "Ben d’Armagnac, Wim Crouwel–Arlette Brouwers, 1981",
+      "url": "https://www.stedelijk.nl/en/collection/53490-wim-crouwel-arlette-brouwers-ben-d%27armagnac",
+      "publisher": "Stedelijk Museum Amsterdam",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_1ad48eaccf6e8f64",
+      "title": "Cijferpostzegels",
+      "url": "https://www.wimcrouwelinstituut.nl/nl/research/ontwerproces-van-cijferpostzegels",
+      "publisher": "Wim Crouwel Instituut",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_5d16b17d8ed593db",
+      "title": "It’s All Graphic #1 — Culture of Dutch Design Agencies (around Total Design)",
+      "url": "https://www.wimcrouwelinstituut.nl/en/activities/news/it-s-all-graphic-1",
+      "publisher": "Wim Crouwel Instituut",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_99d074dbe71a158c",
+      "title": "Type Directors Club Awards the TDC Medal to Wim Crouwel",
+      "url": "https://tdc.org/news/type-directors-club-awards-the-tdc-medal-to-wim-crouwel/",
+      "publisher": "Type Directors Club",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_f7706ebba58dfde6",
+      "title": "Wim Crouwel Institute — About",
+      "url": "https://www.wimcrouwelinstituut.nl/en/instituut/about",
+      "publisher": "Wim Crouwel Instituut",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_1860317205b98df2",
+      "title": "Karel Martens — Unbound",
+      "url": "https://stedelijk.nl/en/news/karel-martens-eng",
+      "publisher": "Stedelijk Museum Amsterdam",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_6263825bdd0bf93a",
+      "title": "TDC65 Exhibition Opening and Awards",
+      "url": "https://tdc.org/event/tdc65-opening-exhibition-and-reception/",
+      "publisher": "Type Directors Club",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_wim_crouwe_01",
+      "claim_id": "clm_wc_001",
+      "source_id": "src_1ad48eaccf6e8f64",
+      "locator": "DOCX section sec-1",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_wim_crouwe_02",
+      "claim_id": "clm_wc_002",
+      "source_id": "src_5d16b17d8ed593db",
+      "locator": "DOCX section sec-2",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_wim_crouwe_03",
+      "claim_id": "clm_wc_003",
+      "source_id": "src_1ad48eaccf6e8f64",
+      "locator": "DOCX section sec-3",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_wim_crouwe_04",
+      "claim_id": "clm_wc_004",
+      "source_id": "src_5d16b17d8ed593db",
+      "locator": "DOCX section sec-4",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_wim_crouwe_05",
+      "claim_id": "clm_wc_005",
+      "source_id": "src_e52d94614fcf292f",
+      "locator": "DOCX section sec-5",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_wim_crouwe_06",
+      "claim_id": "clm_wc_006",
+      "source_id": "src_2bfa9aef45390173",
+      "locator": "DOCX section sec-6",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_wim_crouwe_07",
+      "claim_id": "clm_wc_007",
+      "source_id": "src_1ad48eaccf6e8f64",
+      "locator": "DOCX section sec-7",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_wim_crouwe_08",
+      "claim_id": "clm_wc_008",
+      "source_id": "src_2bfa9aef45390173",
+      "locator": "DOCX section sec-8",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_wim_crouwe_09",
+      "claim_id": "clm_wc_009",
+      "source_id": "src_1ad48eaccf6e8f64",
+      "locator": "DOCX section sec-9",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_wim_crouwe_10",
+      "claim_id": "clm_wc_010",
+      "source_id": "src_c5dd1d7e4c7866eb",
+      "locator": "DOCX section sec-10",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_wim_crouwe_11",
+      "claim_id": "clm_wc_011",
+      "source_id": "src_5d16b17d8ed593db",
+      "locator": "DOCX section sec-11",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_wim_crouwe_12",
+      "claim_id": "clm_wc_012",
+      "source_id": "src_7714044cb321f09a",
+      "locator": "DOCX section sec-12",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_wim_crouwe_13",
+      "claim_id": "clm_wc_013",
+      "source_id": "src_3e57f85fa2dce556",
+      "locator": "DOCX section sec-13",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_wim_crouwe_14",
+      "claim_id": "clm_wc_014",
+      "source_id": "src_1cfa1621123c7226",
+      "locator": "DOCX section sec-14",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_wim_crouwe_15",
+      "claim_id": "clm_wc_015",
+      "source_id": "src_030535cceaa350a9",
+      "locator": "DOCX section sec-15",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_wim_crouwe_16",
+      "claim_id": "clm_wc_016",
+      "source_id": "src_1ad48eaccf6e8f64",
+      "locator": "DOCX section sec-16",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_wim_crouwe_17",
+      "claim_id": "clm_wc_017",
+      "source_id": "src_1ad48eaccf6e8f64",
+      "locator": "DOCX section sec-17",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_wim_crouwe_18",
+      "claim_id": "clm_wc_018",
+      "source_id": "src_44430efa8721fd99",
+      "locator": "DOCX section sec-18",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_wim_crouwe_19",
+      "claim_id": "clm_wc_019",
+      "source_id": "src_1ad48eaccf6e8f64",
+      "locator": "DOCX section sec-19",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_wim_crouwe_20",
+      "claim_id": "clm_wc_020",
+      "source_id": "src_1ad48eaccf6e8f64",
+      "locator": "DOCX section sec-20",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_wim_crouwe_21",
+      "claim_id": "clm_wc_021",
+      "source_id": "src_1ad48eaccf6e8f64",
+      "locator": "DOCX section sec-21",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_wim_crouwe_22",
+      "claim_id": "clm_wc_022",
+      "source_id": "src_5d16b17d8ed593db",
+      "locator": "DOCX section sec-22",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_wim_crouwe_23",
+      "claim_id": "clm_wc_023",
+      "source_id": "src_1ad48eaccf6e8f64",
+      "locator": "DOCX section sec-23",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_wim_crouwe_24",
+      "claim_id": "clm_wc_024",
+      "source_id": "src_99d074dbe71a158c",
+      "locator": "DOCX section sec-24",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_wim_crouwe_25",
+      "claim_id": "clm_wc_025",
+      "source_id": "src_5d16b17d8ed593db",
+      "locator": "DOCX section sec-25",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_wim_crouwe_26",
+      "claim_id": "clm_wc_026",
+      "source_id": "src_c5dd1d7e4c7866eb",
+      "locator": "DOCX section sec-26",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_wim_crouwe_27",
+      "claim_id": "clm_wc_027",
+      "source_id": "src_5d16b17d8ed593db",
+      "locator": "DOCX section sec-27",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_wim_crouwe_28",
+      "claim_id": "clm_wc_028",
+      "source_id": "src_44430efa8721fd99",
+      "locator": "DOCX section sec-28",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_wim_crouwe_29",
+      "claim_id": "clm_wc_029",
+      "source_id": "src_2bfa9aef45390173",
+      "locator": "DOCX section sec-29",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_wim_crouwe_30",
+      "claim_id": "clm_wc_030",
+      "source_id": "src_1ad48eaccf6e8f64",
+      "locator": "DOCX section sec-30",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "media_state": "media_ready",
+  "workflow": {
+    "decision": "AUTO_APPROVE",
+    "note": "RU/EN pair passed DOCX structure, source-format, URL reachability, taxonomy and media-rights checks on 2026-08-12. Claims remain explicitly attributed to the listed sources.",
+    "converted_by": "VANSMITHLAB incoming article publication workflow",
+    "converted_at": "2026-08-12T00:00:00.000Z",
+    "media_reviewed_at": "2026-08-12",
+    "media_note": "Card and portrait are original AI editorial illustrations; neither is documentary evidence or a copied archival photograph."
+  }
+}

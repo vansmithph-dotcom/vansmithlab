@@ -3,7 +3,7 @@
   "primary_object_id": "",
   "content_release_id": "cnt_985bf3313c7f2334",
   "kind": "image",
-  "origin": "ai_illustration",
+  "origin": "editorial",
   "locale": "multilingual",
   "educational_purpose": "Visualize Israel's method as selection and editorial tension — the contact sheet, the chosen frame and the trust between art director and photographer — without reproducing protected photographs.",
   "may_depict": [
@@ -22,15 +22,25 @@
     "third_party_marks": "No logo, wordmark or recognisable branded asset."
   },
   "accessibility": {
-    "alt_text_ru": "Редакционная AI-иллюстрация: контрольный лист с отмеченным кадром, отбор отпечатков и строгая чёрно-белая полоса.",
-    "alt_text_en": "Editorial AI illustration: a contact sheet with a marked frame, prints being sorted and a stark black-and-white page.",
-    "caption_ru": "Отбор, напряжение и доверие: визуализация метода Марвина Изрейела в арт-дирекции.",
-    "caption_en": "Selection, tension and trust: a visualization of Marvin Israel's approach to art direction."
+    "alt_text_ru": "Редакционная схема метода Marvin Israel: выбор, напряжение и доверие между изображением и полосой.",
+    "alt_text_en": "Editorial diagram of Marvin Israel's method: selection, tension and trust between image and page.",
+    "caption_ru": "Арт-дирекция как точный отбор и управление напряжением между элементами.",
+    "caption_en": "Art direction as precise selection and management of tension between elements."
   },
   "creator": "OpenAI image generation · directed and reviewed by VANSMITHLAB",
   "created_at": "2026-08-12",
-  "asset_path": "public/images/glossary/art-directors/marvin-israel-selection-tension-trust-art-direction-hero-v1-card.webp",
+  "asset_path": "public/images/glossary/art-directors/marvin-israel-selection-tension-trust-art-direction-hero-v1-card.svg",
   "generation_prompt_class": "original fictional editorial visual for marvin-israel-selection-tension-trust-art-direction",
-  "workflow_run_id": "run_20260812_art_directors_photographers",
-  "content_sha256": ""
+  "workflow_run_id": "run_20260812_media_rights_repair",
+  "content_sha256": "",
+  "content_release_ids": [
+    "cnt_985bf3313c7f2334"
+  ],
+  "rights_state": "original",
+  "licence_or_permission": "Original VANSMITHLAB SVG editorial visual; no third-party images, logos or trademarks.",
+  "source_url": "",
+  "creator_or_credit": "VANSMITHLAB editorial visual system",
+  "file_storage_key": "public/images/glossary/art-directors/marvin-israel-selection-tension-trust-art-direction-hero-v1-card.svg",
+  "content_hash": "21127eaa319ee84bfd37ed699cea76ff7af326ff6cbfbfbc8af2e9020d9747f6",
+  "disclosure": "VANSMITHLAB · original editorial visual, 2026"
 }

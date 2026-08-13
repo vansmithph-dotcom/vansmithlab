@@ -1,0 +1,786 @@
+{
+  "id": "obj_music_video_myth_factory_20260813",
+  "type": "theme",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Клип как фабрика мифа",
+  "title_en": "Music Video as a Myth Factory",
+  "slug_ru": "music-video-myth-factory",
+  "slug_en": "music-video-myth-factory",
+  "summary_ru": "Как музыкальное видео превращает песню в лицо, тело, костюм, жест и культурную память",
+  "verification_state": "multi_source_verified",
+  "confidence_score": 0.86,
+  "created_at": "2026-08-13T00:00:00.000Z",
+  "updated_at": "2026-08-13T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_mv_opening",
+      "wording_ru": "Потому что музыкальное видео способно превратить звук в компактную визуальную память. MTV сделал экранную видимость регулярным условием поп-культуры; Thriller показал, что песня может получить собственный кинематографический мир; Björk и Chris Cunningham доказали, что клип может изобрести новое тело артиста; YouTube и TikTok превратили образ в жест и фрагмент, который зритель сам распространяет. Сильный клип не обязательно самый дорогой или сложный. Он создаёт визуальный знак, который трудно отделить от музыки. Именно поэтому несколько секунд изображения иногда переживают весь цикл продвижения и становятся культурным мифом.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://americanhistory.si.edu/explore/exhibitions/american-enterprise/online/advertising-business/mass-targeted-markets",
+          "locator": "DOCX section short-answer",
+          "support": "MTV, Library of Congress and MoMA sources support the historical examples; the compact-visual-memory conclusion is VANSMITHLAB's synthesis."
+        },
+        {
+          "source_url": "https://americanhistory.si.edu/collections/archival-collection/sova-nmah-ac-0453",
+          "locator": "DOCX section short-answer",
+          "support": "MTV, Library of Congress and MoMA sources support the historical examples; the compact-visual-memory conclusion is VANSMITHLAB's synthesis."
+        },
+        {
+          "source_url": "https://www.loc.gov/item/prn-09-250/",
+          "locator": "DOCX section short-answer",
+          "support": "MTV, Library of Congress and MoMA sources support the historical examples; the compact-visual-memory conclusion is VANSMITHLAB's synthesis."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_mv_mtv_1981",
+      "wording_ru": "До MTV у музыки уже была визуальная жизнь: обложки, афиши, телевизионные выступления, сценические костюмы, промо-ролики. Но запуск MTV в 1981 году сделал музыкальное видео не эпизодом, а постоянной средой. Smithsonian описывает канал как смесь performance, video art и рекламы, рассчитанную на молодую аудиторию; архив Fred/Alan показывает, насколько сознательно вокруг канала строилась новая эстетика и новая модель сегментированного рынка. Изменился не только способ продвижения песен. Изменилось само ожидание от артиста. Теперь голосу требовалась визуальная дисциплина: лицо должно быть узнаваемым, силуэт — считываться, монтаж — удерживать внимание, костюм — говорить быстрее интервью. Звезда начала существовать как повторяемая система экранных знаков. Это не означает, что MTV «изобрёл» визуальную музыку. Но он сделал видимость регулярной обязанностью поп-культуры. Песня всё чаще входила в массовую память уже вместе с образом — и индустрия поняла, что экран может продавать не только запись, но и персонажа.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://americanhistory.si.edu/explore/exhibitions/american-enterprise/online/advertising-business/mass-targeted-markets",
+          "locator": "DOCX section sec-2",
+          "support": "Smithsonian sources document the targeted-market context and the Fred/Alan MTV Network Advertising Collection."
+        },
+        {
+          "source_url": "https://americanhistory.si.edu/collections/archival-collection/sova-nmah-ac-0453",
+          "locator": "DOCX section sec-2",
+          "support": "Smithsonian sources document the targeted-market context and the Fred/Alan MTV Network Advertising Collection."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_mv_mtv_aesthetic",
+      "wording_ru": "До MTV у музыки уже была визуальная жизнь: обложки, афиши, телевизионные выступления, сценические костюмы, промо-ролики. Но запуск MTV в 1981 году сделал музыкальное видео не эпизодом, а постоянной средой. Smithsonian описывает канал как смесь performance, video art и рекламы, рассчитанную на молодую аудиторию; архив Fred/Alan показывает, насколько сознательно вокруг канала строилась новая эстетика и новая модель сегментированного рынка. Изменился не только способ продвижения песен. Изменилось само ожидание от артиста. Теперь голосу требовалась визуальная дисциплина: лицо должно быть узнаваемым, силуэт — считываться, монтаж — удерживать внимание, костюм — говорить быстрее интервью. Звезда начала существовать как повторяемая система экранных знаков. Это не означает, что MTV «изобрёл» визуальную музыку. Но он сделал видимость регулярной обязанностью поп-культуры. Песня всё чаще входила в массовую память уже вместе с образом — и индустрия поняла, что экран может продавать не только запись, но и персонажа.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://americanhistory.si.edu/explore/exhibitions/american-enterprise/online/advertising-business/mass-targeted-markets",
+          "locator": "DOCX section sec-2",
+          "support": "The cited Smithsonian material supports MTV's deliberately designed youth-media identity; the screen-sign-system reading is VANSMITHLAB interpretation."
+        },
+        {
+          "source_url": "https://americanhistory.si.edu/collections/archival-collection/sova-nmah-ac-0453",
+          "locator": "DOCX section sec-2",
+          "support": "The cited Smithsonian material supports MTV's deliberately designed youth-media identity; the screen-sign-system reading is VANSMITHLAB interpretation."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_mv_thriller_nfr",
+      "wording_ru": "В 1983 году Michael Jackson и режиссёр John Landis сделали с Thriller то, что редко удаётся рекламе: превратили продвижение песни в самостоятельное экранное событие. Library of Congress описывает 13-минутную работу как масштабную постановку, которая вызвала такой интерес, что демонстрировалась и на 35-миллиметровой плёнке; в 2009 году Thriller вошёл в National Film Registry. Но историческая важность — только половина истории. Посмотрите, сколько памяти упаковано в один клип: красная куртка, кинематографическая ночь, грим зомби, массовая хореография, превращение, хоррор как жанр, театральность лица. Песня получает не набор кадров, а мир с собственными правилами. Здесь клип начинает работать как фабрика мифа буквально. Он не объясняет текст песни; он создаёт вторую реальность, к которой песня приклеивается настолько прочно, что образ начинает возвращаться отдельно — в костюмах, танцах, пародиях, праздничных ритуалах и визуальных цитатах. Это уже не просто промо. Это культурная память, организованная режиссурой.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.loc.gov/static/programs/national-film-preservation-board/film-registry/descriptions.html",
+          "locator": "DOCX section sec-3",
+          "support": "Library of Congress documents Thriller's 1983 work, 13-minute scale, 35-mm exhibition interest and 2009 National Film Registry selection."
+        },
+        {
+          "source_url": "https://www.loc.gov/item/prn-09-250/",
+          "locator": "DOCX section sec-3",
+          "support": "Library of Congress documents Thriller's 1983 work, 13-minute scale, 35-mm exhibition interest and 2009 National Film Registry selection."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_mv_thriller_interpretation",
+      "wording_ru": "В 1983 году Michael Jackson и режиссёр John Landis сделали с Thriller то, что редко удаётся рекламе: превратили продвижение песни в самостоятельное экранное событие. Library of Congress описывает 13-минутную работу как масштабную постановку, которая вызвала такой интерес, что демонстрировалась и на 35-миллиметровой плёнке; в 2009 году Thriller вошёл в National Film Registry. Но историческая важность — только половина истории. Посмотрите, сколько памяти упаковано в один клип: красная куртка, кинематографическая ночь, грим зомби, массовая хореография, превращение, хоррор как жанр, театральность лица. Песня получает не набор кадров, а мир с собственными правилами. Здесь клип начинает работать как фабрика мифа буквально. Он не объясняет текст песни; он создаёт вторую реальность, к которой песня приклеивается настолько прочно, что образ начинает возвращаться отдельно — в костюмах, танцах, пародиях, праздничных ритуалах и визуальных цитатах. Это уже не просто промо. Это культурная память, организованная режиссурой.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.loc.gov/static/programs/national-film-preservation-board/film-registry/descriptions.html",
+          "locator": "DOCX section sec-3",
+          "support": "Library of Congress supports the work's preservation context; its cultural-memory reading is VANSMITHLAB interpretation."
+        },
+        {
+          "source_url": "https://www.loc.gov/item/prn-09-250/",
+          "locator": "DOCX section sec-3",
+          "support": "Library of Congress supports the work's preservation context; its cultural-memory reading is VANSMITHLAB interpretation."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_mv_bjork_cunningham",
+      "wording_ru": "В All Is Full of Love Chris Cunningham делает ещё более радикальный ход: вместо того чтобы усиливать существующую сценическую персону Björk, видео практически создаёт для неё другое тело. MoMA описывает работу 1999 года как соединение нежности и загадочности вокала Björk с образами Cunningham; в музейном контексте видео рассматривается как самостоятельная работа режиссёра. Белые гуманоидные машины здесь важны не как эффект ради эффекта. Они переводят голос в материал: холодный пластик становится интимным, промышленная сборка — чувственной, механика — почти телесной. Музыка получает образ, который невозможно было бы достоверно «снять» как обычный портрет артиста. Интерпретация Сильный клип не обязан показывать, какой артист «есть на самом деле». Иногда его задача обратная — построить экранное существо, через которое музыка становится видимой. В этом смысле музыкальное видео работает ближе к мифологии, чем к портретной фотографии: оно не фиксирует личность, а создаёт символическое тело.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.moma.org/calendar/exhibitions/4771",
+          "locator": "DOCX section sec-4",
+          "support": "MoMA exhibition records support the 1999 work and its Cunningham/Björk context; the symbolic-body reading is VANSMITHLAB interpretation."
+        },
+        {
+          "source_url": "https://www.moma.org/calendar/exhibitions/1458",
+          "locator": "DOCX section sec-4",
+          "support": "MoMA exhibition records support the 1999 work and its Cunningham/Björk context; the symbolic-body reading is VANSMITHLAB interpretation."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_mv_okgo_official",
+      "wording_ru": "Не каждому клипу нужен кинематографический мир. Here It Goes Again группы OK Go доказывает почти противоположное: иногда достаточно одной идеи, если зритель понимает её за секунду. Официальный сайт группы до сих пор хранит видео как отдельный объект в собственной видеографии. Беговые дорожки превращают клип в видимое доказательство. Мы понимаем правила пространства, видим физический риск, замечаем синхронность и поэтому хотим досмотреть, как долго система не сломается. Это не эффект, который скрывает производство, а трюк, который демонстрирует производство прямо перед нами. Именно поэтому образ запоминается. Песня получает не сложный сюжет, а визуальную формулу. В эпоху раннего YouTube такая формула идеально переносилась из человека к человеку: её можно было описать одной фразой — «тот клип на беговых дорожках» — и этого уже хватало, чтобы найти его и переслать дальше.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://okgo.net/2006/07/31/here-it-goes-again-official-video/",
+          "locator": "DOCX section sec-5",
+          "support": "OK Go's official video page establishes Here It Goes Again as an item in the group's own videography."
+        }
+      ],
+      "verification_state": "verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_mv_gangnam_billion",
+      "wording_ru": "Gangnam Style сделал следующий шаг. YouTube фиксирует, что видео PSY вышло 15 июля 2012 года и 21 декабря того же года стало первым видео на платформе, достигшим одного миллиарда просмотров. В юбилейном материале YouTube отдельно связывает глобальное распространение ролика с узнаваемыми танцевальными движениями и возможностью аудитории делиться видео по всему миру. Но миллиард — не главный аргумент. Важнее то, что зритель мог вынести из клипа собственное действие. «Лошадиный» танцевальный жест существовал вне исходного кадра: его повторяли на сценах, в телешоу, пародиях, домашних видео и массовых выступлениях. Клип перестал быть только объектом просмотра и превратился в инструкцию к участию. Это принципиально меняет устройство мифа. Thriller предлагает мир, в который зритель входит глазами. Gangnam Style даёт жест, который зритель может присвоить телом. Платформа усиливает именно эту переносимость: образ становится культурно сильным, когда его легко цитировать, копировать и переигрывать.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://blog.youtube/creator-and-artist-stories/10-years-of-youtubes-billion-views-club-psy-gangnam-style/",
+          "locator": "DOCX section sec-6",
+          "support": "YouTube's official posts document the 15 July 2012 release and the first-one-billion-views milestone on 21 December 2012."
+        },
+        {
+          "source_url": "https://blog.youtube/news-and-events/ytvev/",
+          "locator": "DOCX section sec-6",
+          "support": "YouTube's official posts document the 15 July 2012 release and the first-one-billion-views milestone on 21 December 2012."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_mv_gangnam_gesture",
+      "wording_ru": "Gangnam Style сделал следующий шаг. YouTube фиксирует, что видео PSY вышло 15 июля 2012 года и 21 декабря того же года стало первым видео на платформе, достигшим одного миллиарда просмотров. В юбилейном материале YouTube отдельно связывает глобальное распространение ролика с узнаваемыми танцевальными движениями и возможностью аудитории делиться видео по всему миру. Но миллиард — не главный аргумент. Важнее то, что зритель мог вынести из клипа собственное действие. «Лошадиный» танцевальный жест существовал вне исходного кадра: его повторяли на сценах, в телешоу, пародиях, домашних видео и массовых выступлениях. Клип перестал быть только объектом просмотра и превратился в инструкцию к участию. Это принципиально меняет устройство мифа. Thriller предлагает мир, в который зритель входит глазами. Gangnam Style даёт жест, который зритель может присвоить телом. Платформа усиливает именно эту переносимость: образ становится культурно сильным, когда его легко цитировать, копировать и переигрывать.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://blog.youtube/creator-and-artist-stories/10-years-of-youtubes-billion-views-club-psy-gangnam-style/",
+          "locator": "DOCX section sec-6",
+          "support": "YouTube explicitly links global circulation with recognisable dance movements; audience participation is VANSMITHLAB interpretation."
+        },
+        {
+          "source_url": "https://blog.youtube/news-and-events/ytvev/",
+          "locator": "DOCX section sec-6",
+          "support": "YouTube explicitly links global circulation with recognisable dance movements; audience participation is VANSMITHLAB interpretation."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_mv_lemonade_visual",
+      "wording_ru": "Beyoncé движется в противоположную сторону от вирусного фрагмента: не сжимает песню до одного жеста, а расширяет несколько песен до большого экранного пространства. GRAMMY.com описывает Lemonade 2016 года как альбом с цельным визуальным компонентом, созданным несколькими режиссёрами; в материалах о проекте подчёркивается его связь с чёрной культурой, женским опытом, семейной памятью и политическим контекстом. Здесь костюм, архитектура американского Юга, вода, интерьер, ландшафт, причёска, поэзия и телесный жест перестают быть обслуживающими деталями отдельных песен. Они связывают альбом в систему. Один кадр может отсылать не только к конкретному треку, но и к общей эмоциональной и культурной логике произведения. Это важный предел музыкального видео: оно может вырасти настолько, что слово «клип» становится слишком маленьким. Визуальный альбом превращает экран не в упаковку релиза, а в ещё один уровень авторства — способ показать, как песни связаны внутри одного мира.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.grammy.com/news/beyonce-songbook-musical-album-music-video-guide/",
+          "locator": "DOCX section sec-7",
+          "support": "GRAMMY.com records support Lemonade's visual-album form and its multiple directors; the unified-system reading is VANSMITHLAB interpretation."
+        },
+        {
+          "source_url": "https://www.grammy.com/news/beyonce-oral-history/",
+          "locator": "DOCX section sec-7",
+          "support": "GRAMMY.com records support Lemonade's visual-album form and its multiple directors; the unified-system reading is VANSMITHLAB interpretation."
+        },
+        {
+          "source_url": "https://www.grammy.com/news/beyonce-black-is-king-2021-grammys/",
+          "locator": "DOCX section sec-7",
+          "support": "GRAMMY.com records support Lemonade's visual-album form and its multiple directors; the unified-system reading is VANSMITHLAB interpretation."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_mv_lemonade_authorship",
+      "wording_ru": "Beyoncé движется в противоположную сторону от вирусного фрагмента: не сжимает песню до одного жеста, а расширяет несколько песен до большого экранного пространства. GRAMMY.com описывает Lemonade 2016 года как альбом с цельным визуальным компонентом, созданным несколькими режиссёрами; в материалах о проекте подчёркивается его связь с чёрной культурой, женским опытом, семейной памятью и политическим контекстом. Здесь костюм, архитектура американского Юга, вода, интерьер, ландшафт, причёска, поэзия и телесный жест перестают быть обслуживающими деталями отдельных песен. Они связывают альбом в систему. Один кадр может отсылать не только к конкретному треку, но и к общей эмоциональной и культурной логике произведения. Это важный предел музыкального видео: оно может вырасти настолько, что слово «клип» становится слишком маленьким. Визуальный альбом превращает экран не в упаковку релиза, а в ещё один уровень авторства — способ показать, как песни связаны внутри одного мира.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.grammy.com/news/beyonce-songbook-musical-album-music-video-guide/",
+          "locator": "DOCX section sec-7",
+          "support": "GRAMMY.com supports the visual project and cultural context; visual authorship as an additional layer is VANSMITHLAB interpretation."
+        },
+        {
+          "source_url": "https://www.grammy.com/news/beyonce-oral-history/",
+          "locator": "DOCX section sec-7",
+          "support": "GRAMMY.com supports the visual project and cultural context; visual authorship as an additional layer is VANSMITHLAB interpretation."
+        },
+        {
+          "source_url": "https://www.grammy.com/news/beyonce-black-is-king-2021-grammys/",
+          "locator": "DOCX section sec-7",
+          "support": "GRAMMY.com supports the visual project and cultural context; visual authorship as an additional layer is VANSMITHLAB interpretation."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_mv_shorts_fragment",
+      "wording_ru": "Сегодня музыкальное видео существует уже не как один файл, который зритель смотрит от начала до конца. YouTube описывает Shorts как дополнительный путь к музыке, где короткий фрагмент может вести к полной песне, официальному клипу и артисту; в 2024 году платформа добавила инструменты, позволяющие напрямую ремиксовать музыкальные видео в Shorts. TikTok ещё сильнее делает музыку материалом участия. В отчёте TikTok и Luminate о данных 2024 года платформа заявляла, что значительная доля песен, вошедших в Billboard Global 200, ранее становилась вирусной в TikTok; сама компания строит продукт вокруг идеи музыкального discovery и пользовательского воспроизведения треков в собственных видео. Эти цифры принадлежат платформе и должны читаться как её собственные измерения, но направление изменения очевидно: песня распространяется через тысячи чужих изображений, а не только через один официальный клип. Для режиссёра и артиста это создаёт новый парадокс. Нужно придумать сильный целый образ — и одновременно допустить, что аудитория разрежет его на жесты, костюмы, переходы, мемы, крупные планы и десятисекундные фрагменты. Миф больше не контролируется полностью после публикации. Он становится материалом для чужого монтажа.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://blog.youtube/news-and-events/shorts-are-redefining-the-artist-journey/",
+          "locator": "DOCX section sec-8",
+          "support": "YouTube documents Shorts as a music-discovery route and its 2024 music-video remixing tools."
+        },
+        {
+          "source_url": "https://blog.youtube/news-and-events/youtube-shorts-remix/",
+          "locator": "DOCX section sec-8",
+          "support": "YouTube documents Shorts as a music-discovery route and its 2024 music-video remixing tools."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_mv_tiktok_music",
+      "wording_ru": "Сегодня музыкальное видео существует уже не как один файл, который зритель смотрит от начала до конца. YouTube описывает Shorts как дополнительный путь к музыке, где короткий фрагмент может вести к полной песне, официальному клипу и артисту; в 2024 году платформа добавила инструменты, позволяющие напрямую ремиксовать музыкальные видео в Shorts. TikTok ещё сильнее делает музыку материалом участия. В отчёте TikTok и Luminate о данных 2024 года платформа заявляла, что значительная доля песен, вошедших в Billboard Global 200, ранее становилась вирусной в TikTok; сама компания строит продукт вокруг идеи музыкального discovery и пользовательского воспроизведения треков в собственных видео. Эти цифры принадлежат платформе и должны читаться как её собственные измерения, но направление изменения очевидно: песня распространяется через тысячи чужих изображений, а не только через один официальный клип. Для режиссёра и артиста это создаёт новый парадокс. Нужно придумать сильный целый образ — и одновременно допустить, что аудитория разрежет его на жесты, костюмы, переходы, мемы, крупные планы и десятисекундные фрагменты. Миф больше не контролируется полностью после публикации. Он становится материалом для чужого монтажа.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://newsroom.tiktok.com/tiktok-and-luminate-release-the-latest-music-impact-report?lang=en-GB",
+          "locator": "DOCX section sec-8",
+          "support": "TikTok's own newsroom and TikTok/Luminate report support the platform's stated music-discovery and viral-circulation measurements; they are attributed platform data."
+        },
+        {
+          "source_url": "https://newsroom.tiktok.com/tiktok-launches-see-where-music-takes-you/?lang=en",
+          "locator": "DOCX section sec-8",
+          "support": "TikTok's own newsroom and TikTok/Luminate report support the platform's stated music-discovery and viral-circulation measurements; they are attributed platform data."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_mv_conclusion",
+      "wording_ru": "История музыкального видео часто рассказывается как история технологий: промо-фильм, MTV, цифровой монтаж, YouTube, смартфон, Shorts, TikTok, генеративное видео. Но техника объясняет только каналы распространения. Она не объясняет, почему одни образы переживают свои платформы, а другие исчезают вместе с кампанией. Сильный клип создаёт не максимальное количество визуальной информации, а точное сокращение музыки. Thriller — мир. All Is Full of Love — новое тело. Here It Goes Again — физический трюк. Gangnam Style — жест. Lemonade — целая визуальная мифология. Во всех случаях экран даёт звуку форму, которую можно вспомнить без звука. Поэтому клип — не упаковка песни и не обязательная картинка для алгоритма. В своей лучшей форме это машина культурной памяти. Она превращает музыку в лицо, костюм, движение, пространство и символ, а затем отправляет этот символ жить собственной жизнью. Платформы меняются. Миф остаётся, если его можно узнать с одного взгляда.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.loc.gov/item/prn-09-250/",
+          "locator": "DOCX section sec-9",
+          "support": "This conclusion is VANSMITHLAB synthesis across the cited verified examples."
+        },
+        {
+          "source_url": "https://www.moma.org/calendar/exhibitions/4771",
+          "locator": "DOCX section sec-9",
+          "support": "This conclusion is VANSMITHLAB synthesis across the cited verified examples."
+        },
+        {
+          "source_url": "https://okgo.net/2006/07/31/here-it-goes-again-official-video/",
+          "locator": "DOCX section sec-9",
+          "support": "This conclusion is VANSMITHLAB synthesis across the cited verified examples."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_e900cf229b9d4730",
+      "title": "From Mass to Targeted Markets, 1970s–2000s",
+      "publisher": "National Museum of American History, Smithsonian Institution",
+      "url": "https://americanhistory.si.edu/explore/exhibitions/american-enterprise/online/advertising-business/mass-targeted-markets",
+      "source_tier": 1,
+      "accessed_at": "2026-08-13",
+      "url_validation": {
+        "status_code": 200,
+        "status": "confirmed",
+        "checked_via": "Jina Reader fallback",
+        "checked_at": "2026-08-13"
+      }
+    },
+    {
+      "id": "src_a3920122b9bca422",
+      "title": "Fred/Alan MTV Network Advertising Collection",
+      "publisher": "National Museum of American History, Smithsonian Institution",
+      "url": "https://americanhistory.si.edu/collections/archival-collection/sova-nmah-ac-0453",
+      "source_tier": 1,
+      "accessed_at": "2026-08-13",
+      "url_validation": {
+        "status_code": 200,
+        "status": "confirmed",
+        "checked_via": "Jina Reader fallback",
+        "checked_at": "2026-08-13"
+      }
+    },
+    {
+      "id": "src_5f1cd9c522ec41be",
+      "title": "Michael Jackson’s Thriller (1983), National Film Registry description",
+      "publisher": "Library of Congress",
+      "url": "https://www.loc.gov/static/programs/national-film-preservation-board/film-registry/descriptions.html",
+      "source_tier": 1,
+      "accessed_at": "2026-08-13",
+      "url_validation": {
+        "status_code": 200,
+        "status": "confirmed",
+        "checked_via": "Jina Reader fallback",
+        "checked_at": "2026-08-13"
+      }
+    },
+    {
+      "id": "src_383db977d9ee9915",
+      "title": "Michael Jackson, the Muppets and Early Cinema Tapped for Preservation in 2009 Library of Congress National Film Registry",
+      "publisher": "Library of Congress",
+      "url": "https://www.loc.gov/item/prn-09-250/",
+      "source_tier": 1,
+      "accessed_at": "2026-08-13",
+      "url_validation": {
+        "status_code": 200,
+        "status": "confirmed",
+        "checked_via": "Jina Reader fallback",
+        "checked_at": "2026-08-13"
+      }
+    },
+    {
+      "id": "src_ff9d266ffca243c4",
+      "title": "Chris Cunningham",
+      "publisher": "The Museum of Modern Art",
+      "url": "https://www.moma.org/calendar/exhibitions/4771",
+      "source_tier": 1,
+      "accessed_at": "2026-08-13",
+      "url_validation": {
+        "status_code": 200,
+        "status": "confirmed",
+        "checked_via": "Jina Reader fallback",
+        "checked_at": "2026-08-13"
+      }
+    },
+    {
+      "id": "src_580af400c3ac94d7",
+      "title": "Björk exhibition",
+      "publisher": "The Museum of Modern Art",
+      "url": "https://www.moma.org/calendar/exhibitions/1458",
+      "source_tier": 1,
+      "accessed_at": "2026-08-13",
+      "url_validation": {
+        "status_code": 200,
+        "status": "confirmed",
+        "checked_via": "Jina Reader fallback",
+        "checked_at": "2026-08-13"
+      }
+    },
+    {
+      "id": "src_f7a2b9f47b724fe7",
+      "title": "Here It Goes Again",
+      "publisher": "OK Go official website",
+      "url": "https://okgo.net/2006/07/31/here-it-goes-again-official-video/",
+      "source_tier": 1,
+      "accessed_at": "2026-08-13",
+      "url_validation": {
+        "status_code": 200,
+        "status": "confirmed",
+        "checked_via": "Jina Reader fallback",
+        "checked_at": "2026-08-13"
+      }
+    },
+    {
+      "id": "src_e10ff4410d6f3d50",
+      "title": "Psy’s Gangnam Style: Celebrating 10 Years of YouTube’s Billion Views Club",
+      "publisher": "YouTube Blog",
+      "url": "https://blog.youtube/creator-and-artist-stories/10-years-of-youtubes-billion-views-club-psy-gangnam-style/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13",
+      "url_validation": {
+        "status_code": 200,
+        "status": "confirmed",
+        "checked_via": "Jina Reader fallback",
+        "checked_at": "2026-08-13"
+      }
+    },
+    {
+      "id": "src_ad2f6f16565cb38d",
+      "title": "Gangnam Style Makes YouTube History: First Video to Hit 1 Billion Views",
+      "publisher": "YouTube Blog",
+      "url": "https://blog.youtube/news-and-events/ytvev/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13",
+      "url_validation": {
+        "status_code": 200,
+        "status": "confirmed",
+        "checked_via": "Jina Reader fallback",
+        "checked_at": "2026-08-13"
+      }
+    },
+    {
+      "id": "src_a726e44ef2c786b7",
+      "title": "Songbook: The Complete Guide To Beyoncé’s Albums, Visuals & Performances That Made Her A Cultural Force",
+      "publisher": "Recording Academy / GRAMMY.com",
+      "url": "https://www.grammy.com/news/beyonce-songbook-musical-album-music-video-guide/",
+      "source_tier": 1,
+      "accessed_at": "2026-08-13",
+      "url_validation": {
+        "status_code": 200,
+        "status": "confirmed",
+        "checked_via": "Jina Reader fallback",
+        "checked_at": "2026-08-13"
+      }
+    },
+    {
+      "id": "src_b089345158229fa6",
+      "title": "Beyoncé’s Lemonade: Jack White, James Blake And Others Detail The Album’s Key Ingredients",
+      "publisher": "Recording Academy / GRAMMY.com",
+      "url": "https://www.grammy.com/news/beyonce-oral-history/",
+      "source_tier": 1,
+      "accessed_at": "2026-08-13",
+      "url_validation": {
+        "status_code": 200,
+        "status": "confirmed",
+        "checked_via": "Jina Reader fallback",
+        "checked_at": "2026-08-13"
+      }
+    },
+    {
+      "id": "src_2102193d493a474a",
+      "title": "Inside The Visual World Of Beyoncé And Black Is King, Her Love Letter To Black Men",
+      "publisher": "Recording Academy / GRAMMY.com",
+      "url": "https://www.grammy.com/news/beyonce-black-is-king-2021-grammys/",
+      "source_tier": 1,
+      "accessed_at": "2026-08-13",
+      "url_validation": {
+        "status_code": 200,
+        "status": "confirmed",
+        "checked_via": "Jina Reader fallback",
+        "checked_at": "2026-08-13"
+      }
+    },
+    {
+      "id": "src_483bb46c1e52b0c1",
+      "title": "Shorts are redefining the artist journey on YouTube",
+      "publisher": "YouTube Blog",
+      "url": "https://blog.youtube/news-and-events/shorts-are-redefining-the-artist-journey/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13",
+      "url_validation": {
+        "status_code": 200,
+        "status": "confirmed",
+        "checked_via": "Jina Reader fallback",
+        "checked_at": "2026-08-13"
+      }
+    },
+    {
+      "id": "src_ba95443460bd9716",
+      "title": "It’s Time for the Remix: How to remix your favorite music videos on Shorts",
+      "publisher": "YouTube Blog",
+      "url": "https://blog.youtube/news-and-events/youtube-shorts-remix/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13",
+      "url_validation": {
+        "status_code": 200,
+        "status": "confirmed",
+        "checked_via": "Jina Reader fallback",
+        "checked_at": "2026-08-13"
+      }
+    },
+    {
+      "id": "src_95d5f8fccf3eeaf7",
+      "title": "TikTok and Luminate release the latest Music Impact Report",
+      "publisher": "TikTok Newsroom",
+      "url": "https://newsroom.tiktok.com/tiktok-and-luminate-release-the-latest-music-impact-report?lang=en-GB",
+      "source_tier": 1,
+      "accessed_at": "2026-08-13",
+      "url_validation": {
+        "status_code": 200,
+        "status": "confirmed",
+        "checked_via": "Jina Reader fallback",
+        "checked_at": "2026-08-13"
+      }
+    },
+    {
+      "id": "src_001c7f7d60eb51b8",
+      "title": "TikTok Launches See Where Music Takes You, A New Campaign Built To Celebrate Music Discovery",
+      "publisher": "TikTok Newsroom",
+      "url": "https://newsroom.tiktok.com/tiktok-launches-see-where-music-takes-you/?lang=en",
+      "source_tier": 1,
+      "accessed_at": "2026-08-13",
+      "url_validation": {
+        "status_code": 200,
+        "status": "confirmed",
+        "checked_via": "Jina Reader fallback",
+        "checked_at": "2026-08-13"
+      }
+    },
+    {
+      "id": "src_b0acf962a8bc3d26",
+      "title": "New Official Artist Channels provide a single destination for artists and fans to connect",
+      "publisher": "YouTube Blog",
+      "url": "https://blog.youtube/news-and-events/new-official-artist-channels-provide/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13",
+      "url_validation": {
+        "status_code": 200,
+        "status": "confirmed",
+        "checked_via": "Jina Reader fallback",
+        "checked_at": "2026-08-13"
+      }
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_mv_01_01",
+      "claim_id": "clm_mv_opening",
+      "source_id": "src_e900cf229b9d4730",
+      "locator": "DOCX section short-answer",
+      "support": "MTV, Library of Congress and MoMA sources support the historical examples; the compact-visual-memory conclusion is VANSMITHLAB's synthesis."
+    },
+    {
+      "id": "cit_mv_01_02",
+      "claim_id": "clm_mv_opening",
+      "source_id": "src_a3920122b9bca422",
+      "locator": "DOCX section short-answer",
+      "support": "MTV, Library of Congress and MoMA sources support the historical examples; the compact-visual-memory conclusion is VANSMITHLAB's synthesis."
+    },
+    {
+      "id": "cit_mv_01_03",
+      "claim_id": "clm_mv_opening",
+      "source_id": "src_383db977d9ee9915",
+      "locator": "DOCX section short-answer",
+      "support": "MTV, Library of Congress and MoMA sources support the historical examples; the compact-visual-memory conclusion is VANSMITHLAB's synthesis."
+    },
+    {
+      "id": "cit_mv_02_01",
+      "claim_id": "clm_mv_mtv_1981",
+      "source_id": "src_e900cf229b9d4730",
+      "locator": "DOCX section sec-2",
+      "support": "Smithsonian sources document the targeted-market context and the Fred/Alan MTV Network Advertising Collection."
+    },
+    {
+      "id": "cit_mv_02_02",
+      "claim_id": "clm_mv_mtv_1981",
+      "source_id": "src_a3920122b9bca422",
+      "locator": "DOCX section sec-2",
+      "support": "Smithsonian sources document the targeted-market context and the Fred/Alan MTV Network Advertising Collection."
+    },
+    {
+      "id": "cit_mv_03_01",
+      "claim_id": "clm_mv_mtv_aesthetic",
+      "source_id": "src_e900cf229b9d4730",
+      "locator": "DOCX section sec-2",
+      "support": "The cited Smithsonian material supports MTV's deliberately designed youth-media identity; the screen-sign-system reading is VANSMITHLAB interpretation."
+    },
+    {
+      "id": "cit_mv_03_02",
+      "claim_id": "clm_mv_mtv_aesthetic",
+      "source_id": "src_a3920122b9bca422",
+      "locator": "DOCX section sec-2",
+      "support": "The cited Smithsonian material supports MTV's deliberately designed youth-media identity; the screen-sign-system reading is VANSMITHLAB interpretation."
+    },
+    {
+      "id": "cit_mv_04_01",
+      "claim_id": "clm_mv_thriller_nfr",
+      "source_id": "src_5f1cd9c522ec41be",
+      "locator": "DOCX section sec-3",
+      "support": "Library of Congress documents Thriller's 1983 work, 13-minute scale, 35-mm exhibition interest and 2009 National Film Registry selection."
+    },
+    {
+      "id": "cit_mv_04_02",
+      "claim_id": "clm_mv_thriller_nfr",
+      "source_id": "src_383db977d9ee9915",
+      "locator": "DOCX section sec-3",
+      "support": "Library of Congress documents Thriller's 1983 work, 13-minute scale, 35-mm exhibition interest and 2009 National Film Registry selection."
+    },
+    {
+      "id": "cit_mv_05_01",
+      "claim_id": "clm_mv_thriller_interpretation",
+      "source_id": "src_5f1cd9c522ec41be",
+      "locator": "DOCX section sec-3",
+      "support": "Library of Congress supports the work's preservation context; its cultural-memory reading is VANSMITHLAB interpretation."
+    },
+    {
+      "id": "cit_mv_05_02",
+      "claim_id": "clm_mv_thriller_interpretation",
+      "source_id": "src_383db977d9ee9915",
+      "locator": "DOCX section sec-3",
+      "support": "Library of Congress supports the work's preservation context; its cultural-memory reading is VANSMITHLAB interpretation."
+    },
+    {
+      "id": "cit_mv_06_01",
+      "claim_id": "clm_mv_bjork_cunningham",
+      "source_id": "src_ff9d266ffca243c4",
+      "locator": "DOCX section sec-4",
+      "support": "MoMA exhibition records support the 1999 work and its Cunningham/Björk context; the symbolic-body reading is VANSMITHLAB interpretation."
+    },
+    {
+      "id": "cit_mv_06_02",
+      "claim_id": "clm_mv_bjork_cunningham",
+      "source_id": "src_580af400c3ac94d7",
+      "locator": "DOCX section sec-4",
+      "support": "MoMA exhibition records support the 1999 work and its Cunningham/Björk context; the symbolic-body reading is VANSMITHLAB interpretation."
+    },
+    {
+      "id": "cit_mv_07_01",
+      "claim_id": "clm_mv_okgo_official",
+      "source_id": "src_f7a2b9f47b724fe7",
+      "locator": "DOCX section sec-5",
+      "support": "OK Go's official video page establishes Here It Goes Again as an item in the group's own videography."
+    },
+    {
+      "id": "cit_mv_08_01",
+      "claim_id": "clm_mv_gangnam_billion",
+      "source_id": "src_e10ff4410d6f3d50",
+      "locator": "DOCX section sec-6",
+      "support": "YouTube's official posts document the 15 July 2012 release and the first-one-billion-views milestone on 21 December 2012."
+    },
+    {
+      "id": "cit_mv_08_02",
+      "claim_id": "clm_mv_gangnam_billion",
+      "source_id": "src_ad2f6f16565cb38d",
+      "locator": "DOCX section sec-6",
+      "support": "YouTube's official posts document the 15 July 2012 release and the first-one-billion-views milestone on 21 December 2012."
+    },
+    {
+      "id": "cit_mv_09_01",
+      "claim_id": "clm_mv_gangnam_gesture",
+      "source_id": "src_e10ff4410d6f3d50",
+      "locator": "DOCX section sec-6",
+      "support": "YouTube explicitly links global circulation with recognisable dance movements; audience participation is VANSMITHLAB interpretation."
+    },
+    {
+      "id": "cit_mv_09_02",
+      "claim_id": "clm_mv_gangnam_gesture",
+      "source_id": "src_ad2f6f16565cb38d",
+      "locator": "DOCX section sec-6",
+      "support": "YouTube explicitly links global circulation with recognisable dance movements; audience participation is VANSMITHLAB interpretation."
+    },
+    {
+      "id": "cit_mv_10_01",
+      "claim_id": "clm_mv_lemonade_visual",
+      "source_id": "src_a726e44ef2c786b7",
+      "locator": "DOCX section sec-7",
+      "support": "GRAMMY.com records support Lemonade's visual-album form and its multiple directors; the unified-system reading is VANSMITHLAB interpretation."
+    },
+    {
+      "id": "cit_mv_10_02",
+      "claim_id": "clm_mv_lemonade_visual",
+      "source_id": "src_b089345158229fa6",
+      "locator": "DOCX section sec-7",
+      "support": "GRAMMY.com records support Lemonade's visual-album form and its multiple directors; the unified-system reading is VANSMITHLAB interpretation."
+    },
+    {
+      "id": "cit_mv_10_03",
+      "claim_id": "clm_mv_lemonade_visual",
+      "source_id": "src_2102193d493a474a",
+      "locator": "DOCX section sec-7",
+      "support": "GRAMMY.com records support Lemonade's visual-album form and its multiple directors; the unified-system reading is VANSMITHLAB interpretation."
+    },
+    {
+      "id": "cit_mv_11_01",
+      "claim_id": "clm_mv_lemonade_authorship",
+      "source_id": "src_a726e44ef2c786b7",
+      "locator": "DOCX section sec-7",
+      "support": "GRAMMY.com supports the visual project and cultural context; visual authorship as an additional layer is VANSMITHLAB interpretation."
+    },
+    {
+      "id": "cit_mv_11_02",
+      "claim_id": "clm_mv_lemonade_authorship",
+      "source_id": "src_b089345158229fa6",
+      "locator": "DOCX section sec-7",
+      "support": "GRAMMY.com supports the visual project and cultural context; visual authorship as an additional layer is VANSMITHLAB interpretation."
+    },
+    {
+      "id": "cit_mv_11_03",
+      "claim_id": "clm_mv_lemonade_authorship",
+      "source_id": "src_2102193d493a474a",
+      "locator": "DOCX section sec-7",
+      "support": "GRAMMY.com supports the visual project and cultural context; visual authorship as an additional layer is VANSMITHLAB interpretation."
+    },
+    {
+      "id": "cit_mv_12_01",
+      "claim_id": "clm_mv_shorts_fragment",
+      "source_id": "src_483bb46c1e52b0c1",
+      "locator": "DOCX section sec-8",
+      "support": "YouTube documents Shorts as a music-discovery route and its 2024 music-video remixing tools."
+    },
+    {
+      "id": "cit_mv_12_02",
+      "claim_id": "clm_mv_shorts_fragment",
+      "source_id": "src_ba95443460bd9716",
+      "locator": "DOCX section sec-8",
+      "support": "YouTube documents Shorts as a music-discovery route and its 2024 music-video remixing tools."
+    },
+    {
+      "id": "cit_mv_13_01",
+      "claim_id": "clm_mv_tiktok_music",
+      "source_id": "src_95d5f8fccf3eeaf7",
+      "locator": "DOCX section sec-8",
+      "support": "TikTok's own newsroom and TikTok/Luminate report support the platform's stated music-discovery and viral-circulation measurements; they are attributed platform data."
+    },
+    {
+      "id": "cit_mv_13_02",
+      "claim_id": "clm_mv_tiktok_music",
+      "source_id": "src_001c7f7d60eb51b8",
+      "locator": "DOCX section sec-8",
+      "support": "TikTok's own newsroom and TikTok/Luminate report support the platform's stated music-discovery and viral-circulation measurements; they are attributed platform data."
+    },
+    {
+      "id": "cit_mv_14_01",
+      "claim_id": "clm_mv_conclusion",
+      "source_id": "src_383db977d9ee9915",
+      "locator": "DOCX section sec-9",
+      "support": "This conclusion is VANSMITHLAB synthesis across the cited verified examples."
+    },
+    {
+      "id": "cit_mv_14_02",
+      "claim_id": "clm_mv_conclusion",
+      "source_id": "src_ff9d266ffca243c4",
+      "locator": "DOCX section sec-9",
+      "support": "This conclusion is VANSMITHLAB synthesis across the cited verified examples."
+    },
+    {
+      "id": "cit_mv_14_03",
+      "claim_id": "clm_mv_conclusion",
+      "source_id": "src_f7a2b9f47b724fe7",
+      "locator": "DOCX section sec-9",
+      "support": "This conclusion is VANSMITHLAB synthesis across the cited verified examples."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "media_state": "editorially_selected",
+  "workflow": {
+    "decision": "AUTO_APPROVE",
+    "note": "All material claims have 1–3 traceable citations and passed the 0.85 evidence threshold. URL checks accept 403 only when the documented anti-bot response still confirms the referenced source route.",
+    "url_validation_summary": {
+      "confirmed": 17,
+      "anti_bot_confirmed": 0,
+      "needs_manual_recheck": 0
+    },
+    "converted_by": "VANSMITHLAB publication-artifact workflow",
+    "converted_at": "2026-08-13T00:00:00.000Z"
+  }
+}

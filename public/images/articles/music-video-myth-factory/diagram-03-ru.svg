@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title-03 desc-03">
+<title id="title-03">BJÖRK + CUNNINGHAM: НОВОЕ ТЕЛО</title><desc id="desc-03">All Is Full of Love: экран не фиксирует персону, а конструирует её образ.</desc>
+<rect width="1600" height="900" fill="#f2eee6"/>
+<defs><pattern id="grid" width="80" height="80" patternUnits="userSpaceOnUse"><path d="M80 0H0V80" fill="none" stroke="#ded7ca" stroke-width="1"/></pattern></defs>
+<rect x="40" y="40" width="1520" height="820" fill="url(#grid)" opacity=".46"/>
+<rect x="40" y="40" width="1520" height="820" rx="0" fill="none" stroke="#171716" stroke-width="2"/>
+<text x="78" y="96" fill="#c84a31" text-anchor="start" font-family="monospace" font-size="15" font-weight="500" letter-spacing="2">VANSMITHLAB / ANALYSIS / 03</text>
+<text x="78" y="170" fill="#171716" text-anchor="start" font-family="Georgia" font-size="44" font-weight="500" letter-spacing="0">BJÖRK + CUNNINGHAM: НОВОЕ ТЕЛО</text>
+<line x1="78" y1="202" x2="1522" y2="202" stroke="#171716" stroke-width="2"/>
+<text x="78" y="824" fill="#777167" text-anchor="start" font-family="Arial" font-size="18" font-weight="500" letter-spacing="0">All Is Full of Love: экран не фиксирует персону, а конструирует её образ.</text>
+<circle cx="265" cy="440" r="90" fill="#fbf8f1" stroke="#171716" stroke-width="3"/>
+<text x="265" y="590" fill="#171716" text-anchor="middle" font-family="monospace" font-size="15" font-weight="700" letter-spacing="0">ГОЛОС</text>
+<line x1="355" y1="440" x2="415" y2="440" stroke="#c84a31" stroke-width="4"/>
+<circle cx="615" cy="440" r="90" fill="#dce5e9" stroke="#171716" stroke-width="3"/>
+<text x="615" y="590" fill="#171716" text-anchor="middle" font-family="monospace" font-size="15" font-weight="700" letter-spacing="0">МАШИНА</text>
+<line x1="705" y1="440" x2="765" y2="440" stroke="#c84a31" stroke-width="4"/>
+<circle cx="965" cy="440" r="90" fill="#ead3ca" stroke="#171716" stroke-width="3"/>
+<text x="965" y="590" fill="#171716" text-anchor="middle" font-family="monospace" font-size="15" font-weight="700" letter-spacing="0">НЕЖНОСТЬ</text>
+<line x1="1055" y1="440" x2="1115" y2="440" stroke="#c84a31" stroke-width="4"/>
+<circle cx="1315" cy="440" r="90" fill="#fbf8f1" stroke="#171716" stroke-width="3"/>
+<text x="1315" y="590" fill="#171716" text-anchor="middle" font-family="monospace" font-size="15" font-weight="700" letter-spacing="0">СИМВОЛИЧЕСКОЕ ТЕЛО</text>
+<path d="M220 500 Q265 355 310 500" fill="none" stroke="#171716" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="615" cy="420" r="34" fill="#171716" stroke="#171716" stroke-width="2"/>
+<path d="M570 510 Q615 450 660 510" fill="none" stroke="#171716" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="965" cy="420" r="34" fill="#c84a31" stroke="#c84a31" stroke-width="2"/>
+<path d="M920 510 Q965 450 1010 510" fill="none" stroke="#c84a31" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="1315" cy="420" r="34" fill="#284e78" stroke="#284e78" stroke-width="2"/>
+</svg>

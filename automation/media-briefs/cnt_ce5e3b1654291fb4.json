@@ -1,10 +1,10 @@
 {
-  "asset_id": "asset_f29824601d5ddfa6",
+  "asset_id": "asset_fashion-house-system-hero-v1_hero_v1",
   "primary_object_id": "obj_8d7964c0bc395b1f",
   "content_release_id": "cnt_ce5e3b1654291fb4",
   "kind": "image",
   "origin": "ai_illustration",
-  "locale": "ru",
+  "locale": "multilingual",
   "educational_purpose": "Explain the transition from atelier to fashion-house system without acting as documentary evidence",
   "may_depict": [
     "An anonymous atelier mannequin and toile",
@@ -21,9 +21,23 @@
     "disclosure": "VANSMITHLAB · AI illustration, 2026"
   },
   "accessibility": {
-    "alt_text": "Концептуальный натюрморт: манекен с макетной тканью переходит в календарную сетку, музейную витрину и сеть лицензионных связей.",
-    "caption": "От ателье к системе: авторство, календарь, культурная память и лицензирование."
+    "alt_text_ru": "Концептуальный натюрморт: манекен с макетной тканью переходит в календарную сетку, музейную витрину и сеть лицензионных связей.",
+    "alt_text_en": "A conceptual still life in which a dress form and toile become a calendar grid, museum display, and network of licensing connections.",
+    "caption_ru": "От ателье к системе: авторство, календарь, культурная память и лицензирование.",
+    "caption_en": "From atelier to system: authorship, calendar, cultural memory, and licensing."
   },
   "asset_path": "public/images/articles/fashion-house-system-hero-v1.webp",
-  "workflow_run_id": "editorial_revision_20260805"
+  "workflow_run_id": "run_20260812_media_rights_repair",
+  "content_release_ids": [
+    "cnt_ce5e3b1654291fb4",
+    "cnt_ce5e3b1654291fb4"
+  ],
+  "rights_state": "generated_reviewed",
+  "licence_or_permission": "Original AI illustration generated for VANSMITHLAB without source images or copied brand assets. It is not documentary evidence.",
+  "source_url": "",
+  "creator_or_credit": "OpenAI image generation · directed and reviewed by VANSMITHLAB",
+  "created_at": "2026-08-12",
+  "file_storage_key": "public/images/articles/fashion-house-system-hero-v1.webp",
+  "content_hash": "8d4014a291ac6e03de31fccdadcefc70a516f0bbf897895d13ff3c8440d4b232",
+  "disclosure": "VANSMITHLAB · AI-иллюстрация, 2026"
 }

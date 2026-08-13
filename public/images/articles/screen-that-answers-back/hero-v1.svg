@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img">
+<rect width="1600" height="900" fill="#f2eee6"/>
+<defs>
+<pattern id="grid" width="80" height="80" patternUnits="userSpaceOnUse"><path d="M80 0H0V80" fill="none" stroke="#ded7ca" stroke-width="1"/></pattern>
+</defs>
+<rect x="40" y="40" width="1520" height="820" fill="url(#grid)" opacity=".46"/>
+<rect x="40" y="40" width="1520" height="820" rx="0" fill="none" stroke="#171716" stroke-width="2"/>
+<text x="78" y="96" fill="#c84a31" text-anchor="start" font-family="monospace" font-size="15" font-weight="500" letter-spacing="2">VANSMITHLAB / ANALYSIS / INTERFACE-005</text>
+<text x="78" y="170" fill="#171716" text-anchor="start" font-family="Georgia" font-size="52" font-weight="500" letter-spacing="0">THE SCREEN THAT ANSWERS BACK</text>
+<line x1="78" y1="202" x2="1522" y2="202" stroke="#171716" stroke-width="2"/>
+
+<!-- behavioural loop: circular arrows -->
+<circle cx="800" cy="520" r="255" fill="none" stroke="#ded7ca" stroke-width="3"/>
+<circle cx="800" cy="520" r="255" fill="none" stroke="#284e78" stroke-width="3" stroke-dasharray="12 16" opacity=".6"/>
+
+<!-- top: gaze / eye -->
+<g>
+<path d="M690 300 Q800 240 910 300 Q800 360 690 300 Z" fill="#fbf8f1" stroke="#171716" stroke-width="3"/>
+<circle cx="800" cy="300" r="34" fill="#c84a31"/>
+<circle cx="800" cy="300" r="14" fill="#171716"/>
+<circle cx="794" cy="294" r="5" fill="#fbf8f1"/>
+<text x="800" y="212" fill="#777167" text-anchor="middle" font-family="monospace" font-size="16" letter-spacing="2">GAZE</text>
+</g>
+
+<!-- right: cursor -->
+<g>
+<rect x="930" y="420" width="130" height="92" rx="8" fill="#171716"/>
+<rect x="940" y="430" width="110" height="72" rx="4" fill="#fbf8f1"/>
+<path d="M986 462 L1012 474 L1000 482 L1012 492 L1002 496 L990 486 L986 498 Z" fill="#c84a31"/>
+<line x1="1088" y1="466" x2="1138" y2="466" stroke="#c84a31" stroke-width="4"/>
+<path d="M1130 452 L1146 466 L1130 480" fill="none" stroke="#c84a31" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="1030" y="580" fill="#777167" text-anchor="middle" font-family="monospace" font-size="16" letter-spacing="2">CURSOR</text>
+</g>
+
+<!-- bottom: touch -->
+<g>
+<circle cx="800" cy="700" r="58" fill="#ead3ca" stroke="#171716" stroke-width="3"/>
+<rect x="776" y="600" width="24" height="70" rx="12" fill="#fbf8f1" stroke="#171716" stroke-width="3"/>
+<circle cx="788" cy="608" r="5" fill="#171716"/>
+<path d="M700 700 Q660 700 650 720 Q640 748 678 758" fill="none" stroke="#c84a31" stroke-width="4"/>
+<path d="M900 700 Q940 700 950 720 Q960 748 922 758" fill="none" stroke="#c84a31" stroke-width="4"/>
+<text x="800" y="800" fill="#777167" text-anchor="middle" font-family="monospace" font-size="16" letter-spacing="2">TOUCH</text>
+</g>
+
+<!-- left: state / response -->
+<g>
+<rect x="610" y="420" width="130" height="92" rx="8" fill="#171716"/>
+<rect x="620" y="430" width="110" height="72" rx="4" fill="#dce5e9"/>
+<path d="M635 470 L668 470 L680 448 L694 492 L706 466 L726 470" fill="none" stroke="#171716" stroke-width="3"/>
+<path d="M700 466 Q690 452 700 440" fill="none" stroke="#c84a31" stroke-width="4" stroke-linecap="round"/>
+<text x="670" y="580" fill="#777167" text-anchor="middle" font-family="monospace" font-size="16" letter-spacing="2">STATE</text>
+</g>
+
+<!-- connecting arrows -->
+<path d="M800 640 Q890 750 1030 700" fill="none" stroke="#c84a31" stroke-width="4" stroke-linecap="round"/>
+<path d="M1030 600 Q1120 500 1040 410" fill="none" stroke="#c84a31" stroke-width="4" stroke-linecap="round"/>
+<path d="M910 360 Q950 300 900 250" fill="none" stroke="#c84a31" stroke-width="4" stroke-linecap="round"/>
+<path d="M690 260 Q640 330 660 400" fill="none" stroke="#c84a31" stroke-width="4" stroke-linecap="round"/>
+<path d="M670 630 Q700 670 740 700" fill="none" stroke="#c84a31" stroke-width="4" stroke-linecap="round"/>
+
+<text x="78" y="824" fill="#777167" text-anchor="start" font-family="Arial" font-size="19" font-weight="400" letter-spacing="0">Gaze, cursor, touch, state and system response as one behavioural loop</text>
+</svg>

@@ -1,0 +1,49 @@
+{
+  "content_id": "cnt_bf8a92e85ece1e6a",
+  "primary_object_id": "obj_visionaire_magazine_20260812",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "verified",
+  "confidence_score": 0.86,
+  "claim_ids": [
+    "obj_visionaire_magazine_20260812_c1",
+    "obj_visionaire_magazine_20260812_c2"
+  ],
+  "source_ids": [
+    "obj_visionaire_magazine_20260812_s1",
+    "obj_visionaire_magazine_20260812_s2"
+  ],
+  "last_reviewed": "2026-08-12",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "visionaire-limited-edition-publication-magazine-as-object",
+  "title": "Visionaire — Limited Edition Publishing and the Magazine as Object",
+  "summary": "The magazine as object: limited edition, material, packaging, collecting, fashion and art.",
+  "discipline": [
+    "graphic-design",
+    "fashion",
+    "photography",
+    "media-publishing"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "1234652abea4a7bbb25a0f6883c663b9c572d09ae050c11ed832c18fe8301cd5",
+  "translation": {
+    "semantic_validated": true,
+    "source_locale": "ru"
+  },
+  "hero_image": {
+    "src": "/images/articles/visionaire-limited-edition-publication-magazine-as-object-hero-v2.webp",
+    "alt": "Visionaire as magazine-object: experimental boxes, translucent sheets, foil and material samples on an editor’s table.",
+    "caption": "Original editorial illustration of Visionaire as a material, collectible publication.",
+    "credit": "VANSMITHLAB",
+    "origin": "ai_illustration",
+    "rights_status": "generated_reviewed",
+    "content_hash": "733c2c288a2848241f538107933ac39f58cb04354bfbdde2e9bf2b8e141d25ef",
+    "asset_id": "asset_visionaire-limited-edition-publication-magazine-as-object_hero_v2",
+    "width": 1536,
+    "height": 1024
+  }
+}

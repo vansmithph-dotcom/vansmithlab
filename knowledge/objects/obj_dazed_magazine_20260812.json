@@ -1,0 +1,109 @@
+{
+  "id": "obj_dazed_magazine_20260812",
+  "type": "organization",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Dazed",
+  "title_en": "Dazed",
+  "slug_ru": "dazed-youth-culture-provocation-magazine-future-laboratory",
+  "slug_en": "dazed-youth-culture-provocation-magazine-future-laboratory",
+  "summary_ru": "Молодёжная культура, провокация и журнал как лаборатория",
+  "summary_en": "Молодёжная культура, провокация и журнал как лаборатория",
+  "verification_state": "verified",
+  "confidence_score": 0.86,
+  "created_at": "2026-08-12T00:00:00.000Z",
+  "updated_at": "2026-08-12T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "obj_dazed_magazine_20260812_c1",
+      "wording_ru": "Dazed сформировал самостоятельную редакционную систему на пересечении моды, фотографии и культуры.",
+      "claim_type": "descriptive",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.86,
+      "evidence": [
+        {
+          "source_url": "https://www.dazeddigital.com/about",
+          "locator": "About",
+          "support": "Подтверждает профиль и редакционную роль издания."
+        },
+        {
+          "source_url": "https://www.theguardian.com/media/2012/sep/26/dazed-confused-rod-stanley",
+          "locator": "publication record",
+          "support": "Подтверждает историю и культурное значение издания."
+        }
+      ]
+    },
+    {
+      "id": "obj_dazed_magazine_20260812_c2",
+      "wording_ru": "Dazed рассматривает журнал как носитель, где материальная форма и способ публикации являются частью содержания.",
+      "claim_type": "descriptive",
+      "material": true,
+      "verification_state": "verified",
+      "confidence_score": 0.86,
+      "evidence": [
+        {
+          "source_url": "https://www.dazeddigital.com/about",
+          "locator": "About",
+          "support": "Подтверждает издательскую модель."
+        },
+        {
+          "source_url": "https://www.theguardian.com/media/2012/sep/26/dazed-confused-rod-stanley",
+          "locator": "book or history record",
+          "support": "Подтверждает материальный и исторический контекст."
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "obj_dazed_magazine_20260812_s1",
+      "title": "Dazed — About",
+      "url": "https://www.dazeddigital.com/about",
+      "publisher": "Dazed Media",
+      "source_tier": 1,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "obj_dazed_magazine_20260812_s2",
+      "title": "Dazed — History and publication record",
+      "url": "https://www.theguardian.com/media/2012/sep/26/dazed-confused-rod-stanley",
+      "publisher": "The Guardian",
+      "source_tier": 1,
+      "accessed_at": "2026-08-12"
+    }
+  ],
+  "citations": [
+    {
+      "id": "obj_dazed_magazine_20260812_c1_cit0",
+      "claim_id": "obj_dazed_magazine_20260812_c1",
+      "source_id": "obj_dazed_magazine_20260812_s1",
+      "locator": "About",
+      "support": "Подтверждает профиль и редакционную роль издания."
+    },
+    {
+      "id": "obj_dazed_magazine_20260812_c1_cit1",
+      "claim_id": "obj_dazed_magazine_20260812_c1",
+      "source_id": "obj_dazed_magazine_20260812_s2",
+      "locator": "publication record",
+      "support": "Подтверждает историю и культурное значение издания."
+    },
+    {
+      "id": "obj_dazed_magazine_20260812_c2_cit0",
+      "claim_id": "obj_dazed_magazine_20260812_c2",
+      "source_id": "obj_dazed_magazine_20260812_s1",
+      "locator": "About",
+      "support": "Подтверждает издательскую модель."
+    },
+    {
+      "id": "obj_dazed_magazine_20260812_c2_cit1",
+      "claim_id": "obj_dazed_magazine_20260812_c2",
+      "source_id": "obj_dazed_magazine_20260812_s2",
+      "locator": "book or history record",
+      "support": "Подтверждает материальный и исторический контекст."
+    }
+  ],
+  "relations": [],
+  "contradictions": []
+}

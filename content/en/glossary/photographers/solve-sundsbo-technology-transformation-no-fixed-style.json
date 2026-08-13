@@ -47,5 +47,47 @@
   "role": [
     "photographer"
   ],
-  "body_hash": "853d9285bb06eb5933a1f00533723e8a869e3679dac7803bb7dfef41bb7cfd65"
+  "body_hash": "853d9285bb06eb5933a1f00533723e8a869e3679dac7803bb7dfef41bb7cfd65",
+  "hero_image": {
+    "src": "/images/glossary/photographers/solve-sundsbo-technology-transformation-no-fixed-style-hero-v2-card.webp",
+    "asset_id": "asset_solve-sundsbo-technology-transformation-no-fixed-style_hero_v2",
+    "primary_object_id": "",
+    "content_release_id": "cnt_d85fa8c33ae2cdc5",
+    "kind": "image",
+    "locale": "en",
+    "content_hash": "44a8436b1644ce7419be6ccb3a5629072a3824694d804f5ae54c764b892f17ff",
+    "file_storage_key": "public/images/glossary/photographers/solve-sundsbo-technology-transformation-no-fixed-style-hero-v2-card.webp",
+    "creator_or_credit": "OpenAI image generation · directed and reviewed by VANSMITHLAB",
+    "rights_state": "generated_reviewed",
+    "licence_or_permission": "Original AI editorial illustration generated for VANSMITHLAB without source images or copied brand assets; not documentary evidence.",
+    "source_url": "",
+    "created_at": "2026-08-12",
+    "alt": "Editorial photographic illustration of Sølve Sundsbø’s method: controlled light, digital transformation and a mutable form.",
+    "alt_text": "Editorial photographic illustration of Sølve Sundsbø’s method: controlled light, digital transformation and a mutable form.",
+    "caption": "Technology is shown as a way to change the boundaries of the photographic image, not as a decorative effect. AI illustration, not documentary photography.",
+    "credit": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "generated_reviewed"
+  },
+  "portrait_image": {
+    "src": "/images/glossary/photographers/solve-sundsbo-technology-transformation-no-fixed-style-portrait-ai-v1.webp",
+    "asset_id": "asset_solve-sundsbo-technology-transformation-no-fixed-style_portrait_v1",
+    "primary_object_id": "",
+    "content_release_id": "cnt_d85fa8c33ae2cdc5",
+    "kind": "image",
+    "locale": "en",
+    "content_hash": "5779c2f332408de5f71d5cde08c36987ef48a7fd3fa54acc241afab2bf9d6b72",
+    "file_storage_key": "public/images/glossary/photographers/solve-sundsbo-technology-transformation-no-fixed-style-portrait-ai-v1.webp",
+    "creator_or_credit": "OpenAI image generation · directed and reviewed by VANSMITHLAB",
+    "rights_state": "generated_reviewed",
+    "licence_or_permission": "Original AI portrait reconstruction generated for VANSMITHLAB without copying a specific protected photograph; not documentary evidence.",
+    "source_url": "",
+    "created_at": "2026-08-12",
+    "alt": "AI reconstruction of Sølve Sundsbø beside studio light and a digital monitor.",
+    "alt_text": "AI reconstruction of Sølve Sundsbø beside studio light and a digital monitor.",
+    "caption": "Sølve Sundsbø, photographer. AI reconstruction, not an archival photograph.",
+    "credit": "VANSMITHLAB · AI-реконструкция, 2026",
+    "origin": "ai_reconstruction",
+    "rights_status": "generated_reviewed"
+  }
 }

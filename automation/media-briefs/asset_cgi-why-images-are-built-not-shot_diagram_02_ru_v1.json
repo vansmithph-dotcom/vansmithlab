@@ -1,0 +1,56 @@
+{
+  "asset_id": "asset_cgi-why-images-are-built-not-shot_diagram_02_ru_v1",
+  "primary_object_id": "obj_cgi_why_images_are_built_not_shot_20260813",
+  "kind": "diagram",
+  "origin": "editorial_diagram",
+  "locale": "ru",
+  "author_supplied_reference": {
+    "reference_url": "https://renderman.pixar.com/the-evolution-of-renderman",
+    "asset_url": "",
+    "creator_or_rightsholder": "VANSMITHLAB",
+    "title_or_subject": "Toy Story and RenderMan production context",
+    "date_or_context": "Original VANSMITHLAB explanatory diagram, 2026",
+    "placement": "sec-4",
+    "supports_claims_or_examples": [
+      "clm_cgi_toy_story",
+      "clm_cgi_renderman"
+    ],
+    "why_this_visual_matters": "Показывает переход от отдельного цифрового эффекта к целому фильму как вычисляемой сцене.",
+    "suggested_alt_text_ru": "Визуальный контекст Toy Story и RenderMan для анализа полнометражного компьютерного изображения как производственной системы.",
+    "suggested_alt_text_en": "Visual context from Toy Story and RenderMan used to analyze feature-length computer imagery as a production system.",
+    "suggested_caption_ru": "Toy Story / RenderMan. Визуальный референс: Pixar. Права на конкретный кадр проверить.",
+    "suggested_caption_en": "Toy Story / RenderMan. Visual reference: Pixar. Rights for the specific frame must be checked.",
+    "rights_basis_from_author": "Original VANSMITHLAB editorial diagram; no third-party image copied."
+  },
+  "educational_purpose": "Показывает переход от отдельного цифрового эффекта к целому фильму как вычисляемой сцене.",
+  "must_not_imply": [
+    "A documentary screenshot or production still",
+    "Endorsement by the referenced organization, studio, or platform"
+  ],
+  "rights": {
+    "status": "editorial_basis_recorded",
+    "rights_basis": "Original VANSMITHLAB editorial diagram; no third-party visual asset embedded.",
+    "third_party_marks": "Textual nominative reference only where needed for analysis."
+  },
+  "accessibility": {
+    "alt_ru": "Визуальный контекст Toy Story и RenderMan для анализа полнометражного компьютерного изображения как производственной системы.",
+    "alt_en": "Visual context from Toy Story and RenderMan used to analyze feature-length computer imagery as a production system.",
+    "caption_ru": "Toy Story / RenderMan. Визуальный референс: Pixar. Права на конкретный кадр проверить.",
+    "caption_en": "Toy Story / RenderMan. Visual reference: Pixar. Rights for the specific frame must be checked."
+  },
+  "creator": "VANSMITHLAB editorial visual system",
+  "created_at": "2026-08-13",
+  "asset_path": "public/images/articles/cgi-why-images-are-built-not-shot/diagram-02-ru.svg",
+  "file": {
+    "path": "/images/articles/cgi-why-images-are-built-not-shot/diagram-02-ru.svg",
+    "sha256": "d1a4cc791f59e24b461c157bc03c36ff1f96504e95a21a623a1a6926c885bfe1",
+    "width": 1600,
+    "height": 900
+  },
+  "source_url": "https://renderman.pixar.com/the-evolution-of-renderman",
+  "rights_state": "editorial_basis_recorded",
+  "licence": "Original VANSMITHLAB editorial diagram; no third-party image copied",
+  "licence_or_permission": "Original VANSMITHLAB editorial diagram; no third-party image copied.",
+  "creator_or_credit": "VANSMITHLAB",
+  "disclosure": "Редакционная диаграмма VANSMITHLAB."
+}

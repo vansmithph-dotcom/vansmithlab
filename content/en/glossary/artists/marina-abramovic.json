@@ -6,14 +6,14 @@
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "unverified",
-  "confidence_score": 0,
+  "confidence_score": 0.0,
   "claim_ids": [],
   "source_ids": [],
-  "last_reviewed": "2026-08-09",
+  "last_reviewed": "2026-08-12",
   "author": "VANSMITHLAB",
   "locale": "en",
   "slug": "marina-abramovic",
-  "title": "Marina Abramovi\u0107",
+  "title": "Marina Abramović",
   "summary": "The body, duration and the institutionalisation of presence",
   "discipline": [
     "art"
@@ -30,5 +30,12 @@
     "credit": "VANSMITHLAB - AI illustration, 2026",
     "origin": "ai_illustration"
   },
-  "portrait_image": {"src":"/images/glossary/artists/marina-abramovic-portrait-ai-v1.webp","alt":"Portrait of Marina Abramović, AI reconstruction","caption":"Editorial AI reconstruction of a portrait of Marina Abramović.","credit":"VANSMITHLAB · AI reconstruction from public reference imagery, 2026","origin":"ai_reconstruction","rights_status":"ai_generated"}
+  "portrait_image": {
+    "src": "/images/glossary/artists/marina-abramovic-portrait-ai-v1.webp",
+    "alt": "Portrait of Marina Abramović, AI reconstruction",
+    "caption": "Editorial AI reconstruction of a portrait of Marina Abramović.",
+    "credit": "VANSMITHLAB · AI reconstruction from public reference imagery, 2026",
+    "origin": "ai_reconstruction",
+    "rights_status": "ai_generated"
+  }
 }

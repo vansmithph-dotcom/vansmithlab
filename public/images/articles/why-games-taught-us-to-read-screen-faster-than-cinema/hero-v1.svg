@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img">
+<rect width="1600" height="900" fill="#f2eee6"/>
+<defs>
+<pattern id="grid" width="80" height="80" patternUnits="userSpaceOnUse"><path d="M80 0H0V80" fill="none" stroke="#ded7ca" stroke-width="1"/></pattern>
+</defs>
+<rect x="40" y="40" width="1520" height="820" fill="url(#grid)" opacity=".46"/>
+<rect x="40" y="40" width="1520" height="820" rx="0" fill="none" stroke="#171716" stroke-width="2"/>
+<text x="78" y="96" fill="#c84a31" text-anchor="start" font-family="monospace" font-size="15" font-weight="500" letter-spacing="2">VANSMITHLAB / ANALYSIS / GAME-UI-006</text>
+<text x="78" y="170" fill="#171716" text-anchor="start" font-family="Georgia" font-size="52" font-weight="500" letter-spacing="0">THE GAME SCREEN: LAYERED READING</text>
+<line x1="78" y1="202" x2="1522" y2="202" stroke="#171716" stroke-width="2"/>
+
+<!-- dark viewport -->
+<rect x="120" y="290" width="1360" height="440" fill="#171716"/>
+<rect x="120" y="290" width="1360" height="440" fill="none" stroke="#171716" stroke-width="4"/>
+<path d="M120 380 L1480 520" stroke="#fbf8f1" stroke-width="2" opacity=".18"/>
+<path d="M120 470 L1480 610" stroke="#fbf8f1" stroke-width="2" opacity=".18"/>
+
+<!-- minimap -->
+<rect x="1310" y="320" width="140" height="140" rx="10" fill="#dce5e9" opacity=".9"/>
+<path d="M1330 420 L1370 380 L1420 430 L1440 400" fill="none" stroke="#171716" stroke-width="3"/>
+<circle cx="1380" cy="380" r="9" fill="#c84a31"/>
+<circle cx="1330" cy="430" r="7" fill="#171716"/>
+<circle cx="1420" cy="330" r="7" fill="#171716"/>
+<text x="1380" y="490" fill="#fbf8f1" text-anchor="middle" font-family="monospace" font-size="15" letter-spacing="2">MAP</text>
+
+<!-- status / health -->
+<rect x="150" y="320" width="170" height="20" fill="none" stroke="#fbf8f1" stroke-width="2"/>
+<rect x="152" y="322" width="118" height="16" fill="#c84a31"/>
+<rect x="150" y="356" width="170" height="20" fill="none" stroke="#fbf8f1" stroke-width="2"/>
+<rect x="152" y="358" width="82" height="16" fill="#dce5e9"/>
+<rect x="150" y="392" width="170" height="20" fill="none" stroke="#fbf8f1" stroke-width="2"/>
+<rect x="152" y="394" width="150" height="16" fill="#ead3ca"/>
+<text x="235" y="450" fill="#fbf8f1" text-anchor="middle" font-family="monospace" font-size="15" letter-spacing="2">STATUS</text>
+
+<!-- crosshair -->
+<line x1="740" y1="440" x2="860" y2="440" stroke="#fbf8f1" stroke-width="3"/>
+<line x1="800" y1="380" x2="800" y2="500" stroke="#fbf8f1" stroke-width="3"/>
+<circle cx="800" cy="440" r="34" fill="none" stroke="#fbf8f1" stroke-width="3"/>
+<circle cx="800" cy="440" r="7" fill="#c84a31"/>
+<path d="M790 330 L790 300 M800 330 L800 300 M810 330 L810 300" stroke="#fbf8f1" stroke-width="3"/>
+<text x="800" y="560" fill="#fbf8f1" text-anchor="middle" font-family="monospace" font-size="15" letter-spacing="2">AIM</text>
+
+<!-- inventory -->
+<rect x="1260" y="600" width="52" height="52" fill="#fbf8f1" opacity=".92"/>
+<rect x="1324" y="600" width="52" height="52" fill="#ead3ca" opacity=".92"/>
+<rect x="1388" y="600" width="52" height="52" fill="#fbf8f1" opacity=".92"/>
+<rect x="1452" y="600" width="52" height="52" fill="#fbf8f1" opacity=".92"/>
+<circle cx="1286" cy="626" r="12" fill="#171716"/>
+<path d="M1350 622 L1366 640 M1366 622 L1350 640" stroke="#171716" stroke-width="4"/>
+<rect x="1404" y="612" width="20" height="28" fill="none" stroke="#171716" stroke-width="3"/>
+<circle cx="1478" cy="626" r="12" fill="#c84a31"/>
+<text x="1380" y="590" fill="#fbf8f1" text-anchor="end" font-family="monospace" font-size="15" letter-spacing="2">INVENTORY</text>
+
+<text x="78" y="824" fill="#777167" text-anchor="start" font-family="Arial" font-size="19" font-weight="400" letter-spacing="0">World, status, map, inventory and feedback as one field of attention</text>
+</svg>

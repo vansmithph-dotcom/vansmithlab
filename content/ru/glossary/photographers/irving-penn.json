@@ -9,7 +9,7 @@
   "confidence_score": 0.0,
   "claim_ids": [],
   "source_ids": [],
-  "last_reviewed": "2026-08-09",
+  "last_reviewed": "2026-08-12",
   "author": "VANSMITHLAB",
   "locale": "ru",
   "slug": "irving-penn",
@@ -23,6 +23,19 @@
     "photographer"
   ],
   "body_hash": "a2e1a1e15f497a0f73b174bcdb5ba56d9add0cf1a011d2a9e371b6f2fcbd0dcd",
-  "hero_image": {"src":"/images/glossary/photographers/irving-penn-hero-v1-card.webp","alt":"Редакционная визуализация метода Ирвинга Пенна","caption":"Форма, дистанция и студийная точность","credit":"VANSMITHLAB · AI-иллюстрация, 2026","origin":"ai_illustration"},
-  "portrait_image": {"src":"/images/glossary/photographers/irving-penn-portrait-source.jpg","alt":"Портрет Ирвинга Пенна","caption":"Ирвинг Пенн, около 1958 года","credit":"Harvey Shaman / Wikimedia Commons, public domain","origin":"wikimedia_commons","rights_status":"public_domain"}
+  "hero_image": {
+    "src": "/images/glossary/photographers/irving-penn-hero-v1-card.webp",
+    "alt": "Редакционная визуализация метода Ирвинга Пенна",
+    "caption": "Форма, дистанция и студийная точность",
+    "credit": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "origin": "ai_illustration"
+  },
+  "portrait_image": {
+    "src": "/images/glossary/photographers/irving-penn-portrait-source.jpg",
+    "alt": "Портрет Ирвинга Пенна",
+    "caption": "Ирвинг Пенн, около 1958 года",
+    "credit": "Harvey Shaman / Wikimedia Commons, public domain",
+    "origin": "wikimedia_commons",
+    "rights_status": "public_domain"
+  }
 }

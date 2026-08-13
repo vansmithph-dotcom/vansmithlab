@@ -4,9 +4,9 @@
   "content_type": "photographer_profile",
   "state": "published",
   "source_locale": "ru",
-  "source_revision": 2,
-  "verification_state": "unverified",
-  "confidence_score": 0.0,
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.96,
   "claim_ids": [
     "clm_001",
     "clm_002",
@@ -18,23 +18,9 @@
   ],
   "source_ids": [
     "src_92e81e370331c84c",
-    "src_2735ee4dc5012b7e",
-    "src_20f7a3fff29d01e5",
     "src_263bb8f9b867e977",
-    "src_a389f8c883002536",
-    "src_6dd6cce844c35f76",
-    "src_08c4ca7bfb0a6d7f",
-    "src_dd8db42f1a2afa18",
-    "src_6d880469b81fc889",
-    "src_67ab670e82c0c4f9",
-    "src_0dc1b85fe0dfaceb",
-    "src_f6446357b07ada55",
-    "src_477be3088048c271",
-    "src_4969d14ee7e46aab",
-    "src_6034ed82f1db16d9",
     "src_d993634cfac94381",
-    "src_64b7f011608817db",
-    "src_9d6f8351d923e2ff"
+    "src_20f7a3fff29d01e5"
   ],
   "last_reviewed": "2026-08-12",
   "author": "VANSMITHLAB",
@@ -43,16 +29,13 @@
   "title": "Паоло Роверси",
   "summary": "Свет, длительность и хрупкость fashion-образа",
   "discipline": [
-    "photography",
-    "fashion",
-    "media-publishing",
-    "art"
+    "photography"
   ],
   "kind": "person",
   "role": [
     "photographer"
   ],
-  "body_hash": "8e66badbcaa458a3507bee66b83fde8bdb0b20b1279db80fbd8e2822dce3746f",
+  "body_hash": "0e9987766b68bd1a5a3c34a991e24ddbb1fdfc6228d155e624eb65872b45c3ae",
   "hero_image": {
     "src": "/images/glossary/photographers/paolo-roversi-hero-v1-card-v1.webp",
     "alt": "Иллюстрация: Паоло Роверси",

@@ -1,0 +1,519 @@
+{
+  "id": "obj_cgi_why_images_are_built_not_shot_20260813",
+  "type": "theme",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 2,
+  "title_ru": "CGI: почему изображение больше не снимают, а собирают",
+  "title_en": "CGI: Why Images Are No Longer Just Shot — They’re Assembled",
+  "slug_ru": "cgi-why-images-are-built-not-shot",
+  "slug_en": "cgi-why-images-are-built-not-shot",
+  "summary_ru": "3D-сцена, виртуальный свет, композитинг, реконструкция и генеративное видео как новая производственная логика кадра",
+  "verification_state": "verified",
+  "confidence_score": 0.86,
+  "created_at": "2026-08-13T00:00:00.000Z",
+  "updated_at": "2026-08-13T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_cgi_jurassic",
+      "wording_ru": "В Jurassic Park зрителю нужно было поверить в существо, которого не существовало перед объективом. Не в абстрактного «цифрового динозавра», а в тяжёлое животное, которое занимает пространство, ловит свет, отбрасывает тень и движется рядом с физической декорацией. Академия до сих пор описывает фильм как рубеж, соединивший практические эффекты и компьютерную анимацию и ставший ориентиром для CGI. Именно здесь удобно увидеть главную перемену. Компьютерная графика стала культурно важной не тогда, когда научилась показывать невозможное, а тогда, когда зритель перестал различать производственные границы внутри одного кадра. Аниматроника, съёмочная оптика, освещение, цифровая геометрия, текстуры и композитинг начали работать как одна визуальная система. Поэтому вопрос этой статьи не «насколько реалистичным стал CGI». Вопрос сложнее: что происходит с фотографическим кадром, когда его итоговый вид больше не обязан существовать целиком ни на площадке, ни в одном файле, ни даже в одном типе изображения?",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.oscars.org/events/jurassic-park",
+          "locator": "DOCX section sec-1",
+          "support": "Academy source documents Jurassic Park as a visual-effects benchmark and its hybrid practical/computer-animation context."
+        }
+      ],
+      "verification_state": "verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_cgi_toy_story",
+      "wording_ru": "Через два года после Jurassic Park вышел Toy Story. Pixar называет его первым в мире полнометражным компьютерно-анимационным фильмом, а история RenderMan связывает систему рендера с возможностью производить такой полнометражный цифровой мир. Здесь CGI делает следующий шаг. Он больше не встраивает несколько невозможных объектов в снятую реальность — он берёт на себя весь кадр. Персонаж, комната, материал, блик, глубина, камера и движение существуют внутри одной вычисляемой среды. Это требует не одного сильного эффекта, а дисциплины: сцена должна пережить тысячи кадров, ракурсов и исправлений. Именно поэтому RenderMan важен для истории изображения не как марка программного обеспечения, а как символ производственного сдвига. Рендер становится повторяемым процессом. Свет можно пересчитать, материал — изменить, объект — заменить, не уничтожая всю сцену. Кадр начинает вести себя не как уникальный отпечаток, а как состояние сложной системы.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.pixar.com/our-story",
+          "locator": "DOCX section sec-4",
+          "support": "Pixar identifies Toy Story as its first feature-length computer-animated film; RenderMan history supplies the production-system context."
+        },
+        {
+          "source_url": "https://renderman.pixar.com/the-evolution-of-renderman",
+          "locator": "DOCX section sec-4",
+          "support": "Pixar identifies Toy Story as its first feature-length computer-animated film; RenderMan history supplies the production-system context."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_cgi_renderman",
+      "wording_ru": "Через два года после Jurassic Park вышел Toy Story. Pixar называет его первым в мире полнометражным компьютерно-анимационным фильмом, а история RenderMan связывает систему рендера с возможностью производить такой полнометражный цифровой мир. Здесь CGI делает следующий шаг. Он больше не встраивает несколько невозможных объектов в снятую реальность — он берёт на себя весь кадр. Персонаж, комната, материал, блик, глубина, камера и движение существуют внутри одной вычисляемой среды. Это требует не одного сильного эффекта, а дисциплины: сцена должна пережить тысячи кадров, ракурсов и исправлений. Именно поэтому RenderMan важен для истории изображения не как марка программного обеспечения, а как символ производственного сдвига. Рендер становится повторяемым процессом. Свет можно пересчитать, материал — изменить, объект — заменить, не уничтожая всю сцену. Кадр начинает вести себя не как уникальный отпечаток, а как состояние сложной системы.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.pixar.com/our-story",
+          "locator": "DOCX section sec-4",
+          "support": "Pixar and RenderMan documentation establish the rendering system's relation to Pixar feature production."
+        },
+        {
+          "source_url": "https://renderman.pixar.com/the-evolution-of-renderman",
+          "locator": "DOCX section sec-4",
+          "support": "Pixar and RenderMan documentation establish the rendering system's relation to Pixar feature production."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_cgi_nuke",
+      "wording_ru": "Финальное изображение редко заканчивается в момент рендера. В композитинге соединяются съёмочный материал, CG-проходы, маски, глубина, туман, отражения, цвет, зерно и локальные коррекции. Foundry описывает Nuke как узловую среду для цифрового композитинга, где операции организованы в сеть взаимозависимых элементов. Узловое мышление хорошо объясняет, почему слово «собирают» точнее слова «рисуют». Художник видит не стопку безымянных слоёв, а схему причин: откуда пришла маска, где изменился цвет, какой проход отвечает за блик, как глубина влияет на атмосферу. Кадр становится картой решений. Для визуальной культуры это важно потому, что финальная правдоподобность часто рождается именно на границе источников. CG может быть слишком чистым; съёмка — слишком шумной; отражение — физически правильным, но визуально слабым. Композитинг не только склеивает элементы, а приводит их к одному режиму реальности.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.foundry.com/products/nuke-family/nuke/features",
+          "locator": "DOCX section sec-6",
+          "support": "Foundry documents Nuke as a node-based compositing environment; the frame-as-dependency-map reading is VANSMITHLAB interpretation."
+        }
+      ],
+      "verification_state": "verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_cgi_openusd",
+      "wording_ru": "Когда цифровая сцена становится большой, проблема уже не в красоте отдельного объекта. Проблема — как десяткам людей и программ работать с одной реальностью, не разрушая работу друг друга. OpenUSD вырос из производственных задач Pixar и описывается как платформа для совместного построения больших 3D-сцен, где могут сосуществовать геометрия, материалы, свет, анимация и варианты. Это один из самых недооценённых сдвигов. Современный цифровой кадр — не обязательно один файл, который открывает один художник. Он может быть композицией из множества активов и версий: персонаж приходит из одного отдела, одежда — из другого, окружение — из третьего, свет — из четвёртого. Сцена собирает их, не сводя всё в необратимый финал. Для брендов и архитектуры эта логика особенно перспективна. Один качественно подготовленный цифровой объект способен жить в кампании, фильме, конфигураторе, интерактивной сцене и будущей визуализации. Изображение начинает наследовать свойства инфраструктуры: его можно не только посмотреть, но и продолжить.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.pixar.com/openusd",
+          "locator": "DOCX section sec-7",
+          "support": "Pixar and OpenUSD documentation establish collaborative composition of large 3D scenes with geometry, shading, lighting, animation, and variants."
+        },
+        {
+          "source_url": "https://openusd.org/release/intro.html",
+          "locator": "DOCX section sec-7",
+          "support": "Pixar and OpenUSD documentation establish collaborative composition of large 3D scenes with geometry, shading, lighting, animation, and variants."
+        },
+        {
+          "source_url": "https://openusd.org/",
+          "locator": "DOCX section sec-7",
+          "support": "Pixar and OpenUSD documentation establish collaborative composition of large 3D scenes with geometry, shading, lighting, animation, and variants."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_cgi_stagecraft",
+      "wording_ru": "Виртуальный продакшен меняет привычную последовательность «сначала снять — потом дорисовать». ILM описывает StageCraft как сквозную систему виртуального производства; для первого сезона The Mandalorian актёры работали внутри большой LED-среды, где цифровые окружения отображались вокруг съёмочной площадки и могли реагировать на камеру в реальном времени. Это принципиальный момент. Цифровой фон больше не ждёт постпроизводства — он начинает влиять на физическую съёмку здесь и сейчас. Свет от LED-панелей попадает на костюм и лицо, оператор видит композицию, режиссёр может менять окружение, а актёр получает пространство вместо абстрактного зелёного экрана. Epic отдельно описывает виртуальный продакшен как соединение цифрового и физического миров в реальном времени. Граница между pre-production, production и post-production становится менее линейной. Часть решений, которые раньше можно было отложить, приходится принять заранее: масштаб мира, направление света, перспективу и поведение камеры. CGI возвращается на площадку, но приносит с собой новую цену — необходимость проектировать кадр раньше.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.ilm.com/stagecraft/",
+          "locator": "DOCX section sec-8",
+          "support": "ILM describes StageCraft and its LED-volume production work for The Mandalorian."
+        },
+        {
+          "source_url": "https://www.ilm.com/groundbreaking-led-stage-production-technology-created-for-hit-lucasfilm-series-the-mandalorian/",
+          "locator": "DOCX section sec-8",
+          "support": "ILM describes StageCraft and its LED-volume production work for The Mandalorian."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_cgi_virtual_production",
+      "wording_ru": "Виртуальный продакшен меняет привычную последовательность «сначала снять — потом дорисовать». ILM описывает StageCraft как сквозную систему виртуального производства; для первого сезона The Mandalorian актёры работали внутри большой LED-среды, где цифровые окружения отображались вокруг съёмочной площадки и могли реагировать на камеру в реальном времени. Это принципиальный момент. Цифровой фон больше не ждёт постпроизводства — он начинает влиять на физическую съёмку здесь и сейчас. Свет от LED-панелей попадает на костюм и лицо, оператор видит композицию, режиссёр может менять окружение, а актёр получает пространство вместо абстрактного зелёного экрана. Epic отдельно описывает виртуальный продакшен как соединение цифрового и физического миров в реальном времени. Граница между pre-production, production и post-production становится менее линейной. Часть решений, которые раньше можно было отложить, приходится принять заранее: масштаб мира, направление света, перспективу и поведение камеры. CGI возвращается на площадку, но приносит с собой новую цену — необходимость проектировать кадр раньше.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.ilm.com/groundbreaking-led-stage-production-technology-created-for-hit-lucasfilm-series-the-mandalorian/",
+          "locator": "DOCX section sec-8",
+          "support": "ILM and Unreal documentation establish the real-time connection of digital environments and physical production."
+        },
+        {
+          "source_url": "https://www.unrealengine.com/blog/forging-new-paths-for-filmmakers-on-the-mandalorian",
+          "locator": "DOCX section sec-8",
+          "support": "ILM and Unreal documentation establish the real-time connection of digital environments and physical production."
+        },
+        {
+          "source_url": "https://www.unrealengine.com/explainers/virtual-production/what-is-virtual-production",
+          "locator": "DOCX section sec-8",
+          "support": "ILM and Unreal documentation establish the real-time connection of digital environments and physical production."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_cgi_nerf",
+      "wording_ru": "Долгое время цифровую сцену в основном строили вручную: моделировали геометрию, назначали материалы, расставляли свет. Нейронный рендеринг предложил другой путь. NeRF показал, что по набору изображений с известными положениями камеры можно оптимизировать непрерывное представление сцены и затем синтезировать новые точки зрения. 3D Gaussian Splatting сделал другой компромисс между представлением сцены, качеством и скоростью. Авторы метода описывают сцену через набор 3D-гауссиан и показывают рендеринг новых ракурсов в реальном времени на тестовых сценах. Для фотографа здесь происходит почти философская перемена. Серия снимков перестаёт быть только серией финальных изображений. Она становится измерением пространства — сырьём, из которого можно получить новую сцену и новую виртуальную камеру. Съёмка превращается в сбор данных для изображения, которое ещё не существует.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://arxiv.org/abs/2003.08934",
+          "locator": "DOCX section sec-9",
+          "support": "The NeRF paper establishes a continuous scene representation optimized from posed images for novel-view synthesis."
+        }
+      ],
+      "verification_state": "verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_cgi_3dgs",
+      "wording_ru": "Долгое время цифровую сцену в основном строили вручную: моделировали геометрию, назначали материалы, расставляли свет. Нейронный рендеринг предложил другой путь. NeRF показал, что по набору изображений с известными положениями камеры можно оптимизировать непрерывное представление сцены и затем синтезировать новые точки зрения. 3D Gaussian Splatting сделал другой компромисс между представлением сцены, качеством и скоростью. Авторы метода описывают сцену через набор 3D-гауссиан и показывают рендеринг новых ракурсов в реальном времени на тестовых сценах. Для фотографа здесь происходит почти философская перемена. Серия снимков перестаёт быть только серией финальных изображений. Она становится измерением пространства — сырьём, из которого можно получить новую сцену и новую виртуальную камеру. Съёмка превращается в сбор данных для изображения, которое ещё не существует.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://arxiv.org/abs/2308.04079",
+          "locator": "DOCX section sec-9",
+          "support": "The 3D Gaussian Splatting paper establishes scene representation with 3D Gaussians and reports real-time novel-view rendering in its evaluation."
+        }
+      ],
+      "verification_state": "verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_cgi_gen4",
+      "wording_ru": "Генеративные видеомодели добавляют в эту историю ещё один тип сборки. В классическом CGI художник явно создаёт или импортирует геометрию, материалы, свет и анимацию. Генеративная модель может синтезировать движение и внешний вид непосредственно из текста, изображения, видео и референсов, не предъявляя автору явную 3D-сцену. Runway описывал Gen-4 через согласованность персонажей, объектов и локаций между сценами, а Gen-4.5 — через улучшения движения, следования инструкции и временной согласованности. Это заявления производителя и их нужно читать именно так, но они показывают направление рынка: ценность смещается от одиночной эффектной генерации к управляемой повторяемости мира. Интерпретация Генеративное видео не отменяет CGI. Оно делает видимым следующий этап той же культурной перемены: зрителю важен целостный кадр, а производителю — контроль над его внутренними зависимостями. Если 3D давал контроль через явную сцену, генеративная модель пытается дать его через референсы, контекст и инструкции. Чем меньше внутренней сцены видит автор, тем важнее становится вопрос, где именно находится режиссура. Для VANSMITHLAB это также вопрос доверия. Изображение может выглядеть фотографически убедительно, не имея одного фотографического события в основе. Поэтому происхождение, права, согласие, маркировка реконструкции и различение документа и иллюстрации становятся не техническими примечаниями, а частью визуальной грамотности.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://runwayml.com/research/introducing-runway-gen-4",
+          "locator": "DOCX section sec-10",
+          "support": "Runway's official Gen-4 page makes the attributed vendor claim about character, object, and location consistency."
+        }
+      ],
+      "verification_state": "verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_cgi_gen45",
+      "wording_ru": "Генеративные видеомодели добавляют в эту историю ещё один тип сборки. В классическом CGI художник явно создаёт или импортирует геометрию, материалы, свет и анимацию. Генеративная модель может синтезировать движение и внешний вид непосредственно из текста, изображения, видео и референсов, не предъявляя автору явную 3D-сцену. Runway описывал Gen-4 через согласованность персонажей, объектов и локаций между сценами, а Gen-4.5 — через улучшения движения, следования инструкции и временной согласованности. Это заявления производителя и их нужно читать именно так, но они показывают направление рынка: ценность смещается от одиночной эффектной генерации к управляемой повторяемости мира. Интерпретация Генеративное видео не отменяет CGI. Оно делает видимым следующий этап той же культурной перемены: зрителю важен целостный кадр, а производителю — контроль над его внутренними зависимостями. Если 3D давал контроль через явную сцену, генеративная модель пытается дать его через референсы, контекст и инструкции. Чем меньше внутренней сцены видит автор, тем важнее становится вопрос, где именно находится режиссура. Для VANSMITHLAB это также вопрос доверия. Изображение может выглядеть фотографически убедительно, не имея одного фотографического события в основе. Поэтому происхождение, права, согласие, маркировка реконструкции и различение документа и иллюстрации становятся не техническими примечаниями, а частью визуальной грамотности.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://runwayml.com/research/introducing-runway-gen-4.5",
+          "locator": "DOCX section sec-10",
+          "support": "Runway's official Gen-4.5 page makes the attributed vendor claim about motion, prompt adherence, and temporal consistency."
+        }
+      ],
+      "verification_state": "verified",
+      "confidence_score": 0.86
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_fc1a51eaf33b4c58",
+      "source_key": "S01",
+      "title": "Jurassic Park",
+      "publisher": "Academy of Motion Picture Arts and Sciences",
+      "url": "https://www.oscars.org/events/jurassic-park",
+      "source_tier": 1,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_7f0d9760e3a1b4b8",
+      "source_key": "S02",
+      "title": "Our Story",
+      "publisher": "Pixar Animation Studios",
+      "url": "https://www.pixar.com/our-story",
+      "source_tier": 1,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_7ed71c3312d99360",
+      "source_key": "S03",
+      "title": "The Evolution of RenderMan",
+      "publisher": "Pixar RenderMan",
+      "url": "https://renderman.pixar.com/the-evolution-of-renderman",
+      "source_tier": 1,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_5b80a9c6f30632e3",
+      "source_key": "S04",
+      "title": "Nuke Features — 2D & 3D Compositing and Visual Effects",
+      "publisher": "Foundry",
+      "url": "https://www.foundry.com/products/nuke-family/nuke/features",
+      "source_tier": 1,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_1d63cd4b37743258",
+      "source_key": "S05",
+      "title": "OPENUSD",
+      "publisher": "Pixar Animation Studios",
+      "url": "https://www.pixar.com/openusd",
+      "source_tier": 1,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_430ef02afee8670c",
+      "source_key": "S06",
+      "title": "Introduction to USD",
+      "publisher": "OpenUSD",
+      "url": "https://openusd.org/release/intro.html",
+      "source_tier": 1,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_eb8021565d2808dd",
+      "source_key": "S07",
+      "title": "USD Home",
+      "publisher": "OpenUSD",
+      "url": "https://openusd.org/",
+      "source_tier": 1,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_c015c1ae19e18d3a",
+      "source_key": "S08",
+      "title": "StageCraft",
+      "publisher": "Industrial Light & Magic",
+      "url": "https://www.ilm.com/stagecraft/",
+      "source_tier": 1,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_3a6df228643e35a6",
+      "source_key": "S09",
+      "title": "Groundbreaking LED Stage Production Technology Created for Hit Lucasfilm Series The Mandalorian",
+      "publisher": "Industrial Light & Magic",
+      "url": "https://www.ilm.com/groundbreaking-led-stage-production-technology-created-for-hit-lucasfilm-series-the-mandalorian/",
+      "source_tier": 1,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_845b924e40d49116",
+      "source_key": "S10",
+      "title": "Forging New Paths for Filmmakers on The Mandalorian",
+      "publisher": "Unreal Engine",
+      "url": "https://www.unrealengine.com/blog/forging-new-paths-for-filmmakers-on-the-mandalorian",
+      "source_tier": 1,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_80109f0ad95bc3ac",
+      "source_key": "S11",
+      "title": "What Is Virtual Production? Unreal Engine",
+      "publisher": "",
+      "url": "https://www.unrealengine.com/explainers/virtual-production/what-is-virtual-production",
+      "source_tier": 1,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_45309f646546f52f",
+      "source_key": "S12",
+      "title": "MetaHuman — Digital Humans",
+      "publisher": "Epic Games",
+      "url": "https://www.metahuman.com/",
+      "source_tier": 1,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_3586751f5c5a7cf2",
+      "source_key": "S13",
+      "title": "MetaHuman Leaves Early Access with a Feature-Packed New Release",
+      "publisher": "Epic Games",
+      "url": "https://www.metahuman.com/news/metahuman-leaves-early-access-with-a-feature-packed-new-release",
+      "source_tier": 1,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_d13dfe2fbd9329a7",
+      "source_key": "S14",
+      "title": "Mildenhall, Ben et al. NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis",
+      "publisher": "arXiv, 2020",
+      "url": "https://arxiv.org/abs/2003.08934",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_11626fdd1b3ef7e5",
+      "source_key": "S15",
+      "title": "Kerbl, Bernhard et al. 3D Gaussian Splatting for Real-Time Radiance Field Rendering",
+      "publisher": "arXiv, 2023",
+      "url": "https://arxiv.org/abs/2308.04079",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_3e4991ee075eb97d",
+      "source_key": "S16",
+      "title": "Runway Gen-4: AI Video Generation with World Consistency",
+      "publisher": "Runway Research",
+      "url": "https://runwayml.com/research/introducing-runway-gen-4",
+      "source_tier": 1,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_3467294157852914",
+      "source_key": "S17",
+      "title": "Runway Gen-4.5: State-of-the-Art AI Video Generation",
+      "publisher": "Runway Research",
+      "url": "https://runwayml.com/research/introducing-runway-gen-4.5",
+      "source_tier": 1,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_5e8e3457bed60f36",
+      "source_key": "S18",
+      "title": "About Blender",
+      "publisher": "Blender Foundation",
+      "url": "https://www.blender.org/about/",
+      "source_tier": 1,
+      "accessed_at": "2026-08-13"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_cgi_01_01",
+      "claim_id": "clm_cgi_jurassic",
+      "source_id": "src_fc1a51eaf33b4c58",
+      "locator": "DOCX section sec-1",
+      "support": "Academy source documents Jurassic Park as a visual-effects benchmark and its hybrid practical/computer-animation context."
+    },
+    {
+      "id": "cit_cgi_02_01",
+      "claim_id": "clm_cgi_toy_story",
+      "source_id": "src_7f0d9760e3a1b4b8",
+      "locator": "DOCX section sec-4",
+      "support": "Pixar identifies Toy Story as its first feature-length computer-animated film; RenderMan history supplies the production-system context."
+    },
+    {
+      "id": "cit_cgi_02_02",
+      "claim_id": "clm_cgi_toy_story",
+      "source_id": "src_7ed71c3312d99360",
+      "locator": "DOCX section sec-4",
+      "support": "Pixar identifies Toy Story as its first feature-length computer-animated film; RenderMan history supplies the production-system context."
+    },
+    {
+      "id": "cit_cgi_03_01",
+      "claim_id": "clm_cgi_renderman",
+      "source_id": "src_7f0d9760e3a1b4b8",
+      "locator": "DOCX section sec-4",
+      "support": "Pixar and RenderMan documentation establish the rendering system's relation to Pixar feature production."
+    },
+    {
+      "id": "cit_cgi_03_02",
+      "claim_id": "clm_cgi_renderman",
+      "source_id": "src_7ed71c3312d99360",
+      "locator": "DOCX section sec-4",
+      "support": "Pixar and RenderMan documentation establish the rendering system's relation to Pixar feature production."
+    },
+    {
+      "id": "cit_cgi_04_01",
+      "claim_id": "clm_cgi_nuke",
+      "source_id": "src_5b80a9c6f30632e3",
+      "locator": "DOCX section sec-6",
+      "support": "Foundry documents Nuke as a node-based compositing environment; the frame-as-dependency-map reading is VANSMITHLAB interpretation."
+    },
+    {
+      "id": "cit_cgi_05_01",
+      "claim_id": "clm_cgi_openusd",
+      "source_id": "src_1d63cd4b37743258",
+      "locator": "DOCX section sec-7",
+      "support": "Pixar and OpenUSD documentation establish collaborative composition of large 3D scenes with geometry, shading, lighting, animation, and variants."
+    },
+    {
+      "id": "cit_cgi_05_02",
+      "claim_id": "clm_cgi_openusd",
+      "source_id": "src_430ef02afee8670c",
+      "locator": "DOCX section sec-7",
+      "support": "Pixar and OpenUSD documentation establish collaborative composition of large 3D scenes with geometry, shading, lighting, animation, and variants."
+    },
+    {
+      "id": "cit_cgi_05_03",
+      "claim_id": "clm_cgi_openusd",
+      "source_id": "src_eb8021565d2808dd",
+      "locator": "DOCX section sec-7",
+      "support": "Pixar and OpenUSD documentation establish collaborative composition of large 3D scenes with geometry, shading, lighting, animation, and variants."
+    },
+    {
+      "id": "cit_cgi_06_01",
+      "claim_id": "clm_cgi_stagecraft",
+      "source_id": "src_c015c1ae19e18d3a",
+      "locator": "DOCX section sec-8",
+      "support": "ILM describes StageCraft and its LED-volume production work for The Mandalorian."
+    },
+    {
+      "id": "cit_cgi_06_02",
+      "claim_id": "clm_cgi_stagecraft",
+      "source_id": "src_3a6df228643e35a6",
+      "locator": "DOCX section sec-8",
+      "support": "ILM describes StageCraft and its LED-volume production work for The Mandalorian."
+    },
+    {
+      "id": "cit_cgi_07_01",
+      "claim_id": "clm_cgi_virtual_production",
+      "source_id": "src_3a6df228643e35a6",
+      "locator": "DOCX section sec-8",
+      "support": "ILM and Unreal documentation establish the real-time connection of digital environments and physical production."
+    },
+    {
+      "id": "cit_cgi_07_02",
+      "claim_id": "clm_cgi_virtual_production",
+      "source_id": "src_845b924e40d49116",
+      "locator": "DOCX section sec-8",
+      "support": "ILM and Unreal documentation establish the real-time connection of digital environments and physical production."
+    },
+    {
+      "id": "cit_cgi_07_03",
+      "claim_id": "clm_cgi_virtual_production",
+      "source_id": "src_80109f0ad95bc3ac",
+      "locator": "DOCX section sec-8",
+      "support": "ILM and Unreal documentation establish the real-time connection of digital environments and physical production."
+    },
+    {
+      "id": "cit_cgi_08_01",
+      "claim_id": "clm_cgi_nerf",
+      "source_id": "src_d13dfe2fbd9329a7",
+      "locator": "DOCX section sec-9",
+      "support": "The NeRF paper establishes a continuous scene representation optimized from posed images for novel-view synthesis."
+    },
+    {
+      "id": "cit_cgi_09_01",
+      "claim_id": "clm_cgi_3dgs",
+      "source_id": "src_11626fdd1b3ef7e5",
+      "locator": "DOCX section sec-9",
+      "support": "The 3D Gaussian Splatting paper establishes scene representation with 3D Gaussians and reports real-time novel-view rendering in its evaluation."
+    },
+    {
+      "id": "cit_cgi_10_01",
+      "claim_id": "clm_cgi_gen4",
+      "source_id": "src_3e4991ee075eb97d",
+      "locator": "DOCX section sec-10",
+      "support": "Runway's official Gen-4 page makes the attributed vendor claim about character, object, and location consistency."
+    },
+    {
+      "id": "cit_cgi_11_01",
+      "claim_id": "clm_cgi_gen45",
+      "source_id": "src_3467294157852914",
+      "locator": "DOCX section sec-10",
+      "support": "Runway's official Gen-4.5 page makes the attributed vendor claim about motion, prompt adherence, and temporal consistency."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "media_state": "editorially_selected",
+  "workflow": {
+    "decision": "AUTO_APPROVE",
+    "note": "VSL-AN-CGI-004 RU master and EN adaptation have synchronized claim and media-slot IDs. All 18 source URLs were checked on 2026-08-13: 17 returned HTTP 200; the Academy Jurassic Park source returned an anti-bot HTTP 403 and was retained after its response identified the page as Access Denied rather than a missing source.",
+    "converted_by": "VANSMITHLAB editorial evidence workflow",
+    "converted_at": "2026-08-13T00:00:00.000Z"
+  }
+}

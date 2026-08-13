@@ -1,0 +1,999 @@
+{
+  "id": "obj_graphic_otl_aicher",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Отль Айхер",
+  "title_en": "Otl Aicher",
+  "slug_ru": "otl-aicher-system-pictograms-public-infrastructure",
+  "slug_en": "otl-aicher-system-pictograms-public-infrastructure",
+  "summary_ru": "Система, пиктограммы и дизайн как общественная инфраструктура",
+  "summary_en": "System, pictograms and design as public infrastructure",
+  "verification_state": "verified",
+  "confidence_score": 0.86,
+  "created_at": "2026-08-12T00:00:00.000Z",
+  "updated_at": "2026-08-12T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_oa_001",
+      "wording_ru": "Otto “Otl” Aicher родился 13 мая 1922 года в Ульме. Его поколение взрослело не в нейтральной культурной среде: национал-социалистическая диктатура, война и разрушение Германии сделали вопрос о форме одновременно вопросом об институте, ответственности и публичной жизни. Поэтому зрелый рационализм Aicher трудно читать только как эстетический вкус. Его стремление к ясным правилам было связано с недоверием к декоративной риторике, массовой мобилизации и героическому образу автора. Для VANSMITHLAB это важная точка: система у Aicher возникает не из любви к порядку как таковому, а из попытки сделать коммуникацию проверяемой и общественно ответственной.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.otlaicher.de/en/articles/rotis-light-and-shade/",
+          "locator": "DOCX section sec-1",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://hfg-archiv.museumulm.de/en/bequests/the-bequest-of-otl-aicher/",
+          "locator": "DOCX section sec-1",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_oa_002",
+      "wording_ru": "С 1946 года Inge Scholl и Otl Aicher участвовали в создании Ulmer Volkshochschule как пространства интеллектуального и демократического перезапуска. Stiftung HfG Ulm прямо связывает этот проект с опытом диктатуры и стремлением построить новую общественную культуру после войны. Уже здесь дизайн понимается шире плаката. Афиша лекции, программа, типографика и организация знания становятся частью одного образовательного интерфейса. Позднее HfG-Archiv соберёт около 700 плакатов, созданных Aicher для vh Ulm между 1948 и 1968 годами: длинная серия показывает, как визуальный язык может формироваться не одним “шедевром”, а дисциплиной повторяющейся работы.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.moma.org/collection/works/6129",
+          "locator": "DOCX section sec-2",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.hfg-ulm.de/en/hfg-ulm/",
+          "locator": "DOCX section sec-2",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_oa_003",
+      "wording_ru": "Inge Aicher-Scholl была сестрой Hans и Sophie Scholl, участников White Rose, казнённых нацистским режимом. Эта семейная память не должна превращаться в романтический фон биографии дизайнера: она помогает понять, почему образование, гражданская ответственность и сопротивление авторитарной культуре были для окружения Aicher практическими, а не абстрактными понятиями. В этом контексте “объективность” у Aicher оказывается не обещанием политической нейтральности. Скорее это попытка уменьшить произвол формы и сделать публичное сообщение доступным для проверки. Дизайн не отменяет идеологию; он должен осознавать, какие отношения власти закрепляет привычкой, символом и интерфейсом.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.otlaicher.de/en/articles/rotis-light-and-shade/",
+          "locator": "DOCX section sec-3",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://hfg-archiv.museumulm.de/en/bequests/the-bequest-of-otl-aicher/",
+          "locator": "DOCX section sec-3",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_oa_004",
+      "wording_ru": "В 1953 году Aicher вместе с Inge Aicher-Scholl и Max Bill основал Hochschule für Gestaltung Ulm. Официальная история школы подчёркивает, что её задача заключалась не в производстве “красивых вещей”, а в соединении художественно-проектных, научно-технических знаний с социально-политической ответственностью. Практическая работа оставалась центром обучения, но проект становился исследованием: кто пользуется системой, какие ограничения действуют, как информация передаётся, что происходит при тиражировании. Для современного product или interface designer этот подход узнаваем: прототип, данные, сценарий использования и производство рассматриваются не после формы, а одновременно с ней.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.otlaicher.de/en/articles/rotis-light-and-shade/",
+          "locator": "DOCX section sec-4",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.hfg-ulm.de/en/hfg-ulm/",
+          "locator": "DOCX section sec-4",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_oa_005",
+      "wording_ru": "В середине 1950-х внутри HfG возник конфликт между более художественно ориентированным наследием Max Bill и группой преподавателей, стремившихся теснее связать дизайн с наукой и технологией. В 1957–1958 годах Aicher входил в коллегиальный ректорат вместе с Hans Gugelot, Tomás Maldonado и Friedrich Vordemberge-Gildewart. Так сформировался “Ulm Model”: дизайнер — не верховный художник, который навязывает производству личный стиль, а равноправный участник процесса принятия решений. Это не уничтожает визуальную культуру. Наоборот, она становится следствием аргумента: функция, технология, экономика, знак и пользователь должны быть сведены в одну систему отношений.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.otlaicher.de/en/articles/rotis-light-and-shade/",
+          "locator": "DOCX section sec-5",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://hfg-archiv.museumulm.de/en/bequests/the-bequest-of-otl-aicher/",
+          "locator": "DOCX section sec-5",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_oa_006",
+      "wording_ru": "Aicher руководил направлением Visual Communication и преподавал в HfG. В его логике задача начиналась не с вопроса “как это должно выглядеть?”, а с вопроса “что человек должен понять или сделать?”. Эта смена порядка превращает графику из оформления в проектирование поведения информации. Отсюда его интерес к типографике, фотографии, знакам, картам и сериям. Отдельный элемент ценен не сам по себе, а тем, насколько надёжно он входит в грамматику: сохраняет иерархию, различимость и ритм при новом формате, масштабе или носителе. Именно здесь Aicher близок не столько к “стилю”, сколько к современной дизайн-системе.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.otlaicher.de/en/articles/rotis-light-and-shade/",
+          "locator": "DOCX section sec-6",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://hfg-archiv.museumulm.de/en/bequests/the-bequest-of-otl-aicher/",
+          "locator": "DOCX section sec-6",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_oa_007",
+      "wording_ru": "В HfG development group E5 Aicher работал с коллегами над прикладными заказами, включая Braun и Deutsche Lufthansa. Архив отдельно фиксирует участие Tomás Gonda и других сотрудников, что важно против привычки превращать сложные системные проекты в историю одного автора. Коллективное авторство особенно логично для corporate design: знак, реклама, упаковка, печатная документация и среда требуют разных компетенций и длительного обслуживания. Сильная система должна переживать конкретный макет и даже конкретного дизайнера. Автор в ней важен как создатель правил и критериев, а не как единственный исполнитель всех деталей.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.otlaicher.de/en/articles/rotis-light-and-shade/",
+          "locator": "DOCX section sec-7",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.otlaicher.de/beitraege/die-sippe-der-typographen-war-ihm-suspekt/",
+          "locator": "DOCX section sec-7",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_oa_008",
+      "wording_ru": "HfG-Archiv относит Braun к корпоративным программам, созданным в рамках E5, а история HfG показывает, насколько тесно школа связывала промышленный продукт и коммуникацию. Новая техника Braun демонстрировалась не отдельно от графики: продукт, презентация, фотография и визуальный порядок становились частями одной модернистской культуры. Это важный переход от “графического дизайна для вещи” к системе, где вещь сама является носителем тех же ценностей: ясности, экономии средств, повторяемости. Aicher здесь не следует понимать как единственного автора Braun language. Гораздо продуктивнее видеть сеть HfG, Hans Gugelot, Dieter Rams, E5 и промышленного заказчика.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://hfg-archiv.museumulm.de/en/bequests/the-bequest-of-otl-aicher/",
+          "locator": "DOCX section sec-8",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.otlaicher.de/en/articles/rotis-light-and-shade/",
+          "locator": "DOCX section sec-8",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_oa_009",
+      "wording_ru": "Официальная история HfG датирует начало работы E5 над корпоративным дизайном Lufthansa 1962 годом. Lufthansa сегодня описывает эту программу как интегрированный corporate design, который последовательно охватил цвета, типографику, signage, цветовые концепции и даже интерьер салона. Здесь корпоративная идентичность перестаёт быть эмблемой на хвосте самолёта. Пассажир встречает одну и ту же логику в билете, указателе, печатном материале, аэропортовом контакте и пространстве борта. Именно такая непрерывность сделала Lufthansa ключевым примером того, как дизайн может координировать большой сервисный организм.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.lufthansa.com/by/en/100-years/cabin-design",
+          "locator": "DOCX section sec-9",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.otlaicher.de/en/articles/rotis-light-and-shade/",
+          "locator": "DOCX section sec-9",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_oa_010",
+      "wording_ru": "Проекты Aicher для Lufthansa, Bayerische Rück, ERCO, Frankfurt Airport, FSB и других организаций показывают повторяющийся принцип: corporate design — это визуальная часть поведения системы. Архив перечисляет эти проекты рядом, потому что их роднит не один “aicher-look”, а метод управления множеством точек контакта. Хороший знак может быть заметным, но он не спасает противоречивую среду. Настоящая сложность начинается после логотипа: нужно задать шрифт, цвет, расстояния, форматы, фотографии, навигацию и правила масштабирования. В этом смысле Aicher предвосхищает современный design system, где ценность лежит не в библиотеке компонентов сама по себе, а в согласованности решений.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.otlaicher.de/en/articles/rotis-light-and-shade/",
+          "locator": "DOCX section sec-10",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.otlaicher.de/beitraege/die-sippe-der-typographen-war-ihm-suspekt/",
+          "locator": "DOCX section sec-10",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_oa_011",
+      "wording_ru": "Пиктограмма должна сообщать действие или категорию быстро, без длинного текста и, по возможности, через языковые границы. Но Aicher не “изобрёл” этот принцип. Его система продолжала более ранние исследования визуального языка и опыт международной навигации, включая Isotype и олимпийские знаки Tokyo 1964. Его вклад — в дисциплине системы: фигуры строятся из ограниченного набора геометрических решений, имеют общую логику движения и способны расширяться без визуального распада. Уменьшение количества деталей здесь не равняется упрощению задачи. Чем меньше остаётся элементов, тем точнее приходится контролировать отличие одного действия от другого.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.otlaicher.de/en/articles/rotis-light-and-shade/",
+          "locator": "DOCX section sec-11",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://hfg-archiv.museumulm.de/en/bequests/the-bequest-of-otl-aicher/",
+          "locator": "DOCX section sec-11",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_oa_012",
+      "wording_ru": "Для Олимпиады München 1972 команда Aicher создавала не набор сувенирной графики, а временную информационную среду международного города. Визуальная программа охватывала пиктограммы, карты, signage, билеты, униформу, публикации, плакаты и множество служебных носителей. Такой проект особенно хорошо показывает масштаб системного мышления: зритель не обязан знать, кто создал конкретный знак. Он должен вовремя найти сектор, спорт, транспорт или выход. Успех дизайна измеряется не эффектностью отдельной страницы, а тем, насколько разные элементы поддерживают одну модель ориентации.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.otlaicher.de/en/articles/rotis-light-and-shade/",
+          "locator": "DOCX section sec-12",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://hfg-archiv.museumulm.de/en/bequests/the-bequest-of-otl-aicher/",
+          "locator": "DOCX section sec-12",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_oa_013",
+      "wording_ru": "Организаторы München 1972 хотели дистанцировать новые Игры от образа Berlin 1936. Cooper Hewitt отмечает, что Aicher сознательно строил палитру вокруг ярких зелёных и синих тонов и избегал доминирования красного и чёрного, связанных с визуальной памятью нацистской эпохи. Цвет здесь выполняет политическую функцию без буквального политического символа. Он проектирует настроение открытости, молодости и гражданской современности. Это важный урок: визуальная идентичность может участвовать в переопределении исторического образа страны, но не способна сама отменить историю или общественный конфликт.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.otlaicher.de/en/articles/rotis-light-and-shade/",
+          "locator": "DOCX section sec-13",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.cooperhewitt.org/2019/04/05/going-for-gold/",
+          "locator": "DOCX section sec-13",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_oa_014",
+      "wording_ru": "Спортивные пиктограммы München 1972 сводят тело к линиям, углам и направлениям, но сохраняют различимый характер каждого спорта. Важна не анатомическая точность, а мгновенная узнаваемость действия: бег, прыжок, удар, гребок или бросок должны считываться при малом размере и в движущемся потоке людей. Поэтому фигурка выглядит не как маленькая иллюстрация, а как элемент координатной системы. Наклон корпуса, длина конечности, ось предмета и отрицательное пространство подчинены общей грамматике. Знак кажется простым только после того, как сложный телесный жест был разобран на минимальный набор различий.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.moma.org/collection/works/8865",
+          "locator": "DOCX section sec-14",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.moma.org/collection/works/8863",
+          "locator": "DOCX section sec-14",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_oa_015",
+      "wording_ru": "Сетка в системе пиктограмм работает как скрытый производственный инструмент. Она удерживает углы, пропорции и направления, чтобы новый знак мог быть добавлен без стилистического разрыва. Система становится не альбомом готовых картинок, а способом генерировать согласованные решения. Это отличает дизайн-систему от набора удачных образцов. Если правило нельзя продолжить, оно не масштабируется. Если правило слишком жёсткое, разные действия начинают выглядеть одинаково. Работа Aicher находится именно в этой зоне баланса: достаточно ограничений для семейного сходства, достаточно вариативности для точного смысла.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.otlaicher.de/en/articles/rotis-light-and-shade/",
+          "locator": "DOCX section sec-15",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://hfg-archiv.museumulm.de/en/bequests/the-bequest-of-otl-aicher/",
+          "locator": "DOCX section sec-15",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_oa_016",
+      "wording_ru": "В плакатах München 1972 фотография спортсмена проходит через интенсивную цветовую обработку. MoMA хранит несколько литографий серии, а Cooper Hewitt связывает их образ с попыткой вынести на первый план движение и человеческое достижение вместо традиционной национальной риторики. Эти плакаты важны тем, что не повторяют язык пиктограмм буквально. Система допускает разные уровни эмоциональности: навигационный знак должен быть нейтральнее, плакат — энергичнее. Единство рождается не из одинаковой формы каждого носителя, а из согласованной палитры, ритма, фотографии и общей идеи события.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.cooperhewitt.org/2019/04/05/going-for-gold/",
+          "locator": "DOCX section sec-16",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.moma.org/collection/works/8865",
+          "locator": "DOCX section sec-16",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_oa_017",
+      "wording_ru": "Olympic identity была проверкой на трансмедийность: от маленького билета до крупной навигационной панели правила должны оставаться узнаваемыми. Cooper Hewitt отдельно отмечает распространение языка на signage, tickets, souvenirs и uniforms. Для сегодняшнего дизайнера это почти учебник responsive system до цифрового интерфейса. Нельзя просто увеличить макет. На каждом масштабе меняется дистанция просмотра, время контакта, количество информации и физический материал. Система успешна, когда сохраняет родство, но адаптирует иерархию к реальной ситуации использования.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.cooperhewitt.org/2019/04/05/going-for-gold/",
+          "locator": "DOCX section sec-17",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_oa_018",
+      "wording_ru": "Идея пиктограммы обещает коммуникацию поверх языка, но “универсальность” никогда не абсолютна. Люди считывают фигуры через культурные привычки, опыт спорта, технологии и среды. Даже самый редуцированный знак опирается на выученные конвенции — стрелку, схематическое тело, направление чтения, знакомый объект. Поэтому сильнее говорить не о полностью универсальном языке, а о снижении языкового барьера. Система Aicher хорошо работает именно потому, что тестирует визуальные различия и сводит сообщение к действию. Но дизайнеру важно сохранять возможность проверки на новых аудиториях, а не принимать собственную геометрию за естественный язык мира.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.otlaicher.de/en/articles/rotis-light-and-shade/",
+          "locator": "DOCX section sec-18",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://hfg-archiv.museumulm.de/en/bequests/the-bequest-of-otl-aicher/",
+          "locator": "DOCX section sec-18",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_oa_019",
+      "wording_ru": "Источники расходятся в формулировке старта. Cooper Hewitt пишет о назначении Aicher Design Commissioner в 1966 году; история Stiftung HfG Ulm указывает 1967 год как момент, когда он стал official design commissioner; HfG-Archiv называет 1968 год годом, когда он “became responsible” за дизайн Игр. Такое расхождение не нужно насильно скрывать. Большие проекты часто проходят через фазу приглашения, подготовки, формального назначения и расширения полномочий. Для VANSMITHLAB корректнее фиксировать диапазон и роль источника, чем выбирать одну красивую дату и превращать организационный процесс в миф о мгновенном авторском решении.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.cooperhewitt.org/2019/04/05/going-for-gold/",
+          "locator": "DOCX section sec-19",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.otlaicher.de/en/articles/rotis-light-and-shade/",
+          "locator": "DOCX section sec-19",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_oa_020",
+      "wording_ru": "Открытый и интернациональный визуальный образ München 1972 оказался связан с трагической историей Игр: террористическая атака привела к гибели членов израильской олимпийской команды и западногерманского полицейского. Cooper Hewitt справедливо напоминает, что политический конфликт, который дизайн стремился символически смягчить, не исчез от силы визуальной программы. Это не “провал дизайна” — у дизайна просто нет такой власти. Важнее увидеть границу профессии: система может облегчить ориентацию, предложить образ общества, изменить тон публичного пространства, но не способна заменить политические институты и безопасность. Уважение к дизайну начинается там, где мы не приписываем ему магические возможности.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.cooperhewitt.org/2019/04/05/going-for-gold/",
+          "locator": "DOCX section sec-20",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.moma.org/collection/works/8865",
+          "locator": "DOCX section sec-20",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_oa_021",
+      "wording_ru": "HfG-Archiv включает Frankfurt Airport в список крупных проектов Aicher. Аэропорт — идеальная лаборатория его метода: много языков, стресс, ограниченное время, сложные потоки, повторяющиеся решения и необходимость различать направления на расстоянии. В такой среде графический дизайн становится частью архитектуры движения. Табличка не существует отдельно от коридора, света, расстояния и маршрута. Именно поэтому Aicher полезно читать рядом с Massimo Vignelli и современными service systems: хороший wayfinding — не набор красивых стрелок, а модель поведения пространства.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://hfg-archiv.museumulm.de/en/bequests/the-bequest-of-otl-aicher/",
+          "locator": "DOCX section sec-21",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.otlaicher.de/en/articles/rotis-light-and-shade/",
+          "locator": "DOCX section sec-21",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_oa_022",
+      "wording_ru": "ERCO сотрудничала с Aicher над собственным corporate design и после его смерти взяла на себя распространение, лицензирование и дальнейшее развитие пиктограммной системы. Компания подчёркивает, что знаки продолжали адаптироваться к новым применениям при сохранении исходной логики. Это редкий пример того, как проект превращается в живой стандарт. Архивный оригинал важен, но система сохраняет ценность только если умеет принимать новые функции. Здесь особенно видна разница между стилем и инфраструктурой: стиль можно цитировать, инфраструктуру нужно обслуживать, документировать и расширять.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.otlaicher.de/en/articles/rotis-light-and-shade/",
+          "locator": "DOCX section sec-22",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.otlaicher.de/beitraege/die-sippe-der-typographen-war-ihm-suspekt/",
+          "locator": "DOCX section sec-22",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_oa_023",
+      "wording_ru": "Для Isny im Allgäu Aicher между 1977 и 1985 годами разработал 136 чёрно-белых почти квадратных Bildzeichen, посвящённых городу, природе, спорту и повседневной культуре региона. Они сознательно противостояли привычной туристической рекламе с готовым образом “красивого места”. Aicher наблюдал ландшафт, животных, ремесло и быт и переводил их в ограниченный репертуар линий, точек и форм. Получился не рекламный слоган, а визуальный конструктор идентичности. Спустя десятилетия Isny продолжает использовать этот архив, что превращает проект из исторического курьёза в пример долгой городской памяти.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.otlaicher.de/en/articles/rotis-light-and-shade/",
+          "locator": "DOCX section sec-23",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://hfg-archiv.museumulm.de/en/bequests/the-bequest-of-otl-aicher/",
+          "locator": "DOCX section sec-23",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_oa_024",
+      "wording_ru": "Сам Isny сегодня проводит важное различие: лишь часть знаков, происходящих из ERCO repertoire, является пиктограммами в строгом смысле. Большинство Isny motifs — Bildzeichen, то есть образные знаки, допускающие ассоциации и вторичные значения. Это разрушает стереотип об Aicher как авторе одной лишь “холодной универсальности”. В аэропорту знак должен уменьшить неоднозначность; в городской идентичности лиса, дерево или фонтан могут, наоборот, открывать память и воображение. Один дизайнер использует противоположные режимы коммуникации потому, что задача важнее заранее выбранной эстетической догмы.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.otlaicher.de/en/articles/rotis-light-and-shade/",
+          "locator": "DOCX section sec-24",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://hfg-archiv.museumulm.de/en/bequests/the-bequest-of-otl-aicher/",
+          "locator": "DOCX section sec-24",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_oa_025",
+      "wording_ru": "В 1980 году Gerd Bulthaup пригласил Aicher к работе с компанией. Перед проектированием новой культуры кухни они совершили более пятидесяти поездок, наблюдая, как люди живут, готовят и едят; в 1982 году Aicher сформулировал подход в книге The Kitchen for Cooking. Здесь системность выходит из графики в предмет и интерьер. Функция понимается не как абстрактное “form follows function”, а как реальное действие: хранить, резать, готовить, разговаривать, собираться вокруг еды. Исследование повседневности становится проектным материалом — тот же принцип, что в wayfinding, только вместо маршрута по стадиону изучается маршрут тела на кухне.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.otlaicher.de/en/articles/rotis-light-and-shade/",
+          "locator": "DOCX section sec-25",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://hfg-archiv.museumulm.de/en/bequests/the-bequest-of-otl-aicher/",
+          "locator": "DOCX section sec-25",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_oa_026",
+      "wording_ru": "В 1988 году Aicher выпустил Rotis — шрифтовую систему, названную по месту, где он жил и работал. Она объединяла четыре связанные семьи, от grotesk к antiqua, и задумывалась как попытка преодолеть жёсткое разделение между serif и sans serif. Проект показателен не только успехом, но и спорностью. Type designers критиковали отдельные решения Rotis, и эта критика полезна: системное мышление не гарантирует безошибочного результата. Aicher снова формулирует сильную гипотезу — единое семейство между полюсами — а профессиональная история проверяет, насколько хорошо эта гипотеза работает в реальном чтении.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.otlaicher.de/en/articles/rotis-light-and-shade/",
+          "locator": "DOCX section sec-26",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.isny.de/otlaicher/otl-aicher?lang=en",
+          "locator": "DOCX section sec-26",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_oa_027",
+      "wording_ru": "После München 1972 Aicher переехал с семьёй в Rotis в Allgäu и постепенно превратил бывшую мельницу в комплекс жизни и работы. В 1984 году он проектировал студийные здания и основал Institute for Analog Studies. Само место стало материальным продолжением его интереса к структуре, расстоянию и повседневной функции. Rotis важен не как романтическое убежище “мастера”. Это эксперимент с границей между бюро, домом, печатью, едой, садом и архитектурой. Aicher, который проектировал визуальные системы для корпораций, применял ту же дисциплину к собственному окружению — и тем самым расширял понятие design practice до способа организации жизни.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.otlaicher.de/en/articles/rotis-light-and-shade/",
+          "locator": "DOCX section sec-27",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.isny.de/otlaicher/otl-aicher?lang=en",
+          "locator": "DOCX section sec-27",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_oa_028",
+      "wording_ru": "Тексты Aicher — не приложение к “главной” визуальной работе. В The World as Design и других эссе он обсуждает modernism, symbols, technology, architecture, typography, Eames, HfG Ulm и саму идею мира как предмета проектной ответственности. Эта литературная сторона объясняет, почему его проекты так часто выглядят как аргументы. Цвет, сетка или знак для него — не нейтральная техника, а решение о том, каким должно быть отношение человека к информации и среде. Дизайнер не обязан соглашаться с Aicher, но обязан заметить масштаб вопроса: форма неизбежно участвует в культуре.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.otlaicher.de/en/articles/rotis-light-and-shade/",
+          "locator": "DOCX section sec-28",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.wiley-vch.de/en/areas-interest/engineering/architecture-planning-10ar/general-introductory-architecture-10ar0/the-world-as-design-978-3-433-03117-9",
+          "locator": "DOCX section sec-28",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_oa_029",
+      "wording_ru": "Системный дизайн легко романтизировать: сетка обещает порядок, пиктограмма — понимание, стандарт — эффективность. Но любой стандарт исключает часть вариантов и закрепляет чью-то модель “нормального” пользователя. Даже München 1972, стремившийся к универсальному человеческому образу, в спортивных плакатах в основном показывал мужское атлетическое тело. Поэтому наследие Aicher полезно читать не как свод вечных правил, а как дисциплину постановки задач. Сегодня к его ясности нужно добавить accessibility, cultural testing, multilingual research и право системы на исключения. Хороший дизайн не тот, где всё подчинено сетке, а тот, где правило можно объяснить, проверить и изменить.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.otlaicher.de/en/articles/rotis-light-and-shade/",
+          "locator": "DOCX section sec-29",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://hfg-archiv.museumulm.de/en/bequests/the-bequest-of-otl-aicher/",
+          "locator": "DOCX section sec-29",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_oa_030",
+      "wording_ru": "Связь между vh Ulm, HfG, Lufthansa, München 1972, Frankfurt Airport, ERCO, Isny, bulthaup и Rotis становится понятна, если перестать искать один визуальный стиль. Aicher снова и снова работает с тем, что больше отдельного объекта: школой, сервисом, мероприятием, городом, компанией или образом повседневной жизни. Его наследие — не наклон фигурки и не конкретная голубая палитра. Это профессиональная привычка превращать сложность в систему отношений: определить проблему, построить правила, проверить их в масштабе и помнить, что дизайн действует внутри общества. Именно поэтому Aicher остаётся важным узлом между graphic design, product, architecture, public information и современной логикой design systems.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.otlaicher.de/en/articles/rotis-light-and-shade/",
+          "locator": "DOCX section sec-30",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.isny.de/otlaicher/otl-aicher?lang=en",
+          "locator": "DOCX section sec-30",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_fb7022ee0f64eff8",
+      "title": "History of HfG Ulm",
+      "url": "https://www.hfg-ulm.de/en/hfg-ulm/history/",
+      "publisher": "Stiftung Hochschule für Gestaltung HfG Ulm",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_2d8dc4f5c3b87917",
+      "title": "HfG Ulm — The social responsibility of designers",
+      "url": "https://www.hfg-ulm.de/en/hfg-ulm/",
+      "publisher": "Stiftung Hochschule für Gestaltung HfG Ulm",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_3eb9f1eea3d8fdd9",
+      "title": "The bequest of Otl Aicher",
+      "url": "https://hfg-archiv.museumulm.de/en/bequests/the-bequest-of-otl-aicher/",
+      "publisher": "HfG-Archiv Ulm / Museum Ulm",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_a1890c08a3a6d32d",
+      "title": "Permanent loans & donations — Posters of the Volkshochschule Ulm",
+      "url": "https://hfg-archiv.museumulm.de/en/permanent-loans-donations/",
+      "publisher": "HfG-Archiv Ulm / Museum Ulm",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_e177af33402e723c",
+      "title": "The bequest of Tomás Gonda",
+      "url": "https://hfg-archiv.museumulm.de/en/bequests/the-bequest-of-tomas-gonda/",
+      "publisher": "HfG-Archiv Ulm / Museum Ulm",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_c5415d303ed60496",
+      "title": "Otl Aicher — Jetzt bei den Langen Abenden in die Volks Hoch Schule",
+      "url": "https://www.moma.org/collection/works/6129",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_d2d54b4890263942",
+      "title": "Design & Comfort on Board — The Jet Age and functional modernity",
+      "url": "https://www.lufthansa.com/by/en/100-years/cabin-design",
+      "publisher": "Lufthansa",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_b89de2149dabafeb",
+      "title": "Going for Gold",
+      "url": "https://www.cooperhewitt.org/2019/04/05/going-for-gold/",
+      "publisher": "Cooper Hewitt, Smithsonian Design Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_b5c6cda0eb0a4641",
+      "title": "Pictograms: Quickly comprehended, easily interpreted, immediately understood",
+      "url": "https://press.erco.com/en_us/press-release/company/pictograms-quickly-comprehended-easily-interpreted-immediately-understood_2403",
+      "publisher": "ERCO",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_dba1c770588531ad",
+      "title": "München 1972, 1972, object 1567.2000",
+      "url": "https://www.moma.org/collection/works/8863",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_7305c4d12c968a00",
+      "title": "München 1972, 1972, object 1568.2000",
+      "url": "https://www.moma.org/collection/works/8865",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_c8fd191634713ca8",
+      "title": "Der Europäische Familienzwist, c. 1950",
+      "url": "https://www.moma.org/collection/works/7649",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_c8ce8e2c30a05f7e",
+      "title": "Otl Aicher — biography and Rotis",
+      "url": "https://www.isny.de/otlaicher/otl-aicher?lang=en",
+      "publisher": "Stadt Isny im Allgäu",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_f6e46724ecbe536f",
+      "title": "Isny & Aicher — A Vision for Isny",
+      "url": "https://www.isny.de/otlaicher/isny-and-aicher?lang=en",
+      "publisher": "Stadt Isny im Allgäu",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_977b7ae767edad53",
+      "title": "Isny Sets Its Pictorial Standards",
+      "url": "https://www.isny.de/otlaicher/aktuelles-en/isny-sets-its-pictorial-standards?lang=en",
+      "publisher": "Stadt Isny im Allgäu",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_264a1067db173d4c",
+      "title": "Company profile — ERCO, the Light Factory",
+      "url": "https://press.erco.com/en/press-release/company/company-profile-erco-the-light-factory-globally-active-with-pioneering-led-technology_2439",
+      "publisher": "ERCO",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_5ac07618708fa22e",
+      "title": "History — 1980s and 1982",
+      "url": "https://bulthaup.com/en/company/history/",
+      "publisher": "bulthaup",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_1392823308dc66d3",
+      "title": "Rotis: light and shade",
+      "url": "https://www.otlaicher.de/en/articles/rotis-light-and-shade/",
+      "publisher": "otl aicher 100 / International Design Center Berlin",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_cdead0dbf767da78",
+      "title": "Die Sippe der Typografen war ihm suspekt",
+      "url": "https://www.otlaicher.de/beitraege/die-sippe-der-typographen-war-ihm-suspekt/",
+      "publisher": "otl aicher 100 / International Design Center Berlin",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_65ea59a993ad94db",
+      "title": "The World as Design",
+      "url": "https://www.wiley-vch.de/en/areas-interest/engineering/architecture-planning-10ar/general-introductory-architecture-10ar0/the-world-as-design-978-3-433-03117-9",
+      "publisher": "Wiley-VCH",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_otl_aicher_01",
+      "claim_id": "clm_oa_001",
+      "source_id": "src_1392823308dc66d3",
+      "locator": "DOCX section sec-1",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_otl_aicher_02",
+      "claim_id": "clm_oa_002",
+      "source_id": "src_c5415d303ed60496",
+      "locator": "DOCX section sec-2",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_otl_aicher_03",
+      "claim_id": "clm_oa_003",
+      "source_id": "src_1392823308dc66d3",
+      "locator": "DOCX section sec-3",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_otl_aicher_04",
+      "claim_id": "clm_oa_004",
+      "source_id": "src_1392823308dc66d3",
+      "locator": "DOCX section sec-4",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_otl_aicher_05",
+      "claim_id": "clm_oa_005",
+      "source_id": "src_1392823308dc66d3",
+      "locator": "DOCX section sec-5",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_otl_aicher_06",
+      "claim_id": "clm_oa_006",
+      "source_id": "src_1392823308dc66d3",
+      "locator": "DOCX section sec-6",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_otl_aicher_07",
+      "claim_id": "clm_oa_007",
+      "source_id": "src_1392823308dc66d3",
+      "locator": "DOCX section sec-7",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_otl_aicher_08",
+      "claim_id": "clm_oa_008",
+      "source_id": "src_3eb9f1eea3d8fdd9",
+      "locator": "DOCX section sec-8",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_otl_aicher_09",
+      "claim_id": "clm_oa_009",
+      "source_id": "src_d2d54b4890263942",
+      "locator": "DOCX section sec-9",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_otl_aicher_10",
+      "claim_id": "clm_oa_010",
+      "source_id": "src_1392823308dc66d3",
+      "locator": "DOCX section sec-10",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_otl_aicher_11",
+      "claim_id": "clm_oa_011",
+      "source_id": "src_1392823308dc66d3",
+      "locator": "DOCX section sec-11",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_otl_aicher_12",
+      "claim_id": "clm_oa_012",
+      "source_id": "src_1392823308dc66d3",
+      "locator": "DOCX section sec-12",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_otl_aicher_13",
+      "claim_id": "clm_oa_013",
+      "source_id": "src_1392823308dc66d3",
+      "locator": "DOCX section sec-13",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_otl_aicher_14",
+      "claim_id": "clm_oa_014",
+      "source_id": "src_7305c4d12c968a00",
+      "locator": "DOCX section sec-14",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_otl_aicher_15",
+      "claim_id": "clm_oa_015",
+      "source_id": "src_1392823308dc66d3",
+      "locator": "DOCX section sec-15",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_otl_aicher_16",
+      "claim_id": "clm_oa_016",
+      "source_id": "src_b89de2149dabafeb",
+      "locator": "DOCX section sec-16",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_otl_aicher_17",
+      "claim_id": "clm_oa_017",
+      "source_id": "src_b89de2149dabafeb",
+      "locator": "DOCX section sec-17",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_otl_aicher_18",
+      "claim_id": "clm_oa_018",
+      "source_id": "src_1392823308dc66d3",
+      "locator": "DOCX section sec-18",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_otl_aicher_19",
+      "claim_id": "clm_oa_019",
+      "source_id": "src_b89de2149dabafeb",
+      "locator": "DOCX section sec-19",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_otl_aicher_20",
+      "claim_id": "clm_oa_020",
+      "source_id": "src_b89de2149dabafeb",
+      "locator": "DOCX section sec-20",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_otl_aicher_21",
+      "claim_id": "clm_oa_021",
+      "source_id": "src_3eb9f1eea3d8fdd9",
+      "locator": "DOCX section sec-21",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_otl_aicher_22",
+      "claim_id": "clm_oa_022",
+      "source_id": "src_1392823308dc66d3",
+      "locator": "DOCX section sec-22",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_otl_aicher_23",
+      "claim_id": "clm_oa_023",
+      "source_id": "src_1392823308dc66d3",
+      "locator": "DOCX section sec-23",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_otl_aicher_24",
+      "claim_id": "clm_oa_024",
+      "source_id": "src_1392823308dc66d3",
+      "locator": "DOCX section sec-24",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_otl_aicher_25",
+      "claim_id": "clm_oa_025",
+      "source_id": "src_1392823308dc66d3",
+      "locator": "DOCX section sec-25",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_otl_aicher_26",
+      "claim_id": "clm_oa_026",
+      "source_id": "src_1392823308dc66d3",
+      "locator": "DOCX section sec-26",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_otl_aicher_27",
+      "claim_id": "clm_oa_027",
+      "source_id": "src_1392823308dc66d3",
+      "locator": "DOCX section sec-27",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_otl_aicher_28",
+      "claim_id": "clm_oa_028",
+      "source_id": "src_1392823308dc66d3",
+      "locator": "DOCX section sec-28",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_otl_aicher_29",
+      "claim_id": "clm_oa_029",
+      "source_id": "src_1392823308dc66d3",
+      "locator": "DOCX section sec-29",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_otl_aicher_30",
+      "claim_id": "clm_oa_030",
+      "source_id": "src_1392823308dc66d3",
+      "locator": "DOCX section sec-30",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "media_state": "media_ready",
+  "workflow": {
+    "decision": "AUTO_APPROVE",
+    "note": "RU/EN pair passed DOCX structure, source-format, URL reachability, taxonomy and media-rights checks on 2026-08-12. Claims remain explicitly attributed to the listed sources.",
+    "converted_by": "VANSMITHLAB incoming article publication workflow",
+    "converted_at": "2026-08-12T00:00:00.000Z",
+    "media_reviewed_at": "2026-08-12",
+    "media_note": "Card and portrait are original AI editorial illustrations; neither is documentary evidence or a copied archival photograph."
+  }
+}

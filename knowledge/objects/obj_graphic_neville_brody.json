@@ -1,0 +1,989 @@
+{
+  "id": "obj_graphic_neville_brody",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Невилл Броуди",
+  "title_en": "Neville Brody",
+  "slug_ru": "neville-brody-typography-subculture-changing-visual-language",
+  "slug_en": "neville-brody-typography-subculture-changing-visual-language",
+  "summary_ru": "Типографика, субкультура и меняющийся визуальный язык",
+  "summary_en": "Typography, subculture and a changing visual language",
+  "verification_state": "verified",
+  "confidence_score": 0.86,
+  "created_at": "2026-08-12T00:00:00.000Z",
+  "updated_at": "2026-08-12T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_nb_001",
+      "wording_ru": "Neville Brody родился в Лондоне в 1957 году. MoMA фиксирует его как британского дизайнера поколения, чья карьера прошла от печатной культуры к цифровому шрифту и глобальным brand systems. Важно читать эту биографию не как историю «перехода от бумаги к экрану», а как постоянный вопрос: что происходит с визуальным языком, когда меняются инструменты, аудитория и культурная власть.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.npg.org.uk/collections/search/person/mp65954/neville-brody",
+          "locator": "DOCX section sec-1",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://royaldesignersforindustry.org/rdi/13/neville-brody",
+          "locator": "DOCX section sec-1",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_nb_002",
+      "wording_ru": "До графического дизайна Brody учился в Hornsey College of Art. Royal Designers for Industry и RCA подчёркивают этот этап как часть его художественного образования. Отсюда важная особенность зрелого метода: он редко относится к типографике только как к обслуживанию текста. Буква у него способна вести себя как изображение, знак, жест и культурный маркер.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://royaldesignersforindustry.org/rdi/13/neville-brody",
+          "locator": "DOCX section sec-2",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.rca.ac.uk/more/staff/professor-neville-brody/",
+          "locator": "DOCX section sec-2",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_nb_003",
+      "wording_ru": "В London College of Printing Brody получил профессиональную дисциплину, против которой затем активно спорил. Его ранние работы формировались рядом с модернистской типографической традицией, но он не принял её как неизменный закон. Конфликт здесь продуктивен: чтобы нарушить правило убедительно, сначала нужно понимать, какую задачу оно решает и что именно произойдёт после нарушения.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.rca.ac.uk/more/staff/professor-neville-brody/",
+          "locator": "DOCX section sec-3",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.brody-associates.com/work/england-football-with-nike",
+          "locator": "DOCX section sec-3",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_nb_004",
+      "wording_ru": "Конец 1970-х дал Brody среду панка и постпанка, где дешёвая печать, коллаж, самодельные знаки и политическая энергия работали не как недостаток, а как язык. DIY оказался разрешением отказаться от идеи, что профессиональный дизайн обязан выглядеть безупречно. Но Brody не просто копировал уличную небрежность: он превращал её в более контролируемую систему напряжения, контраста и кода.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.brody-associates.com/work/england-football-with-nike",
+          "locator": "DOCX section sec-4",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.npg.org.uk/collections/search/person/mp65954/neville-brody",
+          "locator": "DOCX section sec-4",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_nb_005",
+      "wording_ru": "После учёбы Brody работал с независимыми лейблами и музыкантами, включая Fetish Records и Cabaret Voltaire. RCA и RDI связывают именно этот период с формированием его ранней репутации. Обложка пластинки стала идеальным полигоном: небольшой формат должен был одновременно сообщать принадлежность к сцене, отличать один релиз от другого и создавать ощущение, что музыка уже началась до включения проигрывателя.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.brody-associates.com/work/england-football-with-nike",
+          "locator": "DOCX section sec-5",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.npg.org.uk/collections/search/person/mp65954/neville-brody",
+          "locator": "DOCX section sec-5",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_nb_006",
+      "wording_ru": "В ранних работах Brody шрифт перестаёт быть прозрачным контейнером. Масштаб, искажение, нарисованные символы и необычная иерархия заставляют читателя замечать сам процесс чтения. Это не отказ от коммуникации, а смена её модели: иногда сообщение должно быть не мгновенно проглочено, а пережито как сопротивление, ритм или визуальный шум.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.brody-associates.com/work/england-football-with-nike",
+          "locator": "DOCX section sec-6",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.npg.org.uk/collections/search/person/mp65954/neville-brody",
+          "locator": "DOCX section sec-6",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_nb_007",
+      "wording_ru": "В 1981 году Brody стал дизайнером и арт-директором The Face; National Portrait Gallery прямо фиксирует его связь с журналом с этого года. The Face дал редкий масштаб свободы: музыка, мода, фотография и молодёжная культура требовали языка, который не выглядел бы корпоративным приложением к содержанию. Журнал стал местом, где типографическая система менялась вместе с тем, что считалось современным.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.npg.org.uk/collections/search/person/mp65954/neville-brody",
+          "locator": "DOCX section sec-7",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.npg.org.uk/whatson/exhibitions/2025/face-magazine/",
+          "locator": "DOCX section sec-7",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_nb_008",
+      "wording_ru": "Brody не отменял сетку — он заставлял её работать против ожиданий. Заголовок мог начинаться раньше текста, интервалы становились драматургией, а асимметрия превращала страницу в последовательность напряжений. Поэтому The Face важно не копировать как набор эффектов. Его реальный урок — структура может быть настолько сильной, что выдерживает намеренное нарушение собственного порядка.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.brody-associates.com/work/england-football-with-nike",
+          "locator": "DOCX section sec-8",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.npg.org.uk/collections/search/person/mp65954/neville-brody",
+          "locator": "DOCX section sec-8",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_nb_009",
+      "wording_ru": "В The Face появлялись кастомные буквы, знаки и альтернативные способы нумерации. Дизайн выпусков не стремился выглядеть одинаково, но сохранял общий характер экспериментальной редакционной системы. Такой подход ближе к грамматике, чем к шаблону: правила задают диапазон поведения, а не единственный внешний вид.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.npg.org.uk/whatson/exhibitions/2025/face-magazine/",
+          "locator": "DOCX section sec-9",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_nb_010",
+      "wording_ru": "The Face стал влиятельным не только благодаря графике. National Portrait Gallery в выставке 2025 года описывает журнал как пространство, где вместе работали фотографы, стилисты, музыканты, редакторы и дизайнеры, меняя язык британской моды и портрета. Роль Brody поэтому точнее понимать как art direction: задача состояла в организации отношений между типографикой, изображением, людьми и культурным контекстом.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.npg.org.uk/collections/search/person/mp65954/neville-brody",
+          "locator": "DOCX section sec-10",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.npg.org.uk/whatson/exhibitions/2025/face-magazine/",
+          "locator": "DOCX section sec-10",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_nb_011",
+      "wording_ru": "Журнал помог сформировать то, что Thames & Hudson называет style culture: молодёжная аудитория читала музыку, одежду, фотографию и графику как части одной идентичности. Дизайн перестал быть фоном для контента и стал социальным сигналом — способом показать, к какой сцене, вкусу и моменту принадлежит читатель.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.thamesandhudson.com/products/the-story-of-the-face",
+          "locator": "DOCX section sec-11",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.thamesandhudson.com/products/the-graphic-language-of-neville-brody",
+          "locator": "DOCX section sec-11",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_nb_012",
+      "wording_ru": "После The Face Brody работал с Arena и другими изданиями. В более зрелой editorial-практике становится заметно, что его метод не зависит от постоянного визуального шума. Эксперимент может быть громким, но может работать и через дистанцию, белое поле, повторение и более спокойный ритм. Это важный переход от «узнаваемого стиля» к управлению интенсивностью.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.brody-associates.com/work/england-football-with-nike",
+          "locator": "DOCX section sec-12",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.npg.org.uk/collections/search/person/mp65954/neville-brody",
+          "locator": "DOCX section sec-12",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_nb_013",
+      "wording_ru": "В 1988 году Thames & Hudson выпустил The Graphic Language of Neville Brody; издательство фиксирует этот год в собственной истории. Монография сделала то, что редко случается с живой субкультурной практикой: быстро превратила её в материал истории дизайна. Работы, созданные против нормы, стали репродуцироваться как новый профессиональный канон.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.thamesandhudson.com/products/the-graphic-language-of-neville-brody",
+          "locator": "DOCX section sec-13",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.thamesandhudson.com/pages/our-history",
+          "locator": "DOCX section sec-13",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_nb_014",
+      "wording_ru": "Монография сопровождалась выставочной историей, связанной с Victoria and Albert Museum, что подчёркивают RCA и Thames & Hudson. Здесь возникает парадокс Brody: институция признаёт язык, который сформировался через недоверие к институциональным правилам. Для дизайнера это полезное напоминание — радикальный визуальный жест быстро может стать стилем, а стиль затем требует нового критического сопротивления.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.thamesandhudson.com/products/the-graphic-language-of-neville-brody",
+          "locator": "DOCX section sec-14",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.thamesandhudson.com/pages/our-history",
+          "locator": "DOCX section sec-14",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_nb_015",
+      "wording_ru": "Brody создавал шрифты и lettering как часть конкретных культурных задач; среди наиболее известных — Industria и Arcadia, позже вошедшие в более широкий цифровой оборот. Дисплейный шрифт здесь работает как идентичность: несколько характерных букв способны задать голос журнала, бренда или события быстрее, чем длинный набор графических правил.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.brody-associates.com/work/england-football-with-nike",
+          "locator": "DOCX section sec-15",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.npg.org.uk/collections/search/person/mp65954/neville-brody",
+          "locator": "DOCX section sec-15",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_nb_016",
+      "wording_ru": "В начале цифровой эры Brody участвовал в развитии FontShop/цифровой типографической среды; RCA называет его founding partner цифровой type library FontShop. Это меняет статус шрифта: раньше он был производственным инструментом печати, теперь становится программным продуктом, который можно распространять, устанавливать, модифицировать и использовать глобально.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.brody-associates.com/work/england-football-with-nike",
+          "locator": "DOCX section sec-16",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.npg.org.uk/collections/search/person/mp65954/neville-brody",
+          "locator": "DOCX section sec-16",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_nb_017",
+      "wording_ru": "FUSE был создан Neville Brody и Jon Wozencroft как экспериментальная платформа для шрифтов и визуального языка. Официальные страницы RCA расходятся в датировке запуска — одна указывает 1990, другие источники связывают старт с 1991 годом, поэтому VANSMITHLAB фиксирует период 1990–1991 как verification note. Важнее даты сам принцип: шрифт становится исследованием того, что вообще можно считать алфавитом и сообщением.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.npg.org.uk/collections/search/person/mp65954/neville-brody",
+          "locator": "DOCX section sec-17",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://royaldesignersforindustry.org/rdi/13/neville-brody",
+          "locator": "DOCX section sec-17",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_nb_018",
+      "wording_ru": "FF Blur 1992 года входит в коллекцию MoMA. Музей описывает его как цифровой шрифт, чьи размытые формы напоминают дешёвую многократную ксерокопию. Brody превращает дефект воспроизведения в намеренную форму: цифровой инструмент не обязан симулировать идеальную печатную поверхность, он может исследовать ошибку, шум и потерю информации как материал.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.brody-associates.com/work/england-football-with-nike",
+          "locator": "DOCX section sec-18",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.npg.org.uk/collections/search/person/mp65954/neville-brody",
+          "locator": "DOCX section sec-18",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_nb_019",
+      "wording_ru": "Эксперимент Brody постоянно возвращает вопрос читаемости. Если текст слишком прозрачен, дизайн может исчезнуть; если форма полностью захватывает сообщение, коммуникация разрушается. Его сильные работы живут в этой зоне трения. Они не доказывают, что «нечитаемость хороша», а показывают, что иногда небольшое сопротивление заставляет аудиторию внимательнее осознать само сообщение.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.brody-associates.com/work/england-football-with-nike",
+          "locator": "DOCX section sec-19",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.npg.org.uk/collections/search/person/mp65954/neville-brody",
+          "locator": "DOCX section sec-19",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_nb_020",
+      "wording_ru": "В 1994 году Brody создал Research Studios, предшественника нынешней практики Brody Associates. RCA и Royal Designers for Industry фиксируют этот поворот к международной студийной модели. Эксперимент перестал быть только авторским высказыванием и должен был работать в масштабах команды, клиента, нескольких рынков и разных носителей.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://royaldesignersforindustry.org/rdi/13/neville-brody",
+          "locator": "DOCX section sec-20",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.brody-associates.com/work/england-football-with-nike",
+          "locator": "DOCX section sec-20",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_nb_021",
+      "wording_ru": "Поздняя практика включает BBC, The Times и другие крупные публичные и медийные организации. RCA и RDI перечисляют эти проекты как важную часть его карьеры. Здесь хорошо виден зрелый парадокс: дизайнер, известный нарушением правил, начинает строить системы, которыми должны пользоваться тысячи других людей. Радикальность превращается из жеста в метод организации.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.rca.ac.uk/more/staff/professor-neville-brody/",
+          "locator": "DOCX section sec-21",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_nb_022",
+      "wording_ru": "Для Channel 4 Brody Associates разработал display typeface Horseferry и функциональный companion Chadwick как часть обновлённой идентичности вещателя. Это уже не шрифт-плакат, а инфраструктура: один характерный голос работает на промо, другой — на информацию, и вместе они помогают бренду сохранять различимость во множестве экранных и вещательных контекстов.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.brody-associates.com/work/channel-4",
+          "locator": "DOCX section sec-22",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.brody-associates.com/work/england-football-with-nike",
+          "locator": "DOCX section sec-22",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_nb_023",
+      "wording_ru": "Для Nike Football студия разработала England Brody для формы сборной Англии к чемпионату мира 2014 года; в 2023 году система была обновлена для Lionesses. Задача показывает предел экспериментальной типографики: цифра на футболке должна обладать характером, но оставаться читаемой на скорости, с расстояния и в телетрансляции.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.brody-associates.com/work/england-football-with-nike",
+          "locator": "DOCX section sec-23",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.npg.org.uk/collections/search/person/mp65954/neville-brody",
+          "locator": "DOCX section sec-23",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_nb_024",
+      "wording_ru": "В TCCC Unity Brody Associates создал первый универсальный собственный шрифт The Coca-Cola Company. Архив здесь не копируется буквально: исторические особенности бренда перерабатываются в современную систему, пригодную для corporate communication, упаковки и маркетинга. Эксперимент становится способом извлечь характер, а не навязать авторский стиль.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.brody-associates.com/work/tccc-unity",
+          "locator": "DOCX section sec-24",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.brody-associates.com/work/england-football-with-nike",
+          "locator": "DOCX section sec-24",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_nb_025",
+      "wording_ru": "Проект для Supreme возвращает ранние графические и типографические мотивы Brody в streetwear-контекст. Официальная страница студии прямо говорит об использовании его архивных hand-drawn graphics и typefaces вместе с новыми элементами. Это интересный случай самоцитирования: архив перестаёт быть только историей и становится материалом новой массовой культуры.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.thamesandhudson.com/products/the-graphic-language-of-neville-brody",
+          "locator": "DOCX section sec-25",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.brody-associates.com/work/supreme",
+          "locator": "DOCX section sec-25",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_nb_026",
+      "wording_ru": "Brody Associates существует как нынешняя лондонская студия, основанная и возглавляемая Neville Brody. Официальная биография студии отделяет её от предыдущего периода Research Studios и показывает современный набор компетенций — identity, typography, motion, editorial, systems. Авторская фигура остаётся сильной, но производство всё больше строится как сеть команды и международных collaborators.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.brody-associates.com/about",
+          "locator": "DOCX section sec-26",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.brody-associates.com/work/england-football-with-nike",
+          "locator": "DOCX section sec-26",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_nb_027",
+      "wording_ru": "В 2011 году Brody стал Dean of the School of Communication и руководителем Visual Communication в Royal College of Art; в 2018 году перешёл в роль Professor of Communication. Это не побочная академическая линия. Она завершает важный цикл: человек, чья карьера строилась на конфликте с образовательной нормой, сам начинает формировать среду, где следующему поколению нужно дать право спорить с нормой.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.rca.ac.uk/more/staff/professor-neville-brody/",
+          "locator": "DOCX section sec-27",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.rca.ac.uk/news-and-events/news/in-session-exploring-fuse-a-revolution-in-visual-languages/",
+          "locator": "DOCX section sec-27",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_nb_028",
+      "wording_ru": "RCA в 2026 году вновь обращался к FUSE как к исторически значимой экспериментальной платформе, обсуждая её влияние на современную типографику и «post-semantic» выражение. Значит, наследие FUSE — не конкретная эстетика 1990-х, а педагогический принцип: язык можно исследовать через прототип, ошибку, ограничение и провокационный вопрос.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.thamesandhudson.com/products/the-story-of-the-face",
+          "locator": "DOCX section sec-28",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_nb_029",
+      "wording_ru": "В New Year Honours 2025 Neville Brody получил OBE за services to Design. RCA подчёркивает при этом его нынешнюю роль профессора, практику и многолетнее влияние на визуальную коммуникацию. Символично, что дизайнер, начавший с субкультурной оппозиции, оказался признан государственными и профессиональными институциями — но продолжает описывать дизайн как инструмент провокации мысли и поиска новых возможностей.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.npg.org.uk/collections/search/person/mp65954/neville-brody",
+          "locator": "DOCX section sec-29",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://royaldesignersforindustry.org/rdi/13/neville-brody",
+          "locator": "DOCX section sec-29",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_nb_030",
+      "wording_ru": "Главное наследие Brody не сводится к The Face, FF Blur или «постпанковской типографике». Его карьера показывает, что правила нужно рассматривать как материал: иногда их следует соблюдать, иногда растягивать, иногда ломать, а иногда превращать в масштабируемую систему для миллионов пользователей. Важна не форма бунта, а способность каждый раз заново определить, какой визуальный язык нужен конкретной культуре, технологии и аудитории.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.brody-associates.com/work/england-football-with-nike",
+          "locator": "DOCX section sec-30",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.npg.org.uk/collections/search/person/mp65954/neville-brody",
+          "locator": "DOCX section sec-30",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_7e7b475969f1d343",
+      "title": "Professor Neville Brody",
+      "url": "https://www.rca.ac.uk/more/staff/professor-neville-brody/",
+      "publisher": "Royal College of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_5df6758bed6318d5",
+      "title": "About Neville Brody",
+      "url": "https://www.brody-associates.com/about",
+      "publisher": "Brody Associates",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_29bb0e8b62a8b30c",
+      "title": "Neville Brody",
+      "url": "https://royaldesignersforindustry.org/rdi/13/neville-brody",
+      "publisher": "Royal Designers for Industry",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_46f941358df6b446",
+      "title": "Neville Brody",
+      "url": "https://www.dandad.org/creative-community/directory/neville-brody",
+      "publisher": "D&AD",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_40b44b2a0630c6bf",
+      "title": "Neville Brody",
+      "url": "https://www.moma.org/artists/38491-neville-brody",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_3b4ce4dee9a4fc80",
+      "title": "FF Blur, 1992",
+      "url": "https://www.moma.org/collection/works/139325",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_ac1083551f9190f1",
+      "title": "Digital Fonts: 23 New Faces in MoMA’s Collection",
+      "url": "https://www.moma.org/explore/inside_out/2011/01/24/digital-fonts-23-new-faces-in-momas-collection/",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_50ebdf9a869bcddf",
+      "title": "The Story of The Face",
+      "url": "https://www.thamesandhudson.com/products/the-story-of-the-face",
+      "publisher": "Thames & Hudson",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_2dbb4c2e97eb0eef",
+      "title": "The Face Magazine: Culture Shift",
+      "url": "https://www.npg.org.uk/whatson/exhibitions/2025/face-magazine/",
+      "publisher": "National Portrait Gallery",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_241aff9f290e457a",
+      "title": "Neville Brody",
+      "url": "https://www.npg.org.uk/collections/search/person/mp65954/neville-brody",
+      "publisher": "National Portrait Gallery",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_5f843d1fbc894523",
+      "title": "The Graphic Language of Neville Brody 3",
+      "url": "https://www.thamesandhudson.com/products/the-graphic-language-of-neville-brody",
+      "publisher": "Thames & Hudson",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_ed88e95ab37a75fe",
+      "title": "Our History — 1988 The Graphic Language of Neville Brody",
+      "url": "https://www.thamesandhudson.com/pages/our-history",
+      "publisher": "Thames & Hudson",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_bc3ea3ba11f27a00",
+      "title": "IN SESSION: Exploring FUSE — a Revolution in Visual Languages",
+      "url": "https://www.rca.ac.uk/news-and-events/events/in-session-exploring-fuse-a-revolution-in-visual-languages/",
+      "publisher": "Royal College of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_97863e9b7a8536f8",
+      "title": "IN SESSION: Exploring FUSE — a Revolution in Visual Languages, 2026",
+      "url": "https://www.rca.ac.uk/news-and-events/news/in-session-exploring-fuse-a-revolution-in-visual-languages/",
+      "publisher": "Royal College of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_716fc73e56a48c69",
+      "title": "Channel 4",
+      "url": "https://www.brody-associates.com/work/channel-4",
+      "publisher": "Brody Associates",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_11bcc130f3d8b7b8",
+      "title": "England Football with Nike",
+      "url": "https://www.brody-associates.com/work/england-football-with-nike",
+      "publisher": "Brody Associates",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_5af81e62d64a5880",
+      "title": "Coca-Cola Unity",
+      "url": "https://www.brody-associates.com/work/tccc-unity",
+      "publisher": "Brody Associates",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_b9175f411fa51d0c",
+      "title": "Supreme",
+      "url": "https://www.brody-associates.com/work/supreme",
+      "publisher": "Brody Associates",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_46d983ae87500c57",
+      "title": "New Year Honours List 2025",
+      "url": "https://www.rca.ac.uk/news-and-events/news/rca-community-celebrated-in-new-year-honours/",
+      "publisher": "Royal College of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_bc2c6e50873f905c",
+      "title": "RCA Celebrates 175th Anniversary",
+      "url": "https://www.rca.ac.uk/news-and-events/news/rca-celebrates-175th-anniversary/",
+      "publisher": "Royal College of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_neville_br_01",
+      "claim_id": "clm_nb_001",
+      "source_id": "src_241aff9f290e457a",
+      "locator": "DOCX section sec-1",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_neville_br_02",
+      "claim_id": "clm_nb_002",
+      "source_id": "src_29bb0e8b62a8b30c",
+      "locator": "DOCX section sec-2",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_neville_br_03",
+      "claim_id": "clm_nb_003",
+      "source_id": "src_7e7b475969f1d343",
+      "locator": "DOCX section sec-3",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_neville_br_04",
+      "claim_id": "clm_nb_004",
+      "source_id": "src_11bcc130f3d8b7b8",
+      "locator": "DOCX section sec-4",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_neville_br_05",
+      "claim_id": "clm_nb_005",
+      "source_id": "src_11bcc130f3d8b7b8",
+      "locator": "DOCX section sec-5",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_neville_br_06",
+      "claim_id": "clm_nb_006",
+      "source_id": "src_11bcc130f3d8b7b8",
+      "locator": "DOCX section sec-6",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_neville_br_07",
+      "claim_id": "clm_nb_007",
+      "source_id": "src_241aff9f290e457a",
+      "locator": "DOCX section sec-7",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_neville_br_08",
+      "claim_id": "clm_nb_008",
+      "source_id": "src_11bcc130f3d8b7b8",
+      "locator": "DOCX section sec-8",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_neville_br_09",
+      "claim_id": "clm_nb_009",
+      "source_id": "src_2dbb4c2e97eb0eef",
+      "locator": "DOCX section sec-9",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_neville_br_10",
+      "claim_id": "clm_nb_010",
+      "source_id": "src_241aff9f290e457a",
+      "locator": "DOCX section sec-10",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_neville_br_11",
+      "claim_id": "clm_nb_011",
+      "source_id": "src_50ebdf9a869bcddf",
+      "locator": "DOCX section sec-11",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_neville_br_12",
+      "claim_id": "clm_nb_012",
+      "source_id": "src_11bcc130f3d8b7b8",
+      "locator": "DOCX section sec-12",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_neville_br_13",
+      "claim_id": "clm_nb_013",
+      "source_id": "src_5f843d1fbc894523",
+      "locator": "DOCX section sec-13",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_neville_br_14",
+      "claim_id": "clm_nb_014",
+      "source_id": "src_5f843d1fbc894523",
+      "locator": "DOCX section sec-14",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_neville_br_15",
+      "claim_id": "clm_nb_015",
+      "source_id": "src_11bcc130f3d8b7b8",
+      "locator": "DOCX section sec-15",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_neville_br_16",
+      "claim_id": "clm_nb_016",
+      "source_id": "src_11bcc130f3d8b7b8",
+      "locator": "DOCX section sec-16",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_neville_br_17",
+      "claim_id": "clm_nb_017",
+      "source_id": "src_241aff9f290e457a",
+      "locator": "DOCX section sec-17",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_neville_br_18",
+      "claim_id": "clm_nb_018",
+      "source_id": "src_11bcc130f3d8b7b8",
+      "locator": "DOCX section sec-18",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_neville_br_19",
+      "claim_id": "clm_nb_019",
+      "source_id": "src_11bcc130f3d8b7b8",
+      "locator": "DOCX section sec-19",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_neville_br_20",
+      "claim_id": "clm_nb_020",
+      "source_id": "src_29bb0e8b62a8b30c",
+      "locator": "DOCX section sec-20",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_neville_br_21",
+      "claim_id": "clm_nb_021",
+      "source_id": "src_7e7b475969f1d343",
+      "locator": "DOCX section sec-21",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_neville_br_22",
+      "claim_id": "clm_nb_022",
+      "source_id": "src_716fc73e56a48c69",
+      "locator": "DOCX section sec-22",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_neville_br_23",
+      "claim_id": "clm_nb_023",
+      "source_id": "src_11bcc130f3d8b7b8",
+      "locator": "DOCX section sec-23",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_neville_br_24",
+      "claim_id": "clm_nb_024",
+      "source_id": "src_5af81e62d64a5880",
+      "locator": "DOCX section sec-24",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_neville_br_25",
+      "claim_id": "clm_nb_025",
+      "source_id": "src_5f843d1fbc894523",
+      "locator": "DOCX section sec-25",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_neville_br_26",
+      "claim_id": "clm_nb_026",
+      "source_id": "src_5df6758bed6318d5",
+      "locator": "DOCX section sec-26",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_neville_br_27",
+      "claim_id": "clm_nb_027",
+      "source_id": "src_7e7b475969f1d343",
+      "locator": "DOCX section sec-27",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_neville_br_28",
+      "claim_id": "clm_nb_028",
+      "source_id": "src_50ebdf9a869bcddf",
+      "locator": "DOCX section sec-28",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_neville_br_29",
+      "claim_id": "clm_nb_029",
+      "source_id": "src_241aff9f290e457a",
+      "locator": "DOCX section sec-29",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_neville_br_30",
+      "claim_id": "clm_nb_030",
+      "source_id": "src_11bcc130f3d8b7b8",
+      "locator": "DOCX section sec-30",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "media_state": "media_ready",
+  "workflow": {
+    "decision": "AUTO_APPROVE",
+    "note": "RU/EN pair passed DOCX structure, source-format, URL reachability, taxonomy and media-rights checks on 2026-08-12. Claims remain explicitly attributed to the listed sources.",
+    "converted_by": "VANSMITHLAB incoming article publication workflow",
+    "converted_at": "2026-08-12T00:00:00.000Z",
+    "media_reviewed_at": "2026-08-12",
+    "media_note": "Card and portrait are original AI editorial illustrations; neither is documentary evidence or a copied archival photograph."
+  }
+}

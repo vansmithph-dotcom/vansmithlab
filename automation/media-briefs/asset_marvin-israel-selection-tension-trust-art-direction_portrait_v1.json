@@ -22,15 +22,25 @@
     "third_party_marks": "No logo, wordmark or recognisable branded asset."
   },
   "accessibility": {
-    "alt_text_ru": "AI-реконструкция портрета: Марвин Изрейел, арт-директор и художник.",
-    "alt_text_en": "AI reconstruction of a portrait of Marvin Israel, art director and artist.",
-    "caption_ru": "Марвин Изрейел, арт-директор и художник. AI-реконструкция портрета по публичным референсам.",
-    "caption_en": "Marvin Israel, art director and artist. AI portrait reconstruction from public references."
+    "alt_text_ru": "AI-реконструкция портрета Marvin Israel за столом с макетами и proof-листами.",
+    "alt_text_en": "AI reconstruction of Marvin Israel at a table with layouts and proof sheets.",
+    "caption_ru": "Marvin Israel, арт-директор. AI-реконструкция, не архивная фотография.",
+    "caption_en": "Marvin Israel, art director. AI reconstruction, not an archival photograph."
   },
   "creator": "OpenAI image generation · directed and reviewed by VANSMITHLAB",
   "created_at": "2026-08-12",
   "asset_path": "public/images/glossary/art-directors/marvin-israel-selection-tension-trust-art-direction-portrait-ai-v1.webp",
   "generation_prompt_class": "original fictional editorial visual for marvin-israel-selection-tension-trust-art-direction",
-  "workflow_run_id": "run_20260812_art_directors_photographers",
-  "content_sha256": ""
+  "workflow_run_id": "run_20260812_media_rights_repair",
+  "content_sha256": "",
+  "content_release_ids": [
+    "cnt_985bf3313c7f2334"
+  ],
+  "rights_state": "generated_reviewed",
+  "licence_or_permission": "Original AI portrait reconstruction generated for VANSMITHLAB without copying a specific protected photograph; not documentary evidence.",
+  "source_url": "",
+  "creator_or_credit": "OpenAI image generation · directed and reviewed by VANSMITHLAB",
+  "file_storage_key": "public/images/glossary/art-directors/marvin-israel-selection-tension-trust-art-direction-portrait-ai-v1.webp",
+  "content_hash": "81b641c8f52ac8a93ed20e8f0cdb9e4387bba6d081b3f471d8af1b0d5cabed47",
+  "disclosure": "VANSMITHLAB · AI-реконструкция, 2026"
 }

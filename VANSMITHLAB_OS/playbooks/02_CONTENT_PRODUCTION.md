@@ -17,4 +17,6 @@ An `evidence_ready` knowledge object and `templates/01_CONTENT_BRIEF.md`.
 
 ## Analysis rule
 
-A signed analysis must contain an explicit thesis, author/byline and marked interpretation. It may introduce an argument; it may not introduce uncited factual claims.
+An analysis follows `20_ANALYSIS_EDITORIAL_STANDARD.md` v2.0. ChatGPT may produce the draft; the VANSMITHLAB editorial pass checks, rewrites and approves it. Before drafting, record the strong question, concrete opening hook, one-sentence thesis, cultural conflict, three to five examples, fact/interpretation boundary, authorial conclusion and visual plan in the brief.
+
+Do not release the old sequence “topic → history → facts → sources → conclusion” as Analysis. Rewrite dry source material into 8–12 substantial moves: hook, thesis, historical turn, image mechanics, cultural conflict, mini-analyses, current relevance and an independent conclusion. Reject abstract openings, unsupported generalisations, examples without explanation, thin paragraphs hidden behind many headings, missing authorial position and decorative media. Require a visual package of hero plus at least four purposeful inline visuals (normally 5–8): photographs/details only with source and rights records, plus diagrams, timelines, comparisons or annotated examples mapped to the argument. Then perform the standard evidence, rights, localization and technical gates.

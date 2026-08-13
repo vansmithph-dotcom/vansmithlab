@@ -46,5 +46,47 @@
     "art-director",
     "graphic-designer"
   ],
-  "body_hash": "1bb1c7eb9340a61dbba568d9b091d9f50856fdf54cf8a857a6f85ca08ed13aca"
+  "body_hash": "1bb1c7eb9340a61dbba568d9b091d9f50856fdf54cf8a857a6f85ca08ed13aca",
+  "hero_image": {
+    "src": "/images/glossary/art-directors/bea-feitler-rhythm-color-editorial-freedom-hero-v1-card.svg",
+    "asset_id": "asset_bea-feitler-rhythm-color-editorial-freedom_card_v1",
+    "primary_object_id": "",
+    "content_release_id": "cnt_6870f721b2b0b584",
+    "kind": "image",
+    "locale": "ru",
+    "content_hash": "c95b8f472946d2511438853962a109bcc5b216c9a41fd4ef3acf03c647a50936",
+    "file_storage_key": "public/images/glossary/art-directors/bea-feitler-rhythm-color-editorial-freedom-hero-v1-card.svg",
+    "creator_or_credit": "VANSMITHLAB editorial visual system",
+    "rights_state": "original",
+    "licence_or_permission": "Original VANSMITHLAB SVG editorial visual; no third-party images, logos or trademarks.",
+    "source_url": "",
+    "created_at": "2026-08-12",
+    "alt": "Редакционная схема метода Bea Feitler: цветовые поля, ритм и смелая организация журнальной страницы.",
+    "alt_text": "Редакционная схема метода Bea Feitler: цветовые поля, ритм и смелая организация журнальной страницы.",
+    "caption": "Цвет и ритм превращают журнальный макет в самостоятельную редакционную форму.",
+    "credit": "VANSMITHLAB · original editorial visual, 2026",
+    "origin": "editorial",
+    "rights_status": "original"
+  },
+  "portrait_image": {
+    "src": "/images/glossary/art-directors/bea-feitler-rhythm-color-editorial-freedom-portrait-ai-v1.webp",
+    "asset_id": "asset_bea-feitler-rhythm-color-editorial-freedom_portrait_v1",
+    "primary_object_id": "",
+    "content_release_id": "cnt_6870f721b2b0b584",
+    "kind": "image",
+    "locale": "ru",
+    "content_hash": "f2b81534c112c42202ff948113be0d16ebe453553d769d3b1f148d89e4917f63",
+    "file_storage_key": "public/images/glossary/art-directors/bea-feitler-rhythm-color-editorial-freedom-portrait-ai-v1.webp",
+    "creator_or_credit": "OpenAI image generation · directed and reviewed by VANSMITHLAB",
+    "rights_state": "generated_reviewed",
+    "licence_or_permission": "Original AI portrait reconstruction generated for VANSMITHLAB without copying a specific protected photograph; not documentary evidence.",
+    "source_url": "",
+    "created_at": "2026-08-12",
+    "alt": "AI-реконструкция портрета Bea Feitler у стола с цветными макетными листами.",
+    "alt_text": "AI-реконструкция портрета Bea Feitler у стола с цветными макетными листами.",
+    "caption": "Bea Feitler, арт-директор. AI-реконструкция, не архивная фотография.",
+    "credit": "VANSMITHLAB · AI-реконструкция, 2026",
+    "origin": "ai_reconstruction",
+    "rights_status": "generated_reviewed"
+  }
 }

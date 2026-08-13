@@ -1,0 +1,47 @@
+{
+  "asset_id": "asset_alvar-aalto_hero_v3",
+  "primary_object_id": "obj_4cf1525b34834ecd",
+  "content_release_id": "cnt_a761d6bfc85ca96b",
+  "content_release_ids": [
+    "cnt_a761d6bfc85ca96b"
+  ],
+  "kind": "image",
+  "origin": "ai_illustration",
+  "locale": "multilingual",
+  "educational_purpose": "Show Alvar Aalto's architectural practice together with his humanist approach to wood, light and furniture without presenting a fabricated scene as documentary evidence.",
+  "may_depict": [
+    "A Finnish modernist interior opening toward a northern landscape",
+    "Bent-wood furniture, study models and a materials table",
+    "Editorially composed architecture and furniture references"
+  ],
+  "must_not_imply": [
+    "The image is a historical photograph or archival record",
+    "The depicted furniture is a verified photograph of a specific Aalto object",
+    "The image is attributable to a named photographer"
+  ],
+  "rights": {
+    "state": "generated_reviewed",
+    "disclosure": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "rights_basis": "Original AI visual generated for VANSMITHLAB without reference images or copied identifiable work.",
+    "third_party_marks": "No logo, wordmark or recognisable branded asset."
+  },
+  "accessibility": {
+    "alt_text_ru": "Редакционная фотографическая иллюстрация практики Алвара Аалто: финский модернистский интерьер, изогнутая деревянная мебель, макеты и северный пейзаж.",
+    "alt_text_en": "Editorial photographic illustration of Alvar Aalto's practice: a Finnish modernist interior, bent-wood furniture, study models and a northern landscape.",
+    "caption_ru": "Архитектура, мебель, дерево и свет показаны как единая гуманистическая система. AI-иллюстрация, не документальная фотография.",
+    "caption_en": "Architecture, furniture, wood and light are shown as one humanist system. AI illustration, not a documentary photograph."
+  },
+  "creator": "OpenAI image generation · directed and reviewed by VANSMITHLAB",
+  "created_at": "2026-08-12",
+  "asset_path": "public/images/glossary/designers/alvar-aalto-hero-v3-card.webp",
+  "generation_prompt_class": "original editorial photographic illustration for Alvar Aalto's architecture, furniture and humanist modernism",
+  "workflow_run_id": "run_20260812_media_rights_repair",
+  "content_sha256": "f31387ce57cb5fe0cba878750bad13476dc1fefc10c1530679cfca32c46e802a",
+  "rights_state": "generated_reviewed",
+  "licence_or_permission": "Original VANSMITHLAB AI visual; no third-party images, logos or trademarks.",
+  "source_url": "",
+  "creator_or_credit": "OpenAI image generation · directed and reviewed by VANSMITHLAB",
+  "file_storage_key": "public/images/glossary/designers/alvar-aalto-hero-v3-card.webp",
+  "content_hash": "f31387ce57cb5fe0cba878750bad13476dc1fefc10c1530679cfca32c46e802a",
+  "disclosure": "VANSMITHLAB · AI-иллюстрация, 2026"
+}

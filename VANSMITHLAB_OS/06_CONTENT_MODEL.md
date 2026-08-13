@@ -31,7 +31,9 @@ People pages use a two-layer visual contract: the list card visualizes the perso
 
 ## Article and analysis distinction
 
-An institutional article explains what evidence supports. A signed analysis may argue why it matters. The analysis template must label interpretive sections, name the author and link its claims to neutral knowledge objects.
+An institutional article explains what evidence supports. An analysis is a developed, authorial argument about why it matters and how the reader should understand the relationship between the evidence. Its formula is **authorial argument + cultural intrigue + facts + position**. This is the site's principal space for independent editorial work: more expansive and engaging than a reference entry, but never less rigorous.
+
+An analysis must begin with a concrete case, scene, object, conflict or documented fact before introducing an abstract definition. It must build from a strong question, state a thesis, show three to five sourced mini-analyses, explain the visual mechanics and cultural conflict, and end with an independent conclusion. Existing dry informational DOCX files are research material to rewrite, not finished Analysis publications. The full dramaturgy, tone, fact boundary, visual rhythm and release gate are defined in `20_ANALYSIS_EDITORIAL_STANDARD.md`.
 
 ## Publication state machine
 

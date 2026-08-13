@@ -47,7 +47,50 @@
     "art-director",
     "graphic-designer",
     "photographer",
-    "artist"
+    "artist",
+    "educator"
   ],
-  "body_hash": "764c01de716937e6ed9832f07f6732d1df060a5a680d5ddea13f42fc1f57e98c"
+  "body_hash": "764c01de716937e6ed9832f07f6732d1df060a5a680d5ddea13f42fc1f57e98c",
+  "hero_image": {
+    "src": "/images/glossary/art-directors/marvin-israel-selection-tension-trust-art-direction-hero-v1-card.svg",
+    "asset_id": "asset_marvin-israel-selection-tension-trust-art-direction_card_v1",
+    "primary_object_id": "",
+    "content_release_id": "cnt_985bf3313c7f2334",
+    "kind": "image",
+    "locale": "ru",
+    "content_hash": "21127eaa319ee84bfd37ed699cea76ff7af326ff6cbfbfbc8af2e9020d9747f6",
+    "file_storage_key": "public/images/glossary/art-directors/marvin-israel-selection-tension-trust-art-direction-hero-v1-card.svg",
+    "creator_or_credit": "VANSMITHLAB editorial visual system",
+    "rights_state": "original",
+    "licence_or_permission": "Original VANSMITHLAB SVG editorial visual; no third-party images, logos or trademarks.",
+    "source_url": "",
+    "created_at": "2026-08-12",
+    "alt": "Редакционная схема метода Marvin Israel: выбор, напряжение и доверие между изображением и полосой.",
+    "alt_text": "Редакционная схема метода Marvin Israel: выбор, напряжение и доверие между изображением и полосой.",
+    "caption": "Арт-дирекция как точный отбор и управление напряжением между элементами.",
+    "credit": "VANSMITHLAB · original editorial visual, 2026",
+    "origin": "editorial",
+    "rights_status": "original"
+  },
+  "portrait_image": {
+    "src": "/images/glossary/art-directors/marvin-israel-selection-tension-trust-art-direction-portrait-ai-v1.webp",
+    "asset_id": "asset_marvin-israel-selection-tension-trust-art-direction_portrait_v1",
+    "primary_object_id": "",
+    "content_release_id": "cnt_985bf3313c7f2334",
+    "kind": "image",
+    "locale": "ru",
+    "content_hash": "81b641c8f52ac8a93ed20e8f0cdb9e4387bba6d081b3f471d8af1b0d5cabed47",
+    "file_storage_key": "public/images/glossary/art-directors/marvin-israel-selection-tension-trust-art-direction-portrait-ai-v1.webp",
+    "creator_or_credit": "OpenAI image generation · directed and reviewed by VANSMITHLAB",
+    "rights_state": "generated_reviewed",
+    "licence_or_permission": "Original AI portrait reconstruction generated for VANSMITHLAB without copying a specific protected photograph; not documentary evidence.",
+    "source_url": "",
+    "created_at": "2026-08-12",
+    "alt": "AI-реконструкция портрета Marvin Israel за столом с макетами и proof-листами.",
+    "alt_text": "AI-реконструкция портрета Marvin Israel за столом с макетами и proof-листами.",
+    "caption": "Marvin Israel, арт-директор. AI-реконструкция, не архивная фотография.",
+    "credit": "VANSMITHLAB · AI-реконструкция, 2026",
+    "origin": "ai_reconstruction",
+    "rights_status": "generated_reviewed"
+  }
 }

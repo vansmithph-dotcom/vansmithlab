@@ -22,15 +22,25 @@
     "third_party_marks": "No logo, wordmark or recognisable branded asset."
   },
   "accessibility": {
-    "alt_text_ru": "AI-реконструкция портрета: Тим Уокер, фотограф.",
-    "alt_text_en": "AI reconstruction of a portrait of Tim Walker, photographer.",
-    "caption_ru": "Тим Уокер, фотограф. AI-реконструкция портрета по публичным референсам.",
-    "caption_en": "Tim Walker, photographer. AI portrait reconstruction from public references."
+    "alt_text_ru": "AI-реконструкция портрета Tim Walker на съёмочной площадке с театральной декорацией.",
+    "alt_text_en": "AI reconstruction of Tim Walker on a set with theatrical scenery.",
+    "caption_ru": "Tim Walker, фотограф. AI-реконструкция, не архивная фотография.",
+    "caption_en": "Tim Walker, photographer. AI reconstruction, not an archival photograph."
   },
   "creator": "OpenAI image generation · directed and reviewed by VANSMITHLAB",
   "created_at": "2026-08-12",
   "asset_path": "public/images/glossary/photographers/tim-walker-fantasy-set-storytelling-fashion-image-portrait-ai-v1.webp",
   "generation_prompt_class": "original fictional editorial visual for tim-walker-fantasy-set-storytelling-fashion-image",
-  "workflow_run_id": "run_20260812_art_directors_photographers",
-  "content_sha256": ""
+  "workflow_run_id": "run_20260812_media_rights_repair",
+  "content_sha256": "",
+  "content_release_ids": [
+    "cnt_57a2ce8293233775"
+  ],
+  "rights_state": "generated_reviewed",
+  "licence_or_permission": "Original AI portrait reconstruction generated for VANSMITHLAB without copying a specific protected photograph; not documentary evidence.",
+  "source_url": "",
+  "creator_or_credit": "OpenAI image generation · directed and reviewed by VANSMITHLAB",
+  "file_storage_key": "public/images/glossary/photographers/tim-walker-fantasy-set-storytelling-fashion-image-portrait-ai-v1.webp",
+  "content_hash": "181da089c435f0a56344f83daa600389dca85c83cdb448de075049b237f3d2dd",
+  "disclosure": "VANSMITHLAB · AI-реконструкция, 2026"
 }

@@ -24,7 +24,7 @@
 | `EVIDENCE_CONFLICT` | Strong sources conflict. | Hold factual release; present both positions only if context permits. |
 | `MISSING_PRIMARY_EVIDENCE` | A material claim lacks sufficient evidence. | Keep draft/private; do not infer. |
 | `RIGHTS_OR_BRAND_RISK` | Media rights, defamation, trademark or misrepresentation risk. | Remove/replace asset and hold release. |
-| `EDITORIAL_CHOICE` | Several valid analytical frames need an authorial choice. | Publish neutral knowledge only; defer the essay. |
+| `EDITORIAL_CHOICE` | Several valid analytical frames need an authorial choice that the VANSMITHLAB editor cannot resolve from the brief and evidence. | Hold the analysis and ask the user for the missing authorial choice. Routine image selection, crop, replacement and final presentation belong to the VANSMITHLAB editor and are not escalated. |
 | `HIGH_IMPACT_CORRECTION` | Correction materially changes a released position. | Roll back/hide affected claim and prepare correction. |
 | `UNRESOLVED_TRANSLATION` | Meaning cannot safely carry to a locale. | Keep Russian master live; hold locale. |
 

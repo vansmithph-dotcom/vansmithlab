@@ -3,7 +3,7 @@
   "primary_object_id": "",
   "content_release_id": "cnt_3aee9f965e90e660",
   "kind": "image",
-  "origin": "ai_illustration",
+  "origin": "editorial",
   "locale": "multilingual",
   "educational_purpose": "Visualize Hiro's method as precise studio construction where colour and object are staged with surreal exactness, without reproducing protected photographs.",
   "may_depict": [
@@ -22,15 +22,25 @@
     "third_party_marks": "No logo, wordmark or recognisable branded asset."
   },
   "accessibility": {
-    "alt_text_ru": "Редакционная AI-иллюстрация: предмет на неожиданной поверхности, насыщенный цветовой фон и жёсткая контролируемая тень.",
-    "alt_text_en": "Editorial AI illustration: an object on an unexpected surface, a saturated colour field and a hard controlled shadow.",
-    "caption_ru": "Свет, цвет и сюрреалистическая точность: визуализация метода Хиро.",
-    "caption_en": "Light, colour and surreal precision: a visualization of Hiro's method."
+    "alt_text_ru": "Редакционная схема метода Hiro: контролируемый свет, точность цвета и студийная постановка.",
+    "alt_text_en": "Editorial diagram of Hiro's method: controlled light, colour precision and studio staging.",
+    "caption_ru": "Свет и цвет становятся конструкцией образа, а не нейтральной записью объекта.",
+    "caption_en": "Light and colour become a construction of the image, not a neutral record of the object."
   },
   "creator": "OpenAI image generation · directed and reviewed by VANSMITHLAB",
   "created_at": "2026-08-12",
-  "asset_path": "public/images/glossary/photographers/hiro-light-color-surreal-precision-hero-v1-card.webp",
+  "asset_path": "public/images/glossary/photographers/hiro-light-color-surreal-precision-hero-v1-card.svg",
   "generation_prompt_class": "original fictional editorial visual for hiro-light-color-surreal-precision",
-  "workflow_run_id": "run_20260812_art_directors_photographers",
-  "content_sha256": ""
+  "workflow_run_id": "run_20260812_media_rights_repair",
+  "content_sha256": "",
+  "content_release_ids": [
+    "cnt_3aee9f965e90e660"
+  ],
+  "rights_state": "original",
+  "licence_or_permission": "Original VANSMITHLAB SVG editorial visual; no third-party images, logos or trademarks.",
+  "source_url": "",
+  "creator_or_credit": "VANSMITHLAB editorial visual system",
+  "file_storage_key": "public/images/glossary/photographers/hiro-light-color-surreal-precision-hero-v1-card.svg",
+  "content_hash": "b13c5373fd7b15da56e74dfc8681a0d2307f302aeb09f1f31edadde174ad18d4",
+  "disclosure": "VANSMITHLAB · original editorial visual, 2026"
 }

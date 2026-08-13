@@ -9,7 +9,7 @@
   "confidence_score": 0.0,
   "claim_ids": [],
   "source_ids": [],
-  "last_reviewed": "2026-08-09",
+  "last_reviewed": "2026-08-12",
   "author": "VANSMITHLAB",
   "locale": "ru",
   "slug": "deborah-turbeville",
@@ -23,6 +23,19 @@
     "photographer"
   ],
   "body_hash": "34813ca1f2a94d6cb6ae7194db60d04beed957450f4d06cd13018bcf0e9f9237",
-  "hero_image": {"src":"/images/glossary/photographers/deborah-turbeville-hero-v2-card.webp","alt":"Редакционная визуализация метода Деборы Тёрбевилл","caption":"Память, мягкий фокус и антиглянец","credit":"VANSMITHLAB · AI-иллюстрация, 2026","origin":"ai_illustration"},
-  "portrait_image": {"src":"/images/glossary/photographers/deborah-turbeville-portrait-source.webp","alt":"Портрет Деборы Тёрбевилл","caption":"Дебора Тёрбевилл","credit":"Wikipedia source image: https://en.wikipedia.org/wiki/Deborah_Turbeville","origin":"wikipedia","rights_status":"editorial_basis_recorded"}
+  "hero_image": {
+    "src": "/images/glossary/photographers/deborah-turbeville-hero-v2-card.webp",
+    "alt": "Редакционная визуализация метода Деборы Тёрбевилл",
+    "caption": "Память, мягкий фокус и антиглянец",
+    "credit": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "origin": "ai_illustration"
+  },
+  "portrait_image": {
+    "src": "/images/glossary/photographers/deborah-turbeville-portrait-source.webp",
+    "alt": "Портрет Деборы Тёрбевилл",
+    "caption": "Дебора Тёрбевилл",
+    "credit": "Wikipedia source image: https://en.wikipedia.org/wiki/Deborah_Turbeville",
+    "origin": "wikipedia",
+    "rights_status": "editorial_basis_recorded"
+  }
 }

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img">
+<rect width="1600" height="900" fill="#f2eee6"/>
+<defs><pattern id="grid" width="80" height="80" patternUnits="userSpaceOnUse"><path d="M80 0H0V80" fill="none" stroke="#ded7ca" stroke-width="1"/></pattern></defs>
+<rect x="40" y="40" width="1520" height="820" fill="url(#grid)" opacity=".46"/>
+<rect x="40" y="40" width="1520" height="820" rx="0" fill="none" stroke="#171716" stroke-width="2"/>
+<text x="78" y="96" fill="#c84a31" text-anchor="start" font-family="monospace" font-size="15" font-weight="500" letter-spacing="2">VANSMITHLAB / ANALYSIS / 07</text>
+<text x="78" y="170" fill="#171716" text-anchor="start" font-family="Georgia" font-size="48" font-weight="500" letter-spacing="0">TWO SPEEDS OF ATTENTION</text>
+<line x1="78" y1="202" x2="1522" y2="202" stroke="#171716" stroke-width="2"/>
+<text x="78" y="824" fill="#777167" text-anchor="start" font-family="Arial" font-size="19" font-weight="400" letter-spacing="0">Fashion film builds atmosphere; the vertical feed demands an instantly legible gesture</text>
+<text x="165" y="300" fill="#171716" text-anchor="start" font-family="monospace" font-size="17" font-weight="700" letter-spacing="0">SLOW MYTH</text>
+<path d="M145 590 C300 285 540 285 715 590" fill="none" stroke="#284e78" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="205" cy="388.0" r="8" fill="#284e78" stroke="#284e78" stroke-width="2"/>
+<circle cx="325" cy="454.0" r="8" fill="#284e78" stroke="#284e78" stroke-width="2"/>
+<circle cx="445" cy="520.0" r="8" fill="#284e78" stroke="#284e78" stroke-width="2"/>
+<circle cx="565" cy="454.0" r="8" fill="#284e78" stroke="#284e78" stroke-width="2"/>
+<circle cx="685" cy="388.0" r="8" fill="#284e78" stroke="#284e78" stroke-width="2"/>
+<line x1="780" y1="270" x2="780" y2="690" stroke="#171716" stroke-width="2"/>
+<text x="860" y="300" fill="#171716" text-anchor="start" font-family="monospace" font-size="17" font-weight="700" letter-spacing="0">FIRST SECONDS</text>
+<rect x="885" y="345" width="270" height="330" rx="28" fill="#171716" stroke="#171716" stroke-width="2"/>
+<rect x="915" y="385" width="210" height="220" rx="0" fill="#fbf8f1" stroke="#fbf8f1" stroke-width="2"/>
+<circle cx="1020" cy="640" r="12" fill="#c84a31" stroke="#c84a31" stroke-width="2"/>
+<rect x="1215" y="450" width="50" height="225" rx="0" fill="#c84a31" stroke="none" stroke-width="2"/>
+<text x="1240" y="710" fill="#777167" text-anchor="middle" font-family="monospace" font-size="12" font-weight="500" letter-spacing="0">0.1s</text>
+<rect x="1300" y="560" width="50" height="115" rx="0" fill="#284e78" stroke="none" stroke-width="2"/>
+<text x="1325" y="710" fill="#777167" text-anchor="middle" font-family="monospace" font-size="12" font-weight="500" letter-spacing="0">0.2s</text>
+<rect x="1385" y="390" width="50" height="285" rx="0" fill="#284e78" stroke="none" stroke-width="2"/>
+<text x="1410" y="710" fill="#777167" text-anchor="middle" font-family="monospace" font-size="12" font-weight="500" letter-spacing="0">0.3s</text>
+<rect x="1470" y="605" width="50" height="70" rx="0" fill="#284e78" stroke="none" stroke-width="2"/>
+<text x="1495" y="710" fill="#777167" text-anchor="middle" font-family="monospace" font-size="12" font-weight="500" letter-spacing="0">0.4s</text>
+<text x="1365" y="340" fill="#c84a31" text-anchor="middle" font-family="monospace" font-size="17" font-weight="700" letter-spacing="0">SWIPE</text>
+<path d="M1185 375 L1495 375" fill="none" stroke="#c84a31" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1475 355 L1495 375 L1475 395" fill="none" stroke="#c84a31" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

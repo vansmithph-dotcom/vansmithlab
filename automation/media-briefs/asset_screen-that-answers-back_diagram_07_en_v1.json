@@ -1,0 +1,56 @@
+{
+  "asset_id": "asset_screen-that-answers-back_diagram_07_en_v1",
+  "primary_object_id": "obj_screen_that_answers_back_20260813",
+  "content_release_id": "VSL-AN-INTERFACE-005",
+  "kind": "diagram",
+  "origin": "editorial_diagram",
+  "locale": "en",
+  "author_supplied_reference": {
+    "reference_url": "https://developer.apple.com/design/human-interface-guidelines/designing-for-visionos",
+    "asset_url": "",
+    "creator_or_rightsholder": "VANSMITHLAB",
+    "title_or_subject": "Map: pointer → touch → gaze/pinch → natural-language intent",
+    "date_or_context": "2026 editorial analysis release",
+    "placement": "sec-9",
+    "supports_claims_or_examples": [
+      "clm_ui_visionos",
+      "clm_ui_gaze",
+      "clm_ui_hai"
+    ],
+    "why_this_visual_matters": "Original VANSMITHLAB diagram: as control becomes less visible, feedback and control become more important.",
+    "suggested_alt_text_ru": "Схема сравнивает указатель, касание, взгляд с жестом и естественно-языковой запрос как разные способы управления системой.",
+    "suggested_alt_text_en": "Diagram comparing pointer, touch, gaze with pinch, and natural-language intent as different ways of controlling a system.",
+    "suggested_caption_ru": "Оригинальная схема VANSMITHLAB: управление становится менее видимым, поэтому обратная связь и контроль становятся важнее.",
+    "suggested_caption_en": "Original VANSMITHLAB diagram: as control becomes less visible, feedback and control become more important.",
+    "rights_basis_from_author": "Original VANSMITHLAB editorial diagram; no third-party image copied."
+  },
+  "educational_purpose": "Original VANSMITHLAB diagram: as control becomes less visible, feedback and control become more important.",
+  "must_not_imply": [
+    "A documentary screenshot or reproduction",
+    "Endorsement by the referenced organization or platform"
+  ],
+  "rights": {
+    "status": "editorial_basis_recorded",
+    "rights_basis": "Original VANSMITHLAB editorial diagram; no third-party visual asset embedded.",
+    "third_party_marks": "Textual nominative reference only where needed for analysis."
+  },
+  "accessibility": {
+    "alt": "Diagram comparing pointer, touch, gaze with pinch, and natural-language intent as different ways of controlling a system.",
+    "caption": "Original VANSMITHLAB diagram: as control becomes less visible, feedback and control become more important."
+  },
+  "creator": "VANSMITHLAB editorial visual system",
+  "created_at": "2026-08-13",
+  "asset_path": "public/images/articles/screen-that-answers-back/diagram-07-en.svg",
+  "file": {
+    "path": "/images/articles/screen-that-answers-back/diagram-07-en.svg",
+    "sha256": "3535272202ff41bd8c8a5a60370d2556e5a1049f32788396af3c4566113f47ea",
+    "width": 1600,
+    "height": 900
+  },
+  "source_url": "https://developer.apple.com/design/human-interface-guidelines/designing-for-visionos",
+  "rights_state": "editorial_basis_recorded",
+  "licence": "Original VANSMITHLAB editorial diagram; no third-party image copied.",
+  "licence_or_permission": "Original VANSMITHLAB editorial diagram; no third-party image copied.",
+  "creator_or_credit": "VANSMITHLAB",
+  "disclosure": "Редакционная диаграмма VANSMITHLAB."
+}

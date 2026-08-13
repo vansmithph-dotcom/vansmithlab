@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title-07">
+<title id="title-07">ПРОСТРАНСТВО И ИИ: КАРТА УПРАВЛЕНИЯ</title>
+<rect width="1600" height="900" fill="#f2eee6"/>
+<defs><pattern id="grid" width="80" height="80" patternUnits="userSpaceOnUse"><path d="M80 0H0V80" fill="none" stroke="#ded7ca" stroke-width="1"/></pattern></defs>
+<rect x="40" y="40" width="1520" height="820" fill="url(#grid)" opacity=".48"/>
+<rect x="40" y="40" width="1520" height="820" rx="0" fill="none" stroke="#171716" stroke-width="2"/>
+<text x="78" y="96" fill="#c84a31" text-anchor="start" font-family="monospace" font-size="15" font-weight="700" letter-spacing="2">VANSMITHLAB / ANALYSIS / 07</text>
+<text x="78" y="170" fill="#171716" text-anchor="start" font-family="Georgia" font-size="44" font-weight="500" letter-spacing="0">ПРОСТРАНСТВО И ИИ: КАРТА УПРАВЛЕНИЯ</text>
+<line x1="78" y1="202" x2="1522" y2="202" stroke="#171716" stroke-width="2"/>
+<text x="78" y="824" fill="#777167" text-anchor="start" font-family="Georgia" font-size="18" font-weight="400" letter-spacing="0">Чем менее заметен механизм управления, тем важнее ясный ответ системы.</text>
+<text x="210" y="310" fill="#171716" text-anchor="middle" font-family="monospace" font-size="16" font-weight="700" letter-spacing="0">УКАЗАТЕЛЬ</text>
+<line x1="210" y1="350" x2="210" y2="645" stroke="#c8c0b3" stroke-width="2" stroke-dasharray='7 9'/>
+<path d="M130 570 L250 450 L305 570" fill="none" stroke="#171716" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="325" y1="620" x2="425" y2="620" stroke="#c84a31" stroke-width="4"/>
+<path d="M410 606 L425 620 L410 634" fill="none" stroke="#c84a31" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="540" y="310" fill="#171716" text-anchor="middle" font-family="monospace" font-size="16" font-weight="700" letter-spacing="0">КАСАНИЕ</text>
+<line x1="540" y1="350" x2="540" y2="645" stroke="#c8c0b3" stroke-width="2" stroke-dasharray='7 9'/>
+<rect x="460" y="430" width="160" height="220" rx="22" fill="#171716" stroke="#171716" stroke-width="2"/>
+<rect x="482" y="465" width="116" height="125" rx="6" fill="#fbf8f1" stroke="#fbf8f1" stroke-width="2"/>
+<line x1="655" y1="620" x2="785" y2="620" stroke="#c84a31" stroke-width="4"/>
+<path d="M770 606 L785 620 L770 634" fill="none" stroke="#c84a31" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="900" y="310" fill="#171716" text-anchor="middle" font-family="monospace" font-size="16" font-weight="700" letter-spacing="0">ВЗГЛЯД + ЖЕСТ</text>
+<line x1="900" y1="350" x2="900" y2="645" stroke="#c8c0b3" stroke-width="2" stroke-dasharray='7 9'/>
+<path d="M785 600 Q900 355 1015 600" fill="none" stroke="#284e78" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="900" y="485" fill="#c84a31" text-anchor="middle" font-family="Georgia" font-size="38" font-weight="500" letter-spacing="0">○  ×</text>
+<line x1="1015" y1="620" x2="1145" y2="620" stroke="#c84a31" stroke-width="4"/>
+<path d="M1130 606 L1145 620 L1130 634" fill="none" stroke="#c84a31" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="1260" y="310" fill="#171716" text-anchor="middle" font-family="monospace" font-size="16" font-weight="700" letter-spacing="0">НАМЕРЕНИЕ ЯЗЫКОМ</text>
+<line x1="1260" y1="350" x2="1260" y2="645" stroke="#c8c0b3" stroke-width="2" stroke-dasharray='7 9'/>
+<rect x="1135" y="430" width="250" height="165" rx="16" fill="#ead3ca" stroke="#c84a31" stroke-width="4"/>
+<text x="1260" y="500" fill="#171716" text-anchor="middle" font-family="Georgia" font-size="60" font-weight="500" letter-spacing="0">?</text>
+<text x="1260" y="550" fill="#171716" text-anchor="middle" font-family="monospace" font-size="13" font-weight="700" letter-spacing="0">CONFIRM / REVISE</text>
+</svg>

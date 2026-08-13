@@ -1,0 +1,51 @@
+{
+  "asset_id": "asset_music-video-myth-factory_diagram_02_en_v1",
+  "primary_object_id": "obj_music_video_myth_factory_20260813",
+  "content_release_id": "VSL-AN-MV-002",
+  "kind": "diagram",
+  "origin": "editorial_diagram",
+  "locale": "en",
+  "author_supplied_reference": {
+    "reference_url": "https://www.loc.gov/loc/lcib/10012/detail/films02.html",
+    "asset_url": "",
+    "creator_or_rightsholder": "VANSMITHLAB",
+    "title_or_subject": "Still from Michael Jackson’s Thriller",
+    "date_or_context": "Original explanatory diagram, 2026",
+    "placement": "sec-3",
+    "supports_claims_or_examples": [
+      "clm_mv_thriller_nfr"
+    ],
+    "why_this_visual_matters": "Lets the reader inspect how costume, horror makeup, choreography and cinematic staging turn a song into a repeatable world.",
+    "suggested_alt_en": "Still from Michael Jackson’s Thriller used to inspect costume, horror makeup and mass choreography.",
+    "suggested_caption_en": "Michael Jackson’s Thriller, directed by John Landis, 1983. Visual reference: Library of Congress. Rights for the final still require verification.",
+    "rights_basis_from_author": "Original VANSMITHLAB editorial diagram; no third-party image copied."
+  },
+  "educational_purpose": "Lets the reader inspect how costume, horror makeup, choreography and cinematic staging turn a song into a repeatable world.",
+  "must_not_imply": [
+    "A documentary screenshot",
+    "Endorsement by the referenced artist, archive or platform"
+  ],
+  "rights": {
+    "status": "editorial_basis_recorded",
+    "rights_basis": "Original VANSMITHLAB editorial diagram; no third-party visual asset embedded.",
+    "third_party_marks": "Textual nominative reference only where needed for analysis."
+  },
+  "accessibility": {
+    "alt": "Still from Michael Jackson’s Thriller used to inspect costume, horror makeup and mass choreography.",
+    "caption": "Michael Jackson’s Thriller, directed by John Landis, 1983. Visual reference: Library of Congress. Rights for the final still require verification."
+  },
+  "creator": "VANSMITHLAB editorial visual system",
+  "created_at": "2026-08-13",
+  "asset_path": "public/images/articles/music-video-myth-factory/diagram-02-en.svg",
+  "file": {
+    "path": "/images/articles/music-video-myth-factory/diagram-02-en.svg",
+    "sha256": "f874c6c0ae52fa42f6505da348b75f76c5954cfadd68258e67eca41ae20916b1",
+    "width": 1600,
+    "height": 900
+  },
+  "source_url": "https://www.loc.gov/loc/lcib/10012/detail/films02.html",
+  "rights_state": "editorial_basis_recorded",
+  "licence_or_permission": "Original VANSMITHLAB editorial diagram; no third-party image copied.",
+  "creator_or_credit": "VANSMITHLAB",
+  "disclosure": "Редакционная диаграмма VANSMITHLAB."
+}

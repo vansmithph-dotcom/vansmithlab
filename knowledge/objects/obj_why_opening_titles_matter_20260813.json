@@ -1,0 +1,553 @@
+{
+  "id": "obj_why_opening_titles_matter_20260813",
+  "type": "theme",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 2,
+  "title_ru": "Почему титры иногда важнее первой сцены",
+  "title_en": "Why Opening Titles Can Matter More Than the First Scene",
+  "slug_ru": "why-opening-titles-matter-more-than-first-scene",
+  "slug_en": "why-opening-titles-matter-more-than-first-scene",
+  "summary_ru": "Saul Bass, Kyle Cooper и Skip Intro — как заставка учит зрителя смотреть",
+  "verification_state": "verified",
+  "confidence_score": 0.87,
+  "created_at": "2026-08-13T00:00:00.000Z",
+  "updated_at": "2026-08-13T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_titles_short_answer",
+      "wording_ru": "Потому что титры работают в редкой зоне: фильм уже начался, но сюжет ещё не занял всё внимание. В этот момент графический дизайн может управлять ожиданием напрямую — через движение, типографику, музыку, паузу, абстракцию и повтор. Bass показал, что символ может стать драматургией; Ferro — что буква может иметь голос; Binder — что заставка может быть ритуалом франшизы; Cooper — что титры могут ввести сознание персонажа раньше его лица. Streaming добавил новый конфликт: зритель теперь сам решает, считать ли этот порог частью произведения.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://about.netflix.com/en/news/looking-back-on-the-origin-of-skip-intro-five-years-later",
+          "locator": "DOCX section short-answer",
+          "support": "Netflix's Skip Intro account and BFI opening-credits list establish the streaming-era conflict; the threshold-dramaturgy synthesis is VANSMITHLAB interpretation."
+        },
+        {
+          "source_url": "https://www.bfi.org.uk/lists/10-opening-credits-sequences-21st-century",
+          "locator": "DOCX section short-answer",
+          "support": "Netflix's Skip Intro account and BFI opening-credits list establish the streaming-era conflict; the threshold-dramaturgy synthesis is VANSMITHLAB interpretation."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.87
+    },
+    {
+      "id": "clm_titles_psycho_bass",
+      "wording_ru": "В Psycho первое насилие происходит ещё до того, как фильм показывает нож. На чёрном экране длинные полосы врезаются в имена, растаскивают буквы, снова собирают их и исчезают. Саул Басс не рассказывает нам, что случится с Мэрион Крейн. Он делает другое: заставляет зрителя почувствовать разрез, нерв и нарушение целого раньше сюжета. Это хороший пример того, почему титры нельзя считать нейтральной рамкой вокруг фильма. В сильной последовательности имя актёра, линия, звук и пауза уже работают как драматургия. Мы ещё ничего не знаем о мотеле, матери, деньгах и убийстве, но способ смотреть уже задан. Отсюда и главный вопрос этой статьи: почему часть изображения, которую стриминговый интерфейс сегодня позволяет пропустить одним нажатием, иногда формирует наше восприятие фильма сильнее, чем первая сюжетная сцена?",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.oscars.org/collection-highlights/alfred-hitchcock",
+          "locator": "DOCX section sec-1",
+          "support": "Academy and BFI records establish Hitchcock and Bass title-sequence context; the split-and-reassemble reading is VANSMITHLAB interpretation."
+        },
+        {
+          "source_url": "https://www.bfi.org.uk/lists/celebrating-saul-basss-centenary-10-essential-title-sequences",
+          "locator": "DOCX section sec-1",
+          "support": "Academy and BFI records establish Hitchcock and Bass title-sequence context; the split-and-reassemble reading is VANSMITHLAB interpretation."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.87
+    },
+    {
+      "id": "clm_titles_credits_function",
+      "wording_ru": "Обычные начальные титры решают практическую задачу: называют создателей фильма и фиксируют авторство. Но в момент, когда графический дизайн входит во время, служебный текст превращается в систему внимания. Criterion прямо описывает opening и closing credits как обязательную часть фильма, потенциал которой Саул Басс превратил в самостоятельное пространство визуальной работы. У такой системы есть несколько рычагов. Типографика задаёт характер: строгий, нервный, роскошный, детский или документальный. Монтаж задаёт скорость чтения. Музыка определяет, воспринимаем ли мы появление имени как удар, шёпот, ожидание или угрозу. Пространство вокруг букв объясняет, где находится зритель: перед экраном, внутри архитектуры, в сознании персонажа или в абстрактном графическом поле. Хорошие титры поэтому не сообщают, что фильм начинается. Они заранее учат зрителя, как этот фильм нужно смотреть. Это и есть их скрытая власть: они управляют состоянием до того, как повествование начинает просить от нас понимания.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.criterion.com/current/posts/6937-credit-where-it-s-due-the-father-of-the-title-sequence",
+          "locator": "DOCX section sec-2",
+          "support": "Criterion's essay establishes credits as an integral part of the film and Bass's expansion of the form; the attention-system conclusion is VANSMITHLAB interpretation."
+        }
+      ],
+      "verification_state": "verified",
+      "confidence_score": 0.87
+    },
+    {
+      "id": "clm_titles_bass_collection",
+      "wording_ru": "Историю титров легко превратить в длинную хронологию, но для анализа важнее один поворот. До середины XX века экранный кредит мог быть очень выразительным, однако в массовой студийной системе он часто оставался прежде всего списком имён. Басс помог радикально расширить эту функцию: знак рекламной кампании, плакат, типографика и движение начали работать как одна концепция. BFI связывает этот поворот с его работой 1950–1960-х, а Academy хранит в Saul Bass Collection оригинальные artwork, storyboards и материалы к ключевым фильмам. Суть не в том, что один дизайнер «изобрёл» титры. Суть в другом: Басс показал, что несколько минут до сюжета могут быть спроектированы с той же точностью, что плакат или идентичность бренда, только главным материалом становится время. Так графический дизайн перестал висеть перед фильмом как табличка. Он вошёл в монтаж и начал выполнять работу пролога: не пересказывать историю, а создавать климат, в котором история будет прочитана.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.bfi.org.uk/lists/celebrating-saul-basss-centenary-10-essential-title-sequences",
+          "locator": "DOCX section sec-3",
+          "support": "Academy's Saul Bass Collection and BFI centenary list establish the artwork, storyboards and 1950s-60s campaign-to-title continuity."
+        },
+        {
+          "source_url": "https://www.oscars.org/events/words-film-inside-saul-bass-collection",
+          "locator": "DOCX section sec-3",
+          "support": "Academy's Saul Bass Collection and BFI centenary list establish the artwork, storyboards and 1950s-60s campaign-to-title continuity."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.87
+    },
+    {
+      "id": "clm_titles_vertigo_whitney",
+      "wording_ru": "В Vertigo Басс строит вход в фильм вокруг глаза, лица и спирали. BFI отмечает сотрудничество с пионером компьютерной анимации John Whitney; Academy отдельно указывает, что Whitney использовал механическую вычислительную систему, чтобы заставить графику Басс двигаться. Это важный момент: знак перестаёт быть только формой и получает длительность. Посмотрите на разницу между плакатом и титрами. Плакат может показать спираль целиком. Кино заставляет нас ждать, пока она появляется, вращается, умножается и затягивает взгляд. Значение рождается уже не только из формы, но из темпа и повторения. В Psycho другой приём — не воронка, а разрез. Полосы нарушают буквы и снова собирают их. Один дизайнер использует разные механики, потому что механика подчинена фильму, а не личному стилю. Именно поэтому наследие Bass полезно дизайнеру сегодня не как набор цитат из 1950-х. Его метод говорит: сначала найди внутреннюю структуру произведения, затем придумай графическое действие, которое даст этой структуре время.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.bfi.org.uk/lists/celebrating-saul-basss-centenary-10-essential-title-sequences",
+          "locator": "DOCX section sec-4",
+          "support": "Academy and BFI records establish the Bass-Whitney collaboration and mechanical computer graphics for Vertigo."
+        },
+        {
+          "source_url": "https://www.oscars.org/events/leading-digital-animators-make-colorful-academy-event",
+          "locator": "DOCX section sec-4",
+          "support": "Academy and BFI records establish the Bass-Whitney collaboration and mechanical computer graphics for Vertigo."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.87
+    },
+    {
+      "id": "clm_titles_bass_method",
+      "wording_ru": "В Vertigo Басс строит вход в фильм вокруг глаза, лица и спирали. BFI отмечает сотрудничество с пионером компьютерной анимации John Whitney; Academy отдельно указывает, что Whitney использовал механическую вычислительную систему, чтобы заставить графику Басс двигаться. Это важный момент: знак перестаёт быть только формой и получает длительность. Посмотрите на разницу между плакатом и титрами. Плакат может показать спираль целиком. Кино заставляет нас ждать, пока она появляется, вращается, умножается и затягивает взгляд. Значение рождается уже не только из формы, но из темпа и повторения. В Psycho другой приём — не воронка, а разрез. Полосы нарушают буквы и снова собирают их. Один дизайнер использует разные механики, потому что механика подчинена фильму, а не личному стилю. Именно поэтому наследие Bass полезно дизайнеру сегодня не как набор цитат из 1950-х. Его метод говорит: сначала найди внутреннюю структуру произведения, затем придумай графическое действие, которое даст этой структуре время.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.bfi.org.uk/lists/celebrating-saul-basss-centenary-10-essential-title-sequences",
+          "locator": "DOCX section sec-4",
+          "support": "BFI and Criterion essays establish Bass's method of turning a film's internal structure into graphic action over time."
+        },
+        {
+          "source_url": "https://www.criterion.com/current/posts/6937-credit-where-it-s-due-the-father-of-the-title-sequence",
+          "locator": "DOCX section sec-4",
+          "support": "BFI and Criterion essays establish Bass's method of turning a film's internal structure into graphic action over time."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.87
+    },
+    {
+      "id": "clm_titles_ferro_aiga",
+      "wording_ru": "Pablo Ferro сделал почти противоположный жест. Там, где Bass часто стремился к ясной системе, Dr. Strangelove получает рукопись, которая выглядит слишком человеческой, слишком неровной и слишком живой для военной машины на фоне. AIGA описывает Ferro как автора, известного ручной типографикой, быстрыми склейками и multi-screen приёмами; его работа для фильма Kubrick стала одним из ранних заявлений этой эстетики. Сила последовательности не в декоративной «винтажности». Буквы ведут себя как голос, который не вполне совпадает с официальной серьёзностью изображения. Военная техника обещает контроль, а рукопись ведёт себя нервно, смешно и почти неприлично. Типографика начинает комментировать картинку. Это важный сдвиг: титр может быть не упаковкой фильма, а первым авторским отношением к нему. Он способен задавать иронию, сомнение или дистанцию ещё до того, как персонажи произнесли первую реплику.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://eyeondesign.aiga.org/youre-influenced-by-film-title-designer-pablo-ferro-and-you-dont-even-know-it/",
+          "locator": "DOCX section sec-5",
+          "support": "AIGA profile and Art of the Title establish Ferro's hand typography, quick cuts and Dr. Strangelove title work."
+        },
+        {
+          "source_url": "https://www.artofthetitle.com/title/dr-strangelove-or-how-i-learned-to-stop-worrying/",
+          "locator": "DOCX section sec-5",
+          "support": "AIGA profile and Art of the Title establish Ferro's hand typography, quick cuts and Dr. Strangelove title work."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.87
+    },
+    {
+      "id": "clm_titles_binder_drno",
+      "wording_ru": "У Maurice Binder другая задача: не только ввести конкретный фильм, но и построить повторяемый вход в франшизу. Официальный сайт James Bond связывает его Dr. No с белыми точками, gun-barrel sequence, абстрактной анимацией и темпом, которые стали устойчивыми элементами 007. Сам ресурс прямо называет эти решения способом задать тон и tempo всей франшизе. Здесь титры работают как ритуал узнавания. Зритель ещё не знает нового злодея, локацию и сюжет, но уже узнаёт машину Bond по нескольким признакам: круг, ствол, силуэт, музыка, движение, цвет. Это не повтор ради повторения. Ритуал снижает порог входа в новый фильм и одновременно обещает, что знакомая система снова будет изменена. Позднейшие дизайнеры 007 продолжают разговаривать с этим наследием. Daniel Kleinman на официальном сайте франшизы прямо описывает возвращение Dr. No-style dots как сознательный знак связи с Binder. Титры здесь оказываются ближе к бренд-системе, чем к отдельной заставке.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.007.com/full-circle-the-dr-no-dots/",
+          "locator": "DOCX section sec-6",
+          "support": "Official James Bond site establishes Binder's Dr. No dots, gun-barrel sequence and their role in setting the franchise tone."
+        }
+      ],
+      "verification_state": "verified",
+      "confidence_score": 0.87
+    },
+    {
+      "id": "clm_titles_bond_legacy",
+      "wording_ru": "У Maurice Binder другая задача: не только ввести конкретный фильм, но и построить повторяемый вход в франшизу. Официальный сайт James Bond связывает его Dr. No с белыми точками, gun-barrel sequence, абстрактной анимацией и темпом, которые стали устойчивыми элементами 007. Сам ресурс прямо называет эти решения способом задать тон и tempo всей франшизе. Здесь титры работают как ритуал узнавания. Зритель ещё не знает нового злодея, локацию и сюжет, но уже узнаёт машину Bond по нескольким признакам: круг, ствол, силуэт, музыка, движение, цвет. Это не повтор ради повторения. Ритуал снижает порог входа в новый фильм и одновременно обещает, что знакомая система снова будет изменена. Позднейшие дизайнеры 007 продолжают разговаривать с этим наследием. Daniel Kleinman на официальном сайте франшизы прямо описывает возвращение Dr. No-style dots как сознательный знак связи с Binder. Титры здесь оказываются ближе к бренд-системе, чем к отдельной заставке.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.007.com/full-circle-the-dr-no-dots/",
+          "locator": "DOCX section sec-6",
+          "support": "Official James Bond site establishes Kleinman's return to Dr. No-style dots as a deliberate link to Binder."
+        },
+        {
+          "source_url": "https://www.007.com/roll-the-titles/",
+          "locator": "DOCX section sec-6",
+          "support": "Official James Bond site establishes Kleinman's return to Dr. No-style dots as a deliberate link to Binder."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.87
+    },
+    {
+      "id": "clm_titles_se7en_if",
+      "wording_ru": "В 1995 году Kyle Cooper показал, насколько далеко может зайти идея титров как первой сцены. Imaginary Forces описывает main title Se7en как последовательность, будто сделанную руками John Doe: блокноты, фотографии, лезвия, царапины, ручные вмешательства в плёнку. Её снял Harris Savides, смонтировал Angus Wall, а режиссировал Cooper. Это не просто атмосферный коллаж. Фильм долго не показывает лицо убийцы, но титры дают зрителю доступ к его способу работать: собирать, вырезать, записывать, уничтожать, фиксировать. Мы знакомимся не с внешностью персонажа, а с его процедурой. В результате заставка делает то, что обычно делает сцена: вводит действующее сознание. WIRED позже описывал буквы как процарапанные Cooper иглой по плёнке frame by frame и связывал этот приём с психикой убийцы. Важно, что техника здесь неотделима от смысла. Если заменить царапину на чистый digital glitch, останется эффект, но исчезнет ощущение физической навязчивости.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://imaginaryforces.com/project/se7en",
+          "locator": "DOCX section sec-7",
+          "support": "Imaginary Forces project record establishes the Se7en main title credits, crew and hand-made approach."
+        }
+      ],
+      "verification_state": "verified",
+      "confidence_score": 0.87
+    },
+    {
+      "id": "clm_titles_cooper_wired",
+      "wording_ru": "В 1995 году Kyle Cooper показал, насколько далеко может зайти идея титров как первой сцены. Imaginary Forces описывает main title Se7en как последовательность, будто сделанную руками John Doe: блокноты, фотографии, лезвия, царапины, ручные вмешательства в плёнку. Её снял Harris Savides, смонтировал Angus Wall, а режиссировал Cooper. Это не просто атмосферный коллаж. Фильм долго не показывает лицо убийцы, но титры дают зрителю доступ к его способу работать: собирать, вырезать, записывать, уничтожать, фиксировать. Мы знакомимся не с внешностью персонажа, а с его процедурой. В результате заставка делает то, что обычно делает сцена: вводит действующее сознание. WIRED позже описывал буквы как процарапанные Cooper иглой по плёнке frame by frame и связывал этот приём с психикой убийцы. Важно, что техника здесь неотделима от смысла. Если заменить царапину на чистый digital glitch, останется эффект, но исчезнет ощущение физической навязчивости.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.wired.com/2004/06/cooper/",
+          "locator": "DOCX section sec-7",
+          "support": "WIRED profile establishes Cooper's scratched frame-by-frame lettering for Se7en; the technique-meaning link is VANSMITHLAB interpretation."
+        },
+        {
+          "source_url": "https://www.artofthetitle.com/designer/kyle-cooper/",
+          "locator": "DOCX section sec-7",
+          "support": "WIRED profile establishes Cooper's scratched frame-by-frame lettering for Se7en; the technique-meaning link is VANSMITHLAB interpretation."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.87
+    },
+    {
+      "id": "clm_titles_tv_academy",
+      "wording_ru": "В полнометражном фильме вход обычно происходит один раз. В сериале он возвращается эпизод за эпизодом, и эта повторяемость меняет функцию титров. Заставка становится не только порогом, но и памятью: коротким маршрутом обратно в тот же мир. Зритель узнаёт ритм раньше сюжета и получает несколько секунд для переключения внимания. То, что title design стал самостоятельной профессиональной дисциплиной, видно и институционально. Television Academy сегодня имеет отдельную peer group Motion & Title Design, а в 2026 году категория Outstanding Title Design продолжает оценивать работу creative directors, art directors, designers, animators, cinematographers и editors. Для VANSMITHLAB здесь важна не награда сама по себе, а устройство профессии. Титры оказываются коллективным дизайном времени: типографика, motion, звук, монтаж, иллюстрация, 3D и съёмка должны работать как единая короткая система. Сериал делает эту систему особенно заметной, потому что зритель встречает её снова и снова.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.televisionacademy.com/academy/organization/peer-groups/motion-title-design",
+          "locator": "DOCX section sec-8",
+          "support": "Television Academy peer group and 2026 award pages establish Motion & Title Design as an institutional discipline."
+        },
+        {
+          "source_url": "https://www.televisionacademy.com/awards/nominees-winners/2026/outstanding-title-design",
+          "locator": "DOCX section sec-8",
+          "support": "Television Academy peer group and 2026 award pages establish Motion & Title Design as an institutional discipline."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.87
+    },
+    {
+      "id": "clm_titles_skip_intro",
+      "wording_ru": "Потоковая платформа добавила в эту историю нового автора — интерфейс. Netflix рассказывает, что тестирование Skip Intro началось в 2017 году; к 2022 году компания сообщала о 136 миллионах нажатий на кнопку в типичный день и о 195 годах суммарного времени, которое пользователи ежедневно экономили. Это данные самой платформы, но масштаб хорошо показывает изменение поведения. Парадокс очевиден. Индустрия признаёт title design отдельной дисциплиной, дизайнеры и режиссёры тратят месяцы на настройку двух минут, а продуктовый интерфейс одновременно говорит зрителю: эту часть можно убрать как трение между вами и сюжетом. Авторский порог сталкивается с пользовательской оптимизацией. Интерпретация Skip Intro не доказывает, что титры стали ненужными. Скорее он делает их задачу жёстче. Если последовательность должна пережить возможность мгновенного пропуска, она должна быть не обязанностью, а причиной остаться: ритуалом, загадкой, музыкой, визуальной идеей или частью рассказа, потеря которой ощущается.  Именно здесь титры становятся хорошим тестом для всей экранной культуры. Что мы считаем содержанием, а что — задержкой перед содержанием? Ответ уже не определяет только режиссёр. Его совместно формируют дизайнер, платформа и палец зрителя.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://about.netflix.com/en/news/looking-back-on-the-origin-of-skip-intro-five-years-later",
+          "locator": "DOCX section sec-9",
+          "support": "Netflix's own account establishes Skip Intro testing since 2017 and the 136M daily presses figure; the authorial-threshold reading is VANSMITHLAB interpretation."
+        }
+      ],
+      "verification_state": "verified",
+      "confidence_score": 0.87
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_e14198650fb4da0d",
+      "title": "Alfred Hitchcock",
+      "publisher": "Academy of Motion Picture Arts and Sciences",
+      "url": "https://www.oscars.org/collection-highlights/alfred-hitchcock",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_5290d6d38f1fa19e",
+      "title": "Celebrating Saul Bass’s centenary: 10 essential title sequences",
+      "publisher": "British Film Institute",
+      "url": "https://www.bfi.org.uk/lists/celebrating-saul-basss-centenary-10-essential-title-sequences",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_fd899c4138ba0d6a",
+      "title": "Credit Where It’s Due: The Father of the Title Sequence",
+      "publisher": "The Criterion Collection",
+      "url": "https://www.criterion.com/current/posts/6937-credit-where-it-s-due-the-father-of-the-title-sequence",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_e116c5cec43bd478",
+      "title": "Words on Film: Inside the Saul Bass Collection",
+      "publisher": "Academy of Motion Picture Arts and Sciences",
+      "url": "https://www.oscars.org/events/words-film-inside-saul-bass-collection",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_df174d23212fcc6a",
+      "title": "Leading Digital Animators Make For Colorful Academy Event",
+      "publisher": "Academy of Motion Picture Arts and Sciences",
+      "url": "https://www.oscars.org/events/leading-digital-animators-make-colorful-academy-event",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_c640d85a25b47653",
+      "title": "You’re Influenced by Film Title Designer Pablo Ferro and You Probably Don’t Even Know It",
+      "publisher": "AIGA Eye on Design",
+      "url": "https://eyeondesign.aiga.org/youre-influenced-by-film-title-designer-pablo-ferro-and-you-dont-even-know-it/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_2e32b054b8e8f10d",
+      "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)",
+      "publisher": "Art of the Title",
+      "url": "https://www.artofthetitle.com/title/dr-strangelove-or-how-i-learned-to-stop-worrying/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_6f6afba095f60749",
+      "title": "Full Circle – The Dr. No Dots",
+      "publisher": "James Bond 007",
+      "url": "https://www.007.com/full-circle-the-dr-no-dots/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_d5bc6e7fbca379df",
+      "title": "The Art Of The Title Sequence",
+      "publisher": "James Bond 007",
+      "url": "https://www.007.com/roll-the-titles/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_cff2ee0c708c4177",
+      "title": "Se7en",
+      "publisher": "Imaginary Forces",
+      "url": "https://imaginaryforces.com/project/se7en",
+      "source_tier": 1,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_a7e084c49d633b58",
+      "title": "The Dark Genius of Kyle Cooper",
+      "publisher": "WIRED",
+      "url": "https://www.wired.com/2004/06/cooper/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_58705720f4983b5f",
+      "title": "Kyle Cooper - designer profile",
+      "publisher": "Art of the Title",
+      "url": "https://www.artofthetitle.com/designer/kyle-cooper/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_d7a303953ae442b6",
+      "title": "Motion & Title Design",
+      "publisher": "Television Academy",
+      "url": "https://www.televisionacademy.com/academy/organization/peer-groups/motion-title-design",
+      "source_tier": 1,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_2bad455c0c20cd20",
+      "title": "Outstanding Title Design 2026",
+      "publisher": "Television Academy",
+      "url": "https://www.televisionacademy.com/awards/nominees-winners/2026/outstanding-title-design",
+      "source_tier": 1,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_5db9a6bbf487b7e5",
+      "title": "Looking Back on the Origin of Skip Intro Five Years Later",
+      "publisher": "Netflix",
+      "url": "https://about.netflix.com/en/news/looking-back-on-the-origin-of-skip-intro-five-years-later",
+      "source_tier": 1,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_ea94f602bdbe7e15",
+      "title": "10 inspired opening credits sequences of the 21st century",
+      "publisher": "British Film Institute",
+      "url": "https://www.bfi.org.uk/lists/10-opening-credits-sequences-21st-century",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_obj_why_opening_titles_matter_20260813_01_01",
+      "claim_id": "clm_titles_short_answer",
+      "source_id": "src_5db9a6bbf487b7e5",
+      "locator": "DOCX section short-answer",
+      "support": "Netflix's Skip Intro account and BFI opening-credits list establish the streaming-era conflict; the threshold-dramaturgy synthesis is VANSMITHLAB interpretation."
+    },
+    {
+      "id": "cit_obj_why_opening_titles_matter_20260813_01_02",
+      "claim_id": "clm_titles_short_answer",
+      "source_id": "src_ea94f602bdbe7e15",
+      "locator": "DOCX section short-answer",
+      "support": "Netflix's Skip Intro account and BFI opening-credits list establish the streaming-era conflict; the threshold-dramaturgy synthesis is VANSMITHLAB interpretation."
+    },
+    {
+      "id": "cit_obj_why_opening_titles_matter_20260813_02_01",
+      "claim_id": "clm_titles_psycho_bass",
+      "source_id": "src_e14198650fb4da0d",
+      "locator": "DOCX section sec-1",
+      "support": "Academy and BFI records establish Hitchcock and Bass title-sequence context; the split-and-reassemble reading is VANSMITHLAB interpretation."
+    },
+    {
+      "id": "cit_obj_why_opening_titles_matter_20260813_02_02",
+      "claim_id": "clm_titles_psycho_bass",
+      "source_id": "src_5290d6d38f1fa19e",
+      "locator": "DOCX section sec-1",
+      "support": "Academy and BFI records establish Hitchcock and Bass title-sequence context; the split-and-reassemble reading is VANSMITHLAB interpretation."
+    },
+    {
+      "id": "cit_obj_why_opening_titles_matter_20260813_03_01",
+      "claim_id": "clm_titles_credits_function",
+      "source_id": "src_fd899c4138ba0d6a",
+      "locator": "DOCX section sec-2",
+      "support": "Criterion's essay establishes credits as an integral part of the film and Bass's expansion of the form; the attention-system conclusion is VANSMITHLAB interpretation."
+    },
+    {
+      "id": "cit_obj_why_opening_titles_matter_20260813_04_01",
+      "claim_id": "clm_titles_bass_collection",
+      "source_id": "src_5290d6d38f1fa19e",
+      "locator": "DOCX section sec-3",
+      "support": "Academy's Saul Bass Collection and BFI centenary list establish the artwork, storyboards and 1950s-60s campaign-to-title continuity."
+    },
+    {
+      "id": "cit_obj_why_opening_titles_matter_20260813_04_02",
+      "claim_id": "clm_titles_bass_collection",
+      "source_id": "src_e116c5cec43bd478",
+      "locator": "DOCX section sec-3",
+      "support": "Academy's Saul Bass Collection and BFI centenary list establish the artwork, storyboards and 1950s-60s campaign-to-title continuity."
+    },
+    {
+      "id": "cit_obj_why_opening_titles_matter_20260813_05_01",
+      "claim_id": "clm_titles_vertigo_whitney",
+      "source_id": "src_5290d6d38f1fa19e",
+      "locator": "DOCX section sec-4",
+      "support": "Academy and BFI records establish the Bass-Whitney collaboration and mechanical computer graphics for Vertigo."
+    },
+    {
+      "id": "cit_obj_why_opening_titles_matter_20260813_05_02",
+      "claim_id": "clm_titles_vertigo_whitney",
+      "source_id": "src_df174d23212fcc6a",
+      "locator": "DOCX section sec-4",
+      "support": "Academy and BFI records establish the Bass-Whitney collaboration and mechanical computer graphics for Vertigo."
+    },
+    {
+      "id": "cit_obj_why_opening_titles_matter_20260813_06_01",
+      "claim_id": "clm_titles_bass_method",
+      "source_id": "src_5290d6d38f1fa19e",
+      "locator": "DOCX section sec-4",
+      "support": "BFI and Criterion essays establish Bass's method of turning a film's internal structure into graphic action over time."
+    },
+    {
+      "id": "cit_obj_why_opening_titles_matter_20260813_06_02",
+      "claim_id": "clm_titles_bass_method",
+      "source_id": "src_fd899c4138ba0d6a",
+      "locator": "DOCX section sec-4",
+      "support": "BFI and Criterion essays establish Bass's method of turning a film's internal structure into graphic action over time."
+    },
+    {
+      "id": "cit_obj_why_opening_titles_matter_20260813_07_01",
+      "claim_id": "clm_titles_ferro_aiga",
+      "source_id": "src_c640d85a25b47653",
+      "locator": "DOCX section sec-5",
+      "support": "AIGA profile and Art of the Title establish Ferro's hand typography, quick cuts and Dr. Strangelove title work."
+    },
+    {
+      "id": "cit_obj_why_opening_titles_matter_20260813_07_02",
+      "claim_id": "clm_titles_ferro_aiga",
+      "source_id": "src_2e32b054b8e8f10d",
+      "locator": "DOCX section sec-5",
+      "support": "AIGA profile and Art of the Title establish Ferro's hand typography, quick cuts and Dr. Strangelove title work."
+    },
+    {
+      "id": "cit_obj_why_opening_titles_matter_20260813_08_01",
+      "claim_id": "clm_titles_binder_drno",
+      "source_id": "src_6f6afba095f60749",
+      "locator": "DOCX section sec-6",
+      "support": "Official James Bond site establishes Binder's Dr. No dots, gun-barrel sequence and their role in setting the franchise tone."
+    },
+    {
+      "id": "cit_obj_why_opening_titles_matter_20260813_09_01",
+      "claim_id": "clm_titles_bond_legacy",
+      "source_id": "src_6f6afba095f60749",
+      "locator": "DOCX section sec-6",
+      "support": "Official James Bond site establishes Kleinman's return to Dr. No-style dots as a deliberate link to Binder."
+    },
+    {
+      "id": "cit_obj_why_opening_titles_matter_20260813_09_02",
+      "claim_id": "clm_titles_bond_legacy",
+      "source_id": "src_d5bc6e7fbca379df",
+      "locator": "DOCX section sec-6",
+      "support": "Official James Bond site establishes Kleinman's return to Dr. No-style dots as a deliberate link to Binder."
+    },
+    {
+      "id": "cit_obj_why_opening_titles_matter_20260813_10_01",
+      "claim_id": "clm_titles_se7en_if",
+      "source_id": "src_cff2ee0c708c4177",
+      "locator": "DOCX section sec-7",
+      "support": "Imaginary Forces project record establishes the Se7en main title credits, crew and hand-made approach."
+    },
+    {
+      "id": "cit_obj_why_opening_titles_matter_20260813_11_01",
+      "claim_id": "clm_titles_cooper_wired",
+      "source_id": "src_a7e084c49d633b58",
+      "locator": "DOCX section sec-7",
+      "support": "WIRED profile establishes Cooper's scratched frame-by-frame lettering for Se7en; the technique-meaning link is VANSMITHLAB interpretation."
+    },
+    {
+      "id": "cit_obj_why_opening_titles_matter_20260813_11_02",
+      "claim_id": "clm_titles_cooper_wired",
+      "source_id": "src_58705720f4983b5f",
+      "locator": "DOCX section sec-7",
+      "support": "WIRED profile establishes Cooper's scratched frame-by-frame lettering for Se7en; the technique-meaning link is VANSMITHLAB interpretation."
+    },
+    {
+      "id": "cit_obj_why_opening_titles_matter_20260813_12_01",
+      "claim_id": "clm_titles_tv_academy",
+      "source_id": "src_d7a303953ae442b6",
+      "locator": "DOCX section sec-8",
+      "support": "Television Academy peer group and 2026 award pages establish Motion & Title Design as an institutional discipline."
+    },
+    {
+      "id": "cit_obj_why_opening_titles_matter_20260813_12_02",
+      "claim_id": "clm_titles_tv_academy",
+      "source_id": "src_2bad455c0c20cd20",
+      "locator": "DOCX section sec-8",
+      "support": "Television Academy peer group and 2026 award pages establish Motion & Title Design as an institutional discipline."
+    },
+    {
+      "id": "cit_obj_why_opening_titles_matter_20260813_13_01",
+      "claim_id": "clm_titles_skip_intro",
+      "source_id": "src_5db9a6bbf487b7e5",
+      "locator": "DOCX section sec-9",
+      "support": "Netflix's own account establishes Skip Intro testing since 2017 and the 136M daily presses figure; the authorial-threshold reading is VANSMITHLAB interpretation."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "media_state": "editorially_selected",
+  "workflow": {
+    "decision": "AUTO_APPROVE",
+    "note": "Analysis v2.0 release: RU master and EN adaptation passed DOCX structure, URL source, editorial, media-handoff and parity checks. Editorial pass completed 2026-08-13.",
+    "converted_by": "VANSMITHLAB chief-editor workflow",
+    "converted_at": "2026-08-13T00:00:00.000Z"
+  }
+}

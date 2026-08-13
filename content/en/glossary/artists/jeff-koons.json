@@ -9,7 +9,7 @@
   "confidence_score": 0.0,
   "claim_ids": [],
   "source_ids": [],
-  "last_reviewed": "2026-08-09",
+  "last_reviewed": "2026-08-12",
   "author": "VANSMITHLAB",
   "locale": "en",
   "slug": "jeff-koons",
@@ -36,5 +36,12 @@
     "semantic_validated": true,
     "review_run_id": ""
   },
-  "portrait_image": {"src":"/images/glossary/artists/jeff-koons-portrait-ai-v1.webp","alt":"Portrait of Jeff Koons, AI reconstruction","caption":"Editorial AI reconstruction of a portrait of Jeff Koons.","credit":"VANSMITHLAB · AI reconstruction from public reference imagery, 2026","origin":"ai_reconstruction","rights_status":"ai_generated"}
+  "portrait_image": {
+    "src": "/images/glossary/artists/jeff-koons-portrait-ai-v1.webp",
+    "alt": "Portrait of Jeff Koons, AI reconstruction",
+    "caption": "Editorial AI reconstruction of a portrait of Jeff Koons.",
+    "credit": "VANSMITHLAB · AI reconstruction from public reference imagery, 2026",
+    "origin": "ai_reconstruction",
+    "rights_status": "ai_generated"
+  }
 }

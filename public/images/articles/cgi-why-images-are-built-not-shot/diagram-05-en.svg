@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img">
+<title>STAGECRAFT: THE DIGITAL ENVIRONMENT RETURNS TO THE SET</title>
+<desc>An LED volume gives performers a space and the camera a visible environment with light</desc>
+<rect width="1600" height="900" fill="#f2eee6"/>
+<defs><pattern id="grid" width="80" height="80" patternUnits="userSpaceOnUse"><path d="M80 0H0V80" fill="none" stroke="#ded7ca" stroke-width="1"/></pattern></defs>
+<rect x="40" y="40" width="1520" height="820" fill="url(#grid)" opacity=".46"/>
+<rect x="40" y="40" width="1520" height="820" rx="0" fill="none" stroke="#171716" stroke-width="2"/>
+<text x="78" y="96" fill="#c84a31" text-anchor="start" font-family="monospace" font-size="15" font-weight="500" letter-spacing="2">VANSMITHLAB / ANALYSIS / 05</text>
+<text x="78" y="170" fill="#171716" text-anchor="start" font-family="Georgia" font-size="42" font-weight="500" letter-spacing="0">STAGECRAFT: THE DIGITAL ENVIRONMENT RETURNS TO THE SET</text>
+<line x1="78" y1="202" x2="1522" y2="202" stroke="#171716" stroke-width="2"/>
+<text x="78" y="824" fill="#777167" text-anchor="start" font-family="Arial" font-size="19" font-weight="400" letter-spacing="0">An LED volume gives performers a space and the camera a visible environment with light</text>
+<rect x="125" y="275" width="900" height="440" rx="22" fill="#171716" stroke="#171716" stroke-width="2"/>
+<path d="M170 610 C360 390 560 370 760 465 S925 530 980 390" fill="none" stroke="#284e78" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="575" cy="520" r="52" fill="#f2eee6" stroke="#f2eee6" stroke-width="2"/>
+<path d="M505 650 Q575 535 645 650" fill="none" stroke="#f2eee6" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="1055" y="330" width="365" height="130" rx="0" fill="#fbf8f1" stroke="#171716" stroke-width="2"/>
+<rect x="1055" y="540" width="365" height="130" rx="0" fill="#ead3ca" stroke="#171716" stroke-width="2"/>
+<text x="245" y="335" fill="#171716" text-anchor="middle" font-family="monospace" font-size="16" font-weight="700" letter-spacing="0">LED ENVIRONMENT</text>
+<text x="575" y="730" fill="#f2eee6" text-anchor="middle" font-family="monospace" font-size="16" font-weight="700" letter-spacing="0">ACTOR + SET</text>
+<text x="1055" y="300" fill="#171716" text-anchor="middle" font-family="monospace" font-size="16" font-weight="700" letter-spacing="0">CAMERA</text>
+<text x="1055" y="730" fill="#171716" text-anchor="middle" font-family="monospace" font-size="16" font-weight="700" letter-spacing="0">LIGHT ON COSTUME</text>
+<line x1="1025" y1="500" x2="1055" y2="395" stroke="#c84a31" stroke-width="4"/>
+<path d="M1039 381 L1055 395 L1039 409" fill="none" stroke="#c84a31" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="1420" y1="395" x2="1490" y2="395" stroke="#284e78" stroke-width="4"/>
+<path d="M1474 381 L1490 395 L1474 409" fill="none" stroke="#284e78" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1458 382 L1490 395 L1458 408" fill="none" stroke="#284e78" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

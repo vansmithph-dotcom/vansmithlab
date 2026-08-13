@@ -3,7 +3,7 @@
   "primary_object_id": "",
   "content_release_id": "cnt_d33114914102a130",
   "kind": "image",
-  "origin": "ai_illustration",
+  "origin": "editorial",
   "locale": "multilingual",
   "educational_purpose": "Visualize Teller's method as direct on-camera flash, ordinary settings and a refusal of glamour, without reproducing protected photographs.",
   "may_depict": [
@@ -22,15 +22,25 @@
     "third_party_marks": "No logo, wordmark or recognisable branded asset."
   },
   "accessibility": {
-    "alt_text_ru": "Редакционная AI-иллюстрация: жёсткая накамерная вспышка в обычной комнате и намеренно простое кадрирование.",
-    "alt_text_en": "Editorial AI illustration: a harsh on-camera flash in an ordinary room and deliberately plain framing.",
-    "caption_ru": "Вспышка, близость и антигламур: визуализация метода Юргена Теллера.",
-    "caption_en": "Flash, intimacy and anti-glamour: a visualization of Juergen Teller's method."
+    "alt_text_ru": "Редакционная схема метода Juergen Teller: прямой flash, бытовой контекст и отказ от глянцевой дистанции.",
+    "alt_text_en": "Editorial diagram of Juergen Teller's method: direct flash, domestic context and refusal of glossy distance.",
+    "caption_ru": "Прямой свет и повседневная среда делают фотографию частью социального высказывания.",
+    "caption_en": "Direct light and the everyday environment make photography a social statement."
   },
   "creator": "OpenAI image generation · directed and reviewed by VANSMITHLAB",
   "created_at": "2026-08-12",
-  "asset_path": "public/images/glossary/photographers/juergen-teller-flash-intimacy-anti-glamour-hero-v1-card.webp",
+  "asset_path": "public/images/glossary/photographers/juergen-teller-flash-intimacy-anti-glamour-hero-v1-card.svg",
   "generation_prompt_class": "original fictional editorial visual for juergen-teller-flash-intimacy-anti-glamour",
-  "workflow_run_id": "run_20260812_art_directors_photographers",
-  "content_sha256": ""
+  "workflow_run_id": "run_20260812_media_rights_repair",
+  "content_sha256": "",
+  "content_release_ids": [
+    "cnt_d33114914102a130"
+  ],
+  "rights_state": "original",
+  "licence_or_permission": "Original VANSMITHLAB SVG editorial visual; no third-party images, logos or trademarks.",
+  "source_url": "",
+  "creator_or_credit": "VANSMITHLAB editorial visual system",
+  "file_storage_key": "public/images/glossary/photographers/juergen-teller-flash-intimacy-anti-glamour-hero-v1-card.svg",
+  "content_hash": "1b733e2c6feddeeee90b48609f00727fd3f46b963d010a6f829405aa59ff5ab7",
+  "disclosure": "VANSMITHLAB · original editorial visual, 2026"
 }

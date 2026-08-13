@@ -1,0 +1,469 @@
+{
+  "id": "obj_games_screen_reading_20260813",
+  "type": "theme",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 2,
+  "title_ru": "Почему игры научили нас читать экран быстрее кино",
+  "title_en": "Why Games Taught Us to Read the Screen Faster Than Cinema",
+  "slug_ru": "why-games-taught-us-to-read-screen-faster-than-cinema",
+  "slug_en": "why-games-taught-us-to-read-screen-faster-than-cinema",
+  "summary_ru": "HUD, карта, инвентарь и обратная связь как новая визуальная грамотность",
+  "verification_state": "verified",
+  "confidence_score": 0.87,
+  "created_at": "2026-08-13T00:00:00.000Z",
+  "updated_at": "2026-08-13T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_game_feedback",
+      "wording_ru": "Потому что игра превращает изображение в систему обратной связи. В DOOM статусная панель делает здоровье, броню, боеприпасы и ключи отдельным каналом восприятия; в Pong само правило почти целиком читается из геометрии экрана; в Dead Space часть интерфейса переносится внутрь игрового мира. Игрок учится не рассматривать эти элементы по очереди, а собирать из них одно состояние: где я, что со мной, что изменилось и что делать дальше. Эта грамотность строится на повторе. Цвет, положение, иконка, звук и короткая анимация получают устойчивое значение. Со временем игрок перестаёт переводить знак в слова и начинает реагировать на него как на часть действия.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.worldvideogamehalloffame.org/games/doom/",
+          "locator": "DOCX section short-answer",
+          "support": "World Video Game Hall of Fame and engine UI documentation establish the HUD/feedback convention; the attention-system reading is VANSMITHLAB interpretation."
+        },
+        {
+          "source_url": "https://dev.epicgames.com/documentation/en-us/unreal-engine/user-interfaces-and-huds?application_version=4.27",
+          "locator": "DOCX section short-answer",
+          "support": "World Video Game Hall of Fame and engine UI documentation establish the HUD/feedback convention; the attention-system reading is VANSMITHLAB interpretation."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.87
+    },
+    {
+      "id": "clm_game_doom_hud",
+      "wording_ru": "В DOOM 1993 года основная сцена занимает центр, но внизу постоянно работает статусная панель: здоровье, броня, боеприпасы, ключи и лицо персонажа превращают невидимое состояние игрока в графику. Мир требует смотреть вперёд, а интерфейс — одновременно контролировать выживание. Самое интересное происходит не в количестве цифр, а в распределении внимания. Игрок не обязан каждый раз останавливаться и читать «здоровье 23». Он замечает опасную зону периферически, связывает её с красным всплеском, звуком, реакцией лица и нехваткой боеприпасов — и меняет поведение. Экран работает как два изображения сразу: пространство действия и приборная панель состояния. Именно здесь появляется ключевая для игр привычка: важный визуальный смысл может находиться не в центре кадра. Кино тоже использует периферию, монтаж и детали, но игра добавляет цену пропущенного сигнала — ошибку, потерю ресурса или поражение.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.worldvideogamehalloffame.org/games/doom/",
+          "locator": "DOCX section sec-1",
+          "support": "World Video Game Hall of Fame records establish DOOM and its status-panel convention; the peripheral-attention reading is VANSMITHLAB interpretation."
+        }
+      ],
+      "verification_state": "verified",
+      "confidence_score": 0.87
+    },
+    {
+      "id": "clm_game_feedback_loop",
+      "wording_ru": "Игровой экран нельзя понимать как плакат с дополнительной информацией. Он живёт в цикле: намерение → действие → ответ системы → новое решение. Кнопка, курсор, прицел, шкала, вспышка попадания, вибрация и звук связываются в одну короткую цепь. Поэтому хорошая игровая графика ценит не только красоту и даже не только читаемость, а время до понимания. Сигнал должен появиться там и тогда, где он нужен: предупреждение до ошибки, подтверждение после действия, цель до потери направления. Интерфейс становится монтажом, который происходит не между кадрами, а между состояниями системы. Это и есть отличие от пассивного просмотра, но не превосходство игры над кино. Игры просто добавили визуальному восприятию обязательство ответить. Зритель превращается в оператора собственного внимания.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://dev.epicgames.com/documentation/en-us/unreal-engine/user-interfaces-and-huds?application_version=4.27",
+          "locator": "DOCX section sec-2",
+          "support": "Unreal and Unity documentation establish interface feedback loops in game UI; the intention-action-response cycle is VANSMITHLAB interpretation."
+        },
+        {
+          "source_url": "https://docs.unity.cn/Manual/UIToolkits.html",
+          "locator": "DOCX section sec-2",
+          "support": "Unreal and Unity documentation establish interface feedback loops in game UI; the intention-action-response cycle is VANSMITHLAB interpretation."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.87
+    },
+    {
+      "id": "clm_game_spacewar",
+      "wording_ru": "Ранние игры особенно хорошо показывают, что интерфейс начинается не с меню. В Spacewar! траектория корабля, расстояние, столкновение и пространство экрана одновременно являются и изображением, и моделью действия. Computer History Museum хранит PDP-1 и Spacewar! как важный эпизод ранней интерактивной вычислительной культуры. Pong доводит эту идею почти до абстракции: две ракетки, мяч, границы и счёт. The Strong и ACMI фиксируют Pong как один из ключевых ранних коммерческих игровых объектов. Его визуальная сила в том, что правило можно понять почти без текста: форма показывает, что можно делать. Для дизайна это фундаментальный урок. Чем меньше времени есть у человека на интерпретацию, тем важнее, чтобы форма и действие совпадали. Хороший интерфейс не объясняет каждое правило отдельно — он делает правило видимым в поведении элементов.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.computerhistory.org/pdp-1/d75ea65237b44f058484b1f799f9a6b9/",
+          "locator": "DOCX section sec-3",
+          "support": "Computer History Museum and Strong Museum records establish Spacewar! and the PDP-1 context."
+        },
+        {
+          "source_url": "https://www.museumofplay.org/blog/what-was-the-first-video-game/",
+          "locator": "DOCX section sec-3",
+          "support": "Computer History Museum and Strong Museum records establish Spacewar! and the PDP-1 context."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.87
+    },
+    {
+      "id": "clm_game_pong",
+      "wording_ru": "Ранние игры особенно хорошо показывают, что интерфейс начинается не с меню. В Spacewar! траектория корабля, расстояние, столкновение и пространство экрана одновременно являются и изображением, и моделью действия. Computer History Museum хранит PDP-1 и Spacewar! как важный эпизод ранней интерактивной вычислительной культуры. Pong доводит эту идею почти до абстракции: две ракетки, мяч, границы и счёт. The Strong и ACMI фиксируют Pong как один из ключевых ранних коммерческих игровых объектов. Его визуальная сила в том, что правило можно понять почти без текста: форма показывает, что можно делать. Для дизайна это фундаментальный урок. Чем меньше времени есть у человека на интерпретацию, тем важнее, чтобы форма и действие совпадали. Хороший интерфейс не объясняет каждое правило отдельно — он делает правило видимым в поведении элементов.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.museumofplay.org/games/pong/",
+          "locator": "DOCX section sec-3",
+          "support": "Strong Museum and ACMI records establish Pong and its rule-visible interface; the form-equals-action conclusion is VANSMITHLAB interpretation."
+        },
+        {
+          "source_url": "https://www.acmi.net.au/works/61530--pong/",
+          "locator": "DOCX section sec-3",
+          "support": "Strong Museum and ACMI records establish Pong and its rule-visible interface; the form-equals-action conclusion is VANSMITHLAB interpretation."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.87
+    },
+    {
+      "id": "clm_game_map_inventory",
+      "wording_ru": "Карта делает странную вещь: она предлагает одновременно верить в мир и видеть его как схему. Игрок идёт по комнате, улице или ландшафту, но в любой момент может свернуть пространство в линию маршрута, маркер, высоту, цель или область риска. Это не просто навигация — это тренировка перехода между изображением и моделью. Инвентарь делает то же самое с предметами. Оружие, ключ, аптечка или ресурс перестают быть только объектами мира и становятся системой выбора: что взять, что оставить, что улучшить, что использовать сейчас. Игрок постоянно переключается между визуальной сценой и её абстрактной экономикой. Именно поэтому игровой экран легко выдерживает несколько масштабов одновременно. Мир может быть кинематографичным, карта — условной, инвентарь — почти табличным, а подсказка — типографической. Для игрока это не четыре разных медиума, а четыре режима чтения одной ситуации.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://dev.epicgames.com/documentation/en-us/unreal-engine/user-interfaces-and-huds?application_version=4.27",
+          "locator": "DOCX section sec-5",
+          "support": "Unreal and Unity documentation establish map/inventory scale-switching UI patterns; the reading-between-scales conclusion is VANSMITHLAB interpretation."
+        },
+        {
+          "source_url": "https://docs.unity.cn/Manual/UIToolkits.html",
+          "locator": "DOCX section sec-5",
+          "support": "Unreal and Unity documentation establish map/inventory scale-switching UI patterns; the reading-between-scales conclusion is VANSMITHLAB interpretation."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.87
+    },
+    {
+      "id": "clm_game_dead_space",
+      "wording_ru": "Dead Space стал известным примером внутримирового интерфейса: важные показатели и сообщения переносятся с внешней рамки экрана на костюм, оружие, голографические панели и предметы внутри пространства. Материалы Game Developer и GDC подробно разбирают этот подход как часть проектирования погружения. Такой интерфейс не исчезает — он меняет адрес. Здоровье всё ещё нужно читать, но теперь оно принадлежит телу персонажа. Меню всё ещё существует, но выглядит как объект мира. Игрок продолжает получать данные, однако сама подача поддерживает иллюзию пространства. Это важный контраргумент идее, что хороший интерфейс должен быть невидимым. На самом деле он должен быть уместным. Иногда ясная внешняя панель честнее и быстрее; иногда внутренняя графика усиливает мир. Качество определяется не количеством декоративных эффектов, а совпадением информации, контекста и действия.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.gamedeveloper.com/design/video-designing-i-dead-space-i-s-immersive-user-interface",
+          "locator": "DOCX section sec-6",
+          "support": "Game Developer and GDC Vault material establish Dead Space's diegetic interface approach; the address-of-information conclusion is VANSMITHLAB interpretation."
+        },
+        {
+          "source_url": "https://www.gdcvault.com/play/1017723/Crafting-Destruction-The-Evolution-of",
+          "locator": "DOCX section sec-6",
+          "support": "Game Developer and GDC Vault material establish Dead Space's diegetic interface approach; the address-of-information conclusion is VANSMITHLAB interpretation."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.87
+    },
+    {
+      "id": "clm_game_accessibility",
+      "wording_ru": "Если интерфейс рассчитан только на идеальное зрение, слух, моторную точность или быстрое чтение, его «скорость» становится формой исключения. Рекомендации Xbox отдельно рассматривают размер и читаемость текста, навигацию по интерфейсу и маркировку функций доступности; Game Accessibility Guidelines также связывает субтитры, контраст, управление и информационную ясность с реальной возможностью играть. Это особенно важно для игр, потому что информация часто появляется во время движения и опасности. Субтитр может конкурировать с картой, предупреждение — с прицелом, меню — с таймером. Доступный интерфейс не просто увеличивает шрифт: он управляет приоритетом, длительностью, повторяемостью и альтернативными каналами сигнала. В результате доступность становится не отдельной «настройкой для меньшинства», а хорошей моделью экранного дизайна вообще. Если состояние можно понять через текст, цвет, форму, звук и последовательность, система становится устойчивее для всех.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://learn.microsoft.com/en-us/xbox/accessibility/xbox-accessibility-guidelines/101",
+          "locator": "DOCX section sec-8",
+          "support": "Microsoft Xbox Accessibility Guidelines and Game Accessibility Guidelines establish text, navigation, subtitles and contrast requirements."
+        },
+        {
+          "source_url": "https://gameaccessibilityguidelines.com/basic/",
+          "locator": "DOCX section sec-8",
+          "support": "Microsoft Xbox Accessibility Guidelines and Game Accessibility Guidelines establish text, navigation, subtitles and contrast requirements."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.87
+    },
+    {
+      "id": "clm_game_conclusion",
+      "wording_ru": "Кино сформировало колоссальную культуру кадра, монтажа и визуального рассказа. Игры добавили к этому ещё одно измерение: необходимость читать состояние изображения во времени собственного действия. В хорошем игровом интерфейсе зрение становится частью управления. Поэтому наследие HUD — не полоска здоровья и не мини-карта. Это привычка видеть экран как систему взаимосвязанных сигналов. Мы учимся замечать периферию, различать приоритеты, переключать масштаб, доверять повторяющимся кодам и требовать обратной связи. Игра начинается там, где изображение перестаёт быть только тем, на что смотрят. Оно становится тем, что нужно понять вовремя — потому что следующая секунда уже зависит от того, как мы его прочитали.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.worldvideogamehalloffame.org/games/doom/",
+          "locator": "DOCX section sec-10",
+          "support": "Hall of Fame and Game Developer material establish the HUD legacy and screen-literacy claim; the timely-understanding synthesis is VANSMITHLAB interpretation."
+        },
+        {
+          "source_url": "https://www.gamedeveloper.com/design/game-ui-discoveries-what-players-want",
+          "locator": "DOCX section sec-10",
+          "support": "Hall of Fame and Game Developer material establish the HUD legacy and screen-literacy claim; the timely-understanding synthesis is VANSMITHLAB interpretation."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.87
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_b79cf1284bdaa0f1",
+      "title": "PDP-1 computer and Spacewar",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/pdp-1/d75ea65237b44f058484b1f799f9a6b9/",
+      "source_tier": 1,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_441fcf5da3490ed4",
+      "title": "What was the first video game? The Strong National Museum of Play",
+      "publisher": "",
+      "url": "https://www.museumofplay.org/blog/what-was-the-first-video-game/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_f087f83f8fdc5516",
+      "title": "Pong",
+      "publisher": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/games/pong/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_c387c1c0d30cc2bf",
+      "title": "Pong, 1972",
+      "publisher": "ACMI Collection",
+      "url": "https://www.acmi.net.au/works/61530--pong/",
+      "source_tier": 1,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_dab205f2c2feebb8",
+      "title": "DOOM",
+      "publisher": "The Strong National Museum of Play / World Video Game Hall of Fame",
+      "url": "https://www.worldvideogamehalloffame.org/games/doom/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_2155f953052b4812",
+      "title": "User Interfaces & HUDs",
+      "publisher": "Epic Developer Community / Unreal Engine Documentation",
+      "url": "https://dev.epicgames.com/documentation/en-us/unreal-engine/user-interfaces-and-huds?application_version=4.27",
+      "source_tier": 1,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_7468cf60e196e528",
+      "title": "UMG UI Designer Quick Start Guide in Unreal Engine",
+      "publisher": "Epic Developer Community",
+      "url": "https://dev.epicgames.com/documentation/en-us/unreal-engine/umg-ui-designer-quick-start-guide-in-unreal-engine",
+      "source_tier": 1,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_2c9c73b9d625c003",
+      "title": "Creating and Displaying UI",
+      "publisher": "Epic Developer Community / Unreal Engine Documentation",
+      "url": "https://dev.epicgames.com/documentation/en-us/unreal-engine/creating-and-displaying-ui?application_version=4.27",
+      "source_tier": 1,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_cadabaca3430e234",
+      "title": "User interface (UI)",
+      "publisher": "Unity Manual",
+      "url": "https://docs.unity.cn/Manual/UIToolkits.html",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_f975ec65829e7967",
+      "title": "Support for runtime UI",
+      "publisher": "Unity Manual",
+      "url": "https://docs.unity.cn/Manual/UIE-support-for-runtime-ui.html",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_a0fa28cba339cb35",
+      "title": "Xbox Accessibility Guideline 101: Text display",
+      "publisher": "Microsoft Learn",
+      "url": "https://learn.microsoft.com/en-us/xbox/accessibility/xbox-accessibility-guidelines/101",
+      "source_tier": 1,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_8e3fb3a932d78b34",
+      "title": "Xbox Accessibility Guideline 112: UI navigation",
+      "publisher": "Microsoft Learn",
+      "url": "https://learn.microsoft.com/en-us/xbox/accessibility/xbox-accessibility-guidelines/112",
+      "source_tier": 1,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_00273ee01229bbba",
+      "title": "Xbox Accessibility Feature Tags",
+      "publisher": "Microsoft Learn",
+      "url": "https://learn.microsoft.com/en-us/xbox/accessibility/accessibility-feature-tags",
+      "source_tier": 1,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_78a35cf719153a67",
+      "title": "Basic guidelines",
+      "publisher": "Game Accessibility Guidelines",
+      "url": "https://gameaccessibilityguidelines.com/basic/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_640b743e45dbc98f",
+      "title": "If any subtitles/captions are used, present them in a clear, easy to read way",
+      "publisher": "Game Accessibility Guidelines",
+      "url": "https://gameaccessibilityguidelines.com/if-any-subtitles-captions-are-used-present-them-in-a-clear-easy-to-read-way/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_e3a224972b82b097",
+      "title": "Designing Dead Space’s immersive user interface",
+      "publisher": "Game Developer",
+      "url": "https://www.gamedeveloper.com/design/video-designing-i-dead-space-i-s-immersive-user-interface",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_080edadcb823868b",
+      "title": "Crafting Destruction: The Evolution of the Dead Space User Interface",
+      "publisher": "GDC Vault",
+      "url": "https://www.gdcvault.com/play/1017723/Crafting-Destruction-The-Evolution-of",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_a5fd4373eb957113",
+      "title": "Game UI Discoveries: What Players Want",
+      "publisher": "Game Developer",
+      "url": "https://www.gamedeveloper.com/design/game-ui-discoveries-what-players-want",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_obj_games_screen_reading_20260813_01_01",
+      "claim_id": "clm_game_feedback",
+      "source_id": "src_dab205f2c2feebb8",
+      "locator": "DOCX section short-answer",
+      "support": "World Video Game Hall of Fame and engine UI documentation establish the HUD/feedback convention; the attention-system reading is VANSMITHLAB interpretation."
+    },
+    {
+      "id": "cit_obj_games_screen_reading_20260813_01_02",
+      "claim_id": "clm_game_feedback",
+      "source_id": "src_2155f953052b4812",
+      "locator": "DOCX section short-answer",
+      "support": "World Video Game Hall of Fame and engine UI documentation establish the HUD/feedback convention; the attention-system reading is VANSMITHLAB interpretation."
+    },
+    {
+      "id": "cit_obj_games_screen_reading_20260813_02_01",
+      "claim_id": "clm_game_doom_hud",
+      "source_id": "src_dab205f2c2feebb8",
+      "locator": "DOCX section sec-1",
+      "support": "World Video Game Hall of Fame records establish DOOM and its status-panel convention; the peripheral-attention reading is VANSMITHLAB interpretation."
+    },
+    {
+      "id": "cit_obj_games_screen_reading_20260813_03_01",
+      "claim_id": "clm_game_feedback_loop",
+      "source_id": "src_2155f953052b4812",
+      "locator": "DOCX section sec-2",
+      "support": "Unreal and Unity documentation establish interface feedback loops in game UI; the intention-action-response cycle is VANSMITHLAB interpretation."
+    },
+    {
+      "id": "cit_obj_games_screen_reading_20260813_03_02",
+      "claim_id": "clm_game_feedback_loop",
+      "source_id": "src_cadabaca3430e234",
+      "locator": "DOCX section sec-2",
+      "support": "Unreal and Unity documentation establish interface feedback loops in game UI; the intention-action-response cycle is VANSMITHLAB interpretation."
+    },
+    {
+      "id": "cit_obj_games_screen_reading_20260813_04_01",
+      "claim_id": "clm_game_spacewar",
+      "source_id": "src_b79cf1284bdaa0f1",
+      "locator": "DOCX section sec-3",
+      "support": "Computer History Museum and Strong Museum records establish Spacewar! and the PDP-1 context."
+    },
+    {
+      "id": "cit_obj_games_screen_reading_20260813_04_02",
+      "claim_id": "clm_game_spacewar",
+      "source_id": "src_441fcf5da3490ed4",
+      "locator": "DOCX section sec-3",
+      "support": "Computer History Museum and Strong Museum records establish Spacewar! and the PDP-1 context."
+    },
+    {
+      "id": "cit_obj_games_screen_reading_20260813_05_01",
+      "claim_id": "clm_game_pong",
+      "source_id": "src_f087f83f8fdc5516",
+      "locator": "DOCX section sec-3",
+      "support": "Strong Museum and ACMI records establish Pong and its rule-visible interface; the form-equals-action conclusion is VANSMITHLAB interpretation."
+    },
+    {
+      "id": "cit_obj_games_screen_reading_20260813_05_02",
+      "claim_id": "clm_game_pong",
+      "source_id": "src_c387c1c0d30cc2bf",
+      "locator": "DOCX section sec-3",
+      "support": "Strong Museum and ACMI records establish Pong and its rule-visible interface; the form-equals-action conclusion is VANSMITHLAB interpretation."
+    },
+    {
+      "id": "cit_obj_games_screen_reading_20260813_06_01",
+      "claim_id": "clm_game_map_inventory",
+      "source_id": "src_2155f953052b4812",
+      "locator": "DOCX section sec-5",
+      "support": "Unreal and Unity documentation establish map/inventory scale-switching UI patterns; the reading-between-scales conclusion is VANSMITHLAB interpretation."
+    },
+    {
+      "id": "cit_obj_games_screen_reading_20260813_06_02",
+      "claim_id": "clm_game_map_inventory",
+      "source_id": "src_cadabaca3430e234",
+      "locator": "DOCX section sec-5",
+      "support": "Unreal and Unity documentation establish map/inventory scale-switching UI patterns; the reading-between-scales conclusion is VANSMITHLAB interpretation."
+    },
+    {
+      "id": "cit_obj_games_screen_reading_20260813_07_01",
+      "claim_id": "clm_game_dead_space",
+      "source_id": "src_e3a224972b82b097",
+      "locator": "DOCX section sec-6",
+      "support": "Game Developer and GDC Vault material establish Dead Space's diegetic interface approach; the address-of-information conclusion is VANSMITHLAB interpretation."
+    },
+    {
+      "id": "cit_obj_games_screen_reading_20260813_07_02",
+      "claim_id": "clm_game_dead_space",
+      "source_id": "src_080edadcb823868b",
+      "locator": "DOCX section sec-6",
+      "support": "Game Developer and GDC Vault material establish Dead Space's diegetic interface approach; the address-of-information conclusion is VANSMITHLAB interpretation."
+    },
+    {
+      "id": "cit_obj_games_screen_reading_20260813_08_01",
+      "claim_id": "clm_game_accessibility",
+      "source_id": "src_a0fa28cba339cb35",
+      "locator": "DOCX section sec-8",
+      "support": "Microsoft Xbox Accessibility Guidelines and Game Accessibility Guidelines establish text, navigation, subtitles and contrast requirements."
+    },
+    {
+      "id": "cit_obj_games_screen_reading_20260813_08_02",
+      "claim_id": "clm_game_accessibility",
+      "source_id": "src_78a35cf719153a67",
+      "locator": "DOCX section sec-8",
+      "support": "Microsoft Xbox Accessibility Guidelines and Game Accessibility Guidelines establish text, navigation, subtitles and contrast requirements."
+    },
+    {
+      "id": "cit_obj_games_screen_reading_20260813_09_01",
+      "claim_id": "clm_game_conclusion",
+      "source_id": "src_dab205f2c2feebb8",
+      "locator": "DOCX section sec-10",
+      "support": "Hall of Fame and Game Developer material establish the HUD legacy and screen-literacy claim; the timely-understanding synthesis is VANSMITHLAB interpretation."
+    },
+    {
+      "id": "cit_obj_games_screen_reading_20260813_09_02",
+      "claim_id": "clm_game_conclusion",
+      "source_id": "src_a5fd4373eb957113",
+      "locator": "DOCX section sec-10",
+      "support": "Hall of Fame and Game Developer material establish the HUD legacy and screen-literacy claim; the timely-understanding synthesis is VANSMITHLAB interpretation."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "media_state": "editorially_selected",
+  "workflow": {
+    "decision": "AUTO_APPROVE",
+    "note": "Analysis v2.0 release: RU master and EN adaptation passed DOCX structure, URL source, editorial, media-handoff and parity checks. Editorial pass completed 2026-08-13.",
+    "converted_by": "VANSMITHLAB chief-editor workflow",
+    "converted_at": "2026-08-13T00:00:00.000Z"
+  }
+}

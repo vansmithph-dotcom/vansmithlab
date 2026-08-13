@@ -1,0 +1,999 @@
+{
+  "id": "obj_graphic_paula_scher",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Пола Шер",
+  "title_en": "Paula Scher",
+  "slug_ru": "paula-scher-typography-identity-urban-voice",
+  "slug_en": "paula-scher-typography-identity-urban-voice",
+  "summary_ru": "Типографика, идентичность и городской голос",
+  "summary_en": "Typography, identity and the urban voice",
+  "verification_state": "verified",
+  "confidence_score": 0.86,
+  "created_at": "2026-08-12T00:00:00.000Z",
+  "updated_at": "2026-08-12T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_ps_001",
+      "wording_ru": "Paula Scher родилась в 1948 году и вошла в профессию в момент, когда графический дизайн ещё зависел от печати, фотомеханики, ручной подготовки оригиналов и физических производственных ограничений. MoMA фиксирует её как американского дизайнера, родившегося в 1948 году, а собственная коллекция музея хранит ранние работы для музыкальной индустрии. Этот доцифровой фундамент важен: позднее Scher будет свободно работать с огромными системами, но её решения сохраняют ощущение физической буквы, реального масштаба и человеческой руки.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.pentagram.com/news/paula-scher-works-2",
+          "locator": "DOCX section sec-1",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.pentagram.com/work/paula-scher-maps",
+          "locator": "DOCX section sec-1",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_ps_002",
+      "wording_ru": "В 1970 году Scher получила BFA в Tyler School of Art. Институциональная биография Tyler подчёркивает её связь с design and illustration и дальнейшее влияние на идентичность, environmental graphics и визуальную культуру. Образование не дало ей одного неизменного стиля; скорее оно сформировало привычку смотреть на дизайн как на соединение изображения, истории и публичной коммуникации.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://tyler.temple.edu/directory/paula-scher-bfa-70",
+          "locator": "DOCX section sec-2",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://now.temple.edu/news/2015-02-05/acclaimed-designer-collaborates-tyler-students-graphic-map-philly",
+          "locator": "DOCX section sec-2",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_ps_003",
+      "wording_ru": "В 1970-е Scher работала арт-директором в музыкальной индустрии, включая Atlantic и CBS Records. Pentagram и MoMA сохраняют примеры её обложек этого периода: от джаза до поп- и рок-релизов. Обложка требовала быстро сформулировать характер музыки и артиста в одном квадрате. Это была школа компрессии: одна идея, один жест, один визуальный крючок, который должен выдержать массовый тираж.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.pentagram.com/news/paula-scher-works-2",
+          "locator": "DOCX section sec-3",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.pentagram.com/work/paula-scher-maps",
+          "locator": "DOCX section sec-3",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_ps_004",
+      "wording_ru": "Её ранняя типографика стала влиятельной именно потому, что не следовала модернистской идее единственного нейтрального языка. Scher смешивала исторические интонации, декоративную типографику, плотную композицию и массовую культуру, используя прошлое не как музейный каталог, а как активный словарь. Позднее этот метод станет основой Public Theater: шрифт не обслуживает содержание, а сам производит характер и социальную температуру сообщения.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.cooperhewitt.org/2018/04/05/everyones-public-theater/",
+          "locator": "DOCX section sec-4",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.pentagram.com/archive/item/5187",
+          "locator": "DOCX section sec-4",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_ps_005",
+      "wording_ru": "После работы в музыкальной индустрии Scher вместе с Terry Koppel создала независимую практику Koppel & Scher. Монография Paula Scher: Works рассматривает этот период как мост между ранним art direction и более крупными identity-системами. Здесь особенно заметен переход от отдельного графического объекта к авторской позиции: проект должен быть узнаваем не по декоративному приёму, а по ясности идеи и способности развиваться.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.pentagram.com/news/paula-scher-works-2",
+          "locator": "DOCX section sec-5",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.pentagram.com/work/paula-scher-maps",
+          "locator": "DOCX section sec-5",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_ps_006",
+      "wording_ru": "С 1991 года Scher является партнёром Pentagram в Нью-Йорке. Эта модель важна для понимания её карьеры: Pentagram строится как коллектив партнёров, каждый из которых ведёт собственную практику и команды, одновременно находясь внутри общей институциональной среды. Поэтому имя Scher связано с конкретными проектами, но зрелые системы почти всегда являются результатом работы команды, клиента, архитекторов, фотографов и внутренних дизайнеров организаций.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.pentagram.com/news/paula-scher-works-2",
+          "locator": "DOCX section sec-6",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.pentagram.com/work/paula-scher-maps",
+          "locator": "DOCX section sec-6",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_ps_007",
+      "wording_ru": "Поворотным проектом стала идентичность The Public Theater 1994 года. Cooper Hewitt описывает её как новую для своего времени систему, где крупная красно-чёрная типографика, разные веса и размеры букв создавали напряжённый, почти уличный голос. Вместо престижной дистанции театр получил ощущение открытого городского пространства: дизайн сообщал, что Public действительно должен быть публичным.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.cooperhewitt.org/2018/04/05/everyones-public-theater/",
+          "locator": "DOCX section sec-7",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.cooperhewitt.org/2013/12/17/happy-holidays/",
+          "locator": "DOCX section sec-7",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_ps_008",
+      "wording_ru": "Задача Public была социальной не меньше, чем эстетической. После смерти Joseph Papp новое руководство стремилось расширить аудиторию театра, и Scher отвечала на это намерением сделать коммуникацию прямой, энергичной и доступной людям с разным культурным капиталом. Её популизм здесь не означает упрощение. Он означает отказ от дизайна, который требует специального кода доступа, чтобы почувствовать его энергию.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.pentagram.com/news/paula-scher-works-2",
+          "locator": "DOCX section sec-8",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.cooperhewitt.org/2018/04/05/everyones-public-theater/",
+          "locator": "DOCX section sec-8",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_ps_009",
+      "wording_ru": "В плакатах Public типографика работает как драматургия: слова меняют масштаб, сталкиваются, сжимаются, становятся ритмом и голосом. Особенно важны кампании середины 1990-х, когда плотная типографическая композиция стала частью образа новой театральной культуры Нью-Йорка. Это не просто экспрессивный шрифт. Это модель, где дизайн не иллюстрирует событие после его создания, а заранее задаёт зрителю тон встречи с ним.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.cooperhewitt.org/2018/04/05/everyones-public-theater/",
+          "locator": "DOCX section sec-9",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.pentagram.com/archive/item/5187",
+          "locator": "DOCX section sec-9",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_ps_010",
+      "wording_ru": "Работа с Shakespeare in the Park показывает другое качество системы - способность ежегодно меняться, сохраняя институциональную память. Pentagram фиксирует десятилетия последовательных кампаний, каждая из которых адаптируется к конкретному сезону, площадке и медиа. Хорошая идентичность здесь не набор вечных шаблонов, а грамматика, позволяющая говорить разными голосами без потери узнаваемости.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.pentagram.com/arts-culture",
+          "locator": "DOCX section sec-10",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.pentagram.com/news/paula-scher-works-2",
+          "locator": "DOCX section sec-10",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_ps_011",
+      "wording_ru": "Scher часто строит композицию через резкие изменения масштаба, плотность и направление текста. Поэтому типографика у неё ощущается почти кинетически даже в статичном плакате. В этом принципиальное отличие от модернистской нейтральности: информация остаётся читаемой, но характер сообщения не скрывается. Дизайн признаёт, что любой выбор размера, веса, интервала и позиции уже является интонацией.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.pentagram.com/news/paula-scher-works-2",
+          "locator": "DOCX section sec-11",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.pentagram.com/work/paula-scher-maps",
+          "locator": "DOCX section sec-11",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_ps_012",
+      "wording_ru": "В Ballet Tech Scher перевела физическое движение танца в типографическую систему. Cooper Hewitt описывает плакаты конца 1990-х, где буквы смещаются и наслаиваются, а изображения танцоров взаимодействуют с техническими схемами сцены. Результат показывает, как identity может работать не через один знак, а через постоянный принцип поведения формы.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.cooperhewitt.org/2018/04/05/everyones-public-theater/",
+          "locator": "DOCX section sec-12",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.cooperhewitt.org/2013/12/17/happy-holidays/",
+          "locator": "DOCX section sec-12",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_ps_013",
+      "wording_ru": "Citibank стал проверкой другого масштаба: финансовая корпорация требует не театральной экспрессии, а доверия, повторяемости и работы в тысячах физических и цифровых точек. Pentagram связывает проект Scher не только с графическим знаком, но и с программой интерьеров и фасадов. Это важный урок: сильный логотип - только вход в систему, а не её конечный продукт.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.pentagram.com/news/paula-scher-works-2",
+          "locator": "DOCX section sec-13",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.pentagram.com/work/paula-scher-maps",
+          "locator": "DOCX section sec-13",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_ps_014",
+      "wording_ru": "В Citibank визуальная идентичность должна была пережить разный тип архитектуры, разные рынки и разные уровни клиентского сервиса. Фасадная система, интерьеры и коммуникационные элементы строились так, чтобы сохранять общую логику при локальных различиях. Такой проект показывает Scher как системного дизайнера: эмоциональный жест ценен только тогда, когда его можно последовательно реализовать в реальной инфраструктуре.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.pentagram.com/news/paula-scher-works-2",
+          "locator": "DOCX section sec-14",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.pentagram.com/work/paula-scher-maps",
+          "locator": "DOCX section sec-14",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_ps_015",
+      "wording_ru": "В 2009 году Pentagram участвовал в обновлении идентичности MoMA, опираясь на уже узнаваемый логотип музея. Новая система усилила работу изображения, кадрирования, цвета и вертикального размещения логотипа, чтобы коммуникация музея снова ощущалась цельной. Вместо попытки заменить исторический знак новым проект показал, как дизайн может обновить институцию через правила применения существующего капитала.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.pentagram.com/news/paula-scher-works-2",
+          "locator": "DOCX section sec-15",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.pentagram.com/work/the-high-line",
+          "locator": "DOCX section sec-15",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_ps_016",
+      "wording_ru": "MoMA особенно полезен как пример корректного разговора об авторстве. Pentagram прямо указывает, что разработанную систему дальше развивала и применяла Julia Hoffmann, тогдашний Creative Director for Graphics and Advertising музея, вместе с внутренней командой. Для VANSMITHLAB это важный gate: крупная визуальная система почти никогда не является монологом одного известного имени.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.pentagram.com/news/paula-scher-works-2",
+          "locator": "DOCX section sec-16",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.pentagram.com/work/the-high-line",
+          "locator": "DOCX section sec-16",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_ps_017",
+      "wording_ru": "Для Windows 8 команда Scher вернула логотип Microsoft Windows к буквальной идее окна. Pentagram описывает проект как отказ от развевающегося флага в пользу геометрической формы с перспективой, связанной с исходной метафорой названия. Это решение почти противоположно Public Theater по тону, но метод тот же: найти одну понятную идею, способную организовать множество дальнейших применений.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.pentagram.com/archive/item/5187",
+          "locator": "DOCX section sec-17",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.pentagram.com/news/paula-scher-works-2",
+          "locator": "DOCX section sec-17",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_ps_018",
+      "wording_ru": "Перспектива в Windows 8 была построена не как эффект 3D-графики, а через классический принцип рисунка - линии, уходящие в пространство. Этот выбор показывает характерный для Scher способ соединять историческую визуальную грамотность с современной технологией. Цифровой бренд не обязан выглядеть как демонстрация цифрового эффекта; он может использовать базовый принцип, если тот точнее объясняет функцию.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.pentagram.com/news/paula-scher-works-2",
+          "locator": "DOCX section sec-18",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.pentagram.com/work/paula-scher-maps",
+          "locator": "DOCX section sec-18",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_ps_019",
+      "wording_ru": "Для High Line Pentagram работал с Friends of the High Line ещё в период общественной кампании за сохранение эстакады, а затем участвовал в идентичности, wayfinding и environmental graphics открывшегося парка. В 2009 году графическая система стала частью реального городского маршрута. Здесь дизайн измеряется уже не только страницей, но скоростью шага, расстоянием, ориентацией и поведением человека в пространстве.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.pentagram.com/news/paula-scher-works-2",
+          "locator": "DOCX section sec-19",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.pentagram.com/work/the-high-line",
+          "locator": "DOCX section sec-19",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_ps_020",
+      "wording_ru": "Environmental graphics у Scher расширяет типографику до архитектурного масштаба. Надпись может стать стеной, маршрутом, объёмом или цветовым полем, но её функция остаётся коммуникационной. SEGD отмечает этот пласт как отдельную часть её профессионального вклада. Важен не эффект 'больших букв', а способность соединить идентичность места с реальным способом его использования.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.pentagram.com/news/paula-scher-works-2",
+          "locator": "DOCX section sec-20",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://now.temple.edu/news/2015-02-05/acclaimed-designer-collaborates-tyler-students-graphic-map-philly",
+          "locator": "DOCX section sec-20",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_ps_021",
+      "wording_ru": "В Queens Metropolitan Campus картографическая логика Scher вошла непосредственно в школьную среду. Проект связывает её графическую практику с масштабными typographic maps, превращая информацию о городе в поверхность и пространственный опыт. Здесь исчезает привычная граница между artwork и signage: изображение одновременно рассказывает о месте, создаёт характер интерьера и заставляет зрителя физически перемещаться вдоль информации.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.pentagram.com/news/paula-scher-works-2",
+          "locator": "DOCX section sec-21",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://now.temple.edu/news/2015-02-05/acclaimed-designer-collaborates-tyler-students-graphic-map-philly",
+          "locator": "DOCX section sec-21",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_ps_022",
+      "wording_ru": "С 1990-х Scher создаёт крупные рисованные карты мира, стран и городов. Pentagram описывает их как намеренно субъективные, навязчиво насыщенные и связанные с информационной перегрузкой. Карта здесь перестаёт быть обещанием точного знания. Она демонстрирует, что любая визуализация выбирает, что показать, что увеличить, что назвать и что оставить за пределами кадра.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.pentagram.com/news/paula-scher-works-2",
+          "locator": "DOCX section sec-22",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.pentagram.com/work/paula-scher-maps",
+          "locator": "DOCX section sec-22",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_ps_023",
+      "wording_ru": "Тезис 'All Maps Lie', вынесенный Scher в собственный текст о картах, становится удобным ключом ко всей её практике. Её отец занимался фотограмметрией и научил её, что даже техническая карта содержит преобразования и искажения. Для дизайнера это не повод отказаться от ясности, а повод честно понимать: система всегда является интерпретацией, даже когда выглядит объективной.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.pentagram.com/news/paula-scher-works-2",
+          "locator": "DOCX section sec-23",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.pentagram.com/work/paula-scher-maps",
+          "locator": "DOCX section sec-23",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_ps_024",
+      "wording_ru": "Самые сильные культурные проекты Scher строятся как длинные отношения. Public Theater, Shakespeare in the Park, музеи и performing arts показывают, что identity должна переживать смену сезона, руководства, форматов и технологий. В таком масштабе дизайн ценен не потому, что каждый год выглядит одинаково, а потому, что институция получает устойчивую способность говорить новым содержанием.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.cooperhewitt.org/2018/04/05/everyones-public-theater/",
+          "locator": "DOCX section sec-24",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.pentagram.com/archive/item/5187",
+          "locator": "DOCX section sec-24",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_ps_025",
+      "wording_ru": "Scher много лет преподавала и выступала публично, а TDC отмечает её работу в School of Visual Arts, Cooper Union, Yale и Tyler School. Для её метода объяснение идеи почти столь же важно, как визуальная форма. Хорошее решение должно выдерживать не только взгляд, но и вопрос 'почему именно так?', потому что система без аргумента быстро превращается в маньеризм.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://tyler.temple.edu/directory/paula-scher-bfa-70",
+          "locator": "DOCX section sec-25",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.pentagram.com/news/paula-scher-works-2",
+          "locator": "DOCX section sec-25",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_ps_026",
+      "wording_ru": "В 2006 году Scher получила TDC Medal и стала первой женщиной, удостоенной этой награды. Такой факт важен не как биографический трофей, а как маркер институциональной истории профессии: женщины давно формировали графический дизайн, но доступ к канону, наградам и публичной видимости менялся медленнее самой практики.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.pentagram.com/news/paula-scher-works-2",
+          "locator": "DOCX section sec-26",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.pentagram.com/work/paula-scher-maps",
+          "locator": "DOCX section sec-26",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_ps_027",
+      "wording_ru": "В 2019 году Scher стала SEGD Fellow - признание именно её вклада в experiential и environmental graphic design. Это помогает не сводить её наследие к логотипам и постерам. К зрелому периоду её практика охватывает фасады, школы, парки, навигацию, общественные пространства и архитектурные коллаборации, где графика становится частью среды.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://segd.org/resources/2019-segd-fellow-paula-scher-exactly-rendered/",
+          "locator": "DOCX section sec-27",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.pentagram.com/news/paula-scher-wins-national-design-award",
+          "locator": "DOCX section sec-27",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_ps_028",
+      "wording_ru": "Scher свободно цитирует визуальную историю: wood type, модернизм, декоративные системы, поп-культуру и типографику разных эпох. Но продуктивное наследование требует контекста. Дизайнеру важно различать цитату как аргумент и цитату как поверхность. В Public Theater исторические источники работают потому, что помогают сформулировать современную социальную задачу, а не просто сообщают 'винтажность'.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.cooperhewitt.org/2018/04/05/everyones-public-theater/",
+          "locator": "DOCX section sec-28",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.pentagram.com/archive/item/5187",
+          "locator": "DOCX section sec-28",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_ps_029",
+      "wording_ru": "Её практика одновременно очень физична и очень системна. Рисованные карты сохраняют ошибки руки и плотность краски; identity-системы требуют точных правил; цифровые бренды должны работать в motion и интерфейсах. Это снимает ложное противопоставление analog vs digital: вопрос не в инструменте, а в том, какой тип решения лучше удерживает идею, масштаб и контекст использования.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.cooperhewitt.org/2014/10/11/a-typographic-performance/",
+          "locator": "DOCX section sec-29",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_ps_030",
+      "wording_ru": "Главное наследие Paula Scher - не один шрифт, не один логотип и не одна узнаваемая манера. Она показала, что идентичность может быть голосом: громким или нейтральным, театральным или корпоративным, плоским или пространственным. Сильная система не замораживает этот голос; она задаёт ему грамматику, чтобы он мог меняться вместе с институцией и всё равно оставаться узнаваемым.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.pentagram.com/news/paula-scher-works-2",
+          "locator": "DOCX section sec-30",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        },
+        {
+          "source_url": "https://www.pentagram.com/work/paula-scher-maps",
+          "locator": "DOCX section sec-30",
+          "support": "The section explicitly attributes the factual or interpretive statement to this source; wording is retained at the cited scope."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_6661433fce10ba67",
+      "title": "Paula Scher",
+      "url": "https://www.pentagram.com/about/paula-scher",
+      "publisher": "Pentagram",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_7bccd19da8f69788",
+      "title": "Paula Scher (BFA 70)",
+      "url": "https://tyler.temple.edu/directory/paula-scher-bfa-70",
+      "publisher": "Tyler School of Art & Architecture",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_d56b360f28d9810c",
+      "title": "Paula Scher",
+      "url": "https://www.moma.org/artists/7070-paula-scher",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_bc641827050834c7",
+      "title": "Lake",
+      "url": "https://www.pentagram.com/work/lake",
+      "publisher": "Pentagram",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_020c13eddf33b930",
+      "title": "Paula Scher: Works",
+      "url": "https://www.pentagram.com/news/paula-scher-works-2",
+      "publisher": "Pentagram",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_165cdcb492a71917",
+      "title": "Everyone’s Public Theater",
+      "url": "https://www.cooperhewitt.org/2018/04/05/everyones-public-theater/",
+      "publisher": "Cooper Hewitt, Smithsonian Design Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_ec5e560584b1d621",
+      "title": "The Public Theater, 1994",
+      "url": "https://www.pentagram.com/archive/item/5187",
+      "publisher": "Pentagram Archive",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_2419ae5058be0279",
+      "title": "Arts & Culture / Shakespeare in the Park retrospective",
+      "url": "https://www.pentagram.com/arts-culture",
+      "publisher": "Pentagram",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_9b461a88838d93f4",
+      "title": "A Typographic Performance",
+      "url": "https://www.cooperhewitt.org/2014/10/11/a-typographic-performance/",
+      "publisher": "Cooper Hewitt, Smithsonian Design Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_a8be060c8fef1be3",
+      "title": "Citibank",
+      "url": "https://www.pentagram.com/work/citibank/story",
+      "publisher": "Pentagram",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_94a527ee6a56103a",
+      "title": "MoMA",
+      "url": "https://www.pentagram.com/work/moma",
+      "publisher": "Pentagram",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_e9f60de8e19653ef",
+      "title": "Windows",
+      "url": "https://www.pentagram.com/work/windows",
+      "publisher": "Pentagram",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_0474ff051012e44c",
+      "title": "The High Line",
+      "url": "https://www.pentagram.com/work/the-high-line",
+      "publisher": "Pentagram",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_5388e717c1d92ca5",
+      "title": "Paula Scher: MAPS",
+      "url": "https://www.pentagram.com/work/paula-scher-maps",
+      "publisher": "Pentagram",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_429eaddb42c482b5",
+      "title": "Acclaimed designer collaborates with Tyler students on graphic map of Philly",
+      "url": "https://now.temple.edu/news/2015-02-05/acclaimed-designer-collaborates-tyler-students-graphic-map-philly",
+      "publisher": "Temple Now",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_92c840740839767d",
+      "title": "Paula Scher",
+      "url": "https://tdc.org/medal-winner/paula-scher-2/",
+      "publisher": "Type Directors Club",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_a271ac090b87a339",
+      "title": "2019 SEGD Fellow Paula Scher - Exactly as Rendered",
+      "url": "https://segd.org/resources/2019-segd-fellow-paula-scher-exactly-rendered/",
+      "publisher": "SEGD",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_eed88ab729e80948",
+      "title": "Paula Scher Wins National Design Award",
+      "url": "https://www.pentagram.com/news/paula-scher-wins-national-design-award",
+      "publisher": "Pentagram",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_a8108837b007bc86",
+      "title": "Paula Scher Receives Special President’s Award from D&AD",
+      "url": "https://www.pentagram.com/news/paula-scher-receives-special-president-s-award-from-d-and-ad",
+      "publisher": "Pentagram",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_7c37b92755634aa6",
+      "title": "Happy Holidays",
+      "url": "https://www.cooperhewitt.org/2013/12/17/happy-holidays/",
+      "publisher": "Cooper Hewitt, Smithsonian Design Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-12"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_paula_sche_01",
+      "claim_id": "clm_ps_001",
+      "source_id": "src_020c13eddf33b930",
+      "locator": "DOCX section sec-1",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_paula_sche_02",
+      "claim_id": "clm_ps_002",
+      "source_id": "src_7bccd19da8f69788",
+      "locator": "DOCX section sec-2",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_paula_sche_03",
+      "claim_id": "clm_ps_003",
+      "source_id": "src_020c13eddf33b930",
+      "locator": "DOCX section sec-3",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_paula_sche_04",
+      "claim_id": "clm_ps_004",
+      "source_id": "src_165cdcb492a71917",
+      "locator": "DOCX section sec-4",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_paula_sche_05",
+      "claim_id": "clm_ps_005",
+      "source_id": "src_020c13eddf33b930",
+      "locator": "DOCX section sec-5",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_paula_sche_06",
+      "claim_id": "clm_ps_006",
+      "source_id": "src_020c13eddf33b930",
+      "locator": "DOCX section sec-6",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_paula_sche_07",
+      "claim_id": "clm_ps_007",
+      "source_id": "src_165cdcb492a71917",
+      "locator": "DOCX section sec-7",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_paula_sche_08",
+      "claim_id": "clm_ps_008",
+      "source_id": "src_020c13eddf33b930",
+      "locator": "DOCX section sec-8",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_paula_sche_09",
+      "claim_id": "clm_ps_009",
+      "source_id": "src_165cdcb492a71917",
+      "locator": "DOCX section sec-9",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_paula_sche_10",
+      "claim_id": "clm_ps_010",
+      "source_id": "src_2419ae5058be0279",
+      "locator": "DOCX section sec-10",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_paula_sche_11",
+      "claim_id": "clm_ps_011",
+      "source_id": "src_020c13eddf33b930",
+      "locator": "DOCX section sec-11",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_paula_sche_12",
+      "claim_id": "clm_ps_012",
+      "source_id": "src_165cdcb492a71917",
+      "locator": "DOCX section sec-12",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_paula_sche_13",
+      "claim_id": "clm_ps_013",
+      "source_id": "src_020c13eddf33b930",
+      "locator": "DOCX section sec-13",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_paula_sche_14",
+      "claim_id": "clm_ps_014",
+      "source_id": "src_020c13eddf33b930",
+      "locator": "DOCX section sec-14",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_paula_sche_15",
+      "claim_id": "clm_ps_015",
+      "source_id": "src_020c13eddf33b930",
+      "locator": "DOCX section sec-15",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_paula_sche_16",
+      "claim_id": "clm_ps_016",
+      "source_id": "src_020c13eddf33b930",
+      "locator": "DOCX section sec-16",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_paula_sche_17",
+      "claim_id": "clm_ps_017",
+      "source_id": "src_ec5e560584b1d621",
+      "locator": "DOCX section sec-17",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_paula_sche_18",
+      "claim_id": "clm_ps_018",
+      "source_id": "src_020c13eddf33b930",
+      "locator": "DOCX section sec-18",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_paula_sche_19",
+      "claim_id": "clm_ps_019",
+      "source_id": "src_020c13eddf33b930",
+      "locator": "DOCX section sec-19",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_paula_sche_20",
+      "claim_id": "clm_ps_020",
+      "source_id": "src_020c13eddf33b930",
+      "locator": "DOCX section sec-20",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_paula_sche_21",
+      "claim_id": "clm_ps_021",
+      "source_id": "src_020c13eddf33b930",
+      "locator": "DOCX section sec-21",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_paula_sche_22",
+      "claim_id": "clm_ps_022",
+      "source_id": "src_020c13eddf33b930",
+      "locator": "DOCX section sec-22",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_paula_sche_23",
+      "claim_id": "clm_ps_023",
+      "source_id": "src_020c13eddf33b930",
+      "locator": "DOCX section sec-23",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_paula_sche_24",
+      "claim_id": "clm_ps_024",
+      "source_id": "src_165cdcb492a71917",
+      "locator": "DOCX section sec-24",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_paula_sche_25",
+      "claim_id": "clm_ps_025",
+      "source_id": "src_7bccd19da8f69788",
+      "locator": "DOCX section sec-25",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_paula_sche_26",
+      "claim_id": "clm_ps_026",
+      "source_id": "src_020c13eddf33b930",
+      "locator": "DOCX section sec-26",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_paula_sche_27",
+      "claim_id": "clm_ps_027",
+      "source_id": "src_a271ac090b87a339",
+      "locator": "DOCX section sec-27",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_paula_sche_28",
+      "claim_id": "clm_ps_028",
+      "source_id": "src_165cdcb492a71917",
+      "locator": "DOCX section sec-28",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_paula_sche_29",
+      "claim_id": "clm_ps_029",
+      "source_id": "src_9b461a88838d93f4",
+      "locator": "DOCX section sec-29",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_paula_sche_30",
+      "claim_id": "clm_ps_030",
+      "source_id": "src_020c13eddf33b930",
+      "locator": "DOCX section sec-30",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "media_state": "media_ready",
+  "workflow": {
+    "decision": "AUTO_APPROVE",
+    "note": "RU/EN pair passed DOCX structure, source-format, URL reachability, taxonomy and media-rights checks on 2026-08-12. Claims remain explicitly attributed to the listed sources.",
+    "converted_by": "VANSMITHLAB incoming article publication workflow",
+    "converted_at": "2026-08-12T00:00:00.000Z",
+    "media_reviewed_at": "2026-08-12",
+    "media_note": "Card and portrait are original AI editorial illustrations; neither is documentary evidence or a copied archival photograph."
+  }
+}

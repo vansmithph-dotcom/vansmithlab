@@ -1,0 +1,43 @@
+{
+  "content_id": "cnt_0a8757234fc768ec",
+  "primary_object_id": "obj_id_magazine_20260812",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "verified",
+  "confidence_score": 0.9,
+  "claim_ids": [
+    "clm_id_origin",
+    "clm_id_language",
+    "clm_id_media"
+  ],
+  "source_ids": [],
+  "last_reviewed": "2026-08-12",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "i-d-street-style-identity-magazine-visual-language",
+  "title": "i-D",
+  "summary": "Уличный стиль, идентичность и журнал как язык взгляда",
+  "discipline": [
+    "graphic-design",
+    "fashion",
+    "photography",
+    "media-publishing"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "71aab780b249961ec1643db2f4ad406af0d797d1bc56a4a26dcfc114a2fb0115",
+  "hero_image": {
+    "src": "/images/articles/i-d-street-style-identity-magazine-visual-language-hero-v1.webp",
+    "alt": "Редакционная композиция о журнале i-D: контактные листы, уличные силуэты и геометрический знак подмигивания на столе дизайнера.",
+    "caption": "Оригинальная редакционная иллюстрация: i-D как визуальная система уличного стиля и независимого журнального производства.",
+    "credit": "VANSMITHLAB",
+    "origin": "ai_illustration",
+    "rights_status": "generated_reviewed",
+    "content_hash": "a7b13b2411ba709050ec3c24d8a2f0ef2927df71326bef8279cb5f6e4aaad5ee",
+    "asset_id": "asset_i-d-street-style-identity-magazine-visual-language_hero_v1",
+    "width": 1536,
+    "height": 1024
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "asset_id": "asset_screen-that-answers-back_diagram_06_en_v1",
+  "primary_object_id": "obj_screen_that_answers_back_20260813",
+  "content_release_id": "VSL-AN-INTERFACE-005",
+  "kind": "diagram",
+  "origin": "editorial_diagram",
+  "locale": "en",
+  "author_supplied_reference": {
+    "reference_url": "https://www.w3.org/TR/WCAG22/",
+    "asset_url": "",
+    "creator_or_rightsholder": "VANSMITHLAB",
+    "title_or_subject": "Diagram: perceive → focus → act → error → recover",
+    "date_or_context": "2026 editorial analysis release",
+    "placement": "sec-8",
+    "supports_claims_or_examples": [
+      "clm_ui_wcag",
+      "interpretation"
+    ],
+    "why_this_visual_matters": "Original VANSMITHLAB diagram: accessibility as the ability to perceive, act and recover after error.",
+    "suggested_alt_text_ru": "Схема показывает путь от восприятия и фокуса к действию, ошибке и возможности восстановления.",
+    "suggested_alt_text_en": "Diagram showing the path from perception and focus to action, error and recovery.",
+    "suggested_caption_ru": "Оригинальная схема VANSMITHLAB: доступность как возможность воспринять, действовать и восстановиться после ошибки.",
+    "suggested_caption_en": "Original VANSMITHLAB diagram: accessibility as the ability to perceive, act and recover after error.",
+    "rights_basis_from_author": "Original VANSMITHLAB editorial diagram; no third-party image copied."
+  },
+  "educational_purpose": "Original VANSMITHLAB diagram: accessibility as the ability to perceive, act and recover after error.",
+  "must_not_imply": [
+    "A documentary screenshot or reproduction",
+    "Endorsement by the referenced organization or platform"
+  ],
+  "rights": {
+    "status": "editorial_basis_recorded",
+    "rights_basis": "Original VANSMITHLAB editorial diagram; no third-party visual asset embedded.",
+    "third_party_marks": "Textual nominative reference only where needed for analysis."
+  },
+  "accessibility": {
+    "alt": "Diagram showing the path from perception and focus to action, error and recovery.",
+    "caption": "Original VANSMITHLAB diagram: accessibility as the ability to perceive, act and recover after error."
+  },
+  "creator": "VANSMITHLAB editorial visual system",
+  "created_at": "2026-08-13",
+  "asset_path": "public/images/articles/screen-that-answers-back/diagram-06-en.svg",
+  "file": {
+    "path": "/images/articles/screen-that-answers-back/diagram-06-en.svg",
+    "sha256": "2b08f0a0255e6020f16b0ba5d9deb6e447cd941a155060efa4dd1aadabf329e8",
+    "width": 1600,
+    "height": 900
+  },
+  "source_url": "https://www.w3.org/TR/WCAG22/",
+  "rights_state": "editorial_basis_recorded",
+  "licence": "Original VANSMITHLAB editorial diagram; no third-party image copied.",
+  "licence_or_permission": "Original VANSMITHLAB editorial diagram; no third-party image copied.",
+  "creator_or_credit": "VANSMITHLAB",
+  "disclosure": "Редакционная диаграмма VANSMITHLAB."
+}

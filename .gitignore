@@ -13,6 +13,9 @@ automation/.runtime/
 # Build artifacts
 tsconfig.tsbuildinfo
 
+# Accidental page dump
+in
+
 # Claude local config
 .claude/
 work/

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img">
+<title>JURASSIC PARK: ГИБРИД ДЕЛАЕТ ДИНОЗАВРА ТЯЖЁЛЫМ</title>
+<desc>Практический объект, свет, цифровая геометрия и композитинг должны подчиняться одной сцене</desc>
+<rect width="1600" height="900" fill="#f2eee6"/>
+<defs><pattern id="grid" width="80" height="80" patternUnits="userSpaceOnUse"><path d="M80 0H0V80" fill="none" stroke="#ded7ca" stroke-width="1"/></pattern></defs>
+<rect x="40" y="40" width="1520" height="820" fill="url(#grid)" opacity=".46"/>
+<rect x="40" y="40" width="1520" height="820" rx="0" fill="none" stroke="#171716" stroke-width="2"/>
+<text x="78" y="96" fill="#c84a31" text-anchor="start" font-family="monospace" font-size="15" font-weight="500" letter-spacing="2">VANSMITHLAB / ANALYSIS / 01</text>
+<text x="78" y="170" fill="#171716" text-anchor="start" font-family="Georgia" font-size="42" font-weight="500" letter-spacing="0">JURASSIC PARK: ГИБРИД ДЕЛАЕТ ДИНОЗАВРА ТЯЖЁЛЫМ</text>
+<line x1="78" y1="202" x2="1522" y2="202" stroke="#171716" stroke-width="2"/>
+<text x="78" y="824" fill="#777167" text-anchor="start" font-family="Arial" font-size="19" font-weight="400" letter-spacing="0">Практический объект, свет, цифровая геометрия и композитинг должны подчиняться одной сцене</text>
+<rect x="100" y="315" width="280" height="255" rx="0" fill="#fbf8f1" stroke="#171716" stroke-width="2"/>
+<text x="240" y="620" fill="#171716" text-anchor="middle" font-family="monospace" font-size="15" font-weight="700" letter-spacing="0">ПРАКТИЧЕСКАЯ СЦЕНА</text>
+<line x1="380" y1="442" x2="450" y2="442" stroke="#c84a31" stroke-width="4"/>
+<path d="M434 428 L450 442 L434 456" fill="none" stroke="#c84a31" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="470" y="315" width="280" height="255" rx="0" fill="#dce5e9" stroke="#171716" stroke-width="2"/>
+<text x="610" y="620" fill="#171716" text-anchor="middle" font-family="monospace" font-size="15" font-weight="700" letter-spacing="0">СВЕТ + ОПТИКА</text>
+<line x1="750" y1="442" x2="820" y2="442" stroke="#c84a31" stroke-width="4"/>
+<path d="M804 428 L820 442 L804 456" fill="none" stroke="#c84a31" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="840" y="315" width="280" height="255" rx="0" fill="#ead3ca" stroke="#171716" stroke-width="2"/>
+<text x="980" y="620" fill="#171716" text-anchor="middle" font-family="monospace" font-size="15" font-weight="700" letter-spacing="0">CG-СУЩЕСТВО</text>
+<line x1="1120" y1="442" x2="1190" y2="442" stroke="#c84a31" stroke-width="4"/>
+<path d="M1174 428 L1190 442 L1174 456" fill="none" stroke="#c84a31" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="1210" y="315" width="280" height="255" rx="0" fill="#171716" stroke="#171716" stroke-width="2"/>
+<text x="1350" y="620" fill="#f2eee6" text-anchor="middle" font-family="monospace" font-size="15" font-weight="700" letter-spacing="0">ОБЩАЯ РЕАЛЬНОСТЬ</text>
+<circle cx="240" cy="410" r="45" fill="#171716" stroke="#171716" stroke-width="2"/>
+<path d="M175 525 Q240 425 305 525" fill="none" stroke="#171716" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M515 510 C580 350 685 350 725 500" fill="none" stroke="#284e78" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="980" cy="430" r="75" fill="#c84a31" stroke="#c84a31" stroke-width="2"/>
+<path d="M925 485 Q980 350 1035 485" fill="none" stroke="#171716" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1280 510 C1370 365 1450 390 1490 505" fill="none" stroke="#f2eee6" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

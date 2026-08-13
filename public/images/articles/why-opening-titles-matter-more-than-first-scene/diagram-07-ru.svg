@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img">
+<rect width="1600" height="900" fill="#f2eee6"/>
+<defs><pattern id="grid" width="80" height="80" patternUnits="userSpaceOnUse"><path d="M80 0H0V80" fill="none" stroke="#ded7ca" stroke-width="1"/></pattern></defs>
+<rect x="40" y="40" width="1520" height="820" fill="url(#grid)" opacity=".46"/>
+<rect x="40" y="40" width="1520" height="820" rx="0" fill="none" stroke="#171716" stroke-width="2"/>
+<text x="78" y="96" fill="#c84a31" text-anchor="start" font-family="monospace" font-size="15" font-weight="500" letter-spacing="2">VANSMITHLAB / ANALYSIS / 07</text>
+<text x="78" y="170" fill="#171716" text-anchor="start" font-family="Georgia" font-size="48" font-weight="500" letter-spacing="0">SKIP INTRO: ????????? ?????? ???????</text>
+<line x1="78" y1="202" x2="1522" y2="202" stroke="#171716" stroke-width="2"/>
+<text x="78" y="824" fill="#777167" text-anchor="start" font-family="Arial" font-size="19" font-weight="400" letter-spacing="0">????????? ?????????? ?????? ?????? ? ???????????? ?????</text>
+<rect x="90" y="280" width="640" height="420" rx="0" fill="#fbf8f1" stroke="#171716" stroke-width="2"/>
+<text x="410" y="340" fill="#171716" text-anchor="middle" font-family="monospace" font-size="18" font-weight="700" letter-spacing="0">????????? ?????</text>
+<path d="M150 630 C260 420 480 420 640 630" fill="none" stroke="#284e78" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="780" y="280" width="160" height="420" rx="16" fill="#171716" stroke="#171716" stroke-width="2"/>
+<text x="860" y="360" fill="#f2eee6" text-anchor="middle" font-family="monospace" font-size="15" font-weight="700" letter-spacing="0">??????</text>
+<circle cx="860" cy="600" r="18" fill="#c84a31" stroke="#c84a31" stroke-width="2"/>
+<rect x="990" y="280" width="520" height="420" rx="0" fill="#ead3ca" stroke="#171716" stroke-width="2"/>
+<text x="1250" y="340" fill="#171716" text-anchor="middle" font-family="monospace" font-size="18" font-weight="700" letter-spacing="0">????? ???????</text>
+<path d="M1100 420 C1170 480 1220 380 1290 460 S1390 400 1440 470" fill="none" stroke="#171716" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

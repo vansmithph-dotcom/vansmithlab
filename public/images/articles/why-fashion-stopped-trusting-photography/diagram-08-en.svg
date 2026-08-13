@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img">
+<rect width="1600" height="900" fill="#f2eee6"/>
+<defs><pattern id="grid" width="80" height="80" patternUnits="userSpaceOnUse"><path d="M80 0H0V80" fill="none" stroke="#ded7ca" stroke-width="1"/></pattern></defs>
+<rect x="40" y="40" width="1520" height="820" fill="url(#grid)" opacity=".46"/>
+<rect x="40" y="40" width="1520" height="820" rx="0" fill="none" stroke="#171716" stroke-width="2"/>
+<text x="78" y="96" fill="#c84a31" text-anchor="start" font-family="monospace" font-size="15" font-weight="500" letter-spacing="2">VANSMITHLAB / ANALYSIS / 08</text>
+<text x="78" y="170" fill="#171716" text-anchor="start" font-family="Georgia" font-size="48" font-weight="500" letter-spacing="0">AI VIDEO: MOVEMENT AFTER THE SHOOT</text>
+<line x1="78" y1="202" x2="1522" y2="202" stroke="#171716" stroke-width="2"/>
+<rect x="85" y="300" width="245" height="235" rx="0" fill="#fbf8f1" stroke="#171716" stroke-width="2"/>
+<text x="207" y="580" fill="#171716" text-anchor="middle" font-family="monospace" font-size="15" font-weight="700" letter-spacing="0">SOURCE IMAGE</text>
+<line x1="330" y1="418" x2="395" y2="418" stroke="#c84a31" stroke-width="4"/>
+<path d="M379 404 L395 418 L379 432" fill="none" stroke="#c84a31" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="400" y="300" width="245" height="235" rx="0" fill="#fbf8f1" stroke="#171716" stroke-width="2"/>
+<text x="522" y="580" fill="#171716" text-anchor="middle" font-family="monospace" font-size="15" font-weight="700" letter-spacing="0">POSE SEQUENCE</text>
+<line x1="645" y1="418" x2="710" y2="418" stroke="#c84a31" stroke-width="4"/>
+<path d="M694 404 L710 418 L694 432" fill="none" stroke="#c84a31" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="715" y="300" width="245" height="235" rx="0" fill="#ead3ca" stroke="#171716" stroke-width="2"/>
+<text x="837" y="580" fill="#171716" text-anchor="middle" font-family="monospace" font-size="15" font-weight="700" letter-spacing="0">MOTION SYNTHESIS</text>
+<line x1="960" y1="418" x2="1025" y2="418" stroke="#c84a31" stroke-width="4"/>
+<path d="M1009 404 L1025 418 L1009 432" fill="none" stroke="#c84a31" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="1030" y="300" width="245" height="235" rx="0" fill="#fbf8f1" stroke="#171716" stroke-width="2"/>
+<text x="1152" y="580" fill="#171716" text-anchor="middle" font-family="monospace" font-size="15" font-weight="700" letter-spacing="0">BODY + FABRIC</text>
+<circle cx="207" cy="365" r="30" fill="#171716" stroke="#171716" stroke-width="2"/>
+<path d="M165 505 Q207 405 249 505" fill="#171716" stroke="#171716" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="445" cy="380" r="16" fill="#284e78" stroke="none" stroke-width="2"/>
+<line x1="445" y1="400" x2="445" y2="470" stroke="#171716" stroke-width="5"/>
+<circle cx="500" cy="445" r="16" fill="#c84a31" stroke="none" stroke-width="2"/>
+<line x1="500" y1="465" x2="500" y2="475" stroke="#171716" stroke-width="5"/>
+<circle cx="555" cy="380" r="16" fill="#284e78" stroke="none" stroke-width="2"/>
+<line x1="555" y1="400" x2="555" y2="470" stroke="#171716" stroke-width="5"/>
+<circle cx="610" cy="445" r="16" fill="#c84a31" stroke="none" stroke-width="2"/>
+<line x1="610" y1="465" x2="610" y2="475" stroke="#171716" stroke-width="5"/>
+<circle cx="837" cy="418" r="72" fill="#171716" stroke="#171716" stroke-width="2"/>
+<path d="M795 418 L825 448 L885 380" fill="none" stroke="#f2eee6" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1090 490 Q1152 320 1215 490" fill="#dce5e9" stroke="#284e78" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1110 490 Q1152 390 1195 490" fill="#ead3ca" stroke="#c84a31" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="1275" y1="270" x2="1275" y2="755" stroke="#171716" stroke-width="2"/>
+<rect x="1320" y="310" width="205" height="50" rx="0" fill="#c84a31" stroke="#171716" stroke-width="2"/>
+<text x="1422" y="342" fill="#f2eee6" text-anchor="middle" font-family="monospace" font-size="14" font-weight="700" letter-spacing="0">CONSENT</text>
+<rect x="1320" y="392" width="205" height="50" rx="0" fill="#fbf8f1" stroke="#171716" stroke-width="2"/>
+<text x="1422" y="424" fill="#171716" text-anchor="middle" font-family="monospace" font-size="14" font-weight="700" letter-spacing="0">AUTHORSHIP</text>
+<rect x="1320" y="474" width="205" height="50" rx="0" fill="#fbf8f1" stroke="#171716" stroke-width="2"/>
+<text x="1422" y="506" fill="#171716" text-anchor="middle" font-family="monospace" font-size="14" font-weight="700" letter-spacing="0">PHYSICS</text>
+<rect x="1320" y="556" width="205" height="50" rx="0" fill="#fbf8f1" stroke="#171716" stroke-width="2"/>
+<text x="1422" y="588" fill="#171716" text-anchor="middle" font-family="monospace" font-size="14" font-weight="700" letter-spacing="0">RIGHTS</text>
+<rect x="1320" y="638" width="205" height="50" rx="0" fill="#c84a31" stroke="#171716" stroke-width="2"/>
+<text x="1422" y="670" fill="#f2eee6" text-anchor="middle" font-family="monospace" font-size="14" font-weight="700" letter-spacing="0">TRUST</text>
+<text x="85" y="800" fill="#c84a31" text-anchor="start" font-family="monospace" font-size="18" font-weight="700" letter-spacing="1">SYNTHESIS ≠ EVIDENCE</text>
+</svg>
