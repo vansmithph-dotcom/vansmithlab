@@ -1,0 +1,40 @@
+{
+  "asset_id": "asset_polly-mellen-fashion-editor-risk-image-making_portrait_v1",
+  "primary_object_id": "obj_polly_mellen_20260814",
+  "kind": "image",
+  "origin": "ai_reconstruction",
+  "locale": "bilingual",
+  "educational_purpose": "AI portrait reconstruction for the polly-mellen-fashion-editor-risk-image-making profile; non-documentary.",
+  "must_not_imply": [
+    "A specific protected photograph",
+    "Endorsement by Vogue or Cond Nast"
+  ],
+  "rights": {
+    "status": "generated_reviewed",
+    "disclosure": "AI reconstruction, not documentary evidence.",
+    "rights_basis": "Original AI portrait generated for VANSMITHLAB without copying a protected photograph.",
+    "third_party_marks": "None"
+  },
+  "accessibility": {
+    "alt_ru": "AI-????????????? ???????? Polly Mellen ? ?????? ? ???????? ? ??????? ? ???????.",
+    "alt_en": "AI reconstruction of Polly Mellen in a studio beside a rack of garments and a printed spread.",
+    "caption_ru": "Polly Mellen, ???????? ????. AI-?????????????, ?? ???????? ??????????.",
+    "caption_en": "Polly Mellen, fashion editor. AI reconstruction, not an archival photograph."
+  },
+  "creator": "OpenAI image generation - directed and reviewed by VANSMITHLAB",
+  "created_at": "2026-08-14",
+  "asset_path": "public/images/glossary/fashion-editors/polly-mellen-fashion-editor-risk-image-making-portrait-ai-v1.webp",
+  "file": {
+    "path": "/images/glossary/fashion-editors/polly-mellen-fashion-editor-risk-image-making-portrait-ai-v1.webp",
+    "sha256": "950bb59a793bcd9fbba1271a68c8282c66b6eab630803cb3c45647d29ecdda48",
+    "width": 1024,
+    "height": 1536
+  },
+  "generation_prompt_class": "Original AI portrait for polly-mellen-fashion-editor-risk-image-making",
+  "rights_state": "generated_reviewed",
+  "licence_or_permission": "Original AI portrait reconstruction; not documentary evidence.",
+  "source_url": "",
+  "creator_or_credit": "OpenAI image generation - VANSMITHLAB",
+  "disclosure": "AI-????????????? VANSMITHLAB",
+  "supports": "editorial-thesis"
+}

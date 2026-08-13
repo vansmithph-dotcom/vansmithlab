@@ -1,0 +1,1246 @@
+{
+  "id": "obj_polly_mellen_20260814",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Polly Mellen: ???? ? ?????????? fashion editor",
+  "title_en": "Polly Mellen: Risk, Discipline and the Fashion Editor as Co-Author",
+  "slug_ru": "polly-mellen-fashion-editor-risk-image-making",
+  "slug_en": "polly-mellen-fashion-editor-risk-image-making",
+  "summary_ru": "????, ?????????? ? fashion editor ??? ??????? ???????????",
+  "verification_state": "multi_source_verified",
+  "confidence_score": 0.86,
+  "created_at": "2026-08-14T00:00:00.000Z",
+  "updated_at": "2026-08-14T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_polly_1_1westhartfor",
+      "wording_ru": "1. West Hartford, 1924: индивидуальность до индустрии Polly Allen Mellen родилась 18 июня 1924 года в West Hartford, Connecticut.",
+      "wording_en": "1. West Hartford, 1924: индивидуальность до индустрии Polly Allen Mellen was born in West Hartford, Connecticut, on 18 June 1924.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/polly-mellen-obituary",
+          "locator": "DOCX section sec-1",
+          "support": "Claim supported by the referenced Vogue/Avedon/Met source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.vogue.com/article/happy-100th-birthday-polly-mellen-colleagues-share-favorite-memories-of-the-indomitable-fashion-editor",
+          "locator": "DOCX section sec-1",
+          "support": "Claim supported by the referenced Vogue/Avedon/Met source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_polly_2_2войнаиработ",
+      "wording_ru": "2. Война и работа медсестрой: мода начинается не с глянца После окончания школы во время Второй мировой войны Mellen работала помощницей медсестры в Virginia, прежде чем переехать в New York.",
+      "wording_en": "2. Война и работа медсестрой: мода начинается не с глянца After school during the Second World War, Mellen worked as a nurse’s aide in Virginia before moving to New York.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/polly-mellen-obituary",
+          "locator": "DOCX section sec-2",
+          "support": "Claim supported by the referenced Vogue/Avedon/Met source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.vogue.com/article/happy-100th-birthday-polly-mellen-colleagues-share-favorite-memories-of-the-indomitable-fashion-editor",
+          "locator": "DOCX section sec-2",
+          "support": "Claim supported by the referenced Vogue/Avedon/Met source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_polly_3_3lordtaylorи",
+      "wording_ru": "3. Lord & Taylor и Saks: сначала вещь, клиент и торговый зал В New York Mellen прошла через retail — Lord & Taylor и Saks Fifth Avenue — прежде чем перейти в журнальную работу.",
+      "wording_en": "3. Lord & Taylor и Saks: сначала вещь, клиент и торговый зал In New York Mellen passed through retail at Lord & Taylor and Saks Fifth Avenue before moving into magazines.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/polly-mellen-obituary",
+          "locator": "DOCX section sec-3",
+          "support": "Claim supported by the referenced Vogue/Avedon/Met source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.vogue.com/article/happy-100th-birthday-polly-mellen-colleagues-share-favorite-memories-of-the-indomitable-fashion-editor",
+          "locator": "DOCX section sec-3",
+          "support": "Claim supported by the referenced Vogue/Avedon/Met source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_polly_4_4mademoisell",
+      "wording_ru": "4. Mademoiselle и вход в Harper’s Bazaar: редактор учится внутри системы Из Mademoiselle Mellen попала на интервью в Harper’s Bazaar благодаря редактору Sally Kirkland.",
+      "wording_en": "4. Mademoiselle и вход в Harper’s Bazaar: редактор учится внутри системы From Mademoiselle, Mellen reached Harper’s Bazaar through editor Sally Kirkland.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/polly-mellen-obituary",
+          "locator": "DOCX section sec-4",
+          "support": "Claim supported by the referenced Vogue/Avedon/Met source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.vogue.com/article/happy-100th-birthday-polly-mellen-colleagues-share-favorite-memories-of-the-indomitable-fashion-editor",
+          "locator": "DOCX section sec-4",
+          "support": "Claim supported by the referenced Vogue/Avedon/Met source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_polly_5_5dianavreela",
+      "wording_ru": "5. Diana Vreeland: наставник учит искать не безопасное, а новое В Harper’s Bazaar Mellen оказалась под влиянием Diana Vreeland.",
+      "wording_en": "5. Diana Vreeland: наставник учит искать не безопасное, а новое At Harper’s Bazaar Mellen came under Diana Vreeland’s influence.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/polly-mellen-obituary",
+          "locator": "DOCX section sec-5",
+          "support": "Claim supported by the referenced Vogue/Avedon/Met source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.vogue.com/article/happy-100th-birthday-polly-mellen-colleagues-share-favorite-memories-of-the-indomitable-fashion-editor",
+          "locator": "DOCX section sec-5",
+          "support": "Claim supported by the referenced Vogue/Avedon/Met source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_polly_6_6richardaved",
+      "wording_ru": "6. Richard Avedon: конфликт превращается в тридцатилетнее соавторство По воспоминаниям Mellen, Avedon сначала не хотел с ней работать, считая её слишком громкой.",
+      "wording_en": "6. Richard Avedon: конфликт превращается в тридцатилетнее соавторство Mellen recalled that Avedon initially did not want to work with her because he thought she was too loud.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/polly-mellen-obituary",
+          "locator": "DOCX section sec-6",
+          "support": "Claim supported by the referenced Vogue/Avedon/Met source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.vogue.com/article/happy-100th-birthday-polly-mellen-colleagues-share-favorite-memories-of-the-indomitable-fashion-editor",
+          "locator": "DOCX section sec-6",
+          "support": "Claim supported by the referenced Vogue/Avedon/Met source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_polly_7_7семьяипауза",
+      "wording_ru": "7. Семья и пауза: карьера не была прямой линией После короткого раннего периода в Bazaar Mellen вышла замуж, переехала в Philadelphia и на время вышла из интенсивной журнальной работы; после развода вернулась в fashion-среду.",
+      "wording_en": "7. Семья и пауза: карьера не была прямой линией After the short early Bazaar period, Mellen married, moved to Philadelphia and stepped away from intensive magazine work for a period; after divorce she returned to fashion.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/polly-mellen-obituary",
+          "locator": "DOCX section sec-7",
+          "support": "Claim supported by the referenced Vogue/Avedon/Met source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.vogue.com/article/happy-100th-birthday-polly-mellen-colleagues-share-favorite-memories-of-the-indomitable-fashion-editor",
+          "locator": "DOCX section sec-7",
+          "support": "Claim supported by the referenced Vogue/Avedon/Met source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_polly_8_8vogueсереди",
+      "wording_ru": "8. Vogue, середина 1960-х: sittings editor как ключевая роль Vogue связывает переход Mellen в американский Vogue с Diana Vreeland и серединой 1960-х.",
+      "wording_en": "8. Vogue, середина 1960-х: sittings editor как ключевая роль Vogue connects Mellen’s move into American Vogue with Diana Vreeland and the mid-1960s.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/polly-mellen-obituary",
+          "locator": "DOCX section sec-8",
+          "support": "Claim supported by the referenced Vogue/Avedon/Met source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.vogue.com/article/happy-100th-birthday-polly-mellen-colleagues-share-favorite-memories-of-the-indomitable-fashion-editor",
+          "locator": "DOCX section sec-8",
+          "support": "Claim supported by the referenced Vogue/Avedon/Met source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_polly_9_9greatfurcar",
+      "wording_ru": "9. Great Fur Caravan, 1966: редакционная амбиция становится экспедицией Для проекта, вошедшего в историю как The Great Fur Caravan, Mellen, Richard Avedon и Veruschka отправились в Японию.",
+      "wording_en": "9. Great Fur Caravan, 1966: редакционная амбиция становится экспедицией For the project remembered as The Great Fur Caravan, Mellen, Richard Avedon and Veruschka travelled to Japan.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/polly-mellen-obituary",
+          "locator": "DOCX section sec-9",
+          "support": "Claim supported by the referenced Vogue/Avedon/Met source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.vogue.com/article/happy-100th-birthday-polly-mellen-colleagues-share-favorite-memories-of-the-indomitable-fashion-editor",
+          "locator": "DOCX section sec-9",
+          "support": "Claim supported by the referenced Vogue/Avedon/Met source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_polly_10_10рисклокаци",
+      "wording_ru": "10. Риск локации: когда production становится частью смысла Миф о Mellen часто сводит риск к темпераменту.",
+      "wording_en": "10. Риск локации: когда production становится частью смысла The myth of Mellen often reduces risk to temperament.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/polly-mellen-obituary",
+          "locator": "DOCX section sec-10",
+          "support": "Claim supported by the referenced Vogue/Avedon/Met source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.vogue.com/article/happy-100th-birthday-polly-mellen-colleagues-share-favorite-memories-of-the-indomitable-fashion-editor",
+          "locator": "DOCX section sec-10",
+          "support": "Claim supported by the referenced Vogue/Avedon/Met source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_polly_11_11twiggy1967",
+      "wording_ru": "11. Twiggy, 1967: съёмка как точная хореография Репортаж The New Yorker из студии Avedon в 1967 году буквально показывает Mellen за работой на сидтинге с Twiggy: она помогает корректировать детали образа, пока фотограф выстраивает позу, свет и ритм съёмки.",
+      "wording_en": "11. Twiggy, 1967: съёмка как точная хореография A 1967 New Yorker report from Avedon’s studio shows Mellen at work with Twiggy: she helps adjust details of the look while the photographer builds pose, light and rhythm.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/polly-mellen-obituary",
+          "locator": "DOCX section sec-11",
+          "support": "Claim supported by the referenced Vogue/Avedon/Met source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.vogue.com/article/happy-100th-birthday-polly-mellen-colleagues-share-favorite-memories-of-the-indomitable-fashion-editor",
+          "locator": "DOCX section sec-11",
+          "support": "Claim supported by the referenced Vogue/Avedon/Met source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_polly_12_12penelopetr",
+      "wording_ru": "12. Penelope Tree: подчеркнуть особенность вместо исправления В материале The Editor’s Eye Vogue вспоминает, как Mellen вместе с Avedon усилила необычную, вытянутую пластику Penelope Tree слишком маленьким брючным костюмом.",
+      "wording_en": "12. Penelope Tree: подчеркнуть особенность вместо исправления In Vogue’s The Editor’s Eye material, Mellen and Avedon emphasise Penelope Tree’s unusual elongated physicality with an intentionally too-small pantsuit.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/polly-mellen-obituary",
+          "locator": "DOCX section sec-12",
+          "support": "Claim supported by the referenced Vogue/Avedon/Met source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.vogue.com/article/happy-100th-birthday-polly-mellen-colleagues-share-favorite-memories-of-the-indomitable-fashion-editor",
+          "locator": "DOCX section sec-12",
+          "support": "Claim supported by the referenced Vogue/Avedon/Met source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_polly_13_13сидтингкак",
+      "wording_ru": "13. Сидтинг как физический труд: одежда не приходит в кадр сама Воспоминания Vera Wang о работе с Mellen подчёркивают буквально физическую сторону профессии: коробки, булавки, одежда, мокрые локации, постоянные перемещения и работа на коленях.",
+      "wording_en": "13. Сидтинг как физический труд: одежда не приходит в кадр сама Vera Wang’s memories of working with Mellen stress the physical reality of the job: boxes, pins, garments, rain, constant movement and work on hands and knees.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/polly-mellen-obituary",
+          "locator": "DOCX section sec-13",
+          "support": "Claim supported by the referenced Vogue/Avedon/Met source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.vogue.com/article/happy-100th-birthday-polly-mellen-colleagues-share-favorite-memories-of-the-indomitable-fashion-editor",
+          "locator": "DOCX section sec-13",
+          "support": "Claim supported by the referenced Vogue/Avedon/Met source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_polly_14_14тольконаст",
+      "wording_ru": "14. «Только настолько хороша, насколько хороша последняя съёмка» Vera Wang вспоминала, что Mellen после неудачных редакционных решений признавала собственную тревогу: каждый новый сет фотографий снова должен доказать качество редактора.",
+      "wording_en": "14. «Только настолько хороша, насколько хороша последняя съёмка» Vera Wang recalled Mellen admitting that every new set of pictures could reopen the editor’s anxiety about whether the work was good enough.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/polly-mellen-obituary",
+          "locator": "DOCX section sec-14",
+          "support": "Claim supported by the referenced Vogue/Avedon/Met source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.vogue.com/article/happy-100th-birthday-polly-mellen-colleagues-share-favorite-memories-of-the-indomitable-fashion-editor",
+          "locator": "DOCX section sec-14",
+          "support": "Claim supported by the referenced Vogue/Avedon/Met source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_polly_15_15неодинфото",
+      "wording_ru": "15. Не один фотограф: редакционный метод должен менять язык Хотя партнёрство с Avedon было центральным, Mellen работала с Irving Penn, Helmut Newton, Deborah Turbeville, Arthur Elgort, Patrick Demarchelier, Herb Ritts, Steven Klein и другими авторами.",
+      "wording_en": "15. Не один фотограф: редакционный метод должен менять язык Although Avedon was central, Mellen worked with Irving Penn, Helmut Newton, Deborah Turbeville, Arthur Elgort, Patrick Demarchelier, Herb Ritts, Steven Klein and many others.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/polly-mellen-obituary",
+          "locator": "DOCX section sec-15",
+          "support": "Claim supported by the referenced Vogue/Avedon/Met source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.vogue.com/article/happy-100th-birthday-polly-mellen-colleagues-share-favorite-memories-of-the-indomitable-fashion-editor",
+          "locator": "DOCX section sec-15",
+          "support": "Claim supported by the referenced Vogue/Avedon/Met source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_polly_16_16bathhouseм",
+      "wording_ru": "16. Bathhouse, май 1975: купальник перестаёт быть рекламой тела В мае 1975 Vogue опубликовал There’s More to a Bathing Suit Than Meets the Eye — съёмку Deborah Turbeville с fashion editing Mellen.",
+      "wording_en": "16. Bathhouse, май 1975: купальник перестаёт быть рекламой тела In May 1975 Vogue published There’s More to a Bathing Suit Than Meets the Eye, photographed by Deborah Turbeville and fashion edited by Mellen.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/polly-mellen-obituary",
+          "locator": "DOCX section sec-16",
+          "support": "Claim supported by the referenced Vogue/Avedon/Met source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.vogue.com/article/happy-100th-birthday-polly-mellen-colleagues-share-favorite-memories-of-the-indomitable-fashion-editor",
+          "locator": "DOCX section sec-16",
+          "support": "Claim supported by the referenced Vogue/Avedon/Met source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_polly_17_17thestoryof",
+      "wording_ru": "17. The Story of Ohhh…, тот же май 1975: другой язык риска В том же номере появился The Story of Ohhh…, снятый Helmut Newton и отредактированный Mellen.",
+      "wording_en": "17. The Story of Ohhh…, тот же май 1975: другой язык риска The same issue carried The Story of Ohhh…, photographed by Helmut Newton and edited by Mellen.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/polly-mellen-obituary",
+          "locator": "DOCX section sec-17",
+          "support": "Claim supported by the referenced Vogue/Avedon/Met source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.vogue.com/article/happy-100th-birthday-polly-mellen-colleagues-share-favorite-memories-of-the-indomitable-fashion-editor",
+          "locator": "DOCX section sec-17",
+          "support": "Claim supported by the referenced Vogue/Avedon/Met source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_polly_18_18май1975как",
+      "wording_ru": "18. Май 1975 как редакционный эксперимент: два конфликта в одном выпуске Corporate Photography Director Ivan Shaw назвал одновременное появление Bathhouse и The Story of Ohhh… extraordinary feat и связал его с смелостью Mellen.",
+      "wording_en": "18. Май 1975 как редакционный эксперимент: два конфликта в одном выпуске Condé Nast corporate photography director Ivan Shaw called the simultaneous publication of the Bathhouse and The Story of Ohhh… an extraordinary feat and linked it to Mellen’s courage.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/polly-mellen-obituary",
+          "locator": "DOCX section sec-18",
+          "support": "Claim supported by the referenced Vogue/Avedon/Met source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.vogue.com/article/happy-100th-birthday-polly-mellen-colleagues-share-favorite-memories-of-the-indomitable-fashion-editor",
+          "locator": "DOCX section sec-18",
+          "support": "Claim supported by the referenced Vogue/Avedon/Met source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_polly_19_19mellenиave",
+      "wording_ru": "19. Mellen и Avedon: фотография рождается между характерами Avedon Foundation и Vogue сохраняют десятилетия совместной работы Mellen и Avedon, а Met хранит крупноформатный портрет самой Mellen, снятый Avedon 21 августа 1975 года.",
+      "wording_en": "19. Mellen и Avedon: фотография рождается между характерами The Avedon Foundation and Vogue preserve decades of shared work, while The Met holds Avedon’s large 21 August 1975 portrait of Mellen herself.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/polly-mellen-obituary",
+          "locator": "DOCX section sec-19",
+          "support": "Claim supported by the referenced Vogue/Avedon/Met source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.vogue.com/article/happy-100th-birthday-polly-mellen-colleagues-share-favorite-memories-of-the-indomitable-fashion-editor",
+          "locator": "DOCX section sec-19",
+          "support": "Claim supported by the referenced Vogue/Avedon/Met source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_polly_20_20nastassjak",
+      "wording_ru": "20. Nastassja Kinski и змея, 1981: минимальная одежда, максимальная fashion image Фотография Nastassja Kinski со змеёй, снятая Avedon 14 июня 1981 года и опубликованная Vogue, стала одной из самых известных работ их сотрудничества.",
+      "wording_en": "20. Nastassja Kinski и змея, 1981: минимальная одежда, максимальная fashion image Avedon’s photograph of Nastassja Kinski with a snake, made on 14 June 1981 and published by Vogue, became one of their best-known collaborations.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/polly-mellen-obituary",
+          "locator": "DOCX section sec-20",
+          "support": "Claim supported by the referenced Vogue/Avedon/Met source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.vogue.com/article/happy-100th-birthday-polly-mellen-colleagues-share-favorite-memories-of-the-indomitable-fashion-editor",
+          "locator": "DOCX section sec-20",
+          "support": "Claim supported by the referenced Vogue/Avedon/Met source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_polly_21_21отодеждыко",
+      "wording_ru": "21. От одежды к образу: редактор управляет отношениями, а не гардеробом Документальный проект In Vogue: The Editor’s Eye формулирует fashion editors как людей, отвечающих за создание сильных изображений, а не просто за выбор одежды.",
+      "wording_en": "21. От одежды к образу: редактор управляет отношениями, а не гардеробом The documentary In Vogue: The Editor’s Eye frames fashion editors as the people responsible for creating strong Vogue images rather than simply selecting clothes.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/polly-mellen-obituary",
+          "locator": "DOCX section sec-21",
+          "support": "Claim supported by the referenced Vogue/Avedon/Met source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.vogue.com/article/happy-100th-birthday-polly-mellen-colleagues-share-favorite-memories-of-the-indomitable-fashion-editor",
+          "locator": "DOCX section sec-21",
+          "support": "Claim supported by the referenced Vogue/Avedon/Met source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_polly_22_22гендерсекс",
+      "wording_ru": "22. Гендер, сексуальность и критическое чтение наследия Некоторые самые знаменитые истории Mellen сегодня неизбежно читаются через изменившееся понимание согласия, власти, сексуализации и male gaze.",
+      "wording_en": "22. Гендер, сексуальность и критическое чтение наследия Some of Mellen’s most famous stories are now inevitably read through changed understandings of consent, power, sexualisation and the male gaze.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/polly-mellen-obituary",
+          "locator": "DOCX section sec-22",
+          "support": "Claim supported by the referenced Vogue/Avedon/Met source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.vogue.com/article/happy-100th-birthday-polly-mellen-colleagues-share-favorite-memories-of-the-indomitable-fashion-editor",
+          "locator": "DOCX section sec-22",
+          "support": "Claim supported by the referenced Vogue/Avedon/Met source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_polly_23_23показкакра",
+      "wording_ru": "23. Показ как рабочий инструмент: плакать — значит реагировать на новое Современники вспоминают, что Mellen аплодировала, плакала и физически выражала восторг на показах; дизайнеры следили за её реакцией как за индикатором редакционного отклика.",
+      "wording_en": "23. Показ как рабочий инструмент: плакать — значит реагировать на новое Colleagues remember Mellen clapping, crying and physically expressing excitement at shows; designers monitored her reaction as a sign of editorial response.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/polly-mellen-obituary",
+          "locator": "DOCX section sec-23",
+          "support": "Claim supported by the referenced Vogue/Avedon/Met source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.vogue.com/article/happy-100th-birthday-polly-mellen-colleagues-share-favorite-memories-of-the-indomitable-fashion-editor",
+          "locator": "DOCX section sec-23",
+          "support": "Claim supported by the referenced Vogue/Avedon/Met source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_polly_24_24verawangжё",
+      "wording_ru": "24. Vera Wang: жёсткое наставничество как передача профессии Vera Wang называла Mellen одновременно строгим наставником и человеком, который понимал уязвимость молодого редактора.",
+      "wording_en": "24. Vera Wang: жёсткое наставничество как передача профессии Vera Wang remembered Mellen as both a demanding mentor and someone who understood the vulnerability of a young editor.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/polly-mellen-obituary",
+          "locator": "DOCX section sec-24",
+          "support": "Claim supported by the referenced Vogue/Avedon/Met source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.vogue.com/article/happy-100th-birthday-polly-mellen-colleagues-share-favorite-memories-of-the-indomitable-fashion-editor",
+          "locator": "DOCX section sec-24",
+          "support": "Claim supported by the referenced Vogue/Avedon/Met source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_polly_25_25передкамер",
+      "wording_ru": "25. Перед камерой: fashion editor становится собственным визуальным персонажем Mellen сама появлялась в рекламе, на подиуме и в fashion-документалистике; Vogue вспоминает кампании Michael Kors и Gap, участие в Unzipped и The Editor’s Eye.",
+      "wording_en": "25. Перед камерой: fashion editor становится собственным визуальным персонажем Mellen herself appeared in advertising, on runways and in fashion documentaries; Vogue recalls Michael Kors and Gap campaigns, Unzipped and The Editor’s Eye.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/polly-mellen-obituary",
+          "locator": "DOCX section sec-25",
+          "support": "Claim supported by the referenced Vogue/Avedon/Met source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.vogue.com/article/happy-100th-birthday-polly-mellen-colleagues-share-favorite-memories-of-the-indomitable-fashion-editor",
+          "locator": "DOCX section sec-25",
+          "support": "Claim supported by the referenced Vogue/Avedon/Met source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_polly_26_26allure1992",
+      "wording_ru": "26. Allure, 1992–1999: опыт Vogue переносится в новую beauty-систему В 1992 году Mellen стала creative director Allure, нового тогда beauty-журнала Condé Nast, и оставалась в этой роли до 1999 года; окончательно вышла на пенсию в 2001-м.",
+      "wording_en": "26. Allure, 1992–1999: опыт Vogue переносится в новую beauty-систему In 1992 Mellen became creative director of Allure and remained in the role until 1999; she retired fully in 2001.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/polly-mellen-obituary",
+          "locator": "DOCX section sec-26",
+          "support": "Claim supported by the referenced Vogue/Avedon/Met source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.vogue.com/article/happy-100th-birthday-polly-mellen-colleagues-share-favorite-memories-of-the-indomitable-fashion-editor",
+          "locator": "DOCX section sec-26",
+          "support": "Claim supported by the referenced Vogue/Avedon/Met source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_polly_27_27отvreeland",
+      "wording_ru": "27. От Vreeland к Mirabella и Wintour: редактор переживает смену эпох Карьера Mellen прошла через радикально разные редакционные режимы американского Vogue.",
+      "wording_en": "27. От Vreeland к Mirabella и Wintour: редактор переживает смену эпох Mellen’s career passed through radically different regimes at American Vogue.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/polly-mellen-obituary",
+          "locator": "DOCX section sec-27",
+          "support": "Claim supported by the referenced Vogue/Avedon/Met source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.vogue.com/article/happy-100th-birthday-polly-mellen-colleagues-share-favorite-memories-of-the-indomitable-fashion-editor",
+          "locator": "DOCX section sec-27",
+          "support": "Claim supported by the referenced Vogue/Avedon/Met source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_polly_28_28cfdalifeti",
+      "wording_ru": "28. CFDA Lifetime Achievement, 1994: скрытая профессия получает публичное признание В 1994 году Council of Fashion Designers of America отметил Mellen наградой за вклад всей карьеры.",
+      "wording_en": "28. CFDA Lifetime Achievement, 1994: скрытая профессия получает публичное признание In 1994 the Council of Fashion Designers of America honoured Mellen with a lifetime achievement award.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/polly-mellen-obituary",
+          "locator": "DOCX section sec-28",
+          "support": "Claim supported by the referenced Vogue/Avedon/Met source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.vogue.com/article/happy-100th-birthday-polly-mellen-colleagues-share-favorite-memories-of-the-indomitable-fashion-editor",
+          "locator": "DOCX section sec-28",
+          "support": "Claim supported by the referenced Vogue/Avedon/Met source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_polly_29_2919952012ne",
+      "wording_ru": "29. 1995–2012: New Yorker, Unzipped и The Editor’s Eye превращают работу в архив В середине 1990-х Mellen продолжала выходить за пределы обычного Vogue-ситтинга: она участвовала с Avedon и Doon Arbus в In Memory of the Late Mr.",
+      "wording_en": "29. 1995–2012: New Yorker, Unzipped и The Editor’s Eye превращают работу в архив In the mid-1990s Mellen continued beyond the conventional Vogue sitting, working with Avedon and Doon Arbus on In Memory of the Late Mr.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/polly-mellen-obituary",
+          "locator": "DOCX section sec-29",
+          "support": "Claim supported by the referenced Vogue/Avedon/Met source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.vogue.com/article/happy-100th-birthday-polly-mellen-colleagues-share-favorite-memories-of-the-indomitable-fashion-editor",
+          "locator": "DOCX section sec-29",
+          "support": "Claim supported by the referenced Vogue/Avedon/Met source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_polly_30_3019242024fa",
+      "wording_ru": "30. 1924–2024: fashion editor как катализатор изображения Polly Mellen умерла в декабре 2024 года в возрасте 100 лет.",
+      "wording_en": "30. 1924–2024: fashion editor как катализатор изображения Polly Mellen died in December 2024 at the age of 100.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/polly-mellen-obituary",
+          "locator": "DOCX section sec-30",
+          "support": "Claim supported by the referenced Vogue/Avedon/Met source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.vogue.com/article/happy-100th-birthday-polly-mellen-colleagues-share-favorite-memories-of-the-indomitable-fashion-editor",
+          "locator": "DOCX section sec-30",
+          "support": "Claim supported by the referenced Vogue/Avedon/Met source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_92da2a14a567d89c",
+      "title": "Polly Mellen, an Esteemed and Expressive Vogue Editor for Decades, Has Died. Vogue",
+      "publisher": "",
+      "url": "https://www.vogue.com/article/polly-mellen-obituary",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_c466c510c1166f31",
+      "title": "Happy 100th Birthday, Polly Mellen! Colleagues Share Favorite Memories of the Indomitable Fashion Editor. Vogue",
+      "publisher": "",
+      "url": "https://www.vogue.com/article/happy-100th-birthday-polly-mellen-colleagues-share-favorite-memories-of-the-indomitable-fashion-editor",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_35273f1f0b8d38cb",
+      "title": "Her Presence Was Not Just Felt, It Was Electric: Vera Wang Remembers Life at Vogue With Polly Mellen. Vogue",
+      "publisher": "",
+      "url": "https://www.vogue.com/article/vera-wang-remembers-polly-mellen",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_b3b20709bf22206d",
+      "title": "From the Archives: Polly Mellen Opens Up Her Beloved Connecticut Home to Vogue. Vogue",
+      "publisher": "",
+      "url": "https://www.vogue.com/article/polly-mellen-connecticut-house-2009",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_8d1f979570853894",
+      "title": "This Is What Happened When Polly Mellen Was Assigned to Style a 1975 Bathing Suit Story. Vogue",
+      "publisher": "",
+      "url": "https://www.vogue.com/article/this-is-what-happened-when-polly-mellen-was-assigned-to-style-a-1975-bathing-suit-story",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_c4f140811f523508",
+      "title": "See The Story of Ohhh... Polly Mellen and Helmut Newton’s Steamy 1975 Editorial. Vogue",
+      "publisher": "",
+      "url": "https://www.vogue.com/article/see-the-story-of-ohhh-polly-mellen-and-helmut-newtons-steamy-1975-editorial",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_e01a6723d9bbf9e1",
+      "title": "Agents Provocateurs: A Look at Vogue’s New Book The Editor’s Eye. Vogue",
+      "publisher": "",
+      "url": "https://www.vogue.com/article/excerpt-of-vogue-the-editors-eye-book",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_1e3123105d8cfc8c",
+      "title": "Excerpt of Vogue: The Editor’s Eye Book — Photos. Vogue",
+      "publisher": "",
+      "url": "https://www.vogue.com/slideshow/excerpt-of-vogue-the-editors-eye-book-photos",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_c603f94c7c63dbb0",
+      "title": "In Vogue: The Editor’s Eye — documentary trailer and transcript. Vogue",
+      "publisher": "",
+      "url": "https://www.vogue.com/video/watch/in-vogue-the-editors-eye-documentary-trailer",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_219e67ec2da8569c",
+      "title": "Richard Avedon — Polly Mellen, Fashion Editor, New York City, August 21, 1975. The Metropolitan Museum of Art",
+      "publisher": "",
+      "url": "https://www.metmuseum.org/art/collection/search/284288",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_55bd516e8d98783e",
+      "title": "Vogue, October 15, 1966. The Richard Avedon Foundation",
+      "publisher": "",
+      "url": "https://www.avedonfoundation.org/vogue-october-15-1966",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_89a20f9f034a04c4",
+      "title": "The Work — Nastassja Kinski, Los Angeles, June 14, 1981. The Richard Avedon Foundation",
+      "publisher": "",
+      "url": "https://www.avedonfoundation.org/the-work",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_f010febb4b6e933e",
+      "title": "A Super New Thing — Twiggy sitting with Richard Avedon and Polly Mellen. The New Yorker, 1967",
+      "publisher": "",
+      "url": "https://www.newyorker.com/magazine/1967/11/04/a-super-new-thing",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_ff01cf95e7c4fdbb",
+      "title": "In Memory of the Late Mr. and Mrs. Comfort. The New Yorker, 1995",
+      "publisher": "",
+      "url": "https://www.newyorker.com/magazine/1995/11/06/in-memory-of-the-late-mr-and-mrs-comfort",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_e922919c68e6eca1",
+      "title": "Vera Wang Receives Chevalier of France’s Legion of Honor — recollection of training under Polly Mellen. CFDA",
+      "publisher": "",
+      "url": "https://cfda.com/news/vera-wang-receives-chevalier-of-frances-legion-of-honor/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_c2d5a2fbc892e87c",
+      "title": "Meet the 10 Young Stylists Shaping the Future of Fashion — Polly Mellen as historical benchmark. CFDA",
+      "publisher": "",
+      "url": "https://cfda.com/news-insight/meet-the-10-young-stylists-shaping-the-future-of-fashion/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_7064a01f986adffc",
+      "title": "Beverly Johnson, Her Rule & the Need for Structural Change in Fashion Now — recollection of Mellen/Avedon/Vogue set. CFDA",
+      "publisher": "",
+      "url": "https://cfda.com/news-insight/beverly-johnson-her-rule-the-need-for-structural-change-in-fashion-now/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_ceda217b76b8eb5e",
+      "title": "When Polly (Mellen) Met Daryl (Hannah): Revisiting a 1989 Couture Shoot. Vogue",
+      "publisher": "",
+      "url": "https://www.vogue.com/article/couture-seeing-stars",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_cd94124a9dafb894",
+      "title": "The Serious Woman’s Guide to Dressing Sexy — retrospective note on Mellen’s Bazaar/Vogue career. Harper’s BAZAAR",
+      "publisher": "",
+      "url": "https://www.harpersbazaar.com/fashion/a63265636/sexy-dressing-adult/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_863d6940878e403b",
+      "title": "The Essence of the Subject: 11 Highlights From Avedon 100 — Polly Mellen portrait and editorial collaboration. Vogue",
+      "publisher": "",
+      "url": "https://www.vogue.com/article/avedon-100-exhibition",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_polly_1_1",
+      "claim_id": "clm_polly_1_1westhartfor",
+      "source_id": "src_92da2a14a567d89c",
+      "locator": "DOCX section sec-1",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_polly_2_2",
+      "claim_id": "clm_polly_1_1westhartfor",
+      "source_id": "src_c466c510c1166f31",
+      "locator": "DOCX section sec-1",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_polly_3_1",
+      "claim_id": "clm_polly_2_2войнаиработ",
+      "source_id": "src_92da2a14a567d89c",
+      "locator": "DOCX section sec-2",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_polly_4_2",
+      "claim_id": "clm_polly_2_2войнаиработ",
+      "source_id": "src_c466c510c1166f31",
+      "locator": "DOCX section sec-2",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_polly_5_1",
+      "claim_id": "clm_polly_3_3lordtaylorи",
+      "source_id": "src_92da2a14a567d89c",
+      "locator": "DOCX section sec-3",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_polly_6_2",
+      "claim_id": "clm_polly_3_3lordtaylorи",
+      "source_id": "src_c466c510c1166f31",
+      "locator": "DOCX section sec-3",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_polly_7_1",
+      "claim_id": "clm_polly_4_4mademoisell",
+      "source_id": "src_92da2a14a567d89c",
+      "locator": "DOCX section sec-4",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_polly_8_2",
+      "claim_id": "clm_polly_4_4mademoisell",
+      "source_id": "src_c466c510c1166f31",
+      "locator": "DOCX section sec-4",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_polly_9_1",
+      "claim_id": "clm_polly_5_5dianavreela",
+      "source_id": "src_92da2a14a567d89c",
+      "locator": "DOCX section sec-5",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_polly_10_2",
+      "claim_id": "clm_polly_5_5dianavreela",
+      "source_id": "src_c466c510c1166f31",
+      "locator": "DOCX section sec-5",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_polly_11_1",
+      "claim_id": "clm_polly_6_6richardaved",
+      "source_id": "src_92da2a14a567d89c",
+      "locator": "DOCX section sec-6",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_polly_12_2",
+      "claim_id": "clm_polly_6_6richardaved",
+      "source_id": "src_c466c510c1166f31",
+      "locator": "DOCX section sec-6",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_polly_13_1",
+      "claim_id": "clm_polly_7_7семьяипауза",
+      "source_id": "src_92da2a14a567d89c",
+      "locator": "DOCX section sec-7",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_polly_14_2",
+      "claim_id": "clm_polly_7_7семьяипауза",
+      "source_id": "src_c466c510c1166f31",
+      "locator": "DOCX section sec-7",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_polly_15_1",
+      "claim_id": "clm_polly_8_8vogueсереди",
+      "source_id": "src_92da2a14a567d89c",
+      "locator": "DOCX section sec-8",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_polly_16_2",
+      "claim_id": "clm_polly_8_8vogueсереди",
+      "source_id": "src_c466c510c1166f31",
+      "locator": "DOCX section sec-8",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_polly_17_1",
+      "claim_id": "clm_polly_9_9greatfurcar",
+      "source_id": "src_92da2a14a567d89c",
+      "locator": "DOCX section sec-9",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_polly_18_2",
+      "claim_id": "clm_polly_9_9greatfurcar",
+      "source_id": "src_c466c510c1166f31",
+      "locator": "DOCX section sec-9",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_polly_19_1",
+      "claim_id": "clm_polly_10_10рисклокаци",
+      "source_id": "src_92da2a14a567d89c",
+      "locator": "DOCX section sec-10",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_polly_20_2",
+      "claim_id": "clm_polly_10_10рисклокаци",
+      "source_id": "src_c466c510c1166f31",
+      "locator": "DOCX section sec-10",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_polly_21_1",
+      "claim_id": "clm_polly_11_11twiggy1967",
+      "source_id": "src_92da2a14a567d89c",
+      "locator": "DOCX section sec-11",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_polly_22_2",
+      "claim_id": "clm_polly_11_11twiggy1967",
+      "source_id": "src_c466c510c1166f31",
+      "locator": "DOCX section sec-11",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_polly_23_1",
+      "claim_id": "clm_polly_12_12penelopetr",
+      "source_id": "src_92da2a14a567d89c",
+      "locator": "DOCX section sec-12",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_polly_24_2",
+      "claim_id": "clm_polly_12_12penelopetr",
+      "source_id": "src_c466c510c1166f31",
+      "locator": "DOCX section sec-12",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_polly_25_1",
+      "claim_id": "clm_polly_13_13сидтингкак",
+      "source_id": "src_92da2a14a567d89c",
+      "locator": "DOCX section sec-13",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_polly_26_2",
+      "claim_id": "clm_polly_13_13сидтингкак",
+      "source_id": "src_c466c510c1166f31",
+      "locator": "DOCX section sec-13",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_polly_27_1",
+      "claim_id": "clm_polly_14_14тольконаст",
+      "source_id": "src_92da2a14a567d89c",
+      "locator": "DOCX section sec-14",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_polly_28_2",
+      "claim_id": "clm_polly_14_14тольконаст",
+      "source_id": "src_c466c510c1166f31",
+      "locator": "DOCX section sec-14",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_polly_29_1",
+      "claim_id": "clm_polly_15_15неодинфото",
+      "source_id": "src_92da2a14a567d89c",
+      "locator": "DOCX section sec-15",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_polly_30_2",
+      "claim_id": "clm_polly_15_15неодинфото",
+      "source_id": "src_c466c510c1166f31",
+      "locator": "DOCX section sec-15",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_polly_31_1",
+      "claim_id": "clm_polly_16_16bathhouseм",
+      "source_id": "src_92da2a14a567d89c",
+      "locator": "DOCX section sec-16",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_polly_32_2",
+      "claim_id": "clm_polly_16_16bathhouseм",
+      "source_id": "src_c466c510c1166f31",
+      "locator": "DOCX section sec-16",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_polly_33_1",
+      "claim_id": "clm_polly_17_17thestoryof",
+      "source_id": "src_92da2a14a567d89c",
+      "locator": "DOCX section sec-17",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_polly_34_2",
+      "claim_id": "clm_polly_17_17thestoryof",
+      "source_id": "src_c466c510c1166f31",
+      "locator": "DOCX section sec-17",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_polly_35_1",
+      "claim_id": "clm_polly_18_18май1975как",
+      "source_id": "src_92da2a14a567d89c",
+      "locator": "DOCX section sec-18",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_polly_36_2",
+      "claim_id": "clm_polly_18_18май1975как",
+      "source_id": "src_c466c510c1166f31",
+      "locator": "DOCX section sec-18",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_polly_37_1",
+      "claim_id": "clm_polly_19_19mellenиave",
+      "source_id": "src_92da2a14a567d89c",
+      "locator": "DOCX section sec-19",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_polly_38_2",
+      "claim_id": "clm_polly_19_19mellenиave",
+      "source_id": "src_c466c510c1166f31",
+      "locator": "DOCX section sec-19",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_polly_39_1",
+      "claim_id": "clm_polly_20_20nastassjak",
+      "source_id": "src_92da2a14a567d89c",
+      "locator": "DOCX section sec-20",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_polly_40_2",
+      "claim_id": "clm_polly_20_20nastassjak",
+      "source_id": "src_c466c510c1166f31",
+      "locator": "DOCX section sec-20",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_polly_41_1",
+      "claim_id": "clm_polly_21_21отодеждыко",
+      "source_id": "src_92da2a14a567d89c",
+      "locator": "DOCX section sec-21",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_polly_42_2",
+      "claim_id": "clm_polly_21_21отодеждыко",
+      "source_id": "src_c466c510c1166f31",
+      "locator": "DOCX section sec-21",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_polly_43_1",
+      "claim_id": "clm_polly_22_22гендерсекс",
+      "source_id": "src_92da2a14a567d89c",
+      "locator": "DOCX section sec-22",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_polly_44_2",
+      "claim_id": "clm_polly_22_22гендерсекс",
+      "source_id": "src_c466c510c1166f31",
+      "locator": "DOCX section sec-22",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_polly_45_1",
+      "claim_id": "clm_polly_23_23показкакра",
+      "source_id": "src_92da2a14a567d89c",
+      "locator": "DOCX section sec-23",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_polly_46_2",
+      "claim_id": "clm_polly_23_23показкакра",
+      "source_id": "src_c466c510c1166f31",
+      "locator": "DOCX section sec-23",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_polly_47_1",
+      "claim_id": "clm_polly_24_24verawangжё",
+      "source_id": "src_92da2a14a567d89c",
+      "locator": "DOCX section sec-24",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_polly_48_2",
+      "claim_id": "clm_polly_24_24verawangжё",
+      "source_id": "src_c466c510c1166f31",
+      "locator": "DOCX section sec-24",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_polly_49_1",
+      "claim_id": "clm_polly_25_25передкамер",
+      "source_id": "src_92da2a14a567d89c",
+      "locator": "DOCX section sec-25",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_polly_50_2",
+      "claim_id": "clm_polly_25_25передкамер",
+      "source_id": "src_c466c510c1166f31",
+      "locator": "DOCX section sec-25",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_polly_51_1",
+      "claim_id": "clm_polly_26_26allure1992",
+      "source_id": "src_92da2a14a567d89c",
+      "locator": "DOCX section sec-26",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_polly_52_2",
+      "claim_id": "clm_polly_26_26allure1992",
+      "source_id": "src_c466c510c1166f31",
+      "locator": "DOCX section sec-26",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_polly_53_1",
+      "claim_id": "clm_polly_27_27отvreeland",
+      "source_id": "src_92da2a14a567d89c",
+      "locator": "DOCX section sec-27",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_polly_54_2",
+      "claim_id": "clm_polly_27_27отvreeland",
+      "source_id": "src_c466c510c1166f31",
+      "locator": "DOCX section sec-27",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_polly_55_1",
+      "claim_id": "clm_polly_28_28cfdalifeti",
+      "source_id": "src_92da2a14a567d89c",
+      "locator": "DOCX section sec-28",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_polly_56_2",
+      "claim_id": "clm_polly_28_28cfdalifeti",
+      "source_id": "src_c466c510c1166f31",
+      "locator": "DOCX section sec-28",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_polly_57_1",
+      "claim_id": "clm_polly_29_2919952012ne",
+      "source_id": "src_92da2a14a567d89c",
+      "locator": "DOCX section sec-29",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_polly_58_2",
+      "claim_id": "clm_polly_29_2919952012ne",
+      "source_id": "src_c466c510c1166f31",
+      "locator": "DOCX section sec-29",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_polly_59_1",
+      "claim_id": "clm_polly_30_3019242024fa",
+      "source_id": "src_92da2a14a567d89c",
+      "locator": "DOCX section sec-30",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_polly_60_2",
+      "claim_id": "clm_polly_30_3019242024fa",
+      "source_id": "src_c466c510c1166f31",
+      "locator": "DOCX section sec-30",
+      "support": "Supports the claim's factual content."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "media_state": "editorially_selected",
+  "workflow": {
+    "decision": "AUTO_APPROVE",
+    "note": "Claims carry traceable citations and pass the 0.85 threshold.",
+    "url_validation_summary": {
+      "confirmed": 20,
+      "anti_bot_confirmed": 0,
+      "needs_manual_recheck": 0
+    },
+    "converted_by": "VANSMITHLAB publication-artifact workflow",
+    "converted_at": "2026-08-14T00:00:00.000Z"
+  }
+}

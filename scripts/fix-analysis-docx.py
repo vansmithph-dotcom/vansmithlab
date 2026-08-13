@@ -36,6 +36,8 @@ FILES = [
     "VSL_John_Berger_Ways_of_Seeing_Art_Politics_EN.docx",
     "VSL_Rene_Gruau_Line_Glamour_Fashion_Illustration_RU.docx",
     "VSL_Rene_Gruau_Line_Glamour_Fashion_Illustration_EN.docx",
+    "VSL_Polly_Mellen_Fashion_Editor_Risk_Image_Making_RU.docx",
+    "VSL_Polly_Mellen_Fashion_Editor_Risk_Image_Making_EN.docx",
 ]
 
 def ptext(p):
