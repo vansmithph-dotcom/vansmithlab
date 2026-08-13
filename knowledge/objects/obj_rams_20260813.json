@@ -1,0 +1,1246 @@
+{
+  "id": "obj_rams_20260813",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Dieter Rams: ??????, ?? ????? ? ???????????? ??????",
+  "title_en": "Dieter Rams: Less but Better and Industrial Design",
+  "slug_ru": "dieter-rams-less-but-better-industrial-design",
+  "slug_en": "dieter-rams-less-but-better-industrial-design",
+  "summary_ru": "??? ???????????? ???????? ???? ????? ? ??????, ??????? ? ???????????????",
+  "verification_state": "multi_source_verified",
+  "confidence_score": 0.86,
+  "created_at": "2026-08-13T00:00:00.000Z",
+  "updated_at": "2026-08-13T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_dr_001",
+      "wording_ru": "Dieter Rams родился 20 мая 1932 года в Висбадене. В биографиях часто вспоминают его деда-столяра, но важен не анекдот о «правильном происхождении», а раннее понимание того, что качество формы возникает из соединения материала, инструмента, пропорции и использования. До того как Rams стал символом индустриального модернизма, он наблюдал мир, где вещь сначала должна была быть хорошо сделана.",
+      "wording_en": "Dieter Rams was born on 20 May 1932 in Wiesbaden. Biographies often recall his carpenter grandfather, but the useful point is not a myth of “correct origins”; it is the early understanding that quality comes from the relationship among material, tool, proportion and use. Before Rams became a symbol of industrial modernism, he knew a world in which an object first had to be well made.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vitsoe.com/us/about/dieter-rams",
+          "locator": "DOCX section sec-1",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.vitsoe.com/us/about/history",
+          "locator": "DOCX section sec-1",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_dr_002",
+      "wording_ru": "В 1947 году Rams поступил в Wiesbaden School of Arts and Crafts на курс интерьерного дизайна, затем в 1948–1951 годах прошёл столярное ученичество и вернулся в школу, завершив образование как интерьерный архитектор. Такая последовательность важна: сначала чертёж и пространство, затем сопротивление реального материала, затем снова проектирование.",
+      "wording_en": "In 1947 Rams entered Wiesbaden School of Arts and Crafts for interior design, then completed a carpentry apprenticeship from 1948 to 1951 before returning to school and graduating as an interior architect. The sequence matters: drawing and space, then resistance from real material, then design again.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vitsoe.com/us/about/dieter-rams",
+          "locator": "DOCX section sec-2",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.vitsoe.com/us/about/history",
+          "locator": "DOCX section sec-2",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_dr_003",
+      "wording_ru": "Rams формировался в Западной Германии, где дизайн 1950-х был связан не только с рынком новых товаров, но и с проектом культурного обновления. Вещь должна была дистанцироваться от декоративной тяжести и риторики прошлого, стать понятной, современной и пригодной для серийного производства.",
+      "wording_en": "Rams formed his practice in West Germany, where 1950s design was tied not only to a market for new goods but also to a project of cultural reconstruction. The object was expected to distance itself from decorative heaviness and the rhetoric of the past, becoming understandable, contemporary and suited to serial production.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vitsoe.com/us/about/dieter-rams",
+          "locator": "DOCX section sec-3",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.vitsoe.com/us/about/history",
+          "locator": "DOCX section sec-3",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_dr_004",
+      "wording_ru": "В 1955 году Rams пришёл в Braun именно как интерьерный архитектор. Vitsœ сохраняет ранний эпизод: он предложил эскиз модернизации интерьеров Braun, на задней стене которого уже появляется идея настенной системы хранения на направляющих.",
+      "wording_en": "Rams joined Braun in 1955 specifically as an interior architect. Vitsœ preserves an early episode: he presented a sketch for modernising Braun interiors, and on the back wall one can already see the first notion of a track-based wall storage system.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vitsoe.com/us/about/dieter-rams",
+          "locator": "DOCX section sec-4",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.vitsoe.com/us/about/history",
+          "locator": "DOCX section sec-4",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_dr_005",
+      "wording_ru": "Новый язык Braun не был работой одного человека. Руководство компании, Fritz Eichler, специалисты HfG Ulm, Hans Gugelot, Otl Aicher и внутренняя дизайн-команда участвовали в создании среды, где продукт, графика, выставка и коммуникация должны были говорить согласованно. Braun прямо описывает этот период как совместную работу внешних и внутренних дизайнеров.",
+      "wording_en": "Braun’s new language was not the work of one person. Company leadership, Fritz Eichler, specialists from HfG Ulm, Hans Gugelot, Otl Aicher and Braun’s internal design team all participated in creating an environment in which product, graphics, exhibition and communication were expected to speak coherently. Braun itself describes this period as collaboration between external and internal designers.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vitsoe.com/us/about/dieter-rams",
+          "locator": "DOCX section sec-5",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.vitsoe.com/us/about/history",
+          "locator": "DOCX section sec-5",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_dr_006",
+      "wording_ru": "SK 4 1956 года — один из лучших тестов на точность авторства. MoMA атрибутирует Radio-Phonograph model SK 4/10 Dieter Rams и Hans Gugelot. Прозрачная крышка, светлый корпус и ясное разделение функций сделали аппарат визуально радикальным для своего времени, но история объекта принадлежит сотрудничеству Braun и Ulm, а не одному имени.",
+      "wording_en": "The SK 4 of 1956 is one of the best tests of attribution. MoMA credits the Radio-Phonograph model SK 4/10 to Dieter Rams and Hans Gugelot. The transparent lid, pale case and clear separation of functions made it visually radical, but the object belongs to a collaboration between Braun and Ulm rather than to one name.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vitsoe.com/us/about/dieter-rams",
+          "locator": "DOCX section sec-6",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.vitsoe.com/us/about/history",
+          "locator": "DOCX section sec-6",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_dr_007",
+      "wording_ru": "Карманный радиоприёмник T3 1958 года кажется почти абстрактной схемой: компактный прямоугольник, круглая шкала, минимум визуальных сигналов. MoMA хранит его как работу Rams в контексте Hochschule für Gestaltung Ulm и Braun.",
+      "wording_en": "The T3 pocket radio of 1958 looks almost like an abstract diagram: compact rectangle, circular tuning dial, minimum visual signals. MoMA holds it as a Rams work in the context of Hochschule für Gestaltung Ulm and Braun.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vitsoe.com/us/about/dieter-rams",
+          "locator": "DOCX section sec-7",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.vitsoe.com/us/about/history",
+          "locator": "DOCX section sec-7",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_dr_008",
+      "wording_ru": "TP 1 1959 года соединял транзисторный радиоприёмник и проигрыватель в переносной системе. Важна не только компактность, но и идея компонентов, которые работают вместе и при этом сохраняют самостоятельность. MoMA показывает TP 1 как пример новой мобильности бытовой электроники.",
+      "wording_en": "The TP 1 of 1959 combined a transistor radio and record player in a portable system. The importance lies not only in compactness, but in the idea of components that work together while retaining a degree of independence. MoMA presents TP 1 as an example of a new mobility in domestic electronics.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vitsoe.com/us/about/dieter-rams",
+          "locator": "DOCX section sec-8",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.vitsoe.com/us/about/history",
+          "locator": "DOCX section sec-8",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_dr_009",
+      "wording_ru": "В 1961 году Rams был назначен руководителем product design в Braun. С этого момента его задача — не просто проектировать отдельные приборы, а удерживать общий язык множества категорий. Braun указывает его как Head of Design в 1961–1995 годах; Vitsœ фиксирует окончательный уход из Braun в 1997-м, что, вероятно, отражает различие между должностью и завершением сотрудничества.",
+      "wording_en": "Rams was appointed head of product design at Braun in 1961. From this point the task was not simply to design individual appliances but to sustain a common language across many categories. Braun lists him as Head of Design from 1961 to 1995; Vitsœ records his retirement from Braun in 1997, probably reflecting the distinction between title and final departure.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vitsoe.com/us/about/dieter-rams",
+          "locator": "DOCX section sec-9",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.vitsoe.com/us/about/history",
+          "locator": "DOCX section sec-9",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_dr_010",
+      "wording_ru": "В зрелой системе Braun разные предметы не обязаны быть одинаковыми, но должны быть родственными. Радио, проигрыватель, электробритва, проектор, вентилятор или кухонный прибор могут различаться технологией, однако повторяют принципы: ясная иерархия, ограниченная палитра, контроль визуального шума, понятная геометрия и аккуратная работа с деталями.",
+      "wording_en": "In the mature Braun system, different products do not have to look identical, but they have to feel related. Radios, record players, shavers, projectors, fans and kitchen appliances differ in technology while repeating principles: clear hierarchy, restrained palette, controlled visual noise, legible geometry and careful detail.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vitsoe.com/us/about/dieter-rams",
+          "locator": "DOCX section sec-10",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.vitsoe.com/us/about/history",
+          "locator": "DOCX section sec-10",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_dr_011",
+      "wording_ru": "Audio 1 начала 1960-х показывает, как Braun постепенно превращает hi-fi в архитектуру компонентов. MoMA хранит Audio 1 Radio-Phonograph как отдельный объект, но для Rams важнее его отношение к другим элементам — колонкам, мебели, комнате.",
+      "wording_en": "Audio 1 from the early 1960s shows Braun gradually turning hi-fi into an architecture of components. MoMA preserves the Audio 1 Radio-Phonograph as a distinct object, but for Rams its relation to speakers, furniture and the room is just as important.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vitsoe.com/us/about/dieter-rams",
+          "locator": "DOCX section sec-11",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.vitsoe.com/us/about/history",
+          "locator": "DOCX section sec-11",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_dr_012",
+      "wording_ru": "Панель управления у Rams — это микроскопическая архитектура. Кнопки, шкалы, отверстия, интервалы и подписи должны образовать маршрут взгляда до того, как рука коснётся прибора. Ошибка в расстоянии или акценте может превратить спокойную поверхность в путаницу.",
+      "wording_en": "A Rams control panel is microscopic architecture. Buttons, scales, apertures, intervals and labels must create a route for the eye before the hand touches the appliance. A mistake in spacing or emphasis can turn a quiet surface into confusion.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vitsoe.com/us/about/dieter-rams",
+          "locator": "DOCX section sec-12",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.vitsoe.com/us/about/history",
+          "locator": "DOCX section sec-12",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_dr_013",
+      "wording_ru": "Белый, серый, чёрный, металл, прозрачный пластик и редкие цветовые акценты стали частью узнаваемого Braun. Но сводить метод Rams к палитре опасно. Цвет используется для организации: отделить функцию, подсказать статус, дать акцент там, где он действительно нужен. Материал не маскируется лишней декорацией.",
+      "wording_en": "White, grey, black, metal, transparent plastic and rare colour accents became part of Braun’s recognisable language, but reducing Rams to a palette is misleading. Colour is organisational: separating a function, indicating status, adding emphasis where emphasis is needed. Material is not hidden under unnecessary decoration.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vitsoe.com/us/about/dieter-rams",
+          "locator": "DOCX section sec-13",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.vitsoe.com/us/about/history",
+          "locator": "DOCX section sec-13",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_dr_014",
+      "wording_ru": "Braun был сильной коллективной дизайн-средой. MoMA отдельно фиксирует совместные работы Rams с Gerd Alfred Müller, Reinhold Weiss и Dietrich Lubs; многие объекты вообще правильнее называть company design.",
+      "wording_en": "Braun was a strong collective design environment. MoMA separately records collaborations between Rams and Gerd Alfred Müller, Reinhold Weiss and Dietrich Lubs; many products are more accurately described as company design.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vitsoe.com/us/about/dieter-rams",
+          "locator": "DOCX section sec-14",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.vitsoe.com/us/about/history",
+          "locator": "DOCX section sec-14",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_dr_015",
+      "wording_ru": "Параллельно Braun Rams начал проектировать мебель. В 1957 году Otto Zapf попросил его разработать мебель для семейного производства; в 1958-м Rams познакомился с Niels Vitsœ, а в 1959 году была основана Vitsoe+Zapf для реализации его мебельных проектов.",
+      "wording_en": "Alongside Braun, Rams began designing furniture. In 1957 Otto Zapf asked him to develop furniture for his family company; in 1958 Rams met Niels Vitsœ, and in 1959 Vitsoe+Zapf was founded to realise his furniture designs.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vitsoe.com/us/about/dieter-rams",
+          "locator": "DOCX section sec-15",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.vitsoe.com/us/about/history",
+          "locator": "DOCX section sec-15",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_dr_016",
+      "wording_ru": "606 Universal Shelving System вышла в 1960 году и до сих пор производится Vitsœ. Её основа — направляющие, полки, шкафы и столы, которые можно переставлять и наращивать без превращения комнаты в музей одной законченной композиции.",
+      "wording_en": "The 606 Universal Shelving System was launched in 1960 and remains in production by Vitsœ. Its core is a set of tracks, shelves, cabinets and tables that can be rearranged and extended rather than freezing the room into one finished composition.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vitsoe.com/us/about/dieter-rams",
+          "locator": "DOCX section sec-16",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.vitsoe.com/us/about/history",
+          "locator": "DOCX section sec-16",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_dr_017",
+      "wording_ru": "620 Chair Programme 1962 года строится как набор взаимозаменяемых частей. Отдельное кресло может стать диваном, низкая спинка — высокой, основание можно менять. Vitsœ продолжает производить программу именно как модульную систему.",
+      "wording_en": "The 620 Chair Programme of 1962 works as a kit of interchangeable parts. A single chair can become a sofa, a low back can become a high back, and bases can be exchanged. Vitsœ still makes it as a modular system.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vitsoe.com/us/about/dieter-rams",
+          "locator": "DOCX section sec-17",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.vitsoe.com/us/about/history",
+          "locator": "DOCX section sec-17",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_dr_018",
+      "wording_ru": "621 Table был задуман как небольшой спутник 620 — предмет, который может стоять рядом с креслом, кроватью или диваном и не требовать отдельной сцены. В системе Rams второстепенный объект не является менее продуманным; его достоинство в том, что он хорошо выполняет поддерживающую роль.",
+      "wording_en": "The 621 Table was conceived as a small companion to the 620—a piece that can sit beside a chair, bed or sofa without demanding a separate stage. In Rams’s system, a supporting object is not less designed; its quality lies in performing a secondary role extremely well.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vitsoe.com/us/about/dieter-rams",
+          "locator": "DOCX section sec-18",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.vitsoe.com/us/about/history",
+          "locator": "DOCX section sec-18",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_dr_019",
+      "wording_ru": "Модульность у Rams — не эстетика решётки, а экономическая и поведенческая модель. Vitsœ предлагает начинать с меньшего количества компонентов и добавлять их по мере необходимости. Это меняет смысл покупки: вместо серии замен пользователь получает систему, к которой возвращается.",
+      "wording_en": "Modularity in Rams is not the aesthetics of a grid but an economic and behavioural model. Vitsœ encourages customers to start with fewer components and add only when needed. The meaning of purchase changes: instead of repeated replacement, the user returns to the same system.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vitsoe.com/us/about/dieter-rams",
+          "locator": "DOCX section sec-19",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.vitsoe.com/us/about/history",
+          "locator": "DOCX section sec-19",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_dr_020",
+      "wording_ru": "Формула «Less, but better» часто превращается в универсальный слоган минимализма. У Rams она жёстче. «Меньше» означает удалить то, что не помогает функции, пониманию, долговечности или качеству опыта; «лучше» означает, что оставшееся должно быть точнее.",
+      "wording_en": "“Less, but better” is often flattened into a universal slogan for minimalism. In Rams it is stricter. “Less” means removing what does not serve function, understanding, longevity or quality of experience; “better” means the remainder has to become more exact.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vitsoe.com/us/about/dieter-rams",
+          "locator": "DOCX section sec-20",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.vitsoe.com/us/about/history",
+          "locator": "DOCX section sec-20",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_dr_021",
+      "wording_ru": "В 1970-х Rams начал формулировать то, что позже стало известным как Ten Principles for Good Design. Vitra Design Museum связывает их с критикой consumerism и с желанием определить цели дизайна за пределами постоянного стимулирования новизны.",
+      "wording_en": "During the 1970s Rams began formulating what later became known as the Ten Principles for Good Design. Vitra Design Museum connects them to a criticism of consumerism and to the desire to define design goals beyond permanent stimulation of novelty.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vitsoe.com/us/about/dieter-rams",
+          "locator": "DOCX section sec-21",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.vitsoe.com/us/about/history",
+          "locator": "DOCX section sec-21",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_dr_022",
+      "wording_ru": "«Good design makes a product understandable» — один из самых современных принципов Rams. Он не означает, что каждая вещь обязана быть примитивной. Сложность может быть высокой, но взаимодействие должно иметь читаемую структуру.",
+      "wording_en": "“Good design makes a product understandable” is one of Rams’s most contemporary principles. It does not mean every object must be primitive. Complexity can be high, but interaction must have a legible structure.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vitsoe.com/us/about/dieter-rams",
+          "locator": "DOCX section sec-22",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.vitsoe.com/us/about/history",
+          "locator": "DOCX section sec-22",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_dr_023",
+      "wording_ru": "Ненавязчивость у Rams — не отсутствие характера. Это отказ продукта захватывать всё пространство личности. Вещь должна работать как инструмент и позволять человеку строить собственную среду вокруг неё.",
+      "wording_en": "Unobtrusiveness in Rams is not lack of character. It is a refusal by the product to occupy the whole space of identity. The object should behave like a tool and allow the person to build a life around it.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vitsoe.com/us/about/dieter-rams",
+          "locator": "DOCX section sec-23",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.vitsoe.com/us/about/history",
+          "locator": "DOCX section sec-23",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_dr_024",
+      "wording_ru": "Rams утверждает, что хороший дизайн должен быть долговечным и избегать модности. Это не обещание вечного вкуса, а стратегия против ускоренной замены. Если форма построена на кратком визуальном тренде, срок её культурной жизни заранее ограничен.",
+      "wording_en": "Rams argues that good design should be long-lasting and avoid fashion. This is not a promise of eternal taste but a strategy against accelerated replacement. When form is built around a short visual trend, its cultural life is limited in advance.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vitsoe.com/us/about/dieter-rams",
+          "locator": "DOCX section sec-24",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.vitsoe.com/us/about/history",
+          "locator": "DOCX section sec-24",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_dr_025",
+      "wording_ru": "Один из десяти принципов прямо говорит об экологической ответственности: дизайн должен сохранять ресурсы и минимизировать физическое и визуальное загрязнение на протяжении жизненного цикла. Vitra Design Museum подчёркивает, что эти мысли выросли из критики consumerism задолго до того, как sustainability стало обязательным корпоративным словом.",
+      "wording_en": "One of the ten principles explicitly addresses environmental responsibility: design should conserve resources and minimise physical and visual pollution throughout the product lifecycle. Vitra Design Museum notes that this position grew from a critique of consumerism long before “sustainability” became compulsory corporate language.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vitsoe.com/us/about/dieter-rams",
+          "locator": "DOCX section sec-25",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.vitsoe.com/us/about/history",
+          "locator": "DOCX section sec-25",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_dr_026",
+      "wording_ru": "Rams часто изображают как самостоятельный источник «чистого немецкого минимализма», но его язык вырос из более широкой среды: функционализма, HfG Ulm, системного мышления, инженерной культуры Braun и послевоенного модернизма.",
+      "wording_en": "Rams is often presented as the autonomous source of “clean German minimalism,” yet his language emerged from a wider environment: functionalism, HfG Ulm, systems thinking, Braun’s engineering culture and postwar modernism.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vitsoe.com/us/about/dieter-rams",
+          "locator": "DOCX section sec-26",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.vitsoe.com/us/about/history",
+          "locator": "DOCX section sec-26",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_dr_027",
+      "wording_ru": "Влияние Rams на Apple стало популярной частью дизайн-истории. Braun сам указывает на сходство и наследование в продуктах Jonathan Ive, а MoMA отмечает TP 1 как предшественника семейства современных музыкальных устройств.",
+      "wording_en": "Rams’s influence on Apple became a popular chapter in design history. Braun itself points to a legacy in products by Jonathan Ive, while MoMA describes the TP 1 as a precursor to modern families of music devices.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vitsoe.com/us/about/dieter-rams",
+          "locator": "DOCX section sec-27",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.vitsoe.com/us/about/history",
+          "locator": "DOCX section sec-27",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_dr_028",
+      "wording_ru": "У наследия Rams есть риск: его этику легко превратить в дорогой визуальный код. Белая поверхность, тонкая сетка и аккуратная типографика сами по себе не делают продукт честным, долговечным или экологичным.",
+      "wording_en": "Rams’s legacy carries a risk: its ethics can be turned into an expensive visual code. A white surface, thin grid and restrained typography do not by themselves make a product honest, durable or environmentally responsible.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vitsoe.com/us/about/dieter-rams",
+          "locator": "DOCX section sec-28",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.vitsoe.com/us/about/history",
+          "locator": "DOCX section sec-28",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_dr_029",
+      "wording_ru": "После завершения руководящей карьеры в Braun Rams продолжил влиять на дизайн через книги, интервью, выставки и особенно через вещи Vitsœ, которые остаются в производстве. Выставки Less and More и Modular World превратили его практику из корпоративной истории в музейный объект и предмет международного исследования.",
+      "wording_en": "After his leadership career at Braun, Rams continued to shape design through books, interviews, exhibitions and especially through Vitsœ products that remain in production. Exhibitions such as Less and More and Modular World turned his practice from corporate history into museum subject and international research.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vitsoe.com/us/about/dieter-rams",
+          "locator": "DOCX section sec-29",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.vitsoe.com/us/about/history",
+          "locator": "DOCX section sec-29",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_dr_030",
+      "wording_ru": "Главное наследие Dieter Rams — не «минимализм» и не список культовых Braun. Он сделал видимым более строгий тезис: дизайн — это ответственность за систему решений от функции и производства до срока жизни, интерфейса и поведения человека.",
+      "wording_en": "The central legacy of Dieter Rams is not “minimalism” and not a catalogue of cult Braun objects. He made visible a stricter proposition: design is responsibility for a system of decisions—from function and production to lifespan, interface and human behaviour.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vitsoe.com/us/about/dieter-rams",
+          "locator": "DOCX section sec-30",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://www.vitsoe.com/us/about/history",
+          "locator": "DOCX section sec-30",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_21d559060c48f404",
+      "title": "Dieter Rams — biography and relationship between Braun and Vitsœ. Vitsœ",
+      "publisher": "",
+      "url": "https://www.vitsoe.com/us/about/dieter-rams",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_30c75567c201b8ae",
+      "title": "History — Rams education, Braun 1955, Vitsœ founding, 606/620 chronology. Vitsœ",
+      "publisher": "",
+      "url": "https://www.vitsoe.com/us/about/history",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_06d4e76975f4ac96",
+      "title": "Good design — Dieter Rams’s Ten Principles for Good Design. Vitsœ",
+      "publisher": "",
+      "url": "https://www.vitsoe.com/rw/about/good-design",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_7bdf820de1ad1395",
+      "title": "606 Universal Shelving System — design, modular structure, continued production. Vitsœ",
+      "publisher": "",
+      "url": "https://www.vitsoe.com/eu/606",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_a8ab4e09067e7fa1",
+      "title": "620 Chair Programme — modular components and design logic. Vitsœ",
+      "publisher": "",
+      "url": "https://www.vitsoe.com/gb/620",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_3eaa4c76c50c74ab",
+      "title": "Dieter Rams at 90 — 606 longevity and continued relevance of the principles. Vitsœ",
+      "publisher": "",
+      "url": "https://www.vitsoe.com/gb/voice/rams-90",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_e7c3d54d21ab3622",
+      "title": "Ethos — Against obsolescence. Vitsœ",
+      "publisher": "",
+      "url": "https://www.vitsoe.com/us/about/ethos",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_0fb577ecac7f8aa1",
+      "title": "Braun designers — Dieter Rams Head of Design 1961–1995 and Braun design legacy. Braun",
+      "publisher": "",
+      "url": "https://uk.braun.com/en-gb/design-and-craftsmanship/braun-designers",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_d8d514b810a8e338",
+      "title": "Dieter Rams — collection artist page and 23 works online. Museum of Modern Art",
+      "publisher": "",
+      "url": "https://www.moma.org/collection/artists/8451",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_4bcfc3b8e8aac6e7",
+      "title": "Pocket Radio model T3, 1958. Museum of Modern Art",
+      "publisher": "",
+      "url": "https://www.moma.org/collection/works/4134",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_f62db89e9a1c945a",
+      "title": "Radio-Phonograph model SK 4/10, 1956 — Dieter Rams and Hans Gugelot. Museum of Modern Art",
+      "publisher": "",
+      "url": "https://www.moma.org/collection/works/2649",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_76e5415a265c40fa",
+      "title": "Portable Transistor Radio and Phonograph model TP 1, 1959. Museum of Modern Art",
+      "publisher": "",
+      "url": "https://www.moma.org/collection/works/2500",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_6278cb185f5262c8",
+      "title": "Audio 1 Radio-Phonograph model TC 40. Museum of Modern Art",
+      "publisher": "",
+      "url": "https://www.moma.org/collection/works/4086",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_95eb11fc1a05914d",
+      "title": "Combi Electric Shaver — Dieter Rams and Gerd Alfred Müller. Museum of Modern Art",
+      "publisher": "",
+      "url": "https://www.moma.org/collection/works/1157",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_5efc372e7a8b44ea",
+      "title": "Sun Lamp HUV 1 XX — Dieter Rams, Reinhold Weiss and Dietrich Lubs. Museum of Modern Art",
+      "publisher": "",
+      "url": "https://www.moma.org/collection/works/4531",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_1eefd5ff7e547666",
+      "title": "Dieter Rams: Modular World — furniture, Braun, consumerism and ten principles. Vitra Design Museum",
+      "publisher": "",
+      "url": "https://www.design-museum.de/en/exhibitions/detailpages/dieter-rams-modular-world.html",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_86d92bb51e428585",
+      "title": "Interview with Dieter Rams — design theory and social responsibility. Vitra Design Museum",
+      "publisher": "",
+      "url": "https://www.design-museum.de/en/ueber-design/interviews/detailseiten/interview-dieter-rams.html",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_d09ebe19a5e9677c",
+      "title": "Dieter Rams — biography and overview. Design Museum London",
+      "publisher": "",
+      "url": "https://designmuseum.org/design/dieter-rams",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_391caf93378f0880",
+      "title": "What is Good Design? — Rams biography and Ten Principles overview. Design Museum London",
+      "publisher": "",
+      "url": "https://designmuseum.org/discover-design/all-stories/what-is-good-design-a-quick-look-at-dieter-rams-ten-principles",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_a7af84ae78553b7e",
+      "title": "Phonosuper SK5 — design significance and Snow White’s Coffin context. Design Museum London",
+      "publisher": "",
+      "url": "https://designmuseum.org/adopt/move/phonosuper-sk5",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_rams_1_1",
+      "claim_id": "clm_dr_001",
+      "source_id": "src_21d559060c48f404",
+      "locator": "DOCX section sec-1",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_rams_2_2",
+      "claim_id": "clm_dr_001",
+      "source_id": "src_30c75567c201b8ae",
+      "locator": "DOCX section sec-1",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_rams_3_1",
+      "claim_id": "clm_dr_002",
+      "source_id": "src_21d559060c48f404",
+      "locator": "DOCX section sec-2",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_rams_4_2",
+      "claim_id": "clm_dr_002",
+      "source_id": "src_30c75567c201b8ae",
+      "locator": "DOCX section sec-2",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_rams_5_1",
+      "claim_id": "clm_dr_003",
+      "source_id": "src_21d559060c48f404",
+      "locator": "DOCX section sec-3",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_rams_6_2",
+      "claim_id": "clm_dr_003",
+      "source_id": "src_30c75567c201b8ae",
+      "locator": "DOCX section sec-3",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_rams_7_1",
+      "claim_id": "clm_dr_004",
+      "source_id": "src_21d559060c48f404",
+      "locator": "DOCX section sec-4",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_rams_8_2",
+      "claim_id": "clm_dr_004",
+      "source_id": "src_30c75567c201b8ae",
+      "locator": "DOCX section sec-4",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_rams_9_1",
+      "claim_id": "clm_dr_005",
+      "source_id": "src_21d559060c48f404",
+      "locator": "DOCX section sec-5",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_rams_10_2",
+      "claim_id": "clm_dr_005",
+      "source_id": "src_30c75567c201b8ae",
+      "locator": "DOCX section sec-5",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_rams_11_1",
+      "claim_id": "clm_dr_006",
+      "source_id": "src_21d559060c48f404",
+      "locator": "DOCX section sec-6",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_rams_12_2",
+      "claim_id": "clm_dr_006",
+      "source_id": "src_30c75567c201b8ae",
+      "locator": "DOCX section sec-6",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_rams_13_1",
+      "claim_id": "clm_dr_007",
+      "source_id": "src_21d559060c48f404",
+      "locator": "DOCX section sec-7",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_rams_14_2",
+      "claim_id": "clm_dr_007",
+      "source_id": "src_30c75567c201b8ae",
+      "locator": "DOCX section sec-7",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_rams_15_1",
+      "claim_id": "clm_dr_008",
+      "source_id": "src_21d559060c48f404",
+      "locator": "DOCX section sec-8",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_rams_16_2",
+      "claim_id": "clm_dr_008",
+      "source_id": "src_30c75567c201b8ae",
+      "locator": "DOCX section sec-8",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_rams_17_1",
+      "claim_id": "clm_dr_009",
+      "source_id": "src_21d559060c48f404",
+      "locator": "DOCX section sec-9",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_rams_18_2",
+      "claim_id": "clm_dr_009",
+      "source_id": "src_30c75567c201b8ae",
+      "locator": "DOCX section sec-9",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_rams_19_1",
+      "claim_id": "clm_dr_010",
+      "source_id": "src_21d559060c48f404",
+      "locator": "DOCX section sec-10",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_rams_20_2",
+      "claim_id": "clm_dr_010",
+      "source_id": "src_30c75567c201b8ae",
+      "locator": "DOCX section sec-10",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_rams_21_1",
+      "claim_id": "clm_dr_011",
+      "source_id": "src_21d559060c48f404",
+      "locator": "DOCX section sec-11",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_rams_22_2",
+      "claim_id": "clm_dr_011",
+      "source_id": "src_30c75567c201b8ae",
+      "locator": "DOCX section sec-11",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_rams_23_1",
+      "claim_id": "clm_dr_012",
+      "source_id": "src_21d559060c48f404",
+      "locator": "DOCX section sec-12",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_rams_24_2",
+      "claim_id": "clm_dr_012",
+      "source_id": "src_30c75567c201b8ae",
+      "locator": "DOCX section sec-12",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_rams_25_1",
+      "claim_id": "clm_dr_013",
+      "source_id": "src_21d559060c48f404",
+      "locator": "DOCX section sec-13",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_rams_26_2",
+      "claim_id": "clm_dr_013",
+      "source_id": "src_30c75567c201b8ae",
+      "locator": "DOCX section sec-13",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_rams_27_1",
+      "claim_id": "clm_dr_014",
+      "source_id": "src_21d559060c48f404",
+      "locator": "DOCX section sec-14",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_rams_28_2",
+      "claim_id": "clm_dr_014",
+      "source_id": "src_30c75567c201b8ae",
+      "locator": "DOCX section sec-14",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_rams_29_1",
+      "claim_id": "clm_dr_015",
+      "source_id": "src_21d559060c48f404",
+      "locator": "DOCX section sec-15",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_rams_30_2",
+      "claim_id": "clm_dr_015",
+      "source_id": "src_30c75567c201b8ae",
+      "locator": "DOCX section sec-15",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_rams_31_1",
+      "claim_id": "clm_dr_016",
+      "source_id": "src_21d559060c48f404",
+      "locator": "DOCX section sec-16",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_rams_32_2",
+      "claim_id": "clm_dr_016",
+      "source_id": "src_30c75567c201b8ae",
+      "locator": "DOCX section sec-16",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_rams_33_1",
+      "claim_id": "clm_dr_017",
+      "source_id": "src_21d559060c48f404",
+      "locator": "DOCX section sec-17",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_rams_34_2",
+      "claim_id": "clm_dr_017",
+      "source_id": "src_30c75567c201b8ae",
+      "locator": "DOCX section sec-17",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_rams_35_1",
+      "claim_id": "clm_dr_018",
+      "source_id": "src_21d559060c48f404",
+      "locator": "DOCX section sec-18",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_rams_36_2",
+      "claim_id": "clm_dr_018",
+      "source_id": "src_30c75567c201b8ae",
+      "locator": "DOCX section sec-18",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_rams_37_1",
+      "claim_id": "clm_dr_019",
+      "source_id": "src_21d559060c48f404",
+      "locator": "DOCX section sec-19",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_rams_38_2",
+      "claim_id": "clm_dr_019",
+      "source_id": "src_30c75567c201b8ae",
+      "locator": "DOCX section sec-19",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_rams_39_1",
+      "claim_id": "clm_dr_020",
+      "source_id": "src_21d559060c48f404",
+      "locator": "DOCX section sec-20",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_rams_40_2",
+      "claim_id": "clm_dr_020",
+      "source_id": "src_30c75567c201b8ae",
+      "locator": "DOCX section sec-20",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_rams_41_1",
+      "claim_id": "clm_dr_021",
+      "source_id": "src_21d559060c48f404",
+      "locator": "DOCX section sec-21",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_rams_42_2",
+      "claim_id": "clm_dr_021",
+      "source_id": "src_30c75567c201b8ae",
+      "locator": "DOCX section sec-21",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_rams_43_1",
+      "claim_id": "clm_dr_022",
+      "source_id": "src_21d559060c48f404",
+      "locator": "DOCX section sec-22",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_rams_44_2",
+      "claim_id": "clm_dr_022",
+      "source_id": "src_30c75567c201b8ae",
+      "locator": "DOCX section sec-22",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_rams_45_1",
+      "claim_id": "clm_dr_023",
+      "source_id": "src_21d559060c48f404",
+      "locator": "DOCX section sec-23",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_rams_46_2",
+      "claim_id": "clm_dr_023",
+      "source_id": "src_30c75567c201b8ae",
+      "locator": "DOCX section sec-23",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_rams_47_1",
+      "claim_id": "clm_dr_024",
+      "source_id": "src_21d559060c48f404",
+      "locator": "DOCX section sec-24",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_rams_48_2",
+      "claim_id": "clm_dr_024",
+      "source_id": "src_30c75567c201b8ae",
+      "locator": "DOCX section sec-24",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_rams_49_1",
+      "claim_id": "clm_dr_025",
+      "source_id": "src_21d559060c48f404",
+      "locator": "DOCX section sec-25",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_rams_50_2",
+      "claim_id": "clm_dr_025",
+      "source_id": "src_30c75567c201b8ae",
+      "locator": "DOCX section sec-25",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_rams_51_1",
+      "claim_id": "clm_dr_026",
+      "source_id": "src_21d559060c48f404",
+      "locator": "DOCX section sec-26",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_rams_52_2",
+      "claim_id": "clm_dr_026",
+      "source_id": "src_30c75567c201b8ae",
+      "locator": "DOCX section sec-26",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_rams_53_1",
+      "claim_id": "clm_dr_027",
+      "source_id": "src_21d559060c48f404",
+      "locator": "DOCX section sec-27",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_rams_54_2",
+      "claim_id": "clm_dr_027",
+      "source_id": "src_30c75567c201b8ae",
+      "locator": "DOCX section sec-27",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_rams_55_1",
+      "claim_id": "clm_dr_028",
+      "source_id": "src_21d559060c48f404",
+      "locator": "DOCX section sec-28",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_rams_56_2",
+      "claim_id": "clm_dr_028",
+      "source_id": "src_30c75567c201b8ae",
+      "locator": "DOCX section sec-28",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_rams_57_1",
+      "claim_id": "clm_dr_029",
+      "source_id": "src_21d559060c48f404",
+      "locator": "DOCX section sec-29",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_rams_58_2",
+      "claim_id": "clm_dr_029",
+      "source_id": "src_30c75567c201b8ae",
+      "locator": "DOCX section sec-29",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_rams_59_1",
+      "claim_id": "clm_dr_030",
+      "source_id": "src_21d559060c48f404",
+      "locator": "DOCX section sec-30",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_rams_60_2",
+      "claim_id": "clm_dr_030",
+      "source_id": "src_30c75567c201b8ae",
+      "locator": "DOCX section sec-30",
+      "support": "Supports the claim's factual content."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "media_state": "editorially_selected",
+  "workflow": {
+    "decision": "AUTO_APPROVE",
+    "note": "Claims carry traceable citations and pass the 0.85 threshold.",
+    "url_validation_summary": {
+      "confirmed": 20,
+      "anti_bot_confirmed": 0,
+      "needs_manual_recheck": 0
+    },
+    "converted_by": "VANSMITHLAB publication-artifact workflow",
+    "converted_at": "2026-08-13T00:00:00.000Z"
+  }
+}

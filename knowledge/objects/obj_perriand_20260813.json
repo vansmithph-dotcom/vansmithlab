@@ -1,0 +1,1246 @@
+{
+  "id": "obj_perriand_20260813",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Charlotte Perriand: ????????? ???? ? ??????????? ????????",
+  "title_en": "Charlotte Perriand: The Art of Living and the Interior Landscape",
+  "slug_ru": "charlotte-perriand-art-of-living-interior-landscape",
+  "slug_en": "charlotte-perriand-art-of-living-interior-landscape",
+  "summary_ru": "??? ???????? ????????? ?????????? ????? ???????????? ? ????????? ????????",
+  "verification_state": "multi_source_verified",
+  "confidence_score": 0.86,
+  "created_at": "2026-08-13T00:00:00.000Z",
+  "updated_at": "2026-08-13T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_cp_001",
+      "wording_ru": "Charlotte Perriand родилась 24 октября 1903 года в Париже. Её собственная траектория началась задолго до сотрудничества с Le Corbusier: с интереса к мебели, материалам и тому, как человек физически пользуется пространством.",
+      "wording_en": "Charlotte Perriand was born in Paris on 24 October 1903. Her own trajectory began before Le Corbusier, with furniture, materials and the physical use of space.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.fondationlouisvuitton.fr/en/events/charlotte-perriand-inventing-a-new-world",
+          "locator": "DOCX section sec-1",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://designmuseum.org/designers/charlotte-perriand",
+          "locator": "DOCX section sec-1",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_cp_002",
+      "wording_ru": "В 1920–1925 годах Perriand училась в École de l’Union Centrale des Arts Décoratifs. Профессиональная база декоративного искусства быстро стала для неё точкой отталкивания: современности требовался не новый орнамент, а новое отношение к материалу и жизни.",
+      "wording_en": "From 1920 to 1925 Perriand studied at the École de l’Union Centrale des Arts Décoratifs. Decorative-arts training quickly became a point of departure: modernity required more than a new ornament.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.fondationlouisvuitton.fr/en/events/charlotte-perriand-inventing-a-new-world",
+          "locator": "DOCX section sec-2",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://designmuseum.org/designers/charlotte-perriand",
+          "locator": "DOCX section sec-2",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_cp_003",
+      "wording_ru": "На Salon d’Automne 1927 года Perriand показала Bar sous le Toit — интерьер из хромированного металла, алюминия, стекла и чёткой геометрии. Проект сделал её заметной как самостоятельного автора новой среды.",
+      "wording_en": "At the 1927 Salon d’Automne, Perriand presented Bar sous le Toit, an interior of chrome, aluminium, glass and clear geometry. It established her as the author of a new environment in her own right.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.fondationlouisvuitton.fr/en/events/charlotte-perriand-inventing-a-new-world",
+          "locator": "DOCX section sec-3",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://designmuseum.org/designers/charlotte-perriand",
+          "locator": "DOCX section sec-3",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_cp_004",
+      "wording_ru": "После Salon d’Automne Perriand вошла в студию Le Corbusier и Pierre Jeanneret и проработала там около десяти лет. Современные музейные источники подчёркивают её активную роль в мебели и интерьерах.",
+      "wording_en": "After the Salon d’Automne, Perriand joined the studio of Le Corbusier and Pierre Jeanneret and worked there for roughly a decade. Museums now stress her active role in furniture and interiors.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.fondationlouisvuitton.fr/en/events/charlotte-perriand-inventing-a-new-world",
+          "locator": "DOCX section sec-4",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://designmuseum.org/designers/charlotte-perriand",
+          "locator": "DOCX section sec-4",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_cp_005",
+      "wording_ru": "Команда конца 1920-х проектировала предметы под разные действия: сидеть, отдыхать, работать, разговаривать. Каркас, опора, поверхность и пользовательский жест становились видимыми.",
+      "wording_en": "The late-1920s team designed objects for sitting, resting, working and conversation. Frame, support, surface and user action became legible.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.fondationlouisvuitton.fr/en/events/charlotte-perriand-inventing-a-new-world",
+          "locator": "DOCX section sec-5",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://designmuseum.org/designers/charlotte-perriand",
+          "locator": "DOCX section sec-5",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_cp_006",
+      "wording_ru": "MoMA атрибутирует Revolving Armchair 1928 года непосредственно Charlotte Perriand. Жёсткая трубчатая структура соединена с мягкой подушкой и вращением — промышленная логика не отменяет телесный комфорт.",
+      "wording_en": "MoMA attributes the 1928 Revolving Armchair directly to Charlotte Perriand. A rigid tubular frame meets a soft cushion and rotation, proving that industrial logic does not eliminate bodily comfort.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.fondationlouisvuitton.fr/en/events/charlotte-perriand-inventing-a-new-world",
+          "locator": "DOCX section sec-6",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://designmuseum.org/designers/charlotte-perriand",
+          "locator": "DOCX section sec-6",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_cp_007",
+      "wording_ru": "Chaise Longue LC4 1928 года в MoMA атрибутирована Le Corbusier, Pierre Jeanneret и Charlotte Perriand; Cassina также сохраняет коллективное авторство.",
+      "wording_en": "MoMA attributes the 1928 LC4 Chaise Longue to Le Corbusier, Pierre Jeanneret and Charlotte Perriand; Cassina preserves the same shared authorship.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.fondationlouisvuitton.fr/en/events/charlotte-perriand-inventing-a-new-world",
+          "locator": "DOCX section sec-7",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://designmuseum.org/designers/charlotte-perriand",
+          "locator": "DOCX section sec-7",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_cp_008",
+      "wording_ru": "В 1929 году Le Corbusier, Pierre Jeanneret и Charlotte Perriand представили Équipement intérieur d’une habitation — модель современного жилища, где мебель, хранение, спальня и ванная были показаны как единая система.",
+      "wording_en": "In 1929 Le Corbusier, Pierre Jeanneret and Charlotte Perriand presented Équipement intérieur d’une habitation, a model dwelling in which furniture, storage, bedroom and bathroom formed one system.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.fondationlouisvuitton.fr/en/events/charlotte-perriand-inventing-a-new-world",
+          "locator": "DOCX section sec-8",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://designmuseum.org/designers/charlotte-perriand",
+          "locator": "DOCX section sec-8",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_cp_009",
+      "wording_ru": "Один из ключевых мотивов Perriand — хранение, которое одновременно работает как мебель и граница пространства. Элемент хранит вещи, разделяет зоны и задаёт масштаб комнаты.",
+      "wording_en": "A key Perriand motif is storage that works simultaneously as furniture and spatial boundary. One element stores objects, divides zones and sets the scale of a room.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.fondationlouisvuitton.fr/en/events/charlotte-perriand-inventing-a-new-world",
+          "locator": "DOCX section sec-9",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://designmuseum.org/designers/charlotte-perriand",
+          "locator": "DOCX section sec-9",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_cp_010",
+      "wording_ru": "Канон долго связывал мебель конца 1920-х прежде всего с Le Corbusier. Современные музеи и издатели возвращают Perriand отдельную видимость, но это не должно создавать зеркальный миф, будто всё принадлежало только ей.",
+      "wording_en": "Modernist history long associated late-1920s furniture mainly with Le Corbusier. Museums and manufacturers now restore Perriand’s visibility, but correction should not create a reverse myth in which everything belongs to her alone.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.fondationlouisvuitton.fr/en/events/charlotte-perriand-inventing-a-new-world",
+          "locator": "DOCX section sec-10",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://designmuseum.org/designers/charlotte-perriand",
+          "locator": "DOCX section sec-10",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_cp_011",
+      "wording_ru": "В 1930-е Perriand участвовала в Union des Artistes Modernes — среде, где дизайнеры выступали за современные материалы, производство и прямую связь между проектированием и общественной жизнью.",
+      "wording_en": "During the 1930s Perriand participated in the Union des Artistes Modernes, a milieu advocating modern materials, production and a direct connection between design and social life.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.fondationlouisvuitton.fr/en/events/charlotte-perriand-inventing-a-new-world",
+          "locator": "DOCX section sec-11",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://designmuseum.org/designers/charlotte-perriand",
+          "locator": "DOCX section sec-11",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_cp_012",
+      "wording_ru": "Fondation Louis Vuitton подчёркивает социальную вовлечённость Perriand и её интерес к жилищным проблемам. В середине 1930-х она участвовала в проектах, где фотография и выставочная графика говорили о бедности и условиях жизни в Париже.",
+      "wording_en": "Fondation Louis Vuitton emphasises Perriand’s social engagement and concern with housing. In the mid-1930s she took part in projects using photography and exhibition graphics to address poverty and living conditions in Paris.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.fondationlouisvuitton.fr/en/events/charlotte-perriand-inventing-a-new-world",
+          "locator": "DOCX section sec-12",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://designmuseum.org/designers/charlotte-perriand",
+          "locator": "DOCX section sec-12",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_cp_013",
+      "wording_ru": "Perriand фотографировала путешествия, горы, найденные объекты и природные формы. Камера работала как исследовательский инструмент — фиксировала пропорцию, фактуру, ритм и конструктивную логику окружающего мира.",
+      "wording_en": "Perriand photographed travel, mountains, found objects and natural forms. The camera operated as research, recording proportion, texture, rhythm and structural logic in the world around her.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.fondationlouisvuitton.fr/en/events/charlotte-perriand-inventing-a-new-world",
+          "locator": "DOCX section sec-13",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://designmuseum.org/designers/charlotte-perriand",
+          "locator": "DOCX section sec-13",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_cp_014",
+      "wording_ru": "В 1937 году Perriand покинула студию Le Corbusier. Это был не отказ от модернизма, а переход к более самостоятельной практике, где архитектура, искусство и предмет снова соединялись.",
+      "wording_en": "Perriand left Le Corbusier’s studio in 1937. The move was not a rejection of modernism but a transition to a more independent practice combining architecture, art and objects.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.fondationlouisvuitton.fr/en/events/charlotte-perriand-inventing-a-new-world",
+          "locator": "DOCX section sec-14",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://designmuseum.org/designers/charlotte-perriand",
+          "locator": "DOCX section sec-14",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_cp_015",
+      "wording_ru": "В 1940 году Perriand отправилась в Японию как официально приглашённый советник по промышленному дизайну. В 1941 году она организовала выставку Selection, Tradition, Creation.",
+      "wording_en": "In 1940 Perriand travelled to Japan as an officially invited industrial-design adviser. In 1941 she organised Selection, Tradition, Creation.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.fondationlouisvuitton.fr/en/events/charlotte-perriand-inventing-a-new-world",
+          "locator": "DOCX section sec-15",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://designmuseum.org/designers/charlotte-perriand",
+          "locator": "DOCX section sec-15",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_cp_016",
+      "wording_ru": "После японского опыта Perriand переосмысливала ранние формы через местные материалы и технологии. Известная бамбуковая версия chaise longue показывает не декоративную японизацию, а перевод принципа в другую производственную культуру.",
+      "wording_en": "After Japan, Perriand rethought earlier forms through local materials and making. The famous bamboo chaise longue is not decorative Japanisation but a translation of a principle into another production culture.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.fondationlouisvuitton.fr/en/events/charlotte-perriand-inventing-a-new-world",
+          "locator": "DOCX section sec-16",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://designmuseum.org/designers/charlotte-perriand",
+          "locator": "DOCX section sec-16",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_cp_017",
+      "wording_ru": "Вторая мировая война изменила маршрут Perriand: после Японии возвращение во Францию оказалось невозможным, и часть военных лет она провела в Индокитае.",
+      "wording_en": "The Second World War transformed Perriand’s route: after Japan she could not immediately return to France and spent part of the war years in Indochina.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.fondationlouisvuitton.fr/en/events/charlotte-perriand-inventing-a-new-world",
+          "locator": "DOCX section sec-17",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://designmuseum.org/designers/charlotte-perriand",
+          "locator": "DOCX section sec-17",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_cp_018",
+      "wording_ru": "После войны Perriand много работала в среде Jean Prouvé и его мастерских. MoMA фиксирует совместные объекты, где интерьерное мышление встречается с инженерной культурой металла, алюминия, сборки и серийного производства.",
+      "wording_en": "After the war Perriand worked extensively in the environment around Jean Prouvé and his workshops. MoMA records collaborative objects where interior thinking meets metal, aluminium, assembly and serial manufacture.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.fondationlouisvuitton.fr/en/events/charlotte-perriand-inventing-a-new-world",
+          "locator": "DOCX section sec-18",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://designmuseum.org/designers/charlotte-perriand",
+          "locator": "DOCX section sec-18",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_cp_019",
+      "wording_ru": "MoMA хранит Bench-Bookshelf для Maison de la Tunisie 1952 года, созданный Perriand с Ateliers Jean Prouvé и другими участниками. Само название объясняет принцип: сиденье и библиотека объединены в один элемент.",
+      "wording_en": "MoMA holds the 1952 Bench-Bookshelf for the Maison de la Tunisie, created by Perriand with Ateliers Jean Prouvé and other contributors. The name states the principle: seating and library become one element.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.fondationlouisvuitton.fr/en/events/charlotte-perriand-inventing-a-new-world",
+          "locator": "DOCX section sec-19",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://designmuseum.org/designers/charlotte-perriand",
+          "locator": "DOCX section sec-19",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_cp_020",
+      "wording_ru": "В Maison du Brésil Perriand разрабатывала модульную схему комнаты и встроенное оборудование для здания Le Corbusier и Lúcio Costa. Официальные источники CIUP и Fondation Le Corbusier отдельно отмечают её вклад.",
+      "wording_en": "At Maison du Brésil, Perriand developed a modular room scheme and integrated equipment for the building by Le Corbusier and Lúcio Costa. CIUP and Fondation Le Corbusier both record her contribution.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.fondationlouisvuitton.fr/en/events/charlotte-perriand-inventing-a-new-world",
+          "locator": "DOCX section sec-20",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://designmuseum.org/designers/charlotte-perriand",
+          "locator": "DOCX section sec-20",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_cp_021",
+      "wording_ru": "MoMA описывает Maison du Brésil через сочетание алюминия, бетона, линолеума, Formica, цветных пластиков и дерева.",
+      "wording_en": "MoMA describes Maison du Brésil through aluminium, concrete, linoleum, Formica, coloured plastics and wood.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.fondationlouisvuitton.fr/en/events/charlotte-perriand-inventing-a-new-world",
+          "locator": "DOCX section sec-21",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://designmuseum.org/designers/charlotte-perriand",
+          "locator": "DOCX section sec-21",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_cp_022",
+      "wording_ru": "С конца 1960-х Perriand стала ключевой фигурой проекта Les Arcs в Савойских Альпах. Французские государственные и региональные архивы фиксируют её многолетнее участие в планировке, архитектуре и интерьерах.",
+      "wording_en": "From the late 1960s Perriand became a central figure in Les Arcs in the French Alps. French state and regional heritage archives document her long involvement in planning, architecture and interiors.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.fondationlouisvuitton.fr/en/events/charlotte-perriand-inventing-a-new-world",
+          "locator": "DOCX section sec-22",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://designmuseum.org/designers/charlotte-perriand",
+          "locator": "DOCX section sec-22",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_cp_023",
+      "wording_ru": "Апартаменты Les Arcs проектировались для массового горного отдыха, поэтому компактность была необходимостью. Встроенные шкафы, трансформируемая мебель и точные маршруты позволяли интенсивно использовать ограниченную площадь.",
+      "wording_en": "Les Arcs apartments were designed for mass mountain holidays, making compactness necessary. Integrated storage, transformable furniture and precise circulation allowed limited floor area to work intensely.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.fondationlouisvuitton.fr/en/events/charlotte-perriand-inventing-a-new-world",
+          "locator": "DOCX section sec-23",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://designmuseum.org/designers/charlotte-perriand",
+          "locator": "DOCX section sec-23",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_cp_024",
+      "wording_ru": "В Les Arcs команда применяла серийные и предварительно собранные элементы, чтобы ускорять строительство и обеспечивать повторяемое качество. Французские архивы подробно фиксируют интеграцию оборудования в жилые модули.",
+      "wording_en": "At Les Arcs the teams used serial and preassembled elements to accelerate construction and maintain repeatable quality. French heritage records document the integration of equipment into residential modules.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.fondationlouisvuitton.fr/en/events/charlotte-perriand-inventing-a-new-world",
+          "locator": "DOCX section sec-24",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://designmuseum.org/designers/charlotte-perriand",
+          "locator": "DOCX section sec-24",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_cp_025",
+      "wording_ru": "Документация Les Arcs подчёркивает работу с рельефом и коллективный характер проектирования. Террасированные корпуса, ориентация видов и плотность должны были сохранять ощущение горного ландшафта.",
+      "wording_en": "Les Arcs documentation stresses both topography and collaborative authorship. Terraced volumes, view orientation and density were intended to preserve an experience of the mountain landscape.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.fondationlouisvuitton.fr/en/events/charlotte-perriand-inventing-a-new-world",
+          "locator": "DOCX section sec-25",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://designmuseum.org/designers/charlotte-perriand",
+          "locator": "DOCX section sec-25",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_cp_026",
+      "wording_ru": "Fondation Louis Vuitton описывает вклад Perriand через идею нового art de vivre. Для неё это не дорогой lifestyle, а качество отношений между человеком и хранением, окном и видом, мебелью и движением, материалом и прикосновением.",
+      "wording_en": "Fondation Louis Vuitton frames Perriand’s contribution through a new art de vivre. In her work this means the quality of relations between person and storage, window and view, furniture and movement, material and touch.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.fondationlouisvuitton.fr/en/events/charlotte-perriand-inventing-a-new-world",
+          "locator": "DOCX section sec-26",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://designmuseum.org/designers/charlotte-perriand",
+          "locator": "DOCX section sec-26",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_cp_027",
+      "wording_ru": "Cassina выпускает объекты Perriand и совместные работы с Le Corbusier и Pierre Jeanneret, сохраняя датировки и коллективные атрибуции.",
+      "wording_en": "Cassina produces Perriand objects and collaborative works with Le Corbusier and Pierre Jeanneret while preserving dates and shared attributions.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.fondationlouisvuitton.fr/en/events/charlotte-perriand-inventing-a-new-world",
+          "locator": "DOCX section sec-27",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://designmuseum.org/designers/charlotte-perriand",
+          "locator": "DOCX section sec-27",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_cp_028",
+      "wording_ru": "Большие выставки Fondation Louis Vuitton в 2019–2020, Design Museum в 2021 и Kunstmuseen Krefeld в 2025–2026 показали Perriand как фигуру, которую уже невозможно помещать в примечание к Le Corbusier.",
+      "wording_en": "Major exhibitions at Fondation Louis Vuitton in 2019–2020, the Design Museum in 2021 and Kunstmuseen Krefeld in 2025–2026 present Perriand as a figure who can no longer be treated as a footnote to Le Corbusier.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.fondationlouisvuitton.fr/en/events/charlotte-perriand-inventing-a-new-world",
+          "locator": "DOCX section sec-28",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://designmuseum.org/designers/charlotte-perriand",
+          "locator": "DOCX section sec-28",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_cp_029",
+      "wording_ru": "Design Museum прямо отмечает, что вклад Perriand долго находился в тени знаменитых мужских коллег.",
+      "wording_en": "The Design Museum explicitly notes that Perriand’s work was often overshadowed by famous male collaborators.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.fondationlouisvuitton.fr/en/events/charlotte-perriand-inventing-a-new-world",
+          "locator": "DOCX section sec-29",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://designmuseum.org/designers/charlotte-perriand",
+          "locator": "DOCX section sec-29",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_cp_030",
+      "wording_ru": "Главное наследие Charlotte Perriand — не набор стульев и не один стиль. Она показала интерьер как систему отношений: тело ↔ предмет, хранение ↔ стена, индустрия ↔ ремесло, квартира ↔ общество, здание ↔ ландшафт.",
+      "wording_en": "Charlotte Perriand’s main legacy is not a collection of chairs or one style. She showed the interior as a system of relations: body ↔ object, storage ↔ wall, industry ↔ craft, apartment ↔ society, building ↔ landscape.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.fondationlouisvuitton.fr/en/events/charlotte-perriand-inventing-a-new-world",
+          "locator": "DOCX section sec-30",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://designmuseum.org/designers/charlotte-perriand",
+          "locator": "DOCX section sec-30",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_ccd8e5db240f8db5",
+      "title": "Charlotte Perriand: Inventing a New World. Fondation Louis Vuitton",
+      "publisher": "",
+      "url": "https://www.fondationlouisvuitton.fr/en/events/charlotte-perriand-inventing-a-new-world",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_2a0a1f43e4f8947d",
+      "title": "Charlotte Perriand — designer profile. Design Museum",
+      "publisher": "",
+      "url": "https://designmuseum.org/designers/charlotte-perriand",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_d109824d9f2fa3d7",
+      "title": "Charlotte Perriand: The Modern Life. Design Museum",
+      "publisher": "",
+      "url": "https://designmuseum.org/exhibitions/charlotte-perriand-the-modern-life",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_ee7feb28bbbf6677",
+      "title": "Charlotte Perriand — collection artist page. Museum of Modern Art",
+      "publisher": "",
+      "url": "https://www.moma.org/collection/artists/4564",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_9080ea411ce54650",
+      "title": "Charlotte Perriand. Revolving Armchair. 1928. Museum of Modern Art",
+      "publisher": "",
+      "url": "https://www.moma.org/collection/works/2325",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_adaf55adc4807731",
+      "title": "Le Corbusier, Pierre Jeanneret, Charlotte Perriand. Chaise Longue (LC/4). 1928. Museum of Modern Art",
+      "publisher": "",
+      "url": "https://www.moma.org/collection/works/2796",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_8e92e7481da729ce",
+      "title": "Le Corbusier, Pierre Jeanneret, Charlotte Perriand — masters and works. Cassina",
+      "publisher": "",
+      "url": "https://www.cassina.com/ww/en/maestri/le-corbusier-pierre-jeanneret-charlotte-perriand.html",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_945074fed88f97f8",
+      "title": "4 Chaise longue à réglage continu / LC4. Cassina",
+      "publisher": "",
+      "url": "https://www.cassina.com/gb/en/products/lc4-durable.html",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_ca1b35f4e9ae8db6",
+      "title": "Charlotte Perriand — Cassina Library. Cassina",
+      "publisher": "",
+      "url": "https://www.cassina.com/gb/en/news/library/charlotte-perriand.html",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_fab84ffeae8ec145",
+      "title": "Maison du Brésil, Paris, 1952–1959. Fondation Le Corbusier",
+      "publisher": "",
+      "url": "https://www.fondationlecorbusier.fr/en/work-architecture/achievements-maison-du-bresil-cite-internationale-universitaire-paris-france-1952-1959/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_1c5dbb7b4542cdcc",
+      "title": "Discover the Maison du Brésil — interior design. Cité internationale universitaire de Paris",
+      "publisher": "",
+      "url": "https://www.ciup.fr/en/discover-the-maison-du-bresil/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_954551b596900923",
+      "title": "Charlotte Perriand, Le Corbusier, ATBAT — Maison du Brésil interior. Museum of Modern Art",
+      "publisher": "",
+      "url": "https://www.moma.org/collection/works/199431",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_0b5d8afdbcb04756",
+      "title": "Charlotte Perriand, Ateliers Jean Prouvé et al. Maison de la Tunisie Bench-Bookshelf, 1952. Museum of Modern Art",
+      "publisher": "",
+      "url": "https://www.moma.org/collection/works/110092",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_2f9a48f9a2397b89",
+      "title": "Station de sports d’hiver Les Arcs. POP — Ministère de la Culture",
+      "publisher": "",
+      "url": "https://pop.culture.gouv.fr/notice/merimee/IA73000156",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_3b353b07c51b7107",
+      "title": "Station de sports d’hiver Arc 1600 — Pierre Blanche. Inventaire Général du Patrimoine Culturel Auvergne-Rhône-Alpes",
+      "publisher": "",
+      "url": "https://patrimoine.auvergnerhonealpes.fr/dossier/IA73000153",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_34ac67a3819d0c11",
+      "title": "Immeuble La Cascade, Les Arcs. Inventaire Général du Patrimoine Culturel Auvergne-Rhône-Alpes",
+      "publisher": "",
+      "url": "https://patrimoine.auvergnerhonealpes.fr/dossier/IA73000104",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_37164ff15a53785d",
+      "title": "Charlotte Perriand: L’Art d’habiter / The Art of Dwelling, 2025–2026. Kunstmuseen Krefeld",
+      "publisher": "",
+      "url": "https://kunstmuseenkrefeld.de/en/Exhibitions/2025/Charlotte-Perriand-Lart-Dhabiter-Die-Kunst-Zu-Wohnen",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_62c76059393b9c72",
+      "title": "Catalogue: Charlotte Perriand. L’Art d’habiter / The Art of Dwelling. Kunstmuseen Krefeld",
+      "publisher": "",
+      "url": "https://kunstmuseenkrefeld.de/de/Press/2026/03/Katalog-Zur-Ausstellung-Charlotte-Perriand-L-Art-Dhabiter-Die-Kunst-Des-Wohnens",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_226a7f8d480a3c0e",
+      "title": "Charlotte Perriand — A socially aware artist. Fondation Louis Vuitton",
+      "publisher": "",
+      "url": "https://www.fondationlouisvuitton.fr/en/events/charlotte-perriand-a-socially-aware-artist",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_bebb59e00b86bd0d",
+      "title": "Charlotte Perriand and artists. Fondation Louis Vuitton",
+      "publisher": "",
+      "url": "https://www.fondationlouisvuitton.fr/en/events/charlotte-perriand-and-artists",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_perriand_1_1",
+      "claim_id": "clm_cp_001",
+      "source_id": "src_ccd8e5db240f8db5",
+      "locator": "DOCX section sec-1",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_perriand_2_2",
+      "claim_id": "clm_cp_001",
+      "source_id": "src_2a0a1f43e4f8947d",
+      "locator": "DOCX section sec-1",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_perriand_3_1",
+      "claim_id": "clm_cp_002",
+      "source_id": "src_ccd8e5db240f8db5",
+      "locator": "DOCX section sec-2",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_perriand_4_2",
+      "claim_id": "clm_cp_002",
+      "source_id": "src_2a0a1f43e4f8947d",
+      "locator": "DOCX section sec-2",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_perriand_5_1",
+      "claim_id": "clm_cp_003",
+      "source_id": "src_ccd8e5db240f8db5",
+      "locator": "DOCX section sec-3",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_perriand_6_2",
+      "claim_id": "clm_cp_003",
+      "source_id": "src_2a0a1f43e4f8947d",
+      "locator": "DOCX section sec-3",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_perriand_7_1",
+      "claim_id": "clm_cp_004",
+      "source_id": "src_ccd8e5db240f8db5",
+      "locator": "DOCX section sec-4",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_perriand_8_2",
+      "claim_id": "clm_cp_004",
+      "source_id": "src_2a0a1f43e4f8947d",
+      "locator": "DOCX section sec-4",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_perriand_9_1",
+      "claim_id": "clm_cp_005",
+      "source_id": "src_ccd8e5db240f8db5",
+      "locator": "DOCX section sec-5",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_perriand_10_2",
+      "claim_id": "clm_cp_005",
+      "source_id": "src_2a0a1f43e4f8947d",
+      "locator": "DOCX section sec-5",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_perriand_11_1",
+      "claim_id": "clm_cp_006",
+      "source_id": "src_ccd8e5db240f8db5",
+      "locator": "DOCX section sec-6",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_perriand_12_2",
+      "claim_id": "clm_cp_006",
+      "source_id": "src_2a0a1f43e4f8947d",
+      "locator": "DOCX section sec-6",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_perriand_13_1",
+      "claim_id": "clm_cp_007",
+      "source_id": "src_ccd8e5db240f8db5",
+      "locator": "DOCX section sec-7",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_perriand_14_2",
+      "claim_id": "clm_cp_007",
+      "source_id": "src_2a0a1f43e4f8947d",
+      "locator": "DOCX section sec-7",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_perriand_15_1",
+      "claim_id": "clm_cp_008",
+      "source_id": "src_ccd8e5db240f8db5",
+      "locator": "DOCX section sec-8",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_perriand_16_2",
+      "claim_id": "clm_cp_008",
+      "source_id": "src_2a0a1f43e4f8947d",
+      "locator": "DOCX section sec-8",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_perriand_17_1",
+      "claim_id": "clm_cp_009",
+      "source_id": "src_ccd8e5db240f8db5",
+      "locator": "DOCX section sec-9",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_perriand_18_2",
+      "claim_id": "clm_cp_009",
+      "source_id": "src_2a0a1f43e4f8947d",
+      "locator": "DOCX section sec-9",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_perriand_19_1",
+      "claim_id": "clm_cp_010",
+      "source_id": "src_ccd8e5db240f8db5",
+      "locator": "DOCX section sec-10",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_perriand_20_2",
+      "claim_id": "clm_cp_010",
+      "source_id": "src_2a0a1f43e4f8947d",
+      "locator": "DOCX section sec-10",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_perriand_21_1",
+      "claim_id": "clm_cp_011",
+      "source_id": "src_ccd8e5db240f8db5",
+      "locator": "DOCX section sec-11",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_perriand_22_2",
+      "claim_id": "clm_cp_011",
+      "source_id": "src_2a0a1f43e4f8947d",
+      "locator": "DOCX section sec-11",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_perriand_23_1",
+      "claim_id": "clm_cp_012",
+      "source_id": "src_ccd8e5db240f8db5",
+      "locator": "DOCX section sec-12",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_perriand_24_2",
+      "claim_id": "clm_cp_012",
+      "source_id": "src_2a0a1f43e4f8947d",
+      "locator": "DOCX section sec-12",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_perriand_25_1",
+      "claim_id": "clm_cp_013",
+      "source_id": "src_ccd8e5db240f8db5",
+      "locator": "DOCX section sec-13",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_perriand_26_2",
+      "claim_id": "clm_cp_013",
+      "source_id": "src_2a0a1f43e4f8947d",
+      "locator": "DOCX section sec-13",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_perriand_27_1",
+      "claim_id": "clm_cp_014",
+      "source_id": "src_ccd8e5db240f8db5",
+      "locator": "DOCX section sec-14",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_perriand_28_2",
+      "claim_id": "clm_cp_014",
+      "source_id": "src_2a0a1f43e4f8947d",
+      "locator": "DOCX section sec-14",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_perriand_29_1",
+      "claim_id": "clm_cp_015",
+      "source_id": "src_ccd8e5db240f8db5",
+      "locator": "DOCX section sec-15",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_perriand_30_2",
+      "claim_id": "clm_cp_015",
+      "source_id": "src_2a0a1f43e4f8947d",
+      "locator": "DOCX section sec-15",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_perriand_31_1",
+      "claim_id": "clm_cp_016",
+      "source_id": "src_ccd8e5db240f8db5",
+      "locator": "DOCX section sec-16",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_perriand_32_2",
+      "claim_id": "clm_cp_016",
+      "source_id": "src_2a0a1f43e4f8947d",
+      "locator": "DOCX section sec-16",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_perriand_33_1",
+      "claim_id": "clm_cp_017",
+      "source_id": "src_ccd8e5db240f8db5",
+      "locator": "DOCX section sec-17",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_perriand_34_2",
+      "claim_id": "clm_cp_017",
+      "source_id": "src_2a0a1f43e4f8947d",
+      "locator": "DOCX section sec-17",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_perriand_35_1",
+      "claim_id": "clm_cp_018",
+      "source_id": "src_ccd8e5db240f8db5",
+      "locator": "DOCX section sec-18",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_perriand_36_2",
+      "claim_id": "clm_cp_018",
+      "source_id": "src_2a0a1f43e4f8947d",
+      "locator": "DOCX section sec-18",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_perriand_37_1",
+      "claim_id": "clm_cp_019",
+      "source_id": "src_ccd8e5db240f8db5",
+      "locator": "DOCX section sec-19",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_perriand_38_2",
+      "claim_id": "clm_cp_019",
+      "source_id": "src_2a0a1f43e4f8947d",
+      "locator": "DOCX section sec-19",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_perriand_39_1",
+      "claim_id": "clm_cp_020",
+      "source_id": "src_ccd8e5db240f8db5",
+      "locator": "DOCX section sec-20",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_perriand_40_2",
+      "claim_id": "clm_cp_020",
+      "source_id": "src_2a0a1f43e4f8947d",
+      "locator": "DOCX section sec-20",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_perriand_41_1",
+      "claim_id": "clm_cp_021",
+      "source_id": "src_ccd8e5db240f8db5",
+      "locator": "DOCX section sec-21",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_perriand_42_2",
+      "claim_id": "clm_cp_021",
+      "source_id": "src_2a0a1f43e4f8947d",
+      "locator": "DOCX section sec-21",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_perriand_43_1",
+      "claim_id": "clm_cp_022",
+      "source_id": "src_ccd8e5db240f8db5",
+      "locator": "DOCX section sec-22",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_perriand_44_2",
+      "claim_id": "clm_cp_022",
+      "source_id": "src_2a0a1f43e4f8947d",
+      "locator": "DOCX section sec-22",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_perriand_45_1",
+      "claim_id": "clm_cp_023",
+      "source_id": "src_ccd8e5db240f8db5",
+      "locator": "DOCX section sec-23",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_perriand_46_2",
+      "claim_id": "clm_cp_023",
+      "source_id": "src_2a0a1f43e4f8947d",
+      "locator": "DOCX section sec-23",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_perriand_47_1",
+      "claim_id": "clm_cp_024",
+      "source_id": "src_ccd8e5db240f8db5",
+      "locator": "DOCX section sec-24",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_perriand_48_2",
+      "claim_id": "clm_cp_024",
+      "source_id": "src_2a0a1f43e4f8947d",
+      "locator": "DOCX section sec-24",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_perriand_49_1",
+      "claim_id": "clm_cp_025",
+      "source_id": "src_ccd8e5db240f8db5",
+      "locator": "DOCX section sec-25",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_perriand_50_2",
+      "claim_id": "clm_cp_025",
+      "source_id": "src_2a0a1f43e4f8947d",
+      "locator": "DOCX section sec-25",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_perriand_51_1",
+      "claim_id": "clm_cp_026",
+      "source_id": "src_ccd8e5db240f8db5",
+      "locator": "DOCX section sec-26",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_perriand_52_2",
+      "claim_id": "clm_cp_026",
+      "source_id": "src_2a0a1f43e4f8947d",
+      "locator": "DOCX section sec-26",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_perriand_53_1",
+      "claim_id": "clm_cp_027",
+      "source_id": "src_ccd8e5db240f8db5",
+      "locator": "DOCX section sec-27",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_perriand_54_2",
+      "claim_id": "clm_cp_027",
+      "source_id": "src_2a0a1f43e4f8947d",
+      "locator": "DOCX section sec-27",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_perriand_55_1",
+      "claim_id": "clm_cp_028",
+      "source_id": "src_ccd8e5db240f8db5",
+      "locator": "DOCX section sec-28",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_perriand_56_2",
+      "claim_id": "clm_cp_028",
+      "source_id": "src_2a0a1f43e4f8947d",
+      "locator": "DOCX section sec-28",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_perriand_57_1",
+      "claim_id": "clm_cp_029",
+      "source_id": "src_ccd8e5db240f8db5",
+      "locator": "DOCX section sec-29",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_perriand_58_2",
+      "claim_id": "clm_cp_029",
+      "source_id": "src_2a0a1f43e4f8947d",
+      "locator": "DOCX section sec-29",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_perriand_59_1",
+      "claim_id": "clm_cp_030",
+      "source_id": "src_ccd8e5db240f8db5",
+      "locator": "DOCX section sec-30",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_perriand_60_2",
+      "claim_id": "clm_cp_030",
+      "source_id": "src_2a0a1f43e4f8947d",
+      "locator": "DOCX section sec-30",
+      "support": "Supports the claim's factual content."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "media_state": "editorially_selected",
+  "workflow": {
+    "decision": "AUTO_APPROVE",
+    "note": "Claims carry traceable citations and pass the 0.85 threshold.",
+    "url_validation_summary": {
+      "confirmed": 20,
+      "anti_bot_confirmed": 0,
+      "needs_manual_recheck": 0
+    },
+    "converted_by": "VANSMITHLAB publication-artifact workflow",
+    "converted_at": "2026-08-13T00:00:00.000Z"
+  }
+}

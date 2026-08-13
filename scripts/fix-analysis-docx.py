@@ -26,6 +26,12 @@ FILES = [
     "VSL_Why_Fashion_House_Now_Resembles_TV_Network_EN.docx",
     "VSL_Grace_Coddington_Fashion_Editor_Narrative_Image_Making_RU.docx",
     "VSL_Grace_Coddington_Fashion_Editor_Narrative_Image_Making_EN.docx",
+    "VSL_Charlotte_Perriand_Art_of_Living_Interior_Landscape_RU.docx",
+    "VSL_Charlotte_Perriand_Art_of_Living_Interior_Landscape_EN.docx",
+    "VSL_Dieter_Rams_Less_But_Better_Industrial_Design_RU.docx",
+    "VSL_Dieter_Rams_Less_But_Better_Industrial_Design_EN.docx",
+    "VSL_Ray_Petri_Buffalo_Styling_New_Masculinity_RU.docx",
+    "VSL_Ray_Petri_Buffalo_Styling_New_Masculinity_EN.docx",
 ]
 
 def ptext(p):

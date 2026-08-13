@@ -1,0 +1,40 @@
+{
+  "asset_id": "asset_ray-petri-buffalo-styling-new-masculinity_portrait_v1",
+  "primary_object_id": "obj_ray_petri_20260813",
+  "kind": "image",
+  "origin": "ai_reconstruction",
+  "locale": "bilingual",
+  "educational_purpose": "AI portrait reconstruction for the ray-petri-buffalo-styling-new-masculinity profile; non-documentary.",
+  "must_not_imply": [
+    "A specific protected photograph",
+    "Endorsement by a third party"
+  ],
+  "rights": {
+    "status": "generated_reviewed",
+    "disclosure": "AI reconstruction, not documentary evidence.",
+    "rights_basis": "Original AI portrait generated for VANSMITHLAB without copying a protected photograph.",
+    "third_party_marks": "None"
+  },
+  "accessibility": {
+    "alt_ru": "AI-????????????? ???????? Ray Petri ? ????? Buffalo-????? 1980-?.",
+    "alt_en": "AI-????????????? ???????? Ray Petri ? ????? Buffalo-????? 1980-?.",
+    "caption_ru": "Ray Petri, ???????. AI-?????????????, ?? ???????? ??????????.",
+    "caption_en": "Ray Petri, ???????. AI-?????????????, ?? ???????? ??????????."
+  },
+  "creator": "OpenAI image generation - directed and reviewed by VANSMITHLAB",
+  "created_at": "2026-08-13",
+  "asset_path": "public/images/glossary/stylists/ray-petri-buffalo-styling-new-masculinity-portrait-ai-v1.webp",
+  "file": {
+    "path": "/images/glossary/stylists/ray-petri-buffalo-styling-new-masculinity-portrait-ai-v1.webp",
+    "sha256": "cbd9bba510d0d7ecd437b904653ae36600e106d7eecd474d73a00254a4ddd554",
+    "width": 1024,
+    "height": 1536
+  },
+  "generation_prompt_class": "Original AI portrait for ray-petri-buffalo-styling-new-masculinity",
+  "rights_state": "generated_reviewed",
+  "licence_or_permission": "Original AI portrait reconstruction; not documentary evidence.",
+  "source_url": "",
+  "creator_or_credit": "OpenAI image generation - VANSMITHLAB",
+  "disclosure": "AI-????????????? VANSMITHLAB",
+  "supports": "editorial-thesis"
+}

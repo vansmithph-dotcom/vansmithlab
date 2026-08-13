@@ -1,0 +1,1308 @@
+{
+  "id": "obj_ray_petri_20260813",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Ray Petri: Buffalo-?????????? ? ????? ?????????????",
+  "title_en": "Ray Petri: Buffalo Styling and New Masculinity",
+  "slug_ru": "ray-petri-buffalo-styling-new-masculinity",
+  "slug_en": "ray-petri-buffalo-styling-new-masculinity",
+  "summary_ru": "??? ??????? ?????????? ??????? ????? ?????? ???????, ????? ? Buffalo-????????",
+  "verification_state": "multi_source_verified",
+  "confidence_score": 0.86,
+  "created_at": "2026-08-13T00:00:00.000Z",
+  "updated_at": "2026-08-13T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_rp_thesis",
+      "wording_ru": "Ray Petri важен не потому, что создал узнаваемый Buffalo look. Его ключевой вклад — превращение стилиста в автора отношений между одеждой, телом, кастингом, музыкой, журналом и фотографией. Buffalo показал, что styling может не обслуживать fashion system, а спорить с ней и создавать собственный социальный порядок изображения.",
+      "wording_en": "Ray Petri matters not because he produced a recognisable Buffalo look. His central contribution was to make the stylist an author of relationships among clothing, body, casting, music, magazine and photography. Buffalo demonstrated that styling could challenge the fashion system rather than simply service it, constructing its own social order inside the image.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://anthempress.com/books/ray-petri-pb",
+          "locator": "DOCX section editorial-thesis",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://powerhousebooks.com/books/buffalo-the-style-and-fashion-of-ray-petri/",
+          "locator": "DOCX section editorial-thesis",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rp_short",
+      "wording_ru": "Потому что Petri работал с тем, что соединяет эти профессии: кто будет в кадре, как одежда переопределит тело, какие культурные коды столкнутся, какую свободу даст журнал и как фотограф превратит всё это в изображение. Именно это и делает стилиста самостоятельным автором.",
+      "wording_en": "Because Petri worked on what connects those professions: who enters the frame, how clothes redefine the body, which cultural codes collide, how much freedom the magazine allows, and how photography turns the result into an image. That connective authorship is what makes the stylist a distinct creative role.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://anthempress.com/books/ray-petri-pb",
+          "locator": "DOCX section short-answer",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://powerhousebooks.com/books/buffalo-the-style-and-fashion-of-ray-petri/",
+          "locator": "DOCX section short-answer",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rp_001",
+      "wording_ru": "Ray Petri родился в Данди в 1948 году. Для истории моды это важно не как локальный факт, а как напоминание: один из самых влиятельных стилистов британских 1980-х формировался не внутри готовой лондонской fashion-системы. Его траектория проходила через эмиграцию, перемещения, музыку, рынки, ночную культуру и сеть друзей, прежде чем обрести профессиональное название.",
+      "wording_en": "Ray Petri was born in Dundee in 1948. For fashion history this matters less as a local fact than as a reminder that one of the most influential stylists of 1980s Britain did not emerge from a ready-made London fashion hierarchy. His route passed through migration, music, markets, nightlife and a network of friends before his activity gained a stable professional name.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://anthempress.com/books/ray-petri-pb",
+          "locator": "DOCX section sec-1",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://powerhousebooks.com/books/buffalo-the-style-and-fashion-of-ray-petri/",
+          "locator": "DOCX section sec-1",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rp_002",
+      "wording_ru": "В подростковом возрасте Petri оказался в Австралии после эмиграции семьи, а затем вернулся в Британию. В более поздних воспоминаниях его круг описывает и другие поездки — в том числе интерес к Индии и Африке. Это не лицензия романтизировать «глобальность», но важный контекст его визуальной чувствительности: он воспринимал одежду как переносимый культурный знак, а не как закрытую национальную систему.",
+      "wording_en": "As a teenager Petri moved to Australia with his family and later returned to Britain. Later accounts also describe wider travel and a sustained curiosity about India, Africa, music and art history. This should not be romanticised as automatic cosmopolitan authority; it is better understood as context for an eye that treated clothing as a portable cultural sign rather than a closed national system.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://anthempress.com/books/ray-petri-pb",
+          "locator": "DOCX section sec-2",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://powerhousebooks.com/books/buffalo-the-style-and-fashion-of-ray-petri/",
+          "locator": "DOCX section sec-2",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rp_003",
+      "wording_ru": "К середине 1970-х Petri снова жил в Британии и работал с антикварными и винтажными вещами на Camden Passage. Этот этап важен потому, что его понимание одежды формировалось через предмет, найденный вне новой коллекции: бывшая в употреблении куртка, старый костюм, аксессуар с предыдущей жизнью могли иметь больше характера, чем готовый сезонный total look.",
+      "wording_en": "By the mid-1970s Petri was back in Britain and working around antiques and vintage goods at Camden Passage. This stage matters because his understanding of dress developed through found objects outside the current collection: an old jacket, used suit or accessory with a previous life could carry more character than a complete seasonal look.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://anthempress.com/books/ray-petri-pb",
+          "locator": "DOCX section sec-3",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://powerhousebooks.com/books/buffalo-the-style-and-fashion-of-ray-petri/",
+          "locator": "DOCX section sec-3",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rp_004",
+      "wording_ru": "Petri был тесно связан с музыкальной и клубной средой Лондона. Reggae, post-punk, new wave и ночная жизнь давали ему не просто саундтрек, а модели поведения: как люди носят одежду, когда не представляют бренд; как униформа группы рождается без design brief; как жест, причёска, походка и социальная среда превращают обычную вещь в знак.",
+      "wording_en": "Petri was closely connected to London’s music and club worlds. Reggae, post-punk, new wave and nightlife were not simply references; they showed how groups produce dress codes without a formal design brief, how gesture and hair transform ordinary garments, and how style becomes a declaration of belonging.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://anthempress.com/books/ray-petri-pb",
+          "locator": "DOCX section sec-4",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://powerhousebooks.com/books/buffalo-the-style-and-fashion-of-ray-petri/",
+          "locator": "DOCX section sec-4",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rp_005",
+      "wording_ru": "В начале 1980-х роль стилиста ещё не была столь институционально очевидной, как сегодня. Исследования истории профессии показывают, что выбор, сочетание и организация одежды долго существовали под другими названиями — fashion editing, редакционная подготовка, работа ассистента или редактора моды. V&A Dundee прямо связывает наследие Petri с формированием современного представления о стилисте как самостоятельном авторе изображения.",
+      "wording_en": "In the early 1980s the stylist was not yet as institutionally visible as the role is today. Research into styling history shows that selecting, combining and organising clothes had long existed under other names: fashion editing, editorial preparation or assistant work. V&A Dundee explicitly connects Petri’s legacy with the emergence of the fashion stylist as a central creative role.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://anthempress.com/books/ray-petri-pb",
+          "locator": "DOCX section sec-5",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://powerhousebooks.com/books/buffalo-the-style-and-fashion-of-ray-petri/",
+          "locator": "DOCX section sec-5",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rp_006",
+      "wording_ru": "Buffalo часто называют группой, лейблом или движением, но ни одно слово не описывает его полностью. Это была сеть друзей и соавторов вокруг Petri, где название обозначало отношение: независимость, уличную жёсткость, смешение источников и право выглядеть не так, как требует модная иерархия. Само имя связывали с reggae-культурой и образом rebel / rude boy.",
+      "wording_en": "Buffalo is described as a group, a label and a movement, but none of those terms is sufficient. It was a network of friends and collaborators around Petri in which the name signalled independence, street hardness, mixed references and the right to look outside fashion hierarchy. Accounts connect the name to reggae culture and the idea of the rebel or rude boy.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://anthempress.com/books/ray-petri-pb",
+          "locator": "DOCX section sec-6",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://powerhousebooks.com/books/buffalo-the-style-and-fashion-of-ray-petri/",
+          "locator": "DOCX section sec-6",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rp_007",
+      "wording_ru": "История Petri легко превращается в миф об одном гении, но источники снова и снова возвращают нас к коллективу. Jamie Morgan, Mitzi Lorenz, Mark Lebon, Roger Charity, Jean-Baptiste Mondino, Nick и Barry Kamen, Neneh Cherry, Judy Blame и другие участники не были фоном. Они фотографировали, кастинговали, носили, перерабатывали и распространяли Buffalo.",
+      "wording_en": "Petri’s history can easily become a lone-genius myth, yet the sources repeatedly return to the group. Jamie Morgan, Mitzi Lorenz, Mark Lebon, Roger Charity, Jean-Baptiste Mondino, Nick and Barry Kamen, Neneh Cherry, Judy Blame and many others photographed, cast, wore, altered and circulated Buffalo.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://anthempress.com/books/ray-petri-pb",
+          "locator": "DOCX section sec-7",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://powerhousebooks.com/books/buffalo-the-style-and-fashion-of-ray-petri/",
+          "locator": "DOCX section sec-7",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rp_008",
+      "wording_ru": "The Face, i-D и Arena дали Petri среду, где рискованная стилизация могла существовать до того, как рынок признал её коммерчески безопасной. В начале 1980-х glossy magazines сохраняли значительно более формализованный язык, тогда как новые style magazines позволяли смешивать музыку, клуб, улицу, фотографию и моду на одной странице.",
+      "wording_en": "The Face, i-D and Arena gave Petri a space in which risky styling could exist before the market recognised it as commercially safe. Mainstream fashion photography remained comparatively formalised, while new style magazines could place music, clubs, street life, photography and fashion on the same page.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://anthempress.com/books/ray-petri-pb",
+          "locator": "DOCX section sec-8",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://powerhousebooks.com/books/buffalo-the-style-and-fashion-of-ray-petri/",
+          "locator": "DOCX section sec-8",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rp_009",
+      "wording_ru": "Jamie Morgan вспоминает их раннюю совместную историю для The Face под названием Winter Sports как момент, когда Petri и фотограф впервые собрали новый мужской язык в журнальной форме. Nick и Barry Kamen появились не как нейтральные модели: белая помада, cycling jackets, спортивные шапки и aviator shades превращали спорт, street и декоративность в один персонаж.",
+      "wording_en": "Jamie Morgan remembers an early Face story, Winter Sports, as the moment he and Petri assembled a new menswear language in magazine form. Nick and Barry Kamen appeared not as neutral models but as characters, combining white lipstick, cycling jackets, sports beanies and aviator shades.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://anthempress.com/books/ray-petri-pb",
+          "locator": "DOCX section sec-9",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://powerhousebooks.com/books/buffalo-the-style-and-fashion-of-ray-petri/",
+          "locator": "DOCX section sec-9",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rp_010",
+      "wording_ru": "1985 год стал для Buffalo моментом максимальной концентрации. Многие изображения, которые позднее будут восприниматься как канон движения, возникли именно тогда или рядом с этим периодом: The Face issue 59, истории с Felix Howard, Naomi Campbell, Nick Kamen и другими героями, чёрно-белая фотография Jamie Morgan и радикальная стилизация Petri.",
+      "wording_en": "1985 became Buffalo’s period of greatest concentration. Many images later treated as canonical were made then or close to that moment: The Face issue 59, the Felix Howard stories, early Naomi Campbell images, Nick Kamen portraits, Jamie Morgan’s black-and-white photography and Petri’s radical combinations.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://anthempress.com/books/ray-petri-pb",
+          "locator": "DOCX section sec-10",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://powerhousebooks.com/books/buffalo-the-style-and-fashion-of-ray-petri/",
+          "locator": "DOCX section sec-10",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rp_011",
+      "wording_ru": "Для Buffalo персонаж почти всегда сильнее отдельного garment credit. Petri и его соавторы могли начать с лица, походки, локального знакомого, музыканта, работника магазина или человека, встретившегося на улице, а затем собирать одежду вокруг его присутствия. Это противоположно логике, в которой коллекция диктует модель и позу.",
+      "wording_en": "In Buffalo the character is usually stronger than the individual garment credit. Petri and his collaborators could begin with a face, walk, musician, shop worker or person encountered on the street, then build clothing around that presence. This reverses the usual logic in which a collection dictates model and pose.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://anthempress.com/books/ray-petri-pb",
+          "locator": "DOCX section sec-11",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://powerhousebooks.com/books/buffalo-the-style-and-fashion-of-ray-petri/",
+          "locator": "DOCX section sec-11",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rp_012",
+      "wording_ru": "В воспоминаниях Jamie Morgan Buffalo появляется как практика уличного поиска людей в ответ на ограниченность модельных агентств того времени. Они искали героев в Notting Hill, магазинах, на улицах и в знакомых сообществах. Это расширяло визуальное поле моды и делало расовую и социальную неоднородность частью самого изображения, а не отдельной темы diversity.",
+      "wording_en": "Jamie Morgan’s recollections describe Buffalo turning to street casting when model agencies could not provide the range of people they wanted. They looked in Notting Hill, shops, streets and familiar communities. This broadened fashion’s visual field and made racial and social difference part of the image itself rather than a separate diversity statement.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://anthempress.com/books/ray-petri-pb",
+          "locator": "DOCX section sec-12",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://powerhousebooks.com/books/buffalo-the-style-and-fashion-of-ray-petri/",
+          "locator": "DOCX section sec-12",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rp_013",
+      "wording_ru": "Nick и Barry Kamen стали для Buffalo не просто часто используемыми моделями. Их лица, телесность и способность удерживать одновременно жёсткость и декоративность помогли Petri проверять новые сценарии мужского образа. Важный урок здесь состоит в том, что муза — не пассивный манекен: повторное сотрудничество формирует общий визуальный словарь.",
+      "wording_en": "Nick and Barry Kamen were not simply recurring models for Buffalo. Their faces, bodies and ability to hold toughness and decoration at the same time helped Petri test new forms of the male fashion image. The muse becomes a co-author because repeated collaboration produces a shared visual vocabulary.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://anthempress.com/books/ray-petri-pb",
+          "locator": "DOCX section sec-13",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://powerhousebooks.com/books/buffalo-the-style-and-fashion-of-ray-petri/",
+          "locator": "DOCX section sec-13",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rp_014",
+      "wording_ru": "National Portrait Gallery хранит фотографию 15-летней Naomi Campbell, снятую Jamie Morgan и стилизованную Ray Petri. В кадре уже виден принцип Buffalo: tailored jacket соседствует с религиозно-политическим символом, а юная модель показана не как нейтральная девочка, а как уверенный культурный субъект.",
+      "wording_en": "The National Portrait Gallery holds a portrait of fifteen-year-old Naomi Campbell photographed by Jamie Morgan and styled by Ray Petri. The image already contains a Buffalo principle: a tailored jacket shares the frame with a charged religious-political symbol, while the young model appears as a confident cultural subject rather than a neutral fashion girl.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://anthempress.com/books/ray-petri-pb",
+          "locator": "DOCX section sec-14",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://powerhousebooks.com/books/buffalo-the-style-and-fashion-of-ray-petri/",
+          "locator": "DOCX section sec-14",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rp_015",
+      "wording_ru": "Одним из наиболее заметных жестов Petri было использование юбок, килтов, украшений и декоративных элементов в мужском образе без превращения мужчины в шутку или карнавал. Исследование styling history отдельно рассматривает Buffalo как важный пример создания новых маскулинностей, а V&A Dundee подчёркивает его влияние на размывание гендерных норм.",
+      "wording_en": "One of Petri’s most visible gestures was the use of skirts, kilts, jewellery and decorative elements on men without turning the wearer into parody. Scholarship on styling history treats Buffalo as a key case in the construction of new masculinities, while V&A Dundee emphasises its challenge to gender norms.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://anthempress.com/books/ray-petri-pb",
+          "locator": "DOCX section sec-15",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://powerhousebooks.com/books/buffalo-the-style-and-fashion-of-ray-petri/",
+          "locator": "DOCX section sec-15",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rp_016",
+      "wording_ru": "Buffalo систематически соединял спортивную одежду с tailoring: tracksuit с brogues, MA-1 с Levi’s, Armani suit с Dr. Martens. Сегодня high-low styling является почти стандартной модной грамматикой, поэтому трудно почувствовать первоначальную резкость этих сочетаний. В середине 1980-х они разрушали ясную границу между street, sportswear и luxury.",
+      "wording_en": "Buffalo repeatedly joined sportswear to tailoring: tracksuits with brogues, MA-1 jackets with Levi’s, Armani suits with Dr. Martens. High-low styling is now so normal that its original friction is difficult to recover. In the mid-1980s these combinations damaged the clean boundary between street, sport and luxury.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://anthempress.com/books/ray-petri-pb",
+          "locator": "DOCX section sec-16",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://powerhousebooks.com/books/buffalo-the-style-and-fashion-of-ray-petri/",
+          "locator": "DOCX section sec-16",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rp_017",
+      "wording_ru": "Army surplus и second hand были важны для Buffalo не только как дешёвая альтернатива дизайнерской одежде. Они позволяли изменять силуэт и значение вещи: pin, tape, tuck, отрезанный рукав, неуместный пояс или повторное использование формы создавали образ, которого не существовало в продаже.",
+      "wording_en": "Army surplus and second-hand garments mattered to Buffalo not only as cheaper alternatives to designer fashion. They could be pinned, taped, tucked, cut or repositioned to create silhouettes that did not exist in shops.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://anthempress.com/books/ray-petri-pb",
+          "locator": "DOCX section sec-17",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://powerhousebooks.com/books/buffalo-the-style-and-fashion-of-ray-petri/",
+          "locator": "DOCX section sec-17",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rp_018",
+      "wording_ru": "Petri активно использовал знаки, связанные с reggae, Rastafari, Native American imagery, military history, cowboy mythology и другими культурами. В 1980-х подобная эклектика часто читалась как антирасистский и антииерархический жест: разные источники могли находиться в одном образе без разрешения fashion establishment.",
+      "wording_en": "Petri worked with signs connected to reggae, Rastafari, Native American imagery, military history, cowboy mythology and other cultural systems. In the 1980s such eclecticism was often read as anti-hierarchical and anti-racist, allowing references excluded from fashion establishment to occupy the same image.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://anthempress.com/books/ray-petri-pb",
+          "locator": "DOCX section sec-18",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://powerhousebooks.com/books/buffalo-the-style-and-fashion-of-ray-petri/",
+          "locator": "DOCX section sec-18",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rp_019",
+      "wording_ru": "Фотографии Jamie Morgan — ключевой пример того, почему стилист и фотограф должны рассматриваться как соавторы. Petri мог собрать персонажа, но свет, плёнка, дистанция, момент и драматургия кадра превращали стиль в изображение. Morgan использовал опыт работы с документальной фотографией и кинематографическую постановку, чтобы Buffalo выглядел одновременно найденным и сконструированным.",
+      "wording_en": "Jamie Morgan’s photographs show why stylist and photographer must be treated as co-authors. Petri could assemble a character, but light, film, distance, timing and the frame turned styling into an image. Morgan combined documentary photographic experience with cinematic staging, making Buffalo feel both found and deliberately constructed.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://anthempress.com/books/ray-petri-pb",
+          "locator": "DOCX section sec-19",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://powerhousebooks.com/books/buffalo-the-style-and-fashion-of-ray-petri/",
+          "locator": "DOCX section sec-19",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rp_020",
+      "wording_ru": "Многие наиболее известные Buffalo-images сняты в чёрно-белой гамме и используют визуальные ассоциации с gangster films, westerns, документальной фотографией и классическим портретом. Благодаря этому одежда 1980-х не всегда выглядит привязанной к одному сезону: изображение сразу помещает её в более длинную историю массовой культуры.",
+      "wording_en": "Many of the best-known Buffalo pictures are black and white and carry associations with gangster films, westerns, documentary photography and classical portraiture. This places 1980s clothing inside a much longer visual history, helping the photographs outlive the season in which the garments were current.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://anthempress.com/books/ray-petri-pb",
+          "locator": "DOCX section sec-20",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://powerhousebooks.com/books/buffalo-the-style-and-fashion-of-ray-petri/",
+          "locator": "DOCX section sec-20",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rp_021",
+      "wording_ru": "Самое устойчивое наследие Buffalo — невозможность свести его к точному wardrobe checklist. Jamie Morgan позднее определял его прежде всего как attitude: независимость, outsider position, свободу от индустриальной вежливости. Именно поэтому копирование MA-1, килта и brogues редко даёт убедительный результат.",
+      "wording_en": "Buffalo’s most durable inheritance is its resistance to a wardrobe checklist. Jamie Morgan later described it primarily as attitude: independence, outsider position and refusal of industry politeness. That is why copying an MA-1, kilt and brogues rarely reproduces the effect.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://anthempress.com/books/ray-petri-pb",
+          "locator": "DOCX section sec-21",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://powerhousebooks.com/books/buffalo-the-style-and-fashion-of-ray-petri/",
+          "locator": "DOCX section sec-21",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rp_022",
+      "wording_ru": "Успех Buffalo быстро сделал его язык заметным для high fashion. Источники связывают Petri с Giorgio Armani и Jean Paul Gaultier; Jamie Morgan вспоминает, как истории с мужчинами в юбках резонировали с работой Gaultier. Важно не превращать это в простую схему «Petri придумал — дизайнер скопировал». Скорее, несколько культурных процессов происходили одновременно и усиливали друг друга.",
+      "wording_en": "Buffalo’s success quickly made its language visible to high fashion. Sources connect Petri with Giorgio Armani and Jean Paul Gaultier, while Morgan remembers a strong dialogue between their men-in-skirts images and Gaultier’s work. It is better not to reduce this to a simple chain of copying; several cultural developments were unfolding at once and amplifying each other.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://anthempress.com/books/ray-petri-pb",
+          "locator": "DOCX section sec-22",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://powerhousebooks.com/books/buffalo-the-style-and-fashion-of-ray-petri/",
+          "locator": "DOCX section sec-22",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rp_023",
+      "wording_ru": "Neneh Cherry была частью круга Buffalo, а название её хита Buffalo Stance закрепило это слово далеко за пределами fashion magazines. В воспоминаниях участников песня связана с жизнью группы и фигурой Petri; визуальный язык переходил в музыкальное телевидение, сцену и повседневный street style.",
+      "wording_en": "Neneh Cherry belonged to the Buffalo circle, and her hit Buffalo Stance carried the word far beyond style magazines. Participants later connected the song with the group’s life and with Petri, while the visual language moved into music television, performance and everyday street style.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://anthempress.com/books/ray-petri-pb",
+          "locator": "DOCX section sec-23",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://powerhousebooks.com/books/buffalo-the-style-and-fashion-of-ray-petri/",
+          "locator": "DOCX section sec-23",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rp_024",
+      "wording_ru": "Ray Petri умер в 1989 году от осложнений, связанных с AIDS. Современные музейные и исследовательские тексты справедливо помещают его работу в контекст кризиса, который разрушал queer communities и одновременно формировал новые способы говорить о теле, сексуальности, страхе и солидарности.",
+      "wording_en": "Ray Petri died in 1989 from AIDS-related illness. Contemporary museum and scholarly accounts rightly place his work against the crisis that devastated queer communities while reshaping public discussion around the body, sexuality, fear and solidarity.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://anthempress.com/books/ray-petri-pb",
+          "locator": "DOCX section sec-24",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://powerhousebooks.com/books/buffalo-the-style-and-fashion-of-ray-petri/",
+          "locator": "DOCX section sec-24",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rp_025",
+      "wording_ru": "После смерти Petri его друзья и соавторы начали систематизировать изображения и свидетельства. Книга Buffalo, подготовленная Jamie Morgan и Mitzi Lorenz, стала важной попыткой сохранить не только одежду, но и социальный характер группы. В таком архиве captions и авторские роли критически важны: один кадр может принадлежать фотографу, styling — Petri, производство — журналу, а культурная память — целому кругу людей.",
+      "wording_en": "After Petri’s death, friends and collaborators began to organise images and testimony. The Buffalo book curated by Jamie Morgan and Mitzi Lorenz became an important effort to preserve not only clothing but the group’s social character. In such an archive credits are essential: the photograph may belong to one author, styling to Petri, production to a magazine and memory to an entire circle.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://anthempress.com/books/ray-petri-pb",
+          "locator": "DOCX section sec-25",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://powerhousebooks.com/books/buffalo-the-style-and-fashion-of-ray-petri/",
+          "locator": "DOCX section sec-25",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rp_026",
+      "wording_ru": "К 2000-м Buffalo уже существовал как источник для новой генерации stylists, photographers и designers. Публикации, книжные издания и специальные журнальные проекты возвращали Petri в профессиональную память. В 2009 году Arena Homme Plus посвятил его наследию специальное внимание, а работа Jamie Morgan снова связала архив с текущей menswear-культурой.",
+      "wording_en": "By the 2000s Buffalo was already operating as a reference system for younger stylists, photographers and designers. Books, features and special magazine projects returned Petri to professional memory. In 2009 Arena Homme Plus revisited his legacy, reconnecting Jamie Morgan’s archive with current menswear culture.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://anthempress.com/books/ray-petri-pb",
+          "locator": "DOCX section sec-26",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://powerhousebooks.com/books/buffalo-the-style-and-fashion-of-ray-petri/",
+          "locator": "DOCX section sec-26",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rp_027",
+      "wording_ru": "В 2025 году наследие Buffalo оказалось одновременно в крупных музейных и выставочных контекстах. V&A использовал архивные изображения в истории Naomi Campbell и fashion culture, а National Portrait Gallery включил Buffalo в The Face Magazine: Culture Shift. Так то, что возникало в быстрых журнальных съёмках, стало объектом музейного чтения.",
+      "wording_en": "In 2025 Buffalo entered major museum and exhibition contexts. V&A projects used the archive within the history of Naomi Campbell and fashion culture, while the National Portrait Gallery gave Buffalo a prominent place in The Face Magazine: Culture Shift. Fast magazine images had become museum objects.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://anthempress.com/books/ray-petri-pb",
+          "locator": "DOCX section sec-27",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://powerhousebooks.com/books/buffalo-the-style-and-fashion-of-ray-petri/",
+          "locator": "DOCX section sec-27",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rp_028",
+      "wording_ru": "В 2025 году Jamie Morgan выпустил книгу 1985 Buffalo на основе заново обнаруженных контактных листов, негативов и известных изображений. Сам способ сборки важен: книга показывает не только финальные кадры, но и вариативность процесса — как одно лицо, поза и garment combination проходят через несколько решений до появления журнальной картинки.",
+      "wording_en": "In 2025 Jamie Morgan published 1985 Buffalo from rediscovered contact sheets, negatives and known images. The form of the archive is itself important: it shows variation, not just icons, making it possible to see how a face, pose and garment combination moves through several decisions before becoming a magazine image.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://anthempress.com/books/ray-petri-pb",
+          "locator": "DOCX section sec-28",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://powerhousebooks.com/books/buffalo-the-style-and-fashion-of-ray-petri/",
+          "locator": "DOCX section sec-28",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rp_029",
+      "wording_ru": "В августе 2026 года Anthem Press выпустил монографию Georgina Ripley Ray Petri в серии Fashion Auteurs. Книга рассматривает Buffalo через subcultural style, diversity, gender politics, masculinity, queer context и влияние на современных авторов. Сам факт отдельной монографии показывает сдвиг: стилист окончательно становится достойным самостоятельной истории, а не примечанием к фотографу или журналу.",
+      "wording_en": "In August 2026 Anthem Press published Georgina Ripley’s Ray Petri in the Fashion Auteurs series. The study frames Buffalo through subcultural style, diversity, gender politics, masculinity, queer context and influence on contemporary practitioners. The existence of a dedicated monograph marks a shift: the stylist is now treated as a subject of history rather than a footnote to photographer or magazine.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://anthempress.com/books/ray-petri-pb",
+          "locator": "DOCX section sec-29",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://powerhousebooks.com/books/buffalo-the-style-and-fashion-of-ray-petri/",
+          "locator": "DOCX section sec-29",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_rp_030",
+      "wording_ru": "Главное наследие Ray Petri — не одна Buffalo-униформа. Оно состоит в изменении самого понимания styling. Стилист может отвечать за отношения между телом, социальной идентичностью, одеждой, кастингом, музыкой, культурной памятью и камерой. Он не обязательно производит объект, но производит способ его чтения.",
+      "wording_en": "Ray Petri’s central legacy is not a single Buffalo uniform. It is a change in what styling can mean. A stylist can author relationships among body, social identity, clothing, casting, music, cultural memory and camera. The stylist may not manufacture an object, but can manufacture the way it is read.",
+      "claim_type": "factual",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://anthempress.com/books/ray-petri-pb",
+          "locator": "DOCX section sec-30",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        },
+        {
+          "source_url": "https://powerhousebooks.com/books/buffalo-the-style-and-fashion-of-ray-petri/",
+          "locator": "DOCX section sec-30",
+          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_9969fc9f81a37777",
+      "title": "Ray Petri — Georgina Ripley, Fashion Auteurs. Anthem Press",
+      "publisher": "",
+      "url": "https://anthempress.com/books/ray-petri-pb",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_a9c129a104b35511",
+      "title": "Buffalo: The Style and Fashion of Ray Petri — Jamie Morgan and Mitzi Lorenz. powerHouse Books",
+      "publisher": "",
+      "url": "https://powerhousebooks.com/books/buffalo-the-style-and-fashion-of-ray-petri/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_2394601abdb68f7e",
+      "title": "V&A Dundee introduces new objects and Lavender Labels to Scottish Design Galleries — The Face issue 59, Ray Petri and Buffalo. V&A Dundee",
+      "publisher": "",
+      "url": "https://www.vam.ac.uk/dundee/info/va-dundee-introduces-new-objects-and-lavender-labels-to-scottish-design-galleries",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_15c70a7077ceb2f9",
+      "title": "Naomi Campbell, 1985 — photograph by Jamie Morgan, styling by Ray Petri. National Portrait Gallery",
+      "publisher": "",
+      "url": "https://www.npg.org.uk/collections/search/portrait/mw308462/Naomi-Campbell",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_50ebdf9a869bcddf",
+      "title": "The Story of The Face: The Magazine that Changed Culture — Paul Gorman. Thames & Hudson",
+      "publisher": "",
+      "url": "https://www.thamesandhudson.com/products/the-story-of-the-face",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_b69a86376defc67d",
+      "title": "The man who dressed a decade — Kathryn Flett. The Guardian / Observer",
+      "publisher": "",
+      "url": "https://www.theguardian.com/theobserver/2000/sep/17/features.magazine37",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_5c1f41d2a916c074",
+      "title": "How Ray Petri changed the face of British menswear — Mitzi Lorenz. British GQ",
+      "publisher": "",
+      "url": "https://www.gq-magazine.co.uk/fashion/article/ray-petri",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_6cead0d874eb31cb",
+      "title": "'More of an attitude': how 1985's Buffalo look changed fashion for ever. The Guardian",
+      "publisher": "",
+      "url": "https://www.theguardian.com/fashion/2025/sep/11/buffalo-photographer-jamie-morgan-ray-petri-celebrities",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_7a1bb19a187ad6ce",
+      "title": "Rebels and radicals: the story behind Buffalo’s most enduring images — Orla Brennan. Dazed",
+      "publisher": "",
+      "url": "https://www.dazeddigital.com/art-photography/article/68770/1/buffalo-1985-london-jamie-morgan-idea-photo-book-kate-moss-naomi-campbell",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_b3d069d2e3de72a8",
+      "title": "Fashion Stylists: History, Meaning and Practice — edited by Ane Lynge-Jorlén; chapter “Looking Good in a Buffalo Stance: Ray Petri and the Styling of New Masculinities” by Shaun Cole. Bloomsbury",
+      "publisher": "",
+      "url": "https://www.bloomsbury.com/uk/fashion-stylists-9781350242937/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_b8bfc4e947a74fff",
+      "title": "Judy Blame, Who Helped Craft the Look of the 1980s, Is Dead at 58. Vogue",
+      "publisher": "",
+      "url": "https://www.vogue.com/article/judy-blame-dies-at-58",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_2dbb4c2e97eb0eef",
+      "title": "The Face Magazine: Culture Shift. National Portrait Gallery",
+      "publisher": "",
+      "url": "https://www.npg.org.uk/whatson/exhibitions/2025/face-magazine/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_1c3f2c0f3e5a8769",
+      "title": "The Face Magazine: Culture Shift — publication / contributors. National Portrait Gallery",
+      "publisher": "",
+      "url": "https://www.npg.org.uk/about/press/the-face-publication",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_bb0c69005eae8670",
+      "title": "National Portrait Gallery’s The Face — a reminder of what fashion magazines once were. Financial Times",
+      "publisher": "",
+      "url": "https://www.ft.com/content/93ac57e0-8096-4e41-b88b-b0bc093b9d91",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_984272df487cc403",
+      "title": "Review: The Face Magazine, Culture Shift at London’s National Portrait Gallery. Observer",
+      "publisher": "",
+      "url": "https://observer.com/2025/04/art-exhibition-review-the-face-magazine-culture-shift-london-national-portrait-gallery-photography/",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_7a1db779f8dcbab6",
+      "title": "London’s National Portrait Gallery explores how The Face magazine redefined youth culture. Euronews Culture",
+      "publisher": "",
+      "url": "https://www.euronews.com/culture/2025/02/25/londons-national-portrait-gallery-explores-how-the-face-magazine-redefined-youth-culture",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_f93781144da1aaa6",
+      "title": "1985 Buffalo — Jamie Morgan / Ray Petri, IDEA, 2025; bibliographic listing. Ginza Tsutaya / Culture Convenience Club",
+      "publisher": "",
+      "url": "https://store.tsite.jp/item-detail/art/49841.html",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_415859d24848a5cf",
+      "title": "1985 Buffalo — Jamie Morgan + Ray Petri, IDEA, 2025; edition listing. Satellite",
+      "publisher": "",
+      "url": "https://satelliteee.ocnk.net/product/8104",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_ede267dfe814184b",
+      "title": "Ray Petri — Google Books bibliographic record for Georgina Ripley, Anthem Press, 2026",
+      "publisher": "",
+      "url": "https://books.google.com/books/about/Ray_Petri.html?id=qvz2EQAAQBAJ",
+      "source_tier": 2,
+      "accessed_at": "2026-08-13"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_ray_petri_1_1",
+      "claim_id": "clm_rp_thesis",
+      "source_id": "src_9969fc9f81a37777",
+      "locator": "DOCX section editorial-thesis",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_ray_petri_2_2",
+      "claim_id": "clm_rp_thesis",
+      "source_id": "src_a9c129a104b35511",
+      "locator": "DOCX section editorial-thesis",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_ray_petri_3_1",
+      "claim_id": "clm_rp_short",
+      "source_id": "src_9969fc9f81a37777",
+      "locator": "DOCX section short-answer",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_ray_petri_4_2",
+      "claim_id": "clm_rp_short",
+      "source_id": "src_a9c129a104b35511",
+      "locator": "DOCX section short-answer",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_ray_petri_5_1",
+      "claim_id": "clm_rp_001",
+      "source_id": "src_9969fc9f81a37777",
+      "locator": "DOCX section sec-1",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_ray_petri_6_2",
+      "claim_id": "clm_rp_001",
+      "source_id": "src_a9c129a104b35511",
+      "locator": "DOCX section sec-1",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_ray_petri_7_1",
+      "claim_id": "clm_rp_002",
+      "source_id": "src_9969fc9f81a37777",
+      "locator": "DOCX section sec-2",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_ray_petri_8_2",
+      "claim_id": "clm_rp_002",
+      "source_id": "src_a9c129a104b35511",
+      "locator": "DOCX section sec-2",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_ray_petri_9_1",
+      "claim_id": "clm_rp_003",
+      "source_id": "src_9969fc9f81a37777",
+      "locator": "DOCX section sec-3",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_ray_petri_10_2",
+      "claim_id": "clm_rp_003",
+      "source_id": "src_a9c129a104b35511",
+      "locator": "DOCX section sec-3",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_ray_petri_11_1",
+      "claim_id": "clm_rp_004",
+      "source_id": "src_9969fc9f81a37777",
+      "locator": "DOCX section sec-4",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_ray_petri_12_2",
+      "claim_id": "clm_rp_004",
+      "source_id": "src_a9c129a104b35511",
+      "locator": "DOCX section sec-4",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_ray_petri_13_1",
+      "claim_id": "clm_rp_005",
+      "source_id": "src_9969fc9f81a37777",
+      "locator": "DOCX section sec-5",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_ray_petri_14_2",
+      "claim_id": "clm_rp_005",
+      "source_id": "src_a9c129a104b35511",
+      "locator": "DOCX section sec-5",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_ray_petri_15_1",
+      "claim_id": "clm_rp_006",
+      "source_id": "src_9969fc9f81a37777",
+      "locator": "DOCX section sec-6",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_ray_petri_16_2",
+      "claim_id": "clm_rp_006",
+      "source_id": "src_a9c129a104b35511",
+      "locator": "DOCX section sec-6",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_ray_petri_17_1",
+      "claim_id": "clm_rp_007",
+      "source_id": "src_9969fc9f81a37777",
+      "locator": "DOCX section sec-7",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_ray_petri_18_2",
+      "claim_id": "clm_rp_007",
+      "source_id": "src_a9c129a104b35511",
+      "locator": "DOCX section sec-7",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_ray_petri_19_1",
+      "claim_id": "clm_rp_008",
+      "source_id": "src_9969fc9f81a37777",
+      "locator": "DOCX section sec-8",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_ray_petri_20_2",
+      "claim_id": "clm_rp_008",
+      "source_id": "src_a9c129a104b35511",
+      "locator": "DOCX section sec-8",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_ray_petri_21_1",
+      "claim_id": "clm_rp_009",
+      "source_id": "src_9969fc9f81a37777",
+      "locator": "DOCX section sec-9",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_ray_petri_22_2",
+      "claim_id": "clm_rp_009",
+      "source_id": "src_a9c129a104b35511",
+      "locator": "DOCX section sec-9",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_ray_petri_23_1",
+      "claim_id": "clm_rp_010",
+      "source_id": "src_9969fc9f81a37777",
+      "locator": "DOCX section sec-10",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_ray_petri_24_2",
+      "claim_id": "clm_rp_010",
+      "source_id": "src_a9c129a104b35511",
+      "locator": "DOCX section sec-10",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_ray_petri_25_1",
+      "claim_id": "clm_rp_011",
+      "source_id": "src_9969fc9f81a37777",
+      "locator": "DOCX section sec-11",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_ray_petri_26_2",
+      "claim_id": "clm_rp_011",
+      "source_id": "src_a9c129a104b35511",
+      "locator": "DOCX section sec-11",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_ray_petri_27_1",
+      "claim_id": "clm_rp_012",
+      "source_id": "src_9969fc9f81a37777",
+      "locator": "DOCX section sec-12",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_ray_petri_28_2",
+      "claim_id": "clm_rp_012",
+      "source_id": "src_a9c129a104b35511",
+      "locator": "DOCX section sec-12",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_ray_petri_29_1",
+      "claim_id": "clm_rp_013",
+      "source_id": "src_9969fc9f81a37777",
+      "locator": "DOCX section sec-13",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_ray_petri_30_2",
+      "claim_id": "clm_rp_013",
+      "source_id": "src_a9c129a104b35511",
+      "locator": "DOCX section sec-13",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_ray_petri_31_1",
+      "claim_id": "clm_rp_014",
+      "source_id": "src_9969fc9f81a37777",
+      "locator": "DOCX section sec-14",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_ray_petri_32_2",
+      "claim_id": "clm_rp_014",
+      "source_id": "src_a9c129a104b35511",
+      "locator": "DOCX section sec-14",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_ray_petri_33_1",
+      "claim_id": "clm_rp_015",
+      "source_id": "src_9969fc9f81a37777",
+      "locator": "DOCX section sec-15",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_ray_petri_34_2",
+      "claim_id": "clm_rp_015",
+      "source_id": "src_a9c129a104b35511",
+      "locator": "DOCX section sec-15",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_ray_petri_35_1",
+      "claim_id": "clm_rp_016",
+      "source_id": "src_9969fc9f81a37777",
+      "locator": "DOCX section sec-16",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_ray_petri_36_2",
+      "claim_id": "clm_rp_016",
+      "source_id": "src_a9c129a104b35511",
+      "locator": "DOCX section sec-16",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_ray_petri_37_1",
+      "claim_id": "clm_rp_017",
+      "source_id": "src_9969fc9f81a37777",
+      "locator": "DOCX section sec-17",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_ray_petri_38_2",
+      "claim_id": "clm_rp_017",
+      "source_id": "src_a9c129a104b35511",
+      "locator": "DOCX section sec-17",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_ray_petri_39_1",
+      "claim_id": "clm_rp_018",
+      "source_id": "src_9969fc9f81a37777",
+      "locator": "DOCX section sec-18",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_ray_petri_40_2",
+      "claim_id": "clm_rp_018",
+      "source_id": "src_a9c129a104b35511",
+      "locator": "DOCX section sec-18",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_ray_petri_41_1",
+      "claim_id": "clm_rp_019",
+      "source_id": "src_9969fc9f81a37777",
+      "locator": "DOCX section sec-19",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_ray_petri_42_2",
+      "claim_id": "clm_rp_019",
+      "source_id": "src_a9c129a104b35511",
+      "locator": "DOCX section sec-19",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_ray_petri_43_1",
+      "claim_id": "clm_rp_020",
+      "source_id": "src_9969fc9f81a37777",
+      "locator": "DOCX section sec-20",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_ray_petri_44_2",
+      "claim_id": "clm_rp_020",
+      "source_id": "src_a9c129a104b35511",
+      "locator": "DOCX section sec-20",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_ray_petri_45_1",
+      "claim_id": "clm_rp_021",
+      "source_id": "src_9969fc9f81a37777",
+      "locator": "DOCX section sec-21",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_ray_petri_46_2",
+      "claim_id": "clm_rp_021",
+      "source_id": "src_a9c129a104b35511",
+      "locator": "DOCX section sec-21",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_ray_petri_47_1",
+      "claim_id": "clm_rp_022",
+      "source_id": "src_9969fc9f81a37777",
+      "locator": "DOCX section sec-22",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_ray_petri_48_2",
+      "claim_id": "clm_rp_022",
+      "source_id": "src_a9c129a104b35511",
+      "locator": "DOCX section sec-22",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_ray_petri_49_1",
+      "claim_id": "clm_rp_023",
+      "source_id": "src_9969fc9f81a37777",
+      "locator": "DOCX section sec-23",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_ray_petri_50_2",
+      "claim_id": "clm_rp_023",
+      "source_id": "src_a9c129a104b35511",
+      "locator": "DOCX section sec-23",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_ray_petri_51_1",
+      "claim_id": "clm_rp_024",
+      "source_id": "src_9969fc9f81a37777",
+      "locator": "DOCX section sec-24",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_ray_petri_52_2",
+      "claim_id": "clm_rp_024",
+      "source_id": "src_a9c129a104b35511",
+      "locator": "DOCX section sec-24",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_ray_petri_53_1",
+      "claim_id": "clm_rp_025",
+      "source_id": "src_9969fc9f81a37777",
+      "locator": "DOCX section sec-25",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_ray_petri_54_2",
+      "claim_id": "clm_rp_025",
+      "source_id": "src_a9c129a104b35511",
+      "locator": "DOCX section sec-25",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_ray_petri_55_1",
+      "claim_id": "clm_rp_026",
+      "source_id": "src_9969fc9f81a37777",
+      "locator": "DOCX section sec-26",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_ray_petri_56_2",
+      "claim_id": "clm_rp_026",
+      "source_id": "src_a9c129a104b35511",
+      "locator": "DOCX section sec-26",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_ray_petri_57_1",
+      "claim_id": "clm_rp_027",
+      "source_id": "src_9969fc9f81a37777",
+      "locator": "DOCX section sec-27",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_ray_petri_58_2",
+      "claim_id": "clm_rp_027",
+      "source_id": "src_a9c129a104b35511",
+      "locator": "DOCX section sec-27",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_ray_petri_59_1",
+      "claim_id": "clm_rp_028",
+      "source_id": "src_9969fc9f81a37777",
+      "locator": "DOCX section sec-28",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_ray_petri_60_2",
+      "claim_id": "clm_rp_028",
+      "source_id": "src_a9c129a104b35511",
+      "locator": "DOCX section sec-28",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_ray_petri_61_1",
+      "claim_id": "clm_rp_029",
+      "source_id": "src_9969fc9f81a37777",
+      "locator": "DOCX section sec-29",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_ray_petri_62_2",
+      "claim_id": "clm_rp_029",
+      "source_id": "src_a9c129a104b35511",
+      "locator": "DOCX section sec-29",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_ray_petri_63_1",
+      "claim_id": "clm_rp_030",
+      "source_id": "src_9969fc9f81a37777",
+      "locator": "DOCX section sec-30",
+      "support": "Supports the claim's factual content."
+    },
+    {
+      "id": "cit_ray_petri_64_2",
+      "claim_id": "clm_rp_030",
+      "source_id": "src_a9c129a104b35511",
+      "locator": "DOCX section sec-30",
+      "support": "Supports the claim's factual content."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "media_state": "editorially_selected",
+  "workflow": {
+    "decision": "AUTO_APPROVE",
+    "note": "Claims carry traceable citations and pass the 0.85 threshold.",
+    "url_validation_summary": {
+      "confirmed": 19,
+      "anti_bot_confirmed": 0,
+      "needs_manual_recheck": 0
+    },
+    "converted_by": "VANSMITHLAB publication-artifact workflow",
+    "converted_at": "2026-08-13T00:00:00.000Z"
+  }
+}
