@@ -1,6 +1,6 @@
 # P-001 — Connecting the corpus into a knowledge graph
 
-Status: partially delivered — C3 stage 1 (relation graph) and the corpus converter are live; C1 terms, C2 timeline, C4 collections and C5 analysis markers are still proposals.
+Status: partially delivered — C2 timeline, C3 stage 1 (relation graph) and the corpus converter are live; C1 terms, C4 collections and C5 analysis markers are still proposals.
 Note: the category names in sections 3–4 predate taxonomy v2. Read `TAXONOMY.md` v2 for the current vocabulary.
 Raised under: `00_START_HERE.md` — "If the required rule does not exist, the agent must create a scoped documentation proposal"
 Affects: `03_KNOWLEDGE_MODEL.md`, `04_DATA_ARCHITECTURE.md`, `06_CONTENT_MODEL.md`, `11_SITE_INFORMATION_ARCHITECTURE.md`, `DOCX_SCHEMA.md`, `schemas/knowledge-object.schema.json`
@@ -172,10 +172,31 @@ All converted pages are written `state: "drafted"` with their true `verification
 
 **Cleanup owed:** 13 records from the old automation pipeline remain in `content/` with `state: "published"`. Eight of them duplicate a newly converted article under a different slug (`istoriya-modnogo-doma-armani` vs `istoriya-modnogo-doma-giorgio-armani`, and the Christian Dior, Louis Vuitton and religion pairs). They will render twice until removed.
 
+## 4c. C2 timeline — delivered 2026-08-14
+
+The timeline axis is live at `/ru/timeline` and `/en/timeline`. It renders a year
+axis built from dated claims across the knowledge corpus, sorted newest first and
+grouped by year, with each event linking to its carrying article or profile.
+
+Delivery notes:
+
+- Backfill script: `scripts/backfill-claim-dates.py` extracts years from `wording_ru`.
+- Date fields added to claims: `date_start`, `date_end`, `date_precision`.
+- Date-bearing claims: 1 177 of 2 795 (42%).
+- Objects with at least one dated claim: 159 of 182.
+- Year range on the axis: 1830–2027 (149 year groups).
+- Schema: `schemas/knowledge-object.schema.json` now validates claim date fields.
+
+The schema change and the additive backfill were both ratified in this release. A
+claim whose wording carries a single year is a point in time (`precision: year`);
+two distinct years form a period (`date_end`). The words `около`/`примерно`/
+`circa`/`around` before a year mark `circa`. An editor-set date is never
+overwritten. English wording is shown when present and falls back to Russian for
+the legacy corpus that has no `wording_en`.
+
 ## 5. Decisions required from the user
 
 - Approve or amend the inline term syntax `[[slug|surface form]]`.
-- Approve adding `date_start`, `date_end`, `date_precision` to the claim schema.
 - Confirm that `mentions` may be generated automatically without review, while typed relations may not.
 - Confirm the collection starter set, or replace it.
 
