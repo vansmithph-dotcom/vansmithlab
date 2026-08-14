@@ -26,3 +26,7 @@ When the Russian master revision changes, all descendant translations become `st
 ## Escalation
 
 The system requests input only if semantic validation cannot safely preserve meaning: a culturally specific term, contested naming, wordplay central to an argument, or an undefined translation choice. Otherwise translation is automatic.
+
+## Russian titles and names
+
+Russian interface titles, card headings and summaries must be written in Russian. Personal names are transliterated into Russian in the `ru` release (for example, «Эйлин Грей» and «Жан-Мишель Франк»). Keep an English form only when it is the official brand, studio, publication, acronym or registered proper name (for example, SANAA, M/M (Paris), Prada or Visionaire); add the Russian reading in the surrounding copy when useful. A Russian card containing `???`, mojibake or an unexplained English personal name fails localization QA and must not be published.

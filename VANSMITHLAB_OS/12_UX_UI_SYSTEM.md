@@ -68,3 +68,7 @@ Desktop is not the default that other devices merely shrink. Content order, navi
 - A reader can move from a page to at least three meaningful related paths without using browser search.
 - The language control makes clear whether the current version is current or awaiting update.
 - An analysis page visibly distinguishes attributed interpretation from verified reference material.
+
+## Card media acceptance criteria
+
+Listing cards with media use a unique landscape raster image in a 3:2 crop. The image wrapper owns the dimensions, the image fills it with `object-fit: cover`, and no browser or CSS rule may stretch the source. Broken, empty, placeholder or pictogram-only media is an error state, not an acceptable card design. Author cards use a relevant portrait or disclosed AI portrait reconstruction; subject cards use a visual scene tied to the subject. Check at computer, tablet and mobile widths and verify that the title remains localized independently of the image.
