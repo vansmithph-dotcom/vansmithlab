@@ -1,0 +1,901 @@
+{
+  "id": "obj_jean_prouve_20260814",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Jean Prouvé",
+  "title_en": "Jean Prouvé",
+  "slug_ru": "jean-prouve-structure-industry-constructeur",
+  "slug_en": "jean-prouve-structure-industry-constructeur",
+  "summary_ru": "Конструкция, фабрика и constructeur как метод промышленного дизайна",
+  "summary_en": "Structure, Factory and the Constructeur as a Method of Industrial Design",
+  "verification_state": "verified",
+  "confidence_score": 0.86,
+  "created_at": "2026-08-14T00:00:00.000Z",
+  "updated_at": "2026-08-14T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_jp_001",
+      "wording_ru": "Jean Prouvé родился в Париже в 1901 году и вырос в Нанси в художественной среде, связанной с École de Nancy. Но его профессиональная база формировалась не в академии архитектуры: он учился металлу как ремеслу, а затем пришёл к мебели, фасадам и зданиям через производство. Это важная точка для всей его карьеры. Prouvé не начинал с образа здания и не спускался к деталям. Он двигался в обратном направлении: от соединения, листа металла, усилия и способа изготовления — к предмету и архитектуре.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.moma.org/artists/7982-jean-prouve",
+          "locator": "DOCX section sec-1",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jp_002",
+      "wording_ru": "Prouvé прошёл подготовку как metal artisan, в том числе в мастерской Émile Robert, прежде чем открыть собственное дело. Официальная биография Vitra подчёркивает этот ремесленный фундамент как ключ к его последующему пониманию промышленного производства. Металл для него никогда не был символом «машинной эстетики». Он был материалом с конкретным поведением: его можно гнуть, штамповать, сваривать, усиливать ребром, экономить там, где нагрузка мала, и утолщать там, где она растёт. Из этой логики позже выйдет почти весь узнаваемый язык Prouvé.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vitra.com/en-cz/product/designer/jean-prouve",
+          "locator": "DOCX section sec-2",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jp_003",
+      "wording_ru": "В 1924 году Prouvé открыл собственную мастерскую в Нанси. Вскоре он начал делать дверные элементы, ограждения, светильники и мебель, постепенно переходя от художественной ковки к более рациональному производству из листового металла. Этот переход нельзя свести к отказу от ремесла в пользу фабрики. Скорее, Prouvé переносит ремесленное знание внутрь серийной логики: машина должна усиливать понимание материала, а не заменять его.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.moma.org/calendar/exhibitions/98",
+          "locator": "DOCX section sec-3",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        },
+        {
+          "source_url": "https://www.vitra.com/en-gb/product/standard",
+          "locator": "DOCX section sec-3",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jp_004",
+      "wording_ru": "Vitra отмечает, что уже с 1925 года в мастерской появляются ранние предметы из гнутого листового металла. Для Prouvé это был не декоративный эффект, а способ получить жёсткость из тонкого материала. Если профиль правильно согнут, форма одновременно объясняет нагрузку и экономит массу. Именно поэтому его мебель выглядит «инженерной» без необходимости приклеивать к ней технологический образ. Видимая геометрия является следствием того, как предмет работает.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vitra.com/en-gb/product/standard",
+          "locator": "DOCX section sec-4",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jp_005",
+      "wording_ru": "В 1930 году Prouvé стал одним из основателей Union des Artistes Modernes. UAM объединяла архитекторов, дизайнеров и художников, которые искали современный язык вне декоративной иерархии старых салонов. Для Prouvé это означало важную институциональную рамку: промышленное производство, новая мебель и современная архитектура были не разрозненными экспериментами, а частью общего вопроса о том, как должен быть устроен повседневный мир XX века.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.centrepompidou.fr/fr/ressources/oeuvre/HoPzSGG",
+          "locator": "DOCX section sec-5",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jp_006",
+      "wording_ru": "В 1931 году появилась структура Les Ateliers Jean Prouvé. MoMA описывает Ateliers как лабораторию, где идеи постоянно перерабатывались от прототипа до мебели и сборных зданий, а технологический процесс был частью проектирования. Это отличает Prouvé от дизайнера, который передаёт рисунок неизвестному производству. Его авторство существует внутри фабрики: форма меняется после испытания, доступности пресса, толщины листа, операции сварки и возможности сборки.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vitra.com/en-gb/product/standard/2712480-StandardChair-StandardSPzip",
+          "locator": "DOCX section sec-6",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        },
+        {
+          "source_url": "https://www.centrepompidou.fr/en/ressources/oeuvre/cEzL6d",
+          "locator": "DOCX section sec-6",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jp_007",
+      "wording_ru": "У Prouvé соединение, опора и распределение нагрузки редко скрыты. Каркас не маскируется под монолит, а задняя ножка стула может становиться толще именно потому, что принимает большее усилие. Эту ясность иногда описывают как «честность материала». Для VANSMITHLAB точнее говорить о читаемости конструкции: пользователь может почти интуитивно понять, почему часть имеет такую форму. Внешний вид становится диаграммой сил.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.centrepompidou.fr/en/ressources/oeuvre/cEzL6d",
+          "locator": "DOCX section sec-7",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jp_008",
+      "wording_ru": "Vitra датирует Standard Chair 1934/1950 и объясняет его ключевой принцип через разные нагрузки на передние и задние ножки. Передние выполняются легче, тогда как задние получают объёмный пустотелый профиль и передают основное усилие в пол. Это один из лучших примеров промышленного дизайна без декоративной риторики. Характер стула возникает не из «стиля Prouvé», а из видимого ответа на физическую задачу.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.centrepompidou.fr/en/ressources/oeuvre/cGbgaX",
+          "locator": "DOCX section sec-8",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jp_009",
+      "wording_ru": "Standard соединяет металл с деревянными сиденьем и спинкой. У Prouvé это не компромисс между «тёплым» и «холодным» материалом, а распределение функций: металл рационален в каркасе, дерево удобно для контактной поверхности и доступно в производстве. Поэтому его мебель плохо объясняется одним словом «индустриальная». Она постоянно соединяет заводскую технологию с телесным использованием, ремонтопригодностью и экономией материала.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.cca.qc.ca/en/search/details/library/publication/319031571",
+          "locator": "DOCX section sec-9",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        },
+        {
+          "source_url": "https://www.vitra.com/en-us/product/potence",
+          "locator": "DOCX section sec-9",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jp_010",
+      "wording_ru": "Maison du Peuple de Clichy создавалась коллективно — Eugène Beaudouin, Marcel Lods, Vladimir Bodiansky и Jean Prouvé. Centre Pompidou сохраняет проектные материалы с этой совместной атрибуцией. Для Prouvé работа важна как переход масштаба: металлические панели, подвижные элементы и способы сборки больше нельзя назвать только мебелью или только архитектурой. Конструктор работает между дисциплинами.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vitra.com/en-us/product/potence",
+          "locator": "DOCX section sec-10",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jp_011",
+      "wording_ru": "История дизайна любит превращать большие проекты в подпись одного человека. У Prouvé это особенно опасно, потому что его техническая узнаваемость легко заставляет приписать ему весь объект. Maison du Peuple показывает обратное: авторство распределено между архитектурой, инженерией, деталями и производством. Поэтому профиль VANSMITHLAB фиксирует Prouvé как центрального constructeur там, где его вклад документирован, но сохраняет имена соавторов. Точность важнее удобной легенды.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.centrepompidou.fr/fr/ressources/oeuvre/cBAoanX",
+          "locator": "DOCX section sec-11",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jp_012",
+      "wording_ru": "Во время Второй мировой войны металл стал дефицитным, и Prouvé переводил часть мебельных решений в дерево. Vitra связывает с этим периодом all-wood Chaise Tout Bois, близкую по конструкции Standard Chair. Это важный тест метода. Если идея существует только в одном материале, она быстро ломается при изменении производства. У Prouvé конструктивный принцип способен пережить смену металла на дерево.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.moma.org/collection/works/110092",
+          "locator": "DOCX section sec-12",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        },
+        {
+          "source_url": "https://www.vitra.com/en-ie/magazine/details/the-maison-jean-prouve",
+          "locator": "DOCX section sec-12",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jp_013",
+      "wording_ru": "Vitra фиксирует участие Prouvé во французском Сопротивлении, а после освобождения Нанси — короткий период его работы мэром города и разработку временного жилья для людей, оставшихся без домов. В этот момент prefabrication перестаёт быть эстетическим экспериментом. Быстрая сборка, ограниченное число деталей и возможность транспортировки становятся ответом на реальную нехватку жилья.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vitra.com/en-ie/magazine/details/the-maison-jean-prouve",
+          "locator": "DOCX section sec-13",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jp_014",
+      "wording_ru": "Centre Pompidou хранит серию эскизов Pavillon 6x6 1944–1945 годов: планы, разрезы и перспективы показывают модульную логику сборного здания. Здесь «дом» существует как последовательность операций: привезти, поставить опору, собрать каркас, заполнить ограждения, разобрать при необходимости. Архитектура становится ближе к продуктовой системе, чем к уникальному монументу.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/art/collection/search/715947",
+          "locator": "DOCX section sec-14",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jp_015",
+      "wording_ru": "Проекты демонтируемых домов Prouvé часто развиваются вокруг ясной несущей схемы — портала, балки или центральной опоры, к которой присоединяются облегчённые элементы. Centre Pompidou сохраняет многочисленные варианты этих систем. Такой подход сокращает количество уникальных деталей и упрощает монтаж. Но он также создаёт характер пространства: конструктивное решение определяет интерьер, ритм фасада и положение перегородок.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vitra.com/en-us/product/details/compas-direction",
+          "locator": "DOCX section sec-15",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        },
+        {
+          "source_url": "https://www.vitra.com/en-gb/product/details/fauteuil-de-salon",
+          "locator": "DOCX section sec-15",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jp_016",
+      "wording_ru": "В 1947 году Prouvé развернул производство в Maxéville, где мебель, фасадные элементы, школы и сборные дома проектировались в непосредственной связи с промышленным процессом. Vitra описывает этот период как пик его фабричной модели. Фабрика для него была не финальной стадией после дизайна. Она была местом, где дизайн становился проверяемым: прототип можно изготовить, нагрузить, изменить и повторить.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vitra.com/en-gb/product/details/fauteuil-de-salon",
+          "locator": "DOCX section sec-16",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jp_017",
+      "wording_ru": "Prouvé стремился к серийности, но его стандарт редко означает безразличную одинаковость. Панель, стол или дом должны быть повторяемыми, однако конкретная нагрузка, климат или программа могут требовать варианта. В этом смысле он ближе к платформе, чем к единственной форме: система задаёт правила, а не одно окончательное изделие.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vitra.com/en-me/product/gueridon",
+          "locator": "DOCX section sec-17",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jp_018",
+      "wording_ru": "Сборные Maison Tropicale были разработаны как транспортируемые алюминиевые дома для французских колониальных территорий в Африке. CCA и Centre Pompidou документируют проект как важный эксперимент prefabrication и climate response. Сегодня этот объект нельзя обсуждать только как инженерный шедевр. Его мобильность и «универсальность» существовали внутри колониальной инфраструктуры. Критическое чтение должно одновременно признавать техническую изобретательность и политическую систему, в которой она применялась.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vitra.com/en-me/product/trapeze",
+          "locator": "DOCX section sec-18",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        },
+        {
+          "source_url": "https://www.vitra.com/en-lp/magazine/details/the-jean-prouve-collection-at-the-vitra-design-museum",
+          "locator": "DOCX section sec-18",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jp_019",
+      "wording_ru": "Potence была разработана как поворотный настенный светильник в контексте Maison Tropique. Vitra датирует конструкцию 1947/1950 и подчёркивает предельную экономию материала: длинный рычаг, опора, провод и источник света. Светильник интересен не как «минимализм». Он показывает отсутствие границы между мебелью, оборудованием и архитектурой. Один и тот же принцип — вынести усилие на опору и оставить механизм читаемым — работает в разных масштабах.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vitra.com/en-lp/magazine/details/the-jean-prouve-collection-at-the-vitra-design-museum",
+          "locator": "DOCX section sec-19",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jp_020",
+      "wording_ru": "Centre Pompidou хранит проекты домов типа Meudon, cité “Sans Souci”, датированные 1946–1952 годами. Они показывают попытку перевести prefabrication из единичного павильона в серию реальных жилищ. Именно здесь видна граница между красивым prototype и жизнеспособной системой. Стандартизировать деталь проще, чем весь быт; жильё требует участка, инженерии, финансирования, норм и пользовательских изменений.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.moma.org/artists/7982-jean-prouve",
+          "locator": "DOCX section sec-20",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jp_021",
+      "wording_ru": "MoMA хранит школьный стол Prouvé 1946 года и другие предметы, связанные с образовательными и общественными программами. Эта часть наследия важнее рынка коллекционного дизайна. Стул или стол для школы проверяет форму постоянным использованием, ремонтом и серийностью. Здесь industrial design работает не как luxury object, а как общественная инфраструктура.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vitra.com/en-cz/product/designer/jean-prouve",
+          "locator": "DOCX section sec-21",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        },
+        {
+          "source_url": "https://www.moma.org/calendar/exhibitions/98",
+          "locator": "DOCX section sec-21",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jp_022",
+      "wording_ru": "MoMA атрибутирует Bench-Bookshelf для Maison de la Tunisie 1952 года Charlotte Perriand, Ateliers Jean Prouvé и другим участникам. Объект соединяет сиденье и хранение в компактный архитектурный элемент. Для профиля Prouvé это принципиальный пример сотрудничества. Его фабрика обеспечивает конструктивную и производственную логику, но интерьерная концепция не должна автоматически переписываться на имя владельца мастерской.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.moma.org/calendar/exhibitions/98",
+          "locator": "DOCX section sec-22",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jp_023",
+      "wording_ru": "После конфликта с основным акционером Prouvé в 1953 году покинул предприятие Maxéville. Vitra подчёркивает этот разрыв как важный поворот его карьеры. Для человека, который связывал проектирование с непосредственным контролем производства, потеря фабрики была не просто сменой работодателя. Она разрушила саму модель авторства: constructeur без производственной площадки вынужден работать через консультации, партнёрства и чужие технологические системы.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vitra.com/en-gb/product/standard",
+          "locator": "DOCX section sec-23",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jp_024",
+      "wording_ru": "После ухода из Maxéville Prouvé спроектировал и построил собственный дом в Нанси. Рассказ Catherine Prouvé, опубликованный Vitra, описывает модульную систему, длинную встроенную стену хранения и сочетание стали, дерева и алюминия. Дом важен как личная лаборатория после институционального поражения. Ограниченные ресурсы не приводят к декоративному упрощению; наоборот, точность сборки превращает необходимость в пространственную систему.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.centrepompidou.fr/fr/ressources/oeuvre/HoPzSGG",
+          "locator": "DOCX section sec-24",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        },
+        {
+          "source_url": "https://www.vitra.com/en-gb/product/standard/2712480-StandardChair-StandardSPzip",
+          "locator": "DOCX section sec-24",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jp_025",
+      "wording_ru": "The Met датирует Antony Chair 1954 годом, а Vitra — Compas Direction 1953 годом. В обоих предметах форма остаётся следствием опоры: изогнутое сиденье распределяет вес, а разведённые ножки стола напоминают работающий compas. Даже когда Prouvé уже не контролирует Maxéville, его мебель не становится стилистической коллекцией. Конструкция по-прежнему должна объяснять себя.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vitra.com/en-gb/product/standard/2712480-StandardChair-StandardSPzip",
+          "locator": "DOCX section sec-25",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jp_026",
+      "wording_ru": "С 1957 по 1968 год Prouvé руководил строительным бюро Compagnie Industrielle de Matériel de Transport (CIMT). Vitra фиксирует этот этап как период работы над крупными архитектурными и фасадными системами. Фасад для него становится большим продуктом: панель имеет вес, соединение, допуск, способ транспортировки и монтажную последовательность. Масштаб меняется, логика industrial design остаётся.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.centrepompidou.fr/en/ressources/oeuvre/cEzL6d",
+          "locator": "DOCX section sec-26",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jp_027",
+      "wording_ru": "Vitra указывает, что с 1957 по 1970 год Prouvé преподавал в Conservatoire National des Arts et Métiers. Его педагогическая репутация связана с демонстрацией конструкции и передачей опыта производства, а не с созданием формального «стиля Prouvé». Это соответствует всему его методу: научить дизайну — значит научить видеть нагрузку, соединение, последовательность сборки и экономику материала.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.centrepompidou.fr/en/ressources/oeuvre/cGbgaX",
+          "locator": "DOCX section sec-27",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        },
+        {
+          "source_url": "https://www.cca.qc.ca/en/search/details/library/publication/319031571",
+          "locator": "DOCX section sec-27",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jp_028",
+      "wording_ru": "В 1971 году Prouvé председательствовал в жюри международного конкурса Centre Pompidou и поддержал проект Renzo Piano и Richard Rogers. Vitra подчёркивает его роль в выборе победившей схемы. Связь с его собственной работой очевидна не как влияние формы, а как совпадение принципа: конструкция, коммуникации и сборка не прячутся за представительским фасадом, а становятся читаемой частью архитектуры.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.cca.qc.ca/en/search/details/library/publication/319031571",
+          "locator": "DOCX section sec-28",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jp_029",
+      "wording_ru": "Vitra начала переиздавать работы Prouvé в 2002 году в сотрудничестве с его семьёй; сегодня Standard, Potence, Compas Direction и другие модели остаются в производстве. Здесь возникает парадокс наследия. Предметы, задуманные внутри логики рационального серийного производства, сегодня часто воспринимаются как premium design classics. Переиздание сохраняет конструкцию и память, но одновременно меняет социальную позицию объекта.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vitra.com/en-us/product/potence",
+          "locator": "DOCX section sec-29",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jp_030",
+      "wording_ru": "Jean Prouvé важен не одной иконой и не эстетикой гнутого металла. Его метод связывает силу, материал, станок, соединение, транспортировку, сборку и использование в одну последовательность решений. Поэтому его работа остаётся современной: хороший объект или здание должны не изображать технологичность, а доказывать её тем, как они сделаны. У Prouvé форма — это след производственного мышления.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.centrepompidou.fr/fr/ressources/oeuvre/cBAoanX",
+          "locator": "DOCX section sec-30",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        },
+        {
+          "source_url": "https://www.moma.org/collection/works/110092",
+          "locator": "DOCX section sec-30",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_e6543ad6cd036afa",
+      "title": "Jean Prouvé",
+      "url": "https://www.moma.org/artists/7982-jean-prouve",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_e4b9036320bcad9b",
+      "title": "Jean Prouvé — Biography",
+      "url": "https://www.vitra.com/en-cz/product/designer/jean-prouve",
+      "publisher": "Vitra",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_4edb24575721f44c",
+      "title": "Ateliers Jean Prouvé",
+      "url": "https://www.moma.org/calendar/exhibitions/98",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_c98ff06189a7550d",
+      "title": "Standard — Jean Prouvé, 1934/1950",
+      "url": "https://www.vitra.com/en-gb/product/standard",
+      "publisher": "Vitra",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_4ce22ca10b7da2d5",
+      "title": "Maison du Peuple de Clichy. Coupe longitudinale",
+      "url": "https://www.centrepompidou.fr/fr/ressources/oeuvre/HoPzSGG",
+      "publisher": "Centre Pompidou",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_032952472a6feba6",
+      "title": "Chaise Tout Bois / Standard product family",
+      "url": "https://www.vitra.com/en-gb/product/standard/2712480-StandardChair-StandardSPzip",
+      "publisher": "Vitra",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_f6fc43e89007dca4",
+      "title": "Pavillon 6x6, croquis, 1944–1945",
+      "url": "https://www.centrepompidou.fr/en/ressources/oeuvre/cEzL6d",
+      "publisher": "Centre Pompidou",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_89992167bd8bade8",
+      "title": "Pavillon 6x6, 5x5, 7x7, 1944–1945",
+      "url": "https://www.centrepompidou.fr/en/ressources/oeuvre/cGbgaX",
+      "publisher": "Centre Pompidou",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_b4533642ab3e2548",
+      "title": "Jean Prouvé: la maison tropicale / The Tropical House",
+      "url": "https://www.cca.qc.ca/en/search/details/library/publication/319031571",
+      "publisher": "Canadian Centre for Architecture",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_64fe37b202db81f0",
+      "title": "Potence — Jean Prouvé, 1947/1950",
+      "url": "https://www.vitra.com/en-us/product/potence",
+      "publisher": "Vitra",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_f4b283f6e540e3d6",
+      "title": "Maisons type Meudon, cité Sans Souci — project drawing",
+      "url": "https://www.centrepompidou.fr/fr/ressources/oeuvre/cBAoanX",
+      "publisher": "Centre Pompidou",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_0b5d8afdbcb04756",
+      "title": "Charlotte Perriand, Ateliers Jean Prouvé et al. Maison de la Tunisie Bench-Bookshelf, 1952",
+      "url": "https://www.moma.org/collection/works/110092",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_0faa3b2fa2121fc8",
+      "title": "The Maison Jean Prouvé — interview with Catherine Prouvé",
+      "url": "https://www.vitra.com/en-ie/magazine/details/the-maison-jean-prouve",
+      "publisher": "Vitra",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_af6db371dc0cfc87",
+      "title": "Antony chair, 1954, Jean Prouvé",
+      "url": "https://www.metmuseum.org/art/collection/search/715947",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_645e48002233931c",
+      "title": "Compas Direction — Jean Prouvé, 1953",
+      "url": "https://www.vitra.com/en-us/product/details/compas-direction",
+      "publisher": "Vitra",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_1f99f793e1993722",
+      "title": "Fauteuil de Salon — Jean Prouvé, 1939",
+      "url": "https://www.vitra.com/en-gb/product/details/fauteuil-de-salon",
+      "publisher": "Vitra",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_1997273476bc2437",
+      "title": "Guéridon — Jean Prouvé, 1949",
+      "url": "https://www.vitra.com/en-me/product/gueridon",
+      "publisher": "Vitra",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_f6c1fbd7c53c1a27",
+      "title": "Trapèze — Jean Prouvé, 1950/1954",
+      "url": "https://www.vitra.com/en-me/product/trapeze",
+      "publisher": "Vitra",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_5bb8b11ac23167e1",
+      "title": "The Jean Prouvé Collection at the Vitra Design Museum",
+      "url": "https://www.vitra.com/en-lp/magazine/details/the-jean-prouve-collection-at-the-vitra-design-museum",
+      "publisher": "Vitra",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_jean-pro_01",
+      "claim_id": "clm_jp_001",
+      "source_id": "src_e6543ad6cd036afa",
+      "locator": "DOCX section sec-1",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_jean-pro_02",
+      "claim_id": "clm_jp_002",
+      "source_id": "src_e4b9036320bcad9b",
+      "locator": "DOCX section sec-2",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_jean-pro_03",
+      "claim_id": "clm_jp_003",
+      "source_id": "src_4edb24575721f44c",
+      "locator": "DOCX section sec-3",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_jean-pro_04",
+      "claim_id": "clm_jp_004",
+      "source_id": "src_c98ff06189a7550d",
+      "locator": "DOCX section sec-4",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_jean-pro_05",
+      "claim_id": "clm_jp_005",
+      "source_id": "src_4ce22ca10b7da2d5",
+      "locator": "DOCX section sec-5",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_jean-pro_06",
+      "claim_id": "clm_jp_006",
+      "source_id": "src_032952472a6feba6",
+      "locator": "DOCX section sec-6",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_jean-pro_07",
+      "claim_id": "clm_jp_007",
+      "source_id": "src_f6fc43e89007dca4",
+      "locator": "DOCX section sec-7",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_jean-pro_08",
+      "claim_id": "clm_jp_008",
+      "source_id": "src_89992167bd8bade8",
+      "locator": "DOCX section sec-8",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_jean-pro_09",
+      "claim_id": "clm_jp_009",
+      "source_id": "src_b4533642ab3e2548",
+      "locator": "DOCX section sec-9",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_jean-pro_10",
+      "claim_id": "clm_jp_010",
+      "source_id": "src_64fe37b202db81f0",
+      "locator": "DOCX section sec-10",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_jean-pro_11",
+      "claim_id": "clm_jp_011",
+      "source_id": "src_f4b283f6e540e3d6",
+      "locator": "DOCX section sec-11",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_jean-pro_12",
+      "claim_id": "clm_jp_012",
+      "source_id": "src_0b5d8afdbcb04756",
+      "locator": "DOCX section sec-12",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_jean-pro_13",
+      "claim_id": "clm_jp_013",
+      "source_id": "src_0faa3b2fa2121fc8",
+      "locator": "DOCX section sec-13",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_jean-pro_14",
+      "claim_id": "clm_jp_014",
+      "source_id": "src_af6db371dc0cfc87",
+      "locator": "DOCX section sec-14",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_jean-pro_15",
+      "claim_id": "clm_jp_015",
+      "source_id": "src_645e48002233931c",
+      "locator": "DOCX section sec-15",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_jean-pro_16",
+      "claim_id": "clm_jp_016",
+      "source_id": "src_1f99f793e1993722",
+      "locator": "DOCX section sec-16",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_jean-pro_17",
+      "claim_id": "clm_jp_017",
+      "source_id": "src_1997273476bc2437",
+      "locator": "DOCX section sec-17",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_jean-pro_18",
+      "claim_id": "clm_jp_018",
+      "source_id": "src_f6c1fbd7c53c1a27",
+      "locator": "DOCX section sec-18",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_jean-pro_19",
+      "claim_id": "clm_jp_019",
+      "source_id": "src_5bb8b11ac23167e1",
+      "locator": "DOCX section sec-19",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_jean-pro_20",
+      "claim_id": "clm_jp_020",
+      "source_id": "src_e6543ad6cd036afa",
+      "locator": "DOCX section sec-20",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_jean-pro_21",
+      "claim_id": "clm_jp_021",
+      "source_id": "src_e4b9036320bcad9b",
+      "locator": "DOCX section sec-21",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_jean-pro_22",
+      "claim_id": "clm_jp_022",
+      "source_id": "src_4edb24575721f44c",
+      "locator": "DOCX section sec-22",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_jean-pro_23",
+      "claim_id": "clm_jp_023",
+      "source_id": "src_c98ff06189a7550d",
+      "locator": "DOCX section sec-23",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_jean-pro_24",
+      "claim_id": "clm_jp_024",
+      "source_id": "src_4ce22ca10b7da2d5",
+      "locator": "DOCX section sec-24",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_jean-pro_25",
+      "claim_id": "clm_jp_025",
+      "source_id": "src_032952472a6feba6",
+      "locator": "DOCX section sec-25",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_jean-pro_26",
+      "claim_id": "clm_jp_026",
+      "source_id": "src_f6fc43e89007dca4",
+      "locator": "DOCX section sec-26",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_jean-pro_27",
+      "claim_id": "clm_jp_027",
+      "source_id": "src_89992167bd8bade8",
+      "locator": "DOCX section sec-27",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_jean-pro_28",
+      "claim_id": "clm_jp_028",
+      "source_id": "src_b4533642ab3e2548",
+      "locator": "DOCX section sec-28",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_jean-pro_29",
+      "claim_id": "clm_jp_029",
+      "source_id": "src_64fe37b202db81f0",
+      "locator": "DOCX section sec-29",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_jean-pro_30",
+      "claim_id": "clm_jp_030",
+      "source_id": "src_f4b283f6e540e3d6",
+      "locator": "DOCX section sec-30",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "media_state": "editorially_selected",
+  "workflow": {
+    "decision": "AUTO_APPROVE",
+    "note": "RU/EN DOCX pair passed structure and source URL checks; claims retain explicit section-level attribution.",
+    "converted_by": "VANSMITHLAB publication workflow",
+    "converted_at": "2026-08-14T00:00:00.000Z"
+  },
+  "hero_image": {
+    "src": "/images/glossary/industrial-designers/jean-prouve-structure-industry-constructeur-hero-v1-card.svg",
+    "alt": "Редакционная карточка: Jean Prouvé",
+    "caption": "Jean Prouvé",
+    "credit": "VANSMITHLAB · оригинальная редакционная графика, 2026",
+    "origin": "original_diagram"
+  }
+}

@@ -1,0 +1,909 @@
+{
+  "id": "obj_harold_koda_20260814",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Harold Koda",
+  "title_en": "Harold Koda",
+  "slug_ru": "harold-koda-costume-curation-collection-display",
+  "slug_en": "harold-koda-costume-curation-collection-display",
+  "summary_ru": "Коллекция, экспозиция и историческая ответственность fashion curator",
+  "summary_en": "Collection, Display and the Historical Responsibility of the Fashion Curator",
+  "verification_state": "verified",
+  "confidence_score": 0.86,
+  "created_at": "2026-08-14T00:00:00.000Z",
+  "updated_at": "2026-08-14T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_hk_001",
+      "wording_ru": "Harold Koda родился в Гонолулу и получил в University of Hawai‘i степени B.A. и B.F.A. в истории искусства. Официальная биография The Met не строит его раннюю траекторию вокруг моды: сначала была история искусства, затем учеба в Institute of Fine Arts при New York University. Это важно для его последующей позиции. Koda пришел к костюму не как к продолжению fashion-индустрии, а как к музейному объекту, который требует формального анализа, исторического контекста, сохранения и точной атрибуции. Его карьера показывает, как fashion cтановится серьезным предметом музея именно тогда, когда перестает просить особого отношения.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/press-releases/harold-koda-retirement-2015-news",
+          "locator": "DOCX section sec-1",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hk_002",
+      "wording_ru": "В интервью 2018 года Koda вспоминал, что переехал в Нью-Йорк в 1974 году, первоначально интересуясь искусством Кот-д’Ивуара. Уже в городе его маршрут неожиданно повернул к Costume Institute и к миру, где работа с платьем требовала одновременно знания искусства и практического ухода за объектом. Эта случайность не означает отсутствия метода. Наоборот, Koda оказался внутри поля до того, как fashion curating стало стандартизированной профессией. Он видел, как дисциплина буквально формируется — из архивной работы, монтажа выставок, общения с дизайнерами, музейной реставрации и постоянной необходимости объяснять, почему одежда заслуживает места рядом с другими искусствами.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://hawaii.edu/art/harold-koda/",
+          "locator": "DOCX section sec-2",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hk_003",
+      "wording_ru": "В середине 1970-х Koda работал в Costume Institute рядом с Diana Vreeland, сначала как intern и exhibition assistant. The Met отдельно отмечает его участие в проектах эпохи Vreeland, включая The Glory of Russian Costume и Vanity Fair. Vreeland показала ему силу выставочного спектакля: костюм может быть поставлен драматически, с атмосферой, жестом и почти сценическим преувеличением. Но зрелый метод Koda будет строиться на балансе — зрелищность допустима только тогда, когда она усиливает объект, а не превращает историческую одежду в декорацию.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.fashionprojects.org/blog/interview-with-harold-koda",
+          "locator": "DOCX section sec-3",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        },
+        {
+          "source_url": "https://www.metmuseum.org/met-publications/diana-vreeland-immoderate-style",
+          "locator": "DOCX section sec-3",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hk_004",
+      "wording_ru": "Koda вспоминал раннюю работу рядом с реставратором Elizabeth Lawrence и добровольцами, которые помогали готовить одежду к выставкам. Позднее он подчеркивал, насколько профессионализировалась conservation practice: обращение с музейной одеждой стало гораздо более научным и регулируемым. Для его кураторского метода это фундаментально. Fashion exhibition работает с объектами, которые нельзя просто «посадить» на тело, укоротить, подколоть или переиначить ради красивого кадра. Манекен, опора и монтаж должны подчиняться сохранности. Хорошая выставка начинается не с эффектного зала, а с понимания физической уязвимости вещи.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/met-publications/diana-vreeland-immoderate-style",
+          "locator": "DOCX section sec-4",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hk_005",
+      "wording_ru": "С 1979 по 1992 год Koda работал в Edward C. Blum Design Laboratory при Fashion Institute of Technology — сначала как associate curator и curator, затем как director. The Met перечисляет этот период как один из основных этапов его профессионального становления. В FIT fashion history существовала не как приложение к знаменитым именам, а как серия тематических задач: типология одежды, социальные коды, мужской костюм, тело, современность. Выставка становилась способом быстро проверять историческую гипотезу через реальные предметы.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/met-publications/infra-apparel",
+          "locator": "DOCX section sec-5",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hk_006",
+      "wording_ru": "Ключевым партнером Koda стал Richard Martin. Вместе они работали в FIT, а затем в The Met над серией выставок и публикаций. Официальная история Costume Institute связывает период Martin с тематическими проектами, которые расширяли способы говорить об одежде. Для VANSMITHLAB этот союз важен как пример коллективного авторства. Не каждая выставка периода принадлежит одному Koda или одному Martin. Их сила возникала в диалоге: формальная чувствительность, культурная история, ирония, архив и точный выбор объекта складывались в общую систему.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/met-publications/christian-dior",
+          "locator": "DOCX section sec-6",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        },
+        {
+          "source_url": "https://www.guggenheim.org/exhibition/giorgio-armani-2",
+          "locator": "DOCX section sec-6",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hk_007",
+      "wording_ru": "В FIT Koda курировал Balenciaga в 1986 году. Поздняя биографическая справка The Met выделяет этот проект отдельно, а также фиксирует две специальные награды CFDA, полученные им в 1986 и 1997 годах. Монографическая fashion exhibition легко превращается в пантеон гения. Более продуктивный подход — показать, как мастер работает с плечом, объемом, внутренней опорой, тканью и дистанцией от тела. Именно такой объектный анализ впоследствии станет одной из сильных сторон Koda.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.guggenheim.org/exhibition/giorgio-armani-2",
+          "locator": "DOCX section sec-7",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hk_008",
+      "wording_ru": "Среди проектов FIT The Met упоминает Jocks and Nerds 1989 года, созданную в круге Richard Martin и Koda. Выставка рассматривала мужскую одежду через узнаваемые социальные типы, а не только через историю портновского ремесла. Этот поворот важен: одежда объясняет роль, принадлежность и стереотип. Музей может анализировать не только редкое couture-платье, но и повседневный код. Так fashion history приближается к визуальной антропологии.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/press-releases/extreme-beauty-the-body-transformed-2001-exhibitions",
+          "locator": "DOCX section sec-8",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hk_009",
+      "wording_ru": "В раннем периоде работы в The Met Koda занимал должность Associate Curator и вместе с Richard Martin участвовал примерно в двенадцати выставках. Официальная биография среди них выделяет Diana Vreeland: Immoderate Style, Madame Grès и Christian Dior. Контекст The Met меняет масштаб задачи. Костюм больше не живет только внутри fashion museum: он должен вступать в отношения с живописью, скульптурой, декоративными искусствами и историческими интерьерами. Именно отсюда развивается междепартаментный способ мышления Costume Institute.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/exhibitions/listings/2003/goddess",
+          "locator": "DOCX section sec-9",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        },
+        {
+          "source_url": "https://www.metmuseum.org/exhibitions/listings/2004/dangerous-liaisons",
+          "locator": "DOCX section sec-9",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hk_010",
+      "wording_ru": "Diana Vreeland: Immoderate Style стала одной из выставок, над которыми Koda работал вместе с Richard Martin. Проект фиксировал Vreeland не просто как editor, а как человека, превратившего вкус, преувеличение и выставочную фантазию в институциональный метод. Для Koda это был сложный объект: он сам учился внутри созданной Vreeland культуры показа. Такой профиль требует дистанции — показать влияние наставника, не превращая личную связь в безоговорочное восхищение.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/exhibitions/listings/2004/dangerous-liaisons",
+          "locator": "DOCX section sec-10",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hk_011",
+      "wording_ru": "В 1993 году Richard Martin и Harold Koda выпустили Infra-Apparel — исследование нижних слоев одежды и конструкций, обычно скрытых от взгляда. The Met сохраняет публикацию как часть своей открытой цифровой библиотеки. Тематическая выставка способна сделать видимым то, что runway обычно скрывает: поддержку, подкладку, корсет, структуру и техническую логику. Для Koda это важная линия — fashion как материальная технология тела.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/press-releases/metropolitan-museum-presents-special-exhibition-of-chanel-2005-exhibitions",
+          "locator": "DOCX section sec-11",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hk_012",
+      "wording_ru": "К выставке Christian Dior 1996 года Martin и Koda подготовили крупный каталог, основанный прежде всего на коллекции Costume Institute. The Met описывает издание как хронику достижений Dior через музейные объекты и архив. Сильная монография не повторяет биографический миф. Она проверяет его на платьях: где находится шов, как поддерживается бедро, что происходит с талией, как ткань удерживает архитектуру силуэта. Куратор превращает культовое имя обратно в серию материальных решений.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/press-releases/poiret-king-of-fashion-at-metropolitan-museums-costume-institute-to-celebrate-paul-poiret-visionary-artistcouturier-of-early-20th-century-2007-exhibitions",
+          "locator": "DOCX section sec-12",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        },
+        {
+          "source_url": "https://www.metmuseum.org/press-releases/blogmode-addressing-fashion-sparks-dialogue-at-metropolitan-museums-costume-institute-2007-exhibitions",
+          "locator": "DOCX section sec-12",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hk_013",
+      "wording_ru": "В конце 1990-х Koda покинул Costume Institute и получил в Harvard University степень Master of Landscape Architecture, завершенную к 2000 году. Этот биографический поворот официально зафиксирован The Met. Landscape architecture кажется уходом в сторону, но для выставочного мышления она дает важный масштаб: маршрут, последовательность, вид, дистанция и отношение тела к пространству. Поздние выставки Koda часто читаются не как набор витрин, а как организованное прохождение через разные режимы взгляда.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/press-releases/blogmode-addressing-fashion-sparks-dialogue-at-metropolitan-museums-costume-institute-2007-exhibitions",
+          "locator": "DOCX section sec-13",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hk_014",
+      "wording_ru": "Перед возвращением в The Met Koda стал co-curator выставки Giorgio Armani в Solomon R. Guggenheim Museum. Архив Guggenheim фиксирует проект как тематический обзор эволюции и культурного вклада Armani, а каталог редактировали Germano Celant и Harold Koda. Эта выставка показывает неизбежное напряжение fashion museum: современный бренд одновременно является объектом исследования, экономическим участником и производителем собственного образа. Поэтому институциональная прозрачность и точное распределение авторства здесь не менее важны, чем эффектность монтажа.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/departments/the-costume-institute",
+          "locator": "DOCX section sec-14",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hk_015",
+      "wording_ru": "В 2000 году Koda вернулся в The Met как Curator in Charge of The Costume Institute. В 2002 году в отдел пришел Andrew Bolton, а следующие пятнадцать лет стали периодом расширения выставочной, коллекционной и издательской работы института. Руководитель отдела отвечает уже не только за собственную кураторскую концепцию. Его авторство проявляется в наборе команды, acquisition policy, conservation, research, fundraising, пространстве и том, какие будущие исследователи получат доступ к коллекции.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/press-releases/metropolitan-museums-costume-institute-explores-role-of-fashion-models-as-muses-of-recent-eras-2009-exhibitions",
+          "locator": "DOCX section sec-15",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        },
+        {
+          "source_url": "https://www.metmuseum.org/press-releases/schiaparelli-and-prada-press-release-2012-exhibitions",
+          "locator": "DOCX section sec-15",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hk_016",
+      "wording_ru": "Extreme Beauty: The Body Transformed была организована Koda и исследовала способы, которыми одежда меняет пропорции человеческого тела. The Met отдельно фиксирует его как организатора и автора сопровождавшего каталога. Ключевой ход — перестать считать «естественное тело» нейтральной нормой. Корсет, плечо, каблук, объем бедра и другие конструкции показывают, что fashion постоянно проектирует анатомию. Выставка становится исследованием визуальной власти силуэта.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/press-releases/schiaparelli-and-prada-press-release-2012-exhibitions",
+          "locator": "DOCX section sec-16",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hk_017",
+      "wording_ru": "Goddess: The Classical Mode 2003 года соединила историческую одежду, современную моду, изображения и декоративные искусства вокруг постоянного возвращения античной формы. Проект и каталог были разработаны Koda. Важна не идея «вечной Греции», а механизм перевода: chiton, peplos, drapery и классические атрибуты многократно переизобретаются художниками и дизайнерами. Куратор показывает, как культурная память работает через повторение с изменением.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/press-releases/charles-james-2013-exhibitions",
+          "locator": "DOCX section sec-17",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hk_018",
+      "wording_ru": "Dangerous Liaisons: Fashion and Furniture in the 18th Century была создана Harold Koda и Andrew Bolton в сотрудничестве с другими отделами The Met. Одежда XVIII века была помещена в исторические французские интерьеры Wrightsman Galleries. Это один из ключевых методов Costume Institute: костюм перестает быть изолированной скульптурой. Поза, мебель, расстояние между людьми и архитектура комнаты снова становятся частью значения. Но сценография должна оставаться интерпретацией, а не выдавать реконструированную ситуацию за документальную реальность.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/press-releases/jacqueline-de-ribes-2015-exhibitions",
+          "locator": "DOCX section sec-18",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        },
+        {
+          "source_url": "https://www.metmuseum.org/press-releases/masterworks-unpacking-fashion-2016-exhibitions",
+          "locator": "DOCX section sec-18",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hk_019",
+      "wording_ru": "В 2005 году Koda и Bolton работали над Chanel и совместным каталогом. The Met подчеркивал историческую траекторию дома и вклад Gabrielle Chanel, одновременно показывая продолжение бренда в современной моде. Для куратора это особенно чувствительная территория. Дом продолжает коммерческую жизнь, а значит музей должен отделять историческую атрибуцию от текущего marketing halo. Иначе выставка легко превращается из исследования в усилитель брендового мифа.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/press-releases/masterworks-unpacking-fashion-2016-exhibitions",
+          "locator": "DOCX section sec-19",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hk_020",
+      "wording_ru": "Poiret: King of Fashion была организована Koda и Bolton после того, как The Met приобрел значительную группу произведений Poiret из важного частного собрания. Выставка и каталог использовали новое ядро коллекции, чтобы заново оценить место дизайнера в истории XX века. Так проявляется связь acquisition и curating: музей не покупает объект только ради хранения. Новое поступление меняет вопросы, которые можно задать коллекции. У Koda исследовательская выставка часто начинается именно с предмета, который позволяет пересмотреть уже известную историю.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/art/libraries-and-research-centers/watson-digital-collections/costume-institute-collections",
+          "locator": "DOCX section sec-20",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hk_021",
+      "wording_ru": "Поздние материалы The Met о Koda постоянно возвращаются к коллекции. При его уходе коллеги отмечали расширение holdings и стратегические приобретения, которые продолжат работать после окончания временных выставок. Это важная поправка к медийному образу Costume Institute. Gala длится одну ночь, выставка — несколько месяцев, а хорошо собранный объектный архив работает десятилетиями. Для Koda долговременная ценность музея находится именно здесь.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/press-releases/harold-koda-retirement-2015-news",
+          "locator": "DOCX section sec-21",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        },
+        {
+          "source_url": "https://hawaii.edu/art/harold-koda/",
+          "locator": "DOCX section sec-21",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hk_022",
+      "wording_ru": "blog.mode: addressing fashion соединяла выставку недавних приобретений Costume Institute с публичным блогом. The Met приглашал посетителей обсуждать отдельные объекты, а Koda и Bolton публиковали кураторские комментарии и отвечали на реакции. Сегодня такой формат кажется обычным, но для 2007 года это был заметный шаг: интерпретация больше не заканчивается на стеновом тексте. Музей начинает видеть аудиторию не только как получателя авторитетного знания, но и как участника обсуждения.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://hawaii.edu/art/harold-koda/",
+          "locator": "DOCX section sec-22",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hk_023",
+      "wording_ru": "В январе 2009 года знаменитая costume collection Brooklyn Museum была передана The Met и стала Brooklyn Museum Costume Collection at The Metropolitan Museum of Art. Официальная история института связывает этот шаг с периодом руководства Koda. Трансфер был не административной деталью. Он существенно усилил holdings американской моды и особенно Charles James. Кураторская инфраструктура здесь проявляется на уровне институций: объединение коллекций определяет, какие истории музей сможет рассказывать в будущем.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.fashionprojects.org/blog/interview-with-harold-koda",
+          "locator": "DOCX section sec-23",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hk_024",
+      "wording_ru": "The Model as Muse: Embodying Fashion была организована Harold Koda и guest co-curator Kohle Yohannan. The Met фиксирует также большой коллектив exhibition design, hair, wigs, graphics и lighting. Выставка анализировала не только одежду, но и роль модели как посредника между дизайнером, фотографом, журналом и массовой культурой. Это важный сдвиг от объекта к системе image-making — без стирания авторства отдельных участников.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/met-publications/diana-vreeland-immoderate-style",
+          "locator": "DOCX section sec-24",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        },
+        {
+          "source_url": "https://www.metmuseum.org/met-publications/infra-apparel",
+          "locator": "DOCX section sec-24",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hk_025",
+      "wording_ru": "Schiaparelli and Prada: Impossible Conversations была задумана Koda и Bolton как серия воображаемых диалогов между дизайнерами разных эпох. Концепция опиралась на формат Impossible Interviews Miguel Covarrubias, а видеоматериалы для экспозиции создавал Baz Luhrmann. Прием рискованный: музей сознательно конструирует разговор, которого никогда не было. Поэтому формат работает только при прозрачной маркировке фикции. Его сила — не в имитации исторического документа, а в создании сравнительной рамки для реальных вещей.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/met-publications/infra-apparel",
+          "locator": "DOCX section sec-25",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hk_026",
+      "wording_ru": "Charles James: Beyond Fashion была организована Harold Koda и Jan Glier Reeder после расширения holdings благодаря Brooklyn transfer. В проекте участвовали conservators, фотографы и Diller Scofidio + Renfro; The Met отдельно документировал исследования конструкции и новые способы показа. James особенно подходит для такого метода: сложную внутреннюю геометрию платья трудно понять только снаружи. Технология, детальная съемка и conservation research позволяют сделать невидимую конструкцию читаемой, не разрушая и не надевая оригинал на живое тело.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/met-publications/christian-dior",
+          "locator": "DOCX section sec-26",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hk_027",
+      "wording_ru": "В мае 2014 года после двухлетней реконструкции Costume Institute вновь открыл свои пространства как Anna Wintour Costume Center. The Met прямо называет это одним из главных событий периода Koda. Для куратора инфраструктура важнее одного успешного сезона. Новые galleries, storage, conservation и research facilities определяют качество работы будущих команд. Управление институтом становится разновидностью авторства, которое почти не видно посетителю.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.guggenheim.org/exhibition/giorgio-armani-2",
+          "locator": "DOCX section sec-27",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        },
+        {
+          "source_url": "https://www.metmuseum.org/press-releases/extreme-beauty-the-body-transformed-2001-exhibitions",
+          "locator": "DOCX section sec-27",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hk_028",
+      "wording_ru": "Последней выставкой Koda как Curator in Charge стала Jacqueline de Ribes: The Art of Style, открывшаяся в ноябре 2015 года. Он рассматривал de Ribes не только как клиента couture, но как автора собственной визуальной идентичности, включая ее переделки и собственный fashion house. Здесь стиль читается не как список дорогих вещей, а как практика выбора и трансформации. Такой подход возвращает agency человеку, который носит одежду: образ создается не только дизайнером.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/press-releases/extreme-beauty-the-body-transformed-2001-exhibitions",
+          "locator": "DOCX section sec-28",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hk_029",
+      "wording_ru": "Koda завершил работу в The Met 8 января 2016 года после пятнадцати лет руководства Costume Institute. Позднее более тридцати дизайнеров передали музею работы в его честь; часть этих поступлений вошла в Masterworks: Unpacking Fashion. Этот жест важен не как персональная награда. Он показывает профессиональную сеть доверия между музеем и дизайнерами и одновременно переводит благодарность в долгосрочный общественный актив — предметы входят в музейную коллекцию, а не исчезают в частном tribute.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/exhibitions/listings/2003/goddess",
+          "locator": "DOCX section sec-29",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_hk_030",
+      "wording_ru": "Harold Koda помог сформировать модель fashion curator, в которой зрелищность и scholarship не обязаны исключать друг друга. Его карьера проходит от Vreeland и театрального display через Richard Martin, системную историю костюма, большие монографии, participatory blog и технологически сложный Charles James. Но главный критерий остается материальным: что произошло с коллекцией, насколько точно объект атрибутирован, сохранен и помещен в контекст. Именно этот баланс делает Koda важным для VANSMITHLAB — выставка может быть событием, но музейное авторство измеряется тем, что останется после события.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.metmuseum.org/exhibitions/listings/2004/dangerous-liaisons",
+          "locator": "DOCX section sec-30",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        },
+        {
+          "source_url": "https://www.metmuseum.org/press-releases/metropolitan-museum-presents-special-exhibition-of-chanel-2005-exhibitions",
+          "locator": "DOCX section sec-30",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_fef3303ea2ee0b11",
+      "title": "Harold Koda to Step Down After Leading Met Museum’s Costume Institute for 15 Years",
+      "url": "https://www.metmuseum.org/press-releases/harold-koda-retirement-2015-news",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_0c45e194419fc740",
+      "title": "Harold Koda",
+      "url": "https://hawaii.edu/art/harold-koda/",
+      "publisher": "University of Hawai‘i at Mānoa, Department of Art and Art History",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_6566cf34bab5bb90",
+      "title": "Showmanship and History: An Interview with Harold Koda",
+      "url": "https://www.fashionprojects.org/blog/interview-with-harold-koda",
+      "publisher": "Fashion Projects",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_ccd63be717293a97",
+      "title": "Diana Vreeland: Immoderate Style",
+      "url": "https://www.metmuseum.org/met-publications/diana-vreeland-immoderate-style",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_34a617e6488c78fe",
+      "title": "Infra-Apparel",
+      "url": "https://www.metmuseum.org/met-publications/infra-apparel",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_495977e979b68282",
+      "title": "Christian Dior",
+      "url": "https://www.metmuseum.org/met-publications/christian-dior",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_4d76c9342703c7a3",
+      "title": "Giorgio Armani. Solomon R",
+      "url": "https://www.guggenheim.org/exhibition/giorgio-armani-2",
+      "publisher": "Guggenheim Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_869f1aac9f901854",
+      "title": "Extreme Beauty: The Body Transformed",
+      "url": "https://www.metmuseum.org/press-releases/extreme-beauty-the-body-transformed-2001-exhibitions",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_0abd6d69124a4af0",
+      "title": "Goddess: The Classical Mode",
+      "url": "https://www.metmuseum.org/exhibitions/listings/2003/goddess",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_acd1008164c3b96e",
+      "title": "Dangerous Liaisons: Fashion and Furniture in the 18th Century",
+      "url": "https://www.metmuseum.org/exhibitions/listings/2004/dangerous-liaisons",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_f4c14a429f0a6a6f",
+      "title": "Metropolitan Museum Presents Special Exhibition of Chanel",
+      "url": "https://www.metmuseum.org/press-releases/metropolitan-museum-presents-special-exhibition-of-chanel-2005-exhibitions",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_3ecfb6be4317aa4d",
+      "title": "Poiret: King of Fashion",
+      "url": "https://www.metmuseum.org/press-releases/poiret-king-of-fashion-at-metropolitan-museums-costume-institute-to-celebrate-paul-poiret-visionary-artistcouturier-of-early-20th-century-2007-exhibitions",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_8c5674c5798bf7a0",
+      "title": "blog.mode: addressing fashion Sparks Dialogue at Metropolitan Museum’s Costume Institute",
+      "url": "https://www.metmuseum.org/press-releases/blogmode-addressing-fashion-sparks-dialogue-at-metropolitan-museums-costume-institute-2007-exhibitions",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_c930620a039723bf",
+      "title": "The Costume Institute",
+      "url": "https://www.metmuseum.org/departments/the-costume-institute",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_a12909638164d6d6",
+      "title": "The Model as Muse: Embodying Fashion",
+      "url": "https://www.metmuseum.org/press-releases/metropolitan-museums-costume-institute-explores-role-of-fashion-models-as-muses-of-recent-eras-2009-exhibitions",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_1ad835215fd289b3",
+      "title": "Elsa Schiaparelli and Miuccia Prada’s Impossible Conversations",
+      "url": "https://www.metmuseum.org/press-releases/schiaparelli-and-prada-press-release-2012-exhibitions",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_b195869af74f99c3",
+      "title": "Charles James: Beyond Fashion",
+      "url": "https://www.metmuseum.org/press-releases/charles-james-2013-exhibitions",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_82df80245018355e",
+      "title": "Jacqueline de Ribes: The Art of Style",
+      "url": "https://www.metmuseum.org/press-releases/jacqueline-de-ribes-2015-exhibitions",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_52f3c1f831074ca9",
+      "title": "Masterworks: Unpacking Fashion",
+      "url": "https://www.metmuseum.org/press-releases/masterworks-unpacking-fashion-2016-exhibitions",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_8dcdf1ba1c66f85c",
+      "title": "Costume Institute Collections — The Harold Koda Gift. The Metropolitan Museum of Art, Thomas J",
+      "url": "https://www.metmuseum.org/art/libraries-and-research-centers/watson-digital-collections/costume-institute-collections",
+      "publisher": "Watson Library",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_harold-k_01",
+      "claim_id": "clm_hk_001",
+      "source_id": "src_fef3303ea2ee0b11",
+      "locator": "DOCX section sec-1",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_harold-k_02",
+      "claim_id": "clm_hk_002",
+      "source_id": "src_0c45e194419fc740",
+      "locator": "DOCX section sec-2",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_harold-k_03",
+      "claim_id": "clm_hk_003",
+      "source_id": "src_6566cf34bab5bb90",
+      "locator": "DOCX section sec-3",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_harold-k_04",
+      "claim_id": "clm_hk_004",
+      "source_id": "src_ccd63be717293a97",
+      "locator": "DOCX section sec-4",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_harold-k_05",
+      "claim_id": "clm_hk_005",
+      "source_id": "src_34a617e6488c78fe",
+      "locator": "DOCX section sec-5",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_harold-k_06",
+      "claim_id": "clm_hk_006",
+      "source_id": "src_495977e979b68282",
+      "locator": "DOCX section sec-6",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_harold-k_07",
+      "claim_id": "clm_hk_007",
+      "source_id": "src_4d76c9342703c7a3",
+      "locator": "DOCX section sec-7",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_harold-k_08",
+      "claim_id": "clm_hk_008",
+      "source_id": "src_869f1aac9f901854",
+      "locator": "DOCX section sec-8",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_harold-k_09",
+      "claim_id": "clm_hk_009",
+      "source_id": "src_0abd6d69124a4af0",
+      "locator": "DOCX section sec-9",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_harold-k_10",
+      "claim_id": "clm_hk_010",
+      "source_id": "src_acd1008164c3b96e",
+      "locator": "DOCX section sec-10",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_harold-k_11",
+      "claim_id": "clm_hk_011",
+      "source_id": "src_f4c14a429f0a6a6f",
+      "locator": "DOCX section sec-11",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_harold-k_12",
+      "claim_id": "clm_hk_012",
+      "source_id": "src_3ecfb6be4317aa4d",
+      "locator": "DOCX section sec-12",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_harold-k_13",
+      "claim_id": "clm_hk_013",
+      "source_id": "src_8c5674c5798bf7a0",
+      "locator": "DOCX section sec-13",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_harold-k_14",
+      "claim_id": "clm_hk_014",
+      "source_id": "src_c930620a039723bf",
+      "locator": "DOCX section sec-14",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_harold-k_15",
+      "claim_id": "clm_hk_015",
+      "source_id": "src_a12909638164d6d6",
+      "locator": "DOCX section sec-15",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_harold-k_16",
+      "claim_id": "clm_hk_016",
+      "source_id": "src_1ad835215fd289b3",
+      "locator": "DOCX section sec-16",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_harold-k_17",
+      "claim_id": "clm_hk_017",
+      "source_id": "src_b195869af74f99c3",
+      "locator": "DOCX section sec-17",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_harold-k_18",
+      "claim_id": "clm_hk_018",
+      "source_id": "src_82df80245018355e",
+      "locator": "DOCX section sec-18",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_harold-k_19",
+      "claim_id": "clm_hk_019",
+      "source_id": "src_52f3c1f831074ca9",
+      "locator": "DOCX section sec-19",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_harold-k_20",
+      "claim_id": "clm_hk_020",
+      "source_id": "src_8dcdf1ba1c66f85c",
+      "locator": "DOCX section sec-20",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_harold-k_21",
+      "claim_id": "clm_hk_021",
+      "source_id": "src_fef3303ea2ee0b11",
+      "locator": "DOCX section sec-21",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_harold-k_22",
+      "claim_id": "clm_hk_022",
+      "source_id": "src_0c45e194419fc740",
+      "locator": "DOCX section sec-22",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_harold-k_23",
+      "claim_id": "clm_hk_023",
+      "source_id": "src_6566cf34bab5bb90",
+      "locator": "DOCX section sec-23",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_harold-k_24",
+      "claim_id": "clm_hk_024",
+      "source_id": "src_ccd63be717293a97",
+      "locator": "DOCX section sec-24",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_harold-k_25",
+      "claim_id": "clm_hk_025",
+      "source_id": "src_34a617e6488c78fe",
+      "locator": "DOCX section sec-25",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_harold-k_26",
+      "claim_id": "clm_hk_026",
+      "source_id": "src_495977e979b68282",
+      "locator": "DOCX section sec-26",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_harold-k_27",
+      "claim_id": "clm_hk_027",
+      "source_id": "src_4d76c9342703c7a3",
+      "locator": "DOCX section sec-27",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_harold-k_28",
+      "claim_id": "clm_hk_028",
+      "source_id": "src_869f1aac9f901854",
+      "locator": "DOCX section sec-28",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_harold-k_29",
+      "claim_id": "clm_hk_029",
+      "source_id": "src_0abd6d69124a4af0",
+      "locator": "DOCX section sec-29",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_harold-k_30",
+      "claim_id": "clm_hk_030",
+      "source_id": "src_acd1008164c3b96e",
+      "locator": "DOCX section sec-30",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "media_state": "editorially_selected",
+  "workflow": {
+    "decision": "AUTO_APPROVE",
+    "note": "RU/EN DOCX pair passed structure and source URL checks; claims retain explicit section-level attribution.",
+    "converted_by": "VANSMITHLAB publication workflow",
+    "converted_at": "2026-08-14T00:00:00.000Z"
+  },
+  "hero_image": {
+    "src": "/images/glossary/curators/harold-koda-costume-curation-collection-display-hero-v1-card.svg",
+    "alt": "Редакционная карточка: Harold Koda",
+    "caption": "Harold Koda",
+    "credit": "VANSMITHLAB · оригинальная редакционная графика, 2026",
+    "origin": "original_diagram"
+  }
+}

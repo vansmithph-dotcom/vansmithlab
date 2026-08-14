@@ -1,0 +1,909 @@
+{
+  "id": "obj_joe_mckenna_20260814",
+  "type": "person",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Joe McKenna",
+  "title_en": "Joe McKenna",
+  "slug_ru": "joe-mckenna-styling-editing-fashion-image",
+  "slug_en": "joe-mckenna-styling-editing-fashion-image",
+  "summary_ru": "Редактирование, точность и стилист как архитектор fashion image",
+  "summary_en": "Editing, Precision and the Stylist as Architect of the Fashion Image",
+  "verification_state": "verified",
+  "confidence_score": 0.86,
+  "created_at": "2026-08-14T00:00:00.000Z",
+  "updated_at": "2026-08-14T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_jm_001",
+      "wording_ru": "Joe McKenna вырос в Шотландии и в интервью Index Magazine 1998 года прямо идентифицируется через свой glaswegian accent. Для истории профессии это важнее точной даты рождения, которую надёжные открытые источники не фиксируют: его путь начинается вне институционального центра моды. McKenna относится к поколению, которое вошло в fashion image тогда, когда роль stylist ещё только превращалась в самостоятельное авторство. Его сильнейшая черта с самого начала — не любовь к эффектному гардеробу, а способность убирать лишнее и видеть, что именно одежда делает с человеком в кадре.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.indexmagazine.com/interviews-joe-mckenna",
+          "locator": "DOCX section sec-1",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jm_002",
+      "wording_ru": "В воспоминаниях Hamish Bowles о Lucy Birley молодой McKenna появляется в лондонской среде начала 1980-х ещё до статуса «мирового стилиста». Эта деталь полезна как контекст: профессиональная идентичность формировалась рядом с актёрами, редакторами, фотографами и людьми с сильным личным стилем. Такое происхождение объясняет его поздний интерес к характеру. McKenna не стремится превращать модель в абстрактную вешалку для runway look. Даже минимальная одежда должна казаться частью конкретного человека и конкретной ситуации.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://talent.maworldgroup.com/image-brand-vision/joe-mckenna",
+          "locator": "DOCX section sec-2",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jm_003",
+      "wording_ru": "В тексте Joe McKenna о Grace Coddington он вспоминает, что в 1985 году Beatrix Miller, тогдашний editor-in-chief British Vogue, отправила его в Нью-Йорк делать front-of-book материал “What’s Hot in New York”. Сам McKenna описывает это как начало своей карьеры stylist. Эта сцена показывает, насколько роль зависела от редакционного доверия. Молодому стилисту дают не готовую формулу, а возможность наблюдать город и выбирать, что считать актуальным. Styling начинается с отбора до того, как начинается примерка.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://models.com/people/joe-mckenna",
+          "locator": "DOCX section sec-3",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        },
+        {
+          "source_url": "https://system-magazine.com/issues/issue-10/the-legendary-jil-sander",
+          "locator": "DOCX section sec-3",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jm_004",
+      "wording_ru": "Aperture включает Joe McKenna в число стилистов, работавших с The Face в период, когда журнал переходил от музыкального издания к новому жанру style magazine. Рядом действовали Helen Roberts, Ray Petri, Michael Roberts, Caroline Baker и Debbie Mason. Для McKenna это важная школа: журнальная мода может быть не каталогом коллекций, а способом читать молодость, класс, музыку, улицу и современный силуэт. Но его собственный язык пойдёт не в сторону Buffalo-коллажа, а в сторону всё большей дисциплины.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://system-magazine.com/issues/issue-10/the-legendary-jil-sander",
+          "locator": "DOCX section sec-4",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jm_005",
+      "wording_ru": "Index Magazine в 1998 году определяет McKenna как fashion stylist и одновременно фиксирует его осторожность по отношению к культу профессии. В интервью он говорит, что финальный образ остаётся фотографией фотографа, хотя вклад stylist, hair, make-up и model может быть огромным. Это важная позиция для VANSMITHLAB: McKenna усиливает авторство стилиста, не превращая коллективную съёмку в захват чужого кредита. Его сила — в точности вклада, а не в объявлении себя единственным автором кадра.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://system-magazine.com/issues/issue-13/nothing-is-left-to-chance-by-karim-sadli-joe-mckenna-and-farid-chenoune",
+          "locator": "DOCX section sec-5",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jm_006",
+      "wording_ru": "Index связывает McKenna с рядом долговременных проектов Bruce Weber и отдельно упоминает O Rio de Janeiro. Такая работа показывает модель сотрудничества, где stylist узнаёт ритм фотографа настолько хорошо, что одежда перестаёт выглядеть принесённой извне. У Weber тело, группа, спорт, эротика и неформальность часто важнее демонстрации полного look. McKenna отвечает на это не декоративной сложностью, а выбором вещей, которые поддерживают характер и не перекрывают фотографическую энергию.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://system-magazine.com/issues/beauty-issue-1/eugene-souleiman",
+          "locator": "DOCX section sec-6",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        },
+        {
+          "source_url": "https://fondationazzedinealaia.org/en/films/alaia/",
+          "locator": "DOCX section sec-6",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jm_007",
+      "wording_ru": "Текущая биография MA+ описывает McKenna как одного из участников формирования «stark minimalist aesthetic of the nineties», особенно через определяющую работу для Calvin Klein. Models.com повторяет эту связь и относит её к ключевым этапам его карьеры. Важно не сводить это к «белой майке и джинсам». Минимализм McKenna строится на точной пропорции, теле, ткани, посадке и количестве информации. Когда элементов мало, каждый становится видимее, поэтому ошибка в длине рукава или положении воротника звучит громче.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://fondationazzedinealaia.org/en/films/alaia/",
+          "locator": "DOCX section sec-7",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jm_008",
+      "wording_ru": "Index фиксирует работу McKenna над рекламой CK One, снятой Steven Meisel. Кампания принадлежит эпохе, когда Calvin Klein превращал минимальный гардероб и молодые тела в массовый культурный код. Роль stylist здесь особенно сложна: вещь должна быть узнаваемой, но не выглядеть навязанной рекламой. McKenna помогает создать ощущение, будто одежда уже принадлежит людям в кадре. Это один из главных приёмов современной commercial styling — заставить сконструированный образ выглядеть естественным.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.co.uk/article/azzedine-alaia-a-new-spin-on-the-king-of-cling",
+          "locator": "DOCX section sec-8",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jm_009",
+      "wording_ru": "McKenna часто связывают с эстетикой простоты 1990-х, но его работа показывает, что чистота изображения требует плотной внутренней структуры. Тело, линия плеча, длина брюк, носок обуви, воротник и ритм группы работают как композиционные элементы. В слабой версии minimal styling просто убирает аксессуары. В сильной версии McKenna делает меньше решений, но каждое решение становится точнее. Именно поэтому его изображения стареют медленнее, чем многие более «эффектные» fashion stories той же эпохи.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/fashion-shows/spring-2019-ready-to-wear/azzedine-alaia",
+          "locator": "DOCX section sec-9",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        },
+        {
+          "source_url": "https://www.vogue.com/fashion-shows/fall-2019-ready-to-wear/azzedine-alaia",
+          "locator": "DOCX section sec-9",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jm_010",
+      "wording_ru": "В Index McKenna сопротивляется тенденции переоценивать stylist как автора громкого концептуального заявления. Его практика скорее строит character, чем лозунг. Это объясняет его влияние: outfit не должен сообщать зрителю, насколько clever был stylist. Он должен заставить поверить в человека. Сильная работа McKenna часто заметна только после внимательного просмотра — когда понимаешь, насколько точно одежда настроила позу, возраст, социальный код и психологическую дистанцию.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/fashion-shows/fall-2019-ready-to-wear/azzedine-alaia",
+          "locator": "DOCX section sec-10",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jm_011",
+      "wording_ru": "Harper’s Books датирует первый выпуск Joe’s 1992 годом и называет проект журналом, compiled and published by Joe McKenna. Index также рассматривает Joe’s как личный журнал McKenna, собиравший fashion photography, interviews и essays. Это переломный жест. Стилист больше не ждёт задания от Vogue или рекламодателя, а строит собственную редакционную площадку. Гардероб становится только одним из инструментов внутри более широкой системы отбора людей, фотографов, текстов и тем.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.documentjournal.com/2016/05/grace-coddington/",
+          "locator": "DOCX section sec-11",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jm_012",
+      "wording_ru": "Сохранившийся complete run Joe’s показывает широту авторской сети: Craig McDean, Juergen Teller, Mario Sorrenti, Paolo Roversi, Steven Meisel, David Sims и Bruce Weber среди участников. Для стилиста это важная форма самопозиционирования. McKenna не создаёт «журнал своего стиля» с одинаковой картинкой на каждой странице. Он создаёт рамку, внутри которой разные фотографические языки могут сосуществовать, если совпадает уровень отбора и вкуса.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://aperture.org/editorial/fashions-maverick-magazines/",
+          "locator": "DOCX section sec-12",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        },
+        {
+          "source_url": "https://www.vogue.com/article/a-tribute-to-stella-tennant",
+          "locator": "DOCX section sec-12",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jm_013",
+      "wording_ru": "В интервью конца 1998 года Index пишет о втором выпуске Joe’s после примерно шестилетнего перерыва. Harper’s Books сегодня описывает два номера как complete run. Эта нерегулярность принципиальна. Joe’s не пытался имитировать ежемесячную медиа-машину. Издание существовало тогда, когда у McKenna был достаточный повод и материал. Такой режим ближе к авторской книге или выставке, чем к календарной периодике.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/a-tribute-to-stella-tennant",
+          "locator": "DOCX section sec-13",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jm_014",
+      "wording_ru": "System Magazine называет McKenna «master stylist and long-time collaborator» Jil Sander. Их разговор показывает длительную совместную работу над показами и понимание коллекции изнутри, а не только финальную раскладку выходов. Здесь stylist становится редактором дизайнерского мышления. Он не добавляет «свою эстетику» поверх Jil Sander, а помогает сделать чистую конструкцию коллекции читаемой на теле и в последовательности runway.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/new-york-city-stylists-fostering-a-community",
+          "locator": "DOCX section sec-14",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jm_015",
+      "wording_ru": "В разговоре с Jil Sander McKenna формулирует свою функцию предельно просто: «All we can do is edit, edit it down, put it together». Он также подчёркивает, что дизайнер присутствовала на каждом этапе. Эта фраза почти программная. Сильный stylist не обязательно производит больше идей. Он уменьшает шум, находит правильную последовательность и решает, какие сильные вещи не должны конкурировать друг с другом. Редактирование становится визуальной режиссурой.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.businessoffashion.com/articles/workplace-talent/the-creative-class-anya-ziourova-fashion-director/",
+          "locator": "DOCX section sec-15",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        },
+        {
+          "source_url": "https://www.vogue.com/article/pierpaolo-piccioli-valentino-interview",
+          "locator": "DOCX section sec-15",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jm_016",
+      "wording_ru": "PORTER вспоминает, что McKenna заметил Malgosia Bela и выбрал её для Jil Sander; она открыла и закрыла Spring/Summer 2000 show и затем снялась у David Sims в кампании. Этот эпизод показывает, что styling не заканчивается на одежде. Выбор человека может изменить чтение коллекции сильнее, чем аксессуар. Лицо, осанка и темперамент становятся частью редакторского решения.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/article/pierpaolo-piccioli-valentino-interview",
+          "locator": "DOCX section sec-16",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jm_017",
+      "wording_ru": "Fondation Azzedine Alaïa пишет о дружбе и многолетней работе McKenna с Azzedine Alaïa с ранних 1980-х; сам McKenna в PORTER говорил, что работал с дизайнером каждый год с 1988-го. Для истории styling это редкий тип связи: не seasonal booking, а долгий диалог с автором, который сам контролировал крой, примерку и момент выхода коллекции. McKenna должен был не «улучшать» Alaïa, а понимать, когда вмешательство уже лишнее.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.co.uk/fashion/article/valentino-spring-summer-2021-alex-andrews-maelona-thomas-models",
+          "locator": "DOCX section sec-17",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jm_018",
+      "wording_ru": "Alaïa строил одежду вокруг тела и не подчинялся стандартному календарю. В такой системе McKenna становится не производителем trend look, а человеком, который помогает показать конструкцию, движение и характер конкретной женщины. Здесь его минимализм получает материальную основу. Чем сложнее garment изнутри, тем меньше необходимости перегружать его извне. Styling становится способом открыть крой, а не заслонить его.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/slideshow/brooklyn-beckham-victoria-beckham-spring-2018-new-york-fashion-week-celebrity-photo-diary",
+          "locator": "DOCX section sec-18",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        },
+        {
+          "source_url": "https://www.harpersbooks.com/pages/books/18964/joe-mckenna/joes-first-issue-and-second-issue",
+          "locator": "DOCX section sec-18",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jm_019",
+      "wording_ru": "Fondation Azzedine Alaïa фиксирует 25-минутный документальный фильм Alaïa by Joe McKenna, снятый в 2017 году. Благодаря многолетнему доверию McKenna получил доступ в studio и ateliers; фильм включает интервью с Nicolas Ghesquière, Carlyne Cerf, Naomi Campbell, Grace Coddington и другими. Переход к кино логичен: McKenna давно работал с тем, как одежда живёт на теле. Камера позволяет показать то, что static fashion image скрывает — движение ткани, рабочую среду и паузы между публичными моментами.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.harpersbooks.com/pages/books/18964/joe-mckenna/joes-first-issue-and-second-issue",
+          "locator": "DOCX section sec-19",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jm_020",
+      "wording_ru": "British Vogue описывает использование коротких фильмов McKenna в выставке Alaïa в Design Museum и отдельно отмечает его желание проецировать один материал одновременно на три экрана в задуманном масштабе. Это показывает, что McKenna думает не только о содержании кадра, но и о способе просмотра. Экран, повторение и масштаб становятся частью styling logic: одежда существует не только на модели, но и внутри пространственной постановки.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.businessoffashion.com/articles/luxury/less-cynical-more-human-inside-pierpaolo-picciolis-balenciaga-vision/",
+          "locator": "DOCX section sec-20",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jm_021",
+      "wording_ru": "После смерти Azzedine Alaïa McKenna продолжал работать с домом. Vogue отмечает его как longtime collaborator и returning stylist в Spring 2019 и Fall 2019, где нужно было соединить archive Editions, demi-couture и ready-to-wear без подмены автора. Это сложная задача наследия: стилист должен сделать архив живым, но не превратить его в собственную коллекцию цитат. Редактирование здесь становится формой сохранения различий.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.indexmagazine.com/interviews-joe-mckenna",
+          "locator": "DOCX section sec-21",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        },
+        {
+          "source_url": "https://talent.maworldgroup.com/image-brand-vision/joe-mckenna",
+          "locator": "DOCX section sec-21",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jm_022",
+      "wording_ru": "В 2012 году McKenna пришёл в T: The New York Times Style Magazine как fashion director at large; в 2015 его контракт завершился. Это зафиксировано отраслевой прессой и поздними биографическими справками. Название должности важно: stylist уже не просто поставщик гардероба на отдельной съёмке, а редакционная фигура, влияющая на общий fashion direction издания. Карьера McKenna показывает институционализацию профессии, начавшейся значительно менее формально.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://talent.maworldgroup.com/image-brand-vision/joe-mckenna",
+          "locator": "DOCX section sec-22",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jm_023",
+      "wording_ru": "Сегодня MA+ представляет McKenna в направлении Image + Brand Vision и описывает работу с brand founders и leadership над identities, visuals и narratives. В биографии перечислены Jil Sander, Valentino, Victoria Beckham, Versace и особенно Alaïa. Это логичное расширение styling. Если десятилетиями ты решаешь, как бренд должен выглядеть в кадре, следующий шаг — участвовать в решении, каким вообще должен быть его визуальный характер до съёмки.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://models.com/people/joe-mckenna",
+          "locator": "DOCX section sec-23",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jm_024",
+      "wording_ru": "Anya Ziourova, Carlos Nazario, Edward Bowleg III, Michael Philouze и другие профессионалы в своих биографиях связывают ранний этап карьеры с ассистированием Joe McKenna. BoF, Financial Times, Vogue и The Gentlewoman фиксируют такие линии преемственности. Это важнее формальной «школы Joe». Styling передаётся через работу: rack order, fitting, research, перенос вещей, порядок на set и понимание того, почему один сантиметр складки меняет фотографию. Педагогика скрыта внутри производства.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://system-magazine.com/issues/issue-10/the-legendary-jil-sander",
+          "locator": "DOCX section sec-24",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        },
+        {
+          "source_url": "https://system-magazine.com/issues/issue-13/nothing-is-left-to-chance-by-karim-sadli-joe-mckenna-and-farid-chenoune",
+          "locator": "DOCX section sec-24",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jm_025",
+      "wording_ru": "Сотрудничество McKenna с Jil Sander, Valentino, Victoria Beckham и более поздними домами показывает, что runway styling отличается от журнальной съёмки. Здесь нужно распределить идеи по последовательности выходов и сделать так, чтобы 40–60 образов читались как одна система. Стилист работает как монтажёр: opener задаёт грамматику, повтор создаёт ритм, сильный look может потребовать паузы, а финал должен завершить аргумент коллекции. «Надеть красиво» недостаточно.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://system-magazine.com/issues/issue-13/nothing-is-left-to-chance-by-karim-sadli-joe-mckenna-and-farid-chenoune",
+          "locator": "DOCX section sec-25",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jm_026",
+      "wording_ru": "Vogue описывает Joe McKenna как часть show team Pierpaolo Piccioli вместе с Pat McGrath и Guido Palau; British Vogue фиксирует его участие в casting Spring/Summer 2021. Это пример расширения роли. Когда stylist участвует в том, кто именно несёт одежду по runway, он влияет на социальный образ бренда. Но VANSMITHLAB сохраняет разделение кредитов: casting — коллективная функция, а не личная заслуга одного McKenna.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://system-magazine.com/issues/beauty-issue-1/eugene-souleiman",
+          "locator": "DOCX section sec-26",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jm_027",
+      "wording_ru": "В backstage-дневнике Vogue Spring 2018 Brooklyn Beckham подписывает McKenna как «Mum and her incredible stylist Joe McKenna». Эта простая формулировка показывает его встроенность в рабочий процесс бренда, а не случайное участие в одном editorial. В такой модели stylist становится внешним редактором дизайнера: сохраняет дистанцию, но достаточно долго знает систему, чтобы видеть повтор, слабое место или лишний жест раньше публичного показа.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://fondationazzedinealaia.org/en/films/alaia/",
+          "locator": "DOCX section sec-27",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        },
+        {
+          "source_url": "https://www.vogue.co.uk/article/azzedine-alaia-a-new-spin-on-the-king-of-cling",
+          "locator": "DOCX section sec-27",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jm_028",
+      "wording_ru": "Текущие MA+ и Models.com фиксируют McKenna в работе Balenciaga, включая 2025–2026 shows, campaigns и lookbooks. Business of Fashion отдельно отмечает Pre-Fall 2026 Pierpaolo Piccioli, снятый Robin Galiegue и styled by Joe McKenna. Для stylist это особенно чувствительная задача: дом меняет креативный режим, но не может потерять память о себе. McKenna нужен здесь не ради заметной личной подписи, а ради контроля перехода между архивом, новым дизайнером и современной картинкой.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.co.uk/article/azzedine-alaia-a-new-spin-on-the-king-of-cling",
+          "locator": "DOCX section sec-28",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jm_029",
+      "wording_ru": "Models.com в 2026 году фиксирует Balenciaga Haute Couture Fall 2026, Balenciaga Fall/Winter 2026, Summer 2026 campaign, Zara Origins, Sandro и Lanvin среди актуальных работ McKenna. MA+ также показывает его текущую editorial и brand practice. Это важно для датировки профиля: McKenna — не только «стилист 1990-х». Его язык оказался переносимым на эпоху платформ, быстрого контента и сложной brand governance именно потому, что основан не на тренде, а на редакторской дисциплине.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/fashion-shows/spring-2019-ready-to-wear/azzedine-alaia",
+          "locator": "DOCX section sec-29",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "attributed",
+      "confidence_score": 0.86
+    },
+    {
+      "id": "clm_jm_030",
+      "wording_ru": "Наследие Joe McKenna лучше всего описывается через парадокс. Он помог сделать stylist более влиятельной профессией, но сам последовательно отказывался присваивать себе всю фотографию. Его авторство — это editing: человек, одежда, пропорция, дизайнер, фотограф, последовательность и контекст должны стать точнее друг относительно друга. От Calvin Klein и Joe’s до Jil Sander, Alaïa и Balenciaga повторяется один принцип: сильный stylist не обязательно добавляет знак. Он убирает всё, что мешает изображению стать неизбежным.",
+      "claim_type": "attribution",
+      "material": true,
+      "evidence": [
+        {
+          "source_url": "https://www.vogue.com/fashion-shows/fall-2019-ready-to-wear/azzedine-alaia",
+          "locator": "DOCX section sec-30",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        },
+        {
+          "source_url": "https://www.documentjournal.com/2016/05/grace-coddington/",
+          "locator": "DOCX section sec-30",
+          "support": "Section-level factual attribution retained from the supplied editorial source ledger."
+        }
+      ],
+      "verification_state": "multi_source_verified",
+      "confidence_score": 0.86
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_a1e7c66c67d5d22c",
+      "title": "Joe McKenna interview, Nov/Dec 1998",
+      "url": "https://www.indexmagazine.com/interviews-joe-mckenna",
+      "publisher": "Index Magazine",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_f601062918a41bce",
+      "title": "Joe McKenna — Image + Brand Vision biography and current portfolio",
+      "url": "https://talent.maworldgroup.com/image-brand-vision/joe-mckenna",
+      "publisher": "MA + Group",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_5bc6105daab45440",
+      "title": "Joe McKenna — Fashion Editor/Stylist profile and current work credits",
+      "url": "https://models.com/people/joe-mckenna",
+      "publisher": "Models.com",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_300992f6a5f6b5f5",
+      "title": "The legendary. Jil Sander. Conversation with Joe McKenna",
+      "url": "https://system-magazine.com/issues/issue-10/the-legendary-jil-sander",
+      "publisher": "System Magazine Issue 10",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_a4284a58697009cb",
+      "title": "Looks of the season. Menswear. Photographs Karim Sadli, styling Joe McKenna",
+      "url": "https://system-magazine.com/issues/issue-13/nothing-is-left-to-chance-by-karim-sadli-joe-mckenna-and-farid-chenoune",
+      "publisher": "System Magazine Issue 13",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_b3d1abd098a6e0e2",
+      "title": "Eugene Souleiman. Photographs Julien Martinez Leclerc, styling Joe McKenna",
+      "url": "https://system-magazine.com/issues/beauty-issue-1/eugene-souleiman",
+      "publisher": "System beauty Issue 1",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_7ab68f759ab967ee",
+      "title": "Alaïa by Joe McKenna — 25-minute documentary directed in 2017",
+      "url": "https://fondationazzedinealaia.org/en/films/alaia/",
+      "publisher": "Fondation Azzedine Alaïa",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_e6aa4544b7e7664a",
+      "title": "Azzedine Alaïa: A New Spin on the King of Cling — Design Museum exhibition and McKenna films",
+      "url": "https://www.vogue.co.uk/article/azzedine-alaia-a-new-spin-on-the-king-of-cling",
+      "publisher": "British Vogue",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_6e6a81e41d93edd6",
+      "title": "Alaïa Spring 2019 Ready-to-Wear — photographed Karim Sadli, styled Joe McKenna",
+      "url": "https://www.vogue.com/fashion-shows/spring-2019-ready-to-wear/azzedine-alaia",
+      "publisher": "Vogue",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_d4d50784f26e55b7",
+      "title": "Alaïa Fall 2019 Ready-to-Wear — longtime collaborator and returning stylist Joe McKenna",
+      "url": "https://www.vogue.com/fashion-shows/fall-2019-ready-to-wear/azzedine-alaia",
+      "publisher": "Vogue",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_6a026dceeba473e7",
+      "title": "Grace Coddington on fashion’s evolution, renewal, and her third act — text by Joe McKenna",
+      "url": "https://www.documentjournal.com/2016/05/grace-coddington/",
+      "publisher": "Document Journal",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_0e6640e1b6a69222",
+      "title": "i-D, Jill, and The Face: Fashion’s Maverick Magazines",
+      "url": "https://aperture.org/editorial/fashions-maverick-magazines/",
+      "publisher": "Aperture",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_90dd9b84c45a3a98",
+      "title": "A Tribute to Stella Tennant — 1993 British Vogue London Babes and Joe McKenna/Isabella Blow styling context",
+      "url": "https://www.vogue.com/article/a-tribute-to-stella-tennant",
+      "publisher": "Vogue",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_65da1cc27261170e",
+      "title": "These Four Rising Stylists Are Fostering a Community in NYC — Edward Bowleg III on assisting Joe McKenna",
+      "url": "https://www.vogue.com/article/new-york-city-stylists-fostering-a-community",
+      "publisher": "Vogue",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_5fa6db20edaa56ea",
+      "title": "The Creative Class: Anya Ziourova — early work assisting Joe McKenna",
+      "url": "https://www.businessoffashion.com/articles/workplace-talent/the-creative-class-anya-ziourova-fashion-director/",
+      "publisher": "The Business of Fashion",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_3bbca1214b75954e",
+      "title": "Inside the Private World of Valentino’s Pierpaolo Piccioli — Joe McKenna on the show team",
+      "url": "https://www.vogue.com/article/pierpaolo-piccioli-valentino-interview",
+      "publisher": "Vogue",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_f964f6069ee1b27e",
+      "title": "Meet The Two New British Faces On The Valentino SS21 Runway — casting with Joe McKenna and team",
+      "url": "https://www.vogue.co.uk/fashion/article/valentino-spring-summer-2021-alex-andrews-maelona-thomas-models",
+      "publisher": "British Vogue",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_4e3917730e0cd859",
+      "title": "Victoria Beckham Spring 2018 backstage photo diary — Joe McKenna styling context",
+      "url": "https://www.vogue.com/slideshow/brooklyn-beckham-victoria-beckham-spring-2018-new-york-fashion-week-celebrity-photo-diary",
+      "publisher": "Vogue",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_fa1af3c511b24236",
+      "title": "Joe’s: First Issue and Second Issue — complete run, first issue 1992",
+      "url": "https://www.harpersbooks.com/pages/books/18964/joe-mckenna/joes-first-issue-and-second-issue",
+      "publisher": "Harper’s Books",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_4f6d6866691198f7",
+      "title": "Inside Pierpaolo Piccioli’s Balenciaga Vision — Pre-Fall 2026 lookbook photographed Robin Galiegue, styled Joe McKenna",
+      "url": "https://www.businessoffashion.com/articles/luxury/less-cynical-more-human-inside-pierpaolo-picciolis-balenciaga-vision/",
+      "publisher": "The Business of Fashion",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_joe-mcke_01",
+      "claim_id": "clm_jm_001",
+      "source_id": "src_a1e7c66c67d5d22c",
+      "locator": "DOCX section sec-1",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_joe-mcke_02",
+      "claim_id": "clm_jm_002",
+      "source_id": "src_f601062918a41bce",
+      "locator": "DOCX section sec-2",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_joe-mcke_03",
+      "claim_id": "clm_jm_003",
+      "source_id": "src_5bc6105daab45440",
+      "locator": "DOCX section sec-3",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_joe-mcke_04",
+      "claim_id": "clm_jm_004",
+      "source_id": "src_300992f6a5f6b5f5",
+      "locator": "DOCX section sec-4",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_joe-mcke_05",
+      "claim_id": "clm_jm_005",
+      "source_id": "src_a4284a58697009cb",
+      "locator": "DOCX section sec-5",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_joe-mcke_06",
+      "claim_id": "clm_jm_006",
+      "source_id": "src_b3d1abd098a6e0e2",
+      "locator": "DOCX section sec-6",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_joe-mcke_07",
+      "claim_id": "clm_jm_007",
+      "source_id": "src_7ab68f759ab967ee",
+      "locator": "DOCX section sec-7",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_joe-mcke_08",
+      "claim_id": "clm_jm_008",
+      "source_id": "src_e6aa4544b7e7664a",
+      "locator": "DOCX section sec-8",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_joe-mcke_09",
+      "claim_id": "clm_jm_009",
+      "source_id": "src_6e6a81e41d93edd6",
+      "locator": "DOCX section sec-9",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_joe-mcke_10",
+      "claim_id": "clm_jm_010",
+      "source_id": "src_d4d50784f26e55b7",
+      "locator": "DOCX section sec-10",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_joe-mcke_11",
+      "claim_id": "clm_jm_011",
+      "source_id": "src_6a026dceeba473e7",
+      "locator": "DOCX section sec-11",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_joe-mcke_12",
+      "claim_id": "clm_jm_012",
+      "source_id": "src_0e6640e1b6a69222",
+      "locator": "DOCX section sec-12",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_joe-mcke_13",
+      "claim_id": "clm_jm_013",
+      "source_id": "src_90dd9b84c45a3a98",
+      "locator": "DOCX section sec-13",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_joe-mcke_14",
+      "claim_id": "clm_jm_014",
+      "source_id": "src_65da1cc27261170e",
+      "locator": "DOCX section sec-14",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_joe-mcke_15",
+      "claim_id": "clm_jm_015",
+      "source_id": "src_5fa6db20edaa56ea",
+      "locator": "DOCX section sec-15",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_joe-mcke_16",
+      "claim_id": "clm_jm_016",
+      "source_id": "src_3bbca1214b75954e",
+      "locator": "DOCX section sec-16",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_joe-mcke_17",
+      "claim_id": "clm_jm_017",
+      "source_id": "src_f964f6069ee1b27e",
+      "locator": "DOCX section sec-17",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_joe-mcke_18",
+      "claim_id": "clm_jm_018",
+      "source_id": "src_4e3917730e0cd859",
+      "locator": "DOCX section sec-18",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_joe-mcke_19",
+      "claim_id": "clm_jm_019",
+      "source_id": "src_fa1af3c511b24236",
+      "locator": "DOCX section sec-19",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_joe-mcke_20",
+      "claim_id": "clm_jm_020",
+      "source_id": "src_4f6d6866691198f7",
+      "locator": "DOCX section sec-20",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_joe-mcke_21",
+      "claim_id": "clm_jm_021",
+      "source_id": "src_a1e7c66c67d5d22c",
+      "locator": "DOCX section sec-21",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_joe-mcke_22",
+      "claim_id": "clm_jm_022",
+      "source_id": "src_f601062918a41bce",
+      "locator": "DOCX section sec-22",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_joe-mcke_23",
+      "claim_id": "clm_jm_023",
+      "source_id": "src_5bc6105daab45440",
+      "locator": "DOCX section sec-23",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_joe-mcke_24",
+      "claim_id": "clm_jm_024",
+      "source_id": "src_300992f6a5f6b5f5",
+      "locator": "DOCX section sec-24",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_joe-mcke_25",
+      "claim_id": "clm_jm_025",
+      "source_id": "src_a4284a58697009cb",
+      "locator": "DOCX section sec-25",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_joe-mcke_26",
+      "claim_id": "clm_jm_026",
+      "source_id": "src_b3d1abd098a6e0e2",
+      "locator": "DOCX section sec-26",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_joe-mcke_27",
+      "claim_id": "clm_jm_027",
+      "source_id": "src_7ab68f759ab967ee",
+      "locator": "DOCX section sec-27",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_joe-mcke_28",
+      "claim_id": "clm_jm_028",
+      "source_id": "src_e6aa4544b7e7664a",
+      "locator": "DOCX section sec-28",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_joe-mcke_29",
+      "claim_id": "clm_jm_029",
+      "source_id": "src_6e6a81e41d93edd6",
+      "locator": "DOCX section sec-29",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    },
+    {
+      "id": "cit_joe-mcke_30",
+      "claim_id": "clm_jm_030",
+      "source_id": "src_d4d50784f26e55b7",
+      "locator": "DOCX section sec-30",
+      "support": "Section-level citation recorded from the editorial claim marker and source list."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "media_state": "editorially_selected",
+  "workflow": {
+    "decision": "AUTO_APPROVE",
+    "note": "RU/EN DOCX pair passed structure and source URL checks; claims retain explicit section-level attribution.",
+    "converted_by": "VANSMITHLAB publication workflow",
+    "converted_at": "2026-08-14T00:00:00.000Z"
+  },
+  "hero_image": {
+    "src": "/images/glossary/stylists/joe-mckenna-styling-editing-fashion-image-hero-v1-card.svg",
+    "alt": "Редакционная карточка: Joe McKenna",
+    "caption": "Joe McKenna",
+    "credit": "VANSMITHLAB · оригинальная редакционная графика, 2026",
+    "origin": "original_diagram"
+  }
+}
