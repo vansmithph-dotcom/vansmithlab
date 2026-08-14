@@ -33,10 +33,12 @@
   "body_hash": "1a3bf6f79056795f59abb7c7c9dcb66031897daf15d1bb36ac29aa2aa157db99",
   "hero_image": {
     "src": "/images/glossary/artists/andy-warhol-hero-v2-card-v1.webp",
-    "alt": "Редакционная иллюстрация: Энди Уорхол",
-    "caption": "Редакционная иллюстрация: Энди Уорхол. Массовое производство, знаменитость, повторение, Factory.",
-    "credit": "VANSMITHLAB · AI-иллюстрация, 2026",
-    "origin": "ai_illustration"
+    "alt": "Редакционная AI-портретная иллюстрация автора",
+    "caption": "AI-портретная реконструкция автора. Не является документальной фотографией.",
+    "credit": "VANSMITHLAB · оригинальная AI-иллюстрация, 2026",
+    "origin": "ai_illustration",
+    "alt_text": "Редакционная AI-портретная иллюстрация автора",
+    "licence_or_permission": "Оригинальная AI-иллюстрация VANSMITHLAB; не документальная фотография."
   },
   "portrait_image": {
     "src": "/images/glossary/artists/andy-warhol-photo-v1.webp",

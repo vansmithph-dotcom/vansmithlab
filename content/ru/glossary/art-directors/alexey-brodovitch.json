@@ -44,10 +44,12 @@
   ],
   "hero_image": {
     "src": "/images/glossary/alexey-brodovitch.webp",
-    "alt": "Авторский редакционный портрет Алексея Бродовича рядом с экспериментальной журнальной типографикой",
-    "caption": "Авторская редакционная иллюстрация VANSMITHLAB",
-    "credit": "VANSMITHLAB · AI-иллюстрация",
-    "origin": "ai_illustration"
+    "alt": "Редакционная AI-портретная иллюстрация автора",
+    "caption": "AI-портретная реконструкция автора. Не является документальной фотографией.",
+    "credit": "VANSMITHLAB · оригинальная AI-иллюстрация, 2026",
+    "origin": "ai_illustration",
+    "alt_text": "Редакционная AI-портретная иллюстрация автора",
+    "licence_or_permission": "Оригинальная AI-иллюстрация VANSMITHLAB; не документальная фотография."
   },
   "portrait_image": {
     "src": "/images/glossary/art-directors/alexey-brodovitch-portrait-source.webp",

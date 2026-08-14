@@ -25,10 +25,12 @@
   "body_hash": "e6674ea183b043466ba82bfff511ecf635a1e891a365581f96bb2db53aada584",
   "hero_image": {
     "src": "/images/glossary/artists/marina-abramovic-hero-v3-card.webp",
-    "alt": "Авторский редакционный портрет Марины Абрамович в минималистичном пространстве перформанса",
-    "caption": "Авторская редакционная иллюстрация VANSMITHLAB",
-    "credit": "VANSMITHLAB - AI-иллюстрация, 2026",
-    "origin": "ai_illustration"
+    "alt": "Редакционная AI-портретная иллюстрация автора",
+    "caption": "AI-портретная реконструкция автора. Не является документальной фотографией.",
+    "credit": "VANSMITHLAB · оригинальная AI-иллюстрация, 2026",
+    "origin": "ai_illustration",
+    "alt_text": "Редакционная AI-портретная иллюстрация автора",
+    "licence_or_permission": "Оригинальная AI-иллюстрация VANSMITHLAB; не документальная фотография."
   },
   "portrait_image": {
     "src": "/images/glossary/artists/marina-abramovic-portrait-ai-v1.webp",

@@ -27,10 +27,12 @@
   "body_hash": "ed5bd8455a6b992b02d3fd5d60845402cd0b9781e0ab43ceddf951b46f98dfeb",
   "hero_image": {
     "src": "/images/glossary/artists/olafur-eliasson-hero-v3-card.webp",
-    "alt": "Авторский редакционный портрет Олафура Элиассона среди света, тумана и отражающих геометрических форм",
-    "caption": "Авторская редакционная иллюстрация VANSMITHLAB",
-    "credit": "VANSMITHLAB - AI-иллюстрация, 2026",
-    "origin": "ai_illustration"
+    "alt": "Редакционная AI-портретная иллюстрация автора",
+    "caption": "AI-портретная реконструкция автора. Не является документальной фотографией.",
+    "credit": "VANSMITHLAB · оригинальная AI-иллюстрация, 2026",
+    "origin": "ai_illustration",
+    "alt_text": "Редакционная AI-портретная иллюстрация автора",
+    "licence_or_permission": "Оригинальная AI-иллюстрация VANSMITHLAB; не документальная фотография."
   },
   "portrait_image": {
     "src": "/images/glossary/artists/olafur-eliasson-portrait-ai-v1.webp",
