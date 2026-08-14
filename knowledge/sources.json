@@ -1,6 +1,6 @@
 {
   "generated_at": "2026-08-14",
-  "count": 436,
+  "count": 596,
   "sources": [
     {
       "id": "src_5db9a6bbf487b7e5",
@@ -9,6 +9,14 @@
       "publisher": "Netflix",
       "source_tier": 2,
       "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_b722edb174141abb",
+      "title": "Dry by Achille Castiglioni",
+      "url": "https://alessi.com/collections/dry",
+      "publisher": "Alessi",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
     },
     {
       "id": "src_a3920122b9bca422",
@@ -219,6 +227,30 @@
       "accessed_at": "2026-08-13"
     },
     {
+      "id": "src_51224615718afa7d",
+      "title": "Villa E-1027",
+      "url": "https://capmoderne.com/en/lieu/la-villa-e-1027/",
+      "publisher": "Cap Moderne",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_71bd673eeee6f2c5",
+      "title": "Documentation — E-1027 and Cap Moderne",
+      "url": "https://capmoderne.com/en/se_documenter/",
+      "publisher": "Cap Moderne",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_abd5b6deef8f0c1a",
+      "title": "La chambre claire : note sur la photographie — bibliographic record",
+      "url": "https://catalogue.bnf.fr/ark:/12148/cb34632476d",
+      "publisher": "Bibliothèque nationale de France",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
       "id": "src_7064a01f986adffc",
       "title": "Beverly Johnson, Her Rule & the Need for Structural Change in Fashion Now — recollection of Mellen/Avedon/Vogue set",
       "url": "https://cfda.com/news-insight/beverly-johnson-her-rule-the-need-for-structural-change-in-fashion-now/",
@@ -267,6 +299,14 @@
       "accessed_at": "2026-08-13"
     },
     {
+      "id": "src_85326165799bffe7",
+      "title": "Tabor and Villalobos — Graham Tabor biography including Blouson Noir collaboration",
+      "url": "https://cristinagrajales.com/artists-designer/tabor-and-villalobos/",
+      "publisher": "Cristina Grajales Gallery",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
       "id": "src_3c9fda86ad8fa48c",
       "title": "Material Design: A Look Back at Its Beginning",
       "url": "https://design.google/library/material-design-launch-2014",
@@ -297,6 +337,14 @@
       "publisher": "Design Museum",
       "source_tier": 2,
       "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_964105907aace06d",
+      "title": "Eileen Gray",
+      "url": "https://designmuseum.org/designers/eileen-gray",
+      "publisher": "Design Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
     },
     {
       "id": "src_391caf93378f0880",
@@ -483,12 +531,36 @@
       "accessed_at": "2026-08-13"
     },
     {
+      "id": "src_e24bdd330cc95401",
+      "title": "Jean-Michel Frank — designer history and chronology",
+      "url": "https://ecart.paris/en/pages/designer/jean-michel-frank",
+      "publisher": "Ecart",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
       "id": "src_6eae2500079ff873",
       "title": "Lost in Transmission? John Berger and the Origins of Ways of Seeing (1972)",
       "url": "https://eld.bl.uk/catalog/100123544150_0x000001",
       "publisher": "British Library eLD / History Workshop Journal record",
       "source_tier": 2,
       "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_47e3c19d6e916068",
+      "title": "Antonio Lopez: A Photo Cocktail Party",
+      "url": "https://elmuseo.org/event/antonio-lopez-a-photo-cocktail-party/",
+      "publisher": "El Museo del Barrio",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_e47f8835d6e3700f",
+      "title": "Antonio Lopez: Future Funk Fashion",
+      "url": "https://elmuseo.org/exhibition/antonio-lopez-future-funk-fashion/",
+      "publisher": "El Museo del Barrio",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
     },
     {
       "id": "src_525c460ec4a8620e",
@@ -531,6 +603,22 @@
       "accessed_at": "2026-08-13"
     },
     {
+      "id": "src_ecb41ff0112d252e",
+      "title": "Eileen Gray — Chronology",
+      "url": "https://exhibitions.bgc.bard.edu/eileengray/chronology/",
+      "publisher": "Bard Graduate Center",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_390f61991526b20d",
+      "title": "Eileen Gray — Encounters",
+      "url": "https://exhibitions.bgc.bard.edu/eileengray/encounters/",
+      "publisher": "Bard Graduate Center",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
       "id": "src_4e0832749a33e7f2",
       "title": "Fleur Cowles and the Making of Flair",
       "url": "https://eyeondesign.aiga.org/fleur-cowles-and-the-making-of-flair-historys-most-beautiful-magazine/",
@@ -547,6 +635,30 @@
       "accessed_at": "2026-08-13"
     },
     {
+      "id": "src_3fa716b76ed7f93b",
+      "title": "Achille & Pier Giacomo Castiglioni — designer profile",
+      "url": "https://flos.com/en/ch/designers/a-and-pg-castiglioni.html",
+      "publisher": "Flos",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_b9ac5aa0703422cf",
+      "title": "Arco, design icon since 1962",
+      "url": "https://flos.com/en/it/stories/arco-a-design-icon.html",
+      "publisher": "Flos",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_2b0a995cf6309da3",
+      "title": "Achille Castiglioni lamps and designer profile",
+      "url": "https://flos.com/en/pt/designers/achille-castiglioni.html",
+      "publisher": "Flos",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
       "id": "src_1b6c8163d3f159fb",
       "title": "Fluent 2 Design System",
       "url": "https://fluent2.microsoft.design/",
@@ -559,6 +671,22 @@
       "title": "Alaïa by Joe McKenna — 25-minute documentary directed in 2017",
       "url": "https://fondationazzedinealaia.org/en/films/alaia/",
       "publisher": "Fondation Azzedine Alaïa",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_1956c3c17bf157fa",
+      "title": "Antonio Lopez: Drawings and Photographs",
+      "url": "https://fondazionesozzani.org/exhibitions/2020/01/drawings-and-photographs/",
+      "publisher": "Fondazione Sozzani",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_6903a5e6eedbbb8e",
+      "title": "The Face July 1990 — 3rd Summer of Love archive discussion and credits",
+      "url": "https://forums.thefashionspot.com/threads/the-face-july-1990-kate-moss-by-corinne-day.144171/",
+      "publisher": "The Fashion Spot archive",
       "source_tier": 2,
       "accessed_at": "2026-08-14"
     },
@@ -611,6 +739,14 @@
       "accessed_at": "2026-08-13"
     },
     {
+      "id": "src_6850dd654b960d31",
+      "title": "An oral history of Kim Jones",
+      "url": "https://i-d.co/article/an-oral-history-of-kim-jones-fendi-and-dior-creative-director/",
+      "publisher": "i-D",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
       "id": "src_b95dd3ac3647b179",
       "title": "Introducing Wink and Smile, a book that celebrates 40 years of i-D",
       "url": "https://i-d.co/article/i-d-book-wink-and-smile/",
@@ -649,6 +785,14 @@
       "publisher": "i-D",
       "source_tier": 2,
       "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_19f8555ca4914668",
+      "title": "Vestoj interview controversy: article removal and restoration after Lucinda Chambers interview",
+      "url": "https://i-d.co/article/this-is-why-vestoj-removed-their-interview-with-ex-vogue-fashion-director-lucinda-chambers/",
+      "publisher": "i-D",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
     },
     {
       "id": "src_028c6561218b8f3a",
@@ -795,6 +939,22 @@
       "accessed_at": "2026-08-12"
     },
     {
+      "id": "src_deb74bcc37b032f7",
+      "title": "Antonio Lopez, estetica exuberante (1962-1987)",
+      "url": "https://mapr.org/es/visita/calendario/antonio-lopez",
+      "publisher": "Museo de Arte de Puerto Rico",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_b12f976f1cf13770",
+      "title": "Eileen Gray retrospective educational resource",
+      "url": "https://mediation.centrepompidou.fr/education/ressources/ENS-Gray/",
+      "publisher": "Centre Pompidou",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
       "id": "src_8f9d61cfa0058020",
       "title": "Manual for Freedom, Research and Creativity",
       "url": "https://meireundmeire.com/032c-workshop_032c-magazine/",
@@ -806,6 +966,14 @@
       "id": "src_5bc6105daab45440",
       "title": "Joe McKenna — Fashion Editor/Stylist profile and current work credits",
       "url": "https://models.com/people/joe-mckenna",
+      "publisher": "Models.com",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_3eb0777777d8ca74",
+      "title": "Melanie Ward — Fashion Editor/Stylist profile and credits",
+      "url": "https://models.com/people/melanie-ward",
       "publisher": "Models.com",
       "source_tier": 2,
       "accessed_at": "2026-08-14"
@@ -907,6 +1075,14 @@
       "accessed_at": "2026-08-13"
     },
     {
+      "id": "src_d2e3b5ebeadf2453",
+      "title": "Antonio: The Fine Art of Fashion Illustration",
+      "url": "https://phxart.org/exhibition/antonio-the-fine-art-of-fashion-illustration/",
+      "publisher": "Phoenix Art Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
       "id": "src_b8177ff562323394",
       "title": "Dior Talks",
       "url": "https://podcasts.dior.com/",
@@ -929,6 +1105,14 @@
       "publisher": "powerHouse Books",
       "source_tier": 2,
       "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_d46bc66f73e985f5",
+      "title": "Full Disclosure: The Edge of Information Design",
+      "url": "https://press.moma.org/exhibition/fulldisclosure/",
+      "publisher": "The Museum of Modern Art Press Office",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
     },
     {
       "id": "src_0f95dbae275c0ad7",
@@ -987,6 +1171,22 @@
       "accessed_at": "2026-08-13"
     },
     {
+      "id": "src_4cb02bcfb6853942",
+      "title": "Jean-Michel Frank — The Cage, 1937",
+      "url": "https://schiaparelli.com/en/blogs/schiaparelli-et-les-artistes/jean-michel-frank-la-cage",
+      "publisher": "Schiaparelli",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_6f17ee534aef2cd4",
+      "title": "History of the Maison — 21 Place Vendôme, Jean-Michel Frank and Alberto Giacometti",
+      "url": "https://schiaparelli.com/en/pages/l-histoire-de-la-maison",
+      "publisher": "Schiaparelli",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
       "id": "src_99b898f6bd76af67",
       "title": "John Berger Archive, Add MS 88964",
       "url": "https://searcharchives.bl.uk/catalog/032-002358665",
@@ -1011,12 +1211,44 @@
       "accessed_at": "2026-08-13"
     },
     {
+      "id": "src_998a9e2555b22c23",
+      "title": "Antonio Lopez — Hall of Fame profile",
+      "url": "https://societyillustrators.org/award-winners/antonio-lopez/",
+      "publisher": "Society of Illustrators",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
       "id": "src_6bc9cc266daebb7f",
       "title": "René Gruau — Society of Illustrators Hall of Fame profile",
       "url": "https://societyillustrators.org/award-winners/rene-gruau/",
       "publisher": "",
       "source_tier": 2,
       "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_e1d412533cc94b7b",
+      "title": "Lopez, Antonio, 1943-1987 — archival authority record",
+      "url": "https://sparc.fitnyc.edu/agents/people/1562",
+      "publisher": "Fashion Institute of Technology Special Collections and College Archives",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_481081ed74829ea7",
+      "title": "Firehouse Pole Series, finished illustration",
+      "url": "https://sparcdigital.fitnyc.edu/item/522904",
+      "publisher": "SPARC Digital, Fashion Institute of Technology",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_c985a5743701cedb",
+      "title": "Shoe Series, 1976",
+      "url": "https://sparcdigital.fitnyc.edu/items/show/2508",
+      "publisher": "SPARC Digital, Fashion Institute of Technology",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
     },
     {
       "id": "src_f93781144da1aaa6",
@@ -1055,6 +1287,14 @@
       "title": "Looks of the season. Menswear. Photographs Karim Sadli, styling Joe McKenna",
       "url": "https://system-magazine.com/issues/issue-13/nothing-is-left-to-chance-by-karim-sadli-joe-mckenna-and-farid-chenoune",
       "publisher": "System Magazine Issue 13",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_f9a6ab36a40080bb",
+      "title": "Melanie Ward: The decisive moment",
+      "url": "https://system-magazine.com/issues/issue-2/the-decisive-moment-melanie-ward",
+      "publisher": "System Magazine",
       "source_tier": 2,
       "accessed_at": "2026-08-14"
     },
@@ -1105,6 +1345,22 @@
       "publisher": "The Face",
       "source_tier": 2,
       "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_70fffc0491a03a37",
+      "title": "Dior Men’s Fall 2025 Ad Campaign — credits including Melanie Ward",
+      "url": "https://theimpression.com/dior-mens-fall-2025-ad-campaign-review/",
+      "publisher": "The Impression",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_87bc9931a07b13b8",
+      "title": "Broken Nature: Design Takes on Human Survival",
+      "url": "https://triennale.org/en/events/broken-nature",
+      "publisher": "Triennale Milano",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
     },
     {
       "id": "src_0fb577ecac7f8aa1",
@@ -1179,6 +1435,22 @@
       "accessed_at": "2026-08-13"
     },
     {
+      "id": "src_2020ddf747f77dfb",
+      "title": "The Death of the Author — text in Image-Music-Text archive copy",
+      "url": "https://writing.upenn.edu/~taransky/Barthes.pdf",
+      "publisher": "University of Pennsylvania Writing",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_880ffe4466721487",
+      "title": "Blouson Noir RTW Spring 2010",
+      "url": "https://wwd.com/runway/spring-ready-to-wear-2010/paris/blouson-noir/review/",
+      "publisher": "WWD",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
       "id": "src_6f6afba095f60749",
       "title": "Full Circle – The Dr. No Dots",
       "url": "https://www.007.com/full-circle-the-dr-no-dots/",
@@ -1211,6 +1483,30 @@
       "accessed_at": "2026-08-13"
     },
     {
+      "id": "src_e2c668eb350ddbbd",
+      "title": "Buon compleanno, Achille Castiglioni — Compasso d’Oro overview",
+      "url": "https://www.adi-design.org/buon-compleanno-achille-castiglioni.html",
+      "publisher": "ADI",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_7b850685a614e30f",
+      "title": "Premio Compasso d’Oro 1964 — beer dispenser by Achille and Pier Giacomo Castiglioni",
+      "url": "https://www.adi-design.org/upl/CdO_STORICO/CdO%20storico%20MOTIVAZIONI/Motivazioni_1964.pdf",
+      "publisher": "ADI",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_5c7655eccfde5b3c",
+      "title": "XXVI Compasso d’Oro 2020 — Arco, Compasso d’Oro alla Carriera del Prodotto",
+      "url": "https://www.adi-design.org/upl/CdO_STORICO/CdO%20storico%20MOTIVAZIONI/Motivazioni_2020.pdf",
+      "publisher": "ADI",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
       "id": "src_10e8764954fa3ea7",
       "title": "iPhone Premieres This Friday Night at Apple Retail Stores",
       "url": "https://www.apple.com/newsroom/2007/06/28iPhone-Premieres-This-Friday-Night-at-Apple-Retail-Stores/",
@@ -1233,6 +1529,22 @@
       "publisher": "Apple Newsroom",
       "source_tier": 2,
       "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_08c2a19c605b6aca",
+      "title": "Jean-Michel Frank — historical profile",
+      "url": "https://www.architecturaldigest.com/story/frank-article-012000",
+      "publisher": "Architectural Digest",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_87e521f230807dc8",
+      "title": "Jean-Michel Frank's Historic Focus Would Serve Any Current Designer Well",
+      "url": "https://www.architecturaldigest.com/story/jean-michel-franks-historic-focus-would-serve-any-current-designer-well",
+      "publisher": "Architectural Digest",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
     },
     {
       "id": "src_1e20b43c4586d44a",
@@ -1315,6 +1627,14 @@
       "accessed_at": "2026-08-12"
     },
     {
+      "id": "src_1b5f7f56d3c43c61",
+      "title": "Melanie Ward — artist archive",
+      "url": "https://www.artpartner.com/melanie-ward/bio",
+      "publisher": "Art Partner",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
       "id": "src_46e17a3f49015ad0",
       "title": "ASVOFF",
       "url": "https://www.ashadedviewonfashionfilm.com/",
@@ -1393,6 +1713,38 @@
       "publisher": "Bloomsbury",
       "source_tier": 2,
       "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_98c71779f083d728",
+      "title": "Dans le fichier de Roland Barthes — Grand Fichier",
+      "url": "https://www.bnf.fr/fr/agenda/dans-le-fichier-de-roland-barthes",
+      "publisher": "Bibliothèque nationale de France",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_a2800dd13dbbf502",
+      "title": "Écrivains et photographie",
+      "url": "https://www.bnf.fr/fr/ecrivains-et-photographie",
+      "publisher": "Bibliothèque nationale de France",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_11a7f245ab1bef01",
+      "title": "Les dessins de Roland Barthes",
+      "url": "https://www.bnf.fr/fr/mediatheque/les-dessins-de-roland-barthes",
+      "publisher": "Bibliothèque nationale de France",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_acd26e9f7697f80a",
+      "title": "Centenaire de Roland Barthes — Bibliographie",
+      "url": "https://www.bnf.fr/sites/default/files/2018-11/biblio%20barthes%20avril15.pdf",
+      "publisher": "Bibliothèque nationale de France",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
     },
     {
       "id": "src_8929fd706f99068e",
@@ -1483,9 +1835,33 @@
       "accessed_at": "2026-08-14"
     },
     {
+      "id": "src_325817322dcc9c81",
+      "title": "Fauteuil Transat — Eileen Gray",
+      "url": "https://www.centrepompidou.fr/fr/ressources/oeuvre/XhKm08t",
+      "publisher": "Centre Pompidou",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
       "id": "src_f4b283f6e540e3d6",
       "title": "Maisons type Meudon, cité Sans Souci — project drawing",
       "url": "https://www.centrepompidou.fr/fr/ressources/oeuvre/cBAoanX",
+      "publisher": "Centre Pompidou",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_be6cbf183f675db9",
+      "title": "Table ajustable — Eileen Gray",
+      "url": "https://www.centrepompidou.fr/fr/ressources/oeuvre/hp9mYK7",
+      "publisher": "Centre Pompidou",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_3be23451850ae59f",
+      "title": "Eileen Gray — artist/person record",
+      "url": "https://www.centrepompidou.fr/fr/ressources/personne/cnyxyoy",
       "publisher": "Centre Pompidou",
       "source_tier": 2,
       "accessed_at": "2026-08-14"
@@ -1523,12 +1899,60 @@
       "accessed_at": "2026-08-13"
     },
     {
+      "id": "src_86dbdcdce75da181",
+      "title": "Jean-Michel Frank — Rare Settee, Templeton Crocker provenance",
+      "url": "https://www.christies.com/en/lot/lot-6517542",
+      "publisher": "Christie's",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
       "id": "src_1c5dbb7b4542cdcc",
       "title": "Discover the Maison du Brésil — interior design",
       "url": "https://www.ciup.fr/en/discover-the-maison-du-bresil/",
       "publisher": "Cité internationale universitaire de Paris",
       "source_tier": 2,
       "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_6fecdcc163055868",
+      "title": "About Collagerie — Lucinda Chambers and Serena Hood",
+      "url": "https://www.collagerie.com/en-gb/about",
+      "publisher": "Collagerie",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_3bf1335c7a6c9839",
+      "title": "Zara Home x Collagerie 2025: A Common Thread",
+      "url": "https://www.collagerie.com/en-us/discover/in-the-mood/zara-home-x-collagerie",
+      "publisher": "Collagerie",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_680e03140cd51b45",
+      "title": "Roland Barthes — Résumés annuels, Sémiologie littéraire",
+      "url": "https://www.college-de-france.fr/fr/chaire/roland-barthes-semiologie-litteraire-chaire-statutaire/annual-summaries",
+      "publisher": "Collège de France",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_5076c3cf85076196",
+      "title": "Roland Barthes — Biographie et publications, chaire Sémiologie littéraire",
+      "url": "https://www.college-de-france.fr/fr/chaire/roland-barthes-semiologie-litteraire-chaire-statutaire/biography",
+      "publisher": "Collège de France",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_8b93b3d9c47a0f5f",
+      "title": "Jean-Michel Frank Biography",
+      "url": "https://www.comite-jean-michel-frank.com/jean-michel-frank-biography.html",
+      "publisher": "Comité Jean-Michel Frank",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
     },
     {
       "id": "src_b79cf1284bdaa0f1",
@@ -1553,6 +1977,22 @@
       "publisher": "Condé Nast",
       "source_tier": 2,
       "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_f2a4437ffc976047",
+      "title": "Surface of Luxury — Jean-Michel Frank and Villa Bontoc",
+      "url": "https://www.cooperhewitt.org/2017/07/19/surface-of-luxury/",
+      "publisher": "Cooper Hewitt, Smithsonian Design Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_b55ad841713ad0ad",
+      "title": "Corinne Day — Autobiography, including meeting Melanie Ward and The Face collaboration",
+      "url": "https://www.corinneday.com/autobiography/",
+      "publisher": "",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
     },
     {
       "id": "src_fd899c4138ba0d6a",
@@ -1593,6 +2033,14 @@
       "publisher": "Dazed",
       "source_tier": 2,
       "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_fa1f38624f6132a4",
+      "title": "Melanie Ward: Remembering the trailblazing stylist in her own words",
+      "url": "https://www.dazeddigital.com/fashion/article/68949/1/melanie-ward-remembering-the-trailblazing-stylist-in-her-own-words",
+      "publisher": "Dazed",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
     },
     {
       "id": "src_01d50ec390bb8d47",
@@ -1667,6 +2115,14 @@
       "accessed_at": "2026-08-13"
     },
     {
+      "id": "src_6e4a45ff7166d28d",
+      "title": "Honorary Graduates — 2001 Achille Castiglioni, Industrial Design",
+      "url": "https://www.design.polimi.it/en/school/info-documents/honorary-graduates",
+      "publisher": "Politecnico di Milano, School of Design",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
       "id": "src_59017e3505e564b8",
       "title": "Christian Dior: Jardins Rêvés — exhibition including René Gruau illustrations",
       "url": "https://www.dior.com/en_int/fashion/news-savoir-faire/folder-news-and-events/scad-christian-dior-jardins-reves",
@@ -1679,6 +2135,14 @@
       "title": "Grace Coddington on fashion’s evolution, renewal, and her third act — text by Joe McKenna",
       "url": "https://www.documentjournal.com/2016/05/grace-coddington/",
       "publisher": "Document Journal",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_71c03749cd70d020",
+      "title": "Eileen Gray — authorised designs and worldwide head licence",
+      "url": "https://www.eileengray.co.uk/",
+      "publisher": "ARAM / Eileen Gray Designs",
       "source_tier": 2,
       "accessed_at": "2026-08-14"
     },
@@ -1723,6 +2187,46 @@
       "accessed_at": "2026-08-12"
     },
     {
+      "id": "src_56466fae96c7bdf6",
+      "title": "Decorative arts — Alberto Giacometti and Jean-Michel Frank",
+      "url": "https://www.fondation-giacometti.fr/en/article/291/decorative-arts",
+      "publisher": "Fondation Giacometti",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_c2c71cc921b1c254",
+      "title": "Two bas-relief on consoles — Born villa commission",
+      "url": "https://www.fondation-giacometti.fr/en/article/84/two-bas-relief-on-consoles",
+      "publisher": "Fondation Giacometti",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_4ebe69f7c0431315",
+      "title": "Floor Lamp “Ossicle” model — created for Jean-Michel Frank",
+      "url": "https://www.fondation-giacometti.fr/en/database/188679/floor-lamp-ossicle-model-second-version",
+      "publisher": "Fondation Giacometti",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_7e0bee2f3e8fa9f8",
+      "title": "Alberto Giacometti Database — projects for Jean-Michel Frank",
+      "url": "https://www.fondation-giacometti.fr/en/database/19",
+      "publisher": "Fondation Giacometti",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_92237923f69d2345",
+      "title": "Surrealist Giacometti. Objects like Sculptures — 2026 exhibition",
+      "url": "https://www.fondation-giacometti.fr/en/event/383/giacometti-surrealiste",
+      "publisher": "Fondation Giacometti",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
       "id": "src_fab84ffeae8ec145",
       "title": "Maison du Brésil, Paris, 1952–1959",
       "url": "https://www.fondationlecorbusier.fr/en/work-architecture/achievements-maison-du-bresil-cite-internationale-universitaire-paris-france-1952-1959/",
@@ -1753,6 +2257,54 @@
       "publisher": "Fondation Louis Vuitton",
       "source_tier": 2,
       "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_ad0411a03e6d9948",
+      "title": "100×100 Achille — Anonymous Object Museum concept",
+      "url": "https://www.fondazioneachillecastiglioni.it/en/100x100-achille/",
+      "publisher": "Fondazione Achille Castiglioni",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_23f1e78fc4d10a9d",
+      "title": "Achille Castiglioni — biography",
+      "url": "https://www.fondazioneachillecastiglioni.it/en/achille-castiglioni-en/",
+      "publisher": "Fondazione Achille Castiglioni",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_1697c24da862378b",
+      "title": "Regesto / project archive",
+      "url": "https://www.fondazioneachillecastiglioni.it/en/regesto-cont/",
+      "publisher": "Fondazione Achille Castiglioni",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_0959229a6e435e13",
+      "title": "The Foundation — Studio Museum, archive and anonymous objects",
+      "url": "https://www.fondazioneachillecastiglioni.it/en/the-foundation/",
+      "publisher": "Fondazione Achille Castiglioni",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_e7903bac7857bd13",
+      "title": "Industrial Design — project archive",
+      "url": "https://www.fondazioneachillecastiglioni.it/en/tipologia/industrial-design/",
+      "publisher": "Fondazione Achille Castiglioni",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_5c1342808e22d2b6",
+      "title": "Visits — current Studio Museo status",
+      "url": "https://www.fondazioneachillecastiglioni.it/en/visits/",
+      "publisher": "Fondazione Achille Castiglioni",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
     },
     {
       "id": "src_5b80a9c6f30632e3",
@@ -1947,10 +2499,26 @@
       "accessed_at": "2026-08-14"
     },
     {
+      "id": "src_e83036befb20e4f2",
+      "title": "Melanie Ward, the Stylist Who Helped Transform Fashion and Harper’s Bazaar in the 1990s, Has Died",
+      "url": "https://www.harpersbazaar.com/fashion/a69127545/melanie-ward-stylist-obituary/",
+      "publisher": "Harper’s Bazaar",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
       "id": "src_fa1af3c511b24236",
       "title": "Joe’s: First Issue and Second Issue — complete run, first issue 1992",
       "url": "https://www.harpersbooks.com/pages/books/18964/joe-mckenna/joes-first-issue-and-second-issue",
       "publisher": "Harper’s Books",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_9f7325b3c7161aed",
+      "title": "Reeditions J.-M. Frank par Hermès — round coffee table and historical collaboration",
+      "url": "https://www.hermes.com/uk/en/product/reeditions-j.-m.-frank-par-hermes-round-coffee-table-H910039Mv01/",
+      "publisher": "Hermès",
       "source_tier": 2,
       "accessed_at": "2026-08-14"
     },
@@ -1999,6 +2567,30 @@
       "title": "Joe McKenna interview, Nov/Dec 1998",
       "url": "https://www.indexmagazine.com/interviews-joe-mckenna",
       "publisher": "Index Magazine",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_bee18aa928360ea7",
+      "title": "Melanie Ward — interview with Calvin Klein",
+      "url": "https://www.interviewmagazine.com/fashion/melanie-ward",
+      "publisher": "Interview Magazine",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_dc01871b84cd2050",
+      "title": "Le Système de la mode — contemporary review and interview context",
+      "url": "https://www.lemonde.fr/archives/article/1967/04/19/tout-objet-culturel-est-impregne-de-langage-humain_2625627_1819218.html",
+      "publisher": "Le Monde, 19 April 1967",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_373a1c960427a428",
+      "title": "Lucinda Chambers Talks A Common Thread and the New Zara Home x Collagerie Collaboration",
+      "url": "https://www.livingetc.com/shopping/zara-home-collagerie",
+      "publisher": "Livingetc",
       "source_tier": 2,
       "accessed_at": "2026-08-14"
     },
@@ -2075,6 +2667,14 @@
       "accessed_at": "2026-08-13"
     },
     {
+      "id": "src_bcee5d4fcbd9be6e",
+      "title": "Jean Dunand — Commode, Templeton Crocker project context",
+      "url": "https://www.metmuseum.org/art/collection/search/481653",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
       "id": "src_af6db371dc0cfc87",
       "title": "Antony chair, 1954, Jean Prouvé",
       "url": "https://www.metmuseum.org/art/collection/search/715947",
@@ -2110,6 +2710,14 @@
       "id": "src_acd1008164c3b96e",
       "title": "Dangerous Liaisons: Fashion and Furniture in the 18th Century",
       "url": "https://www.metmuseum.org/exhibitions/listings/2004/dangerous-liaisons",
+      "publisher": "The Metropolitan Museum of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_4f0d526cb1b70cb1",
+      "title": "Elsa Schiaparelli — research resource",
+      "url": "https://www.metmuseum.org/it/research-centers/leonard-a-lauder-research-center/research-resources/modern-art-index-project/elsa-schiaparelli",
       "publisher": "The Metropolitan Museum of Art",
       "source_tier": 2,
       "accessed_at": "2026-08-14"
@@ -2243,10 +2851,66 @@
       "accessed_at": "2026-08-12"
     },
     {
+      "id": "src_646060f0d5c8e7d7",
+      "title": "Paola Antonelli — Senior Curator, Department of Architecture and Design, and Director, Research and Development",
+      "url": "https://www.moma.org/about/senior-staff/paola-antonelli",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_6dc194fa6b1f5421",
+      "title": "Achille Castiglioni — artist collection record",
+      "url": "https://www.moma.org/artists/1028-achille-castiglioni",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_56709170db1b9ba0",
+      "title": "Jean-Michel Frank — artist record",
+      "url": "https://www.moma.org/artists/26819-jean-michel-frank",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
       "id": "src_e6543ad6cd036afa",
       "title": "Jean Prouvé",
       "url": "https://www.moma.org/artists/7982-jean-prouve",
       "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_3fb10bed3eaa3552",
+      "title": "SAFE: Design Takes On Risk",
+      "url": "https://www.moma.org/calendar/exhibitions/106",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_39ea09d8d54f7fdc",
+      "title": "Talk to Me: Design and the Communication between People and Objects",
+      "url": "https://www.moma.org/calendar/exhibitions/1071",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_17793fd3eb62e42d",
+      "title": "Humble Masterpieces",
+      "url": "https://www.moma.org/calendar/exhibitions/124",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_5cb9e77b3eebd776",
+      "title": "Applied Design",
+      "url": "https://www.moma.org/calendar/exhibitions/1328",
+      "publisher": "The Museum of Modern Art",
       "source_tier": 2,
       "accessed_at": "2026-08-14"
     },
@@ -2259,6 +2923,46 @@
       "accessed_at": "2026-08-12"
     },
     {
+      "id": "src_72d17a74f6aea04f",
+      "title": "This Is for Everyone: Design Experiments for the Common Good",
+      "url": "https://www.moma.org/calendar/exhibitions/1501",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_4794193b7ee873b8",
+      "title": "Items: Is Fashion Modern? The Museum of Modern Art",
+      "url": "https://www.moma.org/calendar/exhibitions/1638",
+      "publisher": "",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_49dcb34c63fb49a1",
+      "title": "Workspheres",
+      "url": "https://www.moma.org/calendar/exhibitions/168",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_44ae6b0addf29310",
+      "title": "Achille Castiglioni: Design! 1997–1998",
+      "url": "https://www.moma.org/calendar/exhibitions/265",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_578110ffc72643bb",
+      "title": "Mutant Materials in Contemporary Design",
+      "url": "https://www.moma.org/calendar/exhibitions/455",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
       "id": "src_ff9d266ffca243c4",
       "title": "The Museum of Modern Art",
       "url": "https://www.moma.org/calendar/exhibitions/4771",
@@ -2267,9 +2971,49 @@
       "accessed_at": "2026-08-12"
     },
     {
+      "id": "src_37db36844e797fdb",
+      "title": "Neri Oxman: Material Ecology",
+      "url": "https://www.moma.org/calendar/exhibitions/5090",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_5ee5cc89158ab3d7",
+      "title": "Never Alone: Video Games and Other Interactive Design",
+      "url": "https://www.moma.org/calendar/exhibitions/5453",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_0715af26a16d3f3e",
+      "title": "Pirouette: Turning Points in Design",
+      "url": "https://www.moma.org/calendar/exhibitions/5756",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_88392236d8b03bdf",
+      "title": "Design and the Elastic Mind",
+      "url": "https://www.moma.org/calendar/exhibitions/58",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
       "id": "src_4edb24575721f44c",
       "title": "Ateliers Jean Prouvé",
       "url": "https://www.moma.org/calendar/exhibitions/98",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_c6114f767b0bdc87",
+      "title": "Eileen Gray — collection artist page",
+      "url": "https://www.moma.org/collection/artists/2313",
       "publisher": "Museum of Modern Art",
       "source_tier": 2,
       "accessed_at": "2026-08-14"
@@ -2305,6 +3049,22 @@
       "publisher": "Museum of Modern Art",
       "source_tier": 2,
       "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_002810b9fcc9e7d9",
+      "title": "Eileen Gray. Extendable Table from E-1027. c.1930",
+      "url": "https://www.moma.org/collection/works/196027",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_d1215d27078cb7bf",
+      "title": "Eileen Gray. Chair for the Villa Tempe a Pailla",
+      "url": "https://www.moma.org/collection/works/196028",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
     },
     {
       "id": "src_954551b596900923",
@@ -2363,12 +3123,116 @@
       "accessed_at": "2026-08-13"
     },
     {
+      "id": "src_5105ccbd8110d568",
+      "title": "Eileen Gray. Adjustable Table. Designed 1927",
+      "url": "https://www.moma.org/collection/works/4339",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
       "id": "src_5efc372e7a8b44ea",
       "title": "Sun Lamp HUV 1 XX — Dieter Rams, Reinhold Weiss and Dietrich Lubs",
       "url": "https://www.moma.org/collection/works/4531",
       "publisher": "Museum of Modern Art",
       "source_tier": 2,
       "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_e31c8b18a3958a97",
+      "title": "Jean-Michel Frank, Man Ray — Chess Table, 1929",
+      "url": "https://www.moma.org/collection/works/89898",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_8c827394e2a69937",
+      "title": "Design and Violence — About / archive",
+      "url": "https://www.moma.org/interactives/exhibitions/2013/designandviolence/about/",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_26367facf5e28cff",
+      "title": "Are Museums the Research and Development Labs of Society? The Museum of Modern Art Magazine",
+      "url": "https://www.moma.org/magazine/articles/311",
+      "publisher": "",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_5f730e2dd03c5665",
+      "title": "When Video Games Came to the Museum",
+      "url": "https://www.moma.org/magazine/articles/798",
+      "publisher": "The Museum of Modern Art Magazine",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_8894bb32d40aba9d",
+      "title": "@ at MoMA",
+      "url": "https://www.moma.org/magazine/articles/834",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_908c59ba9dac7b12",
+      "title": "Flashback to 2015: MoMA Acquires the Rainbow Flag",
+      "url": "https://www.moma.org/magazine/articles/909",
+      "publisher": "The Museum of Modern Art Magazine",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_da8da1f4a69705ba",
+      "title": "The Gray Family",
+      "url": "https://www.museum.ie/collections/collection/object-122506/",
+      "publisher": "National Museum of Ireland",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_56655df909ece55d",
+      "title": "Jean Badovici",
+      "url": "https://www.museum.ie/collections/collection/object-125037/",
+      "publisher": "National Museum of Ireland",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_53e9ffaff67ff09c",
+      "title": "House for an Engineer, first floor plan",
+      "url": "https://www.museum.ie/collections/collection/object-134148/",
+      "publisher": "National Museum of Ireland",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_41682f92d89c3109",
+      "title": "Facsimile relating to Le Corbusier’s intervention at E.1027",
+      "url": "https://www.museum.ie/collections/collection/object-134942/",
+      "publisher": "National Museum of Ireland",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_ccfb87431b4c7f39",
+      "title": "Eileen Gray Collection",
+      "url": "https://www.museum.ie/collections/collections-and-research/art-industry/collections/eileen-gray/",
+      "publisher": "National Museum of Ireland",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_dc355f1f9bdbf3a8",
+      "title": "Eileen Gray permanent exhibition",
+      "url": "https://www.museum.ie/en-ie/museums/decorative-arts-history/exhibitions/eileen-gray",
+      "publisher": "National Museum of Ireland — Decorative Arts & History",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
     },
     {
       "id": "src_441fcf5da3490ed4",
@@ -2619,6 +3483,46 @@
       "accessed_at": "2026-08-13"
     },
     {
+      "id": "src_b33f01f5df8748ed",
+      "title": "Histoire et sociologie du Vêtement",
+      "url": "https://www.persee.fr/doc/ahess_0395-2649_1957_num_12_3_2656",
+      "publisher": "Persée / Annales",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_af14dec87d8009d6",
+      "title": "Rhétorique de l'image",
+      "url": "https://www.persee.fr/doc/comm_0588-8018_1964_num_4_1_1027",
+      "publisher": "Persée / Communications 4, 1964",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_d511d15d03778b94",
+      "title": "Éléments de sémiologie",
+      "url": "https://www.persee.fr/doc/comm_0588-8018_1964_num_4_1_1029",
+      "publisher": "Persée / Communications 4, 1964",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_cd4910e8260138f2",
+      "title": "Barthes et le vêtement",
+      "url": "https://www.persee.fr/doc/comm_0588-8018_1996_num_63_1_1958",
+      "publisher": "Persée / Communications 63, 1996",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_37b6018f64617ab9",
+      "title": "« Le bleu est à la mode cette année ». Notes sur la recherche des unités signifiantes dans le vêtement de mode",
+      "url": "https://www.persee.fr/doc/rfsoc_0035-2969_1960_num_1_2_1775",
+      "publisher": "Persée / Revue française de sociologie",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
       "id": "src_c5b1900446d512da",
       "title": "Grace: The American Vogue Years",
       "url": "https://www.phaidon.com/en-us/products/grace",
@@ -2707,6 +3611,14 @@
       "accessed_at": "2026-08-13"
     },
     {
+      "id": "src_a912b708207811d2",
+      "title": "Imperfect Beauty, 2000–2001",
+      "url": "https://www.rankinphoto.co.uk/exhibitions/imperfect-beauty-2000-2001",
+      "publisher": "Rankin archive / V&A exhibition record",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
       "id": "src_5ead1a46af5c2631",
       "title": "Ways of Seeing — book design",
       "url": "https://www.richardhollis.com/book-design/ways-of-seeing/",
@@ -2731,6 +3643,14 @@
       "accessed_at": "2026-08-13"
     },
     {
+      "id": "src_747c59b87f678337",
+      "title": "Achille Castiglioni: progetto, funzione e cultura del quotidiano",
+      "url": "https://www.salonemilano.it/it/articoli/achille-castiglioni",
+      "publisher": "Salone del Mobile.Milano",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
       "id": "src_7e339415f0ef34f1",
       "title": "Yoo, Jung Jin et al. Visual strategies of luxury and fast fashion brands on Instagram",
       "url": "https://www.sciencedirect.com/science/article/abs/pii/S0969698923002643",
@@ -2745,6 +3665,54 @@
       "publisher": "Journal of Business Research, 2012",
       "source_tier": 2,
       "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_252ffc409fa1aa66",
+      "title": "Roland Barthes — author catalogue",
+      "url": "https://www.seuil.com/auteur/roland-barthes/383",
+      "publisher": "Éditions du Seuil",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_6d849f63096aaa8c",
+      "title": "Cy Twombly — Roland Barthes",
+      "url": "https://www.seuil.com/ouvrage/cy-twombly-roland-barthes/9782021352979",
+      "publisher": "Éditions du Seuil",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_48288742473aa74c",
+      "title": "Fragments d'un discours amoureux",
+      "url": "https://www.seuil.com/ouvrage/fragments-d-un-discours-amoureux-roland-barthes/9782020046053",
+      "publisher": "Éditions du Seuil",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_29997c28a2fdd55d",
+      "title": "L'Empire des signes",
+      "url": "https://www.seuil.com/ouvrage/l-empire-des-signes-roland-barthes/9782021229554",
+      "publisher": "Éditions du Seuil",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_226ed15916000321",
+      "title": "Le Neutre",
+      "url": "https://www.seuil.com/ouvrage/le-neutre-roland-barthes/9782021349467",
+      "publisher": "Éditions du Seuil",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_5a300b054361d6a1",
+      "title": "Mythologies",
+      "url": "https://www.seuil.com/ouvrage/mythologies-roland-barthes/9782021034479",
+      "publisher": "Éditions du Seuil",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
     },
     {
       "id": "src_dc065ce367c78169",
@@ -2777,6 +3745,14 @@
       "publisher": "Somerset House",
       "source_tier": 2,
       "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_6588e93af8fb7412",
+      "title": "Jean-Michel Frank and Nelson Rockefeller Upper East Side - Rive Gauche",
+      "url": "https://www.sothebys.com/en/articles/jean-michel-frank-and-nelson-rockefeller-upper-east-side-rive-gauche",
+      "publisher": "Sotheby's",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
     },
     {
       "id": "src_59aed48eebe61258",
@@ -2827,6 +3803,78 @@
       "accessed_at": "2026-08-13"
     },
     {
+      "id": "src_91316ef717b33837",
+      "title": "Antonio Lopez and Juan Ramos — Biography and Timeline",
+      "url": "https://www.theantonioarchives.com/about",
+      "publisher": "The Antonio Archives",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_860bb5831eef3f79",
+      "title": "Archive — Works on Paper, Instamatics, Polaroids, Collage and Publications",
+      "url": "https://www.theantonioarchives.com/archive",
+      "publisher": "The Antonio Archives",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_2a825314a9bc0067",
+      "title": "Vanity — Antonio Lopez and Juan Ramos",
+      "url": "https://www.theantonioarchives.com/blog/vanity",
+      "publisher": "The Antonio Archives",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_452921692dd6d2ca",
+      "title": "Exhibitions — current and recent",
+      "url": "https://www.theantonioarchives.com/exhibitionss",
+      "publisher": "The Antonio Archives",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_d2232b28a88317a1",
+      "title": "FAQ — archives, research access and image licensing",
+      "url": "https://www.theantonioarchives.com/faq",
+      "publisher": "The Antonio Archives",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_a833e9b28c7ce1a2",
+      "title": "Instamatics",
+      "url": "https://www.theantonioarchives.com/instamatics",
+      "publisher": "The Antonio Archives",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_6ae7efd3cee3ae3f",
+      "title": "Past Exhibitions",
+      "url": "https://www.theantonioarchives.com/past",
+      "publisher": "The Antonio Archives",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_d0736e00cd858fcb",
+      "title": "Polaroids and Photo Cocktail Party context",
+      "url": "https://www.theantonioarchives.com/polar",
+      "publisher": "The Antonio Archives",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_ee3f52a83d91becf",
+      "title": "Published / Works and Photography",
+      "url": "https://www.theantonioarchives.com/published",
+      "publisher": "The Antonio Archives",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
       "id": "src_834e936a8370579e",
       "title": "Fashion and media brand 032c launches commercial gallery in Berlin",
       "url": "https://www.theartnewspaper.com/2024/09/12/fashion-and-media-brand-032c-launches-commercial-gallery-in-berlin",
@@ -2835,12 +3883,36 @@
       "accessed_at": "2026-08-12"
     },
     {
+      "id": "src_7e2ab8cb8a559c07",
+      "title": "Lucinda Chambers on leaving British Vogue to run startup Collagerie",
+      "url": "https://www.thedrum.com/news/lucinda-chambers-leaving-the-hallowed-halls-british-vogue-run-startup-collagerie",
+      "publisher": "The Drum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_41caf8f5ced479f3",
+      "title": "Melanie Ward obituary",
+      "url": "https://www.theguardian.com/fashion/2025/nov/07/melanie-ward-obituary",
+      "publisher": "The Guardian",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
       "id": "src_6cead0d874eb31cb",
       "title": "'More of an attitude': how 1985's Buffalo look changed fashion for ever",
       "url": "https://www.theguardian.com/fashion/2025/sep/11/buffalo-photographer-jamie-morgan-ray-petri-celebrities",
       "publisher": "The Guardian",
       "source_tier": 2,
       "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_f7dbf083f99d423e",
+      "title": "Every flat surface is an opportunity: Lucinda Chambers’ unique sense of style",
+      "url": "https://www.theguardian.com/lifeandstyle/2022/aug/28/every-flat-surface-is-an-opportunity-lucinda-chambers-unique-sense-of-style",
+      "publisher": "The Guardian",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
     },
     {
       "id": "src_920865f6e5a87e82",
@@ -2875,6 +3947,22 @@
       "accessed_at": "2026-08-13"
     },
     {
+      "id": "src_09cf58dc3f11bcf7",
+      "title": "Melanie Ward: Always Now",
+      "url": "https://www.theperfectmagazine.com/features/melanie-ward-always-now-blckg-f6lhj-s9akw-wyjtk-tmckh-lcgyz-laycl-exx8e-2ejn7",
+      "publisher": "Perfect Magazine",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_1c3fa2ebf34d680e",
+      "title": "Melanie Ward Invented The Modern Stylist",
+      "url": "https://www.theperfectmagazine.com/features/perfect/melanieward/stylist-blckg-f6lhj-s9akw-wyjtk-tmckh-3j5mf-grtfd-cm2j6-lycre-jznxn-e7mkk-maewd-ntnnh",
+      "publisher": "Perfect Magazine",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
       "id": "src_aa557bc7aa98e2ca",
       "title": "Dior Illustrated: René Gruau and the Line of Beauty — exhibition listing, including Eau Sauvage",
       "url": "https://www.timeout.com/london/art/dior-illustrated-rene-gruau-and-the-line-of-beauty",
@@ -2907,6 +3995,14 @@
       "accessed_at": "2026-08-13"
     },
     {
+      "id": "src_4079f18ec23e94e9",
+      "title": "Elsa Schiaparelli: key moments — Place Vendôme interior",
+      "url": "https://www.vam.ac.uk/articles/elsa-schiaparelli-a-timeline",
+      "publisher": "Victoria and Albert Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
       "id": "src_2394601abdb68f7e",
       "title": "V&A Dundee introduces new objects and Lavender Labels to Scottish Design Galleries — The Face issue 59, Ray Petri and Buffalo",
       "url": "https://www.vam.ac.uk/dundee/info/va-dundee-introduces-new-objects-and-lavender-labels-to-scottish-design-galleries",
@@ -2921,6 +4017,14 @@
       "publisher": "Victoria and Albert Museum",
       "source_tier": 2,
       "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_6e6a2bf3c84260f0",
+      "title": "Calvin to the Core",
+      "url": "https://www.vanityfair.com/culture/2008/04/calvin200804",
+      "publisher": "Vanity Fair",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
     },
     {
       "id": "src_af99905c6b8aded5",
@@ -3027,6 +4131,14 @@
       "accessed_at": "2026-08-14"
     },
     {
+      "id": "src_12e955e6129103cc",
+      "title": "Miniatures Collection — Mezzadro",
+      "url": "https://www.vitra.com/en-un/product/details/miniatures-collection-mezzadro",
+      "publisher": "Vitra",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
       "id": "src_645e48002233931c",
       "title": "Compas Direction — Jean Prouvé, 1953",
       "url": "https://www.vitra.com/en-us/product/details/compas-direction",
@@ -3107,9 +4219,65 @@
       "accessed_at": "2026-08-14"
     },
     {
+      "id": "src_1c79406d34e04bbf",
+      "title": "Beatrix Miller Tributes — Lucinda Chambers on her start at Vogue and first shoot",
+      "url": "https://www.vogue.co.uk/article/beatrix-miller-tributes-vogue-editor-david-bailey-lord-snowdon",
+      "publisher": "British Vogue",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_2cde88419de2eeba",
+      "title": "Vogue Festival: Grace Coddington and Lucinda Chambers",
+      "url": "https://www.vogue.co.uk/article/grace-coddington-lucinda-chambers-conversation-vogue-festival",
+      "publisher": "British Vogue",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_b85cda9a8fd28b8d",
+      "title": "Lucinda Chambers To Depart British Vogue",
+      "url": "https://www.vogue.co.uk/article/lucinda-chambers-fashion-director-leaves-british-vogue",
+      "publisher": "British Vogue",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_999ea40e8c7782e2",
+      "title": "Vogue Question Time: Lucinda Chambers",
+      "url": "https://www.vogue.co.uk/article/lucinda-chambers-vogue-fashion-director-interview",
+      "publisher": "British Vogue",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_b48f54e4071ec821",
+      "title": "Lucinda Chambers: My Vogue Fashion Fairytale",
+      "url": "https://www.vogue.co.uk/article/lucinda-chambers-vogue-fashion-life",
+      "publisher": "British Vogue",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_b3f06f5b5da8910d",
+      "title": "Behind The Cover Shoot — Colour Fest, Natalia Vodianova, Mario Testino, Lucinda Chambers",
+      "url": "https://www.vogue.co.uk/article/vogue-december-issue-cover-shoot-natalia-vodianova-lucinda-chambers",
+      "publisher": "British Vogue",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
       "id": "src_f964f6069ee1b27e",
       "title": "Meet The Two New British Faces On The Valentino SS21 Runway — casting with Joe McKenna and team",
       "url": "https://www.vogue.co.uk/fashion/article/valentino-spring-summer-2021-alex-andrews-maelona-thomas-models",
+      "publisher": "British Vogue",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_1b544d708e0f2961",
+      "title": "Vogue Archive: Mario Testino",
+      "url": "https://www.vogue.co.uk/gallery/mario-testino-vogue-archive",
       "publisher": "British Vogue",
       "source_tier": 2,
       "accessed_at": "2026-08-14"
@@ -3161,6 +4329,30 @@
       "publisher": "Vogue",
       "source_tier": 2,
       "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_0d599410e5c78861",
+      "title": "Calvin Klein, Donatella Versace, Dick Page, Inez & Vinoodh, and More Remember Melanie Ward",
+      "url": "https://www.vogue.com/article/calvin-klein-donatella-versace-dick-page-and-more-of-the-fashion-world-remember-melanie-ward",
+      "publisher": "Vogue",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_20cfd5bda33a3781",
+      "title": "Collagerie Is a New E-comm Platform Founded by Former Vogue Editors",
+      "url": "https://www.vogue.com/article/collagerie-new-shopping-platform",
+      "publisher": "Vogue",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_60d4be30fe3eaa03",
+      "title": "Colville — A New Label From Lucinda Chambers, Molly Molloy and Kristin Forss",
+      "url": "https://www.vogue.com/article/colville-lucinda-chambers-molly-molloy-kristin-forss",
+      "publisher": "Vogue",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
     },
     {
       "id": "src_ceda217b76b8eb5e",
@@ -3235,6 +4427,14 @@
       "accessed_at": "2026-08-13"
     },
     {
+      "id": "src_9168b1d37a1d8bf5",
+      "title": "Lines of Beauty: Andre Leon Talley on Antonio Lopez",
+      "url": "https://www.vogue.com/article/lines-of-beauty-andre-leon-talley-on-legendary-fashion-illustrator-antonio-lopez",
+      "publisher": "Vogue",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
       "id": "src_863d026ad3f67ad4",
       "title": "Meryl Streep and Anna Wintour on Power, Fashion, and the Future",
       "url": "https://www.vogue.com/article/meryl-streep-anna-wintour-may-cover-2026-interview",
@@ -3246,6 +4446,14 @@
       "id": "src_65da1cc27261170e",
       "title": "These Four Rising Stylists Are Fostering a Community in NYC — Edward Bowleg III on assisting Joe McKenna",
       "url": "https://www.vogue.com/article/new-york-city-stylists-fostering-a-community",
+      "publisher": "Vogue",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_0aa4af9a4d9586a3",
+      "title": "From Grace Jones to Jessica Lange: 9 Beauty Legends Who Inspired Antonio Lopez",
+      "url": "https://www.vogue.com/article/party-makeup-ideas-antonio-lopez-jerry-hall-grace-jones",
       "publisher": "Vogue",
       "source_tier": 2,
       "accessed_at": "2026-08-14"
@@ -3315,6 +4523,22 @@
       "accessed_at": "2026-08-14"
     },
     {
+      "id": "src_36e47a86fb9f3291",
+      "title": "Helmut Lang: The Most Important Fashion Designer of the Nineties? Vogue",
+      "url": "https://www.vogue.com/article/vogue-runway-designer-helmut-lang-90s",
+      "publisher": "",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_e532fe92ad96bb6c",
+      "title": "The Mothers: Lucinda Chambers on Miuccia Prada, Jil Sander, Molly Molloy and women in fashion",
+      "url": "https://www.vogue.com/article/women-designers-sound-off-on-the-female-creatives-that-inspired-them",
+      "publisher": "Vogue",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
       "id": "src_cd09ce809555a9e7",
       "title": "Fashion Week, Runway, Designer Collections",
       "url": "https://www.vogue.com/fashion-shows",
@@ -3331,9 +4555,33 @@
       "accessed_at": "2026-08-14"
     },
     {
+      "id": "src_1ba562ce20747738",
+      "title": "Colville Fall 2019 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/fall-2019-ready-to-wear/colville",
+      "publisher": "Vogue",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_dd4b78730f15a790",
+      "title": "Colville Fall 2024 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/colville",
+      "publisher": "Vogue",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
       "id": "src_6e6a81e41d93edd6",
       "title": "Alaïa Spring 2019 Ready-to-Wear — photographed Karim Sadli, styled Joe McKenna",
       "url": "https://www.vogue.com/fashion-shows/spring-2019-ready-to-wear/azzedine-alaia",
+      "publisher": "Vogue",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_6d0ab87dfde37bb1",
+      "title": "Colville Spring 2021 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/spring-2021-ready-to-wear/colville",
       "publisher": "Vogue",
       "source_tier": 2,
       "accessed_at": "2026-08-14"
@@ -3377,6 +4625,14 @@
       "publisher": "Vogue",
       "source_tier": 2,
       "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_9d94aead4f82ba95",
+      "title": "Introducing Re-Find: Weekend Max Mara’s New Signature Collection — A Collaboration With Lucinda Chambers",
+      "url": "https://www.vogue.com/slideshow/max-mara-lucinda-chambers-re-find-collaboration",
+      "publisher": "Vogue",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
     },
     {
       "id": "src_61b87ee3d15d223f",
@@ -3443,6 +4699,14 @@
       "accessed_at": "2026-08-13"
     },
     {
+      "id": "src_17681885e871ef24",
+      "title": "At Home in Paris with Hermès Creative Director Nadège Vanhee-Cybulski",
+      "url": "https://www.wmagazine.com/story/hermes-designer-nadege-vanhee-cybulski-home",
+      "publisher": "W Magazine",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
       "id": "src_dab205f2c2feebb8",
       "title": "DOOM",
       "url": "https://www.worldvideogamehalloffame.org/games/doom/",
@@ -3489,6 +4753,22 @@
       "publisher": "Beyoncé - All Night (Video)",
       "source_tier": 2,
       "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_a808e36f2d0bdb64",
+      "title": "Achille and Pier Giacomo Castiglioni — designers",
+      "url": "https://www.zanotta.com/en-us/designers/achille-and-pier-giacomo-castiglioni",
+      "publisher": "Zanotta",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_715038b6e4d22096",
+      "title": "Mezzadro stool — history and production",
+      "url": "https://www.zanotta.com/en-us/products/furnishing-accessories/mezzadro",
+      "publisher": "Zanotta",
+      "source_tier": 2,
+      "accessed_at": "2026-08-14"
     }
   ]
 }
