@@ -1,0 +1,44 @@
+{
+  "asset_id": "asset_bbdo-hero-v1-card_v1",
+  "record_type": "media_brief",
+  "asset_path": "public/images/articles/bbdo-hero-v1-card.webp",
+  "kind": "image",
+  "origin": "ai_illustration",
+  "locale": "multilingual",
+  "generated_from_prompt": "An advertising creative department. The room reads as New York, and as a practice working continuously since 1928 — the building, the furniture and the wear on the surfaces all belong to that place and that length of time. On the working surface, the material of this specific practice: work in progress on You’re Not You When You’re Hungry; The Work. The Work. The Work. Show these as physical objects — drawings, samples, models, proofs, test pieces — laid out mid-process, not as finished presentation pieces. The arrangement should make the studio's working principle legible without stating it: builds its culture around the quality of the work and the ability of a large network to turn strategy into a simple, broadly legible idea. Several people are at work further back, seen from behind, faces not identifiable. shot from standing height looking down across the working surface, subject filling the lower two thirds. Low afternoon sun raking across from the right. The named works may appear only as unresolved studies — rough models, trial prints, part drawings — never as a finished retail product or a reproduction of the real thing. Do not depict any real, identifiable person, and do not show any logo or wordmark. Editorial photographic illustration, cinematic daylight, warm muted palette of cream, bone, ink black and one restrained accent colour, shallow depth of field, fine film grain, calm composed framing, no clutter. Landscape 3:2, 1536x1024. No text, no lettering, no numerals, no logo, no wordmark, no branded packaging, no watermark, no user interface, no flat vector shapes, no infographic, no diagram, no chart. Not a documentary photograph.",
+  "educational_purpose": "The wall as the argument: an idea has to survive being pinned up and read by the room.",
+  "may_depict": [
+    "An invented workspace that visualizes the subject's method"
+  ],
+  "must_not_imply": [
+    "The image documents a real place, event or person",
+    "The image reproduces a real work, logo or product"
+  ],
+  "rights": {
+    "state": "generated_reviewed",
+    "disclosure": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "rights_basis": "Original AI visual generated for VANSMITHLAB from the prompt recorded above. No third-party work is reproduced.",
+    "third_party_marks": "No logo, wordmark or recognisable branded asset."
+  },
+  "accessibility": {
+    "alt_text_en": "A cork wall of pinned storyboard frames with people working at it, and a carousel slide projector on the desk in front.",
+    "alt_text_ru": "Пробковая стена с приколотыми кадрами раскадровки, у неё работают люди; на столе перед ней карусельный слайд-проектор.",
+    "caption_en": "The wall as the argument: an idea has to survive being pinned up and read by the room.",
+    "caption_ru": "Стена как аргумент: идея должна выдержать, когда её вывесили и прочла вся комната."
+  },
+  "file": {
+    "path": "public/images/articles/bbdo-hero-v1-card.webp",
+    "sha256": "5dc94b3d8e86de58b815e6603821ba988edd61c15615547dd4c0ca6e2e85a896",
+    "bytes": 115328,
+    "format": "webp"
+  },
+  "review": {
+    "reviewed": true,
+    "checked": [
+      "landscape 3:2 master crop",
+      "visualizes this subject rather than its category",
+      "distinct from every other card in the corpus",
+      "no identifiable person, no logo or wordmark"
+    ]
+  }
+}

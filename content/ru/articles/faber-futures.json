@@ -1,0 +1,36 @@
+{
+  "content_id": "cnt_0d51f470f9b027f0",
+  "primary_object_id": "",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "unverified",
+  "confidence_score": 0.0,
+  "claim_ids": [],
+  "source_ids": [
+    "src_a5a28cce0be19047",
+    "src_f06b2448b10e12d0"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "faber-futures",
+  "title": "Faber Futures",
+  "summary": "Исследовательская организация, изучающая материалы, производство и возможные модели будущего в Лондоне с 2018 года. Соединяет биотехнологию, дизайн и системное исследование.",
+  "discipline": [
+    "product-design",
+    "architecture",
+    "art"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "6e0318422ac7bbb67bde2545b41af4a1da55e1c2a9aafa2a80b063e950f23f52",
+  "hero_image": {
+    "src": "/images/articles/faber-futures-hero-v1-card.webp",
+    "alt": "Лабораторный стол с выращенными биоматериальными плитками, чашками Петри с культурами, колбами и пигментными порошками.",
+    "caption": "Материал выращивают, а не назначают: стол, за которым биология становится проектным решением.",
+    "credit": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "origin": "ai_illustration"
+  }
+}

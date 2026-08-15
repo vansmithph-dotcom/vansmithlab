@@ -1,0 +1,39 @@
+{
+  "content_id": "cnt_1beff09433f0e9d7",
+  "primary_object_id": "",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "unverified",
+  "confidence_score": 0.0,
+  "claim_ids": [],
+  "source_ids": [
+    "src_5500851b66b23787",
+    "src_0385297b17a5a27b"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "cooper-hewitt",
+  "title": "Cooper Hewitt, Smithsonian Design Museum",
+  "summary": "Культурная институция в Нью-Йорке с 1897 года. Собирает исторический и современный дизайн в длинной временной перспективе.",
+  "discipline": [
+    "art",
+    "architecture",
+    "graphic-design",
+    "product-design",
+    "fashion",
+    "media-publishing"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "e324f3163fe2d78d712aea3515b545fc5159af872876070955775f48249c99f1",
+  "hero_image": {
+    "src": "/images/articles/cooper-hewitt-hero-v1-card.webp",
+    "alt": "Музейный кабинет: пустая витрина, перед ней тележка с раскрытой архивной коробкой, планшетом и хлопковыми перчатками.",
+    "caption": "До витрины — рабочий кабинет: собирать значит держать в руках, описывать и решать.",
+    "credit": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "origin": "ai_illustration"
+  }
+}

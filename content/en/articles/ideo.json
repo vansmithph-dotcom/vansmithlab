@@ -1,0 +1,34 @@
+{
+  "content_id": "cnt_a7129a7594876583",
+  "primary_object_id": "",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "unverified",
+  "confidence_score": 0.0,
+  "claim_ids": [],
+  "source_ids": [
+    "src_88bbdb021e23864e",
+    "src_3a49216e8874f8e4"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "ideo",
+  "title": "IDEO",
+  "summary": "An industrial and product design studio in Palo Alto since 1991. It begins with observation of human behaviour, rapid prototyping and hypothesis testing.",
+  "discipline": [
+    "product-design"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "9475a71a8751adf56a2298c7543c20901386d0353b6604a91ae2a4307efcef2a",
+  "hero_image": {
+    "src": "/images/articles/ideo-hero-v1-card.webp",
+    "alt": "A workshop bench with a bench vice, blue and yellow foam blocks, white printed prototypes and hand tools, two people at screens behind.",
+    "caption": "Rough prototypes before finished renders: the hypothesis is tested in the hand first.",
+    "credit": "VANSMITHLAB · AI illustration, 2026",
+    "origin": "ai_illustration"
+  }
+}

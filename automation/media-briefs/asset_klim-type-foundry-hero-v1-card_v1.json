@@ -1,0 +1,44 @@
+{
+  "asset_id": "asset_klim-type-foundry-hero-v1-card_v1",
+  "record_type": "media_brief",
+  "asset_path": "public/images/articles/klim-type-foundry-hero-v1-card.webp",
+  "kind": "image",
+  "origin": "ai_illustration",
+  "locale": "multilingual",
+  "generated_from_prompt": "A type drawing office. The room reads as Wellington, and as a practice working continuously since 2005 — the building, the furniture and the wear on the surfaces all belong to that place and that length of time. On the working surface, the material of this specific practice: work in progress on Founders Grotesk; Söhne. Show these as physical objects — drawings, samples, models, proofs, test pieces — laid out mid-process, not as finished presentation pieces. The arrangement should make the studio's working principle legible without stating it: creates typefaces through close study of proportion, historical models and the needs of specific linguistic and editorial environments. One person is at work in the middle distance, seen from behind or in profile, face not identifiable. wide shot taking in the room, the working surface small and off-centre in the lower left. Flat overcast daylight from a skylight overhead. The named works may appear only as unresolved studies — rough models, trial prints, part drawings — never as a finished retail product or a reproduction of the real thing. Do not depict any real, identifiable person, and do not show any logo or wordmark. Editorial photographic illustration, cinematic daylight, warm muted palette of cream, bone, ink black and one restrained accent colour, shallow depth of field, fine film grain, calm composed framing, no clutter. Landscape 3:2, 1536x1024. No text, no lettering, no numerals, no logo, no wordmark, no branded packaging, no watermark, no user interface, no flat vector shapes, no infographic, no diagram, no chart. Not a documentary photograph.",
+  "educational_purpose": "Proportion decided by drawing: the letter argued out on paper before it becomes an outline.",
+  "may_depict": [
+    "An invented workspace that visualizes the subject's method"
+  ],
+  "must_not_imply": [
+    "The image documents a real place, event or person",
+    "The image reproduces a real work, logo or product"
+  ],
+  "rights": {
+    "state": "generated_reviewed",
+    "disclosure": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "rights_basis": "Original AI visual generated for VANSMITHLAB from the prompt recorded above. No third-party work is reproduced.",
+    "third_party_marks": "No logo, wordmark or recognisable branded asset."
+  },
+  "accessibility": {
+    "alt_text_en": "Pencil drawings of letterforms on layout paper with construction lines, beside strips of printed type specimens and drawing tools.",
+    "alt_text_ru": "Карандашные рисунки знаков на кальке с линиями построения, рядом полосы печатных шрифтовых образцов и чертёжный инструмент.",
+    "caption_en": "Proportion decided by drawing: the letter argued out on paper before it becomes an outline.",
+    "caption_ru": "Пропорция решается рисунком: знак прорабатывают на бумаге до того, как он станет контуром."
+  },
+  "file": {
+    "path": "public/images/articles/klim-type-foundry-hero-v1-card.webp",
+    "sha256": "827e3950abb42fe3cb6c672dded5d5aafee2ef3157e0a5d0f7c71f6c0f8d469a",
+    "bytes": 118524,
+    "format": "webp"
+  },
+  "review": {
+    "reviewed": true,
+    "checked": [
+      "landscape 3:2 master crop",
+      "visualizes this subject rather than its category",
+      "distinct from every other card in the corpus",
+      "no identifiable person, no logo or wordmark"
+    ]
+  }
+}

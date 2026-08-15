@@ -1,0 +1,44 @@
+{
+  "asset_id": "asset_artcom-studios-hero-v1-card_v1",
+  "record_type": "media_brief",
+  "asset_path": "public/images/articles/artcom-studios-hero-v1-card.webp",
+  "kind": "image",
+  "origin": "ai_illustration",
+  "locale": "multilingual",
+  "generated_from_prompt": "A darkened media workshop. The room reads as Berlin, and as a practice working continuously since 1988 — the building, the furniture and the wear on the surfaces all belong to that place and that length of time. On the working surface, the material of this specific practice: work in progress on Kinetic Sculpture; The Invisible Shape of Things Past. Show these as physical objects — drawings, samples, models, proofs, test pieces — laid out mid-process, not as finished presentation pieces. The arrangement should make the studio's working principle legible without stating it: uses digital technology as a material of spatial communication, connecting interface, kinetic object, exhibition and architecture. shot from standing height looking down across the working surface, subject filling the lower two thirds. Low afternoon sun raking across from the right. The named works may appear only as unresolved studies — rough models, trial prints, part drawings — never as a finished retail product or a reproduction of the real thing. Do not depict any real, identifiable person, and do not show any logo or wordmark. Editorial photographic illustration, cinematic daylight, warm muted palette of cream, bone, ink black and one restrained accent colour, shallow depth of field, fine film grain, calm composed framing, no clutter. Landscape 3:2, 1536x1024. No text, no lettering, no numerals, no logo, no wordmark, no branded packaging, no watermark, no user interface, no flat vector shapes, no infographic, no diagram, no chart. Not a documentary photograph.",
+  "educational_purpose": "Installation as medium: the cabling is part of the work, not hidden behind it.",
+  "may_depict": [
+    "An invented workspace that visualizes the subject's method"
+  ],
+  "must_not_imply": [
+    "The image documents a real place, event or person",
+    "The image reproduces a real work, logo or product"
+  ],
+  "rights": {
+    "state": "generated_reviewed",
+    "disclosure": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "rights_basis": "Original AI visual generated for VANSMITHLAB from the prompt recorded above. No third-party work is reproduced.",
+    "third_party_marks": "No logo, wordmark or recognisable branded asset."
+  },
+  "accessibility": {
+    "alt_text_en": "A darkened hall where a wide panel carries an abstract projected image, its cables running across the concrete floor toward a single distant figure.",
+    "alt_text_ru": "Затемнённый зал: широкая панель с абстрактной проекцией, кабели тянутся по бетонному полу к одинокой фигуре вдали.",
+    "caption_en": "Installation as medium: the cabling is part of the work, not hidden behind it.",
+    "caption_ru": "Инсталляция как среда: проводка — часть работы, а не то, что от неё прячут."
+  },
+  "file": {
+    "path": "public/images/articles/artcom-studios-hero-v1-card.webp",
+    "sha256": "5b2bc8467f29991b3490c8725c46163482b7198998cf343abc250ff49ccc973a",
+    "bytes": 125826,
+    "format": "webp"
+  },
+  "review": {
+    "reviewed": true,
+    "checked": [
+      "landscape 3:2 master crop",
+      "visualizes this subject rather than its category",
+      "distinct from every other card in the corpus",
+      "no identifiable person, no logo or wordmark"
+    ]
+  }
+}

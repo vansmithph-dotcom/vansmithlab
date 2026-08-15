@@ -1,0 +1,35 @@
+{
+  "content_id": "cnt_840966438ab3b562",
+  "primary_object_id": "",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "unverified",
+  "confidence_score": 0.0,
+  "claim_ids": [],
+  "source_ids": [
+    "src_3f4fbbd27c163860",
+    "src_0fbc1d47dda0a39f"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "bbdo",
+  "title": "BBDO",
+  "summary": "An advertising agency in New York since 1928. It builds its culture around the quality of the work and the ability of a large network to turn strategy into a simple, broadly legible idea.",
+  "discipline": [
+    "graphic-design",
+    "media-publishing"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "ba25505164dbab59e8c70984ea42cef6a8c55ed63961dec96e95c9df218320e7",
+  "hero_image": {
+    "src": "/images/articles/bbdo-hero-v1-card.webp",
+    "alt": "A cork wall of pinned storyboard frames with people working at it, and a carousel slide projector on the desk in front.",
+    "caption": "The wall as the argument: an idea has to survive being pinned up and read by the room.",
+    "credit": "VANSMITHLAB · AI illustration, 2026",
+    "origin": "ai_illustration"
+  }
+}

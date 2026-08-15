@@ -1,0 +1,44 @@
+{
+  "asset_id": "asset_lars-muller-publishers-hero-v1-card_v1",
+  "record_type": "media_brief",
+  "asset_path": "public/images/articles/lars-muller-publishers-hero-v1-card.webp",
+  "kind": "image",
+  "origin": "ai_illustration",
+  "locale": "multilingual",
+  "generated_from_prompt": "An independent publishing office. The room reads as Baden, and as a practice working continuously since 1983 — the building, the furniture and the wear on the surfaces all belong to that place and that length of time. On the working surface, the material of this specific practice: work in progress on Bauhausbücher; Super Normal. Show these as physical objects — drawings, samples, models, proofs, test pieces — laid out mid-process, not as finished presentation pieces. The arrangement should make the studio's working principle legible without stating it: publishes books on architecture, design, photography, art and society with close attention to editorial content and graphic form as one whole. One person is at work in the middle distance, seen from behind or in profile, face not identifiable. shot from a corner at forty-five degrees, near edge sharp and the room falling away. North light from a tall window on the left. The named works may appear only as unresolved studies — rough models, trial prints, part drawings — never as a finished retail product or a reproduction of the real thing. Do not depict any real, identifiable person, and do not show any logo or wordmark. Editorial photographic illustration, cinematic daylight, warm muted palette of cream, bone, ink black and one restrained accent colour, shallow depth of field, fine film grain, calm composed framing, no clutter. Landscape 3:2, 1536x1024. No text, no lettering, no numerals, no logo, no wordmark, no branded packaging, no watermark, no user interface, no flat vector shapes, no infographic, no diagram, no chart. Not a documentary photograph.",
+  "educational_purpose": "The press and the sewn block: publishing treated as a craft with tolerances, not only as a choice of contents.",
+  "may_depict": [
+    "An invented workspace that visualizes the subject's method"
+  ],
+  "must_not_imply": [
+    "The image documents a real place, event or person",
+    "The image reproduces a real work, logo or product"
+  ],
+  "rights": {
+    "state": "generated_reviewed",
+    "disclosure": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "rights_basis": "Original AI visual generated for VANSMITHLAB from the prompt recorded above. No third-party work is reproduced.",
+    "third_party_marks": "No logo, wordmark or recognisable branded asset."
+  },
+  "accessibility": {
+    "alt_text_en": "A wooden book press clamping a stack of folded signatures, beside an open sewn book block, linen thread and bone folders on a worktable.",
+    "alt_text_ru": "Деревянный книжный пресс сжимает стопку сфальцованных тетрадей; рядом раскрытый сшитый блок, льняная нить и косточки для биговки.",
+    "caption_en": "The press and the sewn block: publishing treated as a craft with tolerances, not only as a choice of contents.",
+    "caption_ru": "Пресс и сшитый блок: издательское дело как ремесло с допусками, а не только выбор содержания."
+  },
+  "file": {
+    "path": "public/images/articles/lars-muller-publishers-hero-v1-card.webp",
+    "sha256": "47cdabd4393d39d3b9f9c26f5c1b2201c7cd1515097ce92daf87d56391f545e7",
+    "bytes": 106020,
+    "format": "webp"
+  },
+  "review": {
+    "reviewed": true,
+    "checked": [
+      "landscape 3:2 master crop",
+      "visualizes this subject rather than its category",
+      "distinct from every other card in the corpus",
+      "no identifiable person, no logo or wordmark"
+    ]
+  }
+}

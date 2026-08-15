@@ -1,0 +1,36 @@
+{
+  "content_id": "cnt_b7456c883f40cf44",
+  "primary_object_id": "",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "unverified",
+  "confidence_score": 0.0,
+  "claim_ids": [],
+  "source_ids": [
+    "src_30520bc482443f56",
+    "src_32ea3767b686401d"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "artcom-studios",
+  "title": "ART+COM Studios",
+  "summary": "Студия в Берлине с 1988 года. Использует цифровые технологии как материал пространственной коммуникации.",
+  "discipline": [
+    "graphic-design",
+    "art",
+    "media-publishing"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "e3d604d071ad4335103ba4b60129eb324866f5936784e1c1c037c4b20543cc1e",
+  "hero_image": {
+    "src": "/images/articles/artcom-studios-hero-v1-card.webp",
+    "alt": "Затемнённый зал: широкая панель с абстрактной проекцией, кабели тянутся по бетонному полу к одинокой фигуре вдали.",
+    "caption": "Инсталляция как среда: проводка — часть работы, а не то, что от неё прячут.",
+    "credit": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "origin": "ai_illustration"
+  }
+}

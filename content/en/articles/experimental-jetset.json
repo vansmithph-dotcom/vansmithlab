@@ -1,0 +1,36 @@
+{
+  "content_id": "cnt_9424bfb4a2fc3ef3",
+  "primary_object_id": "",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "unverified",
+  "confidence_score": 0.0,
+  "claim_ids": [],
+  "source_ids": [
+    "src_479ed6dc5b992f13",
+    "src_09c616163479a39e"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "experimental-jetset",
+  "title": "Experimental Jetset",
+  "summary": "A design studio in Amsterdam since 1997. It treats graphic design as a system of language, print, typography and cultural reference.",
+  "discipline": [
+    "graphic-design",
+    "product-design",
+    "media-publishing"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "39d52620fe0c67d5bbd61540588dcbaae1ac6a096c0efa8f0f4102487caa7cda",
+  "hero_image": {
+    "src": "/images/articles/experimental-jetset-hero-v1-card.webp",
+    "alt": "A paper guillotine at the edge of a worktable spread with printed sheets, colour swatches, a loupe and a steel rule.",
+    "caption": "Print checked at actual size: the medium itself is the constraint the work is built from.",
+    "credit": "VANSMITHLAB · AI illustration, 2026",
+    "origin": "ai_illustration"
+  }
+}

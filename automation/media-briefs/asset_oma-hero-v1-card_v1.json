@@ -1,0 +1,44 @@
+{
+  "asset_id": "asset_oma-hero-v1-card_v1",
+  "record_type": "media_brief",
+  "asset_path": "public/images/articles/oma-hero-v1-card.webp",
+  "kind": "image",
+  "origin": "ai_illustration",
+  "locale": "multilingual",
+  "generated_from_prompt": "An architecture model workshop. The room reads as Rotterdam, and as a practice working continuously since 1975 — the building, the furniture and the wear on the surfaces all belong to that place and that length of time. On the working surface, the material of this specific practice: work in progress on Seattle Central Library; CCTV Headquarters. Show these as physical objects — drawings, samples, models, proofs, test pieces — laid out mid-process, not as finished presentation pieces. The arrangement should make the studio's working principle legible without stating it: treats architecture as work with programme, density, infrastructure and cultural contradiction; its research arm AMO extends the method beyond buildings. Several people are at work further back, seen from behind, faces not identifiable. shot at table height from one end, the surface receding into soft focus. A single warm work lamp against a cool dim room. The named works may appear only as unresolved studies — rough models, trial prints, part drawings — never as a finished retail product or a reproduction of the real thing. Do not depict any real, identifiable person, and do not show any logo or wordmark. Editorial photographic illustration, cinematic daylight, warm muted palette of cream, bone, ink black and one restrained accent colour, shallow depth of field, fine film grain, calm composed framing, no clutter. Landscape 3:2, 1536x1024. No text, no lettering, no numerals, no logo, no wordmark, no branded packaging, no watermark, no user interface, no flat vector shapes, no infographic, no diagram, no chart. Not a documentary photograph.",
+  "educational_purpose": "Massing worked out in cheap foam: the argument about volume settled before the drawing is finished.",
+  "may_depict": [
+    "An invented workspace that visualizes the subject's method"
+  ],
+  "must_not_imply": [
+    "The image documents a real place, event or person",
+    "The image reproduces a real work, logo or product"
+  ],
+  "rights": {
+    "state": "generated_reviewed",
+    "disclosure": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "rights_basis": "Original AI visual generated for VANSMITHLAB from the prompt recorded above. No third-party work is reproduced.",
+    "third_party_marks": "No logo, wordmark or recognisable branded asset."
+  },
+  "accessibility": {
+    "alt_text_en": "A long studio table under a work lamp carrying blue foam massing models, plan drawings, ink and rolled sheets, with people working in the dark depth of the room.",
+    "alt_text_ru": "Длинный студийный стол под рабочей лампой: объёмные макеты из синего пенопласта, планы, тушь и свёрнутые листы; в глубине тёмного зала работают люди.",
+    "caption_en": "Massing worked out in cheap foam: the argument about volume settled before the drawing is finished.",
+    "caption_ru": "Объём прорабатывают в дешёвом пенопласте: спор о массе решают до того, как закончен чертёж."
+  },
+  "file": {
+    "path": "public/images/articles/oma-hero-v1-card.webp",
+    "sha256": "4aaa51c181d073b2c24ad2dd969715cb85a6b508ec1946f49b5596019f887614",
+    "bytes": 135570,
+    "format": "webp"
+  },
+  "review": {
+    "reviewed": true,
+    "checked": [
+      "landscape 3:2 master crop",
+      "visualizes this subject rather than its category",
+      "distinct from every other card in the corpus",
+      "no identifiable person, no logo or wordmark"
+    ]
+  }
+}

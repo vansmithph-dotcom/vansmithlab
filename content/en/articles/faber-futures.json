@@ -1,0 +1,36 @@
+{
+  "content_id": "cnt_0d51f470f9b027f0",
+  "primary_object_id": "",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "unverified",
+  "confidence_score": 0.0,
+  "claim_ids": [],
+  "source_ids": [
+    "src_a5a28cce0be19047",
+    "src_f06b2448b10e12d0"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "faber-futures",
+  "title": "Faber Futures",
+  "summary": "A research organisation in London since 2018. It connects biotechnology, design and systems research.",
+  "discipline": [
+    "product-design",
+    "architecture",
+    "art"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "c89b714d933fe5bf7f39931db4a6795a9a1c1baf5b3a22f02fbe67a5f4f696da",
+  "hero_image": {
+    "src": "/images/articles/faber-futures-hero-v1-card.webp",
+    "alt": "A laboratory bench with grown biomaterial tiles, petri dishes of cultures, flasks of amber liquid and small dishes of pigment powder.",
+    "caption": "Material grown rather than specified: the bench where biology becomes a design decision.",
+    "credit": "VANSMITHLAB · AI illustration, 2026",
+    "origin": "ai_illustration"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "content_id": "cnt_1beff09433f0e9d7",
+  "primary_object_id": "",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "unverified",
+  "confidence_score": 0.0,
+  "claim_ids": [],
+  "source_ids": [
+    "src_5500851b66b23787",
+    "src_0385297b17a5a27b"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "cooper-hewitt",
+  "title": "Cooper Hewitt, Smithsonian Design Museum",
+  "summary": "A cultural institution in New York since 1897. It collects historical and contemporary design across a long timeline.",
+  "discipline": [
+    "art",
+    "architecture",
+    "graphic-design",
+    "product-design",
+    "fashion",
+    "media-publishing"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "04a6f8e7db604fdde7946f2198bd155e785ac4cbbb781dd829047cb3fab1268f",
+  "hero_image": {
+    "src": "/images/articles/cooper-hewitt-hero-v1-card.webp",
+    "alt": "A museum study room: an empty glass vitrine behind a trolley holding an open archival box, a clipboard and cotton gloves.",
+    "caption": "Before the display case, the study room: collecting is handling, recording and deciding.",
+    "credit": "VANSMITHLAB · AI illustration, 2026",
+    "origin": "ai_illustration"
+  }
+}

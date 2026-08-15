@@ -1,0 +1,36 @@
+{
+  "content_id": "cnt_b7456c883f40cf44",
+  "primary_object_id": "",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "unverified",
+  "confidence_score": 0.0,
+  "claim_ids": [],
+  "source_ids": [
+    "src_30520bc482443f56",
+    "src_32ea3767b686401d"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "artcom-studios",
+  "title": "ART+COM Studios",
+  "summary": "A studio in Berlin since 1988. It uses digital technology as a material of spatial communication.",
+  "discipline": [
+    "graphic-design",
+    "art",
+    "media-publishing"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "9a7a5a5a86db95d73645d8072ba30ca8ee6b2237a146c5e55ab715cce377ded8",
+  "hero_image": {
+    "src": "/images/articles/artcom-studios-hero-v1-card.webp",
+    "alt": "A darkened hall where a wide panel carries an abstract projected image, its cables running across the concrete floor toward a single distant figure.",
+    "caption": "Installation as medium: the cabling is part of the work, not hidden behind it.",
+    "credit": "VANSMITHLAB · AI illustration, 2026",
+    "origin": "ai_illustration"
+  }
+}
