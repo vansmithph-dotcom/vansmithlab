@@ -1,0 +1,35 @@
+{
+  "content_id": "cnt_4cab6076545ec71e",
+  "primary_object_id": "",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "unverified",
+  "confidence_score": 0.0,
+  "claim_ids": [],
+  "source_ids": [
+    "src_add8c1c17dd81e52",
+    "src_c81edb4f44173838"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "akqa",
+  "title": "AKQA",
+  "summary": "Междисциплинарная творческая компания в Лондоне с 1994 года. Рассматривает цифровую среду не как канал распространения, а как место, где марка может стать сервисом, продуктом или интерактивной системой.",
+  "discipline": [
+    "graphic-design",
+    "media-publishing"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "ca6a37e874da96851ccaf73c38c28ebfe00325e0bf322678668c46303463a362",
+  "hero_image": {
+    "src": "/images/articles/akqa-hero-v1-card.webp",
+    "alt": "Стена студии с приколотыми референсами над длинным столом со скетчбуками, распечатками и мелкой электроникой; в глубине работают люди.",
+    "caption": "Исследовательская стена и рабочий стол: как цифровая практика держит материал перед глазами.",
+    "credit": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "origin": "ai_illustration"
+  }
+}

@@ -1,7 +1,7 @@
 {
   "content_id": "cnt_370608a8776813fa",
   "primary_object_id": "obj_8b81d1d30743cb02",
-  "content_type": "architect_profile",
+  "content_type": "research",
   "state": "published",
   "source_locale": "ru",
   "source_revision": 1,
@@ -13,21 +13,23 @@
     "clm_1f02c3c23b189094",
     "clm_74251c6a38a27054"
   ],
-  "source_ids": [],
-  "last_reviewed": "2026-08-12",
+  "source_ids": [
+    "src_cfb57d9678b27d69",
+    "src_29ffb1211cbdceb3"
+  ],
+  "last_reviewed": "2026-08-15",
   "author": "VANSMITHLAB",
   "locale": "ru",
   "slug": "sanaa",
-  "title": "SANAA: Кадзуё Сэдзима и Рюэ Нисидзава",
-  "summary": "Прозрачность, тонкость и архитектура неиерархического пространства",
+  "title": "SANAA",
+  "summary": "Архитектурное бюро, повлиявшее на язык современной формы, пространства и города в Токио с 1995 года. Строит пространство через лёгкие конструкции, тонкие границы, отражение и непрерывность движения, избегая тяжёлой иерархии помещений.",
   "discipline": [
-    "architecture"
+    "architecture",
+    "interior-design"
   ],
-  "kind": "person",
-  "role": [
-    "architect"
-  ],
-  "body_hash": "da8eb498e6fb91f839ca486bed9294660f15c653194db8f1f1fe74eb5fae5bd6",
+  "kind": "organization",
+  "role": [],
+  "body_hash": "5a332547119b7c41e96ef7efaf7cd6c42e779ad51516a1d973bce279cc9f7a7e",
   "categories": [
     "architects"
   ],

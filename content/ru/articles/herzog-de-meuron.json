@@ -1,7 +1,7 @@
 {
   "content_id": "cnt_453329afb9c84e8e",
   "primary_object_id": "obj_95e49519a0202eb2",
-  "content_type": "architect_profile",
+  "content_type": "research",
   "state": "published",
   "source_locale": "ru",
   "source_revision": 1,
@@ -15,21 +15,23 @@
     "clm_a46713342d7dcb98",
     "clm_bdb6e9f3a0bf378b"
   ],
-  "source_ids": [],
-  "last_reviewed": "2026-08-12",
+  "source_ids": [
+    "src_9585e24c39be277d",
+    "src_e56103d42ed859e2"
+  ],
+  "last_reviewed": "2026-08-15",
   "author": "VANSMITHLAB",
   "locale": "ru",
   "slug": "herzog-de-meuron",
-  "title": "Херцог и де Мёрон",
-  "summary": "Материал, оболочка, преобразование и архитектура изменяемой идентичности",
+  "title": "Herzog & de Meuron",
+  "summary": "Архитектурное бюро, повлиявшее на язык современной формы, пространства и города в Базеле с 1978 года. Использует материал, поверхность и конструкцию как носители образа.",
   "discipline": [
-    "architecture"
+    "architecture",
+    "interior-design"
   ],
-  "kind": "person",
-  "role": [
-    "architect"
-  ],
-  "body_hash": "6d49d86d885daa290082adafd031b75d728f62b3bce65acb353c4c71f1941c49",
+  "kind": "organization",
+  "role": [],
+  "body_hash": "4ab65e0b198ffe0d37301dd256d0c0e7fdcdb5ddc3752419612109e337a2b046",
   "categories": [
     "architects",
     "materials-techniques"

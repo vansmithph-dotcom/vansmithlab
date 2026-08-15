@@ -1,0 +1,35 @@
+{
+  "content_id": "cnt_95c4bea12e4edcf8",
+  "primary_object_id": "",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "unverified",
+  "confidence_score": 0.0,
+  "claim_ids": [],
+  "source_ids": [
+    "src_1a8f0ec7f71c7dc7",
+    "src_5e11ee8df41b3170"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "big",
+  "title": "BIG — Bjarke Ingels Group",
+  "summary": "Архитектурное бюро, повлиявшее на язык современной формы, пространства и города в Копенгагене с 2006 года. Строит проекты через ясную диаграмму.",
+  "discipline": [
+    "architecture",
+    "interior-design"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "f7986cbfdb8a1db6a542371d39bc1ff90283a8abbb4934ee0fffeda3faec1aa9",
+  "hero_image": {
+    "src": "/images/articles/big-hero-v1-card.webp",
+    "alt": "Объёмные макеты из фанеры и картона на столе мастерской рядом со свёрнутыми чертежами и планом участка, прижатым по углам.",
+    "caption": "Объёмные штудии: форма проверяется как предмет раньше, чем как изображение.",
+    "credit": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "origin": "ai_illustration"
+  }
+}

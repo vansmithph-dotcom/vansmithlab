@@ -1,0 +1,35 @@
+{
+  "content_id": "cnt_4cab6076545ec71e",
+  "primary_object_id": "",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "unverified",
+  "confidence_score": 0.0,
+  "claim_ids": [],
+  "source_ids": [
+    "src_add8c1c17dd81e52",
+    "src_c81edb4f44173838"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "akqa",
+  "title": "AKQA",
+  "summary": "A multidisciplinary creative company in London since 1994. It treats digital space not as a distribution channel but as a place where a brand can become a service, product or interactive system.",
+  "discipline": [
+    "graphic-design",
+    "media-publishing"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "bef5e628bbe4870eb09084a388cd13766f58f9367d1c21bb4df59a017494d621",
+  "hero_image": {
+    "src": "/images/articles/akqa-hero-v1-card.webp",
+    "alt": "Studio wall of pinned references above a long table of sketchbooks, prints and small electronics, people working at the far end.",
+    "caption": "A research wall and working table: how a digital practice keeps evidence in front of itself.",
+    "credit": "VANSMITHLAB · AI illustration, 2026",
+    "origin": "ai_illustration"
+  }
+}

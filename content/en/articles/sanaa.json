@@ -1,7 +1,7 @@
 {
   "content_id": "cnt_370608a8776813fa",
   "primary_object_id": "obj_8b81d1d30743cb02",
-  "content_type": "architect_profile",
+  "content_type": "research",
   "state": "published",
   "source_locale": "ru",
   "source_revision": 1,
@@ -13,21 +13,23 @@
     "clm_1f02c3c23b189094",
     "clm_74251c6a38a27054"
   ],
-  "source_ids": [],
-  "last_reviewed": "2026-08-12",
+  "source_ids": [
+    "src_cfb57d9678b27d69",
+    "src_29ffb1211cbdceb3"
+  ],
+  "last_reviewed": "2026-08-15",
   "author": "VANSMITHLAB",
   "locale": "en",
   "slug": "sanaa",
-  "title": "SANAA: Kazuyo Sejima and Ryue Nishizawa",
-  "summary": "Transparency, thinness and the architecture of non-hierarchical space",
+  "title": "SANAA",
+  "summary": "An architecture practice influential in contemporary form, space and urban thinking in Tokyo since 1995. It builds space through light structures, thin boundaries, reflection and continuous movement.",
   "discipline": [
-    "architecture"
+    "architecture",
+    "interior-design"
   ],
-  "kind": "person",
-  "role": [
-    "architect"
-  ],
-  "body_hash": "5b7778cc7f3c2616cf3f78f6f6702c523bfa7cf54be98430f5a69e309ec1f885",
+  "kind": "organization",
+  "role": [],
+  "body_hash": "9475b5ced07bf79480440a1f5efe2668984ae82daab3d243fcaac040f5321338",
   "categories": [
     "architects"
   ],

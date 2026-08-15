@@ -30,3 +30,15 @@
 /ru/analysis/game-interface-hud-visual-system/ /ru/analysis/why-games-taught-us-to-read-screen-faster-than-cinema/ 301
 /en/analysis/game-interface-hud-visual-system /en/analysis/why-games-taught-us-to-read-screen-faster-than-cinema 301
 /en/analysis/game-interface-hud-visual-system/ /en/analysis/why-games-taught-us-to-read-screen-faster-than-cinema/ 301
+
+# Taxonomy v2 files a practice as `kind: organization`, which routes to /articles/.
+# Herzog & de Meuron and SANAA were published under /glossary/architects/, a role
+# route that only applies to people, so both moved and their old URLs are indexed.
+/ru/glossary/architects/herzog-de-meuron /ru/articles/herzog-de-meuron 301
+/ru/glossary/architects/herzog-de-meuron/ /ru/articles/herzog-de-meuron/ 301
+/en/glossary/architects/herzog-de-meuron /en/articles/herzog-de-meuron 301
+/en/glossary/architects/herzog-de-meuron/ /en/articles/herzog-de-meuron/ 301
+/ru/glossary/architects/sanaa /ru/articles/sanaa 301
+/ru/glossary/architects/sanaa/ /ru/articles/sanaa/ 301
+/en/glossary/architects/sanaa /en/articles/sanaa 301
+/en/glossary/architects/sanaa/ /en/articles/sanaa/ 301

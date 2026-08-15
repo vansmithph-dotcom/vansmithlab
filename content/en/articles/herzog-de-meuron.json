@@ -1,7 +1,7 @@
 {
   "content_id": "cnt_453329afb9c84e8e",
   "primary_object_id": "obj_95e49519a0202eb2",
-  "content_type": "architect_profile",
+  "content_type": "research",
   "state": "published",
   "source_locale": "ru",
   "source_revision": 1,
@@ -15,21 +15,23 @@
     "clm_a46713342d7dcb98",
     "clm_bdb6e9f3a0bf378b"
   ],
-  "source_ids": [],
-  "last_reviewed": "2026-08-12",
+  "source_ids": [
+    "src_9585e24c39be277d",
+    "src_e56103d42ed859e2"
+  ],
+  "last_reviewed": "2026-08-15",
   "author": "VANSMITHLAB",
   "locale": "en",
   "slug": "herzog-de-meuron",
   "title": "Herzog & de Meuron",
-  "summary": "Material, envelope, transformation, and the architecture of mutable identity",
+  "summary": "An architecture practice influential in contemporary form, space and urban thinking in Basel since 1978. It uses material, surface and construction as carriers of architectural image.",
   "discipline": [
-    "architecture"
+    "architecture",
+    "interior-design"
   ],
-  "kind": "person",
-  "role": [
-    "architect"
-  ],
-  "body_hash": "dd8342a1815958c77d84edbbab9f94821894cacffdf5f6351c9e790be449e8c6",
+  "kind": "organization",
+  "role": [],
+  "body_hash": "bfc8c34aa71853dadf311733261db7e8c9fe152bfcb06b1a02806c60d72d0e9c",
   "categories": [
     "architects",
     "materials-techniques"
