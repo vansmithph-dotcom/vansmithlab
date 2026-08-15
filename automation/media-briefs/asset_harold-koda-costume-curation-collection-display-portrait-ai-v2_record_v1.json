@@ -1,0 +1,43 @@
+{
+  "asset_id": "asset_harold-koda-costume-curation-collection-display-portrait-ai-v2_record_v1",
+  "record_type": "retrospective_asset_record",
+  "record_basis": "Retrospective asset record. The image was generated before any media record existed for it; this file documents the stored asset from its own published metadata and file hash. It is not a pre-generation brief and did not authorise the image.",
+  "asset_path": "public/images/glossary/curators/harold-koda-costume-curation-collection-display-portrait-ai-v2.png",
+  "primary_object_id": "obj_harold_koda_20260814",
+  "content_release_id": "cnt_9a9445dc99238271",
+  "kind": "image",
+  "origin": "ai_illustration",
+  "locale": "multilingual",
+  "educational_purpose": "AI portrait reconstruction. Not a documentary photograph.",
+  "may_depict": [
+    "Editorial AI portrait illustration of the author"
+  ],
+  "must_not_imply": [
+    "The image documents a real photograph, place or person",
+    "The image is attributable to a named photographer or artist"
+  ],
+  "rights": {
+    "state": "generated_reviewed",
+    "disclosure": "VANSMITHLAB · оригинальная AI-иллюстрация, 2026",
+    "rights_basis": "Original AI visual generated for VANSMITHLAB. No licence record was filed at generation time; no third-party work is reproduced.",
+    "third_party_marks": "Not recorded at generation time."
+  },
+  "accessibility": {
+    "alt_text_en": "Editorial AI portrait illustration of the author",
+    "alt_text_ru": "Редакционная AI-портретная иллюстрация автора",
+    "caption_en": "AI portrait reconstruction. Not a documentary photograph.",
+    "caption_ru": "AI-портретная реконструкция автора. Не является документальной фотографией."
+  },
+  "file": {
+    "path": "public/images/glossary/curators/harold-koda-costume-curation-collection-display-portrait-ai-v2.png",
+    "sha256": "6d8e44dee7fa00827852f124303685befdf49cfcc59bede15595ff52ec4136d8",
+    "bytes": 1871562,
+    "format": "png"
+  },
+  "generation": {
+    "prompt": null,
+    "model": null,
+    "generated_at": null,
+    "note": "Not recorded at generation time."
+  }
+}

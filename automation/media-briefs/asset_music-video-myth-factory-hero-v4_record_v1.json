@@ -1,0 +1,43 @@
+{
+  "asset_id": "asset_music-video-myth-factory-hero-v4_record_v1",
+  "record_type": "retrospective_asset_record",
+  "record_basis": "Retrospective asset record. The image was generated before any media record existed for it; this file documents the stored asset from its own published metadata and file hash. It is not a pre-generation brief and did not authorise the image.",
+  "asset_path": "public/images/analysis-cards/music-video-myth-factory/music-video-myth-factory-hero-v4.png",
+  "primary_object_id": "obj_music_video_myth_factory_20260813",
+  "content_release_id": "cnt_98851d1ca443f870",
+  "kind": "image",
+  "origin": "ai_illustration",
+  "locale": "multilingual",
+  "educational_purpose": "Editorial AI illustration of music video as a myth machine: frames, gesture, costume and cultural memory.",
+  "may_depict": [
+    "Music video as a myth machine: performer, costume, repeated frames and cultural memory."
+  ],
+  "must_not_imply": [
+    "The image documents a real photograph, place or person",
+    "The image is attributable to a named photographer or artist"
+  ],
+  "rights": {
+    "state": "generated_reviewed",
+    "disclosure": "VANSMITHLAB ? ???????????? AI-???????????, 2026",
+    "rights_basis": "Original AI visual generated for VANSMITHLAB. No licence record was filed at generation time; no third-party work is reproduced.",
+    "third_party_marks": "Not recorded at generation time."
+  },
+  "accessibility": {
+    "alt_text_en": "Music video as a myth machine: performer, costume, repeated frames and cultural memory.",
+    "alt_text_ru": "???????????? ??????????? ? ?????????????? ?????????",
+    "caption_en": "Editorial AI illustration of music video as a myth machine: frames, gesture, costume and cultural memory.",
+    "caption_ru": "???????????? AI-??????????? VANSMITHLAB ? ?????????????? ?????????."
+  },
+  "file": {
+    "path": "public/images/analysis-cards/music-video-myth-factory/music-video-myth-factory-hero-v4.png",
+    "sha256": "d423ac3c381ccc217295b7727697b7759b20ea12010fc58bdeeff0891ff39392",
+    "bytes": 3563994,
+    "format": "png"
+  },
+  "generation": {
+    "prompt": null,
+    "model": null,
+    "generated_at": null,
+    "note": "Not recorded at generation time."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "asset_id": "asset_screen-that-answers-back-hero-v4_record_v1",
+  "record_type": "retrospective_asset_record",
+  "record_basis": "Retrospective asset record. The image was generated before any media record existed for it; this file documents the stored asset from its own published metadata and file hash. It is not a pre-generation brief and did not authorise the image.",
+  "asset_path": "public/images/analysis-cards/screen-that-answers-back/screen-that-answers-back-hero-v4.png",
+  "primary_object_id": "obj_screen_that_answers_back_20260813",
+  "content_release_id": "cnt_505ed94121129b77",
+  "kind": "image",
+  "origin": "ai_illustration",
+  "locale": "multilingual",
+  "educational_purpose": "Editorial AI illustration of an interactive screen: gesture, cursor, gaze and an image responding in real time.",
+  "may_depict": [
+    "A person interacts with a screen that answers to gesture and gaze."
+  ],
+  "must_not_imply": [
+    "The image documents a real photograph, place or person",
+    "The image is attributable to a named photographer or artist"
+  ],
+  "rights": {
+    "state": "generated_reviewed",
+    "disclosure": "VANSMITHLAB ? ???????????? AI-???????????, 2026",
+    "rights_basis": "Original AI visual generated for VANSMITHLAB. No licence record was filed at generation time; no third-party work is reproduced.",
+    "third_party_marks": "Not recorded at generation time."
+  },
+  "accessibility": {
+    "alt_text_en": "A person interacts with a screen that answers to gesture and gaze.",
+    "alt_text_ru": "???????????? ??????????? ? ?????????????? ?????????",
+    "caption_en": "Editorial AI illustration of an interactive screen: gesture, cursor, gaze and an image responding in real time.",
+    "caption_ru": "???????????? AI-??????????? VANSMITHLAB ? ?????????????? ?????????."
+  },
+  "file": {
+    "path": "public/images/analysis-cards/screen-that-answers-back/screen-that-answers-back-hero-v4.png",
+    "sha256": "a1046b18c698b7000c04f13110edf27f633cb759347a0dfc5aa7b385cdb37087",
+    "bytes": 3386739,
+    "format": "png"
+  },
+  "generation": {
+    "prompt": null,
+    "model": null,
+    "generated_at": null,
+    "note": "Not recorded at generation time."
+  }
+}

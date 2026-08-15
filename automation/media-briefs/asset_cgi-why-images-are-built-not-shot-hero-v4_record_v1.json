@@ -1,0 +1,43 @@
+{
+  "asset_id": "asset_cgi-why-images-are-built-not-shot-hero-v4_record_v1",
+  "record_type": "retrospective_asset_record",
+  "record_basis": "Retrospective asset record. The image was generated before any media record existed for it; this file documents the stored asset from its own published metadata and file hash. It is not a pre-generation brief and did not authorise the image.",
+  "asset_path": "public/images/analysis-cards/cgi-why-images-are-built-not-shot/cgi-why-images-are-built-not-shot-hero-v4.png",
+  "primary_object_id": "obj_cgi_why_images_are_built_not_shot_20260813",
+  "content_release_id": "cnt_fa6f100928441e2f",
+  "kind": "image",
+  "origin": "ai_illustration",
+  "locale": "multilingual",
+  "educational_purpose": "Editorial AI illustration of CGI production: from wireframe and light to the assembled image.",
+  "may_depict": [
+    "An assembled digital image: geometry, light, materials and compositing."
+  ],
+  "must_not_imply": [
+    "The image documents a real photograph, place or person",
+    "The image is attributable to a named photographer or artist"
+  ],
+  "rights": {
+    "state": "generated_reviewed",
+    "disclosure": "VANSMITHLAB ? ???????????? AI-???????????, 2026",
+    "rights_basis": "Original AI visual generated for VANSMITHLAB. No licence record was filed at generation time; no third-party work is reproduced.",
+    "third_party_marks": "Not recorded at generation time."
+  },
+  "accessibility": {
+    "alt_text_en": "An assembled digital image: geometry, light, materials and compositing.",
+    "alt_text_ru": "???????????? ??????????? ? ?????????????? ?????????",
+    "caption_en": "Editorial AI illustration of CGI production: from wireframe and light to the assembled image.",
+    "caption_ru": "???????????? AI-??????????? VANSMITHLAB ? ?????????????? ?????????."
+  },
+  "file": {
+    "path": "public/images/analysis-cards/cgi-why-images-are-built-not-shot/cgi-why-images-are-built-not-shot-hero-v4.png",
+    "sha256": "fcfea66b73c2840536e510462d0f2d83232f8ca14b65c3cddcdbafddfe220db5",
+    "bytes": 2873291,
+    "format": "png"
+  },
+  "generation": {
+    "prompt": null,
+    "model": null,
+    "generated_at": null,
+    "note": "Not recorded at generation time."
+  }
+}

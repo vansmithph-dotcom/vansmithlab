@@ -1,0 +1,43 @@
+{
+  "asset_id": "asset_erte-illustration-theatre-modern-image-hero-v1_record_v1",
+  "record_type": "retrospective_asset_record",
+  "record_basis": "Retrospective asset record. The image was generated before any media record existed for it; this file documents the stored asset from its own published metadata and file hash. It is not a pre-generation brief and did not authorise the image.",
+  "asset_path": "public/images/articles/erte-illustration-theatre-modern-image-hero-v1.png",
+  "primary_object_id": "",
+  "content_release_id": "cnt_82f94798660beb94",
+  "kind": "image",
+  "origin": "ai_illustration",
+  "locale": "multilingual",
+  "educational_purpose": "Original AI illustration in the spirit of Ert? theatrical graphics; not a historical photograph.",
+  "may_depict": [
+    "Editorial illustration of Ert? and theatrical image"
+  ],
+  "must_not_imply": [
+    "The image documents a real photograph, place or person",
+    "The image is attributable to a named photographer or artist"
+  ],
+  "rights": {
+    "state": "generated_reviewed",
+    "disclosure": "VANSMITHLAB · оригинальная AI-иллюстрация, 2026",
+    "rights_basis": "Original AI visual generated for VANSMITHLAB. No licence record was filed at generation time; no third-party work is reproduced.",
+    "third_party_marks": "Not recorded at generation time."
+  },
+  "accessibility": {
+    "alt_text_en": "Editorial illustration of Ert? and theatrical image",
+    "alt_text_ru": "Редакционная AI-портретная иллюстрация автора",
+    "caption_en": "Original AI illustration in the spirit of Ert? theatrical graphics; not a historical photograph.",
+    "caption_ru": "AI-портретная реконструкция автора. Не является документальной фотографией."
+  },
+  "file": {
+    "path": "public/images/articles/erte-illustration-theatre-modern-image-hero-v1.png",
+    "sha256": "607bdb24fc5699792c9910f1d241c655dbe0f2c60e16d02f589bf08c86c93d19",
+    "bytes": 2376458,
+    "format": "png"
+  },
+  "generation": {
+    "prompt": null,
+    "model": null,
+    "generated_at": null,
+    "note": "Not recorded at generation time."
+  }
+}
