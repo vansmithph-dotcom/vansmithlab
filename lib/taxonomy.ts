@@ -8,6 +8,7 @@
 export const DISCIPLINES = [
   "architecture", "fashion", "art", "photography",
   "graphic-design", "product-design", "interior-design", "media-publishing",
+  "materials", "technology",
 ] as const;
 
 export const KINDS = [

@@ -20,7 +20,8 @@ META_KEYS = ["slug", "language", "discipline", "kind",
              "author", "status", "source_revision", "layout_schema", "paired_document_id"]
 
 DISCIPLINES = {"architecture", "fashion", "art", "photography",
-               "graphic-design", "product-design", "interior-design", "media-publishing"}
+               "graphic-design", "product-design", "interior-design", "media-publishing",
+               "materials", "technology"}
 KINDS = {"person", "organization", "material-technique", "work",
          "movement-style", "place", "event-exhibition", "term", "theme"}
 ROLES = {"architect", "artist", "fashion-designer", "photographer", "art-director",

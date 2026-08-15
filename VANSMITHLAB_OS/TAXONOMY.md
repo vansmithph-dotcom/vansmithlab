@@ -1,6 +1,6 @@
 # VANSMITHLAB — Taxonomy v2
 
-Version: 2.0
+Version: 2.1
 Status: canonical
 Supersedes: v1.1 (flat `category` / `categories`)
 Rationale and migration record: `proposals/P-002_TAXONOMY_V2_FULL_DESIGN_FIELD.md`
@@ -41,6 +41,25 @@ RU and EN pairs carry identical `discipline`, `kind`, `role` and `category`.
 | `product-design` | Предметный дизайн | 0 |
 | `interior-design` | Интерьер | 0 |
 | `media-publishing` | Медиа и издания | 0 |
+| `materials` | Материалы и техники | 0 |
+| `technology` | Технология | 0 |
+
+`materials` and `technology` were added in v2.1. `01_PRODUCT_CHARTER.md` and the
+content foundation plan both name Technology as one of the four research fields
+the front page promises, and materials already had a body of published articles
+with nowhere correct to file them: they were being tagged `material-technique`,
+which is a `kind`, not a discipline. A material article is now
+`discipline: materials | kind: material-technique`, which keeps the two axes
+doing the job each was defined for.
+
+- `materials` — the substance a thing is made of and the craft that works it:
+  fibre, metal, stone, glass, finish, treatment, process.
+- `technology` — the tools and systems that changed how design is imagined and
+  made: drawing instruments, CAD, printing, imaging, computation, generative
+  systems. Not product news; the field is historical and evergreen.
+
+Neither term takes a route of its own. Disciplines are filters over the corpus,
+not URL segments — only `role` resolves to a page under `/glossary/`.
 
 ## Axis B — `kind`
 
@@ -96,4 +115,4 @@ A new `discipline`, `kind` or `role` requires: the term, a Russian label, a defi
 
 ---
 
-Version: 2.0 / 2026-08-09 — counts current as of 113 article pairs.
+Version: 2.1 / 2026-08-15 — adds the materials and technology disciplines; counts predate the current batch.
