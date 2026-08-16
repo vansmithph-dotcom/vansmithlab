@@ -1,0 +1,35 @@
+{
+  "content_id": "cnt_2c4a8ef1eed27467",
+  "primary_object_id": "",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "unverified",
+  "confidence_score": 0.0,
+  "claim_ids": [],
+  "source_ids": [
+    "src_3c7383c5eeb2f2d8",
+    "src_3297b38bfb7a9a94"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "teamlab",
+  "title": "teamLab",
+  "summary": "Художественная студия в Токио с 2001 года. Создаёт цифровые среды, где изображение рассчитывается в реальном времени, выходит за границы отдельного экрана и меняется от присутствия зрителя.",
+  "discipline": [
+    "art",
+    "media-publishing"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "64ab485f44c6bc212fc2088e4c9939543cd4781e45f93e771500e2faee0e8dc8",
+  "hero_image": {
+    "src": "/images/articles/teamlab-hero-v1-card.webp",
+    "alt": "Студийный стол у высокого окна: небольшие шарнирные фигуры, экраны в рамах и штудии движения; над ними работает человек.",
+    "caption": "Тело сверяют с экраном: движение изучают как предмет, прежде чем оно станет средой.",
+    "credit": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "origin": "ai_illustration"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content_id": "cnt_2c4a8ef1eed27467",
+  "primary_object_id": "",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "unverified",
+  "confidence_score": 0.0,
+  "claim_ids": [],
+  "source_ids": [
+    "src_3c7383c5eeb2f2d8",
+    "src_3297b38bfb7a9a94"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "teamlab",
+  "title": "teamLab",
+  "summary": "An art studio in Tokyo since 2001. It creates digital environments calculated in real time, extending beyond individual screens and changing with the presence of viewers.",
+  "discipline": [
+    "art",
+    "media-publishing"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "c4d7075589ba3ee1c9335a446dd95da5577b993e0a09eec2e72bcf3da7ba82c2",
+  "hero_image": {
+    "src": "/images/articles/teamlab-hero-v1-card.webp",
+    "alt": "A studio table by a tall window holding small jointed figures, framed screens and movement studies, with one person working over them.",
+    "caption": "The body tested against the screen: movement studied as an object before it becomes an environment.",
+    "credit": "VANSMITHLAB · AI illustration, 2026",
+    "origin": "ai_illustration"
+  }
+}

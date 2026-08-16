@@ -1,0 +1,44 @@
+{
+  "asset_id": "asset_wieden-kennedy-hero-v1-card_v1",
+  "record_type": "media_brief",
+  "asset_path": "public/images/articles/wieden-kennedy-hero-v1-card.webp",
+  "kind": "image",
+  "origin": "ai_illustration",
+  "locale": "multilingual",
+  "generated_from_prompt": "A workspace that directly visualizes this subject: The independent advertising agency that turned advertising from product messaging into a form of popular culture. shot from a corner at forty-five degrees, near edge sharp and the room falling away. North light from a tall window on the left. Do not depict any real, identifiable person or reproduce any real logo or wordmark. Editorial photographic illustration, cinematic daylight, warm muted palette of cream, bone, ink black and one restrained accent colour, shallow depth of field, fine film grain, calm composed framing, no clutter. Landscape 3:2, 1536x1024. No text, no lettering, no numerals, no logo, no wordmark, no branded packaging, no watermark, no user interface, no flat vector shapes, no infographic, no diagram, no chart. Not a documentary photograph.",
+  "educational_purpose": "The floor as the argument: work laid out where the whole room walks past it.",
+  "may_depict": [
+    "An invented workspace that visualizes the subject's method"
+  ],
+  "must_not_imply": [
+    "The image documents a real place, event or person",
+    "The image reproduces a real work, logo or product"
+  ],
+  "rights": {
+    "state": "generated_reviewed",
+    "disclosure": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "rights_basis": "Original AI visual generated for VANSMITHLAB from the prompt recorded above. No third-party work is reproduced.",
+    "third_party_marks": "No logo, wordmark or recognisable branded asset."
+  },
+  "accessibility": {
+    "alt_text_en": "A wide agency floor seen past a foreground table of layouts, with desks, screens and a pinned image wall receding into the room.",
+    "alt_text_ru": "Широкий этаж агентства за столом с макетами на переднем плане; вглубь уходят рабочие места, экраны и стена с приколотыми изображениями.",
+    "caption_en": "The floor as the argument: work laid out where the whole room walks past it.",
+    "caption_ru": "Этаж как аргумент: работу раскладывают там, где мимо неё проходит вся комната."
+  },
+  "file": {
+    "path": "public/images/articles/wieden-kennedy-hero-v1-card.webp",
+    "sha256": "f2684a3ab7b9f0ff417c86aeeffd46e76461ff6eb6c89f3a0dfeffbf9da97f1f",
+    "bytes": 133934,
+    "format": "webp"
+  },
+  "review": {
+    "reviewed": true,
+    "checked": [
+      "landscape 3:2 master crop",
+      "visualizes this subject rather than its category",
+      "distinct from every other card in the corpus",
+      "no identifiable person, no logo or wordmark"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content_id": "cnt_0f70e44abcf1ebf1",
+  "primary_object_id": "",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "unverified",
+  "confidence_score": 0.0,
+  "claim_ids": [],
+  "source_ids": [
+    "src_cdfff11349df13a7",
+    "src_4dbcf1ea940e4837"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "wolff-olins",
+  "title": "Wolff Olins",
+  "summary": "Студия или агентство, формирующее стратегию и визуальную идентичность организаций и марок в Лондоне с 1965 года. Строит идентичность вокруг стратегической идеи организации и допускает системы, которые могут быть изменчивыми, спорными и намеренно незавершёнными.",
+  "discipline": [
+    "graphic-design",
+    "media-publishing"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "f4c6fae8935212c0afd4b3e2b3f8a31176f65fdcfaa3a0400b9c1e602158712b",
+  "hero_image": {
+    "src": "/images/articles/wolff-olins-hero-v1-card.webp",
+    "alt": "Стена из бледных пробных листов, приколотых встык неровной сеткой; под ними рабочая лампа и уходящий из кадра стол с пробами.",
+    "caption": "Идентичность обсуждают на стене: десятки проб держат перед глазами разом, чтобы судить систему целиком.",
+    "credit": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "origin": "ai_illustration"
+  }
+}

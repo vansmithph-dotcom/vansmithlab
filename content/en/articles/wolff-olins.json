@@ -1,0 +1,35 @@
+{
+  "content_id": "cnt_0f70e44abcf1ebf1",
+  "primary_object_id": "",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "unverified",
+  "confidence_score": 0.0,
+  "claim_ids": [],
+  "source_ids": [
+    "src_cdfff11349df13a7",
+    "src_4dbcf1ea940e4837"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "wolff-olins",
+  "title": "Wolff Olins",
+  "summary": "A studio or agency in London since 1965. It builds identity around an organisation’s strategic idea and accepts systems that may be variable, contentious and deliberately open-ended.",
+  "discipline": [
+    "graphic-design",
+    "media-publishing"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "0a88e6629c21aa36a9331b8aa0e34b177455c3febaed91303d737bf836f58c3a",
+  "hero_image": {
+    "src": "/images/articles/wolff-olins-hero-v1-card.webp",
+    "alt": "A wall of pale study sheets pinned edge to edge in a loose grid, a work lamp below them and a table of trials running out of frame.",
+    "caption": "An identity argued on the wall: dozens of trials kept up at once so the system can be judged whole.",
+    "credit": "VANSMITHLAB · AI illustration, 2026",
+    "origin": "ai_illustration"
+  }
+}
