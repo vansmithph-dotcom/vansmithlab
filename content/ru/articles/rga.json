@@ -1,0 +1,35 @@
+{
+  "content_id": "cnt_24e6dee7104f5781",
+  "primary_object_id": "",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "unverified",
+  "confidence_score": 0.0,
+  "claim_ids": [],
+  "source_ids": [
+    "src_a08a1dc3c226f982",
+    "src_0557fcb0f93dfdd1"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "rga",
+  "title": "R/GA",
+  "summary": "Междисциплинарная творческая компания в Нью-Йорке с 1977 года. Меняло собственную модель вместе с технологиями: от экранной графики и кинопроизводства к сетевым продуктам, сервисам и преобразованию организаций.",
+  "discipline": [
+    "graphic-design",
+    "media-publishing"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "62b36015b363b57ed7d186d0d8da6a0cad219a107d78c9f3c6908d84de166bc0",
+  "hero_image": {
+    "src": "/images/articles/rga-hero-v1-card.webp",
+    "alt": "Рабочий стол с колодками и формованными макетами на бумаге, схемами системы и образцами ткани; позади двое за столом у высокого окна с видом на город.",
+    "caption": "Предмет, система и материал на одной плоскости: сервис проектируют сразу как вещь и как схему.",
+    "credit": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "origin": "ai_illustration"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "asset_id": "asset_rga-hero-v1-card_v1",
+  "record_type": "media_brief",
+  "asset_path": "public/images/articles/rga-hero-v1-card.webp",
+  "kind": "image",
+  "origin": "ai_illustration",
+  "locale": "multilingual",
+  "generated_from_prompt": "A mixed strategy and production floor. The room reads as New York, and as a practice working continuously since 1977 — the building, the furniture and the wear on the surfaces all belong to that place and that length of time. On the working surface, the material of this specific practice: work in progress on Nike+; Screen graphics. Show these as physical objects — drawings, samples, models, proofs, test pieces — laid out mid-process, not as finished presentation pieces. The arrangement should make the studio's working principle legible without stating it: repeatedly changed its own model with technology, moving from screen graphics and film production to networked products, services and organisational transformation. 2 people are at work in the middle distance, seen from behind or in profile, faces not identifiable. shot from a corner at forty-five degrees, near edge sharp and the room falling away. North light from a tall window on the left. The named works may appear only as unresolved studies — rough models, trial prints, part drawings — never as a finished retail product or a reproduction of the real thing. Do not depict any real, identifiable person, and do not show any logo or wordmark. Editorial photographic illustration, cinematic daylight, warm muted palette of cream, bone, ink black and one restrained accent colour, shallow depth of field, fine film grain, calm composed framing, no clutter. Landscape 3:2, 1536x1024. No text, no lettering, no numerals, no logo, no wordmark, no branded packaging, no watermark, no user interface, no flat vector shapes, no infographic, no diagram, no chart. Not a documentary photograph.",
+  "educational_purpose": "Product, system and material on one surface: a service designed as an object and a diagram at once.",
+  "may_depict": [
+    "An invented workspace that visualizes the subject's method"
+  ],
+  "must_not_imply": [
+    "The image documents a real place, event or person",
+    "The image reproduces a real work, logo or product"
+  ],
+  "rights": {
+    "state": "generated_reviewed",
+    "disclosure": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "rights_basis": "Original AI visual generated for VANSMITHLAB from the prompt recorded above. No third-party work is reproduced.",
+    "third_party_marks": "No logo, wordmark or recognisable branded asset."
+  },
+  "accessibility": {
+    "alt_text_en": "A worktable of product lasts and shaped models on paper, system diagrams and fabric swatches, with two people at a desk by a tall city window behind.",
+    "alt_text_ru": "Рабочий стол с колодками и формованными макетами на бумаге, схемами системы и образцами ткани; позади двое за столом у высокого окна с видом на город.",
+    "caption_en": "Product, system and material on one surface: a service designed as an object and a diagram at once.",
+    "caption_ru": "Предмет, система и материал на одной плоскости: сервис проектируют сразу как вещь и как схему."
+  },
+  "file": {
+    "path": "public/images/articles/rga-hero-v1-card.webp",
+    "sha256": "e4c7d7118e7d885b44535b76499cd4407214be6f4abff89946c454daa5902f43",
+    "bytes": 178178,
+    "format": "webp"
+  },
+  "review": {
+    "reviewed": true,
+    "checked": [
+      "landscape 3:2 master crop",
+      "visualizes this subject rather than its category",
+      "distinct from every other card in the corpus",
+      "no identifiable person, no logo or wordmark"
+    ]
+  }
+}

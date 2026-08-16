@@ -1,0 +1,35 @@
+{
+  "content_id": "cnt_24e6dee7104f5781",
+  "primary_object_id": "",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "unverified",
+  "confidence_score": 0.0,
+  "claim_ids": [],
+  "source_ids": [
+    "src_a08a1dc3c226f982",
+    "src_0557fcb0f93dfdd1"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "rga",
+  "title": "R/GA",
+  "summary": "A multidisciplinary creative company in New York since 1977. It repeatedly changed its own model with technology, moving from screen graphics and film production to networked products, services and organisational transformation.",
+  "discipline": [
+    "graphic-design",
+    "media-publishing"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "3d2e5ed0a88170d578ae2d5d671ff9a3ae21ffcdb52e225bd384eb1f523ee9c0",
+  "hero_image": {
+    "src": "/images/articles/rga-hero-v1-card.webp",
+    "alt": "A worktable of product lasts and shaped models on paper, system diagrams and fabric swatches, with two people at a desk by a tall city window behind.",
+    "caption": "Product, system and material on one surface: a service designed as an object and a diagram at once.",
+    "credit": "VANSMITHLAB · AI illustration, 2026",
+    "origin": "ai_illustration"
+  }
+}

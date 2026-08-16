@@ -1,0 +1,36 @@
+{
+  "content_id": "cnt_1a9354c73cd166f2",
+  "primary_object_id": "",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "unverified",
+  "confidence_score": 0.0,
+  "claim_ids": [],
+  "source_ids": [
+    "src_d62c1399d8352322",
+    "src_0b8d3b4eb97cb852"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "field-io",
+  "title": "FIELD.IO",
+  "summary": "Студия в Лондоне с 2009 года. Использует вычислительный дизайн, движение и данные для создания графических систем, цифровых продуктов и пространств, которые меняются во времени.",
+  "discipline": [
+    "graphic-design",
+    "art",
+    "media-publishing"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "e6388dadd13b604267020d88fbe878f5d9d17b26316128fbda02079cc6b990da",
+  "hero_image": {
+    "src": "/images/articles/field-io-hero-v1-card.webp",
+    "alt": "Верстак под наклонной лампой: небольшой подсвеченный макет, соединённый проводами с макетной платой, перед ним схемы и распечатки; позади работают двое.",
+    "caption": "Отзывчивое пространство сначала собирают в масштабе стола и лишь потом — в масштабе зала.",
+    "credit": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "origin": "ai_illustration"
+  }
+}

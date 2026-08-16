@@ -1,0 +1,36 @@
+{
+  "content_id": "cnt_1a9354c73cd166f2",
+  "primary_object_id": "",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "unverified",
+  "confidence_score": 0.0,
+  "claim_ids": [],
+  "source_ids": [
+    "src_d62c1399d8352322",
+    "src_0b8d3b4eb97cb852"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "field-io",
+  "title": "FIELD.IO",
+  "summary": "A studio in London since 2009. It uses computational design, motion and data to create graphic systems, digital products and spaces that change over time.",
+  "discipline": [
+    "graphic-design",
+    "art",
+    "media-publishing"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "b7d8c0837e8dd1ff9371550463cc5e6ddda73cd34e07ee82fc0d68a3b95f1eda",
+  "hero_image": {
+    "src": "/images/articles/field-io-hero-v1-card.webp",
+    "alt": "A workbench under an angled lamp holding a small illuminated model box wired to a breadboard, with circuit diagrams and prints spread in front and two people working behind.",
+    "caption": "A responsive space prototyped at desk scale before it is built at room scale.",
+    "credit": "VANSMITHLAB · AI illustration, 2026",
+    "origin": "ai_illustration"
+  }
+}

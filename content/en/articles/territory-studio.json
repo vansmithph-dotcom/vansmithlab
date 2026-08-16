@@ -1,0 +1,36 @@
+{
+  "content_id": "cnt_c89b0a880648b21b",
+  "primary_object_id": "",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "unverified",
+  "confidence_score": 0.0,
+  "claim_ids": [],
+  "source_ids": [
+    "src_4473860123aef477",
+    "src_a2543b2766577ce1"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "territory-studio",
+  "title": "Territory Studio",
+  "summary": "A studio in London since 2010. It designs screen graphics and interfaces as part of a story world.",
+  "discipline": [
+    "graphic-design",
+    "art",
+    "media-publishing"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "63fb4f97a330d39a84e5f4787701365bd9128eeda6c3770d7dc94f3ea68debbb",
+  "hero_image": {
+    "src": "/images/articles/territory-studio-hero-v1-card.webp",
+    "alt": "A long studio with a built control-panel prop on the bench, sheets of screen-graphic layouts and component drawings laid out, two people working at the far desks.",
+    "caption": "Screen graphics made as a physical prop first: the interface has to exist before it can be filmed.",
+    "credit": "VANSMITHLAB · AI illustration, 2026",
+    "origin": "ai_illustration"
+  }
+}
