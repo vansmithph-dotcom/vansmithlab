@@ -1,0 +1,35 @@
+{
+  "content_id": "cnt_993de1a1cf527e65",
+  "primary_object_id": "",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "unverified",
+  "confidence_score": 0.0,
+  "claim_ids": [],
+  "source_ids": [
+    "src_12392e10b3d80806",
+    "src_45bd20dfb03fd6e7"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "random-international",
+  "title": "Random International",
+  "summary": "An art studio in London since 2005. It uses sensors, light, movement and physical processes so viewers experience technological systems through their own bodies and behaviour.",
+  "discipline": [
+    "art",
+    "media-publishing"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "c611a8962b157566bf60bd552e64c5ef17e44e8035d4277ba5d7d49dbb327ed6",
+  "hero_image": {
+    "src": "/images/articles/random-international-hero-v1-card.webp",
+    "alt": "A long workbench under a single lamp carrying rows of small mechanical units, wiring and technical drawings, with two people working behind.",
+    "caption": "The behaviour engineered unit by unit: the artwork exists first as a mechanism that has to work.",
+    "credit": "VANSMITHLAB · AI illustration, 2026",
+    "origin": "ai_illustration"
+  }
+}

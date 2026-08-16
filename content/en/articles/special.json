@@ -1,0 +1,35 @@
+{
+  "content_id": "cnt_ba36b97a41e7faf7",
+  "primary_object_id": "",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "unverified",
+  "confidence_score": 0.0,
+  "claim_ids": [],
+  "source_ids": [
+    "src_d572c90c173d4693",
+    "src_fcf4885a986f3742"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "special",
+  "title": "Special",
+  "summary": "A multidisciplinary creative company in Auckland since 2007. It builds an independent network around compact teams, cultural observation and an idea that should work before media scale is added.",
+  "discipline": [
+    "graphic-design",
+    "media-publishing"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "d69309b9b513f160f2ea2c4ad4e42d6d697454b0224da84e1c98d98b488a6a9d",
+  "hero_image": {
+    "src": "/images/articles/special-hero-v1-card.webp",
+    "alt": "A studio floor of wire-frame armatures and skeletal study models on low plinths, with three people working among them.",
+    "caption": "Ideas built as armatures first: the structure is tested in the room before it is dressed.",
+    "credit": "VANSMITHLAB · AI illustration, 2026",
+    "origin": "ai_illustration"
+  }
+}

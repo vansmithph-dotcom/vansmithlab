@@ -1,0 +1,44 @@
+{
+  "asset_id": "asset_special-hero-v1-card_v1",
+  "record_type": "media_brief",
+  "asset_path": "public/images/articles/special-hero-v1-card.webp",
+  "kind": "image",
+  "origin": "ai_illustration",
+  "locale": "multilingual",
+  "generated_from_prompt": "A mixed strategy and production floor. The room reads as Auckland, and as a practice working continuously since 2007 — the building, the furniture and the wear on the surfaces all belong to that place and that length of time. On the working surface, the material of this specific practice: work in progress on Tonight I’ll Be Eating; An independent international model. Show these as physical objects — drawings, samples, models, proofs, test pieces — laid out mid-process, not as finished presentation pieces. The arrangement should make the studio's working principle legible without stating it: builds an independent network around compact teams, cultural observation and an idea that should work before media scale is added. 3 people are at work in the middle distance, seen from behind or in profile, faces not identifiable. close three-quarter shot on a single group of objects, the room only a pale suggestion behind. Bright diffused daylight from behind the camera. The named works may appear only as unresolved studies — rough models, trial prints, part drawings — never as a finished retail product or a reproduction of the real thing. Do not depict any real, identifiable person, and do not show any logo or wordmark. Editorial photographic illustration, cinematic daylight, warm muted palette of cream, bone, ink black and one restrained accent colour, shallow depth of field, fine film grain, calm composed framing, no clutter. Landscape 3:2, 1536x1024. No text, no lettering, no numerals, no logo, no wordmark, no branded packaging, no watermark, no user interface, no flat vector shapes, no infographic, no diagram, no chart. Not a documentary photograph.",
+  "educational_purpose": "Ideas built as armatures first: the structure is tested in the room before it is dressed.",
+  "may_depict": [
+    "An invented workspace that visualizes the subject's method"
+  ],
+  "must_not_imply": [
+    "The image documents a real place, event or person",
+    "The image reproduces a real work, logo or product"
+  ],
+  "rights": {
+    "state": "generated_reviewed",
+    "disclosure": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "rights_basis": "Original AI visual generated for VANSMITHLAB from the prompt recorded above. No third-party work is reproduced.",
+    "third_party_marks": "No logo, wordmark or recognisable branded asset."
+  },
+  "accessibility": {
+    "alt_text_en": "A studio floor of wire-frame armatures and skeletal study models on low plinths, with three people working among them.",
+    "alt_text_ru": "Студийный пол с проволочными каркасами и скелетными макетами на низких подиумах; между ними работают трое.",
+    "caption_en": "Ideas built as armatures first: the structure is tested in the room before it is dressed.",
+    "caption_ru": "Идею сначала строят каркасом: конструкцию проверяют в помещении до того, как её оденут."
+  },
+  "file": {
+    "path": "public/images/articles/special-hero-v1-card.webp",
+    "sha256": "537df8020b038259e5039b56ee0588971c623e682687d7c6615188f51d826451",
+    "bytes": 110838,
+    "format": "webp"
+  },
+  "review": {
+    "reviewed": true,
+    "checked": [
+      "landscape 3:2 master crop",
+      "visualizes this subject rather than its category",
+      "distinct from every other card in the corpus",
+      "no identifiable person, no logo or wordmark"
+    ]
+  }
+}

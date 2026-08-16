@@ -1,0 +1,35 @@
+{
+  "content_id": "cnt_a06b98efb54635f5",
+  "primary_object_id": "",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "unverified",
+  "confidence_score": 0.0,
+  "claim_ids": [],
+  "source_ids": [
+    "src_7b7414654828c529",
+    "src_c021b1122e8868b5"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "refik-anadol-studio",
+  "title": "Refik Anadol Studio",
+  "summary": "Художественная студия в Лос-Анджелесе с 2014 года. Использует большие массивы данных, машинное обучение и архитектурные поверхности для создания движущихся абстрактных сред, где вычисление становится видимой пластикой.",
+  "discipline": [
+    "art",
+    "media-publishing"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "47e931b5b822e3ff1140d85af30a8d285b961a134a49578d96a33f2b9d08efe6",
+  "hero_image": {
+    "src": "/images/articles/refik-anadol-studio-hero-v1-card.webp",
+    "alt": "Длинный стол с тёмными отпечатками, полупрозрачными блоками и небольшими макетами в светлой студии; позади у стены с приколотыми листами работают двое.",
+    "caption": "Данные обретают тело: изображение проверяют как печатный и физический объект, а не только на экране.",
+    "credit": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "origin": "ai_illustration"
+  }
+}

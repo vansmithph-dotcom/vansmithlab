@@ -1,0 +1,44 @@
+{
+  "asset_id": "asset_random-international-hero-v1-card_v1",
+  "record_type": "media_brief",
+  "asset_path": "public/images/articles/random-international-hero-v1-card.webp",
+  "kind": "image",
+  "origin": "ai_illustration",
+  "locale": "multilingual",
+  "generated_from_prompt": "A darkened installation space. The room reads as London, and as a practice working continuously since 2005 — the building, the furniture and the wear on the surfaces all belong to that place and that length of time. On the working surface, the material of this specific practice: work in progress on Rain Room; Swarm Study. Show these as physical objects — drawings, samples, models, proofs, test pieces — laid out mid-process, not as finished presentation pieces. The arrangement should make the studio's working principle legible without stating it: uses sensors, light, movement and physical processes so viewers experience technological systems through their own bodies and behaviour. 2 people are at work in the middle distance, seen from behind or in profile, faces not identifiable. shot at table height from one end, the surface receding into soft focus. A single warm work lamp against a cool dim room. The named works may appear only as unresolved studies — rough models, trial prints, part drawings — never as a finished retail product or a reproduction of the real thing. Do not depict any real, identifiable person, and do not show any logo or wordmark. Editorial photographic illustration, cinematic daylight, warm muted palette of cream, bone, ink black and one restrained accent colour, shallow depth of field, fine film grain, calm composed framing, no clutter. Landscape 3:2, 1536x1024. No text, no lettering, no numerals, no logo, no wordmark, no branded packaging, no watermark, no user interface, no flat vector shapes, no infographic, no diagram, no chart. Not a documentary photograph.",
+  "educational_purpose": "The behaviour engineered unit by unit: the artwork exists first as a mechanism that has to work.",
+  "may_depict": [
+    "An invented workspace that visualizes the subject's method"
+  ],
+  "must_not_imply": [
+    "The image documents a real place, event or person",
+    "The image reproduces a real work, logo or product"
+  ],
+  "rights": {
+    "state": "generated_reviewed",
+    "disclosure": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "rights_basis": "Original AI visual generated for VANSMITHLAB from the prompt recorded above. No third-party work is reproduced.",
+    "third_party_marks": "No logo, wordmark or recognisable branded asset."
+  },
+  "accessibility": {
+    "alt_text_en": "A long workbench under a single lamp carrying rows of small mechanical units, wiring and technical drawings, with two people working behind.",
+    "alt_text_ru": "Длинный верстак под одной лампой: ряды небольших механических модулей, проводка и технические чертежи; позади работают двое.",
+    "caption_en": "The behaviour engineered unit by unit: the artwork exists first as a mechanism that has to work.",
+    "caption_ru": "Поведение конструируют помодульно: работа сначала существует как механизм, который обязан работать."
+  },
+  "file": {
+    "path": "public/images/articles/random-international-hero-v1-card.webp",
+    "sha256": "516bbdf208a3923b08b3fbbacb6c94a7801f6164f428b59faf3a7fc22b3b20f2",
+    "bytes": 132740,
+    "format": "webp"
+  },
+  "review": {
+    "reviewed": true,
+    "checked": [
+      "landscape 3:2 master crop",
+      "visualizes this subject rather than its category",
+      "distinct from every other card in the corpus",
+      "no identifiable person, no logo or wordmark"
+    ]
+  }
+}

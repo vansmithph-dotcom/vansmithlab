@@ -1,0 +1,35 @@
+{
+  "content_id": "cnt_5a57181fcc0223af",
+  "primary_object_id": "",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "unverified",
+  "confidence_score": 0.0,
+  "claim_ids": [],
+  "source_ids": [
+    "src_7a53179959f24629",
+    "src_3dee04f44edb249e"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "marshmallow-laser-feast",
+  "title": "Marshmallow Laser Feast",
+  "summary": "An art studio in London since 2012. It uses virtual reality, spatial sound and scientific data to translate invisible natural processes into bodily experience.",
+  "discipline": [
+    "art",
+    "media-publishing"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "92fe65518ec53bf01e0b08f729f3ef825757d7a53e6627c85c26267a69956903",
+  "hero_image": {
+    "src": "/images/articles/marshmallow-laser-feast-hero-v1-card.webp",
+    "alt": "A darkened studio table holding a moss-and-terrain study model, optics and headsets, with people working at the lit far end of the room.",
+    "caption": "Landscape rebuilt as apparatus: the natural world staged so it can be entered.",
+    "credit": "VANSMITHLAB · AI illustration, 2026",
+    "origin": "ai_illustration"
+  }
+}

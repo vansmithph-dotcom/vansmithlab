@@ -1,0 +1,35 @@
+{
+  "content_id": "cnt_993de1a1cf527e65",
+  "primary_object_id": "",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "unverified",
+  "confidence_score": 0.0,
+  "claim_ids": [],
+  "source_ids": [
+    "src_12392e10b3d80806",
+    "src_45bd20dfb03fd6e7"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "random-international",
+  "title": "Random International",
+  "summary": "Художественная студия в Лондоне с 2005 года. Использует датчики, свет, движение и физические процессы, чтобы зритель ощущал технологическую систему через собственное тело и поведение.",
+  "discipline": [
+    "art",
+    "media-publishing"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "fef4a7a5d8eb29322322e442c7501b74ca865ba3bb5d6f0c338a6d1acbedfa70",
+  "hero_image": {
+    "src": "/images/articles/random-international-hero-v1-card.webp",
+    "alt": "Длинный верстак под одной лампой: ряды небольших механических модулей, проводка и технические чертежи; позади работают двое.",
+    "caption": "Поведение конструируют помодульно: работа сначала существует как механизм, который обязан работать.",
+    "credit": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "origin": "ai_illustration"
+  }
+}

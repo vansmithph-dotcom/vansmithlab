@@ -1,0 +1,35 @@
+{
+  "content_id": "cnt_a06b98efb54635f5",
+  "primary_object_id": "",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "unverified",
+  "confidence_score": 0.0,
+  "claim_ids": [],
+  "source_ids": [
+    "src_7b7414654828c529",
+    "src_c021b1122e8868b5"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "refik-anadol-studio",
+  "title": "Refik Anadol Studio",
+  "summary": "An art studio in Los Angeles since 2014. It uses large datasets, machine learning and architectural surfaces to create moving abstract environments in which computation becomes visible form.",
+  "discipline": [
+    "art",
+    "media-publishing"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "36cdbca76064b374849d25060ed170ee9a4266659a5f616f7583b3c3d6383afc",
+  "hero_image": {
+    "src": "/images/articles/refik-anadol-studio-hero-v1-card.webp",
+    "alt": "A long table of dark-field prints, translucent blocks and small massing models in a bright studio, with two people working at the pinned wall behind.",
+    "caption": "Data given a body: the image tested as a printed and physical object, not only on a screen.",
+    "credit": "VANSMITHLAB · AI illustration, 2026",
+    "origin": "ai_illustration"
+  }
+}

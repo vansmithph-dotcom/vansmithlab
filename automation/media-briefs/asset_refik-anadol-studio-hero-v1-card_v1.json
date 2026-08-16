@@ -1,0 +1,44 @@
+{
+  "asset_id": "asset_refik-anadol-studio-hero-v1-card_v1",
+  "record_type": "media_brief",
+  "asset_path": "public/images/articles/refik-anadol-studio-hero-v1-card.webp",
+  "kind": "image",
+  "origin": "ai_illustration",
+  "locale": "multilingual",
+  "generated_from_prompt": "A darkened installation space. The room reads as Los Angeles, and as a practice working continuously since 2014 — the building, the furniture and the wear on the surfaces all belong to that place and that length of time. On the working surface, the material of this specific practice: work in progress on WDCH Dreams; Unsupervised. Show these as physical objects — drawings, samples, models, proofs, test pieces — laid out mid-process, not as finished presentation pieces. The arrangement should make the studio's working principle legible without stating it: uses large datasets, machine learning and architectural surfaces to create moving abstract environments in which computation becomes visible form. 2 people are at work in the middle distance, seen from behind or in profile, faces not identifiable. shot from a corner at forty-five degrees, near edge sharp and the room falling away. North light from a tall window on the left. The named works may appear only as unresolved studies — rough models, trial prints, part drawings — never as a finished retail product or a reproduction of the real thing. Do not depict any real, identifiable person, and do not show any logo or wordmark. Editorial photographic illustration, cinematic daylight, warm muted palette of cream, bone, ink black and one restrained accent colour, shallow depth of field, fine film grain, calm composed framing, no clutter. Landscape 3:2, 1536x1024. No text, no lettering, no numerals, no logo, no wordmark, no branded packaging, no watermark, no user interface, no flat vector shapes, no infographic, no diagram, no chart. Not a documentary photograph.",
+  "educational_purpose": "Data given a body: the image tested as a printed and physical object, not only on a screen.",
+  "may_depict": [
+    "An invented workspace that visualizes the subject's method"
+  ],
+  "must_not_imply": [
+    "The image documents a real place, event or person",
+    "The image reproduces a real work, logo or product"
+  ],
+  "rights": {
+    "state": "generated_reviewed",
+    "disclosure": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "rights_basis": "Original AI visual generated for VANSMITHLAB from the prompt recorded above. No third-party work is reproduced.",
+    "third_party_marks": "No logo, wordmark or recognisable branded asset."
+  },
+  "accessibility": {
+    "alt_text_en": "A long table of dark-field prints, translucent blocks and small massing models in a bright studio, with two people working at the pinned wall behind.",
+    "alt_text_ru": "Длинный стол с тёмными отпечатками, полупрозрачными блоками и небольшими макетами в светлой студии; позади у стены с приколотыми листами работают двое.",
+    "caption_en": "Data given a body: the image tested as a printed and physical object, not only on a screen.",
+    "caption_ru": "Данные обретают тело: изображение проверяют как печатный и физический объект, а не только на экране."
+  },
+  "file": {
+    "path": "public/images/articles/refik-anadol-studio-hero-v1-card.webp",
+    "sha256": "acc9a82c13588ad5cf3b948a90f69e40ee1d05b0401f2c236314d0a694bc52c6",
+    "bytes": 110538,
+    "format": "webp"
+  },
+  "review": {
+    "reviewed": true,
+    "checked": [
+      "landscape 3:2 master crop",
+      "visualizes this subject rather than its category",
+      "distinct from every other card in the corpus",
+      "no identifiable person, no logo or wordmark"
+    ]
+  }
+}

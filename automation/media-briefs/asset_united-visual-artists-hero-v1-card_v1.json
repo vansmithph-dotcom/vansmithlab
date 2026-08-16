@@ -1,0 +1,44 @@
+{
+  "asset_id": "asset_united-visual-artists-hero-v1-card_v1",
+  "record_type": "media_brief",
+  "asset_path": "public/images/articles/united-visual-artists-hero-v1-card.webp",
+  "kind": "image",
+  "origin": "ai_illustration",
+  "locale": "multilingual",
+  "generated_from_prompt": "A darkened installation space. The room reads as London, and as a practice working continuously since 2003 — the building, the furniture and the wear on the surfaces all belong to that place and that length of time. On the working surface, the material of this specific practice: work in progress on Momentum; Massive Attack. Show these as physical objects — drawings, samples, models, proofs, test pieces — laid out mid-process, not as finished presentation pieces. The arrangement should make the studio's working principle legible without stating it: builds installations from light, sound, movement and time, using architectural precision to create changing sensory fields. 3 people are at work in the middle distance, seen from behind or in profile, faces not identifiable. close three-quarter shot on a single group of objects, the room only a pale suggestion behind. Bright diffused daylight from behind the camera. The named works may appear only as unresolved studies — rough models, trial prints, part drawings — never as a finished retail product or a reproduction of the real thing. Do not depict any real, identifiable person, and do not show any logo or wordmark. Editorial photographic illustration, cinematic daylight, warm muted palette of cream, bone, ink black and one restrained accent colour, shallow depth of field, fine film grain, calm composed framing, no clutter. Landscape 3:2, 1536x1024. No text, no lettering, no numerals, no logo, no wordmark, no branded packaging, no watermark, no user interface, no flat vector shapes, no infographic, no diagram, no chart. Not a documentary photograph.",
+  "educational_purpose": "Light treated as structure: the rig is built and measured before it is ever switched on.",
+  "may_depict": [
+    "An invented workspace that visualizes the subject's method"
+  ],
+  "must_not_imply": [
+    "The image documents a real place, event or person",
+    "The image reproduces a real work, logo or product"
+  ],
+  "rights": {
+    "state": "generated_reviewed",
+    "disclosure": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "rights_basis": "Original AI visual generated for VANSMITHLAB from the prompt recorded above. No third-party work is reproduced.",
+    "third_party_marks": "No logo, wordmark or recognisable branded asset."
+  },
+  "accessibility": {
+    "alt_text_en": "A workshop bench of light-rig armatures on thin rods and rectilinear study models, with two people assembling at the far side.",
+    "alt_text_ru": "Верстак с каркасами световых конструкций на тонких стойках и прямоугольными макетами; в глубине двое собирают конструкцию.",
+    "caption_en": "Light treated as structure: the rig is built and measured before it is ever switched on.",
+    "caption_ru": "Свет как конструкция: установку собирают и вымеряют до того, как её впервые включат."
+  },
+  "file": {
+    "path": "public/images/articles/united-visual-artists-hero-v1-card.webp",
+    "sha256": "e7ea9d9c91a2ea7a00f9b96f481d3cd3c34d4c8e85b49bf9be036a12148e9709",
+    "bytes": 108604,
+    "format": "webp"
+  },
+  "review": {
+    "reviewed": true,
+    "checked": [
+      "landscape 3:2 master crop",
+      "visualizes this subject rather than its category",
+      "distinct from every other card in the corpus",
+      "no identifiable person, no logo or wordmark"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content_id": "cnt_7de03827c82bb497",
+  "primary_object_id": "",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "unverified",
+  "confidence_score": 0.0,
+  "claim_ids": [],
+  "source_ids": [
+    "src_6dc49959c467c801",
+    "src_0cc88c71cf3b5891"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "united-visual-artists",
+  "title": "United Visual Artists — UVA",
+  "summary": "Художественная студия в Лондоне с 2003 года. Строит инсталляции из света, звука, движения и времени.",
+  "discipline": [
+    "art",
+    "media-publishing"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "b3562174abb57e331350eefef3a22f914d56dcd0c8ee54122abc3bce4e554c5d",
+  "hero_image": {
+    "src": "/images/articles/united-visual-artists-hero-v1-card.webp",
+    "alt": "Верстак с каркасами световых конструкций на тонких стойках и прямоугольными макетами; в глубине двое собирают конструкцию.",
+    "caption": "Свет как конструкция: установку собирают и вымеряют до того, как её впервые включат.",
+    "credit": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "origin": "ai_illustration"
+  }
+}

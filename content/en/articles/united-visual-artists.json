@@ -1,0 +1,35 @@
+{
+  "content_id": "cnt_7de03827c82bb497",
+  "primary_object_id": "",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "unverified",
+  "confidence_score": 0.0,
+  "claim_ids": [],
+  "source_ids": [
+    "src_6dc49959c467c801",
+    "src_0cc88c71cf3b5891"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "united-visual-artists",
+  "title": "United Visual Artists — UVA",
+  "summary": "An art studio in London since 2003. It builds installations from light, sound, movement and time.",
+  "discipline": [
+    "art",
+    "media-publishing"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "7c1aed95f392f307bb13016328a895a1d3660a50f0905bd2452b416e7babfb5f",
+  "hero_image": {
+    "src": "/images/articles/united-visual-artists-hero-v1-card.webp",
+    "alt": "A workshop bench of light-rig armatures on thin rods and rectilinear study models, with two people assembling at the far side.",
+    "caption": "Light treated as structure: the rig is built and measured before it is ever switched on.",
+    "credit": "VANSMITHLAB · AI illustration, 2026",
+    "origin": "ai_illustration"
+  }
+}

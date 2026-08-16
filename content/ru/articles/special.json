@@ -1,0 +1,35 @@
+{
+  "content_id": "cnt_ba36b97a41e7faf7",
+  "primary_object_id": "",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "unverified",
+  "confidence_score": 0.0,
+  "claim_ids": [],
+  "source_ids": [
+    "src_d572c90c173d4693",
+    "src_fcf4885a986f3742"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "special",
+  "title": "Special",
+  "summary": "Междисциплинарная творческая компания в Окленде с 2007 года. Строит независимую сеть вокруг компактных команд, культурного наблюдения и идеи, которая должна работать до того, как к ней добавляется медиамасштаб.",
+  "discipline": [
+    "graphic-design",
+    "media-publishing"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "81e68e5ec691f89df337db04eaf6a4a9d7d85e8ae67247aeeed461e893387b61",
+  "hero_image": {
+    "src": "/images/articles/special-hero-v1-card.webp",
+    "alt": "Студийный пол с проволочными каркасами и скелетными макетами на низких подиумах; между ними работают трое.",
+    "caption": "Идею сначала строят каркасом: конструкцию проверяют в помещении до того, как её оденут.",
+    "credit": "VANSMITHLAB · AI-иллюстрация, 2026",
+    "origin": "ai_illustration"
+  }
+}
