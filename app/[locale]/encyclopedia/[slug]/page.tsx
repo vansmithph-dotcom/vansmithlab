@@ -43,7 +43,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
       canonical,
       languages: { [locale]: canonical, [otherLocale]: `/${otherLocale}/encyclopedia/${slug}`, "x-default": `/ru/encyclopedia/${slug}` },
     },
-    robots: { index: false, follow: true },
+    robots: { index: true, follow: true },
   };
 }
 
