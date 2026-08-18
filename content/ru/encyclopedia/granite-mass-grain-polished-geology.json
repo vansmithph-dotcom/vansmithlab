@@ -29,5 +29,9 @@
   ],
   "kind": "material-technique",
   "role": [],
-  "body_hash": "e32fc59226c75b5d1ed05bcd72521993e1c6d544637f726ef188b7a5e9e9dc97"
+  "body_hash": "e32fc59226c75b5d1ed05bcd72521993e1c6d544637f726ef188b7a5e9e9dc97",
+  "source_ids": [
+    "src_mat_nsi_library",
+    "src_mat_nsi_granite"
+  ]
 }

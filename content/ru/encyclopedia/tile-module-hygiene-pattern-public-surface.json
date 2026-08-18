@@ -29,5 +29,9 @@
   ],
   "kind": "material-technique",
   "role": [],
-  "body_hash": "8010c888c62a1ac3c10b200b9fd8b48dae9d6f2e0d5abcadf3fcb773ceb9dc78"
+  "body_hash": "8010c888c62a1ac3c10b200b9fd8b48dae9d6f2e0d5abcadf3fcb773ceb9dc78",
+  "source_ids": [
+    "src_mat_tcna_tile",
+    "src_mat_nsi_library"
+  ]
 }

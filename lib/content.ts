@@ -162,12 +162,12 @@ export function getContent(locale: Locale, section: string, slug: string): Publi
     if (knowledge.sources.length === 0 && metadata.source_ids.length > 0 && fs.existsSync(sourceRegistryPath)) {
       try {
         const registry = JSON.parse(fs.readFileSync(sourceRegistryPath, "utf8")) as { sources?: KnowledgeSource[] };
-        knowledge.sources = (registry.sources || []).filter((source) => metadata.source_ids.includes(source.id));
+        knowledge.sources = (registry.sources || []).filter((source) => (metadata.source_ids ?? []).includes(source.id));
       } catch { /* keep the empty source set and render an honest unmapped marker */ }
     }
-    const matchedSources = knowledge.sources.filter((source) => metadata.source_ids.includes(source.id));
+    const matchedSources = knowledge.sources.filter((source) => (metadata.source_ids ?? []).includes(source.id));
     const matchedCitations = (knowledge.citations || []).filter(
-      (citation) => metadata.claim_ids.includes(citation.claim_id) && metadata.source_ids.includes(citation.source_id)
+      (citation) => (metadata.claim_ids ?? []).includes(citation.claim_id) && (metadata.source_ids ?? []).includes(citation.source_id)
     );
     // The docx pipeline minted source/claim ids independently of the knowledge
     // objects, so the content's explicit ids may not match anything in the
