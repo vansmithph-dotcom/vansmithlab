@@ -29,14 +29,6 @@
       "confidence_score": 0.7
     },
     {
-      "id": "clm_003",
-      "wording_ru": "Стандарт оценивает воду и энергию, отходы и стоки, выбросы, химическое управление, restricted substances, безопасность, социальный аудит и прослеживаемость.",
-      "claim_type": "attribution",
-      "material": true,
-      "verification_state": "attributed",
-      "confidence_score": 0.7
-    },
-    {
       "id": "clm_004",
       "wording_ru": "Leather Working Group оценивает предприятия, перерабатывающие сырьё, дублёную или crust-кожу в pre-tanned, tanned, crust и finished leather. Современный аудит охватывает экологическое управление, прослеживаемость, химикаты, социальную ответственность и управление предприятием.",
       "claim_type": "attribution",
@@ -46,14 +38,6 @@
     },
     {
       "id": "clm_005",
-      "wording_ru": "Международная торговля кожами и изделиями из видов, включённых в CITES, требует соответствующей документации. База CITES хранит официальные данные о торговле, включая skins и leather products.",
-      "claim_type": "attribution",
-      "material": true,
-      "verification_state": "attributed",
-      "confidence_score": 0.7
-    },
-    {
-      "id": "clm_006",
       "wording_ru": "Международная торговля кожами и изделиями из видов, включённых в CITES, требует соответствующей документации. База CITES хранит официальные данные о торговле, включая skins и leather products.",
       "claim_type": "attribution",
       "material": true,
@@ -81,28 +65,6 @@
     },
     {
       "id": "clm_009",
-      "wording_ru": "The Met показывает, как Bonnie Cashin в 1950-е и 1960-е использовала большие площади кожи, яркий цвет и металлическую фурнитуру, превращая материал в современную повседневную одежду.",
-      "claim_type": "attribution",
-      "material": true,
-      "verification_state": "attributed",
-      "confidence_score": 0.7,
-      "date_start": "1950",
-      "date_end": "1960",
-      "date_precision": "year"
-    },
-    {
-      "id": "clm_010",
-      "wording_ru": "The Met показывает, как Bonnie Cashin в 1950-е и 1960-е использовала большие площади кожи, яркий цвет и металлическую фурнитуру, превращая материал в современную повседневную одежду.",
-      "claim_type": "attribution",
-      "material": true,
-      "verification_state": "attributed",
-      "confidence_score": 0.7,
-      "date_start": "1950",
-      "date_end": "1960",
-      "date_precision": "year"
-    },
-    {
-      "id": "clm_011",
       "wording_ru": "The Met показывает, как Bonnie Cashin в 1950-е и 1960-е использовала большие площади кожи, яркий цвет и металлическую фурнитуру, превращая материал в современную повседневную одежду.",
       "claim_type": "attribution",
       "material": true,
@@ -273,13 +235,6 @@
       "support": "attribution recorded in the editorial DOCX"
     },
     {
-      "id": "cit_8dfc19fb4fa54816",
-      "claim_id": "clm_003",
-      "source_id": "src_9ed2d5cf9429f055",
-      "locator": "section",
-      "support": "attribution recorded in the editorial DOCX"
-    },
-    {
       "id": "cit_76e7bb3b46f2465a",
       "claim_id": "clm_004",
       "source_id": "src_9ed2d5cf9429f055",
@@ -289,13 +244,6 @@
     {
       "id": "cit_22dcd23227454d17",
       "claim_id": "clm_005",
-      "source_id": "src_9ed2d5cf9429f055",
-      "locator": "section",
-      "support": "attribution recorded in the editorial DOCX"
-    },
-    {
-      "id": "cit_395a102cc5634d36",
-      "claim_id": "clm_006",
       "source_id": "src_9ed2d5cf9429f055",
       "locator": "section",
       "support": "attribution recorded in the editorial DOCX"
@@ -317,20 +265,6 @@
     {
       "id": "cit_02484e3478854875",
       "claim_id": "clm_009",
-      "source_id": "src_9ed2d5cf9429f055",
-      "locator": "section",
-      "support": "attribution recorded in the editorial DOCX"
-    },
-    {
-      "id": "cit_abbf51044c29405d",
-      "claim_id": "clm_010",
-      "source_id": "src_9ed2d5cf9429f055",
-      "locator": "section",
-      "support": "attribution recorded in the editorial DOCX"
-    },
-    {
-      "id": "cit_b65591d1578a4f8e",
-      "claim_id": "clm_011",
       "source_id": "src_9ed2d5cf9429f055",
       "locator": "section",
       "support": "attribution recorded in the editorial DOCX"

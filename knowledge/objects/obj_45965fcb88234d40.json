@@ -48,14 +48,6 @@
       "confidence_score": 0.7
     },
     {
-      "id": "clm_006",
-      "wording_ru": "В визуальной культуре сюрреализм дал несколько устойчивых методов: гиперреальная невозможность у Дали, ясный философский парадокс у Магритта, тактильный конфликт у Мерет Оппенгейм, фотографический эксперимент у Ман Рэя и превращение couture в театр абсурда у Schiaparelli.",
-      "claim_type": "attribution",
-      "material": true,
-      "verification_state": "attributed",
-      "confidence_score": 0.7
-    },
-    {
       "id": "clm_007",
       "wording_ru": "В дизайне автоматизм важен как метод первого слоя. Он дает неожиданные линии, ассоциации и ритмы, но сильная работа начинается тогда, когда сырой материал сна не оставляют случайным, а редактируют до точной визуальной конструкции.",
       "claim_type": "attribution",
@@ -66,14 +58,6 @@
     {
       "id": "clm_008",
       "wording_ru": "Сон здесь работает не как тема, а как монтажный принцип. Он сохраняет ясность деталей, но ломает причинно-следственную связь. Благодаря этому невозможное выглядит не фантастическим, а почти документальным.",
-      "claim_type": "attribution",
-      "material": true,
-      "verification_state": "attributed",
-      "confidence_score": 0.7
-    },
-    {
-      "id": "clm_009",
-      "wording_ru": "В визуальной культуре сюрреализм дал несколько устойчивых методов: гиперреальная невозможность у Дали, ясный философский парадокс у Магритта, тактильный конфликт у Мерет Оппенгейм, фотографический эксперимент у Ман Рэя и превращение couture в театр абсурда у Schiaparelli.",
       "claim_type": "attribution",
       "material": true,
       "verification_state": "attributed",
@@ -352,13 +336,6 @@
       "support": "attribution recorded in the editorial DOCX"
     },
     {
-      "id": "cit_0d3d33c788a54d11",
-      "claim_id": "clm_006",
-      "source_id": "src_b2f662ae8fb3071b",
-      "locator": "section",
-      "support": "attribution recorded in the editorial DOCX"
-    },
-    {
       "id": "cit_9c192094f00e4f19",
       "claim_id": "clm_007",
       "source_id": "src_b6f51ca279897e68",
@@ -369,13 +346,6 @@
       "id": "cit_dfa9ea59b33c4761",
       "claim_id": "clm_008",
       "source_id": "src_7947470644e6733b",
-      "locator": "section",
-      "support": "attribution recorded in the editorial DOCX"
-    },
-    {
-      "id": "cit_350feaf8fb6f4ea8",
-      "claim_id": "clm_009",
-      "source_id": "src_cb9feef7c33e49f1",
       "locator": "section",
       "support": "attribution recorded in the editorial DOCX"
     },

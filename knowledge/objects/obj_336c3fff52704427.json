@@ -29,14 +29,6 @@
       "confidence_score": 0.7
     },
     {
-      "id": "clm_003",
-      "wording_ru": "Нейлон стал первым полностью синтетическим волокном, вошедшим в массовый быт. Прядение из расплава и вытягивание филамента дали промышленности тонкую, прочную и повторяемую нить; чулки сделали её символом будущего, а военное применение добавило материалу репутацию надёжности.",
-      "claim_type": "attribution",
-      "material": true,
-      "verification_state": "attributed",
-      "confidence_score": 0.7
-    },
-    {
       "id": "clm_004",
       "wording_ru": "В 1960-е новые волокна, пластики и плёнки начали восприниматься не как дешёвая замена природе, а как язык космической эпохи. Дизайнеров привлекали чистый цвет, лёгкость, формуемость и отсутствие исторической тяжести.",
       "claim_type": "attribution",
@@ -56,24 +48,8 @@
       "confidence_score": 0.7
     },
     {
-      "id": "clm_006",
-      "wording_ru": "В конце XX века Miuccia Prada отказалась маскировать его под шёлк. Чёрный технический нейлон был соединён с точной фурнитурой, кожей и строгой конструкцией. Роскошь переместилась из стоимости сырья в силу идеи, качество исполнения и интеллектуальный контраст.",
-      "claim_type": "attribution",
-      "material": true,
-      "verification_state": "attributed",
-      "confidence_score": 0.7
-    },
-    {
       "id": "clm_007",
       "wording_ru": "Проект Re-Nylon перевёл ключевой код дома на регенерированный материал и сделал технологическую замену частью публичной истории бренда. Prada описывает переход как обновление знакового нейлона, а отчётность фиксирует развитие программы.",
-      "claim_type": "attribution",
-      "material": true,
-      "verification_state": "attributed",
-      "confidence_score": 0.7
-    },
-    {
-      "id": "clm_008",
-      "wording_ru": "Один полиамид может стать почти невидимой сеткой, мягкой микрофиброй, жёстким ripstop или плотной сумочной тканью. Поэтому материал следует оценивать не по слову nylon на этикетке, а по всей системе производства: типу полимера, denier, геометрии филамента, текстурированию, переплетению, покрытию и способу сборки.",
       "claim_type": "attribution",
       "material": true,
       "verification_state": "attributed",
@@ -96,14 +72,6 @@
       "confidence_score": 0.7
     },
     {
-      "id": "clm_011",
-      "wording_ru": "Nylon taffeta даёт гладкую, сухую и подвижную плоскость. Ripstop вводит заметную усиливающую сетку, превращая конструкцию ткани в графический рисунок. Ballistic nylon создаёт плотную, тяжёлую поверхность, связанную с защитой и износостойкостью.",
-      "claim_type": "attribution",
-      "material": true,
-      "verification_state": "attributed",
-      "confidence_score": 0.7
-    },
-    {
       "id": "clm_012",
       "wording_ru": "Слово «нейлон» звучит как название одной ткани, но описывает группу синтетических полиамидов. Они могут становиться одежной нитью, монофиламентом, плёнкой, ковровым волокном или инженерным пластиком. На ощупь и в кадре эти материалы способны быть настолько разными, что их родство почти невозможно угадать.",
       "claim_type": "attribution",
@@ -114,14 +82,6 @@
     {
       "id": "clm_013",
       "wording_ru": "Универсальной инструкции для «нейлона» не существует. Температуру воды, чистку и сушку определяют покрытие, подкладка, кожа, фурнитура и конструкция изделия. Prada, например, даёт рекомендации для конкретного продукта, а не для абстрактного состава.",
-      "claim_type": "attribution",
-      "material": true,
-      "verification_state": "attributed",
-      "confidence_score": 0.7
-    },
-    {
-      "id": "clm_014",
-      "wording_ru": "Проект Re-Nylon перевёл ключевой код дома на регенерированный материал и сделал технологическую замену частью публичной истории бренда. Prada описывает переход как обновление знакового нейлона, а отчётность фиксирует развитие программы.",
       "claim_type": "attribution",
       "material": true,
       "verification_state": "attributed",
@@ -258,13 +218,6 @@
       "support": "attribution recorded in the editorial DOCX"
     },
     {
-      "id": "cit_dd29ce532d304486",
-      "claim_id": "clm_003",
-      "source_id": "src_11f7eaa9056f9c5c",
-      "locator": "section",
-      "support": "attribution recorded in the editorial DOCX"
-    },
-    {
       "id": "cit_7487e060e92c45c0",
       "claim_id": "clm_004",
       "source_id": "src_11f7eaa9056f9c5c",
@@ -279,23 +232,9 @@
       "support": "attribution recorded in the editorial DOCX"
     },
     {
-      "id": "cit_f819f8f777234702",
-      "claim_id": "clm_006",
-      "source_id": "src_184015165f2301db",
-      "locator": "section",
-      "support": "attribution recorded in the editorial DOCX"
-    },
-    {
       "id": "cit_445429fad6cd4da6",
       "claim_id": "clm_007",
       "source_id": "src_184015165f2301db",
-      "locator": "section",
-      "support": "attribution recorded in the editorial DOCX"
-    },
-    {
-      "id": "cit_6564f42a1cc7481e",
-      "claim_id": "clm_008",
-      "source_id": "src_11f7eaa9056f9c5c",
       "locator": "section",
       "support": "attribution recorded in the editorial DOCX"
     },
@@ -314,13 +253,6 @@
       "support": "attribution recorded in the editorial DOCX"
     },
     {
-      "id": "cit_c6e869b37df84bd3",
-      "claim_id": "clm_011",
-      "source_id": "src_11f7eaa9056f9c5c",
-      "locator": "section",
-      "support": "attribution recorded in the editorial DOCX"
-    },
-    {
       "id": "cit_ded4e5923e824717",
       "claim_id": "clm_012",
       "source_id": "src_11f7eaa9056f9c5c",
@@ -330,13 +262,6 @@
     {
       "id": "cit_a9639ce2644f492c",
       "claim_id": "clm_013",
-      "source_id": "src_184015165f2301db",
-      "locator": "section",
-      "support": "attribution recorded in the editorial DOCX"
-    },
-    {
-      "id": "cit_d67489925b6845a7",
-      "claim_id": "clm_014",
       "source_id": "src_184015165f2301db",
       "locator": "section",
       "support": "attribution recorded in the editorial DOCX"

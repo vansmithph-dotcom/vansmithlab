@@ -29,14 +29,6 @@
       "confidence_score": 0.7
     },
     {
-      "id": "clm_003",
-      "wording_ru": "Архитектурный текстиль - это группа тканых, сетчатых, ламинированных и покрытых материалов, применяемых как конструктивные мембраны, фасадные экраны, акустические поверхности, шторы и пространственные разделители. В натяжных системах форма стабилизируется предварительным напряжением, двойной кривизной и работой с тросами, мачтами или жёсткой рамой.",
-      "claim_type": "attribution",
-      "material": true,
-      "verification_state": "attributed",
-      "confidence_score": 0.7
-    },
-    {
       "id": "clm_004",
       "wording_ru": "Ключевое различие проходит не между «тканью» и «архитектурой», а между системами. PVC-coated polyester, PTFE-coated fibreglass, сетки и ETFE имеют разную механику, светопропускание, пожарное поведение, срок службы и сценарии ремонта. ETFE при этом является полимерной плёнкой, а не текстилем, хотя его часто включают в один профессиональный разговор о лёгких оболочках.",
       "claim_type": "attribution",
@@ -226,13 +218,6 @@
     {
       "id": "cit_dae8d7be61c849c8",
       "claim_id": "clm_002",
-      "source_id": "src_e9a93aeb8eb62688",
-      "locator": "section",
-      "support": "attribution recorded in the editorial DOCX"
-    },
-    {
-      "id": "cit_ae5e4dbcd7a946a8",
-      "claim_id": "clm_003",
       "source_id": "src_e9a93aeb8eb62688",
       "locator": "section",
       "support": "attribution recorded in the editorial DOCX"

@@ -37,24 +37,8 @@
       "confidence_score": 0.7
     },
     {
-      "id": "clm_004",
-      "wording_ru": "Термины travertine и tufa используются не абсолютно единообразно. В современной геологической литературе travertine часто связывают с более плотными отложениями тёплых или горячих источников, а tufa — с более мягкими и биогенными образованиями прохладной воды. Граница между ними зависит от принятой классификации, поэтому в профессиональном тексте полезно указывать контекст, а не выдавать терминологическое различие за универсальный закон.",
-      "claim_type": "attribution",
-      "material": true,
-      "verification_state": "attributed",
-      "confidence_score": 0.7
-    },
-    {
       "id": "clm_005",
       "wording_ru": "В Памуккале кальцитонасыщенная вода создала белые террасы, бассейны и окаменевшие каскады на склоне почти двухсотметровой высоты. UNESCO рассматривает это место как редкое соединение природного процесса и культурного ландшафта: над травертиновыми террасами развивался античный город-курорт Hierapolis.",
-      "claim_type": "attribution",
-      "material": true,
-      "verification_state": "attributed",
-      "confidence_score": 0.7
-    },
-    {
-      "id": "clm_006",
-      "wording_ru": "Поэтому вопрос «какого цвета травертин?» слишком узок. Для проекта важнее понять, откуда взят блок, как ориентированы слои, чем заполнены пустоты, какой финиш выбран и как поверхность будет стареть в конкретном свете и климате. Именно эти решения определяют, станет материал спокойным фоном, монументальной оболочкой или главным визуальным событием пространства.",
       "claim_type": "attribution",
       "material": true,
       "verification_state": "attributed",
@@ -88,17 +72,6 @@
       "date_precision": "year"
     },
     {
-      "id": "clm_010",
-      "wording_ru": "Richard Meier выбрал итальянский травертин для Getty Center, открывшегося в 1997 году, связывая современный музейный комплекс с историей общественной архитектуры. Getty подчёркивает тепло, цвет и ощущение долговечности камня.",
-      "claim_type": "attribution",
-      "material": true,
-      "verification_state": "attributed",
-      "confidence_score": 0.7,
-      "date_start": "1997",
-      "date_end": null,
-      "date_precision": "year"
-    },
-    {
       "id": "clm_011",
       "wording_ru": "Natural Stone Institute рекомендует использовать нейтральные средства, stone soap или мягкое моющее средство с тёплой водой, тщательно смывать раствор и высушивать поверхность. Избыточное количество чистящего продукта может оставлять плёнку и полосы.",
       "claim_type": "attribution",
@@ -116,14 +89,6 @@
     },
     {
       "id": "clm_013",
-      "wording_ru": "Но поэтическое свойство одновременно становится технической задачей. Чем выше и связнее пористость, тем важнее оценивать водопоглощение, морозостойкость, крепление и сопротивление загрязнению. Исследования показывают, что структура пор существенно влияет на прочность и долговечность травертина, поэтому образец нельзя выбирать только по фотографии или названию сорта.",
-      "claim_type": "attribution",
-      "material": true,
-      "verification_state": "attributed",
-      "confidence_score": 0.7
-    },
-    {
-      "id": "clm_014",
       "wording_ru": "Но поэтическое свойство одновременно становится технической задачей. Чем выше и связнее пористость, тем важнее оценивать водопоглощение, морозостойкость, крепление и сопротивление загрязнению. Исследования показывают, что структура пор существенно влияет на прочность и долговечность травертина, поэтому образец нельзя выбирать только по фотографии или названию сорта.",
       "claim_type": "attribution",
       "material": true,
@@ -316,22 +281,8 @@
       "support": "attribution recorded in the editorial DOCX"
     },
     {
-      "id": "cit_5b9c7cf0a1324deb",
-      "claim_id": "clm_004",
-      "source_id": "src_6a885084298a9782",
-      "locator": "section",
-      "support": "attribution recorded in the editorial DOCX"
-    },
-    {
       "id": "cit_9c8ffbf9fa564c45",
       "claim_id": "clm_005",
-      "source_id": "src_6a885084298a9782",
-      "locator": "section",
-      "support": "attribution recorded in the editorial DOCX"
-    },
-    {
-      "id": "cit_9cafebb9f3904ea9",
-      "claim_id": "clm_006",
       "source_id": "src_6a885084298a9782",
       "locator": "section",
       "support": "attribution recorded in the editorial DOCX"
@@ -358,13 +309,6 @@
       "support": "attribution recorded in the editorial DOCX"
     },
     {
-      "id": "cit_3da1bf078dc9484c",
-      "claim_id": "clm_010",
-      "source_id": "src_4bb7e4d519d90b38",
-      "locator": "section",
-      "support": "attribution recorded in the editorial DOCX"
-    },
-    {
       "id": "cit_5bfb2dfa45734a85",
       "claim_id": "clm_011",
       "source_id": "src_2b36d7f9e7bca17a",
@@ -381,13 +325,6 @@
     {
       "id": "cit_b693c95b0c0c4273",
       "claim_id": "clm_013",
-      "source_id": "src_6a885084298a9782",
-      "locator": "section",
-      "support": "attribution recorded in the editorial DOCX"
-    },
-    {
-      "id": "cit_2777b1fa06c44419",
-      "claim_id": "clm_014",
       "source_id": "src_6a885084298a9782",
       "locator": "section",
       "support": "attribution recorded in the editorial DOCX"

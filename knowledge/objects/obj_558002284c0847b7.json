@@ -37,14 +37,6 @@
       "confidence_score": 0.7
     },
     {
-      "id": "clm_004",
-      "wording_ru": "Бетон запоминает всё. Доска оставляет древесный рисунок, плохо выпущенный воздух — раковину, избыток воды — слабую меловую кожу, ранняя распалубка — повреждённую кромку. Поэтому архитектурный бетон следует проектировать как единое целое: конструкцию, поверхность, свет и будущее старение.",
-      "claim_type": "attribution",
-      "material": true,
-      "verification_state": "attributed",
-      "confidence_score": 0.7
-    },
-    {
       "id": "clm_005",
       "wording_ru": "Швы листов, рабочие захватки и разделительный состав также остаются в кадре поверхности. Неравномерное нанесение release agent может дать пятна и поры; попытка скрыть процесс обычно делает его заметнее.",
       "claim_type": "attribution",
@@ -69,24 +61,8 @@
       "confidence_score": 0.7
     },
     {
-      "id": "clm_008",
-      "wording_ru": "Бетон — композит из цементного вяжущего, воды и заполнителей. Его прочность и поверхность формируются одновременно: водоцементное отношение влияет на пористость, опалубка передаёт рисунок, вибрация удаляет воздух, curing удерживает влагу для гидратации, а шлифовка или обнажение заполнителя открывают внутреннюю структуру.",
-      "claim_type": "attribution",
-      "material": true,
-      "verification_state": "attributed",
-      "confidence_score": 0.7
-    },
-    {
       "id": "clm_009",
       "wording_ru": "Углекислый газ постепенно снижает щёлочность бетона. Когда фронт карбонизации достигает арматуры, сталь теряет защиту и при наличии влаги начинает корродировать. Расширяющаяся ржавчина отслаивает защитный слой.",
-      "claim_type": "attribution",
-      "material": true,
-      "verification_state": "attributed",
-      "confidence_score": 0.7
-    },
-    {
-      "id": "clm_010",
-      "wording_ru": "Бетон запоминает всё. Доска оставляет древесный рисунок, плохо выпущенный воздух — раковину, избыток воды — слабую меловую кожу, ранняя распалубка — повреждённую кромку. Поэтому архитектурный бетон следует проектировать как единое целое: конструкцию, поверхность, свет и будущее старение.",
       "claim_type": "attribution",
       "material": true,
       "verification_state": "attributed",
@@ -358,13 +334,6 @@
       "support": "attribution recorded in the editorial DOCX"
     },
     {
-      "id": "cit_e7711226ee8a4cb6",
-      "claim_id": "clm_004",
-      "source_id": "src_a63b7ab2795b87a2",
-      "locator": "section",
-      "support": "attribution recorded in the editorial DOCX"
-    },
-    {
       "id": "cit_4616664ce396448e",
       "claim_id": "clm_005",
       "source_id": "src_a63b7ab2795b87a2",
@@ -386,22 +355,8 @@
       "support": "attribution recorded in the editorial DOCX"
     },
     {
-      "id": "cit_3713b2151f9745ba",
-      "claim_id": "clm_008",
-      "source_id": "src_a63b7ab2795b87a2",
-      "locator": "section",
-      "support": "attribution recorded in the editorial DOCX"
-    },
-    {
       "id": "cit_756faea1b26f48ca",
       "claim_id": "clm_009",
-      "source_id": "src_a63b7ab2795b87a2",
-      "locator": "section",
-      "support": "attribution recorded in the editorial DOCX"
-    },
-    {
-      "id": "cit_28b5084e089d4adb",
-      "claim_id": "clm_010",
       "source_id": "src_a63b7ab2795b87a2",
       "locator": "section",
       "support": "attribution recorded in the editorial DOCX"

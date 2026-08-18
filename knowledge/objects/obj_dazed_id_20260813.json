@@ -58,30 +58,6 @@
       "date_precision": "year"
     },
     {
-      "id": "clm_dazedid_opening_dazed",
-      "wording_ru": "Лондон, 1980 год. Первые номера i-D не ждут, пока читатель придёт в большой книжный магазин: Terry Jones вспоминал, как журнал оставляли в магазинах на King's Road, Kensington Market, Camden Lock и в музыкальных точках вроде Rough Trade. Одиннадцать лет спустя первый Dazed & Confused собирается в коридорах London College of Printing как четырёхстраничный самодельный выпуск, почти памфлет, который сам заявляет: «This is not a magazine».",
-      "wording_en": "London, 1980. The first issues of i-D did not wait for readers to enter a major bookstore: Terry Jones recalled leaving copies in King's Road fashion shops, Kensington Market, Camden Lock and record stores such as Rough Trade. Eleven years later, the first Dazed & Confused was assembled in the corridors of the London College of Printing as a four-page handmade publication, almost a pamphlet, declaring: \"This is not a magazine.\"",
-      "claim_type": "factual",
-      "material": true,
-      "evidence": [
-        {
-          "source_url": "https://i-d.co/about/",
-          "locator": "DOCX section sec-1",
-          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
-        },
-        {
-          "source_url": "https://i-d.co/article/terry-jones-the-original-i-con/",
-          "locator": "DOCX section sec-1",
-          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
-        }
-      ],
-      "verification_state": "multi_source_verified",
-      "confidence_score": 0.86,
-      "date_start": "1980",
-      "date_end": null,
-      "date_precision": "year"
-    },
-    {
       "id": "clm_dazedid_id_about",
       "wording_ru": "i-D официально описывает себя как голос идентичности, стиля и культуры, выросший из лондонской панк-среды 1980 года и ориентированный на emerging talent. Dazed сегодня определяет себя как независимого издателя моды, культуры и искусства, работающего в печати, онлайне, социальных каналах, кампаниях и событиях.",
       "wording_en": "i-D officially describes itself as a voice of identity, style and culture that grew out of punk-era London in 1980 with a commitment to emerging talent. Dazed describes itself today as an independent fashion, culture and arts publisher operating across print, online, social channels, campaigns and events.",
@@ -101,42 +77,7 @@
       "date_precision": "year"
     },
     {
-      "id": "clm_dazedid_dazed_about",
-      "wording_ru": "i-D официально описывает себя как голос идентичности, стиля и культуры, выросший из лондонской панк-среды 1980 года и ориентированный на emerging talent. Dazed сегодня определяет себя как независимого издателя моды, культуры и искусства, работающего в печати, онлайне, социальных каналах, кампаниях и событиях.",
-      "wording_en": "i-D officially describes itself as a voice of identity, style and culture that grew out of punk-era London in 1980 with a commitment to emerging talent. Dazed describes itself today as an independent fashion, culture and arts publisher operating across print, online, social channels, campaigns and events.",
-      "claim_type": "factual",
-      "material": true,
-      "evidence": [
-        {
-          "source_url": "https://i-d.co/about/",
-          "locator": "DOCX section sec-2",
-          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
-        }
-      ],
-      "verification_state": "multi_source_verified",
-      "confidence_score": 0.86,
-      "date_start": "1980",
-      "date_end": null,
-      "date_precision": "year"
-    },
-    {
       "id": "clm_dazedid_id_wink",
-      "wording_ru": "Графическая система усиливала этот принцип. Повернутое набок i-D читается как лицо - закрытый глаз и улыбка; позднее подмигивание стало повторяемым жестом обложек. Визуальный код был узнаваемым, но не требовал, чтобы все герои выглядели одинаково.",
-      "wording_en": "The graphic system intensified the principle. Turned sideways, i-D reads as a face - a closed eye and a smile - and the wink later became a repeated cover gesture. The code was recognisable without requiring every subject to become visually identical.",
-      "claim_type": "factual",
-      "material": true,
-      "evidence": [
-        {
-          "source_url": "https://i-d.co/article/see-every-single-i-d-cover-here/",
-          "locator": "DOCX section sec-3",
-          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
-        }
-      ],
-      "verification_state": "multi_source_verified",
-      "confidence_score": 0.86
-    },
-    {
-      "id": "clm_dazedid_id_cover_archive",
       "wording_ru": "Графическая система усиливала этот принцип. Повернутое набок i-D читается как лицо - закрытый глаз и улыбка; позднее подмигивание стало повторяемым жестом обложек. Визуальный код был узнаваемым, но не требовал, чтобы все герои выглядели одинаково.",
       "wording_en": "The graphic system intensified the principle. Turned sideways, i-D reads as a face - a closed eye and a smile - and the wink later became a repeated cover gesture. The code was recognisable without requiring every subject to become visually identical.",
       "claim_type": "factual",
@@ -203,22 +144,6 @@
       "confidence_score": 0.86
     },
     {
-      "id": "clm_dazedid_dazed_rankin",
-      "wording_ru": "И i-D, и Dazed стали школами не потому, что выдавали дипломы. Они создавали ситуацию, в которой молодой фотограф, стилист, редактор, дизайнер или музыкант мог получить реальную культурную видимость до того, как становился безопасным именем для большой индустрии. Rizzoli и сам i-D описывают историю журнала через десятилетия страниц и авторов, а Dazed связывает собственное наследие с сетью фотографов, дизайнеров, музыкантов и художников, выросших вместе с изданием.",
-      "wording_en": "i-D and Dazed became schools without issuing diplomas. They created situations in which a young photographer, stylist, editor, designer or musician could gain real cultural visibility before becoming a safe name for a larger industry. Rizzoli and i-D describe the magazine's history through decades of pages and contributors, while Dazed ties its own legacy to photographers, designers, musicians and artists who grew alongside the publication.",
-      "claim_type": "factual",
-      "material": true,
-      "evidence": [
-        {
-          "source_url": "https://www.dazedmedia.com/brands/dazed100",
-          "locator": "DOCX section sec-5",
-          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
-        }
-      ],
-      "verification_state": "multi_source_verified",
-      "confidence_score": 0.86
-    },
-    {
       "id": "clm_dazedid_dazed100",
       "wording_ru": "Сегодня этот механизм у Dazed стал почти явной инфраструктурой. Dazed 100 ежегодно оформляет редакционный выбор в публичный список новых талантов, идей и инициатив, причём существуют глобальная и региональные версии. Это не нейтральный рейтинг: включение меняет распределение внимания.",
       "wording_en": "At Dazed this mechanism is now almost explicit infrastructure. Dazed 100 turns editorial selection into a public list of emerging talent, ideas and causes, with global and regional editions. It is not a neutral ranking: inclusion changes the distribution of attention.",
@@ -236,25 +161,6 @@
     },
     {
       "id": "clm_dazedid_id_archive",
-      "wording_ru": "Без фотографического языка оба проекта были бы значительно менее влиятельными. i-D строил архив лиц, тел и жестов, где обложка, straight-up и модная съёмка превращались в доказательство того, как меняется представление о красоте и нормальности. Dazed в 1990-е формировал собственную визуальную сцену через Rankin и широкий круг последующих фотографов, стилистов и арт-директоров.",
-      "wording_en": "Without photographic language, both projects would have been far less influential. i-D built an archive of faces, bodies and gestures in which the cover, straight-up and fashion story became evidence of changing ideas of beauty and normality. Dazed developed its own visual scene in the 1990s through Rankin and a widening network of later photographers, stylists and art directors.",
-      "claim_type": "factual",
-      "material": true,
-      "evidence": [
-        {
-          "source_url": "https://i-d.co/article/i-d-book-wink-and-smile/",
-          "locator": "DOCX section sec-6",
-          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
-        }
-      ],
-      "verification_state": "multi_source_verified",
-      "confidence_score": 0.86,
-      "date_start": "1990",
-      "date_end": null,
-      "date_precision": "year"
-    },
-    {
-      "id": "clm_dazedid_rankin_archive",
       "wording_ru": "Без фотографического языка оба проекта были бы значительно менее влиятельными. i-D строил архив лиц, тел и жестов, где обложка, straight-up и модная съёмка превращались в доказательство того, как меняется представление о красоте и нормальности. Dazed в 1990-е формировал собственную визуальную сцену через Rankin и широкий круг последующих фотографов, стилистов и арт-директоров.",
       "wording_en": "Without photographic language, both projects would have been far less influential. i-D built an archive of faces, bodies and gestures in which the cover, straight-up and fashion story became evidence of changing ideas of beauty and normality. Dazed developed its own visual scene in the 1990s through Rankin and a widening network of later photographers, stylists and art directors.",
       "claim_type": "factual",
@@ -292,102 +198,7 @@
       "date_precision": "year"
     },
     {
-      "id": "clm_dazedid_dazed_studio",
-      "wording_ru": "Dazed в 2026 году одновременно существует как печатный журнал, Dazed Digital, социальные каналы, международные редакционные узлы, Dazed 100, Dazed Studio, Dazed Club и событийная программа. Официальная структура Dazed Media прямо описывает переход от издательства к сети редакционных, коммерческих и общественных форматов.",
-      "wording_en": "In 2026 Dazed exists simultaneously as a print magazine, Dazed Digital, social channels, international editorial nodes, Dazed 100, Dazed Studio, Dazed Club and an events programme. Dazed Media's official structure makes the move from publisher to network of editorial, commercial and community formats explicit.",
-      "claim_type": "factual",
-      "material": true,
-      "evidence": [
-        {
-          "source_url": "https://www.dazedmedia.com/about",
-          "locator": "DOCX section sec-7",
-          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
-        }
-      ],
-      "verification_state": "multi_source_verified",
-      "confidence_score": 0.86,
-      "date_start": "2026",
-      "date_end": null,
-      "date_precision": "year"
-    },
-    {
-      "id": "clm_dazedid_dazed_events",
-      "wording_ru": "Dazed в 2026 году одновременно существует как печатный журнал, Dazed Digital, социальные каналы, международные редакционные узлы, Dazed 100, Dazed Studio, Dazed Club и событийная программа. Официальная структура Dazed Media прямо описывает переход от издательства к сети редакционных, коммерческих и общественных форматов.",
-      "wording_en": "In 2026 Dazed exists simultaneously as a print magazine, Dazed Digital, social channels, international editorial nodes, Dazed 100, Dazed Studio, Dazed Club and an events programme. Dazed Media's official structure makes the move from publisher to network of editorial, commercial and community formats explicit.",
-      "claim_type": "factual",
-      "material": true,
-      "evidence": [
-        {
-          "source_url": "https://www.dazedmedia.com/about",
-          "locator": "DOCX section sec-7",
-          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
-        }
-      ],
-      "verification_state": "multi_source_verified",
-      "confidence_score": 0.86,
-      "date_start": "2026",
-      "date_end": null,
-      "date_precision": "year"
-    },
-    {
       "id": "clm_dazedid_id_relaunch",
-      "wording_ru": "i-D после паузы вернулся в печать в 2025 году под руководством Thom Bettridge и к 2026 году снова соединяет физический номер с сайтом, магазином, архивом, Substack-каналом и отдельными печатными экспериментами. Весной 2026 года Issue 376 «The Lore Issue» прямо заявлял тему anti-algorithmic behaviour, а в апреле i-D выпустил первый beauty zine.",
-      "wording_en": "After a pause, i-D returned to print in 2025 under editor-in-chief Thom Bettridge and by 2026 again connects a physical issue with a website, shop, archive, Substack channel and separate print experiments. Spring 2026 issue 376, The Lore Issue, explicitly framed itself around anti-algorithmic behaviour, while April brought i-D Beauty's first print zine.",
-      "claim_type": "factual",
-      "material": true,
-      "evidence": [
-        {
-          "source_url": "https://www.dazedmedia.com/about",
-          "locator": "DOCX section sec-7",
-          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
-        }
-      ],
-      "verification_state": "multi_source_verified",
-      "confidence_score": 0.86,
-      "date_start": "2025",
-      "date_end": "2026",
-      "date_precision": "year"
-    },
-    {
-      "id": "clm_dazedid_id_lore",
-      "wording_ru": "i-D после паузы вернулся в печать в 2025 году под руководством Thom Bettridge и к 2026 году снова соединяет физический номер с сайтом, магазином, архивом, Substack-каналом и отдельными печатными экспериментами. Весной 2026 года Issue 376 «The Lore Issue» прямо заявлял тему anti-algorithmic behaviour, а в апреле i-D выпустил первый beauty zine.",
-      "wording_en": "After a pause, i-D returned to print in 2025 under editor-in-chief Thom Bettridge and by 2026 again connects a physical issue with a website, shop, archive, Substack channel and separate print experiments. Spring 2026 issue 376, The Lore Issue, explicitly framed itself around anti-algorithmic behaviour, while April brought i-D Beauty's first print zine.",
-      "claim_type": "factual",
-      "material": true,
-      "evidence": [
-        {
-          "source_url": "https://www.dazedmedia.com/about",
-          "locator": "DOCX section sec-7",
-          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
-        }
-      ],
-      "verification_state": "multi_source_verified",
-      "confidence_score": 0.86,
-      "date_start": "2025",
-      "date_end": "2026",
-      "date_precision": "year"
-    },
-    {
-      "id": "clm_dazedid_id_substack",
-      "wording_ru": "i-D после паузы вернулся в печать в 2025 году под руководством Thom Bettridge и к 2026 году снова соединяет физический номер с сайтом, магазином, архивом, Substack-каналом и отдельными печатными экспериментами. Весной 2026 года Issue 376 «The Lore Issue» прямо заявлял тему anti-algorithmic behaviour, а в апреле i-D выпустил первый beauty zine.",
-      "wording_en": "After a pause, i-D returned to print in 2025 under editor-in-chief Thom Bettridge and by 2026 again connects a physical issue with a website, shop, archive, Substack channel and separate print experiments. Spring 2026 issue 376, The Lore Issue, explicitly framed itself around anti-algorithmic behaviour, while April brought i-D Beauty's first print zine.",
-      "claim_type": "factual",
-      "material": true,
-      "evidence": [
-        {
-          "source_url": "https://www.dazedmedia.com/about",
-          "locator": "DOCX section sec-7",
-          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
-        }
-      ],
-      "verification_state": "multi_source_verified",
-      "confidence_score": 0.86,
-      "date_start": "2025",
-      "date_end": "2026",
-      "date_precision": "year"
-    },
-    {
-      "id": "clm_dazedid_id_beauty",
       "wording_ru": "i-D после паузы вернулся в печать в 2025 году под руководством Thom Bettridge и к 2026 году снова соединяет физический номер с сайтом, магазином, архивом, Substack-каналом и отдельными печатными экспериментами. Весной 2026 года Issue 376 «The Lore Issue» прямо заявлял тему anti-algorithmic behaviour, а в апреле i-D выпустил первый beauty zine.",
       "wording_en": "After a pause, i-D returned to print in 2025 under editor-in-chief Thom Bettridge and by 2026 again connects a physical issue with a website, shop, archive, Substack channel and separate print experiments. Spring 2026 issue 376, The Lore Issue, explicitly framed itself around anti-algorithmic behaviour, while April brought i-D Beauty's first print zine.",
       "claim_type": "factual",
@@ -423,25 +234,6 @@
     },
     {
       "id": "clm_dazedid_id_anti_algo",
-      "wording_ru": "i-D буквально формулирует это в «The Lore Issue» как anti-algorithmic behaviour. Dazed, со своей стороны, продолжает печатные выпуски в 2026 году и одновременно поддерживает постоянный цифровой поток, международные каналы и живые события. Две модели различаются, но обе пытаются сохранить редакционную рамку внутри среды, где публикация больше не дефицит.",
-      "wording_en": "i-D states this almost literally in The Lore Issue through the phrase anti-algorithmic behaviour. Dazed, meanwhile, continues print issues in 2026 while maintaining a constant digital stream, international channels and live events. The models differ, but both attempt to preserve an editorial frame in an environment where publication itself is no longer scarce.",
-      "claim_type": "factual",
-      "material": true,
-      "evidence": [
-        {
-          "source_url": "https://www.dazedmedia.com/about",
-          "locator": "DOCX section sec-9",
-          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
-        }
-      ],
-      "verification_state": "multi_source_verified",
-      "confidence_score": 0.86,
-      "date_start": "2026",
-      "date_end": null,
-      "date_precision": "year"
-    },
-    {
-      "id": "clm_dazedid_dazed_2026",
       "wording_ru": "i-D буквально формулирует это в «The Lore Issue» как anti-algorithmic behaviour. Dazed, со своей стороны, продолжает печатные выпуски в 2026 году и одновременно поддерживает постоянный цифровой поток, международные каналы и живые события. Две модели различаются, но обе пытаются сохранить редакционную рамку внутри среды, где публикация больше не дефицит.",
       "wording_en": "i-D states this almost literally in The Lore Issue through the phrase anti-algorithmic behaviour. Dazed, meanwhile, continues print issues in 2026 while maintaining a constant digital stream, international channels and live events. The models differ, but both attempt to preserve an editorial frame in an environment where publication itself is no longer scarce.",
       "claim_type": "factual",
@@ -629,20 +421,6 @@
       "support": "Supports the claim's factual content."
     },
     {
-      "id": "cit_dazed_id_4_1",
-      "claim_id": "clm_dazedid_opening_dazed",
-      "source_id": "src_e209ee99f017296b",
-      "locator": "DOCX section sec-1",
-      "support": "Supports the claim's factual content."
-    },
-    {
-      "id": "cit_dazed_id_5_2",
-      "claim_id": "clm_dazedid_opening_dazed",
-      "source_id": "src_5ed5298c0d99dfd8",
-      "locator": "DOCX section sec-1",
-      "support": "Supports the claim's factual content."
-    },
-    {
       "id": "cit_dazed_id_6_1",
       "claim_id": "clm_dazedid_id_about",
       "source_id": "src_e209ee99f017296b",
@@ -650,22 +428,8 @@
       "support": "Supports the claim's factual content."
     },
     {
-      "id": "cit_dazed_id_7_1",
-      "claim_id": "clm_dazedid_dazed_about",
-      "source_id": "src_e209ee99f017296b",
-      "locator": "DOCX section sec-2",
-      "support": "Supports the claim's factual content."
-    },
-    {
       "id": "cit_dazed_id_8_1",
       "claim_id": "clm_dazedid_id_wink",
-      "source_id": "src_1262aba689d01a5e",
-      "locator": "DOCX section sec-3",
-      "support": "Supports the claim's factual content."
-    },
-    {
-      "id": "cit_dazed_id_9_1",
-      "claim_id": "clm_dazedid_id_cover_archive",
       "source_id": "src_1262aba689d01a5e",
       "locator": "DOCX section sec-3",
       "support": "Supports the claim's factual content."
@@ -692,13 +456,6 @@
       "support": "Supports the claim's factual content."
     },
     {
-      "id": "cit_dazed_id_13_1",
-      "claim_id": "clm_dazedid_dazed_rankin",
-      "source_id": "src_508dcbc52ecae3b6",
-      "locator": "DOCX section sec-5",
-      "support": "Supports the claim's factual content."
-    },
-    {
       "id": "cit_dazed_id_14_1",
       "claim_id": "clm_dazedid_dazed100",
       "source_id": "src_508dcbc52ecae3b6",
@@ -713,13 +470,6 @@
       "support": "Supports the claim's factual content."
     },
     {
-      "id": "cit_dazed_id_16_1",
-      "claim_id": "clm_dazedid_rankin_archive",
-      "source_id": "src_b95dd3ac3647b179",
-      "locator": "DOCX section sec-6",
-      "support": "Supports the claim's factual content."
-    },
-    {
       "id": "cit_dazed_id_17_1",
       "claim_id": "clm_dazedid_dazed_system",
       "source_id": "src_545a94361d7fc36b",
@@ -727,43 +477,8 @@
       "support": "Supports the claim's factual content."
     },
     {
-      "id": "cit_dazed_id_18_1",
-      "claim_id": "clm_dazedid_dazed_studio",
-      "source_id": "src_5cf57e1c5daa538d",
-      "locator": "DOCX section sec-7",
-      "support": "Supports the claim's factual content."
-    },
-    {
-      "id": "cit_dazed_id_19_1",
-      "claim_id": "clm_dazedid_dazed_events",
-      "source_id": "src_545a94361d7fc36b",
-      "locator": "DOCX section sec-7",
-      "support": "Supports the claim's factual content."
-    },
-    {
       "id": "cit_dazed_id_20_1",
       "claim_id": "clm_dazedid_id_relaunch",
-      "source_id": "src_545a94361d7fc36b",
-      "locator": "DOCX section sec-7",
-      "support": "Supports the claim's factual content."
-    },
-    {
-      "id": "cit_dazed_id_21_1",
-      "claim_id": "clm_dazedid_id_lore",
-      "source_id": "src_545a94361d7fc36b",
-      "locator": "DOCX section sec-7",
-      "support": "Supports the claim's factual content."
-    },
-    {
-      "id": "cit_dazed_id_22_1",
-      "claim_id": "clm_dazedid_id_substack",
-      "source_id": "src_545a94361d7fc36b",
-      "locator": "DOCX section sec-7",
-      "support": "Supports the claim's factual content."
-    },
-    {
-      "id": "cit_dazed_id_23_1",
-      "claim_id": "clm_dazedid_id_beauty",
       "source_id": "src_545a94361d7fc36b",
       "locator": "DOCX section sec-7",
       "support": "Supports the claim's factual content."
@@ -778,13 +493,6 @@
     {
       "id": "cit_dazed_id_25_1",
       "claim_id": "clm_dazedid_id_anti_algo",
-      "source_id": "src_545a94361d7fc36b",
-      "locator": "DOCX section sec-9",
-      "support": "Supports the claim's factual content."
-    },
-    {
-      "id": "cit_dazed_id_26_1",
-      "claim_id": "clm_dazedid_dazed_2026",
       "source_id": "src_545a94361d7fc36b",
       "locator": "DOCX section sec-9",
       "support": "Supports the claim's factual content."

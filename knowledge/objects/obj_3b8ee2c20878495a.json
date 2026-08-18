@@ -59,14 +59,6 @@
       "date_precision": "year"
     },
     {
-      "id": "clm_006",
-      "wording_ru": "Французские maisons d’art разделяют работу между dessin, échantillonnage, подготовкой ткани, вышивкой, монтажом и контролем качества. Lesage, Atelier Montex и другие специализированные дома работают для haute couture и prêt-à-porter, сохраняя ручные техники и одновременно вводя новые материалы и процессы.",
-      "claim_type": "attribution",
-      "material": true,
-      "verification_state": "attributed",
-      "confidence_score": 0.7
-    },
-    {
       "id": "clm_007",
       "wording_ru": "Atelier Montex также специализируется на Cornely — ручной направляемой вышивальной машине, способной работать несколькими нитями и создавать объёмные текстуры.",
       "claim_type": "attribution",
@@ -249,13 +241,6 @@
     {
       "id": "cit_f70718795fda4a68",
       "claim_id": "clm_005",
-      "source_id": "src_e33a8c56e04a9167",
-      "locator": "section",
-      "support": "attribution recorded in the editorial DOCX"
-    },
-    {
-      "id": "cit_84c86b72cbe142c7",
-      "claim_id": "clm_006",
       "source_id": "src_e33a8c56e04a9167",
       "locator": "section",
       "support": "attribution recorded in the editorial DOCX"

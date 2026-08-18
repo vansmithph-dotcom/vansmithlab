@@ -93,26 +93,6 @@
       "confidence_score": 0.87
     },
     {
-      "id": "clm_game_pong",
-      "wording_ru": "Ранние игры особенно хорошо показывают, что интерфейс начинается не с меню. В Spacewar! траектория корабля, расстояние, столкновение и пространство экрана одновременно являются и изображением, и моделью действия. Computer History Museum хранит PDP-1 и Spacewar! как важный эпизод ранней интерактивной вычислительной культуры. Pong доводит эту идею почти до абстракции: две ракетки, мяч, границы и счёт. The Strong и ACMI фиксируют Pong как один из ключевых ранних коммерческих игровых объектов. Его визуальная сила в том, что правило можно понять почти без текста: форма показывает, что можно делать. Для дизайна это фундаментальный урок. Чем меньше времени есть у человека на интерпретацию, тем важнее, чтобы форма и действие совпадали. Хороший интерфейс не объясняет каждое правило отдельно — он делает правило видимым в поведении элементов.",
-      "claim_type": "attribution",
-      "material": true,
-      "evidence": [
-        {
-          "source_url": "https://www.museumofplay.org/games/pong/",
-          "locator": "DOCX section sec-3",
-          "support": "Strong Museum and ACMI records establish Pong and its rule-visible interface; the form-equals-action conclusion is VANSMITHLAB interpretation."
-        },
-        {
-          "source_url": "https://www.acmi.net.au/works/61530--pong/",
-          "locator": "DOCX section sec-3",
-          "support": "Strong Museum and ACMI records establish Pong and its rule-visible interface; the form-equals-action conclusion is VANSMITHLAB interpretation."
-        }
-      ],
-      "verification_state": "multi_source_verified",
-      "confidence_score": 0.87
-    },
-    {
       "id": "clm_game_map_inventory",
       "wording_ru": "Карта делает странную вещь: она предлагает одновременно верить в мир и видеть его как схему. Игрок идёт по комнате, улице или ландшафту, но в любой момент может свернуть пространство в линию маршрута, маркер, высоту, цель или область риска. Это не просто навигация — это тренировка перехода между изображением и моделью. Инвентарь делает то же самое с предметами. Оружие, ключ, аптечка или ресурс перестают быть только объектами мира и становятся системой выбора: что взять, что оставить, что улучшить, что использовать сейчас. Игрок постоянно переключается между визуальной сценой и её абстрактной экономикой. Именно поэтому игровой экран легко выдерживает несколько масштабов одновременно. Мир может быть кинематографичным, карта — условной, инвентарь — почти табличным, а подсказка — типографической. Для игрока это не четыре разных медиума, а четыре режима чтения одной ситуации.",
       "claim_type": "attribution",
@@ -388,20 +368,6 @@
       "source_id": "src_441fcf5da3490ed4",
       "locator": "DOCX section sec-3",
       "support": "Computer History Museum and Strong Museum records establish Spacewar! and the PDP-1 context."
-    },
-    {
-      "id": "cit_obj_games_screen_reading_20260813_05_01",
-      "claim_id": "clm_game_pong",
-      "source_id": "src_f087f83f8fdc5516",
-      "locator": "DOCX section sec-3",
-      "support": "Strong Museum and ACMI records establish Pong and its rule-visible interface; the form-equals-action conclusion is VANSMITHLAB interpretation."
-    },
-    {
-      "id": "cit_obj_games_screen_reading_20260813_05_02",
-      "claim_id": "clm_game_pong",
-      "source_id": "src_c387c1c0d30cc2bf",
-      "locator": "DOCX section sec-3",
-      "support": "Strong Museum and ACMI records establish Pong and its rule-visible interface; the form-equals-action conclusion is VANSMITHLAB interpretation."
     },
     {
       "id": "cit_obj_games_screen_reading_20260813_06_01",

@@ -29,14 +29,6 @@
       "confidence_score": 0.7
     },
     {
-      "id": "clm_003",
-      "wording_ru": "Метод особенно чувствителен к весу, пластичности, направлению нити и поверхности ткани. Madeleine Vionnet работала трёхмерно на уменьшенном манекене и использовала драпировку вместе с кроем по косой, чтобы одежда двигалась вместе с телом.",
-      "claim_type": "attribution",
-      "material": true,
-      "verification_state": "attributed",
-      "confidence_score": 0.7
-    },
-    {
       "id": "clm_004",
       "wording_ru": "Косое направление даёт ткани диагональную подвижность и позволяет ей мягче огибать тело. Vionnet сделала эту возможность центральной для современной драпированной одежды.",
       "claim_type": "attribution",
@@ -138,13 +130,6 @@
     {
       "id": "cit_b7c66c492011469b",
       "claim_id": "clm_002",
-      "source_id": "src_f357f03a42c10102",
-      "locator": "section",
-      "support": "attribution recorded in the editorial DOCX"
-    },
-    {
-      "id": "cit_74c2b5242b084bdb",
-      "claim_id": "clm_003",
       "source_id": "src_f357f03a42c10102",
       "locator": "section",
       "support": "attribution recorded in the editorial DOCX"

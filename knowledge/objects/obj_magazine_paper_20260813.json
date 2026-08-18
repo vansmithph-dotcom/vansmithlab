@@ -79,22 +79,6 @@
       "confidence_score": 0.86
     },
     {
-      "id": "clm_magmedia_vogue_runway",
-      "wording_ru": "Vogue хорошо показывает, как исторический журнал перестаёт совпадать с печатным выпуском, не отказываясь от печати. Архив Vogue сохраняет прошлые номера как непрерывную историческую базу, а Vogue Runway организует современную моду по сезонам, городам, дизайнерам, обзорам, фотографиям и видео. Читатель приходит уже не только за новым номером - он приходит за навигацией по индустрии.",
-      "wording_en": "Vogue shows how a historic magazine can stop coinciding with the printed issue without abandoning print. The Vogue Archive preserves past issues as a continuous historical database, while Vogue Runway organises contemporary fashion by season, city, designer, review, photography and video. The reader no longer arrives only for the new issue; the reader arrives for navigation through the industry.",
-      "claim_type": "factual",
-      "material": true,
-      "evidence": [
-        {
-          "source_url": "https://www.vogue.com/fashion-shows",
-          "locator": "DOCX section sec-3",
-          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
-        }
-      ],
-      "verification_state": "multi_source_verified",
-      "confidence_score": 0.86
-    },
-    {
       "id": "clm_magmedia_vogue_world",
       "wording_ru": "Ещё дальше идёт Vogue World. Это редакционный бренд, превращённый в живое событие и трансляцию: физическое пространство, выступления, одежда, знаменитости, партнёры и цифровая аудитория собираются вокруг имени журнала. На 22 сентября 2026 года Vogue World: Milano заявлен как следующий выпуск этой событийной серии.",
       "wording_en": "Vogue World moves further. It turns an editorial name into a live event and broadcast: physical space, performance, clothing, celebrities, partners and a digital audience gather around the magazine brand. Vogue World: Milano is scheduled for 22 September 2026 as the next edition of that event series.",
@@ -163,25 +147,6 @@
     },
     {
       "id": "clm_magmedia_face_acquisition",
-      "wording_ru": "The Face даёт более тревожный пример. Журнал, закрытый в 2004 году и перезапущенный в 2019-м, снова пережил институциональный разрыв. В мае 2026 года C86 объявила о приобретении The Face у Wasted Talent, а текущая главная страница сообщает, что The Face вернётся.",
-      "wording_en": "The Face offers a more anxious example. The magazine closed in 2004 and was relaunched in 2019, then entered another institutional break. In May 2026 C86 announced that it had acquired The Face from Wasted Talent, while the current homepage says that The Face will return.",
-      "claim_type": "factual",
-      "material": true,
-      "evidence": [
-        {
-          "source_url": "https://news.c86.com/releases/c86-wasted-talent-announcement-the-face-26-may-2026-18374/",
-          "locator": "DOCX section sec-5",
-          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
-        }
-      ],
-      "verification_state": "multi_source_verified",
-      "confidence_score": 0.86,
-      "date_start": "2004",
-      "date_end": "2026",
-      "date_precision": "year"
-    },
-    {
-      "id": "clm_magmedia_face_return",
       "wording_ru": "The Face даёт более тревожный пример. Журнал, закрытый в 2004 году и перезапущенный в 2019-м, снова пережил институциональный разрыв. В мае 2026 года C86 объявила о приобретении The Face у Wasted Talent, а текущая главная страница сообщает, что The Face вернётся.",
       "wording_en": "The Face offers a more anxious example. The magazine closed in 2004 and was relaunched in 2019, then entered another institutional break. In May 2026 C86 announced that it had acquired The Face from Wasted Talent, while the current homepage says that The Face will return.",
       "claim_type": "factual",
@@ -303,25 +268,6 @@
     },
     {
       "id": "clm_magmedia_032c_workshop",
-      "wording_ru": "Физическое расширение особенно наглядно. 032c WORKSHOP в Берлине был открыт как самостоятельное розничное пространство, где выставочная зона предшествует зоне продукта; бренд формулировал принцип почти архитектурно: культура впереди, коммерция позади. В 2024 году появилась постоянная 032c Gallery с собственной программой выставок.",
-      "wording_en": "The physical extension is especially legible. 032c WORKSHOP opened in Berlin as a stand-alone retail venue in which an exhibition zone precedes the product area; the brand framed the relationship almost architecturally, placing culture in front and commerce behind. In 2024 it launched a permanent 032c Gallery with its own exhibition programme.",
-      "claim_type": "factual",
-      "material": true,
-      "evidence": [
-        {
-          "source_url": "https://www.032c.com/pages/about",
-          "locator": "DOCX section sec-7",
-          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
-        }
-      ],
-      "verification_state": "multi_source_verified",
-      "confidence_score": 0.86,
-      "date_start": "2024",
-      "date_end": null,
-      "date_precision": "year"
-    },
-    {
-      "id": "clm_magmedia_032c_gallery",
       "wording_ru": "Физическое расширение особенно наглядно. 032c WORKSHOP в Берлине был открыт как самостоятельное розничное пространство, где выставочная зона предшествует зоне продукта; бренд формулировал принцип почти архитектурно: культура впереди, коммерция позади. В 2024 году появилась постоянная 032c Gallery с собственной программой выставок.",
       "wording_en": "The physical extension is especially legible. 032c WORKSHOP opened in Berlin as a stand-alone retail venue in which an exhibition zone precedes the product area; the brand framed the relationship almost architecturally, placing culture in front and commerce behind. In 2024 it launched a permanent 032c Gallery with its own exhibition programme.",
       "claim_type": "factual",
@@ -572,13 +518,6 @@
       "support": "Supports the claim's factual content."
     },
     {
-      "id": "cit_magazine_paper_5_1",
-      "claim_id": "clm_magmedia_vogue_runway",
-      "source_id": "src_cd09ce809555a9e7",
-      "locator": "DOCX section sec-3",
-      "support": "Supports the claim's factual content."
-    },
-    {
       "id": "cit_magazine_paper_6_1",
       "claim_id": "clm_magmedia_vogue_world",
       "source_id": "src_cd09ce809555a9e7",
@@ -609,13 +548,6 @@
     {
       "id": "cit_magazine_paper_10_1",
       "claim_id": "clm_magmedia_face_acquisition",
-      "source_id": "src_ba379fe45519c588",
-      "locator": "DOCX section sec-5",
-      "support": "Supports the claim's factual content."
-    },
-    {
-      "id": "cit_magazine_paper_11_1",
-      "claim_id": "clm_magmedia_face_return",
       "source_id": "src_ba379fe45519c588",
       "locator": "DOCX section sec-5",
       "support": "Supports the claim's factual content."
@@ -665,13 +597,6 @@
     {
       "id": "cit_magazine_paper_18_1",
       "claim_id": "clm_magmedia_032c_workshop",
-      "source_id": "src_11f8349de28ea073",
-      "locator": "DOCX section sec-7",
-      "support": "Supports the claim's factual content."
-    },
-    {
-      "id": "cit_magazine_paper_19_1",
-      "claim_id": "clm_magmedia_032c_gallery",
       "source_id": "src_11f8349de28ea073",
       "locator": "DOCX section sec-7",
       "support": "Supports the claim's factual content."

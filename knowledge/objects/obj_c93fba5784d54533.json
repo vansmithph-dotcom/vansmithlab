@@ -21,23 +21,7 @@
       "confidence_score": 0.7
     },
     {
-      "id": "clm_002",
-      "wording_ru": "Контактный отпечаток получают, размещая негатив эмульсией к светочувствительной стороне бумаги и экспонируя их в непосредственном контакте. Изображение имеет тот же размер, что и негатив; резкость зависит от качества негатива, плотности прижима, чистоты поверхностей, света и обработки.",
-      "claim_type": "attribution",
-      "material": true,
-      "verification_state": "attributed",
-      "confidence_score": 0.7
-    },
-    {
       "id": "clm_003",
-      "wording_ru": "Система Уильяма Генри Фокса Талбота была принципиально важна тем, что бумажный негатив позволял получать несколько позитивных отпечатков. The Met называет эту негативно-позитивную логику основой почти всей фотографии до цифровой эпохи.",
-      "claim_type": "attribution",
-      "material": true,
-      "verification_state": "attributed",
-      "confidence_score": 0.7
-    },
-    {
-      "id": "clm_004",
       "wording_ru": "Система Уильяма Генри Фокса Талбота была принципиально важна тем, что бумажный негатив позволял получать несколько позитивных отпечатков. The Met называет эту негативно-позитивную логику основой почти всей фотографии до цифровой эпохи.",
       "claim_type": "attribution",
       "material": true,
@@ -61,14 +45,6 @@
       "confidence_score": 0.7
     },
     {
-      "id": "clm_007",
-      "wording_ru": "Экспозицию определяют пробной полоской или ступенчатым тестом. Важно получить на незасвеченной кромке плёнки глубокий чёрный, сохранив различия в плотностях кадров. ILFORD описывает контакт-лист как основу последующего анализа негатива.",
-      "claim_type": "attribution",
-      "material": true,
-      "verification_state": "attributed",
-      "confidence_score": 0.7
-    },
-    {
       "id": "clm_008",
       "wording_ru": "Center for Creative Photography отмечает, что наибольшее разрешение негатива проявляется именно в контактном отпечатке, когда негатив непосредственно соприкасается с бумагой.",
       "claim_type": "attribution",
@@ -85,14 +61,6 @@
       "confidence_score": 0.7
     },
     {
-      "id": "clm_010",
-      "wording_ru": "Magnum описывает контактные листы как прямые отпечатки последовательностей негативов, которые до цифровой эпохи были ключевыми для просмотра, редактирования и индексирования. Они показывают движение фотографа к выбранной композиции.",
-      "claim_type": "attribution",
-      "material": true,
-      "verification_state": "attributed",
-      "confidence_score": 0.7
-    },
-    {
       "id": "clm_011",
       "wording_ru": "Отпечатки Edward Weston часто близки к размеру его 8×10-дюймовых негативов. Объекты в коллекции NGA имеют изображение примерно 19×24 см — масштаб, соответствующий контактной логике крупноформатной камеры.",
       "claim_type": "attribution",
@@ -101,23 +69,7 @@
       "confidence_score": 0.7
     },
     {
-      "id": "clm_012",
-      "wording_ru": "Отпечатки Edward Weston часто близки к размеру его 8×10-дюймовых негативов. Объекты в коллекции NGA имеют изображение примерно 19×24 см — масштаб, соответствующий контактной логике крупноформатной камеры.",
-      "claim_type": "attribution",
-      "material": true,
-      "verification_state": "attributed",
-      "confidence_score": 0.7
-    },
-    {
       "id": "clm_013",
-      "wording_ru": "Платиновая и палладиевая печать традиционно выполняется контактом: размер позитивного изображения совпадает с размером негатива. Getty фиксирует широкое распространение platinotype с конца XIX века, а учебные материалы описывают негатив, бумагу и печатную раму как единую систему.",
-      "claim_type": "attribution",
-      "material": true,
-      "verification_state": "attributed",
-      "confidence_score": 0.7
-    },
-    {
-      "id": "clm_014",
       "wording_ru": "Платиновая и палладиевая печать традиционно выполняется контактом: размер позитивного изображения совпадает с размером негатива. Getty фиксирует широкое распространение platinotype с конца XIX века, а учебные материалы описывают негатив, бумагу и печатную раму как единую систему.",
       "claim_type": "attribution",
       "material": true,
@@ -264,22 +216,8 @@
       "support": "attribution recorded in the editorial DOCX"
     },
     {
-      "id": "cit_44b7a3a69765418b",
-      "claim_id": "clm_002",
-      "source_id": "src_894ee2ba953750cc",
-      "locator": "section",
-      "support": "attribution recorded in the editorial DOCX"
-    },
-    {
       "id": "cit_ba13953afea84435",
       "claim_id": "clm_003",
-      "source_id": "src_894ee2ba953750cc",
-      "locator": "section",
-      "support": "attribution recorded in the editorial DOCX"
-    },
-    {
-      "id": "cit_7f7909b1fae34563",
-      "claim_id": "clm_004",
       "source_id": "src_894ee2ba953750cc",
       "locator": "section",
       "support": "attribution recorded in the editorial DOCX"
@@ -299,13 +237,6 @@
       "support": "attribution recorded in the editorial DOCX"
     },
     {
-      "id": "cit_ca5b774736ff4810",
-      "claim_id": "clm_007",
-      "source_id": "src_894ee2ba953750cc",
-      "locator": "section",
-      "support": "attribution recorded in the editorial DOCX"
-    },
-    {
       "id": "cit_dff765aaa7e044ca",
       "claim_id": "clm_008",
       "source_id": "src_be594a5d0fc0b165",
@@ -320,13 +251,6 @@
       "support": "attribution recorded in the editorial DOCX"
     },
     {
-      "id": "cit_ed3db7fb936e4c35",
-      "claim_id": "clm_010",
-      "source_id": "src_894ee2ba953750cc",
-      "locator": "section",
-      "support": "attribution recorded in the editorial DOCX"
-    },
-    {
       "id": "cit_97917c5b1b4346d6",
       "claim_id": "clm_011",
       "source_id": "src_894ee2ba953750cc",
@@ -334,22 +258,8 @@
       "support": "attribution recorded in the editorial DOCX"
     },
     {
-      "id": "cit_fc6fad4543da40e4",
-      "claim_id": "clm_012",
-      "source_id": "src_894ee2ba953750cc",
-      "locator": "section",
-      "support": "attribution recorded in the editorial DOCX"
-    },
-    {
       "id": "cit_478214df78664bcb",
       "claim_id": "clm_013",
-      "source_id": "src_894ee2ba953750cc",
-      "locator": "section",
-      "support": "attribution recorded in the editorial DOCX"
-    },
-    {
-      "id": "cit_38a2fed3285d4078",
-      "claim_id": "clm_014",
       "source_id": "src_894ee2ba953750cc",
       "locator": "section",
       "support": "attribution recorded in the editorial DOCX"

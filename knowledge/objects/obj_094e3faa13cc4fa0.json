@@ -24,29 +24,7 @@
       "date_precision": "year"
     },
     {
-      "id": "clm_002",
-      "wording_ru": "Цианотипия — железосолевой фотографический процесс, связанный с экспериментами Джона Гершеля начала 1840-х годов. Поверхность покрывают смесью солей железа, сушат в темноте, экспонируют ультрафиолетом через предмет или негатив, затем промывают водой. В результате образуется пигмент берлинской лазури — светлые формы появляются на насыщенном синем поле.",
-      "claim_type": "attribution",
-      "material": true,
-      "verification_state": "attributed",
-      "confidence_score": 0.7,
-      "date_start": "1840",
-      "date_end": null,
-      "date_precision": "year"
-    },
-    {
       "id": "clm_003",
-      "wording_ru": "Джон Гершель представил цианотипический процесс в начале 1840-х годов, исследуя светочувствительность соединений железа. Национальный музей науки и медиа и Kew связывают появление первых цианотипий с его опытами 1841–1842 годов.",
-      "claim_type": "attribution",
-      "material": true,
-      "verification_state": "attributed",
-      "confidence_score": 0.7,
-      "date_start": "1840",
-      "date_end": "1842",
-      "date_precision": "year"
-    },
-    {
-      "id": "clm_004",
       "wording_ru": "Джон Гершель представил цианотипический процесс в начале 1840-х годов, исследуя светочувствительность соединений железа. Национальный музей науки и медиа и Kew связывают появление первых цианотипий с его опытами 1841–1842 годов.",
       "claim_type": "attribution",
       "material": true,
@@ -266,22 +244,8 @@
       "support": "attribution recorded in the editorial DOCX"
     },
     {
-      "id": "cit_c3acb7bddd7e4771",
-      "claim_id": "clm_002",
-      "source_id": "src_962deb613494568a",
-      "locator": "section",
-      "support": "attribution recorded in the editorial DOCX"
-    },
-    {
       "id": "cit_8bcc2193e37a4e30",
       "claim_id": "clm_003",
-      "source_id": "src_962deb613494568a",
-      "locator": "section",
-      "support": "attribution recorded in the editorial DOCX"
-    },
-    {
-      "id": "cit_282df57b3a7e4421",
-      "claim_id": "clm_004",
       "source_id": "src_962deb613494568a",
       "locator": "section",
       "support": "attribution recorded in the editorial DOCX"

@@ -83,17 +83,6 @@
       "date_precision": "year"
     },
     {
-      "id": "clm_009",
-      "wording_ru": "Carlton Ettore Sottsass 1981 года стал иконой Memphis. Memphis Milano описывает его как объект, который выражает желание группы нарушать правила хорошего дизайна; The Met подчёркивает, что он совмещает перегородку, книжный шкаф и комод, ставя под вопрос привычные формы мебели.",
-      "claim_type": "attribution",
-      "material": true,
-      "verification_state": "attributed",
-      "confidence_score": 0.7,
-      "date_start": "1981",
-      "date_end": null,
-      "date_precision": "year"
-    },
-    {
       "id": "clm_010",
       "wording_ru": "Эта пара помогает читать не только архитектуру, но и retail, выставки, упаковку и digital-интерфейсы. Одни объекты кричат формой, другие работают как нейтральный носитель, на который нанесён смысл. Постмодернизм умеет использовать оба режима.",
       "claim_type": "attribution",
@@ -390,13 +379,6 @@
       "id": "cit_e4c30e0c59884f6b",
       "claim_id": "clm_008",
       "source_id": "src_b5cea1c8f7167a32",
-      "locator": "section",
-      "support": "attribution recorded in the editorial DOCX"
-    },
-    {
-      "id": "cit_1682e4f8f6204e81",
-      "claim_id": "clm_009",
-      "source_id": "src_56bc8703c5a9f8b2",
       "locator": "section",
       "support": "attribution recorded in the editorial DOCX"
     },

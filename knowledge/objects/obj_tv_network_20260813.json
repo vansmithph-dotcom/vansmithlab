@@ -69,25 +69,6 @@
       "date_precision": "year"
     },
     {
-      "id": "clm_brandmedia_prada_frames",
-      "wording_ru": "Prada Films хранит отдельную историю короткометражных работ, от Thunder Perfect Mind и A Therapy до Past Forward и Re-Nylon. Prada Frames, напротив, строит программу вокруг дизайна, среды и критического разговора; в 2026 году проект прошёл уже в пятой редакции. Один дом одновременно работает как рекламодатель, продюсер, архивист и организатор культурной повестки.",
-      "wording_en": "Prada Films maintains a distinct archive of short works, from Thunder Perfect Mind and A Therapy to Past Forward and Re-Nylon. Prada Frames works differently, building a programme around design, environment and critical conversation; in 2026 it reached its fifth edition. One house can therefore act at once as advertiser, producer, archivist and organiser of cultural discourse.",
-      "claim_type": "factual",
-      "material": true,
-      "evidence": [
-        {
-          "source_url": "https://www.prada.com/ww/en/pradasphere.html",
-          "locator": "DOCX section sec-1",
-          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
-        }
-      ],
-      "verification_state": "multi_source_verified",
-      "confidence_score": 0.86,
-      "date_start": "2026",
-      "date_end": null,
-      "date_precision": "year"
-    },
-    {
       "id": "clm_brandmedia_social_media",
       "wording_ru": "Исследования маркетинга luxury давно фиксируют значение социальных медиа и визуальной стратегии для взаимодействия с аудиторией. Но для VANSMITHLAB важнее не эффективность поста сама по себе, а культурное следствие: бренд превращается из источника рекламных материалов в владельца собственной сцены публикации.",
       "wording_en": "Research on luxury marketing has long documented the importance of social media and visual strategy for audience engagement. For VANSMITHLAB, the more interesting consequence is cultural rather than metric: the brand shifts from supplying advertising material to owning the stage on which it publishes.",
@@ -126,22 +107,6 @@
     },
     {
       "id": "clm_brandmedia_chanel_connects",
-      "wording_ru": "CHANEL Connects делает следующий шаг: дом не рассказывает только о себе. Шестой сезон флагманского arts & culture podcast строит разговоры с художниками и культурными фигурами, записанные в разных институциях и городах. CHANEL Culture Fund расширяет ту же культурную рамку через партнёрства и инициативы.",
-      "wording_en": "CHANEL Connects goes further: the house is not speaking only about itself. Season 6 of the flagship arts and culture podcast assembles conversations with artists and cultural figures recorded across institutions and cities. The CHANEL Culture Fund extends the same cultural frame through partnerships and initiatives.",
-      "claim_type": "factual",
-      "material": true,
-      "evidence": [
-        {
-          "source_url": "https://www.chanel.com/us/about-chanel/inside-chanel/",
-          "locator": "DOCX section sec-3",
-          "support": "Claim supported by the referenced source; interpretation remains VANSMITHLAB's."
-        }
-      ],
-      "verification_state": "multi_source_verified",
-      "confidence_score": 0.86
-    },
-    {
-      "id": "clm_brandmedia_chanel_culture",
       "wording_ru": "CHANEL Connects делает следующий шаг: дом не рассказывает только о себе. Шестой сезон флагманского arts & culture podcast строит разговоры с художниками и культурными фигурами, записанные в разных институциях и городах. CHANEL Culture Fund расширяет ту же культурную рамку через партнёрства и инициативы.",
       "wording_en": "CHANEL Connects goes further: the house is not speaking only about itself. Season 6 of the flagship arts and culture podcast assembles conversations with artists and cultural figures recorded across institutions and cities. The CHANEL Culture Fund extends the same cultural frame through partnerships and initiatives.",
       "claim_type": "factual",
@@ -431,13 +396,6 @@
       "support": "Supports the claim's factual content."
     },
     {
-      "id": "cit_tv_network_4_1",
-      "claim_id": "clm_brandmedia_prada_frames",
-      "source_id": "src_e8b78acda6a491e7",
-      "locator": "DOCX section sec-1",
-      "support": "Supports the claim's factual content."
-    },
-    {
       "id": "cit_tv_network_5_1",
       "claim_id": "clm_brandmedia_social_media",
       "source_id": "src_e8b78acda6a491e7",
@@ -461,13 +419,6 @@
     {
       "id": "cit_tv_network_8_1",
       "claim_id": "clm_brandmedia_chanel_connects",
-      "source_id": "src_15fa87a56fd4c034",
-      "locator": "DOCX section sec-3",
-      "support": "Supports the claim's factual content."
-    },
-    {
-      "id": "cit_tv_network_9_1",
-      "claim_id": "clm_brandmedia_chanel_culture",
       "source_id": "src_15fa87a56fd4c034",
       "locator": "DOCX section sec-3",
       "support": "Supports the claim's factual content."

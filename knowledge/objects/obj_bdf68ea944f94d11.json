@@ -21,14 +21,6 @@
       "confidence_score": 0.7
     },
     {
-      "id": "clm_002",
-      "wording_ru": "Yakisugi - традиционная японская техника обжига фасадных досок sugi. В классическом способе три доски связывают в треугольную трубу, поджигают изнутри, затем разъединяют и гасят; поверхность оставляют глубоко обугленной либо очищают и брашируют.",
-      "claim_type": "attribution",
-      "material": true,
-      "verification_state": "attributed",
-      "confidence_score": 0.7
-    },
-    {
       "id": "clm_003",
       "wording_ru": "Техника может изменить смачивание, влагоперенос, фактуру и скорость нагрева поверхности, но не делает любую древесину автоматически огнестойкой, защищённой от гниения или насекомых. Реальный результат зависит от породы, толщины обжига, покрытия и конструктивного узла.",
       "claim_type": "attribution",
@@ -47,22 +39,6 @@
     {
       "id": "clm_005",
       "wording_ru": "Под солнцем, дождём и морозом угольная поверхность постепенно меняется. Искусственное выветривание показывает потерю массы, изменение цвета и ослабление внешнего слоя; покрытия могут замедлять процесс, но не останавливают его навсегда.",
-      "claim_type": "attribution",
-      "material": true,
-      "verification_state": "attributed",
-      "confidence_score": 0.7
-    },
-    {
-      "id": "clm_006",
-      "wording_ru": "Обугливание способно увеличить контактный угол воды и сделать поверхность менее смачиваемой. Исследования фиксируют уменьшение сорбции и изменение движения влаги, но результат зависит от метода, породы, трещин и наличия покрытия.",
-      "claim_type": "attribution",
-      "material": true,
-      "verification_state": "attributed",
-      "confidence_score": 0.7
-    },
-    {
-      "id": "clm_007",
-      "wording_ru": "Техника может изменить смачивание, влагоперенос, фактуру и скорость нагрева поверхности, но не делает любую древесину автоматически огнестойкой, защищённой от гниения или насекомых. Реальный результат зависит от породы, толщины обжига, покрытия и конструктивного узла.",
       "claim_type": "attribution",
       "material": true,
       "verification_state": "attributed",
@@ -240,13 +216,6 @@
       "support": "attribution recorded in the editorial DOCX"
     },
     {
-      "id": "cit_28c8340e91284bc9",
-      "claim_id": "clm_002",
-      "source_id": "src_1b8bfc4e5a55150e",
-      "locator": "section",
-      "support": "attribution recorded in the editorial DOCX"
-    },
-    {
       "id": "cit_88f29a5f1c0f4d5a",
       "claim_id": "clm_003",
       "source_id": "src_1b8bfc4e5a55150e",
@@ -263,20 +232,6 @@
     {
       "id": "cit_1a7a8c7b59124ad4",
       "claim_id": "clm_005",
-      "source_id": "src_1b8bfc4e5a55150e",
-      "locator": "section",
-      "support": "attribution recorded in the editorial DOCX"
-    },
-    {
-      "id": "cit_7bd7b9669f4b4aa2",
-      "claim_id": "clm_006",
-      "source_id": "src_1b8bfc4e5a55150e",
-      "locator": "section",
-      "support": "attribution recorded in the editorial DOCX"
-    },
-    {
-      "id": "cit_4af11be0edfc436d",
-      "claim_id": "clm_007",
       "source_id": "src_1b8bfc4e5a55150e",
       "locator": "section",
       "support": "attribution recorded in the editorial DOCX"

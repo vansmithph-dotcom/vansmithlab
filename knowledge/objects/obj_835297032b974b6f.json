@@ -117,14 +117,6 @@
       "confidence_score": 0.7
     },
     {
-      "id": "clm_014",
-      "wording_ru": "Алгоритм не делает проект умным автоматически. Умной становится только та система, где понятны правила, ограничения и человеческая цель.",
-      "claim_type": "attribution",
-      "material": true,
-      "verification_state": "attributed",
-      "confidence_score": 0.7
-    },
-    {
       "id": "clm_015",
       "wording_ru": "Фасад в параметризме часто работает как кожа: он реагирует на солнце, вид, конструкцию и масштаб. Но кожа не означает хаос. Чем сложнее поверхность, тем важнее дисциплина панелей, потому что именно швы выдают, проект был продуман или просто красиво размазан.",
       "claim_type": "attribution",
@@ -189,14 +181,6 @@
       "confidence_score": 0.7
     },
     {
-      "id": "clm_023",
-      "wording_ru": "Алгоритм не делает проект умным автоматически. Умной становится только та система, где понятны правила, ограничения и человеческая цель.",
-      "claim_type": "attribution",
-      "material": true,
-      "verification_state": "attributed",
-      "confidence_score": 0.7
-    },
-    {
       "id": "clm_024",
       "wording_ru": "Критика параметризма звучит справедливо, когда стиль превращается в дорогой аттракцион: слишком много бюджета, слишком мало человеческого масштаба, слишком много глянца и слишком мало жизни. В этот момент алгоритм начинает выглядеть не умным, а холодным.",
       "claim_type": "attribution",
@@ -231,14 +215,6 @@
     {
       "id": "clm_028",
       "wording_ru": "Для бренда параметризм даёт язык premium-tech: волновая графика, адаптивная сетка, интерфейсные поверхности, световые линии, модульные павильоны, футуристические съёмки. Главное — не переборщить: один сильный параметрический принцип лучше, чем десять «кибер-волн» одновременно.",
-      "claim_type": "attribution",
-      "material": true,
-      "verification_state": "attributed",
-      "confidence_score": 0.7
-    },
-    {
-      "id": "clm_029",
-      "wording_ru": "Алгоритм не делает проект умным автоматически. Умной становится только та система, где понятны правила, ограничения и человеческая цель.",
       "claim_type": "attribution",
       "material": true,
       "verification_state": "attributed",
@@ -444,13 +420,6 @@
       "support": "attribution recorded in the editorial DOCX"
     },
     {
-      "id": "cit_04fe424e1fdf4bf3",
-      "claim_id": "clm_014",
-      "source_id": "src_ae4e6733b7eeb047",
-      "locator": "section",
-      "support": "attribution recorded in the editorial DOCX"
-    },
-    {
       "id": "cit_3154f4cc91114fa2",
       "claim_id": "clm_015",
       "source_id": "src_ae4e6733b7eeb047",
@@ -507,13 +476,6 @@
       "support": "attribution recorded in the editorial DOCX"
     },
     {
-      "id": "cit_122bbbf4863e421e",
-      "claim_id": "clm_023",
-      "source_id": "src_ae4e6733b7eeb047",
-      "locator": "section",
-      "support": "attribution recorded in the editorial DOCX"
-    },
-    {
       "id": "cit_9bf0524e623b4ed9",
       "claim_id": "clm_024",
       "source_id": "src_ae4e6733b7eeb047",
@@ -544,13 +506,6 @@
     {
       "id": "cit_3076963d6dee4906",
       "claim_id": "clm_028",
-      "source_id": "src_ae4e6733b7eeb047",
-      "locator": "section",
-      "support": "attribution recorded in the editorial DOCX"
-    },
-    {
-      "id": "cit_0164b346ec254348",
-      "claim_id": "clm_029",
       "source_id": "src_ae4e6733b7eeb047",
       "locator": "section",
       "support": "attribution recorded in the editorial DOCX"

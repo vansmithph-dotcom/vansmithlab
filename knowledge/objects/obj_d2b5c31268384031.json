@@ -21,14 +21,6 @@
       "confidence_score": 0.7
     },
     {
-      "id": "clm_001",
-      "wording_ru": "Оп-арт делает с изображением то, что хороший фокусник делает с монетой: показывает плоскую поверхность, а глаз вдруг видит движение, глубину и дрожание. Это не украшение из полосок, а точная игра восприятия, где контраст, повтор и ритм заставляют зрителя стать частью работы.",
-      "claim_type": "attribution",
-      "material": true,
-      "verification_state": "attributed",
-      "confidence_score": 0.7
-    },
-    {
       "id": "clm_002",
       "wording_ru": "Почему неподвижная картина может казаться движущейся, а простая сетка — почти физически вибрировать перед глазами?.",
       "claim_type": "attribution",
@@ -381,13 +373,6 @@
     {
       "id": "cit_3b42f1a0dc774c61",
       "claim_id": "clm_op_001",
-      "source_id": "src_ffafce73c570d82e",
-      "locator": "section",
-      "support": "attribution recorded in the editorial DOCX"
-    },
-    {
-      "id": "cit_50a3c2d50ed94d6d",
-      "claim_id": "clm_001",
       "source_id": "src_ffafce73c570d82e",
       "locator": "section",
       "support": "attribution recorded in the editorial DOCX"

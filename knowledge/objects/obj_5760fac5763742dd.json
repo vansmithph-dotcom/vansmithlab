@@ -29,14 +29,6 @@
       "confidence_score": 0.7
     },
     {
-      "id": "clm_003",
-      "wording_ru": "Архитектурное стекло обычно начинается с soda-lime состава и float-процесса, но его окончательное поведение создают последующие операции: отжиг, закалка, ламинация, нанесение low-e или солнцезащитных покрытий, матирование, печать, сборка в стеклопакет и обработка кромки.",
-      "claim_type": "attribution",
-      "material": true,
-      "verification_state": "attributed",
-      "confidence_score": 0.7
-    },
-    {
       "id": "clm_004",
       "wording_ru": "При термоупрочнении и закалке стекло нагревают близко к температуре размягчения, а затем охлаждают. Поверхность получает сжимающие напряжения, повышающие сопротивление механическим и термическим нагрузкам. Полностью закалённое стекло при разрушении распадается на сравнительно мелкие частицы и применяется как безопасное остекление.",
       "claim_type": "attribution",
@@ -78,14 +70,6 @@
     },
     {
       "id": "clm_009",
-      "wording_ru": "Pilkington описывает texture glass как rolled patterned glass, а Profilit — как полупрозрачный U-образный литой профиль.  Эти материалы полезны там, где прозрачность слишком буквальна: они сохраняют присутствие света, но возвращают стене плотность.",
-      "claim_type": "attribution",
-      "material": true,
-      "verification_state": "attributed",
-      "confidence_score": 0.7
-    },
-    {
-      "id": "clm_010",
       "wording_ru": "Pilkington описывает texture glass как rolled patterned glass, а Profilit — как полупрозрачный U-образный литой профиль.  Эти материалы полезны там, где прозрачность слишком буквальна: они сохраняют присутствие света, но возвращают стене плотность.",
       "claim_type": "attribution",
       "material": true,
@@ -290,13 +274,6 @@
       "support": "attribution recorded in the editorial DOCX"
     },
     {
-      "id": "cit_520dcbed482e4b77",
-      "claim_id": "clm_003",
-      "source_id": "src_d53445daf0ea6bb1",
-      "locator": "section",
-      "support": "attribution recorded in the editorial DOCX"
-    },
-    {
       "id": "cit_11baf15b485f4d7e",
       "claim_id": "clm_004",
       "source_id": "src_d53445daf0ea6bb1",
@@ -334,13 +311,6 @@
     {
       "id": "cit_61fbf6033bdf4d3b",
       "claim_id": "clm_009",
-      "source_id": "src_aa94540a19c1326b",
-      "locator": "section",
-      "support": "attribution recorded in the editorial DOCX"
-    },
-    {
-      "id": "cit_22577eb3c28a4673",
-      "claim_id": "clm_010",
       "source_id": "src_aa94540a19c1326b",
       "locator": "section",
       "support": "attribution recorded in the editorial DOCX"

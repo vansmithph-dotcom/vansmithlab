@@ -109,14 +109,6 @@
       "confidence_score": 0.7
     },
     {
-      "id": "clm_014",
-      "wording_ru": "В моде минимализм не равен простому платью. Он проявляется в крое, посадке, ткани, отсутствии лишней фурнитуры и том, как одежда двигается на теле. Jil Sander и Calvin Klein стали важными ориентирами для чистой, дисциплинированной luxury-подачи.",
-      "claim_type": "attribution",
-      "material": true,
-      "verification_state": "attributed",
-      "confidence_score": 0.7
-    },
-    {
       "id": "clm_015",
       "wording_ru": "Белый куб даёт объекту тишину, но одновременно задаёт социальный код: чистота, дистанция, контроль, музейная власть. Поэтому минимализм нужно читать не только эстетически, но и институционально.",
       "claim_type": "attribution",
@@ -409,13 +401,6 @@
       "id": "cit_94f97c227c394267",
       "claim_id": "clm_013",
       "source_id": "src_4a7a57fe3ed95633",
-      "locator": "section",
-      "support": "attribution recorded in the editorial DOCX"
-    },
-    {
-      "id": "cit_085331aed88c4451",
-      "claim_id": "clm_014",
-      "source_id": "src_b5a1bae8be397601",
       "locator": "section",
       "support": "attribution recorded in the editorial DOCX"
     },

@@ -24,26 +24,7 @@
       "date_precision": "year"
     },
     {
-      "id": "clm_002",
-      "wording_ru": "Баухаус был основан Вальтером Гропиусом в Веймаре в 1919 году, переехал в Дессау в 1925 году, затем в Берлин в 1932 году и был закрыт в 1933 году под давлением нацистского режима. За это короткое время школа изменила представления о том, как учить художников, архитекторов и дизайнеров.",
-      "claim_type": "attribution",
-      "material": true,
-      "verification_state": "attributed",
-      "confidence_score": 0.7,
-      "date_start": "1919",
-      "date_end": "1933",
-      "date_precision": "year"
-    },
-    {
       "id": "clm_003",
-      "wording_ru": "Ключ Баухауса — не единый внешний стиль, а система: подготовительный курс, мастерские, соединение искусства и ремесла, промышленное мышление, архитектура как итог синтеза и международное распространение идей через эмиграцию преподавателей и студентов.",
-      "claim_type": "attribution",
-      "material": true,
-      "verification_state": "attributed",
-      "confidence_score": 0.7
-    },
-    {
-      "id": "clm_004",
       "wording_ru": "Ключ Баухауса — не единый внешний стиль, а система: подготовительный курс, мастерские, соединение искусства и ремесла, промышленное мышление, архитектура как итог синтеза и международное распространение идей через эмиграцию преподавателей и студентов.",
       "claim_type": "attribution",
       "material": true,
@@ -174,22 +155,8 @@
       "support": "attribution recorded in the editorial DOCX"
     },
     {
-      "id": "cit_a783423d3d0a481b",
-      "claim_id": "clm_002",
-      "source_id": "src_be05f4a538fc8409",
-      "locator": "section",
-      "support": "attribution recorded in the editorial DOCX"
-    },
-    {
       "id": "cit_c811f0737d454645",
       "claim_id": "clm_003",
-      "source_id": "src_be05f4a538fc8409",
-      "locator": "section",
-      "support": "attribution recorded in the editorial DOCX"
-    },
-    {
-      "id": "cit_252dc64e7c5d4783",
-      "claim_id": "clm_004",
       "source_id": "src_be05f4a538fc8409",
       "locator": "section",
       "support": "attribution recorded in the editorial DOCX"

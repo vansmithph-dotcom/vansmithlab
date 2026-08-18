@@ -37,14 +37,6 @@
       "confidence_score": 0.7
     },
     {
-      "id": "clm_004",
-      "wording_ru": "Andy Warhol, Roy Lichtenstein, Richard Hamilton, Claes Oldenburg, James Rosenquist, Tom Wesselmann и другие художники показали, что массовое изображение может быть не только низкой культурой, но и точным инструментом анализа современности.",
-      "claim_type": "attribution",
-      "material": true,
-      "verification_state": "attributed",
-      "confidence_score": 0.7
-    },
-    {
       "id": "clm_005",
       "wording_ru": "Американский поп оказался прямее и жёстче. Он не столько мечтал о mass culture, сколько жил внутри неё: супермаркет, телевидение, комикс, таблоид и Hollywood были не чужим импортом, а ежедневной визуальной средой.",
       "claim_type": "attribution",
@@ -397,13 +389,6 @@
       "id": "cit_463d37aea3dd4683",
       "claim_id": "clm_003",
       "source_id": "src_3145edacce322455",
-      "locator": "section",
-      "support": "attribution recorded in the editorial DOCX"
-    },
-    {
-      "id": "cit_5e231e0ff18f4190",
-      "claim_id": "clm_004",
-      "source_id": "src_bb87071770580410",
       "locator": "section",
       "support": "attribution recorded in the editorial DOCX"
     },

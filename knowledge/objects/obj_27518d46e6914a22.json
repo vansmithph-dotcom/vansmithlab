@@ -21,14 +21,6 @@
       "confidence_score": 0.7
     },
     {
-      "id": "clm_002",
-      "wording_ru": "Нержавеющая сталь — семейство железных сплавов, содержащих не менее 10,5% хрома. Хром формирует тонкую пассивную плёнку, которая восстанавливается при наличии кислорода и значительно замедляет коррозию. Никель, молибден, азот и другие элементы меняют пластичность, свариваемость, прочность и стойкость в конкретной среде.",
-      "claim_type": "attribution",
-      "material": true,
-      "verification_state": "attributed",
-      "confidence_score": 0.7
-    },
-    {
       "id": "clm_003",
       "wording_ru": "Поверхность рождается ещё на прокатном стане. Давление валков определяет плоскостность, толщину и исходную текстуру листа. Последующие травление, отжиг и дрессировка не просто очищают металл, а готовят основу для будущего отражения.",
       "claim_type": "attribution",
@@ -47,14 +39,6 @@
     {
       "id": "clm_005",
       "wording_ru": "Никель помогает стабилизировать аустенитную структуру и улучшает пластичность, формуемость и свариваемость. Молибден повышает сопротивление локальной коррозии в присутствии хлоридов, а азот может одновременно увеличивать прочность и коррозионную стойкость.",
-      "claim_type": "attribution",
-      "material": true,
-      "verification_state": "attributed",
-      "confidence_score": 0.7
-    },
-    {
-      "id": "clm_006",
-      "wording_ru": "Нержавеющая сталь — семейство железных сплавов, содержащих не менее 10,5% хрома. Хром формирует тонкую пассивную плёнку, которая восстанавливается при наличии кислорода и значительно замедляет коррозию. Никель, молибден, азот и другие элементы меняют пластичность, свариваемость, прочность и стойкость в конкретной среде.",
       "claim_type": "attribution",
       "material": true,
       "verification_state": "attributed",
@@ -85,14 +69,6 @@
       "confidence_score": 0.7
     },
     {
-      "id": "clm_010",
-      "wording_ru": "Gateway Arch Ээро Сааринена поднимается на 630 футов и имеет такой же пролёт между опорами. Наружная оболочка облицована нержавеющей сталью; выше отметки 300 футов внешняя нержавеющая и внутренняя углеродистая оболочки участвуют в передаче нагрузки.",
-      "claim_type": "attribution",
-      "material": true,
-      "verification_state": "attributed",
-      "confidence_score": 0.7
-    },
-    {
       "id": "clm_011",
       "wording_ru": "Walt Disney Concert Hall Фрэнка Гери узнаётся по криволинейным «парусам» из нержавеющей стали. Поверхность разбивает солнце на длинные подвижные градиенты, благодаря чему большой объём кажется постоянно меняющимся.",
       "claim_type": "attribution",
@@ -110,14 +86,6 @@
     },
     {
       "id": "clm_013",
-      "wording_ru": "Нержавеющая сталь долговечна и сохраняет высокую стоимость лома. worldstainless сообщает, что около 95% изделий собирается и перерабатывается в конце срока службы без потери основных качеств материала.",
-      "claim_type": "attribution",
-      "material": true,
-      "verification_state": "attributed",
-      "confidence_score": 0.7
-    },
-    {
-      "id": "clm_014",
       "wording_ru": "Нержавеющая сталь долговечна и сохраняет высокую стоимость лома. worldstainless сообщает, что около 95% изделий собирается и перерабатывается в конце срока службы без потери основных качеств материала.",
       "claim_type": "attribution",
       "material": true,
@@ -280,13 +248,6 @@
       "support": "attribution recorded in the editorial DOCX"
     },
     {
-      "id": "cit_32dc9cdd3a4146d3",
-      "claim_id": "clm_002",
-      "source_id": "src_0b6f9de78c1aa1fc",
-      "locator": "section",
-      "support": "attribution recorded in the editorial DOCX"
-    },
-    {
       "id": "cit_8a77cfb3e5c541f8",
       "claim_id": "clm_003",
       "source_id": "src_0b6f9de78c1aa1fc",
@@ -303,13 +264,6 @@
     {
       "id": "cit_914bc9f82f274b82",
       "claim_id": "clm_005",
-      "source_id": "src_0b6f9de78c1aa1fc",
-      "locator": "section",
-      "support": "attribution recorded in the editorial DOCX"
-    },
-    {
-      "id": "cit_899583bad8c24880",
-      "claim_id": "clm_006",
       "source_id": "src_0b6f9de78c1aa1fc",
       "locator": "section",
       "support": "attribution recorded in the editorial DOCX"
@@ -336,13 +290,6 @@
       "support": "attribution recorded in the editorial DOCX"
     },
     {
-      "id": "cit_c645f70b8b154d2c",
-      "claim_id": "clm_010",
-      "source_id": "src_0b6f9de78c1aa1fc",
-      "locator": "section",
-      "support": "attribution recorded in the editorial DOCX"
-    },
-    {
       "id": "cit_36c6fee1f1e64466",
       "claim_id": "clm_011",
       "source_id": "src_0b6f9de78c1aa1fc",
@@ -359,13 +306,6 @@
     {
       "id": "cit_fbc4a697e519459e",
       "claim_id": "clm_013",
-      "source_id": "src_5029bf8651f1d95f",
-      "locator": "section",
-      "support": "attribution recorded in the editorial DOCX"
-    },
-    {
-      "id": "cit_93c74ba9e52b4e8b",
-      "claim_id": "clm_014",
       "source_id": "src_5029bf8651f1d95f",
       "locator": "section",
       "support": "attribution recorded in the editorial DOCX"

@@ -214,29 +214,6 @@
       "date_precision": "year"
     },
     {
-      "id": "clm_vg_009b",
-      "wording_ru": "Vogue датирует первую фотографическую обложку июлем 1932 года: Edward Steichen снял купальницу с пляжным мячом. При этом корпоративная хронология Condé Nast отдельно указывает 1936 год как момент первого полноцветную фотографическую обложку. Эти формулировки не следует смешивать: фотография на обложке и полноцветная фотографическая печать — разные технологические этапы.",
-      "claim_type": "attribution",
-      "material": true,
-      "evidence": [
-        {
-          "source_url": "https://www.vogue.com/article/books-the-vogue-years-an-inside-look-at-former-editor-in-chief-diana-vreelands-memos",
-          "locator": "DOCX section sec-9",
-          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
-        },
-        {
-          "source_url": "https://www.vogue.com/article/grace-mirabella-obituary",
-          "locator": "DOCX section sec-9",
-          "support": "Section-level wording is retained at the scope stated in the Russian master and linked to the listed source."
-        }
-      ],
-      "verification_state": "multi_source_verified",
-      "confidence_score": 0.86,
-      "date_start": "1932",
-      "date_end": "1936",
-      "date_precision": "year"
-    },
-    {
       "id": "clm_vg_010",
       "wording_ru": "В 1920–30-е Vogue активно впускал в свои страницы современное искусство. V&A отмечает соседство моды с работами Salvador Dalí, Giorgio de Chirico, Man Ray и сюрреалистическими приёмами фотографии. Это расширило сам жанр модный образ: одежда могла быть не только товаром, но и поводом для оптической загадки, сна, абсурда или культурной цитаты.",
       "claim_type": "attribution",
@@ -907,13 +884,6 @@
     {
       "id": "cit_vogue_fashio_09",
       "claim_id": "clm_vg_009",
-      "source_id": "src_14d868df78741915",
-      "locator": "DOCX section sec-9",
-      "support": "Section citation mapped from the editorial claim marker and source list."
-    },
-    {
-      "id": "cit_vogue_fashio_10",
-      "claim_id": "clm_vg_009b",
       "source_id": "src_14d868df78741915",
       "locator": "DOCX section sec-9",
       "support": "Section citation mapped from the editorial claim marker and source list."

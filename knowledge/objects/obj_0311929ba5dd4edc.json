@@ -21,23 +21,7 @@
       "confidence_score": 0.7
     },
     {
-      "id": "clm_002",
-      "wording_ru": "Латунь — это семейство медно-цинковых сплавов. Изменяя долю цинка и добавляя олово, свинец, алюминий, никель или мышьяк, производитель получает материалы с разным цветом, пластичностью, обрабатываемостью и сопротивлением конкретной среде. Распространённые составы содержат примерно от 5 до 45 процентов цинка.",
-      "claim_type": "attribution",
-      "material": true,
-      "verification_state": "attributed",
-      "confidence_score": 0.7
-    },
-    {
       "id": "clm_003",
-      "wording_ru": "Высокомедные сплавы вроде gilding metal дают красноватый «старое золото» и хорошо формуются. C26000, известная как cartridge brass, содержит около 70 процентов меди и ценится за холодную обработку. Морская латунь C46400 включает олово и рассчитана на более сложные коррозионные условия.",
-      "claim_type": "attribution",
-      "material": true,
-      "verification_state": "attributed",
-      "confidence_score": 0.7
-    },
-    {
-      "id": "clm_004",
       "wording_ru": "Высокомедные сплавы вроде gilding metal дают красноватый «старое золото» и хорошо формуются. C26000, известная как cartridge brass, содержит около 70 процентов меди и ценится за холодную обработку. Морская латунь C46400 включает олово и рассчитана на более сложные коррозионные условия.",
       "claim_type": "attribution",
       "material": true,
@@ -77,14 +61,6 @@
       "confidence_score": 0.7
     },
     {
-      "id": "clm_009",
-      "wording_ru": "Без защитного покрытия латунь постепенно темнеет. Влага, кислород, соли, загрязнение воздуха и прикосновения создают неравномерную карту: края, ручки и зоны частого контакта стареют иначе, чем спокойные плоскости.",
-      "claim_type": "attribution",
-      "material": true,
-      "verification_state": "attributed",
-      "confidence_score": 0.7
-    },
-    {
       "id": "clm_010",
       "wording_ru": "Christopher Dresser использовал промышленное производство как самостоятельный язык предмета, а не как дешёвую копию ремесла. В начале XX века Wiener Werkstätte соединяла геометрию, листовой металл и высокое качество исполнения; Cooper Hewitt хранит коробку Коломана Мозера из посеребрённой латуни.",
       "claim_type": "attribution",
@@ -101,14 +77,6 @@
       "confidence_score": 0.7
     },
     {
-      "id": "clm_012",
-      "wording_ru": "Christopher Dresser использовал промышленное производство как самостоятельный язык предмета, а не как дешёвую копию ремесла. В начале XX века Wiener Werkstätte соединяла геометрию, листовой металл и высокое качество исполнения; Cooper Hewitt хранит коробку Коломана Мозера из посеребрённой латуни.",
-      "claim_type": "attribution",
-      "material": true,
-      "verification_state": "attributed",
-      "confidence_score": 0.7
-    },
-    {
       "id": "clm_013",
       "wording_ru": "Коллекция Beat переводит традиционные техники ручной обработки металла в современную систему светильников. Том Диксон описывает изделия как вручную формованные и чеканные, с тёплой золотой внутренней поверхностью.",
       "claim_type": "attribution",
@@ -117,23 +85,7 @@
       "confidence_score": 0.7
     },
     {
-      "id": "clm_014",
-      "wording_ru": "Коллекция Beat переводит традиционные техники ручной обработки металла в современную систему светильников. Том Диксон описывает изделия как вручную формованные и чеканные, с тёплой золотой внутренней поверхностью.",
-      "claim_type": "attribution",
-      "material": true,
-      "verification_state": "attributed",
-      "confidence_score": 0.7
-    },
-    {
       "id": "clm_015",
-      "wording_ru": "Латунь хорошо перерабатывается, а лом сохраняет экономическую ценность. Copper Development Association подчёркивает замкнутый цикл материала; для части американской отрасли латунного прутка подтверждён высокий уровень переработанного содержания.",
-      "claim_type": "attribution",
-      "material": true,
-      "verification_state": "attributed",
-      "confidence_score": 0.7
-    },
-    {
-      "id": "clm_016",
       "wording_ru": "Латунь хорошо перерабатывается, а лом сохраняет экономическую ценность. Copper Development Association подчёркивает замкнутый цикл материала; для части американской отрасли латунного прутка подтверждён высокий уровень переработанного содержания.",
       "claim_type": "attribution",
       "material": true,
@@ -280,22 +232,8 @@
       "support": "attribution recorded in the editorial DOCX"
     },
     {
-      "id": "cit_e256f37a39684d3a",
-      "claim_id": "clm_002",
-      "source_id": "src_5602089093547d55",
-      "locator": "section",
-      "support": "attribution recorded in the editorial DOCX"
-    },
-    {
       "id": "cit_2c26bfaf7a5e4634",
       "claim_id": "clm_003",
-      "source_id": "src_5602089093547d55",
-      "locator": "section",
-      "support": "attribution recorded in the editorial DOCX"
-    },
-    {
-      "id": "cit_2b766735cbe94122",
-      "claim_id": "clm_004",
       "source_id": "src_5602089093547d55",
       "locator": "section",
       "support": "attribution recorded in the editorial DOCX"
@@ -329,13 +267,6 @@
       "support": "attribution recorded in the editorial DOCX"
     },
     {
-      "id": "cit_e1fabb08707e428a",
-      "claim_id": "clm_009",
-      "source_id": "src_5602089093547d55",
-      "locator": "section",
-      "support": "attribution recorded in the editorial DOCX"
-    },
-    {
       "id": "cit_986180b9ebeb46ad",
       "claim_id": "clm_010",
       "source_id": "src_5602089093547d55",
@@ -350,13 +281,6 @@
       "support": "attribution recorded in the editorial DOCX"
     },
     {
-      "id": "cit_36537b1be35b43a6",
-      "claim_id": "clm_012",
-      "source_id": "src_5602089093547d55",
-      "locator": "section",
-      "support": "attribution recorded in the editorial DOCX"
-    },
-    {
       "id": "cit_dd20b9bf45bb4a0f",
       "claim_id": "clm_013",
       "source_id": "src_5602089093547d55",
@@ -364,22 +288,8 @@
       "support": "attribution recorded in the editorial DOCX"
     },
     {
-      "id": "cit_558058e573ad4ca2",
-      "claim_id": "clm_014",
-      "source_id": "src_5602089093547d55",
-      "locator": "section",
-      "support": "attribution recorded in the editorial DOCX"
-    },
-    {
       "id": "cit_077c96b9a84d470e",
       "claim_id": "clm_015",
-      "source_id": "src_13e8949ebfddf7b7",
-      "locator": "section",
-      "support": "attribution recorded in the editorial DOCX"
-    },
-    {
-      "id": "cit_c69388b0137e4452",
-      "claim_id": "clm_016",
       "source_id": "src_13e8949ebfddf7b7",
       "locator": "section",
       "support": "attribution recorded in the editorial DOCX"

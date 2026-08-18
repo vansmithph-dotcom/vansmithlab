@@ -119,46 +119,6 @@
       "confidence_score": 0.86
     },
     {
-      "id": "clm_ui_material",
-      "wording_ru": "Material Design, Fluent и Human Interface Guidelines показывают следующий этап: интерфейс становится слишком большим, чтобы проектировать каждый экран как отдельную картинку. Платформе нужны повторяемые компоненты, состояния, правила движения, иерархии и паттерны, которые работают в тысячах ситуаций и у множества команд. В этом смысле дизайн-система ближе к грамматике, чем к библиотеке готовых кнопок. Она определяет не только внешний вид элемента, но и условия его поведения: когда он активен, как сообщает ошибку, как реагирует на фокус, как изменяется при масштабировании текста и как сохраняет смысл в другой среде. Чем крупнее система, тем меньше дизайнер может полагаться на интуицию одного красивого экрана. Ему приходится проектировать правила, которые переживут его собственный макет.",
-      "claim_type": "attribution",
-      "material": true,
-      "evidence": [
-        {
-          "source_url": "https://developers.googleblog.com/this-is-material-design/",
-          "locator": "DOCX section sec-7",
-          "support": "Google's launch and retrospective sources establish Material Design as a shared system for digital interface design."
-        },
-        {
-          "source_url": "https://design.google/library/material-design-launch-2014",
-          "locator": "DOCX section sec-7",
-          "support": "Google's launch and retrospective sources establish Material Design as a shared system for digital interface design."
-        }
-      ],
-      "verification_state": "multi_source_verified",
-      "confidence_score": 0.86
-    },
-    {
-      "id": "clm_ui_fluent",
-      "wording_ru": "Material Design, Fluent и Human Interface Guidelines показывают следующий этап: интерфейс становится слишком большим, чтобы проектировать каждый экран как отдельную картинку. Платформе нужны повторяемые компоненты, состояния, правила движения, иерархии и паттерны, которые работают в тысячах ситуаций и у множества команд. В этом смысле дизайн-система ближе к грамматике, чем к библиотеке готовых кнопок. Она определяет не только внешний вид элемента, но и условия его поведения: когда он активен, как сообщает ошибку, как реагирует на фокус, как изменяется при масштабировании текста и как сохраняет смысл в другой среде. Чем крупнее система, тем меньше дизайнер может полагаться на интуицию одного красивого экрана. Ему приходится проектировать правила, которые переживут его собственный макет.",
-      "claim_type": "attribution",
-      "material": true,
-      "evidence": [
-        {
-          "source_url": "https://learn.microsoft.com/en-us/shows/on-dotnet/exploring-the-fluent-design-system",
-          "locator": "DOCX section sec-7",
-          "support": "Microsoft Learn and Microsoft Design document Fluent as a design-system framework."
-        },
-        {
-          "source_url": "https://fluent2.microsoft.design/",
-          "locator": "DOCX section sec-7",
-          "support": "Microsoft Learn and Microsoft Design document Fluent as a design-system framework."
-        }
-      ],
-      "verification_state": "multi_source_verified",
-      "confidence_score": 0.86
-    },
-    {
       "id": "clm_ui_wcag",
       "wording_ru": "WCAG 2.2 формализует то, что визуальная культура долго могла считать второстепенным: контраст, клавиатурный фокус, структура, понятные ошибки, подписи и возможность взаимодействовать разными способами относятся к качеству цифрового содержания, а не к дополнительной опции. Это меняет сам критерий хорошего дизайна. Если элемент красив, но его нельзя различить, достичь клавиатурой, понять по тексту или восстановить после ошибки, он не завершён как интерфейс. Интерпретация Интерфейс делает власть дизайна особенно видимой: он может открыть действие или спрятать его, объяснить ошибку или обвинить пользователя, дать настоящий выбор или визуально подтолкнуть к выгодному системе решению. Поэтому доступность и отказ от манипулятивных паттернов — не внешняя мораль над дизайном, а проверка того, насколько честно устроен сам визуальный договор.",
       "claim_type": "attribution",
@@ -188,36 +148,6 @@
           "source_url": "https://arxiv.org/abs/2401.10948",
           "locator": "DOCX section sec-9",
           "support": "The cited gaze-and-pinch research examines selection, precision and feedback issues in the combined interaction technique."
-        }
-      ],
-      "verification_state": "verified",
-      "confidence_score": 0.86
-    },
-    {
-      "id": "clm_ui_visionos",
-      "wording_ru": "В visionOS интерфейс уже не ограничен плоским прямоугольником: значение получают глубина, расстояние, взгляд, жест и размещение элементов в пространстве. Исследования gaze-and-pinch отдельно показывают, что сочетание взгляда и жеста создаёт новые вопросы выбора, точности и обратной связи. Интерфейсы искусственного интеллекта сдвигают центр ещё раз. Пользователь может не искать команду в меню, а описывать намерение естественным языком. Но свободный ввод не отменяет интерфейс — он делает его ответственность выше. Система должна показать, что поняла запрос, какие данные использует, где не уверена, что можно изменить и как проверить результат. В обоих случаях исчезновение привычной кнопки не означает исчезновения дизайна. Наоборот: когда управление становится менее видимым, особенно важны подсказка, состояние, обратная связь и возможность вернуть контроль.",
-      "claim_type": "attribution",
-      "material": true,
-      "evidence": [
-        {
-          "source_url": "https://developer.apple.com/design/human-interface-guidelines/designing-for-visionos",
-          "locator": "DOCX section sec-9",
-          "support": "Apple's visionOS Human Interface Guidelines document spatial placement, gaze and gesture as meaningful interaction dimensions."
-        }
-      ],
-      "verification_state": "verified",
-      "confidence_score": 0.86
-    },
-    {
-      "id": "clm_ui_hai",
-      "wording_ru": "В visionOS интерфейс уже не ограничен плоским прямоугольником: значение получают глубина, расстояние, взгляд, жест и размещение элементов в пространстве. Исследования gaze-and-pinch отдельно показывают, что сочетание взгляда и жеста создаёт новые вопросы выбора, точности и обратной связи. Интерфейсы искусственного интеллекта сдвигают центр ещё раз. Пользователь может не искать команду в меню, а описывать намерение естественным языком. Но свободный ввод не отменяет интерфейс — он делает его ответственность выше. Система должна показать, что поняла запрос, какие данные использует, где не уверена, что можно изменить и как проверить результат. В обоих случаях исчезновение привычной кнопки не означает исчезновения дизайна. Наоборот: когда управление становится менее видимым, особенно важны подсказка, состояние, обратная связь и возможность вернуть контроль.",
-      "claim_type": "attribution",
-      "material": true,
-      "evidence": [
-        {
-          "source_url": "https://arxiv.org/abs/2010.11761",
-          "locator": "DOCX section sec-9",
-          "support": "The cited comparative analysis records published industry Human-AI interaction guidance; the responsibility framing is VANSMITHLAB editorial synthesis."
         }
       ],
       "verification_state": "verified",
@@ -471,34 +401,6 @@
       "support": "Apple Human Interface Guidelines establish the platform guidance context for scalable interface behaviour."
     },
     {
-      "id": "cit_screen_06_01",
-      "claim_id": "clm_ui_material",
-      "source_id": "src_c694111596d8fd01",
-      "locator": "DOCX section sec-7",
-      "support": "Google's launch and retrospective sources establish Material Design as a shared system for digital interface design."
-    },
-    {
-      "id": "cit_screen_06_02",
-      "claim_id": "clm_ui_material",
-      "source_id": "src_3c9fda86ad8fa48c",
-      "locator": "DOCX section sec-7",
-      "support": "Google's launch and retrospective sources establish Material Design as a shared system for digital interface design."
-    },
-    {
-      "id": "cit_screen_07_01",
-      "claim_id": "clm_ui_fluent",
-      "source_id": "src_8507bd7a3a2a99c2",
-      "locator": "DOCX section sec-7",
-      "support": "Microsoft Learn and Microsoft Design document Fluent as a design-system framework."
-    },
-    {
-      "id": "cit_screen_07_02",
-      "claim_id": "clm_ui_fluent",
-      "source_id": "src_1b6c8163d3f159fb",
-      "locator": "DOCX section sec-7",
-      "support": "Microsoft Learn and Microsoft Design document Fluent as a design-system framework."
-    },
-    {
       "id": "cit_screen_08_01",
       "claim_id": "clm_ui_wcag",
       "source_id": "src_f59fb28cacd18647",
@@ -518,20 +420,6 @@
       "source_id": "src_73df0070143a9b12",
       "locator": "DOCX section sec-9",
       "support": "The cited gaze-and-pinch research examines selection, precision and feedback issues in the combined interaction technique."
-    },
-    {
-      "id": "cit_screen_10_01",
-      "claim_id": "clm_ui_visionos",
-      "source_id": "src_8407e7e5f53f1bab",
-      "locator": "DOCX section sec-9",
-      "support": "Apple's visionOS Human Interface Guidelines document spatial placement, gaze and gesture as meaningful interaction dimensions."
-    },
-    {
-      "id": "cit_screen_11_01",
-      "claim_id": "clm_ui_hai",
-      "source_id": "src_3a7f70d7eb4fd41d",
-      "locator": "DOCX section sec-9",
-      "support": "The cited comparative analysis records published industry Human-AI interaction guidance; the responsibility framing is VANSMITHLAB editorial synthesis."
     },
     {
       "id": "cit_screen_12_01",

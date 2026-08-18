@@ -21,26 +21,7 @@
       "confidence_score": 0.7
     },
     {
-      "id": "clm_002",
-      "wording_ru": "Фотограмма — это фотографическое изображение, созданное без камеры, обычно путём размещения предметов на светочувствительной поверхности и последующего воздействия света. Участки, закрытые непрозрачным объектом, получают меньше экспозиции и остаются светлее; прозрачные и полупрозрачные материалы создают промежуточные тона.",
-      "claim_type": "attribution",
-      "material": true,
-      "verification_state": "attributed",
-      "confidence_score": 0.7
-    },
-    {
       "id": "clm_003",
-      "wording_ru": "В 1830–1840-е годы Уильям Генри Фокс Талбот называл подобные изображения «фотогенными рисунками». Его ранние работы с кружевом, листьями и водорослями показывали, что фотография может возникать из прямого контакта предмета с подготовленной бумагой.",
-      "claim_type": "attribution",
-      "material": true,
-      "verification_state": "attributed",
-      "confidence_score": 0.7,
-      "date_start": "1830",
-      "date_end": "1840",
-      "date_precision": "year"
-    },
-    {
-      "id": "clm_004",
       "wording_ru": "В 1830–1840-е годы Уильям Генри Фокс Талбот называл подобные изображения «фотогенными рисунками». Его ранние работы с кружевом, листьями и водорослями показывали, что фотография может возникать из прямого контакта предмета с подготовленной бумагой.",
       "claim_type": "attribution",
       "material": true,
@@ -282,22 +263,8 @@
       "support": "attribution recorded in the editorial DOCX"
     },
     {
-      "id": "cit_a3f4a09a9bfd4803",
-      "claim_id": "clm_002",
-      "source_id": "src_6f4677cc90496fea",
-      "locator": "section",
-      "support": "attribution recorded in the editorial DOCX"
-    },
-    {
       "id": "cit_54f3a68850524ec1",
       "claim_id": "clm_003",
-      "source_id": "src_6f4677cc90496fea",
-      "locator": "section",
-      "support": "attribution recorded in the editorial DOCX"
-    },
-    {
-      "id": "cit_d79df4767b5e406e",
-      "claim_id": "clm_004",
       "source_id": "src_6f4677cc90496fea",
       "locator": "section",
       "support": "attribution recorded in the editorial DOCX"

@@ -21,14 +21,6 @@
       "confidence_score": 0.7
     },
     {
-      "id": "clm_002",
-      "wording_ru": "Мрамор часто сводят к белизне, прожилкам и символу дорогого интерьера. Но его настоящий характер сложнее. Это известняк или доломит, который под давлением, температурой и действием флюидов потерял прежнюю структуру и собрался заново в кристаллическую массу. Поэтому мрамор способен одновременно выглядеть монолитным и почти светящимся изнутри.",
-      "claim_type": "attribution",
-      "material": true,
-      "verification_state": "attributed",
-      "confidence_score": 0.7
-    },
-    {
       "id": "clm_003",
       "wording_ru": "Однако рынок использует слово marble шире и включает в него некоторые известняки, брекчии, серпентиниты и другие полируемые камни. Поэтому красивого торгового названия недостаточно. Для проекта нужны образцы, технические данные, сведения о ремонтах и смолах, а также понимание того, как конкретный камень реагирует на кислоту, воду, мороз, нагрузку и свет.",
       "claim_type": "attribution",
@@ -37,23 +29,7 @@
       "confidence_score": 0.7
     },
     {
-      "id": "clm_004",
-      "wording_ru": "Однако рынок использует слово marble шире и включает в него некоторые известняки, брекчии, серпентиниты и другие полируемые камни. Поэтому красивого торгового названия недостаточно. Для проекта нужны образцы, технические данные, сведения о ремонтах и смолах, а также понимание того, как конкретный камень реагирует на кислоту, воду, мороз, нагрузку и свет.",
-      "claim_type": "attribution",
-      "material": true,
-      "verification_state": "attributed",
-      "confidence_score": 0.7
-    },
-    {
       "id": "clm_005",
-      "wording_ru": "Каррарский бассейн в Апуанских Альпах разрабатывается в крупном масштабе со времён Рима. Здесь карьер — не отдельная промышленная площадка, а целая культурная система: дороги, мастерские, транспорт, скульптурные школы и городская идентичность выросли вокруг белого камня.",
-      "claim_type": "attribution",
-      "material": true,
-      "verification_state": "attributed",
-      "confidence_score": 0.7
-    },
-    {
-      "id": "clm_006",
       "wording_ru": "Каррарский бассейн в Апуанских Альпах разрабатывается в крупном масштабе со времён Рима. Здесь карьер — не отдельная промышленная площадка, а целая культурная система: дороги, мастерские, транспорт, скульптурные школы и городская идентичность выросли вокруг белого камня.",
       "claim_type": "attribution",
       "material": true,
@@ -101,23 +77,7 @@
       "confidence_score": 0.7
     },
     {
-      "id": "clm_012",
-      "wording_ru": "Лимон, уксус, вино и многие бытовые продукты реагируют с кальцитом. Возникает etching — химически матовый участок, где изменилась сама поверхность. Это не всегда пятно и не исчезает от обычной чистки.",
-      "claim_type": "attribution",
-      "material": true,
-      "verification_state": "attributed",
-      "confidence_score": 0.7
-    },
-    {
       "id": "clm_013",
-      "wording_ru": "Наружная облицовка требует особой осторожности. Влага, мороз, соли и тепловое расширение воздействуют на кристаллическую структуру и крепёж. Getty рассматривает выветривание мрамора как комплексный процесс, а не как простую потерю блеска.",
-      "claim_type": "attribution",
-      "material": true,
-      "verification_state": "attributed",
-      "confidence_score": 0.7
-    },
-    {
-      "id": "clm_014",
       "wording_ru": "Наружная облицовка требует особой осторожности. Влага, мороз, соли и тепловое расширение воздействуют на кристаллическую структуру и крепёж. Getty рассматривает выветривание мрамора как комплексный процесс, а не как простую потерю блеска.",
       "claim_type": "attribution",
       "material": true,
@@ -264,13 +224,6 @@
       "support": "attribution recorded in the editorial DOCX"
     },
     {
-      "id": "cit_9ca4819bc79242cf",
-      "claim_id": "clm_002",
-      "source_id": "src_8ead6d90f4c18ab1",
-      "locator": "section",
-      "support": "attribution recorded in the editorial DOCX"
-    },
-    {
       "id": "cit_c4e8dac2c7d34a3a",
       "claim_id": "clm_003",
       "source_id": "src_8ead6d90f4c18ab1",
@@ -278,22 +231,8 @@
       "support": "attribution recorded in the editorial DOCX"
     },
     {
-      "id": "cit_b1ca4aeaef2a448c",
-      "claim_id": "clm_004",
-      "source_id": "src_8ead6d90f4c18ab1",
-      "locator": "section",
-      "support": "attribution recorded in the editorial DOCX"
-    },
-    {
       "id": "cit_fa8173da1e7f4210",
       "claim_id": "clm_005",
-      "source_id": "src_8ead6d90f4c18ab1",
-      "locator": "section",
-      "support": "attribution recorded in the editorial DOCX"
-    },
-    {
-      "id": "cit_30851722edb94a31",
-      "claim_id": "clm_006",
       "source_id": "src_8ead6d90f4c18ab1",
       "locator": "section",
       "support": "attribution recorded in the editorial DOCX"
@@ -334,22 +273,8 @@
       "support": "attribution recorded in the editorial DOCX"
     },
     {
-      "id": "cit_e0d8366013e04ae3",
-      "claim_id": "clm_012",
-      "source_id": "src_8ead6d90f4c18ab1",
-      "locator": "section",
-      "support": "attribution recorded in the editorial DOCX"
-    },
-    {
       "id": "cit_bffe63cfdf1b451f",
       "claim_id": "clm_013",
-      "source_id": "src_8ead6d90f4c18ab1",
-      "locator": "section",
-      "support": "attribution recorded in the editorial DOCX"
-    },
-    {
-      "id": "cit_c15b63214d164ad5",
-      "claim_id": "clm_014",
       "source_id": "src_8ead6d90f4c18ab1",
       "locator": "section",
       "support": "attribution recorded in the editorial DOCX"

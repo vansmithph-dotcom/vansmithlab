@@ -37,14 +37,6 @@
       "confidence_score": 0.7
     },
     {
-      "id": "clm_005",
-      "wording_ru": "Шифон очень лёгкий, прозрачный и подвижный. FIT фиксирует многочисленные couture-примеры silk chiffon, где движение и многослойность становятся частью силуэта.",
-      "claim_type": "attribution",
-      "material": true,
-      "verification_state": "attributed",
-      "confidence_score": 0.7
-    },
-    {
       "id": "clm_006",
       "wording_ru": "FIT показывает silk organza в исторической и современной дизайнерской одежде — от прозрачных overdress до сложных вечерних конструкций.",
       "claim_type": "attribution",
@@ -156,13 +148,6 @@
     {
       "id": "cit_1a2d6f9ba96446ed",
       "claim_id": "clm_004",
-      "source_id": "src_f57756a5c4614d0f",
-      "locator": "section",
-      "support": "attribution recorded in the editorial DOCX"
-    },
-    {
-      "id": "cit_83cc9deb336e48ef",
-      "claim_id": "clm_005",
       "source_id": "src_f57756a5c4614d0f",
       "locator": "section",
       "support": "attribution recorded in the editorial DOCX"

@@ -21,14 +21,6 @@
       "confidence_score": 0.7
     },
     {
-      "id": "clm_002",
-      "wording_ru": "В узком значении патина - природный или искусственно созданный поверхностный слой на металле, особенно на меди и её сплавах. В более широком дизайнерском языке этим словом называют изменения от времени, света, касания, окисления, полировки и эксплуатации на дереве, камне, коже и других материалах.",
-      "claim_type": "attribution",
-      "material": true,
-      "verification_state": "attributed",
-      "confidence_score": 0.7
-    },
-    {
       "id": "clm_003",
       "wording_ru": "Эта система не статична. Один участок получает дождь, другой остаётся под карнизом, третий постоянно касается руки. Поэтому большая бронзовая дверь или фасад редко стареют одним цветом: архитектура сама распределяет химические условия по поверхности.",
       "claim_type": "attribution",
@@ -38,14 +30,6 @@
     },
     {
       "id": "clm_004",
-      "wording_ru": "Патина может быть стабильной и эстетически ценной, но может скрывать активную коррозию. Поэтому её нельзя оценивать только по цвету: важны химия, структура, скорость изменения и замысел. Консервация стремится сохранить значимый слой и остановить разрушение, а не вернуть каждой поверхности вид новой.",
-      "claim_type": "attribution",
-      "material": true,
-      "verification_state": "attributed",
-      "confidence_score": 0.7
-    },
-    {
-      "id": "clm_005",
       "wording_ru": "Патина может быть стабильной и эстетически ценной, но может скрывать активную коррозию. Поэтому её нельзя оценивать только по цвету: важны химия, структура, скорость изменения и замысел. Консервация стремится сохранить значимый слой и остановить разрушение, а не вернуть каждой поверхности вид новой.",
       "claim_type": "attribution",
       "material": true,
@@ -243,13 +227,6 @@
       "support": "attribution recorded in the editorial DOCX"
     },
     {
-      "id": "cit_2a7fe30ae54f401c",
-      "claim_id": "clm_002",
-      "source_id": "src_4ba2ea9e51dde87c",
-      "locator": "section",
-      "support": "attribution recorded in the editorial DOCX"
-    },
-    {
       "id": "cit_a426ddd4789e4f5e",
       "claim_id": "clm_003",
       "source_id": "src_4ba2ea9e51dde87c",
@@ -259,13 +236,6 @@
     {
       "id": "cit_e9f3d922793043fd",
       "claim_id": "clm_004",
-      "source_id": "src_4ba2ea9e51dde87c",
-      "locator": "section",
-      "support": "attribution recorded in the editorial DOCX"
-    },
-    {
-      "id": "cit_3d3d7c3484b04b9d",
-      "claim_id": "clm_005",
       "source_id": "src_4ba2ea9e51dde87c",
       "locator": "section",
       "support": "attribution recorded in the editorial DOCX"
