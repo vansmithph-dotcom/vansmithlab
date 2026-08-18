@@ -1,0 +1,38 @@
+{
+  "content_id": "cnt_obj_ru_96fa07cd2cad2899",
+  "primary_object_id": "obj_obj_96fa07cd2cad2899",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_ulm-stool_def",
+    "clm_ulm-stool_origin",
+    "clm_ulm-stool_form",
+    "clm_ulm-stool_use",
+    "clm_ulm-stool_impact",
+    "clm_ulm-stool_today",
+    "clm_ulm-stool_tl_1954"
+  ],
+  "source_ids": [
+    "src_ulm-stool_01",
+    "src_ulm-stool_02",
+    "src_ulm-stool_03",
+    "src_ulm-stool_04",
+    "src_ulm-stool_05",
+    "src_ulm-stool_06"
+  ],
+  "last_reviewed": "2026-08-18",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "ulm-stool",
+  "title": "Ulm Stool",
+  "summary": "Предмет как инструмент: мебель, обучение и системное мышление",
+  "discipline": [
+    "object-space"
+  ],
+  "kind": "theme",
+  "body_hash": "128eeb7fbebaba1f1800c9026d566996460c2baf7a08abefdd80e78f9e2b7a0a"
+}

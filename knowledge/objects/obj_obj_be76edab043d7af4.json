@@ -1,0 +1,143 @@
+{
+  "id": "obj_obj_be76edab043d7af4",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "content_type": "encyclopedia",
+  "canonical_name": "Carlton",
+  "canonical_name_en": "Carlton",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_carlton-bookcase_01",
+      "title": "memphis.it",
+      "url": "https://memphis.it/en/products/carlton/",
+      "tier": 1
+    },
+    {
+      "id": "src_carlton-bookcase_02",
+      "title": "memphis.it",
+      "url": "https://memphis.it/en/",
+      "tier": 1
+    },
+    {
+      "id": "src_carlton-bookcase_03",
+      "title": "www.metmuseum.org",
+      "url": "https://www.metmuseum.org/art/collection/search/486989",
+      "tier": 1
+    },
+    {
+      "id": "src_carlton-bookcase_04",
+      "title": "www.moma.org",
+      "url": "https://www.moma.org/collection/works/292736",
+      "tier": 1
+    },
+    {
+      "id": "src_carlton-bookcase_05",
+      "title": "designmuseum.org",
+      "url": "https://designmuseum.org/designers/ettore-sottsass",
+      "tier": 1
+    },
+    {
+      "id": "src_carlton-bookcase_06",
+      "title": "www.metmuseum.org",
+      "url": "https://www.metmuseum.org/exhibitions/listings/2017/ettore-sottsass",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_carlton-bookcase_def",
+      "wording_ru": "Carlton — книжный шкаф и разделитель пространства, спроектированный Этторе Соттсассом в 1981 году для Memphis. Ламинированные плоскости, ступенчатые диагонали и яркая графика делают его одновременно мебелью, знаком и почти плоской архитектурой.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_carlton-bookcase_origin",
+      "wording_ru": "Предмет появился в первой коллекции Memphis, когда группа сознательно выступила против идеи хорошего вкуса как нейтрального и рационального языка. Соттсасс использовал бытовой предмет как площадку для конфликта цвета, геометрии и культурных цитат.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_carlton-bookcase_form",
+      "wording_ru": "Основа Carlton — древесные плиты, покрытые декоративным ламинатом. Полки, наклонные опоры и ступенчатый верх образуют симметричную, но визуально нестабильную композицию; материал намеренно воспринимается как поверхность и изображение.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_carlton-bookcase_use",
+      "wording_ru": "Основа Carlton — древесные плиты, покрытые декоративным ламинатом. Полки, наклонные опоры и ступенчатый верх образуют симметричную, но визуально нестабильную композицию; материал намеренно воспринимается как поверхность и изображение. Пользование нельзя отделить от устройства: то, как человек садитс",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_carlton-bookcase_impact",
+      "wording_ru": "Carlton атакует представление, что функциональная мебель должна выглядеть тихо. Он выполняет хранение и разделение пространства, но одновременно требует внимания как персонаж — почти тотем, фасад или пиктограмма. Главный вклад предмета — изменение постановки задачи: после него дизайнеры получили нов",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_carlton-bookcase_today",
+      "wording_ru": "Сегодня Carlton стоит читать в трёх масштабах: как вещь для тела, как производственную систему и как изображение, нагруженное историей. Функциональность намеренно подчинена образу: диагональные полки ограничивают часть хранения, а масштаб и рисунок затрудняют нейтральное включение в интерьер. Эта из",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_carlton-bookcase_tl_1981",
+      "wording_ru": "Memphis представляет первую коллекцию в Милане (1981)",
+      "confidence_score": 0.72,
+      "verification_state": "attributed",
+      "date_start": "1981-01-01"
+    },
+    {
+      "id": "clm_carlton-bookcase_tl_1981",
+      "wording_ru": "Ettore Sottsass проектирует Carlton (1981)",
+      "confidence_score": 0.72,
+      "verification_state": "attributed",
+      "date_start": "1981-01-01"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_carlton-bookcase_def",
+      "source_id": "src_carlton-bookcase_01",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_carlton-bookcase_origin",
+      "source_id": "src_carlton-bookcase_02",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_carlton-bookcase_form",
+      "source_id": "src_carlton-bookcase_03",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_carlton-bookcase_use",
+      "source_id": "src_carlton-bookcase_04",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_carlton-bookcase_impact",
+      "source_id": "src_carlton-bookcase_05",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_carlton-bookcase_today",
+      "source_id": "src_carlton-bookcase_06",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_carlton-bookcase_tl_1981",
+      "source_id": "src_carlton-bookcase_01",
+      "locator": "Historical timeline reference"
+    },
+    {
+      "claim_id": "clm_carlton-bookcase_tl_1981",
+      "source_id": "src_carlton-bookcase_01",
+      "locator": "Historical timeline reference"
+    }
+  ],
+  "last_updated": "2026-08-18"
+}

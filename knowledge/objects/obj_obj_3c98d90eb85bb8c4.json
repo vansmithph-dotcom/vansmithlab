@@ -1,0 +1,143 @@
+{
+  "id": "obj_obj_3c98d90eb85bb8c4",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "content_type": "encyclopedia",
+  "canonical_name": "606 Universal Shelving System",
+  "canonical_name_en": "606 Universal Shelving System",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_606-universal-shelving-system_01",
+      "title": "www.vitsoe.com",
+      "url": "https://www.vitsoe.com/eu/606",
+      "tier": 1
+    },
+    {
+      "id": "src_606-universal-shelving-system_02",
+      "title": "www.vitsoe.com",
+      "url": "https://www.vitsoe.com/gb/606/structures",
+      "tier": 1
+    },
+    {
+      "id": "src_606-universal-shelving-system_03",
+      "title": "www.vitsoe.com",
+      "url": "https://www.vitsoe.com/gb/606/components",
+      "tier": 1
+    },
+    {
+      "id": "src_606-universal-shelving-system_04",
+      "title": "www.vitsoe.com",
+      "url": "https://www.vitsoe.com/us/about/history",
+      "tier": 1
+    },
+    {
+      "id": "src_606-universal-shelving-system_05",
+      "title": "www.vitsoe.com",
+      "url": "https://www.vitsoe.com/us/about/good-design",
+      "tier": 1
+    },
+    {
+      "id": "src_606-universal-shelving-system_06",
+      "title": "www.vitsoe.com",
+      "url": "https://www.vitsoe.com/rw/voice/rams-90",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_606-universal-shelving-system_def",
+      "wording_ru": "606 Universal Shelving System — модульная система хранения, спроектированная Дитером Рамсом в 1960 году для Vitsœ. Вместо законченного шкафа пользователь получает инфраструктуру: направляющие, полки, шкафчики, столы и крепёж, которые можно собирать, переставлять и расширять.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_606-universal-shelving-system_origin",
+      "wording_ru": "Система возникла в контексте послевоенного системного дизайна, где вещь рассматривалась как изменяемая структура, а не одноразовая композиция. Рамс и Vitsœ сделали длительность и адаптацию центральной частью продукта задолго до нынешней риторики циркулярности.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_606-universal-shelving-system_form",
+      "wording_ru": "Ядро системы — алюминиевые направляющие, к которым подвешиваются полки, шкафы и рабочие поверхности. Несущая инфраструктура остаётся визуально скромной, чтобы разные конфигурации выглядели как одна система.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_606-universal-shelving-system_use",
+      "wording_ru": "Ядро системы — алюминиевые направляющие, к которым подвешиваются полки, шкафы и рабочие поверхности. Несущая инфраструктура остаётся визуально скромной, чтобы разные конфигурации выглядели как одна система. Пользование нельзя отделить от устройства: то, как человек садится, двигает, переносит или пе",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_606-universal-shelving-system_impact",
+      "wording_ru": "606 переводит дизайн из формы в правила. Пользователь покупает не окончательную композицию, а грамматику, которая может отвечать на переезд, рост библиотеки, смену комнаты или функции. Главный вклад предмета — изменение постановки задачи: после него дизайнеры получили новый пример связи тела, матери",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_606-universal-shelving-system_today",
+      "wording_ru": "Сегодня 606 Universal Shelving System стоит читать в трёх масштабах: как вещь для тела, как производственную систему и как изображение, нагруженное историей. Системность требует дисциплины: инфраструктура, планирование и оригинальные компоненты создают зависимость от производителя. Высокая первонача",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_606-universal-shelving-system_tl_1960",
+      "wording_ru": "Dieter Rams проектирует 606 Universal Shelving System (1960)",
+      "confidence_score": 0.72,
+      "verification_state": "attributed",
+      "date_start": "1960-01-01"
+    },
+    {
+      "id": "clm_606-universal-shelving-system_tl_1960",
+      "wording_ru": "настоящее время — система остаётся в непрерывном производстве и развивается совместимыми компонентами (1960)",
+      "confidence_score": 0.72,
+      "verification_state": "attributed",
+      "date_start": "1960-01-01"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_606-universal-shelving-system_def",
+      "source_id": "src_606-universal-shelving-system_01",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_606-universal-shelving-system_origin",
+      "source_id": "src_606-universal-shelving-system_02",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_606-universal-shelving-system_form",
+      "source_id": "src_606-universal-shelving-system_03",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_606-universal-shelving-system_use",
+      "source_id": "src_606-universal-shelving-system_04",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_606-universal-shelving-system_impact",
+      "source_id": "src_606-universal-shelving-system_05",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_606-universal-shelving-system_today",
+      "source_id": "src_606-universal-shelving-system_06",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_606-universal-shelving-system_tl_1960",
+      "source_id": "src_606-universal-shelving-system_01",
+      "locator": "Historical timeline reference"
+    },
+    {
+      "claim_id": "clm_606-universal-shelving-system_tl_1960",
+      "source_id": "src_606-universal-shelving-system_01",
+      "locator": "Historical timeline reference"
+    }
+  ],
+  "last_updated": "2026-08-18"
+}

@@ -1,0 +1,143 @@
+{
+  "id": "obj_obj_508e50427d31a8a0",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "content_type": "encyclopedia",
+  "canonical_name": "UP5/UP6",
+  "canonical_name_en": "UP5/UP6",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_up5-up6_01",
+      "title": "www.bebitalia.com",
+      "url": "https://www.bebitalia.com/en-at/en-serie-up-2000-poltrone.html",
+      "tier": 1
+    },
+    {
+      "id": "src_up5-up6_02",
+      "title": "shop.bebitalia.com",
+      "url": "https://shop.bebitalia.com/en/us/be-inspired/serie-up-2000.html",
+      "tier": 1
+    },
+    {
+      "id": "src_up5-up6_03",
+      "title": "www.bebitalia.com",
+      "url": "https://www.bebitalia.com/en-us/en-up-50-poltrone.html",
+      "tier": 1
+    },
+    {
+      "id": "src_up5-up6_04",
+      "title": "www.bebitalia.com",
+      "url": "https://www.bebitalia.com/en-it/history",
+      "tier": 1
+    },
+    {
+      "id": "src_up5-up6_05",
+      "title": "www.moma.org",
+      "url": "https://www.moma.org/collection/works/2223",
+      "tier": 1
+    },
+    {
+      "id": "src_up5-up6_06",
+      "title": "www.moma.org",
+      "url": "https://www.moma.org/collection/artists/4570",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_up5-up6_def",
+      "wording_ru": "UP5/UP6 — кресло и связанный с ним сферический пуф из серии UP Гаэтано Пеше 1969 года. Антропоморфное кресло построено из формованного пенополиуретана и эластичной обивки, а шар на шнуре превращает комплект в фигуративный образ тела и ограничения.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_up5-up6_origin",
+      "wording_ru": "Проект возник на пересечении новой химии пеноматериалов, экспериментальной мебельной индустрии и радикальной культуры конца 1960-х. Первоначальная серия стала известна технологией компрессии: мягкий предмет можно было упаковывать в сильно уменьшенном объёме, после вскрытия он восстанавливал форму.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_up5-up6_form",
+      "wording_ru": "Форма UP5 практически монолитна: гибкий пенополиуретан создаёт объём сиденья, спинки и боков без видимого жёсткого каркаса. Отдельный сферический UP6 соединён шнуром и работает одновременно как пуф и смысловой элемент композиции.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_up5-up6_use",
+      "wording_ru": "Форма UP5 практически монолитна: гибкий пенополиуретан создаёт объём сиденья, спинки и боков без видимого жёсткого каркаса. Отдельный сферический UP6 соединён шнуром и работает одновременно как пуф и смысловой элемент композиции. Пользование нельзя отделить от устройства: то, как человек садится, дв",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_up5-up6_impact",
+      "wording_ru": "Пеше соединяет комфорт и политическую метафору. По объяснению дизайнера, женственная форма кресла и шар на цепи отсылают к положению женщины как к одновременно защищённому и ограниченному телу. Главный вклад предмета — изменение постановки задачи: после него дизайнеры получили новый пример связи тел",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_up5-up6_today",
+      "wording_ru": "Сегодня UP5/UP6 стоит читать в трёх масштабах: как вещь для тела, как производственную систему и как изображение, нагруженное историей. Политическая метафора остаётся спорной: она может восприниматься как феминистское высказывание, мужская проекция на женское тело или маркетинговая драматизация. Авт",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_up5-up6_tl_1969",
+      "wording_ru": "Gaetano Pesce проектирует Serie UP; появляется исходная система производства со сжатой пеной (1969)",
+      "confidence_score": 0.72,
+      "verification_state": "attributed",
+      "date_start": "1969-01-01"
+    },
+    {
+      "id": "clm_up5-up6_tl_2000",
+      "wording_ru": "B&B Italia переиздаёт Serie UP с изменённым производственным процессом (2000)",
+      "confidence_score": 0.72,
+      "verification_state": "attributed",
+      "date_start": "2000-01-01"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_up5-up6_def",
+      "source_id": "src_up5-up6_01",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_up5-up6_origin",
+      "source_id": "src_up5-up6_02",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_up5-up6_form",
+      "source_id": "src_up5-up6_03",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_up5-up6_use",
+      "source_id": "src_up5-up6_04",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_up5-up6_impact",
+      "source_id": "src_up5-up6_05",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_up5-up6_today",
+      "source_id": "src_up5-up6_06",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_up5-up6_tl_1969",
+      "source_id": "src_up5-up6_01",
+      "locator": "Historical timeline reference"
+    },
+    {
+      "claim_id": "clm_up5-up6_tl_2000",
+      "source_id": "src_up5-up6_01",
+      "locator": "Historical timeline reference"
+    }
+  ],
+  "last_updated": "2026-08-18"
+}

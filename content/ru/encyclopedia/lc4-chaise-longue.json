@@ -1,0 +1,39 @@
+{
+  "content_id": "cnt_obj_ru_eedf5dad2724b9d4",
+  "primary_object_id": "obj_obj_eedf5dad2724b9d4",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_lc4-chaise-longue_def",
+    "clm_lc4-chaise-longue_origin",
+    "clm_lc4-chaise-longue_form",
+    "clm_lc4-chaise-longue_use",
+    "clm_lc4-chaise-longue_impact",
+    "clm_lc4-chaise-longue_today",
+    "clm_lc4-chaise-longue_tl_1928",
+    "clm_lc4-chaise-longue_tl_1965"
+  ],
+  "source_ids": [
+    "src_lc4-chaise-longue_01",
+    "src_lc4-chaise-longue_02",
+    "src_lc4-chaise-longue_03",
+    "src_lc4-chaise-longue_04",
+    "src_lc4-chaise-longue_05",
+    "src_lc4-chaise-longue_06"
+  ],
+  "last_reviewed": "2026-08-18",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "lc4-chaise-longue",
+  "title": "LC4",
+  "summary": "Тело как механизм отдыха: регулируемая поза, трубчатая сталь и новая эргономика",
+  "discipline": [
+    "object-space"
+  ],
+  "kind": "theme",
+  "body_hash": "ada9b6ced5f03c2f5ebdda4470d7f1f2097ba5b457f3ec80af5a4780988c172b"
+}

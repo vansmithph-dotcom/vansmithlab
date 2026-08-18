@@ -1,0 +1,131 @@
+{
+  "id": "obj_obj_96fa07cd2cad2899",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "content_type": "encyclopedia",
+  "canonical_name": "Ulm Stool",
+  "canonical_name_en": "Ulm Stool",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_ulm-stool_01",
+      "title": "hfg-archiv.museumulm.de",
+      "url": "https://hfg-archiv.museumulm.de/en/exhibition/ulm-stool/",
+      "tier": 1
+    },
+    {
+      "id": "src_ulm-stool_02",
+      "title": "hfg-archiv.museumulm.de",
+      "url": "https://hfg-archiv.museumulm.de/en/the-hfg-archive/building/",
+      "tier": 1
+    },
+    {
+      "id": "src_ulm-stool_03",
+      "title": "hfg-archiv.museumulm.de",
+      "url": "https://hfg-archiv.museumulm.de/en/",
+      "tier": 1
+    },
+    {
+      "id": "src_ulm-stool_04",
+      "title": "www.museumulm.de",
+      "url": "https://www.museumulm.de/",
+      "tier": 1
+    },
+    {
+      "id": "src_ulm-stool_05",
+      "title": "www.hfg-ulm.de",
+      "url": "https://www.hfg-ulm.de/",
+      "tier": 1
+    },
+    {
+      "id": "src_ulm-stool_06",
+      "title": "www.vitsoe.com",
+      "url": "https://www.vitsoe.com/us/about/good-design",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_ulm-stool_def",
+      "wording_ru": "Ulm Stool — компактный деревянный табурет, разработанный Максом Биллом, Хансом Гугелотом и Паулем Хильдингером для Высшей школы формообразования в Ульме в 1954 году. Его можно использовать как сиденье, низкий стол, подставку, переносной контейнер или элемент хранения.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_ulm-stool_origin",
+      "wording_ru": "Предмет вырос из экономической и педагогической ситуации молодой школы, постоянно испытывавшей недостаток средств. Нужна была дешёвая, лёгкая, многофункциональная вещь, которую студенты и преподаватели могли переносить между аудиториями, общежитием, столовой и террасой.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_ulm-stool_form",
+      "wording_ru": "Минимальная конструкция состоит из плоских деревянных панелей, соединённых в жёсткую П-образную оболочку; поперечный элемент усиливает систему и одновременно становится ручкой. Важна ясность сборки и возможность менять функцию поворотом предмета.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_ulm-stool_use",
+      "wording_ru": "Минимальная конструкция состоит из плоских деревянных панелей, соединённых в жёсткую П-образную оболочку; поперечный элемент усиливает систему и одновременно становится ручкой. Важна ясность сборки и возможность менять функцию поворотом предмета. Пользование нельзя отделить от устройства: то, как че",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_ulm-stool_impact",
+      "wording_ru": "Ulm Stool — почти учебное пособие по системному дизайну. Он показывает, что универсальность может возникнуть не из сложного механизма, а из правильно выбранной геометрии и отказа фиксировать за вещью только одну функцию. Главный вклад предмета — изменение постановки задачи: после него дизайнеры полу",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_ulm-stool_today",
+      "wording_ru": "Сегодня Ulm Stool стоит читать в трёх масштабах: как вещь для тела, как производственную систему и как изображение, нагруженное историей. Крайняя простота породила множество копий и вариаций, из-за чего границы оригинала размылись. Выставка HfG-Archiv специально рассматривала вопрос, какие признаки ",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_ulm-stool_tl_1954",
+      "wording_ru": "Ulm Stool проектируют Max Bill, Hans Gugelot и Paul Hildinger (1954)",
+      "confidence_score": 0.72,
+      "verification_state": "attributed",
+      "date_start": "1954-01-01"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_ulm-stool_def",
+      "source_id": "src_ulm-stool_01",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_ulm-stool_origin",
+      "source_id": "src_ulm-stool_02",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_ulm-stool_form",
+      "source_id": "src_ulm-stool_03",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_ulm-stool_use",
+      "source_id": "src_ulm-stool_04",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_ulm-stool_impact",
+      "source_id": "src_ulm-stool_05",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_ulm-stool_today",
+      "source_id": "src_ulm-stool_06",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_ulm-stool_tl_1954",
+      "source_id": "src_ulm-stool_01",
+      "locator": "Historical timeline reference"
+    }
+  ],
+  "last_updated": "2026-08-18"
+}

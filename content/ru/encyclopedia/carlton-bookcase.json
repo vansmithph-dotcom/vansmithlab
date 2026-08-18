@@ -1,0 +1,39 @@
+{
+  "content_id": "cnt_obj_ru_be76edab043d7af4",
+  "primary_object_id": "obj_obj_be76edab043d7af4",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_carlton-bookcase_def",
+    "clm_carlton-bookcase_origin",
+    "clm_carlton-bookcase_form",
+    "clm_carlton-bookcase_use",
+    "clm_carlton-bookcase_impact",
+    "clm_carlton-bookcase_today",
+    "clm_carlton-bookcase_tl_1981",
+    "clm_carlton-bookcase_tl_1981"
+  ],
+  "source_ids": [
+    "src_carlton-bookcase_01",
+    "src_carlton-bookcase_02",
+    "src_carlton-bookcase_03",
+    "src_carlton-bookcase_04",
+    "src_carlton-bookcase_05",
+    "src_carlton-bookcase_06"
+  ],
+  "last_reviewed": "2026-08-18",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "carlton-bookcase",
+  "title": "Carlton",
+  "summary": "Memphis: мебель как знак, цвет и отказ от нейтральности",
+  "discipline": [
+    "object-space"
+  ],
+  "kind": "theme",
+  "body_hash": "6926b312ca667122d8b87ddb2b3b666418274c759e44866fde1cd34506b76643"
+}

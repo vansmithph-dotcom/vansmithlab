@@ -1,0 +1,143 @@
+{
+  "id": "obj_obj_995d42a524705f6c",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "content_type": "encyclopedia",
+  "canonical_name": "Wiggle Side Chair",
+  "canonical_name_en": "Wiggle Side Chair",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_wiggle-side-chair_01",
+      "title": "www.vitra.com",
+      "url": "https://www.vitra.com/en-un/product/wiggle",
+      "tier": 1
+    },
+    {
+      "id": "src_wiggle-side-chair_02",
+      "title": "www.vitra.com",
+      "url": "https://www.vitra.com/en-un/product/details/wiggle-side-chair",
+      "tier": 1
+    },
+    {
+      "id": "src_wiggle-side-chair_03",
+      "title": "www.vitra.com",
+      "url": "https://www.vitra.com/en-lp/about-vitra/sustainability/cardboard",
+      "tier": 1
+    },
+    {
+      "id": "src_wiggle-side-chair_04",
+      "title": "www.vitra.com",
+      "url": "https://www.vitra.com/en-un/product/details/miniatures-collection-wiggle-side-chair",
+      "tier": 1
+    },
+    {
+      "id": "src_wiggle-side-chair_05",
+      "title": "www.moma.org",
+      "url": "https://www.moma.org/collection/works/86473",
+      "tier": 1
+    },
+    {
+      "id": "src_wiggle-side-chair_06",
+      "title": "www.moma.org",
+      "url": "https://www.moma.org/collection/works/2529",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_wiggle-side-chair_def",
+      "wording_ru": "Wiggle Side Chair — стул Фрэнка Гери из серии Easy Edges 1972 года, построенный из многослойного гофрированного картона с жёсткими крайними панелями. Волнообразный профиль превращает упаковочный материал в несущую структуру и выразительный мебельный силуэт.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_wiggle-side-chair_origin",
+      "wording_ru": "Гери экспериментировал с обычным картоном и обнаружил, что многослойное склеивание листов с контролируемым направлением гофры даёт неожиданную прочность. Серия Easy Edges переводила этот эффект в предметы, дешёвые по исходному материалу и сложные по форме.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_wiggle-side-chair_form",
+      "wording_ru": "Несущая масса создаётся не одним толстым листом, а пакетом тонких слоёв гофрокартона. Срезы становятся главной видимой поверхностью, показывая структуру материала как рисунок; боковые панели защищают края и стабилизируют форму.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_wiggle-side-chair_use",
+      "wording_ru": "Несущая масса создаётся не одним толстым листом, а пакетом тонких слоёв гофрокартона. Срезы становятся главной видимой поверхностью, показывая структуру материала как рисунок; боковые панели защищают края и стабилизируют форму. Пользование нельзя отделить от устройства: то, как человек садится, двиг",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_wiggle-side-chair_impact",
+      "wording_ru": "Wiggle Side Chair переворачивает привычную иерархию ценности. Материал, который обычно выбрасывают вместе с упаковкой, получает конструкционную роль, музейный статус и высокую культурную стоимость. Главный вклад предмета — изменение постановки задачи: после него дизайнеры получили новый пример связи",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_wiggle-side-chair_today",
+      "wording_ru": "Сегодня Wiggle Side Chair стоит читать в трёх масштабах: как вещь для тела, как производственную систему и как изображение, нагруженное историей. Картон чувствителен к воде, загрязнению и повреждению кромок, поэтому образ простого дешёвого материала сталкивается с требованиями аккуратного использова",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_wiggle-side-chair_tl_1972",
+      "wording_ru": "Frank Gehry разрабатывает серию картонной мебели Easy Edges (1972)",
+      "confidence_score": 0.72,
+      "verification_state": "attributed",
+      "date_start": "1972-01-01"
+    },
+    {
+      "id": "clm_wiggle-side-chair_tl_1972",
+      "wording_ru": "Wiggle Side Chair утверждает конструкционный принцип многослойного картона (1972)",
+      "confidence_score": 0.72,
+      "verification_state": "attributed",
+      "date_start": "1972-01-01"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_wiggle-side-chair_def",
+      "source_id": "src_wiggle-side-chair_01",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_wiggle-side-chair_origin",
+      "source_id": "src_wiggle-side-chair_02",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_wiggle-side-chair_form",
+      "source_id": "src_wiggle-side-chair_03",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_wiggle-side-chair_use",
+      "source_id": "src_wiggle-side-chair_04",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_wiggle-side-chair_impact",
+      "source_id": "src_wiggle-side-chair_05",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_wiggle-side-chair_today",
+      "source_id": "src_wiggle-side-chair_06",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_wiggle-side-chair_tl_1972",
+      "source_id": "src_wiggle-side-chair_01",
+      "locator": "Historical timeline reference"
+    },
+    {
+      "claim_id": "clm_wiggle-side-chair_tl_1972",
+      "source_id": "src_wiggle-side-chair_01",
+      "locator": "Historical timeline reference"
+    }
+  ],
+  "last_updated": "2026-08-18"
+}

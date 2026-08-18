@@ -1,0 +1,44 @@
+{
+  "content_id": "cnt_obj_en_39bad86fd66084f9",
+  "primary_object_id": "obj_obj_39bad86fd66084f9",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_eames-lounge-chair_def",
+    "clm_eames-lounge-chair_origin",
+    "clm_eames-lounge-chair_form",
+    "clm_eames-lounge-chair_use",
+    "clm_eames-lounge-chair_impact",
+    "clm_eames-lounge-chair_today",
+    "clm_eames-lounge-chair_tl_1956"
+  ],
+  "source_ids": [
+    "src_eames-lounge-chair_01",
+    "src_eames-lounge-chair_02",
+    "src_eames-lounge-chair_03",
+    "src_eames-lounge-chair_04",
+    "src_eames-lounge-chair_05",
+    "src_eames-lounge-chair_06"
+  ],
+  "last_reviewed": "2026-08-18",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "eames-lounge-chair",
+  "title": "Eames Lounge Chair",
+  "summary": "Moulded plywood, comfort and postwar luxury",
+  "discipline": [
+    "object-space"
+  ],
+  "kind": "theme",
+  "body_hash": "2ae5ef617914c70c6277f785c3a2fc27a121977bcd7e1a78d3542db79df8ace4",
+  "translation": {
+    "source_locale": "ru",
+    "translated_by": "VANSMITHLAB",
+    "semantic_validated": true,
+    "translation_date": "2026-08-18"
+  }
+}

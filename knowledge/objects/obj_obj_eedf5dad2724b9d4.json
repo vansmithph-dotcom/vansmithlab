@@ -1,0 +1,143 @@
+{
+  "id": "obj_obj_eedf5dad2724b9d4",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "content_type": "encyclopedia",
+  "canonical_name": "LC4",
+  "canonical_name_en": "LC4",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_lc4-chaise-longue_01",
+      "title": "www.cassina.com",
+      "url": "https://www.cassina.com/ww/en/products/lc4-durable.html",
+      "tier": 1
+    },
+    {
+      "id": "src_lc4-chaise-longue_02",
+      "title": "www.cassina.com",
+      "url": "https://www.cassina.com/ww/en/maestri/le-corbusier-pierre-jeanneret-charlotte-perriand.html",
+      "tier": 1
+    },
+    {
+      "id": "src_lc4-chaise-longue_03",
+      "title": "www.moma.org",
+      "url": "https://www.moma.org/collection/works/2796",
+      "tier": 1
+    },
+    {
+      "id": "src_lc4-chaise-longue_04",
+      "title": "www.fondationlecorbusier.fr",
+      "url": "https://www.fondationlecorbusier.fr/oeuvre-mobilier/chaise-longue-le-corbusier-pierre-jeanneret-charlotte-perriand-1928/",
+      "tier": 1
+    },
+    {
+      "id": "src_lc4-chaise-longue_05",
+      "title": "designmuseum.org",
+      "url": "https://designmuseum.org/designers/charlotte-perriand",
+      "tier": 1
+    },
+    {
+      "id": "src_lc4-chaise-longue_06",
+      "title": "www.moma.org",
+      "url": "https://www.moma.org/collection/works/3178",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_lc4-chaise-longue_def",
+      "wording_ru": "LC4 — регулируемый шезлонг, разработанный Ле Корбюзье, Пьером Жаннере и Шарлоттой Перриан в 1928 году. Верхняя рама скользит по основанию и позволяет телу занимать диапазон положений от почти сидячего до полулежащего.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_lc4-chaise-longue_origin",
+      "wording_ru": "Проект появился в период, когда авторы исследовали оборудование жилища и пытались заменить историческую мебель типологически ясными предметами для современной жизни. Перриан принесла в сотрудничество особенно сильный интерес к телу, металлу и реальному пользованию.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_lc4-chaise-longue_form",
+      "wording_ru": "Конструкция разделена на две системы: изогнутая трубчатая рама несёт тело, а отдельное основание удерживает и направляет её. Матрас, подголовник и натяжные поверхности делают жёсткую металлическую логику пригодной для длительного отдыха.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_lc4-chaise-longue_use",
+      "wording_ru": "Конструкция разделена на две системы: изогнутая трубчатая рама несёт тело, а отдельное основание удерживает и направляет её. Матрас, подголовник и натяжные поверхности делают жёсткую металлическую логику пригодной для длительного отдыха. Пользование нельзя отделить от устройства: то, как человек сад",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_lc4-chaise-longue_impact",
+      "wording_ru": "LC4 делает позу частью проекта. Вместо одного фиксированного угла предмет предлагает контролируемое движение и превращает эргономику в видимую механику. Главный вклад предмета — изменение постановки задачи: после него дизайнеры получили новый пример связи тела, материала, производства и культурного ",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_lc4-chaise-longue_today",
+      "wording_ru": "Сегодня LC4 стоит читать в трёх масштабах: как вещь для тела, как производственную систему и как изображение, нагруженное историей. Идея машины для отдыха легко романтизируется: реальный комфорт зависит от телосложения, обивки и выбранного угла. Хромированная сталь и кожа сделали поздние версии скор",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_lc4-chaise-longue_tl_1928",
+      "wording_ru": "разработан проект LC4: Le Corbusier, Pierre Jeanneret и Charlotte Perriand (1928)",
+      "confidence_score": 0.72,
+      "verification_state": "attributed",
+      "date_start": "1928-01-01"
+    },
+    {
+      "id": "clm_lc4-chaise-longue_tl_1965",
+      "wording_ru": "Cassina начинает лицензионное производство коллекции мебели Le Corbusier / Jeanneret / Perriand (1965)",
+      "confidence_score": 0.72,
+      "verification_state": "attributed",
+      "date_start": "1965-01-01"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_lc4-chaise-longue_def",
+      "source_id": "src_lc4-chaise-longue_01",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_lc4-chaise-longue_origin",
+      "source_id": "src_lc4-chaise-longue_02",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_lc4-chaise-longue_form",
+      "source_id": "src_lc4-chaise-longue_03",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_lc4-chaise-longue_use",
+      "source_id": "src_lc4-chaise-longue_04",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_lc4-chaise-longue_impact",
+      "source_id": "src_lc4-chaise-longue_05",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_lc4-chaise-longue_today",
+      "source_id": "src_lc4-chaise-longue_06",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_lc4-chaise-longue_tl_1928",
+      "source_id": "src_lc4-chaise-longue_01",
+      "locator": "Historical timeline reference"
+    },
+    {
+      "claim_id": "clm_lc4-chaise-longue_tl_1965",
+      "source_id": "src_lc4-chaise-longue_01",
+      "locator": "Historical timeline reference"
+    }
+  ],
+  "last_updated": "2026-08-18"
+}

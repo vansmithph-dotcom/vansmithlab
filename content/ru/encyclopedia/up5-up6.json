@@ -1,0 +1,39 @@
+{
+  "content_id": "cnt_obj_ru_508e50427d31a8a0",
+  "primary_object_id": "obj_obj_508e50427d31a8a0",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_up5-up6_def",
+    "clm_up5-up6_origin",
+    "clm_up5-up6_form",
+    "clm_up5-up6_use",
+    "clm_up5-up6_impact",
+    "clm_up5-up6_today",
+    "clm_up5-up6_tl_1969",
+    "clm_up5-up6_tl_2000"
+  ],
+  "source_ids": [
+    "src_up5-up6_01",
+    "src_up5-up6_02",
+    "src_up5-up6_03",
+    "src_up5-up6_04",
+    "src_up5-up6_05",
+    "src_up5-up6_06"
+  ],
+  "last_reviewed": "2026-08-18",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "up5-up6",
+  "title": "UP5/UP6",
+  "summary": "Тело, политика, пенополиуретан и радикальный дизайн",
+  "discipline": [
+    "object-space"
+  ],
+  "kind": "theme",
+  "body_hash": "4cd298ad75aa162727eb9da00d236ea9830e37ec8e4624a57c71b0caf2eaf56a"
+}

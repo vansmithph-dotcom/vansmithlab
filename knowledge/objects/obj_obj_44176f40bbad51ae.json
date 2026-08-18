@@ -1,0 +1,143 @@
+{
+  "id": "obj_obj_44176f40bbad51ae",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "content_type": "encyclopedia",
+  "canonical_name": "Barcelona Chair",
+  "canonical_name_en": "Barcelona Chair",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_barcelona-chair_01",
+      "title": "www.knoll.com",
+      "url": "https://www.knoll.com/barcelona-chair",
+      "tier": 1
+    },
+    {
+      "id": "src_barcelona-chair_02",
+      "title": "www.knoll.com",
+      "url": "https://www.knoll.com/shop/en_us/barcelona-chair-guide.html",
+      "tier": 1
+    },
+    {
+      "id": "src_barcelona-chair_03",
+      "title": "www.knoll.com",
+      "url": "https://www.knoll.com/designer/Ludwig-Mies-van-der-Rohe",
+      "tier": 1
+    },
+    {
+      "id": "src_barcelona-chair_04",
+      "title": "www.knoll.com",
+      "url": "https://www.knoll.com/knollnewsdetail/financial-times-features-barcelona-chair",
+      "tier": 1
+    },
+    {
+      "id": "src_barcelona-chair_05",
+      "title": "www.moma.org",
+      "url": "https://www.moma.org/collection/works/4369",
+      "tier": 1
+    },
+    {
+      "id": "src_barcelona-chair_06",
+      "title": "miesbcn.com",
+      "url": "https://miesbcn.com/the-pavilion/",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_barcelona-chair_def",
+      "wording_ru": "Barcelona Chair — низкое кресло с перекрещивающейся металлической рамой и ремённо-подушечной системой, созданное для Германского павильона Международной выставки 1929 года в Барселоне. Его важность состоит в том, как предмет превращает принципы модернистской архитектуры в масштаб человеческого тела.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_barcelona-chair_origin",
+      "wording_ru": "Предмет возник внутри архитектурного заказа, а не как самостоятельная серийная мебель. Павильон Миса ван дер Роэ и Лилли Райх требовал немногочисленных вещей, способных работать на церемониальный характер пространства; кресло и табурет стали частью этой постановки.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_barcelona-chair_form",
+      "wording_ru": "Несущая логика читается сразу: две пересекающиеся металлические дуги образуют боковой профиль, кожаные ремни поддерживают отдельные прошитые подушки. Современное производство Knoll сохраняет характерную крестообразную раму и тщательную работу с обивкой.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_barcelona-chair_use",
+      "wording_ru": "Несущая логика читается сразу: две пересекающиеся металлические дуги образуют боковой профиль, кожаные ремни поддерживают отдельные прошитые подушки. Современное производство Knoll сохраняет характерную крестообразную раму и тщательную работу с обивкой. Пользование нельзя отделить от устройства: то,",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_barcelona-chair_impact",
+      "wording_ru": "Кресло часто читают как уменьшенную архитектуру: несущая структура выставлена напоказ, поверхность не скрывает конструкцию, а дорогие материалы вводят церемониальность в строгую геометрию. Минимализм здесь становится роскошным через пропорции и качество исполнения, а не через декор. Главный вклад пр",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_barcelona-chair_today",
+      "wording_ru": "Сегодня Barcelona Chair стоит читать в трёх масштабах: как вещь для тела, как производственную систему и как изображение, нагруженное историей. Главное противоречие — между образом универсального модернизма и фактической дороговизной, весом и репрезентативностью предмета. Это скорее кресло-позиция и",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_barcelona-chair_tl_1929",
+      "wording_ru": "Германский павильон и Barcelona Chair созданы для Международной выставки в Барселоне (1929)",
+      "confidence_score": 0.72,
+      "verification_state": "attributed",
+      "date_start": "1929-01-01"
+    },
+    {
+      "id": "clm_barcelona-chair_tl_1953",
+      "wording_ru": "Мис передаёт Knoll права на производство (1953)",
+      "confidence_score": 0.72,
+      "verification_state": "attributed",
+      "date_start": "1953-01-01"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_barcelona-chair_def",
+      "source_id": "src_barcelona-chair_01",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_barcelona-chair_origin",
+      "source_id": "src_barcelona-chair_02",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_barcelona-chair_form",
+      "source_id": "src_barcelona-chair_03",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_barcelona-chair_use",
+      "source_id": "src_barcelona-chair_04",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_barcelona-chair_impact",
+      "source_id": "src_barcelona-chair_05",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_barcelona-chair_today",
+      "source_id": "src_barcelona-chair_06",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_barcelona-chair_tl_1929",
+      "source_id": "src_barcelona-chair_01",
+      "locator": "Historical timeline reference"
+    },
+    {
+      "claim_id": "clm_barcelona-chair_tl_1953",
+      "source_id": "src_barcelona-chair_01",
+      "locator": "Historical timeline reference"
+    }
+  ],
+  "last_updated": "2026-08-18"
+}

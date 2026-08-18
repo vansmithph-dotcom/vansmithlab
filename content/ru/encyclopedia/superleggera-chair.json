@@ -1,0 +1,38 @@
+{
+  "content_id": "cnt_obj_ru_5ca6500982700c1f",
+  "primary_object_id": "obj_obj_5ca6500982700c1f",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_superleggera-chair_def",
+    "clm_superleggera-chair_origin",
+    "clm_superleggera-chair_form",
+    "clm_superleggera-chair_use",
+    "clm_superleggera-chair_impact",
+    "clm_superleggera-chair_today",
+    "clm_superleggera-chair_tl_1957"
+  ],
+  "source_ids": [
+    "src_superleggera-chair_01",
+    "src_superleggera-chair_02",
+    "src_superleggera-chair_03",
+    "src_superleggera-chair_04",
+    "src_superleggera-chair_05",
+    "src_superleggera-chair_06"
+  ],
+  "last_reviewed": "2026-08-18",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "superleggera-chair",
+  "title": "Superleggera",
+  "summary": "Минимальная масса как проектная задача: ремесло и промышленность",
+  "discipline": [
+    "object-space"
+  ],
+  "kind": "theme",
+  "body_hash": "cede5b3f2514b745315742469558ad1e6e3eb58e2048b50dc5790607b8b67aef"
+}

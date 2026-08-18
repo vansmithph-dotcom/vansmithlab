@@ -1,0 +1,45 @@
+{
+  "content_id": "cnt_obj_en_508e50427d31a8a0",
+  "primary_object_id": "obj_obj_508e50427d31a8a0",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_up5-up6_def",
+    "clm_up5-up6_origin",
+    "clm_up5-up6_form",
+    "clm_up5-up6_use",
+    "clm_up5-up6_impact",
+    "clm_up5-up6_today",
+    "clm_up5-up6_tl_1969",
+    "clm_up5-up6_tl_2000"
+  ],
+  "source_ids": [
+    "src_up5-up6_01",
+    "src_up5-up6_02",
+    "src_up5-up6_03",
+    "src_up5-up6_04",
+    "src_up5-up6_05",
+    "src_up5-up6_06"
+  ],
+  "last_reviewed": "2026-08-18",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "up5-up6",
+  "title": "UP5/UP6",
+  "summary": "Body, politics, polyurethane foam and radical design",
+  "discipline": [
+    "object-space"
+  ],
+  "kind": "theme",
+  "body_hash": "6021ee72cbc0494d27fff594376aedc5213d1e2ffae3f7015d8efe63ff3a30f6",
+  "translation": {
+    "source_locale": "ru",
+    "translated_by": "VANSMITHLAB",
+    "semantic_validated": true,
+    "translation_date": "2026-08-18"
+  }
+}

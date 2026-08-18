@@ -1,0 +1,38 @@
+{
+  "content_id": "cnt_obj_ru_04de645a181d0a48",
+  "primary_object_id": "obj_obj_04de645a181d0a48",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_sacco-chair_def",
+    "clm_sacco-chair_origin",
+    "clm_sacco-chair_form",
+    "clm_sacco-chair_use",
+    "clm_sacco-chair_impact",
+    "clm_sacco-chair_today",
+    "clm_sacco-chair_tl_1968"
+  ],
+  "source_ids": [
+    "src_sacco-chair_01",
+    "src_sacco-chair_02",
+    "src_sacco-chair_03",
+    "src_sacco-chair_04",
+    "src_sacco-chair_05",
+    "src_sacco-chair_06"
+  ],
+  "last_reviewed": "2026-08-18",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "sacco-chair",
+  "title": "Sacco",
+  "summary": "Анти-кресло: свободная поза и нефиксированная форма",
+  "discipline": [
+    "object-space"
+  ],
+  "kind": "theme",
+  "body_hash": "47504c2790258c28885a0b07abf704eca3b20e02e5f4bef65ffe557fd16d6a38"
+}

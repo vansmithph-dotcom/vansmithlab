@@ -1,0 +1,131 @@
+{
+  "id": "obj_obj_39bad86fd66084f9",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "content_type": "encyclopedia",
+  "canonical_name": "Eames Lounge Chair",
+  "canonical_name_en": "Eames Lounge Chair",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_eames-lounge-chair_01",
+      "title": "www.hermanmiller.com",
+      "url": "https://www.hermanmiller.com/products/seating/lounge-seating/eames-lounge-chair-and-ottoman/",
+      "tier": 1
+    },
+    {
+      "id": "src_eames-lounge-chair_02",
+      "title": "store.hermanmiller.com",
+      "url": "https://store.hermanmiller.com/features-eames-lounge-chair-design-history.html?lang=en_US",
+      "tier": 1
+    },
+    {
+      "id": "src_eames-lounge-chair_03",
+      "title": "store.hermanmiller.com",
+      "url": "https://store.hermanmiller.com/features-charles-ray-eames-biography.html?lang=en_US",
+      "tier": 1
+    },
+    {
+      "id": "src_eames-lounge-chair_04",
+      "title": "www.moma.org",
+      "url": "https://www.moma.org/collection/works/3325",
+      "tier": 1
+    },
+    {
+      "id": "src_eames-lounge-chair_05",
+      "title": "eamesfoundation.org",
+      "url": "https://eamesfoundation.org/work/lounge-chair-and-ottoman/",
+      "tier": 1
+    },
+    {
+      "id": "src_eames-lounge-chair_06",
+      "title": "www.eamesoffice.com",
+      "url": "https://www.eamesoffice.com/",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_eames-lounge-chair_def",
+      "wording_ru": "Eames Lounge Chair and Ottoman — кресло с отдельной подставкой для ног, представленное Herman Miller в 1956 году по проекту Чарльза и Рэй Имз. Оно соединяет три формованных фанерных оболочки, мягкие съёмные подушки, литое металлическое основание и скрытые эластичные соединения.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_eames-lounge-chair_origin",
+      "wording_ru": "Проект вырос из многолетних экспериментов Имзов с формованной фанерой, начатых в 1940-х. В отличие от более демократичных ранних стульев новая модель сознательно обращалась к типу английского клубного кресла и переводила его комфорт в язык промышленного модернизма.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_eames-lounge-chair_form",
+      "wording_ru": "Спинка и сиденье состоят из отдельных изогнутых фанерных оболочек, соединённых через амортизирующие элементы; подушки вставлены в оболочки, а основание позволяет креслу поворачиваться. Древесный шпон, кожа или ткань и металл работают как самостоятельные слои.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_eames-lounge-chair_use",
+      "wording_ru": "Спинка и сиденье состоят из отдельных изогнутых фанерных оболочек, соединённых через амортизирующие элементы; подушки вставлены в оболочки, а основание позволяет креслу поворачиваться. Древесный шпон, кожа или ткань и металл работают как самостоятельные слои. Пользование нельзя отделить от устройств",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_eames-lounge-chair_impact",
+      "wording_ru": "Имзы показали, что модернизм не обязан означать жёсткость и аскезу. Кресло соединяет технологическую рациональность с телесным удовольствием и формирует послевоенную модель современной роскоши. Главный вклад предмета — изменение постановки задачи: после него дизайнеры получили новый пример связи тел",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_eames-lounge-chair_today",
+      "wording_ru": "Сегодня Eames Lounge Chair стоит читать в трёх масштабах: как вещь для тела, как производственную систему и как изображение, нагруженное историей. Комфорт и престиж сделали кресло чрезвычайно копируемым, поэтому вокруг него возникла культура реплик и подделок. Исходная премиальная материальность так",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_eames-lounge-chair_tl_1956",
+      "wording_ru": "Herman Miller представляет Eames Lounge Chair and Ottoman (1956)",
+      "confidence_score": 0.72,
+      "verification_state": "attributed",
+      "date_start": "1956-01-01"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_eames-lounge-chair_def",
+      "source_id": "src_eames-lounge-chair_01",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_eames-lounge-chair_origin",
+      "source_id": "src_eames-lounge-chair_02",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_eames-lounge-chair_form",
+      "source_id": "src_eames-lounge-chair_03",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_eames-lounge-chair_use",
+      "source_id": "src_eames-lounge-chair_04",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_eames-lounge-chair_impact",
+      "source_id": "src_eames-lounge-chair_05",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_eames-lounge-chair_today",
+      "source_id": "src_eames-lounge-chair_06",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_eames-lounge-chair_tl_1956",
+      "source_id": "src_eames-lounge-chair_01",
+      "locator": "Historical timeline reference"
+    }
+  ],
+  "last_updated": "2026-08-18"
+}

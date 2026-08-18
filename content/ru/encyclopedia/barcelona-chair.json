@@ -1,0 +1,39 @@
+{
+  "content_id": "cnt_obj_ru_44176f40bbad51ae",
+  "primary_object_id": "obj_obj_44176f40bbad51ae",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_barcelona-chair_def",
+    "clm_barcelona-chair_origin",
+    "clm_barcelona-chair_form",
+    "clm_barcelona-chair_use",
+    "clm_barcelona-chair_impact",
+    "clm_barcelona-chair_today",
+    "clm_barcelona-chair_tl_1929",
+    "clm_barcelona-chair_tl_1953"
+  ],
+  "source_ids": [
+    "src_barcelona-chair_01",
+    "src_barcelona-chair_02",
+    "src_barcelona-chair_03",
+    "src_barcelona-chair_04",
+    "src_barcelona-chair_05",
+    "src_barcelona-chair_06"
+  ],
+  "last_reviewed": "2026-08-18",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "barcelona-chair",
+  "title": "Barcelona Chair",
+  "summary": "Кресло как архитектурный манифест: сталь, кожа и церемониальность",
+  "discipline": [
+    "object-space"
+  ],
+  "kind": "theme",
+  "body_hash": "78b33dd85a39f29055a2d0fc1959188c1d4bcd2fb3ff94c2ddf8d562f4514e90"
+}

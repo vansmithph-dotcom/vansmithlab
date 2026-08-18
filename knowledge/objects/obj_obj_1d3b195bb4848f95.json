@@ -1,0 +1,143 @@
+{
+  "id": "obj_obj_1d3b195bb4848f95",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "content_type": "encyclopedia",
+  "canonical_name": "Mezzadro",
+  "canonical_name_en": "Mezzadro",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_mezzadro-stool_01",
+      "title": "www.zanotta.com",
+      "url": "https://www.zanotta.com/en-us/products/furnishing-accessories/mezzadro",
+      "tier": 1
+    },
+    {
+      "id": "src_mezzadro-stool_02",
+      "title": "www.zanotta.com",
+      "url": "https://www.zanotta.com/en-us/magazine/exhibitions/exhibition-in-partnership-dna-i-geni-dell-automobile-nell-industrial-design-in-turin",
+      "tier": 1
+    },
+    {
+      "id": "src_mezzadro-stool_03",
+      "title": "www.moma.org",
+      "url": "https://www.moma.org/collection/works/1390",
+      "tier": 1
+    },
+    {
+      "id": "src_mezzadro-stool_04",
+      "title": "www.moma.org",
+      "url": "https://www.moma.org/interactives/exhibitions/1997/castiglioni/mezzadro_sella.html",
+      "tier": 1
+    },
+    {
+      "id": "src_mezzadro-stool_05",
+      "title": "www.moma.org",
+      "url": "https://www.moma.org/interactives/exhibitions/1997/castiglioni/mezzadro.html",
+      "tier": 1
+    },
+    {
+      "id": "src_mezzadro-stool_06",
+      "title": "www.moma.org",
+      "url": "https://www.moma.org/interactives/exhibitions/1997/castiglioni/checklist.html",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_mezzadro-stool_def",
+      "wording_ru": "Mezzadro — табурет Акилле и Пьера Джакомо Кастильони, спроектированный в 1957 году и запущенный Zanotta в производство в 1970-м. Его металлическое сиденье происходит от сельскохозяйственного трактора и соединено с пружинящей стальной опорой и деревянной базой.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_mezzadro-stool_origin",
+      "wording_ru": "Братья Кастильони исследовали готовые промышленные компоненты как строительный материал для нового предмета. Проект переносил элемент сельскохозяйственной машины в интерьер без попытки скрыть его происхождение.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_mezzadro-stool_form",
+      "wording_ru": "Четыре ясно различимые части сохраняют собственную идентичность: штампованное тракторное сиденье, хромированная стальная полоса, соединительный крепёж и деревянная поперечина-основание. Предмет строится на новом отношении между готовыми деталями.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_mezzadro-stool_use",
+      "wording_ru": "Четыре ясно различимые части сохраняют собственную идентичность: штампованное тракторное сиденье, хромированная стальная полоса, соединительный крепёж и деревянная поперечина-основание. Предмет строится на новом отношении между готовыми деталями. Пользование нельзя отделить от устройства: то, как че",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_mezzadro-stool_impact",
+      "wording_ru": "Mezzadro переносит логику готового найденного элемента в промышленный дизайн, но не является просто найденным объектом. Дизайнеры меняют контекст, опору, высоту, баланс и способ использования — проектируют отношения между существующими вещами. Главный вклад предмета — изменение постановки задачи: по",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_mezzadro-stool_today",
+      "wording_ru": "Сегодня Mezzadro стоит читать в трёх масштабах: как вещь для тела, как производственную систему и как изображение, нагруженное историей. Символическая сила тракторного сиденья может затмить реальную работу конструкции. После включения в музейный и премиальный рынок жест экономии и присвоения массово",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_mezzadro-stool_tl_1957",
+      "wording_ru": "Mezzadro проектируется в рамках экспериментов с современной домашней средой (1957)",
+      "confidence_score": 0.72,
+      "verification_state": "attributed",
+      "date_start": "1957-01-01"
+    },
+    {
+      "id": "clm_mezzadro-stool_tl_1970",
+      "wording_ru": "Zanotta запускает Mezzadro в производство (1970)",
+      "confidence_score": 0.72,
+      "verification_state": "attributed",
+      "date_start": "1970-01-01"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_mezzadro-stool_def",
+      "source_id": "src_mezzadro-stool_01",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_mezzadro-stool_origin",
+      "source_id": "src_mezzadro-stool_02",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_mezzadro-stool_form",
+      "source_id": "src_mezzadro-stool_03",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_mezzadro-stool_use",
+      "source_id": "src_mezzadro-stool_04",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_mezzadro-stool_impact",
+      "source_id": "src_mezzadro-stool_05",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_mezzadro-stool_today",
+      "source_id": "src_mezzadro-stool_06",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_mezzadro-stool_tl_1957",
+      "source_id": "src_mezzadro-stool_01",
+      "locator": "Historical timeline reference"
+    },
+    {
+      "claim_id": "clm_mezzadro-stool_tl_1970",
+      "source_id": "src_mezzadro-stool_01",
+      "locator": "Historical timeline reference"
+    }
+  ],
+  "last_updated": "2026-08-18"
+}

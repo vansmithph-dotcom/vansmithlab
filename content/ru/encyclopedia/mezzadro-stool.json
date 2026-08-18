@@ -1,0 +1,39 @@
+{
+  "content_id": "cnt_obj_ru_1d3b195bb4848f95",
+  "primary_object_id": "obj_obj_1d3b195bb4848f95",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_mezzadro-stool_def",
+    "clm_mezzadro-stool_origin",
+    "clm_mezzadro-stool_form",
+    "clm_mezzadro-stool_use",
+    "clm_mezzadro-stool_impact",
+    "clm_mezzadro-stool_today",
+    "clm_mezzadro-stool_tl_1957",
+    "clm_mezzadro-stool_tl_1970"
+  ],
+  "source_ids": [
+    "src_mezzadro-stool_01",
+    "src_mezzadro-stool_02",
+    "src_mezzadro-stool_03",
+    "src_mezzadro-stool_04",
+    "src_mezzadro-stool_05",
+    "src_mezzadro-stool_06"
+  ],
+  "last_reviewed": "2026-08-18",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "mezzadro-stool",
+  "title": "Mezzadro",
+  "summary": "Найденный промышленный элемент как новый домашний предмет",
+  "discipline": [
+    "object-space"
+  ],
+  "kind": "theme",
+  "body_hash": "e908b4ea4e4257da8e0389e6b07acd89218b667d5f6bd1cfd0b3786bbc265fe8"
+}

@@ -1,0 +1,131 @@
+{
+  "id": "obj_obj_5ca6500982700c1f",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "content_type": "encyclopedia",
+  "canonical_name": "Superleggera",
+  "canonical_name_en": "Superleggera",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_superleggera-chair_01",
+      "title": "www.cassina.com",
+      "url": "https://www.cassina.com/ww/en/products/superleggera.html",
+      "tier": 1
+    },
+    {
+      "id": "src_superleggera-chair_02",
+      "title": "www.cassina.com",
+      "url": "https://www.cassina.com/ww/en/products/leggera.html",
+      "tier": 1
+    },
+    {
+      "id": "src_superleggera-chair_03",
+      "title": "www.cassina.com",
+      "url": "https://www.cassina.com/ww/en/maestri/gio-ponti.html",
+      "tier": 1
+    },
+    {
+      "id": "src_superleggera-chair_04",
+      "title": "www.cassina.com",
+      "url": "https://www.cassina.com/gb/en/company/history.html",
+      "tier": 1
+    },
+    {
+      "id": "src_superleggera-chair_05",
+      "title": "www.moma.org",
+      "url": "https://www.moma.org/collection/works/509252",
+      "tier": 1
+    },
+    {
+      "id": "src_superleggera-chair_06",
+      "title": "designmuseum.org",
+      "url": "https://designmuseum.org/design/chairs-1950s",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_superleggera-chair_def",
+      "wording_ru": "Superleggera 699 — деревянный стул Джо Понти, выпускаемый Cassina с 1957 года. Его проектная идея предельно ясна: уменьшать массу и сечение деталей до тех пор, пока лёгкость не станет измеримым инженерным качеством, а не визуальным жестом.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_superleggera-chair_origin",
+      "wording_ru": "Понти опирался на традицию лёгкого лигурийского стула Chiavari и несколько лет перерабатывал её вместе с Cassina. Superleggera появилась как итог последовательного облегчения конструкции и перехода от ремесленного архетипа к контролируемому промышленному производству.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_superleggera-chair_form",
+      "wording_ru": "Каркас выполнен из массива ясеня; ножки имеют тонкое треугольное сечение, а сиденье может быть плетёным или обитым. Cassina указывает минимальную массу около 1,7 кг и сечение ножек порядка 18 мм — цифры превращают название сверхлёгкая в техническое утверждение.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_superleggera-chair_use",
+      "wording_ru": "Каркас выполнен из массива ясеня; ножки имеют тонкое треугольное сечение, а сиденье может быть плетёным или обитым. Cassina указывает минимальную массу около 1,7 кг и сечение ножек порядка 18 мм — цифры превращают название сверхлёгкая в техническое утверждение. Пользование нельзя отделить от устройс",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_superleggera-chair_impact",
+      "wording_ru": "Superleggera показывает другую линию модернизма: не новый материал и не зрелищную форму, а радикальную экономию вещества. Чем меньше остаётся древесины, тем важнее направление волокон, узлы и точность исполнения. Главный вклад предмета — изменение постановки задачи: после него дизайнеры получили нов",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_superleggera-chair_today",
+      "wording_ru": "Сегодня Superleggera стоит читать в трёх масштабах: как вещь для тела, как производственную систему и как изображение, нагруженное историей. Лёгкость сама по себе не гарантирует удобство или универсальность; хрупкий на вид силуэт требует качественной древесины и точного производства. Предмет легко р",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_superleggera-chair_tl_1957",
+      "wording_ru": "Cassina начинает производство 699 Superleggera (1957)",
+      "confidence_score": 0.72,
+      "verification_state": "attributed",
+      "date_start": "1957-01-01"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_superleggera-chair_def",
+      "source_id": "src_superleggera-chair_01",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_superleggera-chair_origin",
+      "source_id": "src_superleggera-chair_02",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_superleggera-chair_form",
+      "source_id": "src_superleggera-chair_03",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_superleggera-chair_use",
+      "source_id": "src_superleggera-chair_04",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_superleggera-chair_impact",
+      "source_id": "src_superleggera-chair_05",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_superleggera-chair_today",
+      "source_id": "src_superleggera-chair_06",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_superleggera-chair_tl_1957",
+      "source_id": "src_superleggera-chair_01",
+      "locator": "Historical timeline reference"
+    }
+  ],
+  "last_updated": "2026-08-18"
+}

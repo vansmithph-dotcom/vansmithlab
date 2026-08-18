@@ -1,0 +1,39 @@
+{
+  "content_id": "cnt_obj_ru_74314af2c57a6ad0",
+  "primary_object_id": "obj_obj_74314af2c57a6ad0",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_panton-chair_def",
+    "clm_panton-chair_origin",
+    "clm_panton-chair_form",
+    "clm_panton-chair_use",
+    "clm_panton-chair_impact",
+    "clm_panton-chair_today",
+    "clm_panton-chair_tl_1963",
+    "clm_panton-chair_tl_1967"
+  ],
+  "source_ids": [
+    "src_panton-chair_01",
+    "src_panton-chair_02",
+    "src_panton-chair_03",
+    "src_panton-chair_04",
+    "src_panton-chair_05",
+    "src_panton-chair_06"
+  ],
+  "last_reviewed": "2026-08-18",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "panton-chair",
+  "title": "Panton Chair",
+  "summary": "Один материал, непрерывная форма и новая промышленность пластика",
+  "discipline": [
+    "object-space"
+  ],
+  "kind": "theme",
+  "body_hash": "5c13ec2e5a548cfaf5b64c4a786979312535416958b7273c096b10d8a46ca32e"
+}

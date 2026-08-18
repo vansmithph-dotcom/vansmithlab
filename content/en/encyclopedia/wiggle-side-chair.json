@@ -1,0 +1,45 @@
+{
+  "content_id": "cnt_obj_en_995d42a524705f6c",
+  "primary_object_id": "obj_obj_995d42a524705f6c",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_wiggle-side-chair_def",
+    "clm_wiggle-side-chair_origin",
+    "clm_wiggle-side-chair_form",
+    "clm_wiggle-side-chair_use",
+    "clm_wiggle-side-chair_impact",
+    "clm_wiggle-side-chair_today",
+    "clm_wiggle-side-chair_tl_1972",
+    "clm_wiggle-side-chair_tl_1972"
+  ],
+  "source_ids": [
+    "src_wiggle-side-chair_01",
+    "src_wiggle-side-chair_02",
+    "src_wiggle-side-chair_03",
+    "src_wiggle-side-chair_04",
+    "src_wiggle-side-chair_05",
+    "src_wiggle-side-chair_06"
+  ],
+  "last_reviewed": "2026-08-18",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "wiggle-side-chair",
+  "title": "Wiggle Side Chair",
+  "summary": "Cardboard as structural material and a critique of familiar value",
+  "discipline": [
+    "object-space"
+  ],
+  "kind": "theme",
+  "body_hash": "20ead37902f6d6ff85f4ab0613c1fd91e42f6c7d1b81f7bbc4dae691144d05c6",
+  "translation": {
+    "source_locale": "ru",
+    "translated_by": "VANSMITHLAB",
+    "semantic_validated": true,
+    "translation_date": "2026-08-18"
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "id": "obj_obj_74314af2c57a6ad0",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "content_type": "encyclopedia",
+  "canonical_name": "Panton Chair",
+  "canonical_name_en": "Panton Chair",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_panton-chair_01",
+      "title": "www.vitra.com",
+      "url": "https://www.vitra.com/en-un/about-vitra/original/panton-chair",
+      "tier": 1
+    },
+    {
+      "id": "src_panton-chair_02",
+      "title": "www.vitra.com",
+      "url": "https://www.vitra.com/en-un/product/panton-chair",
+      "tier": 1
+    },
+    {
+      "id": "src_panton-chair_03",
+      "title": "www.vitra.com",
+      "url": "https://www.vitra.com/en-un/product/details/panton-chair-classic",
+      "tier": 1
+    },
+    {
+      "id": "src_panton-chair_04",
+      "title": "www.vitra.com",
+      "url": "https://www.vitra.com/en-un/product/designer/verner-panton",
+      "tier": 1
+    },
+    {
+      "id": "src_panton-chair_05",
+      "title": "www.metmuseum.org",
+      "url": "https://www.metmuseum.org/art/collection/search/484643",
+      "tier": 1
+    },
+    {
+      "id": "src_panton-chair_06",
+      "title": "designmuseum.org",
+      "url": "https://designmuseum.org/design/chairs-1960s",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_panton-chair_def",
+      "wording_ru": "Panton Chair — консольный стул S-образного профиля, разработанный Вернером Пантоном и доведённый до серийного производства совместно с Vitra. Его историческое значение связано с задачей изготовить полноценный стул как непрерывную пластиковую оболочку без традиционного каркаса и отдельных ножек.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_panton-chair_origin",
+      "wording_ru": "Пантон исследовал идею монолитного пластикового стула с конца 1950-х. Vitra подключилась к разработке в 1963 году; предсерийные экземпляры появились в 1967-м, а дальнейшая история стала серией технологических пересмотров материалов и способов формования.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_panton-chair_form",
+      "wording_ru": "Силуэт работает как единая упругая консоль: основание поднимается в сиденье, затем в спинку без визуального разрыва. Геометрия должна одновременно выдерживать нагрузку, слегка пружинить и выходить из формы при промышленном изготовлении.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_panton-chair_use",
+      "wording_ru": "Силуэт работает как единая упругая консоль: основание поднимается в сиденье, затем в спинку без визуального разрыва. Геометрия должна одновременно выдерживать нагрузку, слегка пружинить и выходить из формы при промышленном изготовлении. Пользование нельзя отделить от устройства: то, как человек сади",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_panton-chair_impact",
+      "wording_ru": "Стул превратил пластик из имитационного материала в средство создания формы, практически невозможной для дерева или металла. Непрерывность стала не декоративным эффектом, а видимым следствием нового способа производства. Главный вклад предмета — изменение постановки задачи: после него дизайнеры полу",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_panton-chair_today",
+      "wording_ru": "Сегодня Panton Chair стоит читать в трёх масштабах: как вещь для тела, как производственную систему и как изображение, нагруженное историей. Ранние технологические трудности показывают пределы лозунга одна форма — один материал. За чистым силуэтом скрываются химия полимеров, формы, режимы охлаждения",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_panton-chair_tl_1963",
+      "wording_ru": "Vitra начинает разработку стула вместе с Verner Panton (1963)",
+      "confidence_score": 0.72,
+      "verification_state": "attributed",
+      "date_start": "1963-01-01"
+    },
+    {
+      "id": "clm_panton-chair_tl_1967",
+      "wording_ru": "начинается предварительное серийное производство Panton Chair (1967)",
+      "confidence_score": 0.72,
+      "verification_state": "attributed",
+      "date_start": "1967-01-01"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_panton-chair_def",
+      "source_id": "src_panton-chair_01",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_panton-chair_origin",
+      "source_id": "src_panton-chair_02",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_panton-chair_form",
+      "source_id": "src_panton-chair_03",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_panton-chair_use",
+      "source_id": "src_panton-chair_04",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_panton-chair_impact",
+      "source_id": "src_panton-chair_05",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_panton-chair_today",
+      "source_id": "src_panton-chair_06",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_panton-chair_tl_1963",
+      "source_id": "src_panton-chair_01",
+      "locator": "Historical timeline reference"
+    },
+    {
+      "claim_id": "clm_panton-chair_tl_1967",
+      "source_id": "src_panton-chair_01",
+      "locator": "Historical timeline reference"
+    }
+  ],
+  "last_updated": "2026-08-18"
+}
