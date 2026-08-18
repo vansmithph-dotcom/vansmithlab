@@ -1,0 +1,37 @@
+{
+  "content_id": "cnt_col_obraza_en",
+  "primary_object_id": "obj_col_sozdanie_obraza",
+  "content_type": "collection",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_sozdanie-obraza_intro",
+    "clm_sozdanie-obraza_scope"
+  ],
+  "source_ids": [
+    "src_sozdanie-obraza_1",
+    "src_sozdanie-obraza_2"
+  ],
+  "last_reviewed": "2026-08-18",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "sozdanie-obraza",
+  "title": "Image-Making",
+  "summary": "Photographic processes, authors and editorial environments that shaped the language of the image in fashion and fine-art photography.",
+  "discipline": [
+    "photography",
+    "editorial-design",
+    "fashion"
+  ],
+  "kind": "collection",
+  "body_hash": "4542197bbd269af89e55a08c3d55fecd7bfffc51755bfc2f8edea964a4553884",
+  "translation": {
+    "source_locale": "ru",
+    "translated_by": "VANSMITHLAB",
+    "semantic_validated": true,
+    "translation_date": "2026-08-18"
+  }
+}

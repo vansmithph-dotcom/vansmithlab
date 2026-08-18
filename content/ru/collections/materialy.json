@@ -1,0 +1,31 @@
+{
+  "content_id": "cnt_col_materialy_ru",
+  "primary_object_id": "obj_col_materialy",
+  "content_type": "collection",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_materialy_intro",
+    "clm_materialy_scope"
+  ],
+  "source_ids": [
+    "src_materialy_1",
+    "src_materialy_2"
+  ],
+  "last_reviewed": "2026-08-18",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "materialy",
+  "title": "Материалы",
+  "summary": "Физические свойства, визуальные характеристики и культурные коды материалов — от камня и металла до текстиля и композитов.",
+  "discipline": [
+    "material-design",
+    "architecture",
+    "product-design"
+  ],
+  "kind": "collection",
+  "body_hash": "70cec0c9094fffac4bcca845d743e6cba3fb375807f15da5a481bd262add4c9f"
+}

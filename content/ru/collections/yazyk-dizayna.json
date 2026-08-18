@@ -1,0 +1,31 @@
+{
+  "content_id": "cnt_col_yazyk_ru",
+  "primary_object_id": "obj_col_yazyk_dizayna",
+  "content_type": "collection",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_yazyk-dizayna_intro",
+    "clm_yazyk-dizayna_scope"
+  ],
+  "source_ids": [
+    "src_yazyk-dizayna_1",
+    "src_yazyk-dizayna_2"
+  ],
+  "last_reviewed": "2026-08-18",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "yazyk-dizayna",
+  "title": "Язык дизайна",
+  "summary": "Подборка движений, принципов и авторов, сформировавших общий профессиональный словарь визуального дизайна.",
+  "discipline": [
+    "graphic-design",
+    "editorial-design",
+    "typography"
+  ],
+  "kind": "collection",
+  "body_hash": "208afbb0e02b95fbdbb2b02e784e399e4b84e1eda81d70432bf27f917a47afe0"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "obj_col_yazyk_dizayna",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "content_type": "collection",
+  "canonical_name": "Язык дизайна",
+  "canonical_name_en": "Design Language",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_yazyk-dizayna_1",
+      "title": "VANSMITHLAB — Editorial curated selection",
+      "url": "https://vansmithlab.com",
+      "tier": 2
+    },
+    {
+      "id": "src_yazyk-dizayna_2",
+      "title": "VANSMITHLAB — Knowledge base cross-references",
+      "url": "https://vansmithlab.com",
+      "tier": 2
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_yazyk-dizayna_intro",
+      "wording_ru": "Подборка движений, принципов и авторов, сформировавших общий профессиональный словарь визуального дизайна.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_yazyk-dizayna_scope",
+      "wording_ru": "Подборка основана на материалах базы знаний VANSMITHLAB, верифицированных редакцией.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_yazyk-dizayna_intro",
+      "source_id": "src_yazyk-dizayna_1",
+      "locator": "VANSMITHLAB editorial collection"
+    },
+    {
+      "claim_id": "clm_yazyk-dizayna_scope",
+      "source_id": "src_yazyk-dizayna_2",
+      "locator": "VANSMITHLAB editorial collection"
+    }
+  ],
+  "last_updated": "2026-08-18"
+}

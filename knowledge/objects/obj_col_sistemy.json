@@ -1,0 +1,51 @@
+{
+  "id": "obj_col_sistemy",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "content_type": "collection",
+  "canonical_name": "Системы дизайна",
+  "canonical_name_en": "Design Systems",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_sistemy-dizayna_1",
+      "title": "VANSMITHLAB — Editorial curated selection",
+      "url": "https://vansmithlab.com",
+      "tier": 2
+    },
+    {
+      "id": "src_sistemy-dizayna_2",
+      "title": "VANSMITHLAB — Knowledge base cross-references",
+      "url": "https://vansmithlab.com",
+      "tier": 2
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_sistemy-dizayna_intro",
+      "wording_ru": "Организации, авторы и движения, превратившие метод в воспроизводимую практику — от швейцарской типографики до параметрической архитектуры.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_sistemy-dizayna_scope",
+      "wording_ru": "Подборка основана на материалах базы знаний VANSMITHLAB, верифицированных редакцией.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_sistemy-dizayna_intro",
+      "source_id": "src_sistemy-dizayna_1",
+      "locator": "VANSMITHLAB editorial collection"
+    },
+    {
+      "claim_id": "clm_sistemy-dizayna_scope",
+      "source_id": "src_sistemy-dizayna_2",
+      "locator": "VANSMITHLAB editorial collection"
+    }
+  ],
+  "last_updated": "2026-08-18"
+}

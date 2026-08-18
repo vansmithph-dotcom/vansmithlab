@@ -1,0 +1,38 @@
+{
+  "content_id": "cnt_col_sistemy_en",
+  "primary_object_id": "obj_col_sistemy",
+  "content_type": "collection",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_sistemy-dizayna_intro",
+    "clm_sistemy-dizayna_scope"
+  ],
+  "source_ids": [
+    "src_sistemy-dizayna_1",
+    "src_sistemy-dizayna_2"
+  ],
+  "last_reviewed": "2026-08-18",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "sistemy-dizayna",
+  "title": "Design Systems",
+  "summary": "Organisations, authors and movements that turned a method into reproducible practice — from Swiss typography to parametric architecture.",
+  "discipline": [
+    "graphic-design",
+    "architecture",
+    "product-design",
+    "identity-design"
+  ],
+  "kind": "collection",
+  "body_hash": "19de026e1daa738967b700a4ac975dbbf541403586c7cf3a70f9f62708a45e61",
+  "translation": {
+    "source_locale": "ru",
+    "translated_by": "VANSMITHLAB",
+    "semantic_validated": true,
+    "translation_date": "2026-08-18"
+  }
+}

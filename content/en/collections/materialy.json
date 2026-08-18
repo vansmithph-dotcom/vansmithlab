@@ -1,0 +1,37 @@
+{
+  "content_id": "cnt_col_materialy_en",
+  "primary_object_id": "obj_col_materialy",
+  "content_type": "collection",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_materialy_intro",
+    "clm_materialy_scope"
+  ],
+  "source_ids": [
+    "src_materialy_1",
+    "src_materialy_2"
+  ],
+  "last_reviewed": "2026-08-18",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "materialy",
+  "title": "Materials",
+  "summary": "Physical properties, visual characteristics and cultural codes of materials — from stone and metal to textile and composites.",
+  "discipline": [
+    "material-design",
+    "architecture",
+    "product-design"
+  ],
+  "kind": "collection",
+  "body_hash": "97852b74557a8bb49df47ceaad6259a47dc383e6eeaa4161b1e8c90d05641bd5",
+  "translation": {
+    "source_locale": "ru",
+    "translated_by": "VANSMITHLAB",
+    "semantic_validated": true,
+    "translation_date": "2026-08-18"
+  }
+}

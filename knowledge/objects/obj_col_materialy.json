@@ -1,0 +1,51 @@
+{
+  "id": "obj_col_materialy",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "content_type": "collection",
+  "canonical_name": "Материалы",
+  "canonical_name_en": "Materials",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_materialy_1",
+      "title": "VANSMITHLAB — Editorial curated selection",
+      "url": "https://vansmithlab.com",
+      "tier": 2
+    },
+    {
+      "id": "src_materialy_2",
+      "title": "VANSMITHLAB — Knowledge base cross-references",
+      "url": "https://vansmithlab.com",
+      "tier": 2
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_materialy_intro",
+      "wording_ru": "Физические свойства, визуальные характеристики и культурные коды материалов — от камня и металла до текстиля и композитов.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_materialy_scope",
+      "wording_ru": "Подборка основана на материалах базы знаний VANSMITHLAB, верифицированных редакцией.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_materialy_intro",
+      "source_id": "src_materialy_1",
+      "locator": "VANSMITHLAB editorial collection"
+    },
+    {
+      "claim_id": "clm_materialy_scope",
+      "source_id": "src_materialy_2",
+      "locator": "VANSMITHLAB editorial collection"
+    }
+  ],
+  "last_updated": "2026-08-18"
+}
