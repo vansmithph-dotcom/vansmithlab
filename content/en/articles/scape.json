@@ -1,0 +1,33 @@
+{
+  "content_id": "cnt_07923117a083da97",
+  "primary_object_id": "obj__05f72f3168299f37",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_origin",
+    "clm_method",
+    "clm_case1",
+    "clm_case2",
+    "clm_impact",
+    "clm_current"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "scape",
+  "title": "SCAPE",
+  "summary": "A landscape practice in New York since 2007. It connects ecological restoration, public life and protective infrastructure, especially in coastal and climate-vulnerable territories.",
+  "discipline": [
+    "architecture"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "f51acb40152b9079471cc73a42ffda219fba02e4a32d7e07b1fbdab310928ca7",
+  "translation": {
+    "semantic_validated": true
+  }
+}

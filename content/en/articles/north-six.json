@@ -1,0 +1,35 @@
+{
+  "content_id": "cnt_7a6cdfa4cc15be05",
+  "primary_object_id": "obj__8dacce948abda544",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_origin",
+    "clm_method",
+    "clm_case1",
+    "clm_case2",
+    "clm_impact",
+    "clm_current"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "north-six",
+  "title": "North Six",
+  "summary": "A company in New York since 2001. It organises stills, moving-image and experiential production for fashion, luxury and beauty with attention to local teams and international logistics.",
+  "discipline": [
+    "fashion",
+    "photography",
+    "media-publishing"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "46afc199b60997fa513d0c954a6f692a3c40ae0d4140c9397e5433e1346bf4f1",
+  "translation": {
+    "semantic_validated": true
+  }
+}

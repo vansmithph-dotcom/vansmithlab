@@ -1,0 +1,33 @@
+{
+  "content_id": "cnt_2d8f625ebaab06bb",
+  "primary_object_id": "obj__5fe6fad5bff4c2bd",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_origin",
+    "clm_method",
+    "clm_case1",
+    "clm_case2",
+    "clm_impact",
+    "clm_current"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "industrial-facility",
+  "title": "Industrial Facility",
+  "summary": "An industrial and product design studio in London since 2002. It starts from utility and long-term use.",
+  "discipline": [
+    "product-design"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "bed369f6dc5a929d9814ef7b2854dae5bbfdf501425ad2dc897d7e65518ba80e",
+  "translation": {
+    "semantic_validated": true
+  }
+}

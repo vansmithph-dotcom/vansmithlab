@@ -1,0 +1,35 @@
+{
+  "content_id": "cnt_4b2345690d371dd8",
+  "primary_object_id": "obj__bd43d1031b3fa6b6",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_origin",
+    "clm_method",
+    "clm_case1",
+    "clm_case2",
+    "clm_impact",
+    "clm_current"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "space-copenhagen",
+  "title": "Space Copenhagen",
+  "summary": "A studio in Copenhagen since 2005. It connects interiors and product design through calm materials, tactility and atmosphere, often working in hospitality.",
+  "discipline": [
+    "interior-design",
+    "architecture",
+    "product-design"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "192823a3e2d16d5e9f68e453e9feb46ebf22f65bff10aa7509b0f52c5c11d366",
+  "translation": {
+    "semantic_validated": true
+  }
+}

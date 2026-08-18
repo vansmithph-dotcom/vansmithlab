@@ -1,0 +1,38 @@
+{
+  "content_id": "cnt_657b3bcfa19b313d",
+  "primary_object_id": "obj__2c319dfc02c22ca9",
+  "content_type": "stylist_profile",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_origin",
+    "clm_method",
+    "clm_case1",
+    "clm_case2",
+    "clm_impact",
+    "clm_current"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "lotta-volkova-styling-subculture-fashion",
+  "title": "Lotta Volkova",
+  "summary": "The stylist as cultural montage: subculture, runway and a new system of taste",
+  "discipline": [
+    "fashion",
+    "photography",
+    "media-publishing"
+  ],
+  "kind": "person",
+  "role": [
+    "stylist",
+    "fashion-editor"
+  ],
+  "body_hash": "ea14b049ab4c51fb3a7847d106cc6934d5b7a66f50f88eec0cb8704d3bd0cd71",
+  "translation": {
+    "semantic_validated": true
+  }
+}

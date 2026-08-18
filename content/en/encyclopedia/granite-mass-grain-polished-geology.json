@@ -1,0 +1,36 @@
+{
+  "content_id": "cnt_bcef5697c53b659f",
+  "primary_object_id": "obj_mat_d1861852f4c1f81b",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.75,
+  "claim_ids": [
+    "clm_composition",
+    "clm_production",
+    "clm_surface",
+    "clm_design_use"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "granite-mass-grain-polished-geology",
+  "title": "Granite",
+  "summary": "Stone: igneous mass, grain, polish, public interior and durable surface.",
+  "discipline": [
+    "materials",
+    "architecture",
+    "interior-design",
+    "product-design",
+    "fashion",
+    "photography"
+  ],
+  "kind": "material-technique",
+  "role": [],
+  "body_hash": "666ce918f564186a3e939e341aab4350f1ef8017c9c79f5b97e88fd6e10a09ee",
+  "translation": {
+    "semantic_validated": true
+  }
+}

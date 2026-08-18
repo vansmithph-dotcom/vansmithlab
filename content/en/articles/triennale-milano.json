@@ -1,0 +1,38 @@
+{
+  "content_id": "cnt_d114161e7eb0b2bd",
+  "primary_object_id": "obj__873568a46992ad02",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_origin",
+    "clm_method",
+    "clm_case1",
+    "clm_case2",
+    "clm_impact",
+    "clm_current"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "triennale-milano",
+  "title": "Triennale Milano",
+  "summary": "A cultural institution. It connects exhibitions of design, architecture, art, photography, fashion and performance, shaping a long history of Italian design through recurring international events.",
+  "discipline": [
+    "art",
+    "architecture",
+    "graphic-design",
+    "product-design",
+    "fashion",
+    "media-publishing"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "06b0748d8b9e11ef8a18fb85a391724dfe080f8c72a2a6e7955270c2d8ffe358",
+  "translation": {
+    "semantic_validated": true
+  }
+}

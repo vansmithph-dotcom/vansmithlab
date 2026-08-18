@@ -1,0 +1,34 @@
+{
+  "content_id": "cnt_97546f3ca70c14e8",
+  "primary_object_id": "obj__96e4ca550a876c67",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_origin",
+    "clm_method",
+    "clm_case1",
+    "clm_case2",
+    "clm_impact",
+    "clm_current"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "dinamo",
+  "title": "Dinamo",
+  "summary": "A type studio in Berlin since 2013. It connects type design with software, research, publishing and unconventional distribution models.",
+  "discipline": [
+    "graphic-design",
+    "media-publishing"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "e380db72dfde626b7a48f4bc1c3dbf5223a529c88202a3d0d3c42fdbe62c97fe",
+  "translation": {
+    "semantic_validated": true
+  }
+}

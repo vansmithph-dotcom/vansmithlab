@@ -1,16 +1,19 @@
 {
   "content_id": "cnt_079e0628ed2e3ce3",
-  "primary_object_id": "",
+  "primary_object_id": "obj_fd84634b66fa329e",
   "content_type": "research",
   "state": "published",
   "source_locale": "ru",
   "source_revision": 1,
-  "verification_state": "unverified",
-  "confidence_score": 0.0,
-  "claim_ids": [],
-  "source_ids": [
-    "src_cc967add3b3770b3",
-    "src_42f89322c0d5b9d6"
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_origin",
+    "clm_method",
+    "clm_case1",
+    "clm_case2",
+    "clm_impact",
+    "clm_current"
   ],
   "last_reviewed": "2026-08-15",
   "author": "VANSMITHLAB",
@@ -32,5 +35,8 @@
     "caption": "Everything hung up at once: independent hands working in one room, judged side by side.",
     "credit": "VANSMITHLAB · AI illustration, 2026",
     "origin": "ai_illustration"
+  },
+  "translation": {
+    "semantic_validated": true
   }
 }

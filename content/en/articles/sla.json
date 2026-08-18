@@ -1,0 +1,33 @@
+{
+  "content_id": "cnt_6eefafa5185f3192",
+  "primary_object_id": "obj__0b40c95e084b47c3",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_origin",
+    "clm_method",
+    "clm_case1",
+    "clm_case2",
+    "clm_impact",
+    "clm_current"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "sla",
+  "title": "SLA",
+  "summary": "A landscape practice in Copenhagen since 1994. It uses nature as active urban infrastructure for climate, biodiversity, water, shade and everyday human life.",
+  "discipline": [
+    "architecture"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "15c033d5dc06adcfa1c7c797c566e337f9c7341aa558fda947158667d5c147b8",
+  "translation": {
+    "semantic_validated": true
+  }
+}

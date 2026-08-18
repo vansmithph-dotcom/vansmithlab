@@ -1,0 +1,33 @@
+{
+  "content_id": "cnt_d54c2aa2f6160302",
+  "primary_object_id": "obj__e6ab37ac5c0d7687",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_origin",
+    "clm_method",
+    "clm_case1",
+    "clm_case2",
+    "clm_impact",
+    "clm_current"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "layer",
+  "title": "LAYER",
+  "summary": "An industrial and product design studio in London since 2015. It combines strategy, industrial design, engineering and visual identity.",
+  "discipline": [
+    "product-design"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "f81d16e96fff5e042d03ad0937dcaeb062152feb6256d9d5d968171f775dceea",
+  "translation": {
+    "semantic_validated": true
+  }
+}

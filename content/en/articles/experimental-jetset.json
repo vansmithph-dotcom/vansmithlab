@@ -1,16 +1,19 @@
 {
   "content_id": "cnt_9424bfb4a2fc3ef3",
-  "primary_object_id": "",
+  "primary_object_id": "obj_67256375457b5157",
   "content_type": "research",
   "state": "published",
   "source_locale": "ru",
   "source_revision": 1,
-  "verification_state": "unverified",
-  "confidence_score": 0.0,
-  "claim_ids": [],
-  "source_ids": [
-    "src_479ed6dc5b992f13",
-    "src_09c616163479a39e"
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_origin",
+    "clm_method",
+    "clm_case1",
+    "clm_case2",
+    "clm_impact",
+    "clm_current"
   ],
   "last_reviewed": "2026-08-15",
   "author": "VANSMITHLAB",
@@ -32,5 +35,8 @@
     "caption": "Print checked at actual size: the medium itself is the constraint the work is built from.",
     "credit": "VANSMITHLAB · AI illustration, 2026",
     "origin": "ai_illustration"
+  },
+  "translation": {
+    "semantic_validated": true
   }
 }

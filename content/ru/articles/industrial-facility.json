@@ -1,0 +1,30 @@
+{
+  "content_id": "cnt_2d8f625ebaab06bb",
+  "primary_object_id": "obj__5fe6fad5bff4c2bd",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_origin",
+    "clm_method",
+    "clm_case1",
+    "clm_case2",
+    "clm_impact",
+    "clm_current"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "industrial-facility",
+  "title": "Industrial Facility",
+  "summary": "Студия промышленного и предметного дизайна в Лондоне с 2002 года. Исходит из полезности и длительного использования.",
+  "discipline": [
+    "product-design"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "d248dc565132f6fcba167e2a3bdf332c2789b0cc8b6095bd5ce25a98c2c1e13c"
+}

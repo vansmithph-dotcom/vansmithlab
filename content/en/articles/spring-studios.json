@@ -1,0 +1,35 @@
+{
+  "content_id": "cnt_2ef3413da5c8cd12",
+  "primary_object_id": "obj__0c047801cc1a986b",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_origin",
+    "clm_method",
+    "clm_case1",
+    "clm_case2",
+    "clm_impact",
+    "clm_current"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "spring-studios",
+  "title": "Spring Studios",
+  "summary": "A company in London since 1997. It combines creative strategy, campaigns, content, events and physical studio spaces for fashion, luxury and premium brands.",
+  "discipline": [
+    "fashion",
+    "photography",
+    "media-publishing"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "76bc8dcc9611f3512c0e0091793719cf4dd3a29d4ae14f44004b3140e379c082",
+  "translation": {
+    "semantic_validated": true
+  }
+}

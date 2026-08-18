@@ -1,0 +1,34 @@
+{
+  "content_id": "cnt_838e8fb33e854338",
+  "primary_object_id": "obj__9ec133ce82ffb22b",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_origin",
+    "clm_method",
+    "clm_case1",
+    "clm_case2",
+    "clm_impact",
+    "clm_current"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "tbwa-worldwide",
+  "title": "TBWA Worldwide",
+  "summary": "An advertising agency in Paris since 1970. It builds work by identifying category conventions and deliberately breaking them through its Disruption methodology.",
+  "discipline": [
+    "graphic-design",
+    "media-publishing"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "d1f41567a4d57c4710ff11f2efed6b79d20f38a7d40ce466a9db5f9c23759a4b",
+  "translation": {
+    "semantic_validated": true
+  }
+}

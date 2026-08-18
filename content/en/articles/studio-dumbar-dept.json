@@ -1,0 +1,35 @@
+{
+  "content_id": "cnt_29404a84c176e722",
+  "primary_object_id": "obj__459b9ca2eed4348b",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_origin",
+    "clm_method",
+    "clm_case1",
+    "clm_case2",
+    "clm_impact",
+    "clm_current"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "studio-dumbar-dept",
+  "title": "Studio Dumbar/DEPT®",
+  "summary": "A design studio in The Hague since 1977. It builds visual identities as dynamic systems in which typography, motion, sound and programmable graphics work together.",
+  "discipline": [
+    "graphic-design",
+    "product-design",
+    "media-publishing"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "b2b142ce0486666794263c94b7da8fb33ae0b0cd14b3c916a8a80aebadcf83b6",
+  "translation": {
+    "semantic_validated": true
+  }
+}

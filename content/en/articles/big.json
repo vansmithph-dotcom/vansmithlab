@@ -1,16 +1,19 @@
 {
   "content_id": "cnt_95c4bea12e4edcf8",
-  "primary_object_id": "",
+  "primary_object_id": "obj_2d95cff4d66f987b",
   "content_type": "research",
   "state": "published",
   "source_locale": "ru",
   "source_revision": 1,
-  "verification_state": "unverified",
-  "confidence_score": 0.0,
-  "claim_ids": [],
-  "source_ids": [
-    "src_1a8f0ec7f71c7dc7",
-    "src_5e11ee8df41b3170"
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_origin",
+    "clm_method",
+    "clm_case1",
+    "clm_case2",
+    "clm_impact",
+    "clm_current"
   ],
   "last_reviewed": "2026-08-15",
   "author": "VANSMITHLAB",
@@ -31,5 +34,8 @@
     "caption": "Massing studies in the round: form tested as an object before it is tested as an image.",
     "credit": "VANSMITHLAB · AI illustration, 2026",
     "origin": "ai_illustration"
+  },
+  "translation": {
+    "semantic_validated": true
   }
 }

@@ -1,0 +1,33 @@
+{
+  "content_id": "cnt_a0153e985a537170",
+  "primary_object_id": "obj__0a9b03131db878bd",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_origin",
+    "clm_method",
+    "clm_case1",
+    "clm_case2",
+    "clm_impact",
+    "clm_current"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "fuseproject",
+  "title": "Fuseproject",
+  "summary": "An industrial and product design studio in San Francisco since 1999. It connects industrial design, engineering, brand and entrepreneurship.",
+  "discipline": [
+    "product-design"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "c7b6160aafa724ca54f746e18698db8d452ac09f522e3f23aad41d73df72bba6",
+  "translation": {
+    "semantic_validated": true
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "content_id": "cnt_f831edf687d71c64",
+  "primary_object_id": "obj_mat_345e3171278c261e",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.75,
+  "claim_ids": [
+    "clm_composition",
+    "clm_production",
+    "clm_surface",
+    "clm_design_use"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "cotton-fibre-everyday-textile-global-code",
+  "title": "Cotton",
+  "summary": "Textiles: plant fibre, shirt, denim, home, labour and global everyday life.",
+  "discipline": [
+    "materials",
+    "architecture",
+    "interior-design",
+    "product-design",
+    "fashion",
+    "photography"
+  ],
+  "kind": "material-technique",
+  "role": [],
+  "body_hash": "5d391c0ba7af25837ebc5394c666946eb133333b97343f5427e2b653a66c3aad",
+  "translation": {
+    "semantic_validated": true
+  }
+}

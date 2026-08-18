@@ -1,0 +1,35 @@
+{
+  "content_id": "cnt_c0f778371faed8a3",
+  "primary_object_id": "obj__4529453af1cf55af",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_origin",
+    "clm_method",
+    "clm_case1",
+    "clm_case2",
+    "clm_impact",
+    "clm_current"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "moment-factory",
+  "title": "Moment Factory",
+  "summary": "A studio in Montreal since 2001. It combines light, sound, video, scenography, architecture and interaction in large public and entertainment environments.",
+  "discipline": [
+    "graphic-design",
+    "art",
+    "media-publishing"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "979312d5e4c8e220d0a69fba56e997031cdcbea3f58410db1e9e4a7b409a5e29",
+  "translation": {
+    "semantic_validated": true
+  }
+}

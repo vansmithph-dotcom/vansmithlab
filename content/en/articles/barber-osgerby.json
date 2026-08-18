@@ -1,0 +1,33 @@
+{
+  "content_id": "cnt_f53a4b3ca6ab3022",
+  "primary_object_id": "obj__214f4f490c2c13a8",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_origin",
+    "clm_method",
+    "clm_case1",
+    "clm_case2",
+    "clm_impact",
+    "clm_current"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "barber-osgerby",
+  "title": "Barber Osgerby",
+  "summary": "An industrial and product design studio in London since 1996. It built objects through research into material, technology and industrial process.",
+  "discipline": [
+    "product-design"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "56fdb38219ee2a04c3a13fd27281606907cc48e9a74f1082080dee0fef90d0c2",
+  "translation": {
+    "semantic_validated": true
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "content_id": "cnt_fad2c8c8e2bd481c",
+  "primary_object_id": "obj__d6f46d7e52d090ae",
+  "content_type": "industrial_designer_profile",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_origin",
+    "clm_method",
+    "clm_case1",
+    "clm_case2",
+    "clm_impact",
+    "clm_current"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "ettore-sottsass-radical-design-memphis",
+  "title": "Ettore Sottsass",
+  "summary": "From Olivetti to Memphis: the object as carrier of emotion, sign and cultural conflict",
+  "discipline": [
+    "product-design",
+    "interior-design",
+    "architecture",
+    "graphic-design",
+    "art"
+  ],
+  "kind": "person",
+  "role": [
+    "industrial-designer",
+    "interior-designer",
+    "critic-theorist"
+  ],
+  "body_hash": "414921f2e17ed92534a35b70a75d0ac74827d3b54060910486e0b3a76db18e17",
+  "translation": {
+    "semantic_validated": true
+  }
+}

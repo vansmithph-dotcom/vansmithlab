@@ -1,16 +1,19 @@
 {
   "content_id": "cnt_1caa19d8e55c5892",
-  "primary_object_id": "",
+  "primary_object_id": "obj_a9dd382b0c0d17fd",
   "content_type": "research",
   "state": "published",
   "source_locale": "ru",
   "source_revision": 1,
-  "verification_state": "unverified",
-  "confidence_score": 0.0,
-  "claim_ids": [],
-  "source_ids": [
-    "src_fdee3116439493b3",
-    "src_5d1a0e8fc94ce5ab"
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_origin",
+    "clm_method",
+    "clm_case1",
+    "clm_case2",
+    "clm_impact",
+    "clm_current"
   ],
   "last_reviewed": "2026-08-15",
   "author": "VANSMITHLAB",

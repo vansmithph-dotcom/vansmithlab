@@ -1,0 +1,35 @@
+{
+  "content_id": "cnt_a768e36d2d5c1722",
+  "primary_object_id": "obj__3c124f3c80b5f5d1",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_origin",
+    "clm_method",
+    "clm_case1",
+    "clm_case2",
+    "clm_impact",
+    "clm_current"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "material-connexion",
+  "title": "Material ConneXion",
+  "summary": "A research organisation in New York since 1997. It builds physical and digital libraries of new materials and helps designers compare properties, suppliers and possible applications.",
+  "discipline": [
+    "product-design",
+    "architecture",
+    "art"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "0a97926b8e612a9cbeb96f20013b0ecbbdc891d055a97b0f2270f596ea9cfa2b",
+  "translation": {
+    "semantic_validated": true
+  }
+}

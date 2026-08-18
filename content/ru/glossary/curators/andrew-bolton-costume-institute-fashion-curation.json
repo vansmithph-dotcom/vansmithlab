@@ -1,0 +1,34 @@
+{
+  "content_id": "cnt_1f652fbaae762858",
+  "primary_object_id": "obj__4c7b8fdb23d81776",
+  "content_type": "curator_profile",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_origin",
+    "clm_method",
+    "clm_case1",
+    "clm_case2",
+    "clm_impact",
+    "clm_current"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "andrew-bolton-costume-institute-fashion-curation",
+  "title": "Эндрю Болтон",
+  "summary": "Выставка моды как аргумент: тело, объект, история и массовая аудитория музея",
+  "discipline": [
+    "fashion",
+    "art",
+    "media-publishing"
+  ],
+  "kind": "person",
+  "role": [
+    "curator"
+  ],
+  "body_hash": "a2514ae3ec3f6dae8da7642e5f7621feeef748a080e2c68ba32cd27593c98f90"
+}

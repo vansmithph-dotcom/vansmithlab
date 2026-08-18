@@ -1,0 +1,37 @@
+{
+  "content_id": "cnt_31f0cdadecc8c091",
+  "primary_object_id": "obj__0af1b06c07086cd8",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_origin",
+    "clm_method",
+    "clm_case1",
+    "clm_case2",
+    "clm_impact",
+    "clm_current"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "spector-books",
+  "title": "Spector Books",
+  "summary": "An independent publisher or editorial studio in Leipzig since 2001. It works at the intersection of art, theory and design and treats book production as exchange among authors, designers, printers, publishers and material.",
+  "discipline": [
+    "media-publishing",
+    "graphic-design",
+    "photography",
+    "art",
+    "architecture"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "fd31c7cae315e077a844b8d7216a9679a6d1cf5b73e33bf1a835f01505fc10f9",
+  "translation": {
+    "semantic_validated": true
+  }
+}

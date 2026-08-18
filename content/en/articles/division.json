@@ -1,0 +1,35 @@
+{
+  "content_id": "cnt_4fd95a301ae378a4",
+  "primary_object_id": "obj__fe369dd5dbdc79ed",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_origin",
+    "clm_method",
+    "clm_case1",
+    "clm_case2",
+    "clm_impact",
+    "clm_current"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "division",
+  "title": "DIVISION",
+  "summary": "A company in Paris since 2010. It connects production, director and photographer representation.",
+  "discipline": [
+    "fashion",
+    "photography",
+    "media-publishing"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "5b5c4429ff6623da22dc4957c5c47a3a89563015219b23e470ce2f7abccc1995",
+  "translation": {
+    "semantic_validated": true
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "content_id": "cnt_760e501a27233203",
+  "primary_object_id": "obj__7a3deaf7147ea040",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_origin",
+    "clm_method",
+    "clm_case1",
+    "clm_case2",
+    "clm_impact",
+    "clm_current"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "commercial-type",
+  "title": "Commercial Type",
+  "summary": "A type studio in London and New York since 2007. It creates retail and custom type families through historical research, precise typographic systems and the demands of contemporary media.",
+  "discipline": [
+    "graphic-design",
+    "media-publishing"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "df3b00f5a697596f2747ec1bf015642d6c031a19d44208338568b322de2ce92e",
+  "translation": {
+    "semantic_validated": true
+  }
+}

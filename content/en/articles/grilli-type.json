@@ -1,0 +1,34 @@
+{
+  "content_id": "cnt_4b7ffacc7b6e5df3",
+  "primary_object_id": "obj__08d52b9092801093",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_origin",
+    "clm_method",
+    "clm_case1",
+    "clm_case2",
+    "clm_impact",
+    "clm_current"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "grilli-type",
+  "title": "Grilli Type",
+  "summary": "A type studio in Zurich since 2009. It reinterprets Swiss typographic tradition through contemporary families, screen use and expressive details inside rational systems.",
+  "discipline": [
+    "graphic-design",
+    "media-publishing"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "a5c379d5d2535d214498aa8a6d9980028962bbc784f2eeed742a8eb6ec7d61cd",
+  "translation": {
+    "semantic_validated": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "content_id": "cnt_221a01cb943483c2",
+  "primary_object_id": "obj__c11a8a27ac102464",
+  "content_type": "curator_profile",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_origin",
+    "clm_method",
+    "clm_case1",
+    "clm_case2",
+    "clm_impact",
+    "clm_current"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "claire-wilcox-fashion-curation-victoria-albert",
+  "title": "Claire Wilcox",
+  "summary": "Fashion in the museum: from historic dress to exhibition as a mass cultural platform",
+  "discipline": [
+    "fashion",
+    "art",
+    "media-publishing"
+  ],
+  "kind": "person",
+  "role": [
+    "curator",
+    "critic-theorist"
+  ],
+  "body_hash": "da7452bbc4f68d5e35791e2ab8bb2227be0ffa1c1235cfb7e6941a4946c38138",
+  "translation": {
+    "semantic_validated": true
+  }
+}

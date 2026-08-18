@@ -1,0 +1,36 @@
+{
+  "content_id": "cnt_ce99605f30c46305",
+  "primary_object_id": "obj_mat_4c3c2b803ce8d158",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.75,
+  "claim_ids": [
+    "clm_composition",
+    "clm_production",
+    "clm_surface",
+    "clm_design_use"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "silver-gelatin-print-tone-grain-archival-surface",
+  "title": "Silver gelatin print",
+  "summary": "Photographic processes: silver, gelatin, tonal range, grain and archival black-and-white surface.",
+  "discipline": [
+    "materials",
+    "architecture",
+    "interior-design",
+    "product-design",
+    "fashion",
+    "photography"
+  ],
+  "kind": "material-technique",
+  "role": [],
+  "body_hash": "a11b742119e54c418e1a3ca31b62cfd23c6d96aa4746332cea4ee57978605950",
+  "translation": {
+    "semantic_validated": true
+  }
+}

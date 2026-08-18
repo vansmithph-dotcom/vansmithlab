@@ -1,0 +1,37 @@
+{
+  "content_id": "cnt_dd44a80d004aa9e2",
+  "primary_object_id": "obj__96f2f8f6c78fb109",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_origin",
+    "clm_method",
+    "clm_case1",
+    "clm_case2",
+    "clm_impact",
+    "clm_current"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "inventory-press",
+  "title": "Inventory Press",
+  "summary": "An independent publisher or editorial studio in Los Angeles since 2015. It publishes books on art, architecture, design and music.",
+  "discipline": [
+    "media-publishing",
+    "graphic-design",
+    "photography",
+    "art",
+    "architecture"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "b9d1cb40d736127c8e2aac11b61e5ff43de7ce763fffcede1bc9007bb7aa3e56",
+  "translation": {
+    "semantic_validated": true
+  }
+}

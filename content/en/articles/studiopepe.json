@@ -1,0 +1,35 @@
+{
+  "content_id": "cnt_f03bacc78c4b7f10",
+  "primary_object_id": "obj__2b9873a9a2ffabfe",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_origin",
+    "clm_method",
+    "clm_case1",
+    "clm_case2",
+    "clm_impact",
+    "clm_current"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "studiopepe",
+  "title": "Studiopepe",
+  "summary": "A studio in Milan since 2006. It connects interiors, objects, exhibition staging and colour research, creating spaces as complete authored statements.",
+  "discipline": [
+    "interior-design",
+    "architecture",
+    "product-design"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "9aab0db7f4bbe65b29d8332d07cd94559e9f81c1b7dc074ebb548ea59df92072",
+  "translation": {
+    "semantic_validated": true
+  }
+}

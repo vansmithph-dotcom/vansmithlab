@@ -1,0 +1,36 @@
+{
+  "content_id": "cnt_c498d82be80b1340",
+  "primary_object_id": "obj_mat_4fe1db5bc7070474",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.75,
+  "claim_ids": [
+    "clm_composition",
+    "clm_production",
+    "clm_surface",
+    "clm_design_use"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "limestone-soft-mass-porous-architecture",
+  "title": "Limestone",
+  "summary": "Stone: sedimentary softness, porosity, facade, sculpture and dignified ageing.",
+  "discipline": [
+    "materials",
+    "architecture",
+    "interior-design",
+    "product-design",
+    "fashion",
+    "photography"
+  ],
+  "kind": "material-technique",
+  "role": [],
+  "body_hash": "f997b31c7c7dd0a49aee793d7ce68a91b5bf7005fac787a30606e9851bc13c26",
+  "translation": {
+    "semantic_validated": true
+  }
+}

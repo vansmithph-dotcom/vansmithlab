@@ -1,0 +1,35 @@
+{
+  "content_id": "cnt_7572c195e71a21f5",
+  "primary_object_id": "obj__bcb30a22d6d52421",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_origin",
+    "clm_method",
+    "clm_case1",
+    "clm_case2",
+    "clm_impact",
+    "clm_current"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "design-museum-london",
+  "title": "Design Museum London",
+  "summary": "Культурная институция в Лондоне с 1989 года. Представляет современный дизайн широкому обществу через выставки, образование, коллекцию и программы, соединяющие предмет, графику, моду, архитектуру и технологии.",
+  "discipline": [
+    "art",
+    "architecture",
+    "graphic-design",
+    "product-design",
+    "fashion",
+    "media-publishing"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "d004c311540044ddbac55a2d545f18b2349b185b63a459043bd7bbeb1811f1b3"
+}

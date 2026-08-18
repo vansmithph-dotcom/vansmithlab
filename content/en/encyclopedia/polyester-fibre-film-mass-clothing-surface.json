@@ -1,0 +1,36 @@
+{
+  "content_id": "cnt_cd6b7858a2761ced",
+  "primary_object_id": "obj_mat_e96dc95d661cdf54",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.75,
+  "claim_ids": [
+    "clm_composition",
+    "clm_production",
+    "clm_surface",
+    "clm_design_use"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "polyester-fibre-film-mass-clothing-surface",
+  "title": "Polyester",
+  "summary": "Polymers: synthetic fibre, film, mass clothing and technical surface.",
+  "discipline": [
+    "materials",
+    "architecture",
+    "interior-design",
+    "product-design",
+    "fashion",
+    "photography"
+  ],
+  "kind": "material-technique",
+  "role": [],
+  "body_hash": "ceac8bad567aa997e6dae4707035fa00dc297a6eefdd963bf72f8f7a6816fbfa",
+  "translation": {
+    "semantic_validated": true
+  }
+}

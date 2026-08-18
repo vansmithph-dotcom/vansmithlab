@@ -1,0 +1,35 @@
+{
+  "content_id": "cnt_9c710ff94b6f3ab1",
+  "primary_object_id": "obj__af9792fcaed607f3",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_origin",
+    "clm_method",
+    "clm_case1",
+    "clm_case2",
+    "clm_impact",
+    "clm_current"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "ok-rm",
+  "title": "OK-RM",
+  "summary": "A design studio in London since 2008. It connects graphic design, editorial structure, exhibition space and creative direction, often building projects around sequences of reading.",
+  "discipline": [
+    "graphic-design",
+    "product-design",
+    "media-publishing"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "c77edae0016c8064af1e1f6780e8fa521b27d5ae445b8b5d87b50186837e79c9",
+  "translation": {
+    "semantic_validated": true
+  }
+}

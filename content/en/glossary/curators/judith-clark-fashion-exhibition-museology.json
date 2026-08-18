@@ -1,0 +1,39 @@
+{
+  "content_id": "cnt_941f01753f8d108f",
+  "primary_object_id": "obj__23c7a2634f1c96d2",
+  "content_type": "curator_profile",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_origin",
+    "clm_method",
+    "clm_case1",
+    "clm_case2",
+    "clm_impact",
+    "clm_current"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "judith-clark-fashion-exhibition-museology",
+  "title": "Judith Clark",
+  "summary": "Exhibition as a thinking device: fashion, space, scale and museum critique",
+  "discipline": [
+    "fashion",
+    "art",
+    "interior-design",
+    "media-publishing"
+  ],
+  "kind": "person",
+  "role": [
+    "curator",
+    "critic-theorist"
+  ],
+  "body_hash": "aeec500175656f37a0f406806d173e58c76e4800c296aaf280a49e674aa93f4c",
+  "translation": {
+    "semantic_validated": true
+  }
+}

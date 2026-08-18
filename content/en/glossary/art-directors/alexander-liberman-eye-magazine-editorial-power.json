@@ -1,34 +1,19 @@
 {
   "content_id": "cnt_ae18fb3982489bab",
-  "primary_object_id": "",
+  "primary_object_id": "obj_d50b50b54fb7a2f9",
   "content_type": "art_director_profile",
   "state": "published",
   "source_locale": "ru",
   "source_revision": 1,
-  "verification_state": "unverified",
-  "confidence_score": 0.0,
-  "claim_ids": [],
-  "source_ids": [
-    "src_9ec5d0440560d45e",
-    "src_3937f6f43ce9791c",
-    "src_bc3ba90e7eca335a",
-    "src_089676a85475782b",
-    "src_59713a360859f66b",
-    "src_91ce33445e49b218",
-    "src_695fe02b377b6748",
-    "src_a43c3a0b510223b0",
-    "src_73ec668d381ed898",
-    "src_3963515f2688d516",
-    "src_d463c88e3e8b1b7e",
-    "src_1151228e49699358",
-    "src_6276ae77bfb611b5",
-    "src_f8e164caf94cbeca",
-    "src_1eed5e265d532b3d",
-    "src_fb216fcf81f8e297",
-    "src_ce9bd6f01dccdf74",
-    "src_0682be46b03e02b1",
-    "src_30737dc819c7c891",
-    "src_3a7a5e01e807cade"
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_origin",
+    "clm_method",
+    "clm_case1",
+    "clm_case2",
+    "clm_impact",
+    "clm_current"
   ],
   "last_reviewed": "2026-08-12",
   "author": "VANSMITHLAB",
@@ -78,5 +63,8 @@
     "credit": "VANSMITHLAB · AI-реконструкция, 2026",
     "origin": "ai_reconstruction",
     "rights_status": "generated_reviewed"
+  },
+  "translation": {
+    "semantic_validated": true
   }
 }

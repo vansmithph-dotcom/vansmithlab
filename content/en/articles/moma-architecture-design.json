@@ -1,0 +1,38 @@
+{
+  "content_id": "cnt_9a5d41d4ebff3f28",
+  "primary_object_id": "obj__9fbcc58a3659217e",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_origin",
+    "clm_method",
+    "clm_case1",
+    "clm_case2",
+    "clm_impact",
+    "clm_current"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "moma-architecture-design",
+  "title": "MoMA — Architecture & Design",
+  "summary": "A cultural institution in New York since 1932. It collects architecture and design as interconnected fields, shaping history through exhibitions, acquisitions, archives and research programmes.",
+  "discipline": [
+    "art",
+    "architecture",
+    "graphic-design",
+    "product-design",
+    "fashion",
+    "media-publishing"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "a4aa82e331d692c8e724922abc64810eca04f66f0290575c6c8e84682f92fc9d",
+  "translation": {
+    "semantic_validated": true
+  }
+}

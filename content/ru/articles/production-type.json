@@ -1,0 +1,31 @@
+{
+  "content_id": "cnt_83f7facdb7aa9343",
+  "primary_object_id": "obj__503de9c972a7d7b0",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_origin",
+    "clm_method",
+    "clm_case1",
+    "clm_case2",
+    "clm_impact",
+    "clm_current"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "production-type",
+  "title": "Production Type",
+  "summary": "Шрифтовая студия в Париже с 2014 года. Создаёт розничные и заказные шрифты для издательств, промышленности, моды и роскоши.",
+  "discipline": [
+    "graphic-design",
+    "media-publishing"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "00044340db3b07e5a83a949cf160c5cbfeff47a4dcfec9bf41dc730af4ef2391"
+}

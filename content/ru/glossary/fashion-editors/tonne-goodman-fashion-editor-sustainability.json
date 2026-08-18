@@ -1,0 +1,35 @@
+{
+  "content_id": "cnt_a9ddf09f68c7c1a7",
+  "primary_object_id": "obj__cecdea30fa77535e",
+  "content_type": "fashion_editor_profile",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_origin",
+    "clm_method",
+    "clm_case1",
+    "clm_case2",
+    "clm_impact",
+    "clm_current"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "tonne-goodman-fashion-editor-sustainability",
+  "title": "Тонн Гудман",
+  "summary": "Редактор моды между образом, одеждой и экологической ответственностью",
+  "discipline": [
+    "fashion",
+    "photography",
+    "media-publishing"
+  ],
+  "kind": "person",
+  "role": [
+    "fashion-editor",
+    "stylist"
+  ],
+  "body_hash": "8499790a105b2f9a990f09501753461c1f9d7b986a14b68f51d10095389245e2"
+}

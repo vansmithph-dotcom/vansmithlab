@@ -1,0 +1,34 @@
+{
+  "content_id": "cnt_0480af20fcc0f9eb",
+  "primary_object_id": "obj__0ab8913ce21b975a",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_origin",
+    "clm_method",
+    "clm_case1",
+    "clm_case2",
+    "clm_impact",
+    "clm_current"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "actual-source",
+  "title": "Actual Source",
+  "summary": "Независимое издательство или редакционная студия. Соединяет студию графического дизайна, издательство, магазин и производство предметов, стирая границу между заказной идентичностью и собственной редакционной культурой.",
+  "discipline": [
+    "media-publishing",
+    "graphic-design",
+    "photography",
+    "art",
+    "architecture"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "06d51e3d6bbf35c2633e7ad08a7d1cd8d9ebd8a2bae86f34ef9cd0c227bc347a"
+}

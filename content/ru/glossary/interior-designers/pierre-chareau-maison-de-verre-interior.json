@@ -1,0 +1,35 @@
+{
+  "content_id": "cnt_1fff76401d4a1781",
+  "primary_object_id": "obj__476826a5a85c8a15",
+  "content_type": "interior_designer_profile",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_origin",
+    "clm_method",
+    "clm_case1",
+    "clm_case2",
+    "clm_impact",
+    "clm_current"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "pierre-chareau-maison-de-verre-interior",
+  "title": "Пьер Шаро",
+  "summary": "Интерьер как механизм: мебель, стекло, движение и архитектура Maison de Verre",
+  "discipline": [
+    "interior-design",
+    "product-design",
+    "architecture"
+  ],
+  "kind": "person",
+  "role": [
+    "interior-designer",
+    "industrial-designer"
+  ],
+  "body_hash": "f86dc2e2790c4030ba270cc23b650db68c2529e84ea5c2def4e023d78651f4a9"
+}

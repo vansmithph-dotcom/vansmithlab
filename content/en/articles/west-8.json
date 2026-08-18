@@ -1,0 +1,33 @@
+{
+  "content_id": "cnt_6f85b4202d33582b",
+  "primary_object_id": "obj__e842e81a768ac28c",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_origin",
+    "clm_method",
+    "clm_case1",
+    "clm_case2",
+    "clm_impact",
+    "clm_current"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "west-8",
+  "title": "West 8",
+  "summary": "A landscape practice in Rotterdam since 1987. It connects landscape, infrastructure and urban image.",
+  "discipline": [
+    "architecture"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "070101d3c04741a1b2eb6123b083d462ca0c96dadd5a1c799a9a5cf59f2afb3c",
+  "translation": {
+    "semantic_validated": true
+  }
+}

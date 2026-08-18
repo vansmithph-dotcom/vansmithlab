@@ -1,0 +1,35 @@
+{
+  "content_id": "cnt_acbc956730a1d4c2",
+  "primary_object_id": "obj__a77e6931b48b7774",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_origin",
+    "clm_method",
+    "clm_case1",
+    "clm_case2",
+    "clm_impact",
+    "clm_current"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "vitra-design-museum",
+  "title": "Vitra Design Museum",
+  "summary": "Культурная институция в Вайль-ам-Райне с 1989 года. Исследует дизайн через выставки, коллекцию, архивы и издательские проекты.",
+  "discipline": [
+    "art",
+    "architecture",
+    "graphic-design",
+    "product-design",
+    "fashion",
+    "media-publishing"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "87e16f22e017c0cf98cb1e35394a6ed0eea5ab05dbdffc44f0c4b84518738718"
+}

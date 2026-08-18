@@ -1,0 +1,35 @@
+{
+  "content_id": "cnt_5b47d1a1654055bf",
+  "primary_object_id": "obj__901b4d6986e7d538",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_origin",
+    "clm_method",
+    "clm_case1",
+    "clm_case2",
+    "clm_impact",
+    "clm_current"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "norm-architects",
+  "title": "Norm Architects",
+  "summary": "A studio in Copenhagen since 2008. It works with proportion, natural light, tactile materials and human scale, seeking calm spaces without visual emptiness.",
+  "discipline": [
+    "interior-design",
+    "architecture",
+    "product-design"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "e64a404372cabe433163ee8a8d371c185b1dde09b424365e2162aac648e88dc1",
+  "translation": {
+    "semantic_validated": true
+  }
+}

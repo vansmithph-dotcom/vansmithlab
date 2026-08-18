@@ -1,0 +1,35 @@
+{
+  "content_id": "cnt_9a5d41d4ebff3f28",
+  "primary_object_id": "obj__9fbcc58a3659217e",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_origin",
+    "clm_method",
+    "clm_case1",
+    "clm_case2",
+    "clm_impact",
+    "clm_current"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "moma-architecture-design",
+  "title": "MoMA — Architecture & Design",
+  "summary": "Культурная институция в Нью-Йорке с 1932 года. Собирает архитектуру и дизайн как взаимосвязанные области, формируя историю через выставки, приобретения, архивы и исследовательские программы.",
+  "discipline": [
+    "art",
+    "architecture",
+    "graphic-design",
+    "product-design",
+    "fashion",
+    "media-publishing"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "e1b48fd1fe0aeec0150b19e17b2800843b204c2124f8bfb574dfb5042ec45cae"
+}

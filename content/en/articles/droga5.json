@@ -1,0 +1,34 @@
+{
+  "content_id": "cnt_f557a86535fbb2d9",
+  "primary_object_id": "obj__45e57aa1d76c16ff",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_origin",
+    "clm_method",
+    "clm_case1",
+    "clm_case2",
+    "clm_impact",
+    "clm_current"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "droga5",
+  "title": "Droga5",
+  "summary": "An advertising agency in New York since 2006. It combines strategy, cultural observation and strong narrative devices, often turning an advertising problem into an event or fictional story.",
+  "discipline": [
+    "graphic-design",
+    "media-publishing"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "52e47cd6de48c08b0a575ce23693b8499ee45332cae8fca4e724572b6b9620e6",
+  "translation": {
+    "semantic_validated": true
+  }
+}

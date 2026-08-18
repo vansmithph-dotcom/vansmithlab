@@ -1,0 +1,32 @@
+{
+  "content_id": "cnt_e8b1a3bacf97293f",
+  "primary_object_id": "obj__7b6b068d6699dab1",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_origin",
+    "clm_method",
+    "clm_case1",
+    "clm_case2",
+    "clm_impact",
+    "clm_current"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "materiom",
+  "title": "Materiom",
+  "summary": "Исследовательская организация, изучающая материалы, производство и возможные модели будущего в Лондоне с 2017 года. Строит открытую базу рецептур материалов биологического происхождения и связывает экспериментальные образцы с данными, которые позволяют сравнивать свойства и возможное применение.",
+  "discipline": [
+    "product-design",
+    "architecture",
+    "art"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "a7d36bc357602ea0e7f48c8136a2c29880c34d1228aa4ed40e8599ed68a66c37"
+}

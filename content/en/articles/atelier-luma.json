@@ -1,0 +1,35 @@
+{
+  "content_id": "cnt_9490360bf79d50d7",
+  "primary_object_id": "obj__089059225dc68185",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_origin",
+    "clm_method",
+    "clm_case1",
+    "clm_case2",
+    "clm_impact",
+    "clm_current"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "atelier-luma",
+  "title": "Atelier LUMA",
+  "summary": "A research organisation in Arles since 2017. It works with the bioregion as a source of materials and knowledge.",
+  "discipline": [
+    "product-design",
+    "architecture",
+    "art"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "7f02e31b09e08c3fc8b9d8786554539da88e7e5fa28735190672f1c72af1371a",
+  "translation": {
+    "semantic_validated": true
+  }
+}

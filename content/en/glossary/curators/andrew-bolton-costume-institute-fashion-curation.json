@@ -1,0 +1,37 @@
+{
+  "content_id": "cnt_1f652fbaae762858",
+  "primary_object_id": "obj__4c7b8fdb23d81776",
+  "content_type": "curator_profile",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_origin",
+    "clm_method",
+    "clm_case1",
+    "clm_case2",
+    "clm_impact",
+    "clm_current"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "andrew-bolton-costume-institute-fashion-curation",
+  "title": "Andrew Bolton",
+  "summary": "Fashion exhibition as argument: body, object, history and the mass museum audience",
+  "discipline": [
+    "fashion",
+    "art",
+    "media-publishing"
+  ],
+  "kind": "person",
+  "role": [
+    "curator"
+  ],
+  "body_hash": "b875ac5e2d3a7f0f7ed4c8fb62a03e026ec52b1dbe95578791ec7df0c905bb7a",
+  "translation": {
+    "semantic_validated": true
+  }
+}

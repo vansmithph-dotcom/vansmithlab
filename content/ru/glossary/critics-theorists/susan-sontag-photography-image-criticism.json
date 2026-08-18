@@ -1,0 +1,34 @@
+{
+  "content_id": "cnt_4e6f4a92f4f7bd6d",
+  "primary_object_id": "obj__98132d8f67a3e26e",
+  "content_type": "critic_theorist_profile",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_origin",
+    "clm_method",
+    "clm_case1",
+    "clm_case2",
+    "clm_impact",
+    "clm_current"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "susan-sontag-photography-image-criticism",
+  "title": "Сьюзен Сонтаг",
+  "summary": "Изображение, дистанция и мораль зрителя: критика фотографии как культурной власти",
+  "discipline": [
+    "photography",
+    "art",
+    "media-publishing"
+  ],
+  "kind": "person",
+  "role": [
+    "critic-theorist"
+  ],
+  "body_hash": "cff2f80267667282b319d1984e3afca562681b0c9db54adae8b2a9360a6142b8"
+}

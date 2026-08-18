@@ -1,0 +1,38 @@
+{
+  "content_id": "cnt_acbc956730a1d4c2",
+  "primary_object_id": "obj__a77e6931b48b7774",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_origin",
+    "clm_method",
+    "clm_case1",
+    "clm_case2",
+    "clm_impact",
+    "clm_current"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "vitra-design-museum",
+  "title": "Vitra Design Museum",
+  "summary": "A cultural institution in Weil am Rhein since 1989. It researches design through exhibitions, collections, archives and publishing.",
+  "discipline": [
+    "art",
+    "architecture",
+    "graphic-design",
+    "product-design",
+    "fashion",
+    "media-publishing"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "4d0c61684adf88661fe267f44edce891e3fc1e81ca6c9a7f33e8e06db385de1c",
+  "translation": {
+    "semantic_validated": true
+  }
+}

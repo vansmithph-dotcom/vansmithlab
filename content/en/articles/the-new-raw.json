@@ -1,0 +1,35 @@
+{
+  "content_id": "cnt_9f0cfb6b85272c36",
+  "primary_object_id": "obj__0e45ca6471059d9e",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_origin",
+    "clm_method",
+    "clm_case1",
+    "clm_case2",
+    "clm_impact",
+    "clm_current"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "the-new-raw",
+  "title": "The New Raw",
+  "summary": "A research organisation in Rotterdam since 2015. It uses recycled plastic and robotic 3D printing to create furniture and urban objects.",
+  "discipline": [
+    "product-design",
+    "architecture",
+    "art"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "0ef3261db1a7221593cdb784dcd4fd391bf8c64e3ae067a6a312321125029896",
+  "translation": {
+    "semantic_validated": true
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "content_id": "cnt_10ff3a19a62e48d5",
+  "primary_object_id": "obj_mat_f05a5381b4ba0890",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.75,
+  "claim_ids": [
+    "clm_composition",
+    "clm_production",
+    "clm_surface",
+    "clm_design_use"
+  ],
+  "last_reviewed": "2026-08-15",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "steel-structure-frame-industrial-honesty",
+  "title": "Steel",
+  "summary": "Metal: structure, frame, rolled section, joint and industrial honesty.",
+  "discipline": [
+    "materials",
+    "architecture",
+    "interior-design",
+    "product-design",
+    "fashion",
+    "photography"
+  ],
+  "kind": "material-technique",
+  "role": [],
+  "body_hash": "7a17d42dc03deb62fdf327b64840d5c10f6a92518c28302a624ddfe1833d0e5c",
+  "translation": {
+    "semantic_validated": true
+  }
+}
