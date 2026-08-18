@@ -5,7 +5,7 @@ import { getContent, listContent } from "@/lib/content";
 import { isLocale } from "@/lib/site-data";
 
 export function generateStaticParams() {
-  const releases = listContent().filter((item) => item.content_type !== "encyclopedia" && item.content_type !== "designer_profile").map((item) => ({ locale: item.locale, section: item.content_type === "research" || item.content_type === "case_study" || item.content_type === "visual_analysis" ? "articles" : item.content_type === "collection" ? "collections" : item.content_type, slug: item.slug }));
+  const releases = listContent().filter((item) => item.content_type !== "encyclopedia" && !item.content_type.endsWith("_profile")).map((item) => ({ locale: item.locale, section: item.content_type === "research" || item.content_type === "case_study" || item.content_type === "visual_analysis" ? "articles" : item.content_type === "collection" ? "collections" : item.content_type, slug: item.slug }));
   return releases.length ? releases : [{ locale: "ru", section: "articles", slug: "__empty" }];
 }
 

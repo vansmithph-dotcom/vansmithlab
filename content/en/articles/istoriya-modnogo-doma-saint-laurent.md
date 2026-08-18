@@ -1,4 +1,4 @@
-# The History of the Saint Laurent Fashion House 🇫🇷
+# The History of the Saint Laurent Fashion House
 
 *How Yves Saint Laurent and Pierre Bergé transformed the languages of menswear, art, the street and cinema into a new model of modern fashion—and how the house continued after its founder’s departure*
 

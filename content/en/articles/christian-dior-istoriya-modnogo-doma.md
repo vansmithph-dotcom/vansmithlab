@@ -1,4 +1,4 @@
-# History of the Christian Dior fashion house 🇫🇷
+# History of the Christian Dior fashion house
 
 *How ten years of work by one couturier turned into a global system of luxury that has survived changing eras, designers and ideas about femininity*
 

@@ -1,4 +1,4 @@
-# Antonio Lopez
+# Антонио Лопес
 
 *Живое тело, multicultural beauty и fashion illustration как социальная система*
 

@@ -1,4 +1,4 @@
-# The History of the Balenciaga Fashion House 🇪🇸 / 🇫🇷
+# The History of the Balenciaga Fashion House
 
 *How a Basque tailor turned fabric into architecture, and a closed couture house — after a relaunch, the digital revolution and a succession of creative eras — became one of the most influential labels of the present day*
 

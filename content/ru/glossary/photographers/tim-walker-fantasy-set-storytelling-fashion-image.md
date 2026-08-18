@@ -1,4 +1,4 @@
-# Tim Walker
+# Тим Уокер
 
 *Фантазия, set design и storytelling в fashion image*
 

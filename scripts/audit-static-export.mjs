@@ -54,6 +54,7 @@ const pageFiles = htmlFiles.filter((file) => {
   return !rel.includes("__empty") && !rel.startsWith("_not-found/") && rel !== "404.html" && rel !== "404/index.html";
 });
 const failures = [];
+// Key titles by locale prefix so cross-locale identical org names don't trigger false positives.
 const titles = new Map();
 let internalLinkCount = 0;
 let imageCount = 0;
@@ -70,9 +71,12 @@ for (const file of pageFiles) {
   else {
     if (/[А-Яа-яЁё][A-Za-z]|[A-Za-z][А-Яа-яЁё]/u.test(title)) failures.push(`${route}: glued mixed-script title "${title}"`);
     if (/[\u{1F1E6}-\u{1F1FF}]{2}/u.test(title)) failures.push(`${route}: flag emoji is not allowed in a document title`);
-    const routes = titles.get(title) ?? [];
+    // Key by locale prefix so "teamLab" in /en/ and /ru/ don't collide.
+    const localePrefix = route.match(/^\/(ru|en)\//)?.[1] ?? "";
+    const titleKey = `${localePrefix}::${title}`;
+    const routes = titles.get(titleKey) ?? [];
     routes.push(route);
-    titles.set(title, routes);
+    titles.set(titleKey, routes);
   }
 
   const canonical = html.match(/<link\b[^>]*\brel=["']canonical["'][^>]*\bhref=["']([^"']+)["'][^>]*>/i)?.[1]
