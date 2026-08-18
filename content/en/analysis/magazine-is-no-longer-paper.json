@@ -4,7 +4,7 @@
   "content_type": "analysis",
   "state": "published",
   "source_locale": "ru",
-  "source_revision": 2,
+  "source_revision": 1,
   "verification_state": "multi_source_verified",
   "confidence_score": 0.86,
   "claim_ids": [
@@ -177,5 +177,8 @@
       "width": 1600,
       "height": 900
     }
-  ]
+  ],
+  "translation": {
+    "semantic_validated": true
+  }
 }
