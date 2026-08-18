@@ -1,0 +1,44 @@
+{
+  "content_id": "cnt_tech_en_77c0b09e06c7a3a9",
+  "primary_object_id": "obj_tech_77c0b09e06c7a3a9",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_photogrammetry-photography-as-spatial-measurement_def",
+    "clm_photogrammetry-photography-as-spatial-measurement_origin",
+    "clm_photogrammetry-photography-as-spatial-measurement_method",
+    "clm_photogrammetry-photography-as-spatial-measurement_case1",
+    "clm_photogrammetry-photography-as-spatial-measurement_impact",
+    "clm_photogrammetry-photography-as-spatial-measurement_today",
+    "clm_photogrammetry-photography-as-spatial-measurement_tl_1934"
+  ],
+  "source_ids": [
+    "src_photogrammetry-photography-as-spatial-measurement_01",
+    "src_photogrammetry-photography-as-spatial-measurement_02",
+    "src_photogrammetry-photography-as-spatial-measurement_03",
+    "src_photogrammetry-photography-as-spatial-measurement_04",
+    "src_photogrammetry-photography-as-spatial-measurement_05",
+    "src_photogrammetry-photography-as-spatial-measurement_06"
+  ],
+  "last_reviewed": "2026-08-18",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "photogrammetry-photography-as-spatial-measurement",
+  "title": "Photogrammetry — Photography as Spatial Measurement",
+  "summary": "Overlapping images become measurements from which space is computed.",
+  "discipline": [
+    "technology"
+  ],
+  "kind": "theme",
+  "body_hash": "9fd7f97f07789f7d6e775c81fe8f56fab2a7997e9050af2590bb2b07a3c3484b",
+  "translation": {
+    "source_locale": "ru",
+    "translated_by": "VANSMITHLAB",
+    "semantic_validated": true,
+    "translation_date": "2026-08-18"
+  }
+}

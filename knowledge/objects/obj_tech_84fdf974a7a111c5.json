@@ -1,0 +1,143 @@
+{
+  "id": "obj_tech_84fdf974a7a111c5",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "content_type": "encyclopedia",
+  "canonical_name": "Adobe Photoshop — слой, маска и культура изменяемого изображения",
+  "canonical_name_en": "Adobe Photoshop — Layer, Mask and the Culture of the Editable Image",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_adobe-photoshop-layer-mask-editable-image_01",
+      "title": "www.computerhistory.org",
+      "url": "https://www.computerhistory.org/makesoftware/exhibit/photoshop/",
+      "tier": 1
+    },
+    {
+      "id": "src_adobe-photoshop-layer-mask-editable-image_02",
+      "title": "computerhistory.org",
+      "url": "https://computerhistory.org/blog/adobe-photoshop-source-code/",
+      "tier": 1
+    },
+    {
+      "id": "src_adobe-photoshop-layer-mask-editable-image_03",
+      "title": "www.computerhistory.org",
+      "url": "https://www.computerhistory.org/timeline/1990/",
+      "tier": 1
+    },
+    {
+      "id": "src_adobe-photoshop-layer-mask-editable-image_04",
+      "title": "computerhistory.org",
+      "url": "https://computerhistory.org/profile/thomas-knoll/",
+      "tier": 1
+    },
+    {
+      "id": "src_adobe-photoshop-layer-mask-editable-image_05",
+      "title": "blog.adobe.com",
+      "url": "https://blog.adobe.com/en/publish/2025/02/19/celebrating-35-years-of-creativity-community-innovation-with-adobe-photoshop",
+      "tier": 1
+    },
+    {
+      "id": "src_adobe-photoshop-layer-mask-editable-image_06",
+      "title": "blog.adobe.com",
+      "url": "https://blog.adobe.com/en/publish/2015/02/18/photoshop-turns-25-qa-with-thomas-knoll",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_adobe-photoshop-layer-mask-editable-image_def",
+      "wording_ru": "Изображение стало слоистым документом, где решения можно разделять, маскировать и пересобирать. Тема рассматривается как система отношений между данными, инструментом, человеком и результатом, а не как название отдельной программы или машины.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_adobe-photoshop-layer-mask-editable-image_origin",
+      "wording_ru": "Photoshop вырос из работы Томаса Нолла и совместной разработки с Джоном Ноллом; Adobe выпустила первую версию для Macintosh в 1990 году. Слои появились в версии 3.0 в 1994 году, а Camera Raw связал программу с цифровой фотографией.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_adobe-photoshop-layer-mask-editable-image_method",
+      "wording_ru": "Документ объединяет пиксельные слои, маски, корректировки, каналы, выделения и цвет. Маска отделяет видимость от удаления, а слои делают многие операции обратимыми. Принципиально важно отделять цифровое описание от физического или визуального результата: между ними всегда существует цепочка интерпре",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_adobe-photoshop-layer-mask-editable-image_case1",
+      "wording_ru": "Слои — модульный композитинг. Этот пример важен как демонстрация базового принципа, а не только как историческая веха.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_adobe-photoshop-layer-mask-editable-image_impact",
+      "wording_ru": "Тема изменила дисциплину тем, что перераспределила решения между человеком, данными, программой, машиной и материалом. Изображение стало слоистым документом, где решения можно разделять, маскировать и пересобирать.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_adobe-photoshop-layer-mask-editable-image_today",
+      "wording_ru": "Photoshop остаётся узлом фотографии, рекламы, издательства, CGI и генеративных систем; культурно важен сам принцип управляемой изменяемости изображения.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_adobe-photoshop-layer-mask-editable-image_tl_1990",
+      "wording_ru": "Adobe Photoshop 1.0 (1990)",
+      "confidence_score": 0.72,
+      "verification_state": "attributed",
+      "date_start": "1990-01-01"
+    },
+    {
+      "id": "clm_adobe-photoshop-layer-mask-editable-image_tl_1994",
+      "wording_ru": "Photoshop 3.0 вводит слои (1994)",
+      "confidence_score": 0.72,
+      "verification_state": "attributed",
+      "date_start": "1994-01-01"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_adobe-photoshop-layer-mask-editable-image_def",
+      "source_id": "src_adobe-photoshop-layer-mask-editable-image_01",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_adobe-photoshop-layer-mask-editable-image_origin",
+      "source_id": "src_adobe-photoshop-layer-mask-editable-image_02",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_adobe-photoshop-layer-mask-editable-image_method",
+      "source_id": "src_adobe-photoshop-layer-mask-editable-image_03",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_adobe-photoshop-layer-mask-editable-image_case1",
+      "source_id": "src_adobe-photoshop-layer-mask-editable-image_04",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_adobe-photoshop-layer-mask-editable-image_impact",
+      "source_id": "src_adobe-photoshop-layer-mask-editable-image_05",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_adobe-photoshop-layer-mask-editable-image_today",
+      "source_id": "src_adobe-photoshop-layer-mask-editable-image_06",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_adobe-photoshop-layer-mask-editable-image_tl_1990",
+      "source_id": "src_adobe-photoshop-layer-mask-editable-image_01",
+      "locator": "Historical timeline reference"
+    },
+    {
+      "claim_id": "clm_adobe-photoshop-layer-mask-editable-image_tl_1994",
+      "source_id": "src_adobe-photoshop-layer-mask-editable-image_01",
+      "locator": "Historical timeline reference"
+    }
+  ],
+  "last_updated": "2026-08-18"
+}

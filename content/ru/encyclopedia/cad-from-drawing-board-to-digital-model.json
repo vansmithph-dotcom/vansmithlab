@@ -1,0 +1,39 @@
+{
+  "content_id": "cnt_tech_ru_b0a8a52939bafa38",
+  "primary_object_id": "obj_tech_b0a8a52939bafa38",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_cad-from-drawing-board-to-digital-model_def",
+    "clm_cad-from-drawing-board-to-digital-model_origin",
+    "clm_cad-from-drawing-board-to-digital-model_method",
+    "clm_cad-from-drawing-board-to-digital-model_case1",
+    "clm_cad-from-drawing-board-to-digital-model_impact",
+    "clm_cad-from-drawing-board-to-digital-model_today",
+    "clm_cad-from-drawing-board-to-digital-model_tl_1963",
+    "clm_cad-from-drawing-board-to-digital-model_tl_1982"
+  ],
+  "source_ids": [
+    "src_cad-from-drawing-board-to-digital-model_01",
+    "src_cad-from-drawing-board-to-digital-model_02",
+    "src_cad-from-drawing-board-to-digital-model_03",
+    "src_cad-from-drawing-board-to-digital-model_04",
+    "src_cad-from-drawing-board-to-digital-model_05",
+    "src_cad-from-drawing-board-to-digital-model_06"
+  ],
+  "last_reviewed": "2026-08-18",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "cad-from-drawing-board-to-digital-model",
+  "title": "CAD — от кульмана к цифровой модели",
+  "summary": "Чертёж стал изменяемой геометрией, а проект — системой связанных данных.",
+  "discipline": [
+    "technology"
+  ],
+  "kind": "theme",
+  "body_hash": "6e2ad6d3d85d93e0a2c09bc1570724f9e9abadb499387bf7136c32177fde6313"
+}

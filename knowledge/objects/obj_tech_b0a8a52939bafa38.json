@@ -1,0 +1,143 @@
+{
+  "id": "obj_tech_b0a8a52939bafa38",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "content_type": "encyclopedia",
+  "canonical_name": "CAD — от кульмана к цифровой модели",
+  "canonical_name_en": "CAD — From Drawing Board to Digital Model",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_cad-from-drawing-board-to-digital-model_01",
+      "title": "www.computerhistory.org",
+      "url": "https://www.computerhistory.org/collections/catalog/102726907",
+      "tier": 1
+    },
+    {
+      "id": "src_cad-from-drawing-board-to-digital-model_02",
+      "title": "www.computerhistory.org",
+      "url": "https://www.computerhistory.org/revolution/input-output/14/349/1878",
+      "tier": 1
+    },
+    {
+      "id": "src_cad-from-drawing-board-to-digital-model_03",
+      "title": "computerhistory.org",
+      "url": "https://computerhistory.org/profile/ivan-sutherland/",
+      "tier": 1
+    },
+    {
+      "id": "src_cad-from-drawing-board-to-digital-model_04",
+      "title": "www.computerhistory.org",
+      "url": "https://www.computerhistory.org/timeline/1963/",
+      "tier": 1
+    },
+    {
+      "id": "src_cad-from-drawing-board-to-digital-model_05",
+      "title": "www.autodesk.com",
+      "url": "https://www.autodesk.com/blogs/autocad/what-is-cad/",
+      "tier": 1
+    },
+    {
+      "id": "src_cad-from-drawing-board-to-digital-model_06",
+      "title": "www.autodesk.com",
+      "url": "https://www.autodesk.com/solutions/cad-software",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_cad-from-drawing-board-to-digital-model_def",
+      "wording_ru": "Чертёж стал изменяемой геометрией, а проект — системой связанных данных. Тема рассматривается как система отношений между данными, инструментом, человеком и результатом, а не как название отдельной программы или машины.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_cad-from-drawing-board-to-digital-model_origin",
+      "wording_ru": "Ранние интерактивные графические системы 1960-х показали, что геометрией можно управлять на экране. Sketchpad Ивана Сазерленда, представленный в диссертации MIT в 1963 году, стал ключевым прототипом; AutoCAD 1982 года символизировал переход CAD на персональный компьютер.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_cad-from-drawing-board-to-digital-model_method",
+      "wording_ru": "CAD хранит координаты, кривые, поверхности, тела, размеры, зависимости и параметры. Изменение модели может пересчитать виды и подготовить данные для спецификаций, CAM и производства. Принципиально важно отделять цифровое описание от физического или визуального результата: между ними всегда существуе",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_cad-from-drawing-board-to-digital-model_case1",
+      "wording_ru": "Sketchpad — интерактивная геометрия и связанные экземпляры. Этот пример важен как демонстрация базового принципа, а не только как историческая веха.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_cad-from-drawing-board-to-digital-model_impact",
+      "wording_ru": "Тема изменила дисциплину тем, что перераспределила решения между человеком, данными, программой, машиной и материалом. Чертёж стал изменяемой геометрией, а проект — системой связанных данных.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_cad-from-drawing-board-to-digital-model_today",
+      "wording_ru": "Сегодня CAD связан с BIM, параметрическим моделированием, облачным сотрудничеством, CAM и вычислительным проектированием; важна модель как носитель решений, а не сам факт цифрового чертежа.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_cad-from-drawing-board-to-digital-model_tl_1963",
+      "wording_ru": "Sketchpad / MIT (1963)",
+      "confidence_score": 0.72,
+      "verification_state": "attributed",
+      "date_start": "1963-01-01"
+    },
+    {
+      "id": "clm_cad-from-drawing-board-to-digital-model_tl_1982",
+      "wording_ru": "Autodesk выпускает AutoCAD (1982)",
+      "confidence_score": 0.72,
+      "verification_state": "attributed",
+      "date_start": "1982-01-01"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_cad-from-drawing-board-to-digital-model_def",
+      "source_id": "src_cad-from-drawing-board-to-digital-model_01",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_cad-from-drawing-board-to-digital-model_origin",
+      "source_id": "src_cad-from-drawing-board-to-digital-model_02",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_cad-from-drawing-board-to-digital-model_method",
+      "source_id": "src_cad-from-drawing-board-to-digital-model_03",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_cad-from-drawing-board-to-digital-model_case1",
+      "source_id": "src_cad-from-drawing-board-to-digital-model_04",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_cad-from-drawing-board-to-digital-model_impact",
+      "source_id": "src_cad-from-drawing-board-to-digital-model_05",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_cad-from-drawing-board-to-digital-model_today",
+      "source_id": "src_cad-from-drawing-board-to-digital-model_06",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_cad-from-drawing-board-to-digital-model_tl_1963",
+      "source_id": "src_cad-from-drawing-board-to-digital-model_01",
+      "locator": "Historical timeline reference"
+    },
+    {
+      "claim_id": "clm_cad-from-drawing-board-to-digital-model_tl_1982",
+      "source_id": "src_cad-from-drawing-board-to-digital-model_01",
+      "locator": "Historical timeline reference"
+    }
+  ],
+  "last_updated": "2026-08-18"
+}

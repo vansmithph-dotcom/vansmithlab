@@ -1,0 +1,45 @@
+{
+  "content_id": "cnt_tech_en_84fdf974a7a111c5",
+  "primary_object_id": "obj_tech_84fdf974a7a111c5",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_adobe-photoshop-layer-mask-editable-image_def",
+    "clm_adobe-photoshop-layer-mask-editable-image_origin",
+    "clm_adobe-photoshop-layer-mask-editable-image_method",
+    "clm_adobe-photoshop-layer-mask-editable-image_case1",
+    "clm_adobe-photoshop-layer-mask-editable-image_impact",
+    "clm_adobe-photoshop-layer-mask-editable-image_today",
+    "clm_adobe-photoshop-layer-mask-editable-image_tl_1990",
+    "clm_adobe-photoshop-layer-mask-editable-image_tl_1994"
+  ],
+  "source_ids": [
+    "src_adobe-photoshop-layer-mask-editable-image_01",
+    "src_adobe-photoshop-layer-mask-editable-image_02",
+    "src_adobe-photoshop-layer-mask-editable-image_03",
+    "src_adobe-photoshop-layer-mask-editable-image_04",
+    "src_adobe-photoshop-layer-mask-editable-image_05",
+    "src_adobe-photoshop-layer-mask-editable-image_06"
+  ],
+  "last_reviewed": "2026-08-18",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "adobe-photoshop-layer-mask-editable-image",
+  "title": "Adobe Photoshop — Layer, Mask and the Culture of the Editable Image",
+  "summary": "The image became a layered document in which decisions can be separated, masked and rebuilt.",
+  "discipline": [
+    "technology"
+  ],
+  "kind": "theme",
+  "body_hash": "a20e3f01c3ce3b25337b441fe44e1dadee387e824f4fc031261199a668962021",
+  "translation": {
+    "source_locale": "ru",
+    "translated_by": "VANSMITHLAB",
+    "semantic_validated": true,
+    "translation_date": "2026-08-18"
+  }
+}

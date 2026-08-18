@@ -1,0 +1,131 @@
+{
+  "id": "obj_tech_121cc44f0241b53b",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "content_type": "encyclopedia",
+  "canonical_name": "Цифровая фотография — сенсор, RAW и новая производственная цепочка",
+  "canonical_name_en": "Digital Photography — Sensor, RAW and a New Production Chain",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_digital-photography-sensor-raw-production-chain_01",
+      "title": "www.kodak.com",
+      "url": "https://www.kodak.com/en/company/page/milestones/",
+      "tier": 1
+    },
+    {
+      "id": "src_digital-photography-sensor-raw-production-chain_02",
+      "title": "www.invent.org",
+      "url": "https://www.invent.org/inductees/steven-sasson",
+      "tier": 1
+    },
+    {
+      "id": "src_digital-photography-sensor-raw-production-chain_03",
+      "title": "www.invent.org",
+      "url": "https://www.invent.org/blog/inventors/Legacy-Steve-Sasson",
+      "tier": 1
+    },
+    {
+      "id": "src_digital-photography-sensor-raw-production-chain_04",
+      "title": "airandspace.si.edu",
+      "url": "https://airandspace.si.edu/collection-objects/camera-digital-zoom-kodak-dc4800/nasm_A20010289000",
+      "tier": 1
+    },
+    {
+      "id": "src_digital-photography-sensor-raw-production-chain_05",
+      "title": "airandspace.si.edu",
+      "url": "https://airandspace.si.edu/collection-objects/camera-digital-system-nikonkodak-sts-95/nasm_A19990149000",
+      "tier": 1
+    },
+    {
+      "id": "src_digital-photography-sensor-raw-production-chain_06",
+      "title": "airandspace.si.edu",
+      "url": "https://airandspace.si.edu/collection-objects/camera-digital-nikon-space-shuttle/nasm_A20080108000",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_digital-photography-sensor-raw-production-chain_def",
+      "wording_ru": "Кадр стал потоком данных от сенсора и RAW до цвета, метаданных и архива. Тема рассматривается как система отношений между данными, инструментом, человеком и результатом, а не как название отдельной программы или машины.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_digital-photography-sensor-raw-production-chain_origin",
+      "wording_ru": "В 1975 году инженер Kodak Стивен Сассон создал автономный CCD-прототип цифровой камеры. В 1990-х профессиональные системы расширили практическое применение, а массовые DSLR 2000-х ускорили переход редакционной и коммерческой фотографии.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_digital-photography-sensor-raw-production-chain_method",
+      "wording_ru": "Сенсор измеряет свет дискретными фоточувствительными элементами; демозаика восстанавливает цвет, а RAW сохраняет данные ближе к исходному сигналу и оставляет часть решений на этап проявки. Принципиально важно отделять цифровое описание от физического или визуального результата: между ними всегда сущ",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_digital-photography-sensor-raw-production-chain_case1",
+      "wording_ru": "Прототип Стивена Сассона — фотография без плёнки. Этот пример важен как демонстрация базового принципа, а не только как историческая веха.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_digital-photography-sensor-raw-production-chain_impact",
+      "wording_ru": "Тема изменила дисциплину тем, что перераспределила решения между человеком, данными, программой, машиной и материалом. Кадр стал потоком данных от сенсора и RAW до цвета, метаданных и архива.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_digital-photography-sensor-raw-production-chain_today",
+      "wording_ru": "Современная камера сочетает оптический захват с вычислительной обработкой, но профессиональная надёжность по-прежнему зависит от экспозиции, качества исходника, цвета и архива.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_digital-photography-sensor-raw-production-chain_tl_1975",
+      "wording_ru": "прототип цифровой камеры Стивена Сассона (1975)",
+      "confidence_score": 0.72,
+      "verification_state": "attributed",
+      "date_start": "1975-01-01"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_digital-photography-sensor-raw-production-chain_def",
+      "source_id": "src_digital-photography-sensor-raw-production-chain_01",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_digital-photography-sensor-raw-production-chain_origin",
+      "source_id": "src_digital-photography-sensor-raw-production-chain_02",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_digital-photography-sensor-raw-production-chain_method",
+      "source_id": "src_digital-photography-sensor-raw-production-chain_03",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_digital-photography-sensor-raw-production-chain_case1",
+      "source_id": "src_digital-photography-sensor-raw-production-chain_04",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_digital-photography-sensor-raw-production-chain_impact",
+      "source_id": "src_digital-photography-sensor-raw-production-chain_05",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_digital-photography-sensor-raw-production-chain_today",
+      "source_id": "src_digital-photography-sensor-raw-production-chain_06",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_digital-photography-sensor-raw-production-chain_tl_1975",
+      "source_id": "src_digital-photography-sensor-raw-production-chain_01",
+      "locator": "Historical timeline reference"
+    }
+  ],
+  "last_updated": "2026-08-18"
+}

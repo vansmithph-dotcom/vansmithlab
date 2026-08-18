@@ -1,0 +1,131 @@
+{
+  "id": "obj_tech_77c0b09e06c7a3a9",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "content_type": "encyclopedia",
+  "canonical_name": "Фотограмметрия — фотография как измерение пространства",
+  "canonical_name_en": "Photogrammetry — Photography as Spatial Measurement",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_photogrammetry-photography-as-spatial-measurement_01",
+      "title": "aps.autodesk.com",
+      "url": "https://aps.autodesk.com/reality-capture-api",
+      "tier": 1
+    },
+    {
+      "id": "src_photogrammetry-photography-as-spatial-measurement_02",
+      "title": "aps.autodesk.com",
+      "url": "https://aps.autodesk.com/en/docs/reality-capture/v1",
+      "tier": 1
+    },
+    {
+      "id": "src_photogrammetry-photography-as-spatial-measurement_03",
+      "title": "www.autodesk.com",
+      "url": "https://www.autodesk.com/solutions/reality-capture",
+      "tier": 1
+    },
+    {
+      "id": "src_photogrammetry-photography-as-spatial-measurement_04",
+      "title": "www.autodesk.com",
+      "url": "https://www.autodesk.com/solutions/photogrammetry-software",
+      "tier": 1
+    },
+    {
+      "id": "src_photogrammetry-photography-as-spatial-measurement_05",
+      "title": "doc.esri.com",
+      "url": "https://doc.esri.com/en/arcgis-pro/latest/help/data/imagery/introduction-to-ortho-mapping.html",
+      "tier": 1
+    },
+    {
+      "id": "src_photogrammetry-photography-as-spatial-measurement_06",
+      "title": "blogs.loc.gov",
+      "url": "https://blogs.loc.gov/thesignal/2020/01/librarys-collections-come-to-life-as-3d-models/",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_photogrammetry-photography-as-spatial-measurement_def",
+      "wording_ru": "Перекрывающиеся изображения становятся измерениями, из которых вычисляется пространство. Тема рассматривается как система отношений между данными, инструментом, человеком и результатом, а не как название отдельной программы или машины.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_photogrammetry-photography-as-spatial-measurement_origin",
+      "wording_ru": "Фотограмметрия исторически связана с картографией, аэрофотосъёмкой и измерительной фотографией. Цифровые камеры и автоматическое сопоставление признаков сделали её доступной для архитектуры, наследия, VFX и музейных коллекций.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_photogrammetry-photography-as-spatial-measurement_method",
+      "wording_ru": "Алгоритм ищет общие точки на перекрывающихся кадрах, оценивает положения камер, строит разреженное и плотное облако точек, затем сетку и текстуру. Масштаб и точность требуют контрольных данных. Принципиально важно отделять цифровое описание от физического или визуального результата: между ними всегд",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_photogrammetry-photography-as-spatial-measurement_case1",
+      "wording_ru": "Ортофото — геометрически согласованное плоское изображение. Этот пример важен как демонстрация базового принципа, а не только как историческая веха.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_photogrammetry-photography-as-spatial-measurement_impact",
+      "wording_ru": "Тема изменила дисциплину тем, что перераспределила решения между человеком, данными, программой, машиной и материалом. Перекрывающиеся изображения становятся измерениями, из которых вычисляется пространство.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_photogrammetry-photography-as-spatial-measurement_today",
+      "wording_ru": "Сегодня фотограмметрия объединяется с LiDAR, геопространственными системами и облачной обработкой; её сила — совместное описание формы и фотографической поверхности.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_photogrammetry-photography-as-spatial-measurement_tl_1934",
+      "wording_ru": "основана American Society for Photogrammetry (1934)",
+      "confidence_score": 0.72,
+      "verification_state": "attributed",
+      "date_start": "1934-01-01"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_photogrammetry-photography-as-spatial-measurement_def",
+      "source_id": "src_photogrammetry-photography-as-spatial-measurement_01",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_photogrammetry-photography-as-spatial-measurement_origin",
+      "source_id": "src_photogrammetry-photography-as-spatial-measurement_02",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_photogrammetry-photography-as-spatial-measurement_method",
+      "source_id": "src_photogrammetry-photography-as-spatial-measurement_03",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_photogrammetry-photography-as-spatial-measurement_case1",
+      "source_id": "src_photogrammetry-photography-as-spatial-measurement_04",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_photogrammetry-photography-as-spatial-measurement_impact",
+      "source_id": "src_photogrammetry-photography-as-spatial-measurement_05",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_photogrammetry-photography-as-spatial-measurement_today",
+      "source_id": "src_photogrammetry-photography-as-spatial-measurement_06",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_photogrammetry-photography-as-spatial-measurement_tl_1934",
+      "source_id": "src_photogrammetry-photography-as-spatial-measurement_01",
+      "locator": "Historical timeline reference"
+    }
+  ],
+  "last_updated": "2026-08-18"
+}

@@ -1,0 +1,119 @@
+{
+  "id": "obj_tech_caa80cca283c0428",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "content_type": "encyclopedia",
+  "canonical_name": "Трёхмерное сканирование — цифровой двойник реального объекта",
+  "canonical_name_en": "3D Scanning — A Digital Twin of the Real Object",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_3d-scanning-digital-twin-of-real-object_01",
+      "title": "www.nist.gov",
+      "url": "https://www.nist.gov/news-events/news/2020/11/using-lasers-save-lives",
+      "tier": 1
+    },
+    {
+      "id": "src_3d-scanning-digital-twin-of-real-object_02",
+      "title": "www.nist.gov",
+      "url": "https://www.nist.gov/el/intelligent-systems-division-73500/workshop-standards-3d-perception-systems-robotic-assembly",
+      "tier": 1
+    },
+    {
+      "id": "src_3d-scanning-digital-twin-of-real-object_03",
+      "title": "www.nist.gov",
+      "url": "https://www.nist.gov/system/files/documents/2026/06/02/2025-N-0022_Standard-for-Terrestrial-LiDAR-Scanner-Data-Capture_OPEN-COMMENT-VERSION.pdf",
+      "tier": 1
+    },
+    {
+      "id": "src_3d-scanning-digital-twin-of-real-object_04",
+      "title": "tsapps.nist.gov",
+      "url": "https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=860707",
+      "tier": 1
+    },
+    {
+      "id": "src_3d-scanning-digital-twin-of-real-object_05",
+      "title": "www.loc.gov",
+      "url": "https://www.loc.gov/preservation/digital/formats/fdd/fdd000418.shtml",
+      "tier": 1
+    },
+    {
+      "id": "src_3d-scanning-digital-twin-of-real-object_06",
+      "title": "www.loc.gov",
+      "url": "https://www.loc.gov/preservation/digital/formats/fdd/fdd000501.shtml",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_3d-scanning-digital-twin-of-real-object_def",
+      "wording_ru": "Физическая поверхность превращается в измеренное облако точек и редактируемую геометрию. Тема рассматривается как система отношений между данными, инструментом, человеком и результатом, а не как название отдельной программы или машины.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_3d-scanning-digital-twin-of-real-object_origin",
+      "wording_ru": "Трёхмерное сканирование выросло из оптических измерений, дальнометрии, промышленной метрологии и дистанционного зондирования. Лазерные и структурированные системы вошли в строительство, наследие, производство и VFX по мере снижения стоимости сенсоров.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_3d-scanning-digital-twin-of-real-object_method",
+      "wording_ru": "LiDAR измеряет расстояние по лазерному сигналу, структурированный свет — по деформации проецируемого узора. Несколько захватов регистрируют вместе, фильтруют и превращают в облако точек или поверхность. Принципиально важно отделять цифровое описание от физического или визуального результата: между н",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_3d-scanning-digital-twin-of-real-object_case1",
+      "wording_ru": "Наземный LiDAR — миллионы точек здания. Этот пример важен как демонстрация базового принципа, а не только как историческая веха.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_3d-scanning-digital-twin-of-real-object_impact",
+      "wording_ru": "Тема изменила дисциплину тем, что перераспределила решения между человеком, данными, программой, машиной и материалом. Физическая поверхность превращается в измеренное облако точек и редактируемую геометрию.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_3d-scanning-digital-twin-of-real-object_today",
+      "wording_ru": "Сканирование всё теснее связано с цифровыми двойниками, робототехникой и эксплуатацией зданий; ценность смещается от эффектного облака точек к прослеживаемому измерительному набору данных.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_3d-scanning-digital-twin-of-real-object_def",
+      "source_id": "src_3d-scanning-digital-twin-of-real-object_01",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_3d-scanning-digital-twin-of-real-object_origin",
+      "source_id": "src_3d-scanning-digital-twin-of-real-object_02",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_3d-scanning-digital-twin-of-real-object_method",
+      "source_id": "src_3d-scanning-digital-twin-of-real-object_03",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_3d-scanning-digital-twin-of-real-object_case1",
+      "source_id": "src_3d-scanning-digital-twin-of-real-object_04",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_3d-scanning-digital-twin-of-real-object_impact",
+      "source_id": "src_3d-scanning-digital-twin-of-real-object_05",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_3d-scanning-digital-twin-of-real-object_today",
+      "source_id": "src_3d-scanning-digital-twin-of-real-object_06",
+      "locator": "Official documentation and institutional sources"
+    }
+  ],
+  "last_updated": "2026-08-18"
+}

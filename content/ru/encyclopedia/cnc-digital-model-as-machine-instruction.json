@@ -1,0 +1,38 @@
+{
+  "content_id": "cnt_tech_ru_638f600b5daadfdd",
+  "primary_object_id": "obj_tech_638f600b5daadfdd",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_cnc-digital-model-as-machine-instruction_def",
+    "clm_cnc-digital-model-as-machine-instruction_origin",
+    "clm_cnc-digital-model-as-machine-instruction_method",
+    "clm_cnc-digital-model-as-machine-instruction_case1",
+    "clm_cnc-digital-model-as-machine-instruction_impact",
+    "clm_cnc-digital-model-as-machine-instruction_today",
+    "clm_cnc-digital-model-as-machine-instruction_tl_1952"
+  ],
+  "source_ids": [
+    "src_cnc-digital-model-as-machine-instruction_01",
+    "src_cnc-digital-model-as-machine-instruction_02",
+    "src_cnc-digital-model-as-machine-instruction_03",
+    "src_cnc-digital-model-as-machine-instruction_04",
+    "src_cnc-digital-model-as-machine-instruction_05",
+    "src_cnc-digital-model-as-machine-instruction_06"
+  ],
+  "last_reviewed": "2026-08-18",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "cnc-digital-model-as-machine-instruction",
+  "title": "Числовое программное управление — цифровая модель как инструкция станку",
+  "summary": "Файл становится траекторией инструмента, а геометрия — последовательностью управляемых перемещений.",
+  "discipline": [
+    "technology"
+  ],
+  "kind": "theme",
+  "body_hash": "71cfeba114c2666454de3d79a45ee6c2d462c6bba83b690f9725eed57aaccb58"
+}

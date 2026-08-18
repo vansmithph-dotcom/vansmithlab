@@ -1,0 +1,37 @@
+{
+  "content_id": "cnt_tech_ru_1695c085c371ed90",
+  "primary_object_id": "obj_tech_1695c085c371ed90",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_laser-cutting-flat-precision-serial-form_def",
+    "clm_laser-cutting-flat-precision-serial-form_origin",
+    "clm_laser-cutting-flat-precision-serial-form_method",
+    "clm_laser-cutting-flat-precision-serial-form_case1",
+    "clm_laser-cutting-flat-precision-serial-form_impact",
+    "clm_laser-cutting-flat-precision-serial-form_today"
+  ],
+  "source_ids": [
+    "src_laser-cutting-flat-precision-serial-form_01",
+    "src_laser-cutting-flat-precision-serial-form_02",
+    "src_laser-cutting-flat-precision-serial-form_03",
+    "src_laser-cutting-flat-precision-serial-form_04",
+    "src_laser-cutting-flat-precision-serial-form_05",
+    "src_laser-cutting-flat-precision-serial-form_06"
+  ],
+  "last_reviewed": "2026-08-18",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "laser-cutting-flat-precision-serial-form",
+  "title": "Лазерная резка — плоская точность и серийная форма",
+  "summary": "Двухмерный контур становится резом, а лист — системой деталей, соединений и модулей.",
+  "discipline": [
+    "technology"
+  ],
+  "kind": "theme",
+  "body_hash": "aa25b62c025922ad0167ce050b34563ec4373f8d44e18cc67e43c26ffd5d9e4f"
+}

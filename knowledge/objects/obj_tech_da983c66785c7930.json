@@ -1,0 +1,143 @@
+{
+  "id": "obj_tech_da983c66785c7930",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "content_type": "encyclopedia",
+  "canonical_name": "CGI — устройство цифровой сцены",
+  "canonical_name_en": "CGI — Anatomy of the Digital Scene",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_cgi-anatomy-of-digital-scene_01",
+      "title": "computerhistory.org",
+      "url": "https://computerhistory.org/blog/pixars-luxo-jr/",
+      "tier": 1
+    },
+    {
+      "id": "src_cgi-anatomy-of-digital-scene_02",
+      "title": "www.computerhistory.org",
+      "url": "https://www.computerhistory.org/timeline/graphics-games/",
+      "tier": 1
+    },
+    {
+      "id": "src_cgi-anatomy-of-digital-scene_03",
+      "title": "www.ilm.com",
+      "url": "https://www.ilm.com/about/",
+      "tier": 1
+    },
+    {
+      "id": "src_cgi-anatomy-of-digital-scene_04",
+      "title": "www.ilm.com",
+      "url": "https://www.ilm.com/creating-dinosaurs-jurassic-park/",
+      "tier": 1
+    },
+    {
+      "id": "src_cgi-anatomy-of-digital-scene_05",
+      "title": "www.ilm.com",
+      "url": "https://www.ilm.com/young-sherlock-holmes-ilm-dennis-muren-interview/",
+      "tier": 1
+    },
+    {
+      "id": "src_cgi-anatomy-of-digital-scene_06",
+      "title": "www.ilm.com",
+      "url": "https://www.ilm.com/ilm-evolutions-50-animation-part-one/",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_cgi-anatomy-of-digital-scene_def",
+      "wording_ru": "Модель, материал, свет, камера и рендер строят правдоподобие как систему. Тема рассматривается как система отношений между данными, инструментом, человеком и результатом, а не как название отдельной программы или машины.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_cgi-anatomy-of-digital-scene_origin",
+      "wording_ru": "CGI выросла из исследований компьютерной графики и анимации. Pixar Luxo Jr. 1986 года показал выразительность полностью компьютерной анимации, а Jurassic Park 1993 года стал знаковым примером соединения цифровых существ с живой съёмкой.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_cgi-anatomy-of-digital-scene_method",
+      "wording_ru": "Цифровая сцена состоит из геометрии, трансформаций, материалов, света и камеры. Рендер вычисляет взаимодействие света с поверхностями; затем кадр может проходить цветокоррекцию и композитинг. Принципиально важно отделять цифровое описание от физического или визуального результата: между ними всегда ",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_cgi-anatomy-of-digital-scene_case1",
+      "wording_ru": "Luxo Jr. — характер через геометрию, свет и движение. Этот пример важен как демонстрация базового принципа, а не только как историческая веха.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_cgi-anatomy-of-digital-scene_impact",
+      "wording_ru": "Тема изменила дисциплину тем, что перераспределила решения между человеком, данными, программой, машиной и материалом. Модель, материал, свет, камера и рендер строят правдоподобие как систему.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_cgi-anatomy-of-digital-scene_today",
+      "wording_ru": "CGI всё теснее соединяется с реальным временем, виртуальным производством, сканированием и нейронными методами, но базовая логика сцены сохраняется.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_cgi-anatomy-of-digital-scene_tl_1986",
+      "wording_ru": "Pixar выпускает Luxo Jr. (1986)",
+      "confidence_score": 0.72,
+      "verification_state": "attributed",
+      "date_start": "1986-01-01"
+    },
+    {
+      "id": "clm_cgi-anatomy-of-digital-scene_tl_1993",
+      "wording_ru": "Jurassic Park закрепляет гибрид CGI и живой съёмки (1993)",
+      "confidence_score": 0.72,
+      "verification_state": "attributed",
+      "date_start": "1993-01-01"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_cgi-anatomy-of-digital-scene_def",
+      "source_id": "src_cgi-anatomy-of-digital-scene_01",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_cgi-anatomy-of-digital-scene_origin",
+      "source_id": "src_cgi-anatomy-of-digital-scene_02",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_cgi-anatomy-of-digital-scene_method",
+      "source_id": "src_cgi-anatomy-of-digital-scene_03",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_cgi-anatomy-of-digital-scene_case1",
+      "source_id": "src_cgi-anatomy-of-digital-scene_04",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_cgi-anatomy-of-digital-scene_impact",
+      "source_id": "src_cgi-anatomy-of-digital-scene_05",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_cgi-anatomy-of-digital-scene_today",
+      "source_id": "src_cgi-anatomy-of-digital-scene_06",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_cgi-anatomy-of-digital-scene_tl_1986",
+      "source_id": "src_cgi-anatomy-of-digital-scene_01",
+      "locator": "Historical timeline reference"
+    },
+    {
+      "claim_id": "clm_cgi-anatomy-of-digital-scene_tl_1993",
+      "source_id": "src_cgi-anatomy-of-digital-scene_01",
+      "locator": "Historical timeline reference"
+    }
+  ],
+  "last_updated": "2026-08-18"
+}

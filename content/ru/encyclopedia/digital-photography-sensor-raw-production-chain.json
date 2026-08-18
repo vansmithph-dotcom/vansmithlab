@@ -1,0 +1,38 @@
+{
+  "content_id": "cnt_tech_ru_121cc44f0241b53b",
+  "primary_object_id": "obj_tech_121cc44f0241b53b",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_digital-photography-sensor-raw-production-chain_def",
+    "clm_digital-photography-sensor-raw-production-chain_origin",
+    "clm_digital-photography-sensor-raw-production-chain_method",
+    "clm_digital-photography-sensor-raw-production-chain_case1",
+    "clm_digital-photography-sensor-raw-production-chain_impact",
+    "clm_digital-photography-sensor-raw-production-chain_today",
+    "clm_digital-photography-sensor-raw-production-chain_tl_1975"
+  ],
+  "source_ids": [
+    "src_digital-photography-sensor-raw-production-chain_01",
+    "src_digital-photography-sensor-raw-production-chain_02",
+    "src_digital-photography-sensor-raw-production-chain_03",
+    "src_digital-photography-sensor-raw-production-chain_04",
+    "src_digital-photography-sensor-raw-production-chain_05",
+    "src_digital-photography-sensor-raw-production-chain_06"
+  ],
+  "last_reviewed": "2026-08-18",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "digital-photography-sensor-raw-production-chain",
+  "title": "Цифровая фотография — сенсор, RAW и новая производственная цепочка",
+  "summary": "Кадр стал потоком данных от сенсора и RAW до цвета, метаданных и архива.",
+  "discipline": [
+    "technology"
+  ],
+  "kind": "theme",
+  "body_hash": "b76b58feb94aefae3d968e6768195061b9cb336a23f65b0bed698d59ee43ae07"
+}

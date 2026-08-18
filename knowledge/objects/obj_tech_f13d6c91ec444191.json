@@ -1,0 +1,143 @@
+{
+  "id": "obj_tech_f13d6c91ec444191",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "content_type": "encyclopedia",
+  "canonical_name": "Диффузионные модели — новый механизм синтеза изображения",
+  "canonical_name_en": "Diffusion Models — A New Mechanism of Image Synthesis",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_diffusion-models-new-mechanism-of-image-synthesis_01",
+      "title": "arxiv.org",
+      "url": "https://arxiv.org/abs/1503.03585",
+      "tier": 1
+    },
+    {
+      "id": "src_diffusion-models-new-mechanism-of-image-synthesis_02",
+      "title": "arxiv.org",
+      "url": "https://arxiv.org/abs/1907.05600",
+      "tier": 1
+    },
+    {
+      "id": "src_diffusion-models-new-mechanism-of-image-synthesis_03",
+      "title": "arxiv.org",
+      "url": "https://arxiv.org/abs/2006.11239",
+      "tier": 1
+    },
+    {
+      "id": "src_diffusion-models-new-mechanism-of-image-synthesis_04",
+      "title": "arxiv.org",
+      "url": "https://arxiv.org/abs/2010.02502",
+      "tier": 1
+    },
+    {
+      "id": "src_diffusion-models-new-mechanism-of-image-synthesis_05",
+      "title": "arxiv.org",
+      "url": "https://arxiv.org/abs/2011.13456",
+      "tier": 1
+    },
+    {
+      "id": "src_diffusion-models-new-mechanism-of-image-synthesis_06",
+      "title": "arxiv.org",
+      "url": "https://arxiv.org/abs/2102.09672",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_diffusion-models-new-mechanism-of-image-synthesis_def",
+      "wording_ru": "Изображение возникает через последовательное удаление шума в выученном вероятностном процессе. Тема рассматривается как система отношений между данными, инструментом, человеком и результатом, а не как название отдельной программы или машины.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_diffusion-models-new-mechanism-of-image-synthesis_origin",
+      "wording_ru": "Современная линия включает работу Sohl-Dickstein и соавторов 2015 года, score-based методы Song и Ermon и DDPM Ho, Jain и Abbeel 2020 года. Latent Diffusion Models перенесли вычисление в сжатое пространство, а ControlNet показал путь структурного управления.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_diffusion-models-new-mechanism-of-image-synthesis_method",
+      "wording_ru": "Прямой процесс постепенно добавляет шум, обратная модель учится восстанавливать структуру шаг за шагом. Текст, изображение, глубина, поза или другие условия могут направлять траекторию денойзинга. Принципиально важно отделять цифровое описание от физического или визуального результата: между ними вс",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_diffusion-models-new-mechanism-of-image-synthesis_case1",
+      "wording_ru": "DDPM — вероятностный обратный диффузионный процесс. Этот пример важен как демонстрация базового принципа, а не только как историческая веха.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_diffusion-models-new-mechanism-of-image-synthesis_impact",
+      "wording_ru": "Тема изменила дисциплину тем, что перераспределила решения между человеком, данными, программой, машиной и материалом. Изображение возникает через последовательное удаление шума в выученном вероятностном процессе.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_diffusion-models-new-mechanism-of-image-synthesis_today",
+      "wording_ru": "В 2026 году диффузионные методы сосуществуют и гибридизируются с другими генеративными архитектурами; устойчивые принципы механизма важно отделять от быстро меняющихся продуктов и интерфейсов.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_diffusion-models-new-mechanism-of-image-synthesis_tl_2015",
+      "wording_ru": "Sohl-Dickstein et al. формулируют диффузионную генеративную схему (2015)",
+      "confidence_score": 0.72,
+      "verification_state": "attributed",
+      "date_start": "2015-01-01"
+    },
+    {
+      "id": "clm_diffusion-models-new-mechanism-of-image-synthesis_tl_2020",
+      "wording_ru": "Ho et al. публикуют DDPM; 2021–22 — latent diffusion расширяет практический масштаб (2020)",
+      "confidence_score": 0.72,
+      "verification_state": "attributed",
+      "date_start": "2020-01-01"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_diffusion-models-new-mechanism-of-image-synthesis_def",
+      "source_id": "src_diffusion-models-new-mechanism-of-image-synthesis_01",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_diffusion-models-new-mechanism-of-image-synthesis_origin",
+      "source_id": "src_diffusion-models-new-mechanism-of-image-synthesis_02",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_diffusion-models-new-mechanism-of-image-synthesis_method",
+      "source_id": "src_diffusion-models-new-mechanism-of-image-synthesis_03",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_diffusion-models-new-mechanism-of-image-synthesis_case1",
+      "source_id": "src_diffusion-models-new-mechanism-of-image-synthesis_04",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_diffusion-models-new-mechanism-of-image-synthesis_impact",
+      "source_id": "src_diffusion-models-new-mechanism-of-image-synthesis_05",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_diffusion-models-new-mechanism-of-image-synthesis_today",
+      "source_id": "src_diffusion-models-new-mechanism-of-image-synthesis_06",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_diffusion-models-new-mechanism-of-image-synthesis_tl_2015",
+      "source_id": "src_diffusion-models-new-mechanism-of-image-synthesis_01",
+      "locator": "Historical timeline reference"
+    },
+    {
+      "claim_id": "clm_diffusion-models-new-mechanism-of-image-synthesis_tl_2020",
+      "source_id": "src_diffusion-models-new-mechanism-of-image-synthesis_01",
+      "locator": "Historical timeline reference"
+    }
+  ],
+  "last_updated": "2026-08-18"
+}

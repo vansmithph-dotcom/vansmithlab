@@ -1,0 +1,45 @@
+{
+  "content_id": "cnt_tech_en_72443ce85fe84d78",
+  "primary_object_id": "obj_tech_72443ce85fe84d78",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_desktop-publishing-how-computer-changed-magazine_def",
+    "clm_desktop-publishing-how-computer-changed-magazine_origin",
+    "clm_desktop-publishing-how-computer-changed-magazine_method",
+    "clm_desktop-publishing-how-computer-changed-magazine_case1",
+    "clm_desktop-publishing-how-computer-changed-magazine_impact",
+    "clm_desktop-publishing-how-computer-changed-magazine_today",
+    "clm_desktop-publishing-how-computer-changed-magazine_tl_1985",
+    "clm_desktop-publishing-how-computer-changed-magazine_tl_1999"
+  ],
+  "source_ids": [
+    "src_desktop-publishing-how-computer-changed-magazine_01",
+    "src_desktop-publishing-how-computer-changed-magazine_02",
+    "src_desktop-publishing-how-computer-changed-magazine_03",
+    "src_desktop-publishing-how-computer-changed-magazine_04",
+    "src_desktop-publishing-how-computer-changed-magazine_05",
+    "src_desktop-publishing-how-computer-changed-magazine_06"
+  ],
+  "last_reviewed": "2026-08-18",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "desktop-publishing-how-computer-changed-magazine",
+  "title": "Desktop Publishing — How the Computer Changed the Magazine",
+  "summary": "Type, grid, image and print output converged on one desktop.",
+  "discipline": [
+    "technology"
+  ],
+  "kind": "theme",
+  "body_hash": "217298acd8d745e39f02cc1ff947dd99260db9554a50dd67708649e2bf59c2a3",
+  "translation": {
+    "source_locale": "ru",
+    "translated_by": "VANSMITHLAB",
+    "semantic_validated": true,
+    "translation_date": "2026-08-18"
+  }
+}

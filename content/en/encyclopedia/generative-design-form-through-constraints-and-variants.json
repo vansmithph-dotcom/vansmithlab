@@ -1,0 +1,43 @@
+{
+  "content_id": "cnt_tech_en_c6e3a53d5606807a",
+  "primary_object_id": "obj_tech_c6e3a53d5606807a",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_generative-design-form-through-constraints-and-variants_def",
+    "clm_generative-design-form-through-constraints-and-variants_origin",
+    "clm_generative-design-form-through-constraints-and-variants_method",
+    "clm_generative-design-form-through-constraints-and-variants_case1",
+    "clm_generative-design-form-through-constraints-and-variants_impact",
+    "clm_generative-design-form-through-constraints-and-variants_today"
+  ],
+  "source_ids": [
+    "src_generative-design-form-through-constraints-and-variants_01",
+    "src_generative-design-form-through-constraints-and-variants_02",
+    "src_generative-design-form-through-constraints-and-variants_03",
+    "src_generative-design-form-through-constraints-and-variants_04",
+    "src_generative-design-form-through-constraints-and-variants_05",
+    "src_generative-design-form-through-constraints-and-variants_06"
+  ],
+  "last_reviewed": "2026-08-18",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "generative-design-form-through-constraints-and-variants",
+  "title": "Generative Design — Form Through Constraints and Variants",
+  "summary": "The designer sets goals and boundaries while the system explores a space of feasible solutions.",
+  "discipline": [
+    "technology"
+  ],
+  "kind": "theme",
+  "body_hash": "3898efb28b707eedcb6d5cdb5b90bbde7b5c72c7b06d903424d6cccb22b7535c",
+  "translation": {
+    "source_locale": "ru",
+    "translated_by": "VANSMITHLAB",
+    "semantic_validated": true,
+    "translation_date": "2026-08-18"
+  }
+}

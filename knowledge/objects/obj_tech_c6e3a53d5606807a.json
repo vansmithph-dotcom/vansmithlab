@@ -1,0 +1,119 @@
+{
+  "id": "obj_tech_c6e3a53d5606807a",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "content_type": "encyclopedia",
+  "canonical_name": "Порождающее проектирование — форма через ограничения и варианты",
+  "canonical_name_en": "Generative Design — Form Through Constraints and Variants",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_generative-design-form-through-constraints-and-variants_01",
+      "title": "www.autodesk.com",
+      "url": "https://www.autodesk.com/autodesk-university/article/Fusion-360-Introduction-Generative-Design",
+      "tier": 1
+    },
+    {
+      "id": "src_generative-design-form-through-constraints-and-variants_02",
+      "title": "www.research.autodesk.com",
+      "url": "https://www.research.autodesk.com/publications/project-discover-an-application-of-generative-design-for-architectural-space-planning/",
+      "tier": 1
+    },
+    {
+      "id": "src_generative-design-form-through-constraints-and-variants_03",
+      "title": "www.research.autodesk.com",
+      "url": "https://www.research.autodesk.com/projects/project-discover/",
+      "tier": 1
+    },
+    {
+      "id": "src_generative-design-form-through-constraints-and-variants_04",
+      "title": "www.autodesk.com",
+      "url": "https://www.autodesk.com/solutions/generative-design/manufacturing",
+      "tier": 1
+    },
+    {
+      "id": "src_generative-design-form-through-constraints-and-variants_05",
+      "title": "www.research.autodesk.com",
+      "url": "https://www.research.autodesk.com/app/uploads/2023/03/TowardsanOntologyforGenerativeDesign.pdf_rec45tTY5wDxIrb7N.pdf",
+      "tier": 1
+    },
+    {
+      "id": "src_generative-design-form-through-constraints-and-variants_06",
+      "title": "www.autodesk.com",
+      "url": "https://www.autodesk.com/products/fusion-360/blog/topology-optimization-is-not-generative-design/",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_generative-design-form-through-constraints-and-variants_def",
+      "wording_ru": "Дизайнер задаёт цели и границы, а система исследует пространство допустимых решений. Тема рассматривается как система отношений между данными, инструментом, человеком и результатом, а не как название отдельной программы или машины.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_generative-design-form-through-constraints-and-variants_origin",
+      "wording_ru": "Подход вырос из вычислительного проектирования, оптимизации и параметрических систем. Он стал заметнее, когда CAD-платформы получили интегрированные солверы и вычислительные ресурсы для массового исследования вариантов; Project Discover показал такую логику на планировке офиса.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_generative-design-form-through-constraints-and-variants_method",
+      "wording_ru": "Процесс начинается с параметров, целей, ограничений и критериев. Алгоритм создаёт варианты, оценивает их и формирует пространство результатов; дизайнер меняет постановку и критически выбирает решения. Принципиально важно отделять цифровое описание от физического или визуального результата: между ним",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_generative-design-form-through-constraints-and-variants_case1",
+      "wording_ru": "Project Discover — многокритериальные планировки. Этот пример важен как демонстрация базового принципа, а не только как историческая веха.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_generative-design-form-through-constraints-and-variants_impact",
+      "wording_ru": "Тема изменила дисциплину тем, что перераспределила решения между человеком, данными, программой, машиной и материалом. Дизайнер задаёт цели и границы, а система исследует пространство допустимых решений.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_generative-design-form-through-constraints-and-variants_today",
+      "wording_ru": "Порождающее проектирование сближается с машинным обучением, симуляцией и автоматизированной проверкой; главный вопрос — насколько осмысленно определено пространство поиска.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_generative-design-form-through-constraints-and-variants_def",
+      "source_id": "src_generative-design-form-through-constraints-and-variants_01",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_generative-design-form-through-constraints-and-variants_origin",
+      "source_id": "src_generative-design-form-through-constraints-and-variants_02",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_generative-design-form-through-constraints-and-variants_method",
+      "source_id": "src_generative-design-form-through-constraints-and-variants_03",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_generative-design-form-through-constraints-and-variants_case1",
+      "source_id": "src_generative-design-form-through-constraints-and-variants_04",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_generative-design-form-through-constraints-and-variants_impact",
+      "source_id": "src_generative-design-form-through-constraints-and-variants_05",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_generative-design-form-through-constraints-and-variants_today",
+      "source_id": "src_generative-design-form-through-constraints-and-variants_06",
+      "locator": "Official documentation and institutional sources"
+    }
+  ],
+  "last_updated": "2026-08-18"
+}

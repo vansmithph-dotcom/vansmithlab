@@ -1,0 +1,43 @@
+{
+  "content_id": "cnt_tech_en_caa80cca283c0428",
+  "primary_object_id": "obj_tech_caa80cca283c0428",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_3d-scanning-digital-twin-of-real-object_def",
+    "clm_3d-scanning-digital-twin-of-real-object_origin",
+    "clm_3d-scanning-digital-twin-of-real-object_method",
+    "clm_3d-scanning-digital-twin-of-real-object_case1",
+    "clm_3d-scanning-digital-twin-of-real-object_impact",
+    "clm_3d-scanning-digital-twin-of-real-object_today"
+  ],
+  "source_ids": [
+    "src_3d-scanning-digital-twin-of-real-object_01",
+    "src_3d-scanning-digital-twin-of-real-object_02",
+    "src_3d-scanning-digital-twin-of-real-object_03",
+    "src_3d-scanning-digital-twin-of-real-object_04",
+    "src_3d-scanning-digital-twin-of-real-object_05",
+    "src_3d-scanning-digital-twin-of-real-object_06"
+  ],
+  "last_reviewed": "2026-08-18",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "3d-scanning-digital-twin-of-real-object",
+  "title": "3D Scanning — A Digital Twin of the Real Object",
+  "summary": "Physical surfaces become measured point clouds and editable geometry.",
+  "discipline": [
+    "technology"
+  ],
+  "kind": "theme",
+  "body_hash": "e41aa545d766426e295afcecc6c95189434cd1e5c17e9c829439c2d45a33a49d",
+  "translation": {
+    "source_locale": "ru",
+    "translated_by": "VANSMITHLAB",
+    "semantic_validated": true,
+    "translation_date": "2026-08-18"
+  }
+}

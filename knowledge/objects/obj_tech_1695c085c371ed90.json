@@ -1,0 +1,119 @@
+{
+  "id": "obj_tech_1695c085c371ed90",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "content_type": "encyclopedia",
+  "canonical_name": "Лазерная резка — плоская точность и серийная форма",
+  "canonical_name_en": "Laser Cutting — Flat Precision and Serial Form",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_laser-cutting-flat-precision-serial-form_01",
+      "title": "www.trumpf.com",
+      "url": "https://www.trumpf.com/en_US/solutions/applications/laser-cutting/",
+      "tier": 1
+    },
+    {
+      "id": "src_laser-cutting-flat-precision-serial-form_02",
+      "title": "www.iso.org",
+      "url": "https://www.iso.org/ics/25.160.10.html",
+      "tier": 1
+    },
+    {
+      "id": "src_laser-cutting-flat-precision-serial-form_03",
+      "title": "www.trumpf.com",
+      "url": "https://www.trumpf.com/en_IN/products/machines-systems/2d-laser-cutting-machines/trulaser-center-7030/",
+      "tier": 1
+    },
+    {
+      "id": "src_laser-cutting-flat-precision-serial-form_04",
+      "title": "www.trumpf.com",
+      "url": "https://www.trumpf.com/en_GB/products/machines-systems/2d-laser-cutting-machines/trulaser-1030-fiber-1040-fiber-1060-fiber/",
+      "tier": 1
+    },
+    {
+      "id": "src_laser-cutting-flat-precision-serial-form_05",
+      "title": "www.trumpf.com",
+      "url": "https://www.trumpf.com/en_GB/products/machines-systems/2d-laser-cutting-machines/trulaser-5030-fiber-5040-fiber-5060-fiber/",
+      "tier": 1
+    },
+    {
+      "id": "src_laser-cutting-flat-precision-serial-form_06",
+      "title": "www.nist.gov",
+      "url": "https://www.nist.gov/document/iljw-scheduleandabstractspdf",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_laser-cutting-flat-precision-serial-form_def",
+      "wording_ru": "Двухмерный контур становится резом, а лист — системой деталей, соединений и модулей. Тема рассматривается как система отношений между данными, инструментом, человеком и результатом, а не как название отдельной программы или машины.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_laser-cutting-flat-precision-serial-form_origin",
+      "wording_ru": "Промышленная лазерная обработка развивалась вместе с мощными источниками и системами управления движением. Распространение CAD/CAM позволило менять геометрию без отдельного штампа, что сделало технологию особенно полезной для прототипов и малых серий.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_laser-cutting-flat-precision-serial-form_method",
+      "wording_ru": "Сфокусированный луч локально нагревает материал, а газ и движение режущей головки формируют линию реза. Качество зависит от мощности, фокуса, скорости, толщины, материала, газа и последовательности траектории. Принципиально важно отделять цифровое описание от физического или визуального результата: ",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_laser-cutting-flat-precision-serial-form_case1",
+      "wording_ru": "Металлическая деталь — связь контура, ширины реза и гибки. Этот пример важен как демонстрация базового принципа, а не только как историческая веха.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_laser-cutting-flat-precision-serial-form_impact",
+      "wording_ru": "Тема изменила дисциплину тем, что перераспределила решения между человеком, данными, программой, машиной и материалом. Двухмерный контур становится резом, а лист — системой деталей, соединений и модулей.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_laser-cutting-flat-precision-serial-form_today",
+      "wording_ru": "Современные системы повышают скорость, автоматизацию и мониторинг, но проектная логика остаётся прежней: геометрия, материал, ширина реза и последующая сборка должны рассматриваться вместе.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_laser-cutting-flat-precision-serial-form_def",
+      "source_id": "src_laser-cutting-flat-precision-serial-form_01",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_laser-cutting-flat-precision-serial-form_origin",
+      "source_id": "src_laser-cutting-flat-precision-serial-form_02",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_laser-cutting-flat-precision-serial-form_method",
+      "source_id": "src_laser-cutting-flat-precision-serial-form_03",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_laser-cutting-flat-precision-serial-form_case1",
+      "source_id": "src_laser-cutting-flat-precision-serial-form_04",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_laser-cutting-flat-precision-serial-form_impact",
+      "source_id": "src_laser-cutting-flat-precision-serial-form_05",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_laser-cutting-flat-precision-serial-form_today",
+      "source_id": "src_laser-cutting-flat-precision-serial-form_06",
+      "locator": "Official documentation and institutional sources"
+    }
+  ],
+  "last_updated": "2026-08-18"
+}

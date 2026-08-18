@@ -1,0 +1,44 @@
+{
+  "content_id": "cnt_tech_en_121cc44f0241b53b",
+  "primary_object_id": "obj_tech_121cc44f0241b53b",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_digital-photography-sensor-raw-production-chain_def",
+    "clm_digital-photography-sensor-raw-production-chain_origin",
+    "clm_digital-photography-sensor-raw-production-chain_method",
+    "clm_digital-photography-sensor-raw-production-chain_case1",
+    "clm_digital-photography-sensor-raw-production-chain_impact",
+    "clm_digital-photography-sensor-raw-production-chain_today",
+    "clm_digital-photography-sensor-raw-production-chain_tl_1975"
+  ],
+  "source_ids": [
+    "src_digital-photography-sensor-raw-production-chain_01",
+    "src_digital-photography-sensor-raw-production-chain_02",
+    "src_digital-photography-sensor-raw-production-chain_03",
+    "src_digital-photography-sensor-raw-production-chain_04",
+    "src_digital-photography-sensor-raw-production-chain_05",
+    "src_digital-photography-sensor-raw-production-chain_06"
+  ],
+  "last_reviewed": "2026-08-18",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "digital-photography-sensor-raw-production-chain",
+  "title": "Digital Photography — Sensor, RAW and a New Production Chain",
+  "summary": "The frame became a data pipeline from sensor and RAW to colour, metadata and archive.",
+  "discipline": [
+    "technology"
+  ],
+  "kind": "theme",
+  "body_hash": "996fb8751618684aff5f59ddb95b44ebe08f38b9985b34fed41a069c1a618e3f",
+  "translation": {
+    "source_locale": "ru",
+    "translated_by": "VANSMITHLAB",
+    "semantic_validated": true,
+    "translation_date": "2026-08-18"
+  }
+}

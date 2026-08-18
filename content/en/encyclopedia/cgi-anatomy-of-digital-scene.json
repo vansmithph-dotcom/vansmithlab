@@ -1,0 +1,45 @@
+{
+  "content_id": "cnt_tech_en_da983c66785c7930",
+  "primary_object_id": "obj_tech_da983c66785c7930",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_cgi-anatomy-of-digital-scene_def",
+    "clm_cgi-anatomy-of-digital-scene_origin",
+    "clm_cgi-anatomy-of-digital-scene_method",
+    "clm_cgi-anatomy-of-digital-scene_case1",
+    "clm_cgi-anatomy-of-digital-scene_impact",
+    "clm_cgi-anatomy-of-digital-scene_today",
+    "clm_cgi-anatomy-of-digital-scene_tl_1986",
+    "clm_cgi-anatomy-of-digital-scene_tl_1993"
+  ],
+  "source_ids": [
+    "src_cgi-anatomy-of-digital-scene_01",
+    "src_cgi-anatomy-of-digital-scene_02",
+    "src_cgi-anatomy-of-digital-scene_03",
+    "src_cgi-anatomy-of-digital-scene_04",
+    "src_cgi-anatomy-of-digital-scene_05",
+    "src_cgi-anatomy-of-digital-scene_06"
+  ],
+  "last_reviewed": "2026-08-18",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "cgi-anatomy-of-digital-scene",
+  "title": "CGI — Anatomy of the Digital Scene",
+  "summary": "Model, material, light, camera and rendering construct plausibility as a system.",
+  "discipline": [
+    "technology"
+  ],
+  "kind": "theme",
+  "body_hash": "ad6c012a0dadf2c0fe264c70bcfd5e4690311d061924e32b5054846608a4a95c",
+  "translation": {
+    "source_locale": "ru",
+    "translated_by": "VANSMITHLAB",
+    "semantic_validated": true,
+    "translation_date": "2026-08-18"
+  }
+}

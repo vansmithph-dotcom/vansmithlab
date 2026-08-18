@@ -1,0 +1,39 @@
+{
+  "content_id": "cnt_tech_ru_da983c66785c7930",
+  "primary_object_id": "obj_tech_da983c66785c7930",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_cgi-anatomy-of-digital-scene_def",
+    "clm_cgi-anatomy-of-digital-scene_origin",
+    "clm_cgi-anatomy-of-digital-scene_method",
+    "clm_cgi-anatomy-of-digital-scene_case1",
+    "clm_cgi-anatomy-of-digital-scene_impact",
+    "clm_cgi-anatomy-of-digital-scene_today",
+    "clm_cgi-anatomy-of-digital-scene_tl_1986",
+    "clm_cgi-anatomy-of-digital-scene_tl_1993"
+  ],
+  "source_ids": [
+    "src_cgi-anatomy-of-digital-scene_01",
+    "src_cgi-anatomy-of-digital-scene_02",
+    "src_cgi-anatomy-of-digital-scene_03",
+    "src_cgi-anatomy-of-digital-scene_04",
+    "src_cgi-anatomy-of-digital-scene_05",
+    "src_cgi-anatomy-of-digital-scene_06"
+  ],
+  "last_reviewed": "2026-08-18",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "cgi-anatomy-of-digital-scene",
+  "title": "CGI — устройство цифровой сцены",
+  "summary": "Модель, материал, свет, камера и рендер строят правдоподобие как систему.",
+  "discipline": [
+    "technology"
+  ],
+  "kind": "theme",
+  "body_hash": "1226aedb27ccadc0206d0e16bad780986c8f38630f3dab3bb4f6c314b208b56f"
+}

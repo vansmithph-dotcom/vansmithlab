@@ -1,0 +1,143 @@
+{
+  "id": "obj_tech_72443ce85fe84d78",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "content_type": "encyclopedia",
+  "canonical_name": "Настольная издательская система — как компьютер изменил журнал",
+  "canonical_name_en": "Desktop Publishing — How the Computer Changed the Magazine",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_desktop-publishing-how-computer-changed-magazine_01",
+      "title": "www.computerhistory.org",
+      "url": "https://www.computerhistory.org/revolution/personal-computers/17/306",
+      "tier": 1
+    },
+    {
+      "id": "src_desktop-publishing-how-computer-changed-magazine_02",
+      "title": "www.computerhistory.org",
+      "url": "https://www.computerhistory.org/timeline/1985/",
+      "tier": 1
+    },
+    {
+      "id": "src_desktop-publishing-how-computer-changed-magazine_03",
+      "title": "www.computerhistory.org",
+      "url": "https://www.computerhistory.org/collections/catalog/102657986/",
+      "tier": 1
+    },
+    {
+      "id": "src_desktop-publishing-how-computer-changed-magazine_04",
+      "title": "www.computerhistory.org",
+      "url": "https://www.computerhistory.org/tdih/august/31/",
+      "tier": 1
+    },
+    {
+      "id": "src_desktop-publishing-how-computer-changed-magazine_05",
+      "title": "archive.computerhistory.org",
+      "url": "https://archive.computerhistory.org/resources/text/Aldus/aldus.desktop_publisher.1986.102659364.pdf",
+      "tier": 1
+    },
+    {
+      "id": "src_desktop-publishing-how-computer-changed-magazine_06",
+      "title": "www.adobe.com",
+      "url": "https://www.adobe.com/products/indesign.html",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_desktop-publishing-how-computer-changed-magazine_def",
+      "wording_ru": "Текст, сетка, изображение и печатный вывод сошлись на одном рабочем столе. Тема рассматривается как система отношений между данными, инструментом, человеком и результатом, а не как название отдельной программы или машины.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_desktop-publishing-how-computer-changed-magazine_origin",
+      "wording_ru": "До настольной издательской системы набор, верстка и вывод были разделены между разными профессиями. В середине 1980-х Macintosh, LaserWriter и PageMaker объединили эти операции в новую цепочку; позднее InDesign развил модель сложного цифрового документа.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_desktop-publishing-how-computer-changed-magazine_method",
+      "wording_ru": "Верстальная система хранит страницу как рамки, стили, сетки, шрифты, ссылки на изображения, цвет и параметры вывода. Иерархию и последовательность можно менять до финальной печати. Принципиально важно отделять цифровое описание от физического или визуального результата: между ними всегда существует ",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_desktop-publishing-how-computer-changed-magazine_case1",
+      "wording_ru": "PageMaker — страница на персональном компьютере. Этот пример важен как демонстрация базового принципа, а не только как историческая веха.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_desktop-publishing-how-computer-changed-magazine_impact",
+      "wording_ru": "Тема изменила дисциплину тем, что перераспределила решения между человеком, данными, программой, машиной и материалом. Текст, сетка, изображение и печатный вывод сошлись на одном рабочем столе.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_desktop-publishing-how-computer-changed-magazine_today",
+      "wording_ru": "Сегодня издательская система должна обслуживать печать, веб, электронные издания и социальные форматы, поэтому дизайн всё чаще описывается правилами и компонентами, а не единичной страницей.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_desktop-publishing-how-computer-changed-magazine_tl_1985",
+      "wording_ru": "PageMaker и настольная издательская революция (1985)",
+      "confidence_score": 0.72,
+      "verification_state": "attributed",
+      "date_start": "1985-01-01"
+    },
+    {
+      "id": "clm_desktop-publishing-how-computer-changed-magazine_tl_1999",
+      "wording_ru": "первый выпуск Adobe InDesign (1999)",
+      "confidence_score": 0.72,
+      "verification_state": "attributed",
+      "date_start": "1999-01-01"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_desktop-publishing-how-computer-changed-magazine_def",
+      "source_id": "src_desktop-publishing-how-computer-changed-magazine_01",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_desktop-publishing-how-computer-changed-magazine_origin",
+      "source_id": "src_desktop-publishing-how-computer-changed-magazine_02",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_desktop-publishing-how-computer-changed-magazine_method",
+      "source_id": "src_desktop-publishing-how-computer-changed-magazine_03",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_desktop-publishing-how-computer-changed-magazine_case1",
+      "source_id": "src_desktop-publishing-how-computer-changed-magazine_04",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_desktop-publishing-how-computer-changed-magazine_impact",
+      "source_id": "src_desktop-publishing-how-computer-changed-magazine_05",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_desktop-publishing-how-computer-changed-magazine_today",
+      "source_id": "src_desktop-publishing-how-computer-changed-magazine_06",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_desktop-publishing-how-computer-changed-magazine_tl_1985",
+      "source_id": "src_desktop-publishing-how-computer-changed-magazine_01",
+      "locator": "Historical timeline reference"
+    },
+    {
+      "claim_id": "clm_desktop-publishing-how-computer-changed-magazine_tl_1999",
+      "source_id": "src_desktop-publishing-how-computer-changed-magazine_01",
+      "locator": "Historical timeline reference"
+    }
+  ],
+  "last_updated": "2026-08-18"
+}

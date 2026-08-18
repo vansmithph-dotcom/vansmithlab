@@ -1,0 +1,39 @@
+{
+  "content_id": "cnt_tech_ru_f13d6c91ec444191",
+  "primary_object_id": "obj_tech_f13d6c91ec444191",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_diffusion-models-new-mechanism-of-image-synthesis_def",
+    "clm_diffusion-models-new-mechanism-of-image-synthesis_origin",
+    "clm_diffusion-models-new-mechanism-of-image-synthesis_method",
+    "clm_diffusion-models-new-mechanism-of-image-synthesis_case1",
+    "clm_diffusion-models-new-mechanism-of-image-synthesis_impact",
+    "clm_diffusion-models-new-mechanism-of-image-synthesis_today",
+    "clm_diffusion-models-new-mechanism-of-image-synthesis_tl_2015",
+    "clm_diffusion-models-new-mechanism-of-image-synthesis_tl_2020"
+  ],
+  "source_ids": [
+    "src_diffusion-models-new-mechanism-of-image-synthesis_01",
+    "src_diffusion-models-new-mechanism-of-image-synthesis_02",
+    "src_diffusion-models-new-mechanism-of-image-synthesis_03",
+    "src_diffusion-models-new-mechanism-of-image-synthesis_04",
+    "src_diffusion-models-new-mechanism-of-image-synthesis_05",
+    "src_diffusion-models-new-mechanism-of-image-synthesis_06"
+  ],
+  "last_reviewed": "2026-08-18",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "diffusion-models-new-mechanism-of-image-synthesis",
+  "title": "Диффузионные модели — новый механизм синтеза изображения",
+  "summary": "Изображение возникает через последовательное удаление шума в выученном вероятностном процессе.",
+  "discipline": [
+    "technology"
+  ],
+  "kind": "theme",
+  "body_hash": "a13d8d96080a5bd7e3705821797b546c168607725dbc35d4c5a18ae1f74a6dd1"
+}

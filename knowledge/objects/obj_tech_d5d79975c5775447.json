@@ -1,0 +1,119 @@
+{
+  "id": "obj_tech_d5d79975c5775447",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "content_type": "encyclopedia",
+  "canonical_name": "Трёхмерное моделирование — объект до объекта",
+  "canonical_name_en": "3D Modelling — The Object Before the Object",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_3d-modeling-object-before-object_01",
+      "title": "help.autodesk.com",
+      "url": "https://help.autodesk.com/cloudhelp/2026/ENU/3DSMax-Modeling/files/GUID-FD120DDE-E8BE-4DB9-A2CA-62069059B4FF.htm",
+      "tier": 1
+    },
+    {
+      "id": "src_3d-modeling-object-before-object_02",
+      "title": "help.autodesk.com",
+      "url": "https://help.autodesk.com/cloudhelp/2022/ENU/Maya-Modeling/files/GUID-735A0B9A-2180-4FB8-9A7B-68F21F306E97.htm",
+      "tier": 1
+    },
+    {
+      "id": "src_3d-modeling-object-before-object_03",
+      "title": "docs.blender.org",
+      "url": "https://docs.blender.org/manual/ru/5.0/render/materials/introduction.html",
+      "tier": 1
+    },
+    {
+      "id": "src_3d-modeling-object-before-object_04",
+      "title": "docs.blender.org",
+      "url": "https://docs.blender.org/manual/en/latest/render/cameras.html",
+      "tier": 1
+    },
+    {
+      "id": "src_3d-modeling-object-before-object_05",
+      "title": "www.loc.gov",
+      "url": "https://www.loc.gov/preservation/digital/formats/fdd/fdd000507.shtml",
+      "tier": 1
+    },
+    {
+      "id": "src_3d-modeling-object-before-object_06",
+      "title": "www.loc.gov",
+      "url": "https://www.loc.gov/preservation/digital/formats/fdd/fdd000501.shtml",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_3d-modeling-object-before-object_def",
+      "wording_ru": "Цифровая геометрия позволяет построить, проверить и показать объект до физического прототипа. Тема рассматривается как система отношений между данными, инструментом, человеком и результатом, а не как название отдельной программы или машины.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_3d-modeling-object-before-object_origin",
+      "wording_ru": "Трёхмерное моделирование выросло из CAD, компьютерной графики и математического описания поверхностей. С ростом вычислительной мощности полигональные сетки, NURBS и твердотельные модели вошли в дизайн, архитектуру, кино и производство.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_3d-modeling-object-before-object_method",
+      "wording_ru": "Полигональная модель использует вершины, рёбра и грани; NURBS математически описывает гладкие кривые и поверхности; твердотельные системы работают с замкнутыми объёмами и операциями над ними. Принципиально важно отделять цифровое описание от физического или визуального результата: между ними всегда ",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_3d-modeling-object-before-object_case1",
+      "wording_ru": "NURBS — управляемые гладкие оболочки. Этот пример важен как демонстрация базового принципа, а не только как историческая веха.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_3d-modeling-object-before-object_impact",
+      "wording_ru": "Тема изменила дисциплину тем, что перераспределила решения между человеком, данными, программой, машиной и материалом. Цифровая геометрия позволяет построить, проверить и показать объект до физического прототипа.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_3d-modeling-object-before-object_today",
+      "wording_ru": "Сегодня модель всё чаще входит в цифровой двойник вместе с материалами, метаданными, сканами и производственными параметрами; растёт значение устойчивых форматов хранения.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_3d-modeling-object-before-object_def",
+      "source_id": "src_3d-modeling-object-before-object_01",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_3d-modeling-object-before-object_origin",
+      "source_id": "src_3d-modeling-object-before-object_02",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_3d-modeling-object-before-object_method",
+      "source_id": "src_3d-modeling-object-before-object_03",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_3d-modeling-object-before-object_case1",
+      "source_id": "src_3d-modeling-object-before-object_04",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_3d-modeling-object-before-object_impact",
+      "source_id": "src_3d-modeling-object-before-object_05",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_3d-modeling-object-before-object_today",
+      "source_id": "src_3d-modeling-object-before-object_06",
+      "locator": "Official documentation and institutional sources"
+    }
+  ],
+  "last_updated": "2026-08-18"
+}

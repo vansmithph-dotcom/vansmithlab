@@ -1,0 +1,131 @@
+{
+  "id": "obj_tech_638f600b5daadfdd",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "content_type": "encyclopedia",
+  "canonical_name": "Числовое программное управление — цифровая модель как инструкция станку",
+  "canonical_name_en": "CNC — The Digital Model as a Machine Instruction",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_cnc-digital-model-as-machine-instruction_01",
+      "title": "mitmuseum.mit.edu",
+      "url": "https://mitmuseum.mit.edu/collections/object/1990.036.001",
+      "tier": 1
+    },
+    {
+      "id": "src_cnc-digital-model-as-machine-instruction_02",
+      "title": "mitmuseum.mit.edu",
+      "url": "https://mitmuseum.mit.edu/collections/object/2007.037.001",
+      "tier": 1
+    },
+    {
+      "id": "src_cnc-digital-model-as-machine-instruction_03",
+      "title": "www.nist.gov",
+      "url": "https://www.nist.gov/publications/state-integrated-camcnc-control-systems-prior-developments-and-path-towards-smarter-cnc",
+      "tier": 1
+    },
+    {
+      "id": "src_cnc-digital-model-as-machine-instruction_04",
+      "title": "tsapps.nist.gov",
+      "url": "https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=928733",
+      "tier": 1
+    },
+    {
+      "id": "src_cnc-digital-model-as-machine-instruction_05",
+      "title": "www.iso.org",
+      "url": "https://www.iso.org/standard/34608.html",
+      "tier": 1
+    },
+    {
+      "id": "src_cnc-digital-model-as-machine-instruction_06",
+      "title": "www.iso.org",
+      "url": "https://www.iso.org/ics/25.040.20.html",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_cnc-digital-model-as-machine-instruction_def",
+      "wording_ru": "Файл становится траекторией инструмента, а геометрия — последовательностью управляемых перемещений. Тема рассматривается как система отношений между данными, инструментом, человеком и результатом, а не как название отдельной программы или машины.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_cnc-digital-model-as-machine-instruction_origin",
+      "wording_ru": "После Второй мировой войны числовое управление развивалось как способ автоматически воспроизводить сложные траектории. В 1952 году MIT Servomechanisms Laboratory продемонстрировала раннюю числово управляемую фрезерную машину; APT позднее поднял описание обработки над уровнем отдельных команд.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_cnc-digital-model-as-machine-instruction_method",
+      "wording_ru": "CAM превращает геометрию в траектории с учётом диаметра инструмента, глубины, материала, скорости и кинематики станка. Постпроцессор переводит результат в команды конкретного контроллера. Принципиально важно отделять цифровое описание от физического или визуального результата: между ними всегда суще",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_cnc-digital-model-as-machine-instruction_case1",
+      "wording_ru": "MIT 1952 — ранняя числовая фрезеровка. Этот пример важен как демонстрация базового принципа, а не только как историческая веха.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_cnc-digital-model-as-machine-instruction_impact",
+      "wording_ru": "Тема изменила дисциплину тем, что перераспределила решения между человеком, данными, программой, машиной и материалом. Файл становится траекторией инструмента, а геометрия — последовательностью управляемых перемещений.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_cnc-digital-model-as-machine-instruction_today",
+      "wording_ru": "Современное CNC интегрирует CAM, измерение, симуляцию и цифровые двойники станка, чтобы производственная информация была прослеживаемой и проверяемой.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_cnc-digital-model-as-machine-instruction_tl_1952",
+      "wording_ru": "числово управляемая фрезерная машина MIT (1952)",
+      "confidence_score": 0.72,
+      "verification_state": "attributed",
+      "date_start": "1952-01-01"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_cnc-digital-model-as-machine-instruction_def",
+      "source_id": "src_cnc-digital-model-as-machine-instruction_01",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_cnc-digital-model-as-machine-instruction_origin",
+      "source_id": "src_cnc-digital-model-as-machine-instruction_02",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_cnc-digital-model-as-machine-instruction_method",
+      "source_id": "src_cnc-digital-model-as-machine-instruction_03",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_cnc-digital-model-as-machine-instruction_case1",
+      "source_id": "src_cnc-digital-model-as-machine-instruction_04",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_cnc-digital-model-as-machine-instruction_impact",
+      "source_id": "src_cnc-digital-model-as-machine-instruction_05",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_cnc-digital-model-as-machine-instruction_today",
+      "source_id": "src_cnc-digital-model-as-machine-instruction_06",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_cnc-digital-model-as-machine-instruction_tl_1952",
+      "source_id": "src_cnc-digital-model-as-machine-instruction_01",
+      "locator": "Historical timeline reference"
+    }
+  ],
+  "last_updated": "2026-08-18"
+}

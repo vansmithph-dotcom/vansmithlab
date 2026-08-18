@@ -1,0 +1,39 @@
+{
+  "content_id": "cnt_tech_ru_c0b1f0e7324ac268",
+  "primary_object_id": "obj_tech_c0b1f0e7324ac268",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_3d-printing-production-without-traditional-tooling_def",
+    "clm_3d-printing-production-without-traditional-tooling_origin",
+    "clm_3d-printing-production-without-traditional-tooling_method",
+    "clm_3d-printing-production-without-traditional-tooling_case1",
+    "clm_3d-printing-production-without-traditional-tooling_impact",
+    "clm_3d-printing-production-without-traditional-tooling_today",
+    "clm_3d-printing-production-without-traditional-tooling_tl_1986",
+    "clm_3d-printing-production-without-traditional-tooling_tl_2021"
+  ],
+  "source_ids": [
+    "src_3d-printing-production-without-traditional-tooling_01",
+    "src_3d-printing-production-without-traditional-tooling_02",
+    "src_3d-printing-production-without-traditional-tooling_03",
+    "src_3d-printing-production-without-traditional-tooling_04",
+    "src_3d-printing-production-without-traditional-tooling_05",
+    "src_3d-printing-production-without-traditional-tooling_06"
+  ],
+  "last_reviewed": "2026-08-18",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "3d-printing-production-without-traditional-tooling",
+  "title": "Трёхмерная печать — производство без традиционной оснастки",
+  "summary": "Форма строится послойно из цифровой геометрии, меняя роль оснастки и серийности.",
+  "discipline": [
+    "technology"
+  ],
+  "kind": "theme",
+  "body_hash": "f320112c3921d1e5013fda56e587707cbdcf4c0bc1bc5b7f2352e82ed0c2a5c4"
+}

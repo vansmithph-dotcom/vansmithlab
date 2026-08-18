@@ -1,0 +1,143 @@
+{
+  "id": "obj_tech_c0b1f0e7324ac268",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "content_type": "encyclopedia",
+  "canonical_name": "Трёхмерная печать — производство без традиционной оснастки",
+  "canonical_name_en": "3D Printing — Production Without Traditional Tooling",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_3d-printing-production-without-traditional-tooling_01",
+      "title": "www.iso.org",
+      "url": "https://www.iso.org/standard/74514.html",
+      "tier": 1
+    },
+    {
+      "id": "src_3d-printing-production-without-traditional-tooling_02",
+      "title": "www.nist.gov",
+      "url": "https://www.nist.gov/additive-manufacturing",
+      "tier": 1
+    },
+    {
+      "id": "src_3d-printing-production-without-traditional-tooling_03",
+      "title": "www.nist.gov",
+      "url": "https://www.nist.gov/additive-manufacturing/products-resources-0/standards-benchmarks",
+      "tier": 1
+    },
+    {
+      "id": "src_3d-printing-production-without-traditional-tooling_04",
+      "title": "www.nist.gov",
+      "url": "https://www.nist.gov/additive-manufacturing/additive-manufacturing-faqs",
+      "tier": 1
+    },
+    {
+      "id": "src_3d-printing-production-without-traditional-tooling_05",
+      "title": "www.iso.org",
+      "url": "https://www.iso.org/standard/67289.html",
+      "tier": 1
+    },
+    {
+      "id": "src_3d-printing-production-without-traditional-tooling_06",
+      "title": "www.loc.gov",
+      "url": "https://www.loc.gov/preservation/digital/formats/fdd/fdd000504.shtml",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_3d-printing-production-without-traditional-tooling_def",
+      "wording_ru": "Форма строится послойно из цифровой геометрии, меняя роль оснастки и серийности. Тема рассматривается как система отношений между данными, инструментом, человеком и результатом, а не как название отдельной программы или машины.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_3d-printing-production-without-traditional-tooling_origin",
+      "wording_ru": "Современное аддитивное производство сформировалось в 1980-х вокруг быстрого прототипирования. Стереолитография Чарльза Халла, закреплённая патентом 1986 года, стала одной из ключевых ранних технологий; позже отрасль перешла от прототипов к конечным деталям и стандартам.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_3d-printing-production-without-traditional-tooling_method",
+      "wording_ru": "Модель ориентируют и разбивают на слои; машина формирует их экструзией, фотополимеризацией, спеканием, плавлением или другим способом. Ориентация, поддержки и толщина слоя влияют на поверхность, прочность и время. Принципиально важно отделять цифровое описание от физического или визуального результа",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_3d-printing-production-without-traditional-tooling_case1",
+      "wording_ru": "Стереолитография — послойное отверждение фотополимера. Этот пример важен как демонстрация базового принципа, а не только как историческая веха.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_3d-printing-production-without-traditional-tooling_impact",
+      "wording_ru": "Тема изменила дисциплину тем, что перераспределила решения между человеком, данными, программой, машиной и материалом. Форма строится послойно из цифровой геометрии, меняя роль оснастки и серийности.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_3d-printing-production-without-traditional-tooling_today",
+      "wording_ru": "Аддитивное производство движется к сертифицированным конечным деталям, медицине, оснастке и крупному формату, а стандартизация и метрология стремятся обеспечить повторяемость между машинами и партиями.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_3d-printing-production-without-traditional-tooling_tl_1986",
+      "wording_ru": "патент Чарльза Халла на стереолитографию (1986)",
+      "confidence_score": 0.72,
+      "verification_state": "attributed",
+      "date_start": "1986-01-01"
+    },
+    {
+      "id": "clm_3d-printing-production-without-traditional-tooling_tl_2021",
+      "wording_ru": "ISO/ASTM 52900:2021 закрепляет базовую терминологию (2021)",
+      "confidence_score": 0.72,
+      "verification_state": "attributed",
+      "date_start": "2021-01-01"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_3d-printing-production-without-traditional-tooling_def",
+      "source_id": "src_3d-printing-production-without-traditional-tooling_01",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_3d-printing-production-without-traditional-tooling_origin",
+      "source_id": "src_3d-printing-production-without-traditional-tooling_02",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_3d-printing-production-without-traditional-tooling_method",
+      "source_id": "src_3d-printing-production-without-traditional-tooling_03",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_3d-printing-production-without-traditional-tooling_case1",
+      "source_id": "src_3d-printing-production-without-traditional-tooling_04",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_3d-printing-production-without-traditional-tooling_impact",
+      "source_id": "src_3d-printing-production-without-traditional-tooling_05",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_3d-printing-production-without-traditional-tooling_today",
+      "source_id": "src_3d-printing-production-without-traditional-tooling_06",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_3d-printing-production-without-traditional-tooling_tl_1986",
+      "source_id": "src_3d-printing-production-without-traditional-tooling_01",
+      "locator": "Historical timeline reference"
+    },
+    {
+      "claim_id": "clm_3d-printing-production-without-traditional-tooling_tl_2021",
+      "source_id": "src_3d-printing-production-without-traditional-tooling_01",
+      "locator": "Historical timeline reference"
+    }
+  ],
+  "last_updated": "2026-08-18"
+}
