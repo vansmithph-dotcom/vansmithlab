@@ -1,0 +1,92 @@
+{
+  "id": "obj_49f4562341f2c93a",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_034c184941e3f5ad",
+      "title": "Special Group — Official creative agency",
+      "url": "https://specialgroup.com",
+      "tier": 1
+    },
+    {
+      "id": "src_eacda0a968e6e172",
+      "title": "Little Black Book — Special Group",
+      "url": "https://lbbonline.com/companies/special-group",
+      "tier": 2
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_origin",
+      "wording_ru": "special: origin — атрибутированное утверждение на основании авторского контента",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_method",
+      "wording_ru": "special: method — атрибутированное утверждение на основании авторского контента",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_case1",
+      "wording_ru": "special: case1 — атрибутированное утверждение на основании авторского контента",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_case2",
+      "wording_ru": "special: case2 — атрибутированное утверждение на основании авторского контента",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_impact",
+      "wording_ru": "special: impact — атрибутированное утверждение на основании авторского контента",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_current",
+      "wording_ru": "special: current — атрибутированное утверждение на основании авторского контента",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_origin",
+      "source_id": "src_034c184941e3f5ad",
+      "locator": "Organization profile and official resources"
+    },
+    {
+      "claim_id": "clm_method",
+      "source_id": "src_034c184941e3f5ad",
+      "locator": "Organization profile and official resources"
+    },
+    {
+      "claim_id": "clm_case1",
+      "source_id": "src_034c184941e3f5ad",
+      "locator": "Organization profile and official resources"
+    },
+    {
+      "claim_id": "clm_case2",
+      "source_id": "src_034c184941e3f5ad",
+      "locator": "Organization profile and official resources"
+    },
+    {
+      "claim_id": "clm_impact",
+      "source_id": "src_034c184941e3f5ad",
+      "locator": "Organization profile and official resources"
+    },
+    {
+      "claim_id": "clm_current",
+      "source_id": "src_034c184941e3f5ad",
+      "locator": "Organization profile and official resources"
+    }
+  ],
+  "contradictions": []
+}

@@ -1,0 +1,92 @@
+{
+  "id": "obj__c11a8a27ac102464",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_aa0991974ec26e4a",
+      "title": "Victoria and Albert Museum — Claire Wilcox",
+      "url": "https://www.vam.ac.uk/collections/fashion/curators",
+      "tier": 1
+    },
+    {
+      "id": "src_71024dc4e5cdbfb8",
+      "title": "The Guardian — Claire Wilcox",
+      "url": "https://www.theguardian.com/profile/clairewilcox",
+      "tier": 2
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_origin",
+      "wording_ru": "claire-wilcox-fashion-curation-victoria-albert: происхождение, образование и начало профессиональной карьеры",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_method",
+      "wording_ru": "claire-wilcox-fashion-curation-victoria-albert: метод работы, творческий подход и профессиональные принципы",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_case1",
+      "wording_ru": "claire-wilcox-fashion-curation-victoria-albert: первый ключевой проект или коллаборация",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_case2",
+      "wording_ru": "claire-wilcox-fashion-curation-victoria-albert: второй ключевой проект, подтверждающий значимость подхода",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_impact",
+      "wording_ru": "claire-wilcox-fashion-curation-victoria-albert: влияние на профессию и культурный контекст",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_current",
+      "wording_ru": "claire-wilcox-fashion-curation-victoria-albert: текущая деятельность и актуальный статус",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_origin",
+      "source_id": "src_aa0991974ec26e4a",
+      "locator": "Official biographical information"
+    },
+    {
+      "claim_id": "clm_method",
+      "source_id": "src_aa0991974ec26e4a",
+      "locator": "Official biographical information"
+    },
+    {
+      "claim_id": "clm_case1",
+      "source_id": "src_aa0991974ec26e4a",
+      "locator": "Official biographical information"
+    },
+    {
+      "claim_id": "clm_case2",
+      "source_id": "src_aa0991974ec26e4a",
+      "locator": "Official biographical information"
+    },
+    {
+      "claim_id": "clm_impact",
+      "source_id": "src_aa0991974ec26e4a",
+      "locator": "Official biographical information"
+    },
+    {
+      "claim_id": "clm_current",
+      "source_id": "src_aa0991974ec26e4a",
+      "locator": "Official biographical information"
+    }
+  ],
+  "contradictions": []
+}

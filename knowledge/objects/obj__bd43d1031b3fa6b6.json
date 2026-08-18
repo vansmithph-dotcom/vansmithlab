@@ -1,0 +1,92 @@
+{
+  "id": "obj__bd43d1031b3fa6b6",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_8aa9fbd8d46cc052",
+      "title": "Space Copenhagen — Official",
+      "url": "https://www.spacecph.dk",
+      "tier": 1
+    },
+    {
+      "id": "src_78221177d5143aa4",
+      "title": "Dezeen — Space Copenhagen",
+      "url": "https://www.dezeen.com/tag/space-copenhagen/",
+      "tier": 2
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_origin",
+      "wording_ru": "space-copenhagen: происхождение, основание и профессиональный контекст организации",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_method",
+      "wording_ru": "space-copenhagen: метод работы, операционный принцип и организационная структура",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_case1",
+      "wording_ru": "space-copenhagen: первый ключевой проект, демонстрирующий метод",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_case2",
+      "wording_ru": "space-copenhagen: второй ключевой проект, подтверждающий устойчивость подхода",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_impact",
+      "wording_ru": "space-copenhagen: влияние на дисциплину и профессиональное сообщество",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_current",
+      "wording_ru": "space-copenhagen: текущая деятельность и актуальный статус организации",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_origin",
+      "source_id": "src_8aa9fbd8d46cc052",
+      "locator": "Official profile"
+    },
+    {
+      "claim_id": "clm_method",
+      "source_id": "src_8aa9fbd8d46cc052",
+      "locator": "Official profile"
+    },
+    {
+      "claim_id": "clm_case1",
+      "source_id": "src_8aa9fbd8d46cc052",
+      "locator": "Official profile"
+    },
+    {
+      "claim_id": "clm_case2",
+      "source_id": "src_8aa9fbd8d46cc052",
+      "locator": "Official profile"
+    },
+    {
+      "claim_id": "clm_impact",
+      "source_id": "src_8aa9fbd8d46cc052",
+      "locator": "Official profile"
+    },
+    {
+      "claim_id": "clm_current",
+      "source_id": "src_8aa9fbd8d46cc052",
+      "locator": "Official profile"
+    }
+  ],
+  "contradictions": []
+}

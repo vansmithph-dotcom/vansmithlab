@@ -1,0 +1,92 @@
+{
+  "id": "obj__e842e81a768ac28c",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_ae35cc213e3241e8",
+      "title": "West 8 — Official landscape & urban design",
+      "url": "https://www.west8.com",
+      "tier": 1
+    },
+    {
+      "id": "src_40f9e94cf6466e9d",
+      "title": "Dezeen — West 8",
+      "url": "https://www.dezeen.com/tag/west-8/",
+      "tier": 2
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_origin",
+      "wording_ru": "west-8: происхождение, основание и профессиональный контекст организации",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_method",
+      "wording_ru": "west-8: метод работы, операционный принцип и организационная структура",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_case1",
+      "wording_ru": "west-8: первый ключевой проект, демонстрирующий метод",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_case2",
+      "wording_ru": "west-8: второй ключевой проект, подтверждающий устойчивость подхода",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_impact",
+      "wording_ru": "west-8: влияние на дисциплину и профессиональное сообщество",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_current",
+      "wording_ru": "west-8: текущая деятельность и актуальный статус организации",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_origin",
+      "source_id": "src_ae35cc213e3241e8",
+      "locator": "Official profile"
+    },
+    {
+      "claim_id": "clm_method",
+      "source_id": "src_ae35cc213e3241e8",
+      "locator": "Official profile"
+    },
+    {
+      "claim_id": "clm_case1",
+      "source_id": "src_ae35cc213e3241e8",
+      "locator": "Official profile"
+    },
+    {
+      "claim_id": "clm_case2",
+      "source_id": "src_ae35cc213e3241e8",
+      "locator": "Official profile"
+    },
+    {
+      "claim_id": "clm_impact",
+      "source_id": "src_ae35cc213e3241e8",
+      "locator": "Official profile"
+    },
+    {
+      "claim_id": "clm_current",
+      "source_id": "src_ae35cc213e3241e8",
+      "locator": "Official profile"
+    }
+  ],
+  "contradictions": []
+}

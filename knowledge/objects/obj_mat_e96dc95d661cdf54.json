@@ -1,0 +1,70 @@
+{
+  "id": "obj_mat_e96dc95d661cdf54",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.75,
+  "sources": [
+    {
+      "id": "src_mat_polyester_texe",
+      "title": "Textile Exchange — Polyester Fiber Report",
+      "url": "https://textileexchange.org/materials/polyester/",
+      "tier": 2
+    },
+    {
+      "id": "src_mat_nsi_library",
+      "title": "Natural Stone Institute — Dimension Stone Design Manual",
+      "url": "https://pubs.naturalstoneinstitute.org/resources/library/",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_composition",
+      "wording_ru": "polyester-fibre-film-mass-clothing-surface: химический состав, молекулярная или кристаллическая структура и физические свойства материала",
+      "confidence_score": 0.75,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_production",
+      "wording_ru": "polyester-fibre-film-mass-clothing-surface: методы добычи, производства или переработки, определяющие доступные форматы и ограничения",
+      "confidence_score": 0.75,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_surface",
+      "wording_ru": "polyester-fibre-film-mass-clothing-surface: поверхностные характеристики, фактура, старение и визуальное поведение в пространстве",
+      "confidence_score": 0.75,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_design_use",
+      "wording_ru": "polyester-fibre-film-mass-clothing-surface: области применения в дизайне, архитектуре и производстве, а также ключевые проектные прецеденты",
+      "confidence_score": 0.75,
+      "verification_state": "attributed"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_composition",
+      "source_id": "src_mat_polyester_texe",
+      "locator": "Material specification and technical overview"
+    },
+    {
+      "claim_id": "clm_production",
+      "source_id": "src_mat_polyester_texe",
+      "locator": "Material specification and technical overview"
+    },
+    {
+      "claim_id": "clm_surface",
+      "source_id": "src_mat_polyester_texe",
+      "locator": "Material specification and technical overview"
+    },
+    {
+      "claim_id": "clm_design_use",
+      "source_id": "src_mat_polyester_texe",
+      "locator": "Material specification and technical overview"
+    }
+  ],
+  "contradictions": []
+}

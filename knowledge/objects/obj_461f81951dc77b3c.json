@@ -1,0 +1,92 @@
+{
+  "id": "obj_461f81951dc77b3c",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_02f57b536879f9a2",
+      "title": "BBDO — Official agency website",
+      "url": "https://www.bbdo.com",
+      "tier": 1
+    },
+    {
+      "id": "src_eb0a77bbe172c3b4",
+      "title": "Wikipedia — BBDO",
+      "url": "https://en.wikipedia.org/wiki/BBDO",
+      "tier": 3
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_origin",
+      "wording_ru": "bbdo: origin — атрибутированное утверждение на основании авторского контента",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_method",
+      "wording_ru": "bbdo: method — атрибутированное утверждение на основании авторского контента",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_case1",
+      "wording_ru": "bbdo: case1 — атрибутированное утверждение на основании авторского контента",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_case2",
+      "wording_ru": "bbdo: case2 — атрибутированное утверждение на основании авторского контента",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_impact",
+      "wording_ru": "bbdo: impact — атрибутированное утверждение на основании авторского контента",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_current",
+      "wording_ru": "bbdo: current — атрибутированное утверждение на основании авторского контента",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_origin",
+      "source_id": "src_02f57b536879f9a2",
+      "locator": "Organization profile and official resources"
+    },
+    {
+      "claim_id": "clm_method",
+      "source_id": "src_02f57b536879f9a2",
+      "locator": "Organization profile and official resources"
+    },
+    {
+      "claim_id": "clm_case1",
+      "source_id": "src_02f57b536879f9a2",
+      "locator": "Organization profile and official resources"
+    },
+    {
+      "claim_id": "clm_case2",
+      "source_id": "src_02f57b536879f9a2",
+      "locator": "Organization profile and official resources"
+    },
+    {
+      "claim_id": "clm_impact",
+      "source_id": "src_02f57b536879f9a2",
+      "locator": "Organization profile and official resources"
+    },
+    {
+      "claim_id": "clm_current",
+      "source_id": "src_02f57b536879f9a2",
+      "locator": "Organization profile and official resources"
+    }
+  ],
+  "contradictions": []
+}

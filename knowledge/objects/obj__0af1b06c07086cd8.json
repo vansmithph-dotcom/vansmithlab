@@ -1,0 +1,92 @@
+{
+  "id": "obj__0af1b06c07086cd8",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_471a9a1d1d8dd8f3",
+      "title": "Spector Books — Official publisher",
+      "url": "https://www.spectorbooks.com",
+      "tier": 1
+    },
+    {
+      "id": "src_b4890fabc6e2ef08",
+      "title": "It's Nice That — Spector Books",
+      "url": "https://www.itsnicethat.com/tags/spector-books",
+      "tier": 2
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_origin",
+      "wording_ru": "spector-books: происхождение, основание и профессиональный контекст организации",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_method",
+      "wording_ru": "spector-books: метод работы, операционный принцип и организационная структура",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_case1",
+      "wording_ru": "spector-books: первый ключевой проект, демонстрирующий метод",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_case2",
+      "wording_ru": "spector-books: второй ключевой проект, подтверждающий устойчивость подхода",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_impact",
+      "wording_ru": "spector-books: влияние на дисциплину и профессиональное сообщество",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_current",
+      "wording_ru": "spector-books: текущая деятельность и актуальный статус организации",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_origin",
+      "source_id": "src_471a9a1d1d8dd8f3",
+      "locator": "Official profile"
+    },
+    {
+      "claim_id": "clm_method",
+      "source_id": "src_471a9a1d1d8dd8f3",
+      "locator": "Official profile"
+    },
+    {
+      "claim_id": "clm_case1",
+      "source_id": "src_471a9a1d1d8dd8f3",
+      "locator": "Official profile"
+    },
+    {
+      "claim_id": "clm_case2",
+      "source_id": "src_471a9a1d1d8dd8f3",
+      "locator": "Official profile"
+    },
+    {
+      "claim_id": "clm_impact",
+      "source_id": "src_471a9a1d1d8dd8f3",
+      "locator": "Official profile"
+    },
+    {
+      "claim_id": "clm_current",
+      "source_id": "src_471a9a1d1d8dd8f3",
+      "locator": "Official profile"
+    }
+  ],
+  "contradictions": []
+}

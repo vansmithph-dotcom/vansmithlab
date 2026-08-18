@@ -1,0 +1,92 @@
+{
+  "id": "obj__503de9c972a7d7b0",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_46e4821fd1a463e3",
+      "title": "Production Type — Official foundry",
+      "url": "https://productiontype.com",
+      "tier": 1
+    },
+    {
+      "id": "src_77462e45d45d0e70",
+      "title": "Typewolf — Production Type",
+      "url": "https://www.typewolf.com/production-type",
+      "tier": 2
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_origin",
+      "wording_ru": "production-type: происхождение, основание и профессиональный контекст организации",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_method",
+      "wording_ru": "production-type: метод работы, операционный принцип и организационная структура",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_case1",
+      "wording_ru": "production-type: первый ключевой проект, демонстрирующий метод",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_case2",
+      "wording_ru": "production-type: второй ключевой проект, подтверждающий устойчивость подхода",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_impact",
+      "wording_ru": "production-type: влияние на дисциплину и профессиональное сообщество",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_current",
+      "wording_ru": "production-type: текущая деятельность и актуальный статус организации",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_origin",
+      "source_id": "src_46e4821fd1a463e3",
+      "locator": "Official profile"
+    },
+    {
+      "claim_id": "clm_method",
+      "source_id": "src_46e4821fd1a463e3",
+      "locator": "Official profile"
+    },
+    {
+      "claim_id": "clm_case1",
+      "source_id": "src_46e4821fd1a463e3",
+      "locator": "Official profile"
+    },
+    {
+      "claim_id": "clm_case2",
+      "source_id": "src_46e4821fd1a463e3",
+      "locator": "Official profile"
+    },
+    {
+      "claim_id": "clm_impact",
+      "source_id": "src_46e4821fd1a463e3",
+      "locator": "Official profile"
+    },
+    {
+      "claim_id": "clm_current",
+      "source_id": "src_46e4821fd1a463e3",
+      "locator": "Official profile"
+    }
+  ],
+  "contradictions": []
+}

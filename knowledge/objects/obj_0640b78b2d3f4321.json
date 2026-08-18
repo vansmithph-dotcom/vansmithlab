@@ -1,0 +1,92 @@
+{
+  "id": "obj_0640b78b2d3f4321",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_4f2e21570b79123d",
+      "title": "Random International — Official studio",
+      "url": "https://www.random-international.com",
+      "tier": 1
+    },
+    {
+      "id": "src_76a71f0b4514abd1",
+      "title": "Wikipedia — Random International",
+      "url": "https://en.wikipedia.org/wiki/Random_International",
+      "tier": 3
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_origin",
+      "wording_ru": "random-international: origin — атрибутированное утверждение на основании авторского контента",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_method",
+      "wording_ru": "random-international: method — атрибутированное утверждение на основании авторского контента",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_case1",
+      "wording_ru": "random-international: case1 — атрибутированное утверждение на основании авторского контента",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_case2",
+      "wording_ru": "random-international: case2 — атрибутированное утверждение на основании авторского контента",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_impact",
+      "wording_ru": "random-international: impact — атрибутированное утверждение на основании авторского контента",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_current",
+      "wording_ru": "random-international: current — атрибутированное утверждение на основании авторского контента",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_origin",
+      "source_id": "src_4f2e21570b79123d",
+      "locator": "Organization profile and official resources"
+    },
+    {
+      "claim_id": "clm_method",
+      "source_id": "src_4f2e21570b79123d",
+      "locator": "Organization profile and official resources"
+    },
+    {
+      "claim_id": "clm_case1",
+      "source_id": "src_4f2e21570b79123d",
+      "locator": "Organization profile and official resources"
+    },
+    {
+      "claim_id": "clm_case2",
+      "source_id": "src_4f2e21570b79123d",
+      "locator": "Organization profile and official resources"
+    },
+    {
+      "claim_id": "clm_impact",
+      "source_id": "src_4f2e21570b79123d",
+      "locator": "Organization profile and official resources"
+    },
+    {
+      "claim_id": "clm_current",
+      "source_id": "src_4f2e21570b79123d",
+      "locator": "Organization profile and official resources"
+    }
+  ],
+  "contradictions": []
+}

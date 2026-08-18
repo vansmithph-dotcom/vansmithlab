@@ -1,0 +1,70 @@
+{
+  "id": "obj_mat_f05a5381b4ba0890",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.75,
+  "sources": [
+    {
+      "id": "src_mat_worldsteel",
+      "title": "World Steel Association — What is steel?",
+      "url": "https://worldsteel.org/about-steel/what-is%20steel/",
+      "tier": 1
+    },
+    {
+      "id": "src_mat_worldsteel_facts",
+      "title": "World Steel Association — Steel facts",
+      "url": "https://steelfacts.worldsteel.org/facts",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_composition",
+      "wording_ru": "steel-structure-frame-industrial-honesty: химический состав, молекулярная или кристаллическая структура и физические свойства материала",
+      "confidence_score": 0.75,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_production",
+      "wording_ru": "steel-structure-frame-industrial-honesty: методы добычи, производства или переработки, определяющие доступные форматы и ограничения",
+      "confidence_score": 0.75,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_surface",
+      "wording_ru": "steel-structure-frame-industrial-honesty: поверхностные характеристики, фактура, старение и визуальное поведение в пространстве",
+      "confidence_score": 0.75,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_design_use",
+      "wording_ru": "steel-structure-frame-industrial-honesty: области применения в дизайне, архитектуре и производстве, а также ключевые проектные прецеденты",
+      "confidence_score": 0.75,
+      "verification_state": "attributed"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_composition",
+      "source_id": "src_mat_worldsteel",
+      "locator": "Material specification and technical overview"
+    },
+    {
+      "claim_id": "clm_production",
+      "source_id": "src_mat_worldsteel",
+      "locator": "Material specification and technical overview"
+    },
+    {
+      "claim_id": "clm_surface",
+      "source_id": "src_mat_worldsteel",
+      "locator": "Material specification and technical overview"
+    },
+    {
+      "claim_id": "clm_design_use",
+      "source_id": "src_mat_worldsteel",
+      "locator": "Material specification and technical overview"
+    }
+  ],
+  "contradictions": []
+}

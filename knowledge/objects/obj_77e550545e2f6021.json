@@ -1,0 +1,92 @@
+{
+  "id": "obj_77e550545e2f6021",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_8680f924a2ce06f1",
+      "title": "Lars Müller Publishers — Official",
+      "url": "https://www.lars-mueller-publishers.com",
+      "tier": 1
+    },
+    {
+      "id": "src_5c00f79a2d668380",
+      "title": "Eye Magazine — Lars Müller Publishers",
+      "url": "https://www.eyemagazine.com/feature/article/lars-mueller-publisher",
+      "tier": 2
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_origin",
+      "wording_ru": "lars-muller-publishers: origin — атрибутированное утверждение на основании авторского контента",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_method",
+      "wording_ru": "lars-muller-publishers: method — атрибутированное утверждение на основании авторского контента",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_case1",
+      "wording_ru": "lars-muller-publishers: case1 — атрибутированное утверждение на основании авторского контента",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_case2",
+      "wording_ru": "lars-muller-publishers: case2 — атрибутированное утверждение на основании авторского контента",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_impact",
+      "wording_ru": "lars-muller-publishers: impact — атрибутированное утверждение на основании авторского контента",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_current",
+      "wording_ru": "lars-muller-publishers: current — атрибутированное утверждение на основании авторского контента",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_origin",
+      "source_id": "src_8680f924a2ce06f1",
+      "locator": "Organization profile and official resources"
+    },
+    {
+      "claim_id": "clm_method",
+      "source_id": "src_8680f924a2ce06f1",
+      "locator": "Organization profile and official resources"
+    },
+    {
+      "claim_id": "clm_case1",
+      "source_id": "src_8680f924a2ce06f1",
+      "locator": "Organization profile and official resources"
+    },
+    {
+      "claim_id": "clm_case2",
+      "source_id": "src_8680f924a2ce06f1",
+      "locator": "Organization profile and official resources"
+    },
+    {
+      "claim_id": "clm_impact",
+      "source_id": "src_8680f924a2ce06f1",
+      "locator": "Organization profile and official resources"
+    },
+    {
+      "claim_id": "clm_current",
+      "source_id": "src_8680f924a2ce06f1",
+      "locator": "Organization profile and official resources"
+    }
+  ],
+  "contradictions": []
+}

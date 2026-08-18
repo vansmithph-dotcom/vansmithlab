@@ -1,0 +1,92 @@
+{
+  "id": "obj_0873d437d384d740",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_7650f83442d8d294",
+      "title": "OMA — Official architecture office",
+      "url": "https://www.oma.com",
+      "tier": 1
+    },
+    {
+      "id": "src_11d58bbd79f12fb3",
+      "title": "Wikipedia — Office for Metropolitan Architecture",
+      "url": "https://en.wikipedia.org/wiki/Office_for_Metropolitan_Architecture",
+      "tier": 3
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_origin",
+      "wording_ru": "oma: origin — атрибутированное утверждение на основании авторского контента",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_method",
+      "wording_ru": "oma: method — атрибутированное утверждение на основании авторского контента",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_case1",
+      "wording_ru": "oma: case1 — атрибутированное утверждение на основании авторского контента",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_case2",
+      "wording_ru": "oma: case2 — атрибутированное утверждение на основании авторского контента",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_impact",
+      "wording_ru": "oma: impact — атрибутированное утверждение на основании авторского контента",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_current",
+      "wording_ru": "oma: current — атрибутированное утверждение на основании авторского контента",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_origin",
+      "source_id": "src_7650f83442d8d294",
+      "locator": "Organization profile and official resources"
+    },
+    {
+      "claim_id": "clm_method",
+      "source_id": "src_7650f83442d8d294",
+      "locator": "Organization profile and official resources"
+    },
+    {
+      "claim_id": "clm_case1",
+      "source_id": "src_7650f83442d8d294",
+      "locator": "Organization profile and official resources"
+    },
+    {
+      "claim_id": "clm_case2",
+      "source_id": "src_7650f83442d8d294",
+      "locator": "Organization profile and official resources"
+    },
+    {
+      "claim_id": "clm_impact",
+      "source_id": "src_7650f83442d8d294",
+      "locator": "Organization profile and official resources"
+    },
+    {
+      "claim_id": "clm_current",
+      "source_id": "src_7650f83442d8d294",
+      "locator": "Organization profile and official resources"
+    }
+  ],
+  "contradictions": []
+}

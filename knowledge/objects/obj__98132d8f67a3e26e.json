@@ -1,0 +1,92 @@
+{
+  "id": "obj__98132d8f67a3e26e",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_b4bc5ef6510f9e8e",
+      "title": "Wikipedia — Susan Sontag",
+      "url": "https://en.wikipedia.org/wiki/Susan_Sontag",
+      "tier": 3
+    },
+    {
+      "id": "src_f100e7e1a93120c1",
+      "title": "Susan Sontag Foundation",
+      "url": "https://www.susansontag.com",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_origin",
+      "wording_ru": "susan-sontag-photography-image-criticism: происхождение, образование и начало профессиональной карьеры",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_method",
+      "wording_ru": "susan-sontag-photography-image-criticism: метод работы, творческий подход и профессиональные принципы",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_case1",
+      "wording_ru": "susan-sontag-photography-image-criticism: первый ключевой проект или коллаборация",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_case2",
+      "wording_ru": "susan-sontag-photography-image-criticism: второй ключевой проект, подтверждающий значимость подхода",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_impact",
+      "wording_ru": "susan-sontag-photography-image-criticism: влияние на профессию и культурный контекст",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_current",
+      "wording_ru": "susan-sontag-photography-image-criticism: текущая деятельность и актуальный статус",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_origin",
+      "source_id": "src_b4bc5ef6510f9e8e",
+      "locator": "Official biographical information"
+    },
+    {
+      "claim_id": "clm_method",
+      "source_id": "src_b4bc5ef6510f9e8e",
+      "locator": "Official biographical information"
+    },
+    {
+      "claim_id": "clm_case1",
+      "source_id": "src_b4bc5ef6510f9e8e",
+      "locator": "Official biographical information"
+    },
+    {
+      "claim_id": "clm_case2",
+      "source_id": "src_b4bc5ef6510f9e8e",
+      "locator": "Official biographical information"
+    },
+    {
+      "claim_id": "clm_impact",
+      "source_id": "src_b4bc5ef6510f9e8e",
+      "locator": "Official biographical information"
+    },
+    {
+      "claim_id": "clm_current",
+      "source_id": "src_b4bc5ef6510f9e8e",
+      "locator": "Official biographical information"
+    }
+  ],
+  "contradictions": []
+}

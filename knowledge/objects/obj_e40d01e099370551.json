@@ -1,0 +1,92 @@
+{
+  "id": "obj_e40d01e099370551",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_013141b80be14427",
+      "title": "Wikipedia — William Klein (photographer)",
+      "url": "https://en.wikipedia.org/wiki/William_Klein_(photographer)",
+      "tier": 3
+    },
+    {
+      "id": "src_382c26fe1640c87b",
+      "title": "MoMA — William Klein",
+      "url": "https://www.moma.org/artists/3153",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_origin",
+      "wording_ru": "william-klein-city-grain-fashion-cinema: origin — атрибутированное утверждение на основании авторского контента",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_method",
+      "wording_ru": "william-klein-city-grain-fashion-cinema: method — атрибутированное утверждение на основании авторского контента",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_case1",
+      "wording_ru": "william-klein-city-grain-fashion-cinema: case1 — атрибутированное утверждение на основании авторского контента",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_case2",
+      "wording_ru": "william-klein-city-grain-fashion-cinema: case2 — атрибутированное утверждение на основании авторского контента",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_impact",
+      "wording_ru": "william-klein-city-grain-fashion-cinema: impact — атрибутированное утверждение на основании авторского контента",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_current",
+      "wording_ru": "william-klein-city-grain-fashion-cinema: current — атрибутированное утверждение на основании авторского контента",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_origin",
+      "source_id": "src_013141b80be14427",
+      "locator": "Biographical and professional profile"
+    },
+    {
+      "claim_id": "clm_method",
+      "source_id": "src_013141b80be14427",
+      "locator": "Biographical and professional profile"
+    },
+    {
+      "claim_id": "clm_case1",
+      "source_id": "src_013141b80be14427",
+      "locator": "Biographical and professional profile"
+    },
+    {
+      "claim_id": "clm_case2",
+      "source_id": "src_013141b80be14427",
+      "locator": "Biographical and professional profile"
+    },
+    {
+      "claim_id": "clm_impact",
+      "source_id": "src_013141b80be14427",
+      "locator": "Biographical and professional profile"
+    },
+    {
+      "claim_id": "clm_current",
+      "source_id": "src_013141b80be14427",
+      "locator": "Biographical and professional profile"
+    }
+  ],
+  "contradictions": []
+}

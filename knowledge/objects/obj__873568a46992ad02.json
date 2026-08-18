@@ -1,0 +1,92 @@
+{
+  "id": "obj__873568a46992ad02",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_3a561edc668d56bb",
+      "title": "Triennale Milano — Official",
+      "url": "https://www.triennale.org",
+      "tier": 1
+    },
+    {
+      "id": "src_2fbad110ba358446",
+      "title": "Wikipedia — Triennale di Milano",
+      "url": "https://en.wikipedia.org/wiki/Triennale_di_Milano",
+      "tier": 3
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_origin",
+      "wording_ru": "triennale-milano: происхождение, основание и профессиональный контекст организации",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_method",
+      "wording_ru": "triennale-milano: метод работы, операционный принцип и организационная структура",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_case1",
+      "wording_ru": "triennale-milano: первый ключевой проект, демонстрирующий метод",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_case2",
+      "wording_ru": "triennale-milano: второй ключевой проект, подтверждающий устойчивость подхода",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_impact",
+      "wording_ru": "triennale-milano: влияние на дисциплину и профессиональное сообщество",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_current",
+      "wording_ru": "triennale-milano: текущая деятельность и актуальный статус организации",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_origin",
+      "source_id": "src_3a561edc668d56bb",
+      "locator": "Official profile"
+    },
+    {
+      "claim_id": "clm_method",
+      "source_id": "src_3a561edc668d56bb",
+      "locator": "Official profile"
+    },
+    {
+      "claim_id": "clm_case1",
+      "source_id": "src_3a561edc668d56bb",
+      "locator": "Official profile"
+    },
+    {
+      "claim_id": "clm_case2",
+      "source_id": "src_3a561edc668d56bb",
+      "locator": "Official profile"
+    },
+    {
+      "claim_id": "clm_impact",
+      "source_id": "src_3a561edc668d56bb",
+      "locator": "Official profile"
+    },
+    {
+      "claim_id": "clm_current",
+      "source_id": "src_3a561edc668d56bb",
+      "locator": "Official profile"
+    }
+  ],
+  "contradictions": []
+}

@@ -1,0 +1,92 @@
+{
+  "id": "obj_d50b50b54fb7a2f9",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_0fa9f4d2cd4dec81",
+      "title": "Wikipedia — Alexander Liberman",
+      "url": "https://en.wikipedia.org/wiki/Alexander_Liberman",
+      "tier": 3
+    },
+    {
+      "id": "src_d8ce8df5d74ec8d3",
+      "title": "MoMA — Alexander Liberman",
+      "url": "https://www.moma.org/artists/3513",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_origin",
+      "wording_ru": "alexander-liberman-eye-magazine-editorial-power: origin — атрибутированное утверждение на основании авторского контента",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_method",
+      "wording_ru": "alexander-liberman-eye-magazine-editorial-power: method — атрибутированное утверждение на основании авторского контента",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_case1",
+      "wording_ru": "alexander-liberman-eye-magazine-editorial-power: case1 — атрибутированное утверждение на основании авторского контента",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_case2",
+      "wording_ru": "alexander-liberman-eye-magazine-editorial-power: case2 — атрибутированное утверждение на основании авторского контента",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_impact",
+      "wording_ru": "alexander-liberman-eye-magazine-editorial-power: impact — атрибутированное утверждение на основании авторского контента",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_current",
+      "wording_ru": "alexander-liberman-eye-magazine-editorial-power: current — атрибутированное утверждение на основании авторского контента",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_origin",
+      "source_id": "src_0fa9f4d2cd4dec81",
+      "locator": "Biographical and professional profile"
+    },
+    {
+      "claim_id": "clm_method",
+      "source_id": "src_0fa9f4d2cd4dec81",
+      "locator": "Biographical and professional profile"
+    },
+    {
+      "claim_id": "clm_case1",
+      "source_id": "src_0fa9f4d2cd4dec81",
+      "locator": "Biographical and professional profile"
+    },
+    {
+      "claim_id": "clm_case2",
+      "source_id": "src_0fa9f4d2cd4dec81",
+      "locator": "Biographical and professional profile"
+    },
+    {
+      "claim_id": "clm_impact",
+      "source_id": "src_0fa9f4d2cd4dec81",
+      "locator": "Biographical and professional profile"
+    },
+    {
+      "claim_id": "clm_current",
+      "source_id": "src_0fa9f4d2cd4dec81",
+      "locator": "Biographical and professional profile"
+    }
+  ],
+  "contradictions": []
+}

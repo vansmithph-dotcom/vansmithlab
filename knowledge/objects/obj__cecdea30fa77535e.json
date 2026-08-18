@@ -1,0 +1,92 @@
+{
+  "id": "obj__cecdea30fa77535e",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_f0bb97c0c8574c79",
+      "title": "Vogue — Tonne Goodman",
+      "url": "https://www.vogue.com/contributor/tonne-goodman",
+      "tier": 1
+    },
+    {
+      "id": "src_200963637290f7f6",
+      "title": "Business of Fashion — Tonne Goodman",
+      "url": "https://www.businessoffashion.com/people/tonne-goodman",
+      "tier": 2
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_origin",
+      "wording_ru": "tonne-goodman-fashion-editor-sustainability: происхождение, образование и начало профессиональной карьеры",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_method",
+      "wording_ru": "tonne-goodman-fashion-editor-sustainability: метод работы, творческий подход и профессиональные принципы",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_case1",
+      "wording_ru": "tonne-goodman-fashion-editor-sustainability: первый ключевой проект или коллаборация",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_case2",
+      "wording_ru": "tonne-goodman-fashion-editor-sustainability: второй ключевой проект, подтверждающий значимость подхода",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_impact",
+      "wording_ru": "tonne-goodman-fashion-editor-sustainability: влияние на профессию и культурный контекст",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_current",
+      "wording_ru": "tonne-goodman-fashion-editor-sustainability: текущая деятельность и актуальный статус",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_origin",
+      "source_id": "src_f0bb97c0c8574c79",
+      "locator": "Official biographical information"
+    },
+    {
+      "claim_id": "clm_method",
+      "source_id": "src_f0bb97c0c8574c79",
+      "locator": "Official biographical information"
+    },
+    {
+      "claim_id": "clm_case1",
+      "source_id": "src_f0bb97c0c8574c79",
+      "locator": "Official biographical information"
+    },
+    {
+      "claim_id": "clm_case2",
+      "source_id": "src_f0bb97c0c8574c79",
+      "locator": "Official biographical information"
+    },
+    {
+      "claim_id": "clm_impact",
+      "source_id": "src_f0bb97c0c8574c79",
+      "locator": "Official biographical information"
+    },
+    {
+      "claim_id": "clm_current",
+      "source_id": "src_f0bb97c0c8574c79",
+      "locator": "Official biographical information"
+    }
+  ],
+  "contradictions": []
+}

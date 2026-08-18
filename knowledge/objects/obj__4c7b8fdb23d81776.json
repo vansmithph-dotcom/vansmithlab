@@ -1,0 +1,92 @@
+{
+  "id": "obj__4c7b8fdb23d81776",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_4ccb255c37495e1b",
+      "title": "The Metropolitan Museum of Art — Andrew Bolton",
+      "url": "https://www.metmuseum.org/about-the-met/curatorial-departments/the-costume-institute/andrew-bolton",
+      "tier": 1
+    },
+    {
+      "id": "src_70ab605504018b95",
+      "title": "Vogue — Andrew Bolton",
+      "url": "https://www.vogue.com/tag/celebrity/andrew-bolton",
+      "tier": 2
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_origin",
+      "wording_ru": "andrew-bolton-costume-institute-fashion-curation: происхождение, образование и начало профессиональной карьеры",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_method",
+      "wording_ru": "andrew-bolton-costume-institute-fashion-curation: метод работы, творческий подход и профессиональные принципы",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_case1",
+      "wording_ru": "andrew-bolton-costume-institute-fashion-curation: первый ключевой проект или коллаборация",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_case2",
+      "wording_ru": "andrew-bolton-costume-institute-fashion-curation: второй ключевой проект, подтверждающий значимость подхода",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_impact",
+      "wording_ru": "andrew-bolton-costume-institute-fashion-curation: влияние на профессию и культурный контекст",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_current",
+      "wording_ru": "andrew-bolton-costume-institute-fashion-curation: текущая деятельность и актуальный статус",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_origin",
+      "source_id": "src_4ccb255c37495e1b",
+      "locator": "Official biographical information"
+    },
+    {
+      "claim_id": "clm_method",
+      "source_id": "src_4ccb255c37495e1b",
+      "locator": "Official biographical information"
+    },
+    {
+      "claim_id": "clm_case1",
+      "source_id": "src_4ccb255c37495e1b",
+      "locator": "Official biographical information"
+    },
+    {
+      "claim_id": "clm_case2",
+      "source_id": "src_4ccb255c37495e1b",
+      "locator": "Official biographical information"
+    },
+    {
+      "claim_id": "clm_impact",
+      "source_id": "src_4ccb255c37495e1b",
+      "locator": "Official biographical information"
+    },
+    {
+      "claim_id": "clm_current",
+      "source_id": "src_4ccb255c37495e1b",
+      "locator": "Official biographical information"
+    }
+  ],
+  "contradictions": []
+}

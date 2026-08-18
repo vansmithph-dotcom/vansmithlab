@@ -1,0 +1,92 @@
+{
+  "id": "obj_56218f6b581388ab",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_6bd11fe7e09718b0",
+      "title": "Wikipedia — Tim Walker (photographer)",
+      "url": "https://en.wikipedia.org/wiki/Tim_Walker_(photographer)",
+      "tier": 3
+    },
+    {
+      "id": "src_1901ebc485aa7d5f",
+      "title": "V&A — Tim Walker: Wonderful Things",
+      "url": "https://www.vam.ac.uk/exhibitions/tim-walker-wonderful-things",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_origin",
+      "wording_ru": "tim-walker-fantasy-set-storytelling-fashion-image: origin — атрибутированное утверждение на основании авторского контента",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_method",
+      "wording_ru": "tim-walker-fantasy-set-storytelling-fashion-image: method — атрибутированное утверждение на основании авторского контента",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_case1",
+      "wording_ru": "tim-walker-fantasy-set-storytelling-fashion-image: case1 — атрибутированное утверждение на основании авторского контента",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_case2",
+      "wording_ru": "tim-walker-fantasy-set-storytelling-fashion-image: case2 — атрибутированное утверждение на основании авторского контента",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_impact",
+      "wording_ru": "tim-walker-fantasy-set-storytelling-fashion-image: impact — атрибутированное утверждение на основании авторского контента",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_current",
+      "wording_ru": "tim-walker-fantasy-set-storytelling-fashion-image: current — атрибутированное утверждение на основании авторского контента",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_origin",
+      "source_id": "src_6bd11fe7e09718b0",
+      "locator": "Biographical and professional profile"
+    },
+    {
+      "claim_id": "clm_method",
+      "source_id": "src_6bd11fe7e09718b0",
+      "locator": "Biographical and professional profile"
+    },
+    {
+      "claim_id": "clm_case1",
+      "source_id": "src_6bd11fe7e09718b0",
+      "locator": "Biographical and professional profile"
+    },
+    {
+      "claim_id": "clm_case2",
+      "source_id": "src_6bd11fe7e09718b0",
+      "locator": "Biographical and professional profile"
+    },
+    {
+      "claim_id": "clm_impact",
+      "source_id": "src_6bd11fe7e09718b0",
+      "locator": "Biographical and professional profile"
+    },
+    {
+      "claim_id": "clm_current",
+      "source_id": "src_6bd11fe7e09718b0",
+      "locator": "Biographical and professional profile"
+    }
+  ],
+  "contradictions": []
+}

@@ -1,0 +1,92 @@
+{
+  "id": "obj__476826a5a85c8a15",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_28c29477acf06a8a",
+      "title": "Wikipedia — Pierre Chareau",
+      "url": "https://en.wikipedia.org/wiki/Pierre_Chareau",
+      "tier": 3
+    },
+    {
+      "id": "src_2fed589a2852ef0f",
+      "title": "MoMA — Pierre Chareau",
+      "url": "https://www.moma.org/artists/1051",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_origin",
+      "wording_ru": "pierre-chareau-maison-de-verre-interior: происхождение, образование и начало профессиональной карьеры",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_method",
+      "wording_ru": "pierre-chareau-maison-de-verre-interior: метод работы, творческий подход и профессиональные принципы",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_case1",
+      "wording_ru": "pierre-chareau-maison-de-verre-interior: первый ключевой проект или коллаборация",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_case2",
+      "wording_ru": "pierre-chareau-maison-de-verre-interior: второй ключевой проект, подтверждающий значимость подхода",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_impact",
+      "wording_ru": "pierre-chareau-maison-de-verre-interior: влияние на профессию и культурный контекст",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_current",
+      "wording_ru": "pierre-chareau-maison-de-verre-interior: текущая деятельность и актуальный статус",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_origin",
+      "source_id": "src_28c29477acf06a8a",
+      "locator": "Official biographical information"
+    },
+    {
+      "claim_id": "clm_method",
+      "source_id": "src_28c29477acf06a8a",
+      "locator": "Official biographical information"
+    },
+    {
+      "claim_id": "clm_case1",
+      "source_id": "src_28c29477acf06a8a",
+      "locator": "Official biographical information"
+    },
+    {
+      "claim_id": "clm_case2",
+      "source_id": "src_28c29477acf06a8a",
+      "locator": "Official biographical information"
+    },
+    {
+      "claim_id": "clm_impact",
+      "source_id": "src_28c29477acf06a8a",
+      "locator": "Official biographical information"
+    },
+    {
+      "claim_id": "clm_current",
+      "source_id": "src_28c29477acf06a8a",
+      "locator": "Official biographical information"
+    }
+  ],
+  "contradictions": []
+}

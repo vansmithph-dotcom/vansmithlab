@@ -1,0 +1,70 @@
+{
+  "id": "obj_mat_4c3c2b803ce8d158",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.75,
+  "sources": [
+    {
+      "id": "src_silver_gelatin_wiki",
+      "title": "Wikipedia — Gelatin silver process",
+      "url": "https://en.wikipedia.org/wiki/Gelatin_silver_process",
+      "tier": 3
+    },
+    {
+      "id": "src_silver_gelatin_ilford",
+      "title": "ILFORD Photo — Gelatin Silver Paper Guide",
+      "url": "https://www.ilfordphoto.com/products/black-white-paper/",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_composition",
+      "wording_ru": "silver-gelatin-print-tone-grain-archival-surface: химический состав, молекулярная или кристаллическая структура и физические свойства материала",
+      "confidence_score": 0.75,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_production",
+      "wording_ru": "silver-gelatin-print-tone-grain-archival-surface: методы добычи, производства или переработки, определяющие доступные форматы и ограничения",
+      "confidence_score": 0.75,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_surface",
+      "wording_ru": "silver-gelatin-print-tone-grain-archival-surface: поверхностные характеристики, фактура, старение и визуальное поведение в пространстве",
+      "confidence_score": 0.75,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_design_use",
+      "wording_ru": "silver-gelatin-print-tone-grain-archival-surface: области применения в дизайне, архитектуре и производстве, а также ключевые проектные прецеденты",
+      "confidence_score": 0.75,
+      "verification_state": "attributed"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_composition",
+      "source_id": "src_silver_gelatin_wiki",
+      "locator": "Material specification and technical overview"
+    },
+    {
+      "claim_id": "clm_production",
+      "source_id": "src_silver_gelatin_wiki",
+      "locator": "Material specification and technical overview"
+    },
+    {
+      "claim_id": "clm_surface",
+      "source_id": "src_silver_gelatin_wiki",
+      "locator": "Material specification and technical overview"
+    },
+    {
+      "claim_id": "clm_design_use",
+      "source_id": "src_silver_gelatin_wiki",
+      "locator": "Material specification and technical overview"
+    }
+  ],
+  "contradictions": []
+}

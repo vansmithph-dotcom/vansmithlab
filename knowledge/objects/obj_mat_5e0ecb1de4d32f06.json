@@ -1,0 +1,70 @@
+{
+  "id": "obj_mat_5e0ecb1de4d32f06",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.75,
+  "sources": [
+    {
+      "id": "src_alu_world_aluminium",
+      "title": "World Aluminium — Primary Aluminium Production",
+      "url": "https://www.world-aluminium.org/statistics/primary-aluminium-production/",
+      "tier": 1
+    },
+    {
+      "id": "src_alu_european_aluminium",
+      "title": "European Aluminium — Aluminium in Design",
+      "url": "https://www.european-aluminium.eu/applications/design/",
+      "tier": 2
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_composition",
+      "wording_ru": "aluminium-lightness-anodised-technical-surface: химический состав, молекулярная или кристаллическая структура и физические свойства материала",
+      "confidence_score": 0.75,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_production",
+      "wording_ru": "aluminium-lightness-anodised-technical-surface: методы добычи, производства или переработки, определяющие доступные форматы и ограничения",
+      "confidence_score": 0.75,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_surface",
+      "wording_ru": "aluminium-lightness-anodised-technical-surface: поверхностные характеристики, фактура, старение и визуальное поведение в пространстве",
+      "confidence_score": 0.75,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_design_use",
+      "wording_ru": "aluminium-lightness-anodised-technical-surface: области применения в дизайне, архитектуре и производстве, а также ключевые проектные прецеденты",
+      "confidence_score": 0.75,
+      "verification_state": "attributed"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_composition",
+      "source_id": "src_alu_world_aluminium",
+      "locator": "Material specification and technical overview"
+    },
+    {
+      "claim_id": "clm_production",
+      "source_id": "src_alu_world_aluminium",
+      "locator": "Material specification and technical overview"
+    },
+    {
+      "claim_id": "clm_surface",
+      "source_id": "src_alu_world_aluminium",
+      "locator": "Material specification and technical overview"
+    },
+    {
+      "claim_id": "clm_design_use",
+      "source_id": "src_alu_world_aluminium",
+      "locator": "Material specification and technical overview"
+    }
+  ],
+  "contradictions": []
+}

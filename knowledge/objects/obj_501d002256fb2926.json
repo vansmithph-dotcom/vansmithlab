@@ -1,0 +1,92 @@
+{
+  "id": "obj_501d002256fb2926",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_b125b483d6ff6c4d",
+      "title": "Wikipedia — Juergen Teller",
+      "url": "https://en.wikipedia.org/wiki/Juergen_Teller",
+      "tier": 3
+    },
+    {
+      "id": "src_f3d6892d85247a50",
+      "title": "Juergen Teller — Official website",
+      "url": "https://www.juergenteller.com",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_origin",
+      "wording_ru": "juergen-teller-flash-intimacy-anti-glamour: origin — атрибутированное утверждение на основании авторского контента",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_method",
+      "wording_ru": "juergen-teller-flash-intimacy-anti-glamour: method — атрибутированное утверждение на основании авторского контента",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_case1",
+      "wording_ru": "juergen-teller-flash-intimacy-anti-glamour: case1 — атрибутированное утверждение на основании авторского контента",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_case2",
+      "wording_ru": "juergen-teller-flash-intimacy-anti-glamour: case2 — атрибутированное утверждение на основании авторского контента",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_impact",
+      "wording_ru": "juergen-teller-flash-intimacy-anti-glamour: impact — атрибутированное утверждение на основании авторского контента",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_current",
+      "wording_ru": "juergen-teller-flash-intimacy-anti-glamour: current — атрибутированное утверждение на основании авторского контента",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_origin",
+      "source_id": "src_b125b483d6ff6c4d",
+      "locator": "Biographical and professional profile"
+    },
+    {
+      "claim_id": "clm_method",
+      "source_id": "src_b125b483d6ff6c4d",
+      "locator": "Biographical and professional profile"
+    },
+    {
+      "claim_id": "clm_case1",
+      "source_id": "src_b125b483d6ff6c4d",
+      "locator": "Biographical and professional profile"
+    },
+    {
+      "claim_id": "clm_case2",
+      "source_id": "src_b125b483d6ff6c4d",
+      "locator": "Biographical and professional profile"
+    },
+    {
+      "claim_id": "clm_impact",
+      "source_id": "src_b125b483d6ff6c4d",
+      "locator": "Biographical and professional profile"
+    },
+    {
+      "claim_id": "clm_current",
+      "source_id": "src_b125b483d6ff6c4d",
+      "locator": "Biographical and professional profile"
+    }
+  ],
+  "contradictions": []
+}

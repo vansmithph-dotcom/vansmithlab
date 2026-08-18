@@ -1,0 +1,92 @@
+{
+  "id": "obj__23c7a2634f1c96d2",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_646708b4e691cce6",
+      "title": "University of the Arts London — Judith Clark",
+      "url": "https://www.arts.ac.uk/research/research-subjects/fashion/judith-clark",
+      "tier": 1
+    },
+    {
+      "id": "src_3e3274541db6e02f",
+      "title": "Wikipedia — Judith Clark (fashion)",
+      "url": "https://en.wikipedia.org/wiki/Judith_Clark_(fashion_curator)",
+      "tier": 3
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_origin",
+      "wording_ru": "judith-clark-fashion-exhibition-museology: происхождение, образование и начало профессиональной карьеры",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_method",
+      "wording_ru": "judith-clark-fashion-exhibition-museology: метод работы, творческий подход и профессиональные принципы",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_case1",
+      "wording_ru": "judith-clark-fashion-exhibition-museology: первый ключевой проект или коллаборация",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_case2",
+      "wording_ru": "judith-clark-fashion-exhibition-museology: второй ключевой проект, подтверждающий значимость подхода",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_impact",
+      "wording_ru": "judith-clark-fashion-exhibition-museology: влияние на профессию и культурный контекст",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_current",
+      "wording_ru": "judith-clark-fashion-exhibition-museology: текущая деятельность и актуальный статус",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_origin",
+      "source_id": "src_646708b4e691cce6",
+      "locator": "Official biographical information"
+    },
+    {
+      "claim_id": "clm_method",
+      "source_id": "src_646708b4e691cce6",
+      "locator": "Official biographical information"
+    },
+    {
+      "claim_id": "clm_case1",
+      "source_id": "src_646708b4e691cce6",
+      "locator": "Official biographical information"
+    },
+    {
+      "claim_id": "clm_case2",
+      "source_id": "src_646708b4e691cce6",
+      "locator": "Official biographical information"
+    },
+    {
+      "claim_id": "clm_impact",
+      "source_id": "src_646708b4e691cce6",
+      "locator": "Official biographical information"
+    },
+    {
+      "claim_id": "clm_current",
+      "source_id": "src_646708b4e691cce6",
+      "locator": "Official biographical information"
+    }
+  ],
+  "contradictions": []
+}

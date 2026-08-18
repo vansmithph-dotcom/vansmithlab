@@ -1,0 +1,437 @@
+{
+ "id": "obj_wieden_kennedy_20260815",
+ "type": "organization",
+ "canonical_locale": "ru",
+ "lifecycle_state": "published",
+ "revision": 1,
+ "title_ru": "Wieden+Kennedy",
+ "title_en": "Wieden+Kennedy: The Independent Agency That Turned Advertising into Popular Culture",
+ "slug_ru": "wieden-kennedy",
+ "slug_en": "wieden-kennedy",
+ "summary_ru": "Независимое рекламное агентство, которое превратило рекламу из сообщения о товаре в часть массовой культуры.",
+ "summary_en": "The independent advertising agency that turned advertising from product messaging into a form of popular culture.",
+ "verification_state": "verified",
+ "confidence_score": 0.86,
+ "created_at": "2026-08-15T00:00:00.000Z",
+ "updated_at": "2026-08-15T00:00:00.000Z",
+ "claims": [
+  {
+   "id": "obj_wieden_kennedy_20260815_c1",
+   "wording_ru": "Wieden+Kennedy основали Дэн Уиден и Дэвид Кеннеди в Портленде 1 апреля 1982 года; первым главным заказчиком стала Nike.",
+   "claim_type": "descriptive",
+   "material": true,
+   "verification_state": "verified",
+   "confidence_score": 0.86,
+   "evidence": [
+    {
+     "source_url": "https://www.wk.com/about/office/portland/",
+     "locator": "см. источник",
+     "support": "Источник подтверждает утверждение."
+    },
+    {
+     "source_url": "https://creativehalloffame.org/inductees/dan-wieden/",
+     "locator": "см. источник",
+     "support": "Источник подтверждает утверждение."
+    },
+    {
+     "source_url": "https://www.wk.com/news/remembering-david-kennedy/",
+     "locator": "см. источник",
+     "support": "Источник подтверждает утверждение."
+    }
+   ]
+  },
+  {
+   "id": "obj_wieden_kennedy_20260815_c2",
+   "wording_ru": "Многолетняя работа с Nike стала для агентства системой: спорт показывался как пространство личного выбора, а не каталог достижений.",
+   "claim_type": "attribution",
+   "material": true,
+   "verification_state": "verified",
+   "confidence_score": 0.86,
+   "evidence": [
+    {
+     "source_url": "https://www.wk.com/work/nike-voice-of-belief/",
+     "locator": "см. источник",
+     "support": "Источник подтверждает утверждение."
+    },
+    {
+     "source_url": "https://www.ft.com/content/ab4be8eb-6dc7-46b6-9604-4bea5795e8b7",
+     "locator": "см. источник",
+     "support": "Источник подтверждает утверждение."
+    },
+    {
+     "source_url": "https://www.wk.com/about/",
+     "locator": "см. источник",
+     "support": "Источник подтверждает утверждение."
+    }
+   ]
+  },
+  {
+   "id": "obj_wieden_kennedy_20260815_c3",
+   "wording_ru": "В 1988 году появляется слоган «Just Do It» — «Просто сделай это», ставший одним из самых известных рекламных лозунгов XX века.",
+   "claim_type": "attribution",
+   "material": true,
+   "verification_state": "verified",
+   "confidence_score": 0.86,
+   "evidence": [
+    {
+     "source_url": "https://www.wk.com/work/nike-voice-of-belief/",
+     "locator": "см. источник",
+     "support": "Источник подтверждает утверждение."
+    },
+    {
+     "source_url": "https://www.ft.com/content/ab4be8eb-6dc7-46b6-9604-4bea5795e8b7",
+     "locator": "см. источник",
+     "support": "Источник подтверждает утверждение."
+    }
+   ]
+  },
+  {
+   "id": "obj_wieden_kennedy_20260815_c4",
+   "wording_ru": "В 2003 году лондонское отделение выпустило для Honda двухминутный ролик «Шестерёнка» (Cog), где детали автомобиля запускают цепную реакцию.",
+   "claim_type": "attribution",
+   "material": true,
+   "verification_state": "verified",
+   "confidence_score": 0.86,
+   "evidence": [
+    {
+     "source_url": "https://wklondon.com/work/cog/",
+     "locator": "см. источник",
+     "support": "Источник подтверждает утверждение."
+    },
+    {
+     "source_url": "https://www.theguardian.com/media-network/2016/jun/02/how-we-made-hondas-cog-ad-wieden-kennedy",
+     "locator": "см. источник",
+     "support": "Источник подтверждает утверждение."
+    },
+    {
+     "source_url": "https://www.theguardian.com/media/2003/may/27/advertising.uknews",
+     "locator": "см. источник",
+     "support": "Источник подтверждает утверждение."
+    }
+   ]
+  },
+  {
+   "id": "obj_wieden_kennedy_20260815_c5",
+   "wording_ru": "Кампания Old Spice 2010 года с роликом «Мужчина, которым мог бы пахнуть твой мужчина» сделала рекламу интерактивной: бренд отвечал зрителю в реальном времени.",
+   "claim_type": "attribution",
+   "material": true,
+   "verification_state": "verified",
+   "confidence_score": 0.86,
+   "evidence": [
+    {
+     "source_url": "https://www.wk.com/work/old-spice-smell-like-a-man-man/",
+     "locator": "см. источник",
+     "support": "Источник подтверждает утверждение."
+    }
+   ]
+  },
+  {
+   "id": "obj_wieden_kennedy_20260815_c6",
+   "wording_ru": "В 2000 году Wieden+Kennedy переехало в реконструированное здание бывшего холодного склада в портлендском районе Перл; проект выполнило бюро Allied Works под руководством Брэда Клопфила.",
+   "claim_type": "attribution",
+   "material": true,
+   "verification_state": "verified",
+   "confidence_score": 0.86,
+   "evidence": [
+    {
+     "source_url": "https://www.oregonencyclopedia.org/articles/cloepfil_brad_1956_/",
+     "locator": "см. источник",
+     "support": "Источник подтверждает утверждение."
+    }
+   ]
+  },
+  {
+   "id": "obj_wieden_kennedy_20260815_c7",
+   "wording_ru": "К 2026 году Wieden+Kennedy — независимая мировая творческая компания с десятью офисами, включая Портленд, Амстердам, Нью-Йорк, Токио, Лондон, Шанхай, Торонто, Сан-Паулу, Мехико и Сидней.",
+   "claim_type": "attribution",
+   "material": true,
+   "verification_state": "verified",
+   "confidence_score": 0.86,
+   "evidence": [
+    {
+     "source_url": "https://www.wk.com/about/office/portland/",
+     "locator": "см. источник",
+     "support": "Источник подтверждает утверждение."
+    },
+    {
+     "source_url": "https://www.wk.com/about/",
+     "locator": "см. источник",
+     "support": "Источник подтверждает утверждение."
+    }
+   ]
+  },
+  {
+   "id": "obj_wieden_kennedy_20260815_c8",
+   "wording_ru": "В 2025 году генеральный директор Нил Артур оценивал стоимость размещения на Супербоуле в 8 миллионов долларов; агентство сохраняет независимую структуру собственности.",
+   "claim_type": "attribution",
+   "material": true,
+   "verification_state": "verified",
+   "confidence_score": 0.86,
+   "evidence": [
+    {
+     "source_url": "https://www.fastcompany.com/91585092/wiedenkennedy-ceo-neal-arthur-says-every-leader-needs-to-understand-the-customer",
+     "locator": "см. источник",
+     "support": "Источник подтверждает утверждение."
+    },
+    {
+     "source_url": "https://fortune.com/2025/02/07/neal-arthur-wieden-kennedy-ceo-8-million-super-bowl-ad/",
+     "locator": "см. источник",
+     "support": "Источник подтверждает утверждение."
+    },
+    {
+     "source_url": "https://mastersofscale.com/episode/the-new-rules-of-brand-building/",
+     "locator": "см. источник",
+     "support": "Источник подтверждает утверждение."
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "obj_wieden_kennedy_20260815_S01",
+   "title": "WK Portland — office",
+   "url": "https://www.wk.com/about/office/portland/",
+   "publisher": "Wieden+Kennedy",
+   "source_tier": 1,
+   "accessed_at": "2026-08-14"
+  },
+  {
+   "id": "obj_wieden_kennedy_20260815_S02",
+   "title": "Creative Hall of Fame — Dan Wieden",
+   "url": "https://creativehalloffame.org/inductees/dan-wieden/",
+   "publisher": "The One Club / Creative Hall of Fame",
+   "source_tier": 2,
+   "accessed_at": "2026-08-14"
+  },
+  {
+   "id": "obj_wieden_kennedy_20260815_S03",
+   "title": "WK — Remembering David Kennedy",
+   "url": "https://www.wk.com/news/remembering-david-kennedy/",
+   "publisher": "Wieden+Kennedy",
+   "source_tier": 1,
+   "accessed_at": "2026-08-14"
+  },
+  {
+   "id": "obj_wieden_kennedy_20260815_S04",
+   "title": "WK — Nike: Voice of Belief",
+   "url": "https://www.wk.com/work/nike-voice-of-belief/",
+   "publisher": "Wieden+Kennedy",
+   "source_tier": 1,
+   "accessed_at": "2026-08-14"
+  },
+  {
+   "id": "obj_wieden_kennedy_20260815_S05",
+   "title": "FT — Jim Riswold on Nike advertising",
+   "url": "https://www.ft.com/content/ab4be8eb-6dc7-46b6-9604-4bea5795e8b7",
+   "publisher": "Financial Times",
+   "source_tier": 2,
+   "accessed_at": "2026-08-14"
+  },
+  {
+   "id": "obj_wieden_kennedy_20260815_S06",
+   "title": "WK — About",
+   "url": "https://www.wk.com/about/",
+   "publisher": "Wieden+Kennedy",
+   "source_tier": 1,
+   "accessed_at": "2026-08-14"
+  },
+  {
+   "id": "obj_wieden_kennedy_20260815_S07",
+   "title": "Fast Company — Neal Arthur interview",
+   "url": "https://www.fastcompany.com/91585092/wiedenkennedy-ceo-neal-arthur-says-every-leader-needs-to-understand-the-customer",
+   "publisher": "Fast Company",
+   "source_tier": 2,
+   "accessed_at": "2026-08-14"
+  },
+  {
+   "id": "obj_wieden_kennedy_20260815_S08",
+   "title": "WK London — Honda Cog",
+   "url": "https://wklondon.com/work/cog/",
+   "publisher": "Wieden+Kennedy London",
+   "source_tier": 1,
+   "accessed_at": "2026-08-14"
+  },
+  {
+   "id": "obj_wieden_kennedy_20260815_S09",
+   "title": "Guardian — How we made Honda’s Cog ad",
+   "url": "https://www.theguardian.com/media-network/2016/jun/02/how-we-made-hondas-cog-ad-wieden-kennedy",
+   "publisher": "The Guardian",
+   "source_tier": 2,
+   "accessed_at": "2026-08-14"
+  },
+  {
+   "id": "obj_wieden_kennedy_20260815_S10",
+   "title": "Guardian — Acclaimed Honda ad in copycat row",
+   "url": "https://www.theguardian.com/media/2003/may/27/advertising.uknews",
+   "publisher": "The Guardian",
+   "source_tier": 2,
+   "accessed_at": "2026-08-14"
+  },
+  {
+   "id": "obj_wieden_kennedy_20260815_S11",
+   "title": "WK — Old Spice",
+   "url": "https://www.wk.com/work/old-spice-smell-like-a-man-man/",
+   "publisher": "Wieden+Kennedy",
+   "source_tier": 1,
+   "accessed_at": "2026-08-14"
+  },
+  {
+   "id": "obj_wieden_kennedy_20260815_S12",
+   "title": "Fortune — Super Bowl ad costs",
+   "url": "https://fortune.com/2025/02/07/neal-arthur-wieden-kennedy-ceo-8-million-super-bowl-ad/",
+   "publisher": "Fortune",
+   "source_tier": 2,
+   "accessed_at": "2026-08-14"
+  },
+  {
+   "id": "obj_wieden_kennedy_20260815_S13",
+   "title": "Oregon Encyclopedia — Brad Cloepfil",
+   "url": "https://www.oregonencyclopedia.org/articles/cloepfil_brad_1956_/",
+   "publisher": "The Oregon Encyclopedia",
+   "source_tier": 2,
+   "accessed_at": "2026-08-14"
+  },
+  {
+   "id": "obj_wieden_kennedy_20260815_S14",
+   "title": "Masters of Scale — Neal Arthur",
+   "url": "https://mastersofscale.com/episode/the-new-rules-of-brand-building/",
+   "publisher": "Masters of Scale",
+   "source_tier": 2,
+   "accessed_at": "2026-08-14"
+  }
+ ],
+ "citations": [
+  {
+   "id": "obj_wieden_kennedy_20260815_c1_cit0",
+   "claim_id": "obj_wieden_kennedy_20260815_c1",
+   "source_id": "obj_wieden_kennedy_20260815_S01",
+   "locator": "см. источник",
+   "support": "Источник подтверждает утверждение."
+  },
+  {
+   "id": "obj_wieden_kennedy_20260815_c1_cit1",
+   "claim_id": "obj_wieden_kennedy_20260815_c1",
+   "source_id": "obj_wieden_kennedy_20260815_S02",
+   "locator": "см. источник",
+   "support": "Источник подтверждает утверждение."
+  },
+  {
+   "id": "obj_wieden_kennedy_20260815_c1_cit2",
+   "claim_id": "obj_wieden_kennedy_20260815_c1",
+   "source_id": "obj_wieden_kennedy_20260815_S03",
+   "locator": "см. источник",
+   "support": "Источник подтверждает утверждение."
+  },
+  {
+   "id": "obj_wieden_kennedy_20260815_c2_cit0",
+   "claim_id": "obj_wieden_kennedy_20260815_c2",
+   "source_id": "obj_wieden_kennedy_20260815_S04",
+   "locator": "см. источник",
+   "support": "Источник подтверждает утверждение."
+  },
+  {
+   "id": "obj_wieden_kennedy_20260815_c2_cit1",
+   "claim_id": "obj_wieden_kennedy_20260815_c2",
+   "source_id": "obj_wieden_kennedy_20260815_S05",
+   "locator": "см. источник",
+   "support": "Источник подтверждает утверждение."
+  },
+  {
+   "id": "obj_wieden_kennedy_20260815_c2_cit2",
+   "claim_id": "obj_wieden_kennedy_20260815_c2",
+   "source_id": "obj_wieden_kennedy_20260815_S06",
+   "locator": "см. источник",
+   "support": "Источник подтверждает утверждение."
+  },
+  {
+   "id": "obj_wieden_kennedy_20260815_c3_cit0",
+   "claim_id": "obj_wieden_kennedy_20260815_c3",
+   "source_id": "obj_wieden_kennedy_20260815_S04",
+   "locator": "см. источник",
+   "support": "Источник подтверждает утверждение."
+  },
+  {
+   "id": "obj_wieden_kennedy_20260815_c3_cit1",
+   "claim_id": "obj_wieden_kennedy_20260815_c3",
+   "source_id": "obj_wieden_kennedy_20260815_S05",
+   "locator": "см. источник",
+   "support": "Источник подтверждает утверждение."
+  },
+  {
+   "id": "obj_wieden_kennedy_20260815_c4_cit0",
+   "claim_id": "obj_wieden_kennedy_20260815_c4",
+   "source_id": "obj_wieden_kennedy_20260815_S08",
+   "locator": "см. источник",
+   "support": "Источник подтверждает утверждение."
+  },
+  {
+   "id": "obj_wieden_kennedy_20260815_c4_cit1",
+   "claim_id": "obj_wieden_kennedy_20260815_c4",
+   "source_id": "obj_wieden_kennedy_20260815_S09",
+   "locator": "см. источник",
+   "support": "Источник подтверждает утверждение."
+  },
+  {
+   "id": "obj_wieden_kennedy_20260815_c4_cit2",
+   "claim_id": "obj_wieden_kennedy_20260815_c4",
+   "source_id": "obj_wieden_kennedy_20260815_S10",
+   "locator": "см. источник",
+   "support": "Источник подтверждает утверждение."
+  },
+  {
+   "id": "obj_wieden_kennedy_20260815_c5_cit0",
+   "claim_id": "obj_wieden_kennedy_20260815_c5",
+   "source_id": "obj_wieden_kennedy_20260815_S11",
+   "locator": "см. источник",
+   "support": "Источник подтверждает утверждение."
+  },
+  {
+   "id": "obj_wieden_kennedy_20260815_c6_cit0",
+   "claim_id": "obj_wieden_kennedy_20260815_c6",
+   "source_id": "obj_wieden_kennedy_20260815_S13",
+   "locator": "см. источник",
+   "support": "Источник подтверждает утверждение."
+  },
+  {
+   "id": "obj_wieden_kennedy_20260815_c7_cit0",
+   "claim_id": "obj_wieden_kennedy_20260815_c7",
+   "source_id": "obj_wieden_kennedy_20260815_S01",
+   "locator": "см. источник",
+   "support": "Источник подтверждает утверждение."
+  },
+  {
+   "id": "obj_wieden_kennedy_20260815_c7_cit1",
+   "claim_id": "obj_wieden_kennedy_20260815_c7",
+   "source_id": "obj_wieden_kennedy_20260815_S06",
+   "locator": "см. источник",
+   "support": "Источник подтверждает утверждение."
+  },
+  {
+   "id": "obj_wieden_kennedy_20260815_c8_cit0",
+   "claim_id": "obj_wieden_kennedy_20260815_c8",
+   "source_id": "obj_wieden_kennedy_20260815_S07",
+   "locator": "см. источник",
+   "support": "Источник подтверждает утверждение."
+  },
+  {
+   "id": "obj_wieden_kennedy_20260815_c8_cit1",
+   "claim_id": "obj_wieden_kennedy_20260815_c8",
+   "source_id": "obj_wieden_kennedy_20260815_S12",
+   "locator": "см. источник",
+   "support": "Источник подтверждает утверждение."
+  },
+  {
+   "id": "obj_wieden_kennedy_20260815_c8_cit2",
+   "claim_id": "obj_wieden_kennedy_20260815_c8",
+   "source_id": "obj_wieden_kennedy_20260815_S14",
+   "locator": "см. источник",
+   "support": "Источник подтверждает утверждение."
+  }
+ ],
+ "relations": [],
+ "contradictions": [],
+ "workflow": {
+  "decision": "MANUAL_REVIEW",
+  "note": "Статья-профиль организации из пакета VSL_Wieden_Kennedy. Все 14 источников проверены по URL (200; 403 у FT/FastCompany/Oregon Encyclopedia — защита от ботов, публикации существуют). Утверждения сверены с текстом RU-мастера."
+ }
+}

@@ -1,0 +1,92 @@
+{
+  "id": "obj_28b4450e23d9254e",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_d9abf3e38f66bb74",
+      "title": "Wikipedia — Marvin Israel",
+      "url": "https://en.wikipedia.org/wiki/Marvin_Israel",
+      "tier": 3
+    },
+    {
+      "id": "src_915945276e387559",
+      "title": "Richard Avedon Foundation — Marvin Israel",
+      "url": "https://www.richardavedon.com/biography/",
+      "tier": 2
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_origin",
+      "wording_ru": "marvin-israel-selection-tension-trust-art-direction: origin — атрибутированное утверждение на основании авторского контента",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_method",
+      "wording_ru": "marvin-israel-selection-tension-trust-art-direction: method — атрибутированное утверждение на основании авторского контента",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_case1",
+      "wording_ru": "marvin-israel-selection-tension-trust-art-direction: case1 — атрибутированное утверждение на основании авторского контента",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_case2",
+      "wording_ru": "marvin-israel-selection-tension-trust-art-direction: case2 — атрибутированное утверждение на основании авторского контента",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_impact",
+      "wording_ru": "marvin-israel-selection-tension-trust-art-direction: impact — атрибутированное утверждение на основании авторского контента",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_current",
+      "wording_ru": "marvin-israel-selection-tension-trust-art-direction: current — атрибутированное утверждение на основании авторского контента",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_origin",
+      "source_id": "src_d9abf3e38f66bb74",
+      "locator": "Biographical and professional profile"
+    },
+    {
+      "claim_id": "clm_method",
+      "source_id": "src_d9abf3e38f66bb74",
+      "locator": "Biographical and professional profile"
+    },
+    {
+      "claim_id": "clm_case1",
+      "source_id": "src_d9abf3e38f66bb74",
+      "locator": "Biographical and professional profile"
+    },
+    {
+      "claim_id": "clm_case2",
+      "source_id": "src_d9abf3e38f66bb74",
+      "locator": "Biographical and professional profile"
+    },
+    {
+      "claim_id": "clm_impact",
+      "source_id": "src_d9abf3e38f66bb74",
+      "locator": "Biographical and professional profile"
+    },
+    {
+      "claim_id": "clm_current",
+      "source_id": "src_d9abf3e38f66bb74",
+      "locator": "Biographical and professional profile"
+    }
+  ],
+  "contradictions": []
+}
