@@ -144,7 +144,7 @@ Fashion оказался естественным продолжением ег�
 
 ## 22. Pentagram, кризис и усталость от визуального шума
 
-К началу 1990-х Peter Saville Associates испытывала финансовые трудности, и Saville ненадолго присоединился к Pentagram; вскоре Factory также рухнул. Design Museum и Science Museum Group описывают этот период как переходный. [^clm_ps_022]
+К началу 1990-х Peter Saville Associates испытывала финансовые трудности, и Saville ненадолго присоединился к [Pentagram](/ru/articles/pentagram); вскоре Factory также рухнул. Design Museum и Science Museum Group описывают этот период как переходный. [^clm_ps_022]
 
 История важна как противовес мифу о свободной creative culture. Символический капитал не гарантирует устойчивый бизнес. Дизайн-студия нуждается в pricing, production control, deadlines и структуре управления так же, как в сильных идеях.
 

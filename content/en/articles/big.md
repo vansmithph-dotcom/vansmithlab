@@ -14,7 +14,7 @@ What exactly in the method of BIG — Bjarke Ingels Group changed professional p
 
 ## Short answer
 
-BIG — Bjarke Ingels Group was founded in Copenhagen in 2006. Its founders include Bjarke Ingels. Its practice works through a clear principle: builds projects through clear diagrams that combine programme, environmental requirements and public scenarios into forms explainable through one transformation.[^clm_origin] Made the architectural diagram a widely legible way of explaining complex programmes and environmental trade-offs.[^clm_impact]
+BIG — Bjarke Ingels Group was founded in Copenhagen in 2006. Its founders include [Bjarke Ingels](/en/glossary/architects/bjarke-ingels). Its practice works through a clear principle: builds projects through clear diagrams that combine programme, environmental requirements and public scenarios into forms explainable through one transformation.[^clm_origin] Made the architectural diagram a widely legible way of explaining complex programmes and environmental trade-offs.[^clm_impact]
 
 ## 1. Origins and context
 

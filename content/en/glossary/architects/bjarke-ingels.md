@@ -28,7 +28,7 @@ Images and diagrams require a separate rights review.
 
 ## Short answer
 
-Bjarke Ingels was born on 2 October 1974 in Copenhagen. He studied at the Royal Danish Academy and the Escola Tècnica Superior d'Arquitectura de Barcelona, then worked at OMA. In 2001, together with Julien De Smedt, he founded PLOT, and in 2005 BIG, the Bjarke Ingels Group.
+Bjarke Ingels was born on 2 October 1974 in Copenhagen. He studied at the Royal Danish Academy and the Escola Tècnica Superior d'Arquitectura de Barcelona, then worked at [OMA](/en/articles/oma). In 2001, together with Julien De Smedt, he founded PLOT, and in 2005 [BIG](/en/articles/big), the Bjarke Ingels Group.
 
 VM Houses, Mountain Dwellings and 8 House made BIG known through the combination of dense housing, terraces, routes and public spaces. VIA 57 West carried the idea of the courtyard to a Manhattan scale, CopenHill joined a power station with a ski slope, and the LEGO House turned the toy module into a spatial system. As of the verification date Ingels is the founder of BIG; the practice's official page connects his method with utopian pragmatism and hedonistic sustainability.
 

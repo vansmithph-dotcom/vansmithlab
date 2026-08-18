@@ -16,7 +16,7 @@ To present Koolhaas as writer, architect, urbanist, teacher and co-founder of a 
 
 The core subject is Rem Koolhaas: his texts, projects and research practice from 1944 to 2026.
 
-OMA is treated as a collective office founded by Koolhaas, Elia and Zoe Zenghelis and Madelon Vriesendorp.
+[OMA](/en/articles/oma) is treated as a collective office founded by Koolhaas, Elia and Zoe Zenghelis and Madelon Vriesendorp.
 
 Projects are not credited to a single person when official documentation names other partners and teams.
 

@@ -144,7 +144,7 @@ Emptiness is not neutral. It becomes emotional material: the surface looks too p
 
 ## 22. Pentagram, crisis and fatigue with visual noise
 
-By the early 1990s Peter Saville Associates was under financial pressure and Saville briefly joined Pentagram; Factory also collapsed. The Design Museum and Science Museum Group describe the period as a major transition. [^clm_ps_022]
+By the early 1990s Peter Saville Associates was under financial pressure and Saville briefly joined [Pentagram](/en/articles/pentagram); Factory also collapsed. The Design Museum and Science Museum Group describe the period as a major transition. [^clm_ps_022]
 
 The story counters the mythology of unconstrained creative culture. Symbolic capital does not guarantee a sustainable business. Studios require pricing, production control, deadlines and management structure as much as powerful ideas.
 

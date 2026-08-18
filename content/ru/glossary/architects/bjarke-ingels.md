@@ -28,7 +28,7 @@ Hedonistic sustainability анализируется как проектная �
 
 ## Short answer
 
-Бьярке Ингельс родился 2 октября 1974 года в Копенгагене. Он учился в Королевской датской академии и Escola Tècnica Superior d’Arquitectura de Barcelona, затем работал в OMA. В 2001 году вместе с Julien De Smedt основал PLOT, а в 2005 году — BIG, Bjarke Ingels Group.
+Бьярке Ингельс родился 2 октября 1974 года в Копенгагене. Он учился в Королевской датской академии и Escola Tècnica Superior d’Arquitectura de Barcelona, затем работал в [OMA](/ru/articles/oma). В 2001 году вместе с Julien De Smedt основал PLOT, а в 2005 году — [BIG](/ru/articles/big), Bjarke Ingels Group.
 
 VM Houses, Mountain Dwellings и 8 House сделали BIG известной благодаря сочетанию плотного жилья, террас, маршрутов и общественных пространств. VIA 57 West перенесла идею двора в манхэттенский масштаб, CopenHill объединила электростанцию с лыжным склоном, а LEGO House превратила модуль игрушки в пространственную систему. На дату проверки Ингельс является founder BIG; официальная страница практики связывает его метод с utopian pragmatism и hedonistic sustainability.
 

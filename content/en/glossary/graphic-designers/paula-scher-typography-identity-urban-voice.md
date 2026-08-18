@@ -38,7 +38,7 @@ After the music industry, Scher formed the independent practice Koppel & Scher w
 
 ## 6. Pentagram, 1991: an individual position inside a collective structure
 
-Scher has been a partner in Pentagram's New York office since 1991. The model is important to understanding her career: Pentagram is a collective of partners who lead their own practices and teams within a shared institutional structure. [^clm_ps_006] Her name is therefore attached to specific projects, but mature systems are usually produced with teams, clients, architects, photographers and in-house designers.
+Scher has been a partner in [Pentagram](/en/articles/pentagram)'s New York office since 1991. The model is important to understanding her career: Pentagram is a collective of partners who lead their own practices and teams within a shared institutional structure. [^clm_ps_006] Her name is therefore attached to specific projects, but mature systems are usually produced with teams, clients, architects, photographers and in-house designers.
 
 ## 7. The Public Theater, 1994: a cultural institution gains an urban voice
 

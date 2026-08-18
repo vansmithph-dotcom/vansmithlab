@@ -30,7 +30,7 @@ That principle became foundational for Müller-Brockmann. The grid appears not b
 
 ## 3. Before 1950: illustration, stage and exhibition as prologue
 
-Müller-Brockmann's early career included illustration, stage and exhibition design and commercial graphics. Lars Müller Publishers explicitly notes that the radical move toward an uncompromising rational language came only around 1950. [^clm_jmb_003]
+Müller-Brockmann's early career included illustration, stage and exhibition design and commercial graphics. [Lars Müller Publishers](/en/articles/lars-muller-publishers) explicitly notes that the radical move toward an uncompromising rational language came only around 1950. [^clm_jmb_003]
 
 This matters against the myth of an innate Swiss Style. System was a position he arrived at, not a natural manner. Earlier methods existed and were consciously left behind.
 

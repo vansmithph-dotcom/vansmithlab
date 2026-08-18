@@ -30,7 +30,7 @@ Citibank. The Citi mark turned the memory of a former symbol into a concise new 
 
 ## 4. The Public Theater: second anchor example
 
-The Public Theater. Paula Scher’s long-running system showed how typography can change continuously while preserving the identity of a cultural institution. The second example tests whether the approach remains coherent when scale, client, medium and cultural context change. It is therefore evidence of a working system rather than an addition to a list of famous projects.[^clm_case2]
+The Public Theater. [Paula Scher](/en/glossary/graphic-designers/paula-scher-typography-identity-urban-voice)’s long-running system showed how typography can change continuously while preserving the identity of a cultural institution. The second example tests whether the approach remains coherent when scale, client, medium and cultural context change. It is therefore evidence of a working system rather than an addition to a list of famous projects.[^clm_case2]
 
 ## 5. A system rather than a single device
 

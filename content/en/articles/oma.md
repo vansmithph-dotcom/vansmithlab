@@ -14,7 +14,7 @@ What exactly in the method of OMA changed professional practice, and why can tha
 
 ## Short answer
 
-OMA was founded in Rotterdam in 1975. Its founders include Rem Koolhaas, Elia Zenghelis, Madelon Vriesendorp and Zoe Zenghelis. Its practice works through a clear principle: treats architecture as work with programme, density, infrastructure and cultural contradiction; its research arm AMO extends the method beyond buildings.[^clm_origin] Made programme analysis, diagrams and urban research autonomous tools of architectural design.[^clm_impact]
+OMA was founded in Rotterdam in 1975. Its founders include [Rem Koolhaas](/en/glossary/architects/rem-koolhaas), Elia Zenghelis, Madelon Vriesendorp and Zoe Zenghelis. Its practice works through a clear principle: treats architecture as work with programme, density, infrastructure and cultural contradiction; its research arm AMO extends the method beyond buildings.[^clm_origin] Made programme analysis, diagrams and urban research autonomous tools of architectural design.[^clm_impact]
 
 ## 1. Origins and context
 
