@@ -1,0 +1,27 @@
+{
+  "content_id": "cnt_col_zhurnal_kak_sistema_ru",
+  "primary_object_id": "obj_col_zhurnal_kak_sistema",
+  "content_type": "collection",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_zhurnal_kak_sistema_intro",
+    "clm_zhurnal_kak_sistema_scope"
+  ],
+  "source_ids": [],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "zhurnal-kak-sistema",
+  "title": "Журнал как система",
+  "summary": "Издание как машина отбора, ритма, изображения и авторитета.",
+  "discipline": [
+    "media-publishing",
+    "graphic-design"
+  ],
+  "kind": "collection",
+  "body_hash": "d76c1897c6fb44c880105702355ac1acd2165df10e4ce2ddde4bb885af086a40"
+}

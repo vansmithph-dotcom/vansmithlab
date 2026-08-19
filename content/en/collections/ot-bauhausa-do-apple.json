@@ -1,0 +1,28 @@
+{
+  "content_id": "cnt_col_ot_bauhausa_do_apple_en",
+  "primary_object_id": "obj_col_ot_bauhausa_do_apple",
+  "content_type": "collection",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_ot_bauhausa_do_apple_intro",
+    "clm_ot_bauhausa_do_apple_scope"
+  ],
+  "source_ids": [],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "ot-bauhausa-do-apple",
+  "title": "From Bauhaus to Apple",
+  "summary": "How school, object, and interface turned out to be one discipline: a line from the teaching workshop to the screen environment.",
+  "discipline": [
+    "history-movements",
+    "industrial-design",
+    "graphic-design"
+  ],
+  "kind": "collection",
+  "body_hash": "bb5fa8fd8c4f6381973f888010be7c308a174b9a5f76cf55b06ecc28252e8712"
+}

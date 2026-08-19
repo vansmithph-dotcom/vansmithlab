@@ -1,0 +1,27 @@
+{
+  "content_id": "cnt_col_zhurnal_kak_sistema_en",
+  "primary_object_id": "obj_col_zhurnal_kak_sistema",
+  "content_type": "collection",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_zhurnal_kak_sistema_intro",
+    "clm_zhurnal_kak_sistema_scope"
+  ],
+  "source_ids": [],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "zhurnal-kak-sistema",
+  "title": "The magazine as system",
+  "summary": "The publication as a machine of selection, rhythm, image, and authority.",
+  "discipline": [
+    "media-publishing",
+    "graphic-design"
+  ],
+  "kind": "collection",
+  "body_hash": "c41a28fd6084701dd072d447473470471a1e26a2d57e8764821e6fcdb91e82eb"
+}

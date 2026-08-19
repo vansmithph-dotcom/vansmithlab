@@ -1,0 +1,27 @@
+{
+  "content_id": "cnt_col_magazin_kak_media_en",
+  "primary_object_id": "obj_col_magazin_kak_media",
+  "content_type": "collection",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_magazin_kak_media_intro",
+    "clm_magazin_kak_media_scope"
+  ],
+  "source_ids": [],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "magazin-kak-media",
+  "title": "The store as media",
+  "summary": "Retail space produces the brand image before any purchase happens.",
+  "discipline": [
+    "space-typologies",
+    "media-publishing"
+  ],
+  "kind": "collection",
+  "body_hash": "6e8b28119eed68210fc0b1df993db84c0e245db55e5b75050a80f31f35d38c0b"
+}

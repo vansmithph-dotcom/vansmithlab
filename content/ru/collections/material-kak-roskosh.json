@@ -1,0 +1,27 @@
+{
+  "content_id": "cnt_col_material_kak_roskosh_ru",
+  "primary_object_id": "obj_col_material_kak_roskosh",
+  "content_type": "collection",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_material_kak_roskosh_intro",
+    "clm_material_kak_roskosh_scope"
+  ],
+  "source_ids": [],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "material-kak-roskosh",
+  "title": "Материал как роскошь",
+  "summary": "Роскошь возникает не из цены сырья, а из обработки, тиража и режима объяснения.",
+  "discipline": [
+    "materials",
+    "fashion-systems"
+  ],
+  "kind": "collection",
+  "body_hash": "3446194ee6d108feccea6c1e2a1a19f5c8d830b1b42a017e1263c3a4520dae1b"
+}

@@ -1,0 +1,28 @@
+{
+  "content_id": "cnt_col_ot_bauhausa_do_apple_ru",
+  "primary_object_id": "obj_col_ot_bauhausa_do_apple",
+  "content_type": "collection",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_ot_bauhausa_do_apple_intro",
+    "clm_ot_bauhausa_do_apple_scope"
+  ],
+  "source_ids": [],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "ot-bauhausa-do-apple",
+  "title": "От Баухауса до Apple",
+  "summary": "Как школа, предмет и интерфейс оказались одной дисциплиной: линия от учебной мастерской до экранной среды.",
+  "discipline": [
+    "history-movements",
+    "industrial-design",
+    "graphic-design"
+  ],
+  "kind": "collection",
+  "body_hash": "f7ae8a5e2692fda2f35b5d1bd701905d78b93b2c9d623fa20915b32c404456d4"
+}

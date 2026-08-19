@@ -1,0 +1,28 @@
+{
+  "content_id": "cnt_col_prozrachnost_steklo_interfeys_ru",
+  "primary_object_id": "obj_col_prozrachnost_steklo_interfeys",
+  "content_type": "collection",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_prozrachnost_steklo_interfeys_intro",
+    "clm_prozrachnost_steklo_interfeys_scope"
+  ],
+  "source_ids": [],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "prozrachnost-steklo-interfeys",
+  "title": "Прозрачность: стекло, интерфейс, фотография",
+  "summary": "Прозрачность как обещание доступа и одновременно как техника визуального контроля.",
+  "discipline": [
+    "materials",
+    "image-grammar",
+    "architecture"
+  ],
+  "kind": "collection",
+  "body_hash": "8e870ab84cdf7ebb1862dc496d97b1946bd37922271cf26b56874c977149a6b6"
+}

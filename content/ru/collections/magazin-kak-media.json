@@ -1,0 +1,27 @@
+{
+  "content_id": "cnt_col_magazin_kak_media_ru",
+  "primary_object_id": "obj_col_magazin_kak_media",
+  "content_type": "collection",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_magazin_kak_media_intro",
+    "clm_magazin_kak_media_scope"
+  ],
+  "source_ids": [],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "magazin-kak-media",
+  "title": "Магазин как медиа",
+  "summary": "Торговое пространство производит образ бренда раньше, чем происходит покупка.",
+  "discipline": [
+    "space-typologies",
+    "media-publishing"
+  ],
+  "kind": "collection",
+  "body_hash": "eb953d787c5bf40b5e75aef2158fdff31ff5bad39bdc53dc90ddbd897448c958"
+}

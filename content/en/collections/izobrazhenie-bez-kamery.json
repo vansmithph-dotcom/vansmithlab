@@ -1,0 +1,27 @@
+{
+  "content_id": "cnt_col_izobrazhenie_bez_kamery_en",
+  "primary_object_id": "obj_col_izobrazhenie_bez_kamery",
+  "content_type": "collection",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_izobrazhenie_bez_kamery_intro",
+    "clm_izobrazhenie_bez_kamery_scope"
+  ],
+  "source_ids": [],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "izobrazhenie-bez-kamery",
+  "title": "The image without a camera",
+  "summary": "How the image separated from optical witness and became a designed scene.",
+  "discipline": [
+    "image-grammar",
+    "media-publishing"
+  ],
+  "kind": "collection",
+  "body_hash": "fd0df8c38c83467c7e45d5f7ca3164b6d9048366fc1bee4444220d6d354ac0a9"
+}
