@@ -3,7 +3,7 @@ import Link from "next/link";
 import Image from "next/image";
 import { notFound } from "next/navigation";
 import { TrustPanel } from "@/components/TrustPanel";
-import SearchClientContent from "@/components/SearchClientContent";
+import SearchClientContent, { type SearchItem } from "@/components/SearchClientContent";
 import { listContent } from "@/lib/content";
 import { copy, isLocale } from "@/lib/site-data";
 
@@ -11,7 +11,7 @@ export type SectionConfig = {
   key: string;
   noDetailRoutes?: boolean;
   searchForm?: boolean;
-  searchData?: any[];
+  searchData?: SearchItem[];
 };
 
 export function sectionGenerateStaticParams() {

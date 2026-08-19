@@ -3,7 +3,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { TrustPanel } from "@/components/TrustPanel";
 import { copy, isLocale } from "@/lib/site-data";
-import { contentHrefForObject, listTimelineYears, timelineStats } from "@/lib/timeline";
+import { contentHrefForObject, listTimelineYears } from "@/lib/timeline";
 
 const SECTION = "timeline";
 
@@ -32,7 +32,6 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
   const content = copy[locale];
   const page = content.section[SECTION];
   const years = listTimelineYears(locale);
-  const stats = timelineStats();
 
   return (
     <section className="shell page-shell">
@@ -64,7 +63,7 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
             <div className="timeline-year" key={yearGroup.year}>
               <div className="timeline-year-label">{yearGroup.year}</div>
               <div className="timeline-year-events">
-                {yearGroup.events.map((ev) => {
+                {yearGroup.events.map((ev, index) => {
                   const href = contentHrefForObject(locale, ev);
                   const wording = locale === "ru" ? ev.wording_ru : (ev.wording_en || ev.wording_ru);
                   const title = locale === "en" && ev.object_title_en ? ev.object_title_en : ev.object_title;
@@ -74,7 +73,7 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
                     <span className="timeline-object-title">{title}</span>
                   );
                   return (
-                    <article className="timeline-event" key={ev.claim_id}>
+                    <article className="timeline-event" key={`${ev.object_id}-${ev.claim_id}-${index}`}>
                       <span className="timeline-event-object">{label}</span>
                       <p className="timeline-event-wording">{wording}</p>
                     </article>

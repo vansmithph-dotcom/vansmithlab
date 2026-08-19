@@ -24,6 +24,24 @@ export type TimelineYear = {
   events: TimelineEvent[];
 };
 
+type KnowledgeClaim = {
+  id: string;
+  wording_ru?: string;
+  wording_en?: string;
+  date_start?: string | number | null;
+  date_end?: string | null;
+  date_precision?: string;
+};
+
+type KnowledgeObject = {
+  id?: string;
+  slug_ru?: string;
+  title_ru?: string;
+  title_en?: string;
+  type?: string;
+  claims?: KnowledgeClaim[];
+};
+
 // Every date is stored as a year (possibly with a month/day suffix); the axis
 // groups by the leading year and sorts newest first.
 function yearOf(date: string | null): number | null {
@@ -43,7 +61,7 @@ function loadEvents(): TimelineEvent[] {
   }
   for (const file of fs.readdirSync(knowledgeRoot)) {
     if (!file.endsWith(".json")) continue;
-    let obj: any;
+    let obj: KnowledgeObject;
     try {
       obj = JSON.parse(fs.readFileSync(path.join(knowledgeRoot, file), "utf8"));
     } catch {
@@ -90,7 +108,7 @@ export function listTimelineYears(locale: Locale): TimelineYear[] {
   const years: TimelineYear[] = [...byYear.entries()]
     .map(([year, evs]) => ({
       year,
-      events: evs.sort((a, b) => a.claim_id.localeCompare(b.claim_id)),
+      events: evs.sort((a, b) => a.object_id.localeCompare(b.object_id) || a.claim_id.localeCompare(b.claim_id)),
     }))
     .sort((a, b) => b.year - a.year);
   return years;

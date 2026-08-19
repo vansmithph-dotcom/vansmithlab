@@ -1,7 +1,8 @@
 import type { Metadata } from "next";
 import { isLocale, type Locale } from "@/lib/site-data";
 import { SectionPage, sectionGenerateMetadata, sectionGenerateStaticParams } from "@/components/SectionPage";
-import { listContent } from "@/lib/content";
+import { listContent, sectionForContentType, type ContentMetadata } from "@/lib/content";
+import { GLOSSARY_SECTIONS } from "@/lib/taxonomy";
 
 const SECTION = "search";
 
@@ -17,8 +18,8 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
   const locale = isLocale(localeStr) ? (localeStr as Locale) : "ru";
 
   // Load all searchable content server-side
-  const sections = ["encyclopedia", "glossary", "articles", "analysis", "timeline", "collections"];
-  let allContent: any[] = [];
+  const sections = ["encyclopedia", "glossary", ...GLOSSARY_SECTIONS, "articles", "analysis", "timeline", "collections"];
+  let allContent: ContentMetadata[] = [];
   for (const section of sections) {
     try {
       const items = listContent(locale, section);
@@ -28,5 +29,10 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
     }
   }
 
-  return <SectionPage locale={locale} section={SECTION} config={{ key: SECTION, searchForm: true, searchData: allContent }} />;
+  const searchData = allContent.map((item) => ({
+    ...item,
+    href: `/${locale}/${sectionForContentType(item.content_type)}/${item.slug}`,
+  }));
+
+  return <SectionPage locale={locale} section={SECTION} config={{ key: SECTION, searchForm: true, searchData }} />;
 }
