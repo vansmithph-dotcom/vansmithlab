@@ -1,0 +1,79 @@
+{
+  "id": "obj_authp1_2f66192841185c03",
+  "category": "person",
+  "canonical_name": "Джони Айв",
+  "canonical_name_en": "Jony Ive",
+  "title_ru": "Джони Айв",
+  "slug_ru": "jony-ive-enclosure-as-company-language",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "industrial-design",
+    "technology"
+  ],
+  "role": "industrial-designer",
+  "sources": [
+    {
+      "id": "src_authp1_2f66192841185c03_01",
+      "title": "LoveFrom — Jony",
+      "url": "https://www.lovefrom.com/jony",
+      "publisher": "LoveFrom",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_authp1_2f66192841185c03_02",
+      "title": "Design Museum — Collection",
+      "url": "https://designmuseum.org/about-the-museum/design-museum-collection",
+      "publisher": "Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_authp1_2f66192841185c03_03",
+      "title": "MoMA — Collection",
+      "url": "https://www.moma.org/collection/",
+      "publisher": "MoMA",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_authp1_2f66192841185c03_04",
+      "title": "Design Museum — Dieter Rams",
+      "url": "https://designmuseum.org/design/dieter-rams",
+      "publisher": "Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_authp1_2f66192841185c03_thesis",
+      "wording_ru": "Айв важен не отдельными изделиями, а тем, что промышленный дизайн получил в его практике организационное право определять решения за пределами предмета.",
+      "wording_en": "Ive matters not for individual products but because in his practice industrial design acquired an organisational right to determine decisions beyond the object.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_authp1_2f66192841185c03_method",
+      "wording_ru": "Ключевым было право участвовать в определении продукта, а не оформлять готовое решение. Без прямого доступа к высшему руководству ни одно из последующих решений не было бы возможно.",
+      "wording_en": "The key factor was the right to participate in defining a product rather than styling a settled one. Without direct access to senior leadership none of the subsequent decisions would have been possible.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_authp1_2f66192841185c03_critique",
+      "wording_ru": "Обоснованное возражение: приоритет цельной формы систематически проигрывал ремонтопригодности, а закрытость системы ограничивала выбор пользователя. Эти претензии касаются структуры метода, а не его исполнения.",
+      "wording_en": "A justified objection: the priority of whole form consistently lost to repairability, and the system’s closedness limited user choice. These objections concern the structure of the method rather than its execution.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_authp1_2f66192841185c03_today",
+      "wording_ru": "Оценивая подражателей, смотрите не на материал корпуса, а на то, где в организации принимается решение о форме. Если после утверждения продукта — перед вами оформление, а не метод.",
+      "wording_en": "When assessing imitators, look not at enclosure material but at where in the organisation form is decided. If it happens after the product is approved, you are looking at styling rather than method.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ]
+}

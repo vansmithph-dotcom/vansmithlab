@@ -1,0 +1,37 @@
+{
+  "content_id": "cnt_authp1_en_4b167d60763a1e55",
+  "primary_object_id": "obj_authp1_4b167d60763a1e55",
+  "content_type": "fashion_editor_profile",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_authp1_4b167d60763a1e55_thesis",
+    "clm_authp1_4b167d60763a1e55_method",
+    "clm_authp1_4b167d60763a1e55_critique",
+    "clm_authp1_4b167d60763a1e55_today"
+  ],
+  "source_ids": [
+    "src_authp1_4b167d60763a1e55_01",
+    "src_authp1_4b167d60763a1e55_02",
+    "src_authp1_4b167d60763a1e55_03",
+    "src_authp1_4b167d60763a1e55_04"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "edward-enninful-casting-as-editorial-politics",
+  "title": "Edward Enninful",
+  "summary": "Casting as the principal editorial instrument: who is in frame determines what a publication is about.",
+  "discipline": [
+    "media-publishing",
+    "fashion-systems"
+  ],
+  "kind": "person",
+  "role": [
+    "fashion-editor"
+  ],
+  "body_hash": "91902d45d5eb69cda0db04795ecb7c8fd090e749368019d708f6b23290b388f8"
+}

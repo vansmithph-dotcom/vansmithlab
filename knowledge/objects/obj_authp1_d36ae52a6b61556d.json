@@ -1,0 +1,79 @@
+{
+  "id": "obj_authp1_d36ae52a6b61556d",
+  "category": "person",
+  "canonical_name": "Гаэтано Пеше",
+  "canonical_name_en": "Gaetano Pesce",
+  "title_ru": "Гаэтано Пеше",
+  "slug_ru": "gaetano-pesce-difference-inside-the-series",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "industrial-design",
+    "materials"
+  ],
+  "role": "designer",
+  "sources": [
+    {
+      "id": "src_authp1_d36ae52a6b61556d_01",
+      "title": "Gaetano Pesce — Official site",
+      "url": "https://www.gaetanopesce.com/",
+      "publisher": "Gaetano Pesce",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_authp1_d36ae52a6b61556d_02",
+      "title": "MoMA — Collection",
+      "url": "https://www.moma.org/collection/",
+      "publisher": "MoMA",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_authp1_d36ae52a6b61556d_03",
+      "title": "Vitra Design Museum — Online Collection",
+      "url": "https://collection.design-museum.de/en/",
+      "publisher": "Vitra Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_authp1_d36ae52a6b61556d_04",
+      "title": "Design Museum — Collection",
+      "url": "https://designmuseum.org/about-the-museum/design-museum-collection",
+      "publisher": "Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_authp1_d36ae52a6b61556d_thesis",
+      "wording_ru": "Пеше важен как автор, оспоривший главное обещание промышленности — одинаковость: он строил процессы, в которых отклонение является результатом, а не браком.",
+      "wording_en": "Pesce matters as an author who contested industry’s central promise — sameness: he built processes in which deviation is the result rather than a defect.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_authp1_d36ae52a6b61556d_method",
+      "wording_ru": "Центральное возражение его практики адресовано модернистскому идеалу повторяемости. Одинаковость изделий он рассматривал как обеднение, а не как достижение.",
+      "wording_en": "The central objection of his practice is addressed to the modernist ideal of repeatability. He regarded identical products as an impoverishment rather than an achievement.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_authp1_d36ae52a6b61556d_critique",
+      "wording_ru": "Обоснованное возражение: уникальность каждого экземпляра осложняет ремонт, замену и оценку. То, что выигрывает как высказывание, проигрывает как предмет длительного употребления.",
+      "wording_en": "A justified objection: the uniqueness of every example complicates repair, replacement, and valuation. What gains as statement loses as an object of long use.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_authp1_d36ae52a6b61556d_today",
+      "wording_ru": "Сравнивайте два экземпляра одной модели. Различие между ними и есть произведение; фотография одного экземпляра сообщает о работе меньше половины.",
+      "wording_en": "Compare two examples of one model. The difference between them is the work; a photograph of one example conveys less than half of it.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ]
+}

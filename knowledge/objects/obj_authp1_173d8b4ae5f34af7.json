@@ -1,0 +1,79 @@
+{
+  "id": "obj_authp1_173d8b4ae5f34af7",
+  "category": "person",
+  "canonical_name": "Джаспер Моррисон",
+  "canonical_name_en": "Jasper Morrison",
+  "title_ru": "Джаспер Моррисон",
+  "slug_ru": "jasper-morrison-the-ordinary-as-position",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "industrial-design",
+    "materials"
+  ],
+  "role": "industrial-designer",
+  "sources": [
+    {
+      "id": "src_authp1_173d8b4ae5f34af7_01",
+      "title": "Jasper Morrison — Studio biography",
+      "url": "https://jaspermorrison.com/studio/biography",
+      "publisher": "Jasper Morrison",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_authp1_173d8b4ae5f34af7_02",
+      "title": "Design Museum — Collection",
+      "url": "https://designmuseum.org/about-the-museum/design-museum-collection",
+      "publisher": "Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_authp1_173d8b4ae5f34af7_03",
+      "title": "Vitra Design Museum — Online Collection",
+      "url": "https://collection.design-museum.de/en/",
+      "publisher": "Vitra Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_authp1_173d8b4ae5f34af7_04",
+      "title": "MoMA — Collection",
+      "url": "https://www.moma.org/collection/",
+      "publisher": "MoMA",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_authp1_173d8b4ae5f34af7_thesis",
+      "wording_ru": "Моррисон важен тем, что превратил обыкновенность из отсутствия качества в проверяемый критерий: вещь оценивается по тому, как она ведёт себя на десятом году употребления.",
+      "wording_en": "Morrison matters for turning ordinariness from an absence of quality into a verifiable criterion: a thing is judged by how it behaves in its tenth year of use.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_authp1_173d8b4ae5f34af7_method",
+      "wording_ru": "Обыкновенность здесь не является следствием осторожности. Это выбранное ограничение: отказавшись от узнаваемого приёма, автор лишает себя лёгкого способа отличиться и обязан работать точностью.",
+      "wording_en": "Ordinariness here is not a consequence of caution. It is a chosen constraint: by giving up a recognisable device, the author denies himself an easy way to stand out and must work through precision.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_authp1_173d8b4ae5f34af7_critique",
+      "wording_ru": "Сдержанные предметы этого круга стоят дорого. Обыкновенность в исполнении требует точности, которая оплачивается, и обещание доступности выполняется не полностью.",
+      "wording_en": "The restrained objects of this circle are expensive. Ordinariness in execution requires precision that must be paid for, and the promise of accessibility is only partly kept.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_authp1_173d8b4ae5f34af7_today",
+      "wording_ru": "Оценивая такой предмет, ищите не приём, а износ: как ведёт себя кромка, ослабевает ли соединение, стареет ли поверхность достойно. Здесь это и есть содержание работы.",
+      "wording_en": "When assessing such an object, look not for a device but for wear: how an edge behaves, whether a joint loosens, whether a surface ages well. Here that is the content of the work.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ]
+}

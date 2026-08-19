@@ -1,0 +1,79 @@
+{
+  "id": "obj_authp1_22e72c15b6cab208",
+  "category": "person",
+  "canonical_name": "Ханс Ульрих Обрист",
+  "canonical_name_en": "Hans Ulrich Obrist",
+  "title_ru": "Ханс Ульрих Обрист",
+  "slug_ru": "hans-ulrich-obrist-curating-as-network",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "history-movements",
+    "media-publishing"
+  ],
+  "role": "curator",
+  "sources": [
+    {
+      "id": "src_authp1_22e72c15b6cab208_01",
+      "title": "Serpentine Galleries — Hans Ulrich Obrist",
+      "url": "https://www.serpentinegalleries.org/whats-on/hans-ulrich-obrist/",
+      "publisher": "Serpentine Galleries",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_authp1_22e72c15b6cab208_02",
+      "title": "MoMA — Collection",
+      "url": "https://www.moma.org/collection/",
+      "publisher": "MoMA",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_authp1_22e72c15b6cab208_03",
+      "title": "Fondazione Prada — History",
+      "url": "https://www.fondazioneprada.org/history-en/?lang=en",
+      "publisher": "Fondazione Prada",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_authp1_22e72c15b6cab208_04",
+      "title": "Design Museum — Collection",
+      "url": "https://designmuseum.org/about-the-museum/design-museum-collection",
+      "publisher": "Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_authp1_22e72c15b6cab208_thesis",
+      "wording_ru": "Обрист важен тем, что превратил кураторскую работу из подготовки экспозиций в поддержание сети: его основным произведением является накопленный корпус разговоров.",
+      "wording_en": "Obrist matters for turning curatorial work from preparing displays into maintaining a network: his principal work is an accumulated corpus of conversations.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_authp1_22e72c15b6cab208_method",
+      "wording_ru": "Центральное в его работе — многолетний проект записи разговоров с художниками, архитекторами, учёными и дизайнерами. Корпус исчисляется тысячами часов.",
+      "wording_en": "Central to his work is a decades-long project of recording conversations with artists, architects, scientists, and designers. The corpus runs to thousands of hours.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_authp1_22e72c15b6cab208_critique",
+      "wording_ru": "Он является предельным случаем кураторства как сетевой деятельности. Модель распространилась широко, и её ограничения видны именно на его масштабе.",
+      "wording_en": "He is the limit case of curating as network activity. The model has spread widely, and its limitations are visible precisely at his scale.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_authp1_22e72c15b6cab208_today",
+      "wording_ru": "Пользуйтесь корпусом как источником, а не как оценкой. Записанное высказывание ценно само по себе; отбор говорящих требует собственной проверки.",
+      "wording_en": "Use the corpus as a source rather than as an assessment. A recorded statement is valuable in itself; the selection of speakers requires verification of its own.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ]
+}

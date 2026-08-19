@@ -1,0 +1,79 @@
+{
+  "id": "obj_authp1_bcc32a9a7a9a1112",
+  "category": "person",
+  "canonical_name": "Хэл Фостер",
+  "canonical_name_en": "Hal Foster",
+  "title_ru": "Хэл Фостер",
+  "slug_ru": "hal-foster-critique-of-the-designed-world",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "history-movements",
+    "image-grammar"
+  ],
+  "role": "critic-theorist",
+  "sources": [
+    {
+      "id": "src_authp1_bcc32a9a7a9a1112_01",
+      "title": "Princeton — Hal Foster",
+      "url": "https://artandarchaeology.princeton.edu/people/hal-foster",
+      "publisher": "Princeton",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_authp1_bcc32a9a7a9a1112_02",
+      "title": "MoMA — Collection",
+      "url": "https://www.moma.org/collection/",
+      "publisher": "MoMA",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_authp1_bcc32a9a7a9a1112_03",
+      "title": "Design Museum — Collection",
+      "url": "https://designmuseum.org/about-the-museum/design-museum-collection",
+      "publisher": "Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_authp1_bcc32a9a7a9a1112_04",
+      "title": "Fondazione Prada — History",
+      "url": "https://www.fondazioneprada.org/history-en/?lang=en",
+      "publisher": "Fondazione Prada",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_authp1_bcc32a9a7a9a1112_thesis",
+      "wording_ru": "Фостер важен тем, что описал распространение дизайна на все области жизни как проблему, а не как достижение профессии.",
+      "wording_en": "Foster matters for describing the spread of design into every area of life as a problem rather than as a professional achievement.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_authp1_bcc32a9a7a9a1112_method",
+      "wording_ru": "Его центральное для этой темы наблюдение — распространение проектного вмешательства на всё, включая тело и биографию потребителя. Дизайн перестал быть областью и стал состоянием.",
+      "wording_en": "His central observation on this subject is the spread of design intervention into everything, including the consumer’s body and biography. Design has stopped being a field and become a condition.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_authp1_bcc32a9a7a9a1112_critique",
+      "wording_ru": "Материал стыкуется со статьями о постмодернизме, о цитате и копировании, о магазине как медиа и об архитектуре, производящей изображение.",
+      "wording_en": "The material connects to the entries on postmodernism, citation and copying, the store as media, and architecture producing images.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_authp1_bcc32a9a7a9a1112_today",
+      "wording_ru": "Спрашивайте, кто заказал изображение и кому оно адресовано. Этот вопрос воспроизводит его метод в прикладном масштабе.",
+      "wording_en": "Ask who commissioned an image and to whom it is addressed. That question reproduces his method at an applied scale.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ]
+}

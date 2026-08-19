@@ -1,0 +1,79 @@
+{
+  "id": "obj_authp1_d6673e06d8507e32",
+  "category": "person",
+  "canonical_name": "Виктор Папанек",
+  "canonical_name_en": "Victor Papanek",
+  "title_ru": "Виктор Папанек",
+  "slug_ru": "victor-papanek-design-as-responsibility",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "history-movements",
+    "industrial-design"
+  ],
+  "role": "critic-theorist",
+  "sources": [
+    {
+      "id": "src_authp1_d6673e06d8507e32_01",
+      "title": "Papanek Foundation — Victor Papanek",
+      "url": "https://papanek.org/archivelibrary/victor-papanek/",
+      "publisher": "Papanek Foundation",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_authp1_d6673e06d8507e32_02",
+      "title": "Vitra Design Museum — Online Collection",
+      "url": "https://collection.design-museum.de/en/",
+      "publisher": "Vitra Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_authp1_d6673e06d8507e32_03",
+      "title": "Design Museum — Collection",
+      "url": "https://designmuseum.org/about-the-museum/design-museum-collection",
+      "publisher": "Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_authp1_d6673e06d8507e32_04",
+      "title": "Ellen MacArthur Foundation — Materiom",
+      "url": "https://ellenmacarthurfoundation.org/ce100/members/materiom",
+      "publisher": "Ellen MacArthur Foundation",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_authp1_d6673e06d8507e32_thesis",
+      "wording_ru": "Папанек важен тем, что поставил вопрос об ответственности проектировщика раньше, чем отрасль была готова его обсуждать, и сформулировал его как профессиональный, а не моральный.",
+      "wording_en": "Papanek matters for raising the question of designer responsibility before the industry was ready to discuss it, and for framing it as professional rather than moral.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_authp1_d6673e06d8507e32_method",
+      "wording_ru": "Он утверждал, что значительная часть профессиональной работы направлена на создание ненужного и вредного. Обвинение адресовано не отдельным авторам, а устройству отрасли.",
+      "wording_en": "He argued that a significant part of professional work is directed at producing the unnecessary and the harmful. The accusation is addressed to the structure of the industry rather than to individual authors.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_authp1_d6673e06d8507e32_critique",
+      "wording_ru": "Он является исходной точкой линии ответственного проектирования и одновременно примером того, как ранняя правота сочетается со слабой реализацией.",
+      "wording_en": "He is the starting point of the line of responsible design and simultaneously an example of how early correctness combines with weak execution.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_authp1_d6673e06d8507e32_today",
+      "wording_ru": "Читайте его как постановку задачи, а не как набор решений. Вопросы остались верными, ответы устарели, и различать это необходимо.",
+      "wording_en": "Read him as a framing of problems rather than a set of solutions. The questions have remained correct, the answers have dated, and distinguishing the two is necessary.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ]
+}

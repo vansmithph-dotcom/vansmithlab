@@ -1,0 +1,79 @@
+{
+  "id": "obj_authp1_4780f052268fc7db",
+  "category": "person",
+  "canonical_name": "Филипп Старк",
+  "canonical_name_en": "Philippe Starck",
+  "title_ru": "Филипп Старк",
+  "slug_ru": "philippe-starck-designer-as-public-figure",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "industrial-design",
+    "media-publishing"
+  ],
+  "role": "designer",
+  "sources": [
+    {
+      "id": "src_authp1_4780f052268fc7db_01",
+      "title": "Starck — About",
+      "url": "https://www.starck.com/about",
+      "publisher": "Starck",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_authp1_4780f052268fc7db_02",
+      "title": "Design Museum — Collection",
+      "url": "https://designmuseum.org/about-the-museum/design-museum-collection",
+      "publisher": "Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_authp1_4780f052268fc7db_03",
+      "title": "MoMA — Collection",
+      "url": "https://www.moma.org/collection/",
+      "publisher": "MoMA",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_authp1_4780f052268fc7db_04",
+      "title": "Vitra Design Museum — Online Collection",
+      "url": "https://collection.design-museum.de/en/",
+      "publisher": "Vitra Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_authp1_4780f052268fc7db_thesis",
+      "wording_ru": "Старк важен как случай, где имя автора стало производственным активом: узнаваемость дизайнера начала продавать предмет не хуже его качества.",
+      "wording_en": "Starck matters as a case in which an author’s name became a production asset: a designer’s recognisability began selling an object as effectively as its quality.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_authp1_4780f052268fc7db_method",
+      "wording_ru": "Он последовательно формулирует задачу как повышение качества доступных предметов. Эта риторика предшествовала массовым коллаборациям и во многом их оправдывала.",
+      "wording_en": "He consistently frames the task as raising the quality of affordable objects. That rhetoric preceded mass collaborations and largely justified them.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_authp1_4780f052268fc7db_critique",
+      "wording_ru": "Он является переходной фигурой между дизайнером-инженером середины века и дизайнером-брендом современности. Его случай удобно читать как границу двух моделей профессии.",
+      "wording_en": "He is a transitional figure between the mid-century designer-engineer and the contemporary designer-brand. His case is usefully read as the boundary between two models of the profession.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_authp1_4780f052268fc7db_today",
+      "wording_ru": "Разделяйте два вопроса: работает ли предмет и работает ли высказывание. Смешение этих оценок делает разговор о нём бесплодным в обе стороны.",
+      "wording_en": "Separate two questions: does the object work, and does the statement work. Conflating these assessments makes discussion of him fruitless in both directions.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ]
+}

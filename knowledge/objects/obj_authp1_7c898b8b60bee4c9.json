@@ -1,0 +1,79 @@
+{
+  "id": "obj_authp1_7c898b8b60bee4c9",
+  "category": "person",
+  "canonical_name": "Венеция Скотт",
+  "canonical_name_en": "Venetia Scott",
+  "title_ru": "Венеция Скотт",
+  "slug_ru": "venetia-scott-fashion-realism",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "image-grammar",
+    "fashion-systems"
+  ],
+  "role": "stylist",
+  "sources": [
+    {
+      "id": "src_authp1_7c898b8b60bee4c9_01",
+      "title": "Webber Represents — Venetia Scott biography",
+      "url": "https://www.webberrepresents.com/artists/venetia-scott/biography",
+      "publisher": "Webber Represents",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_authp1_7c898b8b60bee4c9_02",
+      "title": "V&A — 100 years of fashion photography",
+      "url": "https://www.vam.ac.uk/articles/100-years-of-fashion-photography",
+      "publisher": "V&A",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_authp1_7c898b8b60bee4c9_03",
+      "title": "V&A — Fashion collections",
+      "url": "https://www.vam.ac.uk/collections/fashion",
+      "publisher": "V&A",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_authp1_7c898b8b60bee4c9_04",
+      "title": "Fashion Institute of Technology — Museum",
+      "url": "https://www.fitnyc.edu/museum/",
+      "publisher": "Fashion Institute of Technology",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_authp1_7c898b8b60bee4c9_thesis",
+      "wording_ru": "Скотт важна как автор, работающий одновременно стилистом и фотографом: совмещение двух ролей устранило разрыв между сборкой образа и его съёмкой.",
+      "wording_en": "Scott matters as an author working simultaneously as stylist and photographer: combining the two roles removed the gap between assembling a look and photographing it.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_authp1_7c898b8b60bee4c9_method",
+      "wording_ru": "Её работа связана с периодом, когда британская модная съёмка отказалась от студийного глянца в пользу видимости повседневности. Это был сознательный разрыв с предшествующей нормой.",
+      "wording_en": "Her work is tied to a period when British fashion photography abandoned studio gloss for the appearance of the everyday. It was a deliberate break with the preceding norm.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_authp1_7c898b8b60bee4c9_critique",
+      "wording_ru": "Материал стыкуется со статьями о модной фотографии, о редакционной съёмке, о рекламной съёмке и о контактном листе как процессе отбора.",
+      "wording_en": "The material connects to the entries on fashion photography, editorial photography, advertising photography, and the contact sheet as a process of selection.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_authp1_7c898b8b60bee4c9_today",
+      "wording_ru": "Спрашивайте, сколько кадров было снято и кем сделан выбор. Ответ показывает, где в этой практике находится авторская работа.",
+      "wording_en": "Ask how many frames were shot and who made the selection. The answer shows where the authorial work sits in this practice.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ]
+}

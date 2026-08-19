@@ -1,0 +1,79 @@
+{
+  "id": "obj_authp1_4b167d60763a1e55",
+  "category": "person",
+  "canonical_name": "Эдвард Эннинфул",
+  "canonical_name_en": "Edward Enninful",
+  "title_ru": "Эдвард Эннинфул",
+  "slug_ru": "edward-enninful-casting-as-editorial-politics",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "media-publishing",
+    "fashion-systems"
+  ],
+  "role": "fashion-editor",
+  "sources": [
+    {
+      "id": "src_authp1_4b167d60763a1e55_01",
+      "title": "Vogue — Edward Enninful career",
+      "url": "https://www.vogue.co.uk/article/edward-enninful-career",
+      "publisher": "Vogue",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_authp1_4b167d60763a1e55_02",
+      "title": "V&A — 100 years of fashion photography",
+      "url": "https://www.vam.ac.uk/articles/100-years-of-fashion-photography",
+      "publisher": "V&A",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_authp1_4b167d60763a1e55_03",
+      "title": "V&A — Fashion collections",
+      "url": "https://www.vam.ac.uk/collections/fashion",
+      "publisher": "V&A",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_authp1_4b167d60763a1e55_04",
+      "title": "Fashion Institute of Technology — Museum",
+      "url": "https://www.fitnyc.edu/museum/",
+      "publisher": "Fashion Institute of Technology",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_authp1_4b167d60763a1e55_thesis",
+      "wording_ru": "Эннинфул важен тем, что перенёс вопрос представительства из области деклараций в область редакционной процедуры: изменился не текст о разнообразии, а список тех, кого снимают.",
+      "wording_en": "Enninful matters for moving the question of representation from declaration into editorial procedure: what changed was not the text about diversity but the list of who gets photographed.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_authp1_4b167d60763a1e55_method",
+      "wording_ru": "Он занял редакторскую должность в независимом издании в очень молодом возрасте. Британская независимая среда допускала это, и его случай показателен для её устройства.",
+      "wording_en": "He took an editorial post at an independent title at a very young age. The British independent milieu allowed this, and his case is representative of how it worked.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_authp1_4b167d60763a1e55_critique",
+      "wording_ru": "Материал стыкуется со статьями об обложке, о модной фотографии, о журнале как системе и о редакционной съёмке как аргументе.",
+      "wording_en": "The material connects to the entries on the cover, fashion photography, the magazine as system, and editorial photography as argument.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_authp1_4b167d60763a1e55_today",
+      "wording_ru": "Спрашивайте не о том, кто на обложке, а о том, кто снимал и кто собирал образ. Изменение состава авторов является более глубоким показателем, чем изменение состава моделей.",
+      "wording_en": "Ask not who is on the cover but who photographed and who styled it. A change in the composition of authors is a deeper measure than a change in the composition of models.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ]
+}

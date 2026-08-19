@@ -1,0 +1,37 @@
+{
+  "content_id": "cnt_authp1_ru_4780f052268fc7db",
+  "primary_object_id": "obj_authp1_4780f052268fc7db",
+  "content_type": "designer_profile",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_authp1_4780f052268fc7db_thesis",
+    "clm_authp1_4780f052268fc7db_method",
+    "clm_authp1_4780f052268fc7db_critique",
+    "clm_authp1_4780f052268fc7db_today"
+  ],
+  "source_ids": [
+    "src_authp1_4780f052268fc7db_01",
+    "src_authp1_4780f052268fc7db_02",
+    "src_authp1_4780f052268fc7db_03",
+    "src_authp1_4780f052268fc7db_04"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "philippe-starck-designer-as-public-figure",
+  "title": "Филипп Старк",
+  "summary": "Дизайнер как публичная фигура и медийный аргумент, продающий предмет вместе с собственным именем.",
+  "discipline": [
+    "industrial-design",
+    "media-publishing"
+  ],
+  "kind": "person",
+  "role": [
+    "designer"
+  ],
+  "body_hash": "35b8010d1f066f379d69ca616c77bca8b2ac16b7401b50409c8cc333508463eb"
+}

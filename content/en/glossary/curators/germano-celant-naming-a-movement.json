@@ -1,0 +1,37 @@
+{
+  "content_id": "cnt_authp1_en_8da422de63ecb11a",
+  "primary_object_id": "obj_authp1_8da422de63ecb11a",
+  "content_type": "curator_profile",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_authp1_8da422de63ecb11a_thesis",
+    "clm_authp1_8da422de63ecb11a_method",
+    "clm_authp1_8da422de63ecb11a_critique",
+    "clm_authp1_8da422de63ecb11a_today"
+  ],
+  "source_ids": [
+    "src_authp1_8da422de63ecb11a_01",
+    "src_authp1_8da422de63ecb11a_02",
+    "src_authp1_8da422de63ecb11a_03",
+    "src_authp1_8da422de63ecb11a_04"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "germano-celant-naming-a-movement",
+  "title": "Germano Celant",
+  "summary": "The critic who gave a movement its name and thereby made it exist for history.",
+  "discipline": [
+    "history-movements",
+    "space-typologies"
+  ],
+  "kind": "person",
+  "role": [
+    "curator"
+  ],
+  "body_hash": "d8697a9cc7f60db39ba92b2b20eb9683a185a513a9ee0797437dd4892736e243"
+}

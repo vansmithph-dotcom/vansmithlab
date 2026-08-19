@@ -1,0 +1,79 @@
+{
+  "id": "obj_authp1_b68d35b7c9f66f3b",
+  "category": "person",
+  "canonical_name": "Дональд Норман",
+  "canonical_name_en": "Donald Norman",
+  "title_ru": "Дональд Норман",
+  "slug_ru": "donald-norman-affordance-and-error",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "technology",
+    "industrial-design"
+  ],
+  "role": "critic-theorist",
+  "sources": [
+    {
+      "id": "src_authp1_b68d35b7c9f66f3b_01",
+      "title": "UC San Diego Jacobs School — Donald Norman",
+      "url": "https://jacobsschool.ucsd.edu/people/profile/donald-norman",
+      "publisher": "UC San Diego Jacobs School",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_authp1_b68d35b7c9f66f3b_02",
+      "title": "HfG Ulm — History",
+      "url": "https://www.hfg-ulm.de/en/hfg-ulm/history/",
+      "publisher": "HfG Ulm",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_authp1_b68d35b7c9f66f3b_03",
+      "title": "Design Museum — Collection",
+      "url": "https://designmuseum.org/about-the-museum/design-museum-collection",
+      "publisher": "Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_authp1_b68d35b7c9f66f3b_04",
+      "title": "World Design Organization — Definition of industrial design",
+      "url": "https://wdo.org/about/definition/",
+      "publisher": "World Design Organization",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_authp1_b68d35b7c9f66f3b_thesis",
+      "wording_ru": "Норман важен тем, что перенёс ответственность за ошибку с человека на предмет и дал профессии словарь, которым это можно обсуждать.",
+      "wording_en": "Norman matters for moving responsibility for error from the person to the object, and for giving the profession a vocabulary in which to discuss it.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_authp1_b68d35b7c9f66f3b_method",
+      "wording_ru": "Центральный тезис: если пользователи систематически ошибаются одинаково, причина находится в предмете. Это переносит вину с человека на конструкцию и делает ошибку измеримой.",
+      "wording_en": "The central claim: if users systematically make the same mistake, the cause lies in the object. This moves blame from person to construction and makes error measurable.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_authp1_b68d35b7c9f66f3b_critique",
+      "wording_ru": "Его словарь лежит в основании современной практики проектирования интерфейсов. Большинство профессиональных споров в этой области ведётся его терминами.",
+      "wording_en": "His vocabulary underlies contemporary interface design practice. Most professional disputes in that field are conducted in his terms.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_authp1_b68d35b7c9f66f3b_today",
+      "wording_ru": "Применяйте его понятия как диагностику, а не как рецепт. Они хорошо объясняют, почему предмет не работает, и хуже подсказывают, каким он должен быть.",
+      "wording_en": "Apply his concepts as diagnosis rather than prescription. They explain well why an object fails and less well what it should be.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ]
+}

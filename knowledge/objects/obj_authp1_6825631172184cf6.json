@@ -1,0 +1,79 @@
+{
+  "id": "obj_authp1_6825631172184cf6",
+  "category": "person",
+  "canonical_name": "Наото Фукасава",
+  "canonical_name_en": "Naoto Fukasawa",
+  "title_ru": "Наото Фукасава",
+  "slug_ru": "naoto-fukasawa-behaviour-before-form",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "industrial-design",
+    "technology"
+  ],
+  "role": "industrial-designer",
+  "sources": [
+    {
+      "id": "src_authp1_6825631172184cf6_01",
+      "title": "Naoto Fukasawa — About",
+      "url": "https://naotofukasawa.com/about/",
+      "publisher": "Naoto Fukasawa",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_authp1_6825631172184cf6_02",
+      "title": "Design Museum — Collection",
+      "url": "https://designmuseum.org/about-the-museum/design-museum-collection",
+      "publisher": "Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_authp1_6825631172184cf6_03",
+      "title": "Vitra Design Museum — Online Collection",
+      "url": "https://collection.design-museum.de/en/",
+      "publisher": "Vitra Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_authp1_6825631172184cf6_04",
+      "title": "MoMA — Architecture and Design Department",
+      "url": "https://www.moma.org/about/curatorial-departments/architecture-design",
+      "publisher": "MoMA",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_authp1_6825631172184cf6_thesis",
+      "wording_ru": "Фукасава важен как автор метода, в котором предмет выводится из привычки: сначала фиксируется то, что человек делает не задумываясь, и только потом появляется форма, обслуживающая это действие.",
+      "wording_en": "Fukasawa matters as the author of a method in which an object is derived from habit: what a person does without thinking is recorded first, and only then does a form appear to serve that action.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_authp1_6825631172184cf6_method",
+      "wording_ru": "Центральное понятие его практики — действие, совершаемое без обдумывания. Человек кладёт ключи в одно и то же место, не принимая решения; такие автоматизмы и служат исходным материалом проекта.",
+      "wording_en": "The central notion of his practice is action performed without deliberation. A person puts keys in the same place without making a decision; such automatisms serve as the project’s raw material.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_authp1_6825631172184cf6_critique",
+      "wording_ru": "Незаметность плохо продаётся. Предмет, спроектированный так, чтобы не привлекать внимания, проигрывает в канале, где решение принимается по фотографии.",
+      "wording_en": "Inconspicuousness sells badly. An object designed not to attract attention loses in a channel where decisions are made from a photograph.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_authp1_6825631172184cf6_today",
+      "wording_ru": "Проверяйте предметы этого круга не взглядом, а рукой и повторением. Качество здесь проявляется на сотом употреблении, а не на первом снимке.",
+      "wording_en": "Test objects of this circle by hand and by repetition rather than by looking. Quality here appears at the hundredth use, not in the first photograph.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ]
+}

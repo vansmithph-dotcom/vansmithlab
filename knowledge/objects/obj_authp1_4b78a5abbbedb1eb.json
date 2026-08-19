@@ -1,0 +1,79 @@
+{
+  "id": "obj_authp1_4b78a5abbbedb1eb",
+  "category": "person",
+  "canonical_name": "Зои Райан",
+  "canonical_name_en": "Zoë Ryan",
+  "title_ru": "Зои Райан",
+  "slug_ru": "zoe-ryan-curating-design-in-the-institution",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "space-typologies",
+    "history-movements"
+  ],
+  "role": "curator",
+  "sources": [
+    {
+      "id": "src_authp1_4b78a5abbbedb1eb_01",
+      "title": "University of Pennsylvania Weitzman — Zoë Ryan",
+      "url": "https://www.design.upenn.edu/people/zoe-ryan",
+      "publisher": "University of Pennsylvania Weitzman",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_authp1_4b78a5abbbedb1eb_02",
+      "title": "MoMA — Architecture and Design Department",
+      "url": "https://www.moma.org/about/curatorial-departments/architecture-design",
+      "publisher": "MoMA",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_authp1_4b78a5abbbedb1eb_03",
+      "title": "Design Museum — Collection",
+      "url": "https://designmuseum.org/about-the-museum/design-museum-collection",
+      "publisher": "Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_authp1_4b78a5abbbedb1eb_04",
+      "title": "Vitra Design Museum — Online Collection",
+      "url": "https://collection.design-museum.de/en/",
+      "publisher": "Vitra Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_authp1_4b78a5abbbedb1eb_thesis",
+      "wording_ru": "Райан важна как фигура, работающая с дизайном внутри музейной и университетской системы: её случай показывает, чего требует институционализация дисциплины.",
+      "wording_en": "Ryan matters as a figure working with design inside museum and university systems: her case shows what the institutionalisation of a discipline requires.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_authp1_4b78a5abbbedb1eb_method",
+      "wording_ru": "Отдел дизайна в музее искусства всегда занимает подчинённое положение по бюджету и площадям. Задача куратора здесь наполовину состоит в защите этого положения.",
+      "wording_en": "A design department in an art museum always occupies a subordinate position in budget and floor area. Half a curator’s task here is defending that position.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_authp1_4b78a5abbbedb1eb_critique",
+      "wording_ru": "Материал стыкуется со статьями о музее и истории дизайна, о выставке, о витрине как архитектуре внимания и о корпоративных собраниях.",
+      "wording_en": "The material connects to the entries on the museum and design history, the exhibition, the vitrine as an architecture of attention, and corporate collections.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_authp1_4b78a5abbbedb1eb_today",
+      "wording_ru": "Спрашивайте, кто финансировал выставку и представлен ли этот заказчик среди экспонентов. Ответ определяет статус суждения.",
+      "wording_en": "Ask who funded an exhibition and whether that funder appears among the exhibitors. The answer determines the status of the judgement.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ]
+}

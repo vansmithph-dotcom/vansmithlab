@@ -1,0 +1,37 @@
+{
+  "content_id": "cnt_authp1_en_7ea7ff5f08874af8",
+  "primary_object_id": "obj_authp1_7ea7ff5f08874af8",
+  "content_type": "fashion_editor_profile",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_authp1_7ea7ff5f08874af8_thesis",
+    "clm_authp1_7ea7ff5f08874af8_method",
+    "clm_authp1_7ea7ff5f08874af8_critique",
+    "clm_authp1_7ea7ff5f08874af8_today"
+  ],
+  "source_ids": [
+    "src_authp1_7ea7ff5f08874af8_01",
+    "src_authp1_7ea7ff5f08874af8_02",
+    "src_authp1_7ea7ff5f08874af8_03",
+    "src_authp1_7ea7ff5f08874af8_04"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "franca-sozzani-magazine-as-social-argument",
+  "title": "Franca Sozzani",
+  "summary": "A fashion magazine using its own circulation and authority to pose a public question.",
+  "discipline": [
+    "media-publishing",
+    "fashion-systems"
+  ],
+  "kind": "person",
+  "role": [
+    "fashion-editor"
+  ],
+  "body_hash": "ea5fcf151b597636f68116b33bb5d418e0d1cf244209fca76c3f97fdecb14967"
+}

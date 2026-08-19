@@ -1,0 +1,79 @@
+{
+  "id": "obj_authp1_baa73bb8fccb4ed1",
+  "category": "person",
+  "canonical_name": "Александра Монро",
+  "canonical_name_en": "Alexandra Munroe",
+  "title_ru": "Александра Монро",
+  "slug_ru": "alexandra-munroe-transnational-museum-strategy",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "history-movements",
+    "space-typologies"
+  ],
+  "role": "curator",
+  "sources": [
+    {
+      "id": "src_authp1_baa73bb8fccb4ed1_01",
+      "title": "Guggenheim — Alexandra Munroe",
+      "url": "https://www.guggenheim.org/articles/author/alexandra-munroe",
+      "publisher": "Guggenheim",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_authp1_baa73bb8fccb4ed1_02",
+      "title": "MoMA — Collection",
+      "url": "https://www.moma.org/collection/",
+      "publisher": "MoMA",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_authp1_baa73bb8fccb4ed1_03",
+      "title": "The Metropolitan Museum of Art — The Collection",
+      "url": "https://www.metmuseum.org/art/collection",
+      "publisher": "The Metropolitan Museum of Art",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_authp1_baa73bb8fccb4ed1_04",
+      "title": "MoMA — Architecture and Design Department",
+      "url": "https://www.moma.org/about/curatorial-departments/architecture-design",
+      "publisher": "MoMA",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_authp1_baa73bb8fccb4ed1_thesis",
+      "wording_ru": "Монро важна тем, что показала: расширение канона является исследовательской, а не представительской задачей — оно требует архивной работы, а не квоты.",
+      "wording_en": "Munroe matters for showing that expanding a canon is a research task rather than a representational one — it requires archival work, not a quota.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_authp1_baa73bb8fccb4ed1_method",
+      "wording_ru": "Западная история искусства двадцатого века строилась на европейской и американской линии. Художественные движения других регионов оставались за пределами хронологии, а не внутри неё на второстепенных позициях.",
+      "wording_en": "Western art history of the twentieth century was built on a European and American line. Artistic movements of other regions remained outside the chronology rather than inside it in secondary positions.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_authp1_baa73bb8fccb4ed1_critique",
+      "wording_ru": "Материал стыкуется со статьями о музее и истории дизайна, о выставке, о канонических объектах и о японской линии.",
+      "wording_en": "The material connects to the entries on the museum and design history, the exhibition, canonical objects, and the Japanese line.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_authp1_baa73bb8fccb4ed1_today",
+      "wording_ru": "Спрашивайте, изменилась ли постоянная экспозиция. Временная выставка обозначает намерение, постоянная — фиксирует результат.",
+      "wording_en": "Ask whether the permanent display changed. A temporary exhibition signals intention; a permanent one records the result.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ]
+}

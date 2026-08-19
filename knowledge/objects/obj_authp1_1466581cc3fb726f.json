@@ -1,0 +1,79 @@
+{
+  "id": "obj_authp1_1466581cc3fb726f",
+  "category": "person",
+  "canonical_name": "Гленн Адамсон",
+  "canonical_name_en": "Glenn Adamson",
+  "title_ru": "Гленн Адамсон",
+  "slug_ru": "glenn-adamson-material-intelligence",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "history-movements",
+    "materials"
+  ],
+  "role": "curator",
+  "sources": [
+    {
+      "id": "src_authp1_1466581cc3fb726f_01",
+      "title": "Bloomsbury — Glenn Adamson",
+      "url": "https://www.bloomsbury.com/us/author/glenn-adamson/",
+      "publisher": "Bloomsbury",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_authp1_1466581cc3fb726f_02",
+      "title": "Museo del Gioiello — Curators: Glenn Adamson",
+      "url": "https://www.museodelgioiello.it/en/curators/curators/glenn-adamson",
+      "publisher": "Museo del Gioiello",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_authp1_1466581cc3fb726f_03",
+      "title": "V&A — Museum",
+      "url": "https://www.vam.ac.uk/",
+      "publisher": "V&A",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_authp1_1466581cc3fb726f_04",
+      "title": "Design Museum — Collection",
+      "url": "https://designmuseum.org/about-the-museum/design-museum-collection",
+      "publisher": "Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_authp1_1466581cc3fb726f_thesis",
+      "wording_ru": "Адамсон важен тем, что переопределил ремесло из категории вещей в способ мышления: это знание о материале, распределённое в руках, а не в текстах.",
+      "wording_en": "Adamson matters for redefining craft from a category of things into a way of thinking: knowledge about material distributed in hands rather than in texts.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_authp1_1466581cc3fb726f_method",
+      "wording_ru": "Он предложил рассматривать ремесло не как класс предметов, а как способ работы, присутствующий в любом производстве. Промышленное изделие тоже содержит ремесленное знание — в оснастке и наладке.",
+      "wording_en": "He proposed treating craft not as a class of objects but as a mode of work present in any production. An industrial product also contains craft knowledge — in tooling and setup.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_authp1_1466581cc3fb726f_critique",
+      "wording_ru": "Материал стыкуется со статьями о ремесле и цифровом мастерстве, о материалах, об устойчивости и о музее как производителе канона.",
+      "wording_en": "The material connects to the entries on craft and digital mastery, materials, sustainability, and the museum as producer of canon.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_authp1_1466581cc3fb726f_today",
+      "wording_ru": "Спрашивайте не «сделано ли вручную», а «что именно сделано вручную и в каком объёме». Первый вопрос почти всегда получает положительный ответ и потому бесполезен.",
+      "wording_en": "Ask not whether something is handmade but what exactly is handmade and in what quantity. The first question almost always receives a yes and is therefore useless.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "id": "obj_authp1_459067898fe0176f",
+  "category": "person",
+  "canonical_name": "Вернер Пантон",
+  "canonical_name_en": "Verner Panton",
+  "title_ru": "Вернер Пантон",
+  "slug_ru": "verner-panton-colour-as-construction",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "industrial-design",
+    "materials"
+  ],
+  "role": "designer",
+  "sources": [
+    {
+      "id": "src_authp1_459067898fe0176f_01",
+      "title": "Verner Panton — Biography",
+      "url": "https://www.verner-panton.com/en/person/biography/",
+      "publisher": "Verner Panton",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_authp1_459067898fe0176f_02",
+      "title": "Vitra Design Museum — Online Collection",
+      "url": "https://collection.design-museum.de/en/",
+      "publisher": "Vitra Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_authp1_459067898fe0176f_03",
+      "title": "Design Museum — Chairs of the 1960s",
+      "url": "https://designmuseum.org/design/chairs-1960s",
+      "publisher": "Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_authp1_459067898fe0176f_04",
+      "title": "MoMA — Collection",
+      "url": "https://www.moma.org/collection/",
+      "publisher": "MoMA",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_authp1_459067898fe0176f_thesis",
+      "wording_ru": "Пантон важен тем, что проектировал не предметы, а обитаемые среды, где пол, стена, мебель и свет являются одной непрерывной поверхностью.",
+      "wording_en": "Panton matters for designing not objects but inhabitable environments in which floor, wall, furniture, and light form one continuous surface.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_authp1_459067898fe0176f_method",
+      "wording_ru": "Скандинавская традиция строилась на дереве, ремесле и приглушённой палитре. Его выбор синтетики был не техническим, а позиционным: он отказывался от национального языка в пользу интернационального.",
+      "wording_en": "The Scandinavian tradition rested on wood, craft, and a muted palette. His choice of synthetics was positional rather than technical: he refused a national language in favour of an international one.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_authp1_459067898fe0176f_critique",
+      "wording_ru": "Обоснованное возражение: тотальная среда не оставляет места обитателю. Проект, определяющий всё, включая позу и цвет, ближе к сценографии, чем к жилью.",
+      "wording_en": "A justified objection: a total environment leaves no room for its inhabitant. A project determining everything, including posture and colour, is closer to scenography than to housing.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_authp1_459067898fe0176f_today",
+      "wording_ru": "Смотрите на его работы как на исследование материала, а не как на стиль шестидесятых. Вопрос, который он ставил, — можно ли сделать несущую конструкцию из одного полимера, — остаётся техническим.",
+      "wording_en": "Read his work as material research rather than as 1960s style. The question he posed — whether a load-bearing structure can be made from a single polymer — remains a technical one.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ]
+}

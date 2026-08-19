@@ -1,0 +1,37 @@
+{
+  "content_id": "cnt_authp1_en_4780f052268fc7db",
+  "primary_object_id": "obj_authp1_4780f052268fc7db",
+  "content_type": "designer_profile",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_authp1_4780f052268fc7db_thesis",
+    "clm_authp1_4780f052268fc7db_method",
+    "clm_authp1_4780f052268fc7db_critique",
+    "clm_authp1_4780f052268fc7db_today"
+  ],
+  "source_ids": [
+    "src_authp1_4780f052268fc7db_01",
+    "src_authp1_4780f052268fc7db_02",
+    "src_authp1_4780f052268fc7db_03",
+    "src_authp1_4780f052268fc7db_04"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "philippe-starck-designer-as-public-figure",
+  "title": "Philippe Starck",
+  "summary": "The designer as a public figure and media argument, selling an object together with their own name.",
+  "discipline": [
+    "industrial-design",
+    "media-publishing"
+  ],
+  "kind": "person",
+  "role": [
+    "designer"
+  ],
+  "body_hash": "2b08a0d865f380728abd563c2a7360464d6b30045a692c773d38e30138327d0d"
+}

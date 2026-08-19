@@ -1,0 +1,79 @@
+{
+  "id": "obj_authp1_7ea7ff5f08874af8",
+  "category": "person",
+  "canonical_name": "Франка Соццани",
+  "canonical_name_en": "Franca Sozzani",
+  "title_ru": "Франка Соццани",
+  "slug_ru": "franca-sozzani-magazine-as-social-argument",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "media-publishing",
+    "fashion-systems"
+  ],
+  "role": "fashion-editor",
+  "sources": [
+    {
+      "id": "src_authp1_7ea7ff5f08874af8_01",
+      "title": "Vogue Italia — Franca Sozzani",
+      "url": "https://www.vogue.it/article/franca-sozzani-storia-moda-direttrice",
+      "publisher": "Vogue Italia",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_authp1_7ea7ff5f08874af8_02",
+      "title": "V&A — 100 years of fashion photography",
+      "url": "https://www.vam.ac.uk/articles/100-years-of-fashion-photography",
+      "publisher": "V&A",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_authp1_7ea7ff5f08874af8_03",
+      "title": "The Met — The Costume Institute",
+      "url": "https://www.metmuseum.org/about-the-met/collection-areas/the-costume-institute",
+      "publisher": "The Met",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_authp1_7ea7ff5f08874af8_04",
+      "title": "Fashion Institute of Technology — Museum",
+      "url": "https://www.fitnyc.edu/museum/",
+      "publisher": "Fashion Institute of Technology",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_authp1_7ea7ff5f08874af8_thesis",
+      "wording_ru": "Соццани важна тем, что доказала: коммерческое модное издание способно вести содержательный общественный разговор, не переставая быть модным изданием.",
+      "wording_en": "Sozzani matters for proving that a commercial fashion publication can conduct a substantive public conversation without ceasing to be a fashion publication.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_authp1_7ea7ff5f08874af8_method",
+      "wording_ru": "Издание под её руководством отличалось от других версий тем же названием и другим содержанием. Это показало, что редакционная воля способна пересилить сетевой формат.",
+      "wording_en": "Under her direction the title differed from other editions by sharing a name and not a content. This showed that editorial will can override a networked format.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_authp1_7ea7ff5f08874af8_critique",
+      "wording_ru": "Она обозначила предел того, насколько далеко коммерческое модное издание может зайти в общественном разговоре. Последующие редакторы работают внутри границы, которую она прочертила.",
+      "wording_en": "She marked the limit of how far a commercial fashion title can go in public argument. Subsequent editors work inside the boundary she drew.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_authp1_7ea7ff5f08874af8_today",
+      "wording_ru": "Оценивайте не отдельный выпуск, а следующий за ним. Изменилась ли обычная практика кастинга после громкого номера — единственный проверяемый показатель влияния.",
+      "wording_en": "Assess not a single issue but the one after it. Whether routine casting practice changed following a landmark issue is the only verifiable measure of influence.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ]
+}

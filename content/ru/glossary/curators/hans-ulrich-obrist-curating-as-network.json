@@ -1,0 +1,37 @@
+{
+  "content_id": "cnt_authp1_ru_22e72c15b6cab208",
+  "primary_object_id": "obj_authp1_22e72c15b6cab208",
+  "content_type": "curator_profile",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_authp1_22e72c15b6cab208_thesis",
+    "clm_authp1_22e72c15b6cab208_method",
+    "clm_authp1_22e72c15b6cab208_critique",
+    "clm_authp1_22e72c15b6cab208_today"
+  ],
+  "source_ids": [
+    "src_authp1_22e72c15b6cab208_01",
+    "src_authp1_22e72c15b6cab208_02",
+    "src_authp1_22e72c15b6cab208_03",
+    "src_authp1_22e72c15b6cab208_04"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "hans-ulrich-obrist-curating-as-network",
+  "title": "Ханс Ульрих Обрист",
+  "summary": "Кураторство как непрерывное производство связей, разговоров и архива, а не как подготовка отдельной выставки.",
+  "discipline": [
+    "history-movements",
+    "media-publishing"
+  ],
+  "kind": "person",
+  "role": [
+    "curator"
+  ],
+  "body_hash": "c87149f42f35506fdec37a6ad68943fe78721f34f429c73173dc59d1f071ea78"
+}

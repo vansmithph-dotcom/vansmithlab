@@ -1,0 +1,79 @@
+{
+  "id": "obj_authp1_159aa6a1640904d9",
+  "category": "person",
+  "canonical_name": "Марк Ньюсон",
+  "canonical_name_en": "Marc Newson",
+  "title_ru": "Марк Ньюсон",
+  "slug_ru": "marc-newson-surface-without-a-seam",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "industrial-design",
+    "materials"
+  ],
+  "role": "industrial-designer",
+  "sources": [
+    {
+      "id": "src_authp1_159aa6a1640904d9_01",
+      "title": "Marc Newson — Official site",
+      "url": "https://marc-newson.com/marc-newson/",
+      "publisher": "Marc Newson",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_authp1_159aa6a1640904d9_02",
+      "title": "Design Museum — Collection",
+      "url": "https://designmuseum.org/about-the-museum/design-museum-collection",
+      "publisher": "Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_authp1_159aa6a1640904d9_03",
+      "title": "MoMA — Collection",
+      "url": "https://www.moma.org/collection/",
+      "publisher": "MoMA",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_authp1_159aa6a1640904d9_04",
+      "title": "Vitra Design Museum — Online Collection",
+      "url": "https://collection.design-museum.de/en/",
+      "publisher": "Vitra Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_authp1_159aa6a1640904d9_thesis",
+      "wording_ru": "Ньюсон важен тем, что довёл до предела требование бесшовности: его предметы читаются как отлитые целиком, и это требование определяет технологию, а не наоборот.",
+      "wording_en": "Newson matters for taking the demand for seamlessness to its limit: his objects read as cast whole, and that demand determines the technology rather than the reverse.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_authp1_159aa6a1640904d9_method",
+      "wording_ru": "Наиболее известный ранний предмет — шезлонг конца восьмидесятых, обшитый листами алюминия, подогнанными вручную заклёпками изнутри. Снаружи поверхность выглядит цельной.",
+      "wording_en": "His best-known early object is a chaise of the late 1980s clad in aluminium sheets fitted by hand with rivets from inside. Externally the surface appears continuous.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_authp1_159aa6a1640904d9_critique",
+      "wording_ru": "Он представляет линию, где промышленный вид является эстетической целью, а не производственным фактом. Это существенное смещение по сравнению с модернистской традицией честности изготовления.",
+      "wording_en": "He represents a line in which an industrial appearance is an aesthetic goal rather than a production fact. This is a substantial shift from the modernist tradition of honesty in making.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_authp1_159aa6a1640904d9_today",
+      "wording_ru": "Спрашивайте о способе изготовления, а не о виде. Предмет, выглядящий отштампованным, может быть сделан вручную, и это различие определяет его цену и статус целиком.",
+      "wording_en": "Ask about the making method rather than the appearance. An object that looks stamped may be made by hand, and that difference determines its price and status entirely.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ]
+}

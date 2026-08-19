@@ -1,0 +1,79 @@
+{
+  "id": "obj_authp1_cf18c0c5d33510ae",
+  "category": "person",
+  "canonical_name": "Диана Вриланд",
+  "canonical_name_en": "Diana Vreeland",
+  "title_ru": "Диана Вриланд",
+  "slug_ru": "diana-vreeland-editor-as-author-of-fantasy",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "media-publishing",
+    "fashion-systems"
+  ],
+  "role": "fashion-editor",
+  "sources": [
+    {
+      "id": "src_authp1_cf18c0c5d33510ae_01",
+      "title": "The Met — The Costume Institute",
+      "url": "https://www.metmuseum.org/about-the-met/collection-areas/the-costume-institute",
+      "publisher": "The Met",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_authp1_cf18c0c5d33510ae_02",
+      "title": "The Metropolitan Museum of Art — The Collection",
+      "url": "https://www.metmuseum.org/art/collection",
+      "publisher": "The Metropolitan Museum of Art",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_authp1_cf18c0c5d33510ae_03",
+      "title": "V&A — Fashion collections",
+      "url": "https://www.vam.ac.uk/collections/fashion",
+      "publisher": "V&A",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_authp1_cf18c0c5d33510ae_04",
+      "title": "Fashion Institute of Technology — Museum",
+      "url": "https://www.fitnyc.edu/museum/",
+      "publisher": "Fashion Institute of Technology",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_authp1_cf18c0c5d33510ae_thesis",
+      "wording_ru": "Вриланд важна как фигура, превратившая редакторскую должность в авторскую: журнал перестал документировать одежду и начал сочинять мир, в котором она возможна.",
+      "wording_en": "Vreeland matters as the figure who turned an editorial post into an authorial one: the magazine stopped documenting clothing and began inventing a world in which it is possible.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_authp1_cf18c0c5d33510ae_method",
+      "wording_ru": "До неё редакторская работа понималась как отбор и организация чужого материала. Она превратила её в производство собственного высказывания, где съёмка задаётся редакцией, а не поставляется ей.",
+      "wording_en": "Before her, editorial work was understood as selecting and organising other people’s material. She turned it into the production of a statement of her own, in which a shoot is set by the editor rather than supplied to them.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_authp1_cf18c0c5d33510ae_critique",
+      "wording_ru": "Она является исходной точкой линии, где журнал производит образ, а не отчёт. Все последующие фигуры этого круга работают внутри рамки, которую задала она.",
+      "wording_en": "She is the starting point of the line in which a magazine produces an image rather than a report. Every subsequent figure in this circle works inside the frame she set.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_authp1_cf18c0c5d33510ae_today",
+      "wording_ru": "Читайте её страницы как сочинение, а не как свидетельство. Вопрос не в том, носили ли так, а в том, какой мир предложен и кого он в себя не пускает.",
+      "wording_en": "Read her pages as fiction rather than as evidence. The question is not whether people dressed that way but what world is proposed and who it excludes.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ]
+}

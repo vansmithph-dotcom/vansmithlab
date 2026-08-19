@@ -1,0 +1,37 @@
+{
+  "content_id": "cnt_authp1_ru_566145bb1453124f",
+  "primary_object_id": "obj_authp1_566145bb1453124f",
+  "content_type": "fashion_editor_profile",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_authp1_566145bb1453124f_thesis",
+    "clm_authp1_566145bb1453124f_method",
+    "clm_authp1_566145bb1453124f_critique",
+    "clm_authp1_566145bb1453124f_today"
+  ],
+  "source_ids": [
+    "src_authp1_566145bb1453124f_01",
+    "src_authp1_566145bb1453124f_02",
+    "src_authp1_566145bb1453124f_03",
+    "src_authp1_566145bb1453124f_04"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "carine-roitfeld-styling-as-authorship",
+  "title": "Карин Ройтфельд",
+  "summary": "Стилист, превративший подбор и сборку образа в самостоятельную авторскую позицию с узнаваемым почерком.",
+  "discipline": [
+    "fashion-systems",
+    "image-grammar"
+  ],
+  "kind": "person",
+  "role": [
+    "fashion-editor"
+  ],
+  "body_hash": "f00b21e8422caf08e03f358dab26d46ce6757d6ed58920d03588b10a08a77f45"
+}

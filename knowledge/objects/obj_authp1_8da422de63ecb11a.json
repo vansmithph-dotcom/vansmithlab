@@ -1,0 +1,79 @@
+{
+  "id": "obj_authp1_8da422de63ecb11a",
+  "category": "person",
+  "canonical_name": "Джермано Челант",
+  "canonical_name_en": "Germano Celant",
+  "title_ru": "Джермано Челант",
+  "slug_ru": "germano-celant-naming-a-movement",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "history-movements",
+    "space-typologies"
+  ],
+  "role": "curator",
+  "sources": [
+    {
+      "id": "src_authp1_8da422de63ecb11a_01",
+      "title": "La Biennale di Venezia — Special Golden Lions",
+      "url": "https://www.labiennale.org/en/news/special-golden-lions-calvesi-celant-enwezor-and-gregotti",
+      "publisher": "La Biennale di Venezia",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_authp1_8da422de63ecb11a_02",
+      "title": "Fondazione Prada — History",
+      "url": "https://www.fondazioneprada.org/history-en/?lang=en",
+      "publisher": "Fondazione Prada",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_authp1_8da422de63ecb11a_03",
+      "title": "MoMA — Collection",
+      "url": "https://www.moma.org/collection/",
+      "publisher": "MoMA",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_authp1_8da422de63ecb11a_04",
+      "title": "Design Museum — Collection",
+      "url": "https://designmuseum.org/about-the-museum/design-museum-collection",
+      "publisher": "Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_authp1_8da422de63ecb11a_thesis",
+      "wording_ru": "Челант важен как случай, где акт называния оказался равносилен созданию: группа разрозненных практик стала движением в момент появления термина.",
+      "wording_en": "Celant matters as a case in which the act of naming proved equivalent to creation: a group of scattered practices became a movement at the moment a term appeared.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_authp1_8da422de63ecb11a_method",
+      "wording_ru": "В конце шестидесятых он ввёл термин для круга итальянских художников, работавших с простыми и необработанными материалами. Термин закрепился и определил восприятие этих работ.",
+      "wording_en": "In the late 1960s he introduced a term for a circle of Italian artists working with simple and unprocessed materials. The term took hold and determined how the work was received.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_authp1_8da422de63ecb11a_critique",
+      "wording_ru": "Его случай удобен для разговора о том, как производится история искусства: не обнаружением, а называнием, отбором и повторением.",
+      "wording_en": "His case is useful for discussing how art history is produced: not by discovery but by naming, selection, and repetition.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_authp1_8da422de63ecb11a_today",
+      "wording_ru": "Спрашивайте, кто дал явлению имя и что осталось за границей термина. Ответ обычно объясняет структуру истории лучше, чем перечень участников.",
+      "wording_en": "Ask who gave a phenomenon its name and what remained outside the term. The answer usually explains the structure of a history better than a list of participants.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ]
+}

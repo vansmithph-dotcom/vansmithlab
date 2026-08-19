@@ -1,0 +1,79 @@
+{
+  "id": "obj_authp1_566145bb1453124f",
+  "category": "person",
+  "canonical_name": "Карин Ройтфельд",
+  "canonical_name_en": "Carine Roitfeld",
+  "title_ru": "Карин Ройтфельд",
+  "slug_ru": "carine-roitfeld-styling-as-authorship",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "fashion-systems",
+    "image-grammar"
+  ],
+  "role": "fashion-editor",
+  "sources": [
+    {
+      "id": "src_authp1_566145bb1453124f_01",
+      "title": "CR Fashion Book — About",
+      "url": "https://crfashionbook.com/about/",
+      "publisher": "CR Fashion Book",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_authp1_566145bb1453124f_02",
+      "title": "V&A — 100 years of fashion photography",
+      "url": "https://www.vam.ac.uk/articles/100-years-of-fashion-photography",
+      "publisher": "V&A",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_authp1_566145bb1453124f_03",
+      "title": "V&A — Fashion collections",
+      "url": "https://www.vam.ac.uk/collections/fashion",
+      "publisher": "V&A",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_authp1_566145bb1453124f_04",
+      "title": "Fashion Institute of Technology — Museum",
+      "url": "https://www.fitnyc.edu/museum/",
+      "publisher": "Fashion Institute of Technology",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_authp1_566145bb1453124f_thesis",
+      "wording_ru": "Ройтфельд важна как фигура, доказавшая, что стилист является автором изображения наравне с фотографом: сборка образа несёт высказывание, а не обслуживает его.",
+      "wording_en": "Roitfeld matters as the figure who proved a stylist is an author of an image on equal terms with a photographer: assembling a look carries a statement rather than serving one.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_authp1_566145bb1453124f_method",
+      "wording_ru": "Подбор одежды, сочетание марок, порядок слоёв и отношение к телу составляют отдельную профессиональную область. До определённого момента она считалась технической и не предполагала авторства.",
+      "wording_en": "Choosing clothing, combining brands, layering, and the relation to the body constitute a distinct professional field. Until a certain point it was regarded as technical and did not imply authorship.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_authp1_566145bb1453124f_critique",
+      "wording_ru": "Материал стыкуется со статьями о модной фотографии, об арт-дирекшене, об обложке и о журнале как производственной системе.",
+      "wording_en": "The material connects to the entries on fashion photography, art direction, the cover, and the magazine as a production system.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_authp1_566145bb1453124f_today",
+      "wording_ru": "Спрашивайте, кто выбрал одежду и кто выбрал модель. Ответ определяет авторство изображения точнее, чем подпись под ним.",
+      "wording_en": "Ask who chose the clothing and who chose the model. The answer determines authorship of an image more precisely than its caption.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ]
+}

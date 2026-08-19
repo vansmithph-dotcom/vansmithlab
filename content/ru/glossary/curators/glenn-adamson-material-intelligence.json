@@ -1,0 +1,37 @@
+{
+  "content_id": "cnt_authp1_ru_1466581cc3fb726f",
+  "primary_object_id": "obj_authp1_1466581cc3fb726f",
+  "content_type": "curator_profile",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_authp1_1466581cc3fb726f_thesis",
+    "clm_authp1_1466581cc3fb726f_method",
+    "clm_authp1_1466581cc3fb726f_critique",
+    "clm_authp1_1466581cc3fb726f_today"
+  ],
+  "source_ids": [
+    "src_authp1_1466581cc3fb726f_01",
+    "src_authp1_1466581cc3fb726f_02",
+    "src_authp1_1466581cc3fb726f_03",
+    "src_authp1_1466581cc3fb726f_04"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "glenn-adamson-material-intelligence",
+  "title": "Гленн Адамсон",
+  "summary": "Ремесло как форма знания, а не как категория предметов ручной работы.",
+  "discipline": [
+    "history-movements",
+    "materials"
+  ],
+  "kind": "person",
+  "role": [
+    "curator"
+  ],
+  "body_hash": "438168d810938dd56feda5013f49c22b4536ff574c1f68d187da403bff132921"
+}

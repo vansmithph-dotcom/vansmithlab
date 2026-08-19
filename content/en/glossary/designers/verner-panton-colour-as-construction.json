@@ -1,0 +1,37 @@
+{
+  "content_id": "cnt_authp1_en_459067898fe0176f",
+  "primary_object_id": "obj_authp1_459067898fe0176f",
+  "content_type": "designer_profile",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_authp1_459067898fe0176f_thesis",
+    "clm_authp1_459067898fe0176f_method",
+    "clm_authp1_459067898fe0176f_critique",
+    "clm_authp1_459067898fe0176f_today"
+  ],
+  "source_ids": [
+    "src_authp1_459067898fe0176f_01",
+    "src_authp1_459067898fe0176f_02",
+    "src_authp1_459067898fe0176f_03",
+    "src_authp1_459067898fe0176f_04"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "verner-panton-colour-as-construction",
+  "title": "Verner Panton",
+  "summary": "Colour and synthetic material as the load-bearing structure of an entire environment rather than an object’s finish.",
+  "discipline": [
+    "industrial-design",
+    "materials"
+  ],
+  "kind": "person",
+  "role": [
+    "designer"
+  ],
+  "body_hash": "442d6e2779fd30950bcd5b482a2dce535ad318f3bf395053eaf69e3b312ca878"
+}

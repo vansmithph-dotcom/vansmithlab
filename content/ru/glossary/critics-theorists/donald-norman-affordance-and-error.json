@@ -1,0 +1,37 @@
+{
+  "content_id": "cnt_authp1_ru_b68d35b7c9f66f3b",
+  "primary_object_id": "obj_authp1_b68d35b7c9f66f3b",
+  "content_type": "critic_theorist_profile",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_authp1_b68d35b7c9f66f3b_thesis",
+    "clm_authp1_b68d35b7c9f66f3b_method",
+    "clm_authp1_b68d35b7c9f66f3b_critique",
+    "clm_authp1_b68d35b7c9f66f3b_today"
+  ],
+  "source_ids": [
+    "src_authp1_b68d35b7c9f66f3b_01",
+    "src_authp1_b68d35b7c9f66f3b_02",
+    "src_authp1_b68d35b7c9f66f3b_03",
+    "src_authp1_b68d35b7c9f66f3b_04"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "donald-norman-affordance-and-error",
+  "title": "Дональд Норман",
+  "summary": "Ошибка пользователя как дефект проекта, а не как свойство пользователя.",
+  "discipline": [
+    "technology",
+    "industrial-design"
+  ],
+  "kind": "person",
+  "role": [
+    "critic-theorist"
+  ],
+  "body_hash": "4a3a7618dff5ba4f8d1744b02831718502ab7583a988477f85242741835199db"
+}

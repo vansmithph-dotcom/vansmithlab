@@ -1,0 +1,79 @@
+{
+  "id": "obj_authp1_67541b594a269deb",
+  "category": "person",
+  "canonical_name": "Элис Роусторн",
+  "canonical_name_en": "Alice Rawsthorn",
+  "title_ru": "Элис Роусторн",
+  "slug_ru": "alice-rawsthorn-design-criticism-in-public",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "history-movements",
+    "media-publishing"
+  ],
+  "role": "critic-theorist",
+  "sources": [
+    {
+      "id": "src_authp1_67541b594a269deb_01",
+      "title": "Alice Rawsthorn — Official site",
+      "url": "https://www.alicerawsthorn.com/",
+      "publisher": "Alice Rawsthorn",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_authp1_67541b594a269deb_02",
+      "title": "Design Museum — Collection",
+      "url": "https://designmuseum.org/about-the-museum/design-museum-collection",
+      "publisher": "Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_authp1_67541b594a269deb_03",
+      "title": "MoMA — Architecture and Design Department",
+      "url": "https://www.moma.org/about/curatorial-departments/architecture-design",
+      "publisher": "MoMA",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_authp1_67541b594a269deb_04",
+      "title": "World Design Organization — Definition of industrial design",
+      "url": "https://wdo.org/about/definition/",
+      "publisher": "World Design Organization",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_authp1_67541b594a269deb_thesis",
+      "wording_ru": "Роусторн важна тем, что вывела дизайн-критику из профессионального круга в публичный и настояла на определении дизайна через намерение изменить, а не через внешний вид.",
+      "wording_en": "Rawsthorn matters for taking design criticism out of a professional circle into public and insisting on a definition of design through the intention to change rather than through appearance.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_authp1_67541b594a269deb_method",
+      "wording_ru": "Она определяет дизайн через намерение произвести изменение, а не через категорию предмета. Такое определение включает то, что обычно остаётся за рамками: протокол, услугу, знак.",
+      "wording_en": "She defines design through the intention to produce change rather than through a category of object. Such a definition includes what usually falls outside: a protocol, a service, a sign.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_authp1_67541b594a269deb_critique",
+      "wording_ru": "Материал стыкуется со статьями об устойчивости, о музее и каноне, о дизайн-системах и об ответственности проектировщика.",
+      "wording_en": "The material connects to the entries on sustainability, the museum and canon, design systems, and designer responsibility.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_authp1_67541b594a269deb_today",
+      "wording_ru": "Спрашивайте, что именно изменилось и для кого. Определение через намерение требует проверки результата, иначе оно остаётся риторикой.",
+      "wording_en": "Ask what exactly changed and for whom. A definition through intention requires verification of outcome, or it remains rhetoric.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ]
+}

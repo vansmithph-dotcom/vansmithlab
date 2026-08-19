@@ -1,0 +1,37 @@
+{
+  "content_id": "cnt_authp1_ru_82b193043d7b1b79",
+  "primary_object_id": "obj_authp1_82b193043d7b1b79",
+  "content_type": "critic_theorist_profile",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_authp1_82b193043d7b1b79_thesis",
+    "clm_authp1_82b193043d7b1b79_method",
+    "clm_authp1_82b193043d7b1b79_critique",
+    "clm_authp1_82b193043d7b1b79_today"
+  ],
+  "source_ids": [
+    "src_authp1_82b193043d7b1b79_01",
+    "src_authp1_82b193043d7b1b79_02",
+    "src_authp1_82b193043d7b1b79_03",
+    "src_authp1_82b193043d7b1b79_04"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "marshall-mcluhan-medium-as-environment",
+  "title": "Маршалл Маклюэн",
+  "summary": "Носитель сообщения меняет восприятие сильнее, чем само сообщение.",
+  "discipline": [
+    "media-publishing",
+    "image-grammar"
+  ],
+  "kind": "person",
+  "role": [
+    "critic-theorist"
+  ],
+  "body_hash": "2451e3e16dd8d0eef92fcc383dc41ab76f4ab5952e08bac80aa06b1fb1f45044"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "obj_authp1_27f377c318456be6",
+  "category": "person",
+  "canonical_name": "Кэти Гранд",
+  "canonical_name_en": "Katie Grand",
+  "title_ru": "Кэти Гранд",
+  "slug_ru": "katie-grand-independent-fashion-publishing",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "media-publishing",
+    "fashion-systems"
+  ],
+  "role": "fashion-editor",
+  "sources": [
+    {
+      "id": "src_authp1_27f377c318456be6_01",
+      "title": "The Perfect Magazine — About",
+      "url": "https://www.theperfectmagazine.com/about",
+      "publisher": "The Perfect Magazine",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_authp1_27f377c318456be6_02",
+      "title": "V&A — 100 years of fashion photography",
+      "url": "https://www.vam.ac.uk/articles/100-years-of-fashion-photography",
+      "publisher": "V&A",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_authp1_27f377c318456be6_03",
+      "title": "V&A — Fashion collections",
+      "url": "https://www.vam.ac.uk/collections/fashion",
+      "publisher": "V&A",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_authp1_27f377c318456be6_04",
+      "title": "Fashion Institute of Technology — Museum",
+      "url": "https://www.fitnyc.edu/museum/",
+      "publisher": "Fashion Institute of Technology",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_authp1_27f377c318456be6_thesis",
+      "wording_ru": "Гранд важна как фигура независимого издательства: её случай показывает, что малое издание способно задавать повестку, которую потом воспроизводят крупные.",
+      "wording_en": "Grand matters as a figure of independent publishing: her case shows that a small title can set an agenda that larger ones subsequently reproduce.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_authp1_27f377c318456be6_method",
+      "wording_ru": "Её работа вписана в лондонскую традицию журналов, возникавших вокруг небольшой профессиональной среды. Эти издания задавали язык, который затем перенимали международные.",
+      "wording_en": "Her work sits within a London tradition of magazines formed around a small professional milieu. These titles set a language that international ones then adopted.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_authp1_27f377c318456be6_critique",
+      "wording_ru": "Её случай документирует период, когда малое печатное издание ещё имело структурное преимущество перед крупным. Этот период закончился, и его стоит читать как завершённый.",
+      "wording_en": "Her case documents a period when a small print title still held a structural advantage over a large one. That period has ended and is best read as closed.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_authp1_27f377c318456be6_today",
+      "wording_ru": "Сравнивайте малое издание не с крупным журналом, а с сетевым каналом. Именно там сегодня находится его настоящий конкурент, и по этому сравнению видно, что у печати осталось.",
+      "wording_en": "Compare a small title not with a large magazine but with an online channel. That is where its real competitor now sits, and the comparison shows what print has left.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ]
+}

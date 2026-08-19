@@ -1,0 +1,37 @@
+{
+  "content_id": "cnt_authp1_en_27f377c318456be6",
+  "primary_object_id": "obj_authp1_27f377c318456be6",
+  "content_type": "fashion_editor_profile",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_authp1_27f377c318456be6_thesis",
+    "clm_authp1_27f377c318456be6_method",
+    "clm_authp1_27f377c318456be6_critique",
+    "clm_authp1_27f377c318456be6_today"
+  ],
+  "source_ids": [
+    "src_authp1_27f377c318456be6_01",
+    "src_authp1_27f377c318456be6_02",
+    "src_authp1_27f377c318456be6_03",
+    "src_authp1_27f377c318456be6_04"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "katie-grand-independent-fashion-publishing",
+  "title": "Katie Grand",
+  "summary": "The independent fashion title as a way of working faster and more freely than a large editorial network.",
+  "discipline": [
+    "media-publishing",
+    "fashion-systems"
+  ],
+  "kind": "person",
+  "role": [
+    "fashion-editor"
+  ],
+  "body_hash": "0df19bd9dfe6109f8e1f051debe0231c7a8f56f3a23d145dbee6aa94283a1d90"
+}

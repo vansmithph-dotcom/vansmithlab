@@ -1,0 +1,37 @@
+{
+  "content_id": "cnt_authp1_en_d6673e06d8507e32",
+  "primary_object_id": "obj_authp1_d6673e06d8507e32",
+  "content_type": "critic_theorist_profile",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_authp1_d6673e06d8507e32_thesis",
+    "clm_authp1_d6673e06d8507e32_method",
+    "clm_authp1_d6673e06d8507e32_critique",
+    "clm_authp1_d6673e06d8507e32_today"
+  ],
+  "source_ids": [
+    "src_authp1_d6673e06d8507e32_01",
+    "src_authp1_d6673e06d8507e32_02",
+    "src_authp1_d6673e06d8507e32_03",
+    "src_authp1_d6673e06d8507e32_04"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "victor-papanek-design-as-responsibility",
+  "title": "Victor Papanek",
+  "summary": "The demand that the consequences of a design decision be counted as part of the decision itself.",
+  "discipline": [
+    "history-movements",
+    "industrial-design"
+  ],
+  "kind": "person",
+  "role": [
+    "critic-theorist"
+  ],
+  "body_hash": "cd7a35b9be566ba14388573e210e28346b9906f684921af6139778e3ef4af72a"
+}

@@ -1,0 +1,37 @@
+{
+  "content_id": "cnt_authp1_en_82b193043d7b1b79",
+  "primary_object_id": "obj_authp1_82b193043d7b1b79",
+  "content_type": "critic_theorist_profile",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_authp1_82b193043d7b1b79_thesis",
+    "clm_authp1_82b193043d7b1b79_method",
+    "clm_authp1_82b193043d7b1b79_critique",
+    "clm_authp1_82b193043d7b1b79_today"
+  ],
+  "source_ids": [
+    "src_authp1_82b193043d7b1b79_01",
+    "src_authp1_82b193043d7b1b79_02",
+    "src_authp1_82b193043d7b1b79_03",
+    "src_authp1_82b193043d7b1b79_04"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "marshall-mcluhan-medium-as-environment",
+  "title": "Marshall McLuhan",
+  "summary": "The carrier of a message changes perception more than the message does.",
+  "discipline": [
+    "media-publishing",
+    "image-grammar"
+  ],
+  "kind": "person",
+  "role": [
+    "critic-theorist"
+  ],
+  "body_hash": "9547bf2a3778ab78caaa002aab564cd25440504332a2ce23f205665a91a8f538"
+}

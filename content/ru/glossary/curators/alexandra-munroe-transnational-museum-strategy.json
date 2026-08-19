@@ -1,0 +1,37 @@
+{
+  "content_id": "cnt_authp1_ru_baa73bb8fccb4ed1",
+  "primary_object_id": "obj_authp1_baa73bb8fccb4ed1",
+  "content_type": "curator_profile",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_authp1_baa73bb8fccb4ed1_thesis",
+    "clm_authp1_baa73bb8fccb4ed1_method",
+    "clm_authp1_baa73bb8fccb4ed1_critique",
+    "clm_authp1_baa73bb8fccb4ed1_today"
+  ],
+  "source_ids": [
+    "src_authp1_baa73bb8fccb4ed1_01",
+    "src_authp1_baa73bb8fccb4ed1_02",
+    "src_authp1_baa73bb8fccb4ed1_03",
+    "src_authp1_baa73bb8fccb4ed1_04"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "alexandra-munroe-transnational-museum-strategy",
+  "title": "Александра Монро",
+  "summary": "Кураторская работа, переписывающая историю искусства через включение того, что канон оставил вне себя.",
+  "discipline": [
+    "history-movements",
+    "space-typologies"
+  ],
+  "kind": "person",
+  "role": [
+    "curator"
+  ],
+  "body_hash": "3fdf14f90aeebc2df6f25bad72ba068773557e79a9806e2a4fbf21af41fb3dfe"
+}

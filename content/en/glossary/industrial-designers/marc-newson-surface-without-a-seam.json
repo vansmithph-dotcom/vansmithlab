@@ -1,0 +1,37 @@
+{
+  "content_id": "cnt_authp1_en_159aa6a1640904d9",
+  "primary_object_id": "obj_authp1_159aa6a1640904d9",
+  "content_type": "industrial_designer_profile",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_authp1_159aa6a1640904d9_thesis",
+    "clm_authp1_159aa6a1640904d9_method",
+    "clm_authp1_159aa6a1640904d9_critique",
+    "clm_authp1_159aa6a1640904d9_today"
+  ],
+  "source_ids": [
+    "src_authp1_159aa6a1640904d9_01",
+    "src_authp1_159aa6a1640904d9_02",
+    "src_authp1_159aa6a1640904d9_03",
+    "src_authp1_159aa6a1640904d9_04"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "marc-newson-surface-without-a-seam",
+  "title": "Marc Newson",
+  "summary": "A continuous surface without visible joints, at once a form and a manufacturing requirement.",
+  "discipline": [
+    "industrial-design",
+    "materials"
+  ],
+  "kind": "person",
+  "role": [
+    "industrial-designer"
+  ],
+  "body_hash": "b5c2fb4e6f404ae661c10d64a730041f1f1cf6e4b946f3dbc79c4af57a20b989"
+}

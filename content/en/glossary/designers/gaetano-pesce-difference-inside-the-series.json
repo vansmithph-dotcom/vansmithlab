@@ -1,0 +1,37 @@
+{
+  "content_id": "cnt_authp1_en_d36ae52a6b61556d",
+  "primary_object_id": "obj_authp1_d36ae52a6b61556d",
+  "content_type": "designer_profile",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_authp1_d36ae52a6b61556d_thesis",
+    "clm_authp1_d36ae52a6b61556d_method",
+    "clm_authp1_d36ae52a6b61556d_critique",
+    "clm_authp1_d36ae52a6b61556d_today"
+  ],
+  "source_ids": [
+    "src_authp1_d36ae52a6b61556d_01",
+    "src_authp1_d36ae52a6b61556d_02",
+    "src_authp1_d36ae52a6b61556d_03",
+    "src_authp1_d36ae52a6b61556d_04"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "gaetano-pesce-difference-inside-the-series",
+  "title": "Gaetano Pesce",
+  "summary": "Industrial production tuned so that every example in a series differs from the next.",
+  "discipline": [
+    "industrial-design",
+    "materials"
+  ],
+  "kind": "person",
+  "role": [
+    "designer"
+  ],
+  "body_hash": "3654c2209cc876c5545ab9d49ccdd8ff1cc2e471e3141fceaab6690b567574a1"
+}
