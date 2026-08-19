@@ -81,6 +81,16 @@
       "wording_ru": "Сегодня тему следует читать как цепочку: исходник → корректировка → маска → версия → проверка → эталонный файл. Финальное изображение — видимая поверхность большого производственного процесса.",
       "confidence_score": 0.72,
       "verification_state": "attributed"
+    },
+    {
+      "id": "clm_retouching-from-negative-to-_1990",
+      "wording_ru": "Adobe Photoshop 1.0 выходит в 1990 году, переводя ретушь из ремесленного в цифровой процесс.",
+      "wording_en": "Adobe Photoshop 1.0 is released in 1990, moving retouching from a craft into a digital process.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed",
+      "date_start": "1990",
+      "date_end": null,
+      "date_precision": "year"
     }
   ],
   "citations": [
@@ -115,5 +125,7 @@
       "locator": "Official documentation and institutional sources"
     }
   ],
-  "last_updated": "2026-08-19"
+  "last_updated": "2026-08-19",
+  "title_ru": "Ретушь — от негатива к цифровому изображению",
+  "slug_ru": "retouching-from-negative-to-digital-image"
 }

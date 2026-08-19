@@ -88,6 +88,16 @@
       "confidence_score": 0.72,
       "verification_state": "attributed",
       "date_start": "2026-01-01"
+    },
+    {
+      "id": "clm_department-store-city-inside_1852",
+      "wording_ru": "Аристид Бусико открывает Bon Marché в Париже (1852) — первый современный универмаг с фиксированными ценами и демонстрацией товара в открытых пространствах.",
+      "wording_en": "Aristide Boucicaut opens Bon Marché in Paris (1852) — the first modern department store with fixed prices and merchandise in open spaces.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed",
+      "date_start": "1852",
+      "date_end": null,
+      "date_precision": "year"
     }
   ],
   "citations": [
@@ -127,5 +137,7 @@
       "locator": "Historical reference"
     }
   ],
-  "last_updated": "2026-08-19"
+  "last_updated": "2026-08-19",
+  "title_ru": "Универмаг — город внутри здания",
+  "slug_ru": "department-store-city-inside-building"
 }

@@ -81,6 +81,26 @@
       "wording_ru": "Сегодня тему полезно читать не как набор терминов, а как цепочку решений: Дом моды → ателье → ремесло → материал → показ → фотография → журнал. В этой цепочке видимый образ — лишь последний слой большой производственной конструкции.",
       "confidence_score": 0.72,
       "verification_state": "attributed"
+    },
+    {
+      "id": "clm_haute-couture-production-sys_1858",
+      "wording_ru": "Чарльз Фредерик Ворт открывает первый модный дом на улице де ла Пэ в Париже, закладывая модель именного дома с сезонными коллекциями.",
+      "wording_en": "Charles Frederick Worth opens the first fashion house on rue de la Paix in Paris, establishing the model of a named house with seasonal collections.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed",
+      "date_start": "1858",
+      "date_end": null,
+      "date_precision": "year"
+    },
+    {
+      "id": "clm_haute-couture-production-sys_1945",
+      "wording_ru": "Постановление от 23 января 1945 года устанавливает Haute Couture как специально регулируемое обозначение во Франции.",
+      "wording_en": "The decision of 23 January 1945 establishes Haute Couture as a specially regulated designation in France.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed",
+      "date_start": "1945",
+      "date_end": null,
+      "date_precision": "year"
     }
   ],
   "citations": [
@@ -115,5 +135,7 @@
       "locator": "Official documentation and institutional sources"
     }
   ],
-  "last_updated": "2026-08-19"
+  "last_updated": "2026-08-19",
+  "title_ru": "Высокая мода — производственная система haute couture",
+  "slug_ru": "haute-couture-production-system-of-high-fashion"
 }

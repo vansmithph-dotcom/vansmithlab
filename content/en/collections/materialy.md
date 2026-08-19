@@ -1,10 +1,10 @@
 # Materials
 
-*Physical properties, visual characteristics and the cultural codes of matter*
+*Physical properties, visual characteristics and cultural codes of matter*
 
 ## About the collection
 
-A material is not a background or a neutral medium. Stone, metal, wood, textile, glass — every material carries a history of technology, a cultural code and a visual logic. This collection covers the material research entries available in the VANSMITHLAB knowledge base.
+Material is not a background or a neutral medium. Stone, metal, wood, textile, glass: every material carries the history of technology, a cultural code and a visual logic. This collection covers archival material studies available in the VANSMITHLAB knowledge base.
 
 ## Stone and concrete
 
@@ -12,7 +12,7 @@ A material is not a background or a neutral medium. Stone, metal, wood, textile,
 - [Limestone](/en/encyclopedia/limestone-soft-mass-porous-architecture) — soft mass, porosity, architecture.
 - [Marble](/en/encyclopedia/marble-origin-types-finishes-visual-language) — origin, types, finishes, visual language.
 - [Travertine](/en/encyclopedia/travertine-origin-properties-applications) — origin, properties, applications.
-- [Concrete](/en/encyclopedia/concrete-architectural-visual-material) — an architectural and visual material.
+- [Concrete](/en/encyclopedia/concrete-architectural-visual-material) — architectural and visual material.
 - [Terrazzo](/en/encyclopedia/terrazzo-fragment-binder-seamless-surface) — fragment, binder, seamless surface.
 
 ## Metal
@@ -39,16 +39,27 @@ A material is not a background or a neutral medium. Stone, metal, wood, textile,
 - [Polyester](/en/encyclopedia/polyester-fibre-film-mass-clothing-surface) — fibre, film, mass clothing, surface.
 - [Nylon](/en/encyclopedia/nylon-industrial-material-to-luxury) — from industrial material to luxury.
 - [Silk](/en/encyclopedia/silk-properties-types-applications) — properties, types, applications.
+- [Leather](/en/encyclopedia/leather-tanning-luxury-production) — tanning, luxury, production.
+- [Tweed](/en/encyclopedia/tweed-chanel) — woollen cloth, Chanel, space and movement.
+- [Jacquard](/en/encyclopedia/jacquard) — pattern, programme, mechanism.
+- [Knitwear](/en/encyclopedia/knitwear-form-created-by-loop) — form created by the loop.
+- [Knitting](/en/encyclopedia/knitting-producing-surface-and-form-together) — producing surface and form at the same time.
+- [Lining](/en/encyclopedia/lining-invisible-architecture-of-clothing) — the invisible architecture of clothing.
 - [Architectural Textiles](/en/encyclopedia/architectural-textiles-membranes-light-space) — membranes, light, space.
+
+## Technical clothing components
+
+- [The Zipper](/en/encyclopedia/zipper-technology-that-changed-clothing) — the technology that changed clothing.
+- [The Button](/en/encyclopedia/button-function-sign-and-industrial-object) — function, sign and industrial object.
 
 ## Composites and technical materials
 
 - [Carbon Fibre](/en/encyclopedia/carbon-fiber-lightness-strength-technical-luxury) — lightness, strength, technical luxury.
-- [Fiberglass](/en/encyclopedia/fiberglass-composite-shell-lightness-industrial-form) — composite, shell, lightness, industrial form.
+- [Fibreglass](/en/encyclopedia/fiberglass-composite-shell-lightness-industrial-form) — composite, shell, lightness, industrial form.
 
 ## Surface and patina
 
-- [Patina](/en/encyclopedia/patina-controlled-ageing-material) — controlled ageing of material.
+- [Patina](/en/encyclopedia/patina-controlled-ageing-material) — the controlled ageing of material.
 - [Charred Wood](/en/encyclopedia/charred-wood-yakisugi-protection-black-texture) — protection, black texture, yakisugi.
 
 ## Porcelain and ceramics
@@ -60,5 +71,5 @@ A material is not a background or a neutral medium. Stone, metal, wood, textile,
 
 - [Material ConneXion](/en/articles/material-connexion) — an international library of innovative materials.
 - [Materiom](/en/articles/materiom) — an open database of biomaterial recipes.
-- [Formafantasma](/en/articles/formafantasma) — a studio that investigates the origin and life cycle of materials.
-- [The New Raw](/en/articles/the-new-raw) — a studio working with recycled polymers and digital fabrication.
+- [Formafantasma](/en/articles/formafantasma) — a studio researching the origin and lifecycle of materials.
+- [The New Raw](/en/articles/the-new-raw) — a studio working with recycled polymers and digital production.

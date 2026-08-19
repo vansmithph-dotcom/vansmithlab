@@ -39,7 +39,18 @@
 - [Полиэстер](/ru/encyclopedia/polyester-fibre-film-mass-clothing-surface) — волокно, плёнка, массовая одежда, поверхность.
 - [Нейлон](/ru/encyclopedia/nylon-industrial-material-to-luxury) — от промышленного материала к роскоши.
 - [Шёлк](/ru/encyclopedia/silk-properties-types-applications) — свойства, типы, применение.
+- [Кожа](/ru/encyclopedia/leather-tanning-luxury-production) — дубление, роскошь, производство.
+- [Твид](/ru/encyclopedia/tweed-chanel) — шерстяная ткань, Шанель, пространство и движение.
+- [Жаккард](/ru/encyclopedia/jacquard) — узор, программа, механизм.
+- [Трикотаж](/ru/encyclopedia/knitwear-form-created-by-loop) — форма, которую создаёт петля.
+- [Вязание](/ru/encyclopedia/knitting-producing-surface-and-form-together) — производство поверхности одновременно с формой.
+- [Подкладка](/ru/encyclopedia/lining-invisible-architecture-of-clothing) — невидимая архитектура одежды.
 - [Архитектурный текстиль](/ru/encyclopedia/architectural-textiles-membranes-light-space) — мембраны, свет, пространство.
+
+## Технические компоненты одежды
+
+- [Застёжка-молния](/ru/encyclopedia/zipper-technology-that-changed-clothing) — технология, изменившая одежду.
+- [Пуговица](/ru/encyclopedia/button-function-sign-and-industrial-object) — функция, знак и промышленный объект.
 
 ## Композиты и технические материалы
 

@@ -81,6 +81,26 @@
       "wording_ru": "Сегодня тему полезно читать не как набор терминов, а как цепочку решений: коллекция → модель → пространство → свет/звук → камера → медиа → рынок. В этой цепочке видимый образ — лишь последний слой большой производственной конструкции.",
       "confidence_score": 0.72,
       "verification_state": "attributed"
+    },
+    {
+      "id": "clm_fashion-show-from-collection_1858",
+      "wording_ru": "Чарльз Фредерик Ворт первым демонстрирует одежду на живых манекенщицах, устанавливая формат показа как презентации коллекции.",
+      "wording_en": "Charles Frederick Worth first presents clothes on living mannequins, establishing the show format as a collection presentation.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed",
+      "date_start": "1858",
+      "date_end": null,
+      "date_precision": "year"
+    },
+    {
+      "id": "clm_fashion-show-from-collection_1973",
+      "wording_ru": "Battle of Versailles (1973): совместный показ американских и французских дизайнеров в Версале — переломное событие для международного признания прет-а-порте.",
+      "wording_en": "Battle of Versailles (1973): a joint show of American and French designers at Versailles — a turning point for international recognition of prêt-à-porter.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed",
+      "date_start": "1973",
+      "date_end": null,
+      "date_precision": "year"
     }
   ],
   "citations": [
@@ -115,5 +135,7 @@
       "locator": "Official documentation and institutional sources"
     }
   ],
-  "last_updated": "2026-08-19"
+  "last_updated": "2026-08-19",
+  "title_ru": "Модный показ — от презентации коллекции к медиасобытию",
+  "slug_ru": "fashion-show-from-collection-presentation-to-media-event"
 }

@@ -95,6 +95,16 @@
       "confidence_score": 0.72,
       "verification_state": "attributed",
       "date_start": "1967-01-01"
+    },
+    {
+      "id": "clm_panton-chair_1967",
+      "wording_ru": "Verner Panton и Herman Miller/Vitra представляют первый в мире монолитный стул из пластика в 1967 году.",
+      "wording_en": "Verner Panton and Herman Miller/Vitra present the world's first single-piece plastic chair in 1967.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed",
+      "date_start": "1967",
+      "date_end": null,
+      "date_precision": "year"
     }
   ],
   "citations": [
@@ -139,5 +149,7 @@
       "locator": "Historical timeline reference"
     }
   ],
-  "last_updated": "2026-08-18"
+  "last_updated": "2026-08-18",
+  "title_ru": "Panton Chair",
+  "slug_ru": "panton-chair"
 }

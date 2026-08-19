@@ -81,6 +81,16 @@
       "wording_ru": "Сегодня тему следует читать как цепочку: список титров → иерархия → типографика → движение → звук → вход в произведение. Финальное изображение — видимая поверхность большого производственного процесса.",
       "confidence_score": 0.72,
       "verification_state": "attributed"
+    },
+    {
+      "id": "clm_title-sequences-typography-i_1955",
+      "wording_ru": "Сол Басс создаёт титры к фильму «Человек с золотой рукой» (1955) — первая титровая последовательность как произведение графического дизайна в движении.",
+      "wording_en": "Saul Bass designs the title sequence for \"The Man with the Golden Arm\" (1955) — the first title sequence recognised as a work of graphic design in motion.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed",
+      "date_start": "1955",
+      "date_end": null,
+      "date_precision": "year"
     }
   ],
   "citations": [
@@ -115,5 +125,7 @@
       "locator": "Official documentation and institutional sources"
     }
   ],
-  "last_updated": "2026-08-19"
+  "last_updated": "2026-08-19",
+  "title_ru": "Титры — типографика во времени",
+  "slug_ru": "title-sequences-typography-in-time"
 }

@@ -81,6 +81,16 @@
       "wording_ru": "Сегодня тему следует читать как цепочку: одежда → тело → команда → кадр → постобработка → публикация → культурный код. Финальное изображение — видимая поверхность большого производственного процесса.",
       "confidence_score": 0.72,
       "verification_state": "attributed"
+    },
+    {
+      "id": "clm_fashion-photography-as-produ_1936",
+      "wording_ru": "Мартин Мункачи публикует в Harper's Bazaar первую outdoor fashion-фотографию с движением — разрыв с традицией студийного портрета.",
+      "wording_en": "Martin Munkácsi publishes the first outdoor fashion photograph with movement in Harper's Bazaar — a break from the studio portrait tradition.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed",
+      "date_start": "1936",
+      "date_end": null,
+      "date_precision": "year"
     }
   ],
   "citations": [
@@ -115,5 +125,7 @@
       "locator": "Official documentation and institutional sources"
     }
   ],
-  "last_updated": "2026-08-19"
+  "last_updated": "2026-08-19",
+  "title_ru": "Модная фотография — не жанр, а производственная система",
+  "slug_ru": "fashion-photography-as-production-system"
 }

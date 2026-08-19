@@ -88,6 +88,16 @@
       "confidence_score": 0.72,
       "verification_state": "attributed",
       "date_start": "2026-01-01"
+    },
+    {
+      "id": "clm_museum-route-display-managem_1793",
+      "wording_ru": "Лувр открывается для публики в 1793 году как первый государственный музей с постоянной экспозицией, установив модель маршрута и публичного доступа.",
+      "wording_en": "The Louvre opens to the public in 1793 as the first state museum with a permanent collection, establishing the model of a route and public access.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed",
+      "date_start": "1793",
+      "date_end": null,
+      "date_precision": "year"
     }
   ],
   "citations": [
@@ -127,5 +137,7 @@
       "locator": "Historical reference"
     }
   ],
-  "last_updated": "2026-08-19"
+  "last_updated": "2026-08-19",
+  "title_ru": "Музей — маршрут, экспозиция и управление вниманием",
+  "slug_ru": "museum-route-display-management-of-attention"
 }

@@ -88,6 +88,16 @@
       "confidence_score": 0.72,
       "verification_state": "attributed",
       "date_start": "1956-01-01"
+    },
+    {
+      "id": "clm_eames-lounge-chair_1956",
+      "wording_ru": "Чарльз и Рэй Имс представляют Lounge Chair в 1956 году, совместив промышленное производство и ремесленное качество в одном объекте.",
+      "wording_en": "Charles and Ray Eames present the Lounge Chair in 1956, combining industrial production and craft quality in a single object.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed",
+      "date_start": "1956",
+      "date_end": null,
+      "date_precision": "year"
     }
   ],
   "citations": [
@@ -127,5 +137,7 @@
       "locator": "Historical timeline reference"
     }
   ],
-  "last_updated": "2026-08-18"
+  "last_updated": "2026-08-18",
+  "title_ru": "Eames Lounge Chair",
+  "slug_ru": "eames-lounge-chair"
 }

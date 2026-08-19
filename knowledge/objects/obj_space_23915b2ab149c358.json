@@ -88,6 +88,16 @@
       "confidence_score": 0.72,
       "verification_state": "attributed",
       "date_start": "2026-01-01"
+    },
+    {
+      "id": "clm_exhibition-temporary-archite_1851",
+      "wording_ru": "Великая выставка 1851 года в Хрустальном дворце Лондона — первый прецедент выставки как временной архитектуры аргумента с тематической организацией пространства.",
+      "wording_en": "The Great Exhibition of 1851 in London's Crystal Palace sets the precedent for the exhibition as temporary architecture of argument with thematic spatial organisation.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed",
+      "date_start": "1851",
+      "date_end": null,
+      "date_precision": "year"
     }
   ],
   "citations": [
@@ -127,5 +137,7 @@
       "locator": "Historical reference"
     }
   ],
-  "last_updated": "2026-08-19"
+  "last_updated": "2026-08-19",
+  "title_ru": "Выставка — временная архитектура аргумента",
+  "slug_ru": "exhibition-temporary-architecture-of-argument"
 }

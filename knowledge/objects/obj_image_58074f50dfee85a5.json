@@ -81,6 +81,16 @@
       "wording_ru": "Сегодня тему следует читать как цепочку: серия → edit → последовательность → макет → печать → переплёт → чтение. Финальное изображение — видимая поверхность большого производственного процесса.",
       "confidence_score": 0.72,
       "verification_state": "attributed"
+    },
+    {
+      "id": "clm_photobook-sequence-instead-o_1956",
+      "wording_ru": "William Klein публикует Life is Good in New York (1956) — фотокнига, в которой последовательность и графическое решение становятся самостоятельным высказыванием.",
+      "wording_en": "William Klein publishes Life is Good in New York (1956) — a photobook in which sequence and graphic design become an independent statement.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed",
+      "date_start": "1956",
+      "date_end": null,
+      "date_precision": "year"
     }
   ],
   "citations": [
@@ -115,5 +125,7 @@
       "locator": "Official documentation and institutional sources"
     }
   ],
-  "last_updated": "2026-08-19"
+  "last_updated": "2026-08-19",
+  "title_ru": "Фотокнига — последовательность вместо одиночного кадра",
+  "slug_ru": "photobook-sequence-instead-of-single-frame"
 }

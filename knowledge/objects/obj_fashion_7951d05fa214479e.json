@@ -81,6 +81,16 @@
       "wording_ru": "Сегодня тему полезно читать не как набор терминов, а как цепочку решений: патент → элементы → бегунок → одежда → жест → промышленный стандарт. В этой цепочке видимый образ — лишь последний слой большой производственной конструкции.",
       "confidence_score": 0.72,
       "verification_state": "attributed"
+    },
+    {
+      "id": "clm_zipper-technology-that-chang_1913",
+      "wording_ru": "Гидеон Сундбак патентует разделяемое крепление — первую функционально надёжную застёжку типа молния.",
+      "wording_en": "Gideon Sundback patents the separable fastener — the first functionally reliable zip fastener.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed",
+      "date_start": "1913",
+      "date_end": null,
+      "date_precision": "year"
     }
   ],
   "citations": [
@@ -115,5 +125,7 @@
       "locator": "Official documentation and institutional sources"
     }
   ],
-  "last_updated": "2026-08-19"
+  "last_updated": "2026-08-19",
+  "title_ru": "Застёжка-молния — технология, изменившая одежду",
+  "slug_ru": "zipper-technology-that-changed-clothing"
 }

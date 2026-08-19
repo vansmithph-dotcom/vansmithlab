@@ -95,6 +95,16 @@
       "confidence_score": 0.72,
       "verification_state": "attributed",
       "date_start": "1953-01-01"
+    },
+    {
+      "id": "clm_barcelona-chair_1929",
+      "wording_ru": "Мис ван дер Роэ и Лили Райх проектируют Barcelona Chair для немецкого павильона на Всемирной выставке 1929 года.",
+      "wording_en": "Mies van der Rohe and Lilly Reich design the Barcelona Chair for the German Pavilion at the 1929 World Exhibition.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed",
+      "date_start": "1929",
+      "date_end": null,
+      "date_precision": "year"
     }
   ],
   "citations": [
@@ -139,5 +149,7 @@
       "locator": "Historical timeline reference"
     }
   ],
-  "last_updated": "2026-08-18"
+  "last_updated": "2026-08-18",
+  "title_ru": "Barcelona Chair",
+  "slug_ru": "barcelona-chair"
 }

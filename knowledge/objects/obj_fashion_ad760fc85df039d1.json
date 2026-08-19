@@ -81,6 +81,16 @@
       "wording_ru": "Сегодня тему полезно читать не как набор терминов, а как цепочку решений: дизайнер → технический пакет → размерный ряд → фабрика → логистика → магазин → покупатель. В этой цепочке видимый образ — лишь последний слой большой производственной конструкции.",
       "confidence_score": 0.72,
       "verification_state": "attributed"
+    },
+    {
+      "id": "clm_ready-to-wear-designer-cloth_1966",
+      "wording_ru": "Ив Сен-Лоран открывает магазин Rive Gauche (1966) — первую линию прет-а-порте от кутюрного дома, переводя авторский дизайн в промышленное производство.",
+      "wording_en": "Yves Saint Laurent opens Rive Gauche (1966) — the first prêt-à-porter line from a couture house, moving authorial design into industrial production.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed",
+      "date_start": "1966",
+      "date_end": null,
+      "date_precision": "year"
     }
   ],
   "citations": [
@@ -115,5 +125,7 @@
       "locator": "Official documentation and institutional sources"
     }
   ],
-  "last_updated": "2026-08-19"
+  "last_updated": "2026-08-19",
+  "title_ru": "Готовая дизайнерская одежда — промышленная система ready-to-wear",
+  "slug_ru": "ready-to-wear-designer-clothing-as-industrial-system"
 }
