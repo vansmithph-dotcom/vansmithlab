@@ -4,6 +4,10 @@ import { notFound } from "next/navigation";
 import { TrustPanel } from "@/components/TrustPanel";
 import { copy, fields, isLocale } from "@/lib/site-data";
 
+export function generateStaticParams() {
+  return ["ru", "en"].map((locale) => ({ locale }));
+}
+
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
   const { locale } = await params;
   if (!isLocale(locale)) return {};
