@@ -1,0 +1,101 @@
+{
+  "id": "obj_longform_fb0a531d0dd50ff5",
+  "category": "longform",
+  "canonical_name": "Apple: промышленный дизайн как интерфейс компании",
+  "canonical_name_en": "Apple: industrial design as the company interface",
+  "title_ru": "Apple: промышленный дизайн как интерфейс компании",
+  "slug_ru": "apple-industrial-design-as-company-interface",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "industrial-design",
+    "space-typologies"
+  ],
+  "sources": [
+    {
+      "id": "src_longform_fb0a531d0dd50ff5_01",
+      "title": "MoMA — Architecture and Design Department",
+      "url": "https://www.moma.org/about/curatorial-departments/architecture-design",
+      "publisher": "MoMA",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_fb0a531d0dd50ff5_02",
+      "title": "MoMA — Collection",
+      "url": "https://www.moma.org/collection/",
+      "publisher": "MoMA",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_fb0a531d0dd50ff5_03",
+      "title": "Design Museum — Collection",
+      "url": "https://designmuseum.org/about-the-museum/design-museum-collection",
+      "publisher": "Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_fb0a531d0dd50ff5_04",
+      "title": "Computer History Museum — Collections catalog",
+      "url": "https://www.computerhistory.org/collections/catalog/102726907",
+      "publisher": "Computer History Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_fb0a531d0dd50ff5_05",
+      "title": "Design Museum — Dieter Rams",
+      "url": "https://designmuseum.org/design/dieter-rams",
+      "publisher": "Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_fb0a531d0dd50ff5_06",
+      "title": "World Design Organization — Definition of industrial design",
+      "url": "https://wdo.org/about/definition/",
+      "publisher": "World Design Organization",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_longform_fb0a531d0dd50ff5_thesis",
+      "wording_ru": "Случай интересен не отдельными изделиями, а тем, что промышленный дизайн получил право определять решения за пределами предмета: упаковку, розницу, экранную среду и сервисную процедуру. Дизайн стал точкой входа в компанию.",
+      "wording_en": "The case is interesting not for individual products but because industrial design acquired the right to determine decisions beyond the object: packaging, retail, the screen environment, and service procedure. Design became the point of entry to the company.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_longform_fb0a531d0dd50ff5_system",
+      "wording_ru": "Ключевое решение — организационное: подразделение дизайна получило прямой доступ к высшему руководству и право участвовать в определении продукта. Без этого никакая последовательность была бы невозможна.",
+      "wording_en": "The key decision was organisational: the design group gained direct access to senior leadership and the right to participate in defining the product. Without that, no consistency would have been possible.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_longform_fb0a531d0dd50ff5_myth",
+      "wording_ru": "Миф начинается с фигуры одинокого гения. Работал коллектив с инженерами, технологами и производственными партнёрами; персонализация истории удобна для рассказа и мешает пониманию.",
+      "wording_en": "The myth begins with the figure of the solitary genius. A collective worked, with engineers, process specialists, and manufacturing partners; personalising the story is convenient for narrative and unhelpful for understanding.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_longform_fb0a531d0dd50ff5_critique",
+      "wording_ru": "Критика обоснованна: закрытость системы ограничивает выбор пользователя, ремонтопригодность долго приносилась в жертву форме, а контроль над платформой вызывает вопросы у регуляторов. Эти претензии касаются структуры модели, а не её исполнения.",
+      "wording_en": "The critique is justified: the closed system limits user choice, repairability was long sacrificed to form, and platform control raises regulatory questions. These objections concern the structure of the model rather than its execution.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_longform_fb0a531d0dd50ff5_today",
+      "wording_ru": "Оценивая подражателей, смотрите не на материал корпуса, а на то, где в организации принимается решение о форме. Если это происходит после утверждения продукта, перед вами оформление, а не интерфейс.",
+      "wording_en": "When assessing imitators, look not at housing material but at where in the organisation form is decided. If it happens after the product is approved, you are looking at styling, not an interface.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    }
+  ]
+}

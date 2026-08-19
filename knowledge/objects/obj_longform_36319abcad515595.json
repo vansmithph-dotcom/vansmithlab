@@ -1,0 +1,109 @@
+{
+  "id": "obj_longform_36319abcad515595",
+  "category": "longform",
+  "canonical_name": "Ulm: дизайн после героического модернизма",
+  "canonical_name_en": "Ulm: design after heroic modernism",
+  "title_ru": "Ulm: дизайн после героического модернизма",
+  "slug_ru": "ulm-design-after-heroic-modernism",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "history-movements",
+    "industrial-design"
+  ],
+  "sources": [
+    {
+      "id": "src_longform_36319abcad515595_01",
+      "title": "HfG Ulm — History",
+      "url": "https://www.hfg-ulm.de/en/hfg-ulm/history/",
+      "publisher": "HfG Ulm",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_36319abcad515595_02",
+      "title": "HfG Archiv Ulm — The HfG Archive",
+      "url": "https://hfg-archiv.museumulm.de/en/the-hfg-archive/",
+      "publisher": "HfG Archiv Ulm",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_36319abcad515595_03",
+      "title": "Braun — Design and Innovation",
+      "url": "https://secure-us.braun.com/en-us/design/design-and-innovation",
+      "publisher": "Braun",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_36319abcad515595_04",
+      "title": "DPMA — Dieter Rams",
+      "url": "https://www.dpma.de/english/our_office/publications/milestones/greatinventors/dieterrams/index.html",
+      "publisher": "DPMA",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_36319abcad515595_05",
+      "title": "Bauhaus-Archiv — Collection",
+      "url": "https://www.bauhaus.de/en/research/collection/",
+      "publisher": "Bauhaus-Archiv",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_36319abcad515595_06",
+      "title": "MoMA — Architecture and Design Department",
+      "url": "https://www.moma.org/about/curatorial-departments/architecture-design",
+      "publisher": "MoMA",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_36319abcad515595_07",
+      "title": "Vitra Design Museum — Online Collection",
+      "url": "https://collection.design-museum.de/en/",
+      "publisher": "Vitra Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_longform_36319abcad515595_thesis",
+      "wording_ru": "Ульмская школа интересна как сознательная попытка лишить дизайн авторской героики. Вместо интуиции предлагались метод, измерение и обоснование — и школа проверяла, выдержит ли профессия такую перестройку.",
+      "wording_en": "The Ulm school is interesting as a deliberate attempt to strip design of authorial heroics. Instead of intuition it proposed method, measurement, and justification — and the school tested whether the profession could survive such a rebuild.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_longform_36319abcad515595_system",
+      "wording_ru": "Учебный план включал математику, эргономику, теорию знаков, социологию и экономику наряду с проектированием. Дизайнер должен был уметь обосновать решение на языке смежных дисциплин.",
+      "wording_en": "The curriculum included mathematics, ergonomics, sign theory, sociology, and economics alongside design. A designer was expected to justify a decision in the language of adjacent disciplines.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_longform_36319abcad515595_myth",
+      "wording_ru": "Миф начинается с образа чистого рационализма. На деле школу сотрясали идеологические конфликты, а часть решений принималась ровно по тем же вкусовым основаниям, которые она отвергала.",
+      "wording_en": "The myth begins with an image of pure rationalism. In fact the school was shaken by ideological conflicts, and some decisions were made on exactly the taste-based grounds it rejected.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_longform_36319abcad515595_critique",
+      "wording_ru": "Критика обоснованна: метод не отменил вкусовых решений, а лишь спрятал их за процедурой; школа не смогла обеспечить себе устойчивое финансирование; а её продукция не имела широкого рыночного успеха.",
+      "wording_en": "The critique is justified: the method did not abolish taste-based decisions but hid them behind procedure; the school could not secure stable funding; and its output had no broad market success.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_longform_36319abcad515595_today",
+      "wording_ru": "Читая любой «исследовательский» дизайн-процесс, проверяйте, где именно исследование повлияло на решение. Часто оно оформляет решение, принятое раньше, — и школа это тоже показала.",
+      "wording_en": "When reading any \"research-led\" design process, check where the research actually affected the decision. Often it dresses a decision taken earlier — and the school demonstrated that too.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "id": "obj_longform_07dab3b3e3b464e1",
+  "category": "longform",
+  "canonical_name": "Vitsœ 606: система, рассчитанная на десятилетия",
+  "canonical_name_en": "Vitsœ 606: a system designed for decades",
+  "title_ru": "Vitsœ 606: система, рассчитанная на десятилетия",
+  "slug_ru": "vitsoe-606-system-designed-for-decades",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "industrial-design",
+    "materials"
+  ],
+  "sources": [
+    {
+      "id": "src_longform_07dab3b3e3b464e1_01",
+      "title": "Vitsœ — 606 Universal Shelving System",
+      "url": "https://www.vitsoe.com/us/606",
+      "publisher": "Vitsœ",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_07dab3b3e3b464e1_02",
+      "title": "Vitsœ — About: history",
+      "url": "https://www.vitsoe.com/us/about/history",
+      "publisher": "Vitsœ",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_07dab3b3e3b464e1_03",
+      "title": "Design Museum — Dieter Rams",
+      "url": "https://designmuseum.org/design/dieter-rams",
+      "publisher": "Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_07dab3b3e3b464e1_04",
+      "title": "DPMA — Dieter Rams",
+      "url": "https://www.dpma.de/english/our_office/publications/milestones/greatinventors/dieterrams/index.html",
+      "publisher": "DPMA",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_07dab3b3e3b464e1_05",
+      "title": "MoMA — Architecture and Design Department",
+      "url": "https://www.moma.org/about/curatorial-departments/architecture-design",
+      "publisher": "MoMA",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_07dab3b3e3b464e1_06",
+      "title": "Vitra Design Museum — Online Collection",
+      "url": "https://collection.design-museum.de/en/",
+      "publisher": "Vitra Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_07dab3b3e3b464e1_07",
+      "title": "World Design Organization — Definition of industrial design",
+      "url": "https://wdo.org/about/definition/",
+      "publisher": "World Design Organization",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_longform_07dab3b3e3b464e1_thesis",
+      "wording_ru": "606 интересна тем, что переносит центр проектирования с предмета на срок службы. Решается не «как выглядит полка», а «что будет с ней через двадцать лет, при переезде и при смене владельца».",
+      "wording_en": "The 606 is interesting because it moves the centre of design from the object to the service life. The question is not \"what does a shelf look like\" but \"what happens to it in twenty years, in a move, and under a new owner\".",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_longform_07dab3b3e3b464e1_system",
+      "wording_ru": "Производитель сознательно ограничил ассортимент и связал бизнес-модель с долговечностью: продавать меньше, но обслуживать дольше. Такая модель требует отказа от стимулирования повторной покупки — коммерчески трудное решение.",
+      "wording_en": "The manufacturer deliberately restricted its range and tied the business model to durability: sell less but service longer. Such a model requires giving up the stimulation of repeat purchase — a commercially difficult decision.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_longform_07dab3b3e3b464e1_myth",
+      "wording_ru": "Миф начинается с представления о вечности. Система зависит от существования компании: обещание совместимости обеспечено не физикой, а обязательством юридического лица, которое может исчезнуть.",
+      "wording_en": "The myth begins with the idea of permanence. The system depends on the company existing: the promise of compatibility is secured not by physics but by the commitment of a legal entity that can disappear.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_longform_07dab3b3e3b464e1_critique",
+      "wording_ru": "Критика обоснованна: система дорога на входе, требует прочной стены, предполагает определённый тип жилья и определённый уровень дохода. Универсальной она не является и не претендует.",
+      "wording_en": "The critique is justified: the system is expensive to enter, requires a solid wall, and presumes a certain kind of housing and level of income. It is not universal and does not claim to be.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_longform_07dab3b3e3b464e1_today",
+      "wording_ru": "Оценивая любую «модульную» систему, спросите про запчасти: доступен ли элемент двадцатилетней давности и кто гарантирует это через десять лет. Ответ отделяет систему от набора полок.",
+      "wording_en": "When assessing any \"modular\" system, ask about parts: is a twenty-year-old element available, and who guarantees that in ten years’ time. The answer separates a system from a set of shelves.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    }
+  ]
+}

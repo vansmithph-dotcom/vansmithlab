@@ -1,0 +1,109 @@
+{
+  "id": "obj_longform_1e00463250221202",
+  "category": "longform",
+  "canonical_name": "MoMA и создание истории современного дизайна",
+  "canonical_name_en": "MoMA and the making of modern design history",
+  "title_ru": "MoMA и создание истории современного дизайна",
+  "slug_ru": "moma-and-the-making-of-modern-design-history",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "history-movements",
+    "space-typologies"
+  ],
+  "sources": [
+    {
+      "id": "src_longform_1e00463250221202_01",
+      "title": "MoMA — History",
+      "url": "https://www.moma.org/about/mission-statement/history",
+      "publisher": "MoMA",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_1e00463250221202_02",
+      "title": "MoMA — Architecture and Design Department",
+      "url": "https://www.moma.org/about/curatorial-departments/architecture-design",
+      "publisher": "MoMA",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_1e00463250221202_03",
+      "title": "MoMA — About the Collection",
+      "url": "https://www.moma.org/collection/about/",
+      "publisher": "MoMA",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_1e00463250221202_04",
+      "title": "MoMA — Exhibition history",
+      "url": "https://www.moma.org/calendar/exhibitions/history/",
+      "publisher": "MoMA",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_1e00463250221202_05",
+      "title": "MoMA — Digital Fonts: 23 new faces",
+      "url": "https://www.moma.org/explore/inside_out/2011/01/24/digital-fonts-23-new-faces-in-moma-s-collection/",
+      "publisher": "MoMA",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_1e00463250221202_06",
+      "title": "MoMA Design Store — About",
+      "url": "https://store.moma.org/pages/about-moma-design-store",
+      "publisher": "MoMA Design Store",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_1e00463250221202_07",
+      "title": "Design Museum — Collection",
+      "url": "https://designmuseum.org/about-the-museum/design-museum-collection",
+      "publisher": "Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_longform_1e00463250221202_thesis",
+      "wording_ru": "Музей интересен не составом собрания, а тем, что создал рамку, внутри которой промышленный предмет вообще стало возможно обсуждать как явление культуры. Рамка оказалась влиятельнее конкретных приобретений.",
+      "wording_en": "The museum is interesting not for the composition of its collection but because it created a frame within which an industrial object could be discussed as a cultural phenomenon at all. The frame proved more influential than any particular acquisition.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_longform_1e00463250221202_system",
+      "wording_ru": "Собрание, выставка, каталог, магазин и образовательная программа работали как одна цепочка. Суждение, высказанное в зале, закреплялось публикацией и распространялось через торговлю — редкая полнота охвата.",
+      "wording_en": "Collection, exhibition, catalogue, store, and education programme worked as one chain. A judgement stated in a gallery was fixed by publication and distributed through retail — a rare completeness of coverage.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_longform_1e00463250221202_myth",
+      "wording_ru": "Миф начинается с представления о нейтральном отборе. Отбор был позиционным: он продвигал определённую версию модернизма и оставлял за рамками целые традиции, регионы и авторов.",
+      "wording_en": "The myth begins with the idea of neutral selection. Selection was positional: it advanced a particular version of modernism and left whole traditions, regions, and authors outside the frame.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_longform_1e00463250221202_critique",
+      "wording_ru": "Критика обоснованна и хорошо документирована: канон был географически узок, гендерно смещён и обслуживал определённую версию истории. Признание этого не отменяет ценности рамки, но требует её пересмотра.",
+      "wording_en": "The critique is justified and well documented: the canon was geographically narrow, gender-skewed, and served a particular version of history. Acknowledging this does not void the frame’s value but requires its revision.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_longform_1e00463250221202_today",
+      "wording_ru": "Встречая утверждение о значимости предмета, ищите, кто его высказал и на каком основании. История дизайна состоит из таких высказываний, и каждое из них можно проверить.",
+      "wording_en": "On meeting a claim about an object’s significance, look for who made it and on what grounds. Design history consists of such claims, and each of them can be checked.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    }
+  ]
+}

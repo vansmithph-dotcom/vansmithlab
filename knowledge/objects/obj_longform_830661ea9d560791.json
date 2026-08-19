@@ -1,0 +1,101 @@
+{
+  "id": "obj_longform_830661ea9d560791",
+  "category": "longform",
+  "canonical_name": "MUJI: отсутствие марки как проект марки",
+  "canonical_name_en": "MUJI: the absence of brand as a brand project",
+  "title_ru": "MUJI: отсутствие марки как проект марки",
+  "slug_ru": "muji-no-brand-as-brand-project",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "graphic-design",
+    "materials"
+  ],
+  "sources": [
+    {
+      "id": "src_longform_830661ea9d560791_01",
+      "title": "Design Museum — Collection",
+      "url": "https://designmuseum.org/about-the-museum/design-museum-collection",
+      "publisher": "Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_830661ea9d560791_02",
+      "title": "MoMA — Architecture and Design Department",
+      "url": "https://www.moma.org/about/curatorial-departments/architecture-design",
+      "publisher": "MoMA",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_830661ea9d560791_03",
+      "title": "MoMA — Collection",
+      "url": "https://www.moma.org/collection/",
+      "publisher": "MoMA",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_830661ea9d560791_04",
+      "title": "Vitra Design Museum — Online Collection",
+      "url": "https://collection.design-museum.de/en/",
+      "publisher": "Vitra Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_830661ea9d560791_05",
+      "title": "Design Museum — What is good design? Dieter Rams’s ten principles",
+      "url": "https://designmuseum.org/discover-design/all-stories/what-is-good-design-a-quick-look-at-dieter-rams-ten-principles",
+      "publisher": "Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_830661ea9d560791_06",
+      "title": "World Design Organization — Definition of industrial design",
+      "url": "https://wdo.org/about/definition/",
+      "publisher": "World Design Organization",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_longform_830661ea9d560791_thesis",
+      "wording_ru": "Случай интересен как логическая ловушка: последовательный отказ от знаков различия производит самый узнаваемый знак. Отсутствие марки работает как марка ровно потому, что вокруг все маркируют.",
+      "wording_en": "The case is interesting as a logical trap: a consistent refusal of distinguishing marks produces the most recognisable mark of all. The absence of branding works as branding precisely because everything around it is branded.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_longform_830661ea9d560791_system",
+      "wording_ru": "Товары рассчитаны на совместимость между собой: модули хранения, контейнеры, канцелярия и текстиль сочетаются по размеру и цвету. Покупатель собирает набор, а не приобретает отдельные предметы.",
+      "wording_en": "Products are designed for mutual compatibility: storage modules, containers, stationery, and textiles align in size and colour. A customer assembles a set rather than acquiring separate objects.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_longform_830661ea9d560791_myth",
+      "wording_ru": "Миф начинается с отсутствия маркетинга. Марка ведёт последовательную и дорогую коммуникацию: кампании, издания, выставки и архитектурные проекты. Отсутствует логотип на товаре, а не продвижение.",
+      "wording_en": "The myth begins with an absence of marketing. The brand runs consistent and expensive communication: campaigns, publications, exhibitions, and architectural projects. What is absent is a logotype on the product, not promotion.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_longform_830661ea9d560791_critique",
+      "wording_ru": "Критика обоснованна: исходное обещание доступности расходится с фактическим позиционированием на экспортных рынках, а эстетика тишины стала предметом массового копирования, потерявшего обоснование.",
+      "wording_en": "The critique is justified: the original promise of affordability diverges from actual positioning in export markets, and the aesthetic of quietness has become widely copied, stripped of its justification.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_longform_830661ea9d560791_today",
+      "wording_ru": "Встречая «тихую» марку, спросите, чем обоснован отказ и что именно он экономит. Если ответа нет, перед вами стиль, заимствованный у позиции, которой не разделяют.",
+      "wording_en": "On meeting a \"quiet\" brand, ask what justifies the refusal and what exactly it saves. If there is no answer, you are looking at a style borrowed from a position that is not held.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    }
+  ]
+}

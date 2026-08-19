@@ -1,0 +1,101 @@
+{
+  "id": "obj_longform_f6c1226f2a29a445",
+  "category": "longform",
+  "canonical_name": "Helvetica: как шрифт стал инфраструктурой",
+  "canonical_name_en": "Helvetica: how a typeface became infrastructure",
+  "title_ru": "Helvetica: как шрифт стал инфраструктурой",
+  "slug_ru": "helvetica-typeface-as-infrastructure",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "graphic-design",
+    "history-movements"
+  ],
+  "sources": [
+    {
+      "id": "src_longform_f6c1226f2a29a445_01",
+      "title": "MoMA — Digital Fonts: 23 new faces",
+      "url": "https://www.moma.org/explore/inside_out/2011/01/24/digital-fonts-23-new-faces-in-moma-s-collection/",
+      "publisher": "MoMA",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_f6c1226f2a29a445_02",
+      "title": "MoMA — Architecture and Design Department",
+      "url": "https://www.moma.org/about/curatorial-departments/architecture-design",
+      "publisher": "MoMA",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_f6c1226f2a29a445_03",
+      "title": "Monotype — Helvetica Now",
+      "url": "https://www.monotype.com/fonts/helvetica-now",
+      "publisher": "Monotype",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_f6c1226f2a29a445_04",
+      "title": "Museum für Gestaltung Zürich",
+      "url": "https://museum-gestaltung.ch/en/",
+      "publisher": "Museum für Gestaltung Zürich",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_f6c1226f2a29a445_05",
+      "title": "Letterform Archive — Bauhaus typography at 100",
+      "url": "https://letterformarchive.org/news/bauhaus-typography-at-100/",
+      "publisher": "Letterform Archive",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_f6c1226f2a29a445_06",
+      "title": "Design Museum — Collection",
+      "url": "https://designmuseum.org/about-the-museum/design-museum-collection",
+      "publisher": "Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_longform_f6c1226f2a29a445_thesis",
+      "wording_ru": "Гарнитура интересна не рисунком знака, а положением: она стала настройкой по умолчанию для огромного числа задач. Инфраструктурой её делает не качество, а повсеместность и вытекающая из неё незаметность.",
+      "wording_en": "The typeface is interesting not for the drawing of its letterforms but for its position: it became the default setting for an enormous range of tasks. What makes it infrastructure is not quality but ubiquity and the invisibility that follows from it.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_longform_f6c1226f2a29a445_system",
+      "wording_ru": "Рисунок продолжал линию немецких и швейцарских гротесков XIX века. Новизна состояла не в изобретении формы, а в её систематизации: выравнивание пропорций и унификация начертаний внутри семейства.",
+      "wording_en": "The drawing continued a line of nineteenth-century German and Swiss grotesques. The novelty lay not in inventing a form but in systematising it: aligning proportions and unifying weights within the family.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_longform_f6c1226f2a29a445_myth",
+      "wording_ru": "Миф начинается с приписывания гарнитуре идеальности. Она была удачным коммерческим продуктом в нужный момент; её распространение объясняется лицензированием и наличием в стандартных наборах не меньше, чем рисунком.",
+      "wording_en": "The myth begins with attributing perfection to the typeface. It was a successful commercial product at the right moment; its spread is explained by licensing and inclusion in standard sets as much as by its drawing.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_longform_f6c1226f2a29a445_critique",
+      "wording_ru": "Критика справедлива в технической части: гарнитура плохо работает в малом кегле, на низком контрасте и в движении, и её выбор часто является отказом от решения, а не решением.",
+      "wording_en": "The critique is fair on technical grounds: the typeface performs poorly at small sizes, at low contrast, and in motion, and choosing it is often an avoidance of a decision rather than a decision.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_longform_f6c1226f2a29a445_today",
+      "wording_ru": "Выбирая нейтральный гротеск, спросите себя, решение это или его отсутствие. Нейтральность оправдана там, где текст должен исчезнуть, и не оправдана там, где различие является задачей.",
+      "wording_en": "When choosing a neutral grotesque, ask whether it is a decision or the absence of one. Neutrality is justified where text must disappear and unjustified where distinction is the task.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    }
+  ]
+}

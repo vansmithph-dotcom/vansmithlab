@@ -1,0 +1,109 @@
+{
+  "id": "obj_longform_994a597c90e37a6f",
+  "category": "longform",
+  "canonical_name": "Braun: как предметный дизайн превратился в систему",
+  "canonical_name_en": "Braun: how product design became a system",
+  "title_ru": "Braun: как предметный дизайн превратился в систему",
+  "slug_ru": "braun-when-product-design-became-system",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "industrial-design",
+    "graphic-design"
+  ],
+  "sources": [
+    {
+      "id": "src_longform_994a597c90e37a6f_01",
+      "title": "Braun — Design and Innovation",
+      "url": "https://secure-us.braun.com/en-us/design/design-and-innovation",
+      "publisher": "Braun",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_994a597c90e37a6f_02",
+      "title": "DPMA — Dieter Rams",
+      "url": "https://www.dpma.de/english/our_office/publications/milestones/greatinventors/dieterrams/index.html",
+      "publisher": "DPMA",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_994a597c90e37a6f_03",
+      "title": "Design Museum — Dieter Rams",
+      "url": "https://designmuseum.org/design/dieter-rams",
+      "publisher": "Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_994a597c90e37a6f_04",
+      "title": "Design Museum — What is good design? Dieter Rams’s ten principles",
+      "url": "https://designmuseum.org/discover-design/all-stories/what-is-good-design-a-quick-look-at-dieter-rams-ten-principles",
+      "publisher": "Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_994a597c90e37a6f_05",
+      "title": "HfG Ulm — History",
+      "url": "https://www.hfg-ulm.de/en/hfg-ulm/history/",
+      "publisher": "HfG Ulm",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_994a597c90e37a6f_06",
+      "title": "Vitsœ — About: history",
+      "url": "https://www.vitsoe.com/us/about/history",
+      "publisher": "Vitsœ",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_994a597c90e37a6f_07",
+      "title": "Vitra Design Museum — Online Collection",
+      "url": "https://collection.design-museum.de/en/",
+      "publisher": "Vitra Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_longform_994a597c90e37a6f_thesis",
+      "wording_ru": "Braun интересна не отдельным прибором, а тем, что выработала переносимую грамматику: как располагать органы управления, какой оставлять запас пустой поверхности, каким цветом обозначать действие. Эта грамматика пережила конкретные изделия.",
+      "wording_en": "Braun is interesting not for a single appliance but because it produced a transferable grammar: how to place controls, how much blank surface to leave, which colour marks an action. That grammar outlived the individual products.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_longform_994a597c90e37a6f_system",
+      "wording_ru": "Дизайн был выведен из подчинения маркетингу и получил право участвовать в определении продукта. Организационное решение оказалось важнее эстетического: оно определило, на какой стадии принимается решение о форме.",
+      "wording_en": "Design was removed from subordination to marketing and given the right to participate in defining the product. The organisational decision mattered more than the aesthetic one: it determined at what stage form is decided.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_longform_994a597c90e37a6f_myth",
+      "wording_ru": "Миф начинается с представления о безошибочности. В действительности выпускалась и рядовая продукция, и часть решений не пережила смены технологии; канон построен на отобранной верхушке ассортимента.",
+      "wording_en": "The myth begins with the idea of infallibility. In reality ordinary products were also made, and some decisions did not survive a change of technology; the canon is built on a selected top layer of the range.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_longform_994a597c90e37a6f_critique",
+      "wording_ru": "Критика справедлива в двух пунктах: подход плохо работает там, где нужна эмоциональная привязанность, и он вырождается в стиль, когда копируется без организационной части. Сдержанность без метода — просто скука.",
+      "wording_en": "The critique is fair on two points: the approach works poorly where emotional attachment is required, and it degenerates into a style when copied without its organisational half. Restraint without method is merely dullness.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_longform_994a597c90e37a6f_today",
+      "wording_ru": "Оценивая наследников, проверяйте не белизну корпуса, а наличие свода правил, его владельца и журнала изменений. Без этого перед вами цитата, а не система.",
+      "wording_en": "When assessing successors, check not the whiteness of a housing but the existence of a rule set, its owner, and its changelog. Without those you are looking at a quotation, not a system.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    }
+  ]
+}

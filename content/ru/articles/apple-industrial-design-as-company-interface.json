@@ -1,0 +1,38 @@
+{
+  "content_id": "cnt_longform_ru_fb0a531d0dd50ff5",
+  "primary_object_id": "obj_longform_fb0a531d0dd50ff5",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_longform_fb0a531d0dd50ff5_thesis",
+    "clm_longform_fb0a531d0dd50ff5_system",
+    "clm_longform_fb0a531d0dd50ff5_myth",
+    "clm_longform_fb0a531d0dd50ff5_critique",
+    "clm_longform_fb0a531d0dd50ff5_today"
+  ],
+  "source_ids": [
+    "src_longform_fb0a531d0dd50ff5_01",
+    "src_longform_fb0a531d0dd50ff5_02",
+    "src_longform_fb0a531d0dd50ff5_03",
+    "src_longform_fb0a531d0dd50ff5_04",
+    "src_longform_fb0a531d0dd50ff5_05",
+    "src_longform_fb0a531d0dd50ff5_06"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "apple-industrial-design-as-company-interface",
+  "title": "Apple: промышленный дизайн как интерфейс компании",
+  "summary": "Предмет, упаковка, магазин, операционная среда и жест пользователя связаны в один непрерывный интерфейс.",
+  "discipline": [
+    "industrial-design",
+    "space-typologies"
+  ],
+  "kind": "research",
+  "role": [],
+  "body_hash": "c03176f9a46b59ccc1f5b78b2457e078985a421138dd6d6f63d799b428550d85"
+}

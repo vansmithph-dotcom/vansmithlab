@@ -1,0 +1,109 @@
+{
+  "id": "obj_longform_c7ceea6a5d48515b",
+  "category": "longform",
+  "canonical_name": "Photoshop: история изображения, которому перестали доверять",
+  "canonical_name_en": "Photoshop: the history of an image no longer trusted",
+  "title_ru": "Photoshop: история изображения, которому перестали доверять",
+  "slug_ru": "photoshop-history-of-an-image-no-longer-trusted",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "image-grammar",
+    "media-publishing"
+  ],
+  "sources": [
+    {
+      "id": "src_longform_c7ceea6a5d48515b_01",
+      "title": "Adobe — Nondestructive editing in Photoshop",
+      "url": "https://helpx.adobe.com/photoshop/using/nondestructive-editing.html",
+      "publisher": "Adobe",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_c7ceea6a5d48515b_02",
+      "title": "Adobe — Add layer masks",
+      "url": "https://helpx.adobe.com/photoshop/desktop/create-masks/layer-masks/add-layer-masks.html",
+      "publisher": "Adobe",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_c7ceea6a5d48515b_03",
+      "title": "Adobe — Understanding colour management",
+      "url": "https://helpx.adobe.com/photoshop/using/understanding-color-management.html",
+      "publisher": "Adobe",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_c7ceea6a5d48515b_04",
+      "title": "Computer History Museum — Make Software: Photoshop",
+      "url": "https://www.computerhistory.org/makesoftware/exhibit/photoshop/",
+      "publisher": "Computer History Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_c7ceea6a5d48515b_05",
+      "title": "Computer History Museum — Adobe Photoshop source code",
+      "url": "https://computerhistory.org/blog/adobe-photoshop-source-code/",
+      "publisher": "Computer History Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_c7ceea6a5d48515b_06",
+      "title": "Adobe — Photoshop turns 25: Q&A with Thomas Knoll",
+      "url": "https://blog.adobe.com/en/publish/2015/02/18/photoshop-turns-25-qa-with-thomas-knoll",
+      "publisher": "Adobe",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_c7ceea6a5d48515b_07",
+      "title": "OpenAI — Advancing content provenance",
+      "url": "https://openai.com/index/advancing-content-provenance/",
+      "publisher": "OpenAI",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_longform_c7ceea6a5d48515b_thesis",
+      "wording_ru": "Программа изменила не качество обработки, а презумпцию. До неё изображение по умолчанию считалось свидетельством; после — по умолчанию считается обработанным. Сместилась не техника, а бремя доказательства.",
+      "wording_en": "The software changed not the quality of processing but the presumption. Before it, an image was assumed to be evidence; after it, an image is assumed to be processed. What moved was not technique but the burden of proof.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_longform_c7ceea6a5d48515b_system",
+      "wording_ru": "Аналоговая ретушь требовала мастерской, кистей, красителей и работы по негативу или отпечатку. Она была дорогой, медленной и доступной немногим — и потому её применение было ограничено.",
+      "wording_en": "Analogue retouching required a workshop, brushes, dyes, and work on a negative or print. It was expensive, slow, and available to few — and its use was therefore limited.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_longform_c7ceea6a5d48515b_myth",
+      "wording_ru": "Миф начинается с представления, что до программы фотография была честной. Постановка, отбор кадра, кадрирование и лабораторная печать всегда были инструментами интерпретации.",
+      "wording_en": "The myth begins with the idea that photography was honest before the software. Staging, frame selection, cropping, and darkroom printing were always instruments of interpretation.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_longform_c7ceea6a5d48515b_critique",
+      "wording_ru": "Критика обоснованна в двух направлениях: инструмент способствовал распространению недостижимых стандартов внешности и сделал проверку изображений трудной. Обе претензии касаются употребления, но употребление было предсказуемым.",
+      "wording_en": "The critique is justified in two directions: the tool helped spread unattainable standards of appearance and made image verification difficult. Both objections concern use, but the use was predictable.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_longform_c7ceea6a5d48515b_today",
+      "wording_ru": "Спрашивайте не «обработано ли это», а «есть ли запись о том, что делали». Первый вопрос почти всегда имеет ответ «да» и потому бесполезен.",
+      "wording_en": "Ask not \"was this processed\" but \"is there a record of what was done\". The first question almost always has the answer yes and is therefore useless.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    }
+  ]
+}

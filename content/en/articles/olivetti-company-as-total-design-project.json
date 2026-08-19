@@ -1,0 +1,39 @@
+{
+  "content_id": "cnt_longform_en_e71601e5a2639e86",
+  "primary_object_id": "obj_longform_e71601e5a2639e86",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_longform_e71601e5a2639e86_thesis",
+    "clm_longform_e71601e5a2639e86_system",
+    "clm_longform_e71601e5a2639e86_myth",
+    "clm_longform_e71601e5a2639e86_critique",
+    "clm_longform_e71601e5a2639e86_today"
+  ],
+  "source_ids": [
+    "src_longform_e71601e5a2639e86_01",
+    "src_longform_e71601e5a2639e86_02",
+    "src_longform_e71601e5a2639e86_03",
+    "src_longform_e71601e5a2639e86_04",
+    "src_longform_e71601e5a2639e86_05",
+    "src_longform_e71601e5a2639e86_06",
+    "src_longform_e71601e5a2639e86_07"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "olivetti-company-as-total-design-project",
+  "title": "Olivetti: the company as a total design project",
+  "summary": "At Olivetti the product, the factory, the graphics, the store, the town, and social policy worked as a single design culture.",
+  "discipline": [
+    "industrial-design",
+    "graphic-design"
+  ],
+  "kind": "research",
+  "role": [],
+  "body_hash": "c35f4b3fbd6a3821739eb0f9a7dfd7b6f7c88c69677d08472337ee24c1987b4d"
+}

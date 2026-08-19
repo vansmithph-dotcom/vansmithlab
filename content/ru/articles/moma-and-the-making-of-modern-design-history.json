@@ -1,0 +1,39 @@
+{
+  "content_id": "cnt_longform_ru_1e00463250221202",
+  "primary_object_id": "obj_longform_1e00463250221202",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_longform_1e00463250221202_thesis",
+    "clm_longform_1e00463250221202_system",
+    "clm_longform_1e00463250221202_myth",
+    "clm_longform_1e00463250221202_critique",
+    "clm_longform_1e00463250221202_today"
+  ],
+  "source_ids": [
+    "src_longform_1e00463250221202_01",
+    "src_longform_1e00463250221202_02",
+    "src_longform_1e00463250221202_03",
+    "src_longform_1e00463250221202_04",
+    "src_longform_1e00463250221202_05",
+    "src_longform_1e00463250221202_06",
+    "src_longform_1e00463250221202_07"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "moma-and-the-making-of-modern-design-history",
+  "title": "MoMA и создание истории современного дизайна",
+  "summary": "Музей не только собирал современный дизайн, но и научил публику относиться к нему как к культурной истории.",
+  "discipline": [
+    "history-movements",
+    "space-typologies"
+  ],
+  "kind": "research",
+  "role": [],
+  "body_hash": "c60c670581cf1491336336b0e5a597eee6fe1f6e8e907b78762cf1aa9f501303"
+}

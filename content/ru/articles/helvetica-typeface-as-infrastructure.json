@@ -1,0 +1,38 @@
+{
+  "content_id": "cnt_longform_ru_f6c1226f2a29a445",
+  "primary_object_id": "obj_longform_f6c1226f2a29a445",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_longform_f6c1226f2a29a445_thesis",
+    "clm_longform_f6c1226f2a29a445_system",
+    "clm_longform_f6c1226f2a29a445_myth",
+    "clm_longform_f6c1226f2a29a445_critique",
+    "clm_longform_f6c1226f2a29a445_today"
+  ],
+  "source_ids": [
+    "src_longform_f6c1226f2a29a445_01",
+    "src_longform_f6c1226f2a29a445_02",
+    "src_longform_f6c1226f2a29a445_03",
+    "src_longform_f6c1226f2a29a445_04",
+    "src_longform_f6c1226f2a29a445_05",
+    "src_longform_f6c1226f2a29a445_06"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "helvetica-typeface-as-infrastructure",
+  "title": "Helvetica: как шрифт стал инфраструктурой",
+  "summary": "Сила гарнитуры не в выразительности, а в способности исчезать внутри навигации, идентичности и интерфейса.",
+  "discipline": [
+    "graphic-design",
+    "history-movements"
+  ],
+  "kind": "research",
+  "role": [],
+  "body_hash": "29884c403ceb7e043c06dbf01aa4a053c83eea2624c31b1c6e0be4554604bf70"
+}

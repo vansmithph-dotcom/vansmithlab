@@ -1,0 +1,39 @@
+{
+  "content_id": "cnt_longform_ru_e71601e5a2639e86",
+  "primary_object_id": "obj_longform_e71601e5a2639e86",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_longform_e71601e5a2639e86_thesis",
+    "clm_longform_e71601e5a2639e86_system",
+    "clm_longform_e71601e5a2639e86_myth",
+    "clm_longform_e71601e5a2639e86_critique",
+    "clm_longform_e71601e5a2639e86_today"
+  ],
+  "source_ids": [
+    "src_longform_e71601e5a2639e86_01",
+    "src_longform_e71601e5a2639e86_02",
+    "src_longform_e71601e5a2639e86_03",
+    "src_longform_e71601e5a2639e86_04",
+    "src_longform_e71601e5a2639e86_05",
+    "src_longform_e71601e5a2639e86_06",
+    "src_longform_e71601e5a2639e86_07"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "olivetti-company-as-total-design-project",
+  "title": "Olivetti: компания как тотальный проект дизайна",
+  "summary": "Предмет, завод, графика, магазин, город и социальная политика Olivetti работали как одна проектная культура.",
+  "discipline": [
+    "industrial-design",
+    "graphic-design"
+  ],
+  "kind": "research",
+  "role": [],
+  "body_hash": "833dfd61edb2f422d6f2b17c3b6ce845dd6b29b96e101c93ddea35e211363a0d"
+}

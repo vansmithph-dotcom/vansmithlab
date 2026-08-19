@@ -1,0 +1,109 @@
+{
+  "id": "obj_longform_09cb0e025ca84754",
+  "category": "longform",
+  "canonical_name": "Bauhaus после Bauhaus: как школа стала мировой системой",
+  "canonical_name_en": "Bauhaus after Bauhaus: how the school became a world system",
+  "title_ru": "Bauhaus после Bauhaus: как школа стала мировой системой",
+  "slug_ru": "bauhaus-after-bauhaus-school-as-world-system",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "history-movements",
+    "graphic-design"
+  ],
+  "sources": [
+    {
+      "id": "src_longform_09cb0e025ca84754_01",
+      "title": "Bauhaus-Archiv — Collection",
+      "url": "https://www.bauhaus.de/en/research/collection/",
+      "publisher": "Bauhaus-Archiv",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_09cb0e025ca84754_02",
+      "title": "Bauhaus-Archiv — Mission statement",
+      "url": "https://www.bauhaus.de/en/about-us/mission-statement/",
+      "publisher": "Bauhaus-Archiv",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_09cb0e025ca84754_03",
+      "title": "Bauhaus Dessau Foundation — Chronology",
+      "url": "https://bauhaus-dessau.de/en/institution/chronology/",
+      "publisher": "Bauhaus Dessau Foundation",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_09cb0e025ca84754_04",
+      "title": "Bauhaus Dessau Foundation — Bauhaus Building",
+      "url": "https://bauhaus-dessau.de/en/venues/bauhaus-building/",
+      "publisher": "Bauhaus Dessau Foundation",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_09cb0e025ca84754_05",
+      "title": "MoMA — Bauhaus 1919–1933: Workshops for Modernity",
+      "url": "https://www.moma.org/calendar/exhibitions/303",
+      "publisher": "MoMA",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_09cb0e025ca84754_06",
+      "title": "Letterform Archive — Bauhaus typography at 100",
+      "url": "https://letterformarchive.org/news/bauhaus-typography-at-100/",
+      "publisher": "Letterform Archive",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_09cb0e025ca84754_07",
+      "title": "HfG Ulm — History",
+      "url": "https://www.hfg-ulm.de/en/hfg-ulm/history/",
+      "publisher": "HfG Ulm",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_longform_09cb0e025ca84754_thesis",
+      "wording_ru": "Школа просуществовала четырнадцать лет и закрылась в 1933 году. Влияние, которое ей приписывают, было произведено в основном после закрытия — через эмиграцию преподавателей, учебные программы, выставки и архивы.",
+      "wording_en": "The school existed for fourteen years and closed in 1933. The influence attributed to it was produced largely after the closure — through the emigration of teachers, curricula, exhibitions, and archives.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_longform_09cb0e025ca84754_system",
+      "wording_ru": "Ключевым изобретением был вводный курс, обязательный для всех: работа с материалом, цветом и формой до специализации. Он давал общий язык людям, которые дальше расходились по разным мастерским.",
+      "wording_en": "The key invention was a preliminary course, compulsory for all: work with material, colour, and form before specialisation. It gave a shared language to people who then dispersed into different workshops.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_longform_09cb0e025ca84754_myth",
+      "wording_ru": "Миф начинается с единства. Внутри школы шли острые конфликты о соотношении ремесла и промышленности, искусства и функции; единого учения не существовало.",
+      "wording_en": "The myth begins with unity. Inside the school there were sharp conflicts about the relation of craft to industry and of art to function; no single doctrine existed.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_longform_09cb0e025ca84754_critique",
+      "wording_ru": "Критика справедлива по нескольким пунктам: социальная программа осталась в основном декларацией, роль женщин в школе систематически занижалась, а промышленный успех был скромным. Всё это документировано.",
+      "wording_en": "The critique is fair on several points: the social programme remained largely declarative, the role of women in the school was systematically understated, and industrial success was modest. All of this is documented.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_longform_09cb0e025ca84754_today",
+      "wording_ru": "Встречая ссылку на школу, спросите, о чём именно речь: о вводном курсе, о конкретной мастерской, о здании или о торговой марке. Это четыре разных предмета, и смешивать их не следует.",
+      "wording_en": "On meeting a reference to the school, ask what exactly is meant: the preliminary course, a particular workshop, the building, or the trademark. These are four different subjects and should not be conflated.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    }
+  ]
+}

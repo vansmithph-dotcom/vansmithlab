@@ -1,0 +1,101 @@
+{
+  "id": "obj_longform_4e6fb076ba2d3e90",
+  "category": "longform",
+  "canonical_name": "Vitra: фабрика, музей, кампус и производство канона",
+  "canonical_name_en": "Vitra: factory, museum, campus, and the production of canon",
+  "title_ru": "Vitra: фабрика, музей, кампус и производство канона",
+  "slug_ru": "vitra-factory-museum-campus-and-production-of-canon",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "industrial-design",
+    "space-typologies"
+  ],
+  "sources": [
+    {
+      "id": "src_longform_4e6fb076ba2d3e90_01",
+      "title": "Vitra — Campus",
+      "url": "https://www.vitra.com/en-lp/campus",
+      "publisher": "Vitra",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_4e6fb076ba2d3e90_02",
+      "title": "Vitra — How and where it all began",
+      "url": "https://www.vitra.com/en-dk/magazine/details/vitra-how-and-where-it-all-began",
+      "publisher": "Vitra",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_4e6fb076ba2d3e90_03",
+      "title": "Vitra Design Museum — Vitra Campus",
+      "url": "https://www.design-museum.de/en/information/vitra-campus.html",
+      "publisher": "Vitra Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_4e6fb076ba2d3e90_04",
+      "title": "Vitra Design Museum — Online Collection",
+      "url": "https://collection.design-museum.de/en/",
+      "publisher": "Vitra Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_4e6fb076ba2d3e90_05",
+      "title": "Zaha Hadid Architects — Vitra Fire Station",
+      "url": "https://www.zaha-hadid.com/architecture/vitra-fire-station/",
+      "publisher": "Zaha Hadid Architects",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_4e6fb076ba2d3e90_06",
+      "title": "MoMA — Architecture and Design Department",
+      "url": "https://www.moma.org/about/curatorial-departments/architecture-design",
+      "publisher": "MoMA",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_longform_4e6fb076ba2d3e90_thesis",
+      "wording_ru": "Vitra интересна тем, что производитель мебели одновременно содержит музей, коллекцию и архитектурный кампус. Это позволяет ему участвовать в определении того, что считается значимым в дизайне, а не только выпускать изделия.",
+      "wording_en": "Vitra is interesting because a furniture manufacturer simultaneously maintains a museum, a collection, and an architectural campus. This lets it participate in defining what counts as significant in design rather than merely making products.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_longform_4e6fb076ba2d3e90_system",
+      "wording_ru": "Производство, коллекция, музей, выставки и издательская работа находятся в одних руках. Это позволяет провести объект по всей цепочке: от чертежа до витрины и до каталожной записи.",
+      "wording_en": "Production, collection, museum, exhibitions, and publishing are in the same hands. This allows an object to be taken along the whole chain: from drawing to display case to catalogue record.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_longform_4e6fb076ba2d3e90_myth",
+      "wording_ru": "Миф начинается с образа бескорыстного покровителя. Кампус и музей выполняют коммерческую работу: они обосновывают цену переизданий и создают культурную ренту.",
+      "wording_en": "The myth begins with an image of a disinterested patron. The campus and the museum perform commercial work: they justify the price of reissues and create cultural rent.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_longform_4e6fb076ba2d3e90_critique",
+      "wording_ru": "Главная претензия обоснованна: организация одновременно определяет ценность предметов и продаёт их. Отсутствие независимой экспертизы — структурная слабость модели, не устранимая её открытостью.",
+      "wording_en": "The main objection is justified: the organisation simultaneously determines the value of objects and sells them. The absence of independent assessment is a structural weakness of the model, not remedied by its openness.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_longform_4e6fb076ba2d3e90_today",
+      "wording_ru": "Читая любое корпоративное собрание, спрашивайте, кто ещё подтверждает значимость этих предметов. Один источник суждения — это позиция, а не история.",
+      "wording_en": "When reading any corporate collection, ask who else ratifies the significance of these objects. A single source of judgement is a position, not a history.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    }
+  ]
+}

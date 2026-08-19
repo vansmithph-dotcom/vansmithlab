@@ -1,0 +1,109 @@
+{
+  "id": "obj_longform_cb05042894c55ef4",
+  "category": "longform",
+  "canonical_name": "Eames: фанера, дом, фильм и эксперимент как единый метод",
+  "canonical_name_en": "Eames: plywood, house, film, and experiment as one method",
+  "title_ru": "Eames: фанера, дом, фильм и эксперимент как единый метод",
+  "slug_ru": "eames-plywood-house-film-and-experiment-as-method",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "industrial-design",
+    "image-grammar"
+  ],
+  "sources": [
+    {
+      "id": "src_longform_cb05042894c55ef4_01",
+      "title": "Eames Office — About",
+      "url": "https://www.eamesoffice.com/about/eamesoffice/",
+      "publisher": "Eames Office",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_cb05042894c55ef4_02",
+      "title": "Eames Office — DCW",
+      "url": "https://www.eamesoffice.com/the-work/dcw/",
+      "publisher": "Eames Office",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_cb05042894c55ef4_03",
+      "title": "Eames Foundation — LCW",
+      "url": "https://eamesfoundation.org/work/lcw/",
+      "publisher": "Eames Foundation",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_cb05042894c55ef4_04",
+      "title": "Eames Foundation — Plywood Sculpture",
+      "url": "https://eamesfoundation.org/work/plywood-sculpture/",
+      "publisher": "Eames Foundation",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_cb05042894c55ef4_05",
+      "title": "Eames Foundation — Design Q&A",
+      "url": "https://eamesfoundation.org/work/design-qa/",
+      "publisher": "Eames Foundation",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_cb05042894c55ef4_06",
+      "title": "MoMA — Collection",
+      "url": "https://www.moma.org/collection/",
+      "publisher": "MoMA",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_cb05042894c55ef4_07",
+      "title": "Vitra Design Museum — Online Collection",
+      "url": "https://collection.design-museum.de/en/",
+      "publisher": "Vitra Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_longform_cb05042894c55ef4_thesis",
+      "wording_ru": "Работы Чарльза и Рэй Имс обычно раскладывают по жанрам: мебель, архитектура, кино. Точнее считать их одной практикой — последовательным испытанием гипотез, где меняется материал, а метод остаётся прежним.",
+      "wording_en": "The work of Charles and Ray Eames is usually sorted by genre: furniture, architecture, film. It is more accurate to treat it as one practice — a consistent testing of hypotheses in which the material changes and the method does not.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_longform_cb05042894c55ef4_system",
+      "wording_ru": "Бюро совмещало проектирование, съёмку, макетирование и выставочную работу под одной крышей. Такая организация позволяла проверять идею в нескольких средах за короткий срок — это и есть главный организационный вклад.",
+      "wording_en": "The office combined design, filming, model making, and exhibition work under one roof. That organisation allowed an idea to be tested in several media within a short period — and that is the main organisational contribution.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_longform_cb05042894c55ef4_myth",
+      "wording_ru": "Миф начинается с образа беззаботного калифорнийского творчества. В действительности речь о многолетней технологической работе с прессом, клеем и браком — процесс был медленным и неудобным.",
+      "wording_en": "The myth begins with an image of carefree Californian creativity. In reality this was years of technological work with a press, adhesives, and rejects — a slow and awkward process.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_longform_cb05042894c55ef4_critique",
+      "wording_ru": "Критика справедлива: обещание доступности не выполнено, часть предметов сегодня стоит дорого, а метод плохо переносится в организации без собственной мастерской. Экспериментальная модель требует ресурса, который есть не у всех.",
+      "wording_en": "The critique is fair: the promise of affordability was not met, some objects are expensive today, and the method transfers poorly to organisations without their own workshop. The experimental model requires resources not everyone has.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_longform_cb05042894c55ef4_today",
+      "wording_ru": "Смотрите на количество отвергнутых вариантов, а не на итоговый предмет. Сохранившиеся прототипы объясняют результат лучше, чем любая фотография готового стула.",
+      "wording_en": "Look at the number of rejected variants rather than at the final object. The surviving prototypes explain the result better than any photograph of a finished chair.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    }
+  ]
+}

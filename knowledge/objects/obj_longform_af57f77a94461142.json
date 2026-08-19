@@ -1,0 +1,101 @@
+{
+  "id": "obj_longform_af57f77a94461142",
+  "category": "longform",
+  "canonical_name": "Prada Epicenter: когда магазин стал исследовательским проектом",
+  "canonical_name_en": "Prada Epicenter: when the store became a research project",
+  "title_ru": "Prada Epicenter: когда магазин стал исследовательским проектом",
+  "slug_ru": "prada-epicenter-when-store-became-research-project",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "space-typologies",
+    "media-publishing"
+  ],
+  "sources": [
+    {
+      "id": "src_longform_af57f77a94461142_01",
+      "title": "OMA — Prada Epicenter New York",
+      "url": "https://www.oma.com/projects/prada-epicenter-new-york",
+      "publisher": "OMA",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_af57f77a94461142_02",
+      "title": "Prada — Epicenter New York",
+      "url": "https://www.prada.com/ww/en/pradasphere/places/epicenter-new-york.html",
+      "publisher": "Prada",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_af57f77a94461142_03",
+      "title": "OMA — Projects",
+      "url": "https://www.oma.com/projects",
+      "publisher": "OMA",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_af57f77a94461142_04",
+      "title": "Fondazione Prada — History",
+      "url": "https://www.fondazioneprada.org/history-en/?lang=en",
+      "publisher": "Fondazione Prada",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_af57f77a94461142_05",
+      "title": "MoMA — Architecture and Design Department",
+      "url": "https://www.moma.org/about/curatorial-departments/architecture-design",
+      "publisher": "MoMA",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_af57f77a94461142_06",
+      "title": "Design Museum — Collection",
+      "url": "https://designmuseum.org/about-the-museum/design-museum-collection",
+      "publisher": "Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_longform_af57f77a94461142_thesis",
+      "wording_ru": "Магазин на Бродвее, спроектированный OMA и открытый в 2001 году, интересен как заявление о том, что розница может быть предметом исследования. Проект начинался не с ассортимента, а с вопроса, зачем ещё нужен физический магазин.",
+      "wording_en": "The Broadway store, designed by OMA and opened in 2001, is interesting as a claim that retail can be a subject of research. The project began not with assortment but with the question of what a physical store is still for.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_longform_af57f77a94461142_system",
+      "wording_ru": "Заказчик был готов оплатить площадь, которая не продаёт. Это управленческое решение важнее архитектурного: оно определило, что часть здания финансируется как коммуникация, а не как торговля.",
+      "wording_en": "The client was willing to pay for floor area that does not sell. That management decision matters more than the architectural one: it determined that part of the building is financed as communication rather than as retail.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_longform_af57f77a94461142_myth",
+      "wording_ru": "Миф начинается с утверждения, что магазин изменил розницу. Он изменил профессиональный разговор о рознице; массовая практика восприняла из него в основном декоративную часть.",
+      "wording_en": "The myth begins with the claim that the store changed retail. It changed the professional conversation about retail; mass practice took mainly its decorative part.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_longform_af57f77a94461142_critique",
+      "wording_ru": "Критика обоснованна: модель не масштабируется, требует исключительного бюджета и заказчика, готового на убыточную площадь. Как прецедент проект ценен, как рецепт — нет.",
+      "wording_en": "The critique is justified: the model does not scale, requires an exceptional budget and a client willing to run loss-making floor area. As a precedent the project is valuable; as a recipe it is not.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_longform_af57f77a94461142_today",
+      "wording_ru": "Оценивая любой «экспериментальный» магазин, спросите, какая доля площади не продаёт и что там происходит по расписанию. Это отличает исследование от дорогой отделки.",
+      "wording_en": "When assessing any \"experimental\" store, ask what share of the floor does not sell and what happens there on a schedule. That separates research from expensive finishing.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    }
+  ]
+}

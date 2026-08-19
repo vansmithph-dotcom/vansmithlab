@@ -1,0 +1,109 @@
+{
+  "id": "obj_longform_e71601e5a2639e86",
+  "category": "longform",
+  "canonical_name": "Olivetti: компания как тотальный проект дизайна",
+  "canonical_name_en": "Olivetti: the company as a total design project",
+  "title_ru": "Olivetti: компания как тотальный проект дизайна",
+  "slug_ru": "olivetti-company-as-total-design-project",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "industrial-design",
+    "graphic-design"
+  ],
+  "sources": [
+    {
+      "id": "src_longform_e71601e5a2639e86_01",
+      "title": "Olivetti — About us",
+      "url": "https://www.olivetti.com/en/corporate/about-us",
+      "publisher": "Olivetti",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_e71601e5a2639e86_02",
+      "title": "Cooper Hewitt — Olivetti Valentine typewriter",
+      "url": "https://collection.cooperhewitt.org/objects/18487119/",
+      "publisher": "Cooper Hewitt",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_e71601e5a2639e86_03",
+      "title": "SFMOMA — Olivetti Valentine",
+      "url": "https://www.sfmoma.org/artwork/2000.113.A-B/",
+      "publisher": "SFMOMA",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_e71601e5a2639e86_04",
+      "title": "MoMA — Architecture and Design Department",
+      "url": "https://www.moma.org/about/curatorial-departments/architecture-design",
+      "publisher": "MoMA",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_e71601e5a2639e86_05",
+      "title": "Triennale Milano — Archive",
+      "url": "https://triennale.org/en/archive",
+      "publisher": "Triennale Milano",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_e71601e5a2639e86_06",
+      "title": "Design Museum — Collection",
+      "url": "https://designmuseum.org/about-the-museum/design-museum-collection",
+      "publisher": "Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_e71601e5a2639e86_07",
+      "title": "World Design Organization — Definition of industrial design",
+      "url": "https://wdo.org/about/definition/",
+      "publisher": "World Design Organization",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_longform_e71601e5a2639e86_thesis",
+      "wording_ru": "Olivetti интересна не отдельными удачными предметами, а тем, что проектным решением была охвачена вся компания: машина, упаковка, плакат, магазин, завод и посёлок для рабочих. Дизайн здесь был не отделом, а способом управления.",
+      "wording_en": "Olivetti is interesting not for individual successful products but because design decisions covered the entire company: the machine, the packaging, the poster, the store, the factory, and housing for workers. Design here was not a department but a mode of governance.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_longform_e71601e5a2639e86_system",
+      "wording_ru": "Ключевое решение — не разделять уровни. Один и тот же круг авторов работал над корпусом машины, шрифтом каталога, интерьером магазина и планировкой цеха. Согласованность возникала не из руководства по стилю, а из общего заказчика и общего разговора.",
+      "wording_en": "The key decision was not to separate the levels. The same circle of authors worked on the machine housing, the catalogue typography, the store interior, and the factory layout. Consistency arose not from a style manual but from a shared client and a shared conversation.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_longform_e71601e5a2639e86_myth",
+      "wording_ru": "Миф начинается там, где компанию описывают как гуманистическую утопию. Она была коммерческим предприятием в конкурентной отрасли, и социальная программа существовала ровно до тех пор, пока её выдерживала прибыль.",
+      "wording_en": "The myth begins where the company is described as a humanist utopia. It was a commercial enterprise in a competitive industry, and the social programme lasted precisely as long as profit sustained it.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_longform_e71601e5a2639e86_critique",
+      "wording_ru": "Критика обоснованна в двух пунктах. Модель зависела от одного собственника с необычными убеждениями и не пережила смену руководства; и она не спасла компанию от технологического отставания. Красота метода не отменила рыночного результата.",
+      "wording_en": "The critique is justified on two points. The model depended on a single owner with unusual convictions and did not survive a change of leadership; and it did not save the company from falling behind technologically. The elegance of the method did not override the market outcome.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_longform_e71601e5a2639e86_today",
+      "wording_ru": "Смотрите на стыки, а не на предметы: как решение о корпусе связано с решением о плакате и о планировке цеха. Там, где эта связь документируется, случай полезен; там, где она только декларируется, начинается легенда.",
+      "wording_en": "Look at the joints rather than the objects: how a decision about a housing connects to a decision about a poster and a factory plan. Where that connection is documented the case is useful; where it is merely asserted, legend begins.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    }
+  ]
+}

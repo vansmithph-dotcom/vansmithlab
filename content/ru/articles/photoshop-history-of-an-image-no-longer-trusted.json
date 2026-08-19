@@ -1,0 +1,39 @@
+{
+  "content_id": "cnt_longform_ru_c7ceea6a5d48515b",
+  "primary_object_id": "obj_longform_c7ceea6a5d48515b",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_longform_c7ceea6a5d48515b_thesis",
+    "clm_longform_c7ceea6a5d48515b_system",
+    "clm_longform_c7ceea6a5d48515b_myth",
+    "clm_longform_c7ceea6a5d48515b_critique",
+    "clm_longform_c7ceea6a5d48515b_today"
+  ],
+  "source_ids": [
+    "src_longform_c7ceea6a5d48515b_01",
+    "src_longform_c7ceea6a5d48515b_02",
+    "src_longform_c7ceea6a5d48515b_03",
+    "src_longform_c7ceea6a5d48515b_04",
+    "src_longform_c7ceea6a5d48515b_05",
+    "src_longform_c7ceea6a5d48515b_06",
+    "src_longform_c7ceea6a5d48515b_07"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "photoshop-history-of-an-image-no-longer-trusted",
+  "title": "Photoshop: история изображения, которому перестали доверять",
+  "summary": "Программа сделала изображение открытым, слоистым, обратимым — и тем самым подозрительным.",
+  "discipline": [
+    "image-grammar",
+    "media-publishing"
+  ],
+  "kind": "research",
+  "role": [],
+  "body_hash": "afd0b2f3385249ccf4cbe6f5e275127d0b9ca2a111aa6ddd1b8ed58b26dadc26"
+}

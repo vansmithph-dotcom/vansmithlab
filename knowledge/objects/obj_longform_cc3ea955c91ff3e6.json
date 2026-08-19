@@ -1,0 +1,101 @@
+{
+  "id": "obj_longform_cc3ea955c91ff3e6",
+  "category": "longform",
+  "canonical_name": "IKEA: плоская упаковка как культурная и логистическая система",
+  "canonical_name_en": "IKEA: flat pack as a cultural and logistical system",
+  "title_ru": "IKEA: плоская упаковка как культурная и логистическая система",
+  "slug_ru": "ikea-flat-pack-as-cultural-and-logistical-system",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "industrial-design",
+    "space-typologies"
+  ],
+  "sources": [
+    {
+      "id": "src_longform_cc3ea955c91ff3e6_01",
+      "title": "Design Museum — Collection",
+      "url": "https://designmuseum.org/about-the-museum/design-museum-collection",
+      "publisher": "Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_cc3ea955c91ff3e6_02",
+      "title": "Design Museum — Chairs of the 1960s",
+      "url": "https://designmuseum.org/design/chairs-1960s",
+      "publisher": "Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_cc3ea955c91ff3e6_03",
+      "title": "MoMA — Architecture and Design Department",
+      "url": "https://www.moma.org/about/curatorial-departments/architecture-design",
+      "publisher": "MoMA",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_cc3ea955c91ff3e6_04",
+      "title": "Vitra Design Museum — Online Collection",
+      "url": "https://collection.design-museum.de/en/",
+      "publisher": "Vitra Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_cc3ea955c91ff3e6_05",
+      "title": "Ellen MacArthur Foundation — Materiom",
+      "url": "https://ellenmacarthurfoundation.org/ce100/members/materiom",
+      "publisher": "Ellen MacArthur Foundation",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_cc3ea955c91ff3e6_06",
+      "title": "World Design Organization — Definition of industrial design",
+      "url": "https://wdo.org/about/definition/",
+      "publisher": "World Design Organization",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_longform_cc3ea955c91ff3e6_thesis",
+      "wording_ru": "Плоская упаковка обычно подаётся как способ сэкономить на перевозке. На деле это конструктивное требование, которое переписало мебель: соединения, материалы, допуски и роль покупателя изменились под него.",
+      "wording_en": "Flat packing is usually presented as a way to save on transport. In fact it is a constructional requirement that rewrote furniture: joints, materials, tolerances, and the customer’s role all changed to accommodate it.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_longform_cc3ea955c91ff3e6_system",
+      "wording_ru": "Известная история о снятии ножек со стола ради помещения его в автомобиль описывает суть точно, даже если детали пересказа неточны. Приём родился из физического препятствия, а не из проектной идеи.",
+      "wording_en": "The well-known story of removing a table’s legs to fit it into a car describes the essence accurately, even if the retelling’s details are imprecise. The device was born from a physical obstacle rather than from a design idea.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_longform_cc3ea955c91ff3e6_myth",
+      "wording_ru": "Миф начинается с демократизации хорошего дизайна. Модель действительно снизила цены, но одновременно стандартизировала интерьер до узнаваемого набора решений по всему миру.",
+      "wording_en": "The myth begins with the democratisation of good design. The model genuinely lowered prices, but it also standardised the interior into a recognisable set of solutions worldwide.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_longform_cc3ea955c91ff3e6_critique",
+      "wording_ru": "Критика обоснованна: срок службы ограничен разрушением соединений, объёмы производства создают нагрузку на ресурсы, а стандартизация интерьера имеет культурные последствия. Компания частично отвечает программами ремонта и приёма вещей.",
+      "wording_en": "The critique is justified: service life is limited by joint failure, production volumes create resource pressure, and interior standardisation has cultural consequences. The company responds partly through repair and take-back programmes.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_longform_cc3ea955c91ff3e6_today",
+      "wording_ru": "Разбирая любую недорогую мебель, посмотрите на соединение и на объём коробки относительно объёма изделия. Эти два показателя объясняют и цену, и срок службы.",
+      "wording_en": "When examining any inexpensive furniture, look at the joint and at box volume relative to product volume. Those two figures explain both price and service life.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "content_id": "cnt_longform_en_c7ceea6a5d48515b",
+  "primary_object_id": "obj_longform_c7ceea6a5d48515b",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_longform_c7ceea6a5d48515b_thesis",
+    "clm_longform_c7ceea6a5d48515b_system",
+    "clm_longform_c7ceea6a5d48515b_myth",
+    "clm_longform_c7ceea6a5d48515b_critique",
+    "clm_longform_c7ceea6a5d48515b_today"
+  ],
+  "source_ids": [
+    "src_longform_c7ceea6a5d48515b_01",
+    "src_longform_c7ceea6a5d48515b_02",
+    "src_longform_c7ceea6a5d48515b_03",
+    "src_longform_c7ceea6a5d48515b_04",
+    "src_longform_c7ceea6a5d48515b_05",
+    "src_longform_c7ceea6a5d48515b_06",
+    "src_longform_c7ceea6a5d48515b_07"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "photoshop-history-of-an-image-no-longer-trusted",
+  "title": "Photoshop: the history of an image no longer trusted",
+  "summary": "The software made the image open, layered, and reversible — and thereby suspect.",
+  "discipline": [
+    "image-grammar",
+    "media-publishing"
+  ],
+  "kind": "research",
+  "role": [],
+  "body_hash": "ddec502786816c343fec50731e1deb47c3a093fe7e19afc2e8974c12275762fd"
+}

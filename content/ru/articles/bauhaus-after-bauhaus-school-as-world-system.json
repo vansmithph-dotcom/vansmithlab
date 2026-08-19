@@ -1,0 +1,39 @@
+{
+  "content_id": "cnt_longform_ru_09cb0e025ca84754",
+  "primary_object_id": "obj_longform_09cb0e025ca84754",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_longform_09cb0e025ca84754_thesis",
+    "clm_longform_09cb0e025ca84754_system",
+    "clm_longform_09cb0e025ca84754_myth",
+    "clm_longform_09cb0e025ca84754_critique",
+    "clm_longform_09cb0e025ca84754_today"
+  ],
+  "source_ids": [
+    "src_longform_09cb0e025ca84754_01",
+    "src_longform_09cb0e025ca84754_02",
+    "src_longform_09cb0e025ca84754_03",
+    "src_longform_09cb0e025ca84754_04",
+    "src_longform_09cb0e025ca84754_05",
+    "src_longform_09cb0e025ca84754_06",
+    "src_longform_09cb0e025ca84754_07"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "bauhaus-after-bauhaus-school-as-world-system",
+  "title": "Bauhaus после Bauhaus: как школа стала мировой системой",
+  "summary": "После закрытия школа оказалась сильнее как сеть идей, миграций, программ и архивов, чем как учебное заведение.",
+  "discipline": [
+    "history-movements",
+    "graphic-design"
+  ],
+  "kind": "research",
+  "role": [],
+  "body_hash": "502fdb17bb7c77169fe1233f667af0dff0435d93d14641a89d47276015f4431b"
+}

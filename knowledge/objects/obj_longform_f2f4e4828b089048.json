@@ -1,0 +1,101 @@
+{
+  "id": "obj_longform_f2f4e4828b089048",
+  "category": "longform",
+  "canonical_name": "Polaroid: изображение как физическое событие",
+  "canonical_name_en": "Polaroid: image as a physical event",
+  "title_ru": "Polaroid: изображение как физическое событие",
+  "slug_ru": "polaroid-image-as-physical-event",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "image-grammar",
+    "materials"
+  ],
+  "sources": [
+    {
+      "id": "src_longform_f2f4e4828b089048_01",
+      "title": "MoMA — Collection",
+      "url": "https://www.moma.org/collection/",
+      "publisher": "MoMA",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_f2f4e4828b089048_02",
+      "title": "MoMA — Architecture and Design Department",
+      "url": "https://www.moma.org/about/curatorial-departments/architecture-design",
+      "publisher": "MoMA",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_f2f4e4828b089048_03",
+      "title": "Design Museum — Collection",
+      "url": "https://designmuseum.org/about-the-museum/design-museum-collection",
+      "publisher": "Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_f2f4e4828b089048_04",
+      "title": "V&A — 100 years of fashion photography",
+      "url": "https://www.vam.ac.uk/articles/100-years-of-fashion-photography",
+      "publisher": "V&A",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_f2f4e4828b089048_05",
+      "title": "Computer History Museum — Collections catalog",
+      "url": "https://www.computerhistory.org/collections/catalog/102657986/",
+      "publisher": "Computer History Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_longform_f2f4e4828b089048_06",
+      "title": "World Design Organization — Definition of industrial design",
+      "url": "https://wdo.org/about/definition/",
+      "publisher": "World Design Organization",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_longform_f2f4e4828b089048_thesis",
+      "wording_ru": "Мгновенная фотография интересна тем, что сокращает расстояние между съёмкой и предметом до минут. Исчезает лаборатория, исчезает негатив, и вместе с ними исчезает целый этап профессионального контроля.",
+      "wording_en": "Instant photography is interesting because it compresses the distance between exposure and object to minutes. The laboratory disappears, the negative disappears, and with them an entire stage of professional control.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_longform_f2f4e4828b089048_system",
+      "wording_ru": "Производитель контролировал камеру, плёнку и химию одновременно. Это давало точность результата и создавало зависимость: без фирменного материала аппарат превращался в бесполезный предмет.",
+      "wording_en": "The manufacturer controlled camera, film, and chemistry simultaneously. This delivered precision of result and created dependency: without proprietary material the apparatus became a useless object.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_longform_f2f4e4828b089048_myth",
+      "wording_ru": "Миф начинается с ностальгической подлинности. Мгновенный снимок не документальнее прочих: кадрирование, свет и выбор момента работают в нём ровно так же, а цветопередача заметно условна.",
+      "wording_en": "The myth begins with nostalgic authenticity. An instant print is no more documentary than any other: framing, light, and choice of moment operate identically, and colour rendering is markedly conventional.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_longform_f2f4e4828b089048_critique",
+      "wording_ru": "Критика обоснованна: качество изображения уступало плёнке, стоимость кадра была высокой, сохранность низкой, а система закрытой. Формат выиграл сценарий, а не характеристики.",
+      "wording_en": "The critique is justified: image quality was inferior to film, cost per frame was high, permanence was poor, and the system was closed. The format won on scenario, not on specification.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_longform_f2f4e4828b089048_today",
+      "wording_ru": "Держа снимок в руках, обратите внимание на то, чего в нём нет: негатива, копии и возможности сравнения. Отсутствие этих вещей и определяет его статус.",
+      "wording_en": "Holding a print, note what it lacks: a negative, a copy, and the possibility of comparison. The absence of these is what defines its status.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    }
+  ]
+}

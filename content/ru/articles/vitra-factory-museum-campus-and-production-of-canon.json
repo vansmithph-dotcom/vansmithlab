@@ -1,0 +1,38 @@
+{
+  "content_id": "cnt_longform_ru_4e6fb076ba2d3e90",
+  "primary_object_id": "obj_longform_4e6fb076ba2d3e90",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_longform_4e6fb076ba2d3e90_thesis",
+    "clm_longform_4e6fb076ba2d3e90_system",
+    "clm_longform_4e6fb076ba2d3e90_myth",
+    "clm_longform_4e6fb076ba2d3e90_critique",
+    "clm_longform_4e6fb076ba2d3e90_today"
+  ],
+  "source_ids": [
+    "src_longform_4e6fb076ba2d3e90_01",
+    "src_longform_4e6fb076ba2d3e90_02",
+    "src_longform_4e6fb076ba2d3e90_03",
+    "src_longform_4e6fb076ba2d3e90_04",
+    "src_longform_4e6fb076ba2d3e90_05",
+    "src_longform_4e6fb076ba2d3e90_06"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "vitra-factory-museum-campus-and-production-of-canon",
+  "title": "Vitra: фабрика, музей, кампус и производство канона",
+  "summary": "Фабрика, коллекция, музей и авторская архитектура вместе производят не только мебель, но и сам канон дизайна.",
+  "discipline": [
+    "industrial-design",
+    "space-typologies"
+  ],
+  "kind": "research",
+  "role": [],
+  "body_hash": "24cfc5566507d011e6ec033d64fdb063bb5c3052ebc6c3a4993c7d829de4d315"
+}
