@@ -1,0 +1,37 @@
+{
+  "content_id": "cnt_image_ru_f629779a46105d20",
+  "primary_object_id": "obj_image_f629779a46105d20",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_storyboard-image-before-imag_def",
+    "clm_storyboard-image-before-imag_orig",
+    "clm_storyboard-image-before-imag_form",
+    "clm_storyboard-image-before-imag_use",
+    "clm_storyboard-image-before-imag_impact",
+    "clm_storyboard-image-before-imag_today"
+  ],
+  "source_ids": [
+    "src_storyboard-image-before-image_01",
+    "src_storyboard-image-before-image_02",
+    "src_storyboard-image-before-image_03",
+    "src_storyboard-image-before-image_04",
+    "src_storyboard-image-before-image_05",
+    "src_storyboard-image-before-image_06"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "storyboard-image-before-image",
+  "title": "Раскадровка — изображение до изображения",
+  "summary": "Последовательность рисунков или кадров позволяет увидеть монтаж, масштаб и движение до дорогого производства.",
+  "discipline": [
+    "image-grammar"
+  ],
+  "kind": "theme",
+  "body_hash": "096e391a1dee7156edd5407a169c4618aaa201f1e70fad525f53bbb6cd9c3d27"
+}

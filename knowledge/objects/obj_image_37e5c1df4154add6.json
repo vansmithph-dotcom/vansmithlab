@@ -1,0 +1,119 @@
+{
+  "id": "obj_image_37e5c1df4154add6",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "content_type": "encyclopedia",
+  "canonical_name": "Контактный лист — фотография как процесс выбора",
+  "canonical_name_en": "Contact Sheet — Photography as a Process of Selection",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_contact-sheet-photography-as-p_01",
+      "title": "www.loc.gov",
+      "url": "https://www.loc.gov/collections/fsa-owi-black-and-white-negatives/about-this-collection/",
+      "tier": 1
+    },
+    {
+      "id": "src_contact-sheet-photography-as-p_02",
+      "title": "guides.loc.gov",
+      "url": "https://guides.loc.gov/us-news-and-world-report-photograph-collection/collection-strengths",
+      "tier": 1
+    },
+    {
+      "id": "src_contact-sheet-photography-as-p_03",
+      "title": "www.loc.gov",
+      "url": "https://www.loc.gov/collections/look-magazine/about-this-collection/",
+      "tier": 1
+    },
+    {
+      "id": "src_contact-sheet-photography-as-p_04",
+      "title": "www.loc.gov",
+      "url": "https://www.loc.gov/pictures/collection/lmc/background.html",
+      "tier": 1
+    },
+    {
+      "id": "src_contact-sheet-photography-as-p_05",
+      "title": "www.metmuseum.org",
+      "url": "https://www.metmuseum.org/exhibitions/lillian-bassman-bazaar-and-beyond",
+      "tier": 1
+    },
+    {
+      "id": "src_contact-sheet-photography-as-p_06",
+      "title": "www.metmuseum.org",
+      "url": "https://www.metmuseum.org/press-releases/irving-penn-2016-exhibitions",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_contact-sheet-photography-as_def",
+      "wording_ru": "Контактный лист — физический или цифровой интерфейс отбора, показывающий последовательность съёмки и отношения между соседними кадрами. Он переводит фотографию из акта экспонирования в процесс редактирования.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_contact-sheet-photography-as_orig",
+      "wording_ru": "В плёночной практике полосы негативов контактно печатались на бумаге, чтобы быстро увидеть весь ролик. Журнальные архивы сохранили листы с отметками редакторов и фотографов, позволяющие восстановить логику выбора.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_contact-sheet-photography-as_form",
+      "wording_ru": "Материал изображения включает носитель, оптику или исходный файл, свет, поверхность воспроизведения и метаданные; форма зависит от всей цепочки, а не только от момента съёмки. Контактный лист требует сохранения номера кадра, порядка и связи с исходным негативом/файлом; иначе он превращается в красив",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_contact-sheet-photography-as_use",
+      "wording_ru": "Негативы или миниатюры располагаются в последовательности; автор и редактор сравнивают жест, резкость, композицию и смысл, маркируют кандидатов и переходят к рабочим отпечаткам или финальным файлам.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_contact-sheet-photography-as_impact",
+      "wording_ru": "Главное изменение для дисциплины — превращение изображения из единичного кадра в управляемую систему решений, версий, носителей и связей. съёмка → последовательность → сравнение → отметка → выбор → публикация",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_contact-sheet-photography-as_today",
+      "wording_ru": "Сегодня тему следует читать как цепочку: съёмка → последовательность → сравнение → отметка → выбор → публикация. Финальное изображение — видимая поверхность большого производственного процесса.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_contact-sheet-photography-as_def",
+      "source_id": "src_contact-sheet-photography-as-p_01",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_contact-sheet-photography-as_orig",
+      "source_id": "src_contact-sheet-photography-as-p_02",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_contact-sheet-photography-as_form",
+      "source_id": "src_contact-sheet-photography-as-p_03",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_contact-sheet-photography-as_use",
+      "source_id": "src_contact-sheet-photography-as-p_04",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_contact-sheet-photography-as_impact",
+      "source_id": "src_contact-sheet-photography-as-p_05",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_contact-sheet-photography-as_today",
+      "source_id": "src_contact-sheet-photography-as-p_06",
+      "locator": "Official documentation and institutional sources"
+    }
+  ],
+  "last_updated": "2026-08-19"
+}

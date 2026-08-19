@@ -1,0 +1,43 @@
+{
+  "content_id": "cnt_image_en_4931afaa4ed04ae4",
+  "primary_object_id": "obj_image_4931afaa4ed04ae4",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_retouching-from-negative-to-_def",
+    "clm_retouching-from-negative-to-_orig",
+    "clm_retouching-from-negative-to-_form",
+    "clm_retouching-from-negative-to-_use",
+    "clm_retouching-from-negative-to-_impact",
+    "clm_retouching-from-negative-to-_today"
+  ],
+  "source_ids": [
+    "src_retouching-from-negative-to-di_01",
+    "src_retouching-from-negative-to-di_02",
+    "src_retouching-from-negative-to-di_03",
+    "src_retouching-from-negative-to-di_04",
+    "src_retouching-from-negative-to-di_05",
+    "src_retouching-from-negative-to-di_06"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "retouching-from-negative-to-digital-image",
+  "title": "Retouching — From Negative to Digital Image",
+  "summary": "Correction, interpretation and power over the photographic surface existed long before Photoshop.",
+  "discipline": [
+    "image-grammar"
+  ],
+  "kind": "theme",
+  "body_hash": "b7ab91ae1d5164d885c4db1b564d530380ac4e026eb222f59d02730cb495ed3f",
+  "translation": {
+    "source_locale": "ru",
+    "translated_by": "VANSMITHLAB",
+    "semantic_validated": true,
+    "translation_date": "2026-08-19"
+  }
+}

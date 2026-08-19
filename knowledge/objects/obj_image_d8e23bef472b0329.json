@@ -1,0 +1,119 @@
+{
+  "id": "obj_image_d8e23bef472b0329",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "content_type": "encyclopedia",
+  "canonical_name": "Титры — типографика во времени",
+  "canonical_name_en": "Title Sequences — Typography in Time",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_title-sequences-typography-in-_01",
+      "title": "www.oscars.org",
+      "url": "https://www.oscars.org/events/saul-bass-celebration",
+      "tier": 1
+    },
+    {
+      "id": "src_title-sequences-typography-in-_02",
+      "title": "www.bfi.org.uk",
+      "url": "https://www.bfi.org.uk/lists/celebrating-saul-basss-centenary-10-essential-title-sequences",
+      "tier": 1
+    },
+    {
+      "id": "src_title-sequences-typography-in-_03",
+      "title": "press.oscars.org",
+      "url": "https://press.oscars.org/news/academy-motion-picture-arts-and-sciences-announces-new-acquisitions-academy-collection-now",
+      "tier": 1
+    },
+    {
+      "id": "src_title-sequences-typography-in-_04",
+      "title": "www.adobe.com",
+      "url": "https://www.adobe.com/products/aftereffects.html",
+      "tier": 1
+    },
+    {
+      "id": "src_title-sequences-typography-in-_05",
+      "title": "helpx.adobe.com",
+      "url": "https://helpx.adobe.com/after-effects/desktop/motion-graphics/work-with-motion-graphics-templates/creating-motion-graphics-templates.html",
+      "tier": 1
+    },
+    {
+      "id": "src_title-sequences-typography-in-_06",
+      "title": "www.cooperhewitt.org",
+      "url": "https://www.cooperhewitt.org/2020/06/29/milton-glaser-1929-2020/",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_title-sequences-typography-i_def",
+      "wording_ru": "Титры и title sequence — система текста, изображения, звука и времени, которая передаёт обязательную информацию и одновременно формирует вход в произведение.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_title-sequences-typography-i_orig",
+      "wording_ru": "Ранние кинотитры были прежде всего информационными карточками; в середине XX века дизайнеры, особенно Саул Басс, превратили открывающую последовательность в самостоятельный визуальный пролог.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_title-sequences-typography-i_form",
+      "wording_ru": "Материал изображения включает носитель, оптику или исходный файл, свет, поверхность воспроизведения и метаданные; форма зависит от всей цепочки, а не только от момента съёмки. Производство требует графического дизайна, анимации, монтажа, композитинга, музыкального/звукового тайминга и юридически точ",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_title-sequences-typography-i_use",
+      "wording_ru": "Список имён и ролей переводится в иерархию; затем определяются типографика, композиция, длительность, движение, музыка и отношение к первому кадру фильма.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_title-sequences-typography-i_impact",
+      "wording_ru": "Главное изменение для дисциплины — превращение изображения из единичного кадра в управляемую систему решений, версий, носителей и связей. список титров → иерархия → типографика → движение → звук → вход в произведение",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_title-sequences-typography-i_today",
+      "wording_ru": "Сегодня тему следует читать как цепочку: список титров → иерархия → типографика → движение → звук → вход в произведение. Финальное изображение — видимая поверхность большого производственного процесса.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_title-sequences-typography-i_def",
+      "source_id": "src_title-sequences-typography-in-_01",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_title-sequences-typography-i_orig",
+      "source_id": "src_title-sequences-typography-in-_02",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_title-sequences-typography-i_form",
+      "source_id": "src_title-sequences-typography-in-_03",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_title-sequences-typography-i_use",
+      "source_id": "src_title-sequences-typography-in-_04",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_title-sequences-typography-i_impact",
+      "source_id": "src_title-sequences-typography-in-_05",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_title-sequences-typography-i_today",
+      "source_id": "src_title-sequences-typography-in-_06",
+      "locator": "Official documentation and institutional sources"
+    }
+  ],
+  "last_updated": "2026-08-19"
+}

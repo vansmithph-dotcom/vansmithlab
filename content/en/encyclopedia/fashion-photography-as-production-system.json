@@ -1,0 +1,43 @@
+{
+  "content_id": "cnt_image_en_df435e13eeb75010",
+  "primary_object_id": "obj_image_df435e13eeb75010",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_fashion-photography-as-produ_def",
+    "clm_fashion-photography-as-produ_orig",
+    "clm_fashion-photography-as-produ_form",
+    "clm_fashion-photography-as-produ_use",
+    "clm_fashion-photography-as-produ_impact",
+    "clm_fashion-photography-as-produ_today"
+  ],
+  "source_ids": [
+    "src_fashion-photography-as-product_01",
+    "src_fashion-photography-as-product_02",
+    "src_fashion-photography-as-product_03",
+    "src_fashion-photography-as-product_04",
+    "src_fashion-photography-as-product_05",
+    "src_fashion-photography-as-product_06"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "fashion-photography-as-production-system",
+  "title": "Fashion Photography — Not a Genre but a Production System",
+  "summary": "Clothing becomes an image through team, editorial context, pose, light, printing and distribution.",
+  "discipline": [
+    "image-grammar"
+  ],
+  "kind": "theme",
+  "body_hash": "158b6ff74a49b8b4a1cfedf7159140839a70a9da3f32b99d849f0eea819a85fa",
+  "translation": {
+    "source_locale": "ru",
+    "translated_by": "VANSMITHLAB",
+    "semantic_validated": true,
+    "translation_date": "2026-08-19"
+  }
+}

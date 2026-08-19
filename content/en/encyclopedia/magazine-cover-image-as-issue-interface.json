@@ -1,0 +1,43 @@
+{
+  "content_id": "cnt_image_en_e6432fb89eb372be",
+  "primary_object_id": "obj_image_e6432fb89eb372be",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_magazine-cover-image-as-issu_def",
+    "clm_magazine-cover-image-as-issu_orig",
+    "clm_magazine-cover-image-as-issu_form",
+    "clm_magazine-cover-image-as-issu_use",
+    "clm_magazine-cover-image-as-issu_impact",
+    "clm_magazine-cover-image-as-issu_today"
+  ],
+  "source_ids": [
+    "src_magazine-cover-image-as-issue-_01",
+    "src_magazine-cover-image-as-issue-_02",
+    "src_magazine-cover-image-as-issue-_03",
+    "src_magazine-cover-image-as-issue-_04",
+    "src_magazine-cover-image-as-issue-_05",
+    "src_magazine-cover-image-as-issue-_06"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "magazine-cover-image-as-issue-interface",
+  "title": "Magazine Cover — Image as the Interface of an Issue",
+  "summary": "One frame, a name, a masthead and a few lines must sell the issue while stating its position.",
+  "discipline": [
+    "image-grammar"
+  ],
+  "kind": "theme",
+  "body_hash": "60c096bb04e9afa223b22946672aaf2dc75bcf9df97b1ea9bda34165ee94db00",
+  "translation": {
+    "source_locale": "ru",
+    "translated_by": "VANSMITHLAB",
+    "semantic_validated": true,
+    "translation_date": "2026-08-19"
+  }
+}

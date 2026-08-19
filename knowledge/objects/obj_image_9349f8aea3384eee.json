@@ -1,0 +1,119 @@
+{
+  "id": "obj_image_9349f8aea3384eee",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "content_type": "encyclopedia",
+  "canonical_name": "Разворот — пространство между двумя страницами",
+  "canonical_name_en": "Magazine Spread — The Space Between Two Pages",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_magazine-spread-space-between-_01",
+      "title": "www.adobe.com",
+      "url": "https://www.adobe.com/learn/indesign/web/design-magazine-layout",
+      "tier": 1
+    },
+    {
+      "id": "src_magazine-spread-space-between-_02",
+      "title": "helpx.adobe.com",
+      "url": "https://helpx.adobe.com/indesign/desktop/create-and-organize-pages/create-documents/create-multi-page-spreads.html",
+      "tier": 1
+    },
+    {
+      "id": "src_magazine-spread-space-between-_03",
+      "title": "www.cooperhewitt.org",
+      "url": "https://www.cooperhewitt.org/national-design-awards/2025-national-design-award-winners/",
+      "tier": 1
+    },
+    {
+      "id": "src_magazine-spread-space-between-_04",
+      "title": "www.cooperhewitt.org",
+      "url": "https://www.cooperhewitt.org/2020/06/29/milton-glaser-1929-2020/",
+      "tier": 1
+    },
+    {
+      "id": "src_magazine-spread-space-between-_05",
+      "title": "www.cooperhewitt.org",
+      "url": "https://www.cooperhewitt.org/2012/11/07/i-read-it-in-a-magazine/",
+      "tier": 1
+    },
+    {
+      "id": "src_magazine-spread-space-between-_06",
+      "title": "www.metmuseum.org",
+      "url": "https://www.metmuseum.org/exhibitions/lillian-bassman-bazaar-and-beyond",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_magazine-spread-space-betwee_def",
+      "wording_ru": "Разворот — базовая пространственная единица печатной редакционной композиции: две соседние страницы, воспринимаемые одновременно. Он позволяет строить масштаб, ритм, контраст и переход между текстом и изображением.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_magazine-spread-space-betwee_orig",
+      "wording_ru": "Модернистская журнальная верстка XX века превратила разворот из технического соседства страниц в активное поле монтажа, где фотография могла пересекать сгиб, а пустое пространство — стать частью аргумента.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_magazine-spread-space-betwee_form",
+      "wording_ru": "Материал изображения включает носитель, оптику или исходный файл, свет, поверхность воспроизведения и метаданные; форма зависит от всей цепочки, а не только от момента съёмки. Производство требует точного понимания печатного формата, переплёта, безопасных зон, вылетов и того, какие элементы допустим",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_magazine-spread-space-betwee_use",
+      "wording_ru": "Дизайнер работает с facing pages, сеткой, полями, колонками, линией сгиба, bleed и последовательностью разворотов; решения проверяются как внутри одного spread, так и в ритме всего материала.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_magazine-spread-space-betwee_impact",
+      "wording_ru": "Главное изменение для дисциплины — превращение изображения из единичного кадра в управляемую систему решений, версий, носителей и связей. левая страница ↔ сгиб ↔ правая страница → следующий разворот",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_magazine-spread-space-betwee_today",
+      "wording_ru": "Сегодня тему следует читать как цепочку: левая страница ↔ сгиб ↔ правая страница → следующий разворот. Финальное изображение — видимая поверхность большого производственного процесса.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_magazine-spread-space-betwee_def",
+      "source_id": "src_magazine-spread-space-between-_01",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_magazine-spread-space-betwee_orig",
+      "source_id": "src_magazine-spread-space-between-_02",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_magazine-spread-space-betwee_form",
+      "source_id": "src_magazine-spread-space-between-_03",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_magazine-spread-space-betwee_use",
+      "source_id": "src_magazine-spread-space-between-_04",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_magazine-spread-space-betwee_impact",
+      "source_id": "src_magazine-spread-space-between-_05",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_magazine-spread-space-betwee_today",
+      "source_id": "src_magazine-spread-space-between-_06",
+      "locator": "Official documentation and institutional sources"
+    }
+  ],
+  "last_updated": "2026-08-19"
+}

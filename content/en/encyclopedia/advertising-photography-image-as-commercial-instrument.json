@@ -1,0 +1,43 @@
+{
+  "content_id": "cnt_image_en_381158720383fc5f",
+  "primary_object_id": "obj_image_381158720383fc5f",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_advertising-photography-imag_def",
+    "clm_advertising-photography-imag_orig",
+    "clm_advertising-photography-imag_form",
+    "clm_advertising-photography-imag_use",
+    "clm_advertising-photography-imag_impact",
+    "clm_advertising-photography-imag_today"
+  ],
+  "source_ids": [
+    "src_advertising-photography-image-_01",
+    "src_advertising-photography-image-_02",
+    "src_advertising-photography-image-_03",
+    "src_advertising-photography-image-_04",
+    "src_advertising-photography-image-_05",
+    "src_advertising-photography-image-_06"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "advertising-photography-image-as-commercial-instrument",
+  "title": "Advertising Photography",
+  "summary": "The frame is designed for an action: recognize, desire, remember, choose.",
+  "discipline": [
+    "image-grammar"
+  ],
+  "kind": "theme",
+  "body_hash": "fa86f058e686f39a2a60c6b08473da88e0ad8c22c9e1a5ffe9e297f49c2c5e3f",
+  "translation": {
+    "source_locale": "ru",
+    "translated_by": "VANSMITHLAB",
+    "semantic_validated": true,
+    "translation_date": "2026-08-19"
+  }
+}

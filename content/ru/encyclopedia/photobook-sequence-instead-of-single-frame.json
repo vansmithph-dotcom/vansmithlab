@@ -1,0 +1,37 @@
+{
+  "content_id": "cnt_image_ru_58074f50dfee85a5",
+  "primary_object_id": "obj_image_58074f50dfee85a5",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_photobook-sequence-instead-o_def",
+    "clm_photobook-sequence-instead-o_orig",
+    "clm_photobook-sequence-instead-o_form",
+    "clm_photobook-sequence-instead-o_use",
+    "clm_photobook-sequence-instead-o_impact",
+    "clm_photobook-sequence-instead-o_today"
+  ],
+  "source_ids": [
+    "src_photobook-sequence-instead-of-_01",
+    "src_photobook-sequence-instead-of-_02",
+    "src_photobook-sequence-instead-of-_03",
+    "src_photobook-sequence-instead-of-_04",
+    "src_photobook-sequence-instead-of-_05",
+    "src_photobook-sequence-instead-of-_06"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "photobook-sequence-instead-of-single-frame",
+  "title": "Фотокнига — последовательность вместо одиночного кадра",
+  "summary": "Книга превращает фотографии в время: порядок, масштаб, бумага и перелистывание становятся частью произведения.",
+  "discipline": [
+    "image-grammar"
+  ],
+  "kind": "theme",
+  "body_hash": "ecbd64dc8861607f5a5f798ea705a70ababf3090f8493e23aae3f26a99fc1430"
+}

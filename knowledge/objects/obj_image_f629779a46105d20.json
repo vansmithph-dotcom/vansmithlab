@@ -1,0 +1,119 @@
+{
+  "id": "obj_image_f629779a46105d20",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "content_type": "encyclopedia",
+  "canonical_name": "Раскадровка — изображение до изображения",
+  "canonical_name_en": "Storyboard — The Image Before the Image",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_storyboard-image-before-image_01",
+      "title": "press.oscars.org",
+      "url": "https://press.oscars.org/news/academy-motion-picture-arts-and-sciences-announces-new-acquisitions-academy-collection-now",
+      "tier": 1
+    },
+    {
+      "id": "src_storyboard-image-before-image_02",
+      "title": "www.oscars.org",
+      "url": "https://www.oscars.org/events/family-day-art-animation",
+      "tier": 1
+    },
+    {
+      "id": "src_storyboard-image-before-image_03",
+      "title": "www.metmuseum.org",
+      "url": "https://www.metmuseum.org/exhibitions/listings/2012/faking-it",
+      "tier": 1
+    },
+    {
+      "id": "src_storyboard-image-before-image_04",
+      "title": "www.aiga.org",
+      "url": "https://www.aiga.org/eye-on-design/all-advertising-looks-the-same-these-days-blame-the-moodboard",
+      "tier": 1
+    },
+    {
+      "id": "src_storyboard-image-before-image_05",
+      "title": "www.adobe.com",
+      "url": "https://www.adobe.com/products/aftereffects.html",
+      "tier": 1
+    },
+    {
+      "id": "src_storyboard-image-before-image_06",
+      "title": "www.visualeffectssociety.com",
+      "url": "https://www.visualeffectssociety.com/",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_storyboard-image-before-imag_def",
+      "wording_ru": "Раскадровка — визуальный план последовательности будущих кадров. Она переводит текст, идею или действие в серию изображений, где можно заранее проверить композицию, направление взгляда, движение камеры и монтаж.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_storyboard-image-before-imag_orig",
+      "wording_ru": "До кино существовали последовательные рисунки и иллюстративные планы; в индустриальном кинопроизводстве раскадровка становится инструментом координации режиссуры, камеры, постановки, анимации и визуальные эффекты.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_storyboard-image-before-imag_form",
+      "wording_ru": "Материал изображения включает носитель, оптику или исходный файл, свет, поверхность воспроизведения и метаданные; форма зависит от всей цепочки, а не только от момента съёмки. Раскадровка экономит дорогие изменения на площадке и служит общим визуальным языком между отделами.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_storyboard-image-before-imag_use",
+      "wording_ru": "Сцена разбивается на ключевые моменты; каждый кадр фиксирует масштаб, направление действия и важные элементы, а подписи могут указывать движение, звук или переход.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_storyboard-image-before-imag_impact",
+      "wording_ru": "Главное изменение для дисциплины — превращение изображения из единичного кадра в управляемую систему решений, версий, носителей и связей. сценарий → кадры → последовательность → аниматик/предварительная визуализация → съёмка → монтаж",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_storyboard-image-before-imag_today",
+      "wording_ru": "Сегодня тему следует читать как цепочку: сценарий → кадры → последовательность → аниматик/предварительная визуализация → съёмка → монтаж. Финальное изображение — видимая поверхность большого производственного процесса.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_storyboard-image-before-imag_def",
+      "source_id": "src_storyboard-image-before-image_01",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_storyboard-image-before-imag_orig",
+      "source_id": "src_storyboard-image-before-image_02",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_storyboard-image-before-imag_form",
+      "source_id": "src_storyboard-image-before-image_03",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_storyboard-image-before-imag_use",
+      "source_id": "src_storyboard-image-before-image_04",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_storyboard-image-before-imag_impact",
+      "source_id": "src_storyboard-image-before-image_05",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_storyboard-image-before-imag_today",
+      "source_id": "src_storyboard-image-before-image_06",
+      "locator": "Official documentation and institutional sources"
+    }
+  ],
+  "last_updated": "2026-08-19"
+}

@@ -1,0 +1,43 @@
+{
+  "content_id": "cnt_image_en_37e5c1df4154add6",
+  "primary_object_id": "obj_image_37e5c1df4154add6",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_contact-sheet-photography-as_def",
+    "clm_contact-sheet-photography-as_orig",
+    "clm_contact-sheet-photography-as_form",
+    "clm_contact-sheet-photography-as_use",
+    "clm_contact-sheet-photography-as_impact",
+    "clm_contact-sheet-photography-as_today"
+  ],
+  "source_ids": [
+    "src_contact-sheet-photography-as-p_01",
+    "src_contact-sheet-photography-as-p_02",
+    "src_contact-sheet-photography-as-p_03",
+    "src_contact-sheet-photography-as-p_04",
+    "src_contact-sheet-photography-as-p_05",
+    "src_contact-sheet-photography-as-p_06"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "contact-sheet-photography-as-process-of-selection",
+  "title": "Contact Sheet — Photography as a Process of Selection",
+  "summary": "A series becomes a story when frames can be seen together and exclusion begins.",
+  "discipline": [
+    "image-grammar"
+  ],
+  "kind": "theme",
+  "body_hash": "28eaf2b4d1cac82ad9947ba676e590bf320d2276ab0f28cc69048dabc0e9cdd4",
+  "translation": {
+    "source_locale": "ru",
+    "translated_by": "VANSMITHLAB",
+    "semantic_validated": true,
+    "translation_date": "2026-08-19"
+  }
+}

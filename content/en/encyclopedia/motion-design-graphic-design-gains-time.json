@@ -1,0 +1,43 @@
+{
+  "content_id": "cnt_image_en_79e3c924200ab24c",
+  "primary_object_id": "obj_image_79e3c924200ab24c",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_motion-design-graphic-design_def",
+    "clm_motion-design-graphic-design_orig",
+    "clm_motion-design-graphic-design_form",
+    "clm_motion-design-graphic-design_use",
+    "clm_motion-design-graphic-design_impact",
+    "clm_motion-design-graphic-design_today"
+  ],
+  "source_ids": [
+    "src_motion-design-graphic-design-g_01",
+    "src_motion-design-graphic-design-g_02",
+    "src_motion-design-graphic-design-g_03",
+    "src_motion-design-graphic-design-g_04",
+    "src_motion-design-graphic-design-g_05",
+    "src_motion-design-graphic-design-g_06"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "motion-design-graphic-design-gains-time",
+  "title": "Motion Design — Graphic Design Gains Time",
+  "summary": "Grid, type, form and image begin not only to occupy space but to change state.",
+  "discipline": [
+    "image-grammar"
+  ],
+  "kind": "theme",
+  "body_hash": "75924547a33913f657743fbd331b63dae0dcd33eb9e32bfb40fe22ae646eaf55",
+  "translation": {
+    "source_locale": "ru",
+    "translated_by": "VANSMITHLAB",
+    "semantic_validated": true,
+    "translation_date": "2026-08-19"
+  }
+}

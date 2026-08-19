@@ -1,0 +1,43 @@
+{
+  "content_id": "cnt_image_en_4d78e4bb1eb2fa66",
+  "primary_object_id": "obj_image_4d78e4bb1eb2fa66",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_editorial-photography-image-_def",
+    "clm_editorial-photography-image-_orig",
+    "clm_editorial-photography-image-_form",
+    "clm_editorial-photography-image-_use",
+    "clm_editorial-photography-image-_impact",
+    "clm_editorial-photography-image-_today"
+  ],
+  "source_ids": [
+    "src_editorial-photography-image-as_01",
+    "src_editorial-photography-image-as_02",
+    "src_editorial-photography-image-as_03",
+    "src_editorial-photography-image-as_04",
+    "src_editorial-photography-image-as_05",
+    "src_editorial-photography-image-as_06"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "editorial-photography-image-as-argument",
+  "title": "Editorial Photography",
+  "summary": "An image exists inside a topic, text, sequence and publication position.",
+  "discipline": [
+    "image-grammar"
+  ],
+  "kind": "theme",
+  "body_hash": "363a18bf3984963bfac55e2b4b741030dd74e0860db2ae906414340cbd086a01",
+  "translation": {
+    "source_locale": "ru",
+    "translated_by": "VANSMITHLAB",
+    "semantic_validated": true,
+    "translation_date": "2026-08-19"
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "id": "obj_image_58074f50dfee85a5",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "content_type": "encyclopedia",
+  "canonical_name": "Фотокнига — последовательность вместо одиночного кадра",
+  "canonical_name_en": "Photobook — Sequence Instead of the Single Frame",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_photobook-sequence-instead-of-_01",
+      "title": "www.moma.org",
+      "url": "https://www.moma.org/collection/terms/photobook",
+      "tier": 1
+    },
+    {
+      "id": "src_photobook-sequence-instead-of-_02",
+      "title": "www.moma.org",
+      "url": "https://www.moma.org/magazine/articles/331",
+      "tier": 1
+    },
+    {
+      "id": "src_photobook-sequence-instead-of-_03",
+      "title": "www.moma.org",
+      "url": "https://www.moma.org/calendar/events/7437",
+      "tier": 1
+    },
+    {
+      "id": "src_photobook-sequence-instead-of-_04",
+      "title": "www.metmuseum.org",
+      "url": "https://www.metmuseum.org/press-releases/irving-penn-2016-exhibitions",
+      "tier": 1
+    },
+    {
+      "id": "src_photobook-sequence-instead-of-_05",
+      "title": "www.metmuseum.org",
+      "url": "https://www.metmuseum.org/exhibitions/lillian-bassman-bazaar-and-beyond",
+      "tier": 1
+    },
+    {
+      "id": "src_photobook-sequence-instead-of-_06",
+      "title": "www.vam.ac.uk",
+      "url": "https://www.vam.ac.uk/articles/100-years-of-fashion-photography",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_photobook-sequence-instead-o_def",
+      "wording_ru": "Фотокнига — издание, в котором фотографический смысл строится через последовательность изображений и материальную форму книги. Отдельный кадр здесь подчинён монтажу, ритму и отношениям с соседними страницами.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_photobook-sequence-instead-o_orig",
+      "wording_ru": "Фотографы собирают изображения в книги почти с момента возникновения фотографии; в XX веке фотокнига становится самостоятельным авторским медиумом, а в XXI — важным полем коллекционирования и кураторства.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_photobook-sequence-instead-o_form",
+      "wording_ru": "Материал изображения включает носитель, оптику или исходный файл, свет, поверхность воспроизведения и метаданные; форма зависит от всей цепочки, а не только от момента съёмки. Производство соединяет файлы/негативы, цветопробу, верстку, бумагу, печать, переплёт, тираж, дистрибуцию и архив.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_photobook-sequence-instead-o_use",
+      "wording_ru": "Автор/редактор создаёт edit, последовательность и группы изображений; дизайнер определяет формат, бумагу, типографику, binding и темп; печатный proof проверяет, как фотографии работают как физический объект.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_photobook-sequence-instead-o_impact",
+      "wording_ru": "Главное изменение для дисциплины — превращение изображения из единичного кадра в управляемую систему решений, версий, носителей и связей. серия → edit → последовательность → макет → печать → переплёт → чтение",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_photobook-sequence-instead-o_today",
+      "wording_ru": "Сегодня тему следует читать как цепочку: серия → edit → последовательность → макет → печать → переплёт → чтение. Финальное изображение — видимая поверхность большого производственного процесса.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_photobook-sequence-instead-o_def",
+      "source_id": "src_photobook-sequence-instead-of-_01",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_photobook-sequence-instead-o_orig",
+      "source_id": "src_photobook-sequence-instead-of-_02",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_photobook-sequence-instead-o_form",
+      "source_id": "src_photobook-sequence-instead-of-_03",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_photobook-sequence-instead-o_use",
+      "source_id": "src_photobook-sequence-instead-of-_04",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_photobook-sequence-instead-o_impact",
+      "source_id": "src_photobook-sequence-instead-of-_05",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_photobook-sequence-instead-o_today",
+      "source_id": "src_photobook-sequence-instead-of-_06",
+      "locator": "Official documentation and institutional sources"
+    }
+  ],
+  "last_updated": "2026-08-19"
+}

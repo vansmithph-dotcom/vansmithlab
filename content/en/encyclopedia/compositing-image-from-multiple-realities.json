@@ -1,0 +1,43 @@
+{
+  "content_id": "cnt_image_en_f3bec726d14bd5f9",
+  "primary_object_id": "obj_image_f3bec726d14bd5f9",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_compositing-image-from-multi_def",
+    "clm_compositing-image-from-multi_orig",
+    "clm_compositing-image-from-multi_form",
+    "clm_compositing-image-from-multi_use",
+    "clm_compositing-image-from-multi_impact",
+    "clm_compositing-image-from-multi_today"
+  ],
+  "source_ids": [
+    "src_compositing-image-from-multipl_01",
+    "src_compositing-image-from-multipl_02",
+    "src_compositing-image-from-multipl_03",
+    "src_compositing-image-from-multipl_04",
+    "src_compositing-image-from-multipl_05",
+    "src_compositing-image-from-multipl_06"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "compositing-image-from-multiple-realities",
+  "title": "Compositing — An Image from Multiple Realities",
+  "summary": "One plausible frame can be assembled from different times, places, exposures and sources.",
+  "discipline": [
+    "image-grammar"
+  ],
+  "kind": "theme",
+  "body_hash": "c5bd2af10372f55cea680eed2512402c6a0f6ab2fe9a5596e28be2369e60c3fd",
+  "translation": {
+    "source_locale": "ru",
+    "translated_by": "VANSMITHLAB",
+    "semantic_validated": true,
+    "translation_date": "2026-08-19"
+  }
+}

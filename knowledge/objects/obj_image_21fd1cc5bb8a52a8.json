@@ -1,0 +1,119 @@
+{
+  "id": "obj_image_21fd1cc5bb8a52a8",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "content_type": "encyclopedia",
+  "canonical_name": "Цветокоррекция — цвет как авторское решение",
+  "canonical_name_en": "Color Grading — Color as an Authorial Decision",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_color-grading-color-as-authori_01",
+      "title": "helpx.adobe.com",
+      "url": "https://helpx.adobe.com/photoshop/using/understanding-color-management.html",
+      "tier": 1
+    },
+    {
+      "id": "src_color-grading-color-as-authori_02",
+      "title": "acescentral.com",
+      "url": "https://acescentral.com/",
+      "tier": 1
+    },
+    {
+      "id": "src_color-grading-color-as-authori_03",
+      "title": "acescentral.com",
+      "url": "https://acescentral.com/what-is-academy-aces/",
+      "tier": 1
+    },
+    {
+      "id": "src_color-grading-color-as-authori_04",
+      "title": "www.smpte.org",
+      "url": "https://www.smpte.org/virtual-course/color-managed-workflows",
+      "tier": 1
+    },
+    {
+      "id": "src_color-grading-color-as-authori_05",
+      "title": "www.smpte.org",
+      "url": "https://www.smpte.org/blog/the-present-and-the-future-of-digital-print-stock-design",
+      "tier": 1
+    },
+    {
+      "id": "src_color-grading-color-as-authori_06",
+      "title": "www.metmuseum.org",
+      "url": "https://www.metmuseum.org/exhibitions/lillian-bassman-bazaar-and-beyond",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_color-grading-color-as-autho_def",
+      "wording_ru": "Цветокоррекция и градация — процессы технического согласования и творческого формирования цвета. Они соединяют камеру, пространство цвета, монитор, мастер-файл и конкретный способ показа.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_color-grading-color-as-autho_orig",
+      "wording_ru": "Фотохимическая печать давно требовала управления плотностью и цветовым балансом; цифровой intermediate и стандартизированные цветовые системы перенесли эту задачу в программный конвейер.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_color-grading-color-as-autho_form",
+      "wording_ru": "Материал изображения включает носитель, оптику или исходный файл, свет, поверхность воспроизведения и метаданные; форма зависит от всей цепочки, а не только от момента съёмки. Инфраструктура включает профили/цветовые пространства, калиброванный монитор, контроль освещения, scopes, метаданные и согла",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_color-grading-color-as-autho_use",
+      "wording_ru": "Сначала изображение приводится к предсказуемому техническому состоянию, затем формируется творческий цветовой образ; преобразования для монитора, печати, SDR/HDR и архива должны быть отделены от самого мастер-изображения.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_color-grading-color-as-autho_impact",
+      "wording_ru": "Главное изменение для дисциплины — превращение изображения из единичного кадра в управляемую систему решений, версий, носителей и связей. захват → преобразование → баланс → цветовой образ → эталонный файл → output transform",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_color-grading-color-as-autho_today",
+      "wording_ru": "Сегодня тему следует читать как цепочку: захват → преобразование → баланс → цветовой образ → эталонный файл → output transform. Финальное изображение — видимая поверхность большого производственного процесса.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_color-grading-color-as-autho_def",
+      "source_id": "src_color-grading-color-as-authori_01",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_color-grading-color-as-autho_orig",
+      "source_id": "src_color-grading-color-as-authori_02",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_color-grading-color-as-autho_form",
+      "source_id": "src_color-grading-color-as-authori_03",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_color-grading-color-as-autho_use",
+      "source_id": "src_color-grading-color-as-authori_04",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_color-grading-color-as-autho_impact",
+      "source_id": "src_color-grading-color-as-authori_05",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_color-grading-color-as-autho_today",
+      "source_id": "src_color-grading-color-as-authori_06",
+      "locator": "Official documentation and institutional sources"
+    }
+  ],
+  "last_updated": "2026-08-19"
+}

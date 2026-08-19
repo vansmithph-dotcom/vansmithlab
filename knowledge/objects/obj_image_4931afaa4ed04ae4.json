@@ -1,0 +1,119 @@
+{
+  "id": "obj_image_4931afaa4ed04ae4",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "content_type": "encyclopedia",
+  "canonical_name": "Ретушь — от негатива к цифровому изображению",
+  "canonical_name_en": "Retouching — From Negative to Digital Image",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_retouching-from-negative-to-di_01",
+      "title": "www.metmuseum.org",
+      "url": "https://www.metmuseum.org/exhibitions/listings/2012/faking-it",
+      "tier": 1
+    },
+    {
+      "id": "src_retouching-from-negative-to-di_02",
+      "title": "www.metmuseum.org",
+      "url": "https://www.metmuseum.org/exhibitions/lillian-bassman-bazaar-and-beyond",
+      "tier": 1
+    },
+    {
+      "id": "src_retouching-from-negative-to-di_03",
+      "title": "www.metmuseum.org",
+      "url": "https://www.metmuseum.org/press-releases/lillian-bassman",
+      "tier": 1
+    },
+    {
+      "id": "src_retouching-from-negative-to-di_04",
+      "title": "helpx.adobe.com",
+      "url": "https://helpx.adobe.com/photoshop/desktop/create-masks/layer-masks/add-layer-masks.html",
+      "tier": 1
+    },
+    {
+      "id": "src_retouching-from-negative-to-di_05",
+      "title": "helpx.adobe.com",
+      "url": "https://helpx.adobe.com/photoshop/using/nondestructive-editing.html",
+      "tier": 1
+    },
+    {
+      "id": "src_retouching-from-negative-to-di_06",
+      "title": "helpx.adobe.com",
+      "url": "https://helpx.adobe.com/photoshop/desktop/create-masks/blend-images/auto-blend-layers-command-overview.html",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_retouching-from-negative-to-_def",
+      "wording_ru": "Ретушь — вмешательство в фотографическое изображение после экспонирования или цифрового захвата. Она может исправлять технический дефект, управлять тоном и фактурой, менять внешность или перестраивать содержание кадра.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_retouching-from-negative-to-_orig",
+      "wording_ru": "Ручная работа с негативом и отпечатком, маскирование, подчистка, аэрограф и лабораторные манипуляции были частью фотографии задолго до цифровой эпохи. The Met документирует широкий спектр доцифровых вмешательств.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_retouching-from-negative-to-_form",
+      "wording_ru": "Материал изображения включает носитель, оптику или исходный файл, свет, поверхность воспроизведения и метаданные; форма зависит от всей цепочки, а не только от момента съёмки. Профессиональная ретушь требует калиброванного просмотра, управляемых исходников, версий, согласования и архива эталонного ф",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_retouching-from-negative-to-_use",
+      "wording_ru": "В цифровом потоке ретушь строится через слои, маски, корректирующие слои, локальные инструменты и неразрушающие операции; важен контроль того, что изменено и можно ли вернуться к исходнику.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_retouching-from-negative-to-_impact",
+      "wording_ru": "Главное изменение для дисциплины — превращение изображения из единичного кадра в управляемую систему решений, версий, носителей и связей. исходник → корректировка → маска → версия → проверка → эталонный файл",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_retouching-from-negative-to-_today",
+      "wording_ru": "Сегодня тему следует читать как цепочку: исходник → корректировка → маска → версия → проверка → эталонный файл. Финальное изображение — видимая поверхность большого производственного процесса.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_retouching-from-negative-to-_def",
+      "source_id": "src_retouching-from-negative-to-di_01",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_retouching-from-negative-to-_orig",
+      "source_id": "src_retouching-from-negative-to-di_02",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_retouching-from-negative-to-_form",
+      "source_id": "src_retouching-from-negative-to-di_03",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_retouching-from-negative-to-_use",
+      "source_id": "src_retouching-from-negative-to-di_04",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_retouching-from-negative-to-_impact",
+      "source_id": "src_retouching-from-negative-to-di_05",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_retouching-from-negative-to-_today",
+      "source_id": "src_retouching-from-negative-to-di_06",
+      "locator": "Official documentation and institutional sources"
+    }
+  ],
+  "last_updated": "2026-08-19"
+}

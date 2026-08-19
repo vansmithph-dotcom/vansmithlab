@@ -1,0 +1,119 @@
+{
+  "id": "obj_image_ce8dac3c80e10b03",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "content_type": "encyclopedia",
+  "canonical_name": "Визуальные эффекты — правдоподобие невозможного",
+  "canonical_name_en": "Visual Effects — The Believability of the Impossible",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_visual-effects-believability-o_01",
+      "title": "www.visualeffectssociety.com",
+      "url": "https://www.visualeffectssociety.com/",
+      "tier": 1
+    },
+    {
+      "id": "src_visual-effects-believability-o_02",
+      "title": "press.oscars.org",
+      "url": "https://press.oscars.org/news/academy-motion-picture-arts-and-sciences-announces-new-acquisitions-academy-collection-now",
+      "tier": 1
+    },
+    {
+      "id": "src_visual-effects-believability-o_03",
+      "title": "acescentral.com",
+      "url": "https://acescentral.com/",
+      "tier": 1
+    },
+    {
+      "id": "src_visual-effects-believability-o_04",
+      "title": "acescentral.com",
+      "url": "https://acescentral.com/what-is-academy-aces/",
+      "tier": 1
+    },
+    {
+      "id": "src_visual-effects-believability-o_05",
+      "title": "www.smpte.org",
+      "url": "https://www.smpte.org/virtual-course/color-managed-workflows",
+      "tier": 1
+    },
+    {
+      "id": "src_visual-effects-believability-o_06",
+      "title": "www.adobe.com",
+      "url": "https://www.adobe.com/products/aftereffects.html",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_visual-effects-believability_def",
+      "wording_ru": "Визуальные эффекты — совокупность методов создания или изменения движущегося изображения вне возможностей прямой съёмки. Поле включает композитинг, компьютерная графика, работу с матовыми масками, симуляцию, отслеживание движения, очистку кадра, цифровые среды и множество гибридных процедур.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_visual-effects-believability_orig",
+      "wording_ru": "Трюковая съёмка, матовые маски, оптическая печать, миниатюры и задняя проекция предшествовали цифровому визуальные эффекты. Компьютерная графика и цифровой композитинг масштабировали сложность и сделали процесс глубоко распределённым.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_visual-effects-believability_form",
+      "wording_ru": "Материал изображения включает носитель, оптику или исходный файл, свет, поверхность воспроизведения и метаданные; форма зависит от всей цепочки, а не только от момента съёмки. Инфраструктура — супервайзер визуальных эффектов, production, artists, управление материалами, ресурсы рендера, система пров",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_visual-effects-believability_use",
+      "wording_ru": "визуальные эффекты начинается с планирования кадра: исходный съёмочный материал, данные камеры, эталон и отслеживание движения и цветовой рабочий процесс. Затем создаются/интегрируются элементы, проходят review, render и финальный композит.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_visual-effects-believability_impact",
+      "wording_ru": "Главное изменение для дисциплины — превращение изображения из единичного кадра в управляемую систему решений, версий, носителей и связей. preproduction → съёмочный материал/данные → материалы → симуляцию/render → composite → review → эталонный файл",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_visual-effects-believability_today",
+      "wording_ru": "Сегодня тему следует читать как цепочку: preproduction → съёмочный материал/данные → материалы → симуляцию/render → composite → review → эталонный файл. Финальное изображение — видимая поверхность большого производственного процесса.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_visual-effects-believability_def",
+      "source_id": "src_visual-effects-believability-o_01",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_visual-effects-believability_orig",
+      "source_id": "src_visual-effects-believability-o_02",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_visual-effects-believability_form",
+      "source_id": "src_visual-effects-believability-o_03",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_visual-effects-believability_use",
+      "source_id": "src_visual-effects-believability-o_04",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_visual-effects-believability_impact",
+      "source_id": "src_visual-effects-believability-o_05",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_visual-effects-believability_today",
+      "source_id": "src_visual-effects-believability-o_06",
+      "locator": "Official documentation and institutional sources"
+    }
+  ],
+  "last_updated": "2026-08-19"
+}

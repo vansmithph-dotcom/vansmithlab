@@ -1,0 +1,119 @@
+{
+  "id": "obj_image_f3bec726d14bd5f9",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "content_type": "encyclopedia",
+  "canonical_name": "Композитинг — изображение из нескольких реальностей",
+  "canonical_name_en": "Compositing — An Image from Multiple Realities",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_compositing-image-from-multipl_01",
+      "title": "www.metmuseum.org",
+      "url": "https://www.metmuseum.org/exhibitions/listings/2012/faking-it",
+      "tier": 1
+    },
+    {
+      "id": "src_compositing-image-from-multipl_02",
+      "title": "helpx.adobe.com",
+      "url": "https://helpx.adobe.com/photoshop/desktop/create-masks/layer-masks/add-layer-masks.html",
+      "tier": 1
+    },
+    {
+      "id": "src_compositing-image-from-multipl_03",
+      "title": "helpx.adobe.com",
+      "url": "https://helpx.adobe.com/photoshop/using/nondestructive-editing.html",
+      "tier": 1
+    },
+    {
+      "id": "src_compositing-image-from-multipl_04",
+      "title": "helpx.adobe.com",
+      "url": "https://helpx.adobe.com/photoshop/desktop/create-masks/blend-images/auto-blend-layers-command-overview.html",
+      "tier": 1
+    },
+    {
+      "id": "src_compositing-image-from-multipl_05",
+      "title": "helpx.adobe.com",
+      "url": "https://helpx.adobe.com/photoshop/using/understanding-color-management.html",
+      "tier": 1
+    },
+    {
+      "id": "src_compositing-image-from-multipl_06",
+      "title": "www.adobe.com",
+      "url": "https://www.adobe.com/products/aftereffects.html",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_compositing-image-from-multi_def",
+      "wording_ru": "Композитинг — объединение нескольких изображений или слоёв в единую визуально согласованную сцену. Его задача — не просто соединить части, а согласовать перспективу, свет, масштаб, цвет, резкость, зерно и движение.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_compositing-image-from-multi_orig",
+      "wording_ru": "Двойная экспозиция, комбинированная печать и фотомонтаж существовали с ранней фотографии; цифровые слои и маски сделали процесс обратимым, точным и массовым.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_compositing-image-from-multi_form",
+      "wording_ru": "Материал изображения включает носитель, оптику или исходный файл, свет, поверхность воспроизведения и метаданные; форма зависит от всей цепочки, а не только от момента съёмки. Профессиональный композитинг требует согласованных исходников, достаточного разрешения, метаданных камеры, чистых масок, кон",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_compositing-image-from-multi_use",
+      "wording_ru": "Элементы выделяются, маскируются и совмещаются; затем выравниваются геометрия, свет, цвет, глубина резкости, атмосфера и фактура, чтобы изображение работало как одно пространство.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_compositing-image-from-multi_impact",
+      "wording_ru": "Главное изменение для дисциплины — превращение изображения из единичного кадра в управляемую систему решений, версий, носителей и связей. источник A + источник B → маски → геометрия → свет/цвет → интеграция → эталонный файл",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_compositing-image-from-multi_today",
+      "wording_ru": "Сегодня тему следует читать как цепочку: источник A + источник B → маски → геометрия → свет/цвет → интеграция → эталонный файл. Финальное изображение — видимая поверхность большого производственного процесса.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_compositing-image-from-multi_def",
+      "source_id": "src_compositing-image-from-multipl_01",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_compositing-image-from-multi_orig",
+      "source_id": "src_compositing-image-from-multipl_02",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_compositing-image-from-multi_form",
+      "source_id": "src_compositing-image-from-multipl_03",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_compositing-image-from-multi_use",
+      "source_id": "src_compositing-image-from-multipl_04",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_compositing-image-from-multi_impact",
+      "source_id": "src_compositing-image-from-multipl_05",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_compositing-image-from-multi_today",
+      "source_id": "src_compositing-image-from-multipl_06",
+      "locator": "Official documentation and institutional sources"
+    }
+  ],
+  "last_updated": "2026-08-19"
+}

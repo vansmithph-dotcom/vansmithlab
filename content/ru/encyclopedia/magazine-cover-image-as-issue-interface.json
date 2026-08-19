@@ -1,0 +1,37 @@
+{
+  "content_id": "cnt_image_ru_e6432fb89eb372be",
+  "primary_object_id": "obj_image_e6432fb89eb372be",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_magazine-cover-image-as-issu_def",
+    "clm_magazine-cover-image-as-issu_orig",
+    "clm_magazine-cover-image-as-issu_form",
+    "clm_magazine-cover-image-as-issu_use",
+    "clm_magazine-cover-image-as-issu_impact",
+    "clm_magazine-cover-image-as-issu_today"
+  ],
+  "source_ids": [
+    "src_magazine-cover-image-as-issue-_01",
+    "src_magazine-cover-image-as-issue-_02",
+    "src_magazine-cover-image-as-issue-_03",
+    "src_magazine-cover-image-as-issue-_04",
+    "src_magazine-cover-image-as-issue-_05",
+    "src_magazine-cover-image-as-issue-_06"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "magazine-cover-image-as-issue-interface",
+  "title": "Обложка журнала — изображение как интерфейс выпуска",
+  "summary": "Один кадр, имя, логотип и несколько строк должны одновременно продать выпуск и сформулировать его позицию.",
+  "discipline": [
+    "image-grammar"
+  ],
+  "kind": "theme",
+  "body_hash": "a015aac6f5b500b79a119ed04beee263343d7faebc00c0d4057e724e459f4852"
+}

@@ -1,0 +1,43 @@
+{
+  "content_id": "cnt_image_en_21fd1cc5bb8a52a8",
+  "primary_object_id": "obj_image_21fd1cc5bb8a52a8",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_color-grading-color-as-autho_def",
+    "clm_color-grading-color-as-autho_orig",
+    "clm_color-grading-color-as-autho_form",
+    "clm_color-grading-color-as-autho_use",
+    "clm_color-grading-color-as-autho_impact",
+    "clm_color-grading-color-as-autho_today"
+  ],
+  "source_ids": [
+    "src_color-grading-color-as-authori_01",
+    "src_color-grading-color-as-authori_02",
+    "src_color-grading-color-as-authori_03",
+    "src_color-grading-color-as-authori_04",
+    "src_color-grading-color-as-authori_05",
+    "src_color-grading-color-as-authori_06"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "color-grading-color-as-authorial-decision",
+  "title": "Color Grading — Color as an Authorial Decision",
+  "summary": "Color is not a final filter but a managed chain from capture to publication.",
+  "discipline": [
+    "image-grammar"
+  ],
+  "kind": "theme",
+  "body_hash": "5cbcbe7bd110512df07caf8b15c4ca021cbfbe9134d0db092c367f7758bb37fc",
+  "translation": {
+    "source_locale": "ru",
+    "translated_by": "VANSMITHLAB",
+    "semantic_validated": true,
+    "translation_date": "2026-08-19"
+  }
+}

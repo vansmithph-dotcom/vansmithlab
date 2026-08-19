@@ -1,0 +1,43 @@
+{
+  "content_id": "cnt_image_en_f629779a46105d20",
+  "primary_object_id": "obj_image_f629779a46105d20",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_storyboard-image-before-imag_def",
+    "clm_storyboard-image-before-imag_orig",
+    "clm_storyboard-image-before-imag_form",
+    "clm_storyboard-image-before-imag_use",
+    "clm_storyboard-image-before-imag_impact",
+    "clm_storyboard-image-before-imag_today"
+  ],
+  "source_ids": [
+    "src_storyboard-image-before-image_01",
+    "src_storyboard-image-before-image_02",
+    "src_storyboard-image-before-image_03",
+    "src_storyboard-image-before-image_04",
+    "src_storyboard-image-before-image_05",
+    "src_storyboard-image-before-image_06"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "storyboard-image-before-image",
+  "title": "Storyboard — The Image Before the Image",
+  "summary": "A sequence of drawings or frames reveals editing, scale and movement before expensive production begins.",
+  "discipline": [
+    "image-grammar"
+  ],
+  "kind": "theme",
+  "body_hash": "3df9ed20ccc9b9ef055d79ea26043ea83f67a9a46ba336094d2aea9007e442f7",
+  "translation": {
+    "source_locale": "ru",
+    "translated_by": "VANSMITHLAB",
+    "semantic_validated": true,
+    "translation_date": "2026-08-19"
+  }
+}

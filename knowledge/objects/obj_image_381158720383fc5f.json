@@ -1,0 +1,119 @@
+{
+  "id": "obj_image_381158720383fc5f",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "content_type": "encyclopedia",
+  "canonical_name": "Рекламная фотография",
+  "canonical_name_en": "Advertising Photography",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_advertising-photography-image-_01",
+      "title": "www.metmuseum.org",
+      "url": "https://www.metmuseum.org/exhibitions/listings/2012/faking-it",
+      "tier": 1
+    },
+    {
+      "id": "src_advertising-photography-image-_02",
+      "title": "www.metmuseum.org",
+      "url": "https://www.metmuseum.org/essays/edward-j-steichen-1879-1973-the-photo-secession-years",
+      "tier": 1
+    },
+    {
+      "id": "src_advertising-photography-image-_03",
+      "title": "www.aiga.org",
+      "url": "https://www.aiga.org/eye-on-design/all-advertising-looks-the-same-these-days-blame-the-moodboard",
+      "tier": 1
+    },
+    {
+      "id": "src_advertising-photography-image-_04",
+      "title": "www.cooperhewitt.org",
+      "url": "https://www.cooperhewitt.org/national-design-awards/2025-national-design-award-winners/",
+      "tier": 1
+    },
+    {
+      "id": "src_advertising-photography-image-_05",
+      "title": "www.vam.ac.uk",
+      "url": "https://www.vam.ac.uk/articles/100-years-of-fashion-photography",
+      "tier": 1
+    },
+    {
+      "id": "src_advertising-photography-image-_06",
+      "title": "helpx.adobe.com",
+      "url": "https://helpx.adobe.com/photoshop/desktop/create-masks/layer-masks/add-layer-masks.html",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_advertising-photography-imag_def",
+      "wording_ru": "Рекламная фотография — изображение с заранее заданной коммерческой функцией. Она связывает свойства продукта с желанием, образом жизни или узнаваемостью и потому тесно зависит от брифа, бренда, медиаплана и юридических ограничений.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_advertising-photography-imag_orig",
+      "wording_ru": "В начале XX века фотография постепенно вытесняет часть иллюстрации в рекламе; к 1930-м камера становится одним из основных инструментов печатной коммерческой коммуникации, а арт-директора активно используют постановку и манипуляцию.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_advertising-photography-imag_form",
+      "wording_ru": "Материал изображения включает носитель, оптику или исходный файл, свет, поверхность воспроизведения и метаданные; форма зависит от всей цепочки, а не только от момента съёмки. Производство включает клиента, агентство, креативную и арт-дирекцию, фотографа, продюсера, стилиста, постпродакшн и цепочку ",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_advertising-photography-imag_use",
+      "wording_ru": "Бриф определяет аудиторию, сообщение, обязательные элементы и носители; затем создаются концепт, раскадровка/макет, съёмка, композитинг, ретушь, версии и адаптации.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_advertising-photography-imag_impact",
+      "wording_ru": "Главное изменение для дисциплины — превращение изображения из единичного кадра в управляемую систему решений, версий, носителей и связей. бренд → бриф → концепт → производство → постпродакшн → версии → медиаразмещение",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_advertising-photography-imag_today",
+      "wording_ru": "Сегодня тему следует читать как цепочку: бренд → бриф → концепт → производство → постпродакшн → версии → медиаразмещение. Финальное изображение — видимая поверхность большого производственного процесса.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_advertising-photography-imag_def",
+      "source_id": "src_advertising-photography-image-_01",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_advertising-photography-imag_orig",
+      "source_id": "src_advertising-photography-image-_02",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_advertising-photography-imag_form",
+      "source_id": "src_advertising-photography-image-_03",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_advertising-photography-imag_use",
+      "source_id": "src_advertising-photography-image-_04",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_advertising-photography-imag_impact",
+      "source_id": "src_advertising-photography-image-_05",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_advertising-photography-imag_today",
+      "source_id": "src_advertising-photography-image-_06",
+      "locator": "Official documentation and institutional sources"
+    }
+  ],
+  "last_updated": "2026-08-19"
+}

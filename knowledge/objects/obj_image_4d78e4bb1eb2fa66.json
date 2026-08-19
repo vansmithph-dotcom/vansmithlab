@@ -1,0 +1,119 @@
+{
+  "id": "obj_image_4d78e4bb1eb2fa66",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "content_type": "encyclopedia",
+  "canonical_name": "Редакционная фотография",
+  "canonical_name_en": "Editorial Photography",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_editorial-photography-image-as_01",
+      "title": "www.loc.gov",
+      "url": "https://www.loc.gov/collections/look-magazine/about-this-collection/",
+      "tier": 1
+    },
+    {
+      "id": "src_editorial-photography-image-as_02",
+      "title": "www.loc.gov",
+      "url": "https://www.loc.gov/pictures/collection/lmc/background.html",
+      "tier": 1
+    },
+    {
+      "id": "src_editorial-photography-image-as_03",
+      "title": "guides.loc.gov",
+      "url": "https://guides.loc.gov/us-news-and-world-report-photograph-collection/collection-strengths",
+      "tier": 1
+    },
+    {
+      "id": "src_editorial-photography-image-as_04",
+      "title": "www.loc.gov",
+      "url": "https://www.loc.gov/collections/fsa-owi-black-and-white-negatives/about-this-collection/",
+      "tier": 1
+    },
+    {
+      "id": "src_editorial-photography-image-as_05",
+      "title": "www.metmuseum.org",
+      "url": "https://www.metmuseum.org/exhibitions/lillian-bassman-bazaar-and-beyond",
+      "tier": 1
+    },
+    {
+      "id": "src_editorial-photography-image-as_06",
+      "title": "www.metmuseum.org",
+      "url": "https://www.metmuseum.org/essays/edward-j-steichen-1879-1973-the-photo-secession-years",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_editorial-photography-image-_def",
+      "wording_ru": "Редакционная фотография создаётся не просто «для журнала», а для конкретного редакционного вопроса. Её смысл возникает из связи задания, доступа, выбора кадров, подписи, соседних страниц и позиции издания.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_editorial-photography-image-_orig",
+      "wording_ru": "Массовые иллюстрированные журналы XX века превратили редакционное задание в отдельную инфраструктуру: фотограф снимал больше, чем попадало в печать, а редакция строила историю через отбор и монтаж.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_editorial-photography-image-_form",
+      "wording_ru": "Материал изображения включает носитель, оптику или исходный файл, свет, поверхность воспроизведения и метаданные; форма зависит от всей цепочки, а не только от момента съёмки. Ценность создаёт не только качество отдельных кадров, но и наличие серии, метаданных, проверяемых подписей, прав и возможнос",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_editorial-photography-image-_use",
+      "wording_ru": "Редакционный процесс включает постановку вопроса, заказ и постановку задания, съёмку серии, контактный/цифровой отбор, проверку контекста, подписи, верстку и публикацию.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_editorial-photography-image-_impact",
+      "wording_ru": "Главное изменение для дисциплины — превращение изображения из единичного кадра в управляемую систему решений, версий, носителей и связей. вопрос → доступ → серия → отбор → подпись → последовательность → публикация",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_editorial-photography-image-_today",
+      "wording_ru": "Сегодня тему следует читать как цепочку: вопрос → доступ → серия → отбор → подпись → последовательность → публикация. Финальное изображение — видимая поверхность большого производственного процесса.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_editorial-photography-image-_def",
+      "source_id": "src_editorial-photography-image-as_01",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_editorial-photography-image-_orig",
+      "source_id": "src_editorial-photography-image-as_02",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_editorial-photography-image-_form",
+      "source_id": "src_editorial-photography-image-as_03",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_editorial-photography-image-_use",
+      "source_id": "src_editorial-photography-image-as_04",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_editorial-photography-image-_impact",
+      "source_id": "src_editorial-photography-image-as_05",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_editorial-photography-image-_today",
+      "source_id": "src_editorial-photography-image-as_06",
+      "locator": "Official documentation and institutional sources"
+    }
+  ],
+  "last_updated": "2026-08-19"
+}

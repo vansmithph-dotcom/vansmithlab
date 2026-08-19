@@ -1,0 +1,119 @@
+{
+  "id": "obj_image_481f12dc5551a28a",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "content_type": "encyclopedia",
+  "canonical_name": "Художественное руководство — кто проектирует изображение до съёмки",
+  "canonical_name_en": "Art Direction — Who Designs the Image Before the Shoot",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_art-direction-designing-the-im_01",
+      "title": "www.aiga.org",
+      "url": "https://www.aiga.org/eye-on-design/all-advertising-looks-the-same-these-days-blame-the-moodboard",
+      "tier": 1
+    },
+    {
+      "id": "src_art-direction-designing-the-im_02",
+      "title": "www.cooperhewitt.org",
+      "url": "https://www.cooperhewitt.org/national-design-awards/2025-national-design-award-winners/",
+      "tier": 1
+    },
+    {
+      "id": "src_art-direction-designing-the-im_03",
+      "title": "www.cooperhewitt.org",
+      "url": "https://www.cooperhewitt.org/2020/06/29/milton-glaser-1929-2020/",
+      "tier": 1
+    },
+    {
+      "id": "src_art-direction-designing-the-im_04",
+      "title": "www.metmuseum.org",
+      "url": "https://www.metmuseum.org/exhibitions/lillian-bassman-bazaar-and-beyond",
+      "tier": 1
+    },
+    {
+      "id": "src_art-direction-designing-the-im_05",
+      "title": "www.metmuseum.org",
+      "url": "https://www.metmuseum.org/press-releases/lillian-bassman",
+      "tier": 1
+    },
+    {
+      "id": "src_art-direction-designing-the-im_06",
+      "title": "www.vam.ac.uk",
+      "url": "https://www.vam.ac.uk/articles/100-years-of-fashion-photography",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_art-direction-designing-the-_def",
+      "wording_ru": "Художественное руководство — это система решений, которая соединяет редакционную или коммерческую задачу с визуальным языком до момента съёмки. Арт-директор не обязательно производит каждый элемент сам: его работа — определить отношения между идеей, командой, изображением и носителем.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_art-direction-designing-the-_orig",
+      "wording_ru": "Профессия формировалась внутри издательского и рекламного производства, где редактор, дизайнер, иллюстратор и фотограф должны были работать как единая цепочка. В XX веке фигуры Алексея Бродовича и последующих арт-директоров сделали сам процесс заказ и постановку задания частью авторства.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_art-direction-designing-the-_form",
+      "wording_ru": "Материал изображения включает носитель, оптику или исходный файл, свет, поверхность воспроизведения и метаданные; форма зависит от всей цепочки, а не только от момента съёмки. Производственная единица — не отдельный кадр, а согласованный набор решений и материалов, проходящий через съёмку, постобраб",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_art-direction-designing-the-_use",
+      "wording_ru": "Бриф переводится в исследование, референсы и ограничения; затем подбираются фотограф, стилист, модель, локация, декорация и свет. После съёмки арт-дирекция продолжается в отборе, кропе, последовательности, типографике и финальном носителе.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_art-direction-designing-the-_impact",
+      "wording_ru": "Главное изменение для дисциплины — превращение изображения из единичного кадра в управляемую систему решений, версий, носителей и связей. идея → бриф → команда → съёмка → отбор → макет → публикация",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_art-direction-designing-the-_today",
+      "wording_ru": "Сегодня тему следует читать как цепочку: идея → бриф → команда → съёмка → отбор → макет → публикация. Финальное изображение — видимая поверхность большого производственного процесса.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_art-direction-designing-the-_def",
+      "source_id": "src_art-direction-designing-the-im_01",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_art-direction-designing-the-_orig",
+      "source_id": "src_art-direction-designing-the-im_02",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_art-direction-designing-the-_form",
+      "source_id": "src_art-direction-designing-the-im_03",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_art-direction-designing-the-_use",
+      "source_id": "src_art-direction-designing-the-im_04",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_art-direction-designing-the-_impact",
+      "source_id": "src_art-direction-designing-the-im_05",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_art-direction-designing-the-_today",
+      "source_id": "src_art-direction-designing-the-im_06",
+      "locator": "Official documentation and institutional sources"
+    }
+  ],
+  "last_updated": "2026-08-19"
+}

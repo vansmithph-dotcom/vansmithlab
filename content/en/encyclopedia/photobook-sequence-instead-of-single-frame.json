@@ -1,0 +1,43 @@
+{
+  "content_id": "cnt_image_en_58074f50dfee85a5",
+  "primary_object_id": "obj_image_58074f50dfee85a5",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_photobook-sequence-instead-o_def",
+    "clm_photobook-sequence-instead-o_orig",
+    "clm_photobook-sequence-instead-o_form",
+    "clm_photobook-sequence-instead-o_use",
+    "clm_photobook-sequence-instead-o_impact",
+    "clm_photobook-sequence-instead-o_today"
+  ],
+  "source_ids": [
+    "src_photobook-sequence-instead-of-_01",
+    "src_photobook-sequence-instead-of-_02",
+    "src_photobook-sequence-instead-of-_03",
+    "src_photobook-sequence-instead-of-_04",
+    "src_photobook-sequence-instead-of-_05",
+    "src_photobook-sequence-instead-of-_06"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "photobook-sequence-instead-of-single-frame",
+  "title": "Photobook — Sequence Instead of the Single Frame",
+  "summary": "A book turns photographs into time: order, scale, paper and page turning become part of the work.",
+  "discipline": [
+    "image-grammar"
+  ],
+  "kind": "theme",
+  "body_hash": "cee3f2dd3f25e7fd6ac341f2ca40696d5885af8744201c3acd9b43f6fdfcbc3f",
+  "translation": {
+    "source_locale": "ru",
+    "translated_by": "VANSMITHLAB",
+    "semantic_validated": true,
+    "translation_date": "2026-08-19"
+  }
+}

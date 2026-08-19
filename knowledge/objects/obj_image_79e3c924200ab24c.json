@@ -1,0 +1,119 @@
+{
+  "id": "obj_image_79e3c924200ab24c",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "content_type": "encyclopedia",
+  "canonical_name": "Моушн-дизайн — графический дизайн, который получил время",
+  "canonical_name_en": "Motion Design — Graphic Design Gains Time",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_motion-design-graphic-design-g_01",
+      "title": "www.adobe.com",
+      "url": "https://www.adobe.com/products/aftereffects.html",
+      "tier": 1
+    },
+    {
+      "id": "src_motion-design-graphic-design-g_02",
+      "title": "helpx.adobe.com",
+      "url": "https://helpx.adobe.com/after-effects/desktop/motion-graphics/work-with-motion-graphics-templates/creating-motion-graphics-templates.html",
+      "tier": 1
+    },
+    {
+      "id": "src_motion-design-graphic-design-g_03",
+      "title": "www.oscars.org",
+      "url": "https://www.oscars.org/events/saul-bass-celebration",
+      "tier": 1
+    },
+    {
+      "id": "src_motion-design-graphic-design-g_04",
+      "title": "www.bfi.org.uk",
+      "url": "https://www.bfi.org.uk/lists/celebrating-saul-basss-centenary-10-essential-title-sequences",
+      "tier": 1
+    },
+    {
+      "id": "src_motion-design-graphic-design-g_05",
+      "title": "www.cooperhewitt.org",
+      "url": "https://www.cooperhewitt.org/national-design-awards/2025-national-design-award-winners/",
+      "tier": 1
+    },
+    {
+      "id": "src_motion-design-graphic-design-g_06",
+      "title": "www.cooperhewitt.org",
+      "url": "https://www.cooperhewitt.org/2020/06/29/milton-glaser-1929-2020/",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_motion-design-graphic-design_def",
+      "wording_ru": "Моушн-дизайн применяет принципы графического дизайна к временной последовательности. Его основные материалы — типографика, форма, изображение, цвет, ритм, звук и переход между состояниями.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_motion-design-graphic-design_orig",
+      "wording_ru": "Кинотитры, телевизионная графика и экспериментальная анимация сформировали поле до цифровых программ; desktop композитинг и After Effects сделали временную графику массовой профессиональной практикой.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_motion-design-graphic-design_form",
+      "wording_ru": "Материал изображения включает носитель, оптику или исходный файл, свет, поверхность воспроизведения и метаданные; форма зависит от всей цепочки, а не только от момента съёмки. Производство требует раскадровка/animatic, материалы, композиции, тайминга, рендера, кодеков, версий и контроля цвета.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_motion-design-graphic-design_use",
+      "wording_ru": "Дизайнер задаёт ключевые состояния и временные отношения, строит иерархию движения, использует easing, маски, слои, камеры и композиции, а затем адаптирует результат под разные форматы.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_motion-design-graphic-design_impact",
+      "wording_ru": "Главное изменение для дисциплины — превращение изображения из единичного кадра в управляемую систему решений, версий, носителей и связей. графическая система → состояния → тайминг → движение → звук → версия/экран",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_motion-design-graphic-design_today",
+      "wording_ru": "Сегодня тему следует читать как цепочку: графическая система → состояния → тайминг → движение → звук → версия/экран. Финальное изображение — видимая поверхность большого производственного процесса.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_motion-design-graphic-design_def",
+      "source_id": "src_motion-design-graphic-design-g_01",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_motion-design-graphic-design_orig",
+      "source_id": "src_motion-design-graphic-design-g_02",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_motion-design-graphic-design_form",
+      "source_id": "src_motion-design-graphic-design-g_03",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_motion-design-graphic-design_use",
+      "source_id": "src_motion-design-graphic-design-g_04",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_motion-design-graphic-design_impact",
+      "source_id": "src_motion-design-graphic-design-g_05",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_motion-design-graphic-design_today",
+      "source_id": "src_motion-design-graphic-design-g_06",
+      "locator": "Official documentation and institutional sources"
+    }
+  ],
+  "last_updated": "2026-08-19"
+}

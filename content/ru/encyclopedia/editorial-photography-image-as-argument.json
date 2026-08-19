@@ -1,0 +1,37 @@
+{
+  "content_id": "cnt_image_ru_4d78e4bb1eb2fa66",
+  "primary_object_id": "obj_image_4d78e4bb1eb2fa66",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_editorial-photography-image-_def",
+    "clm_editorial-photography-image-_orig",
+    "clm_editorial-photography-image-_form",
+    "clm_editorial-photography-image-_use",
+    "clm_editorial-photography-image-_impact",
+    "clm_editorial-photography-image-_today"
+  ],
+  "source_ids": [
+    "src_editorial-photography-image-as_01",
+    "src_editorial-photography-image-as_02",
+    "src_editorial-photography-image-as_03",
+    "src_editorial-photography-image-as_04",
+    "src_editorial-photography-image-as_05",
+    "src_editorial-photography-image-as_06"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "editorial-photography-image-as-argument",
+  "title": "Редакционная фотография",
+  "summary": "Изображение существует внутри темы, текста, последовательности и позиции издания.",
+  "discipline": [
+    "image-grammar"
+  ],
+  "kind": "theme",
+  "body_hash": "af2d4120c38d3d73ac60b96bbf7748122861ba2faf32eac8e715a63ea591a2cd"
+}

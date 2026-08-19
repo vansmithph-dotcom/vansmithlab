@@ -1,0 +1,37 @@
+{
+  "content_id": "cnt_image_ru_ce8dac3c80e10b03",
+  "primary_object_id": "obj_image_ce8dac3c80e10b03",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_visual-effects-believability_def",
+    "clm_visual-effects-believability_orig",
+    "clm_visual-effects-believability_form",
+    "clm_visual-effects-believability_use",
+    "clm_visual-effects-believability_impact",
+    "clm_visual-effects-believability_today"
+  ],
+  "source_ids": [
+    "src_visual-effects-believability-o_01",
+    "src_visual-effects-believability-o_02",
+    "src_visual-effects-believability-o_03",
+    "src_visual-effects-believability-o_04",
+    "src_visual-effects-believability-o_05",
+    "src_visual-effects-believability-o_06"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "visual-effects-believability-of-the-impossible",
+  "title": "Визуальные эффекты — правдоподобие невозможного",
+  "summary": "визуальные эффекты убеждает не масштабом трюка, а тем, насколько все элементы подчиняются одной физике изображения.",
+  "discipline": [
+    "image-grammar"
+  ],
+  "kind": "theme",
+  "body_hash": "b0d8b843a39df1a58412b3a242f8ad111008d55a78ea52f5d4b4ab5f2b284627"
+}

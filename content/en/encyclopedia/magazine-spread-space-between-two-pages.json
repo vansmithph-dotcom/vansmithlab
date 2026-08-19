@@ -1,0 +1,43 @@
+{
+  "content_id": "cnt_image_en_9349f8aea3384eee",
+  "primary_object_id": "obj_image_9349f8aea3384eee",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_magazine-spread-space-betwee_def",
+    "clm_magazine-spread-space-betwee_orig",
+    "clm_magazine-spread-space-betwee_form",
+    "clm_magazine-spread-space-betwee_use",
+    "clm_magazine-spread-space-betwee_impact",
+    "clm_magazine-spread-space-betwee_today"
+  ],
+  "source_ids": [
+    "src_magazine-spread-space-between-_01",
+    "src_magazine-spread-space-between-_02",
+    "src_magazine-spread-space-between-_03",
+    "src_magazine-spread-space-between-_04",
+    "src_magazine-spread-space-between-_05",
+    "src_magazine-spread-space-between-_06"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "magazine-spread-space-between-two-pages",
+  "title": "Magazine Spread — The Space Between Two Pages",
+  "summary": "A magazine is read not as isolated pages but through collisions and pauses between left and right fields.",
+  "discipline": [
+    "image-grammar"
+  ],
+  "kind": "theme",
+  "body_hash": "96d587e717f9f47affd092726c1eabd005688a4be253524227830d6428170ca7",
+  "translation": {
+    "source_locale": "ru",
+    "translated_by": "VANSMITHLAB",
+    "semantic_validated": true,
+    "translation_date": "2026-08-19"
+  }
+}

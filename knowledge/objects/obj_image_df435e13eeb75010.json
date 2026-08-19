@@ -1,0 +1,119 @@
+{
+  "id": "obj_image_df435e13eeb75010",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "content_type": "encyclopedia",
+  "canonical_name": "Модная фотография — не жанр, а производственная система",
+  "canonical_name_en": "Fashion Photography — Not a Genre but a Production System",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_fashion-photography-as-product_01",
+      "title": "www.vam.ac.uk",
+      "url": "https://www.vam.ac.uk/articles/100-years-of-fashion-photography",
+      "tier": 1
+    },
+    {
+      "id": "src_fashion-photography-as-product_02",
+      "title": "www.vam.ac.uk",
+      "url": "https://www.vam.ac.uk/event/3yxPBNKObE/o24039-fashion-photography-a-visual-history",
+      "tier": 1
+    },
+    {
+      "id": "src_fashion-photography-as-product_03",
+      "title": "www.metmuseum.org",
+      "url": "https://www.metmuseum.org/essays/edward-j-steichen-1879-1973-the-photo-secession-years",
+      "tier": 1
+    },
+    {
+      "id": "src_fashion-photography-as-product_04",
+      "title": "www.metmuseum.org",
+      "url": "https://www.metmuseum.org/exhibitions/lillian-bassman-bazaar-and-beyond",
+      "tier": 1
+    },
+    {
+      "id": "src_fashion-photography-as-product_05",
+      "title": "www.metmuseum.org",
+      "url": "https://www.metmuseum.org/press-releases/lillian-bassman",
+      "tier": 1
+    },
+    {
+      "id": "src_fashion-photography-as-product_06",
+      "title": "www.metmuseum.org",
+      "url": "https://www.metmuseum.org/press-releases/irving-penn-2016-exhibitions",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_fashion-photography-as-produ_def",
+      "wording_ru": "Модная фотография — не единый визуальный стиль, а производственная система, в которой одежда, тело, фотограф, стилист, модель, арт-директор, редактор, ретушь и носитель совместно создают значение.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_fashion-photography-as-produ_orig",
+      "wording_ru": "От ранних журнальных изображений и работ Адольфа де Мейера и Эдварда Стайхена поле движется к модернистской редакционной фотографии, послевоенному студийному контролю, уличной энергии и цифровым гибридным практикам.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_fashion-photography-as-produ_form",
+      "wording_ru": "Материал изображения включает носитель, оптику или исходный файл, свет, поверхность воспроизведения и метаданные; форма зависит от всей цепочки, а не только от момента съёмки. Система опирается на расписание моды, доступ к одежде, кастинг, студию или локацию, лабораторию/цифровой постпродакшн, издат",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_fashion-photography-as-produ_use",
+      "wording_ru": "Задача начинается с коллекции или редакционного тезиса, затем определяется образ тела, пространства и света; кадр проходит от съёмки через выбор, ретушь, цвет, верстку и публикацию.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_fashion-photography-as-produ_impact",
+      "wording_ru": "Главное изменение для дисциплины — превращение изображения из единичного кадра в управляемую систему решений, версий, носителей и связей. одежда → тело → команда → кадр → постобработка → публикация → культурный код",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_fashion-photography-as-produ_today",
+      "wording_ru": "Сегодня тему следует читать как цепочку: одежда → тело → команда → кадр → постобработка → публикация → культурный код. Финальное изображение — видимая поверхность большого производственного процесса.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_fashion-photography-as-produ_def",
+      "source_id": "src_fashion-photography-as-product_01",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_fashion-photography-as-produ_orig",
+      "source_id": "src_fashion-photography-as-product_02",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_fashion-photography-as-produ_form",
+      "source_id": "src_fashion-photography-as-product_03",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_fashion-photography-as-produ_use",
+      "source_id": "src_fashion-photography-as-product_04",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_fashion-photography-as-produ_impact",
+      "source_id": "src_fashion-photography-as-product_05",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_fashion-photography-as-produ_today",
+      "source_id": "src_fashion-photography-as-product_06",
+      "locator": "Official documentation and institutional sources"
+    }
+  ],
+  "last_updated": "2026-08-19"
+}
