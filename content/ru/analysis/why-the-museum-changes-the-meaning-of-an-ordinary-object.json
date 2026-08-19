@@ -1,0 +1,38 @@
+{
+  "content_id": "cnt_analysis_ru_1363b3b739c6a920",
+  "primary_object_id": "obj_analysis_1363b3b739c6a920",
+  "content_type": "analysis",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_analysis_1363b3b739c6a920_thesis",
+    "clm_analysis_1363b3b739c6a920_turns",
+    "clm_analysis_1363b3b739c6a920_test",
+    "clm_analysis_1363b3b739c6a920_today"
+  ],
+  "source_ids": [
+    "src_analysis_1363b3b739c6a920_01",
+    "src_analysis_1363b3b739c6a920_02",
+    "src_analysis_1363b3b739c6a920_03",
+    "src_analysis_1363b3b739c6a920_04",
+    "src_analysis_1363b3b739c6a920_05",
+    "src_analysis_1363b3b739c6a920_06",
+    "src_analysis_1363b3b739c6a920_07",
+    "src_analysis_1363b3b739c6a920_08"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "why-the-museum-changes-the-meaning-of-an-ordinary-object",
+  "title": "Почему музей меняет значение обычного предмета",
+  "summary": "Музей не хранит предмет, а меняет режим его чтения: вещь становится аргументом, документом и частью канона.",
+  "discipline": [
+    "space-typologies",
+    "history-movements"
+  ],
+  "kind": "theme",
+  "body_hash": "5ff89fcfcb2db04881c1187d429f1622b0f23e3700bc0c4f193bed6281c57c7b"
+}

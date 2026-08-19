@@ -1,0 +1,37 @@
+{
+  "content_id": "cnt_analysis_ru_ee6e267493d7a53e",
+  "primary_object_id": "obj_analysis_ee6e267493d7a53e",
+  "content_type": "analysis",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_analysis_ee6e267493d7a53e_thesis",
+    "clm_analysis_ee6e267493d7a53e_turns",
+    "clm_analysis_ee6e267493d7a53e_test",
+    "clm_analysis_ee6e267493d7a53e_today"
+  ],
+  "source_ids": [
+    "src_analysis_ee6e267493d7a53e_01",
+    "src_analysis_ee6e267493d7a53e_02",
+    "src_analysis_ee6e267493d7a53e_03",
+    "src_analysis_ee6e267493d7a53e_04",
+    "src_analysis_ee6e267493d7a53e_05",
+    "src_analysis_ee6e267493d7a53e_06",
+    "src_analysis_ee6e267493d7a53e_07"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "who-authors-the-image-in-the-age-of-generative-ai",
+  "title": "Кто автор изображения в эпоху генеративного ИИ",
+  "summary": "Авторство сместилось от одиночного нажатия к распределённой системе: данные, модель, запрос, отбор, монтаж и публикация.",
+  "discipline": [
+    "image-grammar",
+    "media-publishing"
+  ],
+  "kind": "theme",
+  "body_hash": "2ffd848a48aef1d4dfc2e25833761a045effdfcb430c9dc3d7be435b981c92eb"
+}

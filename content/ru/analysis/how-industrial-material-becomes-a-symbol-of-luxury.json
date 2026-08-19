@@ -1,0 +1,38 @@
+{
+  "content_id": "cnt_analysis_ru_c2e5422b27976137",
+  "primary_object_id": "obj_analysis_c2e5422b27976137",
+  "content_type": "analysis",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_analysis_c2e5422b27976137_thesis",
+    "clm_analysis_c2e5422b27976137_turns",
+    "clm_analysis_c2e5422b27976137_test",
+    "clm_analysis_c2e5422b27976137_today"
+  ],
+  "source_ids": [
+    "src_analysis_c2e5422b27976137_01",
+    "src_analysis_c2e5422b27976137_02",
+    "src_analysis_c2e5422b27976137_03",
+    "src_analysis_c2e5422b27976137_04",
+    "src_analysis_c2e5422b27976137_05",
+    "src_analysis_c2e5422b27976137_06",
+    "src_analysis_c2e5422b27976137_07",
+    "src_analysis_c2e5422b27976137_08"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "how-industrial-material-becomes-a-symbol-of-luxury",
+  "title": "Как промышленный материал становится символом роскоши",
+  "summary": "Роскошь создаётся не редкостью сырья, а переносом дешёвой технологии в точный культурный контекст.",
+  "discipline": [
+    "materials",
+    "fashion-systems"
+  ],
+  "kind": "theme",
+  "body_hash": "758573bde36b569e2a4df041468f1727c789c5327c155a5f3121cdf917311511"
+}

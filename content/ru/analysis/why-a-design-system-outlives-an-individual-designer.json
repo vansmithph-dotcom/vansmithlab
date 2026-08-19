@@ -1,0 +1,37 @@
+{
+  "content_id": "cnt_analysis_ru_24097fb70dc0824a",
+  "primary_object_id": "obj_analysis_24097fb70dc0824a",
+  "content_type": "analysis",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_analysis_24097fb70dc0824a_thesis",
+    "clm_analysis_24097fb70dc0824a_turns",
+    "clm_analysis_24097fb70dc0824a_test",
+    "clm_analysis_24097fb70dc0824a_today"
+  ],
+  "source_ids": [
+    "src_analysis_24097fb70dc0824a_01",
+    "src_analysis_24097fb70dc0824a_02",
+    "src_analysis_24097fb70dc0824a_03",
+    "src_analysis_24097fb70dc0824a_04",
+    "src_analysis_24097fb70dc0824a_05",
+    "src_analysis_24097fb70dc0824a_06",
+    "src_analysis_24097fb70dc0824a_07"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "why-a-design-system-outlives-an-individual-designer",
+  "title": "Почему дизайн-система переживает отдельного дизайнера",
+  "summary": "Система живёт дольше автора, когда превращает вкус в правила, детали в интерфейс, а исключения в управляемый словарь.",
+  "discipline": [
+    "graphic-design",
+    "history-movements"
+  ],
+  "kind": "theme",
+  "body_hash": "48f9bdbc306b66666b7767462d035120e34d4be04e426fd0ba21b090c6238c83"
+}

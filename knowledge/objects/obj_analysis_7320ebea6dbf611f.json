@@ -1,0 +1,102 @@
+{
+  "id": "obj_analysis_7320ebea6dbf611f",
+  "category": "analysis",
+  "canonical_name": "Почему магазин стал медиа",
+  "canonical_name_en": "Why the store became media",
+  "title_ru": "Почему магазин стал медиа",
+  "slug_ru": "why-the-store-became-media",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "space-typologies",
+    "media-publishing"
+  ],
+  "sources": [
+    {
+      "id": "src_analysis_7320ebea6dbf611f_01",
+      "title": "V&A — Museum",
+      "url": "https://www.vam.ac.uk/",
+      "publisher": "V&A",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_7320ebea6dbf611f_02",
+      "title": "MoMA — Readymade",
+      "url": "https://www.moma.org/collection/terms/readymade",
+      "publisher": "MoMA",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_7320ebea6dbf611f_03",
+      "title": "Design Museum — The story of the Design Museum",
+      "url": "https://designmuseum.org/about-the-museum/the-story-of-the-design-museum",
+      "publisher": "Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_7320ebea6dbf611f_04",
+      "title": "Fondazione Prada — History",
+      "url": "https://www.fondazioneprada.org/history-en/?lang=en",
+      "publisher": "Fondazione Prada",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_7320ebea6dbf611f_05",
+      "title": "The Met — The Costume Institute",
+      "url": "https://www.metmuseum.org/departments/the-costume-institute",
+      "publisher": "The Met",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_7320ebea6dbf611f_06",
+      "title": "Vitra Design Museum — Online Collection",
+      "url": "https://collection.design-museum.de/en/",
+      "publisher": "Vitra Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_7320ebea6dbf611f_07",
+      "title": "VANSMITHLAB AI Master Content Plan — project master plan",
+      "url": "",
+      "publisher": "VANSMITHLAB AI Master Content Plan",
+      "accessed_date": "2026-08-19",
+      "source_tier": "internal"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_analysis_7320ebea6dbf611f_thesis",
+      "wording_ru": "Магазин по-прежнему продаёт, но экономический смысл флагмана давно не в обороте квадратного метра. Он в производстве изображений, объяснений и запоминаемого опыта — то есть в том, чем раньше занималось издание.",
+      "wording_en": "A store still sells, but the economic point of a flagship has long ceased to be turnover per square metre. It lies in producing images, explanations, and memorable experience — that is, in what a publication used to do.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_analysis_7320ebea6dbf611f_turns",
+      "wording_ru": "Заказ интерьера у известного архитектора превратил магазин в подписанное произведение. Появился автор — а значит, появилась возможность рецензии, цитирования и архивации.",
+      "wording_en": "Commissioning an interior from a known architect turned the store into a signed work. An author appeared — and with the author came the possibility of review, citation, and archiving.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_analysis_7320ebea6dbf611f_test",
+      "wording_ru": "Магазин работает как медиа, если выполняются три условия: часть площади не продаёт, содержание меняется по расписанию, и посетителю дают объяснение, а не только цену. Два из трёх — переходное состояние.",
+      "wording_en": "A store works as media if three conditions hold: part of the floor area does not sell, content changes on a schedule, and the visitor is given an explanation rather than only a price. Two out of three indicate a transitional state.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_analysis_7320ebea6dbf611f_today",
+      "wording_ru": "Заходя в магазин, спросите: что здесь опубликовано и кто это отобрал. Если ответа нет, перед вами склад с хорошим светом; если есть — перед вами выпуск.",
+      "wording_en": "On entering a store, ask what has been published here and who selected it. If there is no answer, you are in a warehouse with good lighting; if there is, you are in an issue.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    }
+  ]
+}

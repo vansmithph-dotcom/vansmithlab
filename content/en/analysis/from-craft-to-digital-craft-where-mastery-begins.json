@@ -1,0 +1,37 @@
+{
+  "content_id": "cnt_analysis_en_84b030b5aed68293",
+  "primary_object_id": "obj_analysis_84b030b5aed68293",
+  "content_type": "analysis",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_analysis_84b030b5aed68293_thesis",
+    "clm_analysis_84b030b5aed68293_turns",
+    "clm_analysis_84b030b5aed68293_test",
+    "clm_analysis_84b030b5aed68293_today"
+  ],
+  "source_ids": [
+    "src_analysis_84b030b5aed68293_01",
+    "src_analysis_84b030b5aed68293_02",
+    "src_analysis_84b030b5aed68293_03",
+    "src_analysis_84b030b5aed68293_04",
+    "src_analysis_84b030b5aed68293_05",
+    "src_analysis_84b030b5aed68293_06",
+    "src_analysis_84b030b5aed68293_07"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "from-craft-to-digital-craft-where-mastery-begins",
+  "title": "From craft to digital craft — where mastery begins",
+  "summary": "Digital craft begins where an author governs the constraints of a tool as finely as a maker governs material.",
+  "discipline": [
+    "image-grammar",
+    "materials"
+  ],
+  "kind": "theme",
+  "body_hash": "597005cae02319add9e3a588fe5c7d984154761aa27f7f063355a8b20a6f2ee9"
+}

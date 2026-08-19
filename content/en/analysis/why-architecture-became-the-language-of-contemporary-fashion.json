@@ -1,0 +1,38 @@
+{
+  "content_id": "cnt_analysis_en_b6c2f5e5fa4f29af",
+  "primary_object_id": "obj_analysis_b6c2f5e5fa4f29af",
+  "content_type": "analysis",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_analysis_b6c2f5e5fa4f29af_thesis",
+    "clm_analysis_b6c2f5e5fa4f29af_turns",
+    "clm_analysis_b6c2f5e5fa4f29af_test",
+    "clm_analysis_b6c2f5e5fa4f29af_today"
+  ],
+  "source_ids": [
+    "src_analysis_b6c2f5e5fa4f29af_01",
+    "src_analysis_b6c2f5e5fa4f29af_02",
+    "src_analysis_b6c2f5e5fa4f29af_03",
+    "src_analysis_b6c2f5e5fa4f29af_04",
+    "src_analysis_b6c2f5e5fa4f29af_05",
+    "src_analysis_b6c2f5e5fa4f29af_06",
+    "src_analysis_b6c2f5e5fa4f29af_07",
+    "src_analysis_b6c2f5e5fa4f29af_08"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "why-architecture-became-the-language-of-contemporary-fashion",
+  "title": "Why architecture became the language of contemporary fashion",
+  "summary": "Fashion borrows from architecture not a shape but a method: frame, shell, route, scale, and the scenography of display.",
+  "discipline": [
+    "fashion-systems",
+    "space-typologies"
+  ],
+  "kind": "theme",
+  "body_hash": "9814ad6982e70d75e8422c4c3baa39aeac5421b0215af2579314243140c1a412"
+}

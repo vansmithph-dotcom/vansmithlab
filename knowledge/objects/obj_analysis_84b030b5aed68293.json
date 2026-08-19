@@ -1,0 +1,102 @@
+{
+  "id": "obj_analysis_84b030b5aed68293",
+  "category": "analysis",
+  "canonical_name": "От ремесла к цифровому ремеслу — где проходит граница мастерства",
+  "canonical_name_en": "From craft to digital craft — where mastery begins",
+  "title_ru": "От ремесла к цифровому ремеслу — где проходит граница мастерства",
+  "slug_ru": "from-craft-to-digital-craft-where-mastery-begins",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "image-grammar",
+    "materials"
+  ],
+  "sources": [
+    {
+      "id": "src_analysis_84b030b5aed68293_01",
+      "title": "Adobe — Nondestructive editing in Photoshop",
+      "url": "https://helpx.adobe.com/photoshop/using/nondestructive-editing.html",
+      "publisher": "Adobe",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_84b030b5aed68293_02",
+      "title": "Adobe — Add layer masks",
+      "url": "https://helpx.adobe.com/photoshop/desktop/create-masks/layer-masks/add-layer-masks.html",
+      "publisher": "Adobe",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_84b030b5aed68293_03",
+      "title": "Adobe — Understanding colour management",
+      "url": "https://helpx.adobe.com/photoshop/using/understanding-color-management.html",
+      "publisher": "Adobe",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_84b030b5aed68293_04",
+      "title": "Computer History Museum — Make Software: Photoshop",
+      "url": "https://www.computerhistory.org/makesoftware/exhibit/photoshop/",
+      "publisher": "Computer History Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_84b030b5aed68293_05",
+      "title": "Computer History Museum — Adobe Photoshop source code",
+      "url": "https://computerhistory.org/blog/adobe-photoshop-source-code/",
+      "publisher": "Computer History Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_84b030b5aed68293_06",
+      "title": "Vitra Design Museum — Online Collection",
+      "url": "https://collection.design-museum.de/en/",
+      "publisher": "Vitra Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_84b030b5aed68293_07",
+      "title": "VANSMITHLAB AI Master Content Plan — project master plan",
+      "url": "",
+      "publisher": "VANSMITHLAB AI Master Content Plan",
+      "accessed_date": "2026-08-19",
+      "source_tier": "internal"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_analysis_84b030b5aed68293_thesis",
+      "wording_ru": "Мастерство не в чистоте результата, а в том, как автор работает с сопротивлением материала. Дерево имеет волокно, глина — усадку, файл — разрядность и алгоритм. Ремесло начинается там, где сопротивление известно и используется.",
+      "wording_en": "Mastery lies not in the cleanness of a result but in how an author works with the resistance of material. Wood has grain, clay has shrinkage, a file has bit depth and an algorithm. Craft begins where resistance is known and used.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_analysis_84b030b5aed68293_turns",
+      "wording_ru": "Готовый файл не показывает, сколько в нём труда. В ремесле следы обработки читались на поверхности; в цифре их приходится документировать отдельно, иначе процесс не существует для зрителя.",
+      "wording_en": "A finished file does not show how much labour is in it. In craft, traces of working were legible on the surface; in digital work they must be documented separately, or the process does not exist for the viewer.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_analysis_84b030b5aed68293_test",
+      "wording_ru": "Практический тест на мастерство один и тот же в обоих режимах: попросите сделать это ещё раз, на другом материале, с объяснением каждого шага. Ремесло выдерживает такую просьбу.",
+      "wording_en": "The practical test of mastery is the same in both regimes: ask for it again, on different material, with each step explained. Craft survives that request.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_analysis_84b030b5aed68293_today",
+      "wording_ru": "Спрашивайте не «сделано ли это вручную», а «знает ли автор, почему получилось именно так». Второй вопрос отделяет ремесло от совпадения в любом инструменте.",
+      "wording_en": "Ask not \"was this made by hand\" but \"does the author know why it came out this way\". The second question separates craft from coincidence in any tool.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    }
+  ]
+}

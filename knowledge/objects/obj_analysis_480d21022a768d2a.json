@@ -1,0 +1,102 @@
+{
+  "id": "obj_analysis_480d21022a768d2a",
+  "category": "analysis",
+  "canonical_name": "Почему технология меняет не скорость работы, а форму воображения",
+  "canonical_name_en": "Why technology changes not speed, but the shape of imagination",
+  "title_ru": "Почему технология меняет не скорость работы, а форму воображения",
+  "slug_ru": "why-technology-changes-not-speed-but-imagination",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "image-grammar",
+    "industrial-design"
+  ],
+  "sources": [
+    {
+      "id": "src_analysis_480d21022a768d2a_01",
+      "title": "Computer History Museum — Make Software: Photoshop",
+      "url": "https://www.computerhistory.org/makesoftware/exhibit/photoshop/",
+      "publisher": "Computer History Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_480d21022a768d2a_02",
+      "title": "Adobe — Nondestructive editing in Photoshop",
+      "url": "https://helpx.adobe.com/photoshop/using/nondestructive-editing.html",
+      "publisher": "Adobe",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_480d21022a768d2a_03",
+      "title": "Computer History Museum — Pixar’s Luxo Jr.",
+      "url": "https://computerhistory.org/blog/pixars-luxo-jr/",
+      "publisher": "Computer History Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_480d21022a768d2a_04",
+      "title": "Computer History Museum — Ivan Sutherland",
+      "url": "https://computerhistory.org/profile/ivan-sutherland/",
+      "publisher": "Computer History Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_480d21022a768d2a_05",
+      "title": "Design Museum — Chairs of the 1950s",
+      "url": "https://designmuseum.org/design/chairs-1950s",
+      "publisher": "Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_480d21022a768d2a_06",
+      "title": "Vitra Design Museum — Online Collection",
+      "url": "https://collection.design-museum.de/en/",
+      "publisher": "Vitra Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_480d21022a768d2a_07",
+      "title": "VANSMITHLAB AI Master Content Plan — project master plan",
+      "url": "",
+      "publisher": "VANSMITHLAB AI Master Content Plan",
+      "accessed_date": "2026-08-19",
+      "source_tier": "internal"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_analysis_480d21022a768d2a_thesis",
+      "wording_ru": "Технология обычно продаётся как экономия времени, но её главный эффект другой: она меняет набор решений, которые вообще приходят в голову. Ускорение заметно сразу, расширение — только задним числом.",
+      "wording_en": "A technology is usually sold as a saving of time, but its main effect is different: it changes the set of decisions that occur to anyone at all. Acceleration is noticed immediately; expansion only in retrospect.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_analysis_480d21022a768d2a_turns",
+      "wording_ru": "Цифровой файл разорвал связь между проектированием и цехом. Это изменило не темп, а географию и состав команды — а вместе с ними и то, какие проекты вообще возможны.",
+      "wording_en": "The digital file broke the link between design and workshop. This changed not tempo but geography and team composition — and with them which projects are possible at all.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_analysis_480d21022a768d2a_test",
+      "wording_ru": "Полезный тест — спросить не что стало легче, а что стало труднее. Каждая технология что-то закрывает, и список утраченного обычно точнее описывает сдвиг, чем список приобретённого.",
+      "wording_en": "A useful test is to ask not what became easier but what became harder. Every technology closes something, and the list of losses usually describes the shift more accurately than the list of gains.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_analysis_480d21022a768d2a_today",
+      "wording_ru": "Оценивая новый инструмент, не спрашивайте, насколько он быстрее. Спрашивайте, какие работы стали возможны впервые и какие тихо перестали делаться.",
+      "wording_en": "When assessing a new tool, do not ask how much faster it is. Ask which work became possible for the first time and which quietly stopped being done.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "id": "obj_analysis_c2e5422b27976137",
+  "category": "analysis",
+  "canonical_name": "Как промышленный материал становится символом роскоши",
+  "canonical_name_en": "How an industrial material becomes a symbol of luxury",
+  "title_ru": "Как промышленный материал становится символом роскоши",
+  "slug_ru": "how-industrial-material-becomes-a-symbol-of-luxury",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "materials",
+    "fashion-systems"
+  ],
+  "sources": [
+    {
+      "id": "src_analysis_c2e5422b27976137_01",
+      "title": "Prada Group — Prada Re-Nylon",
+      "url": "https://www.pradagroup.com/en/sustainability/environment-csr/prada-re-nylon.html",
+      "publisher": "Prada Group",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_c2e5422b27976137_02",
+      "title": "V&A — Fashioned from Nature",
+      "url": "https://www.vam.ac.uk/exhibitions/fashioned-from-nature",
+      "publisher": "V&A",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_c2e5422b27976137_03",
+      "title": "Vitra Design Museum — Online Collection",
+      "url": "https://collection.design-museum.de/en/",
+      "publisher": "Vitra Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_c2e5422b27976137_04",
+      "title": "Design Museum — Chairs of the 1960s",
+      "url": "https://designmuseum.org/design/chairs-1960s",
+      "publisher": "Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_c2e5422b27976137_05",
+      "title": "Design Museum — Collection",
+      "url": "https://designmuseum.org/about-the-museum/design-museum-collection",
+      "publisher": "Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_c2e5422b27976137_06",
+      "title": "MoMA — Readymade",
+      "url": "https://www.moma.org/collection/terms/readymade",
+      "publisher": "MoMA",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_c2e5422b27976137_07",
+      "title": "The Met — The Costume Institute",
+      "url": "https://www.metmuseum.org/departments/the-costume-institute",
+      "publisher": "The Met",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_c2e5422b27976137_08",
+      "title": "VANSMITHLAB AI Master Content Plan — project master plan",
+      "url": "",
+      "publisher": "VANSMITHLAB AI Master Content Plan",
+      "accessed_date": "2026-08-19",
+      "source_tier": "internal"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_analysis_c2e5422b27976137_thesis",
+      "wording_ru": "Промышленный материал становится роскошью не тогда, когда дорожает сырьё, а когда меняется система, которая его показывает: авторство, тираж, магазин, гарантия и объяснение. Материал остаётся тем же; переоценивается всё вокруг него.",
+      "wording_en": "An industrial material becomes luxury not when the raw material becomes expensive, but when the system that displays it changes: authorship, edition size, store, warranty, and explanation. The material stays the same; everything around it is repriced.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_analysis_c2e5422b27976137_turns",
+      "wording_ru": "Затем ценность сместилась ещё раз — от исполнения к системе вокруг предмета: гарантия, сервис, архив, право на ремонт, подтверждение происхождения. Материал стал одним из элементов, а не источником цены.",
+      "wording_en": "Then value shifted again — from execution to the system around the object: warranty, service, archive, right of repair, proof of origin. Material became one element rather than the source of price.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_analysis_c2e5422b27976137_test",
+      "wording_ru": "Практический тест простой: попросите документ. Состав, поставщик, доля вторичного сырья, срок гарантии и условия ремонта либо существуют в письменном виде, либо нет. Отсутствие документа — сам по себе ответ.",
+      "wording_en": "The practical test is simple: ask for the document. Composition, supplier, share of recycled content, warranty term, and repair conditions either exist in writing or they do not. The absence of a document is itself an answer.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_analysis_c2e5422b27976137_today",
+      "wording_ru": "Спрашивайте не «из чего сделано», а «что вокруг этого построено». Ответ на второй вопрос объясняет цену; ответ на первый объясняет только поведение вещи при носке.",
+      "wording_en": "Ask not \"what is it made of\" but \"what has been built around it\". The second answer explains the price; the first explains only how the object behaves in use.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    }
+  ]
+}

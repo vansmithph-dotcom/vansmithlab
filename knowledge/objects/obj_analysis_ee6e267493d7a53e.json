@@ -1,0 +1,102 @@
+{
+  "id": "obj_analysis_ee6e267493d7a53e",
+  "category": "analysis",
+  "canonical_name": "Кто автор изображения в эпоху генеративного ИИ",
+  "canonical_name_en": "Who authors the image in the age of generative AI",
+  "title_ru": "Кто автор изображения в эпоху генеративного ИИ",
+  "slug_ru": "who-authors-the-image-in-the-age-of-generative-ai",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "image-grammar",
+    "media-publishing"
+  ],
+  "sources": [
+    {
+      "id": "src_analysis_ee6e267493d7a53e_01",
+      "title": "OpenAI — Advancing content provenance",
+      "url": "https://openai.com/index/advancing-content-provenance/",
+      "publisher": "OpenAI",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_ee6e267493d7a53e_02",
+      "title": "OpenAI Help Center — C2PA and SynthID in generated images",
+      "url": "https://help.openai.com/en/articles/8912793-c2pa-in-images",
+      "publisher": "OpenAI Help Center",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_ee6e267493d7a53e_03",
+      "title": "Adobe — Nondestructive editing in Photoshop",
+      "url": "https://helpx.adobe.com/photoshop/using/nondestructive-editing.html",
+      "publisher": "Adobe",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_ee6e267493d7a53e_04",
+      "title": "Adobe — Auto-Blend Layers overview",
+      "url": "https://helpx.adobe.com/photoshop/desktop/create-masks/blend-images/auto-blend-layers-command-overview.html",
+      "publisher": "Adobe",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_ee6e267493d7a53e_05",
+      "title": "Computer History Museum — Make Software: Photoshop",
+      "url": "https://www.computerhistory.org/makesoftware/exhibit/photoshop/",
+      "publisher": "Computer History Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_ee6e267493d7a53e_06",
+      "title": "V&A — 100 years of fashion photography",
+      "url": "https://www.vam.ac.uk/articles/100-years-of-fashion-photography",
+      "publisher": "V&A",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_ee6e267493d7a53e_07",
+      "title": "VANSMITHLAB AI Master Content Plan — project master plan",
+      "url": "",
+      "publisher": "VANSMITHLAB AI Master Content Plan",
+      "accessed_date": "2026-08-19",
+      "source_tier": "internal"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_analysis_ee6e267493d7a53e_thesis",
+      "wording_ru": "Вопрос об авторстве кажется новым, но им он не является. Плёнка, объектив, лаборатория и редактор всегда участвовали в результате. Генеративная модель не создала распределённость — она сделала её невозможной для игнорирования.",
+      "wording_en": "The question of authorship seems new, but it is not. Film stock, lens, laboratory, and editor always participated in the result. A generative model did not create distribution — it made distribution impossible to ignore.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_analysis_ee6e267493d7a53e_turns",
+      "wording_ru": "Ключевое отличие текущего этапа — отсутствие негатива. Раньше можно было вернуться к исходнику и сравнить; теперь исходника в прежнем смысле нет, и проверка требует записи процесса.",
+      "wording_en": "The key difference at the current stage is the absence of a negative. Previously one could return to an original and compare; now there is no original in the former sense, and verification requires a record of process.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_analysis_ee6e267493d7a53e_test",
+      "wording_ru": "Рабочий тест — попросить описание процесса. Автор, принимавший решения, способен объяснить, что он отверг и почему. Тот, кто принял первый выданный вариант, объяснить это не может.",
+      "wording_en": "The working test is to ask for a description of process. An author who made decisions can explain what they rejected and why. Someone who accepted the first output cannot.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_analysis_ee6e267493d7a53e_today",
+      "wording_ru": "Смотрите не на подпись, а на перечень: названы ли позиции, указан ли способ производства, есть ли запись процесса. Отсутствие перечня — это и есть ответ об авторстве.",
+      "wording_en": "Look not at the byline but at the list: are the positions named, is the method of production stated, is there a record of process. The absence of a list is itself the answer about authorship.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "id": "obj_analysis_d91397c5b4e927d0",
+  "category": "analysis",
+  "canonical_name": "Цитата, копирование и архив — когда повтор становится новым дизайном",
+  "canonical_name_en": "Citation, copying, and archive — when repetition becomes new design",
+  "title_ru": "Цитата, копирование и архив — когда повтор становится новым дизайном",
+  "slug_ru": "citation-copying-and-archive-when-repetition-becomes-new-design",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "history-movements",
+    "image-grammar"
+  ],
+  "sources": [
+    {
+      "id": "src_analysis_d91397c5b4e927d0_01",
+      "title": "MoMA — Readymade",
+      "url": "https://www.moma.org/collection/terms/readymade",
+      "publisher": "MoMA",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_d91397c5b4e927d0_02",
+      "title": "Design Museum — Memphis Group: awful or awesome?",
+      "url": "https://designmuseum.org/discover-design/all-stories/memphis-group-awful-or-awesome",
+      "publisher": "Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_d91397c5b4e927d0_03",
+      "title": "Design Museum — Ettore Sottsass",
+      "url": "https://designmuseum.org/designers/ettore-sottsass",
+      "publisher": "Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_d91397c5b4e927d0_04",
+      "title": "Vitra Design Museum — Online Collection",
+      "url": "https://collection.design-museum.de/en/",
+      "publisher": "Vitra Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_d91397c5b4e927d0_05",
+      "title": "The Met — The Costume Institute",
+      "url": "https://www.metmuseum.org/departments/the-costume-institute",
+      "publisher": "The Met",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_d91397c5b4e927d0_06",
+      "title": "V&A — Museum",
+      "url": "https://www.vam.ac.uk/",
+      "publisher": "V&A",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_d91397c5b4e927d0_07",
+      "title": "VANSMITHLAB AI Master Content Plan — project master plan",
+      "url": "",
+      "publisher": "VANSMITHLAB AI Master Content Plan",
+      "accessed_date": "2026-08-19",
+      "source_tier": "internal"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_analysis_d91397c5b4e927d0_thesis",
+      "wording_ru": "Две визуально одинаковые вещи могут быть разными объектами, если различаются их положение в системе: кто автор, кому разрешено производить, для кого предназначено, что об этом сказано. Форма — не единственный носитель различия.",
+      "wording_en": "Two visually identical objects can be different things if their position in a system differs: who the author is, who is licensed to produce, whom it is for, what has been said about it. Form is not the only carrier of difference.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_analysis_d91397c5b4e927d0_turns",
+      "wording_ru": "Признание цитаты законным методом освободило дизайнеров от требования новизны любой ценой. Оценка сместилась с вопроса «ново ли это» на вопрос «зачем именно этот источник».",
+      "wording_en": "Recognising citation as a legitimate method freed designers from the demand for novelty at any cost. Assessment shifted from \"is this new\" to \"why this particular source\".",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_analysis_d91397c5b4e927d0_test",
+      "wording_ru": "Единственный работающий тест — декларация. Назван ли источник, указаны ли права, отличима ли новая версия от исходной в документации. Всё остальное — вопрос вкуса, а это вопрос проверяемости.",
+      "wording_en": "The only working test is declaration. Is the source named, are rights stated, is the new version distinguishable from the original in documentation. Everything else is a matter of taste; this is a matter of verifiability.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_analysis_d91397c5b4e927d0_today",
+      "wording_ru": "Встретив знакомую форму, спросите не «где я это видел», а «сказано ли, где это было раньше». Наличие ответа отличает работу от присвоения.",
+      "wording_en": "On meeting a familiar form, ask not \"where have I seen this\" but \"has it been stated where this was before\". The presence of an answer separates work from appropriation.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    }
+  ]
+}

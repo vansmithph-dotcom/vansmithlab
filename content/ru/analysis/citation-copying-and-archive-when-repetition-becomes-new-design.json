@@ -1,0 +1,37 @@
+{
+  "content_id": "cnt_analysis_ru_d91397c5b4e927d0",
+  "primary_object_id": "obj_analysis_d91397c5b4e927d0",
+  "content_type": "analysis",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_analysis_d91397c5b4e927d0_thesis",
+    "clm_analysis_d91397c5b4e927d0_turns",
+    "clm_analysis_d91397c5b4e927d0_test",
+    "clm_analysis_d91397c5b4e927d0_today"
+  ],
+  "source_ids": [
+    "src_analysis_d91397c5b4e927d0_01",
+    "src_analysis_d91397c5b4e927d0_02",
+    "src_analysis_d91397c5b4e927d0_03",
+    "src_analysis_d91397c5b4e927d0_04",
+    "src_analysis_d91397c5b4e927d0_05",
+    "src_analysis_d91397c5b4e927d0_06",
+    "src_analysis_d91397c5b4e927d0_07"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "citation-copying-and-archive-when-repetition-becomes-new-design",
+  "title": "Цитата, копирование и архив — когда повтор становится новым дизайном",
+  "summary": "Повтор становится новым дизайном не при смене поверхности, а при смене доступа, контекста, авторства и функции.",
+  "discipline": [
+    "history-movements",
+    "image-grammar"
+  ],
+  "kind": "theme",
+  "body_hash": "de9eaad9dc79d87e7d57262d6fe7a9263593fa00f731ad5844a8ccebe5b1fd42"
+}

@@ -1,0 +1,36 @@
+{
+  "content_id": "cnt_analysis_ru_0b3ec4b864f2c39c",
+  "primary_object_id": "obj_analysis_0b3ec4b864f2c39c",
+  "content_type": "analysis",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_analysis_0b3ec4b864f2c39c_thesis",
+    "clm_analysis_0b3ec4b864f2c39c_turns",
+    "clm_analysis_0b3ec4b864f2c39c_test",
+    "clm_analysis_0b3ec4b864f2c39c_today"
+  ],
+  "source_ids": [
+    "src_analysis_0b3ec4b864f2c39c_01",
+    "src_analysis_0b3ec4b864f2c39c_02",
+    "src_analysis_0b3ec4b864f2c39c_03",
+    "src_analysis_0b3ec4b864f2c39c_04",
+    "src_analysis_0b3ec4b864f2c39c_05",
+    "src_analysis_0b3ec4b864f2c39c_06"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "how-logistics-changes-the-form-of-an-object",
+  "title": "Как логистика меняет форму предмета",
+  "summary": "Упаковка, штабелирование, вес и маршрут доставки проектируют предмет не слабее автора.",
+  "discipline": [
+    "industrial-design",
+    "materials"
+  ],
+  "kind": "theme",
+  "body_hash": "964994b4dda15a9aad07c0af48c0714bfa6b2cda4f0b8d018237c1624ca7901d"
+}

@@ -1,0 +1,38 @@
+{
+  "content_id": "cnt_analysis_en_1363b3b739c6a920",
+  "primary_object_id": "obj_analysis_1363b3b739c6a920",
+  "content_type": "analysis",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_analysis_1363b3b739c6a920_thesis",
+    "clm_analysis_1363b3b739c6a920_turns",
+    "clm_analysis_1363b3b739c6a920_test",
+    "clm_analysis_1363b3b739c6a920_today"
+  ],
+  "source_ids": [
+    "src_analysis_1363b3b739c6a920_01",
+    "src_analysis_1363b3b739c6a920_02",
+    "src_analysis_1363b3b739c6a920_03",
+    "src_analysis_1363b3b739c6a920_04",
+    "src_analysis_1363b3b739c6a920_05",
+    "src_analysis_1363b3b739c6a920_06",
+    "src_analysis_1363b3b739c6a920_07",
+    "src_analysis_1363b3b739c6a920_08"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "why-the-museum-changes-the-meaning-of-an-ordinary-object",
+  "title": "Why the museum changes the meaning of an ordinary object",
+  "summary": "A museum does not store an object; it changes the regime in which the object is read, turning it into argument, document, and canon.",
+  "discipline": [
+    "space-typologies",
+    "history-movements"
+  ],
+  "kind": "theme",
+  "body_hash": "af19b07d4265875eb6e9a756918c9854d717b352da6ae4e6742db48fd9307e58"
+}

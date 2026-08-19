@@ -1,0 +1,102 @@
+{
+  "id": "obj_analysis_24097fb70dc0824a",
+  "category": "analysis",
+  "canonical_name": "Почему дизайн-система переживает отдельного дизайнера",
+  "canonical_name_en": "Why a design system outlives an individual designer",
+  "title_ru": "Почему дизайн-система переживает отдельного дизайнера",
+  "slug_ru": "why-a-design-system-outlives-an-individual-designer",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "graphic-design",
+    "history-movements"
+  ],
+  "sources": [
+    {
+      "id": "src_analysis_24097fb70dc0824a_01",
+      "title": "Design Museum — What is good design? Dieter Rams’s ten principles",
+      "url": "https://designmuseum.org/discover-design/all-stories/what-is-good-design-a-quick-look-at-dieter-rams-ten-principles",
+      "publisher": "Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_24097fb70dc0824a_02",
+      "title": "Design Museum — Dieter Rams",
+      "url": "https://designmuseum.org/design/dieter-rams",
+      "publisher": "Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_24097fb70dc0824a_03",
+      "title": "MoMA — Bauhaus 1919–1933: Workshops for Modernity",
+      "url": "https://www.moma.org/calendar/exhibitions/303",
+      "publisher": "MoMA",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_24097fb70dc0824a_04",
+      "title": "Bauhaus Dessau Foundation — Chronology",
+      "url": "https://bauhaus-dessau.de/en/institution/chronology/",
+      "publisher": "Bauhaus Dessau Foundation",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_24097fb70dc0824a_05",
+      "title": "Letterform Archive — Bauhaus typography at 100",
+      "url": "https://letterformarchive.org/news/bauhaus-typography-at-100/",
+      "publisher": "Letterform Archive",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_24097fb70dc0824a_06",
+      "title": "Vitra Design Museum — Online Collection",
+      "url": "https://collection.design-museum.de/en/",
+      "publisher": "Vitra Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_24097fb70dc0824a_07",
+      "title": "VANSMITHLAB AI Master Content Plan — project master plan",
+      "url": "",
+      "publisher": "VANSMITHLAB AI Master Content Plan",
+      "accessed_date": "2026-08-19",
+      "source_tier": "internal"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_analysis_24097fb70dc0824a_thesis",
+      "wording_ru": "Проверка простая: способен ли человек, не знакомый с автором, принять верное решение, опираясь только на документ. Если да, система существует; если нет, существует стиль, привязанный к присутствию.",
+      "wording_en": "The test is simple: can a person who never met the author make a correct decision using only the document. If yes, a system exists; if no, what exists is a style tied to presence.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_analysis_24097fb70dc0824a_turns",
+      "wording_ru": "Описание поведения вместо описания вида позволило системе отвечать на новые запросы. Это ключевое отличие живой системы от стилевого справочника.",
+      "wording_en": "Describing behaviour instead of appearance allowed a system to answer new requirements. This is the key difference between a living system and a style reference.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_analysis_24097fb70dc0824a_test",
+      "wording_ru": "Тест на долговечность: представьте, что автор недоступен. Сможет ли команда принять спорное решение, сославшись на документ? Если решение упирается в чью-то память, система ещё не построена.",
+      "wording_en": "The longevity test: imagine the author is unavailable. Can the team settle a contested decision by citing the document? If the decision depends on someone’s memory, the system is not yet built.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_analysis_24097fb70dc0824a_today",
+      "wording_ru": "Оценивая дизайн-систему, смотрите не на её визуальную часть, а на журнал изменений и на список исключений. Оба показывают, жива она или только опубликована.",
+      "wording_en": "When assessing a design system, look not at its visual part but at its changelog and its list of exceptions. Both show whether it is alive or merely published.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    }
+  ]
+}

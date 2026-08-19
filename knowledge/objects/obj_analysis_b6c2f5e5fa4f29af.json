@@ -1,0 +1,110 @@
+{
+  "id": "obj_analysis_b6c2f5e5fa4f29af",
+  "category": "analysis",
+  "canonical_name": "Почему архитектура стала языком современной моды",
+  "canonical_name_en": "Why architecture became the language of contemporary fashion",
+  "title_ru": "Почему архитектура стала языком современной моды",
+  "slug_ru": "why-architecture-became-the-language-of-contemporary-fashion",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "fashion-systems",
+    "space-typologies"
+  ],
+  "sources": [
+    {
+      "id": "src_analysis_b6c2f5e5fa4f29af_01",
+      "title": "MoMA — Bauhaus 1919–1933: Workshops for Modernity",
+      "url": "https://www.moma.org/calendar/exhibitions/303",
+      "publisher": "MoMA",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_b6c2f5e5fa4f29af_02",
+      "title": "Bauhaus Dessau Foundation — Chronology",
+      "url": "https://bauhaus-dessau.de/en/institution/chronology/",
+      "publisher": "Bauhaus Dessau Foundation",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_b6c2f5e5fa4f29af_03",
+      "title": "Bauhaus-Archiv — Collection",
+      "url": "https://www.bauhaus.de/en/research/collection/",
+      "publisher": "Bauhaus-Archiv",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_b6c2f5e5fa4f29af_04",
+      "title": "Vitra Design Museum — Online Collection",
+      "url": "https://collection.design-museum.de/en/",
+      "publisher": "Vitra Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_b6c2f5e5fa4f29af_05",
+      "title": "The Met — The Costume Institute",
+      "url": "https://www.metmuseum.org/departments/the-costume-institute",
+      "publisher": "The Met",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_b6c2f5e5fa4f29af_06",
+      "title": "V&A — 100 years of fashion photography",
+      "url": "https://www.vam.ac.uk/articles/100-years-of-fashion-photography",
+      "publisher": "V&A",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_b6c2f5e5fa4f29af_07",
+      "title": "Design Museum — Collection",
+      "url": "https://designmuseum.org/about-the-museum/design-museum-collection",
+      "publisher": "Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_b6c2f5e5fa4f29af_08",
+      "title": "VANSMITHLAB AI Master Content Plan — project master plan",
+      "url": "",
+      "publisher": "VANSMITHLAB AI Master Content Plan",
+      "accessed_date": "2026-08-19",
+      "source_tier": "internal"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_analysis_b6c2f5e5fa4f29af_thesis",
+      "wording_ru": "Когда говорят, что коллекция «архитектурна», обычно имеют в виду жёсткий силуэт. Но настоящее заимствование глубже: мода взяла у архитектуры способ разделять работу на каркас, оболочку и отделку — и планировать движение зрителя. Это метод, а не цитата.",
+      "wording_en": "When a collection is called \"architectural\", the phrase usually means a rigid silhouette. The real borrowing goes deeper: fashion took from architecture the habit of separating work into frame, shell, and finish — and of planning how a viewer moves. It is a method, not a quotation.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_analysis_b6c2f5e5fa4f29af_turns",
+      "wording_ru": "С девяностых крупные дома начали заказывать здания у ведущих архитекторов, и магазин перестал быть арендованной площадью. Это перевело моду в разряд заказчиков архитектуры и заставило её принять архитектурные сроки, бюджеты и ответственность.",
+      "wording_en": "From the 1990s major houses began commissioning buildings from leading architects, and the store stopped being rented floor area. This moved fashion into the category of architectural clients and forced it to accept architectural timescales, budgets, and liability.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_analysis_b6c2f5e5fa4f29af_test",
+      "wording_ru": "Чтобы отличить метод от метафоры, полезны три вопроса. Держит ли форму внутренняя структура или крахмал? Рассчитан ли крой на распределение нагрузки? Спроектировано ли пространство, в котором вещь показывают? Три «да» означают архитектурный метод.",
+      "wording_en": "To tell method from metaphor, three questions help. Does an inner structure hold the form, or starch? Is the cut calculated for load distribution? Was the space in which it is shown designed for it? Three affirmatives indicate an architectural method.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_analysis_b6c2f5e5fa4f29af_today",
+      "wording_ru": "Смотрите на вещь дважды. Первый взгляд — на силуэт, второй — на то, что его держит и в каком пространстве его показывают. Если второй взгляд ничего не добавляет, перед вами метафора; если добавляет — метод.",
+      "wording_en": "Look at a garment twice. The first look is at the silhouette; the second is at what holds it and in what space it is shown. If the second look adds nothing, you are facing a metaphor; if it adds something, you are facing a method.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    }
+  ]
+}

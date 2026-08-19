@@ -1,0 +1,102 @@
+{
+  "id": "obj_analysis_c337e071cc8687f1",
+  "category": "analysis",
+  "canonical_name": "Минимализм: почему отсутствие иногда стоит дороже декора",
+  "canonical_name_en": "Minimalism: why absence sometimes costs more than decoration",
+  "title_ru": "Минимализм: почему отсутствие иногда стоит дороже декора",
+  "slug_ru": "minimalism-why-absence-can-cost-more-than-decoration",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "history-movements",
+    "materials"
+  ],
+  "sources": [
+    {
+      "id": "src_analysis_c337e071cc8687f1_01",
+      "title": "Design Museum — What is good design? Dieter Rams’s ten principles",
+      "url": "https://designmuseum.org/discover-design/all-stories/what-is-good-design-a-quick-look-at-dieter-rams-ten-principles",
+      "publisher": "Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_c337e071cc8687f1_02",
+      "title": "Design Museum — Dieter Rams",
+      "url": "https://designmuseum.org/design/dieter-rams",
+      "publisher": "Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_c337e071cc8687f1_03",
+      "title": "Design Museum — John Pawson",
+      "url": "https://designmuseum.org/designers/john-pawson",
+      "publisher": "Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_c337e071cc8687f1_04",
+      "title": "MoMA — Bauhaus 1919–1933: Workshops for Modernity",
+      "url": "https://www.moma.org/calendar/exhibitions/303",
+      "publisher": "MoMA",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_c337e071cc8687f1_05",
+      "title": "Bauhaus Dessau Foundation — Bauhaus Building",
+      "url": "https://bauhaus-dessau.de/en/venues/bauhaus-building/",
+      "publisher": "Bauhaus Dessau Foundation",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_c337e071cc8687f1_06",
+      "title": "Vitra Design Museum — Online Collection",
+      "url": "https://collection.design-museum.de/en/",
+      "publisher": "Vitra Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_c337e071cc8687f1_07",
+      "title": "VANSMITHLAB AI Master Content Plan — project master plan",
+      "url": "",
+      "publisher": "VANSMITHLAB AI Master Content Plan",
+      "accessed_date": "2026-08-19",
+      "source_tier": "internal"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_analysis_c337e071cc8687f1_thesis",
+      "wording_ru": "Снятие элемента не снимает задачу, которую элемент решал. Плинтус закрывал стык, молдинг прощал неровность, узор скрывал пятно. Убирая их, вы обязаны решить ту же задачу точностью — и это дороже.",
+      "wording_en": "Removing an element does not remove the problem the element solved. A skirting board covered a joint, a moulding forgave an irregularity, a pattern hid a stain. Remove them and you must solve the same problem with precision — and precision costs more.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_analysis_c337e071cc8687f1_turns",
+      "wording_ru": "Когда точность стала достижимой массово, минимализм превратился в знак. Появилась дешёвая имитация: те же формы при низком качестве исполнения, где отсутствие снова стало экономией.",
+      "wording_en": "When precision became broadly achievable, minimalism turned into a sign. Cheap imitation appeared: the same shapes at low execution quality, where absence became economy again.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_analysis_c337e071cc8687f1_test",
+      "wording_ru": "Тест выполняется на расстоянии тридцати сантиметров. Посмотрите на угол, на стык двух материалов, на кромку и на то, как ложится тень. Дорогая редукция выдерживает этот взгляд, дешёвая — нет.",
+      "wording_en": "The test is performed at thirty centimetres. Look at a corner, at the meeting of two materials, at an edge, and at how a shadow falls. Expensive reduction survives this look; cheap does not.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_analysis_c337e071cc8687f1_today",
+      "wording_ru": "Не оценивайте минимализм по общему виду — он у всех одинаковый. Оценивайте по краю, стыку и по тому, как вещь выглядит через год пользования.",
+      "wording_en": "Do not judge minimalism by its overall look — that is the same everywhere. Judge it by the edge, the joint, and how the object looks after a year of use.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    }
+  ]
+}

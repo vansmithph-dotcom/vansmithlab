@@ -1,0 +1,36 @@
+{
+  "content_id": "cnt_analysis_en_03b75c84c6d92449",
+  "primary_object_id": "obj_analysis_03b75c84c6d92449",
+  "content_type": "analysis",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_analysis_03b75c84c6d92449_thesis",
+    "clm_analysis_03b75c84c6d92449_turns",
+    "clm_analysis_03b75c84c6d92449_test",
+    "clm_analysis_03b75c84c6d92449_today"
+  ],
+  "source_ids": [
+    "src_analysis_03b75c84c6d92449_01",
+    "src_analysis_03b75c84c6d92449_02",
+    "src_analysis_03b75c84c6d92449_03",
+    "src_analysis_03b75c84c6d92449_04",
+    "src_analysis_03b75c84c6d92449_05",
+    "src_analysis_03b75c84c6d92449_06"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "why-sustainability-cannot-be-proven-by-green-color",
+  "title": "Why sustainability cannot be proven by green color",
+  "summary": "Sustainability is verified through material, energy, logistics, service life, repair, and transparency — not through a palette.",
+  "discipline": [
+    "materials",
+    "graphic-design"
+  ],
+  "kind": "theme",
+  "body_hash": "0191bc1c1ae15c80beaee710d21856770588d4d1a377472d4aa172e7a3d376db"
+}

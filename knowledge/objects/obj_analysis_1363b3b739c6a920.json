@@ -1,0 +1,110 @@
+{
+  "id": "obj_analysis_1363b3b739c6a920",
+  "category": "analysis",
+  "canonical_name": "Почему музей меняет значение обычного предмета",
+  "canonical_name_en": "Why the museum changes the meaning of an ordinary object",
+  "title_ru": "Почему музей меняет значение обычного предмета",
+  "slug_ru": "why-the-museum-changes-the-meaning-of-an-ordinary-object",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "space-typologies",
+    "history-movements"
+  ],
+  "sources": [
+    {
+      "id": "src_analysis_1363b3b739c6a920_01",
+      "title": "MoMA — Readymade",
+      "url": "https://www.moma.org/collection/terms/readymade",
+      "publisher": "MoMA",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_1363b3b739c6a920_02",
+      "title": "MoMA — Bauhaus 1919–1933: Workshops for Modernity",
+      "url": "https://www.moma.org/calendar/exhibitions/303",
+      "publisher": "MoMA",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_1363b3b739c6a920_03",
+      "title": "Vitra Design Museum — Online Collection",
+      "url": "https://collection.design-museum.de/en/",
+      "publisher": "Vitra Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_1363b3b739c6a920_04",
+      "title": "Design Museum — Collection",
+      "url": "https://designmuseum.org/about-the-museum/design-museum-collection",
+      "publisher": "Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_1363b3b739c6a920_05",
+      "title": "The Met — The Costume Institute",
+      "url": "https://www.metmuseum.org/departments/the-costume-institute",
+      "publisher": "The Met",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_1363b3b739c6a920_06",
+      "title": "V&A — Museum",
+      "url": "https://www.vam.ac.uk/",
+      "publisher": "V&A",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_1363b3b739c6a920_07",
+      "title": "Bauhaus-Archiv — Collection",
+      "url": "https://www.bauhaus.de/en/research/collection/",
+      "publisher": "Bauhaus-Archiv",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_1363b3b739c6a920_08",
+      "title": "VANSMITHLAB AI Master Content Plan — project master plan",
+      "url": "",
+      "publisher": "VANSMITHLAB AI Master Content Plan",
+      "accessed_date": "2026-08-19",
+      "source_tier": "internal"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_analysis_1363b3b739c6a920_thesis",
+      "wording_ru": "Стул в квартире и тот же стул в витрине музея физически идентичны. Меняется набор разрешённых действий: сидеть нельзя, трогать нельзя, смотреть нужно с определённой дистанции. Музей переопределяет предмет через ограничение доступа.",
+      "wording_en": "A chair in a flat and the same chair in a museum vitrine are physically identical. What changes is the set of permitted actions: you may not sit, you may not touch, you must look from a set distance. The museum redefines an object by restricting access.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_analysis_1363b3b739c6a920_turns",
+      "wording_ru": "Включение промышленной, серийной и повседневной вещи в собрание расширило предмет истории. Это было спорное решение: оно означало, что значимость не совпадает с редкостью.",
+      "wording_en": "Admitting industrial, serial, and everyday objects into collections widened the subject of history. It was a contested decision: it meant that significance does not coincide with rarity.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_analysis_1363b3b739c6a920_test",
+      "wording_ru": "Простой тест: мысленно снимите этикетку и стекло. Если предмет продолжает удерживать внимание сам по себе, работает конструкция; если нет — работала рамка. Оба ответа полезны.",
+      "wording_en": "A simple test: mentally take away the label and the glass. If the object still holds attention on its own, construction is doing the work; if not, the frame was. Both answers are useful.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_analysis_1363b3b739c6a920_today",
+      "wording_ru": "В зале смотрите не только на предмет, но и на решение о нём: почему он здесь, рядом с чем и что о нём не сказано. Экспозиция — это текст, и его можно читать критически.",
+      "wording_en": "In a gallery, look not only at the object but at the decision about it: why it is here, beside what, and what is left unsaid. A display is a text, and it can be read critically.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    }
+  ]
+}

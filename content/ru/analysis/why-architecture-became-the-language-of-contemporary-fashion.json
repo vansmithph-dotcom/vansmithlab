@@ -1,0 +1,38 @@
+{
+  "content_id": "cnt_analysis_ru_b6c2f5e5fa4f29af",
+  "primary_object_id": "obj_analysis_b6c2f5e5fa4f29af",
+  "content_type": "analysis",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_analysis_b6c2f5e5fa4f29af_thesis",
+    "clm_analysis_b6c2f5e5fa4f29af_turns",
+    "clm_analysis_b6c2f5e5fa4f29af_test",
+    "clm_analysis_b6c2f5e5fa4f29af_today"
+  ],
+  "source_ids": [
+    "src_analysis_b6c2f5e5fa4f29af_01",
+    "src_analysis_b6c2f5e5fa4f29af_02",
+    "src_analysis_b6c2f5e5fa4f29af_03",
+    "src_analysis_b6c2f5e5fa4f29af_04",
+    "src_analysis_b6c2f5e5fa4f29af_05",
+    "src_analysis_b6c2f5e5fa4f29af_06",
+    "src_analysis_b6c2f5e5fa4f29af_07",
+    "src_analysis_b6c2f5e5fa4f29af_08"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "why-architecture-became-the-language-of-contemporary-fashion",
+  "title": "Почему архитектура стала языком современной моды",
+  "summary": "Мода заимствует у архитектуры не форму, а метод: каркас, оболочку, маршрут, масштаб и сценографию показа.",
+  "discipline": [
+    "fashion-systems",
+    "space-typologies"
+  ],
+  "kind": "theme",
+  "body_hash": "65fc7ef43fa5d50c81726721066c1a18b5b7005d7a84ab551cc5879a8f012f50"
+}

@@ -1,0 +1,37 @@
+{
+  "content_id": "cnt_analysis_en_c337e071cc8687f1",
+  "primary_object_id": "obj_analysis_c337e071cc8687f1",
+  "content_type": "analysis",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_analysis_c337e071cc8687f1_thesis",
+    "clm_analysis_c337e071cc8687f1_turns",
+    "clm_analysis_c337e071cc8687f1_test",
+    "clm_analysis_c337e071cc8687f1_today"
+  ],
+  "source_ids": [
+    "src_analysis_c337e071cc8687f1_01",
+    "src_analysis_c337e071cc8687f1_02",
+    "src_analysis_c337e071cc8687f1_03",
+    "src_analysis_c337e071cc8687f1_04",
+    "src_analysis_c337e071cc8687f1_05",
+    "src_analysis_c337e071cc8687f1_06",
+    "src_analysis_c337e071cc8687f1_07"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "minimalism-why-absence-can-cost-more-than-decoration",
+  "title": "Minimalism: why absence sometimes costs more than decoration",
+  "summary": "Minimalism is expensive not through the number of elements but because it moves cost into the precision of surface, joint, and tolerance.",
+  "discipline": [
+    "history-movements",
+    "materials"
+  ],
+  "kind": "theme",
+  "body_hash": "bb92438aa88c8f15ebb4cf33923d4f29d6e3cf366a5fbd3eb1699d38684927e3"
+}

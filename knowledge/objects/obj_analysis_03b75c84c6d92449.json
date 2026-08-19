@@ -1,0 +1,94 @@
+{
+  "id": "obj_analysis_03b75c84c6d92449",
+  "category": "analysis",
+  "canonical_name": "Почему устойчивость нельзя доказывать зелёным цветом",
+  "canonical_name_en": "Why sustainability cannot be proven by green color",
+  "title_ru": "Почему устойчивость нельзя доказывать зелёным цветом",
+  "slug_ru": "why-sustainability-cannot-be-proven-by-green-color",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "materials",
+    "graphic-design"
+  ],
+  "sources": [
+    {
+      "id": "src_analysis_03b75c84c6d92449_01",
+      "title": "V&A — Fashioned from Nature",
+      "url": "https://www.vam.ac.uk/exhibitions/fashioned-from-nature",
+      "publisher": "V&A",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_03b75c84c6d92449_02",
+      "title": "Prada Group — Prada Re-Nylon",
+      "url": "https://www.pradagroup.com/en/sustainability/environment-csr/prada-re-nylon.html",
+      "publisher": "Prada Group",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_03b75c84c6d92449_03",
+      "title": "Ellen MacArthur Foundation — Materiom",
+      "url": "https://ellenmacarthurfoundation.org/ce100/members/materiom",
+      "publisher": "Ellen MacArthur Foundation",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_03b75c84c6d92449_04",
+      "title": "Design Museum — Collection",
+      "url": "https://designmuseum.org/about-the-museum/design-museum-collection",
+      "publisher": "Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_03b75c84c6d92449_05",
+      "title": "Vitra Design Museum — Online Collection",
+      "url": "https://collection.design-museum.de/en/",
+      "publisher": "Vitra Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_03b75c84c6d92449_06",
+      "title": "VANSMITHLAB AI Master Content Plan — project master plan",
+      "url": "",
+      "publisher": "VANSMITHLAB AI Master Content Plan",
+      "accessed_date": "2026-08-19",
+      "source_tier": "internal"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_analysis_03b75c84c6d92449_thesis",
+      "wording_ru": "Зелёный, крафтовая бумага и растительная графика сообщают о намерении, а не о результате. Между знаком и измерением нет причинной связи, и потому визуальный язык не может служить доказательством.",
+      "wording_en": "Green, kraft paper, and botanical graphics communicate intention rather than outcome. There is no causal link between sign and measurement, and so a visual language cannot serve as proof.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_analysis_03b75c84c6d92449_turns",
+      "wording_ru": "Затем центр тяжести сместился с обещания на отчётность. Значение приобрели не формулировки, а публикуемые показатели и возможность их независимой проверки.",
+      "wording_en": "The centre of gravity then moved from promise to reporting. What mattered became not wording but published indicators and the possibility of independent verification.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_analysis_03b75c84c6d92449_test",
+      "wording_ru": "Четыре вопроса отсекают большинство пустых заявлений. Что именно измерено? По сравнению с чем? Кто проверял? Где опубликовано? Отсутствие любого ответа делает заявление непроверяемым.",
+      "wording_en": "Four questions eliminate most empty claims. What exactly was measured? Compared with what? Who verified it? Where is it published? A missing answer to any of them makes the claim unverifiable.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_analysis_03b75c84c6d92449_today",
+      "wording_ru": "Игнорируйте оформление и ищите цифру с единицей измерения. Если её нет, перед вами обещание; если есть — перед вами заявление, которое можно проверить.",
+      "wording_en": "Ignore the styling and look for a figure with a unit. If there is none, you are facing a promise; if there is, you are facing a claim that can be checked.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    }
+  ]
+}

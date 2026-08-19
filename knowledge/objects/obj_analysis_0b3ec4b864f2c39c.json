@@ -1,0 +1,94 @@
+{
+  "id": "obj_analysis_0b3ec4b864f2c39c",
+  "category": "analysis",
+  "canonical_name": "Как логистика меняет форму предмета",
+  "canonical_name_en": "How logistics changes the form of an object",
+  "title_ru": "Как логистика меняет форму предмета",
+  "slug_ru": "how-logistics-changes-the-form-of-an-object",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "industrial-design",
+    "materials"
+  ],
+  "sources": [
+    {
+      "id": "src_analysis_0b3ec4b864f2c39c_01",
+      "title": "Design Museum — Collection",
+      "url": "https://designmuseum.org/about-the-museum/design-museum-collection",
+      "publisher": "Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_0b3ec4b864f2c39c_02",
+      "title": "Design Museum — Chairs of the 1950s",
+      "url": "https://designmuseum.org/design/chairs-1950s",
+      "publisher": "Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_0b3ec4b864f2c39c_03",
+      "title": "Design Museum — Chairs of the 1960s",
+      "url": "https://designmuseum.org/design/chairs-1960s",
+      "publisher": "Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_0b3ec4b864f2c39c_04",
+      "title": "Vitra Design Museum — Online Collection",
+      "url": "https://collection.design-museum.de/en/",
+      "publisher": "Vitra Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_0b3ec4b864f2c39c_05",
+      "title": "MoMA — Bauhaus 1919–1933: Workshops for Modernity",
+      "url": "https://www.moma.org/calendar/exhibitions/303",
+      "publisher": "MoMA",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_analysis_0b3ec4b864f2c39c_06",
+      "title": "VANSMITHLAB AI Master Content Plan — project master plan",
+      "url": "",
+      "publisher": "VANSMITHLAB AI Master Content Plan",
+      "accessed_date": "2026-08-19",
+      "source_tier": "internal"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_analysis_0b3ec4b864f2c39c_thesis",
+      "wording_ru": "Габарит упаковки задаёт предельные размеры предмета раньше, чем начинается эскиз. Если вещь не входит в стандартный короб, поддон или проём лифта, форму меняют — и меняют её не по эстетическим соображениям.",
+      "wording_en": "Package dimensions set the limits of an object before sketching begins. If a thing does not fit a standard carton, pallet, or lift opening, the form is changed — and not for aesthetic reasons.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_analysis_0b3ec4b864f2c39c_turns",
+      "wording_ru": "Передача последней операции пользователю снизила объём перевозки и переписала конструкцию мебели. Экономия на воздухе оказалась сильнее аргументов о качестве соединения.",
+      "wording_en": "Handing the last operation to the user cut shipping volume and rewrote furniture construction. Saving on air proved stronger than arguments about joint quality.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_analysis_0b3ec4b864f2c39c_test",
+      "wording_ru": "Практический приём — изучить упаковку до предмета. Соотношение объёма коробки и объёма вещи, наличие вложений и способ фиксации показывают, какие решения были приняты и почему.",
+      "wording_en": "A practical method is to study the packaging before the object. The ratio of box volume to object volume, the presence of nesting, and the method of restraint reveal which decisions were taken and why.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_analysis_0b3ec4b864f2c39c_today",
+      "wording_ru": "Встретив странную пропорцию или неожиданное соединение, спросите про маршрут: как это ехало, как складывалось и как поедет обратно. Ответ обычно объясняет форму.",
+      "wording_en": "On meeting an odd proportion or an unexpected joint, ask about the route: how it travelled, how it packed, and how it will travel back. The answer usually explains the form.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    }
+  ]
+}

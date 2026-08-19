@@ -1,0 +1,38 @@
+{
+  "content_id": "cnt_analysis_en_c2e5422b27976137",
+  "primary_object_id": "obj_analysis_c2e5422b27976137",
+  "content_type": "analysis",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_analysis_c2e5422b27976137_thesis",
+    "clm_analysis_c2e5422b27976137_turns",
+    "clm_analysis_c2e5422b27976137_test",
+    "clm_analysis_c2e5422b27976137_today"
+  ],
+  "source_ids": [
+    "src_analysis_c2e5422b27976137_01",
+    "src_analysis_c2e5422b27976137_02",
+    "src_analysis_c2e5422b27976137_03",
+    "src_analysis_c2e5422b27976137_04",
+    "src_analysis_c2e5422b27976137_05",
+    "src_analysis_c2e5422b27976137_06",
+    "src_analysis_c2e5422b27976137_07",
+    "src_analysis_c2e5422b27976137_08"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "how-industrial-material-becomes-a-symbol-of-luxury",
+  "title": "How an industrial material becomes a symbol of luxury",
+  "summary": "Luxury is produced not by rare raw material but by moving a cheap technology into a precise cultural context.",
+  "discipline": [
+    "materials",
+    "fashion-systems"
+  ],
+  "kind": "theme",
+  "body_hash": "1bd63a5da86e71f0b2bdbe6d245ac17e1553a68f5653c401e19c377dca6517fd"
+}

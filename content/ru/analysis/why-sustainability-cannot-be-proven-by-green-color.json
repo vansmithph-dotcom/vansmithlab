@@ -1,0 +1,36 @@
+{
+  "content_id": "cnt_analysis_ru_03b75c84c6d92449",
+  "primary_object_id": "obj_analysis_03b75c84c6d92449",
+  "content_type": "analysis",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_analysis_03b75c84c6d92449_thesis",
+    "clm_analysis_03b75c84c6d92449_turns",
+    "clm_analysis_03b75c84c6d92449_test",
+    "clm_analysis_03b75c84c6d92449_today"
+  ],
+  "source_ids": [
+    "src_analysis_03b75c84c6d92449_01",
+    "src_analysis_03b75c84c6d92449_02",
+    "src_analysis_03b75c84c6d92449_03",
+    "src_analysis_03b75c84c6d92449_04",
+    "src_analysis_03b75c84c6d92449_05",
+    "src_analysis_03b75c84c6d92449_06"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "why-sustainability-cannot-be-proven-by-green-color",
+  "title": "Почему устойчивость нельзя доказывать зелёным цветом",
+  "summary": "Устойчивость проверяется материалом, энергией, логистикой, сроком службы, ремонтом и прозрачностью, а не палитрой.",
+  "discipline": [
+    "materials",
+    "graphic-design"
+  ],
+  "kind": "theme",
+  "body_hash": "891d7ca90a98ab9ab0356f0b46f6cb6f1d8d0ce5157827d7e0d35286e900a48f"
+}

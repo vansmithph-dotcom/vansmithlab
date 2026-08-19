@@ -1,0 +1,37 @@
+{
+  "content_id": "cnt_analysis_en_7320ebea6dbf611f",
+  "primary_object_id": "obj_analysis_7320ebea6dbf611f",
+  "content_type": "analysis",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_analysis_7320ebea6dbf611f_thesis",
+    "clm_analysis_7320ebea6dbf611f_turns",
+    "clm_analysis_7320ebea6dbf611f_test",
+    "clm_analysis_7320ebea6dbf611f_today"
+  ],
+  "source_ids": [
+    "src_analysis_7320ebea6dbf611f_01",
+    "src_analysis_7320ebea6dbf611f_02",
+    "src_analysis_7320ebea6dbf611f_03",
+    "src_analysis_7320ebea6dbf611f_04",
+    "src_analysis_7320ebea6dbf611f_05",
+    "src_analysis_7320ebea6dbf611f_06",
+    "src_analysis_7320ebea6dbf611f_07"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "why-the-store-became-media",
+  "title": "Why the store became media",
+  "summary": "The store stopped being a point of sale and became a publishing channel: a spatial magazine and a brand interface.",
+  "discipline": [
+    "space-typologies",
+    "media-publishing"
+  ],
+  "kind": "theme",
+  "body_hash": "ccec9fbba209bf7e5a01a5d7e9b25952e1c1fcbaae33543f793fe1242211619d"
+}
