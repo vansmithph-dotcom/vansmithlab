@@ -1,0 +1,37 @@
+{
+  "content_id": "cnt_fashion_ru_e9a6105ce7c98664",
+  "primary_object_id": "obj_fashion_e9a6105ce7c98664",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_fashion-show-from-collection_def",
+    "clm_fashion-show-from-collection_orig",
+    "clm_fashion-show-from-collection_form",
+    "clm_fashion-show-from-collection_use",
+    "clm_fashion-show-from-collection_impact",
+    "clm_fashion-show-from-collection_today"
+  ],
+  "source_ids": [
+    "src_fashion-show-from-collection-p_01",
+    "src_fashion-show-from-collection-p_02",
+    "src_fashion-show-from-collection-p_03",
+    "src_fashion-show-from-collection-p_04",
+    "src_fashion-show-from-collection-p_05",
+    "src_fashion-show-from-collection-p_06"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "fashion-show-from-collection-presentation-to-media-event",
+  "title": "Модный показ — от презентации коллекции к медиасобытию",
+  "summary": "Маршрут, тело, музыка, свет, посадка гостей, камера и сеть распространения как единая система изображения.",
+  "discipline": [
+    "fashion-systems"
+  ],
+  "kind": "theme",
+  "body_hash": "281fc18f07aa40500d5b31b30eb75cf18ce762d7a8939012f6326da0e1eb9b7a"
+}

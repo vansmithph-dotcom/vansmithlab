@@ -1,0 +1,119 @@
+{
+  "id": "obj_fashion_7951d05fa214479e",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "content_type": "encyclopedia",
+  "canonical_name": "Застёжка-молния — технология, изменившая одежду",
+  "canonical_name_en": "The Zipper — the Technology That Changed Clothing",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_zipper-technology-that-changed_01",
+      "title": "americanhistory.si.edu",
+      "url": "https://americanhistory.si.edu/collections/nmah_860486",
+      "tier": 1
+    },
+    {
+      "id": "src_zipper-technology-that-changed_02",
+      "title": "americanhistory.si.edu",
+      "url": "https://americanhistory.si.edu/explore/exhibitions/american-enterprise/online/corporate-era/biographies-1860s%E2%80%931930s",
+      "tier": 1
+    },
+    {
+      "id": "src_zipper-technology-that-changed_03",
+      "title": "www.cooperhewitt.org",
+      "url": "https://www.cooperhewitt.org/2017/11/01/cooper-hewitt-short-stories-button-button-weve-got-the-buttons/",
+      "tier": 1
+    },
+    {
+      "id": "src_zipper-technology-that-changed_04",
+      "title": "www.cooperhewitt.org",
+      "url": "https://www.cooperhewitt.org/2014/04/30/april-showers/",
+      "tier": 1
+    },
+    {
+      "id": "src_zipper-technology-that-changed_05",
+      "title": "www.vam.ac.uk",
+      "url": "https://www.vam.ac.uk/articles/six-revolutionary-designs-by-mary-quant",
+      "tier": 1
+    },
+    {
+      "id": "src_zipper-technology-that-changed_06",
+      "title": "www.vam.ac.uk",
+      "url": "https://www.vam.ac.uk/collections/textiles",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_zipper-technology-that-chang_def",
+      "wording_ru": "Застёжка-молния соединяет два края гибкого материала посредством взаимодействующих элементов и бегунка. Её значение не в декоративном образе, а в быстром многократном открывании и закрывании, которое изменило конструкцию брюк, курток, сумок, обуви и технической одежды.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_zipper-technology-that-chang_orig",
+      "wording_ru": "До современной молнии существовали разные механические застёжки. Разработки начала XX века, связанные с Гидеоном Сундбэком, привели к более надёжной системе сцепляющихся элементов; широкое использование в одежде выросло позже, особенно в межвоенный период и далее.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_zipper-technology-that-chang_form",
+      "wording_ru": "Материальная логика системы раскрывается через то, как физические свойства компонентов ограничивают и одновременно создают форму. Производство требует точной повторяемости множества мелких компонентов. Материал элементов, тип спирали, размер, водостойкость и нагрузка подбираются под назначение — от ",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_zipper-technology-that-chang_use",
+      "wording_ru": "Бегунок сводит два ряда элементов под рассчитанным углом, заставляя их входить в зацепление, а при обратном движении разводит. Надёжность зависит от геометрии зубьев или спирали, ленты, ограничителей, замка бегунка и точности сборки.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_zipper-technology-that-chang_impact",
+      "wording_ru": "Главное изменение для дисциплины — превращение одежды из единичного образа в систему отношений между телом, материалом, трудом, стандартом и изображением. патент → элементы → бегунок → одежда → жест → промышленный стандарт.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_zipper-technology-that-chang_today",
+      "wording_ru": "Сегодня тему полезно читать не как набор терминов, а как цепочку решений: патент → элементы → бегунок → одежда → жест → промышленный стандарт. В этой цепочке видимый образ — лишь последний слой большой производственной конструкции.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_zipper-technology-that-chang_def",
+      "source_id": "src_zipper-technology-that-changed_01",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_zipper-technology-that-chang_orig",
+      "source_id": "src_zipper-technology-that-changed_02",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_zipper-technology-that-chang_form",
+      "source_id": "src_zipper-technology-that-changed_03",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_zipper-technology-that-chang_use",
+      "source_id": "src_zipper-technology-that-changed_04",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_zipper-technology-that-chang_impact",
+      "source_id": "src_zipper-technology-that-changed_05",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_zipper-technology-that-chang_today",
+      "source_id": "src_zipper-technology-that-changed_06",
+      "locator": "Official documentation and institutional sources"
+    }
+  ],
+  "last_updated": "2026-08-19"
+}

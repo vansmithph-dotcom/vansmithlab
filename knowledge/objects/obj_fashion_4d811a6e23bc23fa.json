@@ -1,0 +1,119 @@
+{
+  "id": "obj_fashion_4d811a6e23bc23fa",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "content_type": "encyclopedia",
+  "canonical_name": "Подкладка — невидимая архитектура одежды",
+  "canonical_name_en": "Lining — the Invisible Architecture of Clothing",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_lining-invisible-architecture-_01",
+      "title": "www.metmuseum.org",
+      "url": "https://www.metmuseum.org/exhibitions/listings/2016/manus-x-machina/exhibition-galleries",
+      "tier": 1
+    },
+    {
+      "id": "src_lining-invisible-architecture-_02",
+      "title": "www.savilerowbespoke.com",
+      "url": "https://www.savilerowbespoke.com/about-us/",
+      "tier": 1
+    },
+    {
+      "id": "src_lining-invisible-architecture-_03",
+      "title": "www.savilerowbespoke.com",
+      "url": "https://www.savilerowbespoke.com/about-us/tailoring-terms/",
+      "tier": 1
+    },
+    {
+      "id": "src_lining-invisible-architecture-_04",
+      "title": "www.vam.ac.uk",
+      "url": "https://www.vam.ac.uk/collections/textiles",
+      "tier": 1
+    },
+    {
+      "id": "src_lining-invisible-architecture-_05",
+      "title": "www.cooperhewitt.org",
+      "url": "https://www.cooperhewitt.org/2017/01/03/make-do-and-mend-the-art-of-repair/",
+      "tier": 1
+    },
+    {
+      "id": "src_lining-invisible-architecture-_06",
+      "title": "www.fhcm.paris",
+      "url": "https://www.fhcm.paris/en/our-history",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_lining-invisible-architectur_def",
+      "wording_ru": "Подкладка — внутренний слой одежды, отделяющий тело или нижние слои от основной конструкции. Она закрывает швы и прокладки, снижает трение, помогает вещи надеваться, стабилизирует отдельные участки и формирует ощущение законченности изнутри.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_lining-invisible-architectur_orig",
+      "wording_ru": "В сложной одежде внутренние слои исторически использовались для комфорта, защиты основной ткани и контроля формы. С развитием промышленности ассортимент подкладочных тканей расширился от шёлка и хлопка до вискозных и синтетических материалов.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_lining-invisible-architectur_form",
+      "wording_ru": "Материальная логика системы раскрывается через то, как физические свойства компонентов ограничивают и одновременно создают форму. Материал должен соответствовать внешней ткани по весу, усадке, скольжению и уходу. Ошибочная длина или слишком малая свобода приводят к натяжению, перекосу и преждевремен",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_lining-invisible-architectur_use",
+      "wording_ru": "Подкладка проектируется с собственной прибавкой на движение и присоединяется так, чтобы не тянуть внешнюю оболочку. В жакете она работает вместе с внутренними прокладками, в юбке или платье может уменьшать просвечивание и прилипание, в верхней одежде — облегчать скольжение по нижним слоям.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_lining-invisible-architectur_impact",
+      "wording_ru": "Главное изменение для дисциплины — превращение одежды из единичного образа в систему отношений между телом, материалом, трудом, стандартом и изображением. внешняя ткань → прокладка → подкладка → тело → движение → долговечность.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_lining-invisible-architectur_today",
+      "wording_ru": "Сегодня тему полезно читать не как набор терминов, а как цепочку решений: внешняя ткань → прокладка → подкладка → тело → движение → долговечность. В этой цепочке видимый образ — лишь последний слой большой производственной конструкции.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_lining-invisible-architectur_def",
+      "source_id": "src_lining-invisible-architecture-_01",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_lining-invisible-architectur_orig",
+      "source_id": "src_lining-invisible-architecture-_02",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_lining-invisible-architectur_form",
+      "source_id": "src_lining-invisible-architecture-_03",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_lining-invisible-architectur_use",
+      "source_id": "src_lining-invisible-architecture-_04",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_lining-invisible-architectur_impact",
+      "source_id": "src_lining-invisible-architecture-_05",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_lining-invisible-architectur_today",
+      "source_id": "src_lining-invisible-architecture-_06",
+      "locator": "Official documentation and institutional sources"
+    }
+  ],
+  "last_updated": "2026-08-19"
+}

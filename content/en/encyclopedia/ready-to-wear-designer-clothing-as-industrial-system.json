@@ -1,0 +1,43 @@
+{
+  "content_id": "cnt_fashion_en_ad760fc85df039d1",
+  "primary_object_id": "obj_fashion_ad760fc85df039d1",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_ready-to-wear-designer-cloth_def",
+    "clm_ready-to-wear-designer-cloth_orig",
+    "clm_ready-to-wear-designer-cloth_form",
+    "clm_ready-to-wear-designer-cloth_use",
+    "clm_ready-to-wear-designer-cloth_impact",
+    "clm_ready-to-wear-designer-cloth_today"
+  ],
+  "source_ids": [
+    "src_ready-to-wear-designer-clothin_01",
+    "src_ready-to-wear-designer-clothin_02",
+    "src_ready-to-wear-designer-clothin_03",
+    "src_ready-to-wear-designer-clothin_04",
+    "src_ready-to-wear-designer-clothin_05",
+    "src_ready-to-wear-designer-clothin_06"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "ready-to-wear-designer-clothing-as-industrial-system",
+  "title": "Ready-to-Wear — Designer Clothing as an Industrial System",
+  "summary": "How sizing, series, calendar, factory and retail turned designer clothing into a reproducible product.",
+  "discipline": [
+    "fashion-systems"
+  ],
+  "kind": "theme",
+  "body_hash": "fcfb9b6bbe470180136058646253d6475ebaa5f60bbdcf7a0d7ec7b89686fb1f",
+  "translation": {
+    "source_locale": "ru",
+    "translated_by": "VANSMITHLAB",
+    "semantic_validated": true,
+    "translation_date": "2026-08-19"
+  }
+}

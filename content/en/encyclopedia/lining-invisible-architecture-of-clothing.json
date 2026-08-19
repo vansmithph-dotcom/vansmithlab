@@ -1,0 +1,43 @@
+{
+  "content_id": "cnt_fashion_en_4d811a6e23bc23fa",
+  "primary_object_id": "obj_fashion_4d811a6e23bc23fa",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_lining-invisible-architectur_def",
+    "clm_lining-invisible-architectur_orig",
+    "clm_lining-invisible-architectur_form",
+    "clm_lining-invisible-architectur_use",
+    "clm_lining-invisible-architectur_impact",
+    "clm_lining-invisible-architectur_today"
+  ],
+  "source_ids": [
+    "src_lining-invisible-architecture-_01",
+    "src_lining-invisible-architecture-_02",
+    "src_lining-invisible-architecture-_03",
+    "src_lining-invisible-architecture-_04",
+    "src_lining-invisible-architecture-_05",
+    "src_lining-invisible-architecture-_06"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "lining-invisible-architecture-of-clothing",
+  "title": "Lining — the Invisible Architecture of Clothing",
+  "summary": "The inner layer that controls friction, construction cleanliness, movement and garment life.",
+  "discipline": [
+    "fashion-systems"
+  ],
+  "kind": "theme",
+  "body_hash": "0026e1117a8fea2e140b71851c5377e0ab03926bf198e0016ec3cbadf7f62bde",
+  "translation": {
+    "source_locale": "ru",
+    "translated_by": "VANSMITHLAB",
+    "semantic_validated": true,
+    "translation_date": "2026-08-19"
+  }
+}

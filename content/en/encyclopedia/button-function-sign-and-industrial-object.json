@@ -1,0 +1,43 @@
+{
+  "content_id": "cnt_fashion_en_ca49b552863d30c3",
+  "primary_object_id": "obj_fashion_ca49b552863d30c3",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_button-function-sign-and-ind_def",
+    "clm_button-function-sign-and-ind_orig",
+    "clm_button-function-sign-and-ind_form",
+    "clm_button-function-sign-and-ind_use",
+    "clm_button-function-sign-and-ind_impact",
+    "clm_button-function-sign-and-ind_today"
+  ],
+  "source_ids": [
+    "src_button-function-sign-and-indus_01",
+    "src_button-function-sign-and-indus_02",
+    "src_button-function-sign-and-indus_03",
+    "src_button-function-sign-and-indus_04",
+    "src_button-function-sign-and-indus_05",
+    "src_button-function-sign-and-indus_06"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "button-function-sign-and-industrial-object",
+  "title": "The Button — Function, Sign and Industrial Object",
+  "summary": "A small object connecting textile, technology, ornament and social code.",
+  "discipline": [
+    "fashion-systems"
+  ],
+  "kind": "theme",
+  "body_hash": "e576c2987cfa6f83ef3f818a64e09c36bb46beb4cdbb5f35c159df9d01542ca2",
+  "translation": {
+    "source_locale": "ru",
+    "translated_by": "VANSMITHLAB",
+    "semantic_validated": true,
+    "translation_date": "2026-08-19"
+  }
+}

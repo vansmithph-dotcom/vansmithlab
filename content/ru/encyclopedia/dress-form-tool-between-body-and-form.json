@@ -1,0 +1,37 @@
+{
+  "content_id": "cnt_fashion_ru_acc52a4618a67262",
+  "primary_object_id": "obj_fashion_acc52a4618a67262",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_dress-form-tool-between-body_def",
+    "clm_dress-form-tool-between-body_orig",
+    "clm_dress-form-tool-between-body_form",
+    "clm_dress-form-tool-between-body_use",
+    "clm_dress-form-tool-between-body_impact",
+    "clm_dress-form-tool-between-body_today"
+  ],
+  "source_ids": [
+    "src_dress-form-tool-between-body-a_01",
+    "src_dress-form-tool-between-body-a_02",
+    "src_dress-form-tool-between-body-a_03",
+    "src_dress-form-tool-between-body-a_04",
+    "src_dress-form-tool-between-body-a_05",
+    "src_dress-form-tool-between-body-a_06"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "dress-form-tool-between-body-and-form",
+  "title": "Манекен — инструмент между телом и формой",
+  "summary": "Трёхмерная рабочая поверхность, на которой ткань проверяет замысел до встречи с живым телом.",
+  "discipline": [
+    "fashion-systems"
+  ],
+  "kind": "theme",
+  "body_hash": "6b59d4c09f60b47e50f2bd2081ac7348ab1cbf5158f89c3dbedd4d8160d5e05a"
+}

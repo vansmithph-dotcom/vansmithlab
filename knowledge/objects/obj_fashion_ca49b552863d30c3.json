@@ -1,0 +1,119 @@
+{
+  "id": "obj_fashion_ca49b552863d30c3",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "content_type": "encyclopedia",
+  "canonical_name": "Пуговица — функция, знак и промышленный объект",
+  "canonical_name_en": "The Button — Function, Sign and Industrial Object",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_button-function-sign-and-indus_01",
+      "title": "www.cooperhewitt.org",
+      "url": "https://www.cooperhewitt.org/2017/11/01/cooper-hewitt-short-stories-button-button-weve-got-the-buttons/",
+      "tier": 1
+    },
+    {
+      "id": "src_button-function-sign-and-indus_02",
+      "title": "www.cooperhewitt.org",
+      "url": "https://www.cooperhewitt.org/2017/08/15/buttons-an-expression-of-curiosity/",
+      "tier": 1
+    },
+    {
+      "id": "src_button-function-sign-and-indus_03",
+      "title": "www.cooperhewitt.org",
+      "url": "https://www.cooperhewitt.org/2014/04/30/april-showers/",
+      "tier": 1
+    },
+    {
+      "id": "src_button-function-sign-and-indus_04",
+      "title": "americanhistory.si.edu",
+      "url": "https://americanhistory.si.edu/collections/nmah_860486",
+      "tier": 1
+    },
+    {
+      "id": "src_button-function-sign-and-indus_05",
+      "title": "www.vam.ac.uk",
+      "url": "https://www.vam.ac.uk/collections/textiles",
+      "tier": 1
+    },
+    {
+      "id": "src_button-function-sign-and-indus_06",
+      "title": "www.metmuseum.org",
+      "url": "https://www.metmuseum.org/exhibitions/listings/2016/manus-x-machina/exhibition-galleries",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_button-function-sign-and-ind_def",
+      "wording_ru": "Пуговица — застёжка, работающая вместе с петлёй или навесной системой, но её роль почти никогда не ограничивается функцией. Размер, материал, форма, расположение и ритм пуговиц меняют конструкцию одежды и одновременно сообщают о статусе, стиле, времени и назначении.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_button-function-sign-and-ind_orig",
+      "wording_ru": "Декоративные и функциональные пуговицы известны на протяжении столетий; в Европе позднего Средневековья их применение в одежде становится хорошо документируемым. Ремесленное производство из металла, кости, стекла и других материалов позднее дополнилось промышленными технологиями и пластмассами.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_button-function-sign-and-ind_form",
+      "wording_ru": "Материальная логика системы раскрывается через то, как физические свойства компонентов ограничивают и одновременно создают форму. Штамповка, литьё, токарная обработка, прессование и современные полимеры позволяют производить пуговицы огромными сериями. Но даже стандартный компонент требует согласова",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_button-function-sign-and-ind_use",
+      "wording_ru": "Пуговица работает через локальную концентрацию нагрузки: петля охватывает корпус, а нить или ножка передают усилие на ткань. Поэтому важны усиление места пришивания, диаметр, толщина, зазор и соответствие петли.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_button-function-sign-and-ind_impact",
+      "wording_ru": "Главное изменение для дисциплины — превращение одежды из единичного образа в систему отношений между телом, материалом, трудом, стандартом и изображением. материал → пуговица → петля → рука → одежда → социальный знак.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_button-function-sign-and-ind_today",
+      "wording_ru": "Сегодня тему полезно читать не как набор терминов, а как цепочку решений: материал → пуговица → петля → рука → одежда → социальный знак. В этой цепочке видимый образ — лишь последний слой большой производственной конструкции.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_button-function-sign-and-ind_def",
+      "source_id": "src_button-function-sign-and-indus_01",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_button-function-sign-and-ind_orig",
+      "source_id": "src_button-function-sign-and-indus_02",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_button-function-sign-and-ind_form",
+      "source_id": "src_button-function-sign-and-indus_03",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_button-function-sign-and-ind_use",
+      "source_id": "src_button-function-sign-and-indus_04",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_button-function-sign-and-ind_impact",
+      "source_id": "src_button-function-sign-and-indus_05",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_button-function-sign-and-ind_today",
+      "source_id": "src_button-function-sign-and-indus_06",
+      "locator": "Official documentation and institutional sources"
+    }
+  ],
+  "last_updated": "2026-08-19"
+}

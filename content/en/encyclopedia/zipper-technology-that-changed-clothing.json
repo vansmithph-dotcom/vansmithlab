@@ -1,0 +1,43 @@
+{
+  "content_id": "cnt_fashion_en_7951d05fa214479e",
+  "primary_object_id": "obj_fashion_7951d05fa214479e",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_zipper-technology-that-chang_def",
+    "clm_zipper-technology-that-chang_orig",
+    "clm_zipper-technology-that-chang_form",
+    "clm_zipper-technology-that-chang_use",
+    "clm_zipper-technology-that-chang_impact",
+    "clm_zipper-technology-that-chang_today"
+  ],
+  "source_ids": [
+    "src_zipper-technology-that-changed_01",
+    "src_zipper-technology-that-changed_02",
+    "src_zipper-technology-that-changed_03",
+    "src_zipper-technology-that-changed_04",
+    "src_zipper-technology-that-changed_05",
+    "src_zipper-technology-that-changed_06"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "zipper-technology-that-changed-clothing",
+  "title": "The Zipper — the Technology That Changed Clothing",
+  "summary": "Two rows of elements, a slider and industrial precision as a small machine inside the garment.",
+  "discipline": [
+    "fashion-systems"
+  ],
+  "kind": "theme",
+  "body_hash": "13c1c144a99a5163ff7ed034b954a33be723db2ecb0baff8457d715b47a7f306",
+  "translation": {
+    "source_locale": "ru",
+    "translated_by": "VANSMITHLAB",
+    "semantic_validated": true,
+    "translation_date": "2026-08-19"
+  }
+}

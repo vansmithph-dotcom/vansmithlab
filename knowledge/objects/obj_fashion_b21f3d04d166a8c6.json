@@ -1,0 +1,119 @@
+{
+  "id": "obj_fashion_b21f3d04d166a8c6",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "content_type": "encyclopedia",
+  "canonical_name": "Вязание — производство поверхности одновременно с формой",
+  "canonical_name_en": "Knitting — Producing Surface and Form at the Same Time",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_knitting-producing-surface-and_01",
+      "title": "www.vam.ac.uk",
+      "url": "https://www.vam.ac.uk/articles/a-short-history-of-knitting-patterns-in-britain",
+      "tier": 1
+    },
+    {
+      "id": "src_knitting-producing-surface-and_02",
+      "title": "www.vam.ac.uk",
+      "url": "https://www.vam.ac.uk/articles/1940s-knitting-patterns",
+      "tier": 1
+    },
+    {
+      "id": "src_knitting-producing-surface-and_03",
+      "title": "www.vam.ac.uk",
+      "url": "https://www.vam.ac.uk/info/make-and-do",
+      "tier": 1
+    },
+    {
+      "id": "src_knitting-producing-surface-and_04",
+      "title": "www.vam.ac.uk",
+      "url": "https://www.vam.ac.uk/collections/textiles",
+      "tier": 1
+    },
+    {
+      "id": "src_knitting-producing-surface-and_05",
+      "title": "www.metmuseum.org",
+      "url": "https://www.metmuseum.org/exhibitions/listings/2016/manus-x-machina/exhibition-galleries",
+      "tier": 1
+    },
+    {
+      "id": "src_knitting-producing-surface-and_06",
+      "title": "www.vam.ac.uk",
+      "url": "https://www.vam.ac.uk/articles/six-revolutionary-designs-by-mary-quant",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_knitting-producing-surface-a_def",
+      "wording_ru": "Вязание — это способ создания текстильной структуры посредством последовательного образования петель. В отличие от кроя готового полотна, здесь дизайнер может конструировать сам материал и одновременно управлять геометрией изделия.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_knitting-producing-surface-a_orig",
+      "wording_ru": "Долгое время знание передавалось через устную практику, образцы и условные записи; в XIX–XX веках письменные схемы и массовые журналы стандартизировали инструкции. Механизация, а затем цифровое управление превратили последовательность петель в программируемую систему.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_knitting-producing-surface-a_form",
+      "wording_ru": "Материальная логика системы раскрывается через то, как физические свойства компонентов ограничивают и одновременно создают форму. Ручное вязание строится на времени и телесном навыке, машинное — на настройке игольницы, подаче пряжи и программе. В обоих случаях ошибка в одной петле может распространя",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_knitting-producing-surface-a_use",
+      "wording_ru": "Базовые операции — лицевая и изнаночная петля, прибавление, убавление, перенос и изменение натяжения — образуют сложный словарь. Порядок операций одновременно задаёт рисунок, эластичность, толщину и локальную форму.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_knitting-producing-surface-a_impact",
+      "wording_ru": "Главное изменение для дисциплины — превращение одежды из единичного образа в систему отношений между телом, материалом, трудом, стандартом и изображением. схема → петля → пряжа → машина/рука → поверхность → объём.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_knitting-producing-surface-a_today",
+      "wording_ru": "Сегодня тему полезно читать не как набор терминов, а как цепочку решений: схема → петля → пряжа → машина/рука → поверхность → объём. В этой цепочке видимый образ — лишь последний слой большой производственной конструкции.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_knitting-producing-surface-a_def",
+      "source_id": "src_knitting-producing-surface-and_01",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_knitting-producing-surface-a_orig",
+      "source_id": "src_knitting-producing-surface-and_02",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_knitting-producing-surface-a_form",
+      "source_id": "src_knitting-producing-surface-and_03",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_knitting-producing-surface-a_use",
+      "source_id": "src_knitting-producing-surface-and_04",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_knitting-producing-surface-a_impact",
+      "source_id": "src_knitting-producing-surface-and_05",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_knitting-producing-surface-a_today",
+      "source_id": "src_knitting-producing-surface-and_06",
+      "locator": "Official documentation and institutional sources"
+    }
+  ],
+  "last_updated": "2026-08-19"
+}

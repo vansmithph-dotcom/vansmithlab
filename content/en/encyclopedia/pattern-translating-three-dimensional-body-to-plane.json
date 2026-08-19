@@ -1,0 +1,43 @@
+{
+  "content_id": "cnt_fashion_en_7220910c20eee13e",
+  "primary_object_id": "obj_fashion_7220910c20eee13e",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_pattern-translating-three-di_def",
+    "clm_pattern-translating-three-di_orig",
+    "clm_pattern-translating-three-di_form",
+    "clm_pattern-translating-three-di_use",
+    "clm_pattern-translating-three-di_impact",
+    "clm_pattern-translating-three-di_today"
+  ],
+  "source_ids": [
+    "src_pattern-translating-three-dime_01",
+    "src_pattern-translating-three-dime_02",
+    "src_pattern-translating-three-dime_03",
+    "src_pattern-translating-three-dime_04",
+    "src_pattern-translating-three-dime_05",
+    "src_pattern-translating-three-dime_06"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "pattern-translating-three-dimensional-body-to-plane",
+  "title": "The Pattern — Translating the Three-Dimensional Body into a Plane",
+  "summary": "A geometric interface between figure, design intention and the cutting of material.",
+  "discipline": [
+    "fashion-systems"
+  ],
+  "kind": "theme",
+  "body_hash": "0d6c78a16c7016814e108c290131a7575bc666b51c205b1bd34f9baec70c4d5d",
+  "translation": {
+    "source_locale": "ru",
+    "translated_by": "VANSMITHLAB",
+    "semantic_validated": true,
+    "translation_date": "2026-08-19"
+  }
+}

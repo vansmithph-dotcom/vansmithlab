@@ -1,0 +1,119 @@
+{
+  "id": "obj_fashion_e9a6105ce7c98664",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "content_type": "encyclopedia",
+  "canonical_name": "Модный показ — от презентации коллекции к медиасобытию",
+  "canonical_name_en": "The Fashion Show — from Collection Presentation to Media Event",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_fashion-show-from-collection-p_01",
+      "title": "www.vam.ac.uk",
+      "url": "https://www.vam.ac.uk/articles/the-fashion-show",
+      "tier": 1
+    },
+    {
+      "id": "src_fashion-show-from-collection-p_02",
+      "title": "www.fhcm.paris",
+      "url": "https://www.fhcm.paris/en",
+      "tier": 1
+    },
+    {
+      "id": "src_fashion-show-from-collection-p_03",
+      "title": "www.fhcm.paris",
+      "url": "https://www.fhcm.paris/en/our-history",
+      "tier": 1
+    },
+    {
+      "id": "src_fashion-show-from-collection-p_04",
+      "title": "www.metmuseum.org",
+      "url": "https://www.metmuseum.org/exhibitions/a-line-of-beauty/visiting-guide",
+      "tier": 1
+    },
+    {
+      "id": "src_fashion-show-from-collection-p_05",
+      "title": "www.metmuseum.org",
+      "url": "https://www.metmuseum.org/exhibitions/listings/2016/manus-x-machina/exhibition-galleries",
+      "tier": 1
+    },
+    {
+      "id": "src_fashion-show-from-collection-p_06",
+      "title": "www.vam.ac.uk",
+      "url": "https://www.vam.ac.uk/articles/six-revolutionary-designs-by-mary-quant",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_fashion-show-from-collection_def",
+      "wording_ru": "Модный показ — временная система, в которой одежда демонстрируется на движущемся теле перед выбранной аудиторией и одновременно производится как изображение. Подиум связывает коллекцию, модель, пространство, режиссуру, музыку, прессу, покупателей, фотографов и цифровую трансляцию.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_fashion-show-from-collection_orig",
+      "wording_ru": "В конце XIX — начале XX века дома моды начали систематически показывать одежду на живых моделях клиентам. В течение XX века камерная презентация превратилась в сезонный публичный спектакль, а затем — в глобально распространяемое медиасобытие.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_fashion-show-from-collection_form",
+      "wording_ru": "Материальная логика системы раскрывается через то, как физические свойства компонентов ограничивают и одновременно создают форму. За коротким событием стоит сложная цепочка: образцы коллекции, стайлинг, примерки, кастинг, сценография, свет, звук, репетиция, backstage, фото- и видеопроизводство, расс",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_fashion-show-from-collection_use",
+      "wording_ru": "Показ строится как последовательность выходов: порядок образов, скорость шага, кастинг, свет, звук, архитектура маршрута и посадка гостей задают чтение коллекции. После события фотографии и видео становятся вторичной, часто более массовой формой самого показа.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_fashion-show-from-collection_impact",
+      "wording_ru": "Главное изменение для дисциплины — превращение одежды из единичного образа в систему отношений между телом, материалом, трудом, стандартом и изображением. коллекция → модель → пространство → свет/звук → камера → медиа → рынок.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_fashion-show-from-collection_today",
+      "wording_ru": "Сегодня тему полезно читать не как набор терминов, а как цепочку решений: коллекция → модель → пространство → свет/звук → камера → медиа → рынок. В этой цепочке видимый образ — лишь последний слой большой производственной конструкции.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_fashion-show-from-collection_def",
+      "source_id": "src_fashion-show-from-collection-p_01",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_fashion-show-from-collection_orig",
+      "source_id": "src_fashion-show-from-collection-p_02",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_fashion-show-from-collection_form",
+      "source_id": "src_fashion-show-from-collection-p_03",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_fashion-show-from-collection_use",
+      "source_id": "src_fashion-show-from-collection-p_04",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_fashion-show-from-collection_impact",
+      "source_id": "src_fashion-show-from-collection-p_05",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_fashion-show-from-collection_today",
+      "source_id": "src_fashion-show-from-collection-p_06",
+      "locator": "Official documentation and institutional sources"
+    }
+  ],
+  "last_updated": "2026-08-19"
+}

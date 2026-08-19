@@ -1,0 +1,43 @@
+{
+  "content_id": "cnt_fashion_en_3018bad07c0c28f4",
+  "primary_object_id": "obj_fashion_3018bad07c0c28f4",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_suit-construction-of-modern-_def",
+    "clm_suit-construction-of-modern-_orig",
+    "clm_suit-construction-of-modern-_form",
+    "clm_suit-construction-of-modern-_use",
+    "clm_suit-construction-of-modern-_impact",
+    "clm_suit-construction-of-modern-_today"
+  ],
+  "source_ids": [
+    "src_suit-construction-of-modern-so_01",
+    "src_suit-construction-of-modern-so_02",
+    "src_suit-construction-of-modern-so_03",
+    "src_suit-construction-of-modern-so_04",
+    "src_suit-construction-of-modern-so_05",
+    "src_suit-construction-of-modern-so_06"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "suit-construction-of-modern-social-body",
+  "title": "The Suit — Constructing the Modern Social Body",
+  "summary": "Jacket and trousers as an architecture of proportion, behavior, gender, profession and power.",
+  "discipline": [
+    "fashion-systems"
+  ],
+  "kind": "theme",
+  "body_hash": "0062b32460cc9603cb5d07dbb173d1f1b76ba581ed1807070abb08515e72b333",
+  "translation": {
+    "source_locale": "ru",
+    "translated_by": "VANSMITHLAB",
+    "semantic_validated": true,
+    "translation_date": "2026-08-19"
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "id": "obj_fashion_c9d74f00cc2b4e12",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "content_type": "encyclopedia",
+  "canonical_name": "Трикотаж — форма, которую создаёт петля",
+  "canonical_name_en": "Knitwear — Form Created by the Loop",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_knitwear-form-created-by-loop_01",
+      "title": "www.vam.ac.uk",
+      "url": "https://www.vam.ac.uk/articles/a-short-history-of-knitting-patterns-in-britain",
+      "tier": 1
+    },
+    {
+      "id": "src_knitwear-form-created-by-loop_02",
+      "title": "www.vam.ac.uk",
+      "url": "https://www.vam.ac.uk/articles/1940s-knitting-patterns",
+      "tier": 1
+    },
+    {
+      "id": "src_knitwear-form-created-by-loop_03",
+      "title": "www.vam.ac.uk",
+      "url": "https://www.vam.ac.uk/info/make-and-do",
+      "tier": 1
+    },
+    {
+      "id": "src_knitwear-form-created-by-loop_04",
+      "title": "www.vam.ac.uk",
+      "url": "https://www.vam.ac.uk/collections/textiles",
+      "tier": 1
+    },
+    {
+      "id": "src_knitwear-form-created-by-loop_05",
+      "title": "www.vam.ac.uk",
+      "url": "https://www.vam.ac.uk/articles/six-revolutionary-designs-by-mary-quant",
+      "tier": 1
+    },
+    {
+      "id": "src_knitwear-form-created-by-loop_06",
+      "title": "www.metmuseum.org",
+      "url": "https://www.metmuseum.org/exhibitions/listings/2016/manus-x-machina/exhibition-galleries",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_knitwear-form-created-by-loo_def",
+      "wording_ru": "Трикотаж отличается от тканой одежды тем, что его поверхность строится системой взаимосвязанных петель. Эта структура даёт растяжимость, способность облегать тело и возможность создавать форму не только кроем, но и самим процессом образования полотна.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_knitwear-form-created-by-loo_orig",
+      "wording_ru": "Ручное вязание имеет многовековую историю, а промышленное производство трикотажа выросло из механизации петлеобразования. В XX веке свитер, джерси и машинный трикотаж стали центральными элементами повседневной и дизайнерской одежды.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_knitwear-form-created-by-loo_form",
+      "wording_ru": "Материальная логика системы раскрывается через то, как физические свойства компонентов ограничивают и одновременно создают форму. Пряжа, номер нити, крутка, состав волокна и настройка машины определяют тактильность и поведение. Трикотажное производство требует контроля натяжения, усадки, стабилизаци",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_knitwear-form-created-by-loo_use",
+      "wording_ru": "Пряжа последовательно образует петли, а изменения плотности, переплетения, прибавлений, убавлений и направления вязания управляют растяжением и силуэтом. В fully-fashioned или цельновязаных технологиях контур детали возникает непосредственно на машине.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_knitwear-form-created-by-loo_impact",
+      "wording_ru": "Главное изменение для дисциплины — превращение одежды из единичного образа в систему отношений между телом, материалом, трудом, стандартом и изображением. волокно → пряжа → петля → структура → силуэт → тело.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_knitwear-form-created-by-loo_today",
+      "wording_ru": "Сегодня тему полезно читать не как набор терминов, а как цепочку решений: волокно → пряжа → петля → структура → силуэт → тело. В этой цепочке видимый образ — лишь последний слой большой производственной конструкции.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_knitwear-form-created-by-loo_def",
+      "source_id": "src_knitwear-form-created-by-loop_01",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_knitwear-form-created-by-loo_orig",
+      "source_id": "src_knitwear-form-created-by-loop_02",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_knitwear-form-created-by-loo_form",
+      "source_id": "src_knitwear-form-created-by-loop_03",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_knitwear-form-created-by-loo_use",
+      "source_id": "src_knitwear-form-created-by-loop_04",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_knitwear-form-created-by-loo_impact",
+      "source_id": "src_knitwear-form-created-by-loop_05",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_knitwear-form-created-by-loo_today",
+      "source_id": "src_knitwear-form-created-by-loop_06",
+      "locator": "Official documentation and institutional sources"
+    }
+  ],
+  "last_updated": "2026-08-19"
+}

@@ -1,0 +1,119 @@
+{
+  "id": "obj_fashion_7b62631f2036d4da",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "content_type": "encyclopedia",
+  "canonical_name": "Высокая мода — производственная система haute couture",
+  "canonical_name_en": "Haute Couture — the Production System of High Fashion",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_haute-couture-production-syste_01",
+      "title": "www.fhcm.paris",
+      "url": "https://www.fhcm.paris/en/our-history",
+      "tier": 1
+    },
+    {
+      "id": "src_haute-couture-production-syste_02",
+      "title": "www.fhcm.paris",
+      "url": "https://www.fhcm.paris/en",
+      "tier": 1
+    },
+    {
+      "id": "src_haute-couture-production-syste_03",
+      "title": "www.metmuseum.org",
+      "url": "https://www.metmuseum.org/exhibitions/listings/2016/manus-x-machina/exhibition-galleries",
+      "tier": 1
+    },
+    {
+      "id": "src_haute-couture-production-syste_04",
+      "title": "www.metmuseum.org",
+      "url": "https://www.metmuseum.org/exhibitions/a-line-of-beauty/visiting-guide",
+      "tier": 1
+    },
+    {
+      "id": "src_haute-couture-production-syste_05",
+      "title": "www.vam.ac.uk",
+      "url": "https://www.vam.ac.uk/collections/textiles",
+      "tier": 1
+    },
+    {
+      "id": "src_haute-couture-production-syste_06",
+      "title": "www.vam.ac.uk",
+      "url": "https://www.vam.ac.uk/articles/the-fashion-show",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_haute-couture-production-sys_def",
+      "wording_ru": "Высокая мода существует как соединение индивидуального заказа, специализированных ателье, сложной ручной работы и институционально регулируемого статуса. Важен не только внешний вид вещи, но и организация труда, позволяющая превратить ткань в единичный предмет высокой сложности.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_haute-couture-production-sys_orig",
+      "wording_ru": "Парижская система кутюрных домов складывалась во второй половине XIX века вокруг дома, имени создателя, сезонной коллекции и клиентуры. В XX веке она получила формальные профессиональные рамки, а после решения 23 января 1945 года обозначение Haute Couture стало специальным регулируемым статусом во Ф",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_haute-couture-production-sys_form",
+      "wording_ru": "Материальная логика системы раскрывается через то, как физические свойства компонентов ограничивают и одновременно создают форму. Ключевая единица — не фабричная линия, а ателье с высокоспециализированным разделением труда. Технологии могут обновляться, но ценность системы строится на способности со",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_haute-couture-production-sys_use",
+      "wording_ru": "Процесс начинается с идеи и разработки коллекции, затем проходит через макеты, крой, вышивку и другие специализированные операции, примерки на модели или клиенте, внутренний контроль качества и презентацию. Дом координирует собственные ателье и сеть поставщиков ремесленных работ.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_haute-couture-production-sys_impact",
+      "wording_ru": "Главное изменение для дисциплины — превращение одежды из единичного образа в систему отношений между телом, материалом, трудом, стандартом и изображением. Дом моды → ателье → ремесло → материал → показ → фотография → журнал.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_haute-couture-production-sys_today",
+      "wording_ru": "Сегодня тему полезно читать не как набор терминов, а как цепочку решений: Дом моды → ателье → ремесло → материал → показ → фотография → журнал. В этой цепочке видимый образ — лишь последний слой большой производственной конструкции.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_haute-couture-production-sys_def",
+      "source_id": "src_haute-couture-production-syste_01",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_haute-couture-production-sys_orig",
+      "source_id": "src_haute-couture-production-syste_02",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_haute-couture-production-sys_form",
+      "source_id": "src_haute-couture-production-syste_03",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_haute-couture-production-sys_use",
+      "source_id": "src_haute-couture-production-syste_04",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_haute-couture-production-sys_impact",
+      "source_id": "src_haute-couture-production-syste_05",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_haute-couture-production-sys_today",
+      "source_id": "src_haute-couture-production-syste_06",
+      "locator": "Official documentation and institutional sources"
+    }
+  ],
+  "last_updated": "2026-08-19"
+}

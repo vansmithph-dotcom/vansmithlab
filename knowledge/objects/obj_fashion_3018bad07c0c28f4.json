@@ -1,0 +1,119 @@
+{
+  "id": "obj_fashion_3018bad07c0c28f4",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "content_type": "encyclopedia",
+  "canonical_name": "Костюм — конструкция современного социального тела",
+  "canonical_name_en": "The Suit — Constructing the Modern Social Body",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_suit-construction-of-modern-so_01",
+      "title": "www.savilerowbespoke.com",
+      "url": "https://www.savilerowbespoke.com/about-us/",
+      "tier": 1
+    },
+    {
+      "id": "src_suit-construction-of-modern-so_02",
+      "title": "www.savilerowbespoke.com",
+      "url": "https://www.savilerowbespoke.com/about-us/tailoring-terms/",
+      "tier": 1
+    },
+    {
+      "id": "src_suit-construction-of-modern-so_03",
+      "title": "www.metmuseum.org",
+      "url": "https://www.metmuseum.org/exhibitions/listings/2016/manus-x-machina/exhibition-galleries",
+      "tier": 1
+    },
+    {
+      "id": "src_suit-construction-of-modern-so_04",
+      "title": "www.metmuseum.org",
+      "url": "https://www.metmuseum.org/exhibitions/a-line-of-beauty/visiting-guide",
+      "tier": 1
+    },
+    {
+      "id": "src_suit-construction-of-modern-so_05",
+      "title": "www.vam.ac.uk",
+      "url": "https://www.vam.ac.uk/articles/six-revolutionary-designs-by-mary-quant",
+      "tier": 1
+    },
+    {
+      "id": "src_suit-construction-of-modern-so_06",
+      "title": "www.vam.ac.uk",
+      "url": "https://www.vam.ac.uk/collections/textiles",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_suit-construction-of-modern-_def",
+      "wording_ru": "Костюм — не просто комплект одежды, а система, которая геометрически организует тело. Плечо, лацкан, талия, длина пиджака и линия брюк создают социально читаемый силуэт, способный обозначать профессию, власть, ритуал или дистанцию.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_suit-construction-of-modern-_orig",
+      "wording_ru": "Современный костюм вырос из европейской мужской одежды Нового времени и постепенно отказался от яркой придворной декоративности в пользу более устойчивой системы пиджака, жилета и брюк. В XIX–XX веках он стал международным кодом публичной деловой одежды и затем был многократно переосмыслен женской м",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_suit-construction-of-modern-_form",
+      "wording_ru": "Материальная логика системы раскрывается через то, как физические свойства компонентов ограничивают и одновременно создают форму. Костюм особенно чувствителен к качеству шерстяной ткани, направлению нити, точности лекал и влажно-тепловой обработке. В промышленной версии часть ручных операций заменяе",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_suit-construction-of-modern-_use",
+      "wording_ru": "Конструкция костюма формирует тело через крой, вытачки, швы, прокладочные материалы, подплечники, утюжильную обработку и баланс изделия. Внешняя простота скрывает сложную внутреннюю геометрию, которая распределяет объём и управляет посадкой.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_suit-construction-of-modern-_impact",
+      "wording_ru": "Главное изменение для дисциплины — превращение одежды из единичного образа в систему отношений между телом, материалом, трудом, стандартом и изображением. тело → выкройка → внутренний каркас → пиджак → социальный код → фотография.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_suit-construction-of-modern-_today",
+      "wording_ru": "Сегодня тему полезно читать не как набор терминов, а как цепочку решений: тело → выкройка → внутренний каркас → пиджак → социальный код → фотография. В этой цепочке видимый образ — лишь последний слой большой производственной конструкции.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_suit-construction-of-modern-_def",
+      "source_id": "src_suit-construction-of-modern-so_01",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_suit-construction-of-modern-_orig",
+      "source_id": "src_suit-construction-of-modern-so_02",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_suit-construction-of-modern-_form",
+      "source_id": "src_suit-construction-of-modern-so_03",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_suit-construction-of-modern-_use",
+      "source_id": "src_suit-construction-of-modern-so_04",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_suit-construction-of-modern-_impact",
+      "source_id": "src_suit-construction-of-modern-so_05",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_suit-construction-of-modern-_today",
+      "source_id": "src_suit-construction-of-modern-so_06",
+      "locator": "Official documentation and institutional sources"
+    }
+  ],
+  "last_updated": "2026-08-19"
+}

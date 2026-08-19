@@ -1,0 +1,43 @@
+{
+  "content_id": "cnt_fashion_en_b21f3d04d166a8c6",
+  "primary_object_id": "obj_fashion_b21f3d04d166a8c6",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_knitting-producing-surface-a_def",
+    "clm_knitting-producing-surface-a_orig",
+    "clm_knitting-producing-surface-a_form",
+    "clm_knitting-producing-surface-a_use",
+    "clm_knitting-producing-surface-a_impact",
+    "clm_knitting-producing-surface-a_today"
+  ],
+  "source_ids": [
+    "src_knitting-producing-surface-and_01",
+    "src_knitting-producing-surface-and_02",
+    "src_knitting-producing-surface-and_03",
+    "src_knitting-producing-surface-and_04",
+    "src_knitting-producing-surface-and_05",
+    "src_knitting-producing-surface-and_06"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "knitting-producing-surface-and-form-together",
+  "title": "Knitting — Producing Surface and Form at the Same Time",
+  "summary": "A technique in which instruction, loop and volume can belong to one design process.",
+  "discipline": [
+    "fashion-systems"
+  ],
+  "kind": "theme",
+  "body_hash": "bd60af795f416a757d19157f1e866e4fe6453fd5a2fef615e7eddef7130fdce2",
+  "translation": {
+    "source_locale": "ru",
+    "translated_by": "VANSMITHLAB",
+    "semantic_validated": true,
+    "translation_date": "2026-08-19"
+  }
+}

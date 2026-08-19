@@ -1,0 +1,37 @@
+{
+  "content_id": "cnt_fashion_ru_c9d74f00cc2b4e12",
+  "primary_object_id": "obj_fashion_c9d74f00cc2b4e12",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_knitwear-form-created-by-loo_def",
+    "clm_knitwear-form-created-by-loo_orig",
+    "clm_knitwear-form-created-by-loo_form",
+    "clm_knitwear-form-created-by-loo_use",
+    "clm_knitwear-form-created-by-loo_impact",
+    "clm_knitwear-form-created-by-loo_today"
+  ],
+  "source_ids": [
+    "src_knitwear-form-created-by-loop_01",
+    "src_knitwear-form-created-by-loop_02",
+    "src_knitwear-form-created-by-loop_03",
+    "src_knitwear-form-created-by-loop_04",
+    "src_knitwear-form-created-by-loop_05",
+    "src_knitwear-form-created-by-loop_06"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "knitwear-form-created-by-loop",
+  "title": "Трикотаж — форма, которую создаёт петля",
+  "summary": "Эластичная структура, где материал и конструкция возникают одновременно.",
+  "discipline": [
+    "fashion-systems"
+  ],
+  "kind": "theme",
+  "body_hash": "f2318d472cd10aba72322c1bd499e37ba615b721ead20d5edd90a09f0323c827"
+}

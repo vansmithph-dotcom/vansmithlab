@@ -1,0 +1,119 @@
+{
+  "id": "obj_fashion_ad760fc85df039d1",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "content_type": "encyclopedia",
+  "canonical_name": "Готовая дизайнерская одежда — промышленная система ready-to-wear",
+  "canonical_name_en": "Ready-to-Wear — Designer Clothing as an Industrial System",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_ready-to-wear-designer-clothin_01",
+      "title": "www.fhcm.paris",
+      "url": "https://www.fhcm.paris/en/our-history",
+      "tier": 1
+    },
+    {
+      "id": "src_ready-to-wear-designer-clothin_02",
+      "title": "www.fhcm.paris",
+      "url": "https://www.fhcm.paris/en",
+      "tier": 1
+    },
+    {
+      "id": "src_ready-to-wear-designer-clothin_03",
+      "title": "www.vam.ac.uk",
+      "url": "https://www.vam.ac.uk/articles/six-revolutionary-designs-by-mary-quant",
+      "tier": 1
+    },
+    {
+      "id": "src_ready-to-wear-designer-clothin_04",
+      "title": "www.metmuseum.org",
+      "url": "https://www.metmuseum.org/exhibitions/a-line-of-beauty/visiting-guide",
+      "tier": 1
+    },
+    {
+      "id": "src_ready-to-wear-designer-clothin_05",
+      "title": "www.metmuseum.org",
+      "url": "https://www.metmuseum.org/exhibitions/listings/2016/manus-x-machina/exhibition-galleries",
+      "tier": 1
+    },
+    {
+      "id": "src_ready-to-wear-designer-clothin_06",
+      "title": "www.vam.ac.uk",
+      "url": "https://www.vam.ac.uk/collections/textiles",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_ready-to-wear-designer-cloth_def",
+      "wording_ru": "Готовая дизайнерская одежда строится на заранее определённых размерах, повторяемом крое, серийном производстве и распределении через торговую сеть. В отличие от индивидуального заказа, здесь дизайнер проектирует не одну вещь для одного тела, а систему вариантов для множества тел и рынков.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_ready-to-wear-designer-cloth_orig",
+      "wording_ru": "Предпосылки возникли вместе со стандартизацией мерок, бумажными выкройками, швейной машиной, фабричным разделением труда и универмагом. В XX веке дизайнерский ready-to-wear стал самостоятельной системой, а в Париже отдельная профессиональная палата prêt-à-porter была создана в 1973 году.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_ready-to-wear-designer-cloth_form",
+      "wording_ru": "Материальная логика системы раскрывается через то, как физические свойства компонентов ограничивают и одновременно создают форму. Промышленность требует повторяемости и допустимых отклонений. Технолог, конструктор, специалист по материалам, закупщик и фабрика переводят образ коллекции в продукт с за",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_ready-to-wear-designer-cloth_use",
+      "wording_ru": "Коллекция проходит стадии концепции, прототипа, технической документации, градации размеров, закупки материалов, раскладки, раскроя, пошива, контроля качества, логистики и продаж. Решение дизайнера становится набором инструкций для распределённой производственной цепочки.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_ready-to-wear-designer-cloth_impact",
+      "wording_ru": "Главное изменение для дисциплины — превращение одежды из единичного образа в систему отношений между телом, материалом, трудом, стандартом и изображением. дизайнер → технический пакет → размерный ряд → фабрика → логистика → магазин → покупатель.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_ready-to-wear-designer-cloth_today",
+      "wording_ru": "Сегодня тему полезно читать не как набор терминов, а как цепочку решений: дизайнер → технический пакет → размерный ряд → фабрика → логистика → магазин → покупатель. В этой цепочке видимый образ — лишь последний слой большой производственной конструкции.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_ready-to-wear-designer-cloth_def",
+      "source_id": "src_ready-to-wear-designer-clothin_01",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_ready-to-wear-designer-cloth_orig",
+      "source_id": "src_ready-to-wear-designer-clothin_02",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_ready-to-wear-designer-cloth_form",
+      "source_id": "src_ready-to-wear-designer-clothin_03",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_ready-to-wear-designer-cloth_use",
+      "source_id": "src_ready-to-wear-designer-clothin_04",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_ready-to-wear-designer-cloth_impact",
+      "source_id": "src_ready-to-wear-designer-clothin_05",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_ready-to-wear-designer-cloth_today",
+      "source_id": "src_ready-to-wear-designer-clothin_06",
+      "locator": "Official documentation and institutional sources"
+    }
+  ],
+  "last_updated": "2026-08-19"
+}

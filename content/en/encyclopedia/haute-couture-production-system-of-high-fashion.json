@@ -1,0 +1,43 @@
+{
+  "content_id": "cnt_fashion_en_7b62631f2036d4da",
+  "primary_object_id": "obj_fashion_7b62631f2036d4da",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_haute-couture-production-sys_def",
+    "clm_haute-couture-production-sys_orig",
+    "clm_haute-couture-production-sys_form",
+    "clm_haute-couture-production-sys_use",
+    "clm_haute-couture-production-sys_impact",
+    "clm_haute-couture-production-sys_today"
+  ],
+  "source_ids": [
+    "src_haute-couture-production-syste_01",
+    "src_haute-couture-production-syste_02",
+    "src_haute-couture-production-syste_03",
+    "src_haute-couture-production-syste_04",
+    "src_haute-couture-production-syste_05",
+    "src_haute-couture-production-syste_06"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "haute-couture-production-system-of-high-fashion",
+  "title": "Haute Couture — the Production System of High Fashion",
+  "summary": "Not a luxury style but a regulated ecosystem of ateliers, handwork, fittings, calendar and public presentation.",
+  "discipline": [
+    "fashion-systems"
+  ],
+  "kind": "theme",
+  "body_hash": "50596d2aa33ebb11378cd26182d48b8e73dfed70a92ad31b14574e695bdc1385",
+  "translation": {
+    "source_locale": "ru",
+    "translated_by": "VANSMITHLAB",
+    "semantic_validated": true,
+    "translation_date": "2026-08-19"
+  }
+}

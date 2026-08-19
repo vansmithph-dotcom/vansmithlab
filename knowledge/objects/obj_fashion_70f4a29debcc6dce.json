@@ -1,0 +1,119 @@
+{
+  "id": "obj_fashion_70f4a29debcc6dce",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "content_type": "encyclopedia",
+  "canonical_name": "Портновская конструкция — внутренняя архитектура жакета",
+  "canonical_name_en": "Tailoring Construction — the Inner Architecture of the Jacket",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_tailoring-construction-inner-a_01",
+      "title": "www.savilerowbespoke.com",
+      "url": "https://www.savilerowbespoke.com/about-us/tailoring-terms/",
+      "tier": 1
+    },
+    {
+      "id": "src_tailoring-construction-inner-a_02",
+      "title": "www.savilerowbespoke.com",
+      "url": "https://www.savilerowbespoke.com/about-us/",
+      "tier": 1
+    },
+    {
+      "id": "src_tailoring-construction-inner-a_03",
+      "title": "www.metmuseum.org",
+      "url": "https://www.metmuseum.org/exhibitions/listings/2016/manus-x-machina/exhibition-galleries",
+      "tier": 1
+    },
+    {
+      "id": "src_tailoring-construction-inner-a_04",
+      "title": "www.metmuseum.org",
+      "url": "https://www.metmuseum.org/exhibitions/a-line-of-beauty/visiting-guide",
+      "tier": 1
+    },
+    {
+      "id": "src_tailoring-construction-inner-a_05",
+      "title": "www.vam.ac.uk",
+      "url": "https://www.vam.ac.uk/collections/textiles",
+      "tier": 1
+    },
+    {
+      "id": "src_tailoring-construction-inner-a_06",
+      "title": "www.vam.ac.uk",
+      "url": "https://www.vam.ac.uk/event/RY4dPajWMg/o24047-in-practice-dress-pattern-making-monisola-omotoso",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_tailoring-construction-inner_def",
+      "wording_ru": "Портновская конструкция превращает плоскую ткань в устойчивую оболочку вокруг тела. Жакет держит форму благодаря взаимной работе кроя, прокладочных слоёв, швов, посадки рукава, плеча и влажно-тепловой обработки.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_tailoring-construction-inner_orig",
+      "wording_ru": "Профессия портного развивалась вместе с одеждой, всё сильнее зависящей от точной посадки и расчёта формы. В классической системе bespoke индивидуальная выкройка становится картой конкретного тела, а конструкция корректируется последовательными примерками.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_tailoring-construction-inner_form",
+      "wording_ru": "Материальная логика системы раскрывается через то, как физические свойства компонентов ограничивают и одновременно создают форму. Материалы внутреннего слоя — канва, бортовка, клеевые или пришивные прокладки, подплечники, подкладка — определяют вес, память и подвижность. В промышленности конструкция",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_tailoring-construction-inner_use",
+      "wording_ru": "Полочка получает внутреннюю поддержку, грудь и лацкан формуются, плечо балансируется, рукав втачивается с контролем посадки, а утюг не просто разглаживает, а растягивает и усаживает ткань. Это архитектура из мягких материалов, где миллиметры меняют поведение всей формы.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_tailoring-construction-inner_impact",
+      "wording_ru": "Главное изменение для дисциплины — превращение одежды из единичного образа в систему отношений между телом, материалом, трудом, стандартом и изображением. выкройка → канва → утюг → примерка → жакет → костюм → силуэт.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_tailoring-construction-inner_today",
+      "wording_ru": "Сегодня тему полезно читать не как набор терминов, а как цепочку решений: выкройка → канва → утюг → примерка → жакет → костюм → силуэт. В этой цепочке видимый образ — лишь последний слой большой производственной конструкции.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_tailoring-construction-inner_def",
+      "source_id": "src_tailoring-construction-inner-a_01",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_tailoring-construction-inner_orig",
+      "source_id": "src_tailoring-construction-inner-a_02",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_tailoring-construction-inner_form",
+      "source_id": "src_tailoring-construction-inner-a_03",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_tailoring-construction-inner_use",
+      "source_id": "src_tailoring-construction-inner-a_04",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_tailoring-construction-inner_impact",
+      "source_id": "src_tailoring-construction-inner-a_05",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_tailoring-construction-inner_today",
+      "source_id": "src_tailoring-construction-inner-a_06",
+      "locator": "Official documentation and institutional sources"
+    }
+  ],
+  "last_updated": "2026-08-19"
+}

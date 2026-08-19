@@ -1,0 +1,119 @@
+{
+  "id": "obj_fashion_acc52a4618a67262",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "content_type": "encyclopedia",
+  "canonical_name": "Манекен — инструмент между телом и формой",
+  "canonical_name_en": "The Dress Form — a Tool Between Body and Form",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_dress-form-tool-between-body-a_01",
+      "title": "www.metmuseum.org",
+      "url": "https://www.metmuseum.org/exhibitions/listings/2016/manus-x-machina/exhibition-galleries",
+      "tier": 1
+    },
+    {
+      "id": "src_dress-form-tool-between-body-a_02",
+      "title": "www.metmuseum.org",
+      "url": "https://www.metmuseum.org/exhibitions/a-line-of-beauty/visiting-guide",
+      "tier": 1
+    },
+    {
+      "id": "src_dress-form-tool-between-body-a_03",
+      "title": "www.vam.ac.uk",
+      "url": "https://www.vam.ac.uk/event/RY4dPajWMg/o24047-in-practice-dress-pattern-making-monisola-omotoso",
+      "tier": 1
+    },
+    {
+      "id": "src_dress-form-tool-between-body-a_04",
+      "title": "www.vam.ac.uk",
+      "url": "https://www.vam.ac.uk/collections/textiles",
+      "tier": 1
+    },
+    {
+      "id": "src_dress-form-tool-between-body-a_05",
+      "title": "www.savilerowbespoke.com",
+      "url": "https://www.savilerowbespoke.com/about-us/tailoring-terms/",
+      "tier": 1
+    },
+    {
+      "id": "src_dress-form-tool-between-body-a_06",
+      "title": "www.savilerowbespoke.com",
+      "url": "https://www.savilerowbespoke.com/about-us/",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_dress-form-tool-between-body_def",
+      "wording_ru": "Портновский манекен — приближённая модель человеческого торса, используемая для наколки, проверки пропорций, баланса и расположения конструктивных линий. Он превращает тело в устойчивую рабочую поверхность и позволяет проектировать непосредственно в трёхмерном пространстве.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_dress-form-tool-between-body_orig",
+      "wording_ru": "Рабочие формы существовали в портновской практике задолго до современного массового манекена. Стандартизация размеров и профессиональное производство оборудования сделали регулируемые и типовые формы обычным инструментом ателье и школ моды.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_dress-form-tool-between-body_form",
+      "wording_ru": "Материальная логика системы раскрывается через то, как физические свойства компонентов ограничивают и одновременно создают форму. Качество формы зависит от пропорций, устойчивости, возможности вкалывать булавки и совпадения контрольных линий. Но никакой манекен не воспроизводит дыхание, движение, мя",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_dress-form-tool-between-body_use",
+      "wording_ru": "Ткань закрепляется на форме, перемещается, складывается и фиксируется булавками; линии затем переносятся на бумагу или уточняются через макет. Манекен особенно полезен для драпировки и асимметрии, где плоское построение не даёт мгновенного пространственного ответа.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_dress-form-tool-between-body_impact",
+      "wording_ru": "Главное изменение для дисциплины — превращение одежды из единичного образа в систему отношений между телом, материалом, трудом, стандартом и изображением. тело → стандарт → манекен → наколка → макет → выкройка.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_dress-form-tool-between-body_today",
+      "wording_ru": "Сегодня тему полезно читать не как набор терминов, а как цепочку решений: тело → стандарт → манекен → наколка → макет → выкройка. В этой цепочке видимый образ — лишь последний слой большой производственной конструкции.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_dress-form-tool-between-body_def",
+      "source_id": "src_dress-form-tool-between-body-a_01",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_dress-form-tool-between-body_orig",
+      "source_id": "src_dress-form-tool-between-body-a_02",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_dress-form-tool-between-body_form",
+      "source_id": "src_dress-form-tool-between-body-a_03",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_dress-form-tool-between-body_use",
+      "source_id": "src_dress-form-tool-between-body-a_04",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_dress-form-tool-between-body_impact",
+      "source_id": "src_dress-form-tool-between-body-a_05",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_dress-form-tool-between-body_today",
+      "source_id": "src_dress-form-tool-between-body-a_06",
+      "locator": "Official documentation and institutional sources"
+    }
+  ],
+  "last_updated": "2026-08-19"
+}
