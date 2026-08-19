@@ -1,0 +1,36 @@
+{
+  "content_id": "cnt_osimg_ru_daf01c901da79e11",
+  "primary_object_id": "obj_osimg_daf01c901da79e11",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_osimg_daf01c901da79e11_thesis",
+    "clm_osimg_daf01c901da79e11_origin",
+    "clm_osimg_daf01c901da79e11_critique",
+    "clm_osimg_daf01c901da79e11_today"
+  ],
+  "source_ids": [
+    "src_osimg_daf01c901da79e11_01",
+    "src_osimg_daf01c901da79e11_02",
+    "src_osimg_daf01c901da79e11_03",
+    "src_osimg_daf01c901da79e11_04",
+    "src_osimg_daf01c901da79e11_05"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "production-processes-object-as-manufacturing-sequence",
+  "title": "Производственные процессы — предмет как последовательность операций",
+  "summary": "Форма предмета определяется не эскизом, а порядком операций, допусками и стоимостью оснастки.",
+  "discipline": [
+    "industrial-design",
+    "materials"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "a6b0e1b362b04c944c9b0a1d499a624b2610e3012900e4f6459fef156bb04d4e"
+}

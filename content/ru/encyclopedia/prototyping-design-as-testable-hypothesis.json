@@ -1,0 +1,36 @@
+{
+  "content_id": "cnt_osimg_ru_bf09f731e1f87499",
+  "primary_object_id": "obj_osimg_bf09f731e1f87499",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_osimg_bf09f731e1f87499_thesis",
+    "clm_osimg_bf09f731e1f87499_origin",
+    "clm_osimg_bf09f731e1f87499_critique",
+    "clm_osimg_bf09f731e1f87499_today"
+  ],
+  "source_ids": [
+    "src_osimg_bf09f731e1f87499_01",
+    "src_osimg_bf09f731e1f87499_02",
+    "src_osimg_bf09f731e1f87499_03",
+    "src_osimg_bf09f731e1f87499_04",
+    "src_osimg_bf09f731e1f87499_05"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "prototyping-design-as-testable-hypothesis",
+  "title": "Прототипирование — проект как проверяемая гипотеза",
+  "summary": "Прототип ценен не сходством с изделием, а тем, какой именно вопрос он позволяет закрыть.",
+  "discipline": [
+    "industrial-design",
+    "technology"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "03c5093b52df5395f41ce3c0037ae1c4dd76a9e4aa62d663f2a89839c07bb233"
+}

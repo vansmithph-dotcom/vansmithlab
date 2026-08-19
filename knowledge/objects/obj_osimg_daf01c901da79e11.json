@@ -1,0 +1,86 @@
+{
+  "id": "obj_osimg_daf01c901da79e11",
+  "category": "technology",
+  "canonical_name": "Производственные процессы — предмет как последовательность операций",
+  "canonical_name_en": "Production processes — the object as a sequence of operations",
+  "title_ru": "Производственные процессы — предмет как последовательность операций",
+  "slug_ru": "production-processes-object-as-manufacturing-sequence",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "industrial-design",
+    "materials"
+  ],
+  "sources": [
+    {
+      "id": "src_osimg_daf01c901da79e11_01",
+      "title": "Vitra — Design process",
+      "url": "https://www.vitra.com/en-un/about-vitra/design-process",
+      "publisher": "Vitra — Design process",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_osimg_daf01c901da79e11_02",
+      "title": "Cooper Hewitt — Prototype",
+      "url": "https://www.cooperhewitt.org/prototype/",
+      "publisher": "Cooper Hewitt — Prototype",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_osimg_daf01c901da79e11_03",
+      "title": "Design Museum — Collection",
+      "url": "https://designmuseum.org/about-the-museum/design-museum-collection",
+      "publisher": "Design Museum — Collection",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_osimg_daf01c901da79e11_04",
+      "title": "Vitra Design Museum — Online Collection",
+      "url": "https://collection.design-museum.de/en/",
+      "publisher": "Vitra Design Museum — Online Collection",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_osimg_daf01c901da79e11_05",
+      "title": "World Design Organization — Definition of industrial design",
+      "url": "https://wdo.org/about/definition/",
+      "publisher": "World Design Organization — Definition of industrial design",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_osimg_daf01c901da79e11_thesis",
+      "wording_ru": "Предмет удобнее читать как последовательность операций, а не как силуэт: каждая линия на нём является следом конкретного способа изготовления.",
+      "wording_en": "An object is better read as a sequence of operations than as a silhouette: every line on it is the trace of a particular way of making.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_osimg_daf01c901da79e11_origin",
+      "wording_ru": "Производственный процесс — это упорядоченный набор операций, превращающих сырьё в изделие. Каждая операция накладывает собственное ограничение на форму, и итоговая геометрия является пересечением всех этих ограничений.",
+      "wording_en": "A production process is an ordered set of operations turning raw material into a product. Each operation imposes its own constraint on form, and the final geometry is the intersection of all those constraints.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_osimg_daf01c901da79e11_critique",
+      "wording_ru": "Мелкосерийное производство подешевело, и порог тиража снизился. Это вернуло в обиход формы, которые прежде были невозможны вне массового выпуска.",
+      "wording_en": "Small-batch manufacture has become cheaper and the volume threshold has fallen. This has returned to circulation forms that were previously impossible outside mass production.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_osimg_daf01c901da79e11_today",
+      "wording_ru": "Ищите на предмете следы операций: линию разъёма, радиус внутреннего угла, направление шлифовки, положение литника. Они рассказывают о происхождении вещи точнее, чем подпись автора.",
+      "wording_en": "Look on an object for the traces of operations: the parting line, the internal corner radius, the direction of grain, the gate position. They describe an object’s origin more accurately than an author’s signature.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    }
+  ]
+}

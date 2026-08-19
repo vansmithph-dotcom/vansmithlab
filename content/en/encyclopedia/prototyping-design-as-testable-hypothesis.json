@@ -1,0 +1,36 @@
+{
+  "content_id": "cnt_osimg_en_bf09f731e1f87499",
+  "primary_object_id": "obj_osimg_bf09f731e1f87499",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_osimg_bf09f731e1f87499_thesis",
+    "clm_osimg_bf09f731e1f87499_origin",
+    "clm_osimg_bf09f731e1f87499_critique",
+    "clm_osimg_bf09f731e1f87499_today"
+  ],
+  "source_ids": [
+    "src_osimg_bf09f731e1f87499_01",
+    "src_osimg_bf09f731e1f87499_02",
+    "src_osimg_bf09f731e1f87499_03",
+    "src_osimg_bf09f731e1f87499_04",
+    "src_osimg_bf09f731e1f87499_05"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "prototyping-design-as-testable-hypothesis",
+  "title": "Prototyping — design as a testable hypothesis",
+  "summary": "A prototype is valuable not for resembling a product but for which question it allows to be closed.",
+  "discipline": [
+    "industrial-design",
+    "technology"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "d21ce1fc80d0c5963b9ed0e7b56d25116d0b405b2e4406d98b02a20d7b7268dc"
+}

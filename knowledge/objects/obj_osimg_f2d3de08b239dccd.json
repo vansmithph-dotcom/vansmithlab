@@ -1,0 +1,78 @@
+{
+  "id": "obj_osimg_f2d3de08b239dccd",
+  "category": "technology",
+  "canonical_name": "Цветовые системы — от стандарта к ощущению",
+  "canonical_name_en": "Colour systems — from standard to sensation",
+  "title_ru": "Цветовые системы — от стандарта к ощущению",
+  "slug_ru": "color-systems-from-standard-to-sensation",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "image-grammar",
+    "technology"
+  ],
+  "sources": [
+    {
+      "id": "src_osimg_f2d3de08b239dccd_01",
+      "title": "International Color Consortium",
+      "url": "https://www.color.org/",
+      "publisher": "International Color Consortium",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_osimg_f2d3de08b239dccd_02",
+      "title": "W3C — CSS Color Module Level 4",
+      "url": "https://www.w3.org/TR/css-color-4/",
+      "publisher": "W3C — CSS Color Module Level 4",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_osimg_f2d3de08b239dccd_03",
+      "title": "Adobe — Understanding colour management",
+      "url": "https://helpx.adobe.com/photoshop/using/understanding-color-management.html",
+      "publisher": "Adobe — Understanding colour management",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_osimg_f2d3de08b239dccd_04",
+      "title": "MoMA — Collection",
+      "url": "https://www.moma.org/collection/",
+      "publisher": "MoMA — Collection",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_osimg_f2d3de08b239dccd_thesis",
+      "wording_ru": "Цветовая система важна как договор о том, что считать одинаковым цветом: без такого договора цвет невозможно ни передать, ни проверить.",
+      "wording_en": "A colour system matters as an agreement about what counts as the same colour: without such an agreement colour can neither be transmitted nor verified.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_osimg_f2d3de08b239dccd_origin",
+      "wording_ru": "Цветовая система — способ поставить в соответствие ощущению цвета набор чисел. Систем много, потому что задачи разные: измерить, передать, воспроизвести или назвать.",
+      "wording_en": "A colour system is a way of putting a set of numbers into correspondence with a colour sensation. Systems are many because the tasks differ: to measure, transmit, reproduce, or name.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_osimg_f2d3de08b239dccd_critique",
+      "wording_ru": "Один и тот же цвет на матовой и глянцевой поверхности воспринимается по-разному, потому что различается доля зеркального отражения. Цвет невозможно обсуждать в отрыве от фактуры.",
+      "wording_en": "The same colour on matt and gloss surfaces is perceived differently, because the proportion of specular reflection differs. Colour cannot be discussed apart from texture.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_osimg_f2d3de08b239dccd_today",
+      "wording_ru": "Спрашивайте не о номере цвета, а о пространстве и условиях просмотра. Номер без этих двух сведений не является утверждением, которое можно проверить.",
+      "wording_en": "Ask not for a colour number but for the space and the viewing conditions. A number without those two pieces of information is not a claim that can be checked.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    }
+  ]
+}

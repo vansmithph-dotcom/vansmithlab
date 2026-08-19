@@ -1,0 +1,78 @@
+{
+  "id": "obj_osimg_d8aa6b124eac5a71",
+  "category": "technology",
+  "canonical_name": "Экранная графика — изображение как интерфейс",
+  "canonical_name_en": "Screen graphics — the image as interface",
+  "title_ru": "Экранная графика — изображение как интерфейс",
+  "slug_ru": "screen-graphics-image-as-interface",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "image-grammar",
+    "graphic-design"
+  ],
+  "sources": [
+    {
+      "id": "src_osimg_d8aa6b124eac5a71_01",
+      "title": "W3C — CSS Color Module Level 4",
+      "url": "https://www.w3.org/TR/css-color-4/",
+      "publisher": "W3C — CSS Color Module Level 4",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_osimg_d8aa6b124eac5a71_02",
+      "title": "International Color Consortium",
+      "url": "https://www.color.org/",
+      "publisher": "International Color Consortium",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_osimg_d8aa6b124eac5a71_03",
+      "title": "Adobe — Nondestructive editing in Photoshop",
+      "url": "https://helpx.adobe.com/photoshop/using/nondestructive-editing.html",
+      "publisher": "Adobe — Nondestructive editing in Photoshop",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_osimg_d8aa6b124eac5a71_04",
+      "title": "Computer History Museum — Make Software: Photoshop",
+      "url": "https://www.computerhistory.org/makesoftware/exhibit/photoshop/",
+      "publisher": "Computer History Museum — Make Software: Photoshop",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_osimg_d8aa6b124eac5a71_thesis",
+      "wording_ru": "Экранная графика важна тем, что изображение здесь имеет состояние: оно реагирует на курсор, размер окна, тему оформления и настройки пользователя.",
+      "wording_en": "Screen graphics matter because the image here has state: it responds to the cursor, window size, colour theme, and user settings.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_osimg_d8aa6b124eac5a71_origin",
+      "wording_ru": "Экранная графика — изображение, существующее в интерактивной среде с переменными условиями отображения. Определяющим является не носитель, а наличие состояний.",
+      "wording_en": "Screen graphics are images existing in an interactive environment with variable display conditions. What defines them is not the carrier but the presence of states.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_osimg_d8aa6b124eac5a71_critique",
+      "wording_ru": "Описание состояний и токенов — то самое, что делает экранную графику передаваемой. Без этого работа не воспроизводится другой командой.",
+      "wording_en": "Describing states and tokens is precisely what makes screen graphics transmissible. Without it, work is not reproducible by another team.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_osimg_d8aa6b124eac5a71_today",
+      "wording_ru": "Проверяйте работу не в идеальных условиях, а в неудобных: при увеличенном шрифте, в тёмной теме, с клавиатуры, на медленном соединении. Там становится видно, что было спроектировано, а что нарисовано.",
+      "wording_en": "Test work in awkward conditions rather than ideal ones: enlarged type, dark theme, keyboard navigation, slow connection. There it becomes visible what was designed and what was merely drawn.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    }
+  ]
+}

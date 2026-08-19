@@ -1,0 +1,86 @@
+{
+  "id": "obj_osimg_bf09f731e1f87499",
+  "category": "technology",
+  "canonical_name": "Прототипирование — проект как проверяемая гипотеза",
+  "canonical_name_en": "Prototyping — design as a testable hypothesis",
+  "title_ru": "Прототипирование — проект как проверяемая гипотеза",
+  "slug_ru": "prototyping-design-as-testable-hypothesis",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "industrial-design",
+    "technology"
+  ],
+  "sources": [
+    {
+      "id": "src_osimg_bf09f731e1f87499_01",
+      "title": "Cooper Hewitt — Prototype",
+      "url": "https://www.cooperhewitt.org/prototype/",
+      "publisher": "Cooper Hewitt — Prototype",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_osimg_bf09f731e1f87499_02",
+      "title": "Vitra — Design process",
+      "url": "https://www.vitra.com/en-un/about-vitra/design-process",
+      "publisher": "Vitra — Design process",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_osimg_bf09f731e1f87499_03",
+      "title": "MoMA — Collection",
+      "url": "https://www.moma.org/collection/",
+      "publisher": "MoMA — Collection",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_osimg_bf09f731e1f87499_04",
+      "title": "Vitra Design Museum — Online Collection",
+      "url": "https://collection.design-museum.de/en/",
+      "publisher": "Vitra Design Museum — Online Collection",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_osimg_bf09f731e1f87499_05",
+      "title": "Design Museum — Collection",
+      "url": "https://designmuseum.org/about-the-museum/design-museum-collection",
+      "publisher": "Design Museum — Collection",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_osimg_bf09f731e1f87499_thesis",
+      "wording_ru": "Прототип следует оценивать не по достоверности, а по проверяемому вопросу: макет, отвечающий на всё сразу, обычно не отвечает ни на что.",
+      "wording_en": "A prototype should be judged not by fidelity but by the question it tests: a model answering everything at once usually answers nothing.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_osimg_bf09f731e1f87499_origin",
+      "wording_ru": "Прототип — физическое или цифровое воплощение части замысла, сделанное для проверки. Определяющим является намерение проверить, а не степень готовности.",
+      "wording_en": "A prototype is a physical or digital embodiment of part of an intention, made in order to test. What defines it is the intent to test, not the degree of completion.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_osimg_bf09f731e1f87499_critique",
+      "wording_ru": "Физическое прототипирование подешевело, цифровое стало непрерывным, а узким местом осталась формулировка вопроса. Инструменты обогнали дисциплину его постановки.",
+      "wording_en": "Physical prototyping has become cheap, digital testing continuous, and the bottleneck remains the formulation of the question. Tools have outrun the discipline of asking.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_osimg_bf09f731e1f87499_today",
+      "wording_ru": "Спрашивайте не «насколько это похоже на изделие», а «что этот макет доказал». Прототип, о котором нельзя ответить на второй вопрос, был демонстрацией.",
+      "wording_en": "Ask not how closely this resembles the product but what this model proved. A prototype for which the second question has no answer was a demonstration.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    }
+  ]
+}

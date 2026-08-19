@@ -1,0 +1,35 @@
+{
+  "content_id": "cnt_osimg_en_5c67830a5448eef2",
+  "primary_object_id": "obj_osimg_5c67830a5448eef2",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_osimg_5c67830a5448eef2_thesis",
+    "clm_osimg_5c67830a5448eef2_origin",
+    "clm_osimg_5c67830a5448eef2_critique",
+    "clm_osimg_5c67830a5448eef2_today"
+  ],
+  "source_ids": [
+    "src_osimg_5c67830a5448eef2_01",
+    "src_osimg_5c67830a5448eef2_02",
+    "src_osimg_5c67830a5448eef2_03",
+    "src_osimg_5c67830a5448eef2_04"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "motion-pipelines-time-as-design-material",
+  "title": "Motion pipelines — time as a design material",
+  "summary": "Movement is designed through curves and durations and produced by a pipeline with constraints of its own.",
+  "discipline": [
+    "image-grammar",
+    "media-publishing"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "f247e611cc4c9ef7f570e11920f8eb3e80ce131ab58f634704d6b65995855ac4"
+}

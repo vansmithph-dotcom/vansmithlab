@@ -1,0 +1,35 @@
+{
+  "content_id": "cnt_osimg_en_d8aa6b124eac5a71",
+  "primary_object_id": "obj_osimg_d8aa6b124eac5a71",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_osimg_d8aa6b124eac5a71_thesis",
+    "clm_osimg_d8aa6b124eac5a71_origin",
+    "clm_osimg_d8aa6b124eac5a71_critique",
+    "clm_osimg_d8aa6b124eac5a71_today"
+  ],
+  "source_ids": [
+    "src_osimg_d8aa6b124eac5a71_01",
+    "src_osimg_d8aa6b124eac5a71_02",
+    "src_osimg_d8aa6b124eac5a71_03",
+    "src_osimg_d8aa6b124eac5a71_04"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "screen-graphics-image-as-interface",
+  "title": "Screen graphics — the image as interface",
+  "summary": "On screen an image must not only show but respond: it is a control.",
+  "discipline": [
+    "image-grammar",
+    "graphic-design"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "8a16e5603d10802e3d4c5a2cbfd3d0d9d3d74c42364eb5a546a4eb3b0d89e416"
+}

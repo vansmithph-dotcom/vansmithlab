@@ -1,0 +1,86 @@
+{
+  "id": "obj_osimg_02d0d470af485d41",
+  "category": "technology",
+  "canonical_name": "Витринные системы — витрина как архитектура внимания",
+  "canonical_name_en": "Display systems — the vitrine as an architecture of attention",
+  "title_ru": "Витринные системы — витрина как архитектура внимания",
+  "slug_ru": "display-systems-vitrine-as-architecture-of-attention",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "space-typologies",
+    "materials"
+  ],
+  "sources": [
+    {
+      "id": "src_osimg_02d0d470af485d41_01",
+      "title": "Ministère de la Culture — Les vitrines d’un musée de France",
+      "url": "https://www.culture.gouv.fr/thematiques/musees/pour-les-professionnels/construire-un-musee/gerer-le-mobilier-et-l-equipement/Les-vitrines-d-un-musee-de-France",
+      "publisher": "Ministère de la Culture — Les vitrines d’un musée de France",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_osimg_02d0d470af485d41_02",
+      "title": "The Metropolitan Museum of Art — The Collection",
+      "url": "https://www.metmuseum.org/art/collection",
+      "publisher": "The Metropolitan Museum of Art — The Collection",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_osimg_02d0d470af485d41_03",
+      "title": "V&A — Museum",
+      "url": "https://www.vam.ac.uk/",
+      "publisher": "V&A — Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_osimg_02d0d470af485d41_04",
+      "title": "MoMA — Collection",
+      "url": "https://www.moma.org/collection/",
+      "publisher": "MoMA — Collection",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_osimg_02d0d470af485d41_05",
+      "title": "Vitra Design Museum — Online Collection",
+      "url": "https://collection.design-museum.de/en/",
+      "publisher": "Vitra Design Museum — Online Collection",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_osimg_02d0d470af485d41_thesis",
+      "wording_ru": "Витрина важна не как мебель, а как устройство, которое одновременно защищает предмет и предписывает, с какого расстояния и под каким углом его следует смотреть.",
+      "wording_en": "The vitrine matters not as furniture but as a device that simultaneously protects an object and prescribes the distance and angle from which it is to be seen.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_osimg_02d0d470af485d41_origin",
+      "wording_ru": "Витрина — замкнутый или полузамкнутый объём с прозрачной оболочкой, внутри которого предмет предъявляется и одновременно изолируется. Ключевое слово здесь «одновременно»: обе функции конфликтуют.",
+      "wording_en": "A vitrine is a closed or semi-closed volume with a transparent envelope in which an object is both presented and isolated. The key word is \"both\": the two functions conflict.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_osimg_02d0d470af485d41_critique",
+      "wording_ru": "Требования к климату и свету ужесточились, а конструкции стали легче и прозрачнее. Витрина движется к тому, чтобы физически исчезнуть, сохранив все свои функции.",
+      "wording_en": "Climate and light requirements have tightened while constructions have become lighter and more transparent. The vitrine is moving toward physical disappearance while retaining all its functions.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_osimg_02d0d470af485d41_today",
+      "wording_ru": "Смотрите на витрину до предмета: где стоит свет, куда падает отражение, на какой высоте закреплена подпись. Эти решения определяют увиденное не меньше, чем сам экспонат.",
+      "wording_en": "Look at the case before the object: where the light sits, where reflection falls, at what height the label is fixed. These decisions determine what is seen no less than the exhibit does.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    }
+  ]
+}

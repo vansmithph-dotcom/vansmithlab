@@ -1,0 +1,35 @@
+{
+  "content_id": "cnt_osimg_en_f2d3de08b239dccd",
+  "primary_object_id": "obj_osimg_f2d3de08b239dccd",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_osimg_f2d3de08b239dccd_thesis",
+    "clm_osimg_f2d3de08b239dccd_origin",
+    "clm_osimg_f2d3de08b239dccd_critique",
+    "clm_osimg_f2d3de08b239dccd_today"
+  ],
+  "source_ids": [
+    "src_osimg_f2d3de08b239dccd_01",
+    "src_osimg_f2d3de08b239dccd_02",
+    "src_osimg_f2d3de08b239dccd_03",
+    "src_osimg_f2d3de08b239dccd_04"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "color-systems-from-standard-to-sensation",
+  "title": "Colour systems — from standard to sensation",
+  "summary": "Colour as sensation and colour as number are linked by a chain of agreements, every link of which can be broken.",
+  "discipline": [
+    "image-grammar",
+    "technology"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "04c88fd7f28f4d0ce57b51b5d576367f44f772fa1746b7d1908fa76772bb0ac3"
+}

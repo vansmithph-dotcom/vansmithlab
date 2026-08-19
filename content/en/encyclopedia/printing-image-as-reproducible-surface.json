@@ -1,0 +1,36 @@
+{
+  "content_id": "cnt_osimg_en_37ef1b0d8fafcd67",
+  "primary_object_id": "obj_osimg_37ef1b0d8fafcd67",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_osimg_37ef1b0d8fafcd67_thesis",
+    "clm_osimg_37ef1b0d8fafcd67_origin",
+    "clm_osimg_37ef1b0d8fafcd67_critique",
+    "clm_osimg_37ef1b0d8fafcd67_today"
+  ],
+  "source_ids": [
+    "src_osimg_37ef1b0d8fafcd67_01",
+    "src_osimg_37ef1b0d8fafcd67_02",
+    "src_osimg_37ef1b0d8fafcd67_03",
+    "src_osimg_37ef1b0d8fafcd67_04",
+    "src_osimg_37ef1b0d8fafcd67_05"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "printing-image-as-reproducible-surface",
+  "title": "Printing — the image as a reproducible surface",
+  "summary": "Printing turns an image into an edition, and each printing method leaves its own trace in the picture’s structure.",
+  "discipline": [
+    "image-grammar",
+    "materials"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "6ecbfe3bdcdd92880bbe0710eb0a188c97e312e8b1f81fa0444a953fbf4f1e03"
+}

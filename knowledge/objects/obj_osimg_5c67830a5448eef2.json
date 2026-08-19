@@ -1,0 +1,78 @@
+{
+  "id": "obj_osimg_5c67830a5448eef2",
+  "category": "technology",
+  "canonical_name": "Моушн-конвейеры — время как проектный материал",
+  "canonical_name_en": "Motion pipelines — time as a design material",
+  "title_ru": "Моушн-конвейеры — время как проектный материал",
+  "slug_ru": "motion-pipelines-time-as-design-material",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "image-grammar",
+    "media-publishing"
+  ],
+  "sources": [
+    {
+      "id": "src_osimg_5c67830a5448eef2_01",
+      "title": "Adobe — After Effects feature history",
+      "url": "https://github.com/AdobeDocs/after-effects-feature-history",
+      "publisher": "Adobe — After Effects feature history",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_osimg_5c67830a5448eef2_02",
+      "title": "W3C — CSS Color Module Level 4",
+      "url": "https://www.w3.org/TR/css-color-4/",
+      "publisher": "W3C — CSS Color Module Level 4",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_osimg_5c67830a5448eef2_03",
+      "title": "Computer History Museum — Pixar’s Luxo Jr.",
+      "url": "https://computerhistory.org/blog/pixars-luxo-jr/",
+      "publisher": "Computer History Museum — Pixar’s Luxo Jr.",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_osimg_5c67830a5448eef2_04",
+      "title": "MoMA — Collection",
+      "url": "https://www.moma.org/collection/",
+      "publisher": "MoMA — Collection",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_osimg_5c67830a5448eef2_thesis",
+      "wording_ru": "Моушн-дизайн важен тем, что вводит в графику величину, которой у неё не было: длительность, — и вместе с ней требование, чтобы каждое движение было объяснимо.",
+      "wording_en": "Motion design matters because it introduces into graphics a quantity it did not have — duration — and with it the requirement that every movement be explicable.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_osimg_5c67830a5448eef2_origin",
+      "wording_ru": "Моушн-конвейер — последовательность операций, превращающая замысел движения в готовый материал: раскадровка, аниматик, анимация, сборка, просчёт, оптимизация. Каждый этап накладывает свои ограничения.",
+      "wording_en": "A motion pipeline is the sequence of operations turning an intention about movement into finished material: storyboard, animatic, animation, assembly, render, optimisation. Each stage imposes its own constraints.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_osimg_5c67830a5448eef2_critique",
+      "wording_ru": "Плавность является инженерной величиной, а не художественной. Анимация, не укладывающаяся в бюджет кадра, выглядит хуже её отсутствия.",
+      "wording_en": "Smoothness is an engineering quantity rather than an artistic one. Animation that does not fit the frame budget looks worse than none.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_osimg_5c67830a5448eef2_today",
+      "wording_ru": "Задайте о каждом движении один вопрос: что оно сообщает. Если ответа нет, движение является украшением и оплачивается временем пользователя.",
+      "wording_en": "Ask one question of every movement: what does it report. If there is no answer, the movement is decoration and is paid for with the user’s time.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    }
+  ]
+}

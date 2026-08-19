@@ -1,0 +1,86 @@
+{
+  "id": "obj_osimg_867ec49b880ad5f2",
+  "category": "technology",
+  "canonical_name": "Переиздание — классический предмет как современное производство",
+  "canonical_name_en": "Re-edition — the classic object as contemporary production",
+  "title_ru": "Переиздание — классический предмет как современное производство",
+  "slug_ru": "re-edition-classic-object-as-contemporary-production",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "industrial-design",
+    "history-movements"
+  ],
+  "sources": [
+    {
+      "id": "src_osimg_867ec49b880ad5f2_01",
+      "title": "Vitra — A case for classics",
+      "url": "https://www.vitra.com/en-gb/professionals/projects/themes/a-case-for-classics",
+      "publisher": "Vitra — A case for classics",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_osimg_867ec49b880ad5f2_02",
+      "title": "MillerKnoll — Knoll reintroduces two classic Florence Knoll seating designs",
+      "url": "https://news.millerknoll.com/2023-09-26-Knoll-Reintroduces-Two-Classic-Florence-Knoll-Seating-Designs",
+      "publisher": "MillerKnoll — Knoll reintroduces two classic Florence Knoll seating designs",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_osimg_867ec49b880ad5f2_03",
+      "title": "Knoll — Our story",
+      "url": "https://www.knoll-int.com/discover-knoll/our-story",
+      "publisher": "Knoll — Our story",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_osimg_867ec49b880ad5f2_04",
+      "title": "Vitra Design Museum — Online Collection",
+      "url": "https://collection.design-museum.de/en/",
+      "publisher": "Vitra Design Museum — Online Collection",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_osimg_867ec49b880ad5f2_05",
+      "title": "MoMA — Collection",
+      "url": "https://www.moma.org/collection/",
+      "publisher": "MoMA — Collection",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_osimg_867ec49b880ad5f2_thesis",
+      "wording_ru": "Переиздание важно как случай, где подлинность обеспечена не возрастом предмета, а непрерывностью права и восстановленной технологией.",
+      "wording_en": "Re-edition matters as a case in which authenticity is secured not by an object’s age but by continuity of rights and recovered technology.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_osimg_867ec49b880ad5f2_origin",
+      "wording_ru": "Переиздание — выпуск исторической модели правообладателем по восстановленной или сохранённой документации. Оно не притворяется оригиналом и потому является самостоятельным объектом.",
+      "wording_en": "A re-edition is the production of a historical model by the rights holder from recovered or preserved documentation. It does not pretend to be an original and is therefore an object in its own right.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_osimg_867ec49b880ad5f2_critique",
+      "wording_ru": "Практика стала обычной и коммерчески значимой, а различение версий — специальным знанием. Рынку теперь нужна экспертиза там, где раньше хватало взгляда.",
+      "wording_en": "The practice has become routine and commercially significant, and distinguishing versions has become specialist knowledge. The market now requires expertise where a glance once sufficed.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_osimg_867ec49b880ad5f2_today",
+      "wording_ru": "Спрашивайте о трёх вещах: кто держит права, по какой документации изготовлено и чем современный экземпляр отмечен. Ответы отделяют продолжение производства от торговли сходством.",
+      "wording_en": "Ask three things: who holds the rights, from what documentation it was made, and how a contemporary example is marked. The answers separate continued manufacture from trade in resemblance.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "content_id": "cnt_osimg_ru_37ef1b0d8fafcd67",
+  "primary_object_id": "obj_osimg_37ef1b0d8fafcd67",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_osimg_37ef1b0d8fafcd67_thesis",
+    "clm_osimg_37ef1b0d8fafcd67_origin",
+    "clm_osimg_37ef1b0d8fafcd67_critique",
+    "clm_osimg_37ef1b0d8fafcd67_today"
+  ],
+  "source_ids": [
+    "src_osimg_37ef1b0d8fafcd67_01",
+    "src_osimg_37ef1b0d8fafcd67_02",
+    "src_osimg_37ef1b0d8fafcd67_03",
+    "src_osimg_37ef1b0d8fafcd67_04",
+    "src_osimg_37ef1b0d8fafcd67_05"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "printing-image-as-reproducible-surface",
+  "title": "Печать — изображение как воспроизводимая поверхность",
+  "summary": "Печать превращает изображение в тираж, и каждый способ печати оставляет собственный след в структуре картинки.",
+  "discipline": [
+    "image-grammar",
+    "materials"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "87aa88e80a58fe8551b0873ff5bb0c78524d5643a4c9a883fc994ffb181fceee"
+}

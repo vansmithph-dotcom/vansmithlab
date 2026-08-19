@@ -1,0 +1,86 @@
+{
+  "id": "obj_osimg_37ef1b0d8fafcd67",
+  "category": "technology",
+  "canonical_name": "Печать — изображение как воспроизводимая поверхность",
+  "canonical_name_en": "Printing — the image as a reproducible surface",
+  "title_ru": "Печать — изображение как воспроизводимая поверхность",
+  "slug_ru": "printing-image-as-reproducible-surface",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "image-grammar",
+    "materials"
+  ],
+  "sources": [
+    {
+      "id": "src_osimg_37ef1b0d8fafcd67_01",
+      "title": "Smithsonian — Lithographic presses",
+      "url": "https://americanhistory.si.edu/collections/object-groups/printing-presses/lithographic-presses",
+      "publisher": "Smithsonian — Lithographic presses",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_osimg_37ef1b0d8fafcd67_02",
+      "title": "Library of Congress",
+      "url": "https://www.loc.gov/",
+      "publisher": "Library of Congress",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_osimg_37ef1b0d8fafcd67_03",
+      "title": "V&A — Museum",
+      "url": "https://www.vam.ac.uk/",
+      "publisher": "V&A — Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_osimg_37ef1b0d8fafcd67_04",
+      "title": "MoMA — Collection",
+      "url": "https://www.moma.org/collection/",
+      "publisher": "MoMA — Collection",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_osimg_37ef1b0d8fafcd67_05",
+      "title": "Letterform Archive — Bauhaus typography at 100",
+      "url": "https://letterformarchive.org/news/bauhaus-typography-at-100/",
+      "publisher": "Letterform Archive — Bauhaus typography at 100",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_osimg_37ef1b0d8fafcd67_thesis",
+      "wording_ru": "Печать важна не как способ размножения, а как набор физических ограничений, которые вошли в визуальный язык и остались в нём после исчезновения самой технологии.",
+      "wording_en": "Printing matters not as a means of multiplication but as a set of physical constraints that entered visual language and stayed there after the technology itself disappeared.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_osimg_37ef1b0d8fafcd67_origin",
+      "wording_ru": "Печать — перенос красочного слоя на носитель с формы, допускающей повторение. Определяющим является повторяемость: единичный оттиск без формы печатью не является.",
+      "wording_en": "Printing is the transfer of a colourant layer onto a substrate from a form permitting repetition. Repeatability is what defines it: a single impression without a form is not printing.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_osimg_37ef1b0d8fafcd67_critique",
+      "wording_ru": "Офсет остаётся основой массовых тиражей, цифровая печать заняла короткие серии и персонализацию. Разделение устойчиво и определяется экономикой, а не качеством.",
+      "wording_en": "Offset remains the basis of long runs while digital printing has taken short series and personalisation. The division is stable and determined by economics rather than quality.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_osimg_37ef1b0d8fafcd67_today",
+      "wording_ru": "Посмотрите на изображение через увеличение. Структура точки, её форма и угол расскажут о происхождении картинки больше, чем подпись под ней.",
+      "wording_en": "Look at an image under magnification. The structure of the dot, its shape and angle will tell you more about the picture’s origin than its caption.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    }
+  ]
+}

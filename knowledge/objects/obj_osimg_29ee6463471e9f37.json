@@ -1,0 +1,86 @@
+{
+  "id": "obj_osimg_29ee6463471e9f37",
+  "category": "technology",
+  "canonical_name": "Каталоги — предмет до встречи с ним",
+  "canonical_name_en": "Catalogues — the object before the encounter",
+  "title_ru": "Каталоги — предмет до встречи с ним",
+  "slug_ru": "catalogs-object-before-encounter",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "media-publishing",
+    "industrial-design"
+  ],
+  "sources": [
+    {
+      "id": "src_osimg_29ee6463471e9f37_01",
+      "title": "Library of Congress — Trade catalogs research guide",
+      "url": "https://guides.loc.gov/trade-catalogs",
+      "publisher": "Library of Congress — Trade catalogs research guide",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_osimg_29ee6463471e9f37_02",
+      "title": "Smithsonian — Knoll index of designs",
+      "url": "https://www.si.edu/object/knoll-index-designs%3Asiris_sil_1062973",
+      "publisher": "Smithsonian — Knoll index of designs",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_osimg_29ee6463471e9f37_03",
+      "title": "IKEA Museum — The IKEA catalogue through the ages",
+      "url": "https://ikeamuseum.com/en/about/press-room/the-ikea-catalouge-through-the-ages/",
+      "publisher": "IKEA Museum — The IKEA catalogue through the ages",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_osimg_29ee6463471e9f37_04",
+      "title": "Library of Congress",
+      "url": "https://www.loc.gov/",
+      "publisher": "Library of Congress",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_osimg_29ee6463471e9f37_05",
+      "title": "Knoll — Our story",
+      "url": "https://www.knoll-int.com/discover-knoll/our-story",
+      "publisher": "Knoll — Our story",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_osimg_29ee6463471e9f37_thesis",
+      "wording_ru": "Каталог важен как первый носитель предмета: большинство вещей знают по изображению и описанию, а не по опыту, и именно каталог задаёт этот образ.",
+      "wording_en": "The catalogue matters as an object’s first carrier: most things are known through image and description rather than experience, and it is the catalogue that sets that image.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_osimg_29ee6463471e9f37_origin",
+      "wording_ru": "Каталог — упорядоченный перечень предметов с описанием, изображением и признаками, достаточными для заказа без осмотра. Ключевое условие — достаточность: описание должно заменять присутствие.",
+      "wording_en": "A catalogue is an ordered list of objects with descriptions, images, and attributes sufficient for ordering without inspection. The key condition is sufficiency: description must substitute for presence.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_osimg_29ee6463471e9f37_critique",
+      "wording_ru": "Функция каталога распалась на поиск, ленту и рекомендацию. Задача осталась прежней — предъявить предмет до встречи, — но исполняется без единого документа и без явного автора.",
+      "wording_en": "The catalogue’s function has split into search, feed, and recommendation. The task is unchanged — to present an object before the encounter — but is performed without a single document and without a visible author.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_osimg_29ee6463471e9f37_today",
+      "wording_ru": "Смотрите на порядок и на пропуски. Что показано первым и чего нет вовсе — два вопроса, которые вскрывают редакционную позицию любого перечня, включая алгоритмический.",
+      "wording_en": "Look at order and at omissions. What is shown first and what is absent entirely are the two questions that expose the editorial position of any list, including an algorithmic one.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    }
+  ]
+}

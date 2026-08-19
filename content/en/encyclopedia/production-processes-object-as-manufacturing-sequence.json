@@ -1,0 +1,36 @@
+{
+  "content_id": "cnt_osimg_en_daf01c901da79e11",
+  "primary_object_id": "obj_osimg_daf01c901da79e11",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_osimg_daf01c901da79e11_thesis",
+    "clm_osimg_daf01c901da79e11_origin",
+    "clm_osimg_daf01c901da79e11_critique",
+    "clm_osimg_daf01c901da79e11_today"
+  ],
+  "source_ids": [
+    "src_osimg_daf01c901da79e11_01",
+    "src_osimg_daf01c901da79e11_02",
+    "src_osimg_daf01c901da79e11_03",
+    "src_osimg_daf01c901da79e11_04",
+    "src_osimg_daf01c901da79e11_05"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "production-processes-object-as-manufacturing-sequence",
+  "title": "Production processes — the object as a sequence of operations",
+  "summary": "An object’s form is determined not by a sketch but by the order of operations, tolerances, and tooling cost.",
+  "discipline": [
+    "industrial-design",
+    "materials"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "a897d317213aa95673e53c9a1573d85aae93d61bbe2ae3faa3411ec4231f95bd"
+}
