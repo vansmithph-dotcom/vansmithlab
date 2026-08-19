@@ -1,0 +1,36 @@
+{
+  "content_id": "cnt_fashp1_en_ec3d748fdf6e0cb7",
+  "primary_object_id": "obj_fashp1_ec3d748fdf6e0cb7",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_fashp1_ec3d748fdf6e0cb7_thesis",
+    "clm_fashp1_ec3d748fdf6e0cb7_origin",
+    "clm_fashp1_ec3d748fdf6e0cb7_critique",
+    "clm_fashp1_ec3d748fdf6e0cb7_today"
+  ],
+  "source_ids": [
+    "src_fashp1_ec3d748fdf6e0cb7_01",
+    "src_fashp1_ec3d748fdf6e0cb7_02",
+    "src_fashp1_ec3d748fdf6e0cb7_03",
+    "src_fashp1_ec3d748fdf6e0cb7_04",
+    "src_fashp1_ec3d748fdf6e0cb7_05"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "givenchy",
+  "title": "Givenchy: separates and the screen image",
+  "summary": "The house that offered combinable pieces instead of a single silhouette and built its reputation through cinema.",
+  "discipline": [
+    "fashion-systems",
+    "image-grammar"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "7a28ee0cc6bc8e1432f01ad553ba1cefebb38b5031d33531a965c555d148eb98"
+}

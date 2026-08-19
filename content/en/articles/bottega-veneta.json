@@ -1,0 +1,36 @@
+{
+  "content_id": "cnt_fashp1_en_687cb119fa6be8af",
+  "primary_object_id": "obj_fashp1_687cb119fa6be8af",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_fashp1_687cb119fa6be8af_thesis",
+    "clm_fashp1_687cb119fa6be8af_origin",
+    "clm_fashp1_687cb119fa6be8af_critique",
+    "clm_fashp1_687cb119fa6be8af_today"
+  ],
+  "source_ids": [
+    "src_fashp1_687cb119fa6be8af_01",
+    "src_fashp1_687cb119fa6be8af_02",
+    "src_fashp1_687cb119fa6be8af_03",
+    "src_fashp1_687cb119fa6be8af_04",
+    "src_fashp1_687cb119fa6be8af_05"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "bottega-veneta",
+  "title": "Bottega Veneta: weaving instead of a logotype",
+  "summary": "A house that made a production technique its identifying mark and therefore needs no visible branding.",
+  "discipline": [
+    "fashion-systems",
+    "materials"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "007619cbc1a39f3e2abf3e5de536526272c4145eb92ac66e709c063d875dc141"
+}

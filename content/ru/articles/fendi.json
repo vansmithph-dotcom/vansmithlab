@@ -1,0 +1,36 @@
+{
+  "content_id": "cnt_fashp1_ru_e418de253d173653",
+  "primary_object_id": "obj_fashp1_e418de253d173653",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_fashp1_e418de253d173653_thesis",
+    "clm_fashp1_e418de253d173653_origin",
+    "clm_fashp1_e418de253d173653_critique",
+    "clm_fashp1_e418de253d173653_today"
+  ],
+  "source_ids": [
+    "src_fashp1_e418de253d173653_01",
+    "src_fashp1_e418de253d173653_02",
+    "src_fashp1_e418de253d173653_03",
+    "src_fashp1_e418de253d173653_04",
+    "src_fashp1_e418de253d173653_05"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "fendi",
+  "title": "Fendi: мех, семья и самое долгое авторство в моде",
+  "summary": "Римская мастерская, где один приглашённый дизайнер проработал более полувека и превратил меховое ремесло в лабораторию.",
+  "discipline": [
+    "fashion-systems",
+    "materials"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "14d65307fa0cd5531f54a057a8fd43d1f473482107fb9577ebbe78bf40a4bda6"
+}

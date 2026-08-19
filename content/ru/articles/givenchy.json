@@ -1,0 +1,36 @@
+{
+  "content_id": "cnt_fashp1_ru_ec3d748fdf6e0cb7",
+  "primary_object_id": "obj_fashp1_ec3d748fdf6e0cb7",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_fashp1_ec3d748fdf6e0cb7_thesis",
+    "clm_fashp1_ec3d748fdf6e0cb7_origin",
+    "clm_fashp1_ec3d748fdf6e0cb7_critique",
+    "clm_fashp1_ec3d748fdf6e0cb7_today"
+  ],
+  "source_ids": [
+    "src_fashp1_ec3d748fdf6e0cb7_01",
+    "src_fashp1_ec3d748fdf6e0cb7_02",
+    "src_fashp1_ec3d748fdf6e0cb7_03",
+    "src_fashp1_ec3d748fdf6e0cb7_04",
+    "src_fashp1_ec3d748fdf6e0cb7_05"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "givenchy",
+  "title": "Givenchy: раздельный гардероб и экранный образ",
+  "summary": "Дом, предложивший сочетаемые вещи вместо цельного силуэта и получивший репутацию через кинематограф.",
+  "discipline": [
+    "fashion-systems",
+    "image-grammar"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "49c62ddf113f00fdac490517eb94864e91a3b6be4d6066ae62ec4ac708886216"
+}

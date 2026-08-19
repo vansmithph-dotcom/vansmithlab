@@ -1,0 +1,86 @@
+{
+  "id": "obj_fashp1_80ad27722f2372cf",
+  "category": "fashion-house",
+  "canonical_name": "Schiaparelli: сюрреализм как метод модного дома",
+  "canonical_name_en": "Schiaparelli: surrealism as a method for a fashion house",
+  "title_ru": "Schiaparelli: сюрреализм как метод модного дома",
+  "slug_ru": "schiaparelli",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "fashion-systems",
+    "history-movements"
+  ],
+  "sources": [
+    {
+      "id": "src_fashp1_80ad27722f2372cf_01",
+      "title": "Schiaparelli — L’histoire de la Maison",
+      "url": "https://schiaparelli.com/en/pages/l-histoire-de-la-maison",
+      "publisher": "Schiaparelli",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_fashp1_80ad27722f2372cf_02",
+      "title": "Fédération de la Haute Couture et de la Mode",
+      "url": "https://www.fhcm.paris/",
+      "publisher": "Fédération de la Haute Couture et de la Mode",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_fashp1_80ad27722f2372cf_03",
+      "title": "The Metropolitan Museum of Art — The Collection",
+      "url": "https://www.metmuseum.org/art/the-collection",
+      "publisher": "The Metropolitan Museum of Art",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_fashp1_80ad27722f2372cf_04",
+      "title": "The Met — The Costume Institute",
+      "url": "https://www.metmuseum.org/departments/the-costume-institute",
+      "publisher": "The Met",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_fashp1_80ad27722f2372cf_05",
+      "title": "V&A — Fashion collections",
+      "url": "https://www.vam.ac.uk/collections/fashion",
+      "publisher": "V&A",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_fashp1_80ad27722f2372cf_thesis",
+      "wording_ru": "Schiaparelli важен тем, что перенёс в одежду логику сюрреалистического объекта: вещь должна нарушать ожидание от собственной категории, оставаясь при этом носибельной.",
+      "wording_en": "Schiaparelli matters for carrying the logic of the surrealist object into clothing: an object must violate the expectation of its own category while remaining wearable.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_fashp1_80ad27722f2372cf_origin",
+      "wording_ru": "Эльза Скиапарелли не имела портновской подготовки и пришла в моду из круга художников. Её вклад лежит в области мотива, цвета и предмета, а конструктивную часть выполняли ателье — разделение труда, характерное для всего дома.",
+      "wording_en": "Elsa Schiaparelli had no dressmaking training and entered fashion from an artistic circle. Her contribution lies in motif, colour, and object, while construction was executed by ateliers — a division of labour characteristic of the whole house.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_fashp1_80ad27722f2372cf_critique",
+      "wording_ru": "Критика обоснованна: сюрреалистический приём легко вырождается в аттракцион для съёмки, а современная высокая мода дома существует в значительной степени как машина по производству изображений для красной дорожки. Носибельная часть ассортимента при этом остаётся в тени.",
+      "wording_en": "The critique is justified: the surrealist device easily degenerates into an attraction for the camera, and the house’s contemporary couture functions largely as a machine producing red-carpet imagery. The wearable part of the range stays in the shade.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_fashp1_80ad27722f2372cf_today",
+      "wording_ru": "Отделяйте мотив от исполнения. Сюрреалистический приём проверяется не идеей, а швом: если вещь остроумна и при этом безупречно построена, работает метод; если только остроумна — работает реквизит.",
+      "wording_en": "Separate motif from execution. A surrealist device is tested not by its idea but by its seam: if a piece is witty and flawlessly built, the method is working; if it is only witty, what is working is a prop.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    }
+  ]
+}

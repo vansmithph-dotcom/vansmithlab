@@ -1,0 +1,36 @@
+{
+  "content_id": "cnt_fashp1_en_dff888c5069c8ac9",
+  "primary_object_id": "obj_fashp1_dff888c5069c8ac9",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_fashp1_dff888c5069c8ac9_thesis",
+    "clm_fashp1_dff888c5069c8ac9_origin",
+    "clm_fashp1_dff888c5069c8ac9_critique",
+    "clm_fashp1_dff888c5069c8ac9_today"
+  ],
+  "source_ids": [
+    "src_fashp1_dff888c5069c8ac9_01",
+    "src_fashp1_dff888c5069c8ac9_02",
+    "src_fashp1_dff888c5069c8ac9_03",
+    "src_fashp1_dff888c5069c8ac9_04",
+    "src_fashp1_dff888c5069c8ac9_05"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "valentino",
+  "title": "Valentino: the Roman atelier as a couture system",
+  "summary": "The house that proved couture standing can rest on a craft base outside Paris.",
+  "discipline": [
+    "fashion-systems",
+    "materials"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "fac30d8f9db602c940917f81524c4ee4b9c5074489616a700f8732996305ce5f"
+}

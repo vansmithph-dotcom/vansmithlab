@@ -1,0 +1,86 @@
+{
+  "id": "obj_fashp1_b62814dbaaaf7307",
+  "category": "fashion-house",
+  "canonical_name": "Burberry: изобретение ткани как основание марки",
+  "canonical_name_en": "Burberry: inventing a fabric as the foundation of a brand",
+  "title_ru": "Burberry: изобретение ткани как основание марки",
+  "slug_ru": "burberry",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "fashion-systems",
+    "materials"
+  ],
+  "sources": [
+    {
+      "id": "src_fashp1_b62814dbaaaf7307_01",
+      "title": "Burberry — Company history",
+      "url": "https://www.burberryplc.com/company/history",
+      "publisher": "Burberry",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_fashp1_b62814dbaaaf7307_02",
+      "title": "V&A — Fashion collections",
+      "url": "https://www.vam.ac.uk/collections/fashion",
+      "publisher": "V&A",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_fashp1_b62814dbaaaf7307_03",
+      "title": "The Metropolitan Museum of Art — The Collection",
+      "url": "https://www.metmuseum.org/art/the-collection",
+      "publisher": "The Metropolitan Museum of Art",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_fashp1_b62814dbaaaf7307_04",
+      "title": "Design Museum — Collection",
+      "url": "https://designmuseum.org/about-the-museum/design-museum-collection",
+      "publisher": "Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_fashp1_b62814dbaaaf7307_05",
+      "title": "Fashion Institute of Technology — Museum",
+      "url": "https://www.fitnyc.edu/museum/",
+      "publisher": "Fashion Institute of Technology",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_fashp1_b62814dbaaaf7307_thesis",
+      "wording_ru": "Burberry важен как случай марки, основанной на техническом изобретении: ткань появилась раньше моды, и все последующие кризисы дома связаны с попытками управлять значением этой ткани.",
+      "wording_en": "Burberry matters as a brand founded on a technical invention: the fabric preceded the fashion, and every subsequent crisis has involved attempts to govern that fabric’s meaning.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_fashp1_b62814dbaaaf7307_origin",
+      "wording_ru": "Марка началась как магазин тканей и верхней одежды в английской провинции. Основание торговое и техническое, а не портновское, и это определило весь дальнейший характер дома.",
+      "wording_en": "The brand began as a fabric and outerwear shop in the English provinces. Its foundation was commercial and technical rather than tailoring-based, and this determined the house’s entire subsequent character.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_fashp1_b62814dbaaaf7307_critique",
+      "wording_ru": "Критика обоснованна: история дома показывает, что владелец знака контролирует его юридически, но не семантически. Кроме того, постоянная переработка идентичности при каждой смене руководства подрывает то самое наследие, на которое дом опирается.",
+      "wording_en": "The critique is justified: the house’s history shows that a mark’s owner controls it legally but not semantically. Constant reworking of identity at every change of leadership also undermines the very heritage the house relies on.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_fashp1_b62814dbaaaf7307_today",
+      "wording_ru": "Читайте марку через ткань, а не через клетку. Основание здесь техническое, и наиболее устойчивая часть предложения — это по-прежнему верхняя одежда, где функциональное требование поддаётся проверке.",
+      "wording_en": "Read the brand through its fabric rather than its check. The foundation here is technical, and the most durable part of the offer remains outerwear, where a functional requirement can still be tested.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "content_id": "cnt_fashp1_ru_dff888c5069c8ac9",
+  "primary_object_id": "obj_fashp1_dff888c5069c8ac9",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_fashp1_dff888c5069c8ac9_thesis",
+    "clm_fashp1_dff888c5069c8ac9_origin",
+    "clm_fashp1_dff888c5069c8ac9_critique",
+    "clm_fashp1_dff888c5069c8ac9_today"
+  ],
+  "source_ids": [
+    "src_fashp1_dff888c5069c8ac9_01",
+    "src_fashp1_dff888c5069c8ac9_02",
+    "src_fashp1_dff888c5069c8ac9_03",
+    "src_fashp1_dff888c5069c8ac9_04",
+    "src_fashp1_dff888c5069c8ac9_05"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "valentino",
+  "title": "Valentino: римское ателье как система кутюра",
+  "summary": "Дом, доказавший, что кутюрная репутация может держаться на ремесленной базе вне Парижа.",
+  "discipline": [
+    "fashion-systems",
+    "materials"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "61efcd918d1c526cb00de4b6f7d71335d5b7469f2c414ad18c9edaf3b671e1b0"
+}

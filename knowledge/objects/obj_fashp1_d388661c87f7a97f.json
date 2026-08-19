@@ -1,0 +1,94 @@
+{
+  "id": "obj_fashp1_d388661c87f7a97f",
+  "category": "fashion-house",
+  "canonical_name": "Comme des Garçons: отрицание нормы как производственная система",
+  "canonical_name_en": "Comme des Garçons: negation of the norm as a production system",
+  "title_ru": "Comme des Garçons: отрицание нормы как производственная система",
+  "slug_ru": "comme-des-garcons",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "fashion-systems",
+    "space-typologies"
+  ],
+  "sources": [
+    {
+      "id": "src_fashp1_d388661c87f7a97f_01",
+      "title": "FHCM — Comme des Garçons",
+      "url": "https://www.fhcm.paris/en/house/comme-des-garcons",
+      "publisher": "FHCM",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_fashp1_d388661c87f7a97f_02",
+      "title": "Fédération de la Haute Couture et de la Mode",
+      "url": "https://www.fhcm.paris/",
+      "publisher": "Fédération de la Haute Couture et de la Mode",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_fashp1_d388661c87f7a97f_03",
+      "title": "The Metropolitan Museum of Art — The Collection",
+      "url": "https://www.metmuseum.org/art/the-collection",
+      "publisher": "The Metropolitan Museum of Art",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_fashp1_d388661c87f7a97f_04",
+      "title": "The Met — The Costume Institute",
+      "url": "https://www.metmuseum.org/departments/the-costume-institute",
+      "publisher": "The Met",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_fashp1_d388661c87f7a97f_05",
+      "title": "V&A — Fashion collections",
+      "url": "https://www.vam.ac.uk/collections/fashion",
+      "publisher": "V&A",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_fashp1_d388661c87f7a97f_06",
+      "title": "Fashion Institute of Technology — Museum",
+      "url": "https://www.fitnyc.edu/museum/",
+      "publisher": "Fashion Institute of Technology",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_fashp1_d388661c87f7a97f_thesis",
+      "wording_ru": "Comme des Garçons важен не как ещё один авторский дом, а как редкий случай, когда коммерческая структура была выстроена специально для того, чтобы содержать некоммерческую главную линию.",
+      "wording_en": "Comme des Garçons matters not as another authored house but as a rare case where a commercial structure was built specifically to sustain a non-commercial main line.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_fashp1_d388661c87f7a97f_origin",
+      "wording_ru": "Рей Кавакубо не получала портновского образования. Она работала в рекламе текстильной компании и занималась стайлингом, и именно этот опыт объясняет её метод: она мыслит не кроем, а образом целиком, а конструкцию поручает решать мастерам.",
+      "wording_en": "Rei Kawakubo trained neither as a tailor nor as a pattern cutter. She worked in advertising for a textile company and as a stylist, and that background explains her method: she thinks in whole images rather than in cut, and leaves construction to be solved by pattern makers.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_fashp1_d388661c87f7a97f_critique",
+      "wording_ru": "Критика обоснованна в двух пунктах. Радикальность главной линии частично оплачена вполне конвенциональными массовыми продуктами, и это противоречие дом не снимает. Кроме того, метод почти не переносим: он держится на одном человеке и не описан как процедура.",
+      "wording_en": "The critique is justified on two points. The radicalism of the main line is partly paid for by entirely conventional mass products, a contradiction the house does not resolve. Moreover the method is barely transferable: it rests on one person and has never been written down as a procedure.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_fashp1_d388661c87f7a97f_today",
+      "wording_ru": "Не оценивайте дом по показу и не оценивайте его по вешалке в универмаге — это две разные части одной конструкции. Читать его нужно целиком: радикальное высказывание и финансирующая его коммерция являются одним проектом.",
+      "wording_en": "Do not judge the house by its show, and do not judge it by a department-store rail — these are two different parts of one construction. It must be read whole: the radical statement and the commerce that funds it are a single project.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    }
+  ]
+}

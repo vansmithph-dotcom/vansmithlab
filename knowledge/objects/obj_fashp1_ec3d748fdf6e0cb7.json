@@ -1,0 +1,86 @@
+{
+  "id": "obj_fashp1_ec3d748fdf6e0cb7",
+  "category": "fashion-house",
+  "canonical_name": "Givenchy: раздельный гардероб и экранный образ",
+  "canonical_name_en": "Givenchy: separates and the screen image",
+  "title_ru": "Givenchy: раздельный гардероб и экранный образ",
+  "slug_ru": "givenchy",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "fashion-systems",
+    "image-grammar"
+  ],
+  "sources": [
+    {
+      "id": "src_fashp1_ec3d748fdf6e0cb7_01",
+      "title": "LVMH — Givenchy",
+      "url": "https://www.lvmh.com/en/our-maisons/fashion-leather-good/givenchy",
+      "publisher": "LVMH",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_fashp1_ec3d748fdf6e0cb7_02",
+      "title": "Fédération de la Haute Couture et de la Mode",
+      "url": "https://www.fhcm.paris/",
+      "publisher": "Fédération de la Haute Couture et de la Mode",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_fashp1_ec3d748fdf6e0cb7_03",
+      "title": "The Metropolitan Museum of Art — The Collection",
+      "url": "https://www.metmuseum.org/art/the-collection",
+      "publisher": "The Metropolitan Museum of Art",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_fashp1_ec3d748fdf6e0cb7_04",
+      "title": "V&A — Fashion collections",
+      "url": "https://www.vam.ac.uk/collections/fashion",
+      "publisher": "V&A",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_fashp1_ec3d748fdf6e0cb7_05",
+      "title": "Fashion Institute of Technology — Museum",
+      "url": "https://www.fitnyc.edu/museum/",
+      "publisher": "Fashion Institute of Technology",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_fashp1_ec3d748fdf6e0cb7_thesis",
+      "wording_ru": "Givenchy важен двумя вкладами: раздельным гардеробом, разрушившим монолитность кутюрного образа, и ранним пониманием того, что репутацию дома производит экран.",
+      "wording_en": "Givenchy matters for two contributions: separates, which broke the monolithic couture look, and an early understanding that a house’s reputation is produced by the screen.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_fashp1_ec3d748fdf6e0cb7_origin",
+      "wording_ru": "Дом открылся в Париже в 1952 году. Первая коллекция была построена на недорогих тканях и простых формах — вынужденное решение по бюджету, оказавшееся программным.",
+      "wording_en": "The house opened in Paris in 1952. Its first collection was built on inexpensive fabrics and simple forms — a budget-driven decision that turned out to be programmatic.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_fashp1_ec3d748fdf6e0cb7_critique",
+      "wording_ru": "Критика обоснованна: за три десятилетия дом сменил творческое руководство многократно, и ни одна линия не продержалась достаточно, чтобы стать основанием. Частая смена — это управленческое решение собственника, и оно объясняет разрыв идентичности лучше, чем качество отдельных дизайнеров.",
+      "wording_en": "The critique is justified: over three decades the house has changed creative leadership repeatedly, and no line has lasted long enough to become a foundation. Frequent change is an owner’s management decision, and it explains the discontinuity of identity better than the quality of individual designers.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_fashp1_ec3d748fdf6e0cb7_today",
+      "wording_ru": "Читайте дом как последовательность управленческих ставок, а не как единую линию. Вопрос не в том, каков стиль Givenchy, а в том, какое основание собственник пытается построить в текущем цикле.",
+      "wording_en": "Read the house as a sequence of management bets rather than as a single line. The question is not what Givenchy’s style is but which foundation the owner is attempting to build in the current cycle.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    }
+  ]
+}

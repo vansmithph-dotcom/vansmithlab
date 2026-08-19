@@ -1,0 +1,86 @@
+{
+  "id": "obj_fashp1_dff888c5069c8ac9",
+  "category": "fashion-house",
+  "canonical_name": "Valentino: римское ателье как система кутюра",
+  "canonical_name_en": "Valentino: the Roman atelier as a couture system",
+  "title_ru": "Valentino: римское ателье как система кутюра",
+  "slug_ru": "valentino",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "fashion-systems",
+    "materials"
+  ],
+  "sources": [
+    {
+      "id": "src_fashp1_dff888c5069c8ac9_01",
+      "title": "Valentino — Creative direction",
+      "url": "https://www.valentino.com/en-gb/world-of-valentino/creative-direction",
+      "publisher": "Valentino",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_fashp1_dff888c5069c8ac9_02",
+      "title": "Fédération de la Haute Couture et de la Mode",
+      "url": "https://www.fhcm.paris/",
+      "publisher": "Fédération de la Haute Couture et de la Mode",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_fashp1_dff888c5069c8ac9_03",
+      "title": "The Metropolitan Museum of Art — The Collection",
+      "url": "https://www.metmuseum.org/art/the-collection",
+      "publisher": "The Metropolitan Museum of Art",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_fashp1_dff888c5069c8ac9_04",
+      "title": "V&A — Fashion collections",
+      "url": "https://www.vam.ac.uk/collections/fashion",
+      "publisher": "V&A",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_fashp1_dff888c5069c8ac9_05",
+      "title": "Kering — Houses",
+      "url": "https://www.kering.com/",
+      "publisher": "Kering",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_fashp1_dff888c5069c8ac9_thesis",
+      "wording_ru": "Valentino важен как случай географической независимости кутюра: римское ателье и римская вышивальная традиция обеспечили дому позицию, обычно требующую парижской прописки.",
+      "wording_en": "Valentino matters as a case of couture’s geographical independence: a Roman atelier and Roman embroidery tradition gave the house a standing that normally requires a Paris address.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_fashp1_dff888c5069c8ac9_origin",
+      "wording_ru": "Валентино Гаравани учился и работал в Париже, а дом открыл в Риме. Эта комбинация определила всё: французская школа кроя была наложена на итальянскую ремесленную и вышивальную инфраструктуру.",
+      "wording_en": "Valentino Garavani trained and worked in Paris and opened his house in Rome. That combination determined everything: a French school of cutting was laid over Italian craft and embroidery infrastructure.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_fashp1_dff888c5069c8ac9_critique",
+      "wording_ru": "Критика обоснованна: зависимость от красной дорожки делает дом уязвимым к сдвигу в системе знаменитостей, а частая смена творческого руководства при новых собственниках ставит вопрос о том, кто в действительности определяет линию — автор или акционер.",
+      "wording_en": "The critique is justified: dependence on the red carpet makes the house vulnerable to shifts in the celebrity system, and frequent leadership changes under new owners raise the question of who actually sets the line — the author or the shareholder.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_fashp1_dff888c5069c8ac9_today",
+      "wording_ru": "Смотрите на ателье, а не на подпись. Устойчивость кутюрного дома измеряется числом мастеров и сохранностью техник; коллекция — это то, что из них можно собрать в конкретный сезон.",
+      "wording_en": "Look at the atelier rather than the signature. A couture house’s durability is measured by its number of makers and the survival of its techniques; a collection is what can be assembled from them in a given season.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    }
+  ]
+}

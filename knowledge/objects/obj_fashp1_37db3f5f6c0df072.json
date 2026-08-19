@@ -1,0 +1,86 @@
+{
+  "id": "obj_fashp1_37db3f5f6c0df072",
+  "category": "fashion-house",
+  "canonical_name": "Celine: как минимализм становится и теряет культ",
+  "canonical_name_en": "Celine: how minimalism gains and loses a cult",
+  "title_ru": "Celine: как минимализм становится и теряет культ",
+  "slug_ru": "celine",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "fashion-systems",
+    "image-grammar"
+  ],
+  "sources": [
+    {
+      "id": "src_fashp1_37db3f5f6c0df072_01",
+      "title": "FHCM — Celine",
+      "url": "https://www.fhcm.paris/en/house/celine",
+      "publisher": "FHCM",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_fashp1_37db3f5f6c0df072_02",
+      "title": "LVMH — Maisons",
+      "url": "https://www.lvmh.com/",
+      "publisher": "LVMH",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_fashp1_37db3f5f6c0df072_03",
+      "title": "Fédération de la Haute Couture et de la Mode",
+      "url": "https://www.fhcm.paris/",
+      "publisher": "Fédération de la Haute Couture et de la Mode",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_fashp1_37db3f5f6c0df072_04",
+      "title": "The Metropolitan Museum of Art — The Collection",
+      "url": "https://www.metmuseum.org/art/the-collection",
+      "publisher": "The Metropolitan Museum of Art",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_fashp1_37db3f5f6c0df072_05",
+      "title": "V&A — Fashion collections",
+      "url": "https://www.vam.ac.uk/collections/fashion",
+      "publisher": "V&A",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_fashp1_37db3f5f6c0df072_thesis",
+      "wording_ru": "Celine важен как наиболее наглядный современный пример того, что смена творческого директора способна полностью переопределить марку — включая написание её имени.",
+      "wording_en": "Celine matters as the clearest contemporary example that a change of creative director can wholly redefine a brand — including the spelling of its name.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_fashp1_37db3f5f6c0df072_origin",
+      "wording_ru": "Дом начинался как ателье детской обуви в послевоенном Париже и только позднее перешёл к женскому ассортименту. Обувное происхождение объясняет раннюю силу дома в аксессуарах и коже.",
+      "wording_en": "The house began as a children’s shoe workshop in postwar Paris and only later moved to womenswear. Its footwear origin explains the house’s early strength in accessories and leather.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_fashp1_37db3f5f6c0df072_critique",
+      "wording_ru": "Критика обоснованна: дом является наглядной иллюстрацией того, что в конгломератной модели идентичность марки есть переменная, управляемая собственником. Разговор о наследии в таких условиях обслуживает маркетинг, а не описывает практику.",
+      "wording_en": "The critique is justified: the house is a plain illustration that in the conglomerate model a brand’s identity is a variable managed by its owner. Talk of heritage under such conditions serves marketing rather than describing practice.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_fashp1_37db3f5f6c0df072_today",
+      "wording_ru": "Читайте дом по периодам, а не как целое. Указание года здесь информативнее указания марки, поскольку две вещи с одним именем могут не иметь между собой ничего общего.",
+      "wording_en": "Read the house by period rather than as a whole. Naming a year is more informative than naming the brand, since two objects sharing a name may have nothing in common.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    }
+  ]
+}

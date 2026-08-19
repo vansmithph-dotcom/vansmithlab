@@ -1,0 +1,86 @@
+{
+  "id": "obj_fashp1_96618be2af2632e5",
+  "category": "fashion-house",
+  "canonical_name": "Loewe: кожевенная мастерская как культурная институция",
+  "canonical_name_en": "Loewe: the leather workshop as a cultural institution",
+  "title_ru": "Loewe: кожевенная мастерская как культурная институция",
+  "slug_ru": "loewe",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "fashion-systems",
+    "materials"
+  ],
+  "sources": [
+    {
+      "id": "src_fashp1_96618be2af2632e5_01",
+      "title": "LOEWE — Welcome to Loewe",
+      "url": "https://www.loewe.com/usa/en/pd/stories/welcome-to-loewe.html",
+      "publisher": "LOEWE",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_fashp1_96618be2af2632e5_02",
+      "title": "LVMH — Maisons",
+      "url": "https://www.lvmh.com/",
+      "publisher": "LVMH",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_fashp1_96618be2af2632e5_03",
+      "title": "The Metropolitan Museum of Art — The Collection",
+      "url": "https://www.metmuseum.org/art/the-collection",
+      "publisher": "The Metropolitan Museum of Art",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_fashp1_96618be2af2632e5_04",
+      "title": "V&A — Fashion collections",
+      "url": "https://www.vam.ac.uk/collections/fashion",
+      "publisher": "V&A",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_fashp1_96618be2af2632e5_05",
+      "title": "Design Museum — Collection",
+      "url": "https://designmuseum.org/about-the-museum/design-museum-collection",
+      "publisher": "Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_fashp1_96618be2af2632e5_thesis",
+      "wording_ru": "Loewe важен как случай, когда историческая ремесленная база была не законсервирована, а превращена в действующую культурную программу с собственной институцией.",
+      "wording_en": "Loewe matters as a case in which a historical craft base was not preserved but converted into an active cultural programme with an institution of its own.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_fashp1_96618be2af2632e5_origin",
+      "wording_ru": "Марка выросла из мадридской кожевенной мастерской середины девятнадцатого века, объединявшей нескольких ремесленников. Происхождение не авторское, а цеховое, и это отличает её от домов, основанных вокруг имени.",
+      "wording_en": "The brand grew from a mid-nineteenth-century Madrid leather workshop uniting several craftsmen. Its origin is guild-based rather than authorial, which distinguishes it from houses founded around a name.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_fashp1_96618be2af2632e5_critique",
+      "wording_ru": "Критика обоснованна: марка одновременно определяет ценность ремесла и продаёт изделия, обоснованные этой ценностью, — конфликт интересов, знакомый по корпоративным музеям. Кроме того, ремесленная рамка удобно маскирует вполне промышленные объёмы производства.",
+      "wording_en": "The critique is justified: the brand simultaneously defines the value of craft and sells goods justified by that value — a conflict of interest familiar from corporate museums. The craft frame also conveniently obscures thoroughly industrial production volumes.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_fashp1_96618be2af2632e5_today",
+      "wording_ru": "Проверяйте, что именно сделано вручную и в каком объёме. Ремесленная позиция становится проверяемой там, где названы мастерская, техника и тираж; без этих сведений остаётся рамка без содержания.",
+      "wording_en": "Check what exactly is made by hand and in what quantity. A craft position becomes verifiable where workshop, technique, and edition are named; without that information a frame remains without content.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    }
+  ]
+}

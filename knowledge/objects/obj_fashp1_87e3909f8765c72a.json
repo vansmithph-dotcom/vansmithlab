@@ -1,0 +1,86 @@
+{
+  "id": "obj_fashp1_87e3909f8765c72a",
+  "category": "fashion-house",
+  "canonical_name": "Maison Margiela: анонимность как авторская подпись",
+  "canonical_name_en": "Maison Margiela: anonymity as an authorial signature",
+  "title_ru": "Maison Margiela: анонимность как авторская подпись",
+  "slug_ru": "maison-margiela",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "fashion-systems",
+    "image-grammar"
+  ],
+  "sources": [
+    {
+      "id": "src_fashp1_87e3909f8765c72a_01",
+      "title": "Maison Margiela — Our House",
+      "url": "https://www.maisonmargiela.com/en-us/mm-our-house.html",
+      "publisher": "Maison Margiela",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_fashp1_87e3909f8765c72a_02",
+      "title": "Fédération de la Haute Couture et de la Mode",
+      "url": "https://www.fhcm.paris/",
+      "publisher": "Fédération de la Haute Couture et de la Mode",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_fashp1_87e3909f8765c72a_03",
+      "title": "The Metropolitan Museum of Art — The Collection",
+      "url": "https://www.metmuseum.org/art/the-collection",
+      "publisher": "The Metropolitan Museum of Art",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_fashp1_87e3909f8765c72a_04",
+      "title": "V&A — Fashion collections",
+      "url": "https://www.vam.ac.uk/collections/fashion",
+      "publisher": "V&A",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_fashp1_87e3909f8765c72a_05",
+      "title": "Fashion Institute of Technology — Museum",
+      "url": "https://www.fitnyc.edu/museum/",
+      "publisher": "Fashion Institute of Technology",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_fashp1_87e3909f8765c72a_thesis",
+      "wording_ru": "Maison Margiela важен как доказательство того, что идентичность можно построить на систематических отсутствиях: пустой ярлык, белый цвет и невидимый автор оказались сильнее любого знака.",
+      "wording_en": "Maison Margiela matters as proof that identity can be built on systematic absences: a blank label, the colour white, and an invisible author proved stronger than any mark.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_fashp1_87e3909f8765c72a_origin",
+      "wording_ru": "Мартин Маржела учился в Антверпене и работал ассистентом у Жан-Поля Готье до основания собственного дома. Это существенно: деконструкция здесь выросла из знания конструкции, а не из её незнания.",
+      "wording_en": "Martin Margiela studied in Antwerp and worked as an assistant to Jean-Paul Gaultier before founding his own house. This matters: the deconstruction here grew out of knowing construction, not out of ignorance of it.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_fashp1_87e3909f8765c72a_critique",
+      "wording_ru": "Критика справедлива: анонимность оказалась исключительно эффективным маркетинговым активом, и отказ от знака произвёл знак большей силы. Кроме того, приёмы дома широко скопированы как стиль, без сопутствующей производственной аккуратности.",
+      "wording_en": "The critique is fair: anonymity proved an exceptionally effective marketing asset, and the refusal of a mark produced a stronger mark. The house’s devices have also been widely copied as style, without the accompanying production care.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_fashp1_87e3909f8765c72a_today",
+      "wording_ru": "Проверяйте отказ на исполнение. Открытый шов, сделанный точно, и открытый шов, оставленный небрежно, выглядят похоже на снимке и совершенно по-разному вблизи. Различие здесь и есть содержание.",
+      "wording_en": "Test the refusal against execution. A precisely made exposed seam and a carelessly left one look similar in a photograph and entirely different at close range. That difference is the content.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    }
+  ]
+}

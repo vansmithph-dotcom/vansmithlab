@@ -1,0 +1,36 @@
+{
+  "content_id": "cnt_fashp1_ru_687cb119fa6be8af",
+  "primary_object_id": "obj_fashp1_687cb119fa6be8af",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_fashp1_687cb119fa6be8af_thesis",
+    "clm_fashp1_687cb119fa6be8af_origin",
+    "clm_fashp1_687cb119fa6be8af_critique",
+    "clm_fashp1_687cb119fa6be8af_today"
+  ],
+  "source_ids": [
+    "src_fashp1_687cb119fa6be8af_01",
+    "src_fashp1_687cb119fa6be8af_02",
+    "src_fashp1_687cb119fa6be8af_03",
+    "src_fashp1_687cb119fa6be8af_04",
+    "src_fashp1_687cb119fa6be8af_05"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "bottega-veneta",
+  "title": "Bottega Veneta: плетение вместо логотипа",
+  "summary": "Дом, сделавший производственный приём опознавательным знаком и потому не нуждающийся в видимой марке.",
+  "discipline": [
+    "fashion-systems",
+    "materials"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "6058d32ec53676412e5c76cc3ad9378a91e69a3b64a620582f1411e8833496b1"
+}

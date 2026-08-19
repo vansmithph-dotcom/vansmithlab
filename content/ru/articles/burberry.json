@@ -1,0 +1,36 @@
+{
+  "content_id": "cnt_fashp1_ru_b62814dbaaaf7307",
+  "primary_object_id": "obj_fashp1_b62814dbaaaf7307",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_fashp1_b62814dbaaaf7307_thesis",
+    "clm_fashp1_b62814dbaaaf7307_origin",
+    "clm_fashp1_b62814dbaaaf7307_critique",
+    "clm_fashp1_b62814dbaaaf7307_today"
+  ],
+  "source_ids": [
+    "src_fashp1_b62814dbaaaf7307_01",
+    "src_fashp1_b62814dbaaaf7307_02",
+    "src_fashp1_b62814dbaaaf7307_03",
+    "src_fashp1_b62814dbaaaf7307_04",
+    "src_fashp1_b62814dbaaaf7307_05"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "burberry",
+  "title": "Burberry: изобретение ткани как основание марки",
+  "summary": "Дом, выросший не из ателье, а из патента на материал, и потому уязвимый к тому, кто носит его клетку.",
+  "discipline": [
+    "fashion-systems",
+    "materials"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "62dec3c9f48d02ba636e8619baf26b9aa0ae5dbaa48913abac7a97a41c348f25"
+}

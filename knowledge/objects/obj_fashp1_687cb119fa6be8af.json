@@ -1,0 +1,86 @@
+{
+  "id": "obj_fashp1_687cb119fa6be8af",
+  "category": "fashion-house",
+  "canonical_name": "Bottega Veneta: плетение вместо логотипа",
+  "canonical_name_en": "Bottega Veneta: weaving instead of a logotype",
+  "title_ru": "Bottega Veneta: плетение вместо логотипа",
+  "slug_ru": "bottega-veneta",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "fashion-systems",
+    "materials"
+  ],
+  "sources": [
+    {
+      "id": "src_fashp1_687cb119fa6be8af_01",
+      "title": "Kering — Bottega Veneta",
+      "url": "https://www.kering.com/en/houses/fashion-and-leather-goods/bottega-veneta/",
+      "publisher": "Kering",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_fashp1_687cb119fa6be8af_02",
+      "title": "Kering — Houses",
+      "url": "https://www.kering.com/",
+      "publisher": "Kering",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_fashp1_687cb119fa6be8af_03",
+      "title": "The Metropolitan Museum of Art — The Collection",
+      "url": "https://www.metmuseum.org/art/the-collection",
+      "publisher": "The Metropolitan Museum of Art",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_fashp1_687cb119fa6be8af_04",
+      "title": "V&A — Fashion collections",
+      "url": "https://www.vam.ac.uk/collections/fashion",
+      "publisher": "V&A",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_fashp1_687cb119fa6be8af_05",
+      "title": "Design Museum — Collection",
+      "url": "https://designmuseum.org/about-the-museum/design-museum-collection",
+      "publisher": "Design Museum",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_fashp1_687cb119fa6be8af_thesis",
+      "wording_ru": "Bottega Veneta важен как редкий случай, когда узнаваемость обеспечена техникой изготовления, а не нанесённым знаком: плетение невозможно поставить на готовое изделие, его нужно заложить в раскрой.",
+      "wording_en": "Bottega Veneta matters as a rare case where recognition is delivered by a manufacturing technique rather than an applied mark: weaving cannot be stamped onto a finished object; it must be built into the cut.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_fashp1_687cb119fa6be8af_origin",
+      "wording_ru": "Марка возникла в области Венето — регионе с плотной концентрацией кожевенных и обувных производств. Происхождение объясняет главное: доступ к мастерам был исходным условием, а не приобретённым активом.",
+      "wording_en": "The brand emerged in the Veneto — a region with a dense concentration of leather and footwear manufacture. Its origin explains the essential point: access to makers was an initial condition rather than an acquired asset.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_fashp1_687cb119fa6be8af_critique",
+      "wording_ru": "Критика обоснованна: тихая роскошь является позицией, доступной только очень дорогому сегменту, и её моральное преимущество перед логотипом сомнительно. Кроме того, увеличение плетения ради экрана ослабило исходный аргумент о знаке для знающих.",
+      "wording_en": "The critique is justified: quiet luxury is a position available only to a very expensive segment, and its moral advantage over the logotype is doubtful. Enlarging the weave for the screen has also weakened the original argument about a mark for those who know.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_fashp1_687cb119fa6be8af_today",
+      "wording_ru": "Смотрите на плотность и ровность переплетения вблизи. Техника проверяется на расстоянии тридцати сантиметров, и именно там видно, отличается ли изделие от имитации, воспроизводящей только рисунок.",
+      "wording_en": "Look at the density and evenness of the weave at close range. The technique is tested at thirty centimetres, and that is where it becomes visible whether an object differs from an imitation reproducing only the pattern.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    }
+  ]
+}

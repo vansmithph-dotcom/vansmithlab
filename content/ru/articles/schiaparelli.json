@@ -1,0 +1,36 @@
+{
+  "content_id": "cnt_fashp1_ru_80ad27722f2372cf",
+  "primary_object_id": "obj_fashp1_80ad27722f2372cf",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_fashp1_80ad27722f2372cf_thesis",
+    "clm_fashp1_80ad27722f2372cf_origin",
+    "clm_fashp1_80ad27722f2372cf_critique",
+    "clm_fashp1_80ad27722f2372cf_today"
+  ],
+  "source_ids": [
+    "src_fashp1_80ad27722f2372cf_01",
+    "src_fashp1_80ad27722f2372cf_02",
+    "src_fashp1_80ad27722f2372cf_03",
+    "src_fashp1_80ad27722f2372cf_04",
+    "src_fashp1_80ad27722f2372cf_05"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "schiaparelli",
+  "title": "Schiaparelli: сюрреализм как метод модного дома",
+  "summary": "Дом, впервые сделавший художественное соавторство рабочей процедурой, а не рекламной коллаборацией.",
+  "discipline": [
+    "fashion-systems",
+    "history-movements"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "09bd9a2de206709b00dcb014b8e11f1fb6b24afd65e72586586b69cad9279541"
+}

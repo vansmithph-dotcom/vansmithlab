@@ -1,0 +1,36 @@
+{
+  "content_id": "cnt_fashp1_en_e418de253d173653",
+  "primary_object_id": "obj_fashp1_e418de253d173653",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_fashp1_e418de253d173653_thesis",
+    "clm_fashp1_e418de253d173653_origin",
+    "clm_fashp1_e418de253d173653_critique",
+    "clm_fashp1_e418de253d173653_today"
+  ],
+  "source_ids": [
+    "src_fashp1_e418de253d173653_01",
+    "src_fashp1_e418de253d173653_02",
+    "src_fashp1_e418de253d173653_03",
+    "src_fashp1_e418de253d173653_04",
+    "src_fashp1_e418de253d173653_05"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "fendi",
+  "title": "Fendi: fur, family, and the longest authorship in fashion",
+  "summary": "A Roman workshop where one appointed designer worked for over half a century and turned fur craft into a laboratory.",
+  "discipline": [
+    "fashion-systems",
+    "materials"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "94b8b2e8fcfa91281d6fe29aa53797a73ad9fe31a55d7b011d1958c3416e4b49"
+}

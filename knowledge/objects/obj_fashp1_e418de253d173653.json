@@ -1,0 +1,86 @@
+{
+  "id": "obj_fashp1_e418de253d173653",
+  "category": "fashion-house",
+  "canonical_name": "Fendi: мех, семья и самое долгое авторство в моде",
+  "canonical_name_en": "Fendi: fur, family, and the longest authorship in fashion",
+  "title_ru": "Fendi: мех, семья и самое долгое авторство в моде",
+  "slug_ru": "fendi",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "fashion-systems",
+    "materials"
+  ],
+  "sources": [
+    {
+      "id": "src_fashp1_e418de253d173653_01",
+      "title": "LVMH — Maria Grazia Chiuri named Chief Creative Officer at Fendi",
+      "url": "https://www.lvmh.com/en/news-lvmh/maria-grazia-chiuri-named-chief-creative-officer-at-fendi",
+      "publisher": "LVMH",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_fashp1_e418de253d173653_02",
+      "title": "LVMH — Maisons",
+      "url": "https://www.lvmh.com/",
+      "publisher": "LVMH",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_fashp1_e418de253d173653_03",
+      "title": "The Metropolitan Museum of Art — The Collection",
+      "url": "https://www.metmuseum.org/art/the-collection",
+      "publisher": "The Metropolitan Museum of Art",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_fashp1_e418de253d173653_04",
+      "title": "V&A — Fashion collections",
+      "url": "https://www.vam.ac.uk/collections/fashion",
+      "publisher": "V&A",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_fashp1_e418de253d173653_05",
+      "title": "Fédération de la Haute Couture et de la Mode",
+      "url": "https://www.fhcm.paris/",
+      "publisher": "Fédération de la Haute Couture et de la Mode",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_fashp1_e418de253d173653_thesis",
+      "wording_ru": "Fendi важен как случай предельно длинного авторского цикла: пятьдесят четыре года одного руководства позволяют увидеть, что происходит с домом, когда автор не меняется.",
+      "wording_en": "Fendi matters as a case of an exceptionally long authorial cycle: fifty-four years under one leadership makes it possible to see what happens to a house when the author does not change.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_fashp1_e418de253d173653_origin",
+      "wording_ru": "Дом начался как римская мастерская по работе с мехом и кожей. Это ремесленное, а не дизайнерское основание, и оно объясняет, почему техническая база оказалась устойчивее любых стилевых решений.",
+      "wording_en": "The house began as a Roman workshop working in fur and leather. This is a craft rather than a design foundation, and it explains why the technical base proved more durable than any stylistic decisions.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_fashp1_e418de253d173653_critique",
+      "wording_ru": "Критика обоснованна и серьёзна: меховое основание дома является предметом устойчивого этического возражения, и отрасль в целом сокращает использование материала. Кроме того, полувековая зависимость от одного автора отложила выработку переносимого метода на десятилетия.",
+      "wording_en": "The critique is justified and serious: the house’s fur foundation is the subject of sustained ethical objection, and the industry as a whole is reducing use of the material. Half a century of dependence on one author also deferred the development of a transferable method by decades.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_fashp1_e418de253d173653_today",
+      "wording_ru": "Смотрите на техническую базу, а не на знак. Долговечность дома обеспечена мастерской и накопленными приёмами работы с материалом; монограмма и сумка — это то, что из этой базы удалось предъявить рынку.",
+      "wording_en": "Look at the technical base rather than the mark. The house’s durability rests on its workshop and accumulated material techniques; the monogram and the bag are what that base managed to present to the market.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    }
+  ]
+}

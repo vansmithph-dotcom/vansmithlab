@@ -1,0 +1,36 @@
+{
+  "content_id": "cnt_fashp1_ru_37db3f5f6c0df072",
+  "primary_object_id": "obj_fashp1_37db3f5f6c0df072",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_fashp1_37db3f5f6c0df072_thesis",
+    "clm_fashp1_37db3f5f6c0df072_origin",
+    "clm_fashp1_37db3f5f6c0df072_critique",
+    "clm_fashp1_37db3f5f6c0df072_today"
+  ],
+  "source_ids": [
+    "src_fashp1_37db3f5f6c0df072_01",
+    "src_fashp1_37db3f5f6c0df072_02",
+    "src_fashp1_37db3f5f6c0df072_03",
+    "src_fashp1_37db3f5f6c0df072_04",
+    "src_fashp1_37db3f5f6c0df072_05"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "celine",
+  "title": "Celine: как минимализм становится и теряет культ",
+  "summary": "Дом, где две противоположные авторские линии подряд показали, насколько идентичность марки зависит от одного назначения.",
+  "discipline": [
+    "fashion-systems",
+    "image-grammar"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "3b2cbbbb0b3daee22fdf60dd8c8c1ad275f9a3c2796fc6589b90d94f624cd51a"
+}

@@ -1,0 +1,36 @@
+{
+  "content_id": "cnt_fashp1_en_80ad27722f2372cf",
+  "primary_object_id": "obj_fashp1_80ad27722f2372cf",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_fashp1_80ad27722f2372cf_thesis",
+    "clm_fashp1_80ad27722f2372cf_origin",
+    "clm_fashp1_80ad27722f2372cf_critique",
+    "clm_fashp1_80ad27722f2372cf_today"
+  ],
+  "source_ids": [
+    "src_fashp1_80ad27722f2372cf_01",
+    "src_fashp1_80ad27722f2372cf_02",
+    "src_fashp1_80ad27722f2372cf_03",
+    "src_fashp1_80ad27722f2372cf_04",
+    "src_fashp1_80ad27722f2372cf_05"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "schiaparelli",
+  "title": "Schiaparelli: surrealism as a method for a fashion house",
+  "summary": "The house that first made artistic collaboration a working procedure rather than a promotional exercise.",
+  "discipline": [
+    "fashion-systems",
+    "history-movements"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "877102cf12ad9a8b0515e3345aa0474618cefcd776e4a5dd95a3ccf39d41942d"
+}

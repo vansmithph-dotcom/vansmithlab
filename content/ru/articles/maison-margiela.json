@@ -1,0 +1,36 @@
+{
+  "content_id": "cnt_fashp1_ru_87e3909f8765c72a",
+  "primary_object_id": "obj_fashp1_87e3909f8765c72a",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_fashp1_87e3909f8765c72a_thesis",
+    "clm_fashp1_87e3909f8765c72a_origin",
+    "clm_fashp1_87e3909f8765c72a_critique",
+    "clm_fashp1_87e3909f8765c72a_today"
+  ],
+  "source_ids": [
+    "src_fashp1_87e3909f8765c72a_01",
+    "src_fashp1_87e3909f8765c72a_02",
+    "src_fashp1_87e3909f8765c72a_03",
+    "src_fashp1_87e3909f8765c72a_04",
+    "src_fashp1_87e3909f8765c72a_05"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "maison-margiela",
+  "title": "Maison Margiela: анонимность как авторская подпись",
+  "summary": "Дом, построивший узнаваемость на отказе от лица, имени и логотипа — и превративший изнанку конструкции в фирменный код.",
+  "discipline": [
+    "fashion-systems",
+    "image-grammar"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "1fb9cdcdabc59c14b0e34d4f8e563e724700cf6267e2054e14b5752b376e3ab7"
+}

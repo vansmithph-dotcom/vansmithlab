@@ -1,0 +1,36 @@
+{
+  "content_id": "cnt_fashp1_en_87e3909f8765c72a",
+  "primary_object_id": "obj_fashp1_87e3909f8765c72a",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_fashp1_87e3909f8765c72a_thesis",
+    "clm_fashp1_87e3909f8765c72a_origin",
+    "clm_fashp1_87e3909f8765c72a_critique",
+    "clm_fashp1_87e3909f8765c72a_today"
+  ],
+  "source_ids": [
+    "src_fashp1_87e3909f8765c72a_01",
+    "src_fashp1_87e3909f8765c72a_02",
+    "src_fashp1_87e3909f8765c72a_03",
+    "src_fashp1_87e3909f8765c72a_04",
+    "src_fashp1_87e3909f8765c72a_05"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "maison-margiela",
+  "title": "Maison Margiela: anonymity as an authorial signature",
+  "summary": "A house that built recognition on the refusal of face, name, and logotype — and turned the inside of construction into its signature code.",
+  "discipline": [
+    "fashion-systems",
+    "image-grammar"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "35956e2c3d374ca528f4adf64114e6d837ab8cbc20336cfbc596678871e4c7fe"
+}

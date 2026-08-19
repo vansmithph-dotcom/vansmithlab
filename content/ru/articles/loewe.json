@@ -1,0 +1,36 @@
+{
+  "content_id": "cnt_fashp1_ru_96618be2af2632e5",
+  "primary_object_id": "obj_fashp1_96618be2af2632e5",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_fashp1_96618be2af2632e5_thesis",
+    "clm_fashp1_96618be2af2632e5_origin",
+    "clm_fashp1_96618be2af2632e5_critique",
+    "clm_fashp1_96618be2af2632e5_today"
+  ],
+  "source_ids": [
+    "src_fashp1_96618be2af2632e5_01",
+    "src_fashp1_96618be2af2632e5_02",
+    "src_fashp1_96618be2af2632e5_03",
+    "src_fashp1_96618be2af2632e5_04",
+    "src_fashp1_96618be2af2632e5_05"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "loewe",
+  "title": "Loewe: кожевенная мастерская как культурная институция",
+  "summary": "Дом, переопределивший себя через ремесло: премия, фонд и выставочная программа стали частью марки наравне с сумкой.",
+  "discipline": [
+    "fashion-systems",
+    "materials"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "dcac7ec681c0c4d9e021fcc4a0d37e7cdaa97ffcbc49b1cedec10808ffbf2747"
+}
