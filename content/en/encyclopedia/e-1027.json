@@ -1,0 +1,44 @@
+{
+  "content_id": "cnt_space_en_bd7102ede771c973",
+  "primary_object_id": "obj_space_bd7102ede771c973",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_e-1027_def",
+    "clm_e-1027_orig",
+    "clm_e-1027_form",
+    "clm_e-1027_use",
+    "clm_e-1027_impact",
+    "clm_e-1027_today",
+    "clm_e-1027_tl_2026"
+  ],
+  "source_ids": [
+    "src_e-1027_01",
+    "src_e-1027_02",
+    "src_e-1027_03",
+    "src_e-1027_04",
+    "src_e-1027_05",
+    "src_e-1027_06"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "e-1027",
+  "title": "E-1027",
+  "summary": "Eileen Gray and Jean Badovici: the house as a precise calibration of body, climate, furniture, and everyday action.",
+  "discipline": [
+    "space-typologies"
+  ],
+  "kind": "case-study",
+  "body_hash": "bc2ca7b0d7300d6594af56df933991aa659ded9e30898f66c25632c1d1aca73c",
+  "translation": {
+    "source_locale": "ru",
+    "translated_by": "VANSMITHLAB",
+    "semantic_validated": true,
+    "translation_date": "2026-08-19"
+  }
+}

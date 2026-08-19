@@ -1,0 +1,131 @@
+{
+  "id": "obj_space_e42a13acf40c1c78",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "content_type": "encyclopedia",
+  "canonical_name": "Barcelona Pavilion",
+  "canonical_name_en": "Barcelona Pavilion",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_barcelona-pavilion_01",
+      "title": "miesbcn.com",
+      "url": "https://miesbcn.com/the-pavilion/",
+      "tier": 1
+    },
+    {
+      "id": "src_barcelona-pavilion_02",
+      "title": "miesbcn.com",
+      "url": "https://miesbcn.com/",
+      "tier": 1
+    },
+    {
+      "id": "src_barcelona-pavilion_03",
+      "title": "www.moma.org",
+      "url": "https://www.moma.org/artists/4016",
+      "tier": 1
+    },
+    {
+      "id": "src_barcelona-pavilion_04",
+      "title": "www.moma.org",
+      "url": "https://www.moma.org/artists/4863",
+      "tier": 1
+    },
+    {
+      "id": "src_barcelona-pavilion_05",
+      "title": "www.docomomo.com",
+      "url": "https://www.docomomo.com/",
+      "tier": 1
+    },
+    {
+      "id": "src_barcelona-pavilion_06",
+      "title": "www.icomos.org",
+      "url": "https://www.icomos.org/en/",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_barcelona-pavilion_def",
+      "wording_ru": "Германский павильон Международной выставки 1929 года в Барселоне был спроектирован Людвигом Мисом ван дер Роэ и Лилли Райх. После выставки его разобрали; современный павильон — реконструкция 1983–1986 годов, выполненная на основании архивных материалов и следов исходного сооружения.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_barcelona-pavilion_orig",
+      "wording_ru": "До появления современной версии этой темы существовали более ранние пространственные и социальные модели. Для barcelona pavilion важна не одна дата, а переход, в котором привычные действия получили новую планировочную и визуальную организацию. Опорный временной диапазон: 1929; реконструкция 1983–198",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_barcelona-pavilion_form",
+      "wording_ru": "Материальный язык задают травертин, зелёный мрамор, оникс, стекло, сталь, вода и кожа мебели. Они не являются декоративным списком: каждый материал определяет пролёт, вес, отражение, акустику, износ и дистанцию между человеком и объектом.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_barcelona-pavilion_use",
+      "wording_ru": "Принцип работы раскрывается через маршрут и повторение. Германский павильон Международной выставки 1929 года в Барселоне был спроектирован Людвигом Мисом ван дер Роэ и Лилли Райх. После выставки его разобрали; современный павильон — реконструкция 1983–1986 годов, выполненная на основании архивных ма",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_barcelona-pavilion_impact",
+      "wording_ru": "Главное изменение дисциплины — понимание пространства как связанной системы, а не суммы комнат и красивых поверхностей. Barcelona Pavilion показывает, что архитектура, объект, изображение, технология и организация пользования могут проектироваться как единое целое.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_barcelona-pavilion_today",
+      "wording_ru": "Сегодня Barcelona Pavilion лучше читать в четыре прохода: сначала маршрут и масштаб, затем материалы и свет, потом инфраструктуру и экономику, и только после этого — канонические фотографии. Такой порядок возвращает проекту его реальную сложность.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_barcelona-pavilion_tl_2026",
+      "wording_ru": "дата редакционной проверки VANSMITHLAB; текущие статусы требуют повторной проверки перед публикацией. (2026)",
+      "confidence_score": 0.72,
+      "verification_state": "attributed",
+      "date_start": "2026-01-01"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_barcelona-pavilion_def",
+      "source_id": "src_barcelona-pavilion_01",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_barcelona-pavilion_orig",
+      "source_id": "src_barcelona-pavilion_02",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_barcelona-pavilion_form",
+      "source_id": "src_barcelona-pavilion_03",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_barcelona-pavilion_use",
+      "source_id": "src_barcelona-pavilion_04",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_barcelona-pavilion_impact",
+      "source_id": "src_barcelona-pavilion_05",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_barcelona-pavilion_today",
+      "source_id": "src_barcelona-pavilion_06",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_barcelona-pavilion_tl_2026",
+      "source_id": "src_barcelona-pavilion_01",
+      "locator": "Historical reference"
+    }
+  ],
+  "last_updated": "2026-08-19"
+}

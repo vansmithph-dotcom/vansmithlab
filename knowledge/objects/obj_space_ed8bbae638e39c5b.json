@@ -1,0 +1,131 @@
+{
+  "id": "obj_space_ed8bbae638e39c5b",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "content_type": "encyclopedia",
+  "canonical_name": "Prada Epicenter New York / OMA",
+  "canonical_name_en": "Prada Epicenter New York / OMA",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_prada-epicenter-new-york-oma_01",
+      "title": "www.oma.com",
+      "url": "https://www.oma.com/projects/prada-epicenter-new-york",
+      "tier": 1
+    },
+    {
+      "id": "src_prada-epicenter-new-york-oma_02",
+      "title": "www.prada.com",
+      "url": "https://www.prada.com/eu/en/pradasphere/special-projects/2026/prada-broadway-epicenter-25th-anniversary.html",
+      "tier": 1
+    },
+    {
+      "id": "src_prada-epicenter-new-york-oma_03",
+      "title": "www.oma.com",
+      "url": "https://www.oma.com/",
+      "tier": 1
+    },
+    {
+      "id": "src_prada-epicenter-new-york-oma_04",
+      "title": "www.pradagroup.com",
+      "url": "https://www.pradagroup.com/",
+      "tier": 1
+    },
+    {
+      "id": "src_prada-epicenter-new-york-oma_05",
+      "title": "www.moma.org",
+      "url": "https://www.moma.org/",
+      "tier": 1
+    },
+    {
+      "id": "src_prada-epicenter-new-york-oma_06",
+      "title": "www.cooperhewitt.org",
+      "url": "https://www.cooperhewitt.org/",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_prada-epicenter-new-york-oma_def",
+      "wording_ru": "Нью-йоркский Prada Epicenter был создан OMA/AMO для Prada в 2000–2001 годах и открылся 15 декабря 2001 года. OMA определяет его одновременно как бутик, публичное пространство, галерею, место представлений и лабораторию; ключевой элемент — большая волнообразная поверхность, связывающая улицу и нижний",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_prada-epicenter-new-york-oma_orig",
+      "wording_ru": "До появления современной версии этой темы существовали более ранние пространственные и социальные модели. Для prada epicenter new york / oma важна не одна дата, а переход, в котором привычные действия получили новую планировочную и визуальную организацию. Опорный временной диапазон: 2000–2001.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_prada-epicenter-new-york-oma_form",
+      "wording_ru": "Материальный язык задают деревянная топография, металл, стекло, сетка, экранные и графические поверхности. Они не являются декоративным списком: каждый материал определяет пролёт, вес, отражение, акустику, износ и дистанцию между человеком и объектом.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_prada-epicenter-new-york-oma_use",
+      "wording_ru": "Принцип работы раскрывается через маршрут и повторение. Нью-йоркский Prada Epicenter был создан OMA/AMO для Prada в 2000–2001 годах и открылся 15 декабря 2001 года. OMA определяет его одновременно как бутик, публичное пространство, галерею, место представлений и лабораторию; ключевой элемент — больш",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_prada-epicenter-new-york-oma_impact",
+      "wording_ru": "Главное изменение дисциплины — понимание пространства как связанной системы, а не суммы комнат и красивых поверхностей. Prada Epicenter New York / OMA показывает, что архитектура, объект, изображение, технология и организация пользования могут проектироваться как единое целое.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_prada-epicenter-new-york-oma_today",
+      "wording_ru": "Сегодня Prada Epicenter New York / OMA лучше читать в четыре прохода: сначала маршрут и масштаб, затем материалы и свет, потом инфраструктуру и экономику, и только после этого — канонические фотографии. Такой порядок возвращает проекту его реальную сложность.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_prada-epicenter-new-york-oma_tl_2026",
+      "wording_ru": "дата редакционной проверки VANSMITHLAB; текущие статусы требуют повторной проверки перед публикацией. (2026)",
+      "confidence_score": 0.72,
+      "verification_state": "attributed",
+      "date_start": "2026-01-01"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_prada-epicenter-new-york-oma_def",
+      "source_id": "src_prada-epicenter-new-york-oma_01",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_prada-epicenter-new-york-oma_orig",
+      "source_id": "src_prada-epicenter-new-york-oma_02",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_prada-epicenter-new-york-oma_form",
+      "source_id": "src_prada-epicenter-new-york-oma_03",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_prada-epicenter-new-york-oma_use",
+      "source_id": "src_prada-epicenter-new-york-oma_04",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_prada-epicenter-new-york-oma_impact",
+      "source_id": "src_prada-epicenter-new-york-oma_05",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_prada-epicenter-new-york-oma_today",
+      "source_id": "src_prada-epicenter-new-york-oma_06",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_prada-epicenter-new-york-oma_tl_2026",
+      "source_id": "src_prada-epicenter-new-york-oma_01",
+      "locator": "Historical reference"
+    }
+  ],
+  "last_updated": "2026-08-19"
+}

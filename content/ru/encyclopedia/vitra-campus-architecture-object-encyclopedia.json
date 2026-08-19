@@ -1,0 +1,38 @@
+{
+  "content_id": "cnt_space_ru_9420b1805375f542",
+  "primary_object_id": "obj_space_9420b1805375f542",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_vitra-campus-architecture-ob_def",
+    "clm_vitra-campus-architecture-ob_orig",
+    "clm_vitra-campus-architecture-ob_form",
+    "clm_vitra-campus-architecture-ob_use",
+    "clm_vitra-campus-architecture-ob_impact",
+    "clm_vitra-campus-architecture-ob_today",
+    "clm_vitra-campus-architecture-ob_tl_2026"
+  ],
+  "source_ids": [
+    "src_vitra-campus-architecture-obje_01",
+    "src_vitra-campus-architecture-obje_02",
+    "src_vitra-campus-architecture-obje_03",
+    "src_vitra-campus-architecture-obje_04",
+    "src_vitra-campus-architecture-obje_05",
+    "src_vitra-campus-architecture-obje_06"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "vitra-campus-architecture-object-encyclopedia",
+  "title": "Vitra Campus как энциклопедия архитектуры и предмета",
+  "summary": "Производственная площадка, где фабрика, музей, пожарная часть, павильоны и ландшафт образуют многолетнюю коллекцию архитектурных методов.",
+  "discipline": [
+    "space-typologies"
+  ],
+  "kind": "case-study",
+  "body_hash": "3bb5467359e362da9a3e2d83e50f303c09d620027be08013865ae4be8b8afa0a"
+}

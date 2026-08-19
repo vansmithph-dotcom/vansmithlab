@@ -1,0 +1,131 @@
+{
+  "id": "obj_space_e36679641c12e15f",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "content_type": "encyclopedia",
+  "canonical_name": "Olivetti Showroom / Carlo Scarpa",
+  "canonical_name_en": "Olivetti Showroom / Carlo Scarpa",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_olivetti-showroom-carlo-scarpa_01",
+      "title": "www.fondoambiente.it",
+      "url": "https://www.fondoambiente.it/luoghi/negozio-olivetti",
+      "tier": 1
+    },
+    {
+      "id": "src_olivetti-showroom-carlo-scarpa_02",
+      "title": "www.museopertutti.org",
+      "url": "https://www.museopertutti.org/en/musei/negozio-olivetti-eng/",
+      "tier": 1
+    },
+    {
+      "id": "src_olivetti-showroom-carlo-scarpa_03",
+      "title": "www.olivetti.com",
+      "url": "https://www.olivetti.com/",
+      "tier": 1
+    },
+    {
+      "id": "src_olivetti-showroom-carlo-scarpa_04",
+      "title": "www.moma.org",
+      "url": "https://www.moma.org/artists/5219",
+      "tier": 1
+    },
+    {
+      "id": "src_olivetti-showroom-carlo-scarpa_05",
+      "title": "www.docomomo.com",
+      "url": "https://www.docomomo.com/",
+      "tier": 1
+    },
+    {
+      "id": "src_olivetti-showroom-carlo-scarpa_06",
+      "title": "www.icomos.org",
+      "url": "https://www.icomos.org/en/",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_olivetti-showroom-carlo-scar_def",
+      "wording_ru": "Olivetti заказала Карло Скарпе в 1957 году шоурум на площади Сан-Марко в Венеции; пространство было завершено в 1958-м. Узкий интерьер превращён в последовательность уровней, лестницы, мозаики, воды, камня и точных выставочных поверхностей, где пишущая машинка читается почти как музейный экспонат.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_olivetti-showroom-carlo-scar_orig",
+      "wording_ru": "До появления современной версии этой темы существовали более ранние пространственные и социальные модели. Для olivetti showroom / carlo scarpa важна не одна дата, а переход, в котором привычные действия получили новую планировочную и визуальную организацию. Опорный временной диапазон: 1957–1958.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_olivetti-showroom-carlo-scar_form",
+      "wording_ru": "Материальный язык задают камень, мозаика, металл, стекло, дерево, штукатурка и вода. Они не являются декоративным списком: каждый материал определяет пролёт, вес, отражение, акустику, износ и дистанцию между человеком и объектом.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_olivetti-showroom-carlo-scar_use",
+      "wording_ru": "Принцип работы раскрывается через маршрут и повторение. Olivetti заказала Карло Скарпе в 1957 году шоурум на площади Сан-Марко в Венеции; пространство было завершено в 1958-м. Узкий интерьер превращён в последовательность уровней, лестницы, мозаики, воды, камня и точных выставочных поверхностей, где",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_olivetti-showroom-carlo-scar_impact",
+      "wording_ru": "Главное изменение дисциплины — понимание пространства как связанной системы, а не суммы комнат и красивых поверхностей. Olivetti Showroom / Carlo Scarpa показывает, что архитектура, объект, изображение, технология и организация пользования могут проектироваться как единое целое.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_olivetti-showroom-carlo-scar_today",
+      "wording_ru": "Сегодня Olivetti Showroom / Carlo Scarpa лучше читать в четыре прохода: сначала маршрут и масштаб, затем материалы и свет, потом инфраструктуру и экономику, и только после этого — канонические фотографии. Такой порядок возвращает проекту его реальную сложность.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_olivetti-showroom-carlo-scar_tl_2026",
+      "wording_ru": "дата редакционной проверки VANSMITHLAB; текущие статусы требуют повторной проверки перед публикацией. (2026)",
+      "confidence_score": 0.72,
+      "verification_state": "attributed",
+      "date_start": "2026-01-01"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_olivetti-showroom-carlo-scar_def",
+      "source_id": "src_olivetti-showroom-carlo-scarpa_01",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_olivetti-showroom-carlo-scar_orig",
+      "source_id": "src_olivetti-showroom-carlo-scarpa_02",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_olivetti-showroom-carlo-scar_form",
+      "source_id": "src_olivetti-showroom-carlo-scarpa_03",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_olivetti-showroom-carlo-scar_use",
+      "source_id": "src_olivetti-showroom-carlo-scarpa_04",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_olivetti-showroom-carlo-scar_impact",
+      "source_id": "src_olivetti-showroom-carlo-scarpa_05",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_olivetti-showroom-carlo-scar_today",
+      "source_id": "src_olivetti-showroom-carlo-scarpa_06",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_olivetti-showroom-carlo-scar_tl_2026",
+      "source_id": "src_olivetti-showroom-carlo-scarpa_01",
+      "locator": "Historical reference"
+    }
+  ],
+  "last_updated": "2026-08-19"
+}

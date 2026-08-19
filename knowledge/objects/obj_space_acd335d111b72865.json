@@ -1,0 +1,131 @@
+{
+  "id": "obj_space_acd335d111b72865",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "content_type": "encyclopedia",
+  "canonical_name": "Универмаг — город внутри здания",
+  "canonical_name_en": "The Department Store — A City Inside a Building",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_department-store-city-inside-b_01",
+      "title": "www.vam.ac.uk",
+      "url": "https://www.vam.ac.uk/articles/a-brief-history-of-department-stores",
+      "tier": 1
+    },
+    {
+      "id": "src_department-store-city-inside-b_02",
+      "title": "www.lebonmarche.com",
+      "url": "https://www.lebonmarche.com/en/store/history",
+      "tier": 1
+    },
+    {
+      "id": "src_department-store-city-inside-b_03",
+      "title": "haussmann.galerieslafayette.com",
+      "url": "https://haussmann.galerieslafayette.com/en/history/",
+      "tier": 1
+    },
+    {
+      "id": "src_department-store-city-inside-b_04",
+      "title": "www.selfridges.com",
+      "url": "https://www.selfridges.com/GB/en/features/info/history/",
+      "tier": 1
+    },
+    {
+      "id": "src_department-store-city-inside-b_05",
+      "title": "www.moma.org",
+      "url": "https://www.moma.org/",
+      "tier": 1
+    },
+    {
+      "id": "src_department-store-city-inside-b_06",
+      "title": "www.cooperhewitt.org",
+      "url": "https://www.cooperhewitt.org/",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_department-store-city-inside_def",
+      "wording_ru": "Универмаг возник как инфраструктура массового городского потребления. Он собрал множество категорий под одной крышей, сделал фиксированные цены и визуальную выкладку частью новой коммерческой культуры и превратил лестницу, лифт, атриум и витрину в инструменты движения.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_department-store-city-inside_orig",
+      "wording_ru": "До появления современной версии этой темы существовали более ранние пространственные и социальные модели. Для универмаг — город внутри здания важна не одна дата, а переход, в котором привычные действия получили новую планировочную и визуальную организацию. Опорный временной диапазон: середина XIX ве",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_department-store-city-inside_form",
+      "wording_ru": "Материальный язык задают чугун и сталь, стеклянные кровли, камень, дерево, декоративная отделка и позднее эскалаторные системы. Они не являются декоративным списком: каждый материал определяет пролёт, вес, отражение, акустику, износ и дистанцию между человеком и объектом.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_department-store-city-inside_use",
+      "wording_ru": "Принцип работы раскрывается через маршрут и повторение. Универмаг возник как инфраструктура массового городского потребления. Он собрал множество категорий под одной крышей, сделал фиксированные цены и визуальную выкладку частью новой коммерческой культуры и превратил лестницу, лифт, атриум и витрин",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_department-store-city-inside_impact",
+      "wording_ru": "Главное изменение дисциплины — понимание пространства как связанной системы, а не суммы комнат и красивых поверхностей. Универмаг — город внутри здания показывает, что архитектура, объект, изображение, технология и организация пользования могут проектироваться как единое целое.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_department-store-city-inside_today",
+      "wording_ru": "Сегодня Универмаг — город внутри здания лучше читать в четыре прохода: сначала маршрут и масштаб, затем материалы и свет, потом инфраструктуру и экономику, и только после этого — канонические фотографии. Такой порядок возвращает проекту его реальную сложность.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_department-store-city-inside_tl_2026",
+      "wording_ru": "дата редакционной проверки VANSMITHLAB; текущие статусы требуют повторной проверки перед публикацией. (2026)",
+      "confidence_score": 0.72,
+      "verification_state": "attributed",
+      "date_start": "2026-01-01"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_department-store-city-inside_def",
+      "source_id": "src_department-store-city-inside-b_01",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_department-store-city-inside_orig",
+      "source_id": "src_department-store-city-inside-b_02",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_department-store-city-inside_form",
+      "source_id": "src_department-store-city-inside-b_03",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_department-store-city-inside_use",
+      "source_id": "src_department-store-city-inside-b_04",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_department-store-city-inside_impact",
+      "source_id": "src_department-store-city-inside-b_05",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_department-store-city-inside_today",
+      "source_id": "src_department-store-city-inside-b_06",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_department-store-city-inside_tl_2026",
+      "source_id": "src_department-store-city-inside-b_01",
+      "locator": "Historical reference"
+    }
+  ],
+  "last_updated": "2026-08-19"
+}

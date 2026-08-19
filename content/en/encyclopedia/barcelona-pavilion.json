@@ -1,0 +1,44 @@
+{
+  "content_id": "cnt_space_en_e42a13acf40c1c78",
+  "primary_object_id": "obj_space_e42a13acf40c1c78",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_barcelona-pavilion_def",
+    "clm_barcelona-pavilion_orig",
+    "clm_barcelona-pavilion_form",
+    "clm_barcelona-pavilion_use",
+    "clm_barcelona-pavilion_impact",
+    "clm_barcelona-pavilion_today",
+    "clm_barcelona-pavilion_tl_2026"
+  ],
+  "source_ids": [
+    "src_barcelona-pavilion_01",
+    "src_barcelona-pavilion_02",
+    "src_barcelona-pavilion_03",
+    "src_barcelona-pavilion_04",
+    "src_barcelona-pavilion_05",
+    "src_barcelona-pavilion_06"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "barcelona-pavilion",
+  "title": "Barcelona Pavilion",
+  "summary": "Mies van der Rohe and Lilly Reich: free plan, luxurious surfaces, and the pavilion as a pure sequence of movement.",
+  "discipline": [
+    "space-typologies"
+  ],
+  "kind": "case-study",
+  "body_hash": "63a6b850829e7f601259caa587fafea056ee7ea108839ec1c340cf5b97062515",
+  "translation": {
+    "source_locale": "ru",
+    "translated_by": "VANSMITHLAB",
+    "semantic_validated": true,
+    "translation_date": "2026-08-19"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "content_id": "cnt_space_ru_acd335d111b72865",
+  "primary_object_id": "obj_space_acd335d111b72865",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_department-store-city-inside_def",
+    "clm_department-store-city-inside_orig",
+    "clm_department-store-city-inside_form",
+    "clm_department-store-city-inside_use",
+    "clm_department-store-city-inside_impact",
+    "clm_department-store-city-inside_today",
+    "clm_department-store-city-inside_tl_2026"
+  ],
+  "source_ids": [
+    "src_department-store-city-inside-b_01",
+    "src_department-store-city-inside-b_02",
+    "src_department-store-city-inside-b_03",
+    "src_department-store-city-inside-b_04",
+    "src_department-store-city-inside-b_05",
+    "src_department-store-city-inside-b_06"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "department-store-city-inside-building",
+  "title": "Универмаг — город внутри здания",
+  "summary": "Большой торговый организм, который объединяет категории товара, вертикальную циркуляцию, сервис, зрелище и городскую жизнь.",
+  "discipline": [
+    "space-typologies"
+  ],
+  "kind": "typology",
+  "body_hash": "9ed9f7ced83130289dc60fb640971e1f142b528f42dbd104a2b6e4ae03641178"
+}

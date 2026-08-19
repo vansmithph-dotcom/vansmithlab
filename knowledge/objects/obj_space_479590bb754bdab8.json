@@ -1,0 +1,131 @@
+{
+  "id": "obj_space_479590bb754bdab8",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "content_type": "encyclopedia",
+  "canonical_name": "Концептуальный магазин — от продажи к кураторству",
+  "canonical_name_en": "The Concept Store — From Selling to Curating",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_concept-store-from-selling-to-_01",
+      "title": "www.10corsocomo.com",
+      "url": "https://www.10corsocomo.com/",
+      "tier": 1
+    },
+    {
+      "id": "src_concept-store-from-selling-to-_02",
+      "title": "www.doverstreetmarket.com",
+      "url": "https://www.doverstreetmarket.com/",
+      "tier": 1
+    },
+    {
+      "id": "src_concept-store-from-selling-to-_03",
+      "title": "www.oma.com",
+      "url": "https://www.oma.com/projects/prada-epicenter-new-york",
+      "tier": 1
+    },
+    {
+      "id": "src_concept-store-from-selling-to-_04",
+      "title": "www.designmuseum.org",
+      "url": "https://www.designmuseum.org/",
+      "tier": 1
+    },
+    {
+      "id": "src_concept-store-from-selling-to-_05",
+      "title": "www.vam.ac.uk",
+      "url": "https://www.vam.ac.uk/",
+      "tier": 1
+    },
+    {
+      "id": "src_concept-store-from-selling-to-_06",
+      "title": "www.cooperhewitt.org",
+      "url": "https://www.cooperhewitt.org/",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_concept-store-from-selling-t_def",
+      "wording_ru": "Концептуальный магазин отличается не дороговизной и не необычным интерьером, а кураторской логикой. Товары разных категорий объединяются тезисом; пространство может включать выставку, книгу, еду, музыку и временные программы.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_concept-store-from-selling-t_orig",
+      "wording_ru": "До появления современной версии этой темы существовали более ранние пространственные и социальные модели. Для концептуальный магазин — от продажи к кураторству важна не одна дата, а переход, в котором привычные действия получили новую планировочную и визуальную организацию. Опорный временной диапазо",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_concept-store-from-selling-t_form",
+      "wording_ru": "Материальный язык задают адаптивные системы показа, необработанные поверхности, архивная мебель, графика и временные инсталляции. Они не являются декоративным списком: каждый материал определяет пролёт, вес, отражение, акустику, износ и дистанцию между человеком и объектом.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_concept-store-from-selling-t_use",
+      "wording_ru": "Принцип работы раскрывается через маршрут и повторение. Концептуальный магазин отличается не дороговизной и не необычным интерьером, а кураторской логикой. Товары разных категорий объединяются тезисом; пространство может включать выставку, книгу, еду, музыку и временные программы. Пространство счита",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_concept-store-from-selling-t_impact",
+      "wording_ru": "Главное изменение дисциплины — понимание пространства как связанной системы, а не суммы комнат и красивых поверхностей. Концептуальный магазин — от продажи к кураторству показывает, что архитектура, объект, изображение, технология и организация пользования могут проектироваться как единое целое.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_concept-store-from-selling-t_today",
+      "wording_ru": "Сегодня Концептуальный магазин — от продажи к кураторству лучше читать в четыре прохода: сначала маршрут и масштаб, затем материалы и свет, потом инфраструктуру и экономику, и только после этого — канонические фотографии. Такой порядок возвращает проекту его реальную сложность.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_concept-store-from-selling-t_tl_2026",
+      "wording_ru": "дата редакционной проверки VANSMITHLAB; текущие статусы требуют повторной проверки перед публикацией. (2026)",
+      "confidence_score": 0.72,
+      "verification_state": "attributed",
+      "date_start": "2026-01-01"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_concept-store-from-selling-t_def",
+      "source_id": "src_concept-store-from-selling-to-_01",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_concept-store-from-selling-t_orig",
+      "source_id": "src_concept-store-from-selling-to-_02",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_concept-store-from-selling-t_form",
+      "source_id": "src_concept-store-from-selling-to-_03",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_concept-store-from-selling-t_use",
+      "source_id": "src_concept-store-from-selling-to-_04",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_concept-store-from-selling-t_impact",
+      "source_id": "src_concept-store-from-selling-to-_05",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_concept-store-from-selling-t_today",
+      "source_id": "src_concept-store-from-selling-to-_06",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_concept-store-from-selling-t_tl_2026",
+      "source_id": "src_concept-store-from-selling-to-_01",
+      "locator": "Historical reference"
+    }
+  ],
+  "last_updated": "2026-08-19"
+}

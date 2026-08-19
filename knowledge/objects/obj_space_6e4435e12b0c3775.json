@@ -1,0 +1,131 @@
+{
+  "id": "obj_space_6e4435e12b0c3775",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "content_type": "encyclopedia",
+  "canonical_name": "Maison de Verre",
+  "canonical_name_en": "Maison de Verre",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_maison-de-verre_01",
+      "title": "www.centrepompidou.fr",
+      "url": "https://www.centrepompidou.fr/en/pompidou-plus/magazine/article/the-secret-history-of-the-maison-de-verre-a-masterpiece-of-modern-architecture",
+      "tier": 1
+    },
+    {
+      "id": "src_maison-de-verre_02",
+      "title": "www.moma.org",
+      "url": "https://www.moma.org/artists/1113",
+      "tier": 1
+    },
+    {
+      "id": "src_maison-de-verre_03",
+      "title": "www.metmuseum.org",
+      "url": "https://www.metmuseum.org/art/collection/search?q=Pierre%20Chareau",
+      "tier": 1
+    },
+    {
+      "id": "src_maison-de-verre_04",
+      "title": "www.docomomo.com",
+      "url": "https://www.docomomo.com/",
+      "tier": 1
+    },
+    {
+      "id": "src_maison-de-verre_05",
+      "title": "www.icomos.org",
+      "url": "https://www.icomos.org/en/",
+      "tier": 1
+    },
+    {
+      "id": "src_maison-de-verre_06",
+      "title": "www.ribapix.com",
+      "url": "https://www.ribapix.com/",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_maison-de-verre_def",
+      "wording_ru": "Maison de Verre в Париже была заказана Анни и Жаном Дальсасами в 1927 году и завершена в 1931-м. Проект Пьера Шаро при участии Бернара Бейвута соединяет стеклоблок, стальную конструкцию, механические устройства и мебель в единую бытовую машину, при этом существующая квартира верхнего этажа была сохр",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_maison-de-verre_orig",
+      "wording_ru": "До появления современной версии этой темы существовали более ранние пространственные и социальные модели. Для maison de verre важна не одна дата, а переход, в котором привычные действия получили новую планировочную и визуальную организацию. Опорный временной диапазон: 1927–1931.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_maison-de-verre_form",
+      "wording_ru": "Материальный язык задают стеклоблок, сталь, перфорированный металл, резина, дерево и заказная фурнитура. Они не являются декоративным списком: каждый материал определяет пролёт, вес, отражение, акустику, износ и дистанцию между человеком и объектом.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_maison-de-verre_use",
+      "wording_ru": "Принцип работы раскрывается через маршрут и повторение. Maison de Verre в Париже была заказана Анни и Жаном Дальсасами в 1927 году и завершена в 1931-м. Проект Пьера Шаро при участии Бернара Бейвута соединяет стеклоблок, стальную конструкцию, механические устройства и мебель в единую бытовую машину,",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_maison-de-verre_impact",
+      "wording_ru": "Главное изменение дисциплины — понимание пространства как связанной системы, а не суммы комнат и красивых поверхностей. Maison de Verre показывает, что архитектура, объект, изображение, технология и организация пользования могут проектироваться как единое целое.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_maison-de-verre_today",
+      "wording_ru": "Сегодня Maison de Verre лучше читать в четыре прохода: сначала маршрут и масштаб, затем материалы и свет, потом инфраструктуру и экономику, и только после этого — канонические фотографии. Такой порядок возвращает проекту его реальную сложность.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_maison-de-verre_tl_2026",
+      "wording_ru": "дата редакционной проверки VANSMITHLAB; текущие статусы требуют повторной проверки перед публикацией. (2026)",
+      "confidence_score": 0.72,
+      "verification_state": "attributed",
+      "date_start": "2026-01-01"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_maison-de-verre_def",
+      "source_id": "src_maison-de-verre_01",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_maison-de-verre_orig",
+      "source_id": "src_maison-de-verre_02",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_maison-de-verre_form",
+      "source_id": "src_maison-de-verre_03",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_maison-de-verre_use",
+      "source_id": "src_maison-de-verre_04",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_maison-de-verre_impact",
+      "source_id": "src_maison-de-verre_05",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_maison-de-verre_today",
+      "source_id": "src_maison-de-verre_06",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_maison-de-verre_tl_2026",
+      "source_id": "src_maison-de-verre_01",
+      "locator": "Historical reference"
+    }
+  ],
+  "last_updated": "2026-08-19"
+}

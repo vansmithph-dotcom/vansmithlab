@@ -1,0 +1,44 @@
+{
+  "content_id": "cnt_space_en_e08971575d6c97e7",
+  "primary_object_id": "obj_space_e08971575d6c97e7",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_neue-nationalgalerie-space-o_def",
+    "clm_neue-nationalgalerie-space-o_orig",
+    "clm_neue-nationalgalerie-space-o_form",
+    "clm_neue-nationalgalerie-space-o_use",
+    "clm_neue-nationalgalerie-space-o_impact",
+    "clm_neue-nationalgalerie-space-o_today",
+    "clm_neue-nationalgalerie-space-o_tl_2026"
+  ],
+  "source_ids": [
+    "src_neue-nationalgalerie-space-of-_01",
+    "src_neue-nationalgalerie-space-of-_02",
+    "src_neue-nationalgalerie-space-of-_03",
+    "src_neue-nationalgalerie-space-of-_04",
+    "src_neue-nationalgalerie-space-of-_05",
+    "src_neue-nationalgalerie-space-of-_06"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "neue-nationalgalerie-space-of-display",
+  "title": "Neue Nationalgalerie as a Space of Display",
+  "summary": "Mies van der Rohe: a free glazed upper platform, concealed lower-level infrastructure, and the museum as tension between universality and specific display.",
+  "discipline": [
+    "space-typologies"
+  ],
+  "kind": "case-study",
+  "body_hash": "5454048d248c11a70a8cdcb1aece44459c5be0098b477edf94bc1b0cc51f4c89",
+  "translation": {
+    "source_locale": "ru",
+    "translated_by": "VANSMITHLAB",
+    "semantic_validated": true,
+    "translation_date": "2026-08-19"
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "id": "obj_space_7b5d771fad0ebc5d",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "content_type": "encyclopedia",
+  "canonical_name": "Магазин — пространство торговли как визуальная система",
+  "canonical_name_en": "The Store — Commercial Space as a Visual System",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_store-space-of-commerce-as-vis_01",
+      "title": "www.oma.com",
+      "url": "https://www.oma.com/projects/prada-epicenter-new-york",
+      "tier": 1
+    },
+    {
+      "id": "src_store-space-of-commerce-as-vis_02",
+      "title": "www.prada.com",
+      "url": "https://www.prada.com/eu/en/pradasphere/special-projects/2026/prada-broadway-epicenter-25th-anniversary.html",
+      "tier": 1
+    },
+    {
+      "id": "src_store-space-of-commerce-as-vis_03",
+      "title": "www.vam.ac.uk",
+      "url": "https://www.vam.ac.uk/articles/a-brief-history-of-department-stores",
+      "tier": 1
+    },
+    {
+      "id": "src_store-space-of-commerce-as-vis_04",
+      "title": "www.moma.org",
+      "url": "https://www.moma.org/collection/works/",
+      "tier": 1
+    },
+    {
+      "id": "src_store-space-of-commerce-as-vis_05",
+      "title": "www.cooperhewitt.org",
+      "url": "https://www.cooperhewitt.org/",
+      "tier": 1
+    },
+    {
+      "id": "src_store-space-of-commerce-as-vis_06",
+      "title": "www.designmuseum.org",
+      "url": "https://www.designmuseum.org/",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_store-space-of-commerce-as-v_def",
+      "wording_ru": "Магазин одновременно хранит товар, показывает его, управляет потоком людей и производит образ бренда. Планировка соединяет операционную логику — склад, кассу, примерочную — с визуальной логикой витрины, мебели, света и навигации.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_store-space-of-commerce-as-v_orig",
+      "wording_ru": "До появления современной версии этой темы существовали более ранние пространственные и социальные модели. Для магазин — пространство торговли как визуальная система важна не одна дата, а переход, в котором привычные действия получили новую планировочную и визуальную организацию. Опорный временной ди",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_store-space-of-commerce-as-v_form",
+      "wording_ru": "Материальный язык задают стекло, металл, дерево, камень, зеркала, световые системы, сменная торговая мебель. Они не являются декоративным списком: каждый материал определяет пролёт, вес, отражение, акустику, износ и дистанцию между человеком и объектом.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_store-space-of-commerce-as-v_use",
+      "wording_ru": "Принцип работы раскрывается через маршрут и повторение. Магазин одновременно хранит товар, показывает его, управляет потоком людей и производит образ бренда. Планировка соединяет операционную логику — склад, кассу, примерочную — с визуальной логикой витрины, мебели, света и навигации. Пространство с",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_store-space-of-commerce-as-v_impact",
+      "wording_ru": "Главное изменение дисциплины — понимание пространства как связанной системы, а не суммы комнат и красивых поверхностей. Магазин — пространство торговли как визуальная система показывает, что архитектура, объект, изображение, технология и организация пользования могут проектироваться как единое целое",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_store-space-of-commerce-as-v_today",
+      "wording_ru": "Сегодня Магазин — пространство торговли как визуальная система лучше читать в четыре прохода: сначала маршрут и масштаб, затем материалы и свет, потом инфраструктуру и экономику, и только после этого — канонические фотографии. Такой порядок возвращает проекту его реальную сложность.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_store-space-of-commerce-as-v_tl_2026",
+      "wording_ru": "дата редакционной проверки VANSMITHLAB; текущие статусы требуют повторной проверки перед публикацией. (2026)",
+      "confidence_score": 0.72,
+      "verification_state": "attributed",
+      "date_start": "2026-01-01"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_store-space-of-commerce-as-v_def",
+      "source_id": "src_store-space-of-commerce-as-vis_01",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_store-space-of-commerce-as-v_orig",
+      "source_id": "src_store-space-of-commerce-as-vis_02",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_store-space-of-commerce-as-v_form",
+      "source_id": "src_store-space-of-commerce-as-vis_03",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_store-space-of-commerce-as-v_use",
+      "source_id": "src_store-space-of-commerce-as-vis_04",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_store-space-of-commerce-as-v_impact",
+      "source_id": "src_store-space-of-commerce-as-vis_05",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_store-space-of-commerce-as-v_today",
+      "source_id": "src_store-space-of-commerce-as-vis_06",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_store-space-of-commerce-as-v_tl_2026",
+      "source_id": "src_store-space-of-commerce-as-vis_01",
+      "locator": "Historical reference"
+    }
+  ],
+  "last_updated": "2026-08-19"
+}

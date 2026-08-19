@@ -1,0 +1,38 @@
+{
+  "content_id": "cnt_space_ru_9fa7ef6c92c4a1a1",
+  "primary_object_id": "obj_space_9fa7ef6c92c4a1a1",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_hotel-temporary-home-as-desi_def",
+    "clm_hotel-temporary-home-as-desi_orig",
+    "clm_hotel-temporary-home-as-desi_form",
+    "clm_hotel-temporary-home-as-desi_use",
+    "clm_hotel-temporary-home-as-desi_impact",
+    "clm_hotel-temporary-home-as-desi_today",
+    "clm_hotel-temporary-home-as-desi_tl_2026"
+  ],
+  "source_ids": [
+    "src_hotel-temporary-home-as-design_01",
+    "src_hotel-temporary-home-as-design_02",
+    "src_hotel-temporary-home-as-design_03",
+    "src_hotel-temporary-home-as-design_04",
+    "src_hotel-temporary-home-as-design_05",
+    "src_hotel-temporary-home-as-design_06"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "hotel-temporary-home-as-design-system",
+  "title": "Гостиница — временный дом как дизайнерская система",
+  "summary": "Типология, где стандартизированная комната должна одновременно давать приватность, ориентацию, сервис и ощущение места.",
+  "discipline": [
+    "space-typologies"
+  ],
+  "kind": "typology",
+  "body_hash": "3a5512cef11a0073c057ec463a2f7390b5e4ec5677ab63012b977309ed6459f5"
+}

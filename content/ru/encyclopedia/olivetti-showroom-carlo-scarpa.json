@@ -1,0 +1,38 @@
+{
+  "content_id": "cnt_space_ru_e36679641c12e15f",
+  "primary_object_id": "obj_space_e36679641c12e15f",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_olivetti-showroom-carlo-scar_def",
+    "clm_olivetti-showroom-carlo-scar_orig",
+    "clm_olivetti-showroom-carlo-scar_form",
+    "clm_olivetti-showroom-carlo-scar_use",
+    "clm_olivetti-showroom-carlo-scar_impact",
+    "clm_olivetti-showroom-carlo-scar_today",
+    "clm_olivetti-showroom-carlo-scar_tl_2026"
+  ],
+  "source_ids": [
+    "src_olivetti-showroom-carlo-scarpa_01",
+    "src_olivetti-showroom-carlo-scarpa_02",
+    "src_olivetti-showroom-carlo-scarpa_03",
+    "src_olivetti-showroom-carlo-scarpa_04",
+    "src_olivetti-showroom-carlo-scarpa_05",
+    "src_olivetti-showroom-carlo-scarpa_06"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "olivetti-showroom-carlo-scarpa",
+  "title": "Olivetti Showroom / Carlo Scarpa",
+  "summary": "Шоурум на площади Сан-Марко: как архитектурная деталь превращает офисную машину в культурный объект.",
+  "discipline": [
+    "space-typologies"
+  ],
+  "kind": "case-study",
+  "body_hash": "df95621fe359ded1297c328d0a3d363944940f98719396b2b974cb895a5408e7"
+}

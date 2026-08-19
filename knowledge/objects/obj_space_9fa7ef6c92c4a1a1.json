@@ -1,0 +1,131 @@
+{
+  "id": "obj_space_9fa7ef6c92c4a1a1",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "content_type": "encyclopedia",
+  "canonical_name": "Гостиница — временный дом как дизайнерская система",
+  "canonical_name_en": "The Hotel — Temporary Home as a Design System",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_hotel-temporary-home-as-design_01",
+      "title": "www.designmuseum.org",
+      "url": "https://www.designmuseum.org/",
+      "tier": 1
+    },
+    {
+      "id": "src_hotel-temporary-home-as-design_02",
+      "title": "www.vam.ac.uk",
+      "url": "https://www.vam.ac.uk/",
+      "tier": 1
+    },
+    {
+      "id": "src_hotel-temporary-home-as-design_03",
+      "title": "www.cooperhewitt.org",
+      "url": "https://www.cooperhewitt.org/",
+      "tier": 1
+    },
+    {
+      "id": "src_hotel-temporary-home-as-design_04",
+      "title": "www.ribapix.com",
+      "url": "https://www.ribapix.com/",
+      "tier": 1
+    },
+    {
+      "id": "src_hotel-temporary-home-as-design_05",
+      "title": "www.docomomo.com",
+      "url": "https://www.docomomo.com/",
+      "tier": 1
+    },
+    {
+      "id": "src_hotel-temporary-home-as-design_06",
+      "title": "www.architectural-review.com",
+      "url": "https://www.architectural-review.com/",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_hotel-temporary-home-as-desi_def",
+      "wording_ru": "Гостиница проектирует временное проживание как повторяемый сервис. Номер должен быть понятен человеку за минуты, а за стеной работает сложная инфраструктура уборки, белья, питания, инженерии, безопасности и логистики персонала.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_hotel-temporary-home-as-desi_orig",
+      "wording_ru": "До появления современной версии этой темы существовали более ранние пространственные и социальные модели. Для гостиница — временный дом как дизайнерская система важна не одна дата, а переход, в котором привычные действия получили новую планировочную и визуальную организацию. Опорный временной диапаз",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_hotel-temporary-home-as-desi_form",
+      "wording_ru": "Материальный язык задают износостойкие покрытия, текстиль, дерево, камень, акустические слои, свет и стандартизированная санитарная инфраструктура. Они не являются декоративным списком: каждый материал определяет пролёт, вес, отражение, акустику, износ и дистанцию между человеком и объектом.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_hotel-temporary-home-as-desi_use",
+      "wording_ru": "Принцип работы раскрывается через маршрут и повторение. Гостиница проектирует временное проживание как повторяемый сервис. Номер должен быть понятен человеку за минуты, а за стеной работает сложная инфраструктура уборки, белья, питания, инженерии, безопасности и логистики персонала. Пространство счи",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_hotel-temporary-home-as-desi_impact",
+      "wording_ru": "Главное изменение дисциплины — понимание пространства как связанной системы, а не суммы комнат и красивых поверхностей. Гостиница — временный дом как дизайнерская система показывает, что архитектура, объект, изображение, технология и организация пользования могут проектироваться как единое целое.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_hotel-temporary-home-as-desi_today",
+      "wording_ru": "Сегодня Гостиница — временный дом как дизайнерская система лучше читать в четыре прохода: сначала маршрут и масштаб, затем материалы и свет, потом инфраструктуру и экономику, и только после этого — канонические фотографии. Такой порядок возвращает проекту его реальную сложность.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_hotel-temporary-home-as-desi_tl_2026",
+      "wording_ru": "дата редакционной проверки VANSMITHLAB; текущие статусы требуют повторной проверки перед публикацией. (2026)",
+      "confidence_score": 0.72,
+      "verification_state": "attributed",
+      "date_start": "2026-01-01"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_hotel-temporary-home-as-desi_def",
+      "source_id": "src_hotel-temporary-home-as-design_01",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_hotel-temporary-home-as-desi_orig",
+      "source_id": "src_hotel-temporary-home-as-design_02",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_hotel-temporary-home-as-desi_form",
+      "source_id": "src_hotel-temporary-home-as-design_03",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_hotel-temporary-home-as-desi_use",
+      "source_id": "src_hotel-temporary-home-as-design_04",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_hotel-temporary-home-as-desi_impact",
+      "source_id": "src_hotel-temporary-home-as-design_05",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_hotel-temporary-home-as-desi_today",
+      "source_id": "src_hotel-temporary-home-as-design_06",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_hotel-temporary-home-as-desi_tl_2026",
+      "source_id": "src_hotel-temporary-home-as-design_01",
+      "locator": "Historical reference"
+    }
+  ],
+  "last_updated": "2026-08-19"
+}

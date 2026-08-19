@@ -1,0 +1,44 @@
+{
+  "content_id": "cnt_space_en_7b5d771fad0ebc5d",
+  "primary_object_id": "obj_space_7b5d771fad0ebc5d",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_store-space-of-commerce-as-v_def",
+    "clm_store-space-of-commerce-as-v_orig",
+    "clm_store-space-of-commerce-as-v_form",
+    "clm_store-space-of-commerce-as-v_use",
+    "clm_store-space-of-commerce-as-v_impact",
+    "clm_store-space-of-commerce-as-v_today",
+    "clm_store-space-of-commerce-as-v_tl_2026"
+  ],
+  "source_ids": [
+    "src_store-space-of-commerce-as-vis_01",
+    "src_store-space-of-commerce-as-vis_02",
+    "src_store-space-of-commerce-as-vis_03",
+    "src_store-space-of-commerce-as-vis_04",
+    "src_store-space-of-commerce-as-vis_05",
+    "src_store-space-of-commerce-as-vis_06"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "store-space-of-commerce-as-visual-system",
+  "title": "The Store — Commercial Space as a Visual System",
+  "summary": "How layout, display, light, graphics, and circulation turn merchandise into experience and purchase decisions.",
+  "discipline": [
+    "space-typologies"
+  ],
+  "kind": "typology",
+  "body_hash": "de1c943ccaf1ced89cc5bb2638c1b8ca82fc8037b2f49f3839dbec8905b04b30",
+  "translation": {
+    "source_locale": "ru",
+    "translated_by": "VANSMITHLAB",
+    "semantic_validated": true,
+    "translation_date": "2026-08-19"
+  }
+}

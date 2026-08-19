@@ -1,0 +1,38 @@
+{
+  "content_id": "cnt_space_ru_2e3f79ed51b08c26",
+  "primary_object_id": "obj_space_2e3f79ed51b08c26",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_eames-house-case-study-house_def",
+    "clm_eames-house-case-study-house_orig",
+    "clm_eames-house-case-study-house_form",
+    "clm_eames-house-case-study-house_use",
+    "clm_eames-house-case-study-house_impact",
+    "clm_eames-house-case-study-house_today",
+    "clm_eames-house-case-study-house_tl_2026"
+  ],
+  "source_ids": [
+    "src_eames-house-case-study-house-8_01",
+    "src_eames-house-case-study-house-8_02",
+    "src_eames-house-case-study-house-8_03",
+    "src_eames-house-case-study-house-8_04",
+    "src_eames-house-case-study-house-8_05",
+    "src_eames-house-case-study-house-8_06"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "eames-house-case-study-house-8",
+  "title": "Eames House",
+  "summary": "Case Study House №8: промышленная система, дом-студия, коллекция вещей и лаборатория повседневного творчества.",
+  "discipline": [
+    "space-typologies"
+  ],
+  "kind": "case-study",
+  "body_hash": "a7df5445fb5b1a379ee2d870bf2a1f47ad4dcf3e73828cc1430dc9f9d1f22c4e"
+}

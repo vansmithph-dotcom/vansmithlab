@@ -1,0 +1,131 @@
+{
+  "id": "obj_space_bc7fd810ee700fb6",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "content_type": "encyclopedia",
+  "canonical_name": "Витрина — товарный театр между улицей и интерьером",
+  "canonical_name_en": "The Shop Window — Product Theatre Between Street and Interior",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_shop-window-product-theatre-be_01",
+      "title": "www.vam.ac.uk",
+      "url": "https://www.vam.ac.uk/",
+      "tier": 1
+    },
+    {
+      "id": "src_shop-window-product-theatre-be_02",
+      "title": "www.cooperhewitt.org",
+      "url": "https://www.cooperhewitt.org/",
+      "tier": 1
+    },
+    {
+      "id": "src_shop-window-product-theatre-be_03",
+      "title": "www.designmuseum.org",
+      "url": "https://www.designmuseum.org/",
+      "tier": 1
+    },
+    {
+      "id": "src_shop-window-product-theatre-be_04",
+      "title": "www.moma.org",
+      "url": "https://www.moma.org/",
+      "tier": 1
+    },
+    {
+      "id": "src_shop-window-product-theatre-be_05",
+      "title": "www.selfridges.com",
+      "url": "https://www.selfridges.com/GB/en/features/info/history/",
+      "tier": 1
+    },
+    {
+      "id": "src_shop-window-product-theatre-be_06",
+      "title": "haussmann.galerieslafayette.com",
+      "url": "https://haussmann.galerieslafayette.com/en/history/",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_shop-window-product-theatre-_def",
+      "wording_ru": "Витрина отделяет товар физически и приближает его визуально. Она работает на дистанции и в движении: композиция должна читаться с улицы, выдерживать отражения стекла и связывать сезонную историю с постоянной архитектурой фасада.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_shop-window-product-theatre-_orig",
+      "wording_ru": "До появления современной версии этой темы существовали более ранние пространственные и социальные модели. Для витрина — товарный театр между улицей и интерьером важна не одна дата, а переход, в котором привычные действия получили новую планировочную и визуальную организацию. Опорный временной диапаз",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_shop-window-product-theatre-_form",
+      "wording_ru": "Материальный язык задают листовое стекло, зеркала, подиумы, ткань, реквизит, печатная графика, свет и экранные поверхности. Они не являются декоративным списком: каждый материал определяет пролёт, вес, отражение, акустику, износ и дистанцию между человеком и объектом.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_shop-window-product-theatre-_use",
+      "wording_ru": "Принцип работы раскрывается через маршрут и повторение. Витрина отделяет товар физически и приближает его визуально. Она работает на дистанции и в движении: композиция должна читаться с улицы, выдерживать отражения стекла и связывать сезонную историю с постоянной архитектурой фасада. Пространство сч",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_shop-window-product-theatre-_impact",
+      "wording_ru": "Главное изменение дисциплины — понимание пространства как связанной системы, а не суммы комнат и красивых поверхностей. Витрина — товарный театр между улицей и интерьером показывает, что архитектура, объект, изображение, технология и организация пользования могут проектироваться как единое целое.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_shop-window-product-theatre-_today",
+      "wording_ru": "Сегодня Витрина — товарный театр между улицей и интерьером лучше читать в четыре прохода: сначала маршрут и масштаб, затем материалы и свет, потом инфраструктуру и экономику, и только после этого — канонические фотографии. Такой порядок возвращает проекту его реальную сложность.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_shop-window-product-theatre-_tl_2026",
+      "wording_ru": "дата редакционной проверки VANSMITHLAB; текущие статусы требуют повторной проверки перед публикацией. (2026)",
+      "confidence_score": 0.72,
+      "verification_state": "attributed",
+      "date_start": "2026-01-01"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_shop-window-product-theatre-_def",
+      "source_id": "src_shop-window-product-theatre-be_01",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_shop-window-product-theatre-_orig",
+      "source_id": "src_shop-window-product-theatre-be_02",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_shop-window-product-theatre-_form",
+      "source_id": "src_shop-window-product-theatre-be_03",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_shop-window-product-theatre-_use",
+      "source_id": "src_shop-window-product-theatre-be_04",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_shop-window-product-theatre-_impact",
+      "source_id": "src_shop-window-product-theatre-be_05",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_shop-window-product-theatre-_today",
+      "source_id": "src_shop-window-product-theatre-be_06",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_shop-window-product-theatre-_tl_2026",
+      "source_id": "src_shop-window-product-theatre-be_01",
+      "locator": "Historical reference"
+    }
+  ],
+  "last_updated": "2026-08-19"
+}

@@ -1,0 +1,131 @@
+{
+  "id": "obj_space_2e3f79ed51b08c26",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "content_type": "encyclopedia",
+  "canonical_name": "Eames House",
+  "canonical_name_en": "Eames House",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_eames-house-case-study-house-8_01",
+      "title": "www.eamesfoundation.org",
+      "url": "https://www.eamesfoundation.org/eames-house/history/",
+      "tier": 1
+    },
+    {
+      "id": "src_eames-house-case-study-house-8_02",
+      "title": "www.eamesoffice.com",
+      "url": "https://www.eamesoffice.com/visit-learn/eames-house/",
+      "tier": 1
+    },
+    {
+      "id": "src_eames-house-case-study-house-8_03",
+      "title": "www.eamesinstitute.org",
+      "url": "https://www.eamesinstitute.org/stories/case-study-house-8/",
+      "tier": 1
+    },
+    {
+      "id": "src_eames-house-case-study-house-8_04",
+      "title": "www.getty.edu",
+      "url": "https://www.getty.edu/conservation/our_projects/field_projects/eameshouse/",
+      "tier": 1
+    },
+    {
+      "id": "src_eames-house-case-study-house-8_05",
+      "title": "www.nps.gov",
+      "url": "https://www.nps.gov/places/eames-house.htm",
+      "tier": 1
+    },
+    {
+      "id": "src_eames-house-case-study-house-8_06",
+      "title": "www.moma.org",
+      "url": "https://www.moma.org/",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_eames-house-case-study-house_def",
+      "wording_ru": "Case Study House №8, более известный как Eames House, был завершён в 1949 году и служил Чарльзу и Рэй Имз одновременно домом и студией. Итоговая схема использовала промышленно доступные стальные элементы и панели, но была перестроена так, чтобы сохранить луг и встроиться в ряд эвкалиптов.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_eames-house-case-study-house_orig",
+      "wording_ru": "До появления современной версии этой темы существовали более ранние пространственные и социальные модели. Для eames house важна не одна дата, а переход, в котором привычные действия получили новую планировочную и визуальную организацию. Опорный временной диапазон: 1945–1949.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_eames-house-case-study-house_form",
+      "wording_ru": "Материальный язык задают сталь, стекло, штукатурные и цветные панели, дерево, фанера, текстиль и серийные компоненты. Они не являются декоративным списком: каждый материал определяет пролёт, вес, отражение, акустику, износ и дистанцию между человеком и объектом.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_eames-house-case-study-house_use",
+      "wording_ru": "Принцип работы раскрывается через маршрут и повторение. Case Study House №8, более известный как Eames House, был завершён в 1949 году и служил Чарльзу и Рэй Имз одновременно домом и студией. Итоговая схема использовала промышленно доступные стальные элементы и панели, но была перестроена так, чтобы",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_eames-house-case-study-house_impact",
+      "wording_ru": "Главное изменение дисциплины — понимание пространства как связанной системы, а не суммы комнат и красивых поверхностей. Eames House показывает, что архитектура, объект, изображение, технология и организация пользования могут проектироваться как единое целое.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_eames-house-case-study-house_today",
+      "wording_ru": "Сегодня Eames House лучше читать в четыре прохода: сначала маршрут и масштаб, затем материалы и свет, потом инфраструктуру и экономику, и только после этого — канонические фотографии. Такой порядок возвращает проекту его реальную сложность.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_eames-house-case-study-house_tl_2026",
+      "wording_ru": "дата редакционной проверки VANSMITHLAB; текущие статусы требуют повторной проверки перед публикацией. (2026)",
+      "confidence_score": 0.72,
+      "verification_state": "attributed",
+      "date_start": "2026-01-01"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_eames-house-case-study-house_def",
+      "source_id": "src_eames-house-case-study-house-8_01",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_eames-house-case-study-house_orig",
+      "source_id": "src_eames-house-case-study-house-8_02",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_eames-house-case-study-house_form",
+      "source_id": "src_eames-house-case-study-house-8_03",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_eames-house-case-study-house_use",
+      "source_id": "src_eames-house-case-study-house-8_04",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_eames-house-case-study-house_impact",
+      "source_id": "src_eames-house-case-study-house-8_05",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_eames-house-case-study-house_today",
+      "source_id": "src_eames-house-case-study-house-8_06",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_eames-house-case-study-house_tl_2026",
+      "source_id": "src_eames-house-case-study-house-8_01",
+      "locator": "Historical reference"
+    }
+  ],
+  "last_updated": "2026-08-19"
+}

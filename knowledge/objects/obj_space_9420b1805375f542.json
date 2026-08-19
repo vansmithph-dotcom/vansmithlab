@@ -1,0 +1,131 @@
+{
+  "id": "obj_space_9420b1805375f542",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "content_type": "encyclopedia",
+  "canonical_name": "Vitra Campus как энциклопедия архитектуры и предмета",
+  "canonical_name_en": "Vitra Campus as an Encyclopedia of Architecture and Objects",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_vitra-campus-architecture-obje_01",
+      "title": "www.vitra.com",
+      "url": "https://www.vitra.com/en-un/campus",
+      "tier": 1
+    },
+    {
+      "id": "src_vitra-campus-architecture-obje_02",
+      "title": "www.vitra.com",
+      "url": "https://www.vitra.com/en-un/campus/architecture",
+      "tier": 1
+    },
+    {
+      "id": "src_vitra-campus-architecture-obje_03",
+      "title": "www.design-museum.de",
+      "url": "https://www.design-museum.de/en/information/vitra-campus.html",
+      "tier": 1
+    },
+    {
+      "id": "src_vitra-campus-architecture-obje_04",
+      "title": "www.vitra.com",
+      "url": "https://www.vitra.com/en-un/magazine/details/serious-games-the-vitra-campus",
+      "tier": 1
+    },
+    {
+      "id": "src_vitra-campus-architecture-obje_05",
+      "title": "www.design-museum.de",
+      "url": "https://www.design-museum.de/en/information.html",
+      "tier": 1
+    },
+    {
+      "id": "src_vitra-campus-architecture-obje_06",
+      "title": "www.docomomo.com",
+      "url": "https://www.docomomo.com/",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_vitra-campus-architecture-ob_def",
+      "wording_ru": "Vitra Campus в Вайль-ам-Райне развивался постепенно вокруг производственной базы компании. После пожара 1981 года новые здания стали заказываться разным архитекторам; сегодня кампус соединяет производство, музей, архив, шоурумы и публичные маршруты, а архитектура сама работает как коллекция.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_vitra-campus-architecture-ob_orig",
+      "wording_ru": "До появления современной версии этой темы существовали более ранние пространственные и социальные модели. Для vitra campus как энциклопедия архитектуры и предмета важна не одна дата, а переход, в котором привычные действия получили новую планировочную и визуальную организацию. Опорный временной диап",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_vitra-campus-architecture-ob_form",
+      "wording_ru": "Материальный язык задают сталь, бетон, кирпич, штукатурка, стекло и разнообразные авторские системы оболочек. Они не являются декоративным списком: каждый материал определяет пролёт, вес, отражение, акустику, износ и дистанцию между человеком и объектом.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_vitra-campus-architecture-ob_use",
+      "wording_ru": "Принцип работы раскрывается через маршрут и повторение. Vitra Campus в Вайль-ам-Райне развивался постепенно вокруг производственной базы компании. После пожара 1981 года новые здания стали заказываться разным архитекторам; сегодня кампус соединяет производство, музей, архив, шоурумы и публичные марш",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_vitra-campus-architecture-ob_impact",
+      "wording_ru": "Главное изменение дисциплины — понимание пространства как связанной системы, а не суммы комнат и красивых поверхностей. Vitra Campus как энциклопедия архитектуры и предмета показывает, что архитектура, объект, изображение, технология и организация пользования могут проектироваться как единое целое.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_vitra-campus-architecture-ob_today",
+      "wording_ru": "Сегодня Vitra Campus как энциклопедия архитектуры и предмета лучше читать в четыре прохода: сначала маршрут и масштаб, затем материалы и свет, потом инфраструктуру и экономику, и только после этого — канонические фотографии. Такой порядок возвращает проекту его реальную сложность.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_vitra-campus-architecture-ob_tl_2026",
+      "wording_ru": "дата редакционной проверки VANSMITHLAB; текущие статусы требуют повторной проверки перед публикацией. (2026)",
+      "confidence_score": 0.72,
+      "verification_state": "attributed",
+      "date_start": "2026-01-01"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_vitra-campus-architecture-ob_def",
+      "source_id": "src_vitra-campus-architecture-obje_01",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_vitra-campus-architecture-ob_orig",
+      "source_id": "src_vitra-campus-architecture-obje_02",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_vitra-campus-architecture-ob_form",
+      "source_id": "src_vitra-campus-architecture-obje_03",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_vitra-campus-architecture-ob_use",
+      "source_id": "src_vitra-campus-architecture-obje_04",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_vitra-campus-architecture-ob_impact",
+      "source_id": "src_vitra-campus-architecture-obje_05",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_vitra-campus-architecture-ob_today",
+      "source_id": "src_vitra-campus-architecture-obje_06",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_vitra-campus-architecture-ob_tl_2026",
+      "source_id": "src_vitra-campus-architecture-obje_01",
+      "locator": "Historical reference"
+    }
+  ],
+  "last_updated": "2026-08-19"
+}

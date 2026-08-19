@@ -1,0 +1,131 @@
+{
+  "id": "obj_space_e08971575d6c97e7",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "content_type": "encyclopedia",
+  "canonical_name": "Neue Nationalgalerie как пространство показа",
+  "canonical_name_en": "Neue Nationalgalerie as a Space of Display",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_neue-nationalgalerie-space-of-_01",
+      "title": "www.smb.museum",
+      "url": "https://www.smb.museum/en/museums-institutions/neue-nationalgalerie/about-us/profile/",
+      "tier": 1
+    },
+    {
+      "id": "src_neue-nationalgalerie-space-of-_02",
+      "title": "www.smb.museum",
+      "url": "https://www.smb.museum/en/museums-institutions/neue-nationalgalerie/home/",
+      "tier": 1
+    },
+    {
+      "id": "src_neue-nationalgalerie-space-of-_03",
+      "title": "davidchipperfield.com",
+      "url": "https://davidchipperfield.com/projects/neue-nationalgalerie",
+      "tier": 1
+    },
+    {
+      "id": "src_neue-nationalgalerie-space-of-_04",
+      "title": "www.moma.org",
+      "url": "https://www.moma.org/artists/7166",
+      "tier": 1
+    },
+    {
+      "id": "src_neue-nationalgalerie-space-of-_05",
+      "title": "www.docomomo.com",
+      "url": "https://www.docomomo.com/",
+      "tier": 1
+    },
+    {
+      "id": "src_neue-nationalgalerie-space-of-_06",
+      "title": "www.icomos.org",
+      "url": "https://www.icomos.org/en/",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_neue-nationalgalerie-space-o_def",
+      "wording_ru": "Neue Nationalgalerie в Берлине открылась в 1968 году и стала последним крупным завершённым проектом Людвига Миса ван дер Роэ. Её верхний зал — почти свободная стеклянная платформа под массивной стальной кровлей, тогда как большая часть постоянной музейной инфраструктуры расположена ниже уровня площа",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_neue-nationalgalerie-space-o_orig",
+      "wording_ru": "До появления современной версии этой темы существовали более ранние пространственные и социальные модели. Для neue nationalgalerie как пространство показа важна не одна дата, а переход, в котором привычные действия получили новую планировочную и визуальную организацию. Опорный временной диапазон: 19",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_neue-nationalgalerie-space-o_form",
+      "wording_ru": "Материальный язык задают сталь, стекло, гранит, бетон, дерево и музейные выставочные системы. Они не являются декоративным списком: каждый материал определяет пролёт, вес, отражение, акустику, износ и дистанцию между человеком и объектом.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_neue-nationalgalerie-space-o_use",
+      "wording_ru": "Принцип работы раскрывается через маршрут и повторение. Neue Nationalgalerie в Берлине открылась в 1968 году и стала последним крупным завершённым проектом Людвига Миса ван дер Роэ. Её верхний зал — почти свободная стеклянная платформа под массивной стальной кровлей, тогда как большая часть постоянн",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_neue-nationalgalerie-space-o_impact",
+      "wording_ru": "Главное изменение дисциплины — понимание пространства как связанной системы, а не суммы комнат и красивых поверхностей. Neue Nationalgalerie как пространство показа показывает, что архитектура, объект, изображение, технология и организация пользования могут проектироваться как единое целое.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_neue-nationalgalerie-space-o_today",
+      "wording_ru": "Сегодня Neue Nationalgalerie как пространство показа лучше читать в четыре прохода: сначала маршрут и масштаб, затем материалы и свет, потом инфраструктуру и экономику, и только после этого — канонические фотографии. Такой порядок возвращает проекту его реальную сложность.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_neue-nationalgalerie-space-o_tl_2026",
+      "wording_ru": "дата редакционной проверки VANSMITHLAB; текущие статусы требуют повторной проверки перед публикацией. (2026)",
+      "confidence_score": 0.72,
+      "verification_state": "attributed",
+      "date_start": "2026-01-01"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_neue-nationalgalerie-space-o_def",
+      "source_id": "src_neue-nationalgalerie-space-of-_01",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_neue-nationalgalerie-space-o_orig",
+      "source_id": "src_neue-nationalgalerie-space-of-_02",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_neue-nationalgalerie-space-o_form",
+      "source_id": "src_neue-nationalgalerie-space-of-_03",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_neue-nationalgalerie-space-o_use",
+      "source_id": "src_neue-nationalgalerie-space-of-_04",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_neue-nationalgalerie-space-o_impact",
+      "source_id": "src_neue-nationalgalerie-space-of-_05",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_neue-nationalgalerie-space-o_today",
+      "source_id": "src_neue-nationalgalerie-space-of-_06",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_neue-nationalgalerie-space-o_tl_2026",
+      "source_id": "src_neue-nationalgalerie-space-of-_01",
+      "locator": "Historical reference"
+    }
+  ],
+  "last_updated": "2026-08-19"
+}

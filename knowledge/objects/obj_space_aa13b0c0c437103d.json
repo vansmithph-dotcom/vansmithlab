@@ -1,0 +1,131 @@
+{
+  "id": "obj_space_aa13b0c0c437103d",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "content_type": "encyclopedia",
+  "canonical_name": "Дом — как дизайн организует повседневный ритуал",
+  "canonical_name_en": "The House — How Design Organizes Everyday Ritual",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_house-design-organizes-everyda_01",
+      "title": "www.moma.org",
+      "url": "https://www.moma.org/calendar/exhibitions/1805",
+      "tier": 1
+    },
+    {
+      "id": "src_house-design-organizes-everyda_02",
+      "title": "www.eamesfoundation.org",
+      "url": "https://www.eamesfoundation.org/eames-house/history/",
+      "tier": 1
+    },
+    {
+      "id": "src_house-design-organizes-everyda_03",
+      "title": "capmoderne.com",
+      "url": "https://capmoderne.com/en/lieu/la-villa-e-1027/",
+      "tier": 1
+    },
+    {
+      "id": "src_house-design-organizes-everyda_04",
+      "title": "www.centrepompidou.fr",
+      "url": "https://www.centrepompidou.fr/en/pompidou-plus/magazine/article/the-secret-history-of-the-maison-de-verre-a-masterpiece-of-modern-architecture",
+      "tier": 1
+    },
+    {
+      "id": "src_house-design-organizes-everyda_05",
+      "title": "www.vitra.com",
+      "url": "https://www.vitra.com/en-us/magazine/details/living-in-a-box",
+      "tier": 1
+    },
+    {
+      "id": "src_house-design-organizes-everyda_06",
+      "title": "www.architectural-review.com",
+      "url": "https://www.architectural-review.com/essays/typology/house",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_house-design-organizes-every_def",
+      "wording_ru": "Дом превращает абстрактную площадь в последовательность действий: вход, переодевание, приготовление еды, работа, отдых, сон и обслуживание вещей. Типология меняется вместе с составом семьи, трудом, технологиями и представлениями о приватности.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_house-design-organizes-every_orig",
+      "wording_ru": "До появления современной версии этой темы существовали более ранние пространственные и социальные модели. Для дом — как дизайн организует повседневный ритуал важна не одна дата, а переход, в котором привычные действия получили новую планировочную и визуальную организацию. Опорный временной диапазон:",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_house-design-organizes-every_form",
+      "wording_ru": "Материальный язык задают дерево, кирпич, бетон, стекло, штукатурка, текстиль и встроенная мебель. Они не являются декоративным списком: каждый материал определяет пролёт, вес, отражение, акустику, износ и дистанцию между человеком и объектом.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_house-design-organizes-every_use",
+      "wording_ru": "Принцип работы раскрывается через маршрут и повторение. Дом превращает абстрактную площадь в последовательность действий: вход, переодевание, приготовление еды, работа, отдых, сон и обслуживание вещей. Типология меняется вместе с составом семьи, трудом, технологиями и представлениями о приватности. ",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_house-design-organizes-every_impact",
+      "wording_ru": "Главное изменение дисциплины — понимание пространства как связанной системы, а не суммы комнат и красивых поверхностей. Дом — как дизайн организует повседневный ритуал показывает, что архитектура, объект, изображение, технология и организация пользования могут проектироваться как единое целое.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_house-design-organizes-every_today",
+      "wording_ru": "Сегодня Дом — как дизайн организует повседневный ритуал лучше читать в четыре прохода: сначала маршрут и масштаб, затем материалы и свет, потом инфраструктуру и экономику, и только после этого — канонические фотографии. Такой порядок возвращает проекту его реальную сложность.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_house-design-organizes-every_tl_2026",
+      "wording_ru": "дата редакционной проверки VANSMITHLAB; текущие статусы требуют повторной проверки перед публикацией. (2026)",
+      "confidence_score": 0.72,
+      "verification_state": "attributed",
+      "date_start": "2026-01-01"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_house-design-organizes-every_def",
+      "source_id": "src_house-design-organizes-everyda_01",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_house-design-organizes-every_orig",
+      "source_id": "src_house-design-organizes-everyda_02",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_house-design-organizes-every_form",
+      "source_id": "src_house-design-organizes-everyda_03",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_house-design-organizes-every_use",
+      "source_id": "src_house-design-organizes-everyda_04",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_house-design-organizes-every_impact",
+      "source_id": "src_house-design-organizes-everyda_05",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_house-design-organizes-every_today",
+      "source_id": "src_house-design-organizes-everyda_06",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_house-design-organizes-every_tl_2026",
+      "source_id": "src_house-design-organizes-everyda_01",
+      "locator": "Historical reference"
+    }
+  ],
+  "last_updated": "2026-08-19"
+}

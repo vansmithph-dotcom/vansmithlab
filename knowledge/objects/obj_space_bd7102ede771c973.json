@@ -1,0 +1,131 @@
+{
+  "id": "obj_space_bd7102ede771c973",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "content_type": "encyclopedia",
+  "canonical_name": "E-1027",
+  "canonical_name_en": "E-1027",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_e-1027_01",
+      "title": "capmoderne.com",
+      "url": "https://capmoderne.com/en/lieu/la-villa-e-1027/",
+      "tier": 1
+    },
+    {
+      "id": "src_e-1027_02",
+      "title": "capmoderne.monuments-nationaux.fr",
+      "url": "https://capmoderne.monuments-nationaux.fr/en/discover/history-of-cap-moderne-eileen-gray-and-le-corbusier-at-cap-martin",
+      "tier": 1
+    },
+    {
+      "id": "src_e-1027_03",
+      "title": "www.centrepompidou.fr",
+      "url": "https://www.centrepompidou.fr/en/ressources/personne/cM5eB87",
+      "tier": 1
+    },
+    {
+      "id": "src_e-1027_04",
+      "title": "www.vam.ac.uk",
+      "url": "https://www.vam.ac.uk/articles/eileen-gray",
+      "tier": 1
+    },
+    {
+      "id": "src_e-1027_05",
+      "title": "www.moma.org",
+      "url": "https://www.moma.org/artists/2251",
+      "tier": 1
+    },
+    {
+      "id": "src_e-1027_06",
+      "title": "www.docomomo.com",
+      "url": "https://www.docomomo.com/",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_e-1027_def",
+      "wording_ru": "Вилла E-1027 в Рокбрюн-Кап-Мартен была завершена в 1929 году. Cap Moderne описывает её как первую архитектурную работу Эйлин Грей, созданную в тесной связи с Жаном Бадовичем; архитектура, встроенная и свободно стоящая мебель, свет и бытовые детали проектировались как одна система.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_e-1027_orig",
+      "wording_ru": "До появления современной версии этой темы существовали более ранние пространственные и социальные модели. Для e-1027 важна не одна дата, а переход, в котором привычные действия получили новую планировочную и визуальную организацию. Опорный временной диапазон: 1926–1929.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_e-1027_form",
+      "wording_ru": "Материальный язык задают железобетон, штукатурка, металл, стекло, дерево, пробка, текстиль и лак. Они не являются декоративным списком: каждый материал определяет пролёт, вес, отражение, акустику, износ и дистанцию между человеком и объектом.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_e-1027_use",
+      "wording_ru": "Принцип работы раскрывается через маршрут и повторение. Вилла E-1027 в Рокбрюн-Кап-Мартен была завершена в 1929 году. Cap Moderne описывает её как первую архитектурную работу Эйлин Грей, созданную в тесной связи с Жаном Бадовичем; архитектура, встроенная и свободно стоящая мебель, свет и бытовые дет",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_e-1027_impact",
+      "wording_ru": "Главное изменение дисциплины — понимание пространства как связанной системы, а не суммы комнат и красивых поверхностей. E-1027 показывает, что архитектура, объект, изображение, технология и организация пользования могут проектироваться как единое целое.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_e-1027_today",
+      "wording_ru": "Сегодня E-1027 лучше читать в четыре прохода: сначала маршрут и масштаб, затем материалы и свет, потом инфраструктуру и экономику, и только после этого — канонические фотографии. Такой порядок возвращает проекту его реальную сложность.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_e-1027_tl_2026",
+      "wording_ru": "дата редакционной проверки VANSMITHLAB; текущие статусы требуют повторной проверки перед публикацией. (2026)",
+      "confidence_score": 0.72,
+      "verification_state": "attributed",
+      "date_start": "2026-01-01"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_e-1027_def",
+      "source_id": "src_e-1027_01",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_e-1027_orig",
+      "source_id": "src_e-1027_02",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_e-1027_form",
+      "source_id": "src_e-1027_03",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_e-1027_use",
+      "source_id": "src_e-1027_04",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_e-1027_impact",
+      "source_id": "src_e-1027_05",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_e-1027_today",
+      "source_id": "src_e-1027_06",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_e-1027_tl_2026",
+      "source_id": "src_e-1027_01",
+      "locator": "Historical reference"
+    }
+  ],
+  "last_updated": "2026-08-19"
+}

@@ -1,0 +1,44 @@
+{
+  "content_id": "cnt_space_en_6e4435e12b0c3775",
+  "primary_object_id": "obj_space_6e4435e12b0c3775",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_maison-de-verre_def",
+    "clm_maison-de-verre_orig",
+    "clm_maison-de-verre_form",
+    "clm_maison-de-verre_use",
+    "clm_maison-de-verre_impact",
+    "clm_maison-de-verre_today",
+    "clm_maison-de-verre_tl_2026"
+  ],
+  "source_ids": [
+    "src_maison-de-verre_01",
+    "src_maison-de-verre_02",
+    "src_maison-de-verre_03",
+    "src_maison-de-verre_04",
+    "src_maison-de-verre_05",
+    "src_maison-de-verre_06"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "maison-de-verre",
+  "title": "Maison de Verre",
+  "summary": "Pierre Chareau, Bernard Bijvoet, and the Dalsace house: industrial materials, movable elements, and layered privacy.",
+  "discipline": [
+    "space-typologies"
+  ],
+  "kind": "case-study",
+  "body_hash": "36bdb60a7e7c56d01e0fc283b221977c705d5cb52f1ab36a0baeeb96c6d7d9c2",
+  "translation": {
+    "source_locale": "ru",
+    "translated_by": "VANSMITHLAB",
+    "semantic_validated": true,
+    "translation_date": "2026-08-19"
+  }
+}

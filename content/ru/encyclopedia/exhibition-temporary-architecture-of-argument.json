@@ -1,0 +1,38 @@
+{
+  "content_id": "cnt_space_ru_23915b2ab149c358",
+  "primary_object_id": "obj_space_23915b2ab149c358",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_exhibition-temporary-archite_def",
+    "clm_exhibition-temporary-archite_orig",
+    "clm_exhibition-temporary-archite_form",
+    "clm_exhibition-temporary-archite_use",
+    "clm_exhibition-temporary-archite_impact",
+    "clm_exhibition-temporary-archite_today",
+    "clm_exhibition-temporary-archite_tl_2026"
+  ],
+  "source_ids": [
+    "src_exhibition-temporary-architect_01",
+    "src_exhibition-temporary-architect_02",
+    "src_exhibition-temporary-architect_03",
+    "src_exhibition-temporary-architect_04",
+    "src_exhibition-temporary-architect_05",
+    "src_exhibition-temporary-architect_06"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "exhibition-temporary-architecture-of-argument",
+  "title": "Выставка — временная архитектура аргумента",
+  "summary": "Экспозиция как временная система, связывающая объекты, тексты, изображения, свет и движение в один тезис.",
+  "discipline": [
+    "space-typologies"
+  ],
+  "kind": "typology",
+  "body_hash": "eb806bbef72e63473305abf0cccf90034b289b2b787c9131062fc4fa3496a82e"
+}

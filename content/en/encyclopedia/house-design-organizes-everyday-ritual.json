@@ -1,0 +1,44 @@
+{
+  "content_id": "cnt_space_en_aa13b0c0c437103d",
+  "primary_object_id": "obj_space_aa13b0c0c437103d",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_house-design-organizes-every_def",
+    "clm_house-design-organizes-every_orig",
+    "clm_house-design-organizes-every_form",
+    "clm_house-design-organizes-every_use",
+    "clm_house-design-organizes-every_impact",
+    "clm_house-design-organizes-every_today",
+    "clm_house-design-organizes-every_tl_2026"
+  ],
+  "source_ids": [
+    "src_house-design-organizes-everyda_01",
+    "src_house-design-organizes-everyda_02",
+    "src_house-design-organizes-everyda_03",
+    "src_house-design-organizes-everyda_04",
+    "src_house-design-organizes-everyda_05",
+    "src_house-design-organizes-everyda_06"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "house-design-organizes-everyday-ritual",
+  "title": "The House — How Design Organizes Everyday Ritual",
+  "summary": "Housing typology as a system of routes, privacy, storage, light, and repeated actions.",
+  "discipline": [
+    "space-typologies"
+  ],
+  "kind": "typology",
+  "body_hash": "1ed2e8fa2c632c703d32b1861cd2ee62bf2df6cf160ab138a2ef0bee84a74488",
+  "translation": {
+    "source_locale": "ru",
+    "translated_by": "VANSMITHLAB",
+    "semantic_validated": true,
+    "translation_date": "2026-08-19"
+  }
+}

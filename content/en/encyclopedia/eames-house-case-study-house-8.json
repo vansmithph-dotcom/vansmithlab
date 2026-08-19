@@ -1,0 +1,44 @@
+{
+  "content_id": "cnt_space_en_2e3f79ed51b08c26",
+  "primary_object_id": "obj_space_2e3f79ed51b08c26",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_eames-house-case-study-house_def",
+    "clm_eames-house-case-study-house_orig",
+    "clm_eames-house-case-study-house_form",
+    "clm_eames-house-case-study-house_use",
+    "clm_eames-house-case-study-house_impact",
+    "clm_eames-house-case-study-house_today",
+    "clm_eames-house-case-study-house_tl_2026"
+  ],
+  "source_ids": [
+    "src_eames-house-case-study-house-8_01",
+    "src_eames-house-case-study-house-8_02",
+    "src_eames-house-case-study-house-8_03",
+    "src_eames-house-case-study-house-8_04",
+    "src_eames-house-case-study-house-8_05",
+    "src_eames-house-case-study-house-8_06"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "eames-house-case-study-house-8",
+  "title": "Eames House",
+  "summary": "Case Study House No. 8: industrial system, home-studio, collection of things, and laboratory of everyday creativity.",
+  "discipline": [
+    "space-typologies"
+  ],
+  "kind": "case-study",
+  "body_hash": "9cb8f3c7e5fe8e5e8f8761757656ac58b369b17c0ef670ba4b79da5da3652463",
+  "translation": {
+    "source_locale": "ru",
+    "translated_by": "VANSMITHLAB",
+    "semantic_validated": true,
+    "translation_date": "2026-08-19"
+  }
+}

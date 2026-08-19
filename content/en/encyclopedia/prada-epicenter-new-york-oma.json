@@ -1,0 +1,44 @@
+{
+  "content_id": "cnt_space_en_ed8bbae638e39c5b",
+  "primary_object_id": "obj_space_ed8bbae638e39c5b",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_prada-epicenter-new-york-oma_def",
+    "clm_prada-epicenter-new-york-oma_orig",
+    "clm_prada-epicenter-new-york-oma_form",
+    "clm_prada-epicenter-new-york-oma_use",
+    "clm_prada-epicenter-new-york-oma_impact",
+    "clm_prada-epicenter-new-york-oma_today",
+    "clm_prada-epicenter-new-york-oma_tl_2026"
+  ],
+  "source_ids": [
+    "src_prada-epicenter-new-york-oma_01",
+    "src_prada-epicenter-new-york-oma_02",
+    "src_prada-epicenter-new-york-oma_03",
+    "src_prada-epicenter-new-york-oma_04",
+    "src_prada-epicenter-new-york-oma_05",
+    "src_prada-epicenter-new-york-oma_06"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "prada-epicenter-new-york-oma",
+  "title": "Prada Epicenter New York / OMA",
+  "summary": "The store as public space, gallery, stage, and laboratory for new retail scenarios.",
+  "discipline": [
+    "space-typologies"
+  ],
+  "kind": "case-study",
+  "body_hash": "d5a3b2823f2e06c0239981cf42f85d52bb0c8c7bb9fcc22e810aefbc03ff6b3c",
+  "translation": {
+    "source_locale": "ru",
+    "translated_by": "VANSMITHLAB",
+    "semantic_validated": true,
+    "translation_date": "2026-08-19"
+  }
+}

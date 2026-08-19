@@ -1,0 +1,44 @@
+{
+  "content_id": "cnt_space_en_9420b1805375f542",
+  "primary_object_id": "obj_space_9420b1805375f542",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_vitra-campus-architecture-ob_def",
+    "clm_vitra-campus-architecture-ob_orig",
+    "clm_vitra-campus-architecture-ob_form",
+    "clm_vitra-campus-architecture-ob_use",
+    "clm_vitra-campus-architecture-ob_impact",
+    "clm_vitra-campus-architecture-ob_today",
+    "clm_vitra-campus-architecture-ob_tl_2026"
+  ],
+  "source_ids": [
+    "src_vitra-campus-architecture-obje_01",
+    "src_vitra-campus-architecture-obje_02",
+    "src_vitra-campus-architecture-obje_03",
+    "src_vitra-campus-architecture-obje_04",
+    "src_vitra-campus-architecture-obje_05",
+    "src_vitra-campus-architecture-obje_06"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "vitra-campus-architecture-object-encyclopedia",
+  "title": "Vitra Campus as an Encyclopedia of Architecture and Objects",
+  "summary": "A production site where factory, museum, fire station, pavilions, and landscape form a long-term collection of architectural methods.",
+  "discipline": [
+    "space-typologies"
+  ],
+  "kind": "case-study",
+  "body_hash": "bfb8758838b31143352a1946e7be9a6e60f95400bfa16243dbd3b99ebab6a46f",
+  "translation": {
+    "source_locale": "ru",
+    "translated_by": "VANSMITHLAB",
+    "semantic_validated": true,
+    "translation_date": "2026-08-19"
+  }
+}

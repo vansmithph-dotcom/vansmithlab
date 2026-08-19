@@ -1,0 +1,44 @@
+{
+  "content_id": "cnt_space_en_c2e4105f88244dc4",
+  "primary_object_id": "obj_space_c2e4105f88244dc4",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_boutique-architecture-of-lux_def",
+    "clm_boutique-architecture-of-lux_orig",
+    "clm_boutique-architecture-of-lux_form",
+    "clm_boutique-architecture-of-lux_use",
+    "clm_boutique-architecture-of-lux_impact",
+    "clm_boutique-architecture-of-lux_today",
+    "clm_boutique-architecture-of-lux_tl_2026"
+  ],
+  "source_ids": [
+    "src_boutique-architecture-of-luxur_01",
+    "src_boutique-architecture-of-luxur_02",
+    "src_boutique-architecture-of-luxur_03",
+    "src_boutique-architecture-of-luxur_04",
+    "src_boutique-architecture-of-luxur_05",
+    "src_boutique-architecture-of-luxur_06"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "boutique-architecture-of-luxury",
+  "title": "The Boutique — Architecture of Luxury",
+  "summary": "A small commercial space where rarity, service, and material precision shape the value of merchandise.",
+  "discipline": [
+    "space-typologies"
+  ],
+  "kind": "typology",
+  "body_hash": "6f39c179b09339cadd5483466973247594989a94004780dded25a953fff0071c",
+  "translation": {
+    "source_locale": "ru",
+    "translated_by": "VANSMITHLAB",
+    "semantic_validated": true,
+    "translation_date": "2026-08-19"
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "id": "obj_space_44f9adbc0fe03a8b",
+  "canonical_locale": "ru",
+  "revision": 1,
+  "content_type": "encyclopedia",
+  "canonical_name": "Демонстрационный зал — между образцом и продажей",
+  "canonical_name_en": "The Showroom — Between Sample and Sale",
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "sources": [
+    {
+      "id": "src_showroom-between-sample-and-sa_01",
+      "title": "www.fondoambiente.it",
+      "url": "https://www.fondoambiente.it/luoghi/negozio-olivetti",
+      "tier": 1
+    },
+    {
+      "id": "src_showroom-between-sample-and-sa_02",
+      "title": "www.museopertutti.org",
+      "url": "https://www.museopertutti.org/en/musei/negozio-olivetti-eng/",
+      "tier": 1
+    },
+    {
+      "id": "src_showroom-between-sample-and-sa_03",
+      "title": "www.vitra.com",
+      "url": "https://www.vitra.com/",
+      "tier": 1
+    },
+    {
+      "id": "src_showroom-between-sample-and-sa_04",
+      "title": "www.hermanmiller.com",
+      "url": "https://www.hermanmiller.com/",
+      "tier": 1
+    },
+    {
+      "id": "src_showroom-between-sample-and-sa_05",
+      "title": "www.designmuseum.org",
+      "url": "https://www.designmuseum.org/",
+      "tier": 1
+    },
+    {
+      "id": "src_showroom-between-sample-and-sa_06",
+      "title": "www.cooperhewitt.org",
+      "url": "https://www.cooperhewitt.org/",
+      "tier": 1
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_showroom-between-sample-and-_def",
+      "wording_ru": "Демонстрационный зал смещает акцент с немедленной покупки на сравнение, консультацию и образец. Он особенно важен там, где продукт настраивается, заказывается или является частью более крупной системы — от мебели до автомобилей и строительных материалов.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_showroom-between-sample-and-_orig",
+      "wording_ru": "До появления современной версии этой темы существовали более ранние пространственные и социальные модели. Для демонстрационный зал — между образцом и продажей важна не одна дата, а переход, в котором привычные действия получили новую планировочную и визуальную организацию. Опорный временной диапазон",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_showroom-between-sample-and-_form",
+      "wording_ru": "Материальный язык задают образцы, модульные стенды, нейтральные поверхности, заказная мебель, свет и технические демонстрационные узлы. Они не являются декоративным списком: каждый материал определяет пролёт, вес, отражение, акустику, износ и дистанцию между человеком и объектом.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_showroom-between-sample-and-_use",
+      "wording_ru": "Принцип работы раскрывается через маршрут и повторение. Демонстрационный зал смещает акцент с немедленной покупки на сравнение, консультацию и образец. Он особенно важен там, где продукт настраивается, заказывается или является частью более крупной системы — от мебели до автомобилей и строительных м",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_showroom-between-sample-and-_impact",
+      "wording_ru": "Главное изменение дисциплины — понимание пространства как связанной системы, а не суммы комнат и красивых поверхностей. Демонстрационный зал — между образцом и продажей показывает, что архитектура, объект, изображение, технология и организация пользования могут проектироваться как единое целое.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_showroom-between-sample-and-_today",
+      "wording_ru": "Сегодня Демонстрационный зал — между образцом и продажей лучше читать в четыре прохода: сначала маршрут и масштаб, затем материалы и свет, потом инфраструктуру и экономику, и только после этого — канонические фотографии. Такой порядок возвращает проекту его реальную сложность.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_showroom-between-sample-and-_tl_2026",
+      "wording_ru": "дата редакционной проверки VANSMITHLAB; текущие статусы требуют повторной проверки перед публикацией. (2026)",
+      "confidence_score": 0.72,
+      "verification_state": "attributed",
+      "date_start": "2026-01-01"
+    }
+  ],
+  "citations": [
+    {
+      "claim_id": "clm_showroom-between-sample-and-_def",
+      "source_id": "src_showroom-between-sample-and-sa_01",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_showroom-between-sample-and-_orig",
+      "source_id": "src_showroom-between-sample-and-sa_02",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_showroom-between-sample-and-_form",
+      "source_id": "src_showroom-between-sample-and-sa_03",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_showroom-between-sample-and-_use",
+      "source_id": "src_showroom-between-sample-and-sa_04",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_showroom-between-sample-and-_impact",
+      "source_id": "src_showroom-between-sample-and-sa_05",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_showroom-between-sample-and-_today",
+      "source_id": "src_showroom-between-sample-and-sa_06",
+      "locator": "Official documentation and institutional sources"
+    },
+    {
+      "claim_id": "clm_showroom-between-sample-and-_tl_2026",
+      "source_id": "src_showroom-between-sample-and-sa_01",
+      "locator": "Historical reference"
+    }
+  ],
+  "last_updated": "2026-08-19"
+}

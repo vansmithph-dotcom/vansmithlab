@@ -1,0 +1,44 @@
+{
+  "content_id": "cnt_space_en_44f9adbc0fe03a8b",
+  "primary_object_id": "obj_space_44f9adbc0fe03a8b",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.72,
+  "claim_ids": [
+    "clm_showroom-between-sample-and-_def",
+    "clm_showroom-between-sample-and-_orig",
+    "clm_showroom-between-sample-and-_form",
+    "clm_showroom-between-sample-and-_use",
+    "clm_showroom-between-sample-and-_impact",
+    "clm_showroom-between-sample-and-_today",
+    "clm_showroom-between-sample-and-_tl_2026"
+  ],
+  "source_ids": [
+    "src_showroom-between-sample-and-sa_01",
+    "src_showroom-between-sample-and-sa_02",
+    "src_showroom-between-sample-and-sa_03",
+    "src_showroom-between-sample-and-sa_04",
+    "src_showroom-between-sample-and-sa_05",
+    "src_showroom-between-sample-and-sa_06"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "showroom-between-sample-and-sale",
+  "title": "The Showroom — Between Sample and Sale",
+  "summary": "A space where products are shown as a system of possibilities rather than inventory on a shelf.",
+  "discipline": [
+    "space-typologies"
+  ],
+  "kind": "typology",
+  "body_hash": "6cf9f1a74f416b622167472c2364a0d733d575c0c98ff4df539e7ab565780342",
+  "translation": {
+    "source_locale": "ru",
+    "translated_by": "VANSMITHLAB",
+    "semantic_validated": true,
+    "translation_date": "2026-08-19"
+  }
+}
