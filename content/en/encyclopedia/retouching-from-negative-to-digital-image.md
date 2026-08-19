@@ -135,3 +135,10 @@ The major disciplinary change is the transformation of the image from a single f
 ## 30. How to read the subject today
 
 Today the subject should be read as a chain: source → correction → mask → version → review → master. The final image is the visible surface of a much larger production process.
+
+## See also
+
+- [Contact Sheet — Photography as a Process of Selection](/en/encyclopedia/contact-sheet-photography-as-process-of-selection) — A series becomes a story when frames can be seen together and exclusion begins.
+- [Color Grading — Color as an Authorial Decision](/en/encyclopedia/color-grading-color-as-authorial-decision) — Color is not a final filter but a managed chain from capture to publication.
+- [Compositing — An Image from Multiple Realities](/en/encyclopedia/compositing-image-from-multiple-realities) — One plausible frame can be assembled from different times, places, exposures and sources.
+- [Adobe Photoshop — Layer, Mask and the Culture of the Editable Image](/en/encyclopedia/adobe-photoshop-layer-mask-editable-image) — The image became a layered document in which decisions can be separated, masked and rebuilt.

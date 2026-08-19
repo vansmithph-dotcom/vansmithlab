@@ -135,3 +135,9 @@ The major disciplinary change is the transformation of clothing from a single im
 ## 30. How to read the subject today
 
 Today the subject is best read not as a vocabulary list but as a chain of decisions: patent → elements → slider → garment → gesture → industrial standard. The visible image is only the last layer of a much larger production construction.
+
+## See also
+
+- [The Button — Function, Sign and Industrial Object](/en/encyclopedia/button-function-sign-and-industrial-object) — A small object connecting textile, technology, ornament and social code.
+- [Tailoring Construction — the Inner Architecture of the Jacket](/en/encyclopedia/tailoring-construction-inner-architecture-of-jacket) — Canvas, front, shoulder, sleeve, iron and balance as an invisible spatial system.
+- [Haute Couture — the Production System of High Fashion](/en/encyclopedia/haute-couture-production-system-of-high-fashion) — Not a luxury style but a regulated ecosystem of ateliers, handwork, fittings, calendar and public pr.

@@ -135,3 +135,10 @@ Mezzadro brings ready-made logic into industrial design without being simply a f
 ## 30. How to read the object today
 
 Today Mezzadro should be read at three scales: as a thing for the body, as a production system and as an image loaded with history. The tractor-seat symbol can overshadow the actual work of the construction. Once absorbed into museums and the premium design market, a gesture of appropriation and economy becomes an expensive design sign. This makes iconic status testable and meaningful.
+
+## See also
+
+- [Sacco](/en/encyclopedia/sacco-chair) — The anti-chair: free posture and unfixed form.
+- [Panton Chair](/en/encyclopedia/panton-chair) — One material, continuous form and a new plastics industry.
+- [Ulm Stool](/en/encyclopedia/ulm-stool) — An object as a tool: furniture, education and systems thinking.
+- [LC4](/en/encyclopedia/lc4-chaise-longue) — The body as a mechanism of rest: adjustable posture, tubular steel and a new ergonomics.

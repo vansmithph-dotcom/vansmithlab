@@ -135,3 +135,9 @@ The major disciplinary change is the transformation of the image from a single f
 ## 30. How to read the subject today
 
 Today the subject should be read as a chain: series → edit → sequence → layout → print → binding → reading. The final image is the visible surface of a much larger production process.
+
+## See also
+
+- [Contact Sheet — Photography as a Process of Selection](/en/encyclopedia/contact-sheet-photography-as-process-of-selection) — A series becomes a story when frames can be seen together and exclusion begins.
+- [Editorial Photography](/en/encyclopedia/editorial-photography-image-as-argument) — An image exists inside a topic, text, sequence and publication position.
+- [Magazine Spread — The Space Between Two Pages](/en/encyclopedia/magazine-spread-space-between-two-pages) — A magazine is read not as isolated pages but through collisions and pauses between left and right fi.

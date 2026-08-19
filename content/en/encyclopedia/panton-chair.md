@@ -135,3 +135,10 @@ The chair turned plastic from a material of imitation into a means of creating a
 ## 30. How to read the object today
 
 Today Panton Chair should be read at three scales: as a thing for the body, as a production system and as an image loaded with history. Early technical problems reveal the limits behind the slogan one form, one material. The clean silhouette conceals polymer chemistry, mould tooling, cooling behaviour, strength requirements and decades of revision. This makes iconic status testable and meaningful.
+
+## See also
+
+- [Eames Lounge Chair](/en/encyclopedia/eames-lounge-chair) — Moulded plywood, comfort and postwar luxury.
+- [Sacco](/en/encyclopedia/sacco-chair) — The anti-chair: free posture and unfixed form.
+- [UP5/UP6](/en/encyclopedia/up5-up6) — Body, politics, polyurethane foam and radical design.
+- [Wiggle Side Chair](/en/encyclopedia/wiggle-side-chair) — Cardboard as structural material and a critique of familiar value.

@@ -135,3 +135,9 @@ Its major disciplinary effect is the understanding of space as a connected syste
 ## 30. How to read the topic today
 
 Today The Exhibition — Temporary Architecture of an Argument is best read in four passes: first route and scale, then materials and light, then infrastructure and economics, and only then canonical photographs. This order restores the project’s real complexity.
+
+## See also
+
+- [The Museum — Route, Display, and the Management of Attention](/en/encyclopedia/museum-route-display-management-of-attention) — How architecture and exhibition design turn a collection into a sequence of encounters, comparisons,.
+- [Neue Nationalgalerie as a Space of Display](/en/encyclopedia/neue-nationalgalerie-space-of-display) — Mies van der Rohe: a free glazed upper platform, concealed lower-level infrastructure, and the museu.
+- [Vitra Campus as an Encyclopedia of Architecture and Objects](/en/encyclopedia/vitra-campus-architecture-object-encyclopedia) — A production site where factory, museum, fire station, pavilions, and landscape form a long-term col.

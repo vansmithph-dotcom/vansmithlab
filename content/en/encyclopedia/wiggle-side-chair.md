@@ -135,3 +135,10 @@ The Wiggle Side Chair reverses a familiar hierarchy of value. A material normall
 ## 30. How to read the object today
 
 Today Wiggle Side Chair should be read at three scales: as a thing for the body, as a production system and as an image loaded with history. Cardboard is vulnerable to water, dirt and edge damage, so the image of a simple cheap material collides with careful-use requirements. Multi-layer gluing can also complicate recycling compared with plain packaging board. This makes iconic status testable and meaningful.
+
+## See also
+
+- [Panton Chair](/en/encyclopedia/panton-chair) — One material, continuous form and a new plastics industry.
+- [Eames Lounge Chair](/en/encyclopedia/eames-lounge-chair) — Moulded plywood, comfort and postwar luxury.
+- [UP5/UP6](/en/encyclopedia/up5-up6) — Body, politics, polyurethane foam and radical design.
+- [Carlton](/en/encyclopedia/carlton-bookcase) — Memphis: furniture as sign, colour and refusal of neutrality.

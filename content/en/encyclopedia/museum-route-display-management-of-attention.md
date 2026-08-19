@@ -135,3 +135,9 @@ Its major disciplinary effect is the understanding of space as a connected syste
 ## 30. How to read the topic today
 
 Today The Museum — Route, Display, and the Management of Attention is best read in four passes: first route and scale, then materials and light, then infrastructure and economics, and only then canonical photographs. This order restores the project’s real complexity.
+
+## See also
+
+- [The Exhibition — Temporary Architecture of an Argument](/en/encyclopedia/exhibition-temporary-architecture-of-argument) — The exhibition as a temporary system linking objects, texts, images, light, and movement into a sing.
+- [Neue Nationalgalerie as a Space of Display](/en/encyclopedia/neue-nationalgalerie-space-of-display) — Mies van der Rohe: a free glazed upper platform, concealed lower-level infrastructure, and the museu.
+- [The Concept Store — From Selling to Curating](/en/encyclopedia/concept-store-from-selling-to-curating) — Retail in which assortment, space, events, and editorial selection construct a single cultural posit.

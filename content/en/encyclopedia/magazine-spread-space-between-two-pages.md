@@ -135,3 +135,10 @@ The major disciplinary change is the transformation of the image from a single f
 ## 30. How to read the subject today
 
 Today the subject should be read as a chain: left page ↔ gutter ↔ right page → next spread. The final image is the visible surface of a much larger production process.
+
+## See also
+
+- [Magazine Cover — Image as the Interface of an Issue](/en/encyclopedia/magazine-cover-image-as-issue-interface) — One frame, a name, a masthead and a few lines must sell the issue while stating its position.
+- [Editorial Photography](/en/encyclopedia/editorial-photography-image-as-argument) — An image exists inside a topic, text, sequence and publication position.
+- [Photobook — Sequence Instead of the Single Frame](/en/encyclopedia/photobook-sequence-instead-of-single-frame) — A book turns photographs into time: order, scale, paper and page turning become part of the work.
+- [Art Direction — Who Designs the Image Before the Shoot](/en/encyclopedia/art-direction-designing-the-image-before-the-shoot) — An image begins before the camera: brief, research, casting, location, light, clothing, props and la.

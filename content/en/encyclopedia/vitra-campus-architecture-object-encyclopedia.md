@@ -135,3 +135,10 @@ Its major disciplinary effect is the understanding of space as a connected syste
 ## 30. How to read the topic today
 
 Today Vitra Campus as an Encyclopedia of Architecture and Objects is best read in four passes: first route and scale, then materials and light, then infrastructure and economics, and only then canonical photographs. This order restores the project’s real complexity.
+
+## See also
+
+- [Eames House](/en/encyclopedia/eames-house-case-study-house-8) — Case Study House No. 8: industrial system, home-studio, collection of things, and laboratory of ever.
+- [Eames Lounge Chair](/en/encyclopedia/eames-lounge-chair) — Moulded plywood, comfort and postwar luxury.
+- [606 Universal Shelving System](/en/encyclopedia/606-universal-shelving-system) — Modularity, repairability and the long life of an object.
+- [The Museum — Route, Display, and the Management of Attention](/en/encyclopedia/museum-route-display-management-of-attention) — How architecture and exhibition design turn a collection into a sequence of encounters, comparisons,.

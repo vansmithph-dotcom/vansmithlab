@@ -135,3 +135,10 @@ The major disciplinary change is the transformation of the image from a single f
 ## 30. How to read the subject today
 
 Today the subject should be read as a chain: brand → brief → concept → production → post-production → versions → media placement. The final image is the visible surface of a much larger production process.
+
+## See also
+
+- [Art Direction — Who Designs the Image Before the Shoot](/en/encyclopedia/art-direction-designing-the-image-before-the-shoot) — An image begins before the camera: brief, research, casting, location, light, clothing, props and la.
+- [Editorial Photography](/en/encyclopedia/editorial-photography-image-as-argument) — An image exists inside a topic, text, sequence and publication position.
+- [Fashion Photography — Not a Genre but a Production System](/en/encyclopedia/fashion-photography-as-production-system) — Clothing becomes an image through team, editorial context, pose, light, printing and distribution.
+- [Magazine Cover — Image as the Interface of an Issue](/en/encyclopedia/magazine-cover-image-as-issue-interface) — One frame, a name, a masthead and a few lines must sell the issue while stating its position.

@@ -135,3 +135,10 @@ The major disciplinary change is the transformation of the image from a single f
 ## 30. How to read the subject today
 
 Today the subject should be read as a chain: editorial thesis → main image → typography → hierarchy → issue → archive. The final image is the visible surface of a much larger production process.
+
+## See also
+
+- [Editorial Photography](/en/encyclopedia/editorial-photography-image-as-argument) — An image exists inside a topic, text, sequence and publication position.
+- [Magazine Spread — The Space Between Two Pages](/en/encyclopedia/magazine-spread-space-between-two-pages) — A magazine is read not as isolated pages but through collisions and pauses between left and right fi.
+- [Advertising Photography](/en/encyclopedia/advertising-photography-image-as-commercial-instrument) — The frame is designed for an action: recognize, desire, remember, choose.
+- [Fashion Photography — Not a Genre but a Production System](/en/encyclopedia/fashion-photography-as-production-system) — Clothing becomes an image through team, editorial context, pose, light, printing and distribution.

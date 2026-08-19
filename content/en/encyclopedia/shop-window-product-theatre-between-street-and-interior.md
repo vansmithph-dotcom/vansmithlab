@@ -135,3 +135,9 @@ Its major disciplinary effect is the understanding of space as a connected syste
 ## 30. How to read the topic today
 
 Today The Shop Window — Product Theatre Between Street and Interior is best read in four passes: first route and scale, then materials and light, then infrastructure and economics, and only then canonical photographs. This order restores the project’s real complexity.
+
+## See also
+
+- [The Store — Commercial Space as a Visual System](/en/encyclopedia/store-space-of-commerce-as-visual-system) — How layout, display, light, graphics, and circulation turn merchandise into experience and purchase .
+- [The Boutique — Architecture of Luxury](/en/encyclopedia/boutique-architecture-of-luxury) — A small commercial space where rarity, service, and material precision shape the value of merchandis.
+- [The Department Store — A City Inside a Building](/en/encyclopedia/department-store-city-inside-building) — A large retail organism combining product categories, vertical circulation, service, spectacle, and .

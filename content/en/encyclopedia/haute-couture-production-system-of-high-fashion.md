@@ -135,3 +135,12 @@ The major disciplinary change is the transformation of clothing from a single im
 ## 30. How to read the subject today
 
 Today the subject is best read not as a vocabulary list but as a chain of decisions: fashion house → atelier → craft → material → show → photography → magazine. The visible image is only the last layer of a much larger production construction.
+
+## See also
+
+- [Ready-to-Wear — Designer Clothing as an Industrial System](/en/encyclopedia/ready-to-wear-designer-clothing-as-industrial-system) — How sizing, series, calendar, factory and retail turned designer clothing into a reproducible produc.
+- [The Fashion Show — from Collection Presentation to Media Event](/en/encyclopedia/fashion-show-from-collection-presentation-to-media-event) — Route, body, music, light, seating, camera and distribution network as one image-producing system.
+- [Tailoring Construction — the Inner Architecture of the Jacket](/en/encyclopedia/tailoring-construction-inner-architecture-of-jacket) — Canvas, front, shoulder, sleeve, iron and balance as an invisible spatial system.
+- [Couture Embroidery](/en/encyclopedia/couture-embroidery-luneville) — The Lunéville hook and the French ateliers.
+- [The Pattern — Translating the Three-Dimensional Body into a Plane](/en/encyclopedia/pattern-translating-three-dimensional-body-to-plane) — A geometric interface between figure, design intention and the cutting of material.
+- [Lining — the Invisible Architecture of Clothing](/en/encyclopedia/lining-invisible-architecture-of-clothing) — The inner layer that controls friction, construction cleanliness, movement and garment life.

@@ -135,3 +135,9 @@ Sacco shifts the question from what is the ideal chair shape to can a chair have
 ## 30. How to read the object today
 
 Today Sacco should be read at three scales: as a thing for the body, as a production system and as an image loaded with history. Freedom of posture does not always equal long-term ergonomic support; getting out of a low soft mass is not easy for everyone. Pellets can lose volume and both cover and filling require maintenance or replacement. This makes iconic status testable and meaningful.
+
+## See also
+
+- [Panton Chair](/en/encyclopedia/panton-chair) — One material, continuous form and a new plastics industry.
+- [Mezzadro](/en/encyclopedia/mezzadro-stool) — A found industrial element transformed into a domestic object.
+- [UP5/UP6](/en/encyclopedia/up5-up6) — Body, politics, polyurethane foam and radical design.

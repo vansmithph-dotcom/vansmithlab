@@ -135,3 +135,10 @@ The major disciplinary change is the transformation of clothing from a single im
 ## 30. How to read the subject today
 
 Today the subject is best read not as a vocabulary list but as a chain of decisions: face fabric → interlining → lining → body → movement → durability. The visible image is only the last layer of a much larger production construction.
+
+## See also
+
+- [Tailoring Construction — the Inner Architecture of the Jacket](/en/encyclopedia/tailoring-construction-inner-architecture-of-jacket) — Canvas, front, shoulder, sleeve, iron and balance as an invisible spatial system.
+- [The Suit — Constructing the Modern Social Body](/en/encyclopedia/suit-construction-of-modern-social-body) — Jacket and trousers as an architecture of proportion, behavior, gender, profession and power.
+- [Haute Couture — the Production System of High Fashion](/en/encyclopedia/haute-couture-production-system-of-high-fashion) — Not a luxury style but a regulated ecosystem of ateliers, handwork, fittings, calendar and public pr.
+- [Silk](/en/encyclopedia/silk-properties-types-applications) — Properties, types, and applications.

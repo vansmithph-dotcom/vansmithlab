@@ -135,3 +135,10 @@ The major disciplinary change is the transformation of the image from a single f
 ## 30. How to read the subject today
 
 Today the subject should be read as a chain: shoot → sequence → compare → mark → select → publish. The final image is the visible surface of a much larger production process.
+
+## See also
+
+- [Fashion Photography — Not a Genre but a Production System](/en/encyclopedia/fashion-photography-as-production-system) — Clothing becomes an image through team, editorial context, pose, light, printing and distribution.
+- [Retouching — From Negative to Digital Image](/en/encyclopedia/retouching-from-negative-to-digital-image) — Correction, interpretation and power over the photographic surface existed long before Photoshop.
+- [Photobook — Sequence Instead of the Single Frame](/en/encyclopedia/photobook-sequence-instead-of-single-frame) — A book turns photographs into time: order, scale, paper and page turning become part of the work.
+- [Art Direction — Who Designs the Image Before the Shoot](/en/encyclopedia/art-direction-designing-the-image-before-the-shoot) — An image begins before the camera: brief, research, casting, location, light, clothing, props and la.

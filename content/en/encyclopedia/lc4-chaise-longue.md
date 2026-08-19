@@ -135,3 +135,9 @@ LC4 makes posture part of the design. Rather than imposing one fixed angle, it o
 ## 30. How to read the object today
 
 Today LC4 should be read at three scales: as a thing for the body, as a production system and as an image loaded with history. The idea of a relaxation machine is easy to romanticise: actual comfort depends on body type, upholstery and chosen angle. Chrome-plated steel and leather also made later versions a premium sign of modernism rather than a mass domestic standard. This makes iconic status testable and meaningful.
+
+## See also
+
+- [Barcelona Chair](/en/encyclopedia/barcelona-chair) — A chair as architectural manifesto: steel, leather and ceremony.
+- [Eames Lounge Chair](/en/encyclopedia/eames-lounge-chair) — Moulded plywood, comfort and postwar luxury.
+- [Mezzadro](/en/encyclopedia/mezzadro-stool) — A found industrial element transformed into a domestic object.

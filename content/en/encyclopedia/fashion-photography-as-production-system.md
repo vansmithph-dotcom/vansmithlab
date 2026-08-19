@@ -135,3 +135,12 @@ The major disciplinary change is the transformation of the image from a single f
 ## 30. How to read the subject today
 
 Today the subject should be read as a chain: clothing → body → team → frame → post-production → publication → cultural code. The final image is the visible surface of a much larger production process.
+
+## See also
+
+- [Art Direction — Who Designs the Image Before the Shoot](/en/encyclopedia/art-direction-designing-the-image-before-the-shoot) — An image begins before the camera: brief, research, casting, location, light, clothing, props and la.
+- [Editorial Photography](/en/encyclopedia/editorial-photography-image-as-argument) — An image exists inside a topic, text, sequence and publication position.
+- [Contact Sheet — Photography as a Process of Selection](/en/encyclopedia/contact-sheet-photography-as-process-of-selection) — A series becomes a story when frames can be seen together and exclusion begins.
+- [Retouching — From Negative to Digital Image](/en/encyclopedia/retouching-from-negative-to-digital-image) — Correction, interpretation and power over the photographic surface existed long before Photoshop.
+- [Magazine Cover — Image as the Interface of an Issue](/en/encyclopedia/magazine-cover-image-as-issue-interface) — One frame, a name, a masthead and a few lines must sell the issue while stating its position.
+- [The Fashion Show — from Collection Presentation to Media Event](/en/encyclopedia/fashion-show-from-collection-presentation-to-media-event) — Route, body, music, light, seating, camera and distribution network as one image-producing system.

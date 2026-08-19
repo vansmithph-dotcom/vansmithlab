@@ -135,3 +135,8 @@ Its major disciplinary effect is the understanding of space as a connected syste
 ## 30. How to read the topic today
 
 Today The House — How Design Organizes Everyday Ritual is best read in four passes: first route and scale, then materials and light, then infrastructure and economics, and only then canonical photographs. This order restores the project’s real complexity.
+
+## See also
+
+- [The Hotel — Temporary Home as a Design System](/en/encyclopedia/hotel-temporary-home-as-design-system) — A typology in which the standardised room must simultaneously provide privacy, orientation, service,.
+- [Eames House](/en/encyclopedia/eames-house-case-study-house-8) — Case Study House No. 8: industrial system, home-studio, collection of things, and laboratory of ever.

@@ -135,3 +135,7 @@ Its major disciplinary effect is the understanding of space as a connected syste
 ## 30. How to read the topic today
 
 Today The Hotel — Temporary Home as a Design System is best read in four passes: first route and scale, then materials and light, then infrastructure and economics, and only then canonical photographs. This order restores the project’s real complexity.
+
+## See also
+
+- [The House — How Design Organizes Everyday Ritual](/en/encyclopedia/house-design-organizes-everyday-ritual) — Housing typology as a system of routes, privacy, storage, light, and repeated actions.

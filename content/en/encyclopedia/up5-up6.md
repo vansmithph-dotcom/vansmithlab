@@ -135,3 +135,9 @@ Pesce joins comfort to political metaphor. In the designer’s explanation, the 
 ## 30. How to read the object today
 
 Today UP5/UP6 should be read at three scales: as a thing for the body, as a production system and as an image loaded with history. The metaphor remains contested: it can be read as feminist statement, male projection onto the female body, or marketing dramatisation. The designer’s explanation should not be treated as the only possible interpretation. This makes iconic status testable and meaningful.
+
+## See also
+
+- [Sacco](/en/encyclopedia/sacco-chair) — The anti-chair: free posture and unfixed form.
+- [Panton Chair](/en/encyclopedia/panton-chair) — One material, continuous form and a new plastics industry.
+- [Wiggle Side Chair](/en/encyclopedia/wiggle-side-chair) — Cardboard as structural material and a critique of familiar value.

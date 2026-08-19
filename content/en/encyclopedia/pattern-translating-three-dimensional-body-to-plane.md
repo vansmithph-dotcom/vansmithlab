@@ -135,3 +135,11 @@ The major disciplinary change is the transformation of clothing from a single im
 ## 30. How to read the subject today
 
 Today the subject is best read not as a vocabulary list but as a chain of decisions: body → measurement → block → pattern → cutting → assembly. The visible image is only the last layer of a much larger production construction.
+
+## See also
+
+- [Tailoring Construction — the Inner Architecture of the Jacket](/en/encyclopedia/tailoring-construction-inner-architecture-of-jacket) — Canvas, front, shoulder, sleeve, iron and balance as an invisible spatial system.
+- [The Dress Form — a Tool Between Body and Form](/en/encyclopedia/dress-form-tool-between-body-and-form) — A three-dimensional working surface on which fabric tests an idea before meeting a living body.
+- [The Suit — Constructing the Modern Social Body](/en/encyclopedia/suit-construction-of-modern-social-body) — Jacket and trousers as an architecture of proportion, behavior, gender, profession and power.
+- [Draping](/en/encyclopedia/draping-soft-construction) — Creating form without rigid construction.
+- [Knitwear — Form Created by the Loop](/en/encyclopedia/knitwear-form-created-by-loop) — An elastic structure in which material and construction emerge at the same time.

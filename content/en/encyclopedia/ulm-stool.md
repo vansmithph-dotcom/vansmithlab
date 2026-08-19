@@ -135,3 +135,9 @@ The Ulm Stool is almost a teaching aid for systems design. It shows that univers
 ## 30. How to read the object today
 
 Today Ulm Stool should be read at three scales: as a thing for the body, as a production system and as an image loaded with history. Extreme simplicity led to numerous copies and variants, blurring the boundary of the original. The HfG-Archiv exhibition specifically examined which features make a stool recognisably Ulm. This makes iconic status testable and meaningful.
+
+## See also
+
+- [Superleggera](/en/encyclopedia/superleggera-chair) — Minimum mass as a design problem: craft and industry.
+- [Mezzadro](/en/encyclopedia/mezzadro-stool) — A found industrial element transformed into a domestic object.
+- [606 Universal Shelving System](/en/encyclopedia/606-universal-shelving-system) — Modularity, repairability and the long life of an object.

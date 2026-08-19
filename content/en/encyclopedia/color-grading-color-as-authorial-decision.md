@@ -135,3 +135,10 @@ The major disciplinary change is the transformation of the image from a single f
 ## 30. How to read the subject today
 
 Today the subject should be read as a chain: capture → transform → balance → look → master → output transform. The final image is the visible surface of a much larger production process.
+
+## See also
+
+- [Retouching — From Negative to Digital Image](/en/encyclopedia/retouching-from-negative-to-digital-image) — Correction, interpretation and power over the photographic surface existed long before Photoshop.
+- [Compositing — An Image from Multiple Realities](/en/encyclopedia/compositing-image-from-multiple-realities) — One plausible frame can be assembled from different times, places, exposures and sources.
+- [Visual Effects — The Believability of the Impossible](/en/encyclopedia/visual-effects-believability-of-the-impossible) — VFX persuades not through spectacle alone but through how completely all elements obey one image phy.
+- [Adobe Photoshop — Layer, Mask and the Culture of the Editable Image](/en/encyclopedia/adobe-photoshop-layer-mask-editable-image) — The image became a layered document in which decisions can be separated, masked and rebuilt.

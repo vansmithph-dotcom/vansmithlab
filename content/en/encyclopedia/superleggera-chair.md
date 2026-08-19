@@ -135,3 +135,9 @@ Superleggera represents another modernist path: not a new material or spectacula
 ## 30. How to read the object today
 
 Today Superleggera should be read at three scales: as a thing for the body, as a production system and as an image loaded with history. Lightness alone does not guarantee comfort or universality; the delicate-looking frame requires excellent timber and precise production. The object can be romanticised as pure Italian craft if the industrial company and engineering discipline are ignored. This makes iconic status testable and meaningful.
+
+## See also
+
+- [Eames Lounge Chair](/en/encyclopedia/eames-lounge-chair) — Moulded plywood, comfort and postwar luxury.
+- [Panton Chair](/en/encyclopedia/panton-chair) — One material, continuous form and a new plastics industry.
+- [Ulm Stool](/en/encyclopedia/ulm-stool) — An object as a tool: furniture, education and systems thinking.

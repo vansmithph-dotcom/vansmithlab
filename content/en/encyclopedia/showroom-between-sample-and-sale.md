@@ -135,3 +135,9 @@ Its major disciplinary effect is the understanding of space as a connected syste
 ## 30. How to read the topic today
 
 Today The Showroom — Between Sample and Sale is best read in four passes: first route and scale, then materials and light, then infrastructure and economics, and only then canonical photographs. This order restores the project’s real complexity.
+
+## See also
+
+- [The Boutique — Architecture of Luxury](/en/encyclopedia/boutique-architecture-of-luxury) — A small commercial space where rarity, service, and material precision shape the value of merchandis.
+- [The Store — Commercial Space as a Visual System](/en/encyclopedia/store-space-of-commerce-as-visual-system) — How layout, display, light, graphics, and circulation turn merchandise into experience and purchase .
+- [Olivetti Showroom / Carlo Scarpa](/en/encyclopedia/olivetti-showroom-carlo-scarpa) — A showroom on Piazza San Marco: how architectural detail turns the office machine into a cultural ob.

@@ -135,3 +135,10 @@ Vitsœ continues to make 606 and develops installation options, including new ba
 ## 30. How to read the object today
 
 Today 606 Universal Shelving System should be read at three scales: as a thing for the body, as a production system and as an image loaded with history. Systems demand discipline: infrastructure, planning and proprietary components create dependence on the maker. A high initial cost can also restrict access, even if long service changes the economics of ownership. This makes iconic status testable and meaningful.
+
+## See also
+
+- [Carlton](/en/encyclopedia/carlton-bookcase) — Memphis: furniture as sign, colour and refusal of neutrality.
+- [Eames Lounge Chair](/en/encyclopedia/eames-lounge-chair) — Moulded plywood, comfort and postwar luxury.
+- [Vitra Campus as an Encyclopedia of Architecture and Objects](/en/encyclopedia/vitra-campus-architecture-object-encyclopedia) — A production site where factory, museum, fire station, pavilions, and landscape form a long-term col.
+- [Ulm Stool](/en/encyclopedia/ulm-stool) — An object as a tool: furniture, education and systems thinking.

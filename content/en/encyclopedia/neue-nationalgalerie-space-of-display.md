@@ -135,3 +135,9 @@ Its major disciplinary effect is the understanding of space as a connected syste
 ## 30. How to read the topic today
 
 Today Neue Nationalgalerie as a Space of Display is best read in four passes: first route and scale, then materials and light, then infrastructure and economics, and only then canonical photographs. This order restores the project’s real complexity.
+
+## See also
+
+- [The Museum — Route, Display, and the Management of Attention](/en/encyclopedia/museum-route-display-management-of-attention) — How architecture and exhibition design turn a collection into a sequence of encounters, comparisons,.
+- [The Exhibition — Temporary Architecture of an Argument](/en/encyclopedia/exhibition-temporary-architecture-of-argument) — The exhibition as a temporary system linking objects, texts, images, light, and movement into a sing.
+- [Barcelona Pavilion](/en/encyclopedia/barcelona-pavilion) — Mies van der Rohe and Lilly Reich: free plan, luxurious surfaces, and the pavilion as a pure sequenc.

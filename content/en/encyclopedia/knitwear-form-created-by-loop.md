@@ -135,3 +135,10 @@ The major disciplinary change is the transformation of clothing from a single im
 ## 30. How to read the subject today
 
 Today the subject is best read not as a vocabulary list but as a chain of decisions: fiber → yarn → loop → structure → silhouette → body. The visible image is only the last layer of a much larger production construction.
+
+## See also
+
+- [Knitting — Producing Surface and Form at the Same Time](/en/encyclopedia/knitting-producing-surface-and-form-together) — A technique in which instruction, loop and volume can belong to one design process.
+- [The Pattern — Translating the Three-Dimensional Body into a Plane](/en/encyclopedia/pattern-translating-three-dimensional-body-to-plane) — A geometric interface between figure, design intention and the cutting of material.
+- [Wool](/en/encyclopedia/wool-warmth-crimp-felt-suit-tactility) — Textiles: warmth, fibre crimp, drape, suit, felt and tactile memory.
+- [Polyester](/en/encyclopedia/polyester-fibre-film-mass-clothing-surface) — Polymers: synthetic fibre, film, mass clothing and technical surface.

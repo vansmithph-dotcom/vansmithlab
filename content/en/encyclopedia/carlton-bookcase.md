@@ -135,3 +135,9 @@ Carlton attacks the idea that functional furniture should look quiet. It stores 
 ## 30. How to read the object today
 
 Today Carlton should be read at three scales: as a thing for the body, as a production system and as an image loaded with history. Function is intentionally subordinated to image: angled shelves limit some storage and the scale and pattern resist neutral integration into interiors. This excess is both the object’s limitation and its programme. This makes iconic status testable and meaningful.
+
+## See also
+
+- [606 Universal Shelving System](/en/encyclopedia/606-universal-shelving-system) — Modularity, repairability and the long life of an object.
+- [Wiggle Side Chair](/en/encyclopedia/wiggle-side-chair) — Cardboard as structural material and a critique of familiar value.
+- [Memphis](/en/encyclopedia/memphis-color-play-antifunctional-energy) — Color, play and anti-functional energy.

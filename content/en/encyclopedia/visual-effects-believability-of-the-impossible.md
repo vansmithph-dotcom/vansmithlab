@@ -135,3 +135,10 @@ The major disciplinary change is the transformation of the image from a single f
 ## 30. How to read the subject today
 
 Today the subject should be read as a chain: preproduction → plate/data → assets → simulation/render → composite → review → master. The final image is the visible surface of a much larger production process.
+
+## See also
+
+- [Compositing — An Image from Multiple Realities](/en/encyclopedia/compositing-image-from-multiple-realities) — One plausible frame can be assembled from different times, places, exposures and sources.
+- [CGI — Anatomy of the Digital Scene](/en/encyclopedia/cgi-anatomy-of-digital-scene) — Model, material, light, camera and rendering construct plausibility as a system.
+- [Motion Design — Graphic Design Gains Time](/en/encyclopedia/motion-design-graphic-design-gains-time) — Grid, type, form and image begin not only to occupy space but to change state.
+- [Title Sequences — Typography in Time](/en/encyclopedia/title-sequences-typography-in-time) — A name, a typeface and movement can establish a film before the first scene begins.

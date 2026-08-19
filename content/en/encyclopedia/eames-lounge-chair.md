@@ -135,3 +135,10 @@ The Eameses demonstrated that modernism did not have to mean hardness or austeri
 ## 30. How to read the object today
 
 Today Eames Lounge Chair should be read at three scales: as a thing for the body, as a production system and as an image loaded with history. Its comfort and prestige have made it exceptionally copied, producing a large culture of replicas and counterfeits. Its premium materiality also sits in tension with the Eameses’ earlier reputation for affordable mass furniture. This makes iconic status testable and meaningful.
+
+## See also
+
+- [Barcelona Chair](/en/encyclopedia/barcelona-chair) — A chair as architectural manifesto: steel, leather and ceremony.
+- [Eames House](/en/encyclopedia/eames-house-case-study-house-8) — Case Study House No. 8: industrial system, home-studio, collection of things, and laboratory of ever.
+- [606 Universal Shelving System](/en/encyclopedia/606-universal-shelving-system) — Modularity, repairability and the long life of an object.
+- [Panton Chair](/en/encyclopedia/panton-chair) — One material, continuous form and a new plastics industry.

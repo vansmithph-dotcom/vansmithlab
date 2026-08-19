@@ -135,3 +135,11 @@ The major disciplinary change is the transformation of clothing from a single im
 ## 30. How to read the subject today
 
 Today the subject is best read not as a vocabulary list but as a chain of decisions: collection → model → space → light/sound → camera → media → market. The visible image is only the last layer of a much larger production construction.
+
+## See also
+
+- [Haute Couture — the Production System of High Fashion](/en/encyclopedia/haute-couture-production-system-of-high-fashion) — Not a luxury style but a regulated ecosystem of ateliers, handwork, fittings, calendar and public pr.
+- [Ready-to-Wear — Designer Clothing as an Industrial System](/en/encyclopedia/ready-to-wear-designer-clothing-as-industrial-system) — How sizing, series, calendar, factory and retail turned designer clothing into a reproducible produc.
+- [Fashion Photography — Not a Genre but a Production System](/en/encyclopedia/fashion-photography-as-production-system) — Clothing becomes an image through team, editorial context, pose, light, printing and distribution.
+- [Magazine Cover — Image as the Interface of an Issue](/en/encyclopedia/magazine-cover-image-as-issue-interface) — One frame, a name, a masthead and a few lines must sell the issue while stating its position.
+- [Art Direction — Who Designs the Image Before the Shoot](/en/encyclopedia/art-direction-designing-the-image-before-the-shoot) — An image begins before the camera: brief, research, casting, location, light, clothing, props and la.

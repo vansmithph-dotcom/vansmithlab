@@ -135,3 +135,9 @@ The major disciplinary change is the transformation of the image from a single f
 ## 30. How to read the subject today
 
 Today the subject should be read as a chain: credit list → hierarchy → typography → motion → sound → entry into work. The final image is the visible surface of a much larger production process.
+
+## See also
+
+- [Motion Design — Graphic Design Gains Time](/en/encyclopedia/motion-design-graphic-design-gains-time) — Grid, type, form and image begin not only to occupy space but to change state.
+- [Storyboard — The Image Before the Image](/en/encyclopedia/storyboard-image-before-image) — A sequence of drawings or frames reveals editing, scale and movement before expensive production beg.
+- [Visual Effects — The Believability of the Impossible](/en/encyclopedia/visual-effects-believability-of-the-impossible) — VFX persuades not through spectacle alone but through how completely all elements obey one image phy.

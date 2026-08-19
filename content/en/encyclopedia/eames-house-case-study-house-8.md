@@ -135,3 +135,9 @@ Its major disciplinary effect is the understanding of space as a connected syste
 ## 30. How to read the topic today
 
 Today Eames House is best read in four passes: first route and scale, then materials and light, then infrastructure and economics, and only then canonical photographs. This order restores the project’s real complexity.
+
+## See also
+
+- [Eames Lounge Chair](/en/encyclopedia/eames-lounge-chair) — Moulded plywood, comfort and postwar luxury.
+- [Vitra Campus as an Encyclopedia of Architecture and Objects](/en/encyclopedia/vitra-campus-architecture-object-encyclopedia) — A production site where factory, museum, fire station, pavilions, and landscape form a long-term col.
+- [The House — How Design Organizes Everyday Ritual](/en/encyclopedia/house-design-organizes-everyday-ritual) — Housing typology as a system of routes, privacy, storage, light, and repeated actions.

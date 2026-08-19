@@ -135,3 +135,10 @@ The major disciplinary change is the transformation of the image from a single f
 ## 30. How to read the subject today
 
 Today the subject should be read as a chain: graphic system → states → timing → motion → sound → version/screen. The final image is the visible surface of a much larger production process.
+
+## See also
+
+- [Title Sequences — Typography in Time](/en/encyclopedia/title-sequences-typography-in-time) — A name, a typeface and movement can establish a film before the first scene begins.
+- [Storyboard — The Image Before the Image](/en/encyclopedia/storyboard-image-before-image) — A sequence of drawings or frames reveals editing, scale and movement before expensive production beg.
+- [Visual Effects — The Believability of the Impossible](/en/encyclopedia/visual-effects-believability-of-the-impossible) — VFX persuades not through spectacle alone but through how completely all elements obey one image phy.
+- [Compositing — An Image from Multiple Realities](/en/encyclopedia/compositing-image-from-multiple-realities) — One plausible frame can be assembled from different times, places, exposures and sources.
