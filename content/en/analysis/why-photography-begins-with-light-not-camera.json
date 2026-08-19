@@ -1,0 +1,34 @@
+{
+  "content_id": "cnt_photop1_en_5f55098c9901f4cf",
+  "primary_object_id": "obj_photop1_5f55098c9901f4cf",
+  "content_type": "analysis",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_photop1_5f55098c9901f4cf_thesis",
+    "clm_photop1_5f55098c9901f4cf_first",
+    "clm_photop1_5f55098c9901f4cf_last"
+  ],
+  "source_ids": [
+    "src_photop1_5f55098c9901f4cf_01",
+    "src_photop1_5f55098c9901f4cf_02",
+    "src_photop1_5f55098c9901f4cf_03",
+    "src_photop1_5f55098c9901f4cf_04",
+    "src_photop1_5f55098c9901f4cf_05"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "why-photography-begins-with-light-not-camera",
+  "title": "Why photography begins with light, not with the camera",
+  "summary": "The camera records. Light builds form, value, time and trust.",
+  "discipline": [
+    "image-grammar",
+    "fashion-systems"
+  ],
+  "kind": "theme",
+  "body_hash": "417912c84a14dd604c823baad8a8150149c3e703968f20f685f4e67c97934763"
+}

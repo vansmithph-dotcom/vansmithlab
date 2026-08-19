@@ -1,0 +1,79 @@
+{
+  "id": "obj_photop1_382aae08ece55396",
+  "category": "analysis",
+  "canonical_name": "Почему предметная фотография сложнее, чем кажется",
+  "canonical_name_en": "Why product photography is harder than it looks",
+  "title_ru": "Почему предметная фотография сложнее, чем кажется",
+  "slug_ru": "why-product-photography-is-harder-than-it-looks",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "image-grammar",
+    "fashion-systems"
+  ],
+  "sources": [
+    {
+      "id": "src_photop1_382aae08ece55396_01",
+      "title": "The Metropolitan Museum of Art — The Collection",
+      "url": "https://www.metmuseum.org/art/collection",
+      "publisher": "The Metropolitan Museum of Art",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_photop1_382aae08ece55396_02",
+      "title": "MoMA — Collection",
+      "url": "https://www.moma.org/collection/",
+      "publisher": "MoMA",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_photop1_382aae08ece55396_03",
+      "title": "V&A — 100 years of fashion photography",
+      "url": "https://www.vam.ac.uk/articles/100-years-of-fashion-photography",
+      "publisher": "V&A",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_photop1_382aae08ece55396_04",
+      "title": "International Color Consortium",
+      "url": "https://www.color.org/",
+      "publisher": "International Color Consortium",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_photop1_382aae08ece55396_05",
+      "title": "Adobe — Understanding colour management",
+      "url": "https://helpx.adobe.com/photoshop/using/understanding-color-management.html",
+      "publisher": "Adobe",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_photop1_382aae08ece55396_thesis",
+      "wording_ru": "Предметная фотография кажется простой, потому что объект не спорит. Но именно поэтому она сложна: всё, что кадр говорит о вещи, создано фотографом.",
+      "wording_en": "Product photography seems simple because the object does not argue. That is exactly why it is hard: everything the image says about the thing is made by the photographer.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_photop1_382aae08ece55396_first",
+      "wording_ru": "Часы, чашка, кресло и флакон не умеют выражать эмоции. Их эмоции делают блик, край и расстояние.",
+      "wording_en": "A watch, cup, chair or bottle cannot express emotion. Reflection, edge and distance create its emotion.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_photop1_382aae08ece55396_last",
+      "wording_ru": "Самый сложный вопрос: не как снять вещь красиво, а какая у неё роль в мире.",
+      "wording_en": "The hardest question is not how to make a thing beautiful, but what role it has in the world.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "id": "obj_photop1_4f33cbf03120fe81",
+  "category": "analysis",
+  "canonical_name": "Почему тень важнее света",
+  "canonical_name_en": "Why shadow is more important than light",
+  "title_ru": "Почему тень важнее света",
+  "slug_ru": "why-shadow-is-more-important-than-light",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "image-grammar",
+    "fashion-systems"
+  ],
+  "sources": [
+    {
+      "id": "src_photop1_4f33cbf03120fe81_01",
+      "title": "The Metropolitan Museum of Art — The Collection",
+      "url": "https://www.metmuseum.org/art/collection",
+      "publisher": "The Metropolitan Museum of Art",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_photop1_4f33cbf03120fe81_02",
+      "title": "MoMA — Collection",
+      "url": "https://www.moma.org/collection/",
+      "publisher": "MoMA",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_photop1_4f33cbf03120fe81_03",
+      "title": "V&A — 100 years of fashion photography",
+      "url": "https://www.vam.ac.uk/articles/100-years-of-fashion-photography",
+      "publisher": "V&A",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_photop1_4f33cbf03120fe81_04",
+      "title": "International Color Consortium",
+      "url": "https://www.color.org/",
+      "publisher": "International Color Consortium",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_photop1_4f33cbf03120fe81_05",
+      "title": "Adobe — Understanding colour management",
+      "url": "https://helpx.adobe.com/photoshop/using/understanding-color-management.html",
+      "publisher": "Adobe",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_photop1_4f33cbf03120fe81_thesis",
+      "wording_ru": "Тень — не отсутствие информации, а способ её организовать. Именно тень делает объём, ритм, паузу, тайну и ощущение реальности.",
+      "wording_en": "Shadow is not the absence of information, but a way of organizing it. Shadow creates volume, rhythm, pause, mystery and the feeling of reality.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_photop1_4f33cbf03120fe81_first",
+      "wording_ru": "Без тени предмет становится схемой. С тенью он получает вес.",
+      "wording_en": "Without shadow an object becomes a diagram. With shadow it gains weight.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_photop1_4f33cbf03120fe81_last",
+      "wording_ru": "Фотограф, который умеет видеть тень, управляет не только светом, но и тишиной изображения.",
+      "wording_en": "A photographer who sees shadow controls not only light, but the silence of the image.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    }
+  ]
+}

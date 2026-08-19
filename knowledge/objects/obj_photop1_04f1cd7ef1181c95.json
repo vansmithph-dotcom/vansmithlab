@@ -1,0 +1,79 @@
+{
+  "id": "obj_photop1_04f1cd7ef1181c95",
+  "category": "analysis",
+  "canonical_name": "Почему случайный кадр редко бывает случайным",
+  "canonical_name_en": "Why an accidental frame is rarely accidental",
+  "title_ru": "Почему случайный кадр редко бывает случайным",
+  "slug_ru": "why-accidental-frame-is-rarely-accidental",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "image-grammar",
+    "fashion-systems"
+  ],
+  "sources": [
+    {
+      "id": "src_photop1_04f1cd7ef1181c95_01",
+      "title": "The Metropolitan Museum of Art — The Collection",
+      "url": "https://www.metmuseum.org/art/collection",
+      "publisher": "The Metropolitan Museum of Art",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_photop1_04f1cd7ef1181c95_02",
+      "title": "MoMA — Collection",
+      "url": "https://www.moma.org/collection/",
+      "publisher": "MoMA",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_photop1_04f1cd7ef1181c95_03",
+      "title": "V&A — 100 years of fashion photography",
+      "url": "https://www.vam.ac.uk/articles/100-years-of-fashion-photography",
+      "publisher": "V&A",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_photop1_04f1cd7ef1181c95_04",
+      "title": "International Color Consortium",
+      "url": "https://www.color.org/",
+      "publisher": "International Color Consortium",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_photop1_04f1cd7ef1181c95_05",
+      "title": "Adobe — Understanding colour management",
+      "url": "https://helpx.adobe.com/photoshop/using/understanding-color-management.html",
+      "publisher": "Adobe",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_photop1_04f1cd7ef1181c95_thesis",
+      "wording_ru": "То, что зритель называет случайным кадром, часто является результатом подготовленного внимания: фотограф знает, где ждать жест, как читать свет и когда не мешать сцене.",
+      "wording_en": "What the viewer calls an accidental frame is often the result of prepared attention: the photographer knows where to wait for a gesture, how to read light and when not to disturb the scene.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_photop1_04f1cd7ef1181c95_first",
+      "wording_ru": "Случайность любит подготовленных. Камера должна быть готова раньше, чем событие станет красивым.",
+      "wording_en": "Accident favors the prepared. The camera must be ready before the event becomes beautiful.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_photop1_04f1cd7ef1181c95_last",
+      "wording_ru": "Случайный кадр становится сильным, когда зритель чувствует жизнь, но не видит хаоса.",
+      "wording_en": "An accidental frame becomes strong when the viewer feels life but does not see chaos.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    }
+  ]
+}

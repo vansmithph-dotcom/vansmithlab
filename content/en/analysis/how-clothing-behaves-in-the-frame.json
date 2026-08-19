@@ -1,0 +1,34 @@
+{
+  "content_id": "cnt_photop1_en_11d71af66c15b097",
+  "primary_object_id": "obj_photop1_11d71af66c15b097",
+  "content_type": "analysis",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_photop1_11d71af66c15b097_thesis",
+    "clm_photop1_11d71af66c15b097_first",
+    "clm_photop1_11d71af66c15b097_last"
+  ],
+  "source_ids": [
+    "src_photop1_11d71af66c15b097_01",
+    "src_photop1_11d71af66c15b097_02",
+    "src_photop1_11d71af66c15b097_03",
+    "src_photop1_11d71af66c15b097_04",
+    "src_photop1_11d71af66c15b097_05"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "how-clothing-behaves-in-the-frame",
+  "title": "How clothing behaves inside a photograph",
+  "summary": "On a hanger, clothing is form. In a photograph, it becomes gesture, reflection, fold and character.",
+  "discipline": [
+    "image-grammar",
+    "fashion-systems"
+  ],
+  "kind": "theme",
+  "body_hash": "c06167b07f33ad4603feb24d162084815b313622ef3b2b9062028326f1edce84"
+}

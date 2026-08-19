@@ -1,0 +1,79 @@
+{
+  "id": "obj_photop1_fdf5fc98c0498775",
+  "category": "analysis",
+  "canonical_name": "Почему ретушь должна быть невидимой",
+  "canonical_name_en": "Why retouching should be invisible",
+  "title_ru": "Почему ретушь должна быть невидимой",
+  "slug_ru": "why-retouching-should-be-invisible",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "image-grammar",
+    "fashion-systems"
+  ],
+  "sources": [
+    {
+      "id": "src_photop1_fdf5fc98c0498775_01",
+      "title": "The Metropolitan Museum of Art — The Collection",
+      "url": "https://www.metmuseum.org/art/collection",
+      "publisher": "The Metropolitan Museum of Art",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_photop1_fdf5fc98c0498775_02",
+      "title": "MoMA — Collection",
+      "url": "https://www.moma.org/collection/",
+      "publisher": "MoMA",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_photop1_fdf5fc98c0498775_03",
+      "title": "V&A — 100 years of fashion photography",
+      "url": "https://www.vam.ac.uk/articles/100-years-of-fashion-photography",
+      "publisher": "V&A",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_photop1_fdf5fc98c0498775_04",
+      "title": "International Color Consortium",
+      "url": "https://www.color.org/",
+      "publisher": "International Color Consortium",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_photop1_fdf5fc98c0498775_05",
+      "title": "Adobe — Understanding colour management",
+      "url": "https://helpx.adobe.com/photoshop/using/understanding-color-management.html",
+      "publisher": "Adobe",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_photop1_fdf5fc98c0498775_thesis",
+      "wording_ru": "Ретушь становится проблемой не тогда, когда она есть, а когда зритель начинает видеть её вместо фотографии. Невидимая ретушь сохраняет фактуру, возраст, материал и правдоподобие света.",
+      "wording_en": "Retouching becomes a problem not when it exists, but when the viewer starts seeing it instead of the photograph. Invisible retouching preserves texture, age, material and the plausibility of light.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_photop1_fdf5fc98c0498775_first",
+      "wording_ru": "Прыщ можно убрать. Кожу нельзя превращать в пластик.",
+      "wording_en": "A pimple can be removed. Skin should not be turned into plastic.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_photop1_fdf5fc98c0498775_last",
+      "wording_ru": "Невидимая ретушь — это этика вкуса: убрать лишнее, не украсть реальность.",
+      "wording_en": "Invisible retouching is an ethics of taste: remove the unnecessary without stealing reality.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    }
+  ]
+}

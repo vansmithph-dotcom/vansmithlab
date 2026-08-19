@@ -1,0 +1,34 @@
+{
+  "content_id": "cnt_photop1_en_382aae08ece55396",
+  "primary_object_id": "obj_photop1_382aae08ece55396",
+  "content_type": "analysis",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_photop1_382aae08ece55396_thesis",
+    "clm_photop1_382aae08ece55396_first",
+    "clm_photop1_382aae08ece55396_last"
+  ],
+  "source_ids": [
+    "src_photop1_382aae08ece55396_01",
+    "src_photop1_382aae08ece55396_02",
+    "src_photop1_382aae08ece55396_03",
+    "src_photop1_382aae08ece55396_04",
+    "src_photop1_382aae08ece55396_05"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "why-product-photography-is-harder-than-it-looks",
+  "title": "Why product photography is harder than it looks",
+  "summary": "An object does not pose. Its character must be built with light, scale and surface.",
+  "discipline": [
+    "image-grammar",
+    "fashion-systems"
+  ],
+  "kind": "theme",
+  "body_hash": "1105a79ba24caa5f77386c74fc8c04cab5b59187263a683db9ba0a8d105c84ec"
+}

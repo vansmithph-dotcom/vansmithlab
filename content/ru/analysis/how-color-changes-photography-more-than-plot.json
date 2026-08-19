@@ -1,0 +1,34 @@
+{
+  "content_id": "cnt_photop1_ru_d2cc0db1e4fc74b3",
+  "primary_object_id": "obj_photop1_d2cc0db1e4fc74b3",
+  "content_type": "analysis",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_photop1_d2cc0db1e4fc74b3_thesis",
+    "clm_photop1_d2cc0db1e4fc74b3_first",
+    "clm_photop1_d2cc0db1e4fc74b3_last"
+  ],
+  "source_ids": [
+    "src_photop1_d2cc0db1e4fc74b3_01",
+    "src_photop1_d2cc0db1e4fc74b3_02",
+    "src_photop1_d2cc0db1e4fc74b3_03",
+    "src_photop1_d2cc0db1e4fc74b3_04",
+    "src_photop1_d2cc0db1e4fc74b3_05"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "how-color-changes-photography-more-than-plot",
+  "title": "Как цвет меняет фотографию сильнее, чем сюжет",
+  "summary": "Один и тот же кадр может стать воспоминанием, витриной, больничным коридором или дорогим сном.",
+  "discipline": [
+    "image-grammar",
+    "fashion-systems"
+  ],
+  "kind": "theme",
+  "body_hash": "48e4638c2354e9140589444af9f35ffeef18c744b6d57533e926ad40ca31edd9"
+}

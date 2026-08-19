@@ -1,0 +1,34 @@
+{
+  "content_id": "cnt_photop1_ru_fdf5fc98c0498775",
+  "primary_object_id": "obj_photop1_fdf5fc98c0498775",
+  "content_type": "analysis",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_photop1_fdf5fc98c0498775_thesis",
+    "clm_photop1_fdf5fc98c0498775_first",
+    "clm_photop1_fdf5fc98c0498775_last"
+  ],
+  "source_ids": [
+    "src_photop1_fdf5fc98c0498775_01",
+    "src_photop1_fdf5fc98c0498775_02",
+    "src_photop1_fdf5fc98c0498775_03",
+    "src_photop1_fdf5fc98c0498775_04",
+    "src_photop1_fdf5fc98c0498775_05"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "why-retouching-should-be-invisible",
+  "title": "Почему ретушь должна быть невидимой",
+  "summary": "Хорошая ретушь не украшает кадр. Она возвращает ему доверие.",
+  "discipline": [
+    "image-grammar",
+    "fashion-systems"
+  ],
+  "kind": "theme",
+  "body_hash": "88600179d8055ee00c94540221be18b724df002bc738906480b7a91e61a8929a"
+}

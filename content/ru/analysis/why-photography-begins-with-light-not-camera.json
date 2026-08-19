@@ -1,0 +1,34 @@
+{
+  "content_id": "cnt_photop1_ru_5f55098c9901f4cf",
+  "primary_object_id": "obj_photop1_5f55098c9901f4cf",
+  "content_type": "analysis",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_photop1_5f55098c9901f4cf_thesis",
+    "clm_photop1_5f55098c9901f4cf_first",
+    "clm_photop1_5f55098c9901f4cf_last"
+  ],
+  "source_ids": [
+    "src_photop1_5f55098c9901f4cf_01",
+    "src_photop1_5f55098c9901f4cf_02",
+    "src_photop1_5f55098c9901f4cf_03",
+    "src_photop1_5f55098c9901f4cf_04",
+    "src_photop1_5f55098c9901f4cf_05"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "why-photography-begins-with-light-not-camera",
+  "title": "Почему фотография начинается не с камеры, а со света",
+  "summary": "Камера записывает. Свет строит форму, цену, время и доверие кадра.",
+  "discipline": [
+    "image-grammar",
+    "fashion-systems"
+  ],
+  "kind": "theme",
+  "body_hash": "661ccc76b03041532f0aa82a8a7ff64ee6cb0b1c67055fef05ff66a761edc1ab"
+}

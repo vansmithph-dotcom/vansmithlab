@@ -1,0 +1,79 @@
+{
+  "id": "obj_photop1_4599148ebb14ca29",
+  "category": "analysis",
+  "canonical_name": "Почему плохой свет портит даже красивого человека",
+  "canonical_name_en": "Why bad light ruins even a beautiful person",
+  "title_ru": "Почему плохой свет портит даже красивого человека",
+  "slug_ru": "why-bad-light-ruins-even-a-beautiful-person",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "image-grammar",
+    "fashion-systems"
+  ],
+  "sources": [
+    {
+      "id": "src_photop1_4599148ebb14ca29_01",
+      "title": "The Metropolitan Museum of Art — The Collection",
+      "url": "https://www.metmuseum.org/art/collection",
+      "publisher": "The Metropolitan Museum of Art",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_photop1_4599148ebb14ca29_02",
+      "title": "MoMA — Collection",
+      "url": "https://www.moma.org/collection/",
+      "publisher": "MoMA",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_photop1_4599148ebb14ca29_03",
+      "title": "V&A — 100 years of fashion photography",
+      "url": "https://www.vam.ac.uk/articles/100-years-of-fashion-photography",
+      "publisher": "V&A",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_photop1_4599148ebb14ca29_04",
+      "title": "International Color Consortium",
+      "url": "https://www.color.org/",
+      "publisher": "International Color Consortium",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_photop1_4599148ebb14ca29_05",
+      "title": "Adobe — Understanding colour management",
+      "url": "https://helpx.adobe.com/photoshop/using/understanding-color-management.html",
+      "publisher": "Adobe",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_photop1_4599148ebb14ca29_thesis",
+      "wording_ru": "Плохой свет не просто делает человека “некрасивым”. Он ломает объём, меняет возраст, загрязняет кожу, съедает взгляд и превращает лицо в случайную поверхность.",
+      "wording_en": "Bad light does not merely make a person look “unattractive.” It breaks volume, changes age, contaminates skin, consumes the gaze and turns the face into an accidental surface.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_photop1_4599148ebb14ca29_first",
+      "wording_ru": "Жёсткий свет сверху может добавить лицу усталость, даже если человек отдохнувший и красивый.",
+      "wording_en": "Hard overhead light can add fatigue to a face even when the person is rested and beautiful.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_photop1_4599148ebb14ca29_last",
+      "wording_ru": "Красота в кадре — это не лицо отдельно, а союз лица, света, расстояния и решения.",
+      "wording_en": "Beauty in a frame is not a face alone, but an alliance of face, light, distance and decision.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    }
+  ]
+}

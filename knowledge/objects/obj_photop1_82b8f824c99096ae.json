@@ -1,0 +1,79 @@
+{
+  "id": "obj_photop1_82b8f824c99096ae",
+  "category": "analysis",
+  "canonical_name": "Как фотография превращает обычное место в сцену",
+  "canonical_name_en": "How photography turns an ordinary place into a scene",
+  "title_ru": "Как фотография превращает обычное место в сцену",
+  "slug_ru": "how-photography-turns-an-ordinary-place-into-a-scene",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "image-grammar",
+    "fashion-systems"
+  ],
+  "sources": [
+    {
+      "id": "src_photop1_82b8f824c99096ae_01",
+      "title": "The Metropolitan Museum of Art — The Collection",
+      "url": "https://www.metmuseum.org/art/collection",
+      "publisher": "The Metropolitan Museum of Art",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_photop1_82b8f824c99096ae_02",
+      "title": "MoMA — Collection",
+      "url": "https://www.moma.org/collection/",
+      "publisher": "MoMA",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_photop1_82b8f824c99096ae_03",
+      "title": "V&A — 100 years of fashion photography",
+      "url": "https://www.vam.ac.uk/articles/100-years-of-fashion-photography",
+      "publisher": "V&A",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_photop1_82b8f824c99096ae_04",
+      "title": "International Color Consortium",
+      "url": "https://www.color.org/",
+      "publisher": "International Color Consortium",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_photop1_82b8f824c99096ae_05",
+      "title": "Adobe — Understanding colour management",
+      "url": "https://helpx.adobe.com/photoshop/using/understanding-color-management.html",
+      "publisher": "Adobe",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_photop1_82b8f824c99096ae_thesis",
+      "wording_ru": "Фотография не обязана искать “красивую локацию”. Она может превратить обычное место в сцену, если прочитать в нём свет, оси, фон, масштаб и скрытую драму.",
+      "wording_en": "Photography does not have to search for a “beautiful location.” It can turn an ordinary place into a scene by reading its light, axes, background, scale and hidden drama.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_photop1_82b8f824c99096ae_first",
+      "wording_ru": "Обычная комната часто кажется скучной, пока фотограф не найдёт в ней один источник света и одну сильную линию.",
+      "wording_en": "An ordinary room often seems boring until the photographer finds one light source and one strong line.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_photop1_82b8f824c99096ae_last",
+      "wording_ru": "Фотограф превращает место в сцену не добавлением красоты, а удалением лишних объяснений.",
+      "wording_en": "The photographer turns a place into a scene not by adding beauty, but by removing unnecessary explanations.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    }
+  ]
+}

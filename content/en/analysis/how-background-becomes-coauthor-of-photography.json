@@ -1,0 +1,34 @@
+{
+  "content_id": "cnt_photop1_en_f70429163da01426",
+  "primary_object_id": "obj_photop1_f70429163da01426",
+  "content_type": "analysis",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_photop1_f70429163da01426_thesis",
+    "clm_photop1_f70429163da01426_first",
+    "clm_photop1_f70429163da01426_last"
+  ],
+  "source_ids": [
+    "src_photop1_f70429163da01426_01",
+    "src_photop1_f70429163da01426_02",
+    "src_photop1_f70429163da01426_03",
+    "src_photop1_f70429163da01426_04",
+    "src_photop1_f70429163da01426_05"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "how-background-becomes-coauthor-of-photography",
+  "title": "How background becomes a co-author of photography",
+  "summary": "Background is not “behind.” It assigns period, value, temperature and truth.",
+  "discipline": [
+    "image-grammar",
+    "fashion-systems"
+  ],
+  "kind": "theme",
+  "body_hash": "7acc5618b512c13e311d8a44624329146c8225432a35b1a01d7691933702fca2"
+}

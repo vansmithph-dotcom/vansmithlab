@@ -1,0 +1,34 @@
+{
+  "content_id": "cnt_photop1_en_d2cc0db1e4fc74b3",
+  "primary_object_id": "obj_photop1_d2cc0db1e4fc74b3",
+  "content_type": "analysis",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_photop1_d2cc0db1e4fc74b3_thesis",
+    "clm_photop1_d2cc0db1e4fc74b3_first",
+    "clm_photop1_d2cc0db1e4fc74b3_last"
+  ],
+  "source_ids": [
+    "src_photop1_d2cc0db1e4fc74b3_01",
+    "src_photop1_d2cc0db1e4fc74b3_02",
+    "src_photop1_d2cc0db1e4fc74b3_03",
+    "src_photop1_d2cc0db1e4fc74b3_04",
+    "src_photop1_d2cc0db1e4fc74b3_05"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "how-color-changes-photography-more-than-plot",
+  "title": "How color changes photography more than plot",
+  "summary": "The same frame can become a memory, a shop window, a hospital corridor or an expensive dream.",
+  "discipline": [
+    "image-grammar",
+    "fashion-systems"
+  ],
+  "kind": "theme",
+  "body_hash": "8800d0c60967163b9d8aa5ffe73ab9130cf467bf2ca91f4574eab102df814635"
+}

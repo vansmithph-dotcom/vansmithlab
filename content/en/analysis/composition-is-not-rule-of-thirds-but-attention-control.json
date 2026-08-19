@@ -1,0 +1,34 @@
+{
+  "content_id": "cnt_photop1_en_6abab3d9a2fd3ab6",
+  "primary_object_id": "obj_photop1_6abab3d9a2fd3ab6",
+  "content_type": "analysis",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_photop1_6abab3d9a2fd3ab6_thesis",
+    "clm_photop1_6abab3d9a2fd3ab6_first",
+    "clm_photop1_6abab3d9a2fd3ab6_last"
+  ],
+  "source_ids": [
+    "src_photop1_6abab3d9a2fd3ab6_01",
+    "src_photop1_6abab3d9a2fd3ab6_02",
+    "src_photop1_6abab3d9a2fd3ab6_03",
+    "src_photop1_6abab3d9a2fd3ab6_04",
+    "src_photop1_6abab3d9a2fd3ab6_05"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "composition-is-not-rule-of-thirds-but-attention-control",
+  "title": "Why composition is not the rule of thirds but attention control",
+  "summary": "Composition begins when the photographer decides what the viewer sees first, second and last.",
+  "discipline": [
+    "image-grammar",
+    "fashion-systems"
+  ],
+  "kind": "theme",
+  "body_hash": "076fc2f8a5ffc3f25be04598474aa98fd073cffed131281520aea4f1b678a067"
+}

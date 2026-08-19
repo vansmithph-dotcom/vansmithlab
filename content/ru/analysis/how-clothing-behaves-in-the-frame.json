@@ -1,0 +1,34 @@
+{
+  "content_id": "cnt_photop1_ru_11d71af66c15b097",
+  "primary_object_id": "obj_photop1_11d71af66c15b097",
+  "content_type": "analysis",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_photop1_11d71af66c15b097_thesis",
+    "clm_photop1_11d71af66c15b097_first",
+    "clm_photop1_11d71af66c15b097_last"
+  ],
+  "source_ids": [
+    "src_photop1_11d71af66c15b097_01",
+    "src_photop1_11d71af66c15b097_02",
+    "src_photop1_11d71af66c15b097_03",
+    "src_photop1_11d71af66c15b097_04",
+    "src_photop1_11d71af66c15b097_05"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "how-clothing-behaves-in-the-frame",
+  "title": "Как одежда ведёт себя в кадре",
+  "summary": "На вешалке одежда форма. В кадре она становится жестом, бликом, складкой и характером.",
+  "discipline": [
+    "image-grammar",
+    "fashion-systems"
+  ],
+  "kind": "theme",
+  "body_hash": "f2662064a0638876d173e75fe8089861a1764c9657b6ca3ad5eb8e18b50944d4"
+}

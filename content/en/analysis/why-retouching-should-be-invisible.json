@@ -1,0 +1,34 @@
+{
+  "content_id": "cnt_photop1_en_fdf5fc98c0498775",
+  "primary_object_id": "obj_photop1_fdf5fc98c0498775",
+  "content_type": "analysis",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_photop1_fdf5fc98c0498775_thesis",
+    "clm_photop1_fdf5fc98c0498775_first",
+    "clm_photop1_fdf5fc98c0498775_last"
+  ],
+  "source_ids": [
+    "src_photop1_fdf5fc98c0498775_01",
+    "src_photop1_fdf5fc98c0498775_02",
+    "src_photop1_fdf5fc98c0498775_03",
+    "src_photop1_fdf5fc98c0498775_04",
+    "src_photop1_fdf5fc98c0498775_05"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "why-retouching-should-be-invisible",
+  "title": "Why retouching should be invisible",
+  "summary": "Good retouching does not decorate the frame. It returns trust to it.",
+  "discipline": [
+    "image-grammar",
+    "fashion-systems"
+  ],
+  "kind": "theme",
+  "body_hash": "2c6ead868873fc6b033fc03f23f3fb9b26666ef87dc09a04e12dba84e0532561"
+}

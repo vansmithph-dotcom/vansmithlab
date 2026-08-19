@@ -1,0 +1,34 @@
+{
+  "content_id": "cnt_photop1_en_04f1cd7ef1181c95",
+  "primary_object_id": "obj_photop1_04f1cd7ef1181c95",
+  "content_type": "analysis",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_photop1_04f1cd7ef1181c95_thesis",
+    "clm_photop1_04f1cd7ef1181c95_first",
+    "clm_photop1_04f1cd7ef1181c95_last"
+  ],
+  "source_ids": [
+    "src_photop1_04f1cd7ef1181c95_01",
+    "src_photop1_04f1cd7ef1181c95_02",
+    "src_photop1_04f1cd7ef1181c95_03",
+    "src_photop1_04f1cd7ef1181c95_04",
+    "src_photop1_04f1cd7ef1181c95_05"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "why-accidental-frame-is-rarely-accidental",
+  "title": "Why an accidental frame is rarely accidental",
+  "summary": "Accident works only for someone who has trained the eye in advance.",
+  "discipline": [
+    "image-grammar",
+    "fashion-systems"
+  ],
+  "kind": "theme",
+  "body_hash": "c85864f4d0403335d024ce4cd815ccccd2cbefe571f5830b2b4938a89baa0574"
+}

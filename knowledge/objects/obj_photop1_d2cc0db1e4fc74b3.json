@@ -1,0 +1,79 @@
+{
+  "id": "obj_photop1_d2cc0db1e4fc74b3",
+  "category": "analysis",
+  "canonical_name": "Как цвет меняет фотографию сильнее, чем сюжет",
+  "canonical_name_en": "How color changes photography more than plot",
+  "title_ru": "Как цвет меняет фотографию сильнее, чем сюжет",
+  "slug_ru": "how-color-changes-photography-more-than-plot",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "image-grammar",
+    "fashion-systems"
+  ],
+  "sources": [
+    {
+      "id": "src_photop1_d2cc0db1e4fc74b3_01",
+      "title": "The Metropolitan Museum of Art — The Collection",
+      "url": "https://www.metmuseum.org/art/collection",
+      "publisher": "The Metropolitan Museum of Art",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_photop1_d2cc0db1e4fc74b3_02",
+      "title": "MoMA — Collection",
+      "url": "https://www.moma.org/collection/",
+      "publisher": "MoMA",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_photop1_d2cc0db1e4fc74b3_03",
+      "title": "V&A — 100 years of fashion photography",
+      "url": "https://www.vam.ac.uk/articles/100-years-of-fashion-photography",
+      "publisher": "V&A",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_photop1_d2cc0db1e4fc74b3_04",
+      "title": "International Color Consortium",
+      "url": "https://www.color.org/",
+      "publisher": "International Color Consortium",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_photop1_d2cc0db1e4fc74b3_05",
+      "title": "Adobe — Understanding colour management",
+      "url": "https://helpx.adobe.com/photoshop/using/understanding-color-management.html",
+      "publisher": "Adobe",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_photop1_d2cc0db1e4fc74b3_thesis",
+      "wording_ru": "Цвет рассказывает историю раньше сюжета. До того как зритель понял, кто в кадре и что происходит, температура, насыщенность и цветовые загрязнения уже назначили настроение.",
+      "wording_en": "Color tells the story before the plot. Before the viewer understands who is in the frame or what is happening, temperature, saturation and color contamination have already assigned a mood.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_photop1_d2cc0db1e4fc74b3_first",
+      "wording_ru": "Тёплый цвет приближает изображение к телу, коже и памяти. Холодный отодвигает его к стеклу, дистанции и контролю.",
+      "wording_en": "Warm color moves the image toward body, skin and memory. Cool color pushes it toward glass, distance and control.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_photop1_d2cc0db1e4fc74b3_last",
+      "wording_ru": "Хороший цвет не кричит, что он хороший. Он заставляет зрителя поверить, что другого цвета у этой сцены быть не могло.",
+      "wording_en": "Good color does not announce itself. It makes the viewer believe the scene could not have had another color.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    }
+  ]
+}

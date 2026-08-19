@@ -1,0 +1,34 @@
+{
+  "content_id": "cnt_photop1_en_4f33cbf03120fe81",
+  "primary_object_id": "obj_photop1_4f33cbf03120fe81",
+  "content_type": "analysis",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_photop1_4f33cbf03120fe81_thesis",
+    "clm_photop1_4f33cbf03120fe81_first",
+    "clm_photop1_4f33cbf03120fe81_last"
+  ],
+  "source_ids": [
+    "src_photop1_4f33cbf03120fe81_01",
+    "src_photop1_4f33cbf03120fe81_02",
+    "src_photop1_4f33cbf03120fe81_03",
+    "src_photop1_4f33cbf03120fe81_04",
+    "src_photop1_4f33cbf03120fe81_05"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "why-shadow-is-more-important-than-light",
+  "title": "Why shadow is more important than light",
+  "summary": "Light reveals. Shadow makes form believable.",
+  "discipline": [
+    "image-grammar",
+    "fashion-systems"
+  ],
+  "kind": "theme",
+  "body_hash": "d0a28861e3a1afb98660ba2ddfb6be3180e497942bb8d857ed1c12aea94804a6"
+}

@@ -1,0 +1,34 @@
+{
+  "content_id": "cnt_photop1_ru_82b8f824c99096ae",
+  "primary_object_id": "obj_photop1_82b8f824c99096ae",
+  "content_type": "analysis",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_photop1_82b8f824c99096ae_thesis",
+    "clm_photop1_82b8f824c99096ae_first",
+    "clm_photop1_82b8f824c99096ae_last"
+  ],
+  "source_ids": [
+    "src_photop1_82b8f824c99096ae_01",
+    "src_photop1_82b8f824c99096ae_02",
+    "src_photop1_82b8f824c99096ae_03",
+    "src_photop1_82b8f824c99096ae_04",
+    "src_photop1_82b8f824c99096ae_05"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "how-photography-turns-an-ordinary-place-into-a-scene",
+  "title": "Как фотография превращает обычное место в сцену",
+  "summary": "Комната становится кадром, когда фотограф видит свет, линии и паузу раньше мебели.",
+  "discipline": [
+    "image-grammar",
+    "fashion-systems"
+  ],
+  "kind": "theme",
+  "body_hash": "561a25933bae4d2a6c9efe58129d1b9a16d4e02fa40e6c2ec37c0ad47d9b0293"
+}

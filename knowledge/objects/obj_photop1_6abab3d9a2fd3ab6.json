@@ -1,0 +1,79 @@
+{
+  "id": "obj_photop1_6abab3d9a2fd3ab6",
+  "category": "analysis",
+  "canonical_name": "Почему композиция — это не правило третей, а управление вниманием",
+  "canonical_name_en": "Why composition is not the rule of thirds but attention control",
+  "title_ru": "Почему композиция — это не правило третей, а управление вниманием",
+  "slug_ru": "composition-is-not-rule-of-thirds-but-attention-control",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "image-grammar",
+    "fashion-systems"
+  ],
+  "sources": [
+    {
+      "id": "src_photop1_6abab3d9a2fd3ab6_01",
+      "title": "The Metropolitan Museum of Art — The Collection",
+      "url": "https://www.metmuseum.org/art/collection",
+      "publisher": "The Metropolitan Museum of Art",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_photop1_6abab3d9a2fd3ab6_02",
+      "title": "MoMA — Collection",
+      "url": "https://www.moma.org/collection/",
+      "publisher": "MoMA",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_photop1_6abab3d9a2fd3ab6_03",
+      "title": "V&A — 100 years of fashion photography",
+      "url": "https://www.vam.ac.uk/articles/100-years-of-fashion-photography",
+      "publisher": "V&A",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_photop1_6abab3d9a2fd3ab6_04",
+      "title": "International Color Consortium",
+      "url": "https://www.color.org/",
+      "publisher": "International Color Consortium",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_photop1_6abab3d9a2fd3ab6_05",
+      "title": "Adobe — Understanding colour management",
+      "url": "https://helpx.adobe.com/photoshop/using/understanding-color-management.html",
+      "publisher": "Adobe",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_photop1_6abab3d9a2fd3ab6_thesis",
+      "wording_ru": "Композиция — это не сетка поверх кадра. Это сценарий движения глаза: вход, задержка, конфликт, пауза и выход.",
+      "wording_en": "Composition is not a grid placed over the frame. It is a script for the eye: entrance, delay, conflict, pause and exit.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_photop1_6abab3d9a2fd3ab6_first",
+      "wording_ru": "Правило третей полезно как костыль, но опасно как религия: оно часто делает кадры правильными и пустыми.",
+      "wording_en": "The rule of thirds is useful as a crutch, but dangerous as a religion: it often makes images correct and empty.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_photop1_6abab3d9a2fd3ab6_last",
+      "wording_ru": "Хорошая композиция не говорит “посмотри сюда”. Она делает так, что зритель сам туда приходит.",
+      "wording_en": "Good composition does not say “look here.” It makes the viewer arrive there by themselves.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    }
+  ]
+}

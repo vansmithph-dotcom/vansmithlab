@@ -1,0 +1,79 @@
+{
+  "id": "obj_photop1_0cc4fdb4a1158788",
+  "category": "analysis",
+  "canonical_name": "Что делает фотографию дорогой на вид",
+  "canonical_name_en": "What makes a photograph look expensive",
+  "title_ru": "Что делает фотографию дорогой на вид",
+  "slug_ru": "what-makes-a-photograph-look-expensive",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "image-grammar",
+    "fashion-systems"
+  ],
+  "sources": [
+    {
+      "id": "src_photop1_0cc4fdb4a1158788_01",
+      "title": "The Metropolitan Museum of Art — The Collection",
+      "url": "https://www.metmuseum.org/art/collection",
+      "publisher": "The Metropolitan Museum of Art",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_photop1_0cc4fdb4a1158788_02",
+      "title": "MoMA — Collection",
+      "url": "https://www.moma.org/collection/",
+      "publisher": "MoMA",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_photop1_0cc4fdb4a1158788_03",
+      "title": "V&A — 100 years of fashion photography",
+      "url": "https://www.vam.ac.uk/articles/100-years-of-fashion-photography",
+      "publisher": "V&A",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_photop1_0cc4fdb4a1158788_04",
+      "title": "International Color Consortium",
+      "url": "https://www.color.org/",
+      "publisher": "International Color Consortium",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_photop1_0cc4fdb4a1158788_05",
+      "title": "Adobe — Understanding colour management",
+      "url": "https://helpx.adobe.com/photoshop/using/understanding-color-management.html",
+      "publisher": "Adobe",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_photop1_0cc4fdb4a1158788_thesis",
+      "wording_ru": "Дорогой вид создаётся не ценой камеры, а системой решений: свет, дистанция, пауза, чистый цвет, уверенная композиция, тактильный материал и отсутствие визуальной суеты.",
+      "wording_en": "An expensive look is not created by the price of the camera, but by a system of decisions: light, distance, pause, clean color, confident composition, tactile material and the absence of visual noise.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_photop1_0cc4fdb4a1158788_first",
+      "wording_ru": "Дешёвый кадр часто пытается доказать, что он красивый. Дорогой кадр позволяет зрителю самому это обнаружить.",
+      "wording_en": "A cheap image often tries to prove that it is beautiful. An expensive image lets the viewer discover it.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_photop1_0cc4fdb4a1158788_last",
+      "wording_ru": "Настоящая дороговизна — это когда зритель не видит усилий, но чувствует контроль.",
+      "wording_en": "True expense is when the viewer does not see the effort, but feels the control.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "id": "obj_photop1_5f55098c9901f4cf",
+  "category": "analysis",
+  "canonical_name": "Почему фотография начинается не с камеры, а со света",
+  "canonical_name_en": "Why photography begins with light, not with the camera",
+  "title_ru": "Почему фотография начинается не с камеры, а со света",
+  "slug_ru": "why-photography-begins-with-light-not-camera",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "image-grammar",
+    "fashion-systems"
+  ],
+  "sources": [
+    {
+      "id": "src_photop1_5f55098c9901f4cf_01",
+      "title": "The Metropolitan Museum of Art — The Collection",
+      "url": "https://www.metmuseum.org/art/collection",
+      "publisher": "The Metropolitan Museum of Art",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_photop1_5f55098c9901f4cf_02",
+      "title": "MoMA — Collection",
+      "url": "https://www.moma.org/collection/",
+      "publisher": "MoMA",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_photop1_5f55098c9901f4cf_03",
+      "title": "V&A — 100 years of fashion photography",
+      "url": "https://www.vam.ac.uk/articles/100-years-of-fashion-photography",
+      "publisher": "V&A",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_photop1_5f55098c9901f4cf_04",
+      "title": "International Color Consortium",
+      "url": "https://www.color.org/",
+      "publisher": "International Color Consortium",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_photop1_5f55098c9901f4cf_05",
+      "title": "Adobe — Understanding colour management",
+      "url": "https://helpx.adobe.com/photoshop/using/understanding-color-management.html",
+      "publisher": "Adobe",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_photop1_5f55098c9901f4cf_thesis",
+      "wording_ru": "Фотографию создаёт не модель камеры, а ситуация света: его направление, расстояние, мягкость, цвет, отражение и тень. Камера важна, но она приходит позже — как регистратор уже случившегося светового решения.",
+      "wording_en": "Photography is not created by the camera model but by the light situation: direction, distance, softness, color, reflection and shadow. The camera matters, but it arrives later as a recorder of an already-made light decision.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_photop1_5f55098c9901f4cf_first",
+      "wording_ru": "Свет решает, есть ли у лица форма, у ткани вес, у стены воздух, а у предмета цена.",
+      "wording_en": "Light decides whether a face has form, a fabric has weight, a wall has air and an object has value.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_photop1_5f55098c9901f4cf_last",
+      "wording_ru": "Главный вопрос на площадке: не какая камера, а откуда приходит свет и что он хочет сказать.",
+      "wording_en": "The main question on set is not which camera, but where the light comes from and what it wants to say.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    }
+  ]
+}

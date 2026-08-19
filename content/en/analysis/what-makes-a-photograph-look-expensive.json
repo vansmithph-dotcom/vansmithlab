@@ -1,0 +1,34 @@
+{
+  "content_id": "cnt_photop1_en_0cc4fdb4a1158788",
+  "primary_object_id": "obj_photop1_0cc4fdb4a1158788",
+  "content_type": "analysis",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_photop1_0cc4fdb4a1158788_thesis",
+    "clm_photop1_0cc4fdb4a1158788_first",
+    "clm_photop1_0cc4fdb4a1158788_last"
+  ],
+  "source_ids": [
+    "src_photop1_0cc4fdb4a1158788_01",
+    "src_photop1_0cc4fdb4a1158788_02",
+    "src_photop1_0cc4fdb4a1158788_03",
+    "src_photop1_0cc4fdb4a1158788_04",
+    "src_photop1_0cc4fdb4a1158788_05"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "what-makes-a-photograph-look-expensive",
+  "title": "What makes a photograph look expensive",
+  "summary": "An expensive image rarely shouts. It knows how to hold distance, air and material.",
+  "discipline": [
+    "image-grammar",
+    "fashion-systems"
+  ],
+  "kind": "theme",
+  "body_hash": "edb4c234ccbe3f1ab2f0cf4f517803d4e2252d3bcf087ead716ea90a55657d6a"
+}

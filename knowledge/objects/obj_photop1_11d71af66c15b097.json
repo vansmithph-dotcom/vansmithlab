@@ -1,0 +1,79 @@
+{
+  "id": "obj_photop1_11d71af66c15b097",
+  "category": "analysis",
+  "canonical_name": "Как одежда ведёт себя в кадре",
+  "canonical_name_en": "How clothing behaves inside a photograph",
+  "title_ru": "Как одежда ведёт себя в кадре",
+  "slug_ru": "how-clothing-behaves-in-the-frame",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "image-grammar",
+    "fashion-systems"
+  ],
+  "sources": [
+    {
+      "id": "src_photop1_11d71af66c15b097_01",
+      "title": "The Metropolitan Museum of Art — The Collection",
+      "url": "https://www.metmuseum.org/art/collection",
+      "publisher": "The Metropolitan Museum of Art",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_photop1_11d71af66c15b097_02",
+      "title": "MoMA — Collection",
+      "url": "https://www.moma.org/collection/",
+      "publisher": "MoMA",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_photop1_11d71af66c15b097_03",
+      "title": "V&A — 100 years of fashion photography",
+      "url": "https://www.vam.ac.uk/articles/100-years-of-fashion-photography",
+      "publisher": "V&A",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_photop1_11d71af66c15b097_04",
+      "title": "International Color Consortium",
+      "url": "https://www.color.org/",
+      "publisher": "International Color Consortium",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_photop1_11d71af66c15b097_05",
+      "title": "Adobe — Understanding colour management",
+      "url": "https://helpx.adobe.com/photoshop/using/understanding-color-management.html",
+      "publisher": "Adobe",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_photop1_11d71af66c15b097_thesis",
+      "wording_ru": "Одежда в фотографии живёт не как вещь из бутика, а как поверхность под светом и тело в движении. Кадр может раскрыть крой, а может уничтожить его.",
+      "wording_en": "Clothing in photography does not live like an object in a boutique, but as a surface under light and a body in motion. The frame can reveal cut, or destroy it.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_photop1_11d71af66c15b097_first",
+      "wording_ru": "Пиджак, платье, трикотаж и пальто требуют разной дистанции: иначе исчезают конструкция, вес и воздух.",
+      "wording_en": "A jacket, dress, knitwear and coat require different distances; otherwise construction, weight and air disappear.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_photop1_11d71af66c15b097_last",
+      "wording_ru": "Сильная fashion фотография показывает не только “лук”, а поведение одежды в мире.",
+      "wording_en": "Strong fashion photography shows not only a look, but how clothing behaves in the world.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    }
+  ]
+}

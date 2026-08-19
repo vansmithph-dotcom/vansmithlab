@@ -1,0 +1,34 @@
+{
+  "content_id": "cnt_photop1_ru_0cc4fdb4a1158788",
+  "primary_object_id": "obj_photop1_0cc4fdb4a1158788",
+  "content_type": "analysis",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_photop1_0cc4fdb4a1158788_thesis",
+    "clm_photop1_0cc4fdb4a1158788_first",
+    "clm_photop1_0cc4fdb4a1158788_last"
+  ],
+  "source_ids": [
+    "src_photop1_0cc4fdb4a1158788_01",
+    "src_photop1_0cc4fdb4a1158788_02",
+    "src_photop1_0cc4fdb4a1158788_03",
+    "src_photop1_0cc4fdb4a1158788_04",
+    "src_photop1_0cc4fdb4a1158788_05"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "what-makes-a-photograph-look-expensive",
+  "title": "Что делает фотографию дорогой на вид",
+  "summary": "Дорогой кадр редко кричит. Он умеет держать дистанцию, воздух и материал.",
+  "discipline": [
+    "image-grammar",
+    "fashion-systems"
+  ],
+  "kind": "theme",
+  "body_hash": "a891e6fd1847bc0cdfb4f3434f549296eacfc0a089208859ffb0fdd95c982631"
+}
