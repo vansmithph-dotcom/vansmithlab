@@ -3,6 +3,7 @@ import Link from "next/link";
 import Image from "next/image";
 import { notFound } from "next/navigation";
 import { TrustPanel } from "@/components/TrustPanel";
+import SearchClientContent from "@/components/SearchClientContent";
 import { listContent } from "@/lib/content";
 import { copy, isLocale } from "@/lib/site-data";
 
@@ -10,6 +11,7 @@ export type SectionConfig = {
   key: string;
   noDetailRoutes?: boolean;
   searchForm?: boolean;
+  searchData?: any[];
 };
 
 export function sectionGenerateStaticParams() {
@@ -37,6 +39,24 @@ export function SectionPage({ locale, section, config }: { locale: string; secti
   if (!isLocale(locale) || !(section in copy[locale].section)) notFound();
   const content = copy[locale];
   const page = content.section[section];
+
+  // If this is the search page with data, render the search client
+  if (config.searchData) {
+    return (
+      <section className="shell page-shell">
+        <div className="page-intro">
+          <div>
+            <p className="eyebrow">{page.eyebrow}</p>
+            <h1>{page.title}</h1>
+            <p>{page.text}</p>
+          </div>
+          <TrustPanel locale={locale} />
+        </div>
+        <SearchClientContent locale={locale} allContent={config.searchData} />
+      </section>
+    );
+  }
+
   const releases = listContent(locale, section);
   const hasContent = releases.length > 0;
 

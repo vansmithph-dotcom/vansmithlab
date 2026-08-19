@@ -47,7 +47,7 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
 
       <div className="listing-header">
         <p>{locale === "ru" ? "Датированные события и периоды" : "Dated events and periods"}</p>
-        <span>{String(stats.events).padStart(2, "0")}</span>
+        <span>{String(years.reduce((sum, year) => sum + year.events.length, 0)).padStart(2, "0")}</span>
       </div>
 
       {years.length === 0 ? (
