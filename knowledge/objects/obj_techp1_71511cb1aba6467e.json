@@ -1,0 +1,78 @@
+{
+  "id": "obj_techp1_71511cb1aba6467e",
+  "category": "technology",
+  "canonical_name": "Трёхмерный гауссов сплаттинг",
+  "canonical_name_en": "3D Gaussian splatting",
+  "title_ru": "Трёхмерный гауссов сплаттинг",
+  "slug_ru": "3d-gaussian-splatting",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "technology",
+    "image-grammar"
+  ],
+  "sources": [
+    {
+      "id": "src_techp1_71511cb1aba6467e_01",
+      "title": "INRIA — 3D Gaussian Splatting for Real-Time Radiance Field Rendering",
+      "url": "https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/",
+      "publisher": "INRIA",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_techp1_71511cb1aba6467e_02",
+      "title": "ACM — SIGGRAPH proceedings",
+      "url": "https://dl.acm.org/doi/10.1145/3592433",
+      "publisher": "ACM",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_techp1_71511cb1aba6467e_03",
+      "title": "NVlabs — Instant-NGP project page",
+      "url": "https://nvlabs.github.io/instant-ngp/",
+      "publisher": "NVlabs",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_techp1_71511cb1aba6467e_04",
+      "title": "NVIDIA — Instant Neural Graphics Primitives",
+      "url": "https://research.nvidia.com/publication/2022-07_instant-neural-graphics-primitives-multiresolution-hash-encoding",
+      "publisher": "NVIDIA",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_techp1_71511cb1aba6467e_thesis",
+      "wording_ru": "Метод важен как возврат к явному представлению сцены после нейронного: качество осталось, а скрытая функция заменена набором объектов, которые можно быстро нарисовать.",
+      "wording_en": "The method matters as a return to explicit scene representation after the neural one: quality remained while a hidden function was replaced by a set of objects that can be drawn quickly.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_techp1_71511cb1aba6467e_origin",
+      "wording_ru": "Сцена описывается набором трёхмерных гауссовых распределений — полупрозрачных эллипсоидов, каждый со своим положением, формой, цветом и прозрачностью. Изображение получается их проекцией и наложением.",
+      "wording_en": "A scene is described by a set of three-dimensional Gaussians — translucent ellipsoids, each with its own position, shape, colour, and opacity. An image is produced by projecting and compositing them.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_techp1_71511cb1aba6467e_critique",
+      "wording_ru": "Метод стал практическим стандартом для синтеза новых видов, вытеснив предшественника в прикладных задачах. Ограничения по редактированию освещения остаются нерешёнными.",
+      "wording_en": "The method has become a practical standard for novel view synthesis, displacing its predecessor in applied work. Limitations on relighting remain unresolved.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_techp1_71511cb1aba6467e_today",
+      "wording_ru": "Отходите от снятых ракурсов. Качество метода проверяется именно там, где камера не была: рассыпание краёв показывает границу достоверности.",
+      "wording_en": "Move away from the captured viewpoints. The method is tested precisely where the camera was not: disintegrating edges show the boundary of reliability.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    }
+  ]
+}

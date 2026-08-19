@@ -1,0 +1,35 @@
+{
+  "content_id": "cnt_techp1_ru_f0251e0534bddbf1",
+  "primary_object_id": "obj_techp1_f0251e0534bddbf1",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_techp1_f0251e0534bddbf1_thesis",
+    "clm_techp1_f0251e0534bddbf1_origin",
+    "clm_techp1_f0251e0534bddbf1_critique",
+    "clm_techp1_f0251e0534bddbf1_today"
+  ],
+  "source_ids": [
+    "src_techp1_f0251e0534bddbf1_01",
+    "src_techp1_f0251e0534bddbf1_02",
+    "src_techp1_f0251e0534bddbf1_03",
+    "src_techp1_f0251e0534bddbf1_04"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "openusd",
+  "title": "OpenUSD — сцена как совместный документ",
+  "summary": "Формат, позволяющий нескольким специалистам править одну сцену одновременно, не переписывая чужую работу.",
+  "discipline": [
+    "technology",
+    "industrial-design"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "bc46f492d4716df68a5ffc6bbcb4728cdf7bc70a6e4c86bc4926cac2702a9ea3"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "obj_techp1_f0251e0534bddbf1",
+  "category": "technology",
+  "canonical_name": "OpenUSD — сцена как совместный документ",
+  "canonical_name_en": "OpenUSD — the scene as a collaborative document",
+  "title_ru": "OpenUSD — сцена как совместный документ",
+  "slug_ru": "openusd",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "technology",
+    "industrial-design"
+  ],
+  "sources": [
+    {
+      "id": "src_techp1_f0251e0534bddbf1_01",
+      "title": "OpenUSD — Introduction",
+      "url": "https://openusd.org/release/intro.html",
+      "publisher": "OpenUSD",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_techp1_f0251e0534bddbf1_02",
+      "title": "OpenUSD — Project site",
+      "url": "https://openusd.org/",
+      "publisher": "OpenUSD",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_techp1_f0251e0534bddbf1_03",
+      "title": "AOUSD — Explainer: what is OpenUSD",
+      "url": "https://aousd.org/blog/explainer-series-what-is-openusd/",
+      "publisher": "AOUSD",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_techp1_f0251e0534bddbf1_04",
+      "title": "Epic Games — Unreal Engine documentation",
+      "url": "https://dev.epicgames.com/documentation/en-us/unreal-engine/designing-visuals-rendering-and-graphics-with-unreal-engine",
+      "publisher": "Epic Games",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_techp1_f0251e0534bddbf1_thesis",
+      "wording_ru": "OpenUSD важен не как файловый формат, а как модель совместной работы: он вводит для трёхмерной сцены то, чем система контроля версий стала для кода.",
+      "wording_en": "OpenUSD matters not as a file format but as a model of collaboration: it introduces for the three-dimensional scene what version control became for code.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_techp1_f0251e0534bddbf1_origin",
+      "wording_ru": "OpenUSD — открытая система описания трёхмерных сцен, разработанная для конвейеров, где над одной сценой работают десятки специалистов. Это не формат хранения модели, а способ её сборки.",
+      "wording_en": "OpenUSD is an open system for describing three-dimensional scenes, developed for pipelines where dozens of specialists work on one scene. It is not a model storage format but a method of assembly.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_techp1_f0251e0534bddbf1_critique",
+      "wording_ru": "Формат стал отраслевым основанием и продолжает распространяться за пределы кино. Основное препятствие — сложность внедрения, а не техническая зрелость.",
+      "wording_en": "The format has become an industry foundation and continues to spread beyond film. The main obstacle is adoption complexity rather than technical maturity.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_techp1_f0251e0534bddbf1_today",
+      "wording_ru": "Оценивая конвейер, смотрите не на формат файлов, а на то, могут ли два человека одновременно менять одну сцену. Это единственный содержательный признак.",
+      "wording_en": "When assessing a pipeline, look not at file formats but at whether two people can change one scene simultaneously. That is the only substantive test.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    }
+  ]
+}

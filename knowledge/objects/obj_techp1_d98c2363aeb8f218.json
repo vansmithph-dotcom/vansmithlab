@@ -1,0 +1,86 @@
+{
+  "id": "obj_techp1_d98c2363aeb8f218",
+  "category": "technology",
+  "canonical_name": "Дополненная реальность и пространственные вычисления",
+  "canonical_name_en": "Augmented reality and spatial computing",
+  "title_ru": "Дополненная реальность и пространственные вычисления",
+  "slug_ru": "augmented-reality-and-spatial-computing",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "technology",
+    "image-grammar"
+  ],
+  "sources": [
+    {
+      "id": "src_techp1_d98c2363aeb8f218_01",
+      "title": "Apple — visionOS for developers",
+      "url": "https://developer.apple.com/visionos/",
+      "publisher": "Apple",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_techp1_d98c2363aeb8f218_02",
+      "title": "Apple — ARKit in visionOS",
+      "url": "https://developer.apple.com/documentation/arkit/arkit-in-visionos",
+      "publisher": "Apple",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_techp1_d98c2363aeb8f218_03",
+      "title": "Apple Support — visionOS guide",
+      "url": "https://support.apple.com/guide/apple-vision-pro/welcome/visionos",
+      "publisher": "Apple Support",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_techp1_d98c2363aeb8f218_04",
+      "title": "Unity — Documentation",
+      "url": "https://docs.unity.com/en-us",
+      "publisher": "Unity",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_techp1_d98c2363aeb8f218_05",
+      "title": "OpenUSD — Introduction",
+      "url": "https://openusd.org/release/intro.html",
+      "publisher": "OpenUSD",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_techp1_d98c2363aeb8f218_thesis",
+      "wording_ru": "Технология важна не как экран у лица, а как первый случай, когда изображению потребовалось знать форму комнаты, чтобы вообще существовать.",
+      "wording_en": "The technology matters not as a screen near the face but as the first case in which an image had to know the shape of a room in order to exist at all.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_techp1_d98c2363aeb8f218_origin",
+      "wording_ru": "Дополненная реальность помещает синтетический объект в изображение реального пространства с сохранением привязки к его геометрии. Пространственные вычисления — более широкий термин: он описывает систему, для которой помещение является структурой данных.",
+      "wording_en": "Augmented reality places a synthetic object into an image of real space while preserving its anchoring to that space’s geometry. Spatial computing is the broader term: it describes a system for which a room is a data structure.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_techp1_d98c2363aeb8f218_critique",
+      "wording_ru": "Оценивая проект, спрашивайте про окклюзию, дрейф и оценку освещения. Три этих параметра определяют, будет ли объект прочитан как присутствующий или как наложенный.",
+      "wording_en": "When assessing a project, ask about occlusion, drift, and lighting estimation. These three parameters determine whether an object reads as present or as overlaid.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_techp1_d98c2363aeb8f218_today",
+      "wording_ru": "Отделяйте демонстрацию от эксплуатации. Ролик снимается в подготовленном помещении с идеальным светом; рабочая ценность технологии проверяется в обычной комнате при обычном освещении.",
+      "wording_en": "Separate demonstration from operation. A promotional clip is shot in a prepared room with ideal light; the technology’s working value is tested in an ordinary room under ordinary lighting.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    }
+  ]
+}

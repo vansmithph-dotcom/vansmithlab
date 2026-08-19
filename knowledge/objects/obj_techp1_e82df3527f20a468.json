@@ -1,0 +1,78 @@
+{
+  "id": "obj_techp1_e82df3527f20a468",
+  "category": "technology",
+  "canonical_name": "Движки реального времени",
+  "canonical_name_en": "Real-time engines",
+  "title_ru": "Движки реального времени",
+  "slug_ru": "real-time-engines",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "technology",
+    "image-grammar"
+  ],
+  "sources": [
+    {
+      "id": "src_techp1_e82df3527f20a468_01",
+      "title": "Epic Games — Designing visuals, rendering and graphics",
+      "url": "https://dev.epicgames.com/documentation/en-us/unreal-engine/designing-visuals-rendering-and-graphics-with-unreal-engine",
+      "publisher": "Epic Games",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_techp1_e82df3527f20a468_02",
+      "title": "Epic Games — Guidelines for optimizing rendering for real time",
+      "url": "https://dev.epicgames.com/documentation/unreal-engine/guidelines-for-optimizing-rendering-for-real-time-in-unreal-engine",
+      "publisher": "Epic Games",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_techp1_e82df3527f20a468_03",
+      "title": "Unity — Documentation",
+      "url": "https://docs.unity.com/en-us",
+      "publisher": "Unity",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_techp1_e82df3527f20a468_04",
+      "title": "OpenUSD — Introduction",
+      "url": "https://openusd.org/release/intro.html",
+      "publisher": "OpenUSD",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_techp1_e82df3527f20a468_thesis",
+      "wording_ru": "Движок реального времени важен не скоростью, а тем, что делает результат обсуждаемым в момент работы: изображение перестаёт быть отчётом о принятом решении и становится инструментом его принятия.",
+      "wording_en": "A real-time engine matters not for speed but because it makes the result discussable while work happens: the image stops being a report on a decision and becomes an instrument for making one.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_techp1_e82df3527f20a468_origin",
+      "wording_ru": "Движок реального времени рассчитывает изображение за время, достаточное для интерактивного отклика, — обычно менее двадцати миллисекунд на кадр. Ограничение по времени, а не по качеству, определяет всю его архитектуру.",
+      "wording_en": "A real-time engine computes an image within a time sufficient for interactive response — usually under twenty milliseconds per frame. It is the time constraint, not a quality one, that determines its whole architecture.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_techp1_e82df3527f20a468_critique",
+      "wording_ru": "Граница между реальным временем и офлайн-расчётом почти стёрлась для большинства задач. Различие сохраняется в предельных случаях и в требованиях к оборудованию.",
+      "wording_en": "The boundary between real time and offline computation has almost dissolved for most tasks. The difference persists in extreme cases and in hardware requirements.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_techp1_e82df3527f20a468_today",
+      "wording_ru": "Спрашивайте не о качестве кадра, а о том, сколько вариантов было проверено и кто присутствовал при выборе. Ценность технологии проявляется в процессе, а не в отдельном изображении.",
+      "wording_en": "Ask not about frame quality but about how many variants were tested and who was present at the choice. The technology’s value shows in the process rather than in a single image.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    }
+  ]
+}

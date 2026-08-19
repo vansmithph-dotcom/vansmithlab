@@ -1,0 +1,78 @@
+{
+  "id": "obj_techp1_6d06b1ec4d07b3bf",
+  "category": "technology",
+  "canonical_name": "Захват движения",
+  "canonical_name_en": "Motion capture",
+  "title_ru": "Захват движения",
+  "slug_ru": "motion-capture",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "technology",
+    "image-grammar"
+  ],
+  "sources": [
+    {
+      "id": "src_techp1_6d06b1ec4d07b3bf_01",
+      "title": "ACM Digital Library — computer graphics research",
+      "url": "https://dl.acm.org/doi/10.1145/3592433",
+      "publisher": "ACM Digital Library",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_techp1_6d06b1ec4d07b3bf_02",
+      "title": "Unity — Documentation",
+      "url": "https://docs.unity.com/en-us",
+      "publisher": "Unity",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_techp1_6d06b1ec4d07b3bf_03",
+      "title": "Epic Games — Unreal Engine documentation",
+      "url": "https://dev.epicgames.com/documentation/en-us/unreal-engine/designing-visuals-rendering-and-graphics-with-unreal-engine",
+      "publisher": "Epic Games",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_techp1_6d06b1ec4d07b3bf_04",
+      "title": "OpenUSD — Introduction",
+      "url": "https://openusd.org/release/intro.html",
+      "publisher": "OpenUSD",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_techp1_6d06b1ec4d07b3bf_thesis",
+      "wording_ru": "Захват движения важен как момент, когда движение перестало быть свойством исполнителя и стало отдельным активом с собственной производственной цепочкой.",
+      "wording_en": "Motion capture matters as the moment when movement stopped being a property of a performer and became a separate asset with its own production chain.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_techp1_6d06b1ec4d07b3bf_origin",
+      "wording_ru": "Захват движения — это регистрация положения тела во времени и перенос этих данных на цифровую модель. Записывается не изображение, а последовательность координат суставов.",
+      "wording_en": "Motion capture is the recording of a body’s position over time and the transfer of that data onto a digital model. What is recorded is not an image but a sequence of joint coordinates.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_techp1_6d06b1ec4d07b3bf_critique",
+      "wording_ru": "Метод стал рутинным и дешёвым, а порог входа снизился до обычной камеры. Дефицит сместился с записи на очистку и на права.",
+      "wording_en": "The method has become routine and cheap, and the entry threshold has fallen to an ordinary camera. Scarcity has moved from recording to cleanup and to rights.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_techp1_6d06b1ec4d07b3bf_today",
+      "wording_ru": "Смотрите на вес и на стопу. Проскальзывание опорной ноги и неправильная инерция — два признака, по которым видно, что данные перенесены без доработки.",
+      "wording_en": "Look at weight and at the foot. Sliding of the supporting leg and incorrect inertia are the two signs that data was transferred without finishing.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    }
+  ]
+}

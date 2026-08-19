@@ -1,0 +1,78 @@
+{
+  "id": "obj_techp1_04a905365693d23a",
+  "category": "technology",
+  "canonical_name": "Цифровой двойник",
+  "canonical_name_en": "Digital twin",
+  "title_ru": "Цифровой двойник",
+  "slug_ru": "digital-twin",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "technology",
+    "industrial-design"
+  ],
+  "sources": [
+    {
+      "id": "src_techp1_04a905365693d23a_01",
+      "title": "OpenUSD — Introduction",
+      "url": "https://openusd.org/release/intro.html",
+      "publisher": "OpenUSD",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_techp1_04a905365693d23a_02",
+      "title": "AOUSD — What is OpenUSD",
+      "url": "https://aousd.org/blog/explainer-series-what-is-openusd/",
+      "publisher": "AOUSD",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_techp1_04a905365693d23a_03",
+      "title": "Unity — Documentation",
+      "url": "https://docs.unity.com/en-us",
+      "publisher": "Unity",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_techp1_04a905365693d23a_04",
+      "title": "Epic Games — Unreal Engine documentation",
+      "url": "https://dev.epicgames.com/documentation/en-us/unreal-engine/designing-visuals-rendering-and-graphics-with-unreal-engine",
+      "publisher": "Epic Games",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_techp1_04a905365693d23a_thesis",
+      "wording_ru": "Цифровой двойник важен тем, что вводит в проектирование обратную связь: модель перестаёт быть замыслом и становится отчётом о состоянии существующей вещи.",
+      "wording_en": "The digital twin matters because it introduces feedback into design: a model stops being an intention and becomes a report on the state of an existing thing.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_techp1_04a905365693d23a_origin",
+      "wording_ru": "Цифровой двойник — это модель конкретного экземпляра, связанная с ним потоком данных о состоянии. Ключевое слово здесь «конкретного»: двойник описывает не тип изделия, а отдельную вещь с её историей.",
+      "wording_en": "A digital twin is a model of a particular instance, linked to it by a stream of state data. The key word is \"particular\": a twin describes not a product type but an individual thing with its history.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_techp1_04a905365693d23a_critique",
+      "wording_ru": "Термин используется значительно шире, чем практика: большинство заявленных двойников являются моделями без живой связи. Разрыв между словом и реализацией остаётся большим.",
+      "wording_en": "The term is used far more widely than the practice: most declared twins are models without a live link. The gap between word and implementation remains large.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_techp1_04a905365693d23a_today",
+      "wording_ru": "Задавайте один вопрос: что и как часто измеряется. Если ответа нет, перед вами модель, а не двойник, независимо от того, как проект называется.",
+      "wording_en": "Ask one question: what is measured, and how often. If there is no answer, you are looking at a model rather than a twin, whatever the project is called.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "content_id": "cnt_techp1_en_71511cb1aba6467e",
+  "primary_object_id": "obj_techp1_71511cb1aba6467e",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_techp1_71511cb1aba6467e_thesis",
+    "clm_techp1_71511cb1aba6467e_origin",
+    "clm_techp1_71511cb1aba6467e_critique",
+    "clm_techp1_71511cb1aba6467e_today"
+  ],
+  "source_ids": [
+    "src_techp1_71511cb1aba6467e_01",
+    "src_techp1_71511cb1aba6467e_02",
+    "src_techp1_71511cb1aba6467e_03",
+    "src_techp1_71511cb1aba6467e_04"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "3d-gaussian-splatting",
+  "title": "3D Gaussian splatting",
+  "summary": "A scene is represented by millions of translucent blobs instead of surfaces, delivering display speed at high quality.",
+  "discipline": [
+    "technology",
+    "image-grammar"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "4c7b4674ed67d7a014f54ad5985a91dac5eea07709550e402a569144ac9234cd"
+}

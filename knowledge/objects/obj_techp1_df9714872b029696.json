@@ -1,0 +1,78 @@
+{
+  "id": "obj_techp1_df9714872b029696",
+  "category": "technology",
+  "canonical_name": "NeRF — нейронные поля излучения",
+  "canonical_name_en": "NeRF — neural radiance fields",
+  "title_ru": "NeRF — нейронные поля излучения",
+  "slug_ru": "nerf-neural-radiance-fields",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "technology",
+    "image-grammar"
+  ],
+  "sources": [
+    {
+      "id": "src_techp1_df9714872b029696_01",
+      "title": "NVIDIA — Instant Neural Graphics Primitives",
+      "url": "https://research.nvidia.com/publication/2022-07_instant-neural-graphics-primitives-multiresolution-hash-encoding",
+      "publisher": "NVIDIA",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_techp1_df9714872b029696_02",
+      "title": "NVlabs — Instant-NGP project page",
+      "url": "https://nvlabs.github.io/instant-ngp/",
+      "publisher": "NVlabs",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_techp1_df9714872b029696_03",
+      "title": "ACM — Computer graphics research",
+      "url": "https://doi.org/10.1145/3528223.3530127",
+      "publisher": "ACM",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_techp1_df9714872b029696_04",
+      "title": "INRIA — 3D Gaussian Splatting project page",
+      "url": "https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/",
+      "publisher": "INRIA",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_techp1_df9714872b029696_thesis",
+      "wording_ru": "Метод важен тем, что переносит съёмку из области получения кадров в область получения сцены: камера перестаёт быть фиксатором вида и становится датчиком пространства.",
+      "wording_en": "The method matters because it moves photography from obtaining frames to obtaining a scene: the camera stops recording a view and becomes a sensor of space.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_techp1_df9714872b029696_origin",
+      "wording_ru": "Метод описывает сцену как функцию, которая для точки пространства и направления взгляда возвращает цвет и плотность. Эта функция хранится в весах небольшой нейронной сети.",
+      "wording_en": "The method describes a scene as a function returning colour and density for a point in space and a viewing direction. That function is stored in the weights of a small neural network.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_techp1_df9714872b029696_critique",
+      "wording_ru": "Метод перешёл из исследовательской области в прикладную, но чаще служит промежуточным шагом, а не конечным форматом. Его главный вклад — постановка задачи, подхваченная другими методами.",
+      "wording_en": "The method has moved from research into application but more often serves as an intermediate step than as a final format. Its main contribution is a problem definition taken up by other methods.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_techp1_df9714872b029696_today",
+      "wording_ru": "Проверяйте края и пустое пространство. Плавающие сгустки и размытые границы показывают, где данных не хватило и где изображение достроено, а не снято.",
+      "wording_en": "Check edges and empty space. Floaters and blurred boundaries show where data was insufficient and where the image was inferred rather than captured.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    }
+  ]
+}

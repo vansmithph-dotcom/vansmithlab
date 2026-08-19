@@ -1,0 +1,35 @@
+{
+  "content_id": "cnt_techp1_en_04a905365693d23a",
+  "primary_object_id": "obj_techp1_04a905365693d23a",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_techp1_04a905365693d23a_thesis",
+    "clm_techp1_04a905365693d23a_origin",
+    "clm_techp1_04a905365693d23a_critique",
+    "clm_techp1_04a905365693d23a_today"
+  ],
+  "source_ids": [
+    "src_techp1_04a905365693d23a_01",
+    "src_techp1_04a905365693d23a_02",
+    "src_techp1_04a905365693d23a_03",
+    "src_techp1_04a905365693d23a_04"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "digital-twin",
+  "title": "Digital twin",
+  "summary": "A model of an object linked to it by a data stream and updated together with the original.",
+  "discipline": [
+    "technology",
+    "industrial-design"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "961d64fb6567d69755fba53b85302d88a9f04549167af09878e2f0af175e4e84"
+}

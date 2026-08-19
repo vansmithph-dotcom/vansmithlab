@@ -1,0 +1,35 @@
+{
+  "content_id": "cnt_techp1_en_df9714872b029696",
+  "primary_object_id": "obj_techp1_df9714872b029696",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_techp1_df9714872b029696_thesis",
+    "clm_techp1_df9714872b029696_origin",
+    "clm_techp1_df9714872b029696_critique",
+    "clm_techp1_df9714872b029696_today"
+  ],
+  "source_ids": [
+    "src_techp1_df9714872b029696_01",
+    "src_techp1_df9714872b029696_02",
+    "src_techp1_df9714872b029696_03",
+    "src_techp1_df9714872b029696_04"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "nerf-neural-radiance-fields",
+  "title": "NeRF — neural radiance fields",
+  "summary": "A set of ordinary photographs becomes a continuous scene representation from which any new viewpoint can be produced.",
+  "discipline": [
+    "technology",
+    "image-grammar"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "6ceb06c6678462fdd0afebfdf75e641327bfe1f68224d9e387efb17cccbe268b"
+}

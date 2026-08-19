@@ -1,0 +1,35 @@
+{
+  "content_id": "cnt_techp1_ru_71511cb1aba6467e",
+  "primary_object_id": "obj_techp1_71511cb1aba6467e",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_techp1_71511cb1aba6467e_thesis",
+    "clm_techp1_71511cb1aba6467e_origin",
+    "clm_techp1_71511cb1aba6467e_critique",
+    "clm_techp1_71511cb1aba6467e_today"
+  ],
+  "source_ids": [
+    "src_techp1_71511cb1aba6467e_01",
+    "src_techp1_71511cb1aba6467e_02",
+    "src_techp1_71511cb1aba6467e_03",
+    "src_techp1_71511cb1aba6467e_04"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "3d-gaussian-splatting",
+  "title": "Трёхмерный гауссов сплаттинг",
+  "summary": "Сцена представлена миллионами полупрозрачных пятен вместо поверхностей, и это даёт скорость отображения при высоком качестве.",
+  "discipline": [
+    "technology",
+    "image-grammar"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "66ec69a1a393486e5d38f47939f41996520cf0ac875817ba1ea25ea82a776822"
+}

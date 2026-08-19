@@ -1,0 +1,35 @@
+{
+  "content_id": "cnt_techp1_ru_04a905365693d23a",
+  "primary_object_id": "obj_techp1_04a905365693d23a",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_techp1_04a905365693d23a_thesis",
+    "clm_techp1_04a905365693d23a_origin",
+    "clm_techp1_04a905365693d23a_critique",
+    "clm_techp1_04a905365693d23a_today"
+  ],
+  "source_ids": [
+    "src_techp1_04a905365693d23a_01",
+    "src_techp1_04a905365693d23a_02",
+    "src_techp1_04a905365693d23a_03",
+    "src_techp1_04a905365693d23a_04"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "digital-twin",
+  "title": "Цифровой двойник",
+  "summary": "Модель объекта, связанная с ним потоком данных и обновляющаяся вместе с оригиналом.",
+  "discipline": [
+    "technology",
+    "industrial-design"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "d26aafa1e6b6e9c4e340f57662daf174fbb878ef6aae09108a02b78aff532fc9"
+}

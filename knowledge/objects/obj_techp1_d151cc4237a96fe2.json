@@ -1,0 +1,78 @@
+{
+  "id": "obj_techp1_d151cc4237a96fe2",
+  "category": "technology",
+  "canonical_name": "LoRA и адаптация моделей",
+  "canonical_name_en": "LoRA and model adaptation",
+  "title_ru": "LoRA и адаптация моделей",
+  "slug_ru": "lora-model-adaptation",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "technology",
+    "image-grammar"
+  ],
+  "sources": [
+    {
+      "id": "src_techp1_d151cc4237a96fe2_01",
+      "title": "GitHub — microsoft/LoRA",
+      "url": "https://github.com/microsoft/LoRA",
+      "publisher": "GitHub",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_techp1_d151cc4237a96fe2_02",
+      "title": "OpenReview — LoRA: Low-Rank Adaptation of Large Language Models",
+      "url": "https://openreview.net/forum?id=nZeVKeeFYf9",
+      "publisher": "OpenReview",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_techp1_d151cc4237a96fe2_03",
+      "title": "arXiv — Adding Conditional Control to Text-to-Image Diffusion Models",
+      "url": "https://arxiv.org/abs/2302.05543",
+      "publisher": "arXiv",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_techp1_d151cc4237a96fe2_04",
+      "title": "OpenAI — Advancing content provenance",
+      "url": "https://openai.com/index/advancing-content-provenance/",
+      "publisher": "OpenAI",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_techp1_d151cc4237a96fe2_thesis",
+      "wording_ru": "Метод важен тем, что сделал специализацию модели дешёвой: авторский стиль, конкретный продукт или узкая предметная область стали доступны без переобучения всей системы.",
+      "wording_en": "The method matters because it made model specialisation cheap: an authorial style, a specific product, or a narrow domain became attainable without retraining the whole system.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_techp1_d151cc4237a96fe2_origin",
+      "wording_ru": "Метод замораживает исходные веса модели и обучает небольшую добавку, представленную произведением двух узких матриц. Итоговое поведение получается сложением исходного и добавки.",
+      "wording_en": "The method freezes a model’s original weights and trains a small addition represented as the product of two narrow matrices. Final behaviour is the sum of the original and the addition.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_techp1_d151cc4237a96fe2_critique",
+      "wording_ru": "Приём стал стандартной практикой специализации во всех областях применения больших моделей. Нерешённым остаётся вопрос происхождения и согласия.",
+      "wording_en": "The device has become standard practice for specialisation across every field applying large models. The question of provenance and consent remains unresolved.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_techp1_d151cc4237a96fe2_today",
+      "wording_ru": "Спрашивайте про выборку: сколько изображений, чьих и с каким разрешением на использование. Ответ на этот вопрос важнее любых технических параметров обучения.",
+      "wording_en": "Ask about the sample: how many images, whose, and with what permission. The answer to that question matters more than any technical training parameter.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    }
+  ]
+}

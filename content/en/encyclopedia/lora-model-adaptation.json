@@ -1,0 +1,35 @@
+{
+  "content_id": "cnt_techp1_en_d151cc4237a96fe2",
+  "primary_object_id": "obj_techp1_d151cc4237a96fe2",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_techp1_d151cc4237a96fe2_thesis",
+    "clm_techp1_d151cc4237a96fe2_origin",
+    "clm_techp1_d151cc4237a96fe2_critique",
+    "clm_techp1_d151cc4237a96fe2_today"
+  ],
+  "source_ids": [
+    "src_techp1_d151cc4237a96fe2_01",
+    "src_techp1_d151cc4237a96fe2_02",
+    "src_techp1_d151cc4237a96fe2_03",
+    "src_techp1_d151cc4237a96fe2_04"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "lora-model-adaptation",
+  "title": "LoRA and model adaptation",
+  "summary": "A way to adapt a large model to a specific task by changing a fraction of a percent of its weights.",
+  "discipline": [
+    "technology",
+    "image-grammar"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "2ca17e345edae1a27bda4dae83ceeeddfcae5942c87d7efeb0b3694a19b92e65"
+}

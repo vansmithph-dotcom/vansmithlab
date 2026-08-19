@@ -1,0 +1,78 @@
+{
+  "id": "obj_techp1_333b6de5374161fe",
+  "category": "technology",
+  "canonical_name": "Виртуальное производство",
+  "canonical_name_en": "Virtual production",
+  "title_ru": "Виртуальное производство",
+  "slug_ru": "virtual-production",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "technology",
+    "image-grammar"
+  ],
+  "sources": [
+    {
+      "id": "src_techp1_333b6de5374161fe_01",
+      "title": "Epic Games — Working with media in Unreal Engine",
+      "url": "https://dev.epicgames.com/documentation/unreal-engine/working-with-media-in-unreal-engine",
+      "publisher": "Epic Games",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_techp1_333b6de5374161fe_02",
+      "title": "Epic Games — Designing visuals, rendering and graphics",
+      "url": "https://dev.epicgames.com/documentation/en-us/unreal-engine/designing-visuals-rendering-and-graphics-with-unreal-engine",
+      "publisher": "Epic Games",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_techp1_333b6de5374161fe_03",
+      "title": "Unity — Documentation",
+      "url": "https://docs.unity.com/en-us",
+      "publisher": "Unity",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_techp1_333b6de5374161fe_04",
+      "title": "OpenUSD — Introduction",
+      "url": "https://openusd.org/release/intro.html",
+      "publisher": "OpenUSD",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_techp1_333b6de5374161fe_thesis",
+      "wording_ru": "Виртуальное производство важно как организационное изменение: оно возвращает решение о фоне, свете и композиции в момент съёмки, когда актёр и камера ещё на месте.",
+      "wording_en": "Virtual production matters as an organisational change: it returns decisions about background, light, and composition to the moment of shooting, while actor and camera are still present.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_techp1_333b6de5374161fe_origin",
+      "wording_ru": "Виртуальное производство объединяет съёмку с расчётом изображения в реальном времени. В узком смысле это съёмка на фоне светодиодной стены, показывающей трёхмерную сцену с учётом положения камеры.",
+      "wording_en": "Virtual production combines shooting with real-time image computation. In the narrow sense it is filming against an LED wall displaying a three-dimensional scene that accounts for camera position.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_techp1_333b6de5374161fe_critique",
+      "wording_ru": "Метод стал стандартным инструментом, но применяется избирательно — там, где отражения и свет решают. Универсальной заменой прежним способам он не стал.",
+      "wording_en": "The method has become a standard instrument but is applied selectively — where reflections and light are decisive. It has not become a universal replacement for earlier methods.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_techp1_333b6de5374161fe_today",
+      "wording_ru": "Смотрите на отражения и на глаза актёра. Именно там видно, было ли окружение физически присутствующим на площадке или добавлено позже.",
+      "wording_en": "Look at reflections and at the actor’s eyes. That is where it shows whether an environment was physically present on set or added afterwards.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "content_id": "cnt_techp1_ru_aae00273f778f9e5",
+  "primary_object_id": "obj_techp1_aae00273f778f9e5",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_techp1_aae00273f778f9e5_thesis",
+    "clm_techp1_aae00273f778f9e5_origin",
+    "clm_techp1_aae00273f778f9e5_critique",
+    "clm_techp1_aae00273f778f9e5_today"
+  ],
+  "source_ids": [
+    "src_techp1_aae00273f778f9e5_01",
+    "src_techp1_aae00273f778f9e5_02",
+    "src_techp1_aae00273f778f9e5_03",
+    "src_techp1_aae00273f778f9e5_04"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "controlnet-controlled-generation",
+  "title": "ControlNet и управляемая генерация",
+  "summary": "Генеративная модель получает пространственное условие — позу, контур или глубину — и перестаёт быть лотереей.",
+  "discipline": [
+    "technology",
+    "image-grammar"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "2d88c4c0ddf5f0ffeeae7ef80ae92343908f048fd6841827152d2aa9c0c0156b"
+}

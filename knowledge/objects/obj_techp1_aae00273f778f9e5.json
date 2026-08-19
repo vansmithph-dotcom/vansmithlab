@@ -1,0 +1,78 @@
+{
+  "id": "obj_techp1_aae00273f778f9e5",
+  "category": "technology",
+  "canonical_name": "ControlNet и управляемая генерация",
+  "canonical_name_en": "ControlNet and controlled generation",
+  "title_ru": "ControlNet и управляемая генерация",
+  "slug_ru": "controlnet-controlled-generation",
+  "status": "published",
+  "last_reviewed": "2026-08-19",
+  "disciplines": [
+    "technology",
+    "image-grammar"
+  ],
+  "sources": [
+    {
+      "id": "src_techp1_aae00273f778f9e5_01",
+      "title": "Zhang et al. — Adding Conditional Control to Text-to-Image Diffusion Models (ICCV 2023)",
+      "url": "https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_Adding_Conditional_Control_to_Text-to-Image_Diffusion_Models_ICCV_2023_paper.html",
+      "publisher": "Zhang et al.",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_techp1_aae00273f778f9e5_02",
+      "title": "arXiv — Adding Conditional Control to Text-to-Image Diffusion Models",
+      "url": "https://arxiv.org/abs/2302.05543",
+      "publisher": "arXiv",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_techp1_aae00273f778f9e5_03",
+      "title": "GitHub — lllyasviel/ControlNet",
+      "url": "https://github.com/lllyasviel/ControlNet",
+      "publisher": "GitHub",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    },
+    {
+      "id": "src_techp1_aae00273f778f9e5_04",
+      "title": "OpenAI — Advancing content provenance",
+      "url": "https://openai.com/index/advancing-content-provenance/",
+      "publisher": "OpenAI",
+      "accessed_date": "2026-08-19",
+      "source_tier": "institutional"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_techp1_aae00273f778f9e5_thesis",
+      "wording_ru": "Метод важен тем, что вернул в генерацию композицию: автор снова задаёт, где что находится, а модель отвечает только за то, как это выглядит.",
+      "wording_en": "The method matters because it returned composition to generation: the author again sets where things are, and the model answers only for how they look.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_techp1_aae00273f778f9e5_origin",
+      "wording_ru": "Метод добавляет к диффузионной модели вторую ветвь, принимающую пространственную карту условия. Генерация подчиняется этой карте, сохраняя свободу в цвете, материале и стиле.",
+      "wording_en": "The method adds a second branch to a diffusion model, accepting a spatial condition map. Generation obeys that map while retaining freedom in colour, material, and style.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_techp1_aae00273f778f9e5_critique",
+      "wording_ru": "Управляемая генерация стала нормой профессионального применения, тогда как свободная генерация по тексту осталась инструментом поиска идей.",
+      "wording_en": "Controlled generation has become the norm in professional use, while free text-to-image generation has remained a tool for idea search.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_techp1_aae00273f778f9e5_today",
+      "wording_ru": "Спрашивайте, какое условие было задано и кем построено. Ответ отделяет авторскую работу от перебора запросов и показывает, где в цепочке принято решение.",
+      "wording_en": "Ask what condition was given and who constructed it. The answer separates authorial work from prompt enumeration and shows where in the chain a decision was made.",
+      "confidence_score": 0.74,
+      "verification_state": "attributed"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "content_id": "cnt_techp1_ru_e82df3527f20a468",
+  "primary_object_id": "obj_techp1_e82df3527f20a468",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_techp1_e82df3527f20a468_thesis",
+    "clm_techp1_e82df3527f20a468_origin",
+    "clm_techp1_e82df3527f20a468_critique",
+    "clm_techp1_e82df3527f20a468_today"
+  ],
+  "source_ids": [
+    "src_techp1_e82df3527f20a468_01",
+    "src_techp1_e82df3527f20a468_02",
+    "src_techp1_e82df3527f20a468_03",
+    "src_techp1_e82df3527f20a468_04"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "real-time-engines",
+  "title": "Движки реального времени",
+  "summary": "Изображение считается за миллисекунды, и это переносит решение из постпродакшена обратно на площадку.",
+  "discipline": [
+    "technology",
+    "image-grammar"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "2539d54c8a30066001d8e8a1edd714c3293908a0fa26a9532effed5a5f4c0ff4"
+}

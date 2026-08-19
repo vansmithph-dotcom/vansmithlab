@@ -1,0 +1,35 @@
+{
+  "content_id": "cnt_techp1_en_f0251e0534bddbf1",
+  "primary_object_id": "obj_techp1_f0251e0534bddbf1",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_techp1_f0251e0534bddbf1_thesis",
+    "clm_techp1_f0251e0534bddbf1_origin",
+    "clm_techp1_f0251e0534bddbf1_critique",
+    "clm_techp1_f0251e0534bddbf1_today"
+  ],
+  "source_ids": [
+    "src_techp1_f0251e0534bddbf1_01",
+    "src_techp1_f0251e0534bddbf1_02",
+    "src_techp1_f0251e0534bddbf1_03",
+    "src_techp1_f0251e0534bddbf1_04"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "openusd",
+  "title": "OpenUSD — the scene as a collaborative document",
+  "summary": "A format that lets several specialists edit one scene simultaneously without overwriting each other’s work.",
+  "discipline": [
+    "technology",
+    "industrial-design"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "0ed13b51c79ee9e60d5f63f70bcb18faf94952ff0db0147b5f334fa6de0718e6"
+}

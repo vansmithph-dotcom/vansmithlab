@@ -1,0 +1,35 @@
+{
+  "content_id": "cnt_techp1_en_333b6de5374161fe",
+  "primary_object_id": "obj_techp1_333b6de5374161fe",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_techp1_333b6de5374161fe_thesis",
+    "clm_techp1_333b6de5374161fe_origin",
+    "clm_techp1_333b6de5374161fe_critique",
+    "clm_techp1_333b6de5374161fe_today"
+  ],
+  "source_ids": [
+    "src_techp1_333b6de5374161fe_01",
+    "src_techp1_333b6de5374161fe_02",
+    "src_techp1_333b6de5374161fe_03",
+    "src_techp1_333b6de5374161fe_04"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "virtual-production",
+  "title": "Virtual production",
+  "summary": "The background is computed on an LED wall during the shoot, and post-production moves onto the set.",
+  "discipline": [
+    "technology",
+    "image-grammar"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "7fa25f116271d9691297d3286f8cb10628e1037c2e3de95f63ad1732e108c1a1"
+}

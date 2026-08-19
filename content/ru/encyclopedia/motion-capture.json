@@ -1,0 +1,35 @@
+{
+  "content_id": "cnt_techp1_ru_6d06b1ec4d07b3bf",
+  "primary_object_id": "obj_techp1_6d06b1ec4d07b3bf",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_techp1_6d06b1ec4d07b3bf_thesis",
+    "clm_techp1_6d06b1ec4d07b3bf_origin",
+    "clm_techp1_6d06b1ec4d07b3bf_critique",
+    "clm_techp1_6d06b1ec4d07b3bf_today"
+  ],
+  "source_ids": [
+    "src_techp1_6d06b1ec4d07b3bf_01",
+    "src_techp1_6d06b1ec4d07b3bf_02",
+    "src_techp1_6d06b1ec4d07b3bf_03",
+    "src_techp1_6d06b1ec4d07b3bf_04"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "motion-capture",
+  "title": "Захват движения",
+  "summary": "Движение отделяется от тела и становится переносимыми данными, которые можно править, хранить и надеть на другую фигуру.",
+  "discipline": [
+    "technology",
+    "image-grammar"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "37b92ad3f7f4823f49b1c82f809e5d137a6588376004ec349b26b3df789e9d5f"
+}

@@ -1,0 +1,35 @@
+{
+  "content_id": "cnt_techp1_ru_d151cc4237a96fe2",
+  "primary_object_id": "obj_techp1_d151cc4237a96fe2",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_techp1_d151cc4237a96fe2_thesis",
+    "clm_techp1_d151cc4237a96fe2_origin",
+    "clm_techp1_d151cc4237a96fe2_critique",
+    "clm_techp1_d151cc4237a96fe2_today"
+  ],
+  "source_ids": [
+    "src_techp1_d151cc4237a96fe2_01",
+    "src_techp1_d151cc4237a96fe2_02",
+    "src_techp1_d151cc4237a96fe2_03",
+    "src_techp1_d151cc4237a96fe2_04"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "lora-model-adaptation",
+  "title": "LoRA и адаптация моделей",
+  "summary": "Способ дообучить большую модель под конкретную задачу, изменив доли процента её весов.",
+  "discipline": [
+    "technology",
+    "image-grammar"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "535781612104b279e5a4210f5fbdf3def2a7579667c9d110dd5edeecc68c46b4"
+}

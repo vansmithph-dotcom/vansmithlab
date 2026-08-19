@@ -1,0 +1,36 @@
+{
+  "content_id": "cnt_techp1_en_d98c2363aeb8f218",
+  "primary_object_id": "obj_techp1_d98c2363aeb8f218",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_techp1_d98c2363aeb8f218_thesis",
+    "clm_techp1_d98c2363aeb8f218_origin",
+    "clm_techp1_d98c2363aeb8f218_critique",
+    "clm_techp1_d98c2363aeb8f218_today"
+  ],
+  "source_ids": [
+    "src_techp1_d98c2363aeb8f218_01",
+    "src_techp1_d98c2363aeb8f218_02",
+    "src_techp1_d98c2363aeb8f218_03",
+    "src_techp1_d98c2363aeb8f218_04",
+    "src_techp1_d98c2363aeb8f218_05"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "augmented-reality-and-spatial-computing",
+  "title": "Augmented reality and spatial computing",
+  "summary": "The image stops being a frame and becomes a layer anchored to the real geometry of a room.",
+  "discipline": [
+    "technology",
+    "image-grammar"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "73913d932bcf23bf72fabaf6c0ab9672a6fa7d4b1af9e55e82702a0060c20f30"
+}

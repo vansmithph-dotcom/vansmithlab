@@ -1,0 +1,35 @@
+{
+  "content_id": "cnt_techp1_ru_df9714872b029696",
+  "primary_object_id": "obj_techp1_df9714872b029696",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 2,
+  "verification_state": "partially_verified",
+  "confidence_score": 0.74,
+  "claim_ids": [
+    "clm_techp1_df9714872b029696_thesis",
+    "clm_techp1_df9714872b029696_origin",
+    "clm_techp1_df9714872b029696_critique",
+    "clm_techp1_df9714872b029696_today"
+  ],
+  "source_ids": [
+    "src_techp1_df9714872b029696_01",
+    "src_techp1_df9714872b029696_02",
+    "src_techp1_df9714872b029696_03",
+    "src_techp1_df9714872b029696_04"
+  ],
+  "last_reviewed": "2026-08-19",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "nerf-neural-radiance-fields",
+  "title": "NeRF — нейронные поля излучения",
+  "summary": "Набор обычных фотографий превращается в непрерывное представление сцены, из которого можно получить любой новый ракурс.",
+  "discipline": [
+    "technology",
+    "image-grammar"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "5238b1e67bb3335e95905821c19c9e7f40e9ff713b7b0a501ea033012e4311f0"
+}
