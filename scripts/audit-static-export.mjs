@@ -51,7 +51,8 @@ function isPublicationRoute(route) {
 const htmlFiles = walk(outDir).filter((file) => extname(file) === ".html");
 const pageFiles = htmlFiles.filter((file) => {
   const rel = relative(outDir, file).split(sep).join("/");
-  return !rel.includes("__empty") && !rel.startsWith("_not-found/") && rel !== "404.html" && rel !== "404/index.html";
+  const isOwnershipVerification = /^pinterest-[a-z0-9]+\.html$/i.test(rel);
+  return !isOwnershipVerification && !rel.includes("__empty") && !rel.startsWith("_not-found/") && rel !== "404.html" && rel !== "404/index.html";
 });
 const failures = [];
 // Key titles by locale prefix so cross-locale identical org names don't trigger false positives.
