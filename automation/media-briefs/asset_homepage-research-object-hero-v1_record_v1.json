@@ -1,0 +1,42 @@
+{
+  "asset_id": "asset_homepage-research-object-hero-v1_record_v1",
+  "record_type": "generation_and_release_record",
+  "primary_object_id": "site_homepage",
+  "content_release_id": "homepage_hero_2026-08-21",
+  "kind": "image",
+  "origin": "ai_illustration",
+  "locale": "multilingual",
+  "educational_purpose": "Show design as a relationship between material, image, space and tools rather than as an abstract diagram.",
+  "may_depict": [
+    "A single editorial research object assembled from textile, an architectural model, paper, brushed aluminium, glass, photographic film and drafting tools"
+  ],
+  "must_not_imply": [
+    "The image documents a real historical object or archive",
+    "The image is evidence for a factual claim",
+    "The image reproduces a branded product or the work of a named artist"
+  ],
+  "composition": {
+    "master_ratio": "3:2",
+    "master_dimensions": "1536x1024",
+    "placement": "Homepage hero",
+    "responsive_crop": "Keep the complete central sculptural assembly visible at computer, tablet and mobile widths; use object-fit cover without stretching."
+  },
+  "rights": {
+    "state": "original_owned",
+    "disclosure": "VANSMITHLAB · AI illustration",
+    "rights_basis": "Original AI visual generated for VANSMITHLAB with the built-in image generation tool. No third-party image was used as an input or reference.",
+    "third_party_marks": "No logo, wordmark, readable publication, branded object or recognisable third-party mark."
+  },
+  "accessibility": {
+    "alt_text_ru": "Скульптурная композиция объединяет ткань, архитектурный макет, стекло, металл, фотоплёнку и инструменты проектирования.",
+    "alt_text_en": "A sculptural composition brings together textile, an architectural model, glass, metal, photographic film and design tools.",
+    "caption_ru": "VANSMITHLAB · AI-иллюстрация",
+    "caption_en": "VANSMITHLAB · AI illustration"
+  },
+  "creator": "VANSMITHLAB · AI illustration",
+  "created_at": "2026-08-21",
+  "asset_path": "public/images/site/homepage-research-object-hero-v1.webp",
+  "generation_tool": "OpenAI built-in image generation",
+  "generation_prompt_class": "stylized-concept",
+  "content_sha256": "c1ab7bff0cb554b03c1118d7f4b1de3cef88e4ee309379a239d84df296e2e43d"
+}

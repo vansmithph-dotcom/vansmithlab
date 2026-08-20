@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { FeaturedAnalysisRotator } from "@/components/FeaturedAnalysisRotator";
@@ -30,6 +31,10 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
   if (!isLocale(locale)) notFound();
   const content = copy[locale];
   const allContent = listContent(locale);
+  const heroArtAlt = locale === "ru"
+    ? "Скульптурная композиция объединяет ткань, архитектурный макет, стекло, металл, фотоплёнку и инструменты проектирования."
+    : "A sculptural composition brings together textile, an architectural model, glass, metal, photographic film and design tools.";
+  const heroArtCaption = locale === "ru" ? "VANSMITHLAB · AI-иллюстрация" : "VANSMITHLAB · AI illustration";
   const featuredAnalysis = allContent.filter((item) => item.content_type === "analysis" && item.hero_image)
     .sort((a, b) => b.last_reviewed.localeCompare(a.last_reviewed)).slice(0, 5)
     .map((item) => ({ content_id: item.content_id, title: item.title, summary: item.summary, hero_image: item.hero_image, href: contentHref(item) }));
@@ -50,7 +55,16 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
             <Link className="text-link" href={`/${locale}/about`}>{content.methodology}<span>→</span></Link>
           </div>
         </div>
-        <div className="hero-art" aria-hidden="true"><span className="art-circle" /><span className="art-line art-line-one" /><span className="art-line art-line-two" /><span className="art-label">VSL / 001</span></div>
+        <figure className="hero-art">
+          <Image
+            alt={heroArtAlt}
+            fill
+            preload
+            sizes="(max-width: 900px) calc(100vw - 32px), 42vw"
+            src="/images/site/homepage-research-object-hero-v1.webp"
+          />
+          <figcaption>{heroArtCaption}</figcaption>
+        </figure>
       </section>
 
       <section className="trust-section">
