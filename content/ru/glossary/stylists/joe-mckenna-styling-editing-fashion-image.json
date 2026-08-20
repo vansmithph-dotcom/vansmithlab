@@ -77,9 +77,9 @@
     "stylist",
     "fashion-editor"
   ],
-  "body_hash": "73848f60d1803ef85ae75db77916dc8f4678d8cb2ac7e7e807e53b39ca8ad839",
+  "body_hash": "cfef6063c663a50f4f24be72abe635878bf87d241d120e93f669feb59ca6fa98",
   "hero_image": {
-    "src": "/images/glossary/stylists/joe-mckenna-styling-editing-fashion-image-portrait-ai-v2.png",
+    "src": "/images/glossary/stylists/joe-mckenna-styling-editing-fashion-image-portrait-ai-v2.webp",
     "alt": "Редакционная AI-портретная иллюстрация автора",
     "caption": "AI-портретная реконструкция автора. Не является документальной фотографией.",
     "credit": "VANSMITHLAB · оригинальная AI-иллюстрация, 2026",
@@ -87,6 +87,28 @@
     "alt_text": "Редакционная AI-портретная иллюстрация автора",
     "rights_state": "original_owned",
     "licence_or_permission": "Оригинальная AI-иллюстрация VANSMITHLAB; не документальная фотография.",
-    "source_url": ""
+    "source_url": "",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
+  },
+  "portrait_image": {
+    "src": "/images/profile-portraits/joe-mckenna-styling-editing-fashion-image-portrait-ai-reconstruction-v1.webp",
+    "credit": "VANSMITHLAB · AI reconstruction from reviewed public reference imagery, 2026",
+    "origin": "ai_reconstruction",
+    "rights_status": "ai_generated",
+    "licence": "VANSMITHLAB original AI reconstruction",
+    "licence_url": "https://vansmithlab.com/ru/method/",
+    "source_url": "https://twelvny.com/people/twelv-archive-joe-mckenna-interview-call-me-joe",
+    "reference_url": "https://twelvny.com/sites/default/files/styles/preview_height_fix/public/image/article/twelv_issue1_ss_final_page_006_0.jpg?itok=rojpSuwA",
+    "access_date": "2026-08-20",
+    "disclosure": "ИИ-реконструкция внешности на основе проверенного публичного фотографического референса; не архивная фотография.",
+    "asset_id": "ast_11fbdce5b28caba8",
+    "content_hash": "11fbdce5b28caba8c7c91d373447ff282b68f2ecfd53bc64e438649ccf45b171",
+    "storage_key": "public/images/profile-portraits/joe-mckenna-styling-editing-fashion-image-portrait-ai-reconstruction-v1.webp",
+    "width": 900,
+    "height": 1125,
+    "alt": "Портрет Джо Маккенна",
+    "caption": "ИИ-реконструкция портрета Джо Маккенна по публичному фотографическому референсу."
   }
 }

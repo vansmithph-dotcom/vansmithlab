@@ -6,7 +6,7 @@
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "unverified",
-  "confidence_score": 0.0,
+  "confidence_score": 0,
   "claim_ids": [],
   "source_ids": [
     "src_23f1e78fc4d10a9d",
@@ -49,14 +49,39 @@
   ],
   "body_hash": "a076413ae04dc57a8826a57199258fd0eac052fc9b3451bd1e3e2051d3e566d1",
   "hero_image": {
-    "src": "/images/glossary/industrial-designers/achille-castiglioni-curiosity-function-everyday-objects-portrait-ai-v1-card-v2.jpg",
+    "src": "/images/glossary/industrial-designers/achille-castiglioni-curiosity-function-everyday-objects-portrait-ai-v2-card.webp",
     "origin": "ai_illustration",
     "rights_state": "original_owned",
+    "rights_status": "ai_generated",
     "source_url": "",
-    "credit": "VANSMITHLAB ? original AI editorial portrait, 2026",
+    "credit": "VANSMITHLAB · original editorial AI illustration, 2026",
     "licence_or_permission": "Original AI illustration by VANSMITHLAB; not a documentary photograph.",
-    "alt": "Editorial AI portrait illustration of the author",
-    "alt_text": "Editorial AI portrait illustration of the author",
-    "caption": "AI portrait reconstruction. Not a documentary photograph."
+    "alt": "Editorial portrait illustration: Achille Castiglioni",
+    "alt_text": "Editorial portrait illustration: Achille Castiglioni",
+    "caption": "Editorial AI portrait reconstruction of Achille Castiglioni. Not a documentary photograph.",
+    "disclosure": "AI reconstruction based on public photographic references; not an archival photograph.",
+    "asset_id": "ast_16c880eba4479aaa",
+    "content_hash": "16c880eba4479aaa088c9d96bfad964a61cf3b36a3385dd2fe5123a8b14fafcc",
+    "storage_key": "public/images/glossary/industrial-designers/achille-castiglioni-curiosity-function-everyday-objects-portrait-ai-v2-card.webp",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
+  },
+  "portrait_image": {
+    "src": "/images/profile-portraits/achille-castiglioni-curiosity-function-everyday-objects-portrait-wikimedia-v1.webp",
+    "credit": "Flos / Wikimedia Commons · CC BY-SA 4.0",
+    "origin": "wikimedia_commons",
+    "rights_status": "cc_by_sa",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Achille_Castiglioni.jpg",
+    "access_date": "2026-08-20",
+    "asset_id": "ast_163ba278d0a8b812",
+    "content_hash": "163ba278d0a8b8129258c3aeb403d593c4a27e9c6a3de1953bb64830235f553d",
+    "storage_key": "public/images/profile-portraits/achille-castiglioni-curiosity-function-everyday-objects-portrait-wikimedia-v1.webp",
+    "width": 900,
+    "height": 1125,
+    "alt": "Portrait of Achille Castiglioni",
+    "caption": "Portrait of Achille Castiglioni. Source: Wikimedia Commons."
   }
 }

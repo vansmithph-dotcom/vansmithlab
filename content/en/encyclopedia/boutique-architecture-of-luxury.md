@@ -138,7 +138,7 @@ Today The Boutique — Architecture of Luxury is best read in four passes: first
 
 ## See also
 
-- [The Concept Store — From Selling to Curating](/en/encyclopedia/concept-store-from-selling-to-curating) — Retail in which assortment, space, events, and editorial selection construct a single cultural posit.
-- [The Store — Commercial Space as a Visual System](/en/encyclopedia/store-space-of-commerce-as-visual-system) — How layout, display, light, graphics, and circulation turn merchandise into experience and purchase .
+- [The Concept Store — From Selling to Curating](/en/encyclopedia/concept-store-from-selling-to-curating) — Retail in which assortment, space, events, and editorial selection construct a single cultural position.
+- [The Store — Commercial Space as a Visual System](/en/encyclopedia/store-space-of-commerce-as-visual-system) — How layout, display, light, graphics, and circulation turn merchandise into experience and purchase decisions.
 - [The Showroom — Between Sample and Sale](/en/encyclopedia/showroom-between-sample-and-sale) — A space where products are shown as a system of possibilities rather than inventory on a shelf.
 - [The Shop Window — Product Theatre Between Street and Interior](/en/encyclopedia/shop-window-product-theatre-between-street-and-interior) — A glazed boundary where commerce becomes scenography and must arrest the urban gaze within seconds.

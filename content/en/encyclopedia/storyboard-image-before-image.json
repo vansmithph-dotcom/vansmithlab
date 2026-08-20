@@ -33,11 +33,30 @@
     "image-grammar"
   ],
   "kind": "theme",
-  "body_hash": "0d4f702138a18ef9eae2b7f461912cd2d07cd1ecfc2fb24b5bacec51d3e22972",
+  "body_hash": "06aedf9ef8f3d0bd1c8fdce497eb8972160390d070f4bebb1551d9c34f40f620",
   "translation": {
     "source_locale": "ru",
     "translated_by": "VANSMITHLAB",
     "semantic_validated": true,
     "translation_date": "2026-08-19"
+  },
+  "hero_image": {
+    "src": "/images/generated-heroes/encyclopedia--storyboard-image-before-image.webp",
+    "alt": "Storyboard — The Image Before the Image — a unique editorial AI illustration visualizing the article's subject.",
+    "caption": "Original VANSMITHLAB editorial AI illustration for “Storyboard — The Image Before the Image”. A sequence of drawings or frames reveals editing, scale and movement before expensive production begins.",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "ai_generated",
+    "licence_or_permission": "Original VANSMITHLAB AI illustration; owned editorial asset.",
+    "source_url": "",
+    "asset_id": "hero_encyclopedia_storyboard-image-before-image",
+    "content_hash": "e4ac234e74ea2f3952f88e92bc4ff3b959930435c8ee61024e29ec9da54d8aa6",
+    "storage_key": "/images/generated-heroes/encyclopedia--storyboard-image-before-image.webp",
+    "created_at": "2026-08-20T12:30:13.368Z",
+    "locale": "en",
+    "disclosure": "AI-generated editorial illustration; not documentary evidence.",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
   }
 }

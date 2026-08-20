@@ -139,5 +139,5 @@ Today Eames House is best read in four passes: first route and scale, then mater
 ## See also
 
 - [Eames Lounge Chair](/en/encyclopedia/eames-lounge-chair) — Moulded plywood, comfort and postwar luxury.
-- [Vitra Campus as an Encyclopedia of Architecture and Objects](/en/encyclopedia/vitra-campus-architecture-object-encyclopedia) — A production site where factory, museum, fire station, pavilions, and landscape form a long-term col.
+- [Vitra Campus as an Encyclopedia of Architecture and Objects](/en/encyclopedia/vitra-campus-architecture-object-encyclopedia) — A production site where factory, museum, fire station, pavilions, and landscape form a long-term collection of architectural methods.
 - [The House — How Design Organizes Everyday Ritual](/en/encyclopedia/house-design-organizes-everyday-ritual) — Housing typology as a system of routes, privacy, storage, light, and repeated actions.

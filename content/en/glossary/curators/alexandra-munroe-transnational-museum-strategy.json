@@ -33,5 +33,43 @@
   "role": [
     "curator"
   ],
-  "body_hash": "ab13dbc1e3f8cdf4ace4414e663135915f97012b2d84822413b6e3e45a11a496"
+  "body_hash": "ab13dbc1e3f8cdf4ace4414e663135915f97012b2d84822413b6e3e45a11a496",
+  "hero_image": {
+    "src": "/images/generated-heroes/glossary--alexandra-munroe-transnational-museum-strategy.webp",
+    "alt": "Alexandra Munroe — a unique editorial AI illustration visualizing the article's subject.",
+    "caption": "Original VANSMITHLAB editorial AI illustration for “Alexandra Munroe”. Curatorial work that rewrites art history by including what the canon left outside itself.",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "ai_generated",
+    "licence_or_permission": "Original VANSMITHLAB AI illustration; owned editorial asset.",
+    "source_url": "",
+    "asset_id": "hero_glossary_alexandra-munroe-transnational-museum-strategy",
+    "content_hash": "535e4b7b920a8db3d928e0f260a82381603605d941da93103f1a402f4130e850",
+    "storage_key": "/images/generated-heroes/glossary--alexandra-munroe-transnational-museum-strategy.webp",
+    "created_at": "2026-08-20T13:00:02.752Z",
+    "locale": "en",
+    "disclosure": "AI-generated editorial illustration; not documentary evidence.",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
+  },
+  "portrait_image": {
+    "src": "/images/profile-portraits/alexandra-munroe-transnational-museum-strategy-portrait-ai-reconstruction-v1.webp",
+    "credit": "VANSMITHLAB · AI reconstruction from reviewed public reference imagery, 2026",
+    "origin": "ai_reconstruction",
+    "rights_status": "ai_generated",
+    "licence": "VANSMITHLAB original AI reconstruction",
+    "licence_url": "https://vansmithlab.com/en/method/",
+    "source_url": "https://news.artnet.com/art-world/theater-of-the-world-curator-alexandra-munroe-interview-part-two-1101953",
+    "reference_url": "https://gagosian.com/media/images/quarterly/issues/6Z8adHDmoZbM_4800x4800.jpg",
+    "access_date": "2026-08-20",
+    "disclosure": "AI reconstruction of the subject based on a reviewed public photographic reference; not an archival photograph.",
+    "asset_id": "ast_fe9bd4d51eac0c81",
+    "content_hash": "fe9bd4d51eac0c8128d73e2502438588f799e2d72ca8cd440f6fe656b6c94e8d",
+    "storage_key": "public/images/profile-portraits/alexandra-munroe-transnational-museum-strategy-portrait-ai-reconstruction-v1.webp",
+    "width": 900,
+    "height": 1125,
+    "alt": "Portrait of Alexandra Munroe",
+    "caption": "AI portrait reconstruction of Alexandra Munroe from a public photographic reference."
+  }
 }

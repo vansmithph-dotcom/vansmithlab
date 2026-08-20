@@ -33,5 +33,41 @@
   "role": [
     "designer"
   ],
-  "body_hash": "3654c2209cc876c5545ab9d49ccdd8ff1cc2e471e3141fceaab6690b567574a1"
+  "body_hash": "3654c2209cc876c5545ab9d49ccdd8ff1cc2e471e3141fceaab6690b567574a1",
+  "hero_image": {
+    "src": "/images/generated-heroes/glossary--gaetano-pesce-difference-inside-the-series.webp",
+    "alt": "Gaetano Pesce — a unique editorial AI illustration visualizing the article's subject.",
+    "caption": "Original VANSMITHLAB editorial AI illustration for “Gaetano Pesce”. Industrial production tuned so that every example in a series differs from the next.",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "ai_generated",
+    "licence_or_permission": "Original VANSMITHLAB AI illustration; owned editorial asset.",
+    "source_url": "",
+    "asset_id": "hero_glossary_gaetano-pesce-difference-inside-the-series",
+    "content_hash": "a496e50c86ac7450d65c32fdfef5475e9b0ff66f581c502b59def730bcb8749f",
+    "storage_key": "/images/generated-heroes/glossary--gaetano-pesce-difference-inside-the-series.webp",
+    "created_at": "2026-08-20T13:03:36.874Z",
+    "locale": "en",
+    "disclosure": "AI-generated editorial illustration; not documentary evidence.",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
+  },
+  "portrait_image": {
+    "src": "/images/profile-portraits/gaetano-pesce-difference-inside-the-series-portrait-wikimedia-v1.webp",
+    "credit": "GSAPPstudent / Wikimedia Commons · CC BY-SA 4.0",
+    "origin": "wikimedia_commons",
+    "rights_status": "cc_by_sa",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Gaetano_Pesce_Lectures_at_Columbia_GSAPP_(cropped).jpg",
+    "access_date": "2026-08-20",
+    "asset_id": "ast_342a74a43745abf6",
+    "content_hash": "342a74a43745abf689f4f1e23fa9d9be3437b487026dd9acac9891d212594699",
+    "storage_key": "public/images/profile-portraits/gaetano-pesce-difference-inside-the-series-portrait-wikimedia-v1.webp",
+    "width": 900,
+    "height": 1125,
+    "alt": "Portrait of Gaetano Pesce",
+    "caption": "Portrait of Gaetano Pesce. Source: Wikimedia Commons."
+  }
 }

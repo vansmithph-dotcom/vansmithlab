@@ -33,5 +33,43 @@
   "role": [
     "curator"
   ],
-  "body_hash": "367f41e3f8eafda0ca067b63787a795f45a791bde2b816ff723f6d8ed61194c7"
+  "body_hash": "367f41e3f8eafda0ca067b63787a795f45a791bde2b816ff723f6d8ed61194c7",
+  "hero_image": {
+    "src": "/images/generated-heroes/glossary--zoe-ryan-curating-design-in-the-institution.webp",
+    "alt": "Зои Райан — уникальная редакционная AI-иллюстрация, визуализирующая тему материала.",
+    "caption": "Оригинальная редакционная AI-иллюстрация VANSMITHLAB для материала «Зои Райан». Кураторство архитектуры и дизайна как программная работа институции, а не как серия отдельных выставок.",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "ai_generated",
+    "licence_or_permission": "Оригинальная AI-иллюстрация VANSMITHLAB; редакционный актив в собственности проекта.",
+    "source_url": "",
+    "asset_id": "hero_glossary_zoe-ryan-curating-design-in-the-institution",
+    "content_hash": "0ba2829cf511e3a0a5bf7a70a5dc8106f9c1fa285077c079ce76ba7001a075e2",
+    "storage_key": "/images/generated-heroes/glossary--zoe-ryan-curating-design-in-the-institution.webp",
+    "created_at": "2026-08-20T13:02:28.255Z",
+    "locale": "ru",
+    "disclosure": "Редакционная иллюстрация сгенерирована ИИ и не является документальным свидетельством.",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
+  },
+  "portrait_image": {
+    "src": "/images/profile-portraits/zoe-ryan-curating-design-in-the-institution-portrait-ai-reconstruction-v1.webp",
+    "credit": "VANSMITHLAB · AI reconstruction from reviewed public reference imagery, 2026",
+    "origin": "ai_reconstruction",
+    "rights_status": "ai_generated",
+    "licence": "VANSMITHLAB original AI reconstruction",
+    "licence_url": "https://vansmithlab.com/ru/method/",
+    "source_url": "https://penntoday.upenn.edu/news/zoe-ryan-appointed-director-institute-contemporary-art",
+    "reference_url": "https://penntoday.upenn.edu/sites/default/files/2020-08/ZR%20headshot%20Aug%202020_SOCIAL%20credit%20Clare%20Britt.jpg",
+    "access_date": "2026-08-20",
+    "disclosure": "ИИ-реконструкция внешности на основе проверенного публичного фотографического референса; не архивная фотография.",
+    "asset_id": "ast_616b61fbd3063dab",
+    "content_hash": "616b61fbd3063dab65fee96d21690c9e9d41f5e6b600271da687f14dbdf727dd",
+    "storage_key": "public/images/profile-portraits/zoe-ryan-curating-design-in-the-institution-portrait-ai-reconstruction-v1.webp",
+    "width": 900,
+    "height": 1125,
+    "alt": "Портрет Зои Райан",
+    "caption": "ИИ-реконструкция портрета Зои Райан по публичному фотографическому референсу."
+  }
 }

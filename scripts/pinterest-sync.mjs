@@ -69,14 +69,6 @@ async function main() {
   const boardId = process.env.PINTEREST_BOARD_ID || env.PINTEREST_BOARD_ID || "";
   const sectionId = process.env.PINTEREST_SECTION_ID || env.PINTEREST_SECTION_ID || "";
 
-  if (!process.env.PINTEREST_ACCESS_TOKEN) {
-    console.error("Missing PINTEREST_ACCESS_TOKEN in .env.local");
-    process.exit(1);
-  }
-  if (!boardId) {
-    console.error("Missing PINTEREST_BOARD_ID in .env.local");
-    process.exit(1);
-  }
   if (!existsSync(PACK)) {
     console.error("Pack missing; run: npm run pinterest:pack");
     process.exit(1);
@@ -91,6 +83,14 @@ async function main() {
     for (const r of toPublish) console.log(`  would publish: ${r.title} -> ${r.canonical_link}`);
     return;
   }
+  if (!process.env.PINTEREST_ACCESS_TOKEN) {
+    console.error("Missing PINTEREST_ACCESS_TOKEN in .env.local");
+    process.exit(1);
+  }
+  if (!boardId) {
+    console.error("Missing PINTEREST_BOARD_ID in .env.local");
+    process.exit(1);
+  }
 
   const published = [];
   for (const r of toPublish) {
@@ -100,7 +100,7 @@ async function main() {
       title: r.title.slice(0, 100),
       description: [r.description, `Source: ${r.canonical_link}`, r.credit].filter(Boolean).join(" \u00b7 ").slice(0, 500),
       link: r.canonical_link,
-      alt_text: r.credit,
+      alt_text: r.alt_text,
     };
     if (sectionId) payload.section_id = sectionId;
     try {

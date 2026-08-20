@@ -29,12 +29,31 @@
   ],
   "kind": "material-technique",
   "role": [],
-  "body_hash": "4e1db53a31ed12018a865f5248bac5874f361941cc6bf78bd43297a810c9611e",
+  "body_hash": "53ca570b400e4737c1f89a66e5370458180f88cb02968a0d655ba3df90dec924",
   "translation": {
     "semantic_validated": true
   },
   "source_ids": [
     "src_mat_tcna_tile",
     "src_mat_nsi_library"
-  ]
+  ],
+  "hero_image": {
+    "src": "/images/generated-heroes/encyclopedia--tile-module-hygiene-pattern-public-surface.webp",
+    "alt": "Tile — a unique editorial AI illustration visualizing the article's subject.",
+    "caption": "Original VANSMITHLAB editorial AI illustration for “Tile”. Ceramics: module, joint, hygiene, wet area, ornament and public surface.",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "ai_generated",
+    "licence_or_permission": "Original VANSMITHLAB AI illustration; owned editorial asset.",
+    "source_url": "",
+    "asset_id": "hero_encyclopedia_tile-module-hygiene-pattern-public-surface",
+    "content_hash": "2c7ae635f6f31c9598e09b22483c2954e2fc86df9c09694aa633647f4f6ccafe",
+    "storage_key": "/images/generated-heroes/encyclopedia--tile-module-hygiene-pattern-public-surface.webp",
+    "created_at": "2026-08-20T12:33:05.223Z",
+    "locale": "en",
+    "disclosure": "AI-generated editorial illustration; not documentary evidence.",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
+  }
 }

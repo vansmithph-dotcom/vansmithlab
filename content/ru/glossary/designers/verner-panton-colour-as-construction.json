@@ -33,5 +33,41 @@
   "role": [
     "designer"
   ],
-  "body_hash": "5058551d817c4dc47f35539a08ad759207441c84f61bf038b11a4fafdfd05187"
+  "body_hash": "5058551d817c4dc47f35539a08ad759207441c84f61bf038b11a4fafdfd05187",
+  "hero_image": {
+    "src": "/images/generated-heroes/glossary--verner-panton-colour-as-construction.webp",
+    "alt": "Вернер Пантон — уникальная редакционная AI-иллюстрация, визуализирующая тему материала.",
+    "caption": "Оригинальная редакционная AI-иллюстрация VANSMITHLAB для материала «Вернер Пантон». Цвет и синтетический материал как несущая конструкция целой среды, а не отделка предмета.",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "ai_generated",
+    "licence_or_permission": "Оригинальная AI-иллюстрация VANSMITHLAB; редакционный актив в собственности проекта.",
+    "source_url": "",
+    "asset_id": "hero_glossary_verner-panton-colour-as-construction",
+    "content_hash": "4f7ac626376cb3d41189a9260b64b6a26fcfc36896825e6f4dc3e2786d07e916",
+    "storage_key": "/images/generated-heroes/glossary--verner-panton-colour-as-construction.webp",
+    "created_at": "2026-08-20T13:07:36.974Z",
+    "locale": "ru",
+    "disclosure": "Редакционная иллюстрация сгенерирована ИИ и не является документальным свидетельством.",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
+  },
+  "portrait_image": {
+    "src": "/images/profile-portraits/verner-panton-colour-as-construction-portrait-wikimedia-v1.webp",
+    "credit": "Erling Mandelmann / Wikimedia Commons · CC BY-SA 3.0",
+    "origin": "wikimedia_commons",
+    "rights_status": "cc_by_sa",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Verner_Panton_(1996)_by_Erling_Mandelmann.jpg",
+    "access_date": "2026-08-20",
+    "asset_id": "ast_4bf766e3472cb5bf",
+    "content_hash": "4bf766e3472cb5bf9838d95356f5e789ee04471d45c9db05f8dfd7e31ec6b26a",
+    "storage_key": "public/images/profile-portraits/verner-panton-colour-as-construction-portrait-wikimedia-v1.webp",
+    "width": 900,
+    "height": 1125,
+    "alt": "Портрет Вернер Пантон",
+    "caption": "Портрет Вернер Пантон. Источник: Wikimedia Commons."
+  }
 }

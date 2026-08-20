@@ -33,5 +33,41 @@
   "role": [
     "stylist"
   ],
-  "body_hash": "9dd306e0a6edf5ebaf77e7cc2ab6ef835ab593c423c95c7b40cf85ff7bbb1234"
+  "body_hash": "9dd306e0a6edf5ebaf77e7cc2ab6ef835ab593c423c95c7b40cf85ff7bbb1234",
+  "hero_image": {
+    "src": "/images/generated-heroes/glossary--venetia-scott-fashion-realism.webp",
+    "alt": "Venetia Scott — a unique editorial AI illustration visualizing the article's subject.",
+    "caption": "Original VANSMITHLAB editorial AI illustration for “Venetia Scott”. Fashion photography that abandoned glossy staging in favour of the appearance of ordinary life.",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "ai_generated",
+    "licence_or_permission": "Original VANSMITHLAB AI illustration; owned editorial asset.",
+    "source_url": "",
+    "asset_id": "hero_glossary_venetia-scott-fashion-realism",
+    "content_hash": "69dd4fbb5060213ee919fa597618bc8110c90e2c89f082c133b0faf2789d3292",
+    "storage_key": "/images/generated-heroes/glossary--venetia-scott-fashion-realism.webp",
+    "created_at": "2026-08-20T13:31:56.149Z",
+    "locale": "en",
+    "disclosure": "AI-generated editorial illustration; not documentary evidence.",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
+  },
+  "portrait_image": {
+    "src": "/images/profile-portraits/venetia-scott-fashion-realism-portrait-wikimedia-v1.webp",
+    "credit": "Venetia Scott / Wikimedia Commons · CC BY-SA 4.0",
+    "origin": "wikimedia_commons",
+    "rights_status": "cc_by_sa",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Venetia_Scott.jpg",
+    "access_date": "2026-08-20",
+    "asset_id": "ast_29881b7d59605391",
+    "content_hash": "29881b7d59605391f5da73c9d8c5957f7cf6b2ee33a36687eba80d84d4c0f252",
+    "storage_key": "public/images/profile-portraits/venetia-scott-fashion-realism-portrait-wikimedia-v1.webp",
+    "width": 900,
+    "height": 1125,
+    "alt": "Portrait of Venetia Scott",
+    "caption": "Portrait of Venetia Scott. Source: Wikimedia Commons."
+  }
 }

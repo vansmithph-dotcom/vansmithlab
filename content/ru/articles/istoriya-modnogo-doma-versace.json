@@ -72,9 +72,9 @@
   ],
   "kind": "organization",
   "role": [],
-  "body_hash": "b77bc7d7695f25805535e5f525f9e9a30f6b33422ecce5cd9da0aa1d77bc7214",
+  "body_hash": "1466df76d89e083975e781a8fbf9404aa35cf35cce4e54db5856600676ac7d6d",
   "hero_image": {
-    "src": "/images/articles/istoriya-modnogo-doma-versace-hero-v1.png",
+    "src": "/images/articles/istoriya-modnogo-doma-versace-hero-v1.webp",
     "alt": "Редакционная иллюстрация к истории модного дома Versace",
     "caption": "Редакционная иллюстрация к материалу «Versace: история модного дома».",
     "credit": "VANSMITHLAB · AI-иллюстрация, 2026",
@@ -82,8 +82,8 @@
     "asset_id": "asset_istoriya-modnogo-doma-versace-hero-v1_hero_v1",
     "primary_object_id": "obj_e8bd735c35b18761",
     "content_release_id": "cnt_7a0680cc2efd1ad3",
-    "content_hash": "55384fa46d5a4f4a76d76534651a95ccf6fd27dca7cda63924d5b5b3e41b24e2",
-    "file_storage_key": "public/images/articles/istoriya-modnogo-doma-versace-hero-v1.png",
+    "content_hash": "c907b8a79911d8e409b11465d4d9b6718905e62dc641f7c0e6695e16e6e747fe",
+    "file_storage_key": "public/images/articles/istoriya-modnogo-doma-versace-hero-v1.webp",
     "creator_or_credit": "OpenAI image generation · directed and reviewed by VANSMITHLAB",
     "rights_state": "generated_reviewed",
     "licence_or_permission": "Original AI illustration generated for VANSMITHLAB without source images or copied brand assets. It is not documentary evidence.",
@@ -92,6 +92,9 @@
     "rights_status": "generated_reviewed",
     "kind": "image",
     "locale": "ru",
-    "alt_text": "Редакционная иллюстрация к истории модного дома Versace"
+    "alt_text": "Редакционная иллюстрация к истории модного дома Versace",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
   }
 }

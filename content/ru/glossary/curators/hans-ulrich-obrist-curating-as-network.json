@@ -33,5 +33,41 @@
   "role": [
     "curator"
   ],
-  "body_hash": "c87149f42f35506fdec37a6ad68943fe78721f34f429c73173dc59d1f071ea78"
+  "body_hash": "c87149f42f35506fdec37a6ad68943fe78721f34f429c73173dc59d1f071ea78",
+  "hero_image": {
+    "src": "/images/generated-heroes/glossary--hans-ulrich-obrist-curating-as-network.webp",
+    "alt": "Ханс Ульрих Обрист — уникальная редакционная AI-иллюстрация, визуализирующая тему материала.",
+    "caption": "Оригинальная редакционная AI-иллюстрация VANSMITHLAB для материала «Ханс Ульрих Обрист». Кураторство как непрерывное производство связей, разговоров и архива, а не как подготовка отдельной выставки.",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "ai_generated",
+    "licence_or_permission": "Оригинальная AI-иллюстрация VANSMITHLAB; редакционный актив в собственности проекта.",
+    "source_url": "",
+    "asset_id": "hero_glossary_hans-ulrich-obrist-curating-as-network",
+    "content_hash": "0979b44d6bbbd297d630db0c2b1171c08b7ea70b2a13512ec0f447b8f2cf9b1a",
+    "storage_key": "/images/generated-heroes/glossary--hans-ulrich-obrist-curating-as-network.webp",
+    "created_at": "2026-08-20T13:05:59.471Z",
+    "locale": "ru",
+    "disclosure": "Редакционная иллюстрация сгенерирована ИИ и не является документальным свидетельством.",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
+  },
+  "portrait_image": {
+    "src": "/images/profile-portraits/hans-ulrich-obrist-curating-as-network-portrait-wikimedia-v1.webp",
+    "credit": "User:Kimcordova / Wikimedia Commons · CC BY-SA 4.0",
+    "origin": "wikimedia_commons",
+    "rights_status": "cc_by_sa",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Hans_Ulrich_Obrist_2017.jpg",
+    "access_date": "2026-08-20",
+    "asset_id": "ast_a2ee13d198683b5d",
+    "content_hash": "a2ee13d198683b5d9c6f7d9a46b012d990b2bebd3330c093b901eb03da17eb9b",
+    "storage_key": "public/images/profile-portraits/hans-ulrich-obrist-curating-as-network-portrait-wikimedia-v1.webp",
+    "width": 900,
+    "height": 1125,
+    "alt": "Портрет Ханс Ульрих Обрист",
+    "caption": "Портрет Ханс Ульрих Обрист. Источник: Wikimedia Commons."
+  }
 }

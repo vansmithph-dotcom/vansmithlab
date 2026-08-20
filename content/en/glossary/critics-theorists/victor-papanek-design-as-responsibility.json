@@ -33,5 +33,41 @@
   "role": [
     "critic-theorist"
   ],
-  "body_hash": "cd7a35b9be566ba14388573e210e28346b9906f684921af6139778e3ef4af72a"
+  "body_hash": "cd7a35b9be566ba14388573e210e28346b9906f684921af6139778e3ef4af72a",
+  "hero_image": {
+    "src": "/images/generated-heroes/glossary--victor-papanek-design-as-responsibility.webp",
+    "alt": "Victor Papanek — a unique editorial AI illustration visualizing the article's subject.",
+    "caption": "Original VANSMITHLAB editorial AI illustration for “Victor Papanek”. The demand that the consequences of a design decision be counted as part of the decision itself.",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "ai_generated",
+    "licence_or_permission": "Original VANSMITHLAB AI illustration; owned editorial asset.",
+    "source_url": "",
+    "asset_id": "hero_glossary_victor-papanek-design-as-responsibility",
+    "content_hash": "cd84b411626ca9b47b39883200dae695fb6e0c085d09a0777e9feaf59ac549f6",
+    "storage_key": "/images/generated-heroes/glossary--victor-papanek-design-as-responsibility.webp",
+    "created_at": "2026-08-20T12:54:22.256Z",
+    "locale": "en",
+    "disclosure": "AI-generated editorial illustration; not documentary evidence.",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
+  },
+  "portrait_image": {
+    "src": "/images/profile-portraits/victor-papanek-design-as-responsibility-portrait-wikimedia-v1.webp",
+    "credit": "Rochester Institute of Technology / Wikimedia Commons · Public domain",
+    "origin": "wikimedia_commons",
+    "rights_status": "public_domain",
+    "licence": "Public domain",
+    "licence_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Victor_Papanek,_RIT_NandE_Vol13Num3_1981_Jan22_Complete.jpg",
+    "access_date": "2026-08-20",
+    "asset_id": "ast_1d70f3da269cfebd",
+    "content_hash": "1d70f3da269cfebd0e81788b0ecf052f8f792c756a74ba0241a8fa1b81b73957",
+    "storage_key": "public/images/profile-portraits/victor-papanek-design-as-responsibility-portrait-wikimedia-v1.webp",
+    "width": 900,
+    "height": 1125,
+    "alt": "Portrait of Victor Papanek",
+    "caption": "Portrait of Victor Papanek. Source: Wikimedia Commons."
+  }
 }

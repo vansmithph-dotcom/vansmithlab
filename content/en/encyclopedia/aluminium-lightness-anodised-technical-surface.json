@@ -29,12 +29,31 @@
   ],
   "kind": "material-technique",
   "role": [],
-  "body_hash": "e628e4013c8a67ed9db1489d6a1c693a7374ac794f3a8d473b6ff882f1871f10",
+  "body_hash": "53c1a4c128a05b326eb97d76159c8a7ee18305133284e7eb42c46d407e743343",
   "translation": {
     "semantic_validated": true
   },
   "source_ids": [
     "src_alu_world_aluminium",
     "src_alu_european_aluminium"
-  ]
+  ],
+  "hero_image": {
+    "src": "/images/generated-heroes/encyclopedia--aluminium-lightness-anodised-technical-surface.webp",
+    "alt": "Aluminium — a unique editorial AI illustration visualizing the article's subject.",
+    "caption": "Original VANSMITHLAB editorial AI illustration for “Aluminium”. Metal: lightness, anodising, technology, transport and matte industrial surface.",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "ai_generated",
+    "licence_or_permission": "Original VANSMITHLAB AI illustration; owned editorial asset.",
+    "source_url": "",
+    "asset_id": "hero_encyclopedia_aluminium-lightness-anodised-technical-surface",
+    "content_hash": "64933f7be6e56a65d1d8110a8d4d854c416ed9debc07a8133f19bf2ed477e25b",
+    "storage_key": "/images/generated-heroes/encyclopedia--aluminium-lightness-anodised-technical-surface.webp",
+    "created_at": "2026-08-20T10:44:34.543Z",
+    "locale": "en",
+    "disclosure": "AI-generated editorial illustration; not documentary evidence.",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
+  }
 }

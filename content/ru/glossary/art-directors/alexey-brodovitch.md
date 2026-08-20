@@ -34,8 +34,6 @@
 
 Победа в конкурсе плаката Bal Banal принесла Бродовичу первое заметное признание. Динамичная диагональ и лаконичная композиция показывали способность соединять авангардную форму с рекламной ясностью.
 
-placement: after-sectionformat: inline 4:5caption_required: yesalt_required: yesrights: permission-required
-
 ## 5. Парижская коммерческая практика
 
 Он создавал плакаты, книжные обложки, витрины, текстиль и рекламные материалы. Для Бродовича не существовало жёсткой границы между высоким искусством и прикладным дизайном.
@@ -59,8 +57,6 @@ Design Laboratory строилась не как курс правил, а ка�
 ## 10. Журнал как последовательность
 
 Бродович мыслил не отдельной страницей, а темпом всего номера. Плотный разворот мог сменяться пустым, крупное изображение — небольшим, а текст становился частью движения.
-
-placement: after-sectionformat: inline 4:5caption_required: yesalt_required: yesrights: permission-required
 
 ## 11. Белое пространство
 
@@ -102,8 +98,6 @@ Design Laboratory и Harper’s Bazaar стали точками входа дл
 
 В 1935–1937 годах Бродович фотографировал Ballets Russes de Monte Carlo на 35-мм камеру при слабом свете и длинных выдержках. Смаз, зерно и недодержка стали способом передать опыт движения.
 
-placement: after-sectionformat: inline 4:5caption_required: yesalt_required: yesrights: permission-required
-
 ## 20. Ballet, 1945
 
 Книга Ballet объединила 104 фотографии в радикальную последовательность. Она не документирует спектакль буквально, а превращает фотографию, разворот и ритм печати в собственный балет.
@@ -115,8 +109,6 @@ placement: after-sectionformat: inline 4:5caption_required: yesalt_required: yes
 ## 22. Portfolio, 1949–1951
 
 Журнал Portfolio создавался без рекламы и позволял Бродовичу радикально экспериментировать с графическим искусством, фотографией, печатью и материалами. Экономически проект оказался неустойчивым, но профессионально стал легендарным.
-
-placement: after-sectionformat: inline 4:5caption_required: yesalt_required: yesrights: permission-required
 
 ## 23. Книга как пространство монтажа
 
@@ -162,8 +154,6 @@ Harper’s Bazaar был коллективной машиной; культ о�
 
 Cary Graphic Arts Collection в Rochester Institute of Technology хранит значительный архив, включая портреты, документы и аудиозаписи занятий Design Laboratory. В 2026 году коллекция остаётся важным исследовательским ресурсом.
 
-placement: after-sectionformat: inline 4:5caption_required: yesalt_required: yesrights: permission-required
-
 ## 32. MoMA, NGA и музейный канон
 
 Работы Бродовича представлены в MoMA, National Gallery of Art, The Met и других институциях. Музейный канон постепенно расширяет его образ от арт-директора Harper’s Bazaar к фотографу, преподавателю и автору книги.
@@ -171,8 +161,6 @@ placement: after-sectionformat: inline 4:5caption_required: yesalt_required: yes
 ## 33. Astonish Me в Barnes Foundation
 
 Выставка 2024 года собрала более ста объектов и показала Бродовича через дизайн, фотографию, журнал и педагогическое влияние. Она стала одним из наиболее полных недавних пересмотров его наследия.
-
-placement: after-sectionformat: inline 4:5caption_required: yesalt_required: yesrights: permission-required
 
 ## 34. Критика модернистской универсальности
 

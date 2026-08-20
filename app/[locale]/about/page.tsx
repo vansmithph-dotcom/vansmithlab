@@ -1,6 +1,5 @@
 ﻿import type { Metadata } from "next";
 import { notFound } from "next/navigation";
-import { TrustPanel } from "@/components/TrustPanel";
 import { copy, isLocale } from "@/lib/site-data";
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
@@ -36,6 +35,10 @@ const aboutContent = {
       title: "Исправления",
       text: "Исправления — часть качества, а не признак ошибки. Каждое изменение объекта или публикации версионируется. История правок видна читателю. При обнаружении неточности мы выпускаем correction notice, обновляем связанные материалы и оповещаем подписчиков. Процесс исправлений автоматизирован, но решение о содержательной правке принимается редактором.",
     },
+    mediaRights: {
+      title: "Медиа и права",
+      text: "Каждый медиаобъект хранит происхождение, право использования, кредит и доступное описание. Оригинальные редакционные и AI-иллюстрации VANSMITHLAB раскрываются явно; они не являются документальными свидетельствами. Повторное использование оригинальных материалов требует предварительного письменного разрешения, а права на сторонние материалы остаются у соответствующих правообладателей.",
+    },
   },
   en: {
     manifest: {
@@ -54,6 +57,10 @@ const aboutContent = {
       title: "Corrections",
       text: "Corrections are part of quality, not a sign of error. Every object or publication change is versioned. Revision history is visible to the reader. When an inaccuracy is found, we issue a correction notice, update related materials and notify subscribers. The correction process is automated, but substantive editorial decisions are made by an editor.",
     },
+    mediaRights: {
+      title: "Media and rights",
+      text: "Every media asset records its origin, usage basis, credit and accessible description. Original editorial and AI illustrations by VANSMITHLAB are disclosed explicitly and are not documentary evidence. Reuse of original material requires prior written permission; rights in third-party material remain with the respective rights holders.",
+    },
   },
 };
 
@@ -71,12 +78,11 @@ export default async function AboutPage({ params }: { params: Promise<{ locale: 
           <h1>{page.title}</h1>
           <p>{page.text}</p>
         </div>
-        <TrustPanel locale={locale} />
       </div>
 
       <div className="about-grid" style={{ display: "grid", gridTemplateColumns: "repeat(2, 1fr)", gap: "1px", background: "var(--line)", border: "1px solid var(--line)", marginTop: 60 }}>
-        {[content.manifest, content.methodology, content.verification, content.corrections].map((section) => (
-          <article key={section.title} style={{ background: "var(--paper)", padding: "32px 28px" }}>
+        {[content.manifest, content.methodology, content.verification, content.corrections, content.mediaRights].map((section) => (
+          <article id={section === content.mediaRights ? "media-rights" : undefined} key={section.title} style={{ background: "var(--paper)", padding: "32px 28px" }}>
             <h2 style={{ margin: "0 0 14px", fontSize: 22, fontWeight: 500, letterSpacing: "-.03em" }}>{section.title}</h2>
             <p style={{ margin: 0, color: "#514d45", fontSize: 14, lineHeight: 1.7 }}>{section.text}</p>
           </article>

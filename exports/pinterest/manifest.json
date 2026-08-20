@@ -1,0 +1,50 @@
+{
+  "generated_at": "2026-08-20T17:00:00.557Z",
+  "source": "https://vansmithlab.com/feed.xml",
+  "board": "vansmithlab.com",
+  "total_records": 932,
+  "batch_size": 200,
+  "batch_files": [
+    {
+      "file": "pinterest-bulk-001.csv",
+      "first_record": 1,
+      "last_record": 200,
+      "count": 200
+    },
+    {
+      "file": "pinterest-bulk-002.csv",
+      "first_record": 201,
+      "last_record": 400,
+      "count": 200
+    },
+    {
+      "file": "pinterest-bulk-003.csv",
+      "first_record": 401,
+      "last_record": 600,
+      "count": 200
+    },
+    {
+      "file": "pinterest-bulk-004.csv",
+      "first_record": 601,
+      "last_record": 800,
+      "count": 200
+    },
+    {
+      "file": "pinterest-bulk-005.csv",
+      "first_record": 801,
+      "last_record": 932,
+      "count": 132
+    }
+  ],
+  "headers": [
+    "Title",
+    "Media URL",
+    "Pinterest board",
+    "Thumbnail",
+    "Description",
+    "Link",
+    "Publish date",
+    "Keywords"
+  ],
+  "note": "Upload numbered batches in order. The all.csv file is an archive and exceeds Pinterest's 200-Pin per-upload limit."
+}

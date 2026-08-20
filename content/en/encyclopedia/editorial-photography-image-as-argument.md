@@ -138,8 +138,8 @@ Today the subject should be read as a chain: question → access → series → 
 
 ## See also
 
-- [Art Direction — Who Designs the Image Before the Shoot](/en/encyclopedia/art-direction-designing-the-image-before-the-shoot) — An image begins before the camera: brief, research, casting, location, light, clothing, props and la.
+- [Art Direction — Who Designs the Image Before the Shoot](/en/encyclopedia/art-direction-designing-the-image-before-the-shoot) — An image begins before the camera: brief, research, casting, location, light, clothing, props and layout define the field of possibility in advance.
 - [Advertising Photography](/en/encyclopedia/advertising-photography-image-as-commercial-instrument) — The frame is designed for an action: recognize, desire, remember, choose.
 - [Magazine Cover — Image as the Interface of an Issue](/en/encyclopedia/magazine-cover-image-as-issue-interface) — One frame, a name, a masthead and a few lines must sell the issue while stating its position.
-- [Magazine Spread — The Space Between Two Pages](/en/encyclopedia/magazine-spread-space-between-two-pages) — A magazine is read not as isolated pages but through collisions and pauses between left and right fi.
+- [Magazine Spread — The Space Between Two Pages](/en/encyclopedia/magazine-spread-space-between-two-pages) — A magazine is read not as isolated pages but through collisions and pauses between left and right fields.
 - [Photobook — Sequence Instead of the Single Frame](/en/encyclopedia/photobook-sequence-instead-of-single-frame) — A book turns photographs into time: order, scale, paper and page turning become part of the work.

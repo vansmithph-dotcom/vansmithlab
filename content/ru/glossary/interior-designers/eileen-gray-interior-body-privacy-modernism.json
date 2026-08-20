@@ -6,7 +6,7 @@
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "unverified",
-  "confidence_score": 0.0,
+  "confidence_score": 0,
   "claim_ids": [],
   "source_ids": [
     "src_ccfb87431b4c7f39",
@@ -48,16 +48,41 @@
     "industrial-designer",
     "architect"
   ],
-  "body_hash": "b0a0a1dafdf41408f98d7de20843f53d90f76c8728f345c685049e3f56fa56e7",
+  "body_hash": "0a464997ad0c56f828e622946cd70b70c3a446ce8e5b0dadf997a3ee3910e48c",
   "hero_image": {
-    "src": "/images/glossary/interior-designers/eileen-gray-interior-body-privacy-modernism-portrait-ai-v1-card-v2.jpg",
+    "src": "/images/glossary/interior-designers/eileen-gray-interior-body-privacy-modernism-portrait-ai-v2-card.webp",
     "origin": "ai_illustration",
     "rights_state": "original_owned",
+    "rights_status": "ai_generated",
     "source_url": "",
-    "credit": "VANSMITHLAB · оригинальная AI-иллюстрация, 2026",
+    "credit": "VANSMITHLAB · оригинальная редакционная AI-иллюстрация, 2026",
     "licence_or_permission": "Оригинальная AI-иллюстрация VANSMITHLAB; не документальная фотография.",
-    "alt": "Редакционная AI-портретная иллюстрация автора",
-    "alt_text": "Редакционная AI-портретная иллюстрация автора",
-    "caption": "AI-портретная реконструкция автора. Не является документальной фотографией."
+    "alt": "Редакционная портретная иллюстрация: Эйлин Грей",
+    "alt_text": "Редакционная портретная иллюстрация: Эйлин Грей",
+    "caption": "Редакционная AI-реконструкция портрета Эйлин Грей. Не является документальной фотографией.",
+    "disclosure": "ИИ-реконструкция внешности на основе публичных фотографических референсов; не архивная фотография.",
+    "asset_id": "ast_8618e4e4b38c9825",
+    "content_hash": "8618e4e4b38c98259e232a17965e17ddb164aee12b9b92afc095cc6034851974",
+    "storage_key": "public/images/glossary/interior-designers/eileen-gray-interior-body-privacy-modernism-portrait-ai-v2-card.webp",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
+  },
+  "portrait_image": {
+    "src": "/images/profile-portraits/eileen-gray-interior-body-privacy-modernism-portrait-wikimedia-v1.webp",
+    "credit": "Unknown author Unknown author / Wikimedia Commons · Public domain",
+    "origin": "wikimedia_commons",
+    "rights_status": "public_domain",
+    "licence": "Public domain",
+    "licence_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Eileen_Gray.jpg",
+    "access_date": "2026-08-20",
+    "asset_id": "ast_5a336e420b6a17ab",
+    "content_hash": "5a336e420b6a17abaa02ebddf2403b98387400e3abfc2f7ab8991100b6683921",
+    "storage_key": "public/images/profile-portraits/eileen-gray-interior-body-privacy-modernism-portrait-wikimedia-v1.webp",
+    "width": 900,
+    "height": 1125,
+    "alt": "Портрет Эйлин Грей",
+    "caption": "Портрет Эйлин Грей. Источник: Wikimedia Commons."
   }
 }

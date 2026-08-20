@@ -138,7 +138,7 @@ Today Vitra Campus as an Encyclopedia of Architecture and Objects is best read i
 
 ## See also
 
-- [Eames House](/en/encyclopedia/eames-house-case-study-house-8) — Case Study House No. 8: industrial system, home-studio, collection of things, and laboratory of ever.
+- [Eames House](/en/encyclopedia/eames-house-case-study-house-8) — Case Study House No. 8: industrial system, home-studio, collection of things, and laboratory of everyday creativity.
 - [Eames Lounge Chair](/en/encyclopedia/eames-lounge-chair) — Moulded plywood, comfort and postwar luxury.
 - [606 Universal Shelving System](/en/encyclopedia/606-universal-shelving-system) — Modularity, repairability and the long life of an object.
 - [The Museum — Route, Display, and the Management of Attention](/en/encyclopedia/museum-route-display-management-of-attention) — How architecture and exhibition design turn a collection into a sequence of encounters, comparisons,.

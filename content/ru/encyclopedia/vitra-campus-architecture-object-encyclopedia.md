@@ -138,7 +138,7 @@ Vitra Campus в Вайль-ам-Райне развивался постепен
 
 ## По теме
 
-- [Eames House](/ru/encyclopedia/eames-house-case-study-house-8) — Case Study House №8: промышленная система, дом-студия, коллекция вещей и лаборатория повседневного т.
+- [Eames House](/ru/encyclopedia/eames-house-case-study-house-8) — Case Study House №8: промышленная система, дом-студия, коллекция вещей и лаборатория повседневного творчества.
 - [Eames Lounge Chair](/ru/encyclopedia/eames-lounge-chair) — Формованная фанера, комфорт и послевоенная роскошь.
 - [606 Universal Shelving System](/ru/encyclopedia/606-universal-shelving-system) — Модульность, ремонтопригодность и долгая жизнь вещи.
-- [Музей — маршрут, экспозиция и управление вниманием](/ru/encyclopedia/museum-route-display-management-of-attention) — Как архитектура и экспозиция превращают коллекцию в последовательность встреч, сравнений и интерпрет.
+- [Музей — маршрут, экспозиция и управление вниманием](/ru/encyclopedia/museum-route-display-management-of-attention) — Как архитектура и экспозиция превращают коллекцию в последовательность встреч, сравнений и интерпретаций.

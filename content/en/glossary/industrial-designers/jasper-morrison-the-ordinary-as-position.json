@@ -33,5 +33,41 @@
   "role": [
     "industrial-designer"
   ],
-  "body_hash": "1c8611fd8abd5d53ede78fc762943a3226a4432ab60f6a150a882f14e7d943a1"
+  "body_hash": "1c8611fd8abd5d53ede78fc762943a3226a4432ab60f6a150a882f14e7d943a1",
+  "hero_image": {
+    "src": "/images/generated-heroes/glossary--jasper-morrison-the-ordinary-as-position.webp",
+    "alt": "Jasper Morrison — a unique editorial AI illustration visualizing the article's subject.",
+    "caption": "Original VANSMITHLAB editorial AI illustration for “Jasper Morrison”. Refusing expressiveness as a deliberate professional position rather than as modesty.",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "ai_generated",
+    "licence_or_permission": "Original VANSMITHLAB AI illustration; owned editorial asset.",
+    "source_url": "",
+    "asset_id": "hero_glossary_jasper-morrison-the-ordinary-as-position",
+    "content_hash": "49aff9d19684fb13e974a23a503434afa2dfa3e338d8a4feaa6138b495406976",
+    "storage_key": "/images/generated-heroes/glossary--jasper-morrison-the-ordinary-as-position.webp",
+    "created_at": "2026-08-20T13:19:30.634Z",
+    "locale": "en",
+    "disclosure": "AI-generated editorial illustration; not documentary evidence.",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
+  },
+  "portrait_image": {
+    "src": "/images/profile-portraits/jasper-morrison-the-ordinary-as-position-portrait-wikimedia-v1.webp",
+    "credit": "Gruppo Mondadori / Wikimedia Commons · CC BY-SA 4.0",
+    "origin": "wikimedia_commons",
+    "rights_status": "cc_by_sa",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Jasper_Morrison.jpg",
+    "access_date": "2026-08-20",
+    "asset_id": "ast_fc01efec9494c5b9",
+    "content_hash": "fc01efec9494c5b97d48b7a118a461e3d5c965f71dba0eb20d4b5846cc13f3a4",
+    "storage_key": "public/images/profile-portraits/jasper-morrison-the-ordinary-as-position-portrait-wikimedia-v1.webp",
+    "width": 900,
+    "height": 1125,
+    "alt": "Portrait of Jasper Morrison",
+    "caption": "Portrait of Jasper Morrison. Source: Wikimedia Commons."
+  }
 }

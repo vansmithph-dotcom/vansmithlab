@@ -33,5 +33,41 @@
   "role": [
     "industrial-designer"
   ],
-  "body_hash": "b1779ba3b088bae41bec6e02bbed4317a1df9de4884f8c6fe622d3c2aa797143"
+  "body_hash": "b1779ba3b088bae41bec6e02bbed4317a1df9de4884f8c6fe622d3c2aa797143",
+  "hero_image": {
+    "src": "/images/generated-heroes/glossary--marc-newson-surface-without-a-seam.webp",
+    "alt": "Марк Ньюсон — уникальная редакционная AI-иллюстрация, визуализирующая тему материала.",
+    "caption": "Оригинальная редакционная AI-иллюстрация VANSMITHLAB для материала «Марк Ньюсон». Непрерывная поверхность без видимых стыков как форма и как производственное требование одновременно.",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "ai_generated",
+    "licence_or_permission": "Оригинальная AI-иллюстрация VANSMITHLAB; редакционный актив в собственности проекта.",
+    "source_url": "",
+    "asset_id": "hero_glossary_marc-newson-surface-without-a-seam",
+    "content_hash": "dfb6e46f395ca661847d97c0fc5fbe9c574c9564106ebc695a38f25f6a7af2d2",
+    "storage_key": "/images/generated-heroes/glossary--marc-newson-surface-without-a-seam.webp",
+    "created_at": "2026-08-20T13:20:42.414Z",
+    "locale": "ru",
+    "disclosure": "Редакционная иллюстрация сгенерирована ИИ и не является документальным свидетельством.",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
+  },
+  "portrait_image": {
+    "src": "/images/profile-portraits/marc-newson-surface-without-a-seam-portrait-wikimedia-v1.webp",
+    "credit": "FT_Business_of_Luxury_Gala_Reception.jpg: Financial Times derivative work: Puramyun31 ( talk ) / Wikimedia Commons · CC BY 2.0",
+    "origin": "wikimedia_commons",
+    "rights_status": "cc_by",
+    "licence": "CC BY 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Marc_Newson.jpg",
+    "access_date": "2026-08-20",
+    "asset_id": "ast_5af755b62cb002ac",
+    "content_hash": "5af755b62cb002ac7310ede2baa71fe94a50d94d5a5ac51b35efbe0422ba8234",
+    "storage_key": "public/images/profile-portraits/marc-newson-surface-without-a-seam-portrait-wikimedia-v1.webp",
+    "width": 900,
+    "height": 1125,
+    "alt": "Портрет Марк Ньюсон",
+    "caption": "Портрет Марк Ньюсон. Источник: Wikimedia Commons."
+  }
 }

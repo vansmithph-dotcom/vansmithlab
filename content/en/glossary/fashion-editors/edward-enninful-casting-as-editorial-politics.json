@@ -33,5 +33,43 @@
   "role": [
     "fashion-editor"
   ],
-  "body_hash": "91902d45d5eb69cda0db04795ecb7c8fd090e749368019d708f6b23290b388f8"
+  "body_hash": "91902d45d5eb69cda0db04795ecb7c8fd090e749368019d708f6b23290b388f8",
+  "hero_image": {
+    "src": "/images/generated-heroes/glossary--edward-enninful-casting-as-editorial-politics.webp",
+    "alt": "Edward Enninful — a unique editorial AI illustration visualizing the article's subject.",
+    "caption": "Original VANSMITHLAB editorial AI illustration for “Edward Enninful”. Casting as the principal editorial instrument: who is in frame determines what a publication is about.",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "ai_generated",
+    "licence_or_permission": "Original VANSMITHLAB AI illustration; owned editorial asset.",
+    "source_url": "",
+    "asset_id": "hero_glossary_edward-enninful-casting-as-editorial-politics",
+    "content_hash": "af39ebb9c99dfdac61724339cef8f7cd79ce3aa2d889941dcbd0b864b961dfbf",
+    "storage_key": "/images/generated-heroes/glossary--edward-enninful-casting-as-editorial-politics.webp",
+    "created_at": "2026-08-20T13:09:30.512Z",
+    "locale": "en",
+    "disclosure": "AI-generated editorial illustration; not documentary evidence.",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
+  },
+  "portrait_image": {
+    "src": "/images/profile-portraits/edward-enninful-casting-as-editorial-politics-portrait-ai-reconstruction-v1.webp",
+    "credit": "VANSMITHLAB · AI reconstruction from reviewed public reference imagery, 2026",
+    "origin": "ai_reconstruction",
+    "rights_status": "ai_generated",
+    "licence": "VANSMITHLAB original AI reconstruction",
+    "licence_url": "https://vansmithlab.com/en/method/",
+    "source_url": "https://www.vogue.com/article/edward-enninful-interview-editor-in-chief-british-vogue",
+    "reference_url": "https://assets.vogue.com/photos/5d4468cab0422800088a1c8e/1:1/w_2000,h_2000,c_limit/edward-july-CREDIT-Valentin%20Hennequin-19-50-50-bundle%20(1).jpg",
+    "access_date": "2026-08-20",
+    "disclosure": "AI reconstruction of the subject based on a reviewed public photographic reference; not an archival photograph.",
+    "asset_id": "ast_c267efaa95bf8fc6",
+    "content_hash": "c267efaa95bf8fc64efd340cd88b4404fa8e01bce551efd4db896238408b13df",
+    "storage_key": "public/images/profile-portraits/edward-enninful-casting-as-editorial-politics-portrait-ai-reconstruction-v1.webp",
+    "width": 900,
+    "height": 1125,
+    "alt": "Portrait of Edward Enninful",
+    "caption": "AI portrait reconstruction of Edward Enninful from a public photographic reference."
+  }
 }

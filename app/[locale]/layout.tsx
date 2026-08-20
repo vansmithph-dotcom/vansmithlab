@@ -17,6 +17,10 @@ export default async function LocaleLayout({ children, params }: Readonly<{ chil
   if (!isLocale(locale)) notFound();
   return (
     <html className={fontVariables} lang={locale}>
+      <head>
+        <link href="/feed.xml" rel="alternate" title="VANSMITHLAB — new materials" type="application/rss+xml" />
+        <link href="/collections.xml" rel="alternate" title="VANSMITHLAB — collections" type="application/atom+xml" />
+      </head>
       <body>
         <SiteHeader locale={locale} />
         <main>{children}</main>

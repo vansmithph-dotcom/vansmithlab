@@ -31,5 +31,24 @@
   ],
   "kind": "organization",
   "role": [],
-  "body_hash": "5c964a538f598812165252cabf9edcfc741fdd2e9151ccdf9d365ee613dbb972"
+  "body_hash": "5c964a538f598812165252cabf9edcfc741fdd2e9151ccdf9d365ee613dbb972",
+  "hero_image": {
+    "src": "/images/generated-heroes/encyclopedia--controlnet-controlled-generation.webp",
+    "alt": "ControlNet and controlled generation — a unique editorial AI illustration visualizing the article's subject.",
+    "caption": "Original VANSMITHLAB editorial AI illustration for “ControlNet and controlled generation”. A generative model receives a spatial condition — pose, edge, or depth — and stops being a lottery.",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "ai_generated",
+    "licence_or_permission": "Original VANSMITHLAB AI illustration; owned editorial asset.",
+    "source_url": "",
+    "asset_id": "hero_encyclopedia_controlnet-controlled-generation",
+    "content_hash": "cee6791570c352ab939e9c313d05b9d440f3ba7c9dc4e52a17a344b2e1b2107b",
+    "storage_key": "/images/generated-heroes/encyclopedia--controlnet-controlled-generation.webp",
+    "created_at": "2026-08-20T11:12:08.453Z",
+    "locale": "en",
+    "disclosure": "AI-generated editorial illustration; not documentary evidence.",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
+  }
 }

@@ -33,5 +33,41 @@
   "role": [
     "designer"
   ],
-  "body_hash": "2b08a0d865f380728abd563c2a7360464d6b30045a692c773d38e30138327d0d"
+  "body_hash": "2b08a0d865f380728abd563c2a7360464d6b30045a692c773d38e30138327d0d",
+  "hero_image": {
+    "src": "/images/generated-heroes/glossary--philippe-starck-designer-as-public-figure.webp",
+    "alt": "Philippe Starck — a unique editorial AI illustration visualizing the article's subject.",
+    "caption": "Original VANSMITHLAB editorial AI illustration for “Philippe Starck”. The designer as a public figure and media argument, selling an object together with their own name.",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "ai_generated",
+    "licence_or_permission": "Original VANSMITHLAB AI illustration; owned editorial asset.",
+    "source_url": "",
+    "asset_id": "hero_glossary_philippe-starck-designer-as-public-figure",
+    "content_hash": "b19ced80c5b3a1b07ae21ef7b0660e59446434f44337d96e2f033666ddde703b",
+    "storage_key": "/images/generated-heroes/glossary--philippe-starck-designer-as-public-figure.webp",
+    "created_at": "2026-08-20T13:04:09.352Z",
+    "locale": "en",
+    "disclosure": "AI-generated editorial illustration; not documentary evidence.",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
+  },
+  "portrait_image": {
+    "src": "/images/profile-portraits/philippe-starck-designer-as-public-figure-portrait-wikimedia-v1.webp",
+    "credit": "jikatu / Wikimedia Commons · CC BY-SA 2.0",
+    "origin": "wikimedia_commons",
+    "rights_status": "cc_by_sa",
+    "licence": "CC BY-SA 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Phillippe_Starck_2011.jpg",
+    "access_date": "2026-08-20",
+    "asset_id": "ast_bbd5a30a7c66bb0d",
+    "content_hash": "bbd5a30a7c66bb0dac13f2d31ac5d07fcfb936f6d070501a50e37ea263be320d",
+    "storage_key": "public/images/profile-portraits/philippe-starck-designer-as-public-figure-portrait-wikimedia-v1.webp",
+    "width": 900,
+    "height": 1125,
+    "alt": "Portrait of Philippe Starck",
+    "caption": "Portrait of Philippe Starck. Source: Wikimedia Commons."
+  }
 }

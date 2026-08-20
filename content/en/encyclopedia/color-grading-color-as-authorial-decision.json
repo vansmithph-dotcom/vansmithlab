@@ -33,11 +33,30 @@
     "image-grammar"
   ],
   "kind": "theme",
-  "body_hash": "e0d0f2dfe6feb8cde7c8f97c2f049245c02778fb50a8539fbc54e61ba7c27d8d",
+  "body_hash": "2de341970834deb657e5d72c480cad2a893533781d76f970b1f19bc54699b92c",
   "translation": {
     "source_locale": "ru",
     "translated_by": "VANSMITHLAB",
     "semantic_validated": true,
     "translation_date": "2026-08-19"
+  },
+  "hero_image": {
+    "src": "/images/generated-heroes/encyclopedia--color-grading-color-as-authorial-decision.webp",
+    "alt": "Color Grading — Color as an Authorial Decision — a unique editorial AI illustration visualizing the article's subject.",
+    "caption": "Original VANSMITHLAB editorial AI illustration for “Color Grading — Color as an Authorial Decision”. Color is not a final filter but a managed chain from capture to publication.",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "ai_generated",
+    "licence_or_permission": "Original VANSMITHLAB AI illustration; owned editorial asset.",
+    "source_url": "",
+    "asset_id": "hero_encyclopedia_color-grading-color-as-authorial-decision",
+    "content_hash": "6911a49504784a9a13d9eeca0d81c47dde275231ca63171c369b35af76e1284d",
+    "storage_key": "/images/generated-heroes/encyclopedia--color-grading-color-as-authorial-decision.webp",
+    "created_at": "2026-08-20T11:02:17.289Z",
+    "locale": "en",
+    "disclosure": "AI-generated editorial illustration; not documentary evidence.",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
   }
 }

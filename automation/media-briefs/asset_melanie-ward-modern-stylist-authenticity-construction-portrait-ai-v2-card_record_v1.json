@@ -1,0 +1,46 @@
+{
+  "asset_id": "asset_melanie-ward-modern-stylist-authenticity-construction-portrait-ai-v2-card_record_v1",
+  "record_type": "asset_record",
+  "record_basis": "Generated as a replacement for a distorted profile-card portrait after visual QA.",
+  "asset_path": "public/images/glossary/stylists/melanie-ward-modern-stylist-authenticity-construction-portrait-ai-v2-card.webp",
+  "primary_object_id": "",
+  "content_release_id": "cnt_b3e926a544b2c3b3",
+  "kind": "image",
+  "origin": "ai_illustration",
+  "locale": "multilingual",
+  "educational_purpose": "Editorial portrait card for the profile of Melanie Ward.",
+  "may_depict": [
+    "Melanie Ward",
+    "the subject's professional context"
+  ],
+  "must_not_imply": [
+    "The image is an archival or documentary photograph",
+    "The depicted setting documents a specific historical event"
+  ],
+  "rights": {
+    "state": "generated_reviewed",
+    "disclosure": "Original VANSMITHLAB AI-generated editorial illustration, 2026.",
+    "rights_basis": "Original AI visual generated for VANSMITHLAB; no third-party image is reproduced.",
+    "third_party_marks": "None requested; output visually reviewed for text, logos and watermarks."
+  },
+  "accessibility": {
+    "alt_text_en": "Editorial portrait illustration: Melanie Ward",
+    "alt_text_ru": "Редакционная портретная иллюстрация: Melanie Ward",
+    "caption_en": "Editorial AI portrait reconstruction of Melanie Ward. Not a documentary photograph.",
+    "caption_ru": "Редакционная AI-реконструкция портрета Melanie Ward. Не является документальной фотографией."
+  },
+  "file": {
+    "path": "public/images/glossary/stylists/melanie-ward-modern-stylist-authenticity-construction-portrait-ai-v2-card.webp",
+    "sha256": "a8ecf91b11f8d2ef74b0c41deb9e4f545678ced975e13901b990aeae7fc638bc",
+    "bytes": 133256,
+    "format": "webp",
+    "width": 1536,
+    "height": 1024
+  },
+  "generation": {
+    "tool": "OpenAI built-in image generation",
+    "prompt": "A historically and professionally contextualized editorial portrait reconstruction of Melanie Ward; horizontal 3:2; subject safely centered with full head, shoulders and hands; generous crop margins; natural anatomy; no text, logo, watermark or diagram.",
+    "generated_at": "2026-08-20",
+    "note": "Individually generated and visually reviewed before attachment."
+  }
+}

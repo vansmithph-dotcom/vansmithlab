@@ -33,5 +33,41 @@
   "role": [
     "critic-theorist"
   ],
-  "body_hash": "2b1b046331cc9c48f7ec60409dc836005b44bc64e62e0e107831681f7d2f915a"
+  "body_hash": "2b1b046331cc9c48f7ec60409dc836005b44bc64e62e0e107831681f7d2f915a",
+  "hero_image": {
+    "src": "/images/generated-heroes/glossary--victor-papanek-design-as-responsibility.webp",
+    "alt": "Виктор Папанек — уникальная редакционная AI-иллюстрация, визуализирующая тему материала.",
+    "caption": "Оригинальная редакционная AI-иллюстрация VANSMITHLAB для материала «Виктор Папанек». Требование считать последствия проектного решения частью самого решения.",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "ai_generated",
+    "licence_or_permission": "Оригинальная AI-иллюстрация VANSMITHLAB; редакционный актив в собственности проекта.",
+    "source_url": "",
+    "asset_id": "hero_glossary_victor-papanek-design-as-responsibility",
+    "content_hash": "cd84b411626ca9b47b39883200dae695fb6e0c085d09a0777e9feaf59ac549f6",
+    "storage_key": "/images/generated-heroes/glossary--victor-papanek-design-as-responsibility.webp",
+    "created_at": "2026-08-20T12:54:22.256Z",
+    "locale": "ru",
+    "disclosure": "Редакционная иллюстрация сгенерирована ИИ и не является документальным свидетельством.",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
+  },
+  "portrait_image": {
+    "src": "/images/profile-portraits/victor-papanek-design-as-responsibility-portrait-wikimedia-v1.webp",
+    "credit": "Rochester Institute of Technology / Wikimedia Commons · Public domain",
+    "origin": "wikimedia_commons",
+    "rights_status": "public_domain",
+    "licence": "Public domain",
+    "licence_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Victor_Papanek,_RIT_NandE_Vol13Num3_1981_Jan22_Complete.jpg",
+    "access_date": "2026-08-20",
+    "asset_id": "ast_1d70f3da269cfebd",
+    "content_hash": "1d70f3da269cfebd0e81788b0ecf052f8f792c756a74ba0241a8fa1b81b73957",
+    "storage_key": "public/images/profile-portraits/victor-papanek-design-as-responsibility-portrait-wikimedia-v1.webp",
+    "width": 900,
+    "height": 1125,
+    "alt": "Портрет Виктор Папанек",
+    "caption": "Портрет Виктор Папанек. Источник: Wikimedia Commons."
+  }
 }

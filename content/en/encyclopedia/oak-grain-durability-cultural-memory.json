@@ -29,12 +29,31 @@
   ],
   "kind": "material-technique",
   "role": [],
-  "body_hash": "cb455a4f431d6f1e2dc9859c424382d9a6df90df50df067d5e763ae68927ec64",
+  "body_hash": "cf7e243324d5b1fefaf92973ad313eb3f955476c7eacf11a75f90faa864cee2e",
   "translation": {
     "semantic_validated": true
   },
   "source_ids": [
     "src_mat_usda_wood",
     "src_mat_nsi_library"
-  ]
+  ],
+  "hero_image": {
+    "src": "/images/generated-heroes/encyclopedia--oak-grain-durability-cultural-memory.webp",
+    "alt": "Oak — a unique editorial AI illustration visualizing the article's subject.",
+    "caption": "Original VANSMITHLAB editorial AI illustration for “Oak”. Wood: grain structure, strength, flooring, furniture and domestic cultural memory.",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "ai_generated",
+    "licence_or_permission": "Original VANSMITHLAB AI illustration; owned editorial asset.",
+    "source_url": "",
+    "asset_id": "hero_encyclopedia_oak-grain-durability-cultural-memory",
+    "content_hash": "e6b5da4c8ed79feed781b3162739e5004499f37b986ad938f8593a995f223762",
+    "storage_key": "/images/generated-heroes/encyclopedia--oak-grain-durability-cultural-memory.webp",
+    "created_at": "2026-08-20T11:56:09.188Z",
+    "locale": "en",
+    "disclosure": "AI-generated editorial illustration; not documentary evidence.",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
+  }
 }

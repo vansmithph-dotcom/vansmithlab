@@ -33,5 +33,41 @@
   "role": [
     "industrial-designer"
   ],
-  "body_hash": "264375f041124a3578973e9654a8e4c6d293768cce36f775aec371aa3b5dcefb"
+  "body_hash": "264375f041124a3578973e9654a8e4c6d293768cce36f775aec371aa3b5dcefb",
+  "hero_image": {
+    "src": "/images/generated-heroes/glossary--jasper-morrison-the-ordinary-as-position.webp",
+    "alt": "Джаспер Моррисон — уникальная редакционная AI-иллюстрация, визуализирующая тему материала.",
+    "caption": "Оригинальная редакционная AI-иллюстрация VANSMITHLAB для материала «Джаспер Моррисон». Отказ от выразительности как сознательная профессиональная позиция, а не как скромность.",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "ai_generated",
+    "licence_or_permission": "Оригинальная AI-иллюстрация VANSMITHLAB; редакционный актив в собственности проекта.",
+    "source_url": "",
+    "asset_id": "hero_glossary_jasper-morrison-the-ordinary-as-position",
+    "content_hash": "49aff9d19684fb13e974a23a503434afa2dfa3e338d8a4feaa6138b495406976",
+    "storage_key": "/images/generated-heroes/glossary--jasper-morrison-the-ordinary-as-position.webp",
+    "created_at": "2026-08-20T13:19:30.634Z",
+    "locale": "ru",
+    "disclosure": "Редакционная иллюстрация сгенерирована ИИ и не является документальным свидетельством.",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
+  },
+  "portrait_image": {
+    "src": "/images/profile-portraits/jasper-morrison-the-ordinary-as-position-portrait-wikimedia-v1.webp",
+    "credit": "Gruppo Mondadori / Wikimedia Commons · CC BY-SA 4.0",
+    "origin": "wikimedia_commons",
+    "rights_status": "cc_by_sa",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Jasper_Morrison.jpg",
+    "access_date": "2026-08-20",
+    "asset_id": "ast_fc01efec9494c5b9",
+    "content_hash": "fc01efec9494c5b97d48b7a118a461e3d5c965f71dba0eb20d4b5846cc13f3a4",
+    "storage_key": "public/images/profile-portraits/jasper-morrison-the-ordinary-as-position-portrait-wikimedia-v1.webp",
+    "width": 900,
+    "height": 1125,
+    "alt": "Портрет Джаспер Моррисон",
+    "caption": "Портрет Джаспер Моррисон. Источник: Wikimedia Commons."
+  }
 }

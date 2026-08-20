@@ -6,7 +6,7 @@
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "unverified",
-  "confidence_score": 0.0,
+  "confidence_score": 0,
   "claim_ids": [],
   "source_ids": [
     "src_f9a6ab36a40080bb",
@@ -46,16 +46,43 @@
     "stylist",
     "fashion-editor"
   ],
-  "body_hash": "a7aa7043cf63b7edea67f55e1c73125e04d0a553f40ebe7e0ca2d3793e82f3b1",
+  "body_hash": "b09d7c75895d407f528d2fc48982f42cb39933e66f1c1b60482639996a54b5b6",
   "hero_image": {
-    "src": "/images/glossary/stylists/melanie-ward-modern-stylist-authenticity-construction-portrait-ai-v1-card-v2.jpg",
+    "src": "/images/glossary/stylists/melanie-ward-modern-stylist-authenticity-construction-portrait-ai-v2-card.webp",
     "origin": "ai_illustration",
     "rights_state": "original_owned",
+    "rights_status": "ai_generated",
     "source_url": "",
-    "credit": "VANSMITHLAB · оригинальная AI-иллюстрация, 2026",
+    "credit": "VANSMITHLAB · оригинальная редакционная AI-иллюстрация, 2026",
     "licence_or_permission": "Оригинальная AI-иллюстрация VANSMITHLAB; не документальная фотография.",
-    "alt": "Редакционная AI-портретная иллюстрация автора",
-    "alt_text": "Редакционная AI-портретная иллюстрация автора",
-    "caption": "AI-портретная реконструкция автора. Не является документальной фотографией."
+    "alt": "Редакционная портретная иллюстрация: Мелани Уорд",
+    "alt_text": "Редакционная портретная иллюстрация: Мелани Уорд",
+    "caption": "Редакционная AI-реконструкция портрета Мелани Уорд. Не является документальной фотографией.",
+    "disclosure": "ИИ-реконструкция внешности на основе публичных фотографических референсов; не архивная фотография.",
+    "asset_id": "ast_a8ecf91b11f8d2ef",
+    "content_hash": "a8ecf91b11f8d2ef74b0c41deb9e4f545678ced975e13901b990aeae7fc638bc",
+    "storage_key": "public/images/glossary/stylists/melanie-ward-modern-stylist-authenticity-construction-portrait-ai-v2-card.webp",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
+  },
+  "portrait_image": {
+    "src": "/images/profile-portraits/melanie-ward-modern-stylist-authenticity-construction-portrait-ai-reconstruction-v1.webp",
+    "credit": "VANSMITHLAB · AI reconstruction from reviewed public reference imagery, 2026",
+    "origin": "ai_reconstruction",
+    "rights_status": "ai_generated",
+    "licence": "VANSMITHLAB original AI reconstruction",
+    "licence_url": "https://vansmithlab.com/ru/method/",
+    "source_url": "https://www.vogue.com/article/calvin-klein-donatella-versace-dick-page-and-more-of-the-fashion-world-remember-melanie-ward",
+    "reference_url": "https://assets.vogue.com/photos/68faa3ee3a3a14c75d0bd2f7/1%3A1/w_2389%2Ch_2389%2Cc_limit/10898-VMA-08D-IV-DQZ28-image.jpg",
+    "access_date": "2026-08-20",
+    "disclosure": "ИИ-реконструкция внешности на основе проверенного публичного фотографического референса; не архивная фотография.",
+    "asset_id": "ast_c9eddc673918b730",
+    "content_hash": "c9eddc673918b7307eb182ec6c4ec3262b99067d5423f0030fd217b07b016710",
+    "storage_key": "public/images/profile-portraits/melanie-ward-modern-stylist-authenticity-construction-portrait-ai-reconstruction-v1.webp",
+    "width": 900,
+    "height": 1125,
+    "alt": "Портрет Мелани Уорд",
+    "caption": "ИИ-реконструкция портрета Мелани Уорд по публичному фотографическому референсу."
   }
 }

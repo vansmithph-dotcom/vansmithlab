@@ -139,6 +139,6 @@ Today the subject should be read as a chain: source A + source B → masks → g
 ## See also
 
 - [Color Grading — Color as an Authorial Decision](/en/encyclopedia/color-grading-color-as-authorial-decision) — Color is not a final filter but a managed chain from capture to publication.
-- [Visual Effects — The Believability of the Impossible](/en/encyclopedia/visual-effects-believability-of-the-impossible) — VFX persuades not through spectacle alone but through how completely all elements obey one image phy.
+- [Visual Effects — The Believability of the Impossible](/en/encyclopedia/visual-effects-believability-of-the-impossible) — VFX persuades not through spectacle alone but through how completely all elements obey one image physics.
 - [CGI — Anatomy of the Digital Scene](/en/encyclopedia/cgi-anatomy-of-digital-scene) — Model, material, light, camera and rendering construct plausibility as a system.
 - [Retouching — From Negative to Digital Image](/en/encyclopedia/retouching-from-negative-to-digital-image) — Correction, interpretation and power over the photographic surface existed long before Photoshop.

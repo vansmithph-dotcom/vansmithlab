@@ -2,7 +2,6 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import Image from "next/image";
 import { notFound } from "next/navigation";
-import { TrustPanel } from "@/components/TrustPanel";
 import { listContent } from "@/lib/content";
 import { copy, isLocale } from "@/lib/site-data";
 import { ROLES, roleByRoute } from "@/lib/taxonomy";
@@ -52,7 +51,6 @@ export default async function RoleListingPage({ params }: { params: Promise<{ lo
           <h1>{title}</h1>
           <p>{description}</p>
         </div>
-        <TrustPanel locale={locale} />
       </div>
       <div className="listing-header">
         <p>{releases.length ? (locale === "ru" ? "Материалы раздела" : "Entries in this section") : content.labels.comingSoon}</p>

@@ -35,11 +35,30 @@
     "object-space"
   ],
   "kind": "theme",
-  "body_hash": "674e6efba43c67ecbdafa39945be9bb5bb917b261425abf6d68dbac4f7e958b4",
+  "body_hash": "50ad948afc7dbf7a4fbfdf05831b66c12da07edc04b57bac4a09d7c7f2f2f496",
   "translation": {
     "source_locale": "ru",
     "translated_by": "VANSMITHLAB",
     "semantic_validated": true,
     "translation_date": "2026-08-18"
+  },
+  "hero_image": {
+    "src": "/images/generated-heroes/encyclopedia--barcelona-chair.webp",
+    "alt": "Barcelona Chair — a unique editorial AI illustration visualizing the article's subject.",
+    "caption": "Original VANSMITHLAB editorial AI illustration for “Barcelona Chair”. A chair as architectural manifesto: steel, leather and ceremony",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "ai_generated",
+    "licence_or_permission": "Original VANSMITHLAB AI illustration; owned editorial asset.",
+    "source_url": "",
+    "asset_id": "hero_encyclopedia_barcelona-chair",
+    "content_hash": "b0482d79a92e640cc9eb906ac6e929a4450e493747d39d7426593f81770fbb24",
+    "storage_key": "/images/generated-heroes/encyclopedia--barcelona-chair.webp",
+    "created_at": "2026-08-20T10:46:14.390Z",
+    "locale": "en",
+    "disclosure": "AI-generated editorial illustration; not documentary evidence.",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
   }
 }

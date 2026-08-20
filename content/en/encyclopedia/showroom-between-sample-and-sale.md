@@ -138,6 +138,6 @@ Today The Showroom — Between Sample and Sale is best read in four passes: firs
 
 ## See also
 
-- [The Boutique — Architecture of Luxury](/en/encyclopedia/boutique-architecture-of-luxury) — A small commercial space where rarity, service, and material precision shape the value of merchandis.
-- [The Store — Commercial Space as a Visual System](/en/encyclopedia/store-space-of-commerce-as-visual-system) — How layout, display, light, graphics, and circulation turn merchandise into experience and purchase .
-- [Olivetti Showroom / Carlo Scarpa](/en/encyclopedia/olivetti-showroom-carlo-scarpa) — A showroom on Piazza San Marco: how architectural detail turns the office machine into a cultural ob.
+- [The Boutique — Architecture of Luxury](/en/encyclopedia/boutique-architecture-of-luxury) — A small commercial space where rarity, service, and material precision shape the value of merchandise.
+- [The Store — Commercial Space as a Visual System](/en/encyclopedia/store-space-of-commerce-as-visual-system) — How layout, display, light, graphics, and circulation turn merchandise into experience and purchase decisions.
+- [Olivetti Showroom / Carlo Scarpa](/en/encyclopedia/olivetti-showroom-carlo-scarpa) — A showroom on Piazza San Marco: how architectural detail turns the office machine into a cultural object.

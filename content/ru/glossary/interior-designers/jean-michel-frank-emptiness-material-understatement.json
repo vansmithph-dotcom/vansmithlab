@@ -6,7 +6,7 @@
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "unverified",
-  "confidence_score": 0.0,
+  "confidence_score": 0,
   "claim_ids": [],
   "source_ids": [
     "src_e24bdd330cc95401",
@@ -45,16 +45,43 @@
   "role": [
     "interior-designer"
   ],
-  "body_hash": "6295ca8e3a9dc95c6e3d636dae241845651c9f4e4a2bf52f133a39c3822e2c60",
+  "body_hash": "9539a6b8ef17829c71f29b4011d637656dc2c1c4388ba8ae9db60e9e986db87b",
   "hero_image": {
-    "src": "/images/glossary/interior-designers/jean-michel-frank-emptiness-material-understatement-portrait-ai-v1-card-v2.jpg",
+    "src": "/images/glossary/interior-designers/jean-michel-frank-emptiness-material-understatement-portrait-ai-v2-card.webp",
     "origin": "ai_illustration",
     "rights_state": "original_owned",
+    "rights_status": "ai_generated",
     "source_url": "",
-    "credit": "VANSMITHLAB · оригинальная AI-иллюстрация, 2026",
+    "credit": "VANSMITHLAB · оригинальная редакционная AI-иллюстрация, 2026",
     "licence_or_permission": "Оригинальная AI-иллюстрация VANSMITHLAB; не документальная фотография.",
-    "alt": "Редакционная AI-портретная иллюстрация автора",
-    "alt_text": "Редакционная AI-портретная иллюстрация автора",
-    "caption": "AI-портретная реконструкция автора. Не является документальной фотографией."
+    "alt": "Редакционная портретная иллюстрация: Жан-Мишель Франк",
+    "alt_text": "Редакционная портретная иллюстрация: Жан-Мишель Франк",
+    "caption": "Редакционная AI-реконструкция портрета Жан-Мишель Франк. Не является документальной фотографией.",
+    "disclosure": "ИИ-реконструкция внешности на основе публичных фотографических референсов; не архивная фотография.",
+    "asset_id": "ast_e7a537feacfc5284",
+    "content_hash": "e7a537feacfc5284f40a102aafcd2a33fe8b22c20b1f81145878d2c413aa0c11",
+    "storage_key": "public/images/glossary/interior-designers/jean-michel-frank-emptiness-material-understatement-portrait-ai-v2-card.webp",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
+  },
+  "portrait_image": {
+    "src": "/images/profile-portraits/jean-michel-frank-emptiness-material-understatement-portrait-ai-reconstruction-v1.webp",
+    "credit": "VANSMITHLAB · AI reconstruction from reviewed public reference imagery, 2026",
+    "origin": "ai_reconstruction",
+    "rights_status": "ai_generated",
+    "licence": "VANSMITHLAB original AI reconstruction",
+    "licence_url": "https://vansmithlab.com/ru/method/",
+    "source_url": "https://alexandrebiaggi.com/portfolio_tag/frank/",
+    "reference_url": "https://alexandrebiaggi.com/gab/uploads/2021/02/jean_michel_frank_portrait_2.jpg",
+    "access_date": "2026-08-20",
+    "disclosure": "ИИ-реконструкция внешности на основе проверенного публичного фотографического референса; не архивная фотография.",
+    "asset_id": "ast_0a0caa7c3fea3143",
+    "content_hash": "0a0caa7c3fea3143fc95bbaa691e80bcd2693e76f66bd603414823c8c2adac08",
+    "storage_key": "public/images/profile-portraits/jean-michel-frank-emptiness-material-understatement-portrait-ai-reconstruction-v1.webp",
+    "width": 900,
+    "height": 1125,
+    "alt": "Портрет Жан-Мишель Франк",
+    "caption": "ИИ-реконструкция портрета Жан-Мишель Франк по публичному фотографическому референсу."
   }
 }

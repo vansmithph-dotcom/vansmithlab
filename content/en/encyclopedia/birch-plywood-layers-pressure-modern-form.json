@@ -29,12 +29,31 @@
   ],
   "kind": "material-technique",
   "role": [],
-  "body_hash": "ed718dea521e2f24bd5f8445db1ed7609dfe0b63bf3c925776d9224de7e84bef",
+  "body_hash": "6bbe90a337e5476bc2a8c0ac708d0862846fb2e409b2c69cef81b0314a345c74",
   "translation": {
     "semantic_validated": true
   },
   "source_ids": [
     "src_mat_usda_wood",
     "src_mat_apa_plywood"
-  ]
+  ],
+  "hero_image": {
+    "src": "/images/generated-heroes/encyclopedia--birch-plywood-layers-pressure-modern-form.webp",
+    "alt": "Birch plywood — a unique editorial AI illustration visualizing the article's subject.",
+    "caption": "Original VANSMITHLAB editorial AI illustration for “Birch plywood”. Wood: veneer layers, glue, pressure, forming and modernist precision.",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "ai_generated",
+    "licence_or_permission": "Original VANSMITHLAB AI illustration; owned editorial asset.",
+    "source_url": "",
+    "asset_id": "hero_encyclopedia_birch-plywood-layers-pressure-modern-form",
+    "content_hash": "0ba1dc8b4a9635b9934b673925fc98490edb6f9d478e88e9a55af060692ce3ad",
+    "storage_key": "/images/generated-heroes/encyclopedia--birch-plywood-layers-pressure-modern-form.webp",
+    "created_at": "2026-08-20T10:52:12.758Z",
+    "locale": "en",
+    "disclosure": "AI-generated editorial illustration; not documentary evidence.",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
+  }
 }

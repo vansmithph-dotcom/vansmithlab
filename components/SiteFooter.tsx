@@ -1,6 +1,7 @@
 import Link from "next/link";
 import type { Locale } from "@/lib/site-data";
 import { copy } from "@/lib/site-data";
+import { pinterestUrl } from "@/lib/structured-data";
 
 export function SiteFooter({ locale }: { locale: Locale }) {
   const content = copy[locale];
@@ -17,6 +18,7 @@ export function SiteFooter({ locale }: { locale: Locale }) {
           <Link href={`/${locale}/glossary`}>{locale === "ru" ? "Глоссарий" : "Glossary"}</Link>
           <Link href={`/${locale}/search`}>{content.search}</Link>
           <Link href={`/${locale}/privacy`}>{locale === "ru" ? "Конфиденциальность" : "Privacy"}</Link>
+          <a href={pinterestUrl} rel="me noreferrer" target="_blank">Pinterest ↗</a>
         </div>
         <p className="footer-note">© {new Date().getFullYear()} VANSMITHLAB</p>
       </div>

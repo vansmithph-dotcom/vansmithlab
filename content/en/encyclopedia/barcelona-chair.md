@@ -138,7 +138,7 @@ Today Barcelona Chair should be read at three scales: as a thing for the body, a
 
 ## See also
 
-- [Barcelona Pavilion](/en/encyclopedia/barcelona-pavilion) — Mies van der Rohe and Lilly Reich: free plan, luxurious surfaces, and the pavilion as a pure sequenc.
+- [Barcelona Pavilion](/en/encyclopedia/barcelona-pavilion) — Mies van der Rohe and Lilly Reich: free plan, luxurious surfaces, and the pavilion as a pure sequence of movement.
 - [LC4](/en/encyclopedia/lc4-chaise-longue) — The body as a mechanism of rest: adjustable posture, tubular steel and a new ergonomics.
 - [Eames Lounge Chair](/en/encyclopedia/eames-lounge-chair) — Moulded plywood, comfort and postwar luxury.
 - [Superleggera](/en/encyclopedia/superleggera-chair) — Minimum mass as a design problem: craft and industry.

@@ -33,5 +33,41 @@
   "role": [
     "fashion-editor"
   ],
-  "body_hash": "eb82e3872c034d1b32ca8f3e1741b9325cd252245ad689c72806450070911b73"
+  "body_hash": "eb82e3872c034d1b32ca8f3e1741b9325cd252245ad689c72806450070911b73",
+  "hero_image": {
+    "src": "/images/generated-heroes/glossary--franca-sozzani-magazine-as-social-argument.webp",
+    "alt": "Франка Соццани — уникальная редакционная AI-иллюстрация, визуализирующая тему материала.",
+    "caption": "Оригинальная редакционная AI-иллюстрация VANSMITHLAB для материала «Франка Соццани». Модный журнал, использующий собственный тираж и авторитет для постановки общественного вопроса.",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "ai_generated",
+    "licence_or_permission": "Оригинальная AI-иллюстрация VANSMITHLAB; редакционный актив в собственности проекта.",
+    "source_url": "",
+    "asset_id": "hero_glossary_franca-sozzani-magazine-as-social-argument",
+    "content_hash": "cdbc0c9abf648549a677fd87f374b9f80dddc1a278d3c95de3315d4772f2de36",
+    "storage_key": "/images/generated-heroes/glossary--franca-sozzani-magazine-as-social-argument.webp",
+    "created_at": "2026-08-20T13:12:04.188Z",
+    "locale": "ru",
+    "disclosure": "Редакционная иллюстрация сгенерирована ИИ и не является документальным свидетельством.",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
+  },
+  "portrait_image": {
+    "src": "/images/profile-portraits/franca-sozzani-magazine-as-social-argument-portrait-wikimedia-v1.webp",
+    "credit": "Sara Cimino from Milan, Italy (Flickr account) / Wikimedia Commons · CC BY 2.0",
+    "origin": "wikimedia_commons",
+    "rights_status": "cc_by",
+    "licence": "CC BY 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Franca_Sozzani_2010.jpg",
+    "access_date": "2026-08-20",
+    "asset_id": "ast_8c05543bddb19af1",
+    "content_hash": "8c05543bddb19af120f02482696c6b97e64eaafab54d7704881cab8b149cb951",
+    "storage_key": "public/images/profile-portraits/franca-sozzani-magazine-as-social-argument-portrait-wikimedia-v1.webp",
+    "width": 900,
+    "height": 1125,
+    "alt": "Портрет Франка Соццани",
+    "caption": "Портрет Франка Соццани. Источник: Wikimedia Commons."
+  }
 }

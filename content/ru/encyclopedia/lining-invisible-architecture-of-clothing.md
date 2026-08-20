@@ -140,5 +140,5 @@
 
 - [Портновская конструкция — внутренняя архитектура жакета](/ru/encyclopedia/tailoring-construction-inner-architecture-of-jacket) — Канва, борт, плечо, рукав, утюг и баланс как невидимая пространственная система.
 - [Костюм — конструкция современного социального тела](/ru/encyclopedia/suit-construction-of-modern-social-body) — Пиджак и брюки как архитектура пропорций, поведения, пола, профессии и власти.
-- [Высокая мода — производственная система haute couture](/ru/encyclopedia/haute-couture-production-system-of-high-fashion) — Не стиль роскоши, а регулируемая экосистема ателье, ручного труда, примерок, календаря и публичного .
+- [Высокая мода — производственная система haute couture](/ru/encyclopedia/haute-couture-production-system-of-high-fashion) — Не стиль роскоши, а регулируемая экосистема ателье, ручного труда, примерок, календаря и публичного показа.
 - [Шёлк](/ru/encyclopedia/silk-properties-types-applications) — Свойства, виды и применение.

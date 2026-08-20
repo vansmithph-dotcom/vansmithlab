@@ -33,5 +33,43 @@
   "role": [
     "critic-theorist"
   ],
-  "body_hash": "6e486e65094abc2645e9db238405506b24f8068384c55960ec5fa8cb3272660d"
+  "body_hash": "6e486e65094abc2645e9db238405506b24f8068384c55960ec5fa8cb3272660d",
+  "hero_image": {
+    "src": "/images/generated-heroes/glossary--alice-rawsthorn-design-criticism-in-public.webp",
+    "alt": "Элис Роусторн — уникальная редакционная AI-иллюстрация, визуализирующая тему материала.",
+    "caption": "Оригинальная редакционная AI-иллюстрация VANSMITHLAB для материала «Элис Роусторн». Дизайн-критика, обращённая к широкой аудитории и настаивающая на том, что дизайн является изменением, а не оформлением.",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "ai_generated",
+    "licence_or_permission": "Оригинальная AI-иллюстрация VANSMITHLAB; редакционный актив в собственности проекта.",
+    "source_url": "",
+    "asset_id": "hero_glossary_alice-rawsthorn-design-criticism-in-public",
+    "content_hash": "74e4144854a9862e28556c712d5319020d532756bc06012cd04001323eb7c3eb",
+    "storage_key": "/images/generated-heroes/glossary--alice-rawsthorn-design-criticism-in-public.webp",
+    "created_at": "2026-08-20T12:48:58.131Z",
+    "locale": "ru",
+    "disclosure": "Редакционная иллюстрация сгенерирована ИИ и не является документальным свидетельством.",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
+  },
+  "portrait_image": {
+    "src": "/images/profile-portraits/alice-rawsthorn-design-criticism-in-public-portrait-ai-reconstruction-v1.webp",
+    "credit": "VANSMITHLAB · AI reconstruction from reviewed public reference imagery, 2026",
+    "origin": "ai_reconstruction",
+    "rights_status": "ai_generated",
+    "licence": "VANSMITHLAB original AI reconstruction",
+    "licence_url": "https://vansmithlab.com/ru/method/",
+    "source_url": "https://www.press.bmwgroup.com/global/photo/detail/P90546017/alice-rawsthorn-design-critic",
+    "reference_url": "https://mediapool.bmwgroup.com/cache/P9/202404/P90546017/P90546017-alice-rawsthorn-design-critic-2000px.jpg",
+    "access_date": "2026-08-20",
+    "disclosure": "ИИ-реконструкция внешности на основе проверенного публичного фотографического референса; не архивная фотография.",
+    "asset_id": "ast_072d38db1f147752",
+    "content_hash": "072d38db1f147752d624cb2ed02ef3a357f3c5120a36e0eaac46ef3d9449f647",
+    "storage_key": "public/images/profile-portraits/alice-rawsthorn-design-criticism-in-public-portrait-ai-reconstruction-v1.webp",
+    "width": 900,
+    "height": 1125,
+    "alt": "Портрет Элис Роусторн",
+    "caption": "ИИ-реконструкция портрета Элис Роусторн по публичному фотографическому референсу."
+  }
 }

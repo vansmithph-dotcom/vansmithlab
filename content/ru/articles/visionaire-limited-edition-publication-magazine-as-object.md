@@ -26,8 +26,6 @@ Visionaire появляется в начале 1990-х как издание, �
 
 Visionaire 1: Innocent: Spring был собран как портфель отдельных листов на разных бумагах. По описанию RISD, в нём использовались остатки типографских материалов, велень, крафтовая бумага, фотографии, рисунки и первый модный отчёт Bill Cunningham. Уже здесь появляется главный метод Visionaire: редакция не прячет производственный процесс, а превращает его в смысл.
 
-placement: sec-4; format: full-width 1:1; asset: visionaire-1-innocent-spring-loose-portfolio; caption_required: true; alt_required: true; rights_status: library-rights-review
-
 ## 05. Тема как конструкция номера
 
 Каждый номер Visionaire строится вокруг темы. Но тема здесь не просто рубрика. Она диктует материал, упаковку, масштаб, порядок чтения и тип участия. Номер о любви может стать переделанным романом, номер о сюрпризе — объёмной бумажной конструкцией, номер о масштабе — гигантским журналом.
@@ -39,8 +37,6 @@ Visionaire часто работает почти без обычной журн
 ## 07. Бумага, кожа, металл, пластик: материал вместо стандартной полосы
 
 В обычном журнале материал должен быть незаметным. В Visionaire он становится главным участником. Бумага, кожа, металл, пластик, велень, фольга, зеркало, лентикулярная печать и всплывающие конструкции задают не украшение, а способ восприятия. Поэтому Visionaire находится между графическим дизайном, дизайном объекта и издательским искусством.
-
-placement: sec-7; format: full-width 4:5; asset: visionaire-material-surface-paper-leather-metal-plastic; caption_required: true; alt_required: true; rights_status: ai-illustration
 
 ## 08. Художники и фотографы как равные авторы
 
@@ -54,8 +50,6 @@ Visionaire приглашал художников, фотографов, диз
 
 Номер Visionaire 18: Fashion Special Louis Vuitton стал одной из ключевых точек серии. По описанию RISD, это был первый полностью модный специальный номер, созданный к столетию монограммы Louis Vuitton и помещённый в специальный кожаный портфель. Важен не только список участников, но и то, что упаковка сама стала событием.
 
-placement: sec-10; format: full-width 4:5; asset: visionaire-18-fashion-special-louis-vuitton-portfolio; caption_required: true; alt_required: true; rights_status: library-rights-review
-
 ## 11. Упаковка как событие коллекционирования
 
 Visionaire доказал, что упаковка может быть не оболочкой, а частью редакционной драматургии. Футляр, коробка, портфель, вставка или складная конструкция задают ожидание до просмотра изображений. Читатель покупает не только контент, а ритуал раскрытия.
@@ -68,8 +62,6 @@ Visionaire часто работал с брендами, но не превра
 
 Visionaire 38: Love Tiffany & Co показывает другой тип редакционного объекта. В старые романы вручную вставлялись новые художественные объекты и знаки любви, из-за чего каждый экземпляр становился фактически уникальным. Это переводит журнал из логики тиража в логику вариативной коллекции.
 
-placement: sec-13; format: full-width 4:5; asset: visionaire-38-love-tiffany-hand-inserted-novel; caption_required: true; alt_required: true; rights_status: library-rights-review
-
 ## 14. Лентикулярность, объём и спецэффекты печати
 
 Visionaire постоянно использовал производственные техники, которые массовая печать обычно считала слишком дорогими, сложными или «игрушечными». Лентикулярные карты, всплывающие бумажные конструкции и сложные вставки превращали полиграфию в лабораторию движения, глубины и неожиданности.
@@ -78,13 +70,9 @@ Visionaire постоянно использовал производствен�
 
 Visionaire 55: Surprise переосмыслил детскую всплывающую книгу через работы Yayoi Kusama, Andreas Gursky, Cai Guo-Qiang, Sophie Calle, Steven Klein и других авторов. В этом случае «сюрприз» был не темой на обложке, а механикой самого просмотра: страница буквально становилась пространственной сценой.
 
-placement: sec-15; format: full-width 4:5; asset: visionaire-55-surprise-pop-up-paper-engineering; caption_required: true; alt_required: true; rights_status: library-rights-review
-
 ## 16. Visionaire 61: Larger Than Life
 
 Visionaire 61: Larger Than Life довёл идею масштаба до предела. RISD описывает его как выпуск, претендующий на рекорд самого большого журнала: гигантский формат превращал чтение в почти выставочное действие. Обложки с Lady Gaga становились не журнальной картинкой, а частью крупноформатного визуального события.
-
-placement: sec-16; format: full-width 16:9; asset: visionaire-61-larger-than-life-scale-diagram; caption_required: true; alt_required: true; rights_status: ai-illustration
 
 ## 17. Масштаб как критика журнала
 
@@ -94,8 +82,6 @@ placement: sec-16; format: full-width 16:9; asset: visionaire-61-larger-than-lif
 
 Visionaire работал не как редакция полос, а как продюсерская лаборатория. Нужно было придумать тему, найти авторов, договориться с брендом, разработать объект, решить технологические ограничения, организовать ручную сборку и сохранить художественную свободу. Здесь журнал сближается с выставочным производством.
 
-placement: sec-18; format: full-width 1:1; asset: visionaire-editorial-production-lab-diagram; caption_required: true; alt_required: true; rights_status: ai-illustration
-
 ## 19. Тираж, редкость и цена
 
 Редкость Visionaire была частью его культурного эффекта. Ограниченный тираж, сложное производство и быстрое исчезновение номеров с рынка создавали вокруг издания коллекционную ауру. Но важный вопрос остаётся: редкость усиливает восприятие объекта или иногда заслоняет содержание?
@@ -103,8 +89,6 @@ placement: sec-18; format: full-width 1:1; asset: visionaire-editorial-productio
 ## 20. Между журналом, книгой художника и арт-объектом
 
 Visionaire трудно описать одним словом. Это журнал, потому что у него есть номер, тема, редакция и периодичность. Это книга художника, потому что физическая форма несёт смысл. Это арт-объект, потому что экземпляр хранится, выставляется и перепродаётся как вещь. Сила Visionaire именно в этом межжанровом положении.
-
-placement: sec-20; format: full-width 1:1; asset: visionaire-between-magazine-art-book-object; caption_required: true; alt_required: true; rights_status: ai-illustration
 
 ## 21. Как Visionaire меняет роль читателя
 
@@ -118,13 +102,9 @@ placement: sec-20; format: full-width 1:1; asset: visionaire-between-magazine-ar
 
 Visionaire также работал с фильмом и перформативными форматами. Важно, что переход к экрану не отменил издательскую ДНК проекта: экран здесь не просто канал дистрибуции, а ещё один носитель, который можно сделать авторским, ограниченным, телесным или событийным.
 
-placement: sec-23; format: full-width 16:9; asset: visionaire-film-experience-installation-transition; caption_required: true; alt_required: true; rights_status: rights-review
-
 ## 24. Современная фаза: агентство впечатлений
 
 Сегодня Visionaire описывает себя как проект, выросший из лимитированного издательства и расширившийся в область публичного искусства, фильмов, иммерсивных и интерактивных опытов, брендированного контента и художественных множительных объектов. Это показывает, что «журнал» может стать методологией производства культуры.
-
-placement: sec-24; format: full-width 16:9; asset: visionaire-experiential-agency-public-art-immersive-projects; caption_required: true; alt_required: true; rights_status: rights-review
 
 ## 25. Почему Visionaire важен для моды
 
@@ -149,5 +129,3 @@ placement: sec-24; format: full-width 16:9; asset: visionaire-experiential-agenc
 ## 30. Наследие: носитель тоже автор
 
 Главное наследие Visionaire — мысль о том, что носитель не нейтрален. Формат, материал, масштаб, тираж, способ раскрытия и упаковка тоже являются авторами. Журнал может быть не только страницей с изображениями, но и объектом, который сам формирует взгляд.
-
-placement: sec-30; format: full-width 1:1; asset: visionaire-medium-as-author-legacy-map; caption_required: true; alt_required: true; rights_status: ai-illustration

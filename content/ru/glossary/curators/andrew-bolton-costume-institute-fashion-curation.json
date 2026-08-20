@@ -34,5 +34,41 @@
   "source_ids": [
     "src_4ccb255c37495e1b",
     "src_70ab605504018b95"
-  ]
+  ],
+  "hero_image": {
+    "src": "/images/generated-heroes/glossary--andrew-bolton-costume-institute-fashion-curation.webp",
+    "alt": "Эндрю Болтон — уникальная редакционная AI-иллюстрация, визуализирующая тему материала.",
+    "caption": "Оригинальная редакционная AI-иллюстрация VANSMITHLAB для материала «Эндрю Болтон». Выставка моды как аргумент: тело, объект, история и массовая аудитория музея",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "ai_generated",
+    "licence_or_permission": "Оригинальная AI-иллюстрация VANSMITHLAB; редакционный актив в собственности проекта.",
+    "source_url": "",
+    "asset_id": "hero_glossary_andrew-bolton-costume-institute-fashion-curation",
+    "content_hash": "662aea2f51af4475e9e5dabcc43e8622a1a7007f7238cdd85c39e8cc39ad2c8b",
+    "storage_key": "/images/generated-heroes/glossary--andrew-bolton-costume-institute-fashion-curation.webp",
+    "created_at": "2026-08-20T12:56:22.289Z",
+    "locale": "ru",
+    "disclosure": "Редакционная иллюстрация сгенерирована ИИ и не является документальным свидетельством.",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
+  },
+  "portrait_image": {
+    "src": "/images/profile-portraits/andrew-bolton-costume-institute-fashion-curation-portrait-wikimedia-v1.webp",
+    "credit": "UKinUSA / Wikimedia Commons · CC BY-SA 2.0",
+    "origin": "wikimedia_commons",
+    "rights_status": "cc_by_sa",
+    "licence": "CC BY-SA 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Andrew_Bolton_-_2024_(cropped).jpg",
+    "access_date": "2026-08-20",
+    "asset_id": "ast_fb72a24a2b7887d8",
+    "content_hash": "fb72a24a2b7887d89eaddcc42a250ecd587cd60c90920ccb9acae238058bed95",
+    "storage_key": "public/images/profile-portraits/andrew-bolton-costume-institute-fashion-curation-portrait-wikimedia-v1.webp",
+    "width": 900,
+    "height": 1125,
+    "alt": "Портрет Эндрю Болтон",
+    "caption": "Портрет Эндрю Болтон. Источник: Wikimedia Commons."
+  }
 }

@@ -37,5 +37,43 @@
   "source_ids": [
     "src_4d1abb34bbd4115d",
     "src_551f7798c4d443fd"
-  ]
+  ],
+  "hero_image": {
+    "src": "/images/generated-heroes/glossary--reyner-banham-technology-architecture-criticism.webp",
+    "alt": "Reyner Banham — a unique editorial AI illustration visualizing the article's subject.",
+    "caption": "Original VANSMITHLAB editorial AI illustration for “Reyner Banham”. Architecture after style: technology, climate, pop culture and environmental criticism",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "ai_generated",
+    "licence_or_permission": "Original VANSMITHLAB AI illustration; owned editorial asset.",
+    "source_url": "",
+    "asset_id": "hero_glossary_reyner-banham-technology-architecture-criticism",
+    "content_hash": "ad7c8817e30d11f7add6708e45ac62d1662bb47095edd55a605e2ed6d8022a22",
+    "storage_key": "/images/generated-heroes/glossary--reyner-banham-technology-architecture-criticism.webp",
+    "created_at": "2026-08-20T12:53:13.406Z",
+    "locale": "en",
+    "disclosure": "AI-generated editorial illustration; not documentary evidence.",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
+  },
+  "portrait_image": {
+    "src": "/images/profile-portraits/reyner-banham-technology-architecture-criticism-portrait-ai-reconstruction-v1.webp",
+    "credit": "VANSMITHLAB · AI reconstruction from reviewed public reference imagery, 2026",
+    "origin": "ai_reconstruction",
+    "rights_status": "ai_generated",
+    "licence": "VANSMITHLAB original AI reconstruction",
+    "licence_url": "https://vansmithlab.com/en/method/",
+    "source_url": "https://www.vle.lt/straipsnis/reyner-banham/",
+    "reference_url": "https://images.jacobinmag.com/wp-content/uploads/sites/4/2022/01/05133855/Banham.jpg",
+    "access_date": "2026-08-20",
+    "disclosure": "AI reconstruction of the subject based on a reviewed public photographic reference; not an archival photograph.",
+    "asset_id": "ast_9ede4f041526b400",
+    "content_hash": "9ede4f041526b400337d5e1fd72d1a00285074426580c8c05b39cb4316c49e78",
+    "storage_key": "public/images/profile-portraits/reyner-banham-technology-architecture-criticism-portrait-ai-reconstruction-v1.webp",
+    "width": 900,
+    "height": 1125,
+    "alt": "Portrait of Reyner Banham",
+    "caption": "AI portrait reconstruction of Reyner Banham from a public photographic reference."
+  }
 }

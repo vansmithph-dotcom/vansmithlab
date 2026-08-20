@@ -29,12 +29,31 @@
   ],
   "kind": "material-technique",
   "role": [],
-  "body_hash": "5d391c0ba7af25837ebc5394c666946eb133333b97343f5427e2b653a66c3aad",
+  "body_hash": "199bd6ef0fbdd6c4131641c4beba81cd70f5d5ac4e701300b300b331eda56d08",
   "translation": {
     "semantic_validated": true
   },
   "source_ids": [
     "src_mat_cotton_inc",
     "src_mat_nsi_library"
-  ]
+  ],
+  "hero_image": {
+    "src": "/images/generated-heroes/encyclopedia--cotton-fibre-everyday-textile-global-code.webp",
+    "alt": "Cotton — a unique editorial AI illustration visualizing the article's subject.",
+    "caption": "Original VANSMITHLAB editorial AI illustration for “Cotton”. Textiles: plant fibre, shirt, denim, home, labour and global everyday life.",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "ai_generated",
+    "licence_or_permission": "Original VANSMITHLAB AI illustration; owned editorial asset.",
+    "source_url": "",
+    "asset_id": "hero_encyclopedia_cotton-fibre-everyday-textile-global-code",
+    "content_hash": "13099b03e1af3d0fa6daf255b602827d9e663ba86555bf5828a4dfd7fbb24a94",
+    "storage_key": "/images/generated-heroes/encyclopedia--cotton-fibre-everyday-textile-global-code.webp",
+    "created_at": "2026-08-20T11:14:27.044Z",
+    "locale": "en",
+    "disclosure": "AI-generated editorial illustration; not documentary evidence.",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
+  }
 }

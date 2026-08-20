@@ -33,5 +33,43 @@
   "role": [
     "fashion-editor"
   ],
-  "body_hash": "9816380556e094dbbb9068da87ccb6140debd55e3fb417189d0687a3945a3daf"
+  "body_hash": "9816380556e094dbbb9068da87ccb6140debd55e3fb417189d0687a3945a3daf",
+  "hero_image": {
+    "src": "/images/generated-heroes/glossary--edward-enninful-casting-as-editorial-politics.webp",
+    "alt": "Эдвард Эннинфул — уникальная редакционная AI-иллюстрация, визуализирующая тему материала.",
+    "caption": "Оригинальная редакционная AI-иллюстрация VANSMITHLAB для материала «Эдвард Эннинфул». Кастинг как основной редакционный инструмент: кто в кадре, определяет, о чём издание.",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "ai_generated",
+    "licence_or_permission": "Оригинальная AI-иллюстрация VANSMITHLAB; редакционный актив в собственности проекта.",
+    "source_url": "",
+    "asset_id": "hero_glossary_edward-enninful-casting-as-editorial-politics",
+    "content_hash": "af39ebb9c99dfdac61724339cef8f7cd79ce3aa2d889941dcbd0b864b961dfbf",
+    "storage_key": "/images/generated-heroes/glossary--edward-enninful-casting-as-editorial-politics.webp",
+    "created_at": "2026-08-20T13:09:30.512Z",
+    "locale": "ru",
+    "disclosure": "Редакционная иллюстрация сгенерирована ИИ и не является документальным свидетельством.",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
+  },
+  "portrait_image": {
+    "src": "/images/profile-portraits/edward-enninful-casting-as-editorial-politics-portrait-ai-reconstruction-v1.webp",
+    "credit": "VANSMITHLAB · AI reconstruction from reviewed public reference imagery, 2026",
+    "origin": "ai_reconstruction",
+    "rights_status": "ai_generated",
+    "licence": "VANSMITHLAB original AI reconstruction",
+    "licence_url": "https://vansmithlab.com/ru/method/",
+    "source_url": "https://www.vogue.com/article/edward-enninful-interview-editor-in-chief-british-vogue",
+    "reference_url": "https://assets.vogue.com/photos/5d4468cab0422800088a1c8e/1:1/w_2000,h_2000,c_limit/edward-july-CREDIT-Valentin%20Hennequin-19-50-50-bundle%20(1).jpg",
+    "access_date": "2026-08-20",
+    "disclosure": "ИИ-реконструкция внешности на основе проверенного публичного фотографического референса; не архивная фотография.",
+    "asset_id": "ast_c267efaa95bf8fc6",
+    "content_hash": "c267efaa95bf8fc64efd340cd88b4404fa8e01bce551efd4db896238408b13df",
+    "storage_key": "public/images/profile-portraits/edward-enninful-casting-as-editorial-politics-portrait-ai-reconstruction-v1.webp",
+    "width": 900,
+    "height": 1125,
+    "alt": "Портрет Эдвард Эннинфул",
+    "caption": "ИИ-реконструкция портрета Эдвард Эннинфул по публичному фотографическому референсу."
+  }
 }

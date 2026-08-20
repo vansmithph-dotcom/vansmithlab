@@ -46,8 +46,6 @@ The modern tradition of terrazzo alla veneziana developed in Venice and the Friu
 
 The Venetian floor was more than a method of reusing remnants. It could cover large rooms without a grid of separate tiles and visually connect the interiors of a palazzo.
 
-placement: after-sectionformat: inline 4:5asset: historic-venetian-terrazzo-craftcaption_required: yesalt_required: yesrights: permission-required
-
 ## 5. Seminato and pavimento alla veneziana
 
 In seminato, small and medium fragments are scattered like seed across a wet matrix. After compaction and grinding, apparently random distribution becomes an even visual field.
@@ -75,8 +73,6 @@ Its principal limitation is dependence on the substrate and environment. A polym
 A thin system is not a simple system
 
 The terrazzo layer may be thin, but requirements for substrate flatness, moisture, and crack control become more exacting rather than less.
-
-placement: after-sectionformat: inline 4:5asset: cement-versus-epoxy-system-sectioncaption_required: yesalt_required: yesrights: permission-required
 
 ## 9. Monolithic and layered systems
 
@@ -114,8 +110,6 @@ Metal strips define pour boundaries, separate colours, and help coordinate the p
 
 A strip may disappear into the field or become an autonomous line. In Art Deco it became geometry; in contemporary wayfinding, a route; in a minimal interior, an almost imperceptible grid.
 
-placement: after-sectionformat: inline 4:5asset: divider-strips-and-colour-zonescaption_required: yesalt_required: yesrights: permission-required
-
 ## 15. Placing and compacting
 
 The mix is distributed within prepared boundaries, compacted, and levelled. At this stage the surface looks heavy and opaque: the composition is still hidden by excess binder.
@@ -128,8 +122,6 @@ After curing, the upper layer is removed with abrasives. Grinding is the moment 
 
 The depth of the first cut is critical. Too little leaves stone concealed; too much may alter the density of the pattern and expose defects. In terrazzo, the image is literally contained inside the material.
 
-placement: after-sectionformat: inline 4:5asset: terrazzo-grinding-processcaption_required: yesalt_required: yesrights: permission-required
-
 ## 17. Filling pores and finishing again
 
 Coarse grinding reveals small pores and voids. These are filled with a compatible material, after which the surface is ground and polished again.
@@ -141,8 +133,6 @@ This sequence explains the density of good terrazzo. Smoothness is not produced 
 High polish intensifies stone colour and produces point reflections, especially where glass or mirror is present. A honed finish is calmer, emphasises mass, and is less likely to compete with lighting.
 
 Gloss is not a quality marker in itself. On stairs, at entrances, or under strong grazing light, excessive reflectivity may reduce legibility and safety.
-
-placement: after-sectionformat: inline 4:5asset: honed-versus-polished-terrazzocaption_required: yesalt_required: yesrights: permission-required
 
 ## 19. Seamlessness as a visual effect
 
@@ -192,15 +182,11 @@ At the Olivetti showroom in Venice, Carlo Scarpa transformed the floor into a mo
 
 The floor is not a passive background. It connects stone, glass, light, and objects into one scenography. It is a rare example in which a traditional technique is not quoted literally but translated into the language of the mid-twentieth century.
 
-placement: after-sectionformat: inline 4:5asset: olivetti-showroom-terrazzo-floorcaption_required: yesalt_required: yesrights: permission-required
-
 ## 27. Art Deco and the public interior
 
 Between the 1920s and 1940s, terrazzo aligned closely with Art Deco and Streamline Moderne. Metal strips enabled rays, waves, emblems, and coloured borders, while mechanical grinding made large areas more economical.
 
 In stations, ships, theatres, and civic buildings, the material joined the ceremony of stone to the practicality of a public floor. It could appear luxurious without requiring continuous slabs of rare marble.
-
-placement: after-sectionformat: inline 4:5asset: art-deco-public-terrazzo-floorcaption_required: yesalt_required: yesrights: permission-required
 
 ## 28. Schools, hospitals, and transport
 
@@ -219,8 +205,6 @@ This permanence demands restraint. An overly detailed design may blur after grin
 Repairing a historic floor requires more than finding a similar beige. The matrix type, aggregate size and source, degree of ageing, sheen, and joint pattern must all be understood.
 
 GSA guidance recommends mapping cracks and delaminated areas, approving mock-ups, and involving specialists in historic materials. Exact matching is not always possible because natural stone and old cement change over time.[^clm_tz_011]
-
-placement: after-sectionformat: inline 4:5asset: historic-terrazzo-repair-mockupcaption_required: yesalt_required: yesrights: permission-required
 
 ## 31. Cleaning and maintenance
 
@@ -253,8 +237,6 @@ Terrazzo has become such a recognisable aesthetic that its image has separated f
 Soft frontal light records the colour system well but may flatten the surface. Side light reveals grinding, sheen, and small level changes. In close views, unwanted reflections should be controlled without removing the natural glints of stone.
 
 Scale needs two images: a wide view showing field and joints, and a close view showing fragment edges. A single macro can turn an architectural material into an abstract background.
-
-placement: after-sectionformat: inline 4:5asset: photographing-terrazzo-scale-and-sheencaption_required: yesalt_required: yesrights: permission-required
 
 ## 35. What the designer must specify
 

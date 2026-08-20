@@ -38,5 +38,41 @@
   "source_ids": [
     "src_8293918579ca8cd2",
     "src_422300f0c2bf7f0f"
-  ]
+  ],
+  "hero_image": {
+    "src": "/images/generated-heroes/glossary--beatriz-colomina-architecture-media-publicity.webp",
+    "alt": "Beatriz Colomina — a unique editorial AI illustration visualizing the article's subject.",
+    "caption": "Original VANSMITHLAB editorial AI illustration for “Beatriz Colomina”. Architecture as media: photography, publication, health and the public production of space",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "ai_generated",
+    "licence_or_permission": "Original VANSMITHLAB AI illustration; owned editorial asset.",
+    "source_url": "",
+    "asset_id": "hero_glossary_beatriz-colomina-architecture-media-publicity",
+    "content_hash": "17e00bfddbdfb5cecb827830f4f3bed3139b08e9098be719676d7f2b9dd02ad4",
+    "storage_key": "/images/generated-heroes/glossary--beatriz-colomina-architecture-media-publicity.webp",
+    "created_at": "2026-08-20T12:49:33.022Z",
+    "locale": "en",
+    "disclosure": "AI-generated editorial illustration; not documentary evidence.",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
+  },
+  "portrait_image": {
+    "src": "/images/profile-portraits/beatriz-colomina-architecture-media-publicity-portrait-wikimedia-v1.webp",
+    "credit": "Columbia GSAPP / Wikimedia Commons · CC BY 2.0",
+    "origin": "wikimedia_commons",
+    "rights_status": "cc_by",
+    "licence": "CC BY 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Beatriz_Colomina_at_GSAPP.jpg",
+    "access_date": "2026-08-20",
+    "asset_id": "ast_67f98151e87dd440",
+    "content_hash": "67f98151e87dd440b7019ab950d4116af9f3bb354fe06738cdbeca7ec7b814f5",
+    "storage_key": "public/images/profile-portraits/beatriz-colomina-architecture-media-publicity-portrait-wikimedia-v1.webp",
+    "width": 900,
+    "height": 1125,
+    "alt": "Portrait of Beatriz Colomina",
+    "caption": "Portrait of Beatriz Colomina. Source: Wikimedia Commons."
+  }
 }

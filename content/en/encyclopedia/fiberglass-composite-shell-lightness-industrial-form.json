@@ -29,12 +29,31 @@
   ],
   "kind": "material-technique",
   "role": [],
-  "body_hash": "afab2ad3a618552f690eb8a92036dc679b0182a2b3c5e744cd5335933d9c4097",
+  "body_hash": "34a38fc2f56fff35caf30d9c77e9e92c8964c3d1d5e80836ab67f28c8bb769bd",
   "translation": {
     "semantic_validated": true
   },
   "source_ids": [
     "src_mat_fiberglass_oia",
     "src_mat_nsi_library"
-  ]
+  ],
+  "hero_image": {
+    "src": "/images/generated-heroes/encyclopedia--fiberglass-composite-shell-lightness-industrial-form.webp",
+    "alt": "Fibreglass composite — a unique editorial AI illustration visualizing the article's subject.",
+    "caption": "Original VANSMITHLAB editorial AI illustration for “Fibreglass composite”. Composites: glass fibre, resin, shell, chair, boat and affordable lightness of form.",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "ai_generated",
+    "licence_or_permission": "Original VANSMITHLAB AI illustration; owned editorial asset.",
+    "source_url": "",
+    "asset_id": "hero_encyclopedia_fiberglass-composite-shell-lightness-industrial-form",
+    "content_hash": "bdebd886cd494d0d4ddef1fb9240c4c04f13b99a26a8eb2bbeb4c90b21c7c406",
+    "storage_key": "/images/generated-heroes/encyclopedia--fiberglass-composite-shell-lightness-industrial-form.webp",
+    "created_at": "2026-08-20T11:31:07.827Z",
+    "locale": "en",
+    "disclosure": "AI-generated editorial illustration; not documentary evidence.",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
+  }
 }

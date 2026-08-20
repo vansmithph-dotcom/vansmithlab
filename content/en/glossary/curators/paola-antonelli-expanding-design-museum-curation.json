@@ -6,7 +6,7 @@
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "unverified",
-  "confidence_score": 0.0,
+  "confidence_score": 0,
   "claim_ids": [],
   "source_ids": [
     "src_646060f0d5c8e7d7",
@@ -49,14 +49,39 @@
   ],
   "body_hash": "1b4b294a94d3f6a76c4e6db0a364408520b593c0db47df7be4a078915cfacf60",
   "hero_image": {
-    "src": "/images/glossary/curators/paola-antonelli-expanding-design-museum-curation-portrait-ai-v1-card-v2.jpg",
+    "src": "/images/glossary/curators/paola-antonelli-expanding-design-museum-curation-portrait-ai-v2-card.webp",
     "origin": "ai_illustration",
     "rights_state": "original_owned",
+    "rights_status": "ai_generated",
     "source_url": "",
-    "credit": "VANSMITHLAB ? original AI editorial portrait, 2026",
+    "credit": "VANSMITHLAB · original editorial AI illustration, 2026",
     "licence_or_permission": "Original AI illustration by VANSMITHLAB; not a documentary photograph.",
-    "alt": "Editorial AI portrait illustration of the author",
-    "alt_text": "Editorial AI portrait illustration of the author",
-    "caption": "AI portrait reconstruction. Not a documentary photograph."
+    "alt": "Editorial portrait illustration: Paola Antonelli",
+    "alt_text": "Editorial portrait illustration: Paola Antonelli",
+    "caption": "Editorial AI portrait reconstruction of Paola Antonelli. Not a documentary photograph.",
+    "disclosure": "AI reconstruction based on public photographic references; not an archival photograph.",
+    "asset_id": "ast_cba8fb3962cc3aaf",
+    "content_hash": "cba8fb3962cc3aaf57bdcb2e61cd4a6c0e244bd0309ca965e98a8b3e9b352de7",
+    "storage_key": "public/images/glossary/curators/paola-antonelli-expanding-design-museum-curation-portrait-ai-v2-card.webp",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
+  },
+  "portrait_image": {
+    "src": "/images/profile-portraits/paola-antonelli-expanding-design-museum-curation-portrait-wikimedia-v1.webp",
+    "credit": "Jean-Baptiste LABRUNE from Cambridge, MA, USA / Wikimedia Commons · CC BY-SA 2.0",
+    "origin": "wikimedia_commons",
+    "rights_status": "cc_by_sa",
+    "licence": "CC BY-SA 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Paola_Antonelli_in_2008.jpg",
+    "access_date": "2026-08-20",
+    "asset_id": "ast_3572153819152f1f",
+    "content_hash": "3572153819152f1f1cb9faedc2bc55a8c89caaf687b241e2bbad62c0b97992ac",
+    "storage_key": "public/images/profile-portraits/paola-antonelli-expanding-design-museum-curation-portrait-wikimedia-v1.webp",
+    "width": 900,
+    "height": 1125,
+    "alt": "Portrait of Paola Antonelli",
+    "caption": "Portrait of Paola Antonelli. Source: Wikimedia Commons."
   }
 }

@@ -140,5 +140,5 @@ Vitsœ продолжает выпуск 606 и развивает вариан�
 
 - [Carlton](/ru/encyclopedia/carlton-bookcase) — Memphis: мебель как знак, цвет и отказ от нейтральности.
 - [Eames Lounge Chair](/ru/encyclopedia/eames-lounge-chair) — Формованная фанера, комфорт и послевоенная роскошь.
-- [Vitra Campus как энциклопедия архитектуры и предмета](/ru/encyclopedia/vitra-campus-architecture-object-encyclopedia) — Производственная площадка, где фабрика, музей, пожарная часть, павильоны и ландшафт образуют многоле.
+- [Vitra Campus как энциклопедия архитектуры и предмета](/ru/encyclopedia/vitra-campus-architecture-object-encyclopedia) — Производственная площадка, где фабрика, музей, пожарная часть, павильоны и ландшафт образуют многолетнюю коллекцию архитектурных методов.
 - [Ulm Stool](/ru/encyclopedia/ulm-stool) — Предмет как инструмент: мебель, обучение и системное мышление.

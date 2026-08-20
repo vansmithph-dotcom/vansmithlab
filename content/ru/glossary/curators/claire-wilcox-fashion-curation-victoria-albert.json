@@ -35,5 +35,43 @@
   "source_ids": [
     "src_aa0991974ec26e4a",
     "src_71024dc4e5cdbfb8"
-  ]
+  ],
+  "hero_image": {
+    "src": "/images/generated-heroes/glossary--claire-wilcox-fashion-curation-victoria-albert.webp",
+    "alt": "Клэр Уилкокс — уникальная редакционная AI-иллюстрация, визуализирующая тему материала.",
+    "caption": "Оригинальная редакционная AI-иллюстрация VANSMITHLAB для материала «Клэр Уилкокс». Мода в музее: от исторического костюма до выставки как массовой культурной платформы",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "ai_generated",
+    "licence_or_permission": "Оригинальная AI-иллюстрация VANSMITHLAB; редакционный актив в собственности проекта.",
+    "source_url": "",
+    "asset_id": "hero_glossary_claire-wilcox-fashion-curation-victoria-albert",
+    "content_hash": "56ddc09845b1ad6ed7f829bf9a9d1b378432a6b8db43050471aea03303262fce",
+    "storage_key": "/images/generated-heroes/glossary--claire-wilcox-fashion-curation-victoria-albert.webp",
+    "created_at": "2026-08-20T12:57:01.953Z",
+    "locale": "ru",
+    "disclosure": "Редакционная иллюстрация сгенерирована ИИ и не является документальным свидетельством.",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
+  },
+  "portrait_image": {
+    "src": "/images/profile-portraits/claire-wilcox-fashion-curation-victoria-albert-portrait-ai-reconstruction-v1.webp",
+    "credit": "VANSMITHLAB · AI reconstruction from reviewed public reference imagery, 2026",
+    "origin": "ai_reconstruction",
+    "rights_status": "ai_generated",
+    "licence": "VANSMITHLAB original AI reconstruction",
+    "licence_url": "https://vansmithlab.com/ru/method/",
+    "source_url": "https://www.showstudio.com/contributors/claire_wilcox",
+    "reference_url": "https://cms.showstudio.com/images/fnQJmBE-zpJjvI166AaR4Meuvwc%3D/130820/width-1280/contributors_2195.jpg",
+    "access_date": "2026-08-20",
+    "disclosure": "ИИ-реконструкция внешности на основе проверенного публичного фотографического референса; не архивная фотография.",
+    "asset_id": "ast_b9471eb3b465951e",
+    "content_hash": "b9471eb3b465951e38b8c98d6eff43dd8aff16d08eb218d391de506b5f4baf0e",
+    "storage_key": "public/images/profile-portraits/claire-wilcox-fashion-curation-victoria-albert-portrait-ai-reconstruction-v1.webp",
+    "width": 900,
+    "height": 1125,
+    "alt": "Портрет Клэр Уилкокс",
+    "caption": "ИИ-реконструкция портрета Клэр Уилкокс по публичному фотографическому референсу."
+  }
 }

@@ -304,6 +304,12 @@ def main():
     for f in os.listdir(objdir):
         if f.endswith(".json"):
             o = json.load(open(os.path.join(objdir, f), encoding="utf-8"))
+            # The directory also contains media, collection and legacy object
+            # records that intentionally do not expose a content slug. They are
+            # not candidates for DOCX pairing and must not abort an unrelated
+            # publication batch.
+            if not o.get("slug_ru"):
+                continue
             objects[ALIAS.get(o["slug_ru"], o["slug_ru"])] = o
 
     registry = {}

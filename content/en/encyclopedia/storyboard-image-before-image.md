@@ -138,7 +138,7 @@ Today the subject should be read as a chain: script → frames → sequence → 
 
 ## See also
 
-- [Art Direction — Who Designs the Image Before the Shoot](/en/encyclopedia/art-direction-designing-the-image-before-the-shoot) — An image begins before the camera: brief, research, casting, location, light, clothing, props and la.
+- [Art Direction — Who Designs the Image Before the Shoot](/en/encyclopedia/art-direction-designing-the-image-before-the-shoot) — An image begins before the camera: brief, research, casting, location, light, clothing, props and layout define the field of possibility in advance.
 - [Motion Design — Graphic Design Gains Time](/en/encyclopedia/motion-design-graphic-design-gains-time) — Grid, type, form and image begin not only to occupy space but to change state.
 - [Title Sequences — Typography in Time](/en/encyclopedia/title-sequences-typography-in-time) — A name, a typeface and movement can establish a film before the first scene begins.
-- [Visual Effects — The Believability of the Impossible](/en/encyclopedia/visual-effects-believability-of-the-impossible) — VFX persuades not through spectacle alone but through how completely all elements obey one image phy.
+- [Visual Effects — The Believability of the Impossible](/en/encyclopedia/visual-effects-believability-of-the-impossible) — VFX persuades not through spectacle alone but through how completely all elements obey one image physics.

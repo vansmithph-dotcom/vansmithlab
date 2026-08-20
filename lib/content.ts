@@ -22,8 +22,22 @@ export type MediaReference = {
   credit: string;
   origin: "original" | "official" | "licensed" | "public_domain" | "editorial" | "editorial_diagram" | "wikipedia" | "wikimedia_commons" | "ai_illustration" | "ai_reconstruction";
   rights_status?: "public_domain" | "licensed" | "attribution_required" | "editorial_basis_recorded" | "review_required" | "ai_generated" | "permission_confirmed" | "cc_by_sa";
+  rights_state?: "original_owned" | "licensed" | "public_domain" | "third_party" | "review_required";
   source_url?: string;
   licence_or_permission?: string;
+  licence_url?: string;
+  acquire_license_page?: string;
+  disclosure?: string;
+  alt_text?: string;
+  asset_id?: string;
+  storage_key?: string;
+  content_hash?: string;
+  prompt_hash?: string;
+  generation_tool?: string;
+  created_at?: string;
+  width?: number;
+  height?: number;
+  mime_type?: string;
 };
 export type InlineMediaReference = MediaReference & {
   asset_id: string;
@@ -117,6 +131,37 @@ export function listContent(locale?: Locale, section?: string): ContentMetadata[
 
 export function sectionForContentType(contentType: string): string {
   return contentSectionMap[contentType] ?? contentType;
+}
+
+export function contentHref(item: ContentMetadata): string {
+  return `/${item.locale}/${sectionForContentType(item.content_type)}/${item.slug}`;
+}
+
+function sharedValues(left: string[] = [], right: string[] = []) {
+  const rightSet = new Set(right.map((value) => value.toLocaleLowerCase()));
+  return left.filter((value) => rightSet.has(value.toLocaleLowerCase())).length;
+}
+
+/** Deterministic editorial neighbours used for visible cross-links and JSON-LD. */
+export function relatedContent(item: ContentMetadata, limit = 3): ContentMetadata[] {
+  return listContent(item.locale)
+    .filter((candidate) => candidate.content_id !== item.content_id)
+    .map((candidate) => {
+      let score = 0;
+      if (candidate.primary_object_id === item.primary_object_id) score += 20;
+      if (sectionForContentType(candidate.content_type) === sectionForContentType(item.content_type)) score += 7;
+      score += sharedValues(item.discipline, candidate.discipline) * 5;
+      score += sharedValues(item.categories, candidate.categories) * 3;
+      if (candidate.hero_image) score += 1;
+      if (candidate.verification_state === "verified" || candidate.verification_state === "multi_source_verified") score += 1;
+      return { candidate, score };
+    })
+    .filter(({ score }) => score > 1)
+    .sort((left, right) => right.score - left.score
+      || right.candidate.last_reviewed.localeCompare(left.candidate.last_reviewed)
+      || left.candidate.title.localeCompare(right.candidate.title, item.locale))
+    .slice(0, limit)
+    .map(({ candidate }) => candidate);
 }
 
 // Translations share a content_id across locales even though their slug and content_type-derived

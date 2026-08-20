@@ -33,5 +33,43 @@
   "role": [
     "curator"
   ],
-  "body_hash": "c9c3b6a42d9e1a83d487d9afa166498a5dea5cc961e16fa872872258f95f98ee"
+  "body_hash": "c9c3b6a42d9e1a83d487d9afa166498a5dea5cc961e16fa872872258f95f98ee",
+  "hero_image": {
+    "src": "/images/generated-heroes/glossary--germano-celant-naming-a-movement.webp",
+    "alt": "Джермано Челант — уникальная редакционная AI-иллюстрация, визуализирующая тему материала.",
+    "caption": "Оригинальная редакционная AI-иллюстрация VANSMITHLAB для материала «Джермано Челант». Критик, давший движению имя и тем самым сделавший его существующим для истории.",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "ai_generated",
+    "licence_or_permission": "Оригинальная AI-иллюстрация VANSMITHLAB; редакционный актив в собственности проекта.",
+    "source_url": "",
+    "asset_id": "hero_glossary_germano-celant-naming-a-movement",
+    "content_hash": "c54fbce365f53916963c72cd8920c16b941963b11ef63e7e9bef7a60f25773c7",
+    "storage_key": "/images/generated-heroes/glossary--germano-celant-naming-a-movement.webp",
+    "created_at": "2026-08-20T12:57:44.849Z",
+    "locale": "ru",
+    "disclosure": "Редакционная иллюстрация сгенерирована ИИ и не является документальным свидетельством.",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
+  },
+  "portrait_image": {
+    "src": "/images/profile-portraits/germano-celant-naming-a-movement-portrait-ai-reconstruction-v1.webp",
+    "credit": "VANSMITHLAB · AI reconstruction from reviewed public reference imagery, 2026",
+    "origin": "ai_reconstruction",
+    "rights_status": "ai_generated",
+    "licence": "VANSMITHLAB original AI reconstruction",
+    "licence_url": "https://vansmithlab.com/ru/method/",
+    "source_url": "https://www.theartnewspaper.com/2020/05/29/remembering-germano-celant-champion-of-arte-povera-and-a-noted-curator-critic-and-historian-on-both-sides-of-the-atlantic",
+    "reference_url": "https://cdn.sanity.io/images/cxgd3urn/production/419819df23f0b1a47175f5b67a489bfbb6f1b718-900x675.jpg?auto=format&fit=crop&h=960&q=90&w=1280",
+    "access_date": "2026-08-20",
+    "disclosure": "ИИ-реконструкция внешности на основе проверенного публичного фотографического референса; не архивная фотография.",
+    "asset_id": "ast_14c8745e6b2a68b2",
+    "content_hash": "14c8745e6b2a68b280d6a4519316b8f07e29e2e2f6cd86b6744885398e4c0fd3",
+    "storage_key": "public/images/profile-portraits/germano-celant-naming-a-movement-portrait-ai-reconstruction-v1.webp",
+    "width": 900,
+    "height": 1125,
+    "alt": "Портрет Джермано Челант",
+    "caption": "ИИ-реконструкция портрета Джермано Челант по публичному фотографическому референсу."
+  }
 }

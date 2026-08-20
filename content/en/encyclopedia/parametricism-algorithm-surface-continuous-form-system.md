@@ -16,18 +16,6 @@ What exactly is parametricism, and how do I distinguish it from any other buildi
 
 Parametricism is a design approach in which every element of a form depends on defined rules and variables — so when one parameter changes, the whole system adjusts accordingly. Not every curve is parametricism. A true parametric project can be explained through its logic: what the dependencies are, how they respond, and what family of forms they generate. The term was advanced by Patrik Schumacher, though its status as a universal style remains contested. What is not contested is the method: rule-based, dependency-driven, computationally generative.
 
-placement: after-short-answer
-
-format: hero 16:9
-
-asset: ai-illustration-parametric-surface-city
-
-caption_required: yes
-
-alt_required: yes
-
-rights_status: ai-illustration
-
 ## 1. From Drawing to Rule: How Form Became a System
 
 Classical architects began with the line: a facade, a plan, a beautiful silhouette. The parametric designer begins with a dependency: if pedestrian flow increases, the corridor widens; if the panel angle shifts, the facade pattern follows. Form becomes the output of a rule system rather than an isolated artistic decision. This changes how projects are authored, how teams collaborate, and how variation is managed across a building or product. The rule replaces the single drawing as the primary design unit.[^clm_001]
@@ -39,18 +27,6 @@ Parametricism became visible when computers stopped being electronic drafting ta
 ## 3. The Parameter: A Small Dial That Moves the Entire Project
 
 A parameter is not a mathematical abstraction — it is a design control. Bend radius, perforation density, column spacing, wave amplitude, panel width: these are parameters. What makes them powerful is their linkage: when one parameter changes, all dependent elements respond together. A designer can explore a family of solutions rather than a single design, testing how corridor width responds to occupancy targets or how a facade pattern shifts with solar exposure. The parameter replaces the arbitrary dimension with a purposeful variable.[^clm_003]
-
-placement: sec-3
-
-format: inline 1:1
-
-asset: diagram-parameter-controls-changing-surface
-
-caption_required: yes
-
-alt_required: yes
-
-rights_status: ai-illustration
 
 ## 4. The Algorithm as Design Scenario, Not Magic
 
@@ -68,18 +44,6 @@ In parametricism, a surface rarely behaves as a conventional wall. It may rise f
 
 A complex envelope is not built as a single piece of fantasy. It is divided into panels, ribs, nodes, joints and mounting elements. Good parametricism is legible not only on the rendering but can explain exactly how each piece is fabricated, delivered and fixed. The grid — whether triangulated, hexagonal or free-form — is the structural language that translates algorithmic geometry into construction reality. Panel size is often constrained by transport and lifting, not by form preference.[^clm_006]
 
-placement: sec-6
-
-format: full-width 5:7
-
-asset: diagram-panelised-complex-envelope
-
-caption_required: yes
-
-alt_required: yes
-
-rights_status: ai-illustration
-
 ## 7. Human Flow as the Hidden Material of Form
 
 One of the most vivid parameters is the movement of people. Pedestrian flows, entrances, queues, viewpoints and desire lines can literally bend a plan. In such a project the building resembles less a box and more a map of behaviour: wide where people gather, narrow where they transition, open where they pause. Zaha Hadid Architects used this logic extensively — the programme and the form are co-generated rather than the form fitted around the programme.[^clm_007]
@@ -87,18 +51,6 @@ One of the most vivid parameters is the movement of people. Pedestrian flows, en
 ## 8. Zaha Hadid Architects: Fluidity as Architectural Signature
 
 Zaha Hadid Architects made the fluid, taut, almost aerodynamic form recognisable worldwide. But the gesture is not merely visual. In the best ZHA projects, fluidity connects route, structure, threshold and programme into a coherent whole. The sweeping curve is a consequence of the logic, not an arbitrary style choice applied afterwards. This distinction matters for anyone working with the vocabulary: a curve without a reason is decoration; a curve that follows a flow, a load path or a transition is architecture.[^clm_008]
-
-placement: sec-8
-
-format: inline 4:5
-
-asset: portrait-zaha-hadid-or-project-context
-
-caption_required: yes
-
-alt_required: yes
-
-rights_status: to-be-licensed
 
 ## 9. Patrik Schumacher and the Attempt to Name the Style of an Era
 
@@ -108,33 +60,9 @@ Patrik Schumacher proposed speaking of parametricism as the dominant style after
 
 The Heydar Aliyev Centre in Baku reads as if the plaza decided to rise and become architecture. ZHA describes the project through a continuous relationship between plaza and interior: this is a useful entry point for understanding parametric continuity. The building avoids corners and sharp transitions; every line flows into the next. Structurally, the continuous shell required extensive parametric engineering to resolve panel geometry, structural loads and environmental performance simultaneously.[^clm_010]
 
-placement: sec-10
-
-format: full-width 16:9
-
-asset: heydar-aliyev-centre-exterior
-
-caption_required: yes
-
-alt_required: yes
-
-rights_status: to-be-licensed
-
 ## 11. Galaxy SOHO: A City as a System of Inner Orbits
 
 Galaxy SOHO in Beijing gathers offices, retail and entertainment into a system of rounded volumes and interior courtyards. Here parametricism resembles an urban carousel: you move not along a facade but around voids, bridges and layered terraces. The project demonstrates parametricism at urban scale — the form generates circulation patterns rather than simply containing programme. Critics have noted that the self-contained megastructure logic can isolate rather than integrate; the formal success does not automatically resolve urban context questions.[^clm_011]
-
-placement: sec-11
-
-format: full-width 16:9
-
-asset: galaxy-soho-interior-courtyard
-
-caption_required: yes
-
-alt_required: yes
-
-rights_status: to-be-licensed
 
 ## 12. MAXXI: Route Matters More Than Facade
 
@@ -143,18 +71,6 @@ MAXXI in Rome matters because the museum reads as a routing machine. The visitor
 ## 13. Grasshopper and Rhino: Visual Programming for Designers
 
 Grasshopper made algorithmic design visual: the designer connects blocks, parameters and dependencies as if building a synthesizer patch. Parametric design thereby became accessible not only to programmers but to spatial designers comfortable with visual logic. Rhino provides the geometry engine; Grasshopper provides the dependency graph. Together they enabled a generation of designers to work with rule-based form without writing conventional code. The visual interface lowers the barrier but does not eliminate the need to understand what the algorithm is actually doing.[^clm_013]
-
-placement: sec-13
-
-format: inline 1:1
-
-asset: grasshopper-node-logic-diagram
-
-caption_required: yes
-
-alt_required: yes
-
-rights_status: ai-illustration
 
 ## 14. From NURBS to BIM: Why Digital Form Must Become Buildable
 
@@ -168,18 +84,6 @@ The algorithm does not make a project intelligent automatically. Only a system w
 
 The facade in parametricism often functions as a skin: it responds to sun, view, structure and scale. But skin does not mean chaos. The more complex the surface, the more important the discipline of panels — because it is the joints, not the curves, that determine constructability, cost and long-term performance. Panel size is constrained by glass manufacturing, aluminium extrusion, transport logistics and the lifting capacity of cranes. Parametric geometry must negotiate these limits without losing formal coherence.[^clm_015]
 
-placement: sec-15
-
-format: inline 5:7
-
-asset: facade-panel-seam-detail
-
-caption_required: yes
-
-alt_required: yes
-
-rights_status: ai-illustration
-
 ## 16. Parametric Interiors: Staircases, Atria and Soft Trajectories
 
 Parametric interiors favour atria, ribbon staircases, wave ceilings, fluid reception desks and light slots. When done well, this helps occupants orient themselves: routes are legible because the space flows in a direction. When done poorly, the complexity becomes disorienting — the visitor feels lost in an expensive sculptural experience. The test for parametric interior design is the same as for any interior: does the form serve the person moving through it, or does the person serve as a prop for the form?[^clm_016]
@@ -192,18 +96,6 @@ A parametric object resembles a small building: a chair can express a load path,
 
 In fashion, parametric thinking appears through 3D printing, laser cutting, modular structures, digital pattern-making and garments that respond to the body as topography rather than geometry. This is already more than a futurist costume: commercial applications include customised orthotics, athletic equipment and performance wear where the form is generated from body scan data and structural requirements. The seam, the dart and the bias cut are parameters; the algorithm optimises fit rather than imposing shape.[^clm_018]
 
-placement: sec-18
-
-format: inline 4:5
-
-asset: parametric-fashion-body-topography
-
-caption_required: yes
-
-alt_required: yes
-
-rights_status: ai-illustration
-
 ## 19. Graphic Design: Waves, Grids and Living Identities
 
 In graphic design, parametricism enables living identities: a logo, pattern or grid can vary in density, rhythm and form depending on the carrier medium. The identity ceases to be a single fixed mark and becomes a rule system that generates contextually appropriate instances. Variable fonts, generative pattern libraries and data-driven layout systems all participate in this logic. The discipline is the same as in architecture: the rules must be visible enough that the variation reads as a system, not as inconsistency.[^clm_019]
@@ -211,18 +103,6 @@ In graphic design, parametricism enables living identities: a logo, pattern or g
 ## 20. Photographing Parametricism: How to Capture Smooth Complexity
 
 Photographing parametricism is difficult: the camera easily flattens a complex surface into a beautiful but illegible wave. It is better to find positions where scale, human presence, joint, reflection and circulation are all simultaneously legible. Then the viewer understands that the form is inhabitable and real, not merely rendered. Good parametric photography also shows the material reality: the panel gap, the shadow line at the seam, the condensation on glass — the evidence that this is a building, not a visualisation.[^clm_020]
-
-placement: sec-20
-
-format: full-width 5:7
-
-asset: photo-guide-scale-seams-reflections
-
-caption_required: yes
-
-alt_required: yes
-
-rights_status: ai-illustration
 
 ## 21. Light: The Best Test for a Complex Surface
 
@@ -252,18 +132,6 @@ For the city, parametricism is interesting not as a single icon but as a means o
 
 In AI visuals, parametricism easily collapses into a plastic future without people. To avoid this, prompts should specify scale references, material texture, seams, weathering, human activity, wayfinding, furniture and the evidence of use and maintenance. A parametric scene that includes a person with a coffee cup, a construction joint detail and the shadow of a panel overlap is more useful — and more honest — than a pristine digital rendering of an empty surface. The visual vocabulary is most useful when it communicates spatial logic, not futurist aspiration.[^clm_026]
 
-placement: sec-26
-
-format: full-width 9:16
-
-asset: ai-visual-parametric-world-with-human-scale
-
-caption_required: yes
-
-alt_required: yes
-
-rights_status: ai-illustration
-
 ## 27. How to Recognise Parametricism in Five Seconds
 
 Parametricism can be recognised by several characteristics: continuous surfaces that flow between floor, wall and ceiling; repeated modules with variable density or curvature; smooth transitions without hard corners; facades that read as envelopes rather than planes; routes without orthogonal grid logic; and an overall sense that the form was generated by a rule rather than drawn by hand. These are necessary but not sufficient conditions — the additional test is whether the geometry can be explained through its dependencies.[^clm_027]
@@ -271,18 +139,6 @@ Parametricism can be recognised by several characteristics: continuous surfaces 
 ## 28. How to Apply the Style in Brand, Photography and Website
 
 For a brand, parametricism offers a premium-tech visual language: wave graphics, adaptive grids, interface surfaces, light lines, modular pavilions and forward-looking photography. The key is restraint: one parametric element applied consistently reads as a design system; every surface parametrically distorted reads as noise. For photography, the parametric vocabulary works best in spaces where the geometry is architecturally real — shooting in an actual parametric building or object gives the image a material quality that AI generation or post-production cannot replicate.[^clm_028]
-
-placement: sec-28
-
-format: inline 1:1
-
-asset: brand-system-adaptive-parametric-grid
-
-caption_required: yes
-
-alt_required: yes
-
-rights_status: ai-illustration
 
 ## 29. Why Parametricism Does Not Cancel Taste
 

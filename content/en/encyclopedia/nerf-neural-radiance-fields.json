@@ -31,5 +31,24 @@
   ],
   "kind": "organization",
   "role": [],
-  "body_hash": "6ceb06c6678462fdd0afebfdf75e641327bfe1f68224d9e387efb17cccbe268b"
+  "body_hash": "6ceb06c6678462fdd0afebfdf75e641327bfe1f68224d9e387efb17cccbe268b",
+  "hero_image": {
+    "src": "/images/generated-heroes/encyclopedia--nerf-neural-radiance-fields.webp",
+    "alt": "NeRF — neural radiance fields — a unique editorial AI illustration visualizing the article's subject.",
+    "caption": "Original VANSMITHLAB editorial AI illustration for “NeRF — neural radiance fields”. A set of ordinary photographs becomes a continuous scene representation from which any new viewpoint can be produced.",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "ai_generated",
+    "licence_or_permission": "Original VANSMITHLAB AI illustration; owned editorial asset.",
+    "source_url": "",
+    "asset_id": "hero_encyclopedia_nerf-neural-radiance-fields",
+    "content_hash": "c7f1c7ec7a3399dc6955b41e422395f2d4676d892d995f2437adbfaddf1bee1c",
+    "storage_key": "/images/generated-heroes/encyclopedia--nerf-neural-radiance-fields.webp",
+    "created_at": "2026-08-20T12:00:06.983Z",
+    "locale": "en",
+    "disclosure": "AI-generated editorial illustration; not documentary evidence.",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
+  }
 }

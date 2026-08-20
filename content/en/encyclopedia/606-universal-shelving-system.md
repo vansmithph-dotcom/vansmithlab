@@ -140,5 +140,5 @@ Today 606 Universal Shelving System should be read at three scales: as a thing f
 
 - [Carlton](/en/encyclopedia/carlton-bookcase) — Memphis: furniture as sign, colour and refusal of neutrality.
 - [Eames Lounge Chair](/en/encyclopedia/eames-lounge-chair) — Moulded plywood, comfort and postwar luxury.
-- [Vitra Campus as an Encyclopedia of Architecture and Objects](/en/encyclopedia/vitra-campus-architecture-object-encyclopedia) — A production site where factory, museum, fire station, pavilions, and landscape form a long-term col.
+- [Vitra Campus as an Encyclopedia of Architecture and Objects](/en/encyclopedia/vitra-campus-architecture-object-encyclopedia) — A production site where factory, museum, fire station, pavilions, and landscape form a long-term collection of architectural methods.
 - [Ulm Stool](/en/encyclopedia/ulm-stool) — An object as a tool: furniture, education and systems thinking.

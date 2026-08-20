@@ -29,12 +29,31 @@
   ],
   "kind": "material-technique",
   "role": [],
-  "body_hash": "39770ff343f78441f0983119a832a99431f1e5e9dc1e00dc46bcd29bb57d9a05",
+  "body_hash": "c2bff32a10035562c1ee5fb1abbd9806cf31e3f43179e373b0dba979c18552ed",
   "translation": {
     "semantic_validated": true
   },
   "source_ids": [
     "src_mat_acrylic_plexiglas",
     "src_mat_nsi_library"
-  ]
+  ],
+  "hero_image": {
+    "src": "/images/generated-heroes/encyclopedia--acrylic-pmma-transparent-colour-light-thickness.webp",
+    "alt": "Acrylic / PMMA — a unique editorial AI illustration visualizing the article's subject.",
+    "caption": "Original VANSMITHLAB editorial AI illustration for “Acrylic / PMMA”. Polymers: transparent plastic, coloured thickness, display, light and a safer alternative to glass.",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "ai_generated",
+    "licence_or_permission": "Original VANSMITHLAB AI illustration; owned editorial asset.",
+    "source_url": "",
+    "asset_id": "hero_encyclopedia_acrylic-pmma-transparent-colour-light-thickness",
+    "content_hash": "fbd4f59e823f874f5b079314856976ffd438ae154dbc9fddcadc7ea3fcb1b4bf",
+    "storage_key": "/images/generated-heroes/encyclopedia--acrylic-pmma-transparent-colour-light-thickness.webp",
+    "created_at": "2026-08-20T10:37:57.458Z",
+    "locale": "en",
+    "disclosure": "AI-generated editorial illustration; not documentary evidence.",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
+  }
 }

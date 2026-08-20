@@ -138,8 +138,8 @@ Charles Frederick Worth показывает переход от портног�
 
 ## По теме
 
-- [Готовая дизайнерская одежда — промышленная система ready-to-wear](/ru/encyclopedia/ready-to-wear-designer-clothing-as-industrial-system) — Как размерный ряд, тираж, календарь, фабрика и розница превратили дизайнерскую одежду в воспроизводи.
-- [Модный показ — от презентации коллекции к медиасобытию](/ru/encyclopedia/fashion-show-from-collection-presentation-to-media-event) — Маршрут, тело, музыка, свет, посадка гостей, камера и сеть распространения как единая система изобра.
+- [Готовая дизайнерская одежда — промышленная система ready-to-wear](/ru/encyclopedia/ready-to-wear-designer-clothing-as-industrial-system) — Как размерный ряд, тираж, календарь, фабрика и розница превратили дизайнерскую одежду в воспроизводимый продукт.
+- [Модный показ — от презентации коллекции к медиасобытию](/ru/encyclopedia/fashion-show-from-collection-presentation-to-media-event) — Маршрут, тело, музыка, свет, посадка гостей, камера и сеть распространения как единая система изображения.
 - [Портновская конструкция — внутренняя архитектура жакета](/ru/encyclopedia/tailoring-construction-inner-architecture-of-jacket) — Канва, борт, плечо, рукав, утюг и баланс как невидимая пространственная система.
 - [Кутюрная вышивка](/ru/encyclopedia/couture-embroidery-luneville) — Люневильский крючок и французские ателье.
 - [Выкройка — перевод трёхмерного тела в плоскость](/ru/encyclopedia/pattern-translating-three-dimensional-body-to-plane) — Геометрический интерфейс между фигурой, дизайнерским замыслом и раскроем материала.

@@ -31,5 +31,24 @@
   ],
   "kind": "organization",
   "role": [],
-  "body_hash": "2ca17e345edae1a27bda4dae83ceeeddfcae5942c87d7efeb0b3694a19b92e65"
+  "body_hash": "2ca17e345edae1a27bda4dae83ceeeddfcae5942c87d7efeb0b3694a19b92e65",
+  "hero_image": {
+    "src": "/images/generated-heroes/encyclopedia--lora-model-adaptation.webp",
+    "alt": "LoRA and model adaptation — a unique editorial AI illustration visualizing the article's subject.",
+    "caption": "Original VANSMITHLAB editorial AI illustration for “LoRA and model adaptation”. A way to adapt a large model to a specific task by changing a fraction of a percent of its weights.",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "ai_generated",
+    "licence_or_permission": "Original VANSMITHLAB AI illustration; owned editorial asset.",
+    "source_url": "",
+    "asset_id": "hero_encyclopedia_lora-model-adaptation",
+    "content_hash": "03aa7bbd422e57bfc90d2e77db095020b37b6871c4b8558ec99208ac462a1f18",
+    "storage_key": "/images/generated-heroes/encyclopedia--lora-model-adaptation.webp",
+    "created_at": "2026-08-20T11:44:19.491Z",
+    "locale": "en",
+    "disclosure": "AI-generated editorial illustration; not documentary evidence.",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
+  }
 }

@@ -2,7 +2,6 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import Image from "next/image";
 import { notFound } from "next/navigation";
-import { TrustPanel } from "@/components/TrustPanel";
 import { listContent } from "@/lib/content";
 import { copy, isLocale } from "@/lib/site-data";
 
@@ -38,9 +37,8 @@ export default async function ArtistsListingPage({ params }: { params: Promise<{
     <section className="shell page-shell">
       <div className="page-intro">
         <div><p className="eyebrow">{page.eyebrow}</p><h1>{page.title}</h1><p>{page.text}</p></div>
-        <TrustPanel locale={locale} />
       </div>
-      <div className="listing-header"><p>{releases.length ? (locale === "ru" ? "Проверенные публикации" : "Verified publications") : content.labels.comingSoon}</p><span>{(releases.length || page.items.length).toString().padStart(2, "0")}</span></div>
+      <div className="listing-header"><p>{releases.length ? (locale === "ru" ? "Материалы раздела" : "Entries in this section") : content.labels.comingSoon}</p><span>{(releases.length || page.items.length).toString().padStart(2, "0")}</span></div>
       <div className="listing-grid">
         {releases.length ? releases.map((release, index) => (
           <Link className={`listing-card${release.hero_image ? " listing-card-with-media" : ""}`} href={`/${locale}/${SECTION}/${release.slug}`} key={release.content_id}>

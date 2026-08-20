@@ -138,7 +138,7 @@ Today the subject should be read as a chain: brand → brief → concept → pro
 
 ## See also
 
-- [Art Direction — Who Designs the Image Before the Shoot](/en/encyclopedia/art-direction-designing-the-image-before-the-shoot) — An image begins before the camera: brief, research, casting, location, light, clothing, props and la.
+- [Art Direction — Who Designs the Image Before the Shoot](/en/encyclopedia/art-direction-designing-the-image-before-the-shoot) — An image begins before the camera: brief, research, casting, location, light, clothing, props and layout define the field of possibility in advance.
 - [Editorial Photography](/en/encyclopedia/editorial-photography-image-as-argument) — An image exists inside a topic, text, sequence and publication position.
 - [Fashion Photography — Not a Genre but a Production System](/en/encyclopedia/fashion-photography-as-production-system) — Clothing becomes an image through team, editorial context, pose, light, printing and distribution.
 - [Magazine Cover — Image as the Interface of an Issue](/en/encyclopedia/magazine-cover-image-as-issue-interface) — One frame, a name, a masthead and a few lines must sell the issue while stating its position.

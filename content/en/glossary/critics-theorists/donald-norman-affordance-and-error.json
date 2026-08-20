@@ -33,5 +33,41 @@
   "role": [
     "critic-theorist"
   ],
-  "body_hash": "576dc2289c2040b7e3b8b29f6d0edeba6f3922eaecb6667cfd596e0d33846bbe"
+  "body_hash": "576dc2289c2040b7e3b8b29f6d0edeba6f3922eaecb6667cfd596e0d33846bbe",
+  "hero_image": {
+    "src": "/images/generated-heroes/glossary--donald-norman-affordance-and-error.webp",
+    "alt": "Donald Norman — a unique editorial AI illustration visualizing the article's subject.",
+    "caption": "Original VANSMITHLAB editorial AI illustration for “Donald Norman”. User error as a defect of design rather than a property of the user.",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "ai_generated",
+    "licence_or_permission": "Original VANSMITHLAB AI illustration; owned editorial asset.",
+    "source_url": "",
+    "asset_id": "hero_glossary_donald-norman-affordance-and-error",
+    "content_hash": "7b9ed69a8a718f5cd6284b4374e91451af487e8a1c59c24c8ac92a6b39fbe7a0",
+    "storage_key": "/images/generated-heroes/glossary--donald-norman-affordance-and-error.webp",
+    "created_at": "2026-08-20T12:51:11.490Z",
+    "locale": "en",
+    "disclosure": "AI-generated editorial illustration; not documentary evidence.",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
+  },
+  "portrait_image": {
+    "src": "/images/profile-portraits/donald-norman-affordance-and-error-portrait-wikimedia-v1.webp",
+    "credit": "jordanfischer / Wikimedia Commons · CC BY 2.0",
+    "origin": "wikimedia_commons",
+    "rights_status": "cc_by",
+    "licence": "CC BY 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Donald_Norman_at_AWF05.jpg",
+    "access_date": "2026-08-20",
+    "asset_id": "ast_6813f5c592eab8af",
+    "content_hash": "6813f5c592eab8af32dad90a28a8e370fe9b9a043db175f596fac3f586da932b",
+    "storage_key": "public/images/profile-portraits/donald-norman-affordance-and-error-portrait-wikimedia-v1.webp",
+    "width": 900,
+    "height": 1125,
+    "alt": "Portrait of Donald Norman",
+    "caption": "Portrait of Donald Norman. Source: Wikimedia Commons."
+  }
 }

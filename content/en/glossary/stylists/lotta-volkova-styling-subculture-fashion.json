@@ -38,5 +38,43 @@
   "source_ids": [
     "src_0876e09db7bdf47e",
     "src_02594a8133a3300b"
-  ]
+  ],
+  "hero_image": {
+    "src": "/images/generated-heroes/glossary--lotta-volkova-styling-subculture-fashion.webp",
+    "alt": "Lotta Volkova — a unique editorial AI illustration visualizing the article's subject.",
+    "caption": "Original VANSMITHLAB editorial AI illustration for “Lotta Volkova”. The stylist as cultural montage: subculture, runway and a new system of taste",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "ai_generated",
+    "licence_or_permission": "Original VANSMITHLAB AI illustration; owned editorial asset.",
+    "source_url": "",
+    "asset_id": "hero_glossary_lotta-volkova-styling-subculture-fashion",
+    "content_hash": "72c516db521391bc7ed736eb489d88e73839a49512c674838133c854353d2bb7",
+    "storage_key": "/images/generated-heroes/glossary--lotta-volkova-styling-subculture-fashion.webp",
+    "created_at": "2026-08-20T13:27:24.913Z",
+    "locale": "en",
+    "disclosure": "AI-generated editorial illustration; not documentary evidence.",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
+  },
+  "portrait_image": {
+    "src": "/images/profile-portraits/lotta-volkova-styling-subculture-fashion-portrait-ai-reconstruction-v1.webp",
+    "credit": "VANSMITHLAB · AI reconstruction from reviewed public reference imagery, 2026",
+    "origin": "ai_reconstruction",
+    "rights_status": "ai_generated",
+    "licence": "VANSMITHLAB original AI reconstruction",
+    "licence_url": "https://vansmithlab.com/en/method/",
+    "source_url": "https://www.dazeddigital.com/projects/article/29578/1/lotta-volkova",
+    "reference_url": "https://images-prod.dazeddigital.com/1600/0-640-1733-1481/azure/dazed-prod/1150/9/1159754.JPG",
+    "access_date": "2026-08-20",
+    "disclosure": "AI reconstruction of the subject based on a reviewed public photographic reference; not an archival photograph.",
+    "asset_id": "ast_52cfd6a48c99630d",
+    "content_hash": "52cfd6a48c99630d8bc158cdaedb171727344a5caa3fcd321071eb936d2b44dc",
+    "storage_key": "public/images/profile-portraits/lotta-volkova-styling-subculture-fashion-portrait-ai-reconstruction-v1.webp",
+    "width": 900,
+    "height": 1125,
+    "alt": "Portrait of Lotta Volkova",
+    "caption": "AI portrait reconstruction of Lotta Volkova from a public photographic reference."
+  }
 }

@@ -139,6 +139,6 @@ Today the subject should be read as a chain: graphic system → states → timin
 ## See also
 
 - [Title Sequences — Typography in Time](/en/encyclopedia/title-sequences-typography-in-time) — A name, a typeface and movement can establish a film before the first scene begins.
-- [Storyboard — The Image Before the Image](/en/encyclopedia/storyboard-image-before-image) — A sequence of drawings or frames reveals editing, scale and movement before expensive production beg.
-- [Visual Effects — The Believability of the Impossible](/en/encyclopedia/visual-effects-believability-of-the-impossible) — VFX persuades not through spectacle alone but through how completely all elements obey one image phy.
+- [Storyboard — The Image Before the Image](/en/encyclopedia/storyboard-image-before-image) — A sequence of drawings or frames reveals editing, scale and movement before expensive production begins.
+- [Visual Effects — The Believability of the Impossible](/en/encyclopedia/visual-effects-believability-of-the-impossible) — VFX persuades not through spectacle alone but through how completely all elements obey one image physics.
 - [Compositing — An Image from Multiple Realities](/en/encyclopedia/compositing-image-from-multiple-realities) — One plausible frame can be assembled from different times, places, exposures and sources.

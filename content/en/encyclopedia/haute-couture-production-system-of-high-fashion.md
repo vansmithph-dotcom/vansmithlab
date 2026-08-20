@@ -138,7 +138,7 @@ Today the subject is best read not as a vocabulary list but as a chain of decisi
 
 ## See also
 
-- [Ready-to-Wear — Designer Clothing as an Industrial System](/en/encyclopedia/ready-to-wear-designer-clothing-as-industrial-system) — How sizing, series, calendar, factory and retail turned designer clothing into a reproducible produc.
+- [Ready-to-Wear — Designer Clothing as an Industrial System](/en/encyclopedia/ready-to-wear-designer-clothing-as-industrial-system) — How sizing, series, calendar, factory and retail turned designer clothing into a reproducible product.
 - [The Fashion Show — from Collection Presentation to Media Event](/en/encyclopedia/fashion-show-from-collection-presentation-to-media-event) — Route, body, music, light, seating, camera and distribution network as one image-producing system.
 - [Tailoring Construction — the Inner Architecture of the Jacket](/en/encyclopedia/tailoring-construction-inner-architecture-of-jacket) — Canvas, front, shoulder, sleeve, iron and balance as an invisible spatial system.
 - [Couture Embroidery](/en/encyclopedia/couture-embroidery-luneville) — The Lunéville hook and the French ateliers.

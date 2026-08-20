@@ -77,7 +77,7 @@
   ],
   "body_hash": "67d69bf26b042ae5fcec235cd94b628783d87928b3ee9b99f29591a4dc0588c9",
   "hero_image": {
-    "src": "/images/glossary/industrial-designers/jean-prouve-structure-industry-constructeur-portrait-ai-v2.png",
+    "src": "/images/glossary/industrial-designers/jean-prouve-structure-industry-constructeur-portrait-ai-v2.webp",
     "alt": "Editorial AI portrait illustration of the author",
     "caption": "AI portrait reconstruction. Not a documentary photograph.",
     "credit": "VANSMITHLAB ? original AI editorial portrait, 2026",
@@ -85,12 +85,32 @@
     "rights_state": "original_owned",
     "source_url": "",
     "licence_or_permission": "Original AI illustration by VANSMITHLAB; not a documentary photograph.",
-    "alt_text": "Editorial AI portrait illustration of the author"
+    "alt_text": "Editorial AI portrait illustration of the author",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
   },
   "translation": {
     "source_locale": "ru",
     "source_revision": 1,
     "semantic_validated": true,
     "review_run_id": "codex-editorial-20260814"
+  },
+  "portrait_image": {
+    "src": "/images/profile-portraits/jean-prouve-structure-industry-constructeur-portrait-wikimedia-v1.webp",
+    "credit": "Rob Croes for Anefo / Wikimedia Commons · CC0",
+    "origin": "wikimedia_commons",
+    "rights_status": "cc0",
+    "licence": "CC0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Jean_Prouv%C3%A9_(1981).jpg",
+    "access_date": "2026-08-20",
+    "asset_id": "ast_04a88ae405546470",
+    "content_hash": "04a88ae4055464705c6cba1f73518197b5bb88441adaefbefae2f5c23bd3ff0e",
+    "storage_key": "public/images/profile-portraits/jean-prouve-structure-industry-constructeur-portrait-wikimedia-v1.webp",
+    "width": 900,
+    "height": 1125,
+    "alt": "Portrait of Jean Prouvé",
+    "caption": "Portrait of Jean Prouvé. Source: Wikimedia Commons."
   }
 }

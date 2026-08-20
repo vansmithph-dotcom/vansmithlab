@@ -138,6 +138,6 @@ Today The Shop Window — Product Theatre Between Street and Interior is best re
 
 ## See also
 
-- [The Store — Commercial Space as a Visual System](/en/encyclopedia/store-space-of-commerce-as-visual-system) — How layout, display, light, graphics, and circulation turn merchandise into experience and purchase .
-- [The Boutique — Architecture of Luxury](/en/encyclopedia/boutique-architecture-of-luxury) — A small commercial space where rarity, service, and material precision shape the value of merchandis.
-- [The Department Store — A City Inside a Building](/en/encyclopedia/department-store-city-inside-building) — A large retail organism combining product categories, vertical circulation, service, spectacle, and .
+- [The Store — Commercial Space as a Visual System](/en/encyclopedia/store-space-of-commerce-as-visual-system) — How layout, display, light, graphics, and circulation turn merchandise into experience and purchase decisions.
+- [The Boutique — Architecture of Luxury](/en/encyclopedia/boutique-architecture-of-luxury) — A small commercial space where rarity, service, and material precision shape the value of merchandise.
+- [The Department Store — A City Inside a Building](/en/encyclopedia/department-store-city-inside-building) — A large retail organism combining product categories, vertical circulation, service, spectacle, and urban life.

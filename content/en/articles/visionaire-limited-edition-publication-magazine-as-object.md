@@ -26,8 +26,6 @@ Limited edition in Visionaire is not merely scarcity as marketing. It is part of
 
 Visionaire 1: Innocent: Spring was assembled as a portfolio of loose sheets printed on different papers. RISD describes paper remnants, vellum, kraft paper, photographs, drawings and the first fashion report by Bill Cunningham. The core method is already present: production is not hidden; it becomes meaning.
 
-placement: sec-4; format: full-width 1:1; asset: visionaire-1-innocent-spring-loose-portfolio; caption_required: true; alt_required: true; rights_status: library-rights-review
-
 ## 05. Theme as issue structure
 
 Every issue of Visionaire is built around a theme. But the theme is not simply a department heading. It determines material, packaging, scale, reading order and mode of participation. A love issue can become an altered novel; a surprise issue can become a paper-engineered object; a scale issue can become a giant magazine.
@@ -39,8 +37,6 @@ Visionaire often operates with very little conventional magazine prose. This is 
 ## 07. Paper, leather, metal, plastic: material instead of the standard page
 
 In a conventional magazine, material is meant to be almost invisible. In Visionaire, material becomes a protagonist. Paper, leather, metal, plastic, vellum, foil, mirror, lenticular printing and pop-up construction are not decoration; they are modes of perception. This places Visionaire between graphic design, object design and publishing art.
-
-placement: sec-7; format: full-width 4:5; asset: visionaire-material-surface-paper-leather-metal-plastic; caption_required: true; alt_required: true; rights_status: ai-illustration
 
 ## 08. Artists and photographers as equal authors
 
@@ -54,8 +50,6 @@ In Visionaire, fashion is not limited to clothing, runway seasons or advertising
 
 Visionaire 18: Fashion Special Louis Vuitton is one of the key moments in the series. RISD describes it as the first full Fashion Special, made for the centenary of the Louis Vuitton Monogram and housed in a specially designed leather portfolio. The point is not only the contributor list; the packaging itself becomes the event.
 
-placement: sec-10; format: full-width 4:5; asset: visionaire-18-fashion-special-louis-vuitton-portfolio; caption_required: true; alt_required: true; rights_status: library-rights-review
-
 ## 11. Packaging as a collecting event
 
 Visionaire proved that packaging could be more than a protective shell. It could be part of editorial dramaturgy. A case, box, portfolio, insert or folding construction creates expectation before any image is seen. The reader buys not just content but a ritual of opening.
@@ -68,8 +62,6 @@ Visionaire often worked with brands, but did not reduce the brand to a conventio
 
 Visionaire 38: Love Tiffany & Co shows another kind of editorial object. Old novels were altered by hand through inserted artworks and tokens of love, making each copy effectively unique. The magazine moves from the logic of edition to the logic of variable collection.
 
-placement: sec-13; format: full-width 4:5; asset: visionaire-38-love-tiffany-hand-inserted-novel; caption_required: true; alt_required: true; rights_status: library-rights-review
-
 ## 14. Lenticulars, pop-ups and special printing effects
 
 Visionaire repeatedly used production techniques that mass printing often considered too expensive, too complicated or too toy-like. Lenticular cards, pop-up paper structures and complex inserts turned printing into a laboratory of motion, depth and surprise.
@@ -78,13 +70,9 @@ Visionaire repeatedly used production techniques that mass printing often consid
 
 Visionaire 55: Surprise reimagined the children’s pop-up book through work by Yayoi Kusama, Andreas Gursky, Cai Guo-Qiang, Sophie Calle, Steven Klein and others. Here surprise was not just a theme on the cover; it became the mechanics of viewing, with the page turning into a spatial stage.
 
-placement: sec-15; format: full-width 4:5; asset: visionaire-55-surprise-pop-up-paper-engineering; caption_required: true; alt_required: true; rights_status: library-rights-review
-
 ## 16. Visionaire 61: Larger Than Life
 
 Visionaire 61: Larger Than Life pushed the idea of scale to an extreme. RISD describes it as an issue claiming the Guinness-certified title of the biggest magazine of all time. Its giant format turned reading into something close to an exhibition act, while Lady Gaga’s covers became part of a large-scale visual event.
-
-placement: sec-16; format: full-width 16:9; asset: visionaire-61-larger-than-life-scale-diagram; caption_required: true; alt_required: true; rights_status: ai-illustration
 
 ## 17. Scale as a critique of the magazine
 
@@ -94,8 +82,6 @@ When a magazine becomes physically larger than the reader, it stops being a priv
 
 Visionaire functioned less like a page-based editorial office and more like a production laboratory. It had to invent themes, recruit contributors, work with sponsors, design objects, solve technical limits, organize assembly and preserve artistic freedom. In this respect the magazine approaches exhibition production.
 
-placement: sec-18; format: full-width 1:1; asset: visionaire-editorial-production-lab-diagram; caption_required: true; alt_required: true; rights_status: ai-illustration
-
 ## 19. Edition, rarity and price
 
 Rarity became part of Visionaire’s cultural effect. Limited edition size, complex production and rapid disappearance from the market created a collectible aura. But the crucial question remains: does rarity intensify the perception of the object, or does it sometimes overshadow content?
@@ -103,8 +89,6 @@ Rarity became part of Visionaire’s cultural effect. Limited edition size, comp
 ## 20. Between magazine, artist’s book and art object
 
 Visionaire is hard to describe in one word. It is a magazine because it has issues, themes, editors and periodicity. It is an artist’s book because physical form carries meaning. It is an art object because copies are stored, displayed and resold as things. Its power lies in this in-between position.
-
-placement: sec-20; format: full-width 1:1; asset: visionaire-between-magazine-art-book-object; caption_required: true; alt_required: true; rights_status: ai-illustration
 
 ## 21. How Visionaire changes the role of the reader
 
@@ -118,13 +102,9 @@ Over time Visionaire moved beyond the printed issue. Its own history describes a
 
 Visionaire has also worked with film and performative formats. The move to the screen does not cancel the project’s publishing DNA: the screen becomes another medium that can be authored, limited, bodily or event-based.
 
-placement: sec-23; format: full-width 16:9; asset: visionaire-film-experience-installation-transition; caption_required: true; alt_required: true; rights_status: rights-review
-
 ## 24. The contemporary phase: experiential agency
 
 Today Visionaire describes itself as a project rooted in limited edition publishing and expanded into public art, film, immersive and interactive experiences, branded content and art multiples. This shows that a magazine can become a methodology for producing culture.
-
-placement: sec-24; format: full-width 16:9; asset: visionaire-experiential-agency-public-art-immersive-projects; caption_required: true; alt_required: true; rights_status: rights-review
 
 ## 25. Why Visionaire matters for fashion
 
@@ -149,5 +129,3 @@ In a digital era, Visionaire feels unexpectedly current. As many media systems c
 ## 30. Legacy: the medium is also an author
 
 Visionaire’s central legacy is the idea that the medium is not neutral. Format, material, scale, edition size, opening mechanism and packaging also act as authors. A magazine can be more than a page with images; it can be an object that forms the gaze.
-
-placement: sec-30; format: full-width 1:1; asset: visionaire-medium-as-author-legacy-map; caption_required: true; alt_required: true; rights_status: ai-illustration

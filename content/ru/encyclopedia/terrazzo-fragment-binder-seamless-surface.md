@@ -46,8 +46,6 @@
 
 Венецианский пол был не просто способом утилизировать остатки. Он позволял покрывать большие пространства без сетки отдельных плиток и создавал поверхность, способную визуально связывать комнаты дворца.
 
-placement: after-sectionformat: inline 4:5asset: historic-venetian-terrazzo-craftcaption_required: yesalt_required: yesrights: permission-required
-
 ## 5. Seminato и pavimento alla veneziana
 
 В технике seminato мелкие и средние фрагменты словно «засеивают» влажную матрицу. После уплотнения и шлифования случайное распределение превращается в равномерное поле.
@@ -75,8 +73,6 @@ Palladiana строится на крупных нерегулярных кус�
 Тонкая система не означает простую систему
 
 Эпоксидный слой может быть тонким, но требования к ровности, влажности и трещинам основания становятся только строже.
-
-placement: after-sectionformat: inline 4:5asset: cement-versus-epoxy-system-sectioncaption_required: yesalt_required: yesrights: permission-required
 
 ## 9. Монолитные и многослойные системы
 
@@ -114,8 +110,6 @@ placement: after-sectionformat: inline 4:5asset: cement-versus-epoxy-system-sect
 
 Полоса может исчезать в поле или стать самостоятельной линией. В ар-деко она превращалась в геометрию, в современной навигации — в маршрут, в минималистском интерьере — в едва заметную сетку.
 
-placement: after-sectionformat: inline 4:5asset: divider-strips-and-colour-zonescaption_required: yesalt_required: yesrights: permission-required
-
 ## 15. Укладка и уплотнение
 
 Смесь распределяют внутри подготовленных границ, уплотняют и выравнивают. На этом этапе поверхность выглядит тяжёлой и непрозрачной: рисунок ещё скрыт излишним связующим.
@@ -128,8 +122,6 @@ placement: after-sectionformat: inline 4:5asset: divider-strips-and-colour-zones
 
 Глубина первого прохода критична. Слишком слабое шлифование оставляет камень закрытым, чрезмерное может изменить плотность рисунка и обнажить дефекты. В терраццо изображение буквально находится внутри материала.
 
-placement: after-sectionformat: inline 4:5asset: terrazzo-grinding-processcaption_required: yesalt_required: yesrights: permission-required
-
 ## 17. Заполнение пор и повторная обработка
 
 После грубого шлифования становятся видны небольшие поры и пустоты. Их заполняют совместимым составом, затем поверхность снова шлифуют и полируют.
@@ -141,8 +133,6 @@ placement: after-sectionformat: inline 4:5asset: terrazzo-grinding-processcaptio
 Высокая полировка усиливает цвет камня и даёт точечные отражения, особенно если в смеси присутствует стекло или зеркало. Матовый финиш делает поверхность спокойнее, лучше показывает массу и меньше превращает пол в конкурента освещению.
 
 Блеск не является признаком качества сам по себе. Для лестницы, входной зоны или пространства с сильным боковым светом чрезмерная зеркальность может ухудшить читаемость и безопасность.
-
-placement: after-sectionformat: inline 4:5asset: honed-versus-polished-terrazzocaption_required: yesalt_required: yesrights: permission-required
 
 ## 19. Бесшовность как визуальный эффект
 
@@ -192,15 +182,11 @@ placement: after-sectionformat: inline 4:5asset: honed-versus-polished-terrazzoc
 
 Пол не служит спокойным фоном для архитектуры — он связывает камень, стекло, свет и предметы в единую сценографию. Это редкий пример, где традиционная техника не цитируется буквально, а переводится на язык середины XX века.
 
-placement: after-sectionformat: inline 4:5asset: olivetti-showroom-terrazzo-floorcaption_required: yesalt_required: yesrights: permission-required
-
 ## 27. Ар-деко и общественный интерьер
 
 В 1920–1940-е годы терраццо оказалось созвучно ар-деко и Streamline Moderne. Металлические полосы позволяли строить лучи, волны, эмблемы и цветные бордюры, а механическое шлифование сделало большие площади доступнее.
 
 В вокзалах, судах, театрах и административных зданиях материал соединял торжественность камня с практичностью общественного пола. Он мог выглядеть дорогим, не требуя сплошных плит редкого мрамора.
-
-placement: after-sectionformat: inline 4:5asset: art-deco-public-terrazzo-floorcaption_required: yesalt_required: yesrights: permission-required
 
 ## 28. Школы, больницы и транспорт
 
@@ -219,8 +205,6 @@ placement: after-sectionformat: inline 4:5asset: art-deco-public-terrazzo-floorc
 При ремонте исторического пола недостаточно подобрать «похожий бежевый». Нужно определить тип матрицы, размер и происхождение заполнителя, степень старения, блеск и рисунок швов.
 
 GSA рекомендует заранее картировать трещины и зоны отслоения, согласовывать пробные участки и привлекать специалистов по историческим материалам. Полное совпадение не всегда возможно: природный камень и старый цемент меняются со временем.[^clm_tz_011]
-
-placement: after-sectionformat: inline 4:5asset: historic-terrazzo-repair-mockupcaption_required: yesalt_required: yesrights: permission-required
 
 ## 31. Очистка и уход
 
@@ -253,8 +237,6 @@ NTMA предлагает различать терраццо не по внеш
 Фронтальный мягкий свет хорошо показывает цветовую систему, но может сделать поверхность плоской. Боковой свет раскрывает шлифовку, блеск и небольшие перепады. Для крупного плана важно убрать паразитные отражения, не уничтожив естественное мерцание камня.
 
 Масштаб необходимо показывать двумя кадрами: общим, где виден ритм поля и швов, и близким, где читаются кромки фрагментов. Один макрос легко превращает архитектурный материал в абстрактный фон.
-
-placement: after-sectionformat: inline 4:5asset: photographing-terrazzo-scale-and-sheencaption_required: yesalt_required: yesrights: permission-required
 
 ## 35. Что должен определить дизайнер
 

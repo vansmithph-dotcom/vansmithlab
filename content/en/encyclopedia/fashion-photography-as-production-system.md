@@ -138,7 +138,7 @@ Today the subject should be read as a chain: clothing → body → team → fram
 
 ## See also
 
-- [Art Direction — Who Designs the Image Before the Shoot](/en/encyclopedia/art-direction-designing-the-image-before-the-shoot) — An image begins before the camera: brief, research, casting, location, light, clothing, props and la.
+- [Art Direction — Who Designs the Image Before the Shoot](/en/encyclopedia/art-direction-designing-the-image-before-the-shoot) — An image begins before the camera: brief, research, casting, location, light, clothing, props and layout define the field of possibility in advance.
 - [Editorial Photography](/en/encyclopedia/editorial-photography-image-as-argument) — An image exists inside a topic, text, sequence and publication position.
 - [Contact Sheet — Photography as a Process of Selection](/en/encyclopedia/contact-sheet-photography-as-process-of-selection) — A series becomes a story when frames can be seen together and exclusion begins.
 - [Retouching — From Negative to Digital Image](/en/encyclopedia/retouching-from-negative-to-digital-image) — Correction, interpretation and power over the photographic surface existed long before Photoshop.

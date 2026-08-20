@@ -141,4 +141,4 @@ Today the subject is best read not as a vocabulary list but as a chain of decisi
 - [The Pattern — Translating the Three-Dimensional Body into a Plane](/en/encyclopedia/pattern-translating-three-dimensional-body-to-plane) — A geometric interface between figure, design intention and the cutting of material.
 - [Tailoring Construction — the Inner Architecture of the Jacket](/en/encyclopedia/tailoring-construction-inner-architecture-of-jacket) — Canvas, front, shoulder, sleeve, iron and balance as an invisible spatial system.
 - [Draping](/en/encyclopedia/draping-soft-construction) — Creating form without rigid construction.
-- [Haute Couture — the Production System of High Fashion](/en/encyclopedia/haute-couture-production-system-of-high-fashion) — Not a luxury style but a regulated ecosystem of ateliers, handwork, fittings, calendar and public pr.
+- [Haute Couture — the Production System of High Fashion](/en/encyclopedia/haute-couture-production-system-of-high-fashion) — Not a luxury style but a regulated ecosystem of ateliers, handwork, fittings, calendar and public presentation.

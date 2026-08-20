@@ -141,5 +141,5 @@ Today the subject should be read as a chain: idea → brief → team → shoot �
 - [Fashion Photography — Not a Genre but a Production System](/en/encyclopedia/fashion-photography-as-production-system) — Clothing becomes an image through team, editorial context, pose, light, printing and distribution.
 - [Editorial Photography](/en/encyclopedia/editorial-photography-image-as-argument) — An image exists inside a topic, text, sequence and publication position.
 - [Advertising Photography](/en/encyclopedia/advertising-photography-image-as-commercial-instrument) — The frame is designed for an action: recognize, desire, remember, choose.
-- [Storyboard — The Image Before the Image](/en/encyclopedia/storyboard-image-before-image) — A sequence of drawings or frames reveals editing, scale and movement before expensive production beg.
+- [Storyboard — The Image Before the Image](/en/encyclopedia/storyboard-image-before-image) — A sequence of drawings or frames reveals editing, scale and movement before expensive production begins.
 - [Contact Sheet — Photography as a Process of Selection](/en/encyclopedia/contact-sheet-photography-as-process-of-selection) — A series becomes a story when frames can be seen together and exclusion begins.

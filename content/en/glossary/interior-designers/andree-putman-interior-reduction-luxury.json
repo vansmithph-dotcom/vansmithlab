@@ -38,5 +38,41 @@
   "source_ids": [
     "src_404234084ca3d797",
     "src_0371e19393424aef"
-  ]
+  ],
+  "hero_image": {
+    "src": "/images/generated-heroes/glossary--andree-putman-interior-reduction-luxury.webp",
+    "alt": "Andrée Putman — a unique editorial AI illustration visualizing the article's subject.",
+    "caption": "Original VANSMITHLAB editorial AI illustration for “Andrée Putman”. Restraint, graphic rhythm and a new luxury of public interiors",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "ai_generated",
+    "licence_or_permission": "Original VANSMITHLAB AI illustration; owned editorial asset.",
+    "source_url": "",
+    "asset_id": "hero_glossary_andree-putman-interior-reduction-luxury",
+    "content_hash": "8685a53628f2a566076a5afe8e7919eb4872c6af75d74c8155f5999f1d54c8f7",
+    "storage_key": "/images/generated-heroes/glossary--andree-putman-interior-reduction-luxury.webp",
+    "created_at": "2026-08-20T13:25:38.578Z",
+    "locale": "en",
+    "disclosure": "AI-generated editorial illustration; not documentary evidence.",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
+  },
+  "portrait_image": {
+    "src": "/images/profile-portraits/andree-putman-interior-reduction-luxury-portrait-wikimedia-v1.webp",
+    "credit": "Putman / Wikimedia Commons · CC BY-SA 3.0",
+    "origin": "wikimedia_commons",
+    "rights_status": "cc_by_sa",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Andr%C3%A9e_Putman_in_black_and_white.jpg",
+    "access_date": "2026-08-20",
+    "asset_id": "ast_9d8081102580b3c9",
+    "content_hash": "9d8081102580b3c9824e5d480af6d90fe20636060dbce16202e78076a7823b87",
+    "storage_key": "public/images/profile-portraits/andree-putman-interior-reduction-luxury-portrait-wikimedia-v1.webp",
+    "width": 900,
+    "height": 1125,
+    "alt": "Portrait of Andrée Putman",
+    "caption": "Portrait of Andrée Putman. Source: Wikimedia Commons."
+  }
 }

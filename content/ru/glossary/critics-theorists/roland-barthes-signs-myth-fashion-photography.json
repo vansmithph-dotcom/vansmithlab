@@ -6,7 +6,7 @@
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "unverified",
-  "confidence_score": 0.0,
+  "confidence_score": 0,
   "claim_ids": [],
   "source_ids": [
     "src_5076c3cf85076196",
@@ -46,16 +46,41 @@
   "role": [
     "critic-theorist"
   ],
-  "body_hash": "8110069171b46bd24f71297e0e26af34cea778198be28450d24a0a3cfde5542e",
+  "body_hash": "b9a2eebab146c20c7cc3b5558cbcf0d70139f4b890f48751f2e44749c78a6d7f",
   "hero_image": {
-    "src": "/images/glossary/critics-theorists/roland-barthes-signs-myth-fashion-photography-portrait-ai-v1-card-v2.jpg",
+    "src": "/images/glossary/critics-theorists/roland-barthes-signs-myth-fashion-photography-portrait-ai-v2-card.webp",
     "origin": "ai_illustration",
     "rights_state": "original_owned",
+    "rights_status": "ai_generated",
     "source_url": "",
-    "credit": "VANSMITHLAB · оригинальная AI-иллюстрация, 2026",
+    "credit": "VANSMITHLAB · оригинальная редакционная AI-иллюстрация, 2026",
     "licence_or_permission": "Оригинальная AI-иллюстрация VANSMITHLAB; не документальная фотография.",
-    "alt": "Редакционная AI-портретная иллюстрация автора",
-    "alt_text": "Редакционная AI-портретная иллюстрация автора",
-    "caption": "AI-портретная реконструкция автора. Не является документальной фотографией."
+    "alt": "Редакционная портретная иллюстрация: Ролан Барт",
+    "alt_text": "Редакционная портретная иллюстрация: Ролан Барт",
+    "caption": "Редакционная AI-реконструкция портрета Ролан Барт. Не является документальной фотографией.",
+    "disclosure": "ИИ-реконструкция внешности на основе публичных фотографических референсов; не архивная фотография.",
+    "asset_id": "ast_4e895ecf31885b4f",
+    "content_hash": "4e895ecf31885b4fae03b0921f7ffc237a1730f4b1d52cff5697d8efd4f5f6de",
+    "storage_key": "public/images/glossary/critics-theorists/roland-barthes-signs-myth-fashion-photography-portrait-ai-v2-card.webp",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
+  },
+  "portrait_image": {
+    "src": "/images/profile-portraits/roland-barthes-signs-myth-fashion-photography-portrait-wikimedia-v1.webp",
+    "credit": "Unknown / Wikimedia Commons · Public domain",
+    "origin": "wikimedia_commons",
+    "rights_status": "public_domain",
+    "licence": "Public domain",
+    "licence_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Roland_Barthes_1969.jpg",
+    "access_date": "2026-08-20",
+    "asset_id": "ast_846cc03b5ddc3ea3",
+    "content_hash": "846cc03b5ddc3ea3163a26885e42015c890a6fee09b3c12e2427718cb84ab62f",
+    "storage_key": "public/images/profile-portraits/roland-barthes-signs-myth-fashion-photography-portrait-wikimedia-v1.webp",
+    "width": 900,
+    "height": 1125,
+    "alt": "Портрет Ролан Барт",
+    "caption": "Портрет Ролан Барт. Источник: Wikimedia Commons."
   }
 }

@@ -29,12 +29,31 @@
   ],
   "kind": "material-technique",
   "role": [],
-  "body_hash": "f997b31c7c7dd0a49aee793d7ce68a91b5bf7005fac787a30606e9851bc13c26",
+  "body_hash": "d11dd39d8983c9443aea1ed093ab6db58710c6d409a7bed02345fe28beb09813",
   "translation": {
     "semantic_validated": true
   },
   "source_ids": [
     "src_mat_nsi_library",
     "src_mat_nsi_limestone"
-  ]
+  ],
+  "hero_image": {
+    "src": "/images/generated-heroes/encyclopedia--limestone-soft-mass-porous-architecture.webp",
+    "alt": "Limestone — a unique editorial AI illustration visualizing the article's subject.",
+    "caption": "Original VANSMITHLAB editorial AI illustration for “Limestone”. Stone: sedimentary softness, porosity, facade, sculpture and dignified ageing.",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "ai_generated",
+    "licence_or_permission": "Original VANSMITHLAB AI illustration; owned editorial asset.",
+    "source_url": "",
+    "asset_id": "hero_encyclopedia_limestone-soft-mass-porous-architecture",
+    "content_hash": "6178db7aa5d2d88f8b874be2579000af502b76ca5e1dbcba90da2ba8e465065e",
+    "storage_key": "/images/generated-heroes/encyclopedia--limestone-soft-mass-porous-architecture.webp",
+    "created_at": "2026-08-20T11:43:20.302Z",
+    "locale": "en",
+    "disclosure": "AI-generated editorial illustration; not documentary evidence.",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
+  }
 }

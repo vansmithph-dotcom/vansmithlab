@@ -54,7 +54,7 @@
   "summary": "От фирмы House of Worth до лицензионной модели Pierre Cardin, описанной самим домом: статья предлагает смотреть на влияние модного дома через авторство, календарь, культурную память и распространение имени — не сводя его к трендам.",
   "body_hash": "abbf66ca9ba2c37ef30366c72ed96cfaf946d08eac3b5cc962bbe45d1af2923a",
   "hero_image": {
-    "src": "/images/analysis-cards/kak-modnye-doma-formiruyut-industriyu-mody/kak-modnye-doma-formiruyut-industriyu-mody-hero-v4.png",
+    "src": "/images/analysis-cards/kak-modnye-doma-formiruyut-industriyu-mody/kak-modnye-doma-formiruyut-industriyu-mody-hero-v4.webp",
     "alt": "Editorial illustration for the analysis",
     "caption": "Original editorial AI illustration by VANSMITHLAB.",
     "credit": "VANSMITHLAB · оригинальная AI-иллюстрация, 2026",
@@ -62,7 +62,7 @@
     "asset_id": "asset_fashion-house-system-hero-v1_hero_v1",
     "primary_object_id": "obj_8d7964c0bc395b1f",
     "content_release_id": "cnt_ce5e3b1654291fb4",
-    "content_hash": "8d4014a291ac6e03de31fccdadcefc70a516f0bbf897895d13ff3c8440d4b232",
+    "content_hash": "944acdb276a2f0f130250f7f68ac6e0704416d7210974fbd0fe2873eee32533c",
     "file_storage_key": "public/images/articles/fashion-house-system-hero-v1.webp",
     "creator_or_credit": "OpenAI image generation · directed and reviewed by VANSMITHLAB",
     "rights_state": "original_owned",
@@ -72,6 +72,9 @@
     "rights_status": "generated_reviewed",
     "kind": "image",
     "locale": "ru",
-    "alt_text": "Editorial illustration for the analysis"
+    "alt_text": "Editorial illustration for the analysis",
+    "width": 1400,
+    "height": 900,
+    "mime_type": "image/webp"
   }
 }

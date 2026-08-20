@@ -139,5 +139,5 @@ Today the subject should be read as a chain: credit list → hierarchy → typog
 ## See also
 
 - [Motion Design — Graphic Design Gains Time](/en/encyclopedia/motion-design-graphic-design-gains-time) — Grid, type, form and image begin not only to occupy space but to change state.
-- [Storyboard — The Image Before the Image](/en/encyclopedia/storyboard-image-before-image) — A sequence of drawings or frames reveals editing, scale and movement before expensive production beg.
-- [Visual Effects — The Believability of the Impossible](/en/encyclopedia/visual-effects-believability-of-the-impossible) — VFX persuades not through spectacle alone but through how completely all elements obey one image phy.
+- [Storyboard — The Image Before the Image](/en/encyclopedia/storyboard-image-before-image) — A sequence of drawings or frames reveals editing, scale and movement before expensive production begins.
+- [Visual Effects — The Believability of the Impossible](/en/encyclopedia/visual-effects-believability-of-the-impossible) — VFX persuades not through spectacle alone but through how completely all elements obey one image physics.

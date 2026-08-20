@@ -6,7 +6,7 @@
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "unverified",
-  "confidence_score": 0.0,
+  "confidence_score": 0,
   "claim_ids": [],
   "source_ids": [
     "src_ccfb87431b4c7f39",
@@ -50,14 +50,39 @@
   ],
   "body_hash": "431a4275431f4e1d147f9c0d2e3c99ca9a4ac0888da20e8d87c0cb16b44cfa72",
   "hero_image": {
-    "src": "/images/glossary/interior-designers/eileen-gray-interior-body-privacy-modernism-portrait-ai-v1-card-v2.jpg",
+    "src": "/images/glossary/interior-designers/eileen-gray-interior-body-privacy-modernism-portrait-ai-v2-card.webp",
     "origin": "ai_illustration",
     "rights_state": "original_owned",
+    "rights_status": "ai_generated",
     "source_url": "",
-    "credit": "VANSMITHLAB ? original AI editorial portrait, 2026",
+    "credit": "VANSMITHLAB · original editorial AI illustration, 2026",
     "licence_or_permission": "Original AI illustration by VANSMITHLAB; not a documentary photograph.",
-    "alt": "Editorial AI portrait illustration of the author",
-    "alt_text": "Editorial AI portrait illustration of the author",
-    "caption": "AI portrait reconstruction. Not a documentary photograph."
+    "alt": "Editorial portrait illustration: Eileen Gray",
+    "alt_text": "Editorial portrait illustration: Eileen Gray",
+    "caption": "Editorial AI portrait reconstruction of Eileen Gray. Not a documentary photograph.",
+    "disclosure": "AI reconstruction based on public photographic references; not an archival photograph.",
+    "asset_id": "ast_8618e4e4b38c9825",
+    "content_hash": "8618e4e4b38c98259e232a17965e17ddb164aee12b9b92afc095cc6034851974",
+    "storage_key": "public/images/glossary/interior-designers/eileen-gray-interior-body-privacy-modernism-portrait-ai-v2-card.webp",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
+  },
+  "portrait_image": {
+    "src": "/images/profile-portraits/eileen-gray-interior-body-privacy-modernism-portrait-wikimedia-v1.webp",
+    "credit": "Unknown author Unknown author / Wikimedia Commons · Public domain",
+    "origin": "wikimedia_commons",
+    "rights_status": "public_domain",
+    "licence": "Public domain",
+    "licence_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Eileen_Gray.jpg",
+    "access_date": "2026-08-20",
+    "asset_id": "ast_5a336e420b6a17ab",
+    "content_hash": "5a336e420b6a17abaa02ebddf2403b98387400e3abfc2f7ab8991100b6683921",
+    "storage_key": "public/images/profile-portraits/eileen-gray-interior-body-privacy-modernism-portrait-wikimedia-v1.webp",
+    "width": 900,
+    "height": 1125,
+    "alt": "Portrait of Eileen Gray",
+    "caption": "Portrait of Eileen Gray. Source: Wikimedia Commons."
   }
 }

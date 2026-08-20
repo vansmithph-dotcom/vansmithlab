@@ -38,5 +38,43 @@
   "source_ids": [
     "src_2a2db250f2214693",
     "src_8b73008fb57e4974"
-  ]
+  ],
+  "hero_image": {
+    "src": "/images/generated-heroes/glossary--david-downton-fashion-illustration-line.webp",
+    "alt": "David Downton — a unique editorial AI illustration visualizing the article's subject.",
+    "caption": "Original VANSMITHLAB editorial AI illustration for “David Downton”. Line after photography: fashion illustration as live observation of a person",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "ai_generated",
+    "licence_or_permission": "Original VANSMITHLAB AI illustration; owned editorial asset.",
+    "source_url": "",
+    "asset_id": "hero_glossary_david-downton-fashion-illustration-line",
+    "content_hash": "a4d6a1267d24dc41ff3ad929f9ea82a4817008b9d2a66fef351ef6ee52b4076b",
+    "storage_key": "/images/generated-heroes/glossary--david-downton-fashion-illustration-line.webp",
+    "created_at": "2026-08-20T13:15:32.380Z",
+    "locale": "en",
+    "disclosure": "AI-generated editorial illustration; not documentary evidence.",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
+  },
+  "portrait_image": {
+    "src": "/images/profile-portraits/david-downton-fashion-illustration-line-portrait-ai-reconstruction-v1.webp",
+    "credit": "VANSMITHLAB · AI reconstruction from reviewed public reference imagery, 2026",
+    "origin": "ai_reconstruction",
+    "rights_status": "ai_generated",
+    "licence": "VANSMITHLAB original AI reconstruction",
+    "licence_url": "https://vansmithlab.com/en/method/",
+    "source_url": "https://www.mymoderndarcy.com/single-post/2016/05/05/an-artful-conversation-with-fashion-illustrator-david-downton-his-portraits-of-the-world",
+    "reference_url": "https://static.wixstatic.com/media/0409ea_53ed03a71b1d477ba1da5638746c8669.jpeg/v1/fill/w_1000,h_667,al_c,q_85,usm_0.66_1.00_0.01/0409ea_53ed03a71b1d477ba1da5638746c8669.jpeg",
+    "access_date": "2026-08-20",
+    "disclosure": "AI reconstruction of the subject based on a reviewed public photographic reference; not an archival photograph.",
+    "asset_id": "ast_114c349041ad09c1",
+    "content_hash": "114c349041ad09c137db769c9900960d2a07705655966c1025af41956e567527",
+    "storage_key": "public/images/profile-portraits/david-downton-fashion-illustration-line-portrait-ai-reconstruction-v1.webp",
+    "width": 900,
+    "height": 1125,
+    "alt": "Portrait of David Downton",
+    "caption": "AI portrait reconstruction of David Downton from a public photographic reference."
+  }
 }

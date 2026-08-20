@@ -76,9 +76,9 @@
   "role": [
     "curator"
   ],
-  "body_hash": "da399f233a12cd40abf2129a6e8d634a9f209bfd8ec20fc418bc48df22c77eff",
+  "body_hash": "3b38f1d67e45b2b5651a4636b721f52e3c32d7cfe8bfead35f8401241eb367f8",
   "hero_image": {
-    "src": "/images/glossary/curators/harold-koda-costume-curation-collection-display-portrait-ai-v2.png",
+    "src": "/images/glossary/curators/harold-koda-costume-curation-collection-display-portrait-ai-v2.webp",
     "alt": "Редакционная AI-портретная иллюстрация автора",
     "caption": "AI-портретная реконструкция автора. Не является документальной фотографией.",
     "credit": "VANSMITHLAB · оригинальная AI-иллюстрация, 2026",
@@ -86,6 +86,28 @@
     "alt_text": "Редакционная AI-портретная иллюстрация автора",
     "rights_state": "original_owned",
     "licence_or_permission": "Оригинальная AI-иллюстрация VANSMITHLAB; не документальная фотография.",
-    "source_url": ""
+    "source_url": "",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
+  },
+  "portrait_image": {
+    "src": "/images/profile-portraits/harold-koda-costume-curation-collection-display-portrait-ai-reconstruction-v1.webp",
+    "credit": "VANSMITHLAB · AI reconstruction from reviewed public reference imagery, 2026",
+    "origin": "ai_reconstruction",
+    "rights_status": "ai_generated",
+    "licence": "VANSMITHLAB original AI reconstruction",
+    "licence_url": "https://vansmithlab.com/ru/method/",
+    "source_url": "https://fashionresearchlibrary.com/board",
+    "reference_url": "https://cdn.sanity.io/images/tyoriz7n/production/b74f6a0528c0f19c106f89940a997ec85b3d4c9d-2730x3204.jpg?rect=0,510,2730,2184&w=1200&h=960&sat=-100&auto=format",
+    "access_date": "2026-08-20",
+    "disclosure": "ИИ-реконструкция внешности на основе проверенного публичного фотографического референса; не архивная фотография.",
+    "asset_id": "ast_426701ccb44c7059",
+    "content_hash": "426701ccb44c7059b847415102f411f4b1903bba0a43255038fecc4f4ecaa9ee",
+    "storage_key": "public/images/profile-portraits/harold-koda-costume-curation-collection-display-portrait-ai-reconstruction-v1.webp",
+    "width": 900,
+    "height": 1125,
+    "alt": "Портрет Гарольд Кода",
+    "caption": "ИИ-реконструкция портрета Гарольд Кода по публичному фотографическому референсу."
   }
 }

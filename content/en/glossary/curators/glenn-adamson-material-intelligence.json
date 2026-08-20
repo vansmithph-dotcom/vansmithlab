@@ -33,5 +33,41 @@
   "role": [
     "curator"
   ],
-  "body_hash": "59fcc397c2535a6ec43fc6354d8d202cf6dbbfd617699642bc400d11077fd80d"
+  "body_hash": "59fcc397c2535a6ec43fc6354d8d202cf6dbbfd617699642bc400d11077fd80d",
+  "hero_image": {
+    "src": "/images/generated-heroes/glossary--glenn-adamson-material-intelligence.webp",
+    "alt": "Glenn Adamson — a unique editorial AI illustration visualizing the article's subject.",
+    "caption": "Original VANSMITHLAB editorial AI illustration for “Glenn Adamson”. Craft as a form of knowledge rather than a category of handmade objects.",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "ai_generated",
+    "licence_or_permission": "Original VANSMITHLAB AI illustration; owned editorial asset.",
+    "source_url": "",
+    "asset_id": "hero_glossary_glenn-adamson-material-intelligence",
+    "content_hash": "e4392593c3bdfa4d6af3f7c94a02b775cc516dcf9abffe0fc29c2fef409fb7ef",
+    "storage_key": "/images/generated-heroes/glossary--glenn-adamson-material-intelligence.webp",
+    "created_at": "2026-08-20T12:58:14.836Z",
+    "locale": "en",
+    "disclosure": "AI-generated editorial illustration; not documentary evidence.",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
+  },
+  "portrait_image": {
+    "src": "/images/profile-portraits/glenn-adamson-material-intelligence-portrait-wikimedia-v1.webp",
+    "credit": "Ahmet Düz, Dreiländer- & Oberrheinfotograf / Wikimedia Commons · CC BY-SA 4.0",
+    "origin": "wikimedia_commons",
+    "rights_status": "cc_by_sa",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:2024-09-20_Nike_Vernissage_VDM_012.jpg",
+    "access_date": "2026-08-20",
+    "asset_id": "ast_c7b57fb5a36a0650",
+    "content_hash": "c7b57fb5a36a0650831901d8d7e8f3f29a35e2567d11ff5bf07bc9d369e7397d",
+    "storage_key": "public/images/profile-portraits/glenn-adamson-material-intelligence-portrait-wikimedia-v1.webp",
+    "width": 900,
+    "height": 1125,
+    "alt": "Portrait of Glenn Adamson",
+    "caption": "Portrait of Glenn Adamson. Source: Wikimedia Commons."
+  }
 }

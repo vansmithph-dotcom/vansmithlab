@@ -15,7 +15,7 @@
     "clm_carlton-bookcase_impact",
     "clm_carlton-bookcase_today",
     "clm_carlton-bookcase_tl_1981",
-    "clm_carlton-bookcase_tl_1981"
+    "clm_carlton-bookcase_tl_1981_02"
   ],
   "source_ids": [
     "src_carlton-bookcase_01",
@@ -41,5 +41,24 @@
     "translated_by": "VANSMITHLAB",
     "semantic_validated": true,
     "translation_date": "2026-08-18"
+  },
+  "hero_image": {
+    "src": "/images/generated-heroes/encyclopedia--carlton-bookcase.webp",
+    "alt": "Carlton — a unique editorial AI illustration visualizing the article's subject.",
+    "caption": "Original VANSMITHLAB editorial AI illustration for “Carlton”. Memphis: furniture as sign, colour and refusal of neutrality",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "ai_generated",
+    "licence_or_permission": "Original VANSMITHLAB AI illustration; owned editorial asset.",
+    "source_url": "",
+    "asset_id": "hero_encyclopedia_carlton-bookcase",
+    "content_hash": "22ce6d3872605919b6edce82b0cfc2d4e6d84af1a40fa33b168df5283fe7b5cb",
+    "storage_key": "/images/generated-heroes/encyclopedia--carlton-bookcase.webp",
+    "created_at": "2026-08-20T11:00:08.127Z",
+    "locale": "en",
+    "disclosure": "AI-generated editorial illustration; not documentary evidence.",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
   }
 }

@@ -33,5 +33,43 @@
   "role": [
     "curator"
   ],
-  "body_hash": "3fdf14f90aeebc2df6f25bad72ba068773557e79a9806e2a4fbf21af41fb3dfe"
+  "body_hash": "3fdf14f90aeebc2df6f25bad72ba068773557e79a9806e2a4fbf21af41fb3dfe",
+  "hero_image": {
+    "src": "/images/generated-heroes/glossary--alexandra-munroe-transnational-museum-strategy.webp",
+    "alt": "Александра Монро — уникальная редакционная AI-иллюстрация, визуализирующая тему материала.",
+    "caption": "Оригинальная редакционная AI-иллюстрация VANSMITHLAB для материала «Александра Монро». Кураторская работа, переписывающая историю искусства через включение того, что канон оставил вне себя.",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "ai_generated",
+    "licence_or_permission": "Оригинальная AI-иллюстрация VANSMITHLAB; редакционный актив в собственности проекта.",
+    "source_url": "",
+    "asset_id": "hero_glossary_alexandra-munroe-transnational-museum-strategy",
+    "content_hash": "535e4b7b920a8db3d928e0f260a82381603605d941da93103f1a402f4130e850",
+    "storage_key": "/images/generated-heroes/glossary--alexandra-munroe-transnational-museum-strategy.webp",
+    "created_at": "2026-08-20T13:00:02.752Z",
+    "locale": "ru",
+    "disclosure": "Редакционная иллюстрация сгенерирована ИИ и не является документальным свидетельством.",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
+  },
+  "portrait_image": {
+    "src": "/images/profile-portraits/alexandra-munroe-transnational-museum-strategy-portrait-ai-reconstruction-v1.webp",
+    "credit": "VANSMITHLAB · AI reconstruction from reviewed public reference imagery, 2026",
+    "origin": "ai_reconstruction",
+    "rights_status": "ai_generated",
+    "licence": "VANSMITHLAB original AI reconstruction",
+    "licence_url": "https://vansmithlab.com/ru/method/",
+    "source_url": "https://news.artnet.com/art-world/theater-of-the-world-curator-alexandra-munroe-interview-part-two-1101953",
+    "reference_url": "https://gagosian.com/media/images/quarterly/issues/6Z8adHDmoZbM_4800x4800.jpg",
+    "access_date": "2026-08-20",
+    "disclosure": "ИИ-реконструкция внешности на основе проверенного публичного фотографического референса; не архивная фотография.",
+    "asset_id": "ast_fe9bd4d51eac0c81",
+    "content_hash": "fe9bd4d51eac0c8128d73e2502438588f799e2d72ca8cd440f6fe656b6c94e8d",
+    "storage_key": "public/images/profile-portraits/alexandra-munroe-transnational-museum-strategy-portrait-ai-reconstruction-v1.webp",
+    "width": 900,
+    "height": 1125,
+    "alt": "Портрет Александра Монро",
+    "caption": "ИИ-реконструкция портрета Александра Монро по публичному фотографическому референсу."
+  }
 }

@@ -75,9 +75,9 @@
   "role": [
     "industrial-designer"
   ],
-  "body_hash": "9971e7d18ff9ed1e54346b61da6956e9d6535314ee6b187814de62a3d5d90b20",
+  "body_hash": "d5a68a87dae7abc1045b519929e56c5e70ffb74e8248cc44b32491772986b24b",
   "hero_image": {
-    "src": "/images/glossary/industrial-designers/jean-prouve-structure-industry-constructeur-portrait-ai-v2.png",
+    "src": "/images/glossary/industrial-designers/jean-prouve-structure-industry-constructeur-portrait-ai-v2.webp",
     "alt": "Редакционная AI-портретная иллюстрация автора",
     "caption": "AI-портретная реконструкция автора. Не является документальной фотографией.",
     "credit": "VANSMITHLAB · оригинальная AI-иллюстрация, 2026",
@@ -85,6 +85,26 @@
     "alt_text": "Редакционная AI-портретная иллюстрация автора",
     "rights_state": "original_owned",
     "licence_or_permission": "Оригинальная AI-иллюстрация VANSMITHLAB; не документальная фотография.",
-    "source_url": ""
+    "source_url": "",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
+  },
+  "portrait_image": {
+    "src": "/images/profile-portraits/jean-prouve-structure-industry-constructeur-portrait-wikimedia-v1.webp",
+    "credit": "Rob Croes for Anefo / Wikimedia Commons · CC0",
+    "origin": "wikimedia_commons",
+    "rights_status": "cc0",
+    "licence": "CC0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Jean_Prouv%C3%A9_(1981).jpg",
+    "access_date": "2026-08-20",
+    "asset_id": "ast_04a88ae405546470",
+    "content_hash": "04a88ae4055464705c6cba1f73518197b5bb88441adaefbefae2f5c23bd3ff0e",
+    "storage_key": "public/images/profile-portraits/jean-prouve-structure-industry-constructeur-portrait-wikimedia-v1.webp",
+    "width": 900,
+    "height": 1125,
+    "alt": "Портрет Жан Пруве",
+    "caption": "Портрет Жан Пруве. Источник: Wikimedia Commons."
   }
 }

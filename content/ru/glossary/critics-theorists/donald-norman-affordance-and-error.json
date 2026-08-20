@@ -33,5 +33,41 @@
   "role": [
     "critic-theorist"
   ],
-  "body_hash": "4a3a7618dff5ba4f8d1744b02831718502ab7583a988477f85242741835199db"
+  "body_hash": "4a3a7618dff5ba4f8d1744b02831718502ab7583a988477f85242741835199db",
+  "hero_image": {
+    "src": "/images/generated-heroes/glossary--donald-norman-affordance-and-error.webp",
+    "alt": "Дональд Норман — уникальная редакционная AI-иллюстрация, визуализирующая тему материала.",
+    "caption": "Оригинальная редакционная AI-иллюстрация VANSMITHLAB для материала «Дональд Норман». Ошибка пользователя как дефект проекта, а не как свойство пользователя.",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "ai_generated",
+    "licence_or_permission": "Оригинальная AI-иллюстрация VANSMITHLAB; редакционный актив в собственности проекта.",
+    "source_url": "",
+    "asset_id": "hero_glossary_donald-norman-affordance-and-error",
+    "content_hash": "7b9ed69a8a718f5cd6284b4374e91451af487e8a1c59c24c8ac92a6b39fbe7a0",
+    "storage_key": "/images/generated-heroes/glossary--donald-norman-affordance-and-error.webp",
+    "created_at": "2026-08-20T12:51:11.490Z",
+    "locale": "ru",
+    "disclosure": "Редакционная иллюстрация сгенерирована ИИ и не является документальным свидетельством.",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
+  },
+  "portrait_image": {
+    "src": "/images/profile-portraits/donald-norman-affordance-and-error-portrait-wikimedia-v1.webp",
+    "credit": "jordanfischer / Wikimedia Commons · CC BY 2.0",
+    "origin": "wikimedia_commons",
+    "rights_status": "cc_by",
+    "licence": "CC BY 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Donald_Norman_at_AWF05.jpg",
+    "access_date": "2026-08-20",
+    "asset_id": "ast_6813f5c592eab8af",
+    "content_hash": "6813f5c592eab8af32dad90a28a8e370fe9b9a043db175f596fac3f586da932b",
+    "storage_key": "public/images/profile-portraits/donald-norman-affordance-and-error-portrait-wikimedia-v1.webp",
+    "width": 900,
+    "height": 1125,
+    "alt": "Портрет Дональд Норман",
+    "caption": "Портрет Дональд Норман. Источник: Wikimedia Commons."
+  }
 }

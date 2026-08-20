@@ -31,5 +31,24 @@
   ],
   "kind": "organization",
   "role": [],
-  "body_hash": "2d88c4c0ddf5f0ffeeae7ef80ae92343908f048fd6841827152d2aa9c0c0156b"
+  "body_hash": "2d88c4c0ddf5f0ffeeae7ef80ae92343908f048fd6841827152d2aa9c0c0156b",
+  "hero_image": {
+    "src": "/images/generated-heroes/encyclopedia--controlnet-controlled-generation.webp",
+    "alt": "ControlNet и управляемая генерация — уникальная редакционная AI-иллюстрация, визуализирующая тему материала.",
+    "caption": "Оригинальная редакционная AI-иллюстрация VANSMITHLAB для материала «ControlNet и управляемая генерация». Генеративная модель получает пространственное условие — позу, контур или глубину — и перестаёт быть лотереей.",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "ai_generated",
+    "licence_or_permission": "Оригинальная AI-иллюстрация VANSMITHLAB; редакционный актив в собственности проекта.",
+    "source_url": "",
+    "asset_id": "hero_encyclopedia_controlnet-controlled-generation",
+    "content_hash": "cee6791570c352ab939e9c313d05b9d440f3ba7c9dc4e52a17a344b2e1b2107b",
+    "storage_key": "/images/generated-heroes/encyclopedia--controlnet-controlled-generation.webp",
+    "created_at": "2026-08-20T11:12:08.453Z",
+    "locale": "ru",
+    "disclosure": "Редакционная иллюстрация сгенерирована ИИ и не является документальным свидетельством.",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
+  }
 }

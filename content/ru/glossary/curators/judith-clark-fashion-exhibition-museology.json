@@ -36,5 +36,43 @@
   "source_ids": [
     "src_646708b4e691cce6",
     "src_3e3274541db6e02f"
-  ]
+  ],
+  "hero_image": {
+    "src": "/images/generated-heroes/glossary--judith-clark-fashion-exhibition-museology.webp",
+    "alt": "Джудит Кларк — уникальная редакционная AI-иллюстрация, визуализирующая тему материала.",
+    "caption": "Оригинальная редакционная AI-иллюстрация VANSMITHLAB для материала «Джудит Кларк». Выставка как устройство мышления: мода, пространство, масштаб и музейная критика",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "ai_generated",
+    "licence_or_permission": "Оригинальная AI-иллюстрация VANSMITHLAB; редакционный актив в собственности проекта.",
+    "source_url": "",
+    "asset_id": "hero_glossary_judith-clark-fashion-exhibition-museology",
+    "content_hash": "c5f753ef4d803424358355a5cebc86e89b734ebefe6428b3f399b7e648c0926d",
+    "storage_key": "/images/generated-heroes/glossary--judith-clark-fashion-exhibition-museology.webp",
+    "created_at": "2026-08-20T13:01:48.936Z",
+    "locale": "ru",
+    "disclosure": "Редакционная иллюстрация сгенерирована ИИ и не является документальным свидетельством.",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
+  },
+  "portrait_image": {
+    "src": "/images/profile-portraits/judith-clark-fashion-exhibition-museology-portrait-ai-reconstruction-v1.webp",
+    "credit": "VANSMITHLAB · AI reconstruction from reviewed public reference imagery, 2026",
+    "origin": "ai_reconstruction",
+    "rights_status": "ai_generated",
+    "licence": "VANSMITHLAB original AI reconstruction",
+    "licence_url": "https://vansmithlab.com/ru/method/",
+    "source_url": "https://www.thenationalnews.com/lifestyle/luxury/2025/04/15/judith-clark-curator-loro-piana-shanghai-museum-of-art-pudong/",
+    "reference_url": "https://cloudfront-eu-central-1.images.arcpublishing.com/thenational/VOJ6HLLXIVFFBHBH2D3RECMRE4.jpg",
+    "access_date": "2026-08-20",
+    "disclosure": "ИИ-реконструкция внешности на основе проверенного публичного фотографического референса; не архивная фотография.",
+    "asset_id": "ast_80865d8bee8026b7",
+    "content_hash": "80865d8bee8026b766c27386b41fa856ed82aa8fad52c952be73e1e9fa27e934",
+    "storage_key": "public/images/profile-portraits/judith-clark-fashion-exhibition-museology-portrait-ai-reconstruction-v1.webp",
+    "width": 900,
+    "height": 1125,
+    "alt": "Портрет Джудит Кларк",
+    "caption": "ИИ-реконструкция портрета Джудит Кларк по публичному фотографическому референсу."
+  }
 }

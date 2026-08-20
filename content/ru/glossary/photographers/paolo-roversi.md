@@ -46,8 +46,6 @@
 
 Роверси использовал листовой Polaroid как тест и как финальное произведение. Непредсказуемый цвет, химические дефекты и невозможность полного контроля стали частью авторского языка, который критики иногда называют Paoloroid.
 
-placement: after-sectionformat: inline 4:5caption_required: yesalt_required: yesrights: permission-required
-
 ## 8. Длинная выдержка
 
 Длинная выдержка допускает минимальное движение, мягкость и след времени внутри изображения. Для Роверси это не ошибка резкости, а способ позволить портрету появиться постепенно.
@@ -76,8 +74,6 @@ placement: after-sectionformat: inline 4:5caption_required: yesalt_required: yes
 
 Сотрудничество с Rei Kawakubo стало одним из ключевых диалогов его карьеры. Нестандартная конструкция одежды, чёрный цвет и отказ от классической красоты получили в его студии тихую, почти ритуальную форму.
 
-placement: after-sectionformat: inline 4:5caption_required: yesalt_required: yesrights: permission-required
-
 ## 14. Yohji Yamamoto
 
 Одежда Yamamoto требует времени и движения, но Роверси часто показывает её через неподвижную фигуру. Объём, тень и асимметрия превращаются в архитектуру портрета.
@@ -97,8 +93,6 @@ Vogue Italia предоставил пространство для авторс
 ## 18. Модель как соавтор присутствия
 
 Kirsten Owen, Guinevere van Seenus, Saskia de Brauw, Natalia Vodianova, Kate Moss и другие модели создавали разные типы напряжения. Их профессиональный труд заключается не только в позе, но и в способности выдерживать медленный ритм и психологическую открытость.
-
-placement: after-sectionformat: inline 4:5caption_required: yesalt_required: yesrights: permission-required
 
 ## 19. Цвет как живописная плотность
 
@@ -139,8 +133,6 @@ placement: after-sectionformat: inline 4:5caption_required: yesalt_required: yes
 ## 27. Doubts, 2026
 
 Выставка Doubts в MOP Foundation проходит с 20 июня по 20 сентября 2026 года. Название связывает сомнение с открытостью творчества и объединяет известные и ранее не показанные работы.
-
-placement: after-sectionformat: inline 4:5caption_required: yesalt_required: yesrights: permission-required
 
 ## 28. Студийный труд
 

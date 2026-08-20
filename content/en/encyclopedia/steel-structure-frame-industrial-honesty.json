@@ -29,12 +29,31 @@
   ],
   "kind": "material-technique",
   "role": [],
-  "body_hash": "7a17d42dc03deb62fdf327b64840d5c10f6a92518c28302a624ddfe1833d0e5c",
+  "body_hash": "98aa0a5702dd17023d63a28baa6c487f7310e190bb6dadc33d10229530a19bc2",
   "translation": {
     "semantic_validated": true
   },
   "source_ids": [
     "src_mat_worldsteel",
     "src_mat_worldsteel_facts"
-  ]
+  ],
+  "hero_image": {
+    "src": "/images/generated-heroes/encyclopedia--steel-structure-frame-industrial-honesty.webp",
+    "alt": "Steel — a unique editorial AI illustration visualizing the article's subject.",
+    "caption": "Original VANSMITHLAB editorial AI illustration for “Steel”. Metal: structure, frame, rolled section, joint and industrial honesty.",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "ai_generated",
+    "licence_or_permission": "Original VANSMITHLAB AI illustration; owned editorial asset.",
+    "source_url": "",
+    "asset_id": "hero_encyclopedia_steel-structure-frame-industrial-honesty",
+    "content_hash": "4ca79155091c2b11510b51ab01030c45ce67c1f161dd127ecba5819738e76be5",
+    "storage_key": "/images/generated-heroes/encyclopedia--steel-structure-frame-industrial-honesty.webp",
+    "created_at": "2026-08-20T12:25:03.678Z",
+    "locale": "en",
+    "disclosure": "AI-generated editorial illustration; not documentary evidence.",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
+  }
 }

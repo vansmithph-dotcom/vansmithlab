@@ -1,7 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { TrustPanel } from "@/components/TrustPanel";
 import { listContent } from "@/lib/content";
 import { copy, isLocale } from "@/lib/site-data";
 import { ROLES } from "@/lib/taxonomy";
@@ -52,7 +51,6 @@ export default async function GlossaryPage({ params }: { params: Promise<{ local
           <h1>{page.title}</h1>
           <p>{page.text}</p>
         </div>
-        <TrustPanel locale={locale} />
       </div>
 
       <div className="listing-header">

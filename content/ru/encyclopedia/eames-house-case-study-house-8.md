@@ -139,5 +139,5 @@ Case Study House №8, более известный как Eames House, был 
 ## По теме
 
 - [Eames Lounge Chair](/ru/encyclopedia/eames-lounge-chair) — Формованная фанера, комфорт и послевоенная роскошь.
-- [Vitra Campus как энциклопедия архитектуры и предмета](/ru/encyclopedia/vitra-campus-architecture-object-encyclopedia) — Производственная площадка, где фабрика, музей, пожарная часть, павильоны и ландшафт образуют многоле.
+- [Vitra Campus как энциклопедия архитектуры и предмета](/ru/encyclopedia/vitra-campus-architecture-object-encyclopedia) — Производственная площадка, где фабрика, музей, пожарная часть, павильоны и ландшафт образуют многолетнюю коллекцию архитектурных методов.
 - [Дом — как дизайн организует повседневный ритуал](/ru/encyclopedia/house-design-organizes-everyday-ritual) — Типология жилья как система маршрутов, приватности, хранения, света и повторяющихся действий.

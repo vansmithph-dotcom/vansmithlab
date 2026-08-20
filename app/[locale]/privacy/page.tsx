@@ -1,6 +1,5 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
-import { TrustPanel } from "@/components/TrustPanel";
 import { isLocale } from "@/lib/site-data";
 
 export async function generateStaticParams() {
@@ -64,7 +63,6 @@ export default async function PrivacyPage({ params }: { params: Promise<{ locale
           <h1>{locale === "ru" ? "Политика конфиденциальности" : "Privacy Policy"}</h1>
           <p>{page.intro}</p>
         </div>
-        <TrustPanel locale={locale} />
       </div>
       <div className="article-copy" style={{ maxWidth: 760, paddingTop: 40 }}>
         {page.sections.map((section) => (

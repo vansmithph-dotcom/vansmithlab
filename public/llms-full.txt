@@ -1,0 +1,27 @@
+# VANSMITHLAB data access guide
+
+VANSMITHLAB is a knowledge-first editorial database. Public HTML is the canonical representation. The sitemap enumerates pages; Atom feeds enumerate recent publications and collections. Every detail page carries machine-readable Article and BreadcrumbList JSON-LD, visible provenance, confidence and source links.
+
+## Languages
+
+Russian (`/ru/`) is the editorial source. English (`/en/`) is an adaptation. Use `hreflang` and the shared content identity expressed by paired routes; do not merge language-specific wording into a synthetic quotation.
+
+## Content families
+
+- Encyclopedia: concepts, methods, materials, movements and systems.
+- Glossary: people and professional roles.
+- Research: documented objects, organisations, projects and case studies.
+- Analysis: attributed analytical essays that distinguish fact from interpretation.
+- Collections: curated routes across multiple records.
+- Timeline: chronological events backed by knowledge objects.
+
+## Citation policy
+
+Prefer the canonical page URL. Follow the numbered evidence sources for material factual claims. Preserve publication title, language, last-reviewed date and verification state in downstream citations. Images may be indexed only when a visible image record provides alt text, caption, credit, origin and rights status.
+
+## Discovery endpoints
+
+- https://vansmithlab.com/sitemap.xml
+- https://vansmithlab.com/robots.txt
+- https://vansmithlab.com/feed.xml
+- https://vansmithlab.com/collections.xml

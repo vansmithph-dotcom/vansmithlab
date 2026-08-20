@@ -35,5 +35,43 @@
   "source_ids": [
     "src_7a54dbfeb7c8be94",
     "src_5ed2f98a0b9ebd52"
-  ]
+  ],
+  "hero_image": {
+    "src": "/images/generated-heroes/glossary--camilla-nickerson-styling-character-fashion-image.webp",
+    "alt": "Камилла Никерсон — уникальная редакционная AI-иллюстрация, визуализирующая тему материала.",
+    "caption": "Оригинальная редакционная AI-иллюстрация VANSMITHLAB для материала «Камилла Никерсон». Стилист как редактор характера: от британских журналов до Vogue и мировых кампаний",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "ai_generated",
+    "licence_or_permission": "Оригинальная AI-иллюстрация VANSMITHLAB; редакционный актив в собственности проекта.",
+    "source_url": "",
+    "asset_id": "hero_glossary_camilla-nickerson-styling-character-fashion-image",
+    "content_hash": "5889c93749602bf64b0f1d78aa4d32f97f7baf28098e93c88dc3e7fb37c1a456",
+    "storage_key": "/images/generated-heroes/glossary--camilla-nickerson-styling-character-fashion-image.webp",
+    "created_at": "2026-08-20T13:26:47.589Z",
+    "locale": "ru",
+    "disclosure": "Редакционная иллюстрация сгенерирована ИИ и не является документальным свидетельством.",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
+  },
+  "portrait_image": {
+    "src": "/images/profile-portraits/camilla-nickerson-styling-character-fashion-image-portrait-ai-reconstruction-v1.webp",
+    "credit": "VANSMITHLAB · AI reconstruction from reviewed public reference imagery, 2026",
+    "origin": "ai_reconstruction",
+    "rights_status": "ai_generated",
+    "licence": "VANSMITHLAB original AI reconstruction",
+    "licence_url": "https://vansmithlab.com/ru/method/",
+    "source_url": "https://www.businessoffashion.com/people/camilla-nickerson/",
+    "reference_url": "https://img.businessoffashion.com/resizer/v2/https%3A%2F%2Fprod-bof-media.s3.eu-west-1.amazonaws.com%2Fimport%2Fprofiles%2Fasset%2F74%2Fd463c1a1c7231849bc1daf3858462db8f32c42ed.jpeg?auth=c3cef05c9bd7ff3656e9c88b4abe8462ed9cbdbed1a7e49f64c4100747aa5bd6&height=1200&smart=true&width=1200",
+    "access_date": "2026-08-20",
+    "disclosure": "ИИ-реконструкция внешности на основе проверенного публичного фотографического референса; не архивная фотография.",
+    "asset_id": "ast_40f23ff7a193f35d",
+    "content_hash": "40f23ff7a193f35d037e038f67f01049b1af67a9f58dc636204be0e94c1c49f7",
+    "storage_key": "public/images/profile-portraits/camilla-nickerson-styling-character-fashion-image-portrait-ai-reconstruction-v1.webp",
+    "width": 900,
+    "height": 1125,
+    "alt": "Портрет Камилла Никерсон",
+    "caption": "ИИ-реконструкция портрета Камилла Никерсон по публичному фотографическому референсу."
+  }
 }

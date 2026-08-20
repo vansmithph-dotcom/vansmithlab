@@ -33,5 +33,43 @@
   "role": [
     "curator"
   ],
-  "body_hash": "5d297a622576fbcaf441fff0cbbf238b7cddc26637e65609778e143b684b063e"
+  "body_hash": "5d297a622576fbcaf441fff0cbbf238b7cddc26637e65609778e143b684b063e",
+  "hero_image": {
+    "src": "/images/generated-heroes/glossary--zoe-ryan-curating-design-in-the-institution.webp",
+    "alt": "Zoë Ryan — a unique editorial AI illustration visualizing the article's subject.",
+    "caption": "Original VANSMITHLAB editorial AI illustration for “Zoë Ryan”. Curating architecture and design as an institution’s programmatic work rather than as a series of individual exhibitions.",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "ai_generated",
+    "licence_or_permission": "Original VANSMITHLAB AI illustration; owned editorial asset.",
+    "source_url": "",
+    "asset_id": "hero_glossary_zoe-ryan-curating-design-in-the-institution",
+    "content_hash": "0ba2829cf511e3a0a5bf7a70a5dc8106f9c1fa285077c079ce76ba7001a075e2",
+    "storage_key": "/images/generated-heroes/glossary--zoe-ryan-curating-design-in-the-institution.webp",
+    "created_at": "2026-08-20T13:02:28.255Z",
+    "locale": "en",
+    "disclosure": "AI-generated editorial illustration; not documentary evidence.",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
+  },
+  "portrait_image": {
+    "src": "/images/profile-portraits/zoe-ryan-curating-design-in-the-institution-portrait-ai-reconstruction-v1.webp",
+    "credit": "VANSMITHLAB · AI reconstruction from reviewed public reference imagery, 2026",
+    "origin": "ai_reconstruction",
+    "rights_status": "ai_generated",
+    "licence": "VANSMITHLAB original AI reconstruction",
+    "licence_url": "https://vansmithlab.com/en/method/",
+    "source_url": "https://penntoday.upenn.edu/news/zoe-ryan-appointed-director-institute-contemporary-art",
+    "reference_url": "https://penntoday.upenn.edu/sites/default/files/2020-08/ZR%20headshot%20Aug%202020_SOCIAL%20credit%20Clare%20Britt.jpg",
+    "access_date": "2026-08-20",
+    "disclosure": "AI reconstruction of the subject based on a reviewed public photographic reference; not an archival photograph.",
+    "asset_id": "ast_616b61fbd3063dab",
+    "content_hash": "616b61fbd3063dab65fee96d21690c9e9d41f5e6b600271da687f14dbdf727dd",
+    "storage_key": "public/images/profile-portraits/zoe-ryan-curating-design-in-the-institution-portrait-ai-reconstruction-v1.webp",
+    "width": 900,
+    "height": 1125,
+    "alt": "Portrait of Zoë Ryan",
+    "caption": "AI portrait reconstruction of Zoë Ryan from a public photographic reference."
+  }
 }

@@ -29,12 +29,31 @@
   ],
   "kind": "material-technique",
   "role": [],
-  "body_hash": "9f576919ed735fd9f00b87bf02d17205f0e0416607200185750fd2cadc60e111",
+  "body_hash": "21849c6be0ef274b87bba9110bea01ef92c5f71f898b50ef94b339836878ee0e",
   "translation": {
     "semantic_validated": true
   },
   "source_ids": [
     "src_mat_woolmark",
     "src_mat_nsi_library"
-  ]
+  ],
+  "hero_image": {
+    "src": "/images/generated-heroes/encyclopedia--wool-warmth-crimp-felt-suit-tactility.webp",
+    "alt": "Wool — a unique editorial AI illustration visualizing the article's subject.",
+    "caption": "Original VANSMITHLAB editorial AI illustration for “Wool”. Textiles: warmth, fibre crimp, drape, suit, felt and tactile memory.",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "ai_generated",
+    "licence_or_permission": "Original VANSMITHLAB AI illustration; owned editorial asset.",
+    "source_url": "",
+    "asset_id": "hero_encyclopedia_wool-warmth-crimp-felt-suit-tactility",
+    "content_hash": "0a5d6761e347f273af917a07951b45564e9b3d1d50badb16e6286c35a75f4811",
+    "storage_key": "/images/generated-heroes/encyclopedia--wool-warmth-crimp-felt-suit-tactility.webp",
+    "created_at": "2026-08-20T12:47:39.201Z",
+    "locale": "en",
+    "disclosure": "AI-generated editorial illustration; not documentary evidence.",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
+  }
 }

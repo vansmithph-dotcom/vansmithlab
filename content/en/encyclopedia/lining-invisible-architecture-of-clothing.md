@@ -140,5 +140,5 @@ Today the subject is best read not as a vocabulary list but as a chain of decisi
 
 - [Tailoring Construction — the Inner Architecture of the Jacket](/en/encyclopedia/tailoring-construction-inner-architecture-of-jacket) — Canvas, front, shoulder, sleeve, iron and balance as an invisible spatial system.
 - [The Suit — Constructing the Modern Social Body](/en/encyclopedia/suit-construction-of-modern-social-body) — Jacket and trousers as an architecture of proportion, behavior, gender, profession and power.
-- [Haute Couture — the Production System of High Fashion](/en/encyclopedia/haute-couture-production-system-of-high-fashion) — Not a luxury style but a regulated ecosystem of ateliers, handwork, fittings, calendar and public pr.
+- [Haute Couture — the Production System of High Fashion](/en/encyclopedia/haute-couture-production-system-of-high-fashion) — Not a luxury style but a regulated ecosystem of ateliers, handwork, fittings, calendar and public presentation.
 - [Silk](/en/encyclopedia/silk-properties-types-applications) — Properties, types, and applications.

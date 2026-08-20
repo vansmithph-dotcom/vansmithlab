@@ -1,0 +1,46 @@
+{
+  "asset_id": "asset_achille-castiglioni-curiosity-function-everyday-objects-portrait-ai-v2-card_record_v1",
+  "record_type": "asset_record",
+  "record_basis": "Generated as a replacement for a distorted profile-card portrait after visual QA.",
+  "asset_path": "public/images/glossary/industrial-designers/achille-castiglioni-curiosity-function-everyday-objects-portrait-ai-v2-card.webp",
+  "primary_object_id": "",
+  "content_release_id": "cnt_e08af0c5d0306556",
+  "kind": "image",
+  "origin": "ai_illustration",
+  "locale": "multilingual",
+  "educational_purpose": "Editorial portrait card for the profile of Achille Castiglioni.",
+  "may_depict": [
+    "Achille Castiglioni",
+    "the subject's professional context"
+  ],
+  "must_not_imply": [
+    "The image is an archival or documentary photograph",
+    "The depicted setting documents a specific historical event"
+  ],
+  "rights": {
+    "state": "generated_reviewed",
+    "disclosure": "Original VANSMITHLAB AI-generated editorial illustration, 2026.",
+    "rights_basis": "Original AI visual generated for VANSMITHLAB; no third-party image is reproduced.",
+    "third_party_marks": "None requested; output visually reviewed for text, logos and watermarks."
+  },
+  "accessibility": {
+    "alt_text_en": "Editorial portrait illustration: Achille Castiglioni",
+    "alt_text_ru": "Редакционная портретная иллюстрация: Achille Castiglioni",
+    "caption_en": "Editorial AI portrait reconstruction of Achille Castiglioni. Not a documentary photograph.",
+    "caption_ru": "Редакционная AI-реконструкция портрета Achille Castiglioni. Не является документальной фотографией."
+  },
+  "file": {
+    "path": "public/images/glossary/industrial-designers/achille-castiglioni-curiosity-function-everyday-objects-portrait-ai-v2-card.webp",
+    "sha256": "16c880eba4479aaa088c9d96bfad964a61cf3b36a3385dd2fe5123a8b14fafcc",
+    "bytes": 209958,
+    "format": "webp",
+    "width": 1536,
+    "height": 1024
+  },
+  "generation": {
+    "tool": "OpenAI built-in image generation",
+    "prompt": "A historically and professionally contextualized editorial portrait reconstruction of Achille Castiglioni; horizontal 3:2; subject safely centered with full head, shoulders and hands; generous crop margins; natural anatomy; no text, logo, watermark or diagram.",
+    "generated_at": "2026-08-20",
+    "note": "Individually generated and visually reviewed before attachment."
+  }
+}

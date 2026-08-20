@@ -141,4 +141,4 @@ Atelier flou использует форму для мягкой драпиро�
 - [Выкройка — перевод трёхмерного тела в плоскость](/ru/encyclopedia/pattern-translating-three-dimensional-body-to-plane) — Геометрический интерфейс между фигурой, дизайнерским замыслом и раскроем материала.
 - [Портновская конструкция — внутренняя архитектура жакета](/ru/encyclopedia/tailoring-construction-inner-architecture-of-jacket) — Канва, борт, плечо, рукав, утюг и баланс как невидимая пространственная система.
 - [Драпировка](/ru/encyclopedia/draping-soft-construction) — Создание формы без жёсткой конструкции.
-- [Высокая мода — производственная система haute couture](/ru/encyclopedia/haute-couture-production-system-of-high-fashion) — Не стиль роскоши, а регулируемая экосистема ателье, ручного труда, примерок, календаря и публичного .
+- [Высокая мода — производственная система haute couture](/ru/encyclopedia/haute-couture-production-system-of-high-fashion) — Не стиль роскоши, а регулируемая экосистема ателье, ручного труда, примерок, календаря и публичного показа.

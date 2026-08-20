@@ -1,6 +1,7 @@
 export const siteUrl = "https://vansmithlab.com";
 export const organizationId = `${siteUrl}/#organization`;
 export const websiteId = `${siteUrl}/#website`;
+export const pinterestUrl = "https://www.pinterest.com/van_smith_ai/";
 
 export const entityDescriptions = {
   ru: "VANSMITHLAB — независимая двуязычная энциклопедия дизайна и визуальной культуры: архитектуры, моды, искусства, фотографии, типографики, материалов и технологий.",
@@ -14,6 +15,7 @@ export const organizationStructuredData = {
   alternateName: "VAN SMITH LAB",
   url: `${siteUrl}/`,
   description: entityDescriptions.en,
+  sameAs: [pinterestUrl],
   logo: {
     "@type": "ImageObject",
     url: `${siteUrl}/icon.svg`,
@@ -43,6 +45,7 @@ export function rootStructuredData() {
         url: `${siteUrl}/`,
         description: entityDescriptions.en,
         inLanguage: ["ru", "en"],
+        sameAs: [pinterestUrl],
         publisher: { "@id": organizationId },
       },
       organizationStructuredData,

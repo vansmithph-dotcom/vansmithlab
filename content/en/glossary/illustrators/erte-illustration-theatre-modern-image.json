@@ -6,7 +6,7 @@
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "unverified",
-  "confidence_score": 0.0,
+  "confidence_score": 0,
   "claim_ids": [],
   "source_ids": [
     "src_022a54884bf319ff",
@@ -48,7 +48,7 @@
   ],
   "body_hash": "f9ac32ad6a31e425d2bbee5761daffc47623cef9763c532afc7acc88b5a09286",
   "hero_image": {
-    "src": "/images/articles/erte-illustration-theatre-modern-image-hero-v1.png",
+    "src": "/images/articles/erte-illustration-theatre-modern-image-hero-v1.webp",
     "alt": "Editorial illustration of Erté and theatrical image",
     "alt_text": "Editorial illustration of Erté and theatrical image",
     "caption": "Original AI illustration in the spirit of Erté theatrical graphics; not a historical photograph.",
@@ -56,6 +56,26 @@
     "origin": "ai_illustration",
     "rights_state": "original_owned",
     "licence_or_permission": "Original AI illustration by VANSMITHLAB.",
-    "source_url": ""
+    "source_url": "",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
+  },
+  "portrait_image": {
+    "src": "/images/profile-portraits/erte-illustration-theatre-modern-image-portrait-wikimedia-v1.webp",
+    "credit": "Masterpiece Inc / Wikimedia Commons · CC BY-SA 4.0",
+    "origin": "wikimedia_commons",
+    "rights_status": "cc_by_sa",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Erte_(cropped).jpg",
+    "access_date": "2026-08-20",
+    "asset_id": "ast_e4f8f18b23201c20",
+    "content_hash": "e4f8f18b23201c200d98472e7e274bf07cd531f90488d973fdf7fe7aa1caeecc",
+    "storage_key": "public/images/profile-portraits/erte-illustration-theatre-modern-image-portrait-wikimedia-v1.webp",
+    "width": 900,
+    "height": 1125,
+    "alt": "Portrait of Erté",
+    "caption": "Portrait of Erté. Source: Wikimedia Commons."
   }
 }

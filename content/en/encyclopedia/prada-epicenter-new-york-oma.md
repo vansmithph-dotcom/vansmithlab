@@ -138,7 +138,7 @@ Today Prada Epicenter New York / OMA is best read in four passes: first route an
 
 ## See also
 
-- [The Boutique — Architecture of Luxury](/en/encyclopedia/boutique-architecture-of-luxury) — A small commercial space where rarity, service, and material precision shape the value of merchandis.
-- [The Concept Store — From Selling to Curating](/en/encyclopedia/concept-store-from-selling-to-curating) — Retail in which assortment, space, events, and editorial selection construct a single cultural posit.
-- [The Store — Commercial Space as a Visual System](/en/encyclopedia/store-space-of-commerce-as-visual-system) — How layout, display, light, graphics, and circulation turn merchandise into experience and purchase .
+- [The Boutique — Architecture of Luxury](/en/encyclopedia/boutique-architecture-of-luxury) — A small commercial space where rarity, service, and material precision shape the value of merchandise.
+- [The Concept Store — From Selling to Curating](/en/encyclopedia/concept-store-from-selling-to-curating) — Retail in which assortment, space, events, and editorial selection construct a single cultural position.
+- [The Store — Commercial Space as a Visual System](/en/encyclopedia/store-space-of-commerce-as-visual-system) — How layout, display, light, graphics, and circulation turn merchandise into experience and purchase decisions.
 - [The Museum — Route, Display, and the Management of Attention](/en/encyclopedia/museum-route-display-management-of-attention) — How architecture and exhibition design turn a collection into a sequence of encounters, comparisons,.

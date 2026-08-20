@@ -15,7 +15,7 @@
     "clm_606-universal-shelving-system_impact",
     "clm_606-universal-shelving-system_today",
     "clm_606-universal-shelving-system_tl_1960",
-    "clm_606-universal-shelving-system_tl_1960"
+    "clm_606-universal-shelving-system_tl_1960_02"
   ],
   "source_ids": [
     "src_606-universal-shelving-system_01",
@@ -35,11 +35,30 @@
     "object-space"
   ],
   "kind": "theme",
-  "body_hash": "59273444258096c6f4e3e43deb53d66740cc8ff8fc33b7b9e3665d95bc1b7b31",
+  "body_hash": "abfc5752c139303f119b6656c3b9875ca1b11b90c77829a0a254f1b275c186e7",
   "translation": {
     "source_locale": "ru",
     "translated_by": "VANSMITHLAB",
     "semantic_validated": true,
     "translation_date": "2026-08-18"
+  },
+  "hero_image": {
+    "src": "/images/generated-heroes/encyclopedia--606-universal-shelving-system.webp",
+    "alt": "606 Universal Shelving System — a unique editorial AI illustration visualizing the article's subject.",
+    "caption": "Original VANSMITHLAB editorial AI illustration for “606 Universal Shelving System”. Modularity, repairability and the long life of an object",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "ai_generated",
+    "licence_or_permission": "Original VANSMITHLAB AI illustration; owned editorial asset.",
+    "source_url": "",
+    "asset_id": "hero_encyclopedia_606-universal-shelving-system",
+    "content_hash": "39863ca47d2db7b6ec2f9a1c4244d485289c3d875936348078b9bb3be2cad726",
+    "storage_key": "/images/generated-heroes/encyclopedia--606-universal-shelving-system.webp",
+    "created_at": "2026-08-20T10:37:26.388Z",
+    "locale": "en",
+    "disclosure": "AI-generated editorial illustration; not documentary evidence.",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
   }
 }

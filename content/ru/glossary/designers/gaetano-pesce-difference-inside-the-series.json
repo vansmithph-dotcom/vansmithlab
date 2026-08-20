@@ -33,5 +33,41 @@
   "role": [
     "designer"
   ],
-  "body_hash": "131031b751a7cb27c2213764a562bb44348cc0b60d68182f30e65223aaa3ee53"
+  "body_hash": "131031b751a7cb27c2213764a562bb44348cc0b60d68182f30e65223aaa3ee53",
+  "hero_image": {
+    "src": "/images/generated-heroes/glossary--gaetano-pesce-difference-inside-the-series.webp",
+    "alt": "Гаэтано Пеше — уникальная редакционная AI-иллюстрация, визуализирующая тему материала.",
+    "caption": "Оригинальная редакционная AI-иллюстрация VANSMITHLAB для материала «Гаэтано Пеше». Промышленное производство, настроенное так, чтобы каждый экземпляр серии отличался от соседнего.",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "ai_generated",
+    "licence_or_permission": "Оригинальная AI-иллюстрация VANSMITHLAB; редакционный актив в собственности проекта.",
+    "source_url": "",
+    "asset_id": "hero_glossary_gaetano-pesce-difference-inside-the-series",
+    "content_hash": "a496e50c86ac7450d65c32fdfef5475e9b0ff66f581c502b59def730bcb8749f",
+    "storage_key": "/images/generated-heroes/glossary--gaetano-pesce-difference-inside-the-series.webp",
+    "created_at": "2026-08-20T13:03:36.874Z",
+    "locale": "ru",
+    "disclosure": "Редакционная иллюстрация сгенерирована ИИ и не является документальным свидетельством.",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
+  },
+  "portrait_image": {
+    "src": "/images/profile-portraits/gaetano-pesce-difference-inside-the-series-portrait-wikimedia-v1.webp",
+    "credit": "GSAPPstudent / Wikimedia Commons · CC BY-SA 4.0",
+    "origin": "wikimedia_commons",
+    "rights_status": "cc_by_sa",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Gaetano_Pesce_Lectures_at_Columbia_GSAPP_(cropped).jpg",
+    "access_date": "2026-08-20",
+    "asset_id": "ast_342a74a43745abf6",
+    "content_hash": "342a74a43745abf689f4f1e23fa9d9be3437b487026dd9acac9891d212594699",
+    "storage_key": "public/images/profile-portraits/gaetano-pesce-difference-inside-the-series-portrait-wikimedia-v1.webp",
+    "width": 900,
+    "height": 1125,
+    "alt": "Портрет Гаэтано Пеше",
+    "caption": "Портрет Гаэтано Пеше. Источник: Wikimedia Commons."
+  }
 }

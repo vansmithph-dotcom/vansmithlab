@@ -33,5 +33,41 @@
   "role": [
     "fashion-editor"
   ],
-  "body_hash": "8e62ac5e1bb15f80074e5d0b5107fd43d8a6ac31e87ab709c7459b5c51458bb9"
+  "body_hash": "8e62ac5e1bb15f80074e5d0b5107fd43d8a6ac31e87ab709c7459b5c51458bb9",
+  "hero_image": {
+    "src": "/images/generated-heroes/glossary--katie-grand-independent-fashion-publishing.webp",
+    "alt": "Кэти Гранд — уникальная редакционная AI-иллюстрация, визуализирующая тему материала.",
+    "caption": "Оригинальная редакционная AI-иллюстрация VANSMITHLAB для материала «Кэти Гранд». Независимое модное издание как способ работать быстрее и свободнее крупной редакционной сети.",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "ai_generated",
+    "licence_or_permission": "Оригинальная AI-иллюстрация VANSMITHLAB; редакционный актив в собственности проекта.",
+    "source_url": "",
+    "asset_id": "hero_glossary_katie-grand-independent-fashion-publishing",
+    "content_hash": "0f16c4649ae935e2bc7081c3b4b954dd8c6f42710e3816b3f58a3ea3105d1bae",
+    "storage_key": "/images/generated-heroes/glossary--katie-grand-independent-fashion-publishing.webp",
+    "created_at": "2026-08-20T13:13:34.708Z",
+    "locale": "ru",
+    "disclosure": "Редакционная иллюстрация сгенерирована ИИ и не является документальным свидетельством.",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
+  },
+  "portrait_image": {
+    "src": "/images/profile-portraits/katie-grand-independent-fashion-publishing-portrait-wikimedia-v1.webp",
+    "credit": "Conde Nast Russia / Wikimedia Commons · CC BY 3.0",
+    "origin": "wikimedia_commons",
+    "rights_status": "cc_by",
+    "licence": "CC BY 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Katie_Grand_in_Russia.jpg",
+    "access_date": "2026-08-20",
+    "asset_id": "ast_896283457c926300",
+    "content_hash": "896283457c92630088591767eedf0d8752f3587cdae57e90a5817573321f6acc",
+    "storage_key": "public/images/profile-portraits/katie-grand-independent-fashion-publishing-portrait-wikimedia-v1.webp",
+    "width": 900,
+    "height": 1125,
+    "alt": "Портрет Кэти Гранд",
+    "caption": "Портрет Кэти Гранд. Источник: Wikimedia Commons."
+  }
 }

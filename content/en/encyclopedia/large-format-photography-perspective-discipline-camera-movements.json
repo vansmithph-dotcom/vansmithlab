@@ -29,12 +29,31 @@
   ],
   "kind": "material-technique",
   "role": [],
-  "body_hash": "863c15a2dda2379f98ae653157c611812e302ef722cf94fb6798b5c6e5b2722f",
+  "body_hash": "880175c989e76d5700983ad30ea21747308e834d33ef8d7e79c54c6ecab065ed",
   "translation": {
     "semantic_validated": true
   },
   "source_ids": [
     "src_lfp_wikipedia",
     "src_lfp_emulsive"
-  ]
+  ],
+  "hero_image": {
+    "src": "/images/generated-heroes/encyclopedia--large-format-photography-perspective-discipline-camera-movements.webp",
+    "alt": "Large-format photography — a unique editorial AI illustration visualizing the article's subject.",
+    "caption": "Original VANSMITHLAB editorial AI illustration for “Large-format photography”. Photographic processes: large negative, perspective, camera movements, frame discipline and slow image-making.",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "ai_generated",
+    "licence_or_permission": "Original VANSMITHLAB AI illustration; owned editorial asset.",
+    "source_url": "",
+    "asset_id": "hero_encyclopedia_large-format-photography-perspective-discipline-camera-movements",
+    "content_hash": "90d3f3beac94e8a2d7eb85cf613ecf4c23356c8813cec6f7828767840acb3ba5",
+    "storage_key": "/images/generated-heroes/encyclopedia--large-format-photography-perspective-discipline-camera-movements.webp",
+    "created_at": "2026-08-20T11:38:51.926Z",
+    "locale": "en",
+    "disclosure": "AI-generated editorial illustration; not documentary evidence.",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
+  }
 }

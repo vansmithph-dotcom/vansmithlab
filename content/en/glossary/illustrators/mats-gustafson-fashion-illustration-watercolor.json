@@ -38,5 +38,43 @@
   "source_ids": [
     "src_3c96221da807e50e",
     "src_803eaa04fbd5ed5f"
-  ]
+  ],
+  "hero_image": {
+    "src": "/images/generated-heroes/glossary--mats-gustafson-fashion-illustration-watercolor.webp",
+    "alt": "Mats Gustafson — a unique editorial AI illustration visualizing the article's subject.",
+    "caption": "Original VANSMITHLAB editorial AI illustration for “Mats Gustafson”. Watercolour, silhouette and silence: fashion illustration as reduction",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "ai_generated",
+    "licence_or_permission": "Original VANSMITHLAB AI illustration; owned editorial asset.",
+    "source_url": "",
+    "asset_id": "hero_glossary_mats-gustafson-fashion-illustration-watercolor",
+    "content_hash": "7c79663660f21bec28b9558b90c3943df48ab5e840ea28908752337237b0e48a",
+    "storage_key": "/images/generated-heroes/glossary--mats-gustafson-fashion-illustration-watercolor.webp",
+    "created_at": "2026-08-20T13:16:04.507Z",
+    "locale": "en",
+    "disclosure": "AI-generated editorial illustration; not documentary evidence.",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
+  },
+  "portrait_image": {
+    "src": "/images/profile-portraits/mats-gustafson-fashion-illustration-watercolor-portrait-ai-reconstruction-v1.webp",
+    "credit": "VANSMITHLAB · AI reconstruction from reviewed public reference imagery, 2026",
+    "origin": "ai_reconstruction",
+    "rights_status": "ai_generated",
+    "licence": "VANSMITHLAB original AI reconstruction",
+    "licence_url": "https://vansmithlab.com/en/method/",
+    "source_url": "https://www.cfhill.com/artist/mats-gustafson",
+    "reference_url": "https://images.ctfassets.net/7v599ysanvwc/29gdeHrz2R5D3xuOzzqcPE/5d696f6894774e22e372b8cdfd327a6e/portrait.jpg?fit=fill&fm=jpg&h=1200&q=85&w=1600",
+    "access_date": "2026-08-20",
+    "disclosure": "AI reconstruction of the subject based on a reviewed public photographic reference; not an archival photograph.",
+    "asset_id": "ast_9876e75a5511c053",
+    "content_hash": "9876e75a5511c053d1c67dad00fc90b258b9c380587a6dabe49ad3905b7f5278",
+    "storage_key": "public/images/profile-portraits/mats-gustafson-fashion-illustration-watercolor-portrait-ai-reconstruction-v1.webp",
+    "width": 900,
+    "height": 1125,
+    "alt": "Portrait of Mats Gustafson",
+    "caption": "AI portrait reconstruction of Mats Gustafson from a public photographic reference."
+  }
 }

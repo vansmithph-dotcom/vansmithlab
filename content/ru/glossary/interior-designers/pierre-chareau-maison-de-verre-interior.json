@@ -35,5 +35,43 @@
   "source_ids": [
     "src_28c29477acf06a8a",
     "src_2fed589a2852ef0f"
-  ]
+  ],
+  "hero_image": {
+    "src": "/images/generated-heroes/glossary--pierre-chareau-maison-de-verre-interior.webp",
+    "alt": "Пьер Шаро — уникальная редакционная AI-иллюстрация, визуализирующая тему материала.",
+    "caption": "Оригинальная редакционная AI-иллюстрация VANSMITHLAB для материала «Пьер Шаро». Интерьер как механизм: мебель, стекло, движение и архитектура Maison de Verre",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "ai_generated",
+    "licence_or_permission": "Оригинальная AI-иллюстрация VANSMITHLAB; редакционный актив в собственности проекта.",
+    "source_url": "",
+    "asset_id": "hero_glossary_pierre-chareau-maison-de-verre-interior",
+    "content_hash": "7c862d6439a3526cd7436e2877eadc3944a78bcbfbc0d74c9056057a2a63e87c",
+    "storage_key": "/images/generated-heroes/glossary--pierre-chareau-maison-de-verre-interior.webp",
+    "created_at": "2026-08-20T13:30:17.911Z",
+    "locale": "ru",
+    "disclosure": "Редакционная иллюстрация сгенерирована ИИ и не является документальным свидетельством.",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
+  },
+  "portrait_image": {
+    "src": "/images/profile-portraits/pierre-chareau-maison-de-verre-interior-portrait-ai-reconstruction-v1.webp",
+    "credit": "VANSMITHLAB · AI reconstruction from reviewed public reference imagery, 2026",
+    "origin": "ai_reconstruction",
+    "rights_status": "ai_generated",
+    "licence": "VANSMITHLAB original AI reconstruction",
+    "licence_url": "https://vansmithlab.com/ru/method/",
+    "source_url": "https://barnies.fr/pierre-chareau/",
+    "reference_url": "https://barnies.fr/wp-content/uploads/2022/03/Chareau_Pierre_portrait-505x750.jpg",
+    "access_date": "2026-08-20",
+    "disclosure": "ИИ-реконструкция внешности на основе проверенного публичного фотографического референса; не архивная фотография.",
+    "asset_id": "ast_ebeddfce0053f85b",
+    "content_hash": "ebeddfce0053f85b1f90d3ebde85ef2c9ead004f43ee17e88f9ea7615e5ea954",
+    "storage_key": "public/images/profile-portraits/pierre-chareau-maison-de-verre-interior-portrait-ai-reconstruction-v1.webp",
+    "width": 900,
+    "height": 1125,
+    "alt": "Портрет Пьер Шаро",
+    "caption": "ИИ-реконструкция портрета Пьер Шаро по публичному фотографическому референсу."
+  }
 }

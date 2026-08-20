@@ -79,7 +79,7 @@
   ],
   "body_hash": "8297b47b2a68c62ccea563f0511b22f32717b78ea72db075e77ed10f4b61d608",
   "hero_image": {
-    "src": "/images/glossary/stylists/joe-mckenna-styling-editing-fashion-image-portrait-ai-v2.png",
+    "src": "/images/glossary/stylists/joe-mckenna-styling-editing-fashion-image-portrait-ai-v2.webp",
     "alt": "Editorial AI portrait illustration of the author",
     "caption": "AI portrait reconstruction. Not a documentary photograph.",
     "credit": "VANSMITHLAB ? original AI editorial portrait, 2026",
@@ -87,12 +87,34 @@
     "rights_state": "original_owned",
     "source_url": "",
     "licence_or_permission": "Original AI illustration by VANSMITHLAB; not a documentary photograph.",
-    "alt_text": "Editorial AI portrait illustration of the author"
+    "alt_text": "Editorial AI portrait illustration of the author",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
   },
   "translation": {
     "source_locale": "ru",
     "source_revision": 1,
     "semantic_validated": true,
     "review_run_id": "codex-editorial-20260814"
+  },
+  "portrait_image": {
+    "src": "/images/profile-portraits/joe-mckenna-styling-editing-fashion-image-portrait-ai-reconstruction-v1.webp",
+    "credit": "VANSMITHLAB · AI reconstruction from reviewed public reference imagery, 2026",
+    "origin": "ai_reconstruction",
+    "rights_status": "ai_generated",
+    "licence": "VANSMITHLAB original AI reconstruction",
+    "licence_url": "https://vansmithlab.com/en/method/",
+    "source_url": "https://twelvny.com/people/twelv-archive-joe-mckenna-interview-call-me-joe",
+    "reference_url": "https://twelvny.com/sites/default/files/styles/preview_height_fix/public/image/article/twelv_issue1_ss_final_page_006_0.jpg?itok=rojpSuwA",
+    "access_date": "2026-08-20",
+    "disclosure": "AI reconstruction of the subject based on a reviewed public photographic reference; not an archival photograph.",
+    "asset_id": "ast_11fbdce5b28caba8",
+    "content_hash": "11fbdce5b28caba8c7c91d373447ff282b68f2ecfd53bc64e438649ccf45b171",
+    "storage_key": "public/images/profile-portraits/joe-mckenna-styling-editing-fashion-image-portrait-ai-reconstruction-v1.webp",
+    "width": 900,
+    "height": 1125,
+    "alt": "Portrait of Joe McKenna",
+    "caption": "AI portrait reconstruction of Joe McKenna from a public photographic reference."
   }
 }

@@ -38,5 +38,43 @@
   "source_ids": [
     "src_f0bb97c0c8574c79",
     "src_200963637290f7f6"
-  ]
+  ],
+  "hero_image": {
+    "src": "/images/generated-heroes/glossary--tonne-goodman-fashion-editor-sustainability.webp",
+    "alt": "Tonne Goodman — a unique editorial AI illustration visualizing the article's subject.",
+    "caption": "Original VANSMITHLAB editorial AI illustration for “Tonne Goodman”. Fashion editing between image, clothing and environmental responsibility",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "ai_generated",
+    "licence_or_permission": "Original VANSMITHLAB AI illustration; owned editorial asset.",
+    "source_url": "",
+    "asset_id": "hero_glossary_tonne-goodman-fashion-editor-sustainability",
+    "content_hash": "0a6e56eda5fce8db771cbf15810f502d1e8048170a7ea3117f15e58334d209fc",
+    "storage_key": "/images/generated-heroes/glossary--tonne-goodman-fashion-editor-sustainability.webp",
+    "created_at": "2026-08-20T13:14:59.293Z",
+    "locale": "en",
+    "disclosure": "AI-generated editorial illustration; not documentary evidence.",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
+  },
+  "portrait_image": {
+    "src": "/images/profile-portraits/tonne-goodman-fashion-editor-sustainability-portrait-ai-reconstruction-v1.webp",
+    "credit": "VANSMITHLAB · AI reconstruction from reviewed public reference imagery, 2026",
+    "origin": "ai_reconstruction",
+    "rights_status": "ai_generated",
+    "licence": "VANSMITHLAB original AI reconstruction",
+    "licence_url": "https://vansmithlab.com/en/method/",
+    "source_url": "https://models.com/people/tonne-goodman",
+    "reference_url": "https://i.mdel.net/i/db/2023/3/1909851/1909851-500w.jpg",
+    "access_date": "2026-08-20",
+    "disclosure": "AI reconstruction of the subject based on a reviewed public photographic reference; not an archival photograph.",
+    "asset_id": "ast_bacf42a3982d4237",
+    "content_hash": "bacf42a3982d4237a3c972fcab26bd591933453a7f389578f35c053d0208c624",
+    "storage_key": "public/images/profile-portraits/tonne-goodman-fashion-editor-sustainability-portrait-ai-reconstruction-v1.webp",
+    "width": 900,
+    "height": 1125,
+    "alt": "Portrait of Tonne Goodman",
+    "caption": "AI portrait reconstruction of Tonne Goodman from a public photographic reference."
+  }
 }

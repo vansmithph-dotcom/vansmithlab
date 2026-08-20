@@ -33,5 +33,41 @@
   "role": [
     "fashion-editor"
   ],
-  "body_hash": "ee6381983daed94c9e661d494988634aa1cb5c0c96344c27c519419caca2df89"
+  "body_hash": "ee6381983daed94c9e661d494988634aa1cb5c0c96344c27c519419caca2df89",
+  "hero_image": {
+    "src": "/images/generated-heroes/glossary--carine-roitfeld-styling-as-authorship.webp",
+    "alt": "Carine Roitfeld — a unique editorial AI illustration visualizing the article's subject.",
+    "caption": "Original VANSMITHLAB editorial AI illustration for “Carine Roitfeld”. A stylist who turned selection and assembly of a look into an independent authorial position with a recognisable hand.",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "ai_generated",
+    "licence_or_permission": "Original VANSMITHLAB AI illustration; owned editorial asset.",
+    "source_url": "",
+    "asset_id": "hero_glossary_carine-roitfeld-styling-as-authorship",
+    "content_hash": "363f5439a60d05404944d21d070c9b3c8c6bb15b52b7279891aaa4d537b612b7",
+    "storage_key": "/images/generated-heroes/glossary--carine-roitfeld-styling-as-authorship.webp",
+    "created_at": "2026-08-20T13:08:09.343Z",
+    "locale": "en",
+    "disclosure": "AI-generated editorial illustration; not documentary evidence.",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
+  },
+  "portrait_image": {
+    "src": "/images/profile-portraits/carine-roitfeld-styling-as-authorship-portrait-wikimedia-v1.webp",
+    "credit": "Dustin Gaffke / Wikimedia Commons · CC BY 2.0",
+    "origin": "wikimedia_commons",
+    "rights_status": "cc_by",
+    "licence": "CC BY 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Carine_Roitfeld_-_Louis_Vuitton_autumn-winter_2014_fashion_show.jpg",
+    "access_date": "2026-08-20",
+    "asset_id": "ast_d0e159481954d14d",
+    "content_hash": "d0e159481954d14d23fbe23597b8e23b03cd6529a19449012326cc312bb757d5",
+    "storage_key": "public/images/profile-portraits/carine-roitfeld-styling-as-authorship-portrait-wikimedia-v1.webp",
+    "width": 900,
+    "height": 1125,
+    "alt": "Portrait of Carine Roitfeld",
+    "caption": "Portrait of Carine Roitfeld. Source: Wikimedia Commons."
+  }
 }

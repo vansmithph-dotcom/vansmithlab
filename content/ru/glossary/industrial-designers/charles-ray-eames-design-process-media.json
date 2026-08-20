@@ -37,5 +37,43 @@
   "source_ids": [
     "src_91688e4b4564956e",
     "src_3960d8e42698291b"
-  ]
+  ],
+  "hero_image": {
+    "src": "/images/generated-heroes/glossary--charles-ray-eames-design-process-media.webp",
+    "alt": "Чарльз и Рэй Имз — уникальная редакционная AI-иллюстрация, визуализирующая тему материала.",
+    "caption": "Оригинальная редакционная AI-иллюстрация VANSMITHLAB для материала «Чарльз и Рэй Имз». Совместная практика как лаборатория: мебель, архитектура, кино, выставки и обучение через игру",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "ai_generated",
+    "licence_or_permission": "Оригинальная AI-иллюстрация VANSMITHLAB; редакционный актив в собственности проекта.",
+    "source_url": "",
+    "asset_id": "hero_glossary_charles-ray-eames-design-process-media",
+    "content_hash": "cebf24334801521c2137d27ecfcb9bb577db58f710b23e1f9f21cbb1004374f7",
+    "storage_key": "/images/generated-heroes/glossary--charles-ray-eames-design-process-media.webp",
+    "created_at": "2026-08-20T13:18:19.965Z",
+    "locale": "ru",
+    "disclosure": "Редакционная иллюстрация сгенерирована ИИ и не является документальным свидетельством.",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
+  },
+  "portrait_image": {
+    "src": "/images/profile-portraits/charles-ray-eames-design-process-media-portrait-ai-reconstruction-v1.webp",
+    "credit": "VANSMITHLAB · AI reconstruction from reviewed public reference imagery, 2026",
+    "origin": "ai_reconstruction",
+    "rights_status": "ai_generated",
+    "licence": "VANSMITHLAB original AI reconstruction",
+    "licence_url": "https://vansmithlab.com/ru/method/",
+    "source_url": "https://www.cassina.com/lu/en/news/cassina-journal/eames-collezione-cassina-iMaestri.html",
+    "reference_url": "https://www.cassina.com/content/dam/ld/cassina/library/news/eames/potrebbe-interessarti-anche/potrebbe-interessarti-anche-Eames.jpg/jcr:content/renditions/cq5dam.thumbnail.1500.1500.jpg",
+    "access_date": "2026-08-20",
+    "disclosure": "ИИ-реконструкция внешности на основе проверенного публичного фотографического референса; не архивная фотография.",
+    "asset_id": "ast_4aae5928b9b52084",
+    "content_hash": "4aae5928b9b52084ebe57de910cf572562e0e425de2a8722d9a09f2435890fb1",
+    "storage_key": "public/images/profile-portraits/charles-ray-eames-design-process-media-portrait-ai-reconstruction-v1.webp",
+    "width": 900,
+    "height": 1125,
+    "alt": "Портрет Чарльз и Рэй Имз",
+    "caption": "ИИ-реконструкция портрета Чарльз и Рэй Имз по публичному фотографическому референсу."
+  }
 }

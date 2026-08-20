@@ -139,6 +139,6 @@ Herman Miller выпускает модель с 1956 года. Производ
 ## По теме
 
 - [Barcelona Chair](/ru/encyclopedia/barcelona-chair) — Кресло как архитектурный манифест: сталь, кожа и церемониальность.
-- [Eames House](/ru/encyclopedia/eames-house-case-study-house-8) — Case Study House №8: промышленная система, дом-студия, коллекция вещей и лаборатория повседневного т.
+- [Eames House](/ru/encyclopedia/eames-house-case-study-house-8) — Case Study House №8: промышленная система, дом-студия, коллекция вещей и лаборатория повседневного творчества.
 - [606 Universal Shelving System](/ru/encyclopedia/606-universal-shelving-system) — Модульность, ремонтопригодность и долгая жизнь вещи.
 - [Panton Chair](/ru/encyclopedia/panton-chair) — Один материал, непрерывная форма и новая промышленность пластика.

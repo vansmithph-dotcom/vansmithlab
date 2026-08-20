@@ -33,5 +33,41 @@
   "role": [
     "critic-theorist"
   ],
-  "body_hash": "9547bf2a3778ab78caaa002aab564cd25440504332a2ce23f205665a91a8f538"
+  "body_hash": "9547bf2a3778ab78caaa002aab564cd25440504332a2ce23f205665a91a8f538",
+  "hero_image": {
+    "src": "/images/generated-heroes/glossary--marshall-mcluhan-medium-as-environment.webp",
+    "alt": "Marshall McLuhan — a unique editorial AI illustration visualizing the article's subject.",
+    "caption": "Original VANSMITHLAB editorial AI illustration for “Marshall McLuhan”. The carrier of a message changes perception more than the message does.",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "ai_generated",
+    "licence_or_permission": "Original VANSMITHLAB AI illustration; owned editorial asset.",
+    "source_url": "",
+    "asset_id": "hero_glossary_marshall-mcluhan-medium-as-environment",
+    "content_hash": "ff6a07ba04831960272a4646992136813560a3dbf6b967f6901c57abb52e3caa",
+    "storage_key": "/images/generated-heroes/glossary--marshall-mcluhan-medium-as-environment.webp",
+    "created_at": "2026-08-20T12:52:34.458Z",
+    "locale": "en",
+    "disclosure": "AI-generated editorial illustration; not documentary evidence.",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
+  },
+  "portrait_image": {
+    "src": "/images/profile-portraits/marshall-mcluhan-medium-as-environment-portrait-wikimedia-v1.webp",
+    "credit": "Josephine Smith / Wikimedia Commons · Public domain",
+    "origin": "wikimedia_commons",
+    "rights_status": "public_domain",
+    "licence": "Public domain",
+    "licence_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Marshall_McLuhan.jpg",
+    "access_date": "2026-08-20",
+    "asset_id": "ast_01f7b4b1b11c2936",
+    "content_hash": "01f7b4b1b11c29369fb38fd59e2f1294271147ed96fa5882fa81ef89bfafc983",
+    "storage_key": "public/images/profile-portraits/marshall-mcluhan-medium-as-environment-portrait-wikimedia-v1.webp",
+    "width": 900,
+    "height": 1125,
+    "alt": "Portrait of Marshall McLuhan",
+    "caption": "Portrait of Marshall McLuhan. Source: Wikimedia Commons."
+  }
 }

@@ -3,10 +3,12 @@ import Image from "next/image";
 import { Children, type ReactNode } from "react";
 import ReactMarkdown from "react-markdown";
 import rehypeRaw from "rehype-raw";
-import type { InlineMediaReference, PublishedContent } from "@/lib/content";
+import { contentHref, relatedContent, sectionForContentType, type InlineMediaReference, type PublishedContent } from "@/lib/content";
 import { copy, type Locale } from "@/lib/site-data";
 import { organizationId, organizationStructuredData, siteUrl, websiteId } from "@/lib/structured-data";
 import { roleByRoute } from "@/lib/taxonomy";
+import { sourceDisplayMeta, sourceDisplayTitle, uniqueSourcesByUrl } from "@/lib/source-display.mjs";
+import { cleanReaderMarkdown } from "@/lib/reader-markdown-cleanup.mjs";
 
 const labels = {
   ru: { back: "Назад", verification: "Проверка", confidence: "Уверенность", reviewed: "Обновлено", sources: "Источники", revision: "Версия", ai: "Материал подготовлен автоматической редакционной системой и прошёл проверку источников." },
@@ -74,10 +76,15 @@ function InlineArticleFigure({ media, locale }: { media: InlineMediaReference; l
   );
 }
 
-function buildJsonLd(locale: Locale, section: string, content: PublishedContent) {
+function buildJsonLd(locale: Locale, section: string, content: PublishedContent, related: ReturnType<typeof relatedContent>) {
   const { metadata } = content;
   const url = `${siteUrl}/${locale}/${section}/${metadata.slug}/`;
   const image = metadata.hero_image ? `${siteUrl}${metadata.hero_image.src}` : undefined;
+  const imageId = image ? `${image}#image` : undefined;
+  const mediaRightsPage = `${siteUrl}/${locale}/about/#media-rights`;
+  const originalMedia = metadata.hero_image?.rights_state === "original_owned" || metadata.hero_image?.rights_status === "ai_generated";
+  const license = metadata.hero_image?.licence_url ?? (originalMedia ? mediaRightsPage : undefined);
+  const acquireLicensePage = metadata.hero_image?.acquire_license_page ?? (originalMedia ? mediaRightsPage : undefined);
   const sectionKey = section === "collection" ? "collections" : section;
   const sectionCopy = copy[locale].section[sectionKey];
   const role = section.startsWith("glossary/") ? roleByRoute(section.split("/").at(-1) ?? "") : undefined;
@@ -113,7 +120,8 @@ function buildJsonLd(locale: Locale, section: string, content: PublishedContent)
         isPartOf: { "@id": websiteId },
         articleSection: sectionName,
         ...(keywords.length ? { keywords } : {}),
-        ...(image ? { image: [image] } : {}),
+        ...(imageId ? { image: [{ "@id": imageId }], thumbnailUrl: image } : {}),
+        ...(related.length ? { isRelatedTo: related.map((item) => `${siteUrl}${contentHref(item)}/`) } : {}),
         datePublished: metadata.last_reviewed,
         dateModified: metadata.last_reviewed,
         author: metadata.content_type === "analysis"
@@ -122,6 +130,34 @@ function buildJsonLd(locale: Locale, section: string, content: PublishedContent)
         publisher: { "@id": organizationId },
         about: { "@type": aboutType, name: metadata.title },
       },
+      {
+        "@type": "WebPage",
+        "@id": url,
+        url,
+        name: metadata.title,
+        description: metadata.summary,
+        inLanguage: locale,
+        isPartOf: { "@id": websiteId },
+        mainEntity: { "@id": `${url}#article` },
+        ...(imageId ? { primaryImageOfPage: { "@id": imageId } } : {}),
+      },
+      ...(image && imageId ? [{
+        "@type": "ImageObject",
+        "@id": imageId,
+        url: image,
+        contentUrl: image,
+        name: `${metadata.title} — VANSMITHLAB`,
+        description: metadata.hero_image?.alt || metadata.summary,
+        caption: metadata.hero_image?.caption,
+        creditText: metadata.hero_image?.credit,
+        representativeOfPage: true,
+        ...(metadata.hero_image?.mime_type ? { encodingFormat: metadata.hero_image.mime_type } : {}),
+        ...(metadata.hero_image?.width ? { width: metadata.hero_image.width } : {}),
+        ...(metadata.hero_image?.height ? { height: metadata.hero_image.height } : {}),
+        ...(license ? { license } : {}),
+        ...(acquireLicensePage ? { acquireLicensePage } : {}),
+        creator: { "@id": organizationId },
+      }] : []),
       {
         "@type": "BreadcrumbList",
         "@id": `${url}#breadcrumb`,
@@ -142,12 +178,14 @@ export function PublishedArticle({ locale, section, content }: { locale: Locale;
   const text = labels[locale];
   const isAnalysis = metadata.content_type === "analysis";
   const isProfile = metadata.content_type.endsWith("_profile");
+  const related = relatedContent(metadata);
+  const displayedSources = uniqueSourcesByUrl(sources);
   const sourceById = new Map(sources.map((source, index) => [source.id, { source, number: index + 1 }]));
   const citationByClaim = new Map(citations.map((citation) => [citation.claim_id, citation]));
-  const renderedBody = removeDuplicatedArticleIntro(body, metadata.title, metadata.summary)
-    // Legacy media-brief fields were concatenated into article Markdown by an
-    // early importer. They are production metadata, not reader-facing prose.
-    .replace(/^placement:\s*after-sectionformat:\s*inline\s*4:5caption_required:\s*yesalt_required:\s*yesrights:\s*permission-required\s*$/gm, "")
+  const renderedBody = cleanReaderMarkdown(
+    removeDuplicatedArticleIntro(body, metadata.title, metadata.summary),
+    locale,
+  )
     // Convert [N] bare citation references to clickable cite elements with tooltip
     .replace(/\[(\d+)\](?!\()/g, (match, num: string) => {
       const sourceIndex = parseInt(num) - 1;
@@ -186,7 +224,7 @@ export function PublishedArticle({ locale, section, content }: { locale: Locale;
         return `<aside class="callout callout-${type}" aria-label="${label}"><strong>${label}</strong>${cleanedContent}</aside>`;
       }
     );
-  const jsonLd = buildJsonLd(locale, section, content);
+  const jsonLd = buildJsonLd(locale, section, content, related);
   const backLabel = copy[locale].section[section]?.title ?? text.back;
 
   return (
@@ -285,16 +323,19 @@ export function PublishedArticle({ locale, section, content }: { locale: Locale;
             </dl>
           </div>
 
-          {sources.length > 0 && (
+          {displayedSources.length > 0 && (
             <div className="evidence-section" id="evidence-sources">
               <h2>{text.sources}</h2>
               <ol style={{ margin: 0, padding: 0, listStyle: "none" }}>
-                {sources.map((source) => (
-                  <li key={source.id} style={{ padding: "10px 0", borderBottom: "1px solid var(--line)", fontSize: 12, lineHeight: 1.45 }}>
-                    <a href={source.url} rel="noreferrer" target="_blank">{source.title}</a>
-                    <small style={{ display: "block", marginTop: 5, color: "var(--muted)" }}>{source.publisher} · {source.accessed_at}</small>
-                  </li>
-                ))}
+                {displayedSources.map((source) => {
+                  const meta = sourceDisplayMeta(source);
+                  return (
+                    <li key={source.id} style={{ padding: "10px 0", borderBottom: "1px solid var(--line)", fontSize: 12, lineHeight: 1.45 }}>
+                      <a href={source.url} rel="noreferrer" target="_blank">{sourceDisplayTitle(source)}</a>
+                      {meta && <small style={{ display: "block", marginTop: 5, color: "var(--muted)" }}>{meta}</small>}
+                    </li>
+                  );
+                })}
               </ol>
             </div>
           )}
@@ -304,6 +345,25 @@ export function PublishedArticle({ locale, section, content }: { locale: Locale;
           </div>
         </aside>
       </div>
+
+      {related.length > 0 && (
+        <section className="article-related" aria-labelledby="related-heading">
+          <div className="article-related-heading">
+            <p className="eyebrow">{locale === "ru" ? "Связи базы" : "Library connections"}</p>
+            <h2 id="related-heading">{locale === "ru" ? "Материалы по теме" : "Related publications"}</h2>
+          </div>
+          <div className="article-related-grid">
+            {related.map((item) => (
+              <Link className="article-related-card" href={contentHref(item)} key={item.content_id}>
+                <span>{copy[locale].section[sectionForContentType(item.content_type).split("/")[0]]?.title ?? item.content_type.replaceAll("_", " ")}</span>
+                <h3>{item.title}</h3>
+                <p>{item.summary}</p>
+                <i>{locale === "ru" ? "Открыть" : "Open"} →</i>
+              </Link>
+            ))}
+          </div>
+        </section>
+      )}
 
     </article>
   );

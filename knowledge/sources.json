@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-15",
-  "count": 877,
+  "generated_at": "2026-08-20",
+  "count": 897,
   "sources": [
     {
       "id": "src_6428a37f8bcbec74",
@@ -49,6 +49,14 @@
       "publisher": "Alessi",
       "source_tier": 2,
       "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_ca43096dce58d060",
+      "title": "Alessi — Museo Alessi",
+      "url": "https://alessi.com/pages/museo",
+      "publisher": "Alessi",
+      "source_tier": 2,
+      "accessed_at": "2026-08-20"
     },
     {
       "id": "src_a3920122b9bca422",
@@ -459,6 +467,14 @@
       "accessed_at": "2026-08-13"
     },
     {
+      "id": "src_485b8f4edb1b51f4",
+      "title": "Cooper Union — Swiss Style Now",
+      "url": "https://cooper.edu/art/news/inside-look-swiss-style-now-curators",
+      "publisher": "The Cooper Union",
+      "source_tier": 2,
+      "accessed_at": "2026-08-20"
+    },
+    {
       "id": "src_bff7d4fef59dcd39",
       "title": "Dan Wieden",
       "url": "https://creativehalloffame.org/inductees/dan-wieden/",
@@ -483,12 +499,28 @@
       "accessed_at": "2026-08-15"
     },
     {
+      "id": "src_79268df15f4084cf",
+      "title": "Denmark",
+      "url": "https://denmark.dk/innovation-and-design/design",
+      "publisher": "Ministry of Foreign Affairs of Denmark",
+      "source_tier": 2,
+      "accessed_at": "2026-08-20"
+    },
+    {
       "id": "src_3c9fda86ad8fa48c",
       "title": "Material Design: A Look Back at Its Beginning",
       "url": "https://design.google/library/material-design-launch-2014",
       "publisher": "Google Design",
       "source_tier": 2,
       "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_d9d63cbd11743d7e",
+      "title": "Designmuseum Denmark — History & Architecture",
+      "url": "https://designmuseum.dk/en/om-museet-2/history-architecture/",
+      "publisher": "Designmuseum Danmark",
+      "source_tier": 2,
+      "accessed_at": "2026-08-20"
     },
     {
       "id": "src_ed9ee5b52cb2f63b",
@@ -537,6 +569,14 @@
       "publisher": "Design Museum",
       "source_tier": 2,
       "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_43fcd7d35fe23e39",
+      "title": "Design Museum — Ettore Sottsass",
+      "url": "https://designmuseum.org/designers/ettore-sottsass",
+      "publisher": "Design Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-20"
     },
     {
       "id": "src_391caf93378f0880",
@@ -1433,6 +1473,14 @@
       "publisher": "MIT Press",
       "source_tier": 2,
       "accessed_at": "2026-08-15"
+    },
+    {
+      "id": "src_e7d28870f39ab3d7",
+      "title": "Issey Miyake Foundation — Origin of Simplicity",
+      "url": "https://miyakeissey.org/en/history/collaborations/2024/simplicity/",
+      "publisher": "Issey Miyake Foundation",
+      "source_tier": 2,
+      "accessed_at": "2026-08-20"
     },
     {
       "id": "src_5bc6105daab45440",
@@ -2523,6 +2571,14 @@
       "accessed_at": "2026-08-14"
     },
     {
+      "id": "src_8982308acc331539",
+      "title": "ADI Design Museum — Origin of Simplicity",
+      "url": "https://www.adidesignmuseum.org/en/exhibition-categories/temporary-exhibition/origin-of-simplicity-20-visions-of-japanese-design/",
+      "publisher": "ADI Design Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-20"
+    },
+    {
       "id": "src_add8c1c17dd81e52",
       "title": "Official website",
       "url": "https://www.akqa.com/",
@@ -2777,6 +2833,14 @@
       "publisher": "The Richard Avedon Foundation",
       "source_tier": 2,
       "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_b6745d21d4f82242",
+      "title": "Bauhaus-Archiv — The Bauhaus idea and programme",
+      "url": "https://www.bauhaus.de/en/discover/article/the-bauhaus-idea-and-programme/",
+      "publisher": "Bauhaus-Archiv",
+      "source_tier": 2,
+      "accessed_at": "2026-08-20"
     },
     {
       "id": "src_ea94f602bdbe7e15",
@@ -3123,12 +3187,28 @@
       "accessed_at": "2026-08-13"
     },
     {
+      "id": "src_a23d1b6b1396048f",
+      "title": "Cooper Hewitt — The Horizontal Line in American Design",
+      "url": "https://www.cooperhewitt.org/2015/11/03/the-horizontal-line-in-american-design/",
+      "publisher": "Cooper Hewitt",
+      "source_tier": 2,
+      "accessed_at": "2026-08-20"
+    },
+    {
       "id": "src_f2a4437ffc976047",
       "title": "Surface of Luxury — Jean-Michel Frank and Villa Bontoc",
       "url": "https://www.cooperhewitt.org/2017/07/19/surface-of-luxury/",
       "publisher": "Cooper Hewitt, Smithsonian Design Museum",
       "source_tier": 2,
       "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_9646399d5957654f",
+      "title": "Cooper Hewitt — A Harmony of Contrasts",
+      "url": "https://www.cooperhewitt.org/2018/08/05/aharmonyofcontrasts/",
+      "publisher": "Cooper Hewitt",
+      "source_tier": 2,
+      "accessed_at": "2026-08-20"
     },
     {
       "id": "src_5500851b66b23787",
@@ -3289,6 +3369,14 @@
       "publisher": "Vitra Design Museum",
       "source_tier": 2,
       "accessed_at": "2026-08-13"
+    },
+    {
+      "id": "src_8d295fdb09a36710",
+      "title": "Vitra Design Museum — Memphis: 40 Years of Kitsch and Elegance",
+      "url": "https://www.design-museum.de/en/exhibitions/detailpages/memphis-40-years-of-kitsch-and-elegance.html",
+      "publisher": "Vitra Design Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-20"
     },
     {
       "id": "src_86d92bb51e428585",
@@ -4563,6 +4651,14 @@
       "accessed_at": "2026-08-14"
     },
     {
+      "id": "src_b4f9a64435904e0d",
+      "title": "MoMA — Bauhaus 1919–1933: Workshops for Modernity",
+      "url": "https://www.moma.org/calendar/exhibitions/303",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-20"
+    },
+    {
       "id": "src_578110ffc72643bb",
       "title": "Mutant Materials in Contemporary Design",
       "url": "https://www.moma.org/calendar/exhibitions/455",
@@ -4659,6 +4755,30 @@
       "accessed_at": "2026-08-13"
     },
     {
+      "id": "src_d69b82b1bb1d988d",
+      "title": "MoMA — Bauhaus",
+      "url": "https://www.moma.org/collection/terms/bauhaus",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-20"
+    },
+    {
+      "id": "src_6914643faf9d054c",
+      "title": "MoMA — Constructivism",
+      "url": "https://www.moma.org/collection/terms/constructivism",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-20"
+    },
+    {
+      "id": "src_21a7f1a6014edbb0",
+      "title": "MoMA — De Stijl",
+      "url": "https://www.moma.org/collection/terms/de-stijl",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-20"
+    },
+    {
       "id": "src_0b5d8afdbcb04756",
       "title": "Charlotte Perriand, Ateliers Jean Prouvé et al. Maison de la Tunisie Bench-Bookshelf, 1952",
       "url": "https://www.moma.org/collection/works/110092",
@@ -4739,6 +4859,14 @@
       "accessed_at": "2026-08-15"
     },
     {
+      "id": "src_36a900a8546f6ecc",
+      "title": "MoMA — Rietveld Red Blue Chair",
+      "url": "https://www.moma.org/collection/works/4044",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-20"
+    },
+    {
       "id": "src_6278cb185f5262c8",
       "title": "Audio 1 Radio-Phonograph model TC 40",
       "url": "https://www.moma.org/collection/works/4086",
@@ -4793,6 +4921,14 @@
       "publisher": "The Museum of Modern Art",
       "source_tier": 2,
       "accessed_at": "2026-08-14"
+    },
+    {
+      "id": "src_56245cb074d0561a",
+      "title": "MoMA — VKhUTEMAS / Object:Photo",
+      "url": "https://www.moma.org/interactives/objectphoto/schools/15.html",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-20"
     },
     {
       "id": "src_26367facf5e28cff",
@@ -5315,6 +5451,14 @@
       "accessed_at": "2026-08-15"
     },
     {
+      "id": "src_f2fa7fb8b8b3376d",
+      "title": "Poster Museum at Wilanów — Polish Posters: The Collection",
+      "url": "https://www.postermuseum.pl/en/exhibitions/polish-posters-the-collection%2C23.html",
+      "publisher": "Poster Museum at Wilanów",
+      "source_tier": 2,
+      "accessed_at": "2026-08-20"
+    },
+    {
       "id": "src_18cfc3f1906f88c4",
       "title": "A Therapy",
       "url": "https://www.prada.com/eu/en/pradasphere/films/2012/a-therapy.html",
@@ -5555,6 +5699,14 @@
       "accessed_at": "2026-08-12"
     },
     {
+      "id": "src_3d0a12ffd431d8d0",
+      "title": "Smithsonian — Pioneers of American Industrial Design",
+      "url": "https://www.si.edu/newsdesk/releases/stamps-approval-exhibition-honors-pioneers-american-industrial-design-commemorated-new-stam",
+      "publisher": "Smithsonian Institution",
+      "source_tier": 2,
+      "accessed_at": "2026-08-20"
+    },
+    {
       "id": "src_d931da14cfe4467e",
       "title": "Official website",
       "url": "https://www.sla.dk/",
@@ -5577,6 +5729,14 @@
       "publisher": "Smashing Magazine",
       "source_tier": 2,
       "accessed_at": "2026-08-12"
+    },
+    {
+      "id": "src_b164f2d1f86cafa4",
+      "title": "Staatliche Museen zu Berlin — Polish School of Poster Art",
+      "url": "https://www.smb.museum/en/exhibitions/detail/the-gallery-of-the-poster-is-the-street-the-polish-school-of-poster-art-1950-1970/",
+      "publisher": "Staatliche Museen zu Berlin",
+      "source_tier": 2,
+      "accessed_at": "2026-08-20"
     },
     {
       "id": "src_a63c3df52e525f3e",

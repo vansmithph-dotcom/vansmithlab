@@ -138,7 +138,7 @@ Today The Department Store — A City Inside a Building is best read in four pas
 
 ## See also
 
-- [The Store — Commercial Space as a Visual System](/en/encyclopedia/store-space-of-commerce-as-visual-system) — How layout, display, light, graphics, and circulation turn merchandise into experience and purchase .
-- [The Concept Store — From Selling to Curating](/en/encyclopedia/concept-store-from-selling-to-curating) — Retail in which assortment, space, events, and editorial selection construct a single cultural posit.
-- [The Boutique — Architecture of Luxury](/en/encyclopedia/boutique-architecture-of-luxury) — A small commercial space where rarity, service, and material precision shape the value of merchandis.
+- [The Store — Commercial Space as a Visual System](/en/encyclopedia/store-space-of-commerce-as-visual-system) — How layout, display, light, graphics, and circulation turn merchandise into experience and purchase decisions.
+- [The Concept Store — From Selling to Curating](/en/encyclopedia/concept-store-from-selling-to-curating) — Retail in which assortment, space, events, and editorial selection construct a single cultural position.
+- [The Boutique — Architecture of Luxury](/en/encyclopedia/boutique-architecture-of-luxury) — A small commercial space where rarity, service, and material precision shape the value of merchandise.
 - [The Shop Window — Product Theatre Between Street and Interior](/en/encyclopedia/shop-window-product-theatre-between-street-and-interior) — A glazed boundary where commerce becomes scenography and must arrest the urban gaze within seconds.

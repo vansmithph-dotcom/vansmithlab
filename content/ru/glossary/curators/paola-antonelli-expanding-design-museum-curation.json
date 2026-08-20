@@ -6,7 +6,7 @@
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "unverified",
-  "confidence_score": 0.0,
+  "confidence_score": 0,
   "claim_ids": [],
   "source_ids": [
     "src_646060f0d5c8e7d7",
@@ -47,16 +47,41 @@
   "role": [
     "curator"
   ],
-  "body_hash": "8fb6fa8677f7927628ad44e6ea3776f43e5453606f829b3de5408083ff5860ad",
+  "body_hash": "ea86e808c3bad22363a4fe3faf0fe7821bf78487e202d5abe0c81120788806e9",
   "hero_image": {
-    "src": "/images/glossary/curators/paola-antonelli-expanding-design-museum-curation-portrait-ai-v1-card-v2.jpg",
+    "src": "/images/glossary/curators/paola-antonelli-expanding-design-museum-curation-portrait-ai-v2-card.webp",
     "origin": "ai_illustration",
     "rights_state": "original_owned",
+    "rights_status": "ai_generated",
     "source_url": "",
-    "credit": "VANSMITHLAB · оригинальная AI-иллюстрация, 2026",
+    "credit": "VANSMITHLAB · оригинальная редакционная AI-иллюстрация, 2026",
     "licence_or_permission": "Оригинальная AI-иллюстрация VANSMITHLAB; не документальная фотография.",
-    "alt": "Редакционная AI-портретная иллюстрация автора",
-    "alt_text": "Редакционная AI-портретная иллюстрация автора",
-    "caption": "AI-портретная реконструкция автора. Не является документальной фотографией."
+    "alt": "Редакционная портретная иллюстрация: Паола Антонелли",
+    "alt_text": "Редакционная портретная иллюстрация: Паола Антонелли",
+    "caption": "Редакционная AI-реконструкция портрета Паола Антонелли. Не является документальной фотографией.",
+    "disclosure": "ИИ-реконструкция внешности на основе публичных фотографических референсов; не архивная фотография.",
+    "asset_id": "ast_cba8fb3962cc3aaf",
+    "content_hash": "cba8fb3962cc3aaf57bdcb2e61cd4a6c0e244bd0309ca965e98a8b3e9b352de7",
+    "storage_key": "public/images/glossary/curators/paola-antonelli-expanding-design-museum-curation-portrait-ai-v2-card.webp",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
+  },
+  "portrait_image": {
+    "src": "/images/profile-portraits/paola-antonelli-expanding-design-museum-curation-portrait-wikimedia-v1.webp",
+    "credit": "Jean-Baptiste LABRUNE from Cambridge, MA, USA / Wikimedia Commons · CC BY-SA 2.0",
+    "origin": "wikimedia_commons",
+    "rights_status": "cc_by_sa",
+    "licence": "CC BY-SA 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Paola_Antonelli_in_2008.jpg",
+    "access_date": "2026-08-20",
+    "asset_id": "ast_3572153819152f1f",
+    "content_hash": "3572153819152f1f1cb9faedc2bc55a8c89caaf687b241e2bbad62c0b97992ac",
+    "storage_key": "public/images/profile-portraits/paola-antonelli-expanding-design-museum-curation-portrait-wikimedia-v1.webp",
+    "width": 900,
+    "height": 1125,
+    "alt": "Портрет Паола Антонелли",
+    "caption": "Портрет Паола Антонелли. Источник: Wikimedia Commons."
   }
 }

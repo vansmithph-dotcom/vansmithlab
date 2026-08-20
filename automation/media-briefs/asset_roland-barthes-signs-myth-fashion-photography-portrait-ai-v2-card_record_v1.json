@@ -1,0 +1,46 @@
+{
+  "asset_id": "asset_roland-barthes-signs-myth-fashion-photography-portrait-ai-v2-card_record_v1",
+  "record_type": "asset_record",
+  "record_basis": "Generated as a replacement for a distorted profile-card portrait after visual QA.",
+  "asset_path": "public/images/glossary/critics-theorists/roland-barthes-signs-myth-fashion-photography-portrait-ai-v2-card.webp",
+  "primary_object_id": "",
+  "content_release_id": "cnt_2ca15b3ebca4e7cf",
+  "kind": "image",
+  "origin": "ai_illustration",
+  "locale": "multilingual",
+  "educational_purpose": "Editorial portrait card for the profile of Roland Barthes.",
+  "may_depict": [
+    "Roland Barthes",
+    "the subject's professional context"
+  ],
+  "must_not_imply": [
+    "The image is an archival or documentary photograph",
+    "The depicted setting documents a specific historical event"
+  ],
+  "rights": {
+    "state": "generated_reviewed",
+    "disclosure": "Original VANSMITHLAB AI-generated editorial illustration, 2026.",
+    "rights_basis": "Original AI visual generated for VANSMITHLAB; no third-party image is reproduced.",
+    "third_party_marks": "None requested; output visually reviewed for text, logos and watermarks."
+  },
+  "accessibility": {
+    "alt_text_en": "Editorial portrait illustration: Roland Barthes",
+    "alt_text_ru": "Редакционная портретная иллюстрация: Roland Barthes",
+    "caption_en": "Editorial AI portrait reconstruction of Roland Barthes. Not a documentary photograph.",
+    "caption_ru": "Редакционная AI-реконструкция портрета Roland Barthes. Не является документальной фотографией."
+  },
+  "file": {
+    "path": "public/images/glossary/critics-theorists/roland-barthes-signs-myth-fashion-photography-portrait-ai-v2-card.webp",
+    "sha256": "4e895ecf31885b4fae03b0921f7ffc237a1730f4b1d52cff5697d8efd4f5f6de",
+    "bytes": 398438,
+    "format": "webp",
+    "width": 1536,
+    "height": 1024
+  },
+  "generation": {
+    "tool": "OpenAI built-in image generation",
+    "prompt": "A historically and professionally contextualized editorial portrait reconstruction of Roland Barthes; horizontal 3:2; subject safely centered with full head, shoulders and hands; generous crop margins; natural anatomy; no text, logo, watermark or diagram.",
+    "generated_at": "2026-08-20",
+    "note": "Individually generated and visually reviewed before attachment."
+  }
+}

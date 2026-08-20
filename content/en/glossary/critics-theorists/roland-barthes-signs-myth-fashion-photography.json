@@ -6,7 +6,7 @@
   "source_locale": "ru",
   "source_revision": 1,
   "verification_state": "unverified",
-  "confidence_score": 0.0,
+  "confidence_score": 0,
   "claim_ids": [],
   "source_ids": [
     "src_5076c3cf85076196",
@@ -48,14 +48,39 @@
   ],
   "body_hash": "3463d37f319a0301d0507197c3080d6a1c34c4ac06da3c861a6526fb047d2f42",
   "hero_image": {
-    "src": "/images/glossary/critics-theorists/roland-barthes-signs-myth-fashion-photography-portrait-ai-v1-card-v2.jpg",
+    "src": "/images/glossary/critics-theorists/roland-barthes-signs-myth-fashion-photography-portrait-ai-v2-card.webp",
     "origin": "ai_illustration",
     "rights_state": "original_owned",
+    "rights_status": "ai_generated",
     "source_url": "",
-    "credit": "VANSMITHLAB ? original AI editorial portrait, 2026",
+    "credit": "VANSMITHLAB · original editorial AI illustration, 2026",
     "licence_or_permission": "Original AI illustration by VANSMITHLAB; not a documentary photograph.",
-    "alt": "Editorial AI portrait illustration of the author",
-    "alt_text": "Editorial AI portrait illustration of the author",
-    "caption": "AI portrait reconstruction. Not a documentary photograph."
+    "alt": "Editorial portrait illustration: Roland Barthes",
+    "alt_text": "Editorial portrait illustration: Roland Barthes",
+    "caption": "Editorial AI portrait reconstruction of Roland Barthes. Not a documentary photograph.",
+    "disclosure": "AI reconstruction based on public photographic references; not an archival photograph.",
+    "asset_id": "ast_4e895ecf31885b4f",
+    "content_hash": "4e895ecf31885b4fae03b0921f7ffc237a1730f4b1d52cff5697d8efd4f5f6de",
+    "storage_key": "public/images/glossary/critics-theorists/roland-barthes-signs-myth-fashion-photography-portrait-ai-v2-card.webp",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
+  },
+  "portrait_image": {
+    "src": "/images/profile-portraits/roland-barthes-signs-myth-fashion-photography-portrait-wikimedia-v1.webp",
+    "credit": "Unknown / Wikimedia Commons · Public domain",
+    "origin": "wikimedia_commons",
+    "rights_status": "public_domain",
+    "licence": "Public domain",
+    "licence_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Roland_Barthes_1969.jpg",
+    "access_date": "2026-08-20",
+    "asset_id": "ast_846cc03b5ddc3ea3",
+    "content_hash": "846cc03b5ddc3ea3163a26885e42015c890a6fee09b3c12e2427718cb84ab62f",
+    "storage_key": "public/images/profile-portraits/roland-barthes-signs-myth-fashion-photography-portrait-wikimedia-v1.webp",
+    "width": 900,
+    "height": 1125,
+    "alt": "Portrait of Roland Barthes",
+    "caption": "Portrait of Roland Barthes. Source: Wikimedia Commons."
   }
 }

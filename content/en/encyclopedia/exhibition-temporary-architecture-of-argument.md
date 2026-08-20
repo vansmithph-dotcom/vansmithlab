@@ -139,5 +139,5 @@ Today The Exhibition — Temporary Architecture of an Argument is best read in f
 ## See also
 
 - [The Museum — Route, Display, and the Management of Attention](/en/encyclopedia/museum-route-display-management-of-attention) — How architecture and exhibition design turn a collection into a sequence of encounters, comparisons,.
-- [Neue Nationalgalerie as a Space of Display](/en/encyclopedia/neue-nationalgalerie-space-of-display) — Mies van der Rohe: a free glazed upper platform, concealed lower-level infrastructure, and the museu.
-- [Vitra Campus as an Encyclopedia of Architecture and Objects](/en/encyclopedia/vitra-campus-architecture-object-encyclopedia) — A production site where factory, museum, fire station, pavilions, and landscape form a long-term col.
+- [Neue Nationalgalerie as a Space of Display](/en/encyclopedia/neue-nationalgalerie-space-of-display) — Mies van der Rohe: a free glazed upper platform, concealed lower-level infrastructure, and the museum as tension between universality and specific display.
+- [Vitra Campus as an Encyclopedia of Architecture and Objects](/en/encyclopedia/vitra-campus-architecture-object-encyclopedia) — A production site where factory, museum, fire station, pavilions, and landscape form a long-term collection of architectural methods.

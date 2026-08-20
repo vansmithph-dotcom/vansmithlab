@@ -140,5 +140,5 @@ Today the subject should be read as a chain: capture → transform → balance �
 
 - [Retouching — From Negative to Digital Image](/en/encyclopedia/retouching-from-negative-to-digital-image) — Correction, interpretation and power over the photographic surface existed long before Photoshop.
 - [Compositing — An Image from Multiple Realities](/en/encyclopedia/compositing-image-from-multiple-realities) — One plausible frame can be assembled from different times, places, exposures and sources.
-- [Visual Effects — The Believability of the Impossible](/en/encyclopedia/visual-effects-believability-of-the-impossible) — VFX persuades not through spectacle alone but through how completely all elements obey one image phy.
+- [Visual Effects — The Believability of the Impossible](/en/encyclopedia/visual-effects-believability-of-the-impossible) — VFX persuades not through spectacle alone but through how completely all elements obey one image physics.
 - [Adobe Photoshop — Layer, Mask and the Culture of the Editable Image](/en/encyclopedia/adobe-photoshop-layer-mask-editable-image) — The image became a layered document in which decisions can be separated, masked and rebuilt.

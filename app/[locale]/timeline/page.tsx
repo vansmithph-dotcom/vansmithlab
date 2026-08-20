@@ -1,7 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { TrustPanel } from "@/components/TrustPanel";
 import { copy, isLocale } from "@/lib/site-data";
 import { contentHrefForObject, listTimelineYears } from "@/lib/timeline";
 
@@ -41,7 +40,6 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
           <h1>{page.title}</h1>
           <p>{page.text}</p>
         </div>
-        <TrustPanel locale={locale} />
       </div>
 
       <div className="listing-header">

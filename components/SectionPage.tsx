@@ -2,7 +2,6 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import Image from "next/image";
 import { notFound } from "next/navigation";
-import { TrustPanel } from "@/components/TrustPanel";
 import SearchClientContent, { type SearchItem } from "@/components/SearchClientContent";
 import { listContent } from "@/lib/content";
 import { copy, isLocale } from "@/lib/site-data";
@@ -50,7 +49,6 @@ export function SectionPage({ locale, section, config }: { locale: string; secti
             <h1>{page.title}</h1>
             <p>{page.text}</p>
           </div>
-          <TrustPanel locale={locale} />
         </div>
         <SearchClientContent locale={locale} allContent={config.searchData} />
       </section>
@@ -68,7 +66,6 @@ export function SectionPage({ locale, section, config }: { locale: string; secti
           <h1>{page.title}</h1>
           <p>{page.text}</p>
         </div>
-        <TrustPanel locale={locale} />
       </div>
 
       {config.searchForm && (
@@ -84,7 +81,7 @@ export function SectionPage({ locale, section, config }: { locale: string; secti
       <div className="listing-header">
         <p>
           {hasContent
-            ? (locale === "ru" ? "Проверенные публикации" : "Verified publications")
+            ? (locale === "ru" ? "Материалы раздела" : "Entries in this section")
             : content.labels.comingSoon}
         </p>
         <span>{(releases.length || page.items.length).toString().padStart(2, "0")}</span>

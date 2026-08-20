@@ -38,5 +38,41 @@
   "source_ids": [
     "src_955dc4ffcfcec488",
     "src_49ceff562c765523"
-  ]
+  ],
+  "hero_image": {
+    "src": "/images/generated-heroes/glossary--ettore-sottsass-radical-design-memphis.webp",
+    "alt": "Этторе Соттсасс — уникальная редакционная AI-иллюстрация, визуализирующая тему материала.",
+    "caption": "Оригинальная редакционная AI-иллюстрация VANSMITHLAB для материала «Этторе Соттсасс». От Olivetti до Memphis: предмет как носитель эмоции, знака и культурного конфликта",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "ai_generated",
+    "licence_or_permission": "Оригинальная AI-иллюстрация VANSMITHLAB; редакционный актив в собственности проекта.",
+    "source_url": "",
+    "asset_id": "hero_glossary_ettore-sottsass-radical-design-memphis",
+    "content_hash": "c64ac2880fe7fbf8b9c991cd0b96eac84a6fb0682f9185db6aee83df64c562ce",
+    "storage_key": "/images/generated-heroes/glossary--ettore-sottsass-radical-design-memphis.webp",
+    "created_at": "2026-08-20T13:18:56.688Z",
+    "locale": "ru",
+    "disclosure": "Редакционная иллюстрация сгенерирована ИИ и не является документальным свидетельством.",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
+  },
+  "portrait_image": {
+    "src": "/images/profile-portraits/ettore-sottsass-radical-design-memphis-portrait-wikimedia-v1.webp",
+    "credit": "Giuseppe Pino (Mondadori Publishers) / Wikimedia Commons · Public domain",
+    "origin": "wikimedia_commons",
+    "rights_status": "public_domain",
+    "licence": "Public domain",
+    "licence_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Ettore_Sottsass_1969.jpg",
+    "access_date": "2026-08-20",
+    "asset_id": "ast_b1f822c6e7f63092",
+    "content_hash": "b1f822c6e7f6309200ae3f8a99da83e8c836300f3733beffe1983941e3d4ffd8",
+    "storage_key": "public/images/profile-portraits/ettore-sottsass-radical-design-memphis-portrait-wikimedia-v1.webp",
+    "width": 900,
+    "height": 1125,
+    "alt": "Портрет Этторе Соттсасс",
+    "caption": "Портрет Этторе Соттсасс. Источник: Wikimedia Commons."
+  }
 }

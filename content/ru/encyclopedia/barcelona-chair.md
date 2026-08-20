@@ -138,7 +138,7 @@ Barcelona Chair остаётся в серийном производстве Kn
 
 ## По теме
 
-- [Barcelona Pavilion](/ru/encyclopedia/barcelona-pavilion) — Мис ван дер Роэ и Лилли Райх: свободный план, дорогие поверхности и павильон как чистая последовател.
+- [Barcelona Pavilion](/ru/encyclopedia/barcelona-pavilion) — Мис ван дер Роэ и Лилли Райх: свободный план, дорогие поверхности и павильон как чистая последовательность движения.
 - [LC4](/ru/encyclopedia/lc4-chaise-longue) — Тело как механизм отдыха: регулируемая поза, трубчатая сталь и новая эргономика.
 - [Eames Lounge Chair](/ru/encyclopedia/eames-lounge-chair) — Формованная фанера, комфорт и послевоенная роскошь.
 - [Superleggera](/ru/encyclopedia/superleggera-chair) — Минимальная масса как проектная задача: ремесло и промышленность.

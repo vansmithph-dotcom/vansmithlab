@@ -28,6 +28,14 @@ Social content is a derivative, never a source of truth. Every post records its 
 
 Do not activate a channel until its API, rights, attribution, correction and rate-limit behaviour are implemented and tested.
 
+### Pinterest website integration
+
+- The official public profile is `https://www.pinterest.com/van_smith_ai/`; expose it as a visible external footer link and as `sameAs` on the Organization and WebSite entities.
+- Domain verification is published through Next metadata as `p:domain_verify`. A verification tag or claimed domain does not prove that the Pinterest API is connected.
+- `https://vansmithlab.com/feed.xml` is the stable Automatic Publishing endpoint. It must be valid RSS 2.0, contain only released website records, use canonical links on the claimed domain, and attach one rights-cleared representative image to every item through `media:content`.
+- Article Rich Pins are supplied from canonical Open Graph article metadata and matching Article/ImageObject structured data. Social metadata must never describe an image more strongly than the asset record allows.
+- API publishing remains disabled until a real access token and board identifier are configured and a dry run has passed. Never print or commit those credentials.
+
 ## Correction policy
 
 Corrections are versioned and visible. A minor non-factual correction updates metadata or prose; a factual correction updates claims and citations, re-runs all dependent releases, and adds a correction notice where the reader’s understanding changed. Retractions are never silently removed.

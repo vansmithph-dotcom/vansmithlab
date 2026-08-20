@@ -16,20 +16,6 @@ How can a magazine not merely describe style, but create the way an era sees mus
 
 The Face created a magazine model in which style became a way to analyze society. Nick Logan gave the format an editorial frame, Neville Brody turned typography into voice, photographers and stylists made youth culture visible, and the archive now shows how the printed page could operate before the digital feed.
 
-placement: short-answer
-
-format: full-width 5:7
-
-asset: the-face-1980-2019-youth-culture-style-magazine-composite
-
-caption_required: true
-
-alt_required: true
-
-rights_status: archive-rights-review
-
-caption_note: The caption should explain how the image works inside The Face editorial system, not merely name the figure or cover.
-
 alt_note: Alt text describes the visual function: typography, portrait, youth scene, cover, spread or diagram.
 
 ## 1. 1980: Nick Logan launches a magazine between music, style and the street

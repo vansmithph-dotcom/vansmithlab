@@ -34,5 +34,43 @@
   "source_ids": [
     "src_f9a21362655f242d",
     "src_4b5d3e2e49c7e5a6"
-  ]
+  ],
+  "hero_image": {
+    "src": "/images/generated-heroes/glossary--phyllis-posnick-fashion-editor-image-construction.webp",
+    "alt": "Филлис Позник — уникальная редакционная AI-иллюстрация, визуализирующая тему материала.",
+    "caption": "Оригинальная редакционная AI-иллюстрация VANSMITHLAB для материала «Филлис Позник». Редактор моды как соавтор фотографии: постановка, риск и точность одного изображения",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "ai_generated",
+    "licence_or_permission": "Оригинальная AI-иллюстрация VANSMITHLAB; редакционный актив в собственности проекта.",
+    "source_url": "",
+    "asset_id": "hero_glossary_phyllis-posnick-fashion-editor-image-construction",
+    "content_hash": "bad98bd58ce74b4bb4b53ba74c20ccdefdc1e5a9bfd417edeae480a372857536",
+    "storage_key": "/images/generated-heroes/glossary--phyllis-posnick-fashion-editor-image-construction.webp",
+    "created_at": "2026-08-20T13:14:17.423Z",
+    "locale": "ru",
+    "disclosure": "Редакционная иллюстрация сгенерирована ИИ и не является документальным свидетельством.",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
+  },
+  "portrait_image": {
+    "src": "/images/profile-portraits/phyllis-posnick-fashion-editor-image-construction-portrait-ai-reconstruction-v1.webp",
+    "credit": "VANSMITHLAB · AI reconstruction from reviewed public reference imagery, 2026",
+    "origin": "ai_reconstruction",
+    "rights_status": "ai_generated",
+    "licence": "VANSMITHLAB original AI reconstruction",
+    "licence_url": "https://vansmithlab.com/ru/method/",
+    "source_url": "https://www.showstudio.com/contributors/phyllis_posnick",
+    "reference_url": "https://cms.showstudio.com/images/t8Dg_kT95WWL3FPsslmkoIKURTs%3D/376616/width-1280%7Cformat-jpeg/Screen_Shot_2019-08-22_at_5.31.15_PM.png",
+    "access_date": "2026-08-20",
+    "disclosure": "ИИ-реконструкция внешности на основе проверенного публичного фотографического референса; не архивная фотография.",
+    "asset_id": "ast_cc997a01cb8beeda",
+    "content_hash": "cc997a01cb8beedac62929c269c70bb59d51b796dbb20357f8724a2b9872a203",
+    "storage_key": "public/images/profile-portraits/phyllis-posnick-fashion-editor-image-construction-portrait-ai-reconstruction-v1.webp",
+    "width": 900,
+    "height": 1125,
+    "alt": "Портрет Филлис Позник",
+    "caption": "ИИ-реконструкция портрета Филлис Позник по публичному фотографическому референсу."
+  }
 }

@@ -34,11 +34,30 @@
     "object-space"
   ],
   "kind": "theme",
-  "body_hash": "d376d74f9ac669e4de7768f23bfa6047433975e1c77935433a82048740ef0af1",
+  "body_hash": "8499883bdbc3bdc483f957f6f581906fbb08be30344ffeb4e261f92b6dd6655a",
   "translation": {
     "source_locale": "ru",
     "translated_by": "VANSMITHLAB",
     "semantic_validated": true,
     "translation_date": "2026-08-18"
+  },
+  "hero_image": {
+    "src": "/images/generated-heroes/encyclopedia--eames-lounge-chair.webp",
+    "alt": "Eames Lounge Chair — a unique editorial AI illustration visualizing the article's subject.",
+    "caption": "Original VANSMITHLAB editorial AI illustration for “Eames Lounge Chair”. Moulded plywood, comfort and postwar luxury",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "ai_generated",
+    "licence_or_permission": "Original VANSMITHLAB AI illustration; owned editorial asset.",
+    "source_url": "",
+    "asset_id": "hero_encyclopedia_eames-lounge-chair",
+    "content_hash": "6e41579909dcaad7a8efcfa3a1a663f0700e7c2f37b45ec926dd4159e0a29847",
+    "storage_key": "/images/generated-heroes/encyclopedia--eames-lounge-chair.webp",
+    "created_at": "2026-08-20T11:25:32.203Z",
+    "locale": "en",
+    "disclosure": "AI-generated editorial illustration; not documentary evidence.",
+    "width": 1536,
+    "height": 1024,
+    "mime_type": "image/webp"
   }
 }

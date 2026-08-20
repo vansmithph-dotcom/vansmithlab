@@ -1,0 +1,629 @@
+{
+  "id": "obj_design_schools_thinking_001",
+  "type": "theme",
+  "canonical_locale": "ru",
+  "lifecycle_state": "published",
+  "revision": 1,
+  "title_ru": "Почему дизайн не переводится: как разные школы учат по-разному думать",
+  "title_en": "Why design does not translate: how different schools teach different ways of thinking",
+  "slug_ru": "why-design-does-not-translate-schools-of-design-thinking",
+  "summary_ru": "Сравнительный анализ профессиональных вопросов, которые исторически формируют разные школы дизайна.",
+  "verification_state": "verified",
+  "confidence_score": 0.9,
+  "created_at": "2026-08-20T00:00:00.000Z",
+  "updated_at": "2026-08-20T00:00:00.000Z",
+  "claims": [
+    {
+      "id": "clm_ds_03_01",
+      "wording_ru": "Раздел «3. Bauhaus: дизайн как учебная система новой жизни» использует институциональный источник S01 как проверяемый контекст; сравнительный вывод статьи остаётся маркированной интерпретацией VANSMITHLAB.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.moma.org/collection/terms/bauhaus",
+          "locator": "Страница институции или музейная запись",
+          "support": "Контекст и атрибуция для указанной школы дизайна."
+        }
+      ]
+    },
+    {
+      "id": "clm_ds_03_02",
+      "wording_ru": "Раздел «3. Bauhaus: дизайн как учебная система новой жизни» использует институциональный источник S02 как проверяемый контекст; сравнительный вывод статьи остаётся маркированной интерпретацией VANSMITHLAB.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.moma.org/calendar/exhibitions/303",
+          "locator": "Страница институции или музейная запись",
+          "support": "Контекст и атрибуция для указанной школы дизайна."
+        }
+      ]
+    },
+    {
+      "id": "clm_ds_03_03",
+      "wording_ru": "Раздел «3. Bauhaus: дизайн как учебная система новой жизни» использует институциональный источник S03 как проверяемый контекст; сравнительный вывод статьи остаётся маркированной интерпретацией VANSMITHLAB.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.bauhaus.de/en/discover/article/the-bauhaus-idea-and-programme/",
+          "locator": "Страница институции или музейная запись",
+          "support": "Контекст и атрибуция для указанной школы дизайна."
+        }
+      ]
+    },
+    {
+      "id": "clm_ds_04_04",
+      "wording_ru": "Раздел «4. Советско-русская линия: дизайн как энергия организации» использует институциональный источник S04 как проверяемый контекст; сравнительный вывод статьи остаётся маркированной интерпретацией VANSMITHLAB.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.moma.org/collection/terms/constructivism",
+          "locator": "Страница институции или музейная запись",
+          "support": "Контекст и атрибуция для указанной школы дизайна."
+        }
+      ]
+    },
+    {
+      "id": "clm_ds_04_05",
+      "wording_ru": "Раздел «4. Советско-русская линия: дизайн как энергия организации» использует институциональный источник S05 как проверяемый контекст; сравнительный вывод статьи остаётся маркированной интерпретацией VANSMITHLAB.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.moma.org/interactives/objectphoto/schools/15.html",
+          "locator": "Страница институции или музейная запись",
+          "support": "Контекст и атрибуция для указанной школы дизайна."
+        }
+      ]
+    },
+    {
+      "id": "clm_ds_05_06",
+      "wording_ru": "Раздел «5. Американская школа: дизайн как обещание работающей жизни» использует институциональный источник S06 как проверяемый контекст; сравнительный вывод статьи остаётся маркированной интерпретацией VANSMITHLAB.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.si.edu/newsdesk/releases/stamps-approval-exhibition-honors-pioneers-american-industrial-design-commemorated-new-stam",
+          "locator": "Страница институции или музейная запись",
+          "support": "Контекст и атрибуция для указанной школы дизайна."
+        }
+      ]
+    },
+    {
+      "id": "clm_ds_05_07",
+      "wording_ru": "Раздел «5. Американская школа: дизайн как обещание работающей жизни» использует институциональный источник S07 как проверяемый контекст; сравнительный вывод статьи остаётся маркированной интерпретацией VANSMITHLAB.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.cooperhewitt.org/2015/11/03/the-horizontal-line-in-american-design/",
+          "locator": "Страница институции или музейная запись",
+          "support": "Контекст и атрибуция для указанной школы дизайна."
+        }
+      ]
+    },
+    {
+      "id": "clm_ds_06_08",
+      "wording_ru": "Раздел «6. Швейцарская школа: дизайн как честность информации» использует институциональный источник S08 как проверяемый контекст; сравнительный вывод статьи остаётся маркированной интерпретацией VANSMITHLAB.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.cooperhewitt.org/2018/08/05/aharmonyofcontrasts/",
+          "locator": "Страница институции или музейная запись",
+          "support": "Контекст и атрибуция для указанной школы дизайна."
+        }
+      ]
+    },
+    {
+      "id": "clm_ds_06_09",
+      "wording_ru": "Раздел «6. Швейцарская школа: дизайн как честность информации» использует институциональный источник S09 как проверяемый контекст; сравнительный вывод статьи остаётся маркированной интерпретацией VANSMITHLAB.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://cooper.edu/art/news/inside-look-swiss-style-now-curators",
+          "locator": "Страница институции или музейная запись",
+          "support": "Контекст и атрибуция для указанной школы дизайна."
+        }
+      ]
+    },
+    {
+      "id": "clm_ds_07_10",
+      "wording_ru": "Раздел «7. Польская школа плаката: дизайн как метафора под давлением» использует институциональный источник S10 как проверяемый контекст; сравнительный вывод статьи остаётся маркированной интерпретацией VANSMITHLAB.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.smb.museum/en/exhibitions/detail/the-gallery-of-the-poster-is-the-street-the-polish-school-of-poster-art-1950-1970/",
+          "locator": "Страница институции или музейная запись",
+          "support": "Контекст и атрибуция для указанной школы дизайна."
+        }
+      ]
+    },
+    {
+      "id": "clm_ds_07_11",
+      "wording_ru": "Раздел «7. Польская школа плаката: дизайн как метафора под давлением» использует институциональный источник S11 как проверяемый контекст; сравнительный вывод статьи остаётся маркированной интерпретацией VANSMITHLAB.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.postermuseum.pl/en/exhibitions/polish-posters-the-collection%2C23.html",
+          "locator": "Страница институции или музейная запись",
+          "support": "Контекст и атрибуция для указанной школы дизайна."
+        }
+      ]
+    },
+    {
+      "id": "clm_ds_08_12",
+      "wording_ru": "Раздел «8. Японская школа: дизайн как пауза, пустота и след времени» использует институциональный источник S12 как проверяемый контекст; сравнительный вывод статьи остаётся маркированной интерпретацией VANSMITHLAB.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.adidesignmuseum.org/en/exhibition-categories/temporary-exhibition/origin-of-simplicity-20-visions-of-japanese-design/",
+          "locator": "Страница институции или музейная запись",
+          "support": "Контекст и атрибуция для указанной школы дизайна."
+        }
+      ]
+    },
+    {
+      "id": "clm_ds_08_13",
+      "wording_ru": "Раздел «8. Японская школа: дизайн как пауза, пустота и след времени» использует институциональный источник S13 как проверяемый контекст; сравнительный вывод статьи остаётся маркированной интерпретацией VANSMITHLAB.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://miyakeissey.org/en/history/collaborations/2024/simplicity/",
+          "locator": "Страница институции или музейная запись",
+          "support": "Контекст и атрибуция для указанной школы дизайна."
+        }
+      ]
+    },
+    {
+      "id": "clm_ds_09_14",
+      "wording_ru": "Раздел «9. Итальянская школа: дизайн как характер вещи» использует институциональный источник S14 как проверяемый контекст; сравнительный вывод статьи остаётся маркированной интерпретацией VANSMITHLAB.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://designmuseum.org/designers/ettore-sottsass",
+          "locator": "Страница институции или музейная запись",
+          "support": "Контекст и атрибуция для указанной школы дизайна."
+        }
+      ]
+    },
+    {
+      "id": "clm_ds_09_15",
+      "wording_ru": "Раздел «9. Итальянская школа: дизайн как характер вещи» использует институциональный источник S15 как проверяемый контекст; сравнительный вывод статьи остаётся маркированной интерпретацией VANSMITHLAB.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.design-museum.de/en/exhibitions/detailpages/memphis-40-years-of-kitsch-and-elegance.html",
+          "locator": "Страница институции или музейная запись",
+          "support": "Контекст и атрибуция для указанной школы дизайна."
+        }
+      ]
+    },
+    {
+      "id": "clm_ds_09_16",
+      "wording_ru": "Раздел «9. Итальянская школа: дизайн как характер вещи» использует институциональный источник S16 как проверяемый контекст; сравнительный вывод статьи остаётся маркированной интерпретацией VANSMITHLAB.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://alessi.com/pages/museo",
+          "locator": "Страница институции или музейная запись",
+          "support": "Контекст и атрибуция для указанной школы дизайна."
+        }
+      ]
+    },
+    {
+      "id": "clm_ds_10_17",
+      "wording_ru": "Раздел «10. Скандинавская школа: дизайн как спокойная социальная польза» использует институциональный источник S17 как проверяемый контекст; сравнительный вывод статьи остаётся маркированной интерпретацией VANSMITHLAB.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://designmuseum.dk/en/om-museet-2/history-architecture/",
+          "locator": "Страница институции или музейная запись",
+          "support": "Контекст и атрибуция для указанной школы дизайна."
+        }
+      ]
+    },
+    {
+      "id": "clm_ds_10_18",
+      "wording_ru": "Раздел «10. Скандинавская школа: дизайн как спокойная социальная польза» использует институциональный источник S18 как проверяемый контекст; сравнительный вывод статьи остаётся маркированной интерпретацией VANSMITHLAB.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://denmark.dk/innovation-and-design/design",
+          "locator": "Страница институции или музейная запись",
+          "support": "Контекст и атрибуция для указанной школы дизайна."
+        }
+      ]
+    },
+    {
+      "id": "clm_ds_11_19",
+      "wording_ru": "Раздел «11. Голландская школа: дизайн как концептуальный эксперимент» использует институциональный источник S19 как проверяемый контекст; сравнительный вывод статьи остаётся маркированной интерпретацией VANSMITHLAB.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.moma.org/collection/terms/de-stijl",
+          "locator": "Страница институции или музейная запись",
+          "support": "Контекст и атрибуция для указанной школы дизайна."
+        }
+      ]
+    },
+    {
+      "id": "clm_ds_11_20",
+      "wording_ru": "Раздел «11. Голландская школа: дизайн как концептуальный эксперимент» использует институциональный источник S20 как проверяемый контекст; сравнительный вывод статьи остаётся маркированной интерпретацией VANSMITHLAB.",
+      "claim_type": "attribution",
+      "material": true,
+      "verification_state": "attributed",
+      "confidence_score": 0.9,
+      "evidence": [
+        {
+          "source_url": "https://www.moma.org/collection/works/4044",
+          "locator": "Страница институции или музейная запись",
+          "support": "Контекст и атрибуция для указанной школы дизайна."
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_ds_01",
+      "title": "MoMA — Bauhaus",
+      "url": "https://www.moma.org/collection/terms/bauhaus",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 1,
+      "accessed_at": "2026-08-20"
+    },
+    {
+      "id": "src_ds_02",
+      "title": "MoMA — Bauhaus 1919–1933: Workshops for Modernity",
+      "url": "https://www.moma.org/calendar/exhibitions/303",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 1,
+      "accessed_at": "2026-08-20"
+    },
+    {
+      "id": "src_ds_03",
+      "title": "Bauhaus-Archiv — The Bauhaus idea and programme",
+      "url": "https://www.bauhaus.de/en/discover/article/the-bauhaus-idea-and-programme/",
+      "publisher": "Bauhaus-Archiv",
+      "source_tier": 2,
+      "accessed_at": "2026-08-20"
+    },
+    {
+      "id": "src_ds_04",
+      "title": "MoMA — Constructivism",
+      "url": "https://www.moma.org/collection/terms/constructivism",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 1,
+      "accessed_at": "2026-08-20"
+    },
+    {
+      "id": "src_ds_05",
+      "title": "MoMA — VKhUTEMAS / Object:Photo",
+      "url": "https://www.moma.org/interactives/objectphoto/schools/15.html",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 1,
+      "accessed_at": "2026-08-20"
+    },
+    {
+      "id": "src_ds_06",
+      "title": "Smithsonian — Pioneers of American Industrial Design",
+      "url": "https://www.si.edu/newsdesk/releases/stamps-approval-exhibition-honors-pioneers-american-industrial-design-commemorated-new-stam",
+      "publisher": "Smithsonian Institution",
+      "source_tier": 1,
+      "accessed_at": "2026-08-20"
+    },
+    {
+      "id": "src_ds_07",
+      "title": "Cooper Hewitt — The Horizontal Line in American Design",
+      "url": "https://www.cooperhewitt.org/2015/11/03/the-horizontal-line-in-american-design/",
+      "publisher": "Cooper Hewitt",
+      "source_tier": 2,
+      "accessed_at": "2026-08-20"
+    },
+    {
+      "id": "src_ds_08",
+      "title": "Cooper Hewitt — A Harmony of Contrasts",
+      "url": "https://www.cooperhewitt.org/2018/08/05/aharmonyofcontrasts/",
+      "publisher": "Cooper Hewitt",
+      "source_tier": 2,
+      "accessed_at": "2026-08-20"
+    },
+    {
+      "id": "src_ds_09",
+      "title": "Cooper Union — Swiss Style Now",
+      "url": "https://cooper.edu/art/news/inside-look-swiss-style-now-curators",
+      "publisher": "The Cooper Union",
+      "source_tier": 2,
+      "accessed_at": "2026-08-20"
+    },
+    {
+      "id": "src_ds_10",
+      "title": "Staatliche Museen zu Berlin — Polish School of Poster Art",
+      "url": "https://www.smb.museum/en/exhibitions/detail/the-gallery-of-the-poster-is-the-street-the-polish-school-of-poster-art-1950-1970/",
+      "publisher": "Staatliche Museen zu Berlin",
+      "source_tier": 2,
+      "accessed_at": "2026-08-20"
+    },
+    {
+      "id": "src_ds_11",
+      "title": "Poster Museum at Wilanów — Polish Posters: The Collection",
+      "url": "https://www.postermuseum.pl/en/exhibitions/polish-posters-the-collection%2C23.html",
+      "publisher": "Poster Museum at Wilanów",
+      "source_tier": 2,
+      "accessed_at": "2026-08-20"
+    },
+    {
+      "id": "src_ds_12",
+      "title": "ADI Design Museum — Origin of Simplicity",
+      "url": "https://www.adidesignmuseum.org/en/exhibition-categories/temporary-exhibition/origin-of-simplicity-20-visions-of-japanese-design/",
+      "publisher": "ADI Design Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-20"
+    },
+    {
+      "id": "src_ds_13",
+      "title": "Issey Miyake Foundation — Origin of Simplicity",
+      "url": "https://miyakeissey.org/en/history/collaborations/2024/simplicity/",
+      "publisher": "Issey Miyake Foundation",
+      "source_tier": 2,
+      "accessed_at": "2026-08-20"
+    },
+    {
+      "id": "src_ds_14",
+      "title": "Design Museum — Ettore Sottsass",
+      "url": "https://designmuseum.org/designers/ettore-sottsass",
+      "publisher": "Design Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-20"
+    },
+    {
+      "id": "src_ds_15",
+      "title": "Vitra Design Museum — Memphis: 40 Years of Kitsch and Elegance",
+      "url": "https://www.design-museum.de/en/exhibitions/detailpages/memphis-40-years-of-kitsch-and-elegance.html",
+      "publisher": "Vitra Design Museum",
+      "source_tier": 2,
+      "accessed_at": "2026-08-20"
+    },
+    {
+      "id": "src_ds_16",
+      "title": "Alessi — Museo Alessi",
+      "url": "https://alessi.com/pages/museo",
+      "publisher": "Alessi",
+      "source_tier": 2,
+      "accessed_at": "2026-08-20"
+    },
+    {
+      "id": "src_ds_17",
+      "title": "Designmuseum Denmark — History & Architecture",
+      "url": "https://designmuseum.dk/en/om-museet-2/history-architecture/",
+      "publisher": "Designmuseum Danmark",
+      "source_tier": 2,
+      "accessed_at": "2026-08-20"
+    },
+    {
+      "id": "src_ds_18",
+      "title": "Denmark",
+      "url": "https://denmark.dk/innovation-and-design/design",
+      "publisher": "Ministry of Foreign Affairs of Denmark",
+      "source_tier": 1,
+      "accessed_at": "2026-08-20"
+    },
+    {
+      "id": "src_ds_19",
+      "title": "MoMA — De Stijl",
+      "url": "https://www.moma.org/collection/terms/de-stijl",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 1,
+      "accessed_at": "2026-08-20"
+    },
+    {
+      "id": "src_ds_20",
+      "title": "MoMA — Rietveld Red Blue Chair",
+      "url": "https://www.moma.org/collection/works/4044",
+      "publisher": "Museum of Modern Art",
+      "source_tier": 1,
+      "accessed_at": "2026-08-20"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_b6e9563a7dac0c44",
+      "claim_id": "clm_ds_03_01",
+      "source_id": "src_ds_01",
+      "locator": "Institutional page, accessed 2026-08-20",
+      "support": "Supports the attributed historical or institutional context; the cross-school synthesis is editorial interpretation."
+    },
+    {
+      "id": "cit_267e534a6292de65",
+      "claim_id": "clm_ds_03_02",
+      "source_id": "src_ds_02",
+      "locator": "Institutional page, accessed 2026-08-20",
+      "support": "Supports the attributed historical or institutional context; the cross-school synthesis is editorial interpretation."
+    },
+    {
+      "id": "cit_7aebccd026c8c2b2",
+      "claim_id": "clm_ds_03_03",
+      "source_id": "src_ds_03",
+      "locator": "Institutional page, accessed 2026-08-20",
+      "support": "Supports the attributed historical or institutional context; the cross-school synthesis is editorial interpretation."
+    },
+    {
+      "id": "cit_92ac1f5c31e7313f",
+      "claim_id": "clm_ds_04_04",
+      "source_id": "src_ds_04",
+      "locator": "Institutional page, accessed 2026-08-20",
+      "support": "Supports the attributed historical or institutional context; the cross-school synthesis is editorial interpretation."
+    },
+    {
+      "id": "cit_4519c34bd93b6f88",
+      "claim_id": "clm_ds_04_05",
+      "source_id": "src_ds_05",
+      "locator": "Institutional page, accessed 2026-08-20",
+      "support": "Supports the attributed historical or institutional context; the cross-school synthesis is editorial interpretation."
+    },
+    {
+      "id": "cit_4db69017d9386b0c",
+      "claim_id": "clm_ds_05_06",
+      "source_id": "src_ds_06",
+      "locator": "Institutional page, accessed 2026-08-20",
+      "support": "Supports the attributed historical or institutional context; the cross-school synthesis is editorial interpretation."
+    },
+    {
+      "id": "cit_9d0377755fedb9ad",
+      "claim_id": "clm_ds_05_07",
+      "source_id": "src_ds_07",
+      "locator": "Institutional page, accessed 2026-08-20",
+      "support": "Supports the attributed historical or institutional context; the cross-school synthesis is editorial interpretation."
+    },
+    {
+      "id": "cit_1c432130009272b5",
+      "claim_id": "clm_ds_06_08",
+      "source_id": "src_ds_08",
+      "locator": "Institutional page, accessed 2026-08-20",
+      "support": "Supports the attributed historical or institutional context; the cross-school synthesis is editorial interpretation."
+    },
+    {
+      "id": "cit_394936985fbfe7d5",
+      "claim_id": "clm_ds_06_09",
+      "source_id": "src_ds_09",
+      "locator": "Institutional page, accessed 2026-08-20",
+      "support": "Supports the attributed historical or institutional context; the cross-school synthesis is editorial interpretation."
+    },
+    {
+      "id": "cit_c7409d2abc63e3cf",
+      "claim_id": "clm_ds_07_10",
+      "source_id": "src_ds_10",
+      "locator": "Institutional page, accessed 2026-08-20",
+      "support": "Supports the attributed historical or institutional context; the cross-school synthesis is editorial interpretation."
+    },
+    {
+      "id": "cit_4c0ae83a6dfa377f",
+      "claim_id": "clm_ds_07_11",
+      "source_id": "src_ds_11",
+      "locator": "Institutional page, accessed 2026-08-20",
+      "support": "Supports the attributed historical or institutional context; the cross-school synthesis is editorial interpretation."
+    },
+    {
+      "id": "cit_0bf58160fc7751c1",
+      "claim_id": "clm_ds_08_12",
+      "source_id": "src_ds_12",
+      "locator": "Institutional page, accessed 2026-08-20",
+      "support": "Supports the attributed historical or institutional context; the cross-school synthesis is editorial interpretation."
+    },
+    {
+      "id": "cit_049a7f579fca8397",
+      "claim_id": "clm_ds_08_13",
+      "source_id": "src_ds_13",
+      "locator": "Institutional page, accessed 2026-08-20",
+      "support": "Supports the attributed historical or institutional context; the cross-school synthesis is editorial interpretation."
+    },
+    {
+      "id": "cit_2e64db1446c1cd7a",
+      "claim_id": "clm_ds_09_14",
+      "source_id": "src_ds_14",
+      "locator": "Institutional page, accessed 2026-08-20",
+      "support": "Supports the attributed historical or institutional context; the cross-school synthesis is editorial interpretation."
+    },
+    {
+      "id": "cit_dc653626c5ef64f3",
+      "claim_id": "clm_ds_09_15",
+      "source_id": "src_ds_15",
+      "locator": "Institutional page, accessed 2026-08-20",
+      "support": "Supports the attributed historical or institutional context; the cross-school synthesis is editorial interpretation."
+    },
+    {
+      "id": "cit_e9997abc5c822706",
+      "claim_id": "clm_ds_09_16",
+      "source_id": "src_ds_16",
+      "locator": "Institutional page, accessed 2026-08-20",
+      "support": "Supports the attributed historical or institutional context; the cross-school synthesis is editorial interpretation."
+    },
+    {
+      "id": "cit_5dffbee6a555443e",
+      "claim_id": "clm_ds_10_17",
+      "source_id": "src_ds_17",
+      "locator": "Institutional page, accessed 2026-08-20",
+      "support": "Supports the attributed historical or institutional context; the cross-school synthesis is editorial interpretation."
+    },
+    {
+      "id": "cit_bb0b0cc117293839",
+      "claim_id": "clm_ds_10_18",
+      "source_id": "src_ds_18",
+      "locator": "Institutional page, accessed 2026-08-20",
+      "support": "Supports the attributed historical or institutional context; the cross-school synthesis is editorial interpretation."
+    },
+    {
+      "id": "cit_6fd2d6ab08c77dfc",
+      "claim_id": "clm_ds_11_19",
+      "source_id": "src_ds_19",
+      "locator": "Institutional page, accessed 2026-08-20",
+      "support": "Supports the attributed historical or institutional context; the cross-school synthesis is editorial interpretation."
+    },
+    {
+      "id": "cit_22bc5a6aac918dc9",
+      "claim_id": "clm_ds_11_20",
+      "source_id": "src_ds_20",
+      "locator": "Institutional page, accessed 2026-08-20",
+      "support": "Supports the attributed historical or institutional context; the cross-school synthesis is editorial interpretation."
+    }
+  ],
+  "relations": [],
+  "contradictions": [],
+  "workflow": {
+    "decision": "AUTO_APPROVE",
+    "note": "Facts are attributed to institutional sources; the comparative school map is explicitly marked as VANSMITHLAB interpretation. Original AI/editorial media avoids unresolved documentary-image rights.",
+    "converted_by": "codex_os_publication",
+    "converted_at": "2026-08-20T00:00:00.000Z"
+  }
+}
