@@ -97,6 +97,11 @@ OWNED = {
     "verification_state", "confidence_score", "state",
 }
 
+# `related` is owned in a narrower sense: the converter is allowed to add to it
+# (declared `related_slugs:` plus bidirectional back-links) but must never drop
+# an existing entry that was not explicitly re-declared — see merge_related().
+RELATED_OWNED = "related"
+
 
 def existing_records(root):
     """Index every content record by (locale, slug), wherever it currently sits."""
@@ -181,6 +186,62 @@ def sid(url):
     return "src_" + hashlib.sha1(url.encode("utf-8")).hexdigest()[:16]
 
 
+def merge_related(existing, additions):
+    """Union two `related` lists ({slug, locale} dicts), deduplicated, order-stable.
+
+    Never drops an entry from `existing` — additive only, per the same
+    conservatism as OWNED above (the 160-hero-image incident).
+    """
+    seen = set()
+    out = []
+    for entry in list(existing or []) + list(additions or []):
+        slug, locale = entry.get("slug"), entry.get("locale")
+        if not slug or not locale:
+            continue
+        key = (locale, slug)
+        if key in seen:
+            continue
+        seen.add(key)
+        out.append({"slug": slug, "locale": locale})
+    return out
+
+
+def parse_kv_block(lines):
+    """Parse `key: value` paragraphs (used by [EVENT] blocks) into a dict."""
+    fields = {}
+    for raw in lines:
+        if ":" not in raw:
+            continue
+        key, value = raw.split(":", 1)
+        fields[key.strip().lower()] = value.strip()
+    return fields
+
+
+def parse_timeline_events(t):
+    """Parse an optional [TIMELINE_EVENTS] block into a list of event dicts."""
+    to, tc = block(t, "TIMELINE_EVENTS")
+    if to is None:
+        return []
+    blk = t[to:tc]
+    events = []
+    k = 0
+    while k < len(blk):
+        s = blk[k]
+        m = re.match(r'\[EVENT id="([^"]+)"\]', s)
+        if m:
+            eid = m.group(1)
+            end = next((j for j in range(k + 1, len(blk)) if blk[j] == "[/EVENT]"), None)
+            if end is None:
+                break
+            fields = parse_kv_block(blk[k + 1:end])
+            fields["id"] = eid
+            events.append(fields)
+            k = end + 1
+            continue
+        k += 1
+    return events
+
+
 def render(t):
     """Markdown body: title, subtitle, lead, then each section. Sources are data."""
     out = []
@@ -229,12 +290,15 @@ def convert(path, registry, report):
     # sources
     so, sc = block(t, "SOURCES")
     src_ids, uncheckable, total_sources = [], 0, 0
+    local_sources = {}  # article-local "S01" -> registry source dict, for TIMELINE_EVENTS
     if so is not None:
         blk = t[so:sc]
         k = 0
         while k < len(blk):
             s = blk[k]
-            if s.startswith("[SOURCE id=") and k + 1 < len(blk):
+            sm = re.match(r'\[SOURCE id="([^"]+)"\]', s)
+            if sm and k + 1 < len(blk):
+                local_id = sm.group(1)
                 total_sources += 1
                 end = next((j for j in range(k + 1, len(blk)) if blk[j] == "[/SOURCE]"), k + 2)
                 entry = blk[k + 1:end]
@@ -253,9 +317,13 @@ def convert(path, registry, report):
                                    "accessed_at": acc or TODAY}
                 if i not in src_ids:
                     src_ids.append(i)
+                local_sources[local_id] = registry[i]
                 continue
             k += 1
     report["unlinked_sources"] += uncheckable
+
+    related_slugs = [s.strip() for s in m.get("related_slugs", "").split(",") if s.strip()]
+    timeline_events = parse_timeline_events(t)
 
     # The release gate is evidence, per 06_CONTENT_MODEL.md: a page becomes
     # `published` when every source it cites can actually be checked. Prose that
@@ -270,6 +338,10 @@ def convert(path, registry, report):
         "section": section,
         "slug": slug,
         "body": body,
+        "related_slugs_declared": related_slugs,
+        "timeline_events": timeline_events,
+        "local_sources": local_sources,
+        "citable": citable,
         "metadata": {
             "content_id": "cnt_" + hashlib.sha1(slug.encode()).hexdigest()[:16],
             "primary_object_id": "",
@@ -293,6 +365,99 @@ def convert(path, registry, report):
             "body_hash": hashlib.sha256(body.encode("utf-8")).hexdigest(),
         },
     }
+
+
+def backpatch_related(root, edges):
+    """Bidirectional wiring: for each (locale, source_slug, target_slug) edge,
+    add source_slug into target_slug's own `related` array, if that target's
+    content record exists on disk (either just written by this run, or already
+    published from an earlier run). Touches ONLY the `related` key of the
+    target file — every other field is read back byte-identical.
+    """
+    for locale, source_slug, target_slug in edges:
+        if target_slug == source_slug:
+            continue
+        for f, o in existing_records(root).values():
+            if o.get("locale") != locale or o.get("slug") != target_slug:
+                continue
+            addition = [{"slug": source_slug, "locale": locale}]
+            merged = merge_related(o.get("related"), addition)
+            if merged == o.get("related"):
+                break  # already wired, no write needed
+            o["related"] = merged
+            with open(f, "w", encoding="utf-8") as fh:
+                json.dump(o, fh, ensure_ascii=False, indent=2)
+            break
+
+
+def write_timeline_object(root, d, disciplines):
+    """Create or update knowledge/objects/obj_<slug>_001.json from a
+    [TIMELINE_EVENTS] block, matching the schema lib/timeline.ts reads.
+    Merge is additive: existing claims/sources/citations are kept; only
+    claims/sources/citations derived from this run's events are added or
+    refreshed by id.
+    """
+    slug = d["slug"]
+    objdir = os.path.join(root, "knowledge", "objects")
+    obj_id = d["metadata"].get("primary_object_id") or f"obj_{slug.replace('-', '_')}_001"
+    path = os.path.join(objdir, f"{obj_id}.json")
+    obj = {}
+    if os.path.exists(path):
+        try:
+            obj = json.load(open(path, encoding="utf-8"))
+        except (OSError, ValueError):
+            obj = {}
+
+    title = d["metadata"]["title"]
+    obj.setdefault("id", obj_id)
+    obj.setdefault("type", d["metadata"]["kind"])
+    obj.setdefault("canonical_name", title)
+    obj.setdefault("title_ru", title)
+    obj["slug_ru"] = slug
+    obj.setdefault("status", "published")
+    obj["last_reviewed"] = TODAY
+    obj["disciplines"] = sorted(set(obj.get("disciplines", []) + list(disciplines)))
+
+    sources = {s["id"]: s for s in obj.get("sources", [])}
+    claims = {c["id"]: c for c in obj.get("claims", [])}
+    citations = {c["id"]: c for c in obj.get("citations", [])}
+
+    for ev in d["timeline_events"]:
+        eid = ev.get("id")
+        src_local = ev.get("source_id")
+        src = d["local_sources"].get(src_local)
+        if not eid or not src or not ev.get("date_start") or not ev.get("wording_ru"):
+            # An event without a real, already-validated source or the minimum
+            # required fields is dropped rather than guessed at.
+            continue
+        claim_id = f"clm_{slug.replace('-', '_')}_{eid}"
+        sources[src["id"]] = {
+            "id": src["id"], "title": src["title"], "url": src["url"],
+            "publisher": src["publisher"], "accessed_date": src.get("accessed_at", TODAY),
+            "source_tier": src.get("source_tier", 2),
+        }
+        claims[claim_id] = {
+            "id": claim_id,
+            "wording_ru": ev.get("wording_ru", ""),
+            "wording_en": ev.get("wording_en", ""),
+            "confidence_score": 0.7,
+            "verification_state": "attributed",
+            "date_start": ev["date_start"],
+            "date_precision": ev.get("date_precision", "year"),
+        }
+        cite_id = f"cit_{slug.replace('-', '_')}_{eid}"
+        citations[cite_id] = {"id": cite_id, "claim_id": claim_id, "source_id": src["id"],
+                               "locator": "Article timeline"}
+
+    obj["sources"] = list(sources.values())
+    obj["claims"] = list(claims.values())
+    obj["citations"] = list(citations.values())
+    obj["last_updated"] = TODAY
+
+    os.makedirs(objdir, exist_ok=True)
+    with open(path, "w", encoding="utf-8") as fh:
+        json.dump(obj, fh, ensure_ascii=False, indent=2)
+    return obj_id
 
 
 def main():
@@ -330,6 +495,8 @@ def main():
 
     prior = existing_records(ROOT)
     report["kept_images"] = 0
+    related_edges = []  # (source_locale, source_slug, target_slug) declared this run
+    report["timeline_objects"] = []
 
     for d in docs:
         obj = objects.get(d["slug"])
@@ -386,6 +553,15 @@ def main():
             if o.get("state") == "published":
                 d["metadata"]["state"] = "published"
 
+        # related_slugs: declared cross-references become {slug, locale} entries,
+        # unioned with whatever `related` the record already carried (which
+        # itself may include earlier bidirectional back-links written by a
+        # previous run for a different source article).
+        declared_related = [{"slug": s, "locale": d["locale"]} for s in d["related_slugs_declared"]]
+        d["metadata"]["related"] = merge_related(d["metadata"].get("related"), declared_related)
+        for target_slug in d["related_slugs_declared"]:
+            related_edges.append((d["locale"], d["slug"], target_slug))
+
         if dry:
             continue
         out = os.path.join(ROOT, "content", d["locale"], d["section"])
@@ -395,6 +571,18 @@ def main():
         with open(os.path.join(out, d["slug"] + ".json"), "w", encoding="utf-8") as fh:
             json.dump(d["metadata"], fh, ensure_ascii=False, indent=2)
         report["written"] += 1
+
+        # [TIMELINE_EVENTS]: the RU master is canonical (its [EVENT] blocks carry
+        # both wording_ru and wording_en), and only converts when the article's
+        # own sources passed the evidence gate — a timeline claim never cites an
+        # unchecked source.
+        if d["locale"] == "ru" and d["timeline_events"] and d["citable"]:
+            obj_id = write_timeline_object(ROOT, d, disciplines=d["metadata"]["discipline"])
+            if obj_id:
+                report["timeline_objects"].append((d["slug"], obj_id))
+
+    if not dry and related_edges:
+        backpatch_related(ROOT, related_edges)
 
     # A slug that moved between sections leaves its old pair of files behind, and
     # the site would then list the same article twice. Routing is derived, so the
@@ -442,6 +630,8 @@ def main():
     print(f"distinct sources with a URL: {len(registry)}")
     print(f"[SOURCE] entries that are not checkable: {report['unlinked_sources']}")
     print(f"RU articles with no knowledge object: {len(report['no_object'])}")
+    if report["timeline_objects"]:
+        print(f"timeline objects written from [TIMELINE_EVENTS]: {report['timeline_objects']}")
     if report["skipped"]:
         print("skipped:", report["skipped"])
 

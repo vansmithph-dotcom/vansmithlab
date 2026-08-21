@@ -1,4 +1,4 @@
-# VANSMITHLAB — Docx Authoring Schema v1.3
+# VANSMITHLAB — Docx Authoring Schema v1.4
 
 Use this schema to write articles as `.docx` files that the converter reads directly.
 Write one paragraph per line in Word. Tags go on their own line, in square brackets.
@@ -12,7 +12,7 @@ RU and EN are two separate `.docx` files with synchronised `[SECTION]` IDs.
 
 ```
 [ARTICLE_META]
-slug: your-slug|language: ru|discipline: architecture|kind: person|role: architect|category: architects|author: VANSMITHLAB|status: master|source_revision: 1|layout_schema: v1|paired_document_id: VSL-XX-001
+slug: your-slug|language: ru|discipline: architecture|kind: person|role: architect|category: architects|author: VANSMITHLAB|status: master|source_revision: 1|layout_schema: v1|paired_document_id: VSL-XX-001|related_slugs: other-article-slug, another-article-slug
 [/ARTICLE_META]
 ```
 
@@ -29,6 +29,7 @@ slug: your-slug|language: ru|discipline: architecture|kind: person|role: archite
 - `source_revision:` — integer, starts at `1`. Increment when the master changes.
 - `layout_schema:` — always `v1`.
 - `paired_document_id:` — stable code for the RU+EN pair. Example: `VSL-PR-001`.
+- `related_slugs:` — optional, comma-separated slugs of OTHER articles this one should link to. The converter wires the link automatically and bidirectionally: declaring `related_slugs: b, c` on article A also adds A into B's and C's own `related` list, without editing those files by hand. Same-locale slugs only (a RU article links to other RU articles). Existing `related` entries on any file are never removed by this — only added to. Renders as the "Материалы по теме" / "Related publications" section on the article page (`components/PublishedArticle.tsx`), alongside the algorithmic neighbours the site already computes.
 
 ---
 
@@ -218,7 +219,59 @@ C. Факт-реестр
 [/FACT_LEDGER]
 ```
 
-These three blocks exist in the corpus but are empty everywhere they appear. They are the intended feed for the site's Timeline and Glossary sections; their contents are specified in `proposals/P-001_KNOWLEDGE_GRAPH_CONNECTIONS.md` and not yet ratified. Do not invent an internal format for them — leave them out until P-001 is approved.
+These three blocks exist in the corpus but are empty everywhere they appear. They are the intended feed for the site's Glossary section; their contents are specified in `proposals/P-001_KNOWLEDGE_GRAPH_CONNECTIONS.md` and not yet ratified. Do not invent an internal format for them — leave them out until P-001 is approved.
+
+The Timeline feed itself is no longer part of that unratified proposal — it has a working, ratified format: `[TIMELINE_EVENTS]`, below.
+
+---
+
+## 6c. TIMELINE_EVENTS (optional, RU master only)
+
+```
+[TIMELINE_EVENTS id="timeline"]
+[EVENT id="tl-1"]
+date_start: 1981-01-01
+date_precision: year
+wording_ru: Русская формулировка события.
+wording_en: English wording of the event.
+source_id: S01
+[/EVENT]
+[EVENT id="tl-2"]
+date_start: 1985-06-15
+date_precision: day
+wording_ru: Ещё одна русская формулировка.
+wording_en: Another English wording.
+source_id: S02
+[/EVENT]
+[/TIMELINE_EVENTS]
+```
+
+Use this block for any article that mentions specific dated facts or events worth
+surfacing on `/timeline`. Add it anywhere at the top level of the document, same as
+`[MEDIA_PLAN]` or `[CALLOUT]`.
+
+**Rules:**
+- Only the RU master is read for this block (EN is a translation, not a second source
+  of claims). Each `[EVENT]` already carries both `wording_ru` and `wording_en`, so one
+  block covers both locales.
+- `id="tl-N"` — unique within the file, any short id.
+- `date_start:` — `YYYY-MM-DD` (or `YYYY-01-01` if only the year is known).
+- `date_precision:` — `year`, `decade`, `month` or `day`, matching how precisely the
+  date is actually known. Do not claim a precision the source does not support.
+- `wording_ru:` / `wording_en:` — one sentence each, the claim as it will appear on the
+  timeline.
+- `source_id:` — **must** reference a real `[SOURCE id="S0N"]` already declared in this
+  same file's `[SOURCES]` block. Do not invent a new, unchecked source just to support
+  a timeline claim — if the fact needs a source that is not already in `[SOURCES]`, add
+  that source there first, with a real URL and access date, exactly like any other
+  source in this article.
+- The converter only writes the generated `knowledge/objects/obj_<slug>_001.json`
+  record when the article's own sources pass the evidence gate (§5) — an event never
+  ships citing an unchecked source. If the article does not yet pass that gate, the
+  block is parsed but the object is not written until it does.
+- Confidence and verification state are set by the converter (`0.7`, `attributed`),
+  the same as `verification_state`/`confidence_score` elsewhere in this schema — do not
+  author them.
 
 ---
 
@@ -327,7 +380,13 @@ keywords: Elsa Schiaparelli, Surrealism, fashion, Dali, lobster dress
 
 ---
 
-Version: 1.3 / 2026-08-13
+Version: 1.4 / 2026-08-21
+
+Changes in 1.4: `[ARTICLE_META]` gains optional `related_slugs:` — the converter wires
+declared cross-references bidirectionally with no manual editing of the target file.
+New optional `[TIMELINE_EVENTS]` block (§6c) — the converter turns dated `[EVENT]`
+entries, each citing a real `[SOURCE]` already in the file, into a
+`knowledge/objects/obj_<slug>_001.json` record that `/timeline` reads directly.
 
 Changes in 1.3: Analysis documents follow `20_ANALYSIS_EDITORIAL_STANDARD.md` v2.0: concrete opening, strong question, authorial thesis, sourced examples, marked interpretation, developed sections and a purposeful visual package. Dry informational material is source input and must be rewritten before release.
 

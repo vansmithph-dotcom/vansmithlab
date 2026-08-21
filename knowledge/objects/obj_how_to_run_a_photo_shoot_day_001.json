@@ -1,0 +1,42 @@
+{
+  "id": "obj_how_to_run_a_photo_shoot_day_001",
+  "type": "theme",
+  "canonical_name": "Съёмочный день: как управлять изображением, людьми и временем",
+  "title_ru": "Съёмочный день: как управлять изображением, людьми и временем",
+  "slug_ru": "how-to-run-a-photo-shoot-day",
+  "status": "published",
+  "last_reviewed": "2026-08-21",
+  "disciplines": [
+    "photography"
+  ],
+  "sources": [
+    {
+      "id": "src_3418c5c7e3ab82dc",
+      "title": "Capture One — Naming images when capturing",
+      "url": "https://support.captureone.com/hc/en-us/articles/360002550337-Naming-images-when-capturing",
+      "publisher": "Capture One",
+      "accessed_date": "2026-08-21",
+      "source_tier": 2
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_how_to_run_a_photo_shoot_day_tl-1",
+      "wording_ru": "Тестовое событие тайм-лайна для дня фотосъёмки, добавленное конвертером.",
+      "wording_en": "Test timeline event for a photo shoot day, added by the converter.",
+      "confidence_score": 0.7,
+      "verification_state": "attributed",
+      "date_start": "2023-06-01",
+      "date_precision": "year"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_how_to_run_a_photo_shoot_day_tl-1",
+      "claim_id": "clm_how_to_run_a_photo_shoot_day_tl-1",
+      "source_id": "src_3418c5c7e3ab82dc",
+      "locator": "Article timeline"
+    }
+  ],
+  "last_updated": "2026-08-21"
+}
