@@ -1,0 +1,73 @@
+{
+  "content_id": "cnt_8193e308c866c4cb",
+  "primary_object_id": "",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "unverified",
+  "confidence_score": 0.0,
+  "claim_ids": [],
+  "source_ids": [
+    "src_2f2d5e983fd4fb59",
+    "src_bde7bd64df39709e",
+    "src_f1e7128a4f5e1800",
+    "src_d2635e8161e58712"
+  ],
+  "last_reviewed": "2026-08-21",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "almaty-design-code",
+  "title": "Алматы: дизайн-код города",
+  "summary": "Как рельеф, система «верх / низ», свет, советский модернизм и материалы создают узнаваемую городскую среду",
+  "discipline": [
+    "architecture"
+  ],
+  "kind": "place",
+  "role": [],
+  "body_hash": "af3c31daaaf6ee64e197cb69b4ecaca23d93597ff99316dd55d0a16b069eb848",
+  "hero_image": {
+    "src": "/images/articles/almaty-design-code/almaty-design-code-hero.png",
+    "alt": "Алматы: дизайн-код города — original editorial AI illustration.",
+    "caption": "Алматы: наклон улицы, городская ткань и горный массив как основа дизайн-кода города.",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "editorial_basis_recorded",
+    "licence_or_permission": "Original VANSMITHLAB AI illustration; owned editorial asset.",
+    "rights_state": "original_owned",
+    "source_url": "",
+    "disclosure": "AI-generated editorial illustration; not documentary evidence.",
+    "locale": "ru",
+    "width": 1412,
+    "height": 941,
+    "mime_type": "image/png"
+  },
+  "inline_media": [
+    {
+      "asset_id": "asset_almaty-design-code_inline_01_ru_v1",
+      "after_heading": "Reader question",
+      "src": "/images/articles/almaty-design-code/almaty-design-code-inline-1.png",
+      "alt": "Советский модернизм Алматы: ритм опор и жёсткий боковой свет.",
+      "caption": "Советский модернизм Алматы: ритм опор и жёсткий боковой свет.",
+      "credit": "VANSMITHLAB",
+      "origin": "ai_illustration",
+      "rights_status": "editorial_basis_recorded",
+      "licence_or_permission": "Original VANSMITHLAB AI illustration; owned editorial asset.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "asset_id": "asset_almaty-design-code_inline_02_ru_v1",
+      "after_heading": "Core Idea: Верх / низ",
+      "src": "/images/articles/almaty-design-code/almaty-design-code-inline-2.png",
+      "alt": "Алматинский двор после дождя: бытовой масштаб встречается с горами.",
+      "caption": "Алматинский двор после дождя: бытовой масштаб встречается с горами.",
+      "credit": "VANSMITHLAB",
+      "origin": "ai_illustration",
+      "rights_status": "editorial_basis_recorded",
+      "licence_or_permission": "Original VANSMITHLAB AI illustration; owned editorial asset.",
+      "width": 1536,
+      "height": 1024
+    }
+  ]
+}

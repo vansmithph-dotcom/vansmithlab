@@ -1,0 +1,73 @@
+{
+  "content_id": "cnt_8193e308c866c4cb",
+  "primary_object_id": "",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "unverified",
+  "confidence_score": 0.0,
+  "claim_ids": [],
+  "source_ids": [
+    "src_2f2d5e983fd4fb59",
+    "src_bde7bd64df39709e",
+    "src_f1e7128a4f5e1800",
+    "src_d2635e8161e58712"
+  ],
+  "last_reviewed": "2026-08-21",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "almaty-design-code",
+  "title": "Almaty: The Design Code of a City",
+  "summary": "How topography, the “up / down” system, light, Soviet modernism and materials create a distinctive urban environment",
+  "discipline": [
+    "architecture"
+  ],
+  "kind": "place",
+  "role": [],
+  "body_hash": "5c429e6cdb58bfe5076c3733d07450f59ca8e9f839ea5840beb4e89d82f3f7f4",
+  "hero_image": {
+    "src": "/images/articles/almaty-design-code/almaty-design-code-hero.png",
+    "alt": "Almaty: The Design Code of a City — original editorial AI illustration.",
+    "caption": "Almaty: street slope, urban fabric and mountain mass as the city's design code.",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "editorial_basis_recorded",
+    "licence_or_permission": "Original VANSMITHLAB AI illustration; owned editorial asset.",
+    "rights_state": "original_owned",
+    "source_url": "",
+    "disclosure": "AI-generated editorial illustration; not documentary evidence.",
+    "locale": "en",
+    "width": 1412,
+    "height": 941,
+    "mime_type": "image/png"
+  },
+  "inline_media": [
+    {
+      "asset_id": "asset_almaty-design-code_inline_01_en_v1",
+      "after_heading": "Reader question",
+      "src": "/images/articles/almaty-design-code/almaty-design-code-inline-1.png",
+      "alt": "Soviet modernist rhythm and hard side light in Almaty.",
+      "caption": "Soviet modernist rhythm and hard side light in Almaty.",
+      "credit": "VANSMITHLAB",
+      "origin": "ai_illustration",
+      "rights_status": "editorial_basis_recorded",
+      "licence_or_permission": "Original VANSMITHLAB AI illustration; owned editorial asset.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "asset_id": "asset_almaty-design-code_inline_02_en_v1",
+      "after_heading": "Core Idea: Up / down",
+      "src": "/images/articles/almaty-design-code/almaty-design-code-inline-2.png",
+      "alt": "An Almaty courtyard after rain, where everyday scale meets the mountains.",
+      "caption": "An Almaty courtyard after rain, where everyday scale meets the mountains.",
+      "credit": "VANSMITHLAB",
+      "origin": "ai_illustration",
+      "rights_status": "editorial_basis_recorded",
+      "licence_or_permission": "Original VANSMITHLAB AI illustration; owned editorial asset.",
+      "width": 1536,
+      "height": 1024
+    }
+  ]
+}
