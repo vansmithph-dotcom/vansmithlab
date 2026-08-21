@@ -1,0 +1,65 @@
+{
+  "id": "obj_ethnic_kazakh_design_code_001",
+  "type": "material-technique",
+  "canonical_name": "Этнический казахский дизайн: полный визуальный код",
+  "canonical_name_en": "Ethnic Kazakh Design: A Complete Visual Code",
+  "title_ru": "Этнический казахский дизайн: полный визуальный код",
+  "slug_ru": "ethnic-kazakh-design-code",
+  "status": "published",
+  "last_reviewed": "2026-08-21",
+  "disciplines": [
+    "materials",
+    "art"
+  ],
+  "sources": [
+    {
+      "id": "src_ethnic_kazakh_design_code_001_01",
+      "title": "UNESCO: Traditional knowledge and skills in making Kyrgyz, Kazakh and Karakalpak yurts",
+      "url": "https://ich.unesco.org/en/RL/traditional-knowledge-and-skills-in-making-kyrgyz-kazakh-and-karakalpak-yurts-turkic-nomadic-dwellings-02284?RL=02284",
+      "publisher": "UNESCO",
+      "accessed_date": "2026-08-21",
+      "source_tier": "official"
+    },
+    {
+      "id": "src_ethnic_kazakh_design_code_001_02",
+      "title": "UNESCO decision 9.COM 10.24: Kyrgyz and Kazakh yurts",
+      "url": "https://ich.unesco.org/en/decisions/9.COM/10.24",
+      "publisher": "UNESCO",
+      "accessed_date": "2026-08-21",
+      "source_tier": "official"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_ethnic_kazakh_design_code_001_thesis",
+      "wording_ru": "Казахский орнамент, войлочные техники и конструкция юрты образуют связный визуальный код, а не набор декоративных мотивов.",
+      "wording_en": "Kazakh ornament, felt techniques and yurt construction form a coherent visual code, not a set of decorative motifs.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_ethnic_kazakh_design_code_001_tl_unesco",
+      "wording_ru": "2014 — ЮНЕСКО включает традиционные знания и навыки изготовления кыргызских и казахских юрт в список нематериального культурного наследия.",
+      "wording_en": "2014 — UNESCO inscribes the traditional knowledge and skills of making Kyrgyz and Kazakh yurts on the Representative List of the Intangible Cultural Heritage of Humanity.",
+      "confidence_score": 0.85,
+      "verification_state": "verified",
+      "date_start": "2014-01-01",
+      "date_precision": "year"
+    },
+    {
+      "id": "clm_ethnic_kazakh_design_code_001_tl_post91",
+      "wording_ru": "После 1991 года в архитектуре, графике, fashion и коммерческом дизайне Казахстана начинается новый поиск национального визуального языка на основе этнического орнамента и ремесла.",
+      "wording_en": "After 1991, architecture, graphic design, fashion and commercial design in Kazakhstan begin a renewed search for a national visual language rooted in ethnic ornament and craft.",
+      "confidence_score": 0.68,
+      "verification_state": "attributed",
+      "date_start": "1991-01-01",
+      "date_precision": "year"
+    }
+  ],
+  "citations": [
+    { "claim_id": "clm_ethnic_kazakh_design_code_001_thesis", "source_id": "src_ethnic_kazakh_design_code_001_01", "locator": "Article thesis" },
+    { "claim_id": "clm_ethnic_kazakh_design_code_001_tl_unesco", "source_id": "src_ethnic_kazakh_design_code_001_02", "locator": "UNESCO decision 9.COM 10.24" },
+    { "claim_id": "clm_ethnic_kazakh_design_code_001_tl_post91", "source_id": "src_ethnic_kazakh_design_code_001_01", "locator": "Article timeline" }
+  ],
+  "last_updated": "2026-08-21"
+}

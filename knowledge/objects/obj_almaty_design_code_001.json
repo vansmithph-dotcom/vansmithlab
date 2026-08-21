@@ -1,0 +1,74 @@
+{
+  "id": "obj_almaty_design_code_001",
+  "type": "place",
+  "canonical_name": "Алматы: дизайн-код города",
+  "canonical_name_en": "Almaty: The Design Code of a City",
+  "title_ru": "Алматы: дизайн-код города",
+  "slug_ru": "almaty-design-code",
+  "status": "published",
+  "last_reviewed": "2026-08-21",
+  "disciplines": [
+    "architecture"
+  ],
+  "sources": [
+    {
+      "id": "src_almaty_design_code_001_01",
+      "title": "Architecture as a determinant in shaping the identity of a city: A case study of Almaty. Urbani izziv 36(1), 2025",
+      "url": "https://www.researchgate.net/publication/393411445_Architecture_as_a_determinant_in_shaping_the_identity_of_a_city_A_case_study_of_Almaty",
+      "publisher": "Urbani izziv",
+      "accessed_date": "2026-08-21",
+      "source_tier": "academic"
+    },
+    {
+      "id": "src_almaty_design_code_001_02",
+      "title": "Градостроительный регламент территории города Алматы. Маслихат Алматы, 2024",
+      "url": "https://adilet.zan.kz/rus/docs/G24R000194M",
+      "publisher": "adilet.zan.kz",
+      "accessed_date": "2026-08-21",
+      "source_tier": "official"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_almaty_design_code_001_thesis",
+      "wording_ru": "Дизайн-код Алматы складывается из отношения рельефа, света, советского модернизма и материалов, а не из отдельных знаковых зданий.",
+      "wording_en": "Almaty's design code emerges from the relationship between topography, light, Soviet modernism and materials, not from individual landmark buildings.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_almaty_design_code_001_tl_grid",
+      "wording_ru": "1850–1900-е — в Алматы закрепляется регулярная уличная сетка вдоль осей север–юг и восток–запад, увязанная с рельефом и вентиляцией.",
+      "wording_en": "1850s–1900s — Almaty's regular street grid along north–south and east–west axes becomes established, tied to topography and ventilation.",
+      "confidence_score": 0.68,
+      "verification_state": "attributed",
+      "date_start": "1850-01-01",
+      "date_precision": "decade"
+    },
+    {
+      "id": "clm_almaty_design_code_001_tl_soviet",
+      "wording_ru": "1960–1980-е — период советской модернистской архитектуры и крупных общественных пространств, определивших сценографию света и тени в городе.",
+      "wording_en": "1960s–1980s — the period of Soviet modernist architecture and major public spaces that shaped the city's light-and-shadow scenography.",
+      "confidence_score": 0.68,
+      "verification_state": "attributed",
+      "date_start": "1960-01-01",
+      "date_precision": "decade"
+    },
+    {
+      "id": "clm_almaty_design_code_001_tl_regulation",
+      "wording_ru": "2024 — маслихат Алматы утверждает действующий градостроительный регламент, описывающий меридиональные улицы как вентиляционные коридоры.",
+      "wording_en": "2024 — the Almaty maslikhat adopts the current urban development regulation describing meridional streets as ventilation corridors.",
+      "confidence_score": 0.8,
+      "verification_state": "verified",
+      "date_start": "2024-01-01",
+      "date_precision": "year"
+    }
+  ],
+  "citations": [
+    { "claim_id": "clm_almaty_design_code_001_thesis", "source_id": "src_almaty_design_code_001_01", "locator": "Article thesis" },
+    { "claim_id": "clm_almaty_design_code_001_tl_grid", "source_id": "src_almaty_design_code_001_01", "locator": "Article timeline" },
+    { "claim_id": "clm_almaty_design_code_001_tl_soviet", "source_id": "src_almaty_design_code_001_01", "locator": "Article timeline" },
+    { "claim_id": "clm_almaty_design_code_001_tl_regulation", "source_id": "src_almaty_design_code_001_02", "locator": "Regulation text" }
+  ],
+  "last_updated": "2026-08-21"
+}

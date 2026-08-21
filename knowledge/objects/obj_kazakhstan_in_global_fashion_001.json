@@ -1,0 +1,94 @@
+{
+  "id": "obj_kazakhstan_in_global_fashion_001",
+  "type": "movement-style",
+  "canonical_name": "Казахстан в мире моды",
+  "canonical_name_en": "Kazakhstan in Global Fashion",
+  "title_ru": "Казахстан в мире моды",
+  "slug_ru": "kazakhstan-in-global-fashion",
+  "status": "published",
+  "last_reviewed": "2026-08-21",
+  "disciplines": [
+    "fashion"
+  ],
+  "sources": [
+    {
+      "id": "src_kazakhstan_in_global_fashion_001_01",
+      "title": "Forbes Kazakhstan: Академии моды «Сымбат» — 70 лет",
+      "url": "https://forbes.kz/articles/modnyiy_biznes_akademii_modyi_syimbat_70_let",
+      "publisher": "Forbes Kazakhstan",
+      "accessed_date": "2026-08-21",
+      "source_tier": "media"
+    },
+    {
+      "id": "src_kazakhstan_in_global_fashion_001_02",
+      "title": "Kazakhstan Fashion Week: история успеха",
+      "url": "https://kfw.kz/post/kazakhstan-fashion-week-istoriya-uspexa",
+      "publisher": "Kazakhstan Fashion Week",
+      "accessed_date": "2026-08-21",
+      "source_tier": "industry"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_kazakhstan_in_global_fashion_001_thesis",
+      "wording_ru": "Казахстанская мода прошла путь от республиканского дома моделей к независимым брендам, международным неделям моды и байерам.",
+      "wording_en": "Kazakhstani fashion moved from a republican fashion-model house to independent brands, international fashion weeks and buyers.",
+      "confidence_score": 0.72,
+      "verification_state": "attributed"
+    },
+    {
+      "id": "clm_kazakhstan_in_global_fashion_001_tl_1947",
+      "wording_ru": "1947 — открытие Республиканского дома моделей одежды, институциональная точка отсчёта казахстанской модной индустрии.",
+      "wording_en": "1947 — the founding of the Republican House of Fashion Models, the institutional starting point of Kazakhstan's fashion industry.",
+      "confidence_score": 0.75,
+      "verification_state": "attributed",
+      "date_start": "1947-01-01",
+      "date_precision": "year"
+    },
+    {
+      "id": "clm_kazakhstan_in_global_fashion_001_tl_1958",
+      "wording_ru": "1958 — выходит первый журнал мод «Сымбат».",
+      "wording_en": "1958 — the first fashion magazine, \"Sымbat,\" is launched.",
+      "confidence_score": 0.75,
+      "verification_state": "attributed",
+      "date_start": "1958-01-01",
+      "date_precision": "year"
+    },
+    {
+      "id": "clm_kazakhstan_in_global_fashion_001_tl_2004",
+      "wording_ru": "2004 — стартует Almaty Fashion Week.",
+      "wording_en": "2004 — Almaty Fashion Week launches.",
+      "confidence_score": 0.75,
+      "verification_state": "attributed",
+      "date_start": "2004-01-01",
+      "date_precision": "year"
+    },
+    {
+      "id": "clm_kazakhstan_in_global_fashion_001_tl_2014",
+      "wording_ru": "2014 — проходит первая Mercedes-Benz Fashion Week Almaty.",
+      "wording_en": "2014 — the first Mercedes-Benz Fashion Week Almaty is held.",
+      "confidence_score": 0.78,
+      "verification_state": "attributed",
+      "date_start": "2014-01-01",
+      "date_precision": "year"
+    },
+    {
+      "id": "clm_kazakhstan_in_global_fashion_001_tl_2019",
+      "wording_ru": "2019 — проходит Visa Fashion Week Almaty.",
+      "wording_en": "2019 — Visa Fashion Week Almaty is held.",
+      "confidence_score": 0.75,
+      "verification_state": "attributed",
+      "date_start": "2019-01-01",
+      "date_precision": "year"
+    }
+  ],
+  "citations": [
+    { "claim_id": "clm_kazakhstan_in_global_fashion_001_thesis", "source_id": "src_kazakhstan_in_global_fashion_001_02", "locator": "Article thesis" },
+    { "claim_id": "clm_kazakhstan_in_global_fashion_001_tl_1947", "source_id": "src_kazakhstan_in_global_fashion_001_01", "locator": "Article timeline" },
+    { "claim_id": "clm_kazakhstan_in_global_fashion_001_tl_1958", "source_id": "src_kazakhstan_in_global_fashion_001_01", "locator": "Article timeline" },
+    { "claim_id": "clm_kazakhstan_in_global_fashion_001_tl_2004", "source_id": "src_kazakhstan_in_global_fashion_001_02", "locator": "Article timeline" },
+    { "claim_id": "clm_kazakhstan_in_global_fashion_001_tl_2014", "source_id": "src_kazakhstan_in_global_fashion_001_02", "locator": "Article timeline" },
+    { "claim_id": "clm_kazakhstan_in_global_fashion_001_tl_2019", "source_id": "src_kazakhstan_in_global_fashion_001_02", "locator": "Article timeline" }
+  ],
+  "last_updated": "2026-08-21"
+}
