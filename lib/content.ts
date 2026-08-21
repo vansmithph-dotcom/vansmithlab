@@ -14,6 +14,11 @@ export type ContentMetadata = {
   portrait_image?: MediaReference;
   inline_media?: InlineMediaReference[];
   translation?: { source_locale: "ru"; source_revision: number; semantic_validated: boolean; review_run_id: string };
+  /** Author-declared cross-references from `[ARTICLE_META] related_slugs:` in the source
+   *  .docx. Populated and kept bidirectional by scripts/convert-docx.py — see the
+   *  comment above `OWNED` there. Always same-locale slugs (a RU article links to
+   *  other RU articles; the EN pair is resolved separately via findTranslation). */
+  related?: { slug: string; locale: Locale }[];
 };
 export type MediaReference = {
   src: string;
@@ -144,10 +149,15 @@ function sharedValues(left: string[] = [], right: string[] = []) {
 
 /** Deterministic editorial neighbours used for visible cross-links and JSON-LD. */
 export function relatedContent(item: ContentMetadata, limit = 3): ContentMetadata[] {
+  const declared = new Set((item.related ?? []).map((r) => `${r.locale}/${r.slug}`));
   return listContent(item.locale)
     .filter((candidate) => candidate.content_id !== item.content_id)
     .map((candidate) => {
       let score = 0;
+      // Author-declared cross-references (`related_slugs:` in the docx) always
+      // outrank the algorithmic score below, so an editorially wired series
+      // (e.g. a how-to workflow) reliably surfaces first.
+      if (declared.has(`${candidate.locale}/${candidate.slug}`)) score += 100;
       if (candidate.primary_object_id === item.primary_object_id) score += 20;
       if (sectionForContentType(candidate.content_type) === sectionForContentType(item.content_type)) score += 7;
       score += sharedValues(item.discipline, candidate.discipline) * 5;
