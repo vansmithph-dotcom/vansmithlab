@@ -41,8 +41,8 @@
     "source_url": "",
     "disclosure": "AI-generated editorial illustration; not documentary evidence.",
     "locale": "ru",
-    "width": 2360,
-    "height": 3564,
+    "width": 1536,
+    "height": 1024,
     "mime_type": "image/jpeg"
   },
   "inline_media": [
@@ -110,6 +110,24 @@
       "licence_or_permission": "Original VANSMITHLAB AI illustration; owned editorial asset.",
       "width": 1536,
       "height": 1024
+    }
+  ],
+  "related": [
+    {
+      "slug": "light-builds-the-image",
+      "locale": "ru"
+    },
+    {
+      "slug": "composition-without-myths",
+      "locale": "ru"
+    },
+    {
+      "slug": "color-attention-depth-mood",
+      "locale": "ru"
+    },
+    {
+      "slug": "research-find-patterns-not-pictures",
+      "locale": "ru"
     }
   ]
 }
