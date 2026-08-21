@@ -17,7 +17,7 @@ The active operating system for the VANSMITHLAB design encyclopedia. When any do
 | Entry | `00_START_HERE.md` |
 | Product and governance | `01_PRODUCT_CHARTER.md`, `02_OPERATING_PRINCIPLES.md`, `18_SCOPE_AND_GAP_ANALYSIS.md` |
 | Knowledge and trust | `03_KNOWLEDGE_MODEL.md`, `04_DATA_ARCHITECTURE.md`, `05_EVIDENCE_POLICY.md`, `06_CONTENT_MODEL.md`, `20_ANALYSIS_EDITORIAL_STANDARD.md` |
-| Taxonomy and authoring format | `TAXONOMY.md`, `DOCX_SCHEMA.md` |
+| Taxonomy and authoring format | `TAXONOMY.md`, `DOCX_SCHEMA.md`, `GPT_ARTICLE_INSTRUCTIONS.md` |
 | Language, media and AI | `07_LANGUAGE_SYSTEM.md`, `08_MEDIA_AND_RIGHTS.md`, `09_AI_OPERATING_MODEL.md`, `10_AUTOMATION_AND_ESCALATION.md`, `19_VISUAL_EDITORIAL_GUIDE.md` |
 | Product experience | `11_SITE_INFORMATION_ARCHITECTURE.md`, `12_UX_UI_SYSTEM.md`, `13_PUBLICATION_AND_DISTRIBUTION.md` |
 | Implementation | `14_TECHNICAL_DELIVERY.md`, `15_QUALITY_SECURITY_OPERATIONS.md`, `16_DELIVERY_ROADMAP.md` |
