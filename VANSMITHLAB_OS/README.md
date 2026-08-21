@@ -75,6 +75,12 @@ Scoped documentation proposals raised under the non-negotiable rule in `00_START
 | --- | --- |
 | `implementation/AUTOMATION_V1_BRIEF.md` | The first automation implementation |
 
+## Open fix logs
+
+| File | Covers |
+| --- | --- |
+| `work/EDUCATIONAL_P1_REQUIRED_FIXES.md` | Outstanding media-provenance fix required for the VSL_Educational_P1 package before its next update |
+
 ## Canonical rule
 
 If an instruction is absent, do not improvise it inside a one-off article, image, workflow or component. Propose or create the missing OS rule first.
