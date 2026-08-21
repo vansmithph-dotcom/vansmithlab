@@ -30,16 +30,70 @@
       "material": true,
       "verification_state": "attributed",
       "confidence_score": 0.7
+    },
+    {
+      "id": "clm_bauhaus_art_production_system_tl-1",
+      "wording_ru": "1919 — Вальтер Гропиус основывает Staatliches Bauhaus в Веймаре.",
+      "wording_en": "1919 — Walter Gropius founds the Staatliches Bauhaus in Weimar.",
+      "confidence_score": 0.7,
+      "verification_state": "attributed",
+      "date_start": "1919-04-01",
+      "date_precision": "month"
+    },
+    {
+      "id": "clm_bauhaus_art_production_system_tl-2",
+      "wording_ru": "1925 — школа переезжает в Дессау.",
+      "wording_en": "1925 — the school moves to Dessau.",
+      "confidence_score": 0.7,
+      "verification_state": "attributed",
+      "date_start": "1925-01-01",
+      "date_precision": "year"
+    },
+    {
+      "id": "clm_bauhaus_art_production_system_tl-3",
+      "wording_ru": "1926 — открывается комплекс Баухауса в Дессау.",
+      "wording_en": "1926 — the Bauhaus complex opens in Dessau.",
+      "confidence_score": 0.7,
+      "verification_state": "attributed",
+      "date_start": "1926-01-01",
+      "date_precision": "year"
+    },
+    {
+      "id": "clm_bauhaus_art_production_system_tl-4",
+      "wording_ru": "1928 — директором становится Ханнес Майер.",
+      "wording_en": "1928 — Hannes Meyer becomes director.",
+      "confidence_score": 0.7,
+      "verification_state": "attributed",
+      "date_start": "1928-01-01",
+      "date_precision": "year"
+    },
+    {
+      "id": "clm_bauhaus_art_production_system_tl-5",
+      "wording_ru": "1930 — директором становится Людвиг Мис ван дер Роэ.",
+      "wording_en": "1930 — Ludwig Mies van der Rohe becomes director.",
+      "confidence_score": 0.7,
+      "verification_state": "attributed",
+      "date_start": "1930-01-01",
+      "date_precision": "year"
+    },
+    {
+      "id": "clm_bauhaus_art_production_system_tl-6",
+      "wording_ru": "1933 — Баухаус прекращает работу в Берлине.",
+      "wording_en": "1933 — the Bauhaus ceases operations in Berlin.",
+      "confidence_score": 0.7,
+      "verification_state": "attributed",
+      "date_start": "1933-01-01",
+      "date_precision": "year"
     }
   ],
   "sources": [
     {
       "id": "src_be05f4a538fc8409",
-      "title": "Chronology - Institution",
+      "title": "Chronology — Institution",
       "url": "https://bauhaus-dessau.de/en/institution/chronology/",
       "publisher": "Stiftung Bauhaus Dessau",
-      "source_tier": 2,
-      "accessed_at": "2026-08-09"
+      "accessed_date": "2026-08-21",
+      "source_tier": 2
     },
     {
       "id": "src_9c3c193ed8e6449d",
@@ -160,6 +214,42 @@
       "source_id": "src_be05f4a538fc8409",
       "locator": "section",
       "support": "attribution recorded in the editorial DOCX"
+    },
+    {
+      "id": "cit_bauhaus_art_production_system_tl-1",
+      "claim_id": "clm_bauhaus_art_production_system_tl-1",
+      "source_id": "src_be05f4a538fc8409",
+      "locator": "Article timeline"
+    },
+    {
+      "id": "cit_bauhaus_art_production_system_tl-2",
+      "claim_id": "clm_bauhaus_art_production_system_tl-2",
+      "source_id": "src_be05f4a538fc8409",
+      "locator": "Article timeline"
+    },
+    {
+      "id": "cit_bauhaus_art_production_system_tl-3",
+      "claim_id": "clm_bauhaus_art_production_system_tl-3",
+      "source_id": "src_be05f4a538fc8409",
+      "locator": "Article timeline"
+    },
+    {
+      "id": "cit_bauhaus_art_production_system_tl-4",
+      "claim_id": "clm_bauhaus_art_production_system_tl-4",
+      "source_id": "src_be05f4a538fc8409",
+      "locator": "Article timeline"
+    },
+    {
+      "id": "cit_bauhaus_art_production_system_tl-5",
+      "claim_id": "clm_bauhaus_art_production_system_tl-5",
+      "source_id": "src_be05f4a538fc8409",
+      "locator": "Article timeline"
+    },
+    {
+      "id": "cit_bauhaus_art_production_system_tl-6",
+      "claim_id": "clm_bauhaus_art_production_system_tl-6",
+      "source_id": "src_be05f4a538fc8409",
+      "locator": "Article timeline"
     }
   ],
   "relations": [],
@@ -169,5 +259,17 @@
     "note": "RU/EN pair passed structural and source validation; knowledge object derived from the editorial DOCX claim map.",
     "converted_by": "Codex publication workflow",
     "converted_at": "2026-08-11T00:00:00.000Z"
-  }
+  },
+  "canonical_name": "Баухаус v2 — школа, превратившая дизайн в систему",
+  "status": "published",
+  "last_reviewed": "2026-08-21",
+  "disciplines": [
+    "architecture",
+    "art",
+    "graphic-design",
+    "interior-design",
+    "photography",
+    "product-design"
+  ],
+  "last_updated": "2026-08-21"
 }

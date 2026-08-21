@@ -1,0 +1,80 @@
+{
+  "content_id": "cnt_32f77cd641ae30f2",
+  "primary_object_id": "",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "unverified",
+  "confidence_score": 0.0,
+  "claim_ids": [
+    "clm_glasgow_school_of_art_tl-1",
+    "clm_glasgow_school_of_art_tl-2",
+    "clm_glasgow_school_of_art_tl-3",
+    "clm_glasgow_school_of_art_tl-4",
+    "clm_glasgow_school_of_art_tl-5"
+  ],
+  "source_ids": [
+    "src_bb0e77e7f740a772",
+    "src_1e30ffbe2cd5b865",
+    "src_ecc36f00471e1711",
+    "src_0f2d7d493c597e1f",
+    "src_f3733f22c20d7dab",
+    "src_a81f86aecd4ef014"
+  ],
+  "last_reviewed": "2026-08-21",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "glasgow-school-of-art",
+  "title": "Glasgow School of Art — школа, где ремесло стало современным дизайном",
+  "summary": "Глазго, 1845: государственная школа дизайна выросла из промышленного города и получила здание, которое само стало уроком дизайна.",
+  "discipline": [
+    "architecture",
+    "art",
+    "graphic-design",
+    "product-design",
+    "interior-design"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "87ea27dbba49e43748a14f24c96bfe8203fa409a4d98be78e37618dde7726740",
+  "related": [
+    {
+      "slug": "bauhaus-art-production-system",
+      "locale": "ru"
+    },
+    {
+      "slug": "vkhutemas-moscow-laboratory",
+      "locale": "ru"
+    },
+    {
+      "slug": "new-bauhaus-chicago-institute-of-design",
+      "locale": "ru"
+    },
+    {
+      "slug": "black-mountain-college",
+      "locale": "ru"
+    },
+    {
+      "slug": "cranbrook-academy-of-art",
+      "locale": "ru"
+    },
+    {
+      "slug": "hfg-ulm-systemic-design",
+      "locale": "ru"
+    }
+  ],
+  "hero_image": {
+    "src": "/images/articles/glasgow-school-of-art/glasgow-school-of-art-hero.png",
+    "alt": "Оригинальная редакционная иллюстрация к статье; не документальное историческое изображение. — Glasgow School of Art — школа, где ремесло стало современным дизайном",
+    "caption": "Редакционная иллюстрация VANSMITHLAB. Не является исторической фотографией.",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "editorial_basis_recorded",
+    "licence_or_permission": "Original VANSMITHLAB AI illustration; owned editorial asset.",
+    "rights_state": "original_owned",
+    "source_url": "",
+    "disclosure": "AI-generated editorial illustration; not documentary evidence.",
+    "locale": "ru"
+  }
+}

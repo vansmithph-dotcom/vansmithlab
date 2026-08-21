@@ -1,0 +1,76 @@
+{
+  "content_id": "cnt_8b2000dae9864d54",
+  "primary_object_id": "",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "unverified",
+  "confidence_score": 0.0,
+  "claim_ids": [
+    "clm_vkhutemas_moscow_laboratory_tl-1",
+    "clm_vkhutemas_moscow_laboratory_tl-2",
+    "clm_vkhutemas_moscow_laboratory_tl-3"
+  ],
+  "source_ids": [
+    "src_56245cb074d0561a",
+    "src_c441d41c588cec22",
+    "src_1ff960f1036539b0",
+    "src_afae4d719fa6ca20"
+  ],
+  "last_reviewed": "2026-08-21",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "vkhutemas-moscow-laboratory",
+  "title": "VKhUTEMAS — Moscow’s Laboratory for a New World",
+  "summary": "Moscow, 1920–1930: art and technical workshops where the avant-garde tried to connect revolution, production and education.",
+  "discipline": [
+    "architecture",
+    "art",
+    "graphic-design",
+    "product-design",
+    "materials"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "6c48eb195e5fa5eb8797d4a335ddc50f67bf7cf93eb58f65e0fc286dbab4458c",
+  "related": [
+    {
+      "slug": "glasgow-school-of-art",
+      "locale": "en"
+    },
+    {
+      "slug": "bauhaus-art-production-system",
+      "locale": "en"
+    },
+    {
+      "slug": "new-bauhaus-chicago-institute-of-design",
+      "locale": "en"
+    },
+    {
+      "slug": "black-mountain-college",
+      "locale": "en"
+    },
+    {
+      "slug": "cranbrook-academy-of-art",
+      "locale": "en"
+    },
+    {
+      "slug": "hfg-ulm-systemic-design",
+      "locale": "en"
+    }
+  ],
+  "hero_image": {
+    "src": "/images/articles/vkhutemas-moscow-laboratory/vkhutemas-moscow-laboratory-hero.png",
+    "alt": "Original editorial illustration for the article; not a documentary historical image. — VKhUTEMAS — Moscow’s Laboratory for a New World",
+    "caption": "VANSMITHLAB editorial illustration. Not a historical photograph.",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "editorial_basis_recorded",
+    "licence_or_permission": "Original VANSMITHLAB AI illustration; owned editorial asset.",
+    "rights_state": "original_owned",
+    "source_url": "",
+    "disclosure": "AI-generated editorial illustration; not documentary evidence.",
+    "locale": "en"
+  }
+}

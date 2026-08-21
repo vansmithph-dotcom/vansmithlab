@@ -1,0 +1,84 @@
+{
+  "id": "obj_vkhutemas_moscow_laboratory_001",
+  "type": "organization",
+  "canonical_name": "ВХУТЕМАС — московская лаборатория нового мира",
+  "title_ru": "ВХУТЕМАС — московская лаборатория нового мира",
+  "slug_ru": "vkhutemas-moscow-laboratory",
+  "status": "published",
+  "last_reviewed": "2026-08-21",
+  "disciplines": [
+    "architecture",
+    "art",
+    "graphic-design",
+    "materials",
+    "product-design"
+  ],
+  "sources": [
+    {
+      "id": "src_56245cb074d0561a",
+      "title": "MoMA — VKhUTEMAS / Object:Photo",
+      "url": "https://www.moma.org/interactives/objectphoto/schools/15.html",
+      "publisher": "Museum of Modern Art",
+      "accessed_date": "2026-08-20",
+      "source_tier": 2
+    },
+    {
+      "id": "src_afae4d719fa6ca20",
+      "title": "Rodchenko — Stalin’s Power",
+      "url": "https://www.moma.org/interactives/exhibitions/1998/rodchenko/texts/stalins_power.html",
+      "publisher": "The Museum of Modern Art",
+      "accessed_date": "2026-08-21",
+      "source_tier": 2
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_vkhutemas_moscow_laboratory_tl-1",
+      "wording_ru": "1920 — в Москве учреждается ВХУТЕМАС.",
+      "wording_en": "1920 — VKhUTEMAS is established in Moscow.",
+      "confidence_score": 0.7,
+      "verification_state": "attributed",
+      "date_start": "1920-01-01",
+      "date_precision": "year"
+    },
+    {
+      "id": "clm_vkhutemas_moscow_laboratory_tl-2",
+      "wording_ru": "1927 — школа реорганизуется во ВХУТЕИН.",
+      "wording_en": "1927 — the school is reorganised as VKhUTEIN.",
+      "confidence_score": 0.7,
+      "verification_state": "attributed",
+      "date_start": "1927-01-01",
+      "date_precision": "year"
+    },
+    {
+      "id": "clm_vkhutemas_moscow_laboratory_tl-3",
+      "wording_ru": "1930 — ВХУТЕИН закрывается, институциональный эксперимент завершается.",
+      "wording_en": "1930 — VKhUTEIN closes, ending the institutional experiment.",
+      "confidence_score": 0.7,
+      "verification_state": "attributed",
+      "date_start": "1930-01-01",
+      "date_precision": "year"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_vkhutemas_moscow_laboratory_tl-1",
+      "claim_id": "clm_vkhutemas_moscow_laboratory_tl-1",
+      "source_id": "src_56245cb074d0561a",
+      "locator": "Article timeline"
+    },
+    {
+      "id": "cit_vkhutemas_moscow_laboratory_tl-2",
+      "claim_id": "clm_vkhutemas_moscow_laboratory_tl-2",
+      "source_id": "src_afae4d719fa6ca20",
+      "locator": "Article timeline"
+    },
+    {
+      "id": "cit_vkhutemas_moscow_laboratory_tl-3",
+      "claim_id": "clm_vkhutemas_moscow_laboratory_tl-3",
+      "source_id": "src_afae4d719fa6ca20",
+      "locator": "Article timeline"
+    }
+  ],
+  "last_updated": "2026-08-21"
+}

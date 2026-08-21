@@ -4,46 +4,41 @@
   "content_type": "encyclopedia",
   "state": "published",
   "source_locale": "ru",
-  "source_revision": 1,
+  "source_revision": 2,
   "verification_state": "partially_verified",
   "confidence_score": 0.7,
   "claim_ids": [
     "clm_001",
-    "clm_003"
+    "clm_003",
+    "clm_bauhaus_art_production_system_tl-1",
+    "clm_bauhaus_art_production_system_tl-2",
+    "clm_bauhaus_art_production_system_tl-3",
+    "clm_bauhaus_art_production_system_tl-4",
+    "clm_bauhaus_art_production_system_tl-5",
+    "clm_bauhaus_art_production_system_tl-6"
   ],
   "source_ids": [
     "src_be05f4a538fc8409",
-    "src_9c3c193ed8e6449d",
-    "src_90d399bb4addfca7",
-    "src_69a84a31527e014e",
-    "src_ec4a569eeb7e7365",
-    "src_8f1b8c3d1d6de45d",
-    "src_db8488a5251b16e8",
-    "src_924cbcfbf4417b85",
-    "src_be7fbbd547b8274f",
-    "src_3b9ea8cdb2d8ff9d",
-    "src_96bbce1055761ba5",
-    "src_ad47e96f6ff5e302",
-    "src_f87ee59c66d95506",
-    "src_b7bdd20693531b0f"
+    "src_edd354f538322fc8",
+    "src_c441d41c588cec22"
   ],
-  "last_reviewed": "2026-08-12",
+  "last_reviewed": "2026-08-21",
   "author": "VANSMITHLAB",
   "locale": "en",
   "slug": "bauhaus-art-production-system",
-  "title": "Bauhaus",
-  "summary": "A unified system of art and production",
+  "title": "Bauhaus v2 — The School That Turned Design into a System",
+  "summary": "Weimar, Dessau, Berlin, 1919–1933: fourteen years that changed design education, objects, graphics and architecture.",
   "discipline": [
     "architecture",
-    "interior-design",
-    "product-design",
+    "art",
     "graphic-design",
-    "photography",
-    "fashion"
+    "product-design",
+    "interior-design",
+    "photography"
   ],
   "kind": "movement-style",
   "role": [],
-  "body_hash": "d20ae55794a096ae5ec567c8c1fbd01c326ddbbe809c1886dc4b286570ddca38",
+  "body_hash": "c14063622040de2e4b29ea1b0b6f8883e3a22112f56e6a4a6049dec03bf1d58f",
   "translation": {
     "source_locale": "ru",
     "source_revision": 1,
@@ -51,10 +46,42 @@
     "review_run_id": "release-9-2026-08-11"
   },
   "hero_image": {
-    "src": "/images/encyclopedia/bauhaus-art-production-system-hero-v1.webp",
-    "alt": "Editorial AI illustration: A unified system of art and production: an editorial visualization of the Bauhaus.",
-    "caption": "A unified system of art and production: an editorial visualization of the Bauhaus.",
-    "credit": "VANSMITHLAB · AI illustration, 2026",
-    "origin": "ai_illustration"
-  }
+    "src": "/images/articles/bauhaus-art-production-system/bauhaus-art-production-system-hero.png",
+    "alt": "Original editorial illustration for the article; not a documentary historical image. — Bauhaus v2 — The School That Turned Design into a System",
+    "caption": "VANSMITHLAB editorial illustration. Not a historical photograph.",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "editorial_basis_recorded",
+    "licence_or_permission": "Original VANSMITHLAB AI illustration; owned editorial asset.",
+    "rights_state": "original_owned",
+    "source_url": "",
+    "disclosure": "AI-generated editorial illustration; not documentary evidence.",
+    "locale": "en"
+  },
+  "related": [
+    {
+      "slug": "glasgow-school-of-art",
+      "locale": "en"
+    },
+    {
+      "slug": "vkhutemas-moscow-laboratory",
+      "locale": "en"
+    },
+    {
+      "slug": "new-bauhaus-chicago-institute-of-design",
+      "locale": "en"
+    },
+    {
+      "slug": "black-mountain-college",
+      "locale": "en"
+    },
+    {
+      "slug": "cranbrook-academy-of-art",
+      "locale": "en"
+    },
+    {
+      "slug": "hfg-ulm-systemic-design",
+      "locale": "en"
+    }
+  ]
 }

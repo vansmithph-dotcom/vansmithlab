@@ -1,0 +1,77 @@
+{
+  "content_id": "cnt_94ac10ad27789ec7",
+  "primary_object_id": "",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "unverified",
+  "confidence_score": 0.0,
+  "claim_ids": [
+    "clm_hfg_ulm_systemic_design_tl-1",
+    "clm_hfg_ulm_systemic_design_tl-2",
+    "clm_hfg_ulm_systemic_design_tl-3",
+    "clm_hfg_ulm_systemic_design_tl-4"
+  ],
+  "source_ids": [
+    "src_320203fb6e4ee4ef",
+    "src_bc570b463ac4364e",
+    "src_fb7022ee0f64eff8",
+    "src_f5525d19e538a104"
+  ],
+  "last_reviewed": "2026-08-21",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "hfg-ulm-systemic-design",
+  "title": "HfG Ulm — When Design Tried to Become Almost a Science",
+  "summary": "Ulm, 1953–1968: a postwar school connected democracy, industry, visual communication and systems thinking.",
+  "discipline": [
+    "graphic-design",
+    "product-design",
+    "architecture",
+    "media-publishing",
+    "technology"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "125afbcf9f4406aa483cd6569f43f89cfc983f060529b7775ea0dbaab4b1cbcc",
+  "related": [
+    {
+      "slug": "glasgow-school-of-art",
+      "locale": "en"
+    },
+    {
+      "slug": "bauhaus-art-production-system",
+      "locale": "en"
+    },
+    {
+      "slug": "vkhutemas-moscow-laboratory",
+      "locale": "en"
+    },
+    {
+      "slug": "new-bauhaus-chicago-institute-of-design",
+      "locale": "en"
+    },
+    {
+      "slug": "black-mountain-college",
+      "locale": "en"
+    },
+    {
+      "slug": "cranbrook-academy-of-art",
+      "locale": "en"
+    }
+  ],
+  "hero_image": {
+    "src": "/images/articles/hfg-ulm-systemic-design/hfg-ulm-systemic-design-hero.png",
+    "alt": "Original editorial illustration for the article; not a documentary historical image. — HfG Ulm — When Design Tried to Become Almost a Science",
+    "caption": "VANSMITHLAB editorial illustration. Not a historical photograph.",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "editorial_basis_recorded",
+    "licence_or_permission": "Original VANSMITHLAB AI illustration; owned editorial asset.",
+    "rights_state": "original_owned",
+    "source_url": "",
+    "disclosure": "AI-generated editorial illustration; not documentary evidence.",
+    "locale": "en"
+  }
+}

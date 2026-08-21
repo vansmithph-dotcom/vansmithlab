@@ -1,0 +1,75 @@
+{
+  "content_id": "cnt_32cb2cd2f4d14b80",
+  "primary_object_id": "",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "unverified",
+  "confidence_score": 0.0,
+  "claim_ids": [
+    "clm_cranbrook_academy_of_art_tl-1",
+    "clm_cranbrook_academy_of_art_tl-2",
+    "clm_cranbrook_academy_of_art_tl-3"
+  ],
+  "source_ids": [
+    "src_bb4ef397ceb6c7cf",
+    "src_1a6c8985b33a4470",
+    "src_35b4829455e0b88c"
+  ],
+  "last_reviewed": "2026-08-21",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "cranbrook-academy-of-art",
+  "title": "Cranbrook Academy of Art — The Laboratory That Shaped American Design",
+  "summary": "Michigan: Eliel Saarinen’s campus turned education into life inside a total design environment — from furniture and textiles to graphics.",
+  "discipline": [
+    "architecture",
+    "product-design",
+    "graphic-design",
+    "interior-design",
+    "art"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "f20368359c219f74ea1bd9785ec13df55ee1e1acba208ea8f0550370f7637818",
+  "related": [
+    {
+      "slug": "glasgow-school-of-art",
+      "locale": "en"
+    },
+    {
+      "slug": "bauhaus-art-production-system",
+      "locale": "en"
+    },
+    {
+      "slug": "vkhutemas-moscow-laboratory",
+      "locale": "en"
+    },
+    {
+      "slug": "new-bauhaus-chicago-institute-of-design",
+      "locale": "en"
+    },
+    {
+      "slug": "black-mountain-college",
+      "locale": "en"
+    },
+    {
+      "slug": "hfg-ulm-systemic-design",
+      "locale": "en"
+    }
+  ],
+  "hero_image": {
+    "src": "/images/articles/cranbrook-academy-of-art/cranbrook-academy-of-art-hero.png",
+    "alt": "Original editorial illustration for the article; not a documentary historical image. — Cranbrook Academy of Art — The Laboratory That Shaped American Design",
+    "caption": "VANSMITHLAB editorial illustration. Not a historical photograph.",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "editorial_basis_recorded",
+    "licence_or_permission": "Original VANSMITHLAB AI illustration; owned editorial asset.",
+    "rights_state": "original_owned",
+    "source_url": "",
+    "disclosure": "AI-generated editorial illustration; not documentary evidence.",
+    "locale": "en"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": "obj_hfg_ulm_systemic_design_001",
+  "type": "organization",
+  "canonical_name": "HfG Ulm — когда дизайн попытались превратить почти в науку",
+  "title_ru": "HfG Ulm — когда дизайн попытались превратить почти в науку",
+  "slug_ru": "hfg-ulm-systemic-design",
+  "status": "published",
+  "last_reviewed": "2026-08-21",
+  "disciplines": [
+    "architecture",
+    "graphic-design",
+    "media-publishing",
+    "product-design",
+    "technology"
+  ],
+  "sources": [
+    {
+      "id": "src_fb7022ee0f64eff8",
+      "title": "History — HfG Ulm",
+      "url": "https://www.hfg-ulm.de/en/hfg-ulm/history/",
+      "publisher": "HfG Ulm",
+      "accessed_date": "2026-08-21",
+      "source_tier": 2
+    },
+    {
+      "id": "src_bc570b463ac4364e",
+      "title": "History — HfG Archiv Ulm",
+      "url": "https://hfg-archiv.museumulm.de/en/the-hfg-archive/history/",
+      "publisher": "HfG-Archiv / Museum Ulm",
+      "accessed_date": "2026-08-21",
+      "source_tier": 2
+    },
+    {
+      "id": "src_f5525d19e538a104",
+      "title": "HfG Ulm Collection",
+      "url": "https://museumulm.de/en/collections/hfg-ulm/",
+      "publisher": "Museum Ulm",
+      "accessed_date": "2026-08-21",
+      "source_tier": 2
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_hfg_ulm_systemic_design_tl-1",
+      "wording_ru": "1953 — начинаются занятия HfG Ulm; первые 21 студент учатся во временных помещениях.",
+      "wording_en": "1953 — HfG Ulm teaching begins; the first 21 students study in temporary rooms.",
+      "confidence_score": 0.7,
+      "verification_state": "attributed",
+      "date_start": "1953-08-03",
+      "date_precision": "day"
+    },
+    {
+      "id": "clm_hfg_ulm_systemic_design_tl-2",
+      "wording_ru": "1955 — официально открывается кампус HfG, спроектированный Максом Биллом.",
+      "wording_en": "1955 — the HfG campus designed by Max Bill officially opens.",
+      "confidence_score": 0.7,
+      "verification_state": "attributed",
+      "date_start": "1955-01-01",
+      "date_precision": "year"
+    },
+    {
+      "id": "clm_hfg_ulm_systemic_design_tl-3",
+      "wording_ru": "1957 — Макс Билл окончательно покидает HfG на фоне конфликта о модели преподавания.",
+      "wording_en": "1957 — Max Bill finally leaves HfG amid conflict over the teaching model.",
+      "confidence_score": 0.7,
+      "verification_state": "attributed",
+      "date_start": "1957-01-01",
+      "date_precision": "year"
+    },
+    {
+      "id": "clm_hfg_ulm_systemic_design_tl-4",
+      "wording_ru": "1968 — HfG Ulm закрывается.",
+      "wording_en": "1968 — HfG Ulm closes.",
+      "confidence_score": 0.7,
+      "verification_state": "attributed",
+      "date_start": "1968-01-01",
+      "date_precision": "year"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_hfg_ulm_systemic_design_tl-1",
+      "claim_id": "clm_hfg_ulm_systemic_design_tl-1",
+      "source_id": "src_fb7022ee0f64eff8",
+      "locator": "Article timeline"
+    },
+    {
+      "id": "cit_hfg_ulm_systemic_design_tl-2",
+      "claim_id": "clm_hfg_ulm_systemic_design_tl-2",
+      "source_id": "src_bc570b463ac4364e",
+      "locator": "Article timeline"
+    },
+    {
+      "id": "cit_hfg_ulm_systemic_design_tl-3",
+      "claim_id": "clm_hfg_ulm_systemic_design_tl-3",
+      "source_id": "src_bc570b463ac4364e",
+      "locator": "Article timeline"
+    },
+    {
+      "id": "cit_hfg_ulm_systemic_design_tl-4",
+      "claim_id": "clm_hfg_ulm_systemic_design_tl-4",
+      "source_id": "src_f5525d19e538a104",
+      "locator": "Article timeline"
+    }
+  ],
+  "last_updated": "2026-08-21"
+}
