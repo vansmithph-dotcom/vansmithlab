@@ -1,0 +1,76 @@
+{
+  "content_id": "cnt_4b0e20639bd0a4d4",
+  "primary_object_id": "",
+  "content_type": "encyclopedia",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "unverified",
+  "confidence_score": 0.0,
+  "claim_ids": [],
+  "source_ids": [
+    "src_c2fdc361abdb1f04",
+    "src_af0937d04644f75a",
+    "src_f50392748fb77928",
+    "src_88b9f3b5d687f2c4",
+    "src_b4ba15e77148c9f1",
+    "src_0a43693c34b173db"
+  ],
+  "last_reviewed": "2026-08-21",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "ethnic-kazakh-design-code",
+  "title": "Этнический казахский дизайн: полный визуальный код",
+  "summary": "Юрта, конструкция, орнамент, материал, ритм и цвет — как читать наследие без декоративного фольклора",
+  "discipline": [
+    "materials",
+    "art"
+  ],
+  "kind": "material-technique",
+  "role": [],
+  "body_hash": "71e13c5de91e955f5844aa4c60f3aab9516997d6d672591da63372740174e884",
+  "hero_image": {
+    "src": "/images/articles/ethnic-kazakh-design-code/ethnic-kazakh-design-code-hero.png",
+    "alt": "Этнический казахский дизайн: полный визуальный код — original editorial AI illustration.",
+    "caption": "Юрта изнутри: круглый план, решётка, шанырак и натяжение оболочки как инженерная система.",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "editorial_basis_recorded",
+    "licence_or_permission": "Original VANSMITHLAB AI illustration; owned editorial asset.",
+    "rights_state": "original_owned",
+    "source_url": "",
+    "disclosure": "AI-generated editorial illustration; not documentary evidence.",
+    "locale": "ru",
+    "width": 1412,
+    "height": 941,
+    "mime_type": "image/png"
+  },
+  "inline_media": [
+    {
+      "asset_id": "asset_ethnic-kazakh-design-code_inline_01_ru_v1",
+      "after_heading": "Reader question",
+      "src": "/images/articles/ethnic-kazakh-design-code/ethnic-kazakh-design-code-inline-1.png",
+      "alt": "Войлок, дерево, кожа и металл — материальный язык казахского дизайна.",
+      "caption": "Войлок, дерево, кожа и металл — материальный язык казахского дизайна.",
+      "credit": "VANSMITHLAB",
+      "origin": "ai_illustration",
+      "rights_status": "editorial_basis_recorded",
+      "licence_or_permission": "Original VANSMITHLAB AI illustration; owned editorial asset.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "asset_id": "asset_ethnic-kazakh-design-code_inline_02_ru_v1",
+      "after_heading": "Core Idea: Юрта как инженерная система",
+      "src": "/images/articles/ethnic-kazakh-design-code/ethnic-kazakh-design-code-inline-2.png",
+      "alt": "Современное пространство, наследующее круг, каркас и верхний свет юрты.",
+      "caption": "Современное пространство, наследующее круг, каркас и верхний свет юрты.",
+      "credit": "VANSMITHLAB",
+      "origin": "ai_illustration",
+      "rights_status": "editorial_basis_recorded",
+      "licence_or_permission": "Original VANSMITHLAB AI illustration; owned editorial asset.",
+      "width": 1536,
+      "height": 1024
+    }
+  ]
+}

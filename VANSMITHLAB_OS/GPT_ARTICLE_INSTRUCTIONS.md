@@ -1,0 +1,280 @@
+# Инструкция для ChatGPT — создание статей и иллюстраций для VANSMITHLAB
+
+Отдавай этот файл ChatGPT целиком в начале задачи на генерацию новой статьи (или пары статей RU/EN). Он собран из
+`DOCX_SCHEMA.md` v1.3, `05_EVIDENCE_POLICY.md` и `08_MEDIA_AND_RIGHTS.md` — актуальных правил сайта на
+2026-08-21. Если что-то в этих трёх документах поменяется, обнови и этот файл.
+
+**Почему это важно:** пакет статей, который пришёл без этих правил, провалил проверку структуры (0 из 6
+файлов прошли `validate-structure.py`) и потребовал полной пересборки вручную. Следуя этой инструкции с самого
+начала, ChatGPT сразу выдаёт файлы, которые проходят конвертер без доработки.
+
+---
+
+## 1. Формат файла — .docx, не markdown
+
+Каждая статья — отдельный `.docx`-файл. RU и EN — два отдельных файла с одинаковыми ID секций.
+Один абзац Word = один абзац текста. Никакого markdown-форматирования внутри — конвертер сам добавляет вёрстку.
+Теги идут отдельной строкой, в квадратных скобках, у каждого открывающего тега есть закрывающий.
+
+## 2. Обязательные блоки и порядок
+
+```
+[ARTICLE_META] ... [/ARTICLE_META]
+[HERO] ... [/HERO]
+[TOC] ... [/TOC]
+[SECTION id="editorial-thesis"] ... [/SECTION]
+[SECTION id="reader-question"] ... [/SECTION]
+[SECTION id="short-answer"] ... [/SECTION]
+[SECTION id="sec-1"] ... [/SECTION]
+[SECTION id="sec-2"] ... [/SECTION]
+... (sec-N по порядку, без пропусков)
+[MEDIA_SLOT id="..."] ... [/MEDIA_SLOT]   (между секциями, по одному на изображение)
+[SOURCES id="sources"] ... [/SOURCES]
+[SEO id="seo"] ... [/SEO]
+[RELEASE_CHECKLIST id="release-checklist"] ... [/RELEASE_CHECKLIST]
+```
+
+Никаких других названий блоков (`01 ARTICLE META`, `05 EDITORIAL THESIS` и т.п. — неправильно). Только теги в
+квадратных скобках, как показано выше.
+
+### 2.1 ARTICLE_META (первый блок, обязателен)
+
+Все поля — в ОДНУ строку, разделитель между парами `|`, между ключом и значением `: `.
+
+```
+[ARTICLE_META]
+slug: your-slug|language: ru|discipline: architecture|kind: person|role: architect|category: architects|author: VANSMITHLAB|status: master|source_revision: 1|layout_schema: v1|paired_document_id: VSL-XX-001
+[/ARTICLE_META]
+```
+
+- `slug` — латиница, только строчные буквы и дефисы, одинаковый в RU и EN.
+- `language` — `ru` или `en`.
+- `discipline` — одна или несколько через запятую, ТОЛЬКО из списка: `architecture`, `fashion`, `art`,
+  `photography`, `graphic-design`, `product-design`, `interior-design`, `media-publishing`, `materials`,
+  `technology`.
+- `kind` — ровно одно значение из: `person`, `organization`, `material-technique`, `work`, `movement-style`,
+  `place`, `event-exhibition`, `term`, `theme`. Это то, о ЧЁМ статья (не что она упоминает).
+- `role` — только если `kind: person`. Одна или несколько через запятую из: `architect`, `artist`,
+  `fashion-designer`, `photographer`, `art-director`, `graphic-designer`, `fashion-editor`, `stylist`,
+  `curator`, `industrial-designer`, `interior-designer`, `illustrator`, `critic-theorist`.
+- `category` — НЕ прописывай сам, её вычисляет конвертер.
+- `author: VANSMITHLAB` — всегда так.
+- `status` — `master` (оригинал, обычно RU) или `translation` (перевод, обычно EN).
+- `source_revision` — целое число, начинается с `1`.
+- `layout_schema: v1` — всегда так.
+- `paired_document_id` — один и тот же код у пары RU+EN, например `VSL-PR-001`.
+
+### 2.2 HERO (обязателен)
+
+Три строки: заголовок, подзаголовок (факт, без маркетинга), редакционная цитата-хук (1–3 предложения).
+
+```
+[HERO]
+Полное имя/название
+Подзаголовок — одна фактическая фраза
+Цитата-хук — 1–3 предложения, объясняющие значимость темы.
+[/HERO]
+```
+
+### 2.3 TOC (обязателен, сразу после HERO)
+
+По одной строке на нумерованную секцию, в том же порядке и с той же формулировкой, что заголовок секции.
+Количество строк = количеству `sec-N` секций. Приложения (Хронология, Глоссарий) в TOC не входят.
+
+### 2.4 SECTION (повторяется, обычно 30+ на статью)
+
+```
+[SECTION id="sec-1"]
+1. Заголовок секции
+Текст абзаца. Ссылки на источники — вида [^clm_001].
+
+Второй абзац.
+[/SECTION]
+```
+
+- ID: строчные буквы, дефисы, без пробелов, уникальны в файле.
+- Строгий порядок ID: `editorial-thesis` → `reader-question` → `short-answer` → `sec-1`, `sec-2`, `sec-3`... без
+  пропусков → (в конце `sources`, но это отдельный блок SOURCES, не SECTION).
+- RU и EN должны иметь ОДИНАКОВЫЕ ID секций (переводится только текст, не ID).
+- ID вида `1`, `2` или `1-topic-name` — устаревший формат, конвертер их отклоняет.
+- `[^claim_id]` — метки утверждений; реальные ID не обязательны, конвертер сам сопоставит с источниками,
+  главное — использовать их последовательно внутри файла.
+
+### 2.5 MEDIA_SLOT (обязателен для каждого изображения, НЕ вставляй сами картинки в docx)
+
+Для КАЖДОГО планируемого изображения — отдельный блок между секциями:
+
+```
+[MEDIA_SLOT id="XX-HERO-01"]
+placement: after-short-answer
+format: full-width 5:7
+asset: portrait-or-studio-view
+caption_required: yes
+alt_required: yes
+rights_status: to-be-licensed
+reference_url: https://example.org/source-page
+asset_url: https://example.org/image.jpg
+creator_or_rightsholder: Имя или институция
+title_or_subject: Что изображено
+date_or_context: Год/контекст
+supports: clm_example_id или example-1
+why_it_matters: Почему это доказательство, а не украшение
+suggested_alt_ru: Информативное описание на русском
+suggested_caption_ru: Подпись с автором, контекстом и правами
+rights_basis: rights_to_check
+[/MEDIA_SLOT]
+```
+
+Ключевые правила:
+- `rights_status` — одно из: `to-be-licensed`, `public-domain`, `ai-illustration`, `press-kit`.
+- `rights_basis` — одно из: `rights_to_check`, `public_domain`, `licensed`, `permission_confirmed`,
+  `editorial_basis_recorded`, `ai_illustration`.
+- `reference_url` ОБЯЗАТЕЛЕН для документальных/архивных/лицензированных изображений — ссылка на страницу
+  источника, архивную запись или официальный сайт. Ссылка сама по себе НЕ является лицензией.
+- Не выдумывай `creator_or_rightsholder` — если неизвестно, пиши `unknown`, пока не проверено.
+- Если изображение — оригинальная AI-иллюстрация (не документальное фото), укажи `rights_status: ai-illustration`,
+  `rights_basis: ai_illustration`. Такие изображения никогда не используются как доказательство исторического факта.
+- Минимум для карточки — hero-изображение в формате landscape 3:2 (ratio 1.50:1). Если документальную фотографию
+  нельзя легально/надёжно использовать — делай подписанную оригинальную AI-иллюстрацию.
+- Историческую фактуру AI-иллюстрациями НЕ реконструировать как «доказательство» — только как обозначенную
+  иллюстрацию.
+
+### 2.6 SOURCES (обязателен)
+
+```
+[SOURCES id="sources"]
+E. Sources
+[SOURCE id="S01"]
+Название. Издатель. https://... Accessed 2026-08-21.
+[/SOURCE]
+[SOURCE id="S02"]
+...
+[/SOURCE]
+[/SOURCES]
+```
+
+- Каждый веб-источник ОБЯЗАН иметь полный `https://` URL и дату `Accessed YYYY-MM-DD`. Без URL источник не
+  проходит проверку (`validate-sources.py`), и вся статья блокируется.
+- Печатный источник (книга/каталог) — автор, название, издатель, год, ISBN если есть; URL не придумывать.
+- Просто название издателя без ссылки («Tate. Anish Kapoor materials.») — НЕ источник.
+- Плейсхолдеры вида «to-be-added» — недопустимы.
+- ID вида `S01`, `S02`... по порядку появления в тексте (не по алфавиту).
+- Порядок источников: `[Название]. [Издатель]. [URL] Accessed [ГГГГ-ММ-ДД].`
+
+### 2.7 SEO (обязателен)
+
+```
+[SEO id="seo"]
+meta_title: ...
+meta_description: ...
+keywords: ...
+[/SEO]
+```
+
+### 2.8 RELEASE_CHECKLIST (обязателен)
+
+```
+[RELEASE_CHECKLIST id="release-checklist"]
+[ ] RU и EN секции синхронизированы по ID.
+[ ] Источники проверены и имеют рабочие ссылки.
+[ ] У каждого media slot указаны asset, placement, caption, alt, rights_status.
+[ ] Текущая информация о выставках/событиях актуальна.
+[/RELEASE_CHECKLIST]
+```
+
+---
+
+## 3. Иерархия достоверности источников (используй именно такой приоритет)
+
+1. Официальные организации и первичные документы
+2. Музеи, архивы, университеты, научные публикации
+3. Патенты, стандарты, каталоги, прямые интервью
+4. Профессиональные отраслевые издания
+5. Признанные СМИ
+6. Любительские исследования и личные сайты
+7. Анонимные утверждения, слухи — нижний уровень может быть наводкой, но не может в одиночку подтверждать факт
+
+Никогда не выдумывай источник и не подставляй правдоподобную, но непроверенную ссылку.
+
+## 4. Формат для аналитики (analysis, не обычная статья)
+
+Если статья — авторская аналитика (не нейтральная энциклопедическая справка), а argument-driven essay:
+- Нужна конкретная вступительная сцена/кейс и чёткий вопрос читателя, а не абстрактное определение.
+- Минимум 3 источника примеров, явный авторский тезис.
+- Минимум один блок `[CALLOUT type="interpretation"]` — это отличает атрибутированный аргумент от нейтральной
+  статьи.
+- Визуальный пакет: hero + минимум 4 содержательных inline-изображения (обычно 5–8), каждое с полными полями
+  MEDIA_SLOT.
+- Не публикуй сухой материал «тема → история → факты → источники → вывод» как analysis — это должно быть
+  переписано в 8–12 содержательных смысловых ходов.
+
+## 5. Что НЕ делать
+
+- Не вставлять картинки в сам docx — только описания в `[MEDIA_SLOT]`.
+- Не писать `category` вручную — её вычисляет конвертер из `kind` + `role`.
+- Не использовать произвольные названия блоков вместо теговых из этой инструкции.
+- Не оставлять `[SOURCE]` без полного URL и даты доступа.
+- Не приписывать авторство/права на изображение, если оно неизвестно — писать `unknown` или делать оригинальную
+  AI-иллюстрацию с пометкой `ai_illustration`.
+- Не выдавать плейсхолдеры вида «добавить фото сюда» — обязательна полная запись `MEDIA_SLOT`.
+
+## 6. Мини-пример (полный минимальный файл RU)
+
+```
+[ARTICLE_META]
+slug: elsa-schiaparelli|language: ru|discipline: fashion, art|kind: person|role: fashion-designer|category: designers|author: VANSMITHLAB|status: master|source_revision: 1|layout_schema: v1|paired_document_id: VSL-DS-001
+[/ARTICLE_META]
+[HERO]
+Elsa Schiaparelli
+Мода, искусство и сюрреалистический объект
+Скиапарелли не украшала одежду искусством — она превращала платье в носимую скульптуру.
+[/HERO]
+[TOC]
+1. Рим, Нью-Йорк и путь в моду
+2. Париж и первые коллекции
+[/TOC]
+[SECTION id="editorial-thesis"]
+Editorial thesis
+Значение Скиапарелли — в превращении дома моды в лабораторию сотрудничества с художниками.
+[/SECTION]
+[SECTION id="reader-question"]
+Reader question
+Как самоучка из Италии изменила отношения моды, тела и юмора?
+[/SECTION]
+[SECTION id="short-answer"]
+Short answer
+Elsa Schiaparelli родилась в Риме в 1890 году...
+[/SECTION]
+[SECTION id="sec-1"]
+1. Рим, Нью-Йорк и путь в моду
+Текст первой секции. [^clm_001]
+[/SECTION]
+[SECTION id="sec-2"]
+2. Париж и первые коллекции
+Текст второй секции. [^clm_002]
+[/SECTION]
+[SOURCES id="sources"]
+E. Sources
+[SOURCE id="S01"]
+Schiaparelli — official history. Schiaparelli. https://www.schiaparelli.com/en/maison/history Accessed 2026-08-21.
+[/SOURCE]
+[/SOURCES]
+[SEO id="seo"]
+meta_title: Elsa Schiaparelli — мода, искусство и сюрреализм
+meta_description: Скиапарелли превратила моду в сюрреалистический объект.
+keywords: Elsa Schiaparelli, сюрреализм, мода, Dali
+[/SEO]
+[RELEASE_CHECKLIST id="release-checklist"]
+[ ] RU и EN секции синхронизированы по ID.
+[ ] Источники проверены.
+[/RELEASE_CHECKLIST]
+```
+
+EN-версия — та же структура, `language: en`, `status: translation`, переведённые тексты, ОДИНАКОВЫЕ `sec-N` ID,
+тот же `slug` и `paired_document_id`.
+
+---
+
+Источник правил: `VANSMITHLAB_OS/DOCX_SCHEMA.md` v1.3, `VANSMITHLAB_OS/05_EVIDENCE_POLICY.md`,
+`VANSMITHLAB_OS/08_MEDIA_AND_RIGHTS.md`, `VANSMITHLAB_OS/TAXONOMY.md` v2.1. При расхождении — эти документы
+главнее данного файла.
