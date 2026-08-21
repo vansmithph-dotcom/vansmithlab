@@ -1,0 +1,122 @@
+{
+  "id": "obj_glasgow_school_of_art_001",
+  "type": "organization",
+  "canonical_name": "Glasgow School of Art — школа, где ремесло стало современным дизайном",
+  "title_ru": "Glasgow School of Art — школа, где ремесло стало современным дизайном",
+  "slug_ru": "glasgow-school-of-art",
+  "status": "published",
+  "last_reviewed": "2026-08-21",
+  "disciplines": [
+    "architecture",
+    "art",
+    "graphic-design",
+    "interior-design",
+    "product-design"
+  ],
+  "sources": [
+    {
+      "id": "src_bb0e77e7f740a772",
+      "title": "Future Skills — history of the Glasgow Government School of Design",
+      "url": "https://www.gsa.ac.uk/study-at-the-gsa/future-skills",
+      "publisher": "The Glasgow School of Art",
+      "accessed_date": "2026-08-21",
+      "source_tier": 2
+    },
+    {
+      "id": "src_0f2d7d493c597e1f",
+      "title": "Around the Archives — Mackintosh Building competition and construction",
+      "url": "https://radar.gsa.ac.uk/3770/1/SRA_Around_the_Archives_2009_pre-review.pdf",
+      "publisher": "The Glasgow School of Art RADAR",
+      "accessed_date": "2026-08-21",
+      "source_tier": 2
+    },
+    {
+      "id": "src_f3733f22c20d7dab",
+      "title": "Adapting to Change at the Glasgow School of Art",
+      "url": "https://radar.gsa.ac.uk/3495/",
+      "publisher": "The Glasgow School of Art RADAR",
+      "accessed_date": "2026-08-21",
+      "source_tier": 2
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_glasgow_school_of_art_tl-1",
+      "wording_ru": "1845 — открывается Glasgow Government School of Design.",
+      "wording_en": "1845 — Glasgow Government School of Design opens.",
+      "confidence_score": 0.7,
+      "verification_state": "attributed",
+      "date_start": "1845-01-06",
+      "date_precision": "day"
+    },
+    {
+      "id": "clm_glasgow_school_of_art_tl-2",
+      "wording_ru": "1896 — конкурс на новое здание школы выигрывает проект Honeyman and Keppie с Макинтошем.",
+      "wording_en": "1896 — the competition for the new school is won by Honeyman and Keppie with Mackintosh’s design.",
+      "confidence_score": 0.7,
+      "verification_state": "attributed",
+      "date_start": "1896-01-01",
+      "date_precision": "year"
+    },
+    {
+      "id": "clm_glasgow_school_of_art_tl-3",
+      "wording_ru": "1897 — начинается первая очередь строительства Mackintosh Building.",
+      "wording_en": "1897 — the first phase of the Mackintosh Building begins.",
+      "confidence_score": 0.7,
+      "verification_state": "attributed",
+      "date_start": "1897-01-01",
+      "date_precision": "year"
+    },
+    {
+      "id": "clm_glasgow_school_of_art_tl-4",
+      "wording_ru": "1909 — завершается вторая очередь здания.",
+      "wording_en": "1909 — the second phase of the building is completed.",
+      "confidence_score": 0.7,
+      "verification_state": "attributed",
+      "date_start": "1909-01-01",
+      "date_precision": "year"
+    },
+    {
+      "id": "clm_glasgow_school_of_art_tl-5",
+      "wording_ru": "2014 — пожар серьезно повреждает Mackintosh Building.",
+      "wording_en": "2014 — fire severely damages the Mackintosh Building.",
+      "confidence_score": 0.7,
+      "verification_state": "attributed",
+      "date_start": "2014-01-01",
+      "date_precision": "year"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_glasgow_school_of_art_tl-1",
+      "claim_id": "clm_glasgow_school_of_art_tl-1",
+      "source_id": "src_bb0e77e7f740a772",
+      "locator": "Article timeline"
+    },
+    {
+      "id": "cit_glasgow_school_of_art_tl-2",
+      "claim_id": "clm_glasgow_school_of_art_tl-2",
+      "source_id": "src_0f2d7d493c597e1f",
+      "locator": "Article timeline"
+    },
+    {
+      "id": "cit_glasgow_school_of_art_tl-3",
+      "claim_id": "clm_glasgow_school_of_art_tl-3",
+      "source_id": "src_0f2d7d493c597e1f",
+      "locator": "Article timeline"
+    },
+    {
+      "id": "cit_glasgow_school_of_art_tl-4",
+      "claim_id": "clm_glasgow_school_of_art_tl-4",
+      "source_id": "src_0f2d7d493c597e1f",
+      "locator": "Article timeline"
+    },
+    {
+      "id": "cit_glasgow_school_of_art_tl-5",
+      "claim_id": "clm_glasgow_school_of_art_tl-5",
+      "source_id": "src_f3733f22c20d7dab",
+      "locator": "Article timeline"
+    }
+  ],
+  "last_updated": "2026-08-21"
+}

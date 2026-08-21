@@ -1,0 +1,75 @@
+{
+  "id": "obj_new_bauhaus_chicago_institute_of_design_001",
+  "type": "organization",
+  "canonical_name": "New Bauhaus Chicago — как Баухаус переехал в Америку и изменился",
+  "title_ru": "New Bauhaus Chicago — как Баухаус переехал в Америку и изменился",
+  "slug_ru": "new-bauhaus-chicago-institute-of-design",
+  "status": "published",
+  "last_reviewed": "2026-08-21",
+  "disciplines": [
+    "graphic-design",
+    "photography",
+    "product-design",
+    "technology"
+  ],
+  "sources": [
+    {
+      "id": "src_ccac52e9fac0c0d0",
+      "title": "The New Bauhaus — history of the Institute of Design",
+      "url": "https://id.iit.edu/new-bauhaus/",
+      "publisher": "IIT Institute of Design",
+      "accessed_date": "2026-08-21",
+      "source_tier": 2
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_new_bauhaus_chicago_institute_of_design_tl-1",
+      "wording_ru": "1937 — Ласло Мохой-Надь основывает The New Bauhaus в Чикаго.",
+      "wording_en": "1937 — László Moholy-Nagy founds The New Bauhaus in Chicago.",
+      "confidence_score": 0.7,
+      "verification_state": "attributed",
+      "date_start": "1937-01-01",
+      "date_precision": "year"
+    },
+    {
+      "id": "clm_new_bauhaus_chicago_institute_of_design_tl-2",
+      "wording_ru": "1948–1949 — Бакминстер Фуллер преподает в Institute of Design и ведет проект геодезического купола.",
+      "wording_en": "1948–1949 — Buckminster Fuller teaches at the Institute of Design and guides a geodesic-dome project.",
+      "confidence_score": 0.7,
+      "verification_state": "attributed",
+      "date_start": "1948-01-01",
+      "date_precision": "year"
+    },
+    {
+      "id": "clm_new_bauhaus_chicago_institute_of_design_tl-3",
+      "wording_ru": "1955 — при Джее Доблине усиливается системный и функциональный подход.",
+      "wording_en": "1955 — under Jay Doblin, systems and functional approaches intensify.",
+      "confidence_score": 0.7,
+      "verification_state": "attributed",
+      "date_start": "1955-01-01",
+      "date_precision": "year"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_new_bauhaus_chicago_institute_of_design_tl-1",
+      "claim_id": "clm_new_bauhaus_chicago_institute_of_design_tl-1",
+      "source_id": "src_ccac52e9fac0c0d0",
+      "locator": "Article timeline"
+    },
+    {
+      "id": "cit_new_bauhaus_chicago_institute_of_design_tl-2",
+      "claim_id": "clm_new_bauhaus_chicago_institute_of_design_tl-2",
+      "source_id": "src_ccac52e9fac0c0d0",
+      "locator": "Article timeline"
+    },
+    {
+      "id": "cit_new_bauhaus_chicago_institute_of_design_tl-3",
+      "claim_id": "clm_new_bauhaus_chicago_institute_of_design_tl-3",
+      "source_id": "src_ccac52e9fac0c0d0",
+      "locator": "Article timeline"
+    }
+  ],
+  "last_updated": "2026-08-21"
+}

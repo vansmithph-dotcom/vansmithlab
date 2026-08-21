@@ -1,0 +1,80 @@
+{
+  "content_id": "cnt_32f77cd641ae30f2",
+  "primary_object_id": "",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "unverified",
+  "confidence_score": 0.0,
+  "claim_ids": [
+    "clm_glasgow_school_of_art_tl-1",
+    "clm_glasgow_school_of_art_tl-2",
+    "clm_glasgow_school_of_art_tl-3",
+    "clm_glasgow_school_of_art_tl-4",
+    "clm_glasgow_school_of_art_tl-5"
+  ],
+  "source_ids": [
+    "src_bb0e77e7f740a772",
+    "src_1e30ffbe2cd5b865",
+    "src_ecc36f00471e1711",
+    "src_0f2d7d493c597e1f",
+    "src_f3733f22c20d7dab",
+    "src_a81f86aecd4ef014"
+  ],
+  "last_reviewed": "2026-08-21",
+  "author": "VANSMITHLAB",
+  "locale": "en",
+  "slug": "glasgow-school-of-art",
+  "title": "Glasgow School of Art — Where Craft Became Modern Design",
+  "summary": "Glasgow, 1845: a Government School of Design grew out of an industrial city and gained a building that became a design lesson in itself.",
+  "discipline": [
+    "architecture",
+    "art",
+    "graphic-design",
+    "product-design",
+    "interior-design"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "97b883f8b7454038fd36ca6bc3b9374596ff4e739413eb4ef90fee33eb7ec500",
+  "related": [
+    {
+      "slug": "bauhaus-art-production-system",
+      "locale": "en"
+    },
+    {
+      "slug": "vkhutemas-moscow-laboratory",
+      "locale": "en"
+    },
+    {
+      "slug": "new-bauhaus-chicago-institute-of-design",
+      "locale": "en"
+    },
+    {
+      "slug": "black-mountain-college",
+      "locale": "en"
+    },
+    {
+      "slug": "cranbrook-academy-of-art",
+      "locale": "en"
+    },
+    {
+      "slug": "hfg-ulm-systemic-design",
+      "locale": "en"
+    }
+  ],
+  "hero_image": {
+    "src": "/images/articles/glasgow-school-of-art/glasgow-school-of-art-hero.png",
+    "alt": "Original editorial illustration for the article; not a documentary historical image. — Glasgow School of Art — Where Craft Became Modern Design",
+    "caption": "VANSMITHLAB editorial illustration. Not a historical photograph.",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "editorial_basis_recorded",
+    "licence_or_permission": "Original VANSMITHLAB AI illustration; owned editorial asset.",
+    "rights_state": "original_owned",
+    "source_url": "",
+    "disclosure": "AI-generated editorial illustration; not documentary evidence.",
+    "locale": "en"
+  }
+}

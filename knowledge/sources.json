@@ -1,6 +1,6 @@
 {
   "generated_at": "2026-08-21",
-  "count": 960,
+  "count": 986,
   "sources": [
     {
       "id": "src_6428a37f8bcbec74",
@@ -267,6 +267,22 @@
       "accessed_at": "2026-08-15"
     },
     {
+      "id": "src_edd354f538322fc8",
+      "title": "Collection",
+      "url": "https://bauhaus-dessau.de/en/collection/",
+      "publisher": "Stiftung Bauhaus Dessau",
+      "source_tier": 2,
+      "accessed_at": "2026-08-21"
+    },
+    {
+      "id": "src_be05f4a538fc8409",
+      "title": "Chronology — Institution",
+      "url": "https://bauhaus-dessau.de/en/institution/chronology/",
+      "publisher": "Stiftung Bauhaus Dessau",
+      "source_tier": 2,
+      "accessed_at": "2026-08-21"
+    },
+    {
       "id": "src_3f4fbbd27c163860",
       "title": "Official website",
       "url": "https://bbdo.com/",
@@ -497,6 +513,30 @@
       "publisher": "The Cooper Union",
       "source_tier": 2,
       "accessed_at": "2026-08-20"
+    },
+    {
+      "id": "src_35b4829455e0b88c",
+      "title": "History — Cranbrook Educational Community",
+      "url": "https://cranbrook.edu/about/history/",
+      "publisher": "Cranbrook Educational Community",
+      "source_tier": 2,
+      "accessed_at": "2026-08-21"
+    },
+    {
+      "id": "src_1a6c8985b33a4470",
+      "title": "About Cranbrook Academy of Art",
+      "url": "https://cranbrookart.edu/about/",
+      "publisher": "Cranbrook Academy of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-21"
+    },
+    {
+      "id": "src_bb4ef397ceb6c7cf",
+      "title": "History of Art & Design Education",
+      "url": "https://cranbrookart.edu/about/history/",
+      "publisher": "Cranbrook Academy of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-21"
     },
     {
       "id": "src_bff7d4fef59dcd39",
@@ -1179,6 +1219,22 @@
       "accessed_at": "2026-08-21"
     },
     {
+      "id": "src_320203fb6e4ee4ef",
+      "title": "The History of the Ulm School of Design",
+      "url": "https://hfg-archiv.museumulm.de/en/the-hfg-archive/",
+      "publisher": "HfG-Archiv / Museum Ulm",
+      "source_tier": 2,
+      "accessed_at": "2026-08-21"
+    },
+    {
+      "id": "src_bc570b463ac4364e",
+      "title": "History — HfG Archiv Ulm",
+      "url": "https://hfg-archiv.museumulm.de/en/the-hfg-archive/history/",
+      "publisher": "HfG-Archiv / Museum Ulm",
+      "source_tier": 2,
+      "accessed_at": "2026-08-21"
+    },
+    {
       "id": "src_79b2f2f938d5e6ff",
       "title": "The birth of the Web",
       "url": "https://home.cern/science/computing/the-birth-of-the-web/",
@@ -1281,6 +1337,38 @@
       "publisher": "ICONOCLAST",
       "source_tier": 2,
       "accessed_at": "2026-08-15"
+    },
+    {
+      "id": "src_ccac52e9fac0c0d0",
+      "title": "The New Bauhaus — history of the Institute of Design",
+      "url": "https://id.iit.edu/new-bauhaus/",
+      "publisher": "IIT Institute of Design",
+      "source_tier": 2,
+      "accessed_at": "2026-08-21"
+    },
+    {
+      "id": "src_6dfb13b9a1174b25",
+      "title": "ID Today",
+      "url": "https://id.iit.edu/new-bauhaus/id-today/",
+      "publisher": "IIT Institute of Design",
+      "source_tier": 2,
+      "accessed_at": "2026-08-21"
+    },
+    {
+      "id": "src_9129ed31c5d11d11",
+      "title": "Deutsche Welle Explores How Bauhaus Principles Live On at ID",
+      "url": "https://id.iit.edu/story/deutsche-welle-explores-how-bauhaus-principles-live-on-at-id/",
+      "publisher": "IIT Institute of Design",
+      "source_tier": 2,
+      "accessed_at": "2026-08-21"
+    },
+    {
+      "id": "src_24667e1aff47aac8",
+      "title": "The Making of The New Bauhaus and László Moholy-Nagy’s Legacy",
+      "url": "https://id.iit.edu/story/the-making-of-the-new-bauhaus-and-laszlo-moholy-nagys-legacy/",
+      "publisher": "IIT Institute of Design",
+      "source_tier": 2,
+      "accessed_at": "2026-08-21"
     },
     {
       "id": "src_0e99356ea5215157",
@@ -1723,6 +1811,14 @@
       "accessed_at": "2026-08-15"
     },
     {
+      "id": "src_f5525d19e538a104",
+      "title": "HfG Ulm Collection",
+      "url": "https://museumulm.de/en/collections/hfg-ulm/",
+      "publisher": "Museum Ulm",
+      "source_tier": 2,
+      "accessed_at": "2026-08-21"
+    },
+    {
       "id": "src_75012359dfca6d2d",
       "title": "Apple Music",
       "url": "https://music.apple.com/us/album/lemonade/1460430561",
@@ -1959,6 +2055,46 @@
       "title": "Qazaq Republic: official about",
       "url": "https://qazaqrepublic.com/ru/about",
       "publisher": "",
+      "source_tier": 2,
+      "accessed_at": "2026-08-21"
+    },
+    {
+      "id": "src_f3733f22c20d7dab",
+      "title": "Adapting to Change at the Glasgow School of Art",
+      "url": "https://radar.gsa.ac.uk/3495/",
+      "publisher": "The Glasgow School of Art RADAR",
+      "source_tier": 2,
+      "accessed_at": "2026-08-21"
+    },
+    {
+      "id": "src_0f2d7d493c597e1f",
+      "title": "Around the Archives — Mackintosh Building competition and construction",
+      "url": "https://radar.gsa.ac.uk/3770/1/SRA_Around_the_Archives_2009_pre-review.pdf",
+      "publisher": "The Glasgow School of Art RADAR",
+      "source_tier": 2,
+      "accessed_at": "2026-08-21"
+    },
+    {
+      "id": "src_a81f86aecd4ef014",
+      "title": "The Glasgow School of Art Fashion Show, 1947–2017",
+      "url": "https://radar.gsa.ac.uk/5070/",
+      "publisher": "The Glasgow School of Art RADAR",
+      "source_tier": 2,
+      "accessed_at": "2026-08-21"
+    },
+    {
+      "id": "src_1e30ffbe2cd5b865",
+      "title": "State of the art: Glasgow’s Government School of Design and its library 1845–1900",
+      "url": "https://radar.gsa.ac.uk/5414/",
+      "publisher": "The Glasgow School of Art RADAR",
+      "source_tier": 2,
+      "accessed_at": "2026-08-21"
+    },
+    {
+      "id": "src_ecc36f00471e1711",
+      "title": "Drawing Glasgow School of Art: the Glasgow School of Art as a drawing machine",
+      "url": "https://radar.gsa.ac.uk/6358/1/Drawing%20GSA.pdf",
+      "publisher": "The Glasgow School of Art RADAR",
       "source_tier": 2,
       "accessed_at": "2026-08-21"
     },
@@ -3187,6 +3323,38 @@
       "accessed_at": "2026-08-15"
     },
     {
+      "id": "src_8235b5fc07974807",
+      "title": "The Life and Work of an Institution of Progressive Higher Education",
+      "url": "https://www.blackmountaincollege.org/?p=3110",
+      "publisher": "Journal of Black Mountain College Studies",
+      "source_tier": 2,
+      "accessed_at": "2026-08-21"
+    },
+    {
+      "id": "src_b8b48fdeb6ba3d82",
+      "title": "Black Mountain College: Idea + Place",
+      "url": "https://www.blackmountaincollege.org/bmc_idea_and_place/",
+      "publisher": "Black Mountain College Museum + Arts Center",
+      "source_tier": 2,
+      "accessed_at": "2026-08-21"
+    },
+    {
+      "id": "src_1aa8cb3336978c2a",
+      "title": "Explore — Black Mountain College",
+      "url": "https://www.blackmountaincollege.org/explore/",
+      "publisher": "Black Mountain College Museum + Arts Center",
+      "source_tier": 2,
+      "accessed_at": "2026-08-21"
+    },
+    {
+      "id": "src_32d125c8426b729b",
+      "title": "Black Mountain College: A Brief Introduction",
+      "url": "https://www.blackmountaincollege.org/history/",
+      "publisher": "Black Mountain College Museum + Arts Center",
+      "source_tier": 2,
+      "accessed_at": "2026-08-21"
+    },
+    {
       "id": "src_0675b21780b7f8e1",
       "title": "Blender Foundation",
       "url": "https://www.blender.org/",
@@ -4203,6 +4371,14 @@
       "accessed_at": "2026-08-15"
     },
     {
+      "id": "src_bb0e77e7f740a772",
+      "title": "Future Skills — history of the Glasgow Government School of Design",
+      "url": "https://www.gsa.ac.uk/study-at-the-gsa/future-skills",
+      "publisher": "The Glasgow School of Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-21"
+    },
+    {
       "id": "src_f20f73cd03b87ee6",
       "title": "Ouverture of Something That Never Ended — Episode 7",
       "url": "https://www.gucci.com/fi/en_gb/st/stories/article/guccifest-episode-7",
@@ -4321,6 +4497,14 @@
       "publisher": "Herzog & de Meuron",
       "source_tier": 2,
       "accessed_at": "2026-08-15"
+    },
+    {
+      "id": "src_fb7022ee0f64eff8",
+      "title": "History — HfG Ulm",
+      "url": "https://www.hfg-ulm.de/en/hfg-ulm/history/",
+      "publisher": "HfG Ulm",
+      "source_tier": 2,
+      "accessed_at": "2026-08-21"
     },
     {
       "id": "src_6bb19b08d4d98a73",
@@ -5115,6 +5299,14 @@
       "accessed_at": "2026-08-12"
     },
     {
+      "id": "src_c441d41c588cec22",
+      "title": "BAUHAUS↔VKhUTEMAS: Intersecting Parallels",
+      "url": "https://www.moma.org/calendar/exhibitions/5027",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-21"
+    },
+    {
       "id": "src_37db36844e797fdb",
       "title": "Neri Oxman: Material Ecology",
       "url": "https://www.moma.org/calendar/exhibitions/5090",
@@ -5353,6 +5545,22 @@
       "publisher": "Museum of Modern Art",
       "source_tier": 2,
       "accessed_at": "2026-08-15"
+    },
+    {
+      "id": "src_1ff960f1036539b0",
+      "title": "Rodchenko Chronology",
+      "url": "https://www.moma.org/interactives/exhibitions/1998/rodchenko/table.html",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-21"
+    },
+    {
+      "id": "src_afae4d719fa6ca20",
+      "title": "Rodchenko — Stalin’s Power",
+      "url": "https://www.moma.org/interactives/exhibitions/1998/rodchenko/texts/stalins_power.html",
+      "publisher": "The Museum of Modern Art",
+      "source_tier": 2,
+      "accessed_at": "2026-08-21"
     },
     {
       "id": "src_ee61953fae7bdbb0",

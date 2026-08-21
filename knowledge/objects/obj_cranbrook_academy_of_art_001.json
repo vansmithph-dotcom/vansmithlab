@@ -1,0 +1,76 @@
+{
+  "id": "obj_cranbrook_academy_of_art_001",
+  "type": "organization",
+  "canonical_name": "Cranbrook Academy of Art — лаборатория, из которой вырос американский дизайн",
+  "title_ru": "Cranbrook Academy of Art — лаборатория, из которой вырос американский дизайн",
+  "slug_ru": "cranbrook-academy-of-art",
+  "status": "published",
+  "last_reviewed": "2026-08-21",
+  "disciplines": [
+    "architecture",
+    "art",
+    "graphic-design",
+    "interior-design",
+    "product-design"
+  ],
+  "sources": [
+    {
+      "id": "src_bb4ef397ceb6c7cf",
+      "title": "History of Art & Design Education",
+      "url": "https://cranbrookart.edu/about/history/",
+      "publisher": "Cranbrook Academy of Art",
+      "accessed_date": "2026-08-21",
+      "source_tier": 2
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_cranbrook_academy_of_art_tl-1",
+      "wording_ru": "1922 — Элиэль Сааринен участвует в конкурсе Chicago Tribune и вскоре переезжает в США.",
+      "wording_en": "1922 — Eliel Saarinen enters the Chicago Tribune competition and soon moves to the United States.",
+      "confidence_score": 0.7,
+      "verification_state": "attributed",
+      "date_start": "1922-01-01",
+      "date_precision": "year"
+    },
+    {
+      "id": "clm_cranbrook_academy_of_art_tl-2",
+      "wording_ru": "1932 — Сааринен становится первым президентом Cranbrook Academy of Art.",
+      "wording_en": "1932 — Saarinen becomes the first president of Cranbrook Academy of Art.",
+      "confidence_score": 0.7,
+      "verification_state": "attributed",
+      "date_start": "1932-01-01",
+      "date_precision": "year"
+    },
+    {
+      "id": "clm_cranbrook_academy_of_art_tl-3",
+      "wording_ru": "1946 — завершается президентский период Элиэля Сааринена в Академии.",
+      "wording_en": "1946 — Eliel Saarinen’s presidency of the Academy ends.",
+      "confidence_score": 0.7,
+      "verification_state": "attributed",
+      "date_start": "1946-01-01",
+      "date_precision": "year"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_cranbrook_academy_of_art_tl-1",
+      "claim_id": "clm_cranbrook_academy_of_art_tl-1",
+      "source_id": "src_bb4ef397ceb6c7cf",
+      "locator": "Article timeline"
+    },
+    {
+      "id": "cit_cranbrook_academy_of_art_tl-2",
+      "claim_id": "clm_cranbrook_academy_of_art_tl-2",
+      "source_id": "src_bb4ef397ceb6c7cf",
+      "locator": "Article timeline"
+    },
+    {
+      "id": "cit_cranbrook_academy_of_art_tl-3",
+      "claim_id": "clm_cranbrook_academy_of_art_tl-3",
+      "source_id": "src_bb4ef397ceb6c7cf",
+      "locator": "Article timeline"
+    }
+  ],
+  "last_updated": "2026-08-21"
+}

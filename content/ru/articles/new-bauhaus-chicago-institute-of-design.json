@@ -1,0 +1,75 @@
+{
+  "content_id": "cnt_dcfeebc3616ca71f",
+  "primary_object_id": "",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "unverified",
+  "confidence_score": 0.0,
+  "claim_ids": [
+    "clm_new_bauhaus_chicago_institute_of_design_tl-1",
+    "clm_new_bauhaus_chicago_institute_of_design_tl-2",
+    "clm_new_bauhaus_chicago_institute_of_design_tl-3"
+  ],
+  "source_ids": [
+    "src_ccac52e9fac0c0d0",
+    "src_24667e1aff47aac8",
+    "src_6dfb13b9a1174b25",
+    "src_9129ed31c5d11d11"
+  ],
+  "last_reviewed": "2026-08-21",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "new-bauhaus-chicago-institute-of-design",
+  "title": "New Bauhaus Chicago — как Баухаус переехал в Америку и изменился",
+  "summary": "Чикаго, с 1937 года: Мохой-Надь перенес в США не немецкий стиль, а привычку экспериментировать с технологией, фотографией и системой.",
+  "discipline": [
+    "graphic-design",
+    "product-design",
+    "photography",
+    "technology"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "c5ed76404a2bbfb03ac99742b7edfae2042b66966467be4e6c8c64ec81587dca",
+  "related": [
+    {
+      "slug": "glasgow-school-of-art",
+      "locale": "ru"
+    },
+    {
+      "slug": "bauhaus-art-production-system",
+      "locale": "ru"
+    },
+    {
+      "slug": "vkhutemas-moscow-laboratory",
+      "locale": "ru"
+    },
+    {
+      "slug": "black-mountain-college",
+      "locale": "ru"
+    },
+    {
+      "slug": "cranbrook-academy-of-art",
+      "locale": "ru"
+    },
+    {
+      "slug": "hfg-ulm-systemic-design",
+      "locale": "ru"
+    }
+  ],
+  "hero_image": {
+    "src": "/images/articles/new-bauhaus-chicago-institute-of-design/new-bauhaus-chicago-institute-of-design-hero.png",
+    "alt": "Оригинальная редакционная иллюстрация к статье; не документальное историческое изображение. — New Bauhaus Chicago — как Баухаус переехал в Америку и изменился",
+    "caption": "Редакционная иллюстрация VANSMITHLAB. Не является исторической фотографией.",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "editorial_basis_recorded",
+    "licence_or_permission": "Original VANSMITHLAB AI illustration; owned editorial asset.",
+    "rights_state": "original_owned",
+    "source_url": "",
+    "disclosure": "AI-generated editorial illustration; not documentary evidence.",
+    "locale": "ru"
+  }
+}

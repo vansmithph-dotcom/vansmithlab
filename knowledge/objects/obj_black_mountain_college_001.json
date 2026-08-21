@@ -1,0 +1,113 @@
+{
+  "id": "obj_black_mountain_college_001",
+  "type": "organization",
+  "canonical_name": "Black Mountain College — школа без привычных границ",
+  "title_ru": "Black Mountain College — школа без привычных границ",
+  "slug_ru": "black-mountain-college",
+  "status": "published",
+  "last_reviewed": "2026-08-21",
+  "disciplines": [
+    "architecture",
+    "art",
+    "media-publishing",
+    "photography"
+  ],
+  "sources": [
+    {
+      "id": "src_b8b48fdeb6ba3d82",
+      "title": "Black Mountain College: Idea + Place",
+      "url": "https://www.blackmountaincollege.org/bmc_idea_and_place/",
+      "publisher": "Black Mountain College Museum + Arts Center",
+      "accessed_date": "2026-08-21",
+      "source_tier": 2
+    },
+    {
+      "id": "src_32d125c8426b729b",
+      "title": "Black Mountain College: A Brief Introduction",
+      "url": "https://www.blackmountaincollege.org/history/",
+      "publisher": "Black Mountain College Museum + Arts Center",
+      "accessed_date": "2026-08-21",
+      "source_tier": 2
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_black_mountain_college_tl-1",
+      "wording_ru": "1933 — Black Mountain College открывается с 12 преподавателями и 22 студентами.",
+      "wording_en": "1933 — Black Mountain College opens with 12 faculty members and 22 students.",
+      "confidence_score": 0.7,
+      "verification_state": "attributed",
+      "date_start": "1933-09-01",
+      "date_precision": "month"
+    },
+    {
+      "id": "clm_black_mountain_college_tl-2",
+      "wording_ru": "1933 — Йозеф и Анни Альберс приезжают преподавать после закрытия Баухауса.",
+      "wording_en": "1933 — Josef and Anni Albers arrive to teach after the Bauhaus closes.",
+      "confidence_score": 0.7,
+      "verification_state": "attributed",
+      "date_start": "1933-01-01",
+      "date_precision": "year"
+    },
+    {
+      "id": "clm_black_mountain_college_tl-3",
+      "wording_ru": "1952 — проходит Theatre Piece No. 1.",
+      "wording_en": "1952 — Theatre Piece No. 1 takes place.",
+      "confidence_score": 0.7,
+      "verification_state": "attributed",
+      "date_start": "1952-01-01",
+      "date_precision": "year"
+    },
+    {
+      "id": "clm_black_mountain_college_tl-4",
+      "wording_ru": "1953 — в Black Mountain формируется Merce Cunningham Dance Company.",
+      "wording_en": "1953 — the Merce Cunningham Dance Company forms at Black Mountain.",
+      "confidence_score": 0.7,
+      "verification_state": "attributed",
+      "date_start": "1953-01-01",
+      "date_precision": "year"
+    },
+    {
+      "id": "clm_black_mountain_college_tl-5",
+      "wording_ru": "1957 — колледж официально закрывается.",
+      "wording_en": "1957 — the college officially closes.",
+      "confidence_score": 0.7,
+      "verification_state": "attributed",
+      "date_start": "1957-01-01",
+      "date_precision": "year"
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit_black_mountain_college_tl-1",
+      "claim_id": "clm_black_mountain_college_tl-1",
+      "source_id": "src_b8b48fdeb6ba3d82",
+      "locator": "Article timeline"
+    },
+    {
+      "id": "cit_black_mountain_college_tl-2",
+      "claim_id": "clm_black_mountain_college_tl-2",
+      "source_id": "src_32d125c8426b729b",
+      "locator": "Article timeline"
+    },
+    {
+      "id": "cit_black_mountain_college_tl-3",
+      "claim_id": "clm_black_mountain_college_tl-3",
+      "source_id": "src_b8b48fdeb6ba3d82",
+      "locator": "Article timeline"
+    },
+    {
+      "id": "cit_black_mountain_college_tl-4",
+      "claim_id": "clm_black_mountain_college_tl-4",
+      "source_id": "src_b8b48fdeb6ba3d82",
+      "locator": "Article timeline"
+    },
+    {
+      "id": "cit_black_mountain_college_tl-5",
+      "claim_id": "clm_black_mountain_college_tl-5",
+      "source_id": "src_32d125c8426b729b",
+      "locator": "Article timeline"
+    }
+  ],
+  "last_updated": "2026-08-21"
+}

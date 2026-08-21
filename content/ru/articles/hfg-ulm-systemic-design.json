@@ -1,0 +1,77 @@
+{
+  "content_id": "cnt_94ac10ad27789ec7",
+  "primary_object_id": "",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "unverified",
+  "confidence_score": 0.0,
+  "claim_ids": [
+    "clm_hfg_ulm_systemic_design_tl-1",
+    "clm_hfg_ulm_systemic_design_tl-2",
+    "clm_hfg_ulm_systemic_design_tl-3",
+    "clm_hfg_ulm_systemic_design_tl-4"
+  ],
+  "source_ids": [
+    "src_320203fb6e4ee4ef",
+    "src_bc570b463ac4364e",
+    "src_fb7022ee0f64eff8",
+    "src_f5525d19e538a104"
+  ],
+  "last_reviewed": "2026-08-21",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "hfg-ulm-systemic-design",
+  "title": "HfG Ulm — когда дизайн попытались превратить почти в науку",
+  "summary": "Ульм, 1953–1968: послевоенная школа связала демократию, промышленность, визуальную коммуникацию и системное мышление.",
+  "discipline": [
+    "graphic-design",
+    "product-design",
+    "architecture",
+    "media-publishing",
+    "technology"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "09d6a9a1d9bf2b8669b7ae52ac0fc996c7e904861df428e6cd2806085a0decef",
+  "related": [
+    {
+      "slug": "glasgow-school-of-art",
+      "locale": "ru"
+    },
+    {
+      "slug": "bauhaus-art-production-system",
+      "locale": "ru"
+    },
+    {
+      "slug": "vkhutemas-moscow-laboratory",
+      "locale": "ru"
+    },
+    {
+      "slug": "new-bauhaus-chicago-institute-of-design",
+      "locale": "ru"
+    },
+    {
+      "slug": "black-mountain-college",
+      "locale": "ru"
+    },
+    {
+      "slug": "cranbrook-academy-of-art",
+      "locale": "ru"
+    }
+  ],
+  "hero_image": {
+    "src": "/images/articles/hfg-ulm-systemic-design/hfg-ulm-systemic-design-hero.png",
+    "alt": "Оригинальная редакционная иллюстрация к статье; не документальное историческое изображение. — HfG Ulm — когда дизайн попытались превратить почти в науку",
+    "caption": "Редакционная иллюстрация VANSMITHLAB. Не является исторической фотографией.",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "editorial_basis_recorded",
+    "licence_or_permission": "Original VANSMITHLAB AI illustration; owned editorial asset.",
+    "rights_state": "original_owned",
+    "source_url": "",
+    "disclosure": "AI-generated editorial illustration; not documentary evidence.",
+    "locale": "ru"
+  }
+}

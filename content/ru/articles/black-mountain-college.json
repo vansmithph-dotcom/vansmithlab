@@ -1,0 +1,77 @@
+{
+  "content_id": "cnt_8be2c0ee7d23f15c",
+  "primary_object_id": "",
+  "content_type": "research",
+  "state": "published",
+  "source_locale": "ru",
+  "source_revision": 1,
+  "verification_state": "unverified",
+  "confidence_score": 0.0,
+  "claim_ids": [
+    "clm_black_mountain_college_tl-1",
+    "clm_black_mountain_college_tl-2",
+    "clm_black_mountain_college_tl-3",
+    "clm_black_mountain_college_tl-4",
+    "clm_black_mountain_college_tl-5"
+  ],
+  "source_ids": [
+    "src_32d125c8426b729b",
+    "src_b8b48fdeb6ba3d82",
+    "src_1aa8cb3336978c2a",
+    "src_8235b5fc07974807"
+  ],
+  "last_reviewed": "2026-08-21",
+  "author": "VANSMITHLAB",
+  "locale": "ru",
+  "slug": "black-mountain-college",
+  "title": "Black Mountain College — школа без привычных границ",
+  "summary": "Северная Каролина, 1933–1957: маленький колледж сделал искусство центром общего образования и собрал людей, которые изменили послевоенную культуру.",
+  "discipline": [
+    "art",
+    "photography",
+    "architecture",
+    "media-publishing"
+  ],
+  "kind": "organization",
+  "role": [],
+  "body_hash": "20a5adda35ba56908f007358d6cdd87a4a095920bc7538cce54d43fe1dcd4be2",
+  "related": [
+    {
+      "slug": "glasgow-school-of-art",
+      "locale": "ru"
+    },
+    {
+      "slug": "bauhaus-art-production-system",
+      "locale": "ru"
+    },
+    {
+      "slug": "vkhutemas-moscow-laboratory",
+      "locale": "ru"
+    },
+    {
+      "slug": "new-bauhaus-chicago-institute-of-design",
+      "locale": "ru"
+    },
+    {
+      "slug": "cranbrook-academy-of-art",
+      "locale": "ru"
+    },
+    {
+      "slug": "hfg-ulm-systemic-design",
+      "locale": "ru"
+    }
+  ],
+  "hero_image": {
+    "src": "/images/articles/black-mountain-college/black-mountain-college-hero.png",
+    "alt": "Оригинальная редакционная иллюстрация к статье; не документальное историческое изображение. — Black Mountain College — школа без привычных границ",
+    "caption": "Редакционная иллюстрация VANSMITHLAB. Не является исторической фотографией.",
+    "credit": "VANSMITHLAB · original AI illustration, 2026",
+    "origin": "ai_illustration",
+    "rights_status": "editorial_basis_recorded",
+    "licence_or_permission": "Original VANSMITHLAB AI illustration; owned editorial asset.",
+    "rights_state": "original_owned",
+    "source_url": "",
+    "disclosure": "AI-generated editorial illustration; not documentary evidence.",
+    "locale": "ru"
+  }
+}
