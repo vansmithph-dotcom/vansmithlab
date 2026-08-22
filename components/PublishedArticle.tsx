@@ -5,6 +5,7 @@ import ReactMarkdown from "react-markdown";
 import rehypeRaw from "rehype-raw";
 import { contentHref, relatedContent, sectionForContentType, type InlineMediaReference, type PublishedContent } from "@/lib/content";
 import { copy, type Locale } from "@/lib/site-data";
+import { ShareButton } from "@/components/ShareButton";
 import { organizationId, organizationStructuredData, siteUrl, websiteId } from "@/lib/structured-data";
 import { roleByRoute } from "@/lib/taxonomy";
 import { sourceDisplayMeta, sourceDisplayTitle, uniqueSourcesByUrl } from "@/lib/source-display.mjs";
@@ -239,6 +240,7 @@ export function PublishedArticle({ locale, section, content }: { locale: Locale;
           <p>{metadata.summary}</p>
           {isAnalysis && <p className="article-byline">{metadata.author} · {metadata.last_reviewed}</p>}
           {isProfile && <p className="article-byline">{locale === "ru" ? "Биографический профиль" : "Biographical profile"} · {metadata.last_reviewed}</p>}
+          <ShareButton locale={locale} summary={metadata.summary} title={metadata.title} />
         </div>
       </header>
 
